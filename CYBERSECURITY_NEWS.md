@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-12 11:08:01 UTC
+**Last Updated:** 2025-12-12 12:48:35 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -103,7 +103,24 @@
 
 ---
 
-#### 2. [MITRE shares 2025's top 25 most dangerous software weaknesses](https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/)
+#### 2. [New Windows RasMan zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Fri, 12 Dec 2025 06:28:06 -0500  
+**🔖 CVEs:** CVE-2025-59230  
+
+**📝 Summary:** Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service
+- **🔎 Cause:** Unprivileged users can exploit the zero-day to crash the RasMan service due to a coding error in how it processes circular linked lists
+- **✅ Solution:** Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service
+
+---
+
+#### 3. [MITRE shares 2025's top 25 most dangerous software weaknesses](https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -118,7 +135,7 @@
 
 ---
 
-#### 3. [Microsoft bounty program now includes any flaw impacting its services](https://www.bleepingcomputer.com/news/microsoft/microsoft-bounty-program-now-includes-any-flaw-impacting-its-services/)
+#### 4. [Microsoft bounty program now includes any flaw impacting its services](https://www.bleepingcomputer.com/news/microsoft/microsoft-bounty-program-now-includes-any-flaw-impacting-its-services/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -134,12 +151,12 @@
 
 ---
 
-#### 4. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+#### 5. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62472, CVE-2025-59516, CVE-2025-62562, CVE-2025-62470, CVE-2025-62458, CVE-2025-62221, CVE-2025-62554, CVE-2025-62557, CVE-2025-59517  
+**🔖 CVEs:** CVE-2025-62458, CVE-2025-62472, CVE-2025-62557, CVE-2025-62554, CVE-2025-62470, CVE-2025-59516, CVE-2025-59517, CVE-2025-62562, CVE-2025-62221  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -147,23 +164,6 @@
 
 - **⚠️ Issue:** The zero-day flaw patched today is CVE-2025-62221, a privilege escalation vulnerability affecting Windows 10 and later editions
 - **✅ Solution:** This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities
-
----
-
-#### 5. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Krebs On Security  
-**📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62215, CVE-2025-60274, CVE-2025-62199  
-
-**📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** “However, exploiting this specific vulnerability is likely to be relatively straightforward, given the existence of prior similar vulnerabilities
-- **🔎 Cause:** Despite the flaw’s zero-day status, Microsoft has assigned it an “important” rating rather than critical, because exploiting it requires an attacker to already have access to the target’s device
-- **✅ Solution:** “The patch for this should be an organization’s highest priority,” McCarthy said
 
 ---
 
@@ -428,17 +428,16 @@
 
 ---
 
-#### 5. [New ConsentFix attack hijacks Microsoft accounts via Azure CLI](https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/)
+#### 5. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
 
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Thu, 11 Dec 2025 10:10:49 -0500  
+**📡 Source:** Krebs On Security  
+**📅 Published:** Mon, 24 Nov 2025 18:44:52 +0000  
 
-**📝 Summary:** A new variation of the ClickFix attack dubbed 'ConsentFix' abuses the Azure CLI OAuth app to hijack Microsoft accounts without the need for a password or to bypass multi-factor authentication (MFA)...
+**📝 Summary:** On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming ...
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** A new variation of the ClickFix attack dubbed 'ConsentFix' abuses the Azure CLI OAuth app to hijack Microsoft accounts without the need for a password or to bypass multi-factor authentication (MFA) verifications
-- **✅ Solution:** A new variation of the ClickFix attack dubbed 'ConsentFix' abuses the Azure CLI OAuth app to hijack Microsoft accounts without the need for a password or to bypass multi-factor authentication (MFA) verifications
+- **⚠️ Issue:** Is Your Android TV Streaming Box Part of a Botnet?
 
 ---
 
@@ -493,21 +492,7 @@
 
 ---
 
-#### 4. [New ConsentFix attack hijacks Microsoft accounts via Azure CLI](https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/)
-
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Thu, 11 Dec 2025 10:10:49 -0500  
-
-**📝 Summary:** A new variation of the ClickFix attack dubbed 'ConsentFix' abuses the Azure CLI OAuth app to hijack Microsoft accounts without the need for a password or to bypass multi-factor authentication (MFA)...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** A new variation of the ClickFix attack dubbed 'ConsentFix' abuses the Azure CLI OAuth app to hijack Microsoft accounts without the need for a password or to bypass multi-factor authentication (MFA) verifications
-- **✅ Solution:** A new variation of the ClickFix attack dubbed 'ConsentFix' abuses the Azure CLI OAuth app to hijack Microsoft accounts without the need for a password or to bypass multi-factor authentication (MFA) verifications
-
----
-
-#### 5. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
+#### 4. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
@@ -517,6 +502,19 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** Adversaries are using GenAI for coding, phishing, evasion, and vulnerability discovery, especially as uncensored models become more widely available
+
+---
+
+#### 5. [Sophos achieves its best-ever results in the MITRE ATT&CK Enterprise 2025 Evaluation](https://news.sophos.com/en-us/2025/12/10/sophos-achieves-its-best-ever-results-in-the-mitre-attck-enterprise-2025-evaluation/)
+
+**📡 Source:** Sophos News  
+**📅 Published:** Wed, 10 Dec 2025 15:03:30 +0000  
+
+**📝 Summary:** A major milestone: Sophos XDR delivers 100% detection coverage in the latest ATT&#38;CK Evaluation.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** They emulate the tactics, techniques, and procedures (TTPs) used by real-world adversaries to assess each participating vendor’s ability to detect, analyze, and articulate threats in alignment with the MITRE ATT&CK® Framework
 
 ---
 
@@ -622,7 +620,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62215, CVE-2025-60274, CVE-2025-62199  
+**🔖 CVEs:** CVE-2025-62199, CVE-2025-62215, CVE-2025-60274  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -639,7 +637,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
 **📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
+**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
 
 **📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
 
@@ -746,20 +744,20 @@
 
 ---
 
-#### 5. [CISA orders feds to patch actively exploited Geoserver flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-geoserver-flaw/)
+#### 5. [New Windows RasMan zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
-**📅 Published:** Fri, 12 Dec 2025 04:48:31 -0500  
-**🔖 CVEs:** CVE-2025-58360  
+**📅 Published:** Fri, 12 Dec 2025 06:28:06 -0500  
+**🔖 CVEs:** CVE-2025-59230  
 
-**📝 Summary:** federal agencies to patch a critical GeoServer vulnerability now actively exploited in XML External Entity (XXE) injection attacks.
+**📝 Summary:** Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** federal agencies to patch a critical GeoServer vulnerability now actively exploited in XML External Entity (XXE) injection attacks
-- **🔎 Cause:** The security flaw (tracked as CVE-2025-58360) flagged by CISA on Thursday is an unauthenticated XML External Entity (XXE) vulnerability in GeoServer 2
-- **✅ Solution:** federal agencies to patch a critical GeoServer vulnerability now actively exploited in XML External Entity (XXE) injection attacks
+- **⚠️ Issue:** Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service
+- **🔎 Cause:** Unprivileged users can exploit the zero-day to crash the RasMan service due to a coding error in how it processes circular linked lists
+- **✅ Solution:** Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service
 
 ---
 

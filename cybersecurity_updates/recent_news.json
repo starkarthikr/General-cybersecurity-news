@@ -344,6 +344,31 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "New Windows RasMan zero-day flaw gets free, unofficial patches",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/",
+    "published": "Fri, 12 Dec 2025 06:28:06 -0500",
+    "summary": "Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service. [...]",
+    "ai_summary": "Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service.",
+    "authors": [
+      "Sergiu Gatlan"
+    ],
+    "analysis": {
+      "issue": "Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service",
+      "solution": "Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service",
+      "cause": "Unprivileged users can exploit the zero-day to crash the RasMan service due to a coding error in how it processes circular linked lists",
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-59230"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Cloud Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "CISA orders feds to patch actively exploited Geoserver flaw",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-geoserver-flaw/",
     "published": "Fri, 12 Dec 2025 04:48:31 -0500",
@@ -560,21 +585,7 @@
     "ai_summary": "A new variation of the ClickFix attack dubbed 'ConsentFix' abuses the Azure CLI OAuth app to hijack Microsoft accounts without the need for a password or to bypass multi-factor authentication (MFA)...",
     "authors": [
       "Bill Toulas"
-    ],
-    "analysis": {
-      "issue": "A new variation of the ClickFix attack dubbed 'ConsentFix' abuses the Azure CLI OAuth app to hijack Microsoft accounts without the need for a password or to bypass multi-factor authentication (MFA) verifications",
-      "solution": "A new variation of the ClickFix attack dubbed 'ConsentFix' abuses the Azure CLI OAuth app to hijack Microsoft accounts without the need for a password or to bypass multi-factor authentication (MFA) verifications",
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "APT/Nation-State",
-        "Cloud Security"
-      ]
-    }
+    ]
   },
   {
     "source": "Bleeping Computer",
@@ -585,20 +596,7 @@
     "ai_summary": "AI-driven attacks now automate reconnaissance, generate malware variants, and evade detection at a speed that overwhelms traditional defenses.",
     "authors": [
       "Sponsored by Corelight"
-    ],
-    "analysis": {
-      "issue": "Offensive AI is beginning to thrive: Google’s Threat Intelligence group has tracked new and maturing AI-fueled attack methods including AI tools that can bypass safety guardrails, generate malicious scripts, and automatically evade detection",
-      "solution": "These attacks are just the beginning of how AI can be used to bypass traditional security protections",
-      "cause": null,
-      "timeline": "loud Security Alliance report from June 2025 lists more than 70 different ways that autonomous AI-based agents can be used t",
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Malware",
-        "Cloud Security"
-      ]
-    }
+    ]
   },
   {
     "source": "Bleeping Computer",
@@ -607,17 +605,6 @@
     "published": "Thu, 11 Dec 2025 08:19:50 -0500",
     "summary": "An unpatched zero-day vulnerability in Gogs, a popular self-hosted Git service, has enabled attackers to gain remote code execution on Internet-facing instances and compromise hundreds of servers. [...]",
     "ai_summary": "An unpatched zero-day vulnerability in Gogs, a popular self-hosted Git service, has enabled attackers to gain remote code execution on Internet-facing instances and compromise hundreds of servers.",
-    "authors": [
-      "Sergiu Gatlan"
-    ]
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes Windows Explorer white flashes in dark mode",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-explorer-white-flashes-in-dark-mode/",
-    "published": "Thu, 11 Dec 2025 05:09:52 -0500",
-    "summary": "Microsoft has fixed a known issue that caused bright white flashes when launching File Explorer in dark mode on Windows 11 systems after installing the KB5070311 optional update. [...]",
-    "ai_summary": "Microsoft has fixed a known issue that caused bright white flashes when launching File Explorer in dark mode on Windows 11 systems after installing the KB5070311 optional update.",
     "authors": [
       "Sergiu Gatlan"
     ]
@@ -639,15 +626,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62472",
-        "CVE-2025-59516",
-        "CVE-2025-62562",
-        "CVE-2025-62470",
         "CVE-2025-62458",
-        "CVE-2025-62221",
-        "CVE-2025-62554",
+        "CVE-2025-62472",
         "CVE-2025-62557",
-        "CVE-2025-59517"
+        "CVE-2025-62554",
+        "CVE-2025-62470",
+        "CVE-2025-59516",
+        "CVE-2025-59517",
+        "CVE-2025-62562",
+        "CVE-2025-62221"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -807,9 +794,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-62199",
         "CVE-2025-62215",
-        "CVE-2025-60274",
-        "CVE-2025-62199"
+        "CVE-2025-60274"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -862,6 +849,39 @@
         "General Security"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Recent GeoServer Vulnerability Exploited in Attacks",
+    "link": "https://www.securityweek.com/recent-geoserver-vulnerability-exploited-in-attacks/",
+    "published": "Fri, 12 Dec 2025 12:13:10 +0000",
+    "summary": "<p>Because user input is not sufficiently sanitized, attackers could exploit the flaw to define external entities within an XML request.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-geoserver-vulnerability-exploited-in-attacks/\">Recent GeoServer Vulnerability Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "ai_summary": "Because user input is not sufficiently sanitized, attackers could exploit the flaw to define external entities within an XML request.",
+    "authors": [
+      "Ionut Arghire"
+    ]
+  },
+  {
+    "source": "Security Week",
+    "title": "MITRE Releases 2025 List of Top 25 Most Dangerous Software Vulnerabilities",
+    "link": "https://www.securityweek.com/mitre-releases-2025-list-of-top-25-most-dangerous-software-vulnerabilities/",
+    "published": "Fri, 12 Dec 2025 12:00:01 +0000",
+    "summary": "<p>XSS remains the top software weakness, followed by SQL injection and CSRF. Buffer overflow issues and improper access control make it to top 25.</p>\n<p>The post <a href=\"https://www.securityweek.com/mitre-releases-2025-list-of-top-25-most-dangerous-software-vulnerabilities/\">MITRE Releases 2025 List of Top 25 Most Dangerous Software Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "ai_summary": "XSS remains the top software weakness, followed by SQL injection and CSRF.",
+    "authors": [
+      "Ionut Arghire"
+    ]
+  },
+  {
+    "source": "Security Week",
+    "title": "Microsoft Bug Bounty Program Expanded to Third-Party Code",
+    "link": "https://www.securityweek.com/microsoft-bug-bounty-program-expanded-to-third-party-code/",
+    "published": "Fri, 12 Dec 2025 11:01:04 +0000",
+    "summary": "<p>All critical vulnerabilities in Microsoft, third-party, and open source code are eligible for rewards if they impact Microsoft services.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-bug-bounty-program-expanded-to-third-party-code/\">Microsoft Bug Bounty Program Expanded to Third-Party Code</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "ai_summary": "All critical vulnerabilities in Microsoft, third-party, and open source code are eligible for rewards if they impact Microsoft services.",
+    "authors": [
+      "Ionut Arghire"
+    ]
   },
   {
     "source": "Security Week",
@@ -941,39 +961,6 @@
     ]
   },
   {
-    "source": "Security Week",
-    "title": "Wide Range of Malware Delivered in React2Shell Attacks",
-    "link": "https://www.securityweek.com/wide-range-of-malware-delivered-in-react2shell-attacks/",
-    "published": "Thu, 11 Dec 2025 12:12:17 +0000",
-    "summary": "<p>Security firms have seen cryptocurrency miners, Linux backdoors, botnet malware, and various post-exploitation implants in React2Shell attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/wide-range-of-malware-delivered-in-react2shell-attacks/\">Wide Range of Malware Delivered in React2Shell Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "ai_summary": "Security firms have seen cryptocurrency miners, Linux backdoors, botnet malware, and various post-exploitation implants in React2Shell attacks.",
-    "authors": [
-      "Eduard Kovacs"
-    ]
-  },
-  {
-    "source": "Security Week",
-    "title": "Unpatched Gogs Zero-Day Exploited for Months",
-    "link": "https://www.securityweek.com/unpatched-gogs-zero-day-exploited-for-months/",
-    "published": "Thu, 11 Dec 2025 12:01:28 +0000",
-    "summary": "<p>The exploited flaw allows attackers to overwrite files outside the repository, leading to remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/unpatched-gogs-zero-day-exploited-for-months/\">Unpatched Gogs Zero-Day Exploited for Months</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "ai_summary": "The exploited flaw allows attackers to overwrite files outside the repository, leading to remote code execution.",
-    "authors": [
-      "Ionut Arghire"
-    ]
-  },
-  {
-    "source": "Security Week",
-    "title": "IBM Patches Over 100 Vulnerabilities",
-    "link": "https://www.securityweek.com/ibm-patches-over-100-vulnerabilities/",
-    "published": "Thu, 11 Dec 2025 10:23:28 +0000",
-    "summary": "<p>Most of the 100 vulnerabilities resolved this week, including critical flaws, were in third-party dependencies.</p>\n<p>The post <a href=\"https://www.securityweek.com/ibm-patches-over-100-vulnerabilities/\">IBM Patches Over 100 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "ai_summary": "Most of the 100 vulnerabilities resolved this week, including critical flaws, were in third-party dependencies.",
-    "authors": [
-      "Ionut Arghire"
-    ]
-  },
-  {
     "source": "Talos Blog",
     "title": "One newsletter to rule them all",
     "link": "https://blog.talosintelligence.com/one-newsletter-to-rule-them-all/",
@@ -1012,12 +999,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62549",
+        "CVE-2025-62553",
+        "CVE-2025-62556",
         "CVE-2025-62557",
         "CVE-2025-62554",
-        "CVE-2025-62556",
         "CVE-2025-62456",
-        "CVE-2025-62553"
+        "CVE-2025-62549"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1302,8 +1289,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62215",
-        "CVE-2025-60724"
+        "CVE-2025-60724",
+        "CVE-2025-62215"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1828,8 +1815,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -2809,6 +2796,26 @@
   },
   {
     "source": "Cloud Security",
+    "title": "The Ghost in the Machine is a Compulsive Liar",
+    "link": "https://cloudsecurityalliance.org/articles/the-ghost-in-the-machine-is-a-compulsive-liar",
+    "published": "Mon, 24 Nov 2025 09:34:15 -0800",
+    "summary": "We built AI in our own image, but we forgot the blueprint – and now we’re shocked when it lies to us? The fix isn’t in the code, but our philosophy of perception.\n\nForget technical manuals - the best explanation of AI risk I ever heard came from the neuroscientist Andrew Gallimore talking about DMT on a Joe Rogan podcast. As my wife and I made the long drive to see family, Gallimore explained that when you dream, your brain builds the entire world, from scratch, from memory.\n\nIt’s almos...",
+    "ai_summary": "We built AI in our own image, but we forgot the blueprint – and now we’re shocked when it lies to us.",
+    "authors": [],
+    "analysis": {
+      "issue": "The Ghost in the Machine is a Compulsive Liar",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Cloud Security",
     "title": "The Internet is a Single Point of Failure",
     "link": "https://cloudsecurityalliance.org/articles/the-internet-is-a-single-point-of-failure",
     "published": "Thu, 20 Nov 2025 15:20:11 -0800",
@@ -2893,26 +2900,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Cloud Security",
-    "title": "Microsoft Entra ID Vulnerability: The Discovery That Shook Identity Security",
-    "link": "https://cloudsecurityalliance.org/articles/microsoft-entra-id-vulnerability-the-discovery-that-shook-identity-security",
-    "published": "Tue, 18 Nov 2025 14:53:03 -0800",
-    "summary": "In July 2025, the cybersecurity world was rocked by security researcher Dirk-jan Mollema’s unveiling of a catastrophic vulnerability within Microsoft Entra ID. This was no ordinary flaw; it was a fundamental breach that shattered tenant isolation and obliterated the core trust boundaries essential for robust cloud identity security. The discovery exposed a critical weakness at the heart of Microsoft’s identity platform.\n\n\n\t\n\t\t\n\t\t\t\n\t\t\tCVE ID&nbsp; \n\t\t\t\n\t\t\t\n\t\t\tCVE-2025-55241\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t...",
-    "ai_summary": "In July 2025, the cybersecurity world was rocked by security researcher Dirk-jan Mollema’s unveiling of a catastrophic vulnerability within Microsoft Entra ID.",
-    "authors": [],
-    "analysis": {
-      "issue": "An in-depth examination of the Microsoft Entra ID vulnerability exposing tenant isolation weaknesses, MFA gaps, and misconfigurations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   }
