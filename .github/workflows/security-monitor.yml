@@ -1,0 +1,87 @@
+name: Cybersecurity News Monitor
+
+on:
+  workflow_dispatch:
+    inputs:
+      prompt:
+        description: 'Custom security analysis query'
+        required: false
+        default: 'Generate a comprehensive daily cybersecurity threat report covering critical vulnerabilities, active threats, security advisories, and recommended actions for December 13, 2025'
+      model:
+        description: 'AI Model (all 100% FREE)'
+        required: false
+        default: 'meta-llama/llama-3.2-3b-instruct:free'
+        type: choice
+        options:
+          - meta-llama/llama-3.2-3b-instruct:free
+          - google/gemma-2-9b-it:free
+          - qwen/qwen-2.5-7b-instruct:free
+          - mistralai/mistral-7b-instruct:free
+          - microsoft/phi-3-mini-128k-instruct:free
+  schedule:
+    - cron: "30 18 * * *"  # Runs daily at 12:00 AM IST (18:30 UTC)
+
+jobs:
+  security-monitor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run security analysis
+        env:
+          API_KEY: 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
+          CUSTOM_PROMPT: ${{ github.event.inputs.prompt }}
+          CUSTOM_MODEL: ${{ github.event.inputs.model || 'meta-llama/llama-3.2-3b-instruct:free' }}
+          GITHUB_ACTIONS: true
+        run: |
+          echo "🔒 Cybersecurity News Monitor - AI-Powered Threat Intelligence"
+          echo "🤖 AI Model: ${CUSTOM_MODEL}"
+          echo "🔄 Auto-Fallback: Enabled (5 models available)"
+          echo "🔍 Query: ${CUSTOM_PROMPT}"
+          echo ""
+          python main.py
+
+      - name: Commit and push security reports
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git pull --rebase origin main || true
+          
+          git add reports/
+          if git diff --staged --quiet; then
+            echo "⚠️ No new security reports generated"
+            exit 0
+          else
+            git commit -m "🔒 Security Intelligence Report - $(date +'%Y-%m-%d %H:%M:%S UTC')"
+            
+            for i in {1..3}; do
+              if git push; then
+                echo "✅ Security reports published successfully!"
+                exit 0
+              else
+                echo "⚠️ Push attempt $i failed, retrying..."
+                git pull --rebase origin main
+                sleep 2
+              fi
+            done
+            
+            echo "❌ Failed to push after 3 attempts"
+            exit 1
+          fi

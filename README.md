@@ -1,304 +1,203 @@
-# 🔒 Cybersecurity News Monitor
+# Cybersecurity News Monitor 🔒
 
-[![Cybersecurity News Monitor](https://github.com/starkarthikr/cybersecurity-news-monitor/actions/workflows/cybersec-monitor.yml/badge.svg)](https://github.com/starkarthikr/cybersecurity-news-monitor/actions/workflows/cybersec-monitor.yml)
-
-Automated cybersecurity news aggregation from **15+ trusted sources** with AI-powered threat intelligence analysis - **No API credentials required!**
+Automated cybersecurity threat intelligence and news monitoring powered by AI. Daily security reports, vulnerability analysis, and threat assessments using **100% FREE** OpenRouter AI models.
 
 ## 🚀 Features
 
-### 💡 Intelligence-Driven Analysis
-- **⚠️ Issue Detection**: Automatically identifies security threats and vulnerabilities
-- **🔎 Root Cause Analysis**: Extracts how and why attacks occurred
-- **✅ Solution Tracking**: Captures patches, mitigations, and recommendations
-- **⏰ Timeline Intelligence**: When threats were discovered and disclosed
-- **🔴 Severity Assessment**: Critical/High/Medium/Low threat classification
-- **🔖 CVE Tracking**: Automatic extraction of CVE identifiers
-- **🎯 Threat Categorization**: Ransomware, APT, Data Breach, Malware, etc.
-
-### 📊 Automation & Monitoring
-- **⏰ Every 4 Hours**: Faster updates for breaking security news
-- **📡 15+ Premium Sources**: The Hacker News, Bleeping Computer, Krebs, CISA, and more
-- **📝 Smart Summaries**: AI-generated one-sentence summaries
-- **💾 JSON Archives**: Structured threat intelligence data
-- **🔔 Zero Configuration**: Uses public RSS feeds only
-
-## 📡 News Sources
-
-### Major Cybersecurity News
-1. **The Hacker News** - Breaking cybersecurity news (#1 trusted source)
-2. **Bleeping Computer** - Malware, vulnerabilities, security guides
-3. **Krebs on Security** - Investigative cybercrime journalism
-4. **Dark Reading** - Enterprise security analysis
-5. **SecurityWeek** - Comprehensive security coverage
-
-### Threat Intelligence
-6. **Cisco Talos Blog** - Advanced threat research
-7. **Recorded Future** - Predictive threat intelligence
-8. **ThreatPost** - Breaking threat news
-
-### Vendor Security Blogs
-9. **Sophos News** - Security research and updates
-10. **Malwarebytes Blog** - Malware analysis
-11. **CrowdStrike Blog** - Threat hunting insights
-
-### Government & CERT
-12. **CISA Alerts** - Official US cybersecurity advisories
-13. **US-CERT** - Current security activities
-
-### Specialized Sources
-14. **Cloud Security Alliance** - Cloud security best practices
-15. **SANS Reading Room** - Security research papers
-
-## 📋 Output Format
-
-### Sample Threat Report
-
-```markdown
-#### 1. [Critical Zero-Day in VMware vCenter Actively Exploited](link)
-
-🔴 **CRITICAL**  
-**📡 Source:** The Hacker News  
-**📅 Published:** Dec 12, 2025  
-**🔖 CVEs:** CVE-2025-12345  
-
-**📝 Summary:** VMware releases emergency patch for actively exploited zero-day vulnerability in vCenter Server.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Remote code execution vulnerability in VMware vCenter Server allows unauthenticated attackers to gain root privileges
-- **🔎 Cause:** Vulnerability stems from improper input validation in the DCERPC protocol implementation
-- **✅ Solution:** VMware urges immediate patching to version 8.0 U3b or applying workaround by disabling external access
-- **⏰ Timeline:** Discovered being actively exploited since December 8, 2025 by suspected APT groups
-```
+- **Daily Threat Reports** - Automated cybersecurity news summaries
+- **Vulnerability Analysis** - CVE tracking and mitigation strategies
+- **Threat Intelligence** - APT groups, malware, and attack patterns
+- **Zero-Day Monitoring** - Latest exploit discoveries and patches
+- **Security Advisories** - Critical alerts and recommendations
+- **100% FREE AI Models** - No API costs, unlimited generation
+- **Automatic Scheduling** - Daily reports at midnight IST
+- **Smart Retry Logic** - Auto-fallback across 5 AI models
 
 ## 📁 Repository Structure
 
 ```
 cybersecurity-news-monitor/
-├── .github/
-│   └── workflows/
-│       └── cybersec-monitor.yml       # GitHub Actions workflow
-├── scripts/
-│   └── parse_cybersec_feeds.py        # Threat intelligence parser
-├── cybersecurity_updates/             # Auto-generated
-│   ├── all_news.json                  # Complete archive
-│   └── recent_news.json               # Last 3 days
-├── CYBERSECURITY_NEWS.md              # Human-readable report
-├── requirements.txt
-└── README.md
+├── main.py                          # AI-powered security analysis engine
+├── .github/workflows/
+│   └── security-monitor.yml         # Automated workflow
+├── reports/                         # Generated security reports
+│   ├── INDEX.md                     # Chronological report index
+│   └── YYYY-MM-DD_HH-MM-SS-security-report.md
+└── README.md                        # This file
 ```
 
-## 🔧 Setup Instructions
+## 🔧 Quick Start
 
-### 1. Enable GitHub Actions
+### Run Locally
 
-Go to **Settings** → **Actions** → **General**:
-- Enable "Read and write permissions"
-- Save changes
+```bash
+# Clone the repository
+git clone https://github.com/starkarthikr/cybersecurity-news-monitor
+cd cybersecurity-news-monitor
 
-### 2. Run First Collection
+# Install dependencies
+pip install requests
 
-Go to **Actions** tab:
-- Select "Cybersecurity News Monitor"
-- Click "Run workflow"
-- Wait 2-3 minutes
-
-### 3. View Results
-
-Check `CYBERSECURITY_NEWS.md` for:
-- 🚨 Breaking security news (last 3 days)
-- 🔴 Critical/High severity threats
-- 🔖 CVE tracking
-- 📊 Structured threat intelligence
-
-## 🎯 Threat Categories
-
-Automatically categorizes threats into:
-
-- **Ransomware** - LockBit, BlackCat, encryption attacks
-- **Data Breach** - Leaked databases, stolen credentials
-- **Vulnerability** - CVEs, zero-days, exploits
-- **Malware** - Trojans, backdoors, rootkits
-- **Phishing** - Social engineering, credential theft
-- **APT/Nation-State** - Advanced persistent threats
-- **DDoS** - Denial of service attacks
-- **Supply Chain** - Third-party compromises
-- **Cloud Security** - AWS, Azure, GCP incidents
-- **IoT/OT** - Industrial and IoT security
-
-## 📊 Severity Levels
-
-### 🔴 Critical
-- Actively exploited zero-days
-- Widespread data breaches
-- Nation-state campaigns
-- Critical infrastructure attacks
-
-### 🟠 High
-- Major vulnerabilities with patches
-- Significant breaches
-- Urgent security updates
-
-### 🟡 Medium
-- Notable security issues
-- Moderate impact threats
-
-### ⚪ Low
-- Minor vulnerabilities
-- Informational updates
-
-## ⚙️ Customization
-
-### Change Update Frequency
-
-Edit `.github/workflows/cybersec-monitor.yml`:
-
-```yaml
-schedule:
-  - cron: '0 */2 * * *'   # Every 2 hours (breaking news)
-  - cron: '0 */6 * * *'   # Every 6 hours (standard)
-  - cron: '0 8,20 * * *'  # Twice daily at 8 AM & 8 PM UTC
+# Run security analysis
+python main.py
 ```
 
-### Modify Lookback Period
+### Run via GitHub Actions
 
-Edit `scripts/parse_cybersec_feeds.py`:
+1. Go to **Actions** tab
+2. Select **"Cybersecurity News Monitor"**
+3. Click **"Run workflow"**
+4. Choose your query type:
+   - Daily threat report
+   - Vulnerability analysis
+   - Ransomware trends
+   - Custom security query
+5. Click **"Run workflow"**
+
+## 📊 Example Queries
+
+### Daily Threat Report
+```
+Generate a comprehensive daily cybersecurity threat report for [date] covering critical vulnerabilities, active threats, security advisories, and recommended actions
+```
+
+### Vulnerability Analysis
+```
+Analyze the top 10 critical CVEs from this week with CVSS scores, affected systems, exploit availability, and detailed mitigation steps
+```
+
+### Ransomware Intelligence
+```
+Provide a detailed analysis of recent ransomware campaigns including attack vectors, encryption methods, ransom demands, and recovery strategies
+```
+
+### Zero-Day Tracking
+```
+Summarize all zero-day vulnerabilities disclosed this month with CVE IDs, affected vendors, proof-of-concept availability, and patches
+```
+
+### APT Group Analysis
+```
+Generate threat intelligence on emerging APT groups, their TTPs, target sectors, malware families, and attribution indicators
+```
+
+### Phishing Campaign Report
+```
+Analyze current phishing trends, impersonated brands, delivery methods, malicious payloads, and detection rules
+```
+
+## 🤖 Available AI Models
+
+All models are **100% FREE** on OpenRouter:
+
+| Model | Best For | Speed | Quality |
+|-------|----------|-------|----------|
+| **Llama 3.2 3B** | Daily summaries | ⚡⚡⚡ Fast | ⭐⭐⭐ Good |
+| **Gemma 2 9B** | Threat analysis | ⚡⚡ Medium | ⭐⭐⭐⭐ Great |
+| **Qwen 2.5 7B** | Technical details | ⚡⚡ Medium | ⭐⭐⭐⭐ Great |
+| **Mistral 7B** | Vulnerability reports | ⚡⚡ Medium | ⭐⭐⭐⭐ Great |
+| **Phi-3 Mini** | Long reports | ⚡ Slower | ⭐⭐⭐ Good |
+
+## 🔒 Security Report Format
+
+Each generated report includes:
+
+- **Timestamp** - Date and time of analysis
+- **AI Model Used** - Which model generated the analysis
+- **Query** - Original security question
+- **Analysis** - Detailed threat intelligence
+- **Metadata** - Source attribution
+
+## ⏰ Automated Scheduling
+
+- **Daily Reports:** Runs automatically at **12:00 AM IST** (18:30 UTC)
+- **Manual Trigger:** Run anytime via GitHub Actions
+- **Smart Retry:** Automatically tries 5 models if one is rate-limited
+- **Auto-Commit:** Reports automatically saved to repository
+
+## 📊 View Reports
+
+### Browse on GitHub
+1. Navigate to [`reports/`](./reports) folder
+2. Check [`reports/INDEX.md`](./reports/INDEX.md) for chronological list
+3. Click any report to view full analysis
+
+### Clone and Read Locally
+```bash
+git pull origin main
+cd reports
+ls -lt  # View newest reports first
+cat 2025-12-13_00-00-00-security-report.md
+```
+
+## 🛡️ Use Cases
+
+- **SOC Teams** - Daily threat intelligence briefings
+- **Security Researchers** - Vulnerability tracking and analysis
+- **IT Administrators** - Patch management and mitigation strategies
+- **Pen Testers** - Latest exploit techniques and tools
+- **CISO/Leadership** - Executive security summaries
+- **Incident Response** - Threat actor TTP documentation
+
+## 🚀 Advanced Usage
+
+### Custom Security Queries
 
 ```python
-# Change from 3 days to desired period
-if is_recent(entry.published_parsed, days=7):  # Last 7 days
+# Example: Track specific threat actor
+prompt = "Analyze Lazarus Group's latest campaigns in 2025, including malware variants, C2 infrastructure, and blockchain-related attacks"
+
+# Example: Industry-specific threats
+prompt = "Generate a security report for healthcare sector covering HIPAA compliance risks, ransomware targeting hospitals, and medical device vulnerabilities"
+
+# Example: Technical deep-dive
+prompt = "Provide detailed analysis of Log4Shell exploitation techniques, vulnerable versions, detection methods, and complete remediation steps"
 ```
 
-### Add Custom RSS Feeds
+### Integration Ideas
 
-Edit `FEEDS` dictionary in `scripts/parse_cybersec_feeds.py`:
+- **Slack/Discord Bot** - Auto-post daily reports
+- **Email Digest** - Send reports via email
+- **RSS Feed** - Subscribe to security updates
+- **SIEM Integration** - Feed threat intel to SIEM
+- **Threat Intel Platform** - Export to MISP, ThreatConnect
 
-```python
-FEEDS = {
-    'your_source': 'https://example.com/feed.xml',
-    # Add more feeds
-}
-```
+## ⚠️ Disclaimer
 
-## 🔔 Notifications (Optional)
+This tool provides AI-generated threat intelligence summaries. Always:
 
-### Slack Webhook
+- **Verify information** from official sources (CISA, CVE, vendor advisories)
+- **Cross-reference** multiple threat intelligence sources
+- **Test mitigations** in controlled environments first
+- **Follow** your organization's security policies
+- **Consult** cybersecurity professionals for critical decisions
 
-Add to workflow:
+AI-generated content may contain inaccuracies or outdated information.
 
-```yaml
-- name: Send Slack Alert
-  uses: 8398a7/action-slack@v3
-  with:
-    status: ${{ job.status }}
-    text: 'New critical security threats detected!'
-    webhook_url: ${{ secrets.SLACK_WEBHOOK }}
-  if: contains(github.event.head_commit.message, 'CRITICAL')
-```
+## 🔗 Resources
 
-### Email Alerts
-
-For critical threats only:
-
-```yaml
-- name: Email Critical Alerts
-  uses: dawidd6/action-send-mail@v3
-  with:
-    server_address: smtp.gmail.com
-    server_port: 465
-    username: ${{ secrets.EMAIL_USERNAME }}
-    password: ${{ secrets.EMAIL_PASSWORD }}
-    subject: '🚨 Critical Security Alert'
-    body: file://CYBERSECURITY_NEWS.md
-    to: security-team@example.com
-```
-
-## 🛠️ Technical Details
-
-### Intelligence Extraction
-
-**Issue Detection**
-- Scans for: vulnerability, breach, exploit, malware, ransomware, zero-day
-- Extracts relevant context sentences
-
-**CVE Tracking**
-- Regex pattern: `CVE-\d{4}-\d{4,7}`
-- Auto-links to NVD database
-
-**Severity Assessment**
-- Critical: actively exploited, zero-day, widespread
-- High: major breach, significant impact
-- Medium/Low: based on impact keywords
-
-**Threat Categorization**
-- 10+ threat categories
-- Multi-label classification
-- Keyword-based extraction
-
-### Dependencies
-
-- **feedparser**: RSS/Atom parsing
-- **requests**: HTTP requests
-- **beautifulsoup4**: HTML parsing
-- **python-dateutil**: Date handling
-
-## 📈 Use Cases
-
-### Security Operations Center (SOC)
-- Real-time threat monitoring
-- Incident response triggers
-- Vulnerability management
-
-### Threat Intelligence Teams
-- Emerging threat tracking
-- APT campaign monitoring
-- IOC collection
-
-### IT Security Professionals
-- Patch management alerts
-- Security awareness
-- Compliance monitoring
-
-### Security Researchers
-- Threat landscape analysis
-- Attack trend identification
-- Vulnerability research
-
-## 📊 Example Intelligence
-
-### Recent Output Stats
-- **Sources Monitored**: 15 premium feeds
-- **Update Frequency**: Every 4 hours
-- **Avg. Articles/Day**: 50-80
-- **Threat Categories**: 10+
-- **CVE Tracking**: Automatic
-- **Analysis Depth**: 4-point (Issue/Cause/Solution/Timeline)
+- [OpenRouter AI](https://openrouter.ai) - Free AI API provider
+- [NIST NVD](https://nvd.nist.gov/) - Vulnerability database
+- [CISA Alerts](https://www.cisa.gov/news-events/cybersecurity-advisories) - Government advisories
+- [MITRE ATT&CK](https://attack.mitre.org/) - Threat actor TTPs
+- [CVE Details](https://www.cvedetails.com/) - Vulnerability information
 
 ## 🤝 Contributing
 
-Contributions welcome!
+Contributions welcome! Ideas:
 
-- Add new RSS feeds
-- Improve threat categorization
-- Enhance severity detection
-- Better timeline extraction
-- Add notification integrations
+- Add more security query templates
+- Integrate with threat intelligence APIs
+- Create visualization dashboards
+- Add export formats (PDF, JSON, CSV)
+- Implement sentiment analysis on threats
 
 ## 📜 License
 
 MIT License - Free to use and modify
 
-## ⚠️ Disclaimer
-
-This is an automated news aggregator. Always verify critical security information from official sources. Not affiliated with any news organizations mentioned.
-
-## 🔗 Related Projects
-
-- [CrowdStrike Monitor](https://github.com/starkarthikr/crowdstrike-monitor) - CrowdStrike-specific news tracking
-- Your other security automation tools
-
 ---
 
-**🔒 Built for Security Professionals, by Security Enthusiasts**
+**🔒 Stay Secure. Stay Informed. Stay Automated.**
 
-*Last Updated: December 2025*
+*Powered by [OpenRouter AI](https://openrouter.ai) - 100% FREE Cybersecurity Intelligence*
