@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-12 12:48:35 UTC
+**Last Updated:** 2025-12-12 16:32:35 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -103,60 +103,12 @@
 
 ---
 
-#### 2. [New Windows RasMan zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Fri, 12 Dec 2025 06:28:06 -0500  
-**🔖 CVEs:** CVE-2025-59230  
-
-**📝 Summary:** Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service
-- **🔎 Cause:** Unprivileged users can exploit the zero-day to crash the RasMan service due to a coding error in how it processes circular linked lists
-- **✅ Solution:** Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service
-
----
-
-#### 3. [MITRE shares 2025's top 25 most dangerous software weaknesses](https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Fri, 12 Dec 2025 03:43:16 -0500  
-
-**📝 Summary:** MITRE has shared this year's top 25 list of the most dangerous software weaknesses behind over 39,000 security vulnerabilities disclosed between June 2024 and June 2025.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Successful exploitation allows threat actors to gain control over compromised devices and trigger denial-of-service attacks or access sensitive data
-- **✅ Solution:** Software weaknesses can be flaws, bugs, vulnerabilities, or errors found in a software's code, implementation, architecture, or design, and attackers can abuse them to breach systems running the vulnerable software
-
----
-
-#### 4. [Microsoft bounty program now includes any flaw impacting its services](https://www.bleepingcomputer.com/news/microsoft/microsoft-bounty-program-now-includes-any-flaw-impacting-its-services/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Thu, 11 Dec 2025 11:00:46 -0500  
-
-**📝 Summary:** Microsoft now pays security researchers for finding critical vulnerabilities in any of its online services, regardless of whether the code was written by Microsoft or a third party.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** "Starting today, if a critical vulnerability has a direct and demonstrable impact to our online services, it’s eligible for a bounty award
-- **🔎 Cause:** As Gallagher explained, attackers don't distinguish between Microsoft code and third-party components when exploiting vulnerabilities, prompting the company to expand its bug bounty program to cover all Microsoft online services by default, with all 
-- **✅ Solution:** Regardless of whether the code is owned and managed by Microsoft, a third-party, or is open source, we will do whatever it takes to remediate the issue," Gallagher said
-
----
-
-#### 5. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+#### 2. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62458, CVE-2025-62472, CVE-2025-62557, CVE-2025-62554, CVE-2025-62470, CVE-2025-59516, CVE-2025-59517, CVE-2025-62562, CVE-2025-62221  
+**🔖 CVEs:** CVE-2025-62557, CVE-2025-62472, CVE-2025-59516, CVE-2025-59517, CVE-2025-62458, CVE-2025-62470, CVE-2025-62221, CVE-2025-62554, CVE-2025-62562  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -164,6 +116,54 @@
 
 - **⚠️ Issue:** The zero-day flaw patched today is CVE-2025-62221, a privilege escalation vulnerability affecting Windows 10 and later editions
 - **✅ Solution:** This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities
+
+---
+
+#### 3. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Krebs On Security  
+**📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
+**🔖 CVEs:** CVE-2025-62215, CVE-2025-60274, CVE-2025-62199  
+
+**📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** “However, exploiting this specific vulnerability is likely to be relatively straightforward, given the existence of prior similar vulnerabilities
+- **🔎 Cause:** Despite the flaw’s zero-day status, Microsoft has assigned it an “important” rating rather than critical, because exploiting it requires an attacker to already have access to the target’s device
+- **✅ Solution:** “The patch for this should be an organization’s highest priority,” McCarthy said
+
+---
+
+#### 4. [November 2025 CVE Landscape: 10 Critical Vulnerabilities Show 69% Drop from October](https://www.recordedfuture.com/blog/november-2025-cve-landscape)
+
+🔴 **CRITICAL**  
+**📡 Source:** Recorded Future  
+**📅 Published:** Tue, 09 Dec 2025 00:00:00 GMT  
+
+**📝 Summary:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching
+- **✅ Solution:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching
+
+---
+
+#### 5. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Threat Post  
+**📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
+**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
+
+**📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** ” The vulnerability allows an application to execute arbitrary code with kernel privileges, according to Apple, which, in usual vague fashion, said there is a report that it “may have been actively exploited
+- **✅ Solution:** Share this article: Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack
 
 ---
 
@@ -202,22 +202,7 @@
 
 ---
 
-#### 3. [UK fines LastPass over 2022 data breach impacting 1.6 million users](https://www.bleepingcomputer.com/news/security/uk-fines-lastpass-over-2022-data-breach-impacting-16-million-users/)
-
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Thu, 11 Dec 2025 12:09:00 -0500  
-
-**📝 Summary:** The UK Information Commissioner's Office (ICO) fined the LastPass password management firm £1.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** However, the following day, the attacker targeted one of those senior employees by exploiting a known vulnerability in a third-party streaming application, believed to be Plex, which was installed on the employee's personal device
-- **🔎 Cause:** However, the following day, the attacker targeted one of those senior employees by exploiting a known vulnerability in a third-party streaming application, believed to be Plex, which was installed on the employee's personal device
-- **✅ Solution:** 2 million for failing to implement security measures that allowed an attacker to steal personal information and encrypted password vaults belonging to up to 1
-
----
-
-#### 4. [Prompt injection is a problem that may never be fixed, warns NCSC](https://www.malwarebytes.com/blog/news/2025/12/prompt-injection-is-a-problem-that-may-never-be-fixed-warns-ncsc)
+#### 3. [Prompt injection is a problem that may never be fixed, warns NCSC](https://www.malwarebytes.com/blog/news/2025/12/prompt-injection-is-a-problem-that-may-never-be-fixed-warns-ncsc)
 
 **📡 Source:** Malwarebytes  
 **📅 Published:** Tue, 09 Dec 2025 13:34:02 GMT  
@@ -231,7 +216,7 @@
 
 ---
 
-#### 5. [How phishers hide banking scams behind free Cloudflare Pages](https://www.malwarebytes.com/blog/news/2025/12/how-phishers-hide-banking-scams-behind-free-cloudflare-pages)
+#### 4. [How phishers hide banking scams behind free Cloudflare Pages](https://www.malwarebytes.com/blog/news/2025/12/how-phishers-hide-banking-scams-behind-free-cloudflare-pages)
 
 **📡 Source:** Malwarebytes  
 **📅 Published:** Mon, 08 Dec 2025 15:26:29 GMT  
@@ -245,26 +230,23 @@
 
 ---
 
+#### 5. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
 
-### 🔴 General Security
+**📡 Source:** Krebs On Security  
+**📅 Published:** Wed, 26 Nov 2025 17:22:36 +0000  
 
-#### 1. [Brave browser starts testing agentic AI mode for automated tasks](https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Thu, 11 Dec 2025 18:03:37 -0500  
-
-**📝 Summary:** Brave has introduced a new AI browsing feature that leverages Leo, its privacy-respecting AI assistant, to perform automated tasks for the user.
+**📝 Summary:** A prolific cybercriminal group that calls itself "Scattered LAPSUS$ Hunters" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Brave stresses that agentic AI browsing is "inherently dangerous" and shouldn’t be used for critical operations, mainly due to prompt injection attacks and the potential for misinterpreting users' intent
-- **🔎 Cause:** Brave stresses that agentic AI browsing is "inherently dangerous" and shouldn’t be used for critical operations, mainly due to prompt injection attacks and the potential for misinterpreting users' intent
-- **✅ Solution:** To mitigate this risk, the new mode runs on a separate, isolated profile that does not have access to the user’s cookies, login information, and other sensitive data
+- **⚠️ Issue:** The group later launched a data leak portal that threatened to publish the internal data of three dozen companies that allegedly had Salesforce data stolen, including Toyota, FedEx, Disney/Hulu, and UPS
 
 ---
 
-#### 2. [Bill Largent: On epic reads, lifelong learning, and empathy](https://blog.talosintelligence.com/bill-largent-on-epic-reads-lifelong-learning-and-empathy/)
+
+### 🔴 General Security
+
+#### 1. [Bill Largent: On epic reads, lifelong learning, and empathy](https://blog.talosintelligence.com/bill-largent-on-epic-reads-lifelong-learning-and-empathy/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -278,7 +260,7 @@
 
 ---
 
-#### 3. [How private is your VPN?](https://www.malwarebytes.com/blog/inside-malwarebytes/2025/12/how-private-is-your-vpn)
+#### 2. [How private is your VPN?](https://www.malwarebytes.com/blog/inside-malwarebytes/2025/12/how-private-is-your-vpn)
 
 🔴 **CRITICAL**  
 **📡 Source:** Malwarebytes  
@@ -293,7 +275,7 @@
 
 ---
 
-#### 4. [EU fines X $140m, tied to verification rules that make impostor scams easier](https://www.malwarebytes.com/blog/news/2025/12/eu-fines-x-140m-tied-to-verification-rules-that-make-impostor-scams-easier)
+#### 3. [EU fines X $140m, tied to verification rules that make impostor scams easier](https://www.malwarebytes.com/blog/news/2025/12/eu-fines-x-140m-tied-to-verification-rules-that-make-impostor-scams-easier)
 
 🔴 **CRITICAL**  
 **📡 Source:** Malwarebytes  
@@ -307,7 +289,7 @@
 
 ---
 
-#### 5. [It’s not personal, it’s just business](https://blog.talosintelligence.com/its-not-personal-its-just-business/)
+#### 4. [It’s not personal, it’s just business](https://blog.talosintelligence.com/its-not-personal-its-just-business/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 20 Nov 2025 19:00:04 GMT  
@@ -318,6 +300,19 @@
 
 - **⚠️ Issue:** Welcome to this week’s edition of the Threat Source newsletter
 - **✅ Solution:** Defensive teams can write their own agentic systems to find and fix weaknesses in their own systems before malicious actors identify them
+
+---
+
+#### 5. [Twitter Whistleblower Complaint: The TL;DR Version](https://threatpost.com/twitter-whistleblower-tldr-version/180472/)
+
+**📡 Source:** Threat Post  
+**📅 Published:** Wed, 24 Aug 2022 14:17:04 +0000  
+
+**📝 Summary:** Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Twitter Whistleblower Complaint: The TL;DR Version
 
 ---
 
@@ -398,37 +393,7 @@
 
 ---
 
-#### 3. [Malicious VSCode Marketplace extensions hid trojan in fake PNG file](https://www.bleepingcomputer.com/news/security/malicious-vscode-marketplace-extensions-hid-trojan-in-fake-png-file/)
-
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Thu, 11 Dec 2025 15:54:21 -0500  
-
-**📝 Summary:** A stealthy campaign with 19 extensions on the VSCode Marketplace has been active since February, targeting developers with malware hidden inside dependency folders.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Due to its popularity and potential for high-impact supply-chain attacks, the platform is constantly targeted by threat actors with evolving campaigns
-- **🔎 Cause:** Due to its popularity and potential for high-impact supply-chain attacks, the platform is constantly targeted by threat actors with evolving campaigns
-- **✅ Solution:** It should be noted that ‘path-is-absolute’ is a massively popular npm package with 9 billion downloads since 2021, and the weaponized version existed only in the 19 extensions used in the campaign
-
----
-
-#### 4. [UK fines LastPass over 2022 data breach impacting 1.6 million users](https://www.bleepingcomputer.com/news/security/uk-fines-lastpass-over-2022-data-breach-impacting-16-million-users/)
-
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Thu, 11 Dec 2025 12:09:00 -0500  
-
-**📝 Summary:** The UK Information Commissioner's Office (ICO) fined the LastPass password management firm £1.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** However, the following day, the attacker targeted one of those senior employees by exploiting a known vulnerability in a third-party streaming application, believed to be Plex, which was installed on the employee's personal device
-- **🔎 Cause:** However, the following day, the attacker targeted one of those senior employees by exploiting a known vulnerability in a third-party streaming application, believed to be Plex, which was installed on the employee's personal device
-- **✅ Solution:** 2 million for failing to implement security measures that allowed an attacker to steal personal information and encrypted password vaults belonging to up to 1
-
----
-
-#### 5. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+#### 3. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
 
 **📡 Source:** Krebs On Security  
 **📅 Published:** Mon, 24 Nov 2025 18:44:52 +0000  
@@ -438,6 +403,33 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** Is Your Android TV Streaming Box Part of a Botnet?
+
+---
+
+#### 4. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
+
+**📡 Source:** Talos Blog  
+**📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
+
+**📝 Summary:** Bill explores how our biggest mistakes can be the catalysts for growth that we need.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Adversaries are using GenAI for coding, phishing, evasion, and vulnerability discovery, especially as uncensored models become more widely available
+
+---
+
+#### 5. [Viasat and the terrible, horrible, no good, very bad day](https://blog.talosintelligence.com/viasat-and-the-terrible-horrible-no-good-very-bad-day/)
+
+**📡 Source:** Talos Blog  
+**📅 Published:** Thu, 13 Nov 2025 19:00:14 GMT  
+
+**📝 Summary:** In this week’s newsletter, Amy recounts her journey from Halloween festivities to unraveling the story of the 2022 Viasat satellite hack, with plenty of cybersecurity surprises along the way.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
+- **🔎 Cause:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
 
 ---
 
@@ -599,28 +591,12 @@
 
 ### 🔴 Supply Chain
 
-#### 1. [Microsoft bounty program now includes any flaw impacting its services](https://www.bleepingcomputer.com/news/microsoft/microsoft-bounty-program-now-includes-any-flaw-impacting-its-services/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Thu, 11 Dec 2025 11:00:46 -0500  
-
-**📝 Summary:** Microsoft now pays security researchers for finding critical vulnerabilities in any of its online services, regardless of whether the code was written by Microsoft or a third party.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** "Starting today, if a critical vulnerability has a direct and demonstrable impact to our online services, it’s eligible for a bounty award
-- **🔎 Cause:** As Gallagher explained, attackers don't distinguish between Microsoft code and third-party components when exploiting vulnerabilities, prompting the company to expand its bug bounty program to cover all Microsoft online services by default, with all 
-- **✅ Solution:** Regardless of whether the code is owned and managed by Microsoft, a third-party, or is open source, we will do whatever it takes to remediate the issue," Gallagher said
-
----
-
-#### 2. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
+#### 1. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62199, CVE-2025-62215, CVE-2025-60274  
+**🔖 CVEs:** CVE-2025-62215, CVE-2025-60274, CVE-2025-62199  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -632,7 +608,7 @@
 
 ---
 
-#### 3. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
+#### 2. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
@@ -648,22 +624,7 @@
 
 ---
 
-#### 4. [UK fines LastPass over 2022 data breach impacting 1.6 million users](https://www.bleepingcomputer.com/news/security/uk-fines-lastpass-over-2022-data-breach-impacting-16-million-users/)
-
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Thu, 11 Dec 2025 12:09:00 -0500  
-
-**📝 Summary:** The UK Information Commissioner's Office (ICO) fined the LastPass password management firm £1.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** However, the following day, the attacker targeted one of those senior employees by exploiting a known vulnerability in a third-party streaming application, believed to be Plex, which was installed on the employee's personal device
-- **🔎 Cause:** However, the following day, the attacker targeted one of those senior employees by exploiting a known vulnerability in a third-party streaming application, believed to be Plex, which was installed on the employee's personal device
-- **✅ Solution:** 2 million for failing to implement security measures that allowed an attacker to steal personal information and encrypted password vaults belonging to up to 1
-
----
-
-#### 5. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
+#### 3. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Wed, 26 Nov 2025 18:36:06 GMT  
@@ -676,6 +637,37 @@
 - **⚠️ Issue:** Cisco Talos’ Vulnerability Discovery & Research team recently disclosed five vulnerabilities in Dell ControlVault 3 firmware and its associated Windows software, four vulnerabilities in Entr'ouvert Lasso, and one vulnerability in GL
 - **🔎 Cause:** Cisco Talos’ Vulnerability Discovery & Research team recently disclosed five vulnerabilities in Dell ControlVault 3 firmware and its associated Windows software, four vulnerabilities in Entr'ouvert Lasso, and one vulnerability in GL
 - **✅ Solution:** The vulnerabilities mentioned in this blog post have been patched by their respective vendors, all in adherence to Cisco’s third-party vulnerability disclosure policy
+
+---
+
+#### 4. [Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities](https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/)
+
+**📡 Source:** Talos Blog  
+**📅 Published:** Thu, 04 Dec 2025 20:23:15 GMT  
+**🔖 CVEs:** CVE-2025-58113  
+
+**📝 Summary:** Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed an out-of-bounds read vulnerability in PDF XChange Editor, and ten vulnerabilities in Socomec DIRIS Digiware M ser...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Cisco Talos’ Vulnerability Discovery & Research team recently disclosed an out-of-bounds read vulnerability in PDF XChange Editor, and ten vulnerabilities in Socomec DIRIS Digiware M series and Easy Config products
+- **🔎 Cause:** Cisco Talos’ Vulnerability Discovery & Research team recently disclosed an out-of-bounds read vulnerability in PDF XChange Editor, and ten vulnerabilities in Socomec DIRIS Digiware M series and Easy Config products
+- **✅ Solution:** The vulnerabilities mentioned in this blog post have been patched by their respective vendors, all in adherence to Cisco’s third-party vulnerability disclosure policy
+
+---
+
+#### 5. [Care that you share](https://blog.talosintelligence.com/care-that-you-share/)
+
+**📡 Source:** Talos Blog  
+**📅 Published:** Wed, 26 Nov 2025 17:00:48 GMT  
+
+**📝 Summary:** This holiday season, as teams run lean and cyber threats rise, being open with what — and how — you share can protect both information and relationships.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Welcome to this week's edition of the Threat Source newsletter
+- **🔎 Cause:** Many teams are running with skeleton crews, whether due to holiday mode (family, turkey, football, days off) or the year-end compliance push (hello, NIS2 and DORA)
+- **✅ Solution:** Should I give them some history of STIX/TAXII
 
 ---
 
@@ -744,20 +736,19 @@
 
 ---
 
-#### 5. [New Windows RasMan zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/)
+#### 5. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Fri, 12 Dec 2025 06:28:06 -0500  
-**🔖 CVEs:** CVE-2025-59230  
+**📡 Source:** Krebs On Security  
+**📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
+**🔖 CVEs:** CVE-2025-62557, CVE-2025-62472, CVE-2025-59516, CVE-2025-59517, CVE-2025-62458, CVE-2025-62470, CVE-2025-62221, CVE-2025-62554, CVE-2025-62562  
 
-**📝 Summary:** Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service.
+**📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service
-- **🔎 Cause:** Unprivileged users can exploit the zero-day to crash the RasMan service due to a coding error in how it processes circular linked lists
-- **✅ Solution:** Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service
+- **⚠️ Issue:** The zero-day flaw patched today is CVE-2025-62221, a privilege escalation vulnerability affecting Windows 10 and later editions
+- **✅ Solution:** This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities
 
 ---
 
