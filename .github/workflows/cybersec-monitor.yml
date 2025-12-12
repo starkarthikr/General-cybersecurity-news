@@ -1,0 +1,38 @@
+name: Cybersecurity News Monitor
+
+on:
+  schedule:
+    # Runs every 4 hours to catch breaking news faster
+    - cron: '0 */4 * * *'
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  fetch-cybersec-news:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      issues: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests beautifulsoup4 python-dateutil
+          
+      - name: Fetch Cybersecurity News
+        run: python scripts/parse_cybersec_feeds.py
+        
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'CyberSec News Bot'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update cybersecurity news - $(date +'%Y-%m-%d %H:%M:%S')" && git push)
