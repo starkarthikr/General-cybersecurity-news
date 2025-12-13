@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-12 20:31:08 UTC
+**Last Updated:** 2025-12-13 01:30:11 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -103,7 +103,23 @@
 
 ---
 
-#### 2. [New Windows RasMan zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/)
+#### 2. [Apple fixes two zero-day flaws exploited in 'sophisticated' attacks](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Fri, 12 Dec 2025 18:23:25 -0500  
+**🔖 CVEs:** CVE-2025-14174, CVE-2025-43529  
+
+**📝 Summary:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an "extremely sophisticated attack" targeting specific individuals.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Apple says the flaw was discovered by Google’s Threat Analysis Group
+- **✅ Solution:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an “extremely sophisticated attack” targeting specific individuals
+
+---
+
+#### 3. [New Windows RasMan zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -120,7 +136,7 @@
 
 ---
 
-#### 3. [MITRE shares 2025's top 25 most dangerous software weaknesses](https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/)
+#### 4. [MITRE shares 2025's top 25 most dangerous software weaknesses](https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -135,12 +151,12 @@
 
 ---
 
-#### 4. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+#### 5. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62472, CVE-2025-62557, CVE-2025-62562, CVE-2025-59517, CVE-2025-62221, CVE-2025-62554, CVE-2025-62458, CVE-2025-59516, CVE-2025-62470  
+**🔖 CVEs:** CVE-2025-62562, CVE-2025-62458, CVE-2025-62221, CVE-2025-59516, CVE-2025-59517, CVE-2025-62557, CVE-2025-62554, CVE-2025-62472, CVE-2025-62470  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -148,23 +164,6 @@
 
 - **⚠️ Issue:** The zero-day flaw patched today is CVE-2025-62221, a privilege escalation vulnerability affecting Windows 10 and later editions
 - **✅ Solution:** This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities
-
----
-
-#### 5. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Krebs On Security  
-**📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-60274, CVE-2025-62199, CVE-2025-62215  
-
-**📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** “However, exploiting this specific vulnerability is likely to be relatively straightforward, given the existence of prior similar vulnerabilities
-- **🔎 Cause:** Despite the flaw’s zero-day status, Microsoft has assigned it an “important” rating rather than critical, because exploiting it requires an attacker to already have access to the target’s device
-- **✅ Solution:** “The patch for this should be an organization’s highest priority,” McCarthy said
 
 ---
 
@@ -398,7 +397,22 @@
 
 ---
 
-#### 3. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+#### 3. [Malicious VSCode Marketplace extensions hid trojan in fake PNG file](https://www.bleepingcomputer.com/news/security/malicious-vscode-marketplace-extensions-hid-trojan-in-fake-png-file/)
+
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Thu, 11 Dec 2025 15:54:21 -0500  
+
+**📝 Summary:** A stealthy campaign with 19 extensions on the VSCode Marketplace has been active since February, targeting developers with malware hidden inside dependency folders.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Due to its popularity and potential for high-impact supply-chain attacks, the platform is constantly targeted by threat actors with evolving campaigns
+- **🔎 Cause:** Due to its popularity and potential for high-impact supply-chain attacks, the platform is constantly targeted by threat actors with evolving campaigns
+- **✅ Solution:** It should be noted that ‘path-is-absolute’ is a massively popular npm package with 9 billion downloads since 2021, and the weaponized version existed only in the 19 extensions used in the campaign
+
+---
+
+#### 4. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
 
 **📡 Source:** Krebs On Security  
 **📅 Published:** Mon, 24 Nov 2025 18:44:52 +0000  
@@ -411,7 +425,7 @@
 
 ---
 
-#### 4. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
+#### 5. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
@@ -421,20 +435,6 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** Adversaries are using GenAI for coding, phishing, evasion, and vulnerability discovery, especially as uncensored models become more widely available
-
----
-
-#### 5. [Viasat and the terrible, horrible, no good, very bad day](https://blog.talosintelligence.com/viasat-and-the-terrible-horrible-no-good-very-bad-day/)
-
-**📡 Source:** Talos Blog  
-**📅 Published:** Thu, 13 Nov 2025 19:00:14 GMT  
-
-**📝 Summary:** In this week’s newsletter, Amy recounts her journey from Halloween festivities to unraveling the story of the 2022 Viasat satellite hack, with plenty of cybersecurity surprises along the way.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
-- **🔎 Cause:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
 
 ---
 
@@ -603,7 +603,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-60274, CVE-2025-62199, CVE-2025-62215  
+**🔖 CVEs:** CVE-2025-60274, CVE-2025-62215, CVE-2025-62199  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -620,7 +620,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
 **📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
+**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
 
 **📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
 
@@ -743,20 +743,19 @@
 
 ---
 
-#### 5. [New Windows RasMan zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/)
+#### 5. [Apple fixes two zero-day flaws exploited in 'sophisticated' attacks](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
-**📅 Published:** Fri, 12 Dec 2025 06:28:06 -0500  
-**🔖 CVEs:** CVE-2025-59230  
+**📅 Published:** Fri, 12 Dec 2025 18:23:25 -0500  
+**🔖 CVEs:** CVE-2025-14174, CVE-2025-43529  
 
-**📝 Summary:** Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service.
+**📝 Summary:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an "extremely sophisticated attack" targeting specific individuals.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service
-- **🔎 Cause:** Unprivileged users can exploit the zero-day to crash the RasMan service due to a coding error in how it processes circular linked lists
-- **✅ Solution:** Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service
+- **⚠️ Issue:** Apple says the flaw was discovered by Google’s Threat Analysis Group
+- **✅ Solution:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an “extremely sophisticated attack” targeting specific individuals
 
 ---
 
