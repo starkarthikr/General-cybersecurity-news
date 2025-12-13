@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-13 12:44:09 UTC
+**Last Updated:** 2025-12-13 16:31:30 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -108,7 +108,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Fri, 12 Dec 2025 18:23:25 -0500  
-**🔖 CVEs:** CVE-2025-14174, CVE-2025-43529  
+**🔖 CVEs:** CVE-2025-43529, CVE-2025-14174  
 
 **📝 Summary:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an "extremely sophisticated attack" targeting specific individuals.
 
@@ -151,18 +151,19 @@
 
 ---
 
-#### 5. [November 2025 CVE Landscape: 10 Critical Vulnerabilities Show 69% Drop from October](https://www.recordedfuture.com/blog/november-2025-cve-landscape)
+#### 5. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 🔴 **CRITICAL**  
-**📡 Source:** Recorded Future  
-**📅 Published:** Tue, 09 Dec 2025 00:00:00 GMT  
+**📡 Source:** Krebs On Security  
+**📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
+**🔖 CVEs:** CVE-2025-62472, CVE-2025-62554, CVE-2025-62470, CVE-2025-62557, CVE-2025-62562, CVE-2025-59516, CVE-2025-62458, CVE-2025-62221, CVE-2025-59517  
 
-**📝 Summary:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching.
+**📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching
-- **✅ Solution:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching
+- **⚠️ Issue:** The zero-day flaw patched today is CVE-2025-62221, a privilege escalation vulnerability affecting Windows 10 and later editions
+- **✅ Solution:** This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities
 
 ---
 
@@ -365,22 +366,7 @@
 
 ### 🔴 Malware
 
-#### 1. [React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors](https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html)
-
-🔴 **CRITICAL**  
-**📡 Source:** The Hacker News  
-**📅 Published:** Thu, 11 Dec 2025 01:49:00 +0530  
-**🔖 CVEs:** CVE-2025-55182  
-
-**📝 Summary:** React2Shell continues to witness heavy exploitation, with threat actors leveraging the maximum-severity security flaw in React Server Components (RSC) to deliver cryptocurrency miners and an array ...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Critical React Server Components flaw (CVE-2025-55182) fuels automated attacks dropping miners and multiple new Linux malware families
-
----
-
-#### 2. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
+#### 1. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -393,6 +379,19 @@
 - **⚠️ Issue:** Unfortunately, players on both sides are flooding the zone with GenAI-powered vulnerability discovery
 - **🔎 Cause:** They can greatly increase execution times, due to the nature of AI responses, and can result in execution failures
 - **✅ Solution:** If the researcher is focused on coordinated disclosure resulting in patches and not on selling to the highest bidder, GenAI is largely benign
+
+---
+
+#### 2. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+
+**📡 Source:** Krebs On Security  
+**📅 Published:** Mon, 24 Nov 2025 18:44:52 +0000  
+
+**📝 Summary:** On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming ...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Is Your Android TV Streaming Box Part of a Botnet?
 
 ---
 
@@ -581,24 +580,40 @@
 
 ---
 
-#### 5. [Unleashing the Kraken ransomware group](https://blog.talosintelligence.com/kraken-ransomware-group/)
+#### 5. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
 
-**📡 Source:** Talos Blog  
-**📅 Published:** Thu, 13 Nov 2025 11:00:38 GMT  
+**📡 Source:** Krebs On Security  
+**📅 Published:** Wed, 26 Nov 2025 17:22:36 +0000  
 
-**📝 Summary:** In August 2025, Cisco Talos observed big-game hunting and double extortion attacks carried out by Kraken, a Russian-speaking group that has emerged from the remnants of the HelloKitty ransomware ca...
+**📝 Summary:** A prolific cybercriminal group that calls itself "Scattered LAPSUS$ Hunters" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** In August 2025, Cisco Talos Incident Response (Talos IR) observed in one instance that the Kraken ransomware actor gained initial access to the victim's machine by exploiting an existing vulnerability in the SMB service on servers exposed to the inte
-- **🔎 Cause:** In August 2025, Cisco Talos Incident Response (Talos IR) observed in one instance that the Kraken ransomware actor gained initial access to the victim's machine by exploiting an existing vulnerability in the SMB service on servers exposed to the inte
+- **⚠️ Issue:** The group later launched a data leak portal that threatened to publish the internal data of three dozen companies that allegedly had Salesforce data stolen, including Toyota, FedEx, Disney/Hulu, and UPS
 
 ---
 
 
 ### 🔴 Supply Chain
 
-#### 1. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
+#### 1. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Krebs On Security  
+**📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
+**🔖 CVEs:** CVE-2025-62215, CVE-2025-62199, CVE-2025-60274  
+
+**📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** “However, exploiting this specific vulnerability is likely to be relatively straightforward, given the existence of prior similar vulnerabilities
+- **🔎 Cause:** Despite the flaw’s zero-day status, Microsoft has assigned it an “important” rating rather than critical, because exploiting it requires an attacker to already have access to the target’s device
+- **✅ Solution:** “The patch for this should be an organization’s highest priority,” McCarthy said
+
+---
+
+#### 2. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
@@ -614,7 +629,7 @@
 
 ---
 
-#### 2. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
+#### 3. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Wed, 26 Nov 2025 18:36:06 GMT  
@@ -630,7 +645,7 @@
 
 ---
 
-#### 3. [Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities](https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/)
+#### 4. [Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities](https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 04 Dec 2025 20:23:15 GMT  
@@ -646,7 +661,7 @@
 
 ---
 
-#### 4. [Care that you share](https://blog.talosintelligence.com/care-that-you-share/)
+#### 5. [Care that you share](https://blog.talosintelligence.com/care-that-you-share/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Wed, 26 Nov 2025 17:00:48 GMT  
@@ -661,23 +676,24 @@
 
 ---
 
-#### 5. [5 Real-Word Third-Party Risk Examples](https://www.recordedfuture.com/blog/third-party-risk-examples)
-
-**📡 Source:** Recorded Future  
-**📅 Published:** Tue, 09 Dec 2025 00:00:00 GMT  
-
-**📝 Summary:** Explore 5 third-party risk examples, from vendor data breaches to supply chain attacks and learn how third-party risk management can prevent cyberattacks.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Explore 5 third-party risk examples, from vendor data breaches to supply chain attacks and learn how third-party risk management can prevent cyberattacks
-
----
-
 
 ### 🔴 Vulnerability
 
-#### 1. [CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html)
+#### 1. [CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html)
+
+🔴 **CRITICAL**  
+**📡 Source:** The Hacker News  
+**📅 Published:** Sat, 13 Dec 2025 18:03:00 +0530  
+
+**📝 Summary:** Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity flaw impacting Sierra Wireless AirLink ALEOS routers to its Known Exploited Vulnerabilities (KEV) catalog, fo...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** CISA warns of active exploitation of Sierra Wireless router flaw allowing remote code execution via unrestricted file upload
+
+---
+
+#### 2. [CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html)
 
 🔴 **CRITICAL**  
 **📡 Source:** The Hacker News  
@@ -693,7 +709,7 @@
 
 ---
 
-#### 2. [Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks](https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html)
+#### 3. [Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks](https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html)
 
 🔴 **CRITICAL**  
 **📡 Source:** The Hacker News  
@@ -709,7 +725,7 @@
 
 ---
 
-#### 3. [Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw](https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html)
+#### 4. [Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw](https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html)
 
 🔴 **CRITICAL**  
 **📡 Source:** The Hacker News  
@@ -724,27 +740,12 @@
 
 ---
 
-#### 4. [React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors](https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html)
-
-🔴 **CRITICAL**  
-**📡 Source:** The Hacker News  
-**📅 Published:** Thu, 11 Dec 2025 01:49:00 +0530  
-**🔖 CVEs:** CVE-2025-55182  
-
-**📝 Summary:** React2Shell continues to witness heavy exploitation, with threat actors leveraging the maximum-severity security flaw in React Server Components (RSC) to deliver cryptocurrency miners and an array ...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Critical React Server Components flaw (CVE-2025-55182) fuels automated attacks dropping miners and multiple new Linux malware families
-
----
-
 #### 5. [Apple fixes two zero-day flaws exploited in 'sophisticated' attacks](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Fri, 12 Dec 2025 18:23:25 -0500  
-**🔖 CVEs:** CVE-2025-14174, CVE-2025-43529  
+**🔖 CVEs:** CVE-2025-43529, CVE-2025-14174  
 
 **📝 Summary:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an "extremely sophisticated attack" targeting specific individuals.
 
