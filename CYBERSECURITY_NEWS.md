@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-13 16:31:30 UTC
+**Last Updated:** 2025-12-13 20:28:47 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -156,7 +156,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62472, CVE-2025-62554, CVE-2025-62470, CVE-2025-62557, CVE-2025-62562, CVE-2025-59516, CVE-2025-62458, CVE-2025-62221, CVE-2025-59517  
+**🔖 CVEs:** CVE-2025-62472, CVE-2025-59517, CVE-2025-62554, CVE-2025-62458, CVE-2025-59516, CVE-2025-62470, CVE-2025-62562, CVE-2025-62221, CVE-2025-62557  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -601,7 +601,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62215, CVE-2025-62199, CVE-2025-60274  
+**🔖 CVEs:** CVE-2025-62215, CVE-2025-60274, CVE-2025-62199  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -618,7 +618,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
 **📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
+**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
 
 **📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
 
