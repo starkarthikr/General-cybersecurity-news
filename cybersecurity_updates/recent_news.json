@@ -579,20 +579,7 @@
     "ai_summary": "Hackers are exploiting a new, undocumented vulnerability in the implementation of the cryptographic algorithm present in Gladinet's CentreStack and Triofox products for secure remote file access an...",
     "authors": [
       "Bill Toulas"
-    ],
-    "analysis": {
-      "issue": "Hackers are exploiting a new, undocumented vulnerability in the implementation of the cryptographic algorithm present in Gladinet's CentreStack and Triofox products for secure remote file access and sharing",
-      "solution": "Although the new cryptographic vulnerability does not have an official identifier, Gladinet notified customers about it and advised them to update the products to the latest version, which, at the time of the communication, had been released on Novem",
-      "cause": "Hackers are exploiting a new, undocumented vulnerability in the implementation of the cryptographic algorithm present in Gladinet's CentreStack and Triofox products for secure remote file access and sharing",
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-30406"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    ]
   },
   {
     "source": "Bleeping Computer",
@@ -603,18 +590,7 @@
     "ai_summary": "9 was released to fix a security weakness in its WinGUp update tool after researchers and users reported incidents in which the updater retrieved malicious executables instead of legitimate update ...",
     "authors": [
       "Lawrence Abrams"
-    ],
-    "analysis": {
-      "issue": "]sh, a file and text-sharing website previously used in malware campaigns",
-      "solution": "9 was released to fix a security weakness in its WinGUp update tool after researchers and users reported incidents in which the updater retrieved malicious executables instead of legitimate update packages",
-      "cause": "9 was released to fix a security weakness in its WinGUp update tool after researchers and users reported incidents in which the updater retrieved malicious executables instead of legitimate update packages",
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
+    ]
   },
   {
     "source": "Bleeping Computer",
@@ -655,15 +631,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62562",
-        "CVE-2025-62458",
+        "CVE-2025-62470",
+        "CVE-2025-62557",
         "CVE-2025-62221",
+        "CVE-2025-62458",
+        "CVE-2025-62472",
+        "CVE-2025-62554",
         "CVE-2025-59516",
         "CVE-2025-59517",
-        "CVE-2025-62557",
-        "CVE-2025-62554",
-        "CVE-2025-62472",
-        "CVE-2025-62470"
+        "CVE-2025-62562"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -823,9 +799,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-60274",
+        "CVE-2025-62199",
         "CVE-2025-62215",
-        "CVE-2025-62199"
+        "CVE-2025-60274"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1028,12 +1004,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62553",
-        "CVE-2025-62549",
         "CVE-2025-62557",
-        "CVE-2025-62554",
         "CVE-2025-62456",
-        "CVE-2025-62556"
+        "CVE-2025-62553",
+        "CVE-2025-62556",
+        "CVE-2025-62549",
+        "CVE-2025-62554"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1844,8 +1820,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -2422,28 +2398,6 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "Inside the Latest Innovations Powering Falcon Exposure Management",
-    "link": "https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/",
-    "published": "Dec 12, 2025 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "Learn about the latest Falcon Exposure Management innovations, providing real-time, high-fidelity visibility and prioritization.",
-    "authors": [
-      "Rona Kedmi"
-    ],
-    "analysis": {
-      "issue": "Inside the Latest Innovations Powering Falcon Exposure Management",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
     "title": "Data Leakage: AI&rsquo;s Plumbing Problem",
     "link": "https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/",
     "published": "Dec 11, 2025 00:00:00-0600",
@@ -2631,6 +2585,28 @@
     "analysis": {
       "issue": "CrowdStrike introduces real-time cloud detection and automated response to identify and stop cloud threats in seconds, reducing MTTR across hybrid and multi-cloud environments",
       "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Cloud Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "Falcon Data Protection for Cloud Extends DSPM into Runtime",
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-data-protection-for-cloud-extends-dspm-into-runtime/",
+    "published": "Nov 20, 2025 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "Falcon Data Protection for Cloud provides real-time visibility into sensitive data in motion and at rest.",
+    "authors": [
+      "Luke Hunsinger"
+    ],
+    "analysis": {
+      "issue": "Falcon Data Protection for Cloud Extends DSPM into Runtime",
+      "solution": "Falcon Data Protection for Cloud provides real-time visibility into sensitive data in motion and at rest",
       "cause": null,
       "timeline": null,
       "severity": null,
