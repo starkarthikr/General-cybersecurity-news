@@ -1,6 +1,29 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild",
+    "link": "https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html",
+    "published": "Sat, 13 Dec 2025 11:02:00 +0530",
+    "summary": "Apple on Friday released security updates for iOS, iPadOS, macOS, tvOS, watchOS, visionOS, and its Safari web browser to address two security flaws that it said have been exploited in the wild, one of which is the same flaw that was patched by Google in Chrome earlier this week.\nThe vulnerabilities are listed below -\n\nCVE-2025-43529 (CVSS score: N/A) - A use-after-free vulnerability in WebKit",
+    "ai_summary": "Apple on Friday released security updates for iOS, iPadOS, macOS, tvOS, watchOS, visionOS, and its Safari web browser to address two security flaws that it said have been exploited in the wild, one...",
+    "authors": [
+      "The Hacker News"
+    ],
+    "analysis": {
+      "issue": "Apple fixes two exploited WebKit bugs targeting specific users, issuing security updates across iOS, macOS, and Safari",
+      "solution": "Apple fixes two exploited WebKit bugs targeting specific users, issuing security updates across iOS, macOS, and Safari",
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Cloud Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads",
     "link": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
     "published": "Sat, 13 Dec 2025 00:20:00 +0530",
@@ -319,28 +342,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": ".NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL",
-    "link": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
-    "published": "Thu, 11 Dec 2025 00:51:00 +0530",
-    "summary": "New research has uncovered exploitation primitives in the .NET Framework that could be leveraged against enterprise-grade applications to achieve remote code execution.\nWatchTowr Labs, which has codenamed the \"invalid cast vulnerability\" SOAPwn, said the issue impacts Barracuda Service Center RMM, Ivanti Endpoint Manager (EPM), and Umbraco 8. But the number of affected vendors is likely to be",
-    "ai_summary": "New research has uncovered exploitation primitives in the.",
-    "authors": [
-      "The Hacker News"
-    ],
-    "analysis": {
-      "issue": "NET proxy design flaw enables file writes and RCE through attacker-supplied WSDL in multiple products",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Apple fixes two zero-day flaws exploited in 'sophisticated' attacks",
     "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/",
@@ -357,8 +358,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-14174",
-        "CVE-2025-43529"
+        "CVE-2025-43529",
+        "CVE-2025-14174"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -601,18 +602,7 @@
     "ai_summary": "A stealthy campaign with 19 extensions on the VSCode Marketplace has been active since February, targeting developers with malware hidden inside dependency folders.",
     "authors": [
       "Bill Toulas"
-    ],
-    "analysis": {
-      "issue": "Due to its popularity and potential for high-impact supply-chain attacks, the platform is constantly targeted by threat actors with evolving campaigns",
-      "solution": "It should be noted that ‘path-is-absolute’ is a massively popular npm package with 9 billion downloads since 2021, and the weaponized version existed only in the 19 extensions used in the campaign",
-      "cause": "Due to its popularity and potential for high-impact supply-chain attacks, the platform is constantly targeted by threat actors with evolving campaigns",
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
+    ]
   },
   {
     "source": "Krebs On Security",
@@ -631,15 +621,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62470",
-        "CVE-2025-62557",
         "CVE-2025-62221",
-        "CVE-2025-62458",
-        "CVE-2025-62472",
         "CVE-2025-62554",
-        "CVE-2025-59516",
         "CVE-2025-59517",
-        "CVE-2025-62562"
+        "CVE-2025-62470",
+        "CVE-2025-62472",
+        "CVE-2025-59516",
+        "CVE-2025-62562",
+        "CVE-2025-62458",
+        "CVE-2025-62557"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -799,9 +789,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62199",
+        "CVE-2025-60274",
         "CVE-2025-62215",
-        "CVE-2025-60274"
+        "CVE-2025-62199"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1004,12 +994,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62557",
-        "CVE-2025-62456",
-        "CVE-2025-62553",
+        "CVE-2025-62554",
         "CVE-2025-62556",
+        "CVE-2025-62553",
         "CVE-2025-62549",
-        "CVE-2025-62554"
+        "CVE-2025-62456",
+        "CVE-2025-62557"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -2398,6 +2388,28 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Inside the Latest Innovations Powering Falcon Exposure Management",
+    "link": "https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/",
+    "published": "Dec 12, 2025 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "Learn about the latest Falcon Exposure Management innovations, providing real-time, high-fidelity visibility and prioritization.",
+    "authors": [
+      "Rona Kedmi"
+    ],
+    "analysis": {
+      "issue": "Inside the Latest Innovations Powering Falcon Exposure Management",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Data Leakage: AI&rsquo;s Plumbing Problem",
     "link": "https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/",
     "published": "Dec 11, 2025 00:00:00-0600",
@@ -2585,28 +2597,6 @@
     "analysis": {
       "issue": "CrowdStrike introduces real-time cloud detection and automated response to identify and stop cloud threats in seconds, reducing MTTR across hybrid and multi-cloud environments",
       "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Falcon Data Protection for Cloud Extends DSPM into Runtime",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-data-protection-for-cloud-extends-dspm-into-runtime/",
-    "published": "Nov 20, 2025 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "Falcon Data Protection for Cloud provides real-time visibility into sensitive data in motion and at rest.",
-    "authors": [
-      "Luke Hunsinger"
-    ],
-    "analysis": {
-      "issue": "Falcon Data Protection for Cloud Extends DSPM into Runtime",
-      "solution": "Falcon Data Protection for Cloud provides real-time visibility into sensitive data in motion and at rest",
       "cause": null,
       "timeline": null,
       "severity": null,

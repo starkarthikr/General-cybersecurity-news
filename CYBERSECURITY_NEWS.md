@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-13 04:34:26 UTC
+**Last Updated:** 2025-12-13 08:32:20 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -108,7 +108,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Fri, 12 Dec 2025 18:23:25 -0500  
-**🔖 CVEs:** CVE-2025-14174, CVE-2025-43529  
+**🔖 CVEs:** CVE-2025-43529, CVE-2025-14174  
 
 **📝 Summary:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an "extremely sophisticated attack" targeting specific individuals.
 
@@ -156,7 +156,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62470, CVE-2025-62557, CVE-2025-62221, CVE-2025-62458, CVE-2025-62472, CVE-2025-62554, CVE-2025-59516, CVE-2025-59517, CVE-2025-62562  
+**🔖 CVEs:** CVE-2025-62221, CVE-2025-62554, CVE-2025-59517, CVE-2025-62470, CVE-2025-62472, CVE-2025-59516, CVE-2025-62562, CVE-2025-62458, CVE-2025-62557  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -397,22 +397,7 @@
 
 ---
 
-#### 3. [Malicious VSCode Marketplace extensions hid trojan in fake PNG file](https://www.bleepingcomputer.com/news/security/malicious-vscode-marketplace-extensions-hid-trojan-in-fake-png-file/)
-
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Thu, 11 Dec 2025 15:54:21 -0500  
-
-**📝 Summary:** A stealthy campaign with 19 extensions on the VSCode Marketplace has been active since February, targeting developers with malware hidden inside dependency folders.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Due to its popularity and potential for high-impact supply-chain attacks, the platform is constantly targeted by threat actors with evolving campaigns
-- **🔎 Cause:** Due to its popularity and potential for high-impact supply-chain attacks, the platform is constantly targeted by threat actors with evolving campaigns
-- **✅ Solution:** It should be noted that ‘path-is-absolute’ is a massively popular npm package with 9 billion downloads since 2021, and the weaponized version existed only in the 19 extensions used in the campaign
-
----
-
-#### 4. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+#### 3. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
 
 **📡 Source:** Krebs On Security  
 **📅 Published:** Mon, 24 Nov 2025 18:44:52 +0000  
@@ -425,7 +410,7 @@
 
 ---
 
-#### 5. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
+#### 4. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
@@ -435,6 +420,20 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** Adversaries are using GenAI for coding, phishing, evasion, and vulnerability discovery, especially as uncensored models become more widely available
+
+---
+
+#### 5. [Viasat and the terrible, horrible, no good, very bad day](https://blog.talosintelligence.com/viasat-and-the-terrible-horrible-no-good-very-bad-day/)
+
+**📡 Source:** Talos Blog  
+**📅 Published:** Thu, 13 Nov 2025 19:00:14 GMT  
+
+**📝 Summary:** In this week’s newsletter, Amy recounts her journey from Halloween festivities to unraveling the story of the 2022 Viasat satellite hack, with plenty of cybersecurity surprises along the way.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
+- **🔎 Cause:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
 
 ---
 
@@ -603,7 +602,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62199, CVE-2025-62215, CVE-2025-60274  
+**🔖 CVEs:** CVE-2025-60274, CVE-2025-62215, CVE-2025-62199  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -748,7 +747,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Fri, 12 Dec 2025 18:23:25 -0500  
-**🔖 CVEs:** CVE-2025-14174, CVE-2025-43529  
+**🔖 CVEs:** CVE-2025-43529, CVE-2025-14174  
 
 **📝 Summary:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an "extremely sophisticated attack" targeting specific individuals.
 
