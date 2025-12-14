@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-14 12:44:42 UTC
+**Last Updated:** 2025-12-14 16:31:06 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -106,7 +106,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Fri, 12 Dec 2025 18:23:25 -0500  
-**🔖 CVEs:** CVE-2025-14174, CVE-2025-43529  
+**🔖 CVEs:** CVE-2025-43529, CVE-2025-14174  
 
 **📝 Summary:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an "extremely sophisticated attack" targeting specific individuals.
 
@@ -149,19 +149,35 @@
 
 ---
 
-#### 5. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+#### 5. [November 2025 CVE Landscape: 10 Critical Vulnerabilities Show 69% Drop from October](https://www.recordedfuture.com/blog/november-2025-cve-landscape)
 
 🔴 **CRITICAL**  
-**📡 Source:** Krebs On Security  
-**📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-59516, CVE-2025-62221, CVE-2025-62557, CVE-2025-62554, CVE-2025-59517, CVE-2025-62458, CVE-2025-62562, CVE-2025-62470, CVE-2025-62472  
+**📡 Source:** Recorded Future  
+**📅 Published:** Tue, 09 Dec 2025 00:00:00 GMT  
 
-**📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
+**📝 Summary:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** The zero-day flaw patched today is CVE-2025-62221, a privilege escalation vulnerability affecting Windows 10 and later editions
-- **✅ Solution:** This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities
+- **⚠️ Issue:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching
+- **✅ Solution:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching
+
+---
+
+
+### 🔴 DDoS
+
+#### 1. [CyberVolk’s ransomware debut stumbles on cryptography weakness](https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/)
+
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Sat, 13 Dec 2025 10:11:21 -0500  
+
+**📝 Summary:** The pro-Russia hacktivist group CyberVolk launched a ransomware-as-a-service (RaaS) called VolkLocker that suffered from serious implementation flaws, allowing victims to potentially decrypt files ...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** CyberVolk is reportedly an India-based pro-Russia hacktivist collective that started operations last year, launching distributed denial of service and ransomware attacks against public and government entities opposing Russia or siding with Ukraine
+- **✅ Solution:** The pro-Russia hacktivist group CyberVolk launched a ransomware-as-a-service (RaaS) called VolkLocker that suffered from serious implementation flaws, allowing victims to potentially decrypt files for free
 
 ---
 
@@ -245,23 +261,7 @@
 
 ### 🔴 General Security
 
-#### 1. [Brave browser starts testing agentic AI mode for automated tasks](https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Thu, 11 Dec 2025 18:03:37 -0500  
-
-**📝 Summary:** Brave has introduced a new AI browsing feature that leverages Leo, its privacy-respecting AI assistant, to perform automated tasks for the user.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Brave stresses that agentic AI browsing is "inherently dangerous" and shouldn’t be used for critical operations, mainly due to prompt injection attacks and the potential for misinterpreting users' intent
-- **🔎 Cause:** Brave stresses that agentic AI browsing is "inherently dangerous" and shouldn’t be used for critical operations, mainly due to prompt injection attacks and the potential for misinterpreting users' intent
-- **✅ Solution:** To mitigate this risk, the new mode runs on a separate, isolated profile that does not have access to the user’s cookies, login information, and other sensitive data
-
----
-
-#### 2. [Bill Largent: On epic reads, lifelong learning, and empathy](https://blog.talosintelligence.com/bill-largent-on-epic-reads-lifelong-learning-and-empathy/)
+#### 1. [Bill Largent: On epic reads, lifelong learning, and empathy](https://blog.talosintelligence.com/bill-largent-on-epic-reads-lifelong-learning-and-empathy/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -275,7 +275,7 @@
 
 ---
 
-#### 3. [How private is your VPN?](https://www.malwarebytes.com/blog/inside-malwarebytes/2025/12/how-private-is-your-vpn)
+#### 2. [How private is your VPN?](https://www.malwarebytes.com/blog/inside-malwarebytes/2025/12/how-private-is-your-vpn)
 
 🔴 **CRITICAL**  
 **📡 Source:** Malwarebytes  
@@ -290,7 +290,7 @@
 
 ---
 
-#### 4. [EU fines X $140m, tied to verification rules that make impostor scams easier](https://www.malwarebytes.com/blog/news/2025/12/eu-fines-x-140m-tied-to-verification-rules-that-make-impostor-scams-easier)
+#### 3. [EU fines X $140m, tied to verification rules that make impostor scams easier](https://www.malwarebytes.com/blog/news/2025/12/eu-fines-x-140m-tied-to-verification-rules-that-make-impostor-scams-easier)
 
 🔴 **CRITICAL**  
 **📡 Source:** Malwarebytes  
@@ -304,7 +304,7 @@
 
 ---
 
-#### 5. [It’s not personal, it’s just business](https://blog.talosintelligence.com/its-not-personal-its-just-business/)
+#### 4. [It’s not personal, it’s just business](https://blog.talosintelligence.com/its-not-personal-its-just-business/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 20 Nov 2025 19:00:04 GMT  
@@ -315,6 +315,19 @@
 
 - **⚠️ Issue:** Welcome to this week’s edition of the Threat Source newsletter
 - **✅ Solution:** Defensive teams can write their own agentic systems to find and fix weaknesses in their own systems before malicious actors identify them
+
+---
+
+#### 5. [Twitter Whistleblower Complaint: The TL;DR Version](https://threatpost.com/twitter-whistleblower-tldr-version/180472/)
+
+**📡 Source:** Threat Post  
+**📅 Published:** Wed, 24 Aug 2022 14:17:04 +0000  
+
+**📝 Summary:** Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Twitter Whistleblower Complaint: The TL;DR Version
 
 ---
 
@@ -410,20 +423,7 @@
 
 ---
 
-#### 3. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
-
-**📡 Source:** Krebs On Security  
-**📅 Published:** Mon, 24 Nov 2025 18:44:52 +0000  
-
-**📝 Summary:** On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming ...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Is Your Android TV Streaming Box Part of a Botnet?
-
----
-
-#### 4. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
+#### 3. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
@@ -436,7 +436,7 @@
 
 ---
 
-#### 5. [Viasat and the terrible, horrible, no good, very bad day](https://blog.talosintelligence.com/viasat-and-the-terrible-horrible-no-good-very-bad-day/)
+#### 4. [Viasat and the terrible, horrible, no good, very bad day](https://blog.talosintelligence.com/viasat-and-the-terrible-horrible-no-good-very-bad-day/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 13 Nov 2025 19:00:14 GMT  
@@ -447,6 +447,20 @@
 
 - **⚠️ Issue:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
 - **🔎 Cause:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
+
+---
+
+#### 5. [AI Malware: Hype vs. Reality](https://www.recordedfuture.com/blog/ai-malware-hype-vs-reality)
+
+**📡 Source:** Recorded Future  
+**📅 Published:** Mon, 01 Dec 2025 00:00:00 GMT  
+
+**📝 Summary:** A grounded look at AI malware: most threats sit at low maturity levels, with no verified autonomous BYOAI attacks.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** A grounded look at AI malware: most threats sit at low maturity levels, with no verified autonomous BYOAI attacks
+- **✅ Solution:** Learn what’s real, what’s hype, and how defenders should respond
 
 ---
 
@@ -596,42 +610,24 @@
 
 ---
 
-#### 5. [Inside Shanya, a packer-as-a-service fueling modern attacks](https://news.sophos.com/en-us/2025/12/06/inside-shanya-a-packer-as-a-service-fueling-modern-attacks/)
+#### 5. [CyberVolk’s ransomware debut stumbles on cryptography weakness](https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/)
 
-**📡 Source:** Sophos News  
-**📅 Published:** Sun, 07 Dec 2025 02:57:18 +0000  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Sat, 13 Dec 2025 10:11:21 -0500  
 
-**📝 Summary:** The ransomware scene gains another would-be EDR killer.
+**📝 Summary:** The pro-Russia hacktivist group CyberVolk launched a ransomware-as-a-service (RaaS) called VolkLocker that suffered from serious implementation flaws, allowing victims to potentially decrypt files ...
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** We have covered packer-as-a-service offerings from the computer underworld in the past, previously dissecting impersonation campaigns and the rise of HeartCrypt, both popular among ransomware groups
-- **🔎 Cause:** We’ll look at its apparent origins, unpack the code, and examine a targeted infection leveraging this tool
-- **✅ Solution:** It should be noted that the ID of the post author, which we’ve obfuscated in Figure 1, was not “Shanya” but another string entirely
+- **⚠️ Issue:** CyberVolk is reportedly an India-based pro-Russia hacktivist collective that started operations last year, launching distributed denial of service and ransomware attacks against public and government entities opposing Russia or siding with Ukraine
+- **✅ Solution:** The pro-Russia hacktivist group CyberVolk launched a ransomware-as-a-service (RaaS) called VolkLocker that suffered from serious implementation flaws, allowing victims to potentially decrypt files for free
 
 ---
 
 
 ### 🔴 Supply Chain
 
-#### 1. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Krebs On Security  
-**📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62215, CVE-2025-60274, CVE-2025-62199  
-
-**📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** “However, exploiting this specific vulnerability is likely to be relatively straightforward, given the existence of prior similar vulnerabilities
-- **🔎 Cause:** Despite the flaw’s zero-day status, Microsoft has assigned it an “important” rating rather than critical, because exploiting it requires an attacker to already have access to the target’s device
-- **✅ Solution:** “The patch for this should be an organization’s highest priority,” McCarthy said
-
----
-
-#### 2. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
+#### 1. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
@@ -647,7 +643,7 @@
 
 ---
 
-#### 3. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
+#### 2. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Wed, 26 Nov 2025 18:36:06 GMT  
@@ -663,7 +659,7 @@
 
 ---
 
-#### 4. [Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities](https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/)
+#### 3. [Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities](https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 04 Dec 2025 20:23:15 GMT  
@@ -679,7 +675,7 @@
 
 ---
 
-#### 5. [Care that you share](https://blog.talosintelligence.com/care-that-you-share/)
+#### 4. [Care that you share](https://blog.talosintelligence.com/care-that-you-share/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Wed, 26 Nov 2025 17:00:48 GMT  
@@ -691,6 +687,19 @@
 - **⚠️ Issue:** Welcome to this week's edition of the Threat Source newsletter
 - **🔎 Cause:** Many teams are running with skeleton crews, whether due to holiday mode (family, turkey, football, days off) or the year-end compliance push (hello, NIS2 and DORA)
 - **✅ Solution:** Should I give them some history of STIX/TAXII
+
+---
+
+#### 5. [5 Real-Word Third-Party Risk Examples](https://www.recordedfuture.com/blog/third-party-risk-examples)
+
+**📡 Source:** Recorded Future  
+**📅 Published:** Tue, 09 Dec 2025 00:00:00 GMT  
+
+**📝 Summary:** Explore 5 third-party risk examples, from vendor data breaches to supply chain attacks and learn how third-party risk management can prevent cyberattacks.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Explore 5 third-party risk examples, from vendor data breaches to supply chain attacks and learn how third-party risk management can prevent cyberattacks
 
 ---
 
@@ -763,7 +772,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Fri, 12 Dec 2025 18:23:25 -0500  
-**🔖 CVEs:** CVE-2025-14174, CVE-2025-43529  
+**🔖 CVEs:** CVE-2025-43529, CVE-2025-14174  
 
 **📝 Summary:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an "extremely sophisticated attack" targeting specific individuals.
 

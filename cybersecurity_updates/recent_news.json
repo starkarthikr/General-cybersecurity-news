@@ -340,6 +340,52 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Beware: PayPal subscriptions abused to send fake purchase emails",
+    "link": "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/",
+    "published": "Sun, 14 Dec 2025 11:06:10 -0500",
+    "summary": "An email scam is abusing abusing PayPal's \"Subscriptions\" billing feature to send legitimate PayPal emails that contain fake purchase notifications embedded in the Customer service URL field. [...]",
+    "ai_summary": "An email scam is abusing abusing PayPal's \"Subscriptions\" billing feature to send legitimate PayPal emails that contain fake purchase notifications embedded in the Customer service URL field.",
+    "authors": [
+      "Lawrence Abrams"
+    ],
+    "analysis": {
+      "issue": "com,\" leading people to worry their accounts may have been hacked",
+      "solution": null,
+      "cause": "An email scam is abusing abusing PayPal’s \"Subscriptions\" billing feature to send legitimate PayPal emails that contain fake purchase notifications embedded in the Customer service URL field",
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CyberVolk’s ransomware debut stumbles on cryptography weakness",
+    "link": "https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/",
+    "published": "Sat, 13 Dec 2025 10:11:21 -0500",
+    "summary": "The pro-Russia hacktivist group CyberVolk launched a ransomware-as-a-service (RaaS) called VolkLocker that suffered from serious implementation flaws, allowing victims to potentially decrypt files for free. [...]",
+    "ai_summary": "The pro-Russia hacktivist group CyberVolk launched a ransomware-as-a-service (RaaS) called VolkLocker that suffered from serious implementation flaws, allowing victims to potentially decrypt files ...",
+    "authors": [
+      "Bill Toulas"
+    ],
+    "analysis": {
+      "issue": "CyberVolk is reportedly an India-based pro-Russia hacktivist collective that started operations last year, launching distributed denial of service and ransomware attacks against public and government entities opposing Russia or siding with Ukraine",
+      "solution": "The pro-Russia hacktivist group CyberVolk launched a ransomware-as-a-service (RaaS) called VolkLocker that suffered from serious implementation flaws, allowing victims to potentially decrypt files for free",
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "DDoS",
+        "Cloud Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Apple fixes two zero-day flaws exploited in 'sophisticated' attacks",
     "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/",
     "published": "Fri, 12 Dec 2025 18:23:25 -0500",
@@ -355,8 +401,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-14174",
-        "CVE-2025-43529"
+        "CVE-2025-43529",
+        "CVE-2025-14174"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -555,305 +601,7 @@
     "ai_summary": "Brave has introduced a new AI browsing feature that leverages Leo, its privacy-respecting AI assistant, to perform automated tasks for the user.",
     "authors": [
       "Bill Toulas"
-    ],
-    "analysis": {
-      "issue": "Brave stresses that agentic AI browsing is \"inherently dangerous\" and shouldn’t be used for critical operations, mainly due to prompt injection attacks and the potential for misinterpreting users' intent",
-      "solution": "To mitigate this risk, the new mode runs on a separate, isolated profile that does not have access to the user’s cookies, login information, and other sensitive data",
-      "cause": "Brave stresses that agentic AI browsing is \"inherently dangerous\" and shouldn’t be used for critical operations, mainly due to prompt injection attacks and the potential for misinterpreting users' intent",
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-gladinet-centrestack-cryptographic-flaw-in-rce-attacks/",
-    "published": "Thu, 11 Dec 2025 16:49:10 -0500",
-    "summary": "Hackers are exploiting a new, undocumented vulnerability in the implementation of the cryptographic algorithm present in Gladinet's CentreStack and Triofox products for secure remote file access and sharing. [...]",
-    "ai_summary": "Hackers are exploiting a new, undocumented vulnerability in the implementation of the cryptographic algorithm present in Gladinet's CentreStack and Triofox products for secure remote file access an...",
-    "authors": [
-      "Bill Toulas"
-    ],
-    "analysis": {
-      "issue": "Hackers are exploiting a new, undocumented vulnerability in the implementation of the cryptographic algorithm present in Gladinet's CentreStack and Triofox products for secure remote file access and sharing",
-      "solution": "Although the new cryptographic vulnerability does not have an official identifier, Gladinet notified customers about it and advised them to update the products to the latest version, which, at the time of the communication, had been released on Novem",
-      "cause": "Hackers are exploiting a new, undocumented vulnerability in the implementation of the cryptographic algorithm present in Gladinet's CentreStack and Triofox products for secure remote file access and sharing",
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-30406"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Notepad++ fixes flaw that let attackers push malicious update files",
-    "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/",
-    "published": "Thu, 11 Dec 2025 16:04:15 -0500",
-    "summary": "Notepad++ version 8.8.9 was released to fix a security weakness in its WinGUp update tool after researchers and users reported incidents in which the updater retrieved malicious executables instead of legitimate update packages. [...]",
-    "ai_summary": "9 was released to fix a security weakness in its WinGUp update tool after researchers and users reported incidents in which the updater retrieved malicious executables instead of legitimate update ...",
-    "authors": [
-      "Lawrence Abrams"
     ]
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Malicious VSCode Marketplace extensions hid trojan in fake PNG file",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-vscode-marketplace-extensions-hid-trojan-in-fake-png-file/",
-    "published": "Thu, 11 Dec 2025 15:54:21 -0500",
-    "summary": "A stealthy campaign with 19 extensions on the VSCode Marketplace has been active since February, targeting developers with malware hidden inside dependency folders. [...]",
-    "ai_summary": "A stealthy campaign with 19 extensions on the VSCode Marketplace has been active since February, targeting developers with malware hidden inside dependency folders.",
-    "authors": [
-      "Bill Toulas"
-    ]
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Microsoft Patch Tuesday, December 2025 Edition",
-    "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-    "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-    "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-    "ai_summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.",
-    "authors": [
-      "BrianKrebs"
-    ],
-    "analysis": {
-      "issue": "The zero-day flaw patched today is CVE-2025-62221, a privilege escalation vulnerability affecting Windows 10 and later editions",
-      "solution": "This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities",
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-59516",
-        "CVE-2025-62221",
-        "CVE-2025-62557",
-        "CVE-2025-62554",
-        "CVE-2025-59517",
-        "CVE-2025-62458",
-        "CVE-2025-62562",
-        "CVE-2025-62470",
-        "CVE-2025-62472"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-    "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-    "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-    "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
-    "ai_summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university bu...",
-    "authors": [
-      "BrianKrebs"
-    ],
-    "analysis": {
-      "issue": "The link between essay mills and Russian attack drones might seem improbable, but understanding it begins with a simple question: How does a human-intensive academic cheating service stay relevant in an era when students can simply ask AI to write th",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT/Nation-State"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-    "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-    "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-    "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
-    "ai_summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phi...",
-    "authors": [
-      "BrianKrebs"
-    ],
-    "analysis": {
-      "issue": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
-    "link": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
-    "published": "Wed, 26 Nov 2025 17:22:36 +0000",
-    "summary": "A prolific cybercriminal group that calls itself \"Scattered LAPSUS$ Hunters\" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations. But the tables seem to have turned somewhat for \"Rey,\" the moniker chosen by the technical operator and public face of the hacker group: Earlier this week, Rey confirmed his real life identity and agreed to an interview after KrebsOnSecurity tracked him down and contacted his father.",
-    "ai_summary": "A prolific cybercriminal group that calls itself \"Scattered LAPSUS$ Hunters\" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations.",
-    "authors": [
-      "BrianKrebs"
-    ],
-    "analysis": {
-      "issue": "The group later launched a data leak portal that threatened to publish the internal data of three dozen companies that allegedly had Salesforce data stolen, including Toyota, FedEx, Disney/Hulu, and UPS",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Is Your Android TV Streaming Box Part of a Botnet?",
-    "link": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
-    "published": "Mon, 24 Nov 2025 18:44:52 +0000",
-    "summary": "On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming services like Netflix, ESPN and Hulu, all for a one-time fee of around $400. But security experts warn these TV boxes require intrusive software that forces the user's network to relay Internet traffic for others, traffic that is often tied to cybercrime activity such as advertising fraud and account takeovers.",
-    "ai_summary": "On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming ...",
-    "authors": [
-      "BrianKrebs"
-    ],
-    "analysis": {
-      "issue": "Is Your Android TV Streaming Box Part of a Botnet?",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
-    "link": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
-    "published": "Thu, 20 Nov 2025 19:06:51 +0000",
-    "summary": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep's founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will officially end next month.",
-    "ai_summary": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of p...",
-    "authors": [
-      "BrianKrebs"
-    ],
-    "analysis": {
-      "issue": "“We will continue to offer our free Monitor data breach service, which is integrated into Firefox’s credential manager, and we are focused on integrating more of our privacy and security experiences in Firefox, including our VPN, for free,” the advis",
-      "solution": "In March 2024, Mozilla said it was winding down its collaboration with Onerep — an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites — after KrebsOnSecurity revealed On",
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "The Cloudflare Outage May Be a Security Roadmap",
-    "link": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
-    "published": "Wed, 19 Nov 2025 14:07:03 +0000",
-    "summary": "An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet's top destinations offline. Some affected Cloudflare customers were able to pivot away from the platform temporarily so that visitors could still access their websites. But security experts say doing so may have also triggered an impromptu network penetration test for organizations that have come to rely on Cloudflare to block many types of abusive and malicious traffic.",
-    "ai_summary": "An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet's top destinations offline.",
-    "authors": [
-      "BrianKrebs"
-    ],
-    "analysis": {
-      "issue": "Turner said Cloudflare’s WAF does a good job filtering out malicious traffic that matches any one of the top ten types of application-layer attacks, including credential stuffing, cross-site scripting, SQL injection, bot attacks and API abuse",
-      "solution": "Any organization that made that decision needs to look closely at any exposed infrastructure to see if they have someone persisting after they’ve switched back to Cloudflare protections",
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Microsoft Patch Tuesday, November 2025 Edition",
-    "link": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
-    "published": "Sun, 16 Nov 2025 21:47:14 +0000",
-    "summary": "Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being exploited. Microsoft also fixed a glitch that prevented some Windows 10 users from taking advantage of an extra year of security updates, which is nice because the zero-day flaw and other critical weaknesses patched today affect all versions of Windows, including Windows 10.",
-    "ai_summary": "Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...",
-    "authors": [
-      "BrianKrebs"
-    ],
-    "analysis": {
-      "issue": "“However, exploiting this specific vulnerability is likely to be relatively straightforward, given the existence of prior similar vulnerabilities",
-      "solution": "“The patch for this should be an organization’s highest priority,” McCarthy said",
-      "cause": "Despite the flaw’s zero-day status, Microsoft has assigned it an “important” rating rather than critical, because exploiting it requires an attacker to already have access to the target’s device",
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-62215",
-        "CVE-2025-60274",
-        "CVE-2025-62199"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain",
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
-    "link": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
-    "published": "Thu, 13 Nov 2025 14:47:22 +0000",
-    "summary": "Google is suing more than two dozen unnamed individuals allegedly involved in peddling a popular China-based mobile phishing service that helps scammers impersonate hundreds of trusted brands, blast out text message lures, and convert phished payment card data into mobile wallets from Apple and Google.",
-    "ai_summary": "Google is suing more than two dozen unnamed individuals allegedly involved in peddling a popular China-based mobile phishing service that helps scammers impersonate hundreds of trusted brands, blas...",
-    "authors": [
-      "BrianKrebs"
-    ],
-    "analysis": {
-      "issue": "Google called the scale of the Lighthouse phishing attacks “staggering",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
-    "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
-    "published": "Sun, 09 Nov 2025 18:14:40 +0000",
-    "summary": "The U.S. government is reportedly preparing to ban the sale of wireless routers and other networking gear from TP-Link Systems, a tech company that currently enjoys an estimated 50% market share among home users and small businesses. Experts say while the proposed ban may have more to do with TP-Link's ties to China than any specific technical threats, much of the rest of the industry serving this market also sources hardware from China and ships products that are insecure fresh out of the box.",
-    "ai_summary": "government is reportedly preparing to ban the sale of wireless routers and other networking gear from TP-Link Systems, a tech company that currently enjoys an estimated 50% market share among home ...",
-    "authors": [
-      "BrianKrebs"
-    ],
-    "analysis": {
-      "issue": "Experts say while the proposed ban may have more to do with TP-Link’s ties to China than any specific technical threats, much of the rest of the industry serving this market also sources hardware from China and ships products that are insecure fresh ",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
   },
   {
     "source": "Security Week",
@@ -1020,12 +768,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62553",
         "CVE-2025-62557",
-        "CVE-2025-62554",
         "CVE-2025-62456",
+        "CVE-2025-62556",
+        "CVE-2025-62554",
         "CVE-2025-62549",
-        "CVE-2025-62556"
+        "CVE-2025-62553"
       ],
       "threat_categories": [
         "Vulnerability"
