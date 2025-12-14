@@ -355,8 +355,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-43529",
-        "CVE-2025-14174"
+        "CVE-2025-14174",
+        "CVE-2025-43529"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -577,7 +577,20 @@
     "ai_summary": "Hackers are exploiting a new, undocumented vulnerability in the implementation of the cryptographic algorithm present in Gladinet's CentreStack and Triofox products for secure remote file access an...",
     "authors": [
       "Bill Toulas"
-    ]
+    ],
+    "analysis": {
+      "issue": "Hackers are exploiting a new, undocumented vulnerability in the implementation of the cryptographic algorithm present in Gladinet's CentreStack and Triofox products for secure remote file access and sharing",
+      "solution": "Although the new cryptographic vulnerability does not have an official identifier, Gladinet notified customers about it and advised them to update the products to the latest version, which, at the time of the communication, had been released on Novem",
+      "cause": "Hackers are exploiting a new, undocumented vulnerability in the implementation of the cryptographic algorithm present in Gladinet's CentreStack and Triofox products for secure remote file access and sharing",
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-30406"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
@@ -618,15 +631,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62458",
-        "CVE-2025-62470",
-        "CVE-2025-62221",
-        "CVE-2025-62472",
-        "CVE-2025-59517",
-        "CVE-2025-62554",
-        "CVE-2025-62562",
         "CVE-2025-59516",
-        "CVE-2025-62557"
+        "CVE-2025-62221",
+        "CVE-2025-62557",
+        "CVE-2025-62554",
+        "CVE-2025-59517",
+        "CVE-2025-62458",
+        "CVE-2025-62562",
+        "CVE-2025-62470",
+        "CVE-2025-62472"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -786,9 +799,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-62215",
         "CVE-2025-60274",
-        "CVE-2025-62199",
-        "CVE-2025-62215"
+        "CVE-2025-62199"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1008,11 +1021,11 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-62553",
-        "CVE-2025-62554",
         "CVE-2025-62557",
+        "CVE-2025-62554",
+        "CVE-2025-62456",
         "CVE-2025-62549",
-        "CVE-2025-62556",
-        "CVE-2025-62456"
+        "CVE-2025-62556"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1297,8 +1310,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-60724",
-        "CVE-2025-62215"
+        "CVE-2025-62215",
+        "CVE-2025-60724"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1823,8 +1836,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
