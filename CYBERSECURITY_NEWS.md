@@ -1,13 +1,28 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-13 20:28:47 UTC
+**Last Updated:** 2025-12-14 01:48:52 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
 
 ### 🔴 APT/Nation-State
 
-#### 1. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
+#### 1. [In Other News: PromptPwnd Attack, macOS Bounty Complaints, Chinese Hackers Trained in Cisco Academy](https://www.securityweek.com/in-other-news-promptpwnd-attack-small-macos-bounties-chinese-hackers-trained-in-cisco-academy/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Security Week  
+**📅 Published:** Fri, 12 Dec 2025 15:39:35 +0000  
+
+**📝 Summary:** Other noteworthy stories that might have slipped under the radar: Pentagon orders accelerated move to PQC, US shuts down scheme to smuggle GPUs to China, DroidLock Android ransomware.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Each week, we curate and present a collection of noteworthy developments, ranging from the latest vulnerability discoveries and emerging attack techniques to significant policy changes and industry reports
+- **✅ Solution:** Google patched the issue in Gemini CLI within days of being notified
+
+---
+
+#### 2. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -23,7 +38,7 @@
 
 ---
 
-#### 2. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
+#### 3. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
@@ -40,7 +55,7 @@
 
 ---
 
-#### 3. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
+#### 4. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Sophos News  
@@ -54,7 +69,7 @@
 
 ---
 
-#### 4. [Watering Hole Attacks Push ScanBox Keylogger](https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/)
+#### 5. [Watering Hole Attacks Push ScanBox Keylogger](https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/)
 
 🟡 **MEDIUM**  
 **📡 Source:** Threat Post  
@@ -65,23 +80,6 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** A China-based threat actor has ramped up efforts to distribute the ScanBox reconnaissance framework to victims that include domestic Australian organizations and offshore energy firms in the South China Sea
-
----
-
-#### 5. [Sharpening the knife: GOLD BLADE’s strategic evolution](https://news.sophos.com/en-us/2025/12/05/sharpening-the-knife-gold-blades-strategic-evolution/)
-
-🟡 **MEDIUM**  
-**📡 Source:** Sophos News  
-**📅 Published:** Fri, 05 Dec 2025 13:24:37 +0000  
-
-**📝 Summary:** Updates include novel abuse of recruitment platforms, modified infection chains, and expansion into a hybrid operation that combines data theft and ransomware deployment.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Between February 2024 and August 2025, Sophos analysts investigated nearly 40 intrusions related to  STAC6565, a campaign the analysts assess with high confidence is associated with the GOLD BLADE threat group (also known as RedCurl, RedWolf, and Ear
-- **🔎 Cause:** GOLD BLADE continually refines its intrusion methods and has shifted from traditional phishing emails to abusing recruitment platforms to deliver weaponized resumes
-- **✅ Solution:** GOLD BLADE’s ability to cycle through delivery methods and refine its techniques over time reflects a professionalized operation that treats intrusions as a core service requiring routine updates to maintain effectiveness
-- **⏰ Timeline:** Observed GOLD BLADE activity from August 2024 through August 2025 Analysis of STAC6565 victimology suggests that GOLD BLADE h
 
 ---
 
@@ -108,7 +106,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Fri, 12 Dec 2025 18:23:25 -0500  
-**🔖 CVEs:** CVE-2025-43529, CVE-2025-14174  
+**🔖 CVEs:** CVE-2025-14174, CVE-2025-43529  
 
 **📝 Summary:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an "extremely sophisticated attack" targeting specific individuals.
 
@@ -156,7 +154,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62472, CVE-2025-59517, CVE-2025-62554, CVE-2025-62458, CVE-2025-59516, CVE-2025-62470, CVE-2025-62562, CVE-2025-62221, CVE-2025-62557  
+**🔖 CVEs:** CVE-2025-62557, CVE-2025-62221, CVE-2025-62472, CVE-2025-62562, CVE-2025-59517, CVE-2025-59516, CVE-2025-62458, CVE-2025-62470, CVE-2025-62554  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -323,7 +321,22 @@
 
 ### 🔴 IoT/OT
 
-#### 1. [Watering Hole Attacks Push ScanBox Keylogger](https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/)
+#### 1. [In Other News: PromptPwnd Attack, macOS Bounty Complaints, Chinese Hackers Trained in Cisco Academy](https://www.securityweek.com/in-other-news-promptpwnd-attack-small-macos-bounties-chinese-hackers-trained-in-cisco-academy/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Security Week  
+**📅 Published:** Fri, 12 Dec 2025 15:39:35 +0000  
+
+**📝 Summary:** Other noteworthy stories that might have slipped under the radar: Pentagon orders accelerated move to PQC, US shuts down scheme to smuggle GPUs to China, DroidLock Android ransomware.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Each week, we curate and present a collection of noteworthy developments, ranging from the latest vulnerability discoveries and emerging attack techniques to significant policy changes and industry reports
+- **✅ Solution:** Google patched the issue in Gemini CLI within days of being notified
+
+---
+
+#### 2. [Watering Hole Attacks Push ScanBox Keylogger](https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/)
 
 🟡 **MEDIUM**  
 **📡 Source:** Threat Post  
@@ -337,7 +350,7 @@
 
 ---
 
-#### 2. [Security for AI Building, Not Security for AI Buildings](https://cloudsecurityalliance.org/articles/security-for-ai-building-not-security-for-ai-buildings)
+#### 3. [Security for AI Building, Not Security for AI Buildings](https://cloudsecurityalliance.org/articles/security-for-ai-building-not-security-for-ai-buildings)
 
 **📡 Source:** Cloud Security  
 **📅 Published:** Mon, 08 Dec 2025 18:08:37 -0800  
@@ -350,7 +363,7 @@
 
 ---
 
-#### 3. [Zero Trust for OT in Manufacturing: A Practical Path to Modern Industrial Security](https://cloudsecurityalliance.org/articles/zero-trust-for-ot-in-manufacturing-a-practical-path-to-modern-industrial-security)
+#### 4. [Zero Trust for OT in Manufacturing: A Practical Path to Modern Industrial Security](https://cloudsecurityalliance.org/articles/zero-trust-for-ot-in-manufacturing-a-practical-path-to-modern-industrial-security)
 
 **📡 Source:** Cloud Security  
 **📅 Published:** Mon, 08 Dec 2025 09:47:44 -0800  
@@ -366,7 +379,22 @@
 
 ### 🔴 Malware
 
-#### 1. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
+#### 1. [In Other News: PromptPwnd Attack, macOS Bounty Complaints, Chinese Hackers Trained in Cisco Academy](https://www.securityweek.com/in-other-news-promptpwnd-attack-small-macos-bounties-chinese-hackers-trained-in-cisco-academy/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Security Week  
+**📅 Published:** Fri, 12 Dec 2025 15:39:35 +0000  
+
+**📝 Summary:** Other noteworthy stories that might have slipped under the radar: Pentagon orders accelerated move to PQC, US shuts down scheme to smuggle GPUs to China, DroidLock Android ransomware.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Each week, we curate and present a collection of noteworthy developments, ranging from the latest vulnerability discoveries and emerging attack techniques to significant policy changes and industry reports
+- **✅ Solution:** Google patched the issue in Gemini CLI within days of being notified
+
+---
+
+#### 2. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -382,7 +410,7 @@
 
 ---
 
-#### 2. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+#### 3. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
 
 **📡 Source:** Krebs On Security  
 **📅 Published:** Mon, 24 Nov 2025 18:44:52 +0000  
@@ -395,7 +423,7 @@
 
 ---
 
-#### 3. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
+#### 4. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
@@ -408,7 +436,7 @@
 
 ---
 
-#### 4. [Viasat and the terrible, horrible, no good, very bad day](https://blog.talosintelligence.com/viasat-and-the-terrible-horrible-no-good-very-bad-day/)
+#### 5. [Viasat and the terrible, horrible, no good, very bad day](https://blog.talosintelligence.com/viasat-and-the-terrible-horrible-no-good-very-bad-day/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 13 Nov 2025 19:00:14 GMT  
@@ -419,20 +447,6 @@
 
 - **⚠️ Issue:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
 - **🔎 Cause:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
-
----
-
-#### 5. [AI Malware: Hype vs. Reality](https://www.recordedfuture.com/blog/ai-malware-hype-vs-reality)
-
-**📡 Source:** Recorded Future  
-**📅 Published:** Mon, 01 Dec 2025 00:00:00 GMT  
-
-**📝 Summary:** A grounded look at AI malware: most threats sit at low maturity levels, with no verified autonomous BYOAI attacks.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** A grounded look at AI malware: most threats sit at low maturity levels, with no verified autonomous BYOAI attacks
-- **✅ Solution:** Learn what’s real, what’s hype, and how defenders should respond
 
 ---
 
@@ -454,7 +468,22 @@
 
 ---
 
-#### 2. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
+#### 2. [In Other News: PromptPwnd Attack, macOS Bounty Complaints, Chinese Hackers Trained in Cisco Academy](https://www.securityweek.com/in-other-news-promptpwnd-attack-small-macos-bounties-chinese-hackers-trained-in-cisco-academy/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Security Week  
+**📅 Published:** Fri, 12 Dec 2025 15:39:35 +0000  
+
+**📝 Summary:** Other noteworthy stories that might have slipped under the radar: Pentagon orders accelerated move to PQC, US shuts down scheme to smuggle GPUs to China, DroidLock Android ransomware.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Each week, we curate and present a collection of noteworthy developments, ranging from the latest vulnerability discoveries and emerging attack techniques to significant policy changes and industry reports
+- **✅ Solution:** Google patched the issue in Gemini CLI within days of being notified
+
+---
+
+#### 3. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -470,7 +499,7 @@
 
 ---
 
-#### 3. [GhostFrame phishing kit fuels widespread attacks against millions](https://www.malwarebytes.com/blog/news/2025/12/ghostframe-phishing-kit-fuels-widespread-attacks-against-millions)
+#### 4. [GhostFrame phishing kit fuels widespread attacks against millions](https://www.malwarebytes.com/blog/news/2025/12/ghostframe-phishing-kit-fuels-widespread-attacks-against-millions)
 
 🔴 **CRITICAL**  
 **📡 Source:** Malwarebytes  
@@ -482,6 +511,71 @@
 
 - **⚠️ Issue:** Threat analysts spotted a series of phishing attacks featuring tools and techniques they hadn’t seen before
 - **⏰ Timeline:** -service (PhaaS) kit, tracked since September 2025, that has already powered more than a million phishing attacks. Threat analysts
+
+---
+
+#### 5. [Sharpening the knife: GOLD BLADE’s strategic evolution](https://news.sophos.com/en-us/2025/12/05/sharpening-the-knife-gold-blades-strategic-evolution/)
+
+🟡 **MEDIUM**  
+**📡 Source:** Sophos News  
+**📅 Published:** Fri, 05 Dec 2025 13:24:37 +0000  
+
+**📝 Summary:** Updates include novel abuse of recruitment platforms, modified infection chains, and expansion into a hybrid operation that combines data theft and ransomware deployment.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Between February 2024 and August 2025, Sophos analysts investigated nearly 40 intrusions related to  STAC6565, a campaign the analysts assess with high confidence is associated with the GOLD BLADE threat group (also known as RedCurl, RedWolf, and Ear
+- **🔎 Cause:** GOLD BLADE continually refines its intrusion methods and has shifted from traditional phishing emails to abusing recruitment platforms to deliver weaponized resumes
+- **✅ Solution:** GOLD BLADE’s ability to cycle through delivery methods and refine its techniques over time reflects a professionalized operation that treats intrusions as a core service requiring routine updates to maintain effectiveness
+- **⏰ Timeline:** Observed GOLD BLADE activity from August 2024 through August 2025 Analysis of STAC6565 victimology suggests that GOLD BLADE h
+
+---
+
+
+### 🔴 Ransomware
+
+#### 1. [In Other News: PromptPwnd Attack, macOS Bounty Complaints, Chinese Hackers Trained in Cisco Academy](https://www.securityweek.com/in-other-news-promptpwnd-attack-small-macos-bounties-chinese-hackers-trained-in-cisco-academy/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Security Week  
+**📅 Published:** Fri, 12 Dec 2025 15:39:35 +0000  
+
+**📝 Summary:** Other noteworthy stories that might have slipped under the radar: Pentagon orders accelerated move to PQC, US shuts down scheme to smuggle GPUs to China, DroidLock Android ransomware.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Each week, we curate and present a collection of noteworthy developments, ranging from the latest vulnerability discoveries and emerging attack techniques to significant policy changes and industry reports
+- **✅ Solution:** Google patched the issue in Gemini CLI within days of being notified
+
+---
+
+#### 2. [New BYOVD loader behind DeadLock ransomware attack](https://blog.talosintelligence.com/byovd-loader-deadlock-ransomware/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Talos Blog  
+**📅 Published:** Tue, 09 Dec 2025 11:00:25 GMT  
+**🔖 CVEs:** CVE-2024-51324  
+
+**📝 Summary:** Cisco Talos has uncovered a new DeadLock ransomware campaign using a previously unknown BYOVD loader to exploit a Baidu Antivirus driver vulnerability, letting threat actors disable EDR defenses an...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** sys”, a legitimate Baidu Antivirus driver containing an Improper Privilege Management vulnerability with CVE-2024-51324 — which the actor disguised using the file name “DriverGay
+- **🔎 Cause:** Due to the CVE-2024-51324 vulnerability, the driver fails to validate if the user-mode program has the necessary permissions to make this request
+
+---
+
+#### 3. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Sophos News  
+**📅 Published:** Thu, 11 Dec 2025 10:00:59 +0000  
+
+**📝 Summary:** Analysis of the tradecraft evolution across 6 months and 11 incidents.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** In mid-August 2025, Counter Threat Unit™ (CTU) researchers identified the use of the legitimate Velociraptor digital forensics and incident response (DFIR) tool in likely ransomware precursor activity
 
 ---
 
@@ -502,70 +596,7 @@
 
 ---
 
-#### 5. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
-
-**📡 Source:** Talos Blog  
-**📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
-
-**📝 Summary:** Bill explores how our biggest mistakes can be the catalysts for growth that we need.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Adversaries are using GenAI for coding, phishing, evasion, and vulnerability discovery, especially as uncensored models become more widely available
-
----
-
-
-### 🔴 Ransomware
-
-#### 1. [New BYOVD loader behind DeadLock ransomware attack](https://blog.talosintelligence.com/byovd-loader-deadlock-ransomware/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Talos Blog  
-**📅 Published:** Tue, 09 Dec 2025 11:00:25 GMT  
-**🔖 CVEs:** CVE-2024-51324  
-
-**📝 Summary:** Cisco Talos has uncovered a new DeadLock ransomware campaign using a previously unknown BYOVD loader to exploit a Baidu Antivirus driver vulnerability, letting threat actors disable EDR defenses an...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** sys”, a legitimate Baidu Antivirus driver containing an Improper Privilege Management vulnerability with CVE-2024-51324 — which the actor disguised using the file name “DriverGay
-- **🔎 Cause:** Due to the CVE-2024-51324 vulnerability, the driver fails to validate if the user-mode program has the necessary permissions to make this request
-
----
-
-#### 2. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Sophos News  
-**📅 Published:** Thu, 11 Dec 2025 10:00:59 +0000  
-
-**📝 Summary:** Analysis of the tradecraft evolution across 6 months and 11 incidents.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** In mid-August 2025, Counter Threat Unit™ (CTU) researchers identified the use of the legitimate Velociraptor digital forensics and incident response (DFIR) tool in likely ransomware precursor activity
-
----
-
-#### 3. [Sharpening the knife: GOLD BLADE’s strategic evolution](https://news.sophos.com/en-us/2025/12/05/sharpening-the-knife-gold-blades-strategic-evolution/)
-
-🟡 **MEDIUM**  
-**📡 Source:** Sophos News  
-**📅 Published:** Fri, 05 Dec 2025 13:24:37 +0000  
-
-**📝 Summary:** Updates include novel abuse of recruitment platforms, modified infection chains, and expansion into a hybrid operation that combines data theft and ransomware deployment.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Between February 2024 and August 2025, Sophos analysts investigated nearly 40 intrusions related to  STAC6565, a campaign the analysts assess with high confidence is associated with the GOLD BLADE threat group (also known as RedCurl, RedWolf, and Ear
-- **🔎 Cause:** GOLD BLADE continually refines its intrusion methods and has shifted from traditional phishing emails to abusing recruitment platforms to deliver weaponized resumes
-- **✅ Solution:** GOLD BLADE’s ability to cycle through delivery methods and refine its techniques over time reflects a professionalized operation that treats intrusions as a core service requiring routine updates to maintain effectiveness
-- **⏰ Timeline:** Observed GOLD BLADE activity from August 2024 through August 2025 Analysis of STAC6565 victimology suggests that GOLD BLADE h
-
----
-
-#### 4. [Inside Shanya, a packer-as-a-service fueling modern attacks](https://news.sophos.com/en-us/2025/12/06/inside-shanya-a-packer-as-a-service-fueling-modern-attacks/)
+#### 5. [Inside Shanya, a packer-as-a-service fueling modern attacks](https://news.sophos.com/en-us/2025/12/06/inside-shanya-a-packer-as-a-service-fueling-modern-attacks/)
 
 **📡 Source:** Sophos News  
 **📅 Published:** Sun, 07 Dec 2025 02:57:18 +0000  
@@ -580,19 +611,6 @@
 
 ---
 
-#### 5. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
-
-**📡 Source:** Krebs On Security  
-**📅 Published:** Wed, 26 Nov 2025 17:22:36 +0000  
-
-**📝 Summary:** A prolific cybercriminal group that calls itself "Scattered LAPSUS$ Hunters" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** The group later launched a data leak portal that threatened to publish the internal data of three dozen companies that allegedly had Salesforce data stolen, including Toyota, FedEx, Disney/Hulu, and UPS
-
----
-
 
 ### 🔴 Supply Chain
 
@@ -601,7 +619,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62215, CVE-2025-60274, CVE-2025-62199  
+**🔖 CVEs:** CVE-2025-60274, CVE-2025-62199, CVE-2025-62215  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -745,7 +763,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Fri, 12 Dec 2025 18:23:25 -0500  
-**🔖 CVEs:** CVE-2025-43529, CVE-2025-14174  
+**🔖 CVEs:** CVE-2025-14174, CVE-2025-43529  
 
 **📝 Summary:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an "extremely sophisticated attack" targeting specific individuals.
 
