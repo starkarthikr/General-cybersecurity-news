@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-14 16:31:06 UTC
+**Last Updated:** 2025-12-14 20:29:25 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -106,7 +106,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Fri, 12 Dec 2025 18:23:25 -0500  
-**🔖 CVEs:** CVE-2025-43529, CVE-2025-14174  
+**🔖 CVEs:** CVE-2025-14174, CVE-2025-43529  
 
 **📝 Summary:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an "extremely sophisticated attack" targeting specific individuals.
 
@@ -149,18 +149,19 @@
 
 ---
 
-#### 5. [November 2025 CVE Landscape: 10 Critical Vulnerabilities Show 69% Drop from October](https://www.recordedfuture.com/blog/november-2025-cve-landscape)
+#### 5. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 🔴 **CRITICAL**  
-**📡 Source:** Recorded Future  
-**📅 Published:** Tue, 09 Dec 2025 00:00:00 GMT  
+**📡 Source:** Krebs On Security  
+**📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
+**🔖 CVEs:** CVE-2025-62554, CVE-2025-62472, CVE-2025-59516, CVE-2025-62470, CVE-2025-59517, CVE-2025-62458, CVE-2025-62557, CVE-2025-62221, CVE-2025-62562  
 
-**📝 Summary:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching.
+**📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching
-- **✅ Solution:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching
+- **⚠️ Issue:** The zero-day flaw patched today is CVE-2025-62221, a privilege escalation vulnerability affecting Windows 10 and later editions
+- **✅ Solution:** This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities
 
 ---
 
@@ -423,7 +424,20 @@
 
 ---
 
-#### 3. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
+#### 3. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+
+**📡 Source:** Krebs On Security  
+**📅 Published:** Mon, 24 Nov 2025 18:44:52 +0000  
+
+**📝 Summary:** On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming ...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Is Your Android TV Streaming Box Part of a Botnet?
+
+---
+
+#### 4. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
@@ -436,7 +450,7 @@
 
 ---
 
-#### 4. [Viasat and the terrible, horrible, no good, very bad day](https://blog.talosintelligence.com/viasat-and-the-terrible-horrible-no-good-very-bad-day/)
+#### 5. [Viasat and the terrible, horrible, no good, very bad day](https://blog.talosintelligence.com/viasat-and-the-terrible-horrible-no-good-very-bad-day/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 13 Nov 2025 19:00:14 GMT  
@@ -447,20 +461,6 @@
 
 - **⚠️ Issue:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
 - **🔎 Cause:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
-
----
-
-#### 5. [AI Malware: Hype vs. Reality](https://www.recordedfuture.com/blog/ai-malware-hype-vs-reality)
-
-**📡 Source:** Recorded Future  
-**📅 Published:** Mon, 01 Dec 2025 00:00:00 GMT  
-
-**📝 Summary:** A grounded look at AI malware: most threats sit at low maturity levels, with no verified autonomous BYOAI attacks.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** A grounded look at AI malware: most threats sit at low maturity levels, with no verified autonomous BYOAI attacks
-- **✅ Solution:** Learn what’s real, what’s hype, and how defenders should respond
 
 ---
 
@@ -627,7 +627,24 @@
 
 ### 🔴 Supply Chain
 
-#### 1. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
+#### 1. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Krebs On Security  
+**📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
+**🔖 CVEs:** CVE-2025-62199, CVE-2025-62215, CVE-2025-60274  
+
+**📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** “However, exploiting this specific vulnerability is likely to be relatively straightforward, given the existence of prior similar vulnerabilities
+- **🔎 Cause:** Despite the flaw’s zero-day status, Microsoft has assigned it an “important” rating rather than critical, because exploiting it requires an attacker to already have access to the target’s device
+- **✅ Solution:** “The patch for this should be an organization’s highest priority,” McCarthy said
+
+---
+
+#### 2. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
@@ -643,7 +660,7 @@
 
 ---
 
-#### 2. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
+#### 3. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Wed, 26 Nov 2025 18:36:06 GMT  
@@ -659,7 +676,7 @@
 
 ---
 
-#### 3. [Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities](https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/)
+#### 4. [Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities](https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 04 Dec 2025 20:23:15 GMT  
@@ -675,7 +692,7 @@
 
 ---
 
-#### 4. [Care that you share](https://blog.talosintelligence.com/care-that-you-share/)
+#### 5. [Care that you share](https://blog.talosintelligence.com/care-that-you-share/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Wed, 26 Nov 2025 17:00:48 GMT  
@@ -687,19 +704,6 @@
 - **⚠️ Issue:** Welcome to this week's edition of the Threat Source newsletter
 - **🔎 Cause:** Many teams are running with skeleton crews, whether due to holiday mode (family, turkey, football, days off) or the year-end compliance push (hello, NIS2 and DORA)
 - **✅ Solution:** Should I give them some history of STIX/TAXII
-
----
-
-#### 5. [5 Real-Word Third-Party Risk Examples](https://www.recordedfuture.com/blog/third-party-risk-examples)
-
-**📡 Source:** Recorded Future  
-**📅 Published:** Tue, 09 Dec 2025 00:00:00 GMT  
-
-**📝 Summary:** Explore 5 third-party risk examples, from vendor data breaches to supply chain attacks and learn how third-party risk management can prevent cyberattacks.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Explore 5 third-party risk examples, from vendor data breaches to supply chain attacks and learn how third-party risk management can prevent cyberattacks
 
 ---
 
@@ -772,7 +776,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Fri, 12 Dec 2025 18:23:25 -0500  
-**🔖 CVEs:** CVE-2025-43529, CVE-2025-14174  
+**🔖 CVEs:** CVE-2025-14174, CVE-2025-43529  
 
 **📝 Summary:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an "extremely sophisticated attack" targeting specific individuals.
 
