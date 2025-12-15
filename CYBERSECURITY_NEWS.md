@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-15 04:48:25 UTC
+**Last Updated:** 2025-12-15 08:39:27 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -106,7 +106,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Fri, 12 Dec 2025 18:23:25 -0500  
-**🔖 CVEs:** CVE-2025-14174, CVE-2025-43529  
+**🔖 CVEs:** CVE-2025-43529, CVE-2025-14174  
 
 **📝 Summary:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an "extremely sophisticated attack" targeting specific individuals.
 
@@ -154,7 +154,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62562, CVE-2025-62554, CVE-2025-59516, CVE-2025-62458, CVE-2025-62472, CVE-2025-59517, CVE-2025-62557, CVE-2025-62221, CVE-2025-62470  
+**🔖 CVEs:** CVE-2025-59516, CVE-2025-62472, CVE-2025-59517, CVE-2025-62562, CVE-2025-62557, CVE-2025-62221, CVE-2025-62458, CVE-2025-62470, CVE-2025-62554  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -424,7 +424,20 @@
 
 ---
 
-#### 3. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+#### 3. [VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption](https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html)
+
+**📡 Source:** The Hacker News  
+**📅 Published:** Mon, 15 Dec 2025 11:03:00 +0530  
+
+**📝 Summary:** The pro-Russian hacktivist group known as CyberVolk (aka GLORIAMIST) has resurfaced with a new ransomware-as-a-service (RaaS) offering called VolkLocker that suffers from implementation lapses in t...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Cybersecurity, Ransomware, Malware, Encryption, Cybercrime, Linux, Windows, Telegram, Data Recovery
+
+---
+
+#### 4. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
 
 **📡 Source:** Krebs On Security  
 **📅 Published:** Mon, 24 Nov 2025 18:44:52 +0000  
@@ -437,7 +450,7 @@
 
 ---
 
-#### 4. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
+#### 5. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
@@ -447,20 +460,6 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** Adversaries are using GenAI for coding, phishing, evasion, and vulnerability discovery, especially as uncensored models become more widely available
-
----
-
-#### 5. [Viasat and the terrible, horrible, no good, very bad day](https://blog.talosintelligence.com/viasat-and-the-terrible-horrible-no-good-very-bad-day/)
-
-**📡 Source:** Talos Blog  
-**📅 Published:** Thu, 13 Nov 2025 19:00:14 GMT  
-
-**📝 Summary:** In this week’s newsletter, Amy recounts her journey from Halloween festivities to unraveling the story of the 2022 Viasat satellite hack, with plenty of cybersecurity surprises along the way.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
-- **🔎 Cause:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
 
 ---
 
@@ -610,17 +609,16 @@
 
 ---
 
-#### 5. [CyberVolk’s ransomware debut stumbles on cryptography weakness](https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/)
+#### 5. [VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption](https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html)
 
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Sat, 13 Dec 2025 10:11:21 -0500  
+**📡 Source:** The Hacker News  
+**📅 Published:** Mon, 15 Dec 2025 11:03:00 +0530  
 
-**📝 Summary:** The pro-Russia hacktivist group CyberVolk launched a ransomware-as-a-service (RaaS) called VolkLocker that suffered from serious implementation flaws, allowing victims to potentially decrypt files ...
+**📝 Summary:** The pro-Russian hacktivist group known as CyberVolk (aka GLORIAMIST) has resurfaced with a new ransomware-as-a-service (RaaS) offering called VolkLocker that suffers from implementation lapses in t...
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** CyberVolk is reportedly an India-based pro-Russia hacktivist collective that started operations last year, launching distributed denial of service and ransomware attacks against public and government entities opposing Russia or siding with Ukraine
-- **✅ Solution:** The pro-Russia hacktivist group CyberVolk launched a ransomware-as-a-service (RaaS) called VolkLocker that suffered from serious implementation flaws, allowing victims to potentially decrypt files for free
+- **⚠️ Issue:** Cybersecurity, Ransomware, Malware, Encryption, Cybercrime, Linux, Windows, Telegram, Data Recovery
 
 ---
 
@@ -776,7 +774,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Fri, 12 Dec 2025 18:23:25 -0500  
-**🔖 CVEs:** CVE-2025-14174, CVE-2025-43529  
+**🔖 CVEs:** CVE-2025-43529, CVE-2025-14174  
 
 **📝 Summary:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an "extremely sophisticated attack" targeting specific individuals.
 

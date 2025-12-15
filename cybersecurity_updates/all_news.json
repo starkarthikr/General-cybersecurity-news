@@ -1,6 +1,29 @@
 [
   {
     "source": "The Hacker News",
+    "title": "VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption",
+    "link": "https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html",
+    "published": "Mon, 15 Dec 2025 11:03:00 +0530",
+    "summary": "The pro-Russian hacktivist group known as CyberVolk (aka GLORIAMIST) has resurfaced with a new ransomware-as-a-service (RaaS) offering called VolkLocker that suffers from implementation lapses in test artifacts, allowing users to decrypt files without paying an extortion fee.\nAccording to SentinelOne, VolkLocker (aka CyberVolk 2.x) emerged in August 2025 and is capable of targeting both Windows",
+    "ai_summary": "The pro-Russian hacktivist group known as CyberVolk (aka GLORIAMIST) has resurfaced with a new ransomware-as-a-service (RaaS) offering called VolkLocker that suffers from implementation lapses in t...",
+    "authors": [
+      "The Hacker News"
+    ],
+    "analysis": {
+      "issue": "Cybersecurity, Ransomware, Malware, Encryption, Cybercrime, Linux, Windows, Telegram, Data Recovery",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks",
     "link": "https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html",
     "published": "Sat, 13 Dec 2025 18:03:00 +0530",
@@ -317,28 +340,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Active Attacks Exploit Gladinet's Hard-Coded Keys for Unauthorized Access and Code Execution",
-    "link": "https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html",
-    "published": "Thu, 11 Dec 2025 11:26:00 +0530",
-    "summary": "Huntress is warning of a new actively exploited vulnerability in Gladinet's CentreStack and Triofox products stemming from the use of hard-coded cryptographic keys that have affected nine organizations so far.\n\"Threat actors can potentially abuse this as a way to access the web.config file, opening the door for deserialization and remote code execution,\" security researcher Bryan Masters said.",
-    "ai_summary": "Huntress is warning of a new actively exploited vulnerability in Gladinet's CentreStack and Triofox products stemming from the use of hard-coded cryptographic keys that have affected nine organizat...",
-    "authors": [
-      "The Hacker News"
-    ],
-    "analysis": {
-      "issue": "Huntress reports active attacks abusing Gladinet’s fixed cryptographic keys to forge tickets and gain remote code execution in CentreStack and Triofox",
-      "solution": "Huntress reports active attacks abusing Gladinet’s fixed cryptographic keys to forge tickets and gain remote code execution in CentreStack and Triofox",
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Beware: PayPal subscriptions abused to send fake purchase emails",
     "link": "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/",
@@ -401,8 +402,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-14174",
-        "CVE-2025-43529"
+        "CVE-2025-43529",
+        "CVE-2025-14174"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -609,15 +610,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62562",
-        "CVE-2025-62554",
         "CVE-2025-59516",
-        "CVE-2025-62458",
         "CVE-2025-62472",
         "CVE-2025-59517",
+        "CVE-2025-62562",
         "CVE-2025-62557",
         "CVE-2025-62221",
-        "CVE-2025-62470"
+        "CVE-2025-62458",
+        "CVE-2025-62470",
+        "CVE-2025-62554"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -998,12 +999,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62456",
-        "CVE-2025-62554",
-        "CVE-2025-62553",
-        "CVE-2025-62556",
         "CVE-2025-62549",
-        "CVE-2025-62557"
+        "CVE-2025-62556",
+        "CVE-2025-62553",
+        "CVE-2025-62456",
+        "CVE-2025-62557",
+        "CVE-2025-62554"
       ],
       "threat_categories": [
         "Vulnerability"
