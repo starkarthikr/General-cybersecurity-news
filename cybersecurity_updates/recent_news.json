@@ -1,6 +1,29 @@
 [
   {
     "source": "The Hacker News",
+    "title": "FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE",
+    "link": "https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html",
+    "published": "Mon, 15 Dec 2025 20:02:00 +0530",
+    "summary": "Multiple security vulnerabilities have been disclosed in the open-source private branch exchange (PBX) platform FreePBX, including a critical flaw that could result in an authentication bypass under certain configurations.\nThe shortcomings, discovered by Horizon3.ai and reported to the project maintainers on September 15, 2025, are listed below -\n\nCVE-2025-61675 (CVSS score: 8.6) - Numerous",
+    "ai_summary": "Multiple security vulnerabilities have been disclosed in the open-source private branch exchange (PBX) platform FreePBX, including a critical flaw that could result in an authentication bypass unde...",
+    "authors": [
+      "The Hacker News"
+    ],
+    "analysis": {
+      "issue": "FreePBX patched 2025 flaws allowing SQL injection, file upload attacks, and an auth bypass only when webserver AUTHTYPE was enabled",
+      "solution": "FreePBX patched 2025 flaws allowing SQL injection, file upload attacks, and an auth bypass only when webserver AUTHTYPE was enabled",
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Cloud Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More",
     "link": "https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html",
     "published": "Mon, 15 Dec 2025 17:54:00 +0530",
@@ -314,24 +337,73 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "The Impact of Robotic Process Automation (RPA) on Identity and Access Management",
-    "link": "https://thehackernews.com/2025/12/the-impact-of-robotic-process.html",
-    "published": "Thu, 11 Dec 2025 17:00:00 +0530",
-    "summary": "As enterprises refine their strategies for handling Non-Human Identities (NHIs), Robotic Process Automation (RPA) has become a powerful tool for streamlining operations and enhancing security. However, since RPA bots have varying levels of access to sensitive information, enterprises must be prepared to mitigate a variety of challenges. In large organizations, bots are starting to outnumber",
-    "ai_summary": "As enterprises refine their strategies for handling Non-Human Identities (NHIs), Robotic Process Automation (RPA) has become a powerful tool for streamlining operations and enhancing security.",
+    "source": "Bleeping Computer",
+    "title": "2025’s Top Phishing Trends and What They Mean for Your Security Strategy",
+    "link": "https://www.bleepingcomputer.com/news/security/2025s-top-phishing-trends-and-what-they-mean-for-your-security-strategy/",
+    "published": "Mon, 15 Dec 2025 10:05:15 -0500",
+    "summary": "Phishing attacks in 2025 increasingly moved beyond email, with attackers using social platforms, search ads, and browser-based techniques to bypass MFA and steal sessions. Push Security outlines key phishing trends and what security teams must know as identity-based attacks continue to evolve in 2026. [...]",
+    "ai_summary": "Phishing attacks in 2025 increasingly moved beyond email, with attackers using social platforms, search ads, and browser-based techniques to bypass MFA and steal sessions.",
     "authors": [
-      "The Hacker News"
+      "Sponsored by Push Security"
     ],
     "analysis": {
-      "issue": "The Impact of Robotic Process Automation (RPA) on Identity and Access Management",
+      "issue": "2025 saw a huge amount of attacker innovation when it comes to phishing attacks, as attackers continue to double down on identity-based techniques",
       "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Medium",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft: Recent Windows updates break VPN access for WSL users",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-wsl-networking-issues/",
+    "published": "Mon, 15 Dec 2025 09:34:31 -0500",
+    "summary": "Microsoft says that recent Windows 11 security updates are causing VPN networking failures for enterprise users running Windows Subsystem for Linux. [...]",
+    "ai_summary": "Microsoft says that recent Windows 11 security updates are causing VPN networking failures for enterprise users running Windows Subsystem for Linux.",
+    "authors": [
+      "Sergiu Gatlan"
+    ],
+    "analysis": {
+      "issue": "Those affected by this bug are seeing \"No route to host\" errors in WSL environments, even though their Windows host systems can normally access the same destinations",
+      "solution": "This known issue affects users who installed the KB5067036 October 2025 non-security update, released October 28th, or any subsequent updates, including the KB5072033 cumulative update released during this month's Patch Tuesday",
       "cause": null,
       "timeline": null,
       "severity": null,
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Google links more Chinese hacking groups to React2Shell attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/",
+    "published": "Mon, 15 Dec 2025 07:46:50 -0500",
+    "summary": "Over the weekend, ​Google's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity \"React2Shell\" remote code execution vulnerability. [...]",
+    "ai_summary": "Over the weekend, ​Google's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity \"React2Shell\" remote code execution vulnerability.",
+    "authors": [
+      "Sergiu Gatlan"
+    ],
+    "analysis": {
+      "issue": "​Over the weekend, ​Google's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity \"React2Shell\" remote code execution vulnerability",
+      "solution": "The list of state-linked threat groups exploiting the flaw now also includes UNC6600 (which deployed MINOCAT tunneling software), UNC6586 (the SNOWLIGHT downloader), UNC6588 (the COMPOOD backdoor payload), UNC6603 (an updated version of the HISONIC b",
+      "cause": "​Over the weekend, ​Google's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity \"React2Shell\" remote code execution vulnerability",
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-55182"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Cloud Security"
       ]
     }
   },
@@ -504,18 +576,7 @@
     "ai_summary": "Kali Linux has released version 2025.",
     "authors": [
       "Lawrence Abrams"
-    ],
-    "analysis": {
-      "issue": "Kali Linux 2025.4 released with 3 new tools, desktop updates",
-      "solution": "4, its final update of the year, introducing three new hacking tools, desktop environment improvements, the preview of Wifipumpkin3 in NetHunter, and enhanced Wayland support",
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    ]
   },
   {
     "source": "Bleeping Computer",
@@ -526,13 +587,79 @@
     "ai_summary": "When official systems can't support everyday workflows, employees turn to spreadsheets — creating \"shadow spreadsheets\" that circulate unchecked.",
     "authors": [
       "Sponsored by Grist"
+    ]
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Microsoft Patch Tuesday, December 2025 Edition",
+    "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+    "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+    "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+    "ai_summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.",
+    "authors": [
+      "BrianKrebs"
     ],
     "analysis": {
-      "issue": "Insider threats typically mean disgruntled employees stealing data",
-      "solution": "They pull data into spreadsheets, do that last 10%, and then maybe — maybe — update or reconcile the official system later",
+      "issue": "The zero-day flaw patched today is CVE-2025-62221, a privilege escalation vulnerability affecting Windows 10 and later editions",
+      "solution": "This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities",
       "cause": null,
       "timeline": null,
       "severity": "Critical",
+      "cves": [
+        "CVE-2025-62458",
+        "CVE-2025-62221",
+        "CVE-2025-59516",
+        "CVE-2025-62557",
+        "CVE-2025-62470",
+        "CVE-2025-59517",
+        "CVE-2025-62562",
+        "CVE-2025-62472",
+        "CVE-2025-62554"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Cloud Security"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+    "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+    "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+    "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
+    "ai_summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university bu...",
+    "authors": [
+      "BrianKrebs"
+    ],
+    "analysis": {
+      "issue": "The link between essay mills and Russian attack drones might seem improbable, but understanding it begins with a simple question: How does a human-intensive academic cheating service stay relevant in an era when students can simply ask AI to write th",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT/Nation-State"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+    "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+    "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+    "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+    "ai_summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phi...",
+    "authors": [
+      "BrianKrebs"
+    ],
+    "analysis": {
+      "issue": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
       "cves": [],
       "threat_categories": [
         "Phishing"
@@ -540,76 +667,179 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New Windows RasMan zero-day flaw gets free, unofficial patches",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/",
-    "published": "Fri, 12 Dec 2025 06:28:06 -0500",
-    "summary": "Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service. [...]",
-    "ai_summary": "Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service.",
+    "source": "Krebs On Security",
+    "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
+    "link": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
+    "published": "Wed, 26 Nov 2025 17:22:36 +0000",
+    "summary": "A prolific cybercriminal group that calls itself \"Scattered LAPSUS$ Hunters\" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations. But the tables seem to have turned somewhat for \"Rey,\" the moniker chosen by the technical operator and public face of the hacker group: Earlier this week, Rey confirmed his real life identity and agreed to an interview after KrebsOnSecurity tracked him down and contacted his father.",
+    "ai_summary": "A prolific cybercriminal group that calls itself \"Scattered LAPSUS$ Hunters\" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations.",
     "authors": [
-      "Sergiu Gatlan"
+      "BrianKrebs"
     ],
     "analysis": {
-      "issue": "Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service",
-      "solution": "Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service",
-      "cause": "Unprivileged users can exploit the zero-day to crash the RasMan service due to a coding error in how it processes circular linked lists",
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-59230"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA orders feds to patch actively exploited Geoserver flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-geoserver-flaw/",
-    "published": "Fri, 12 Dec 2025 04:48:31 -0500",
-    "summary": "CISA has ordered U.S. federal agencies to patch a critical GeoServer vulnerability now actively exploited in XML External Entity (XXE) injection attacks. [...]",
-    "ai_summary": "federal agencies to patch a critical GeoServer vulnerability now actively exploited in XML External Entity (XXE) injection attacks.",
-    "authors": [
-      "Sergiu Gatlan"
-    ],
-    "analysis": {
-      "issue": "federal agencies to patch a critical GeoServer vulnerability now actively exploited in XML External Entity (XXE) injection attacks",
-      "solution": "federal agencies to patch a critical GeoServer vulnerability now actively exploited in XML External Entity (XXE) injection attacks",
-      "cause": "The security flaw (tracked as CVE-2025-58360) flagged by CISA on Thursday is an unauthenticated XML External Entity (XXE) vulnerability in GeoServer 2",
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-58360"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "MITRE shares 2025's top 25 most dangerous software weaknesses",
-    "link": "https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/",
-    "published": "Fri, 12 Dec 2025 03:43:16 -0500",
-    "summary": "MITRE has shared this year's top 25 list of the most dangerous software weaknesses behind over 39,000 security vulnerabilities disclosed between June 2024 and June 2025. [...]",
-    "ai_summary": "MITRE has shared this year's top 25 list of the most dangerous software weaknesses behind over 39,000 security vulnerabilities disclosed between June 2024 and June 2025.",
-    "authors": [
-      "Sergiu Gatlan"
-    ],
-    "analysis": {
-      "issue": "Successful exploitation allows threat actors to gain control over compromised devices and trigger denial-of-service attacks or access sensitive data",
-      "solution": "Software weaknesses can be flaws, bugs, vulnerabilities, or errors found in a software's code, implementation, architecture, or design, and attackers can abuse them to breach systems running the vulnerable software",
+      "issue": "The group later launched a data leak portal that threatened to publish the internal data of three dozen companies that allegedly had Salesforce data stolen, including Toyota, FedEx, Disney/Hulu, and UPS",
+      "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": null,
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
+        "Ransomware",
+        "Data Breach",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Is Your Android TV Streaming Box Part of a Botnet?",
+    "link": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
+    "published": "Mon, 24 Nov 2025 18:44:52 +0000",
+    "summary": "On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming services like Netflix, ESPN and Hulu, all for a one-time fee of around $400. But security experts warn these TV boxes require intrusive software that forces the user's network to relay Internet traffic for others, traffic that is often tied to cybercrime activity such as advertising fraud and account takeovers.",
+    "ai_summary": "On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming ...",
+    "authors": [
+      "BrianKrebs"
+    ],
+    "analysis": {
+      "issue": "Is Your Android TV Streaming Box Part of a Botnet?",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
+    "link": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
+    "published": "Thu, 20 Nov 2025 19:06:51 +0000",
+    "summary": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep's founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will officially end next month.",
+    "ai_summary": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of p...",
+    "authors": [
+      "BrianKrebs"
+    ],
+    "analysis": {
+      "issue": "“We will continue to offer our free Monitor data breach service, which is integrated into Firefox’s credential manager, and we are focused on integrating more of our privacy and security experiences in Firefox, including our VPN, for free,” the advis",
+      "solution": "In March 2024, Mozilla said it was winding down its collaboration with Onerep — an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites — after KrebsOnSecurity revealed On",
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "The Cloudflare Outage May Be a Security Roadmap",
+    "link": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
+    "published": "Wed, 19 Nov 2025 14:07:03 +0000",
+    "summary": "An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet's top destinations offline. Some affected Cloudflare customers were able to pivot away from the platform temporarily so that visitors could still access their websites. But security experts say doing so may have also triggered an impromptu network penetration test for organizations that have come to rely on Cloudflare to block many types of abusive and malicious traffic.",
+    "ai_summary": "An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet's top destinations offline.",
+    "authors": [
+      "BrianKrebs"
+    ],
+    "analysis": {
+      "issue": "Turner said Cloudflare’s WAF does a good job filtering out malicious traffic that matches any one of the top ten types of application-layer attacks, including credential stuffing, cross-site scripting, SQL injection, bot attacks and API abuse",
+      "solution": "Any organization that made that decision needs to look closely at any exposed infrastructure to see if they have someone persisting after they’ve switched back to Cloudflare protections",
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
         "Cloud Security"
       ]
     }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Microsoft Patch Tuesday, November 2025 Edition",
+    "link": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
+    "published": "Sun, 16 Nov 2025 21:47:14 +0000",
+    "summary": "Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being exploited. Microsoft also fixed a glitch that prevented some Windows 10 users from taking advantage of an extra year of security updates, which is nice because the zero-day flaw and other critical weaknesses patched today affect all versions of Windows, including Windows 10.",
+    "ai_summary": "Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...",
+    "authors": [
+      "BrianKrebs"
+    ],
+    "analysis": {
+      "issue": "“However, exploiting this specific vulnerability is likely to be relatively straightforward, given the existence of prior similar vulnerabilities",
+      "solution": "“The patch for this should be an organization’s highest priority,” McCarthy said",
+      "cause": "Despite the flaw’s zero-day status, Microsoft has assigned it an “important” rating rather than critical, because exploiting it requires an attacker to already have access to the target’s device",
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-62215",
+        "CVE-2025-62199",
+        "CVE-2025-60274"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain",
+        "Cloud Security"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
+    "link": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
+    "published": "Thu, 13 Nov 2025 14:47:22 +0000",
+    "summary": "Google is suing more than two dozen unnamed individuals allegedly involved in peddling a popular China-based mobile phishing service that helps scammers impersonate hundreds of trusted brands, blast out text message lures, and convert phished payment card data into mobile wallets from Apple and Google.",
+    "ai_summary": "Google is suing more than two dozen unnamed individuals allegedly involved in peddling a popular China-based mobile phishing service that helps scammers impersonate hundreds of trusted brands, blas...",
+    "authors": [
+      "BrianKrebs"
+    ],
+    "analysis": {
+      "issue": "Google called the scale of the Lighthouse phishing attacks “staggering",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
+        "Cloud Security"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
+    "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+    "published": "Sun, 09 Nov 2025 18:14:40 +0000",
+    "summary": "The U.S. government is reportedly preparing to ban the sale of wireless routers and other networking gear from TP-Link Systems, a tech company that currently enjoys an estimated 50% market share among home users and small businesses. Experts say while the proposed ban may have more to do with TP-Link's ties to China than any specific technical threats, much of the rest of the industry serving this market also sources hardware from China and ships products that are insecure fresh out of the box.",
+    "ai_summary": "government is reportedly preparing to ban the sale of wireless routers and other networking gear from TP-Link Systems, a tech company that currently enjoys an estimated 50% market share among home ...",
+    "authors": [
+      "BrianKrebs"
+    ],
+    "analysis": {
+      "issue": "Experts say while the proposed ban may have more to do with TP-Link’s ties to China than any specific technical threats, much of the rest of the industry serving this market also sources hardware from China and ships products that are insecure fresh ",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Sees 5 Chinese Groups Exploiting React2Shell for Malware Delivery",
+    "link": "https://www.securityweek.com/google-sees-5-chinese-groups-exploiting-react2shell-for-malware-delivery/",
+    "published": "Mon, 15 Dec 2025 13:48:37 +0000",
+    "summary": "<p>Google has also mentioned seeing React2Shell attacks conducted by Iranian threat actors.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-sees-5-chinese-groups-exploiting-react2shell-for-malware-delivery/\">Google Sees 5 Chinese Groups Exploiting React2Shell for Malware Delivery</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "ai_summary": "Google has also mentioned seeing React2Shell attacks conducted by Iranian threat actors.",
+    "authors": [
+      "Eduard Kovacs"
+    ]
   },
   {
     "source": "Security Week",
@@ -727,17 +957,6 @@
     ]
   },
   {
-    "source": "Security Week",
-    "title": "MITRE Releases 2025 List of Top 25 Most Dangerous Software Vulnerabilities",
-    "link": "https://www.securityweek.com/mitre-releases-2025-list-of-top-25-most-dangerous-software-vulnerabilities/",
-    "published": "Fri, 12 Dec 2025 12:00:01 +0000",
-    "summary": "<p>XSS remains the top software weakness, followed by SQL injection and CSRF. Buffer overflow issues and improper access control make it to top 25.</p>\n<p>The post <a href=\"https://www.securityweek.com/mitre-releases-2025-list-of-top-25-most-dangerous-software-vulnerabilities/\">MITRE Releases 2025 List of Top 25 Most Dangerous Software Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "ai_summary": "XSS remains the top software weakness, followed by SQL injection and CSRF.",
-    "authors": [
-      "Ionut Arghire"
-    ]
-  },
-  {
     "source": "Talos Blog",
     "title": "One newsletter to rule them all",
     "link": "https://blog.talosintelligence.com/one-newsletter-to-rule-them-all/",
@@ -776,11 +995,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62553",
-        "CVE-2025-62556",
-        "CVE-2025-62456",
-        "CVE-2025-62557",
         "CVE-2025-62549",
+        "CVE-2025-62553",
+        "CVE-2025-62557",
+        "CVE-2025-62456",
+        "CVE-2025-62556",
         "CVE-2025-62554"
       ],
       "threat_categories": [
@@ -1066,8 +1285,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-60724",
-        "CVE-2025-62215"
+        "CVE-2025-62215",
+        "CVE-2025-60724"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1093,6 +1312,26 @@
       "cves": [],
       "threat_categories": [
         "APT/Nation-State"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "What’s Next for Enterprise Threat Intelligence in 2026",
+    "link": "https://www.recordedfuture.com/blog/whats-next-for-enterprise-threat-intelligence-in-2026",
+    "published": "Mon, 15 Dec 2025 00:00:00 GMT",
+    "summary": "Top enterprise threat intelligence trends for 2026: AI-augmented CTI, unified platforms, workflow integration, data fusion, budgets, ROI, and maturity.",
+    "ai_summary": "Top enterprise threat intelligence trends for 2026: AI-augmented CTI, unified platforms, workflow integration, data fusion, budgets, ROI, and maturity.",
+    "authors": [],
+    "analysis": {
+      "issue": "Top enterprise threat intelligence trends for 2026: AI-augmented CTI, unified platforms, workflow integration, data fusion, budgets, ROI, and maturity",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1364,26 +1603,6 @@
       "cves": [],
       "threat_categories": [
         "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Integrating Threat Intelligence and Vulnerability Management: A Modern Approach",
-    "link": "https://www.recordedfuture.com/blog/threat-intelligence-and-vulnerability-management",
-    "published": "Wed, 26 Nov 2025 00:00:00 GMT",
-    "summary": "Learn how combining threat intelligence and vulnerability management creates a modern approach to risk reduction and how Recorded Future integrates both.",
-    "ai_summary": "Learn how combining threat intelligence and vulnerability management creates a modern approach to risk reduction and how Recorded Future integrates both.",
-    "authors": [],
-    "analysis": {
-      "issue": "Learn how combining threat intelligence and vulnerability management creates a modern approach to risk reduction and how Recorded Future integrates both",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1862,6 +2081,46 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Pig butchering is the next “humanitarian global crisis” (Lock and Code S06E25)",
+    "link": "https://www.malwarebytes.com/blog/podcast/2025/12/pig-butchering-is-the-next-humanitarian-global-crisis-lock-and-code-s06e25",
+    "published": "Mon, 15 Dec 2025 15:39:34 GMT",
+    "summary": "This week on the Lock and Code podcast, we speak with Erin West about pig butchering scams and the efforts to stop this new, global crisis.",
+    "ai_summary": "This week on the Lock and Code podcast, we speak with Erin West about pig butchering scams and the efforts to stop this new, global crisis.",
+    "authors": [],
+    "analysis": {
+      "issue": "But, with time, once the scammer believes they’ve gained the trust of their victim, they launch their attack: An investment “opportunity",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "APT/Nation-State"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "PayPal closes loophole that let scammers send real emails with fake purchase notices",
+    "link": "https://www.malwarebytes.com/blog/news/2025/12/paypal-closes-loophole-that-let-scammers-send-real-emails-with-fake-purchase-notices",
+    "published": "Mon, 15 Dec 2025 13:41:57 GMT",
+    "summary": "Scammers exploited a PayPal subscriptions feature to send legitimate emails from service@paypal.com, using fake purchase notifications to push tech support scams.",
+    "ai_summary": "Scammers exploited a PayPal subscriptions feature to send legitimate emails from service@paypal.",
+    "authors": [],
+    "analysis": {
+      "issue": "PayPal closes loophole that let scammers send real emails with fake purchase notices",
+      "solution": null,
+      "cause": "Following reports from people who received emails claiming an automatic payment had been cancelled, BleepingComputer found that cybercriminals were abusing a PayPal feature that allows merchants to pause a customer’s subscription",
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "A week in security (December 8 &#8211; December 14)",
     "link": "https://www.malwarebytes.com/blog/uncategorized/2025/12/a-week-in-security-december-8-december-14",
     "published": "Mon, 15 Dec 2025 08:03:00 GMT",
@@ -1986,7 +2245,7 @@
   },
   {
     "source": "Malwarebytes",
-    "title": "[updated]Another Chrome zero-day under attack: update now",
+    "title": "[Updated] Another Chrome zero-day under attack: update now",
     "link": "https://www.malwarebytes.com/blog/news/2025/12/another-chrome-zero-day-under-attack-update-now",
     "published": "Thu, 11 Dec 2025 11:58:47 GMT",
     "summary": "If we’re lucky, this update will close out 2025’s run of Chrome zero-days. This one is a V8 type-confusion issue already being exploited in the wild.",
@@ -2131,42 +2390,24 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Scammers harvesting Facebook photos to stage fake kidnappings, warns FBI",
-    "link": "https://www.malwarebytes.com/blog/news/2025/12/scammers-harvesting-facebook-photos-to-stage-fake-kidnappings-warns-fbi",
-    "published": "Mon, 08 Dec 2025 13:17:18 GMT",
-    "summary": "Family photos pulled from social media are being used as \"proof-of-life\" in virtual kidnapping scams, the FBI warns.",
-    "ai_summary": "Family photos pulled from social media are being used as \"proof-of-life\" in virtual kidnapping scams, the FBI warns.",
-    "authors": [],
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-growing-ai-attack-surface-with-falcon-aidr/",
+    "published": "Dec 15, 2025 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "Falcon AIDR delivers unified prompt-layer protection across workforce AI adoption and AI development.",
+    "authors": [
+      "John Gamble"
+    ],
     "analysis": {
-      "issue": "They push tight deadlines, threaten violence, and try to force split-second decisions",
-      "solution": null,
+      "issue": "CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response",
+      "solution": "Falcon AIDR delivers unified prompt-layer protection across workforce AI adoption and AI development",
       "cause": null,
       "timeline": null,
       "severity": null,
       "cves": [],
       "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (December 1 &#8211; December 7)",
-    "link": "https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-1-december-7",
-    "published": "Mon, 08 Dec 2025 08:03:00 GMT",
-    "summary": "A list of topics we covered in the week of December 1 to December 7 of 2025",
-    "ai_summary": "A list of topics we covered in the week of December 1 to December 7 of 2025.",
-    "authors": [],
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": "Privacy risks should never spread beyond a headline",
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -2358,28 +2599,6 @@
     ],
     "analysis": {
       "issue": "Transform AWS Security Operations with Falcon Next-Gen SIEM",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Unveils Real-Time Cloud Detection and Response Innovations",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-unveils-real-time-cloud-detection-and-response/",
-    "published": "Dec 01, 2025 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "CrowdStrike introduces real-time cloud detection and automated response to identify and stop cloud threats in seconds, reducing MTTR across hybrid and multi-cloud environments.",
-    "authors": [
-      "Karishma Asthana"
-    ],
-    "analysis": {
-      "issue": "CrowdStrike introduces real-time cloud detection and automated response to identify and stop cloud threats in seconds, reducing MTTR across hybrid and multi-cloud environments",
       "solution": null,
       "cause": null,
       "timeline": null,
