@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-15 16:37:21 UTC
+**Last Updated:** 2025-12-15 20:31:42 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -123,7 +123,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Fri, 12 Dec 2025 18:23:25 -0500  
-**🔖 CVEs:** CVE-2025-43529, CVE-2025-14174  
+**🔖 CVEs:** CVE-2025-14174, CVE-2025-43529  
 
 **📝 Summary:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an "extremely sophisticated attack" targeting specific individuals.
 
@@ -139,7 +139,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62458, CVE-2025-62221, CVE-2025-59516, CVE-2025-62557, CVE-2025-62470, CVE-2025-59517, CVE-2025-62562, CVE-2025-62472, CVE-2025-62554  
+**🔖 CVEs:** CVE-2025-62562, CVE-2025-62458, CVE-2025-62557, CVE-2025-62554, CVE-2025-62472, CVE-2025-59516, CVE-2025-62221, CVE-2025-59517, CVE-2025-62470  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -155,7 +155,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62215, CVE-2025-62199, CVE-2025-60274  
+**🔖 CVEs:** CVE-2025-60274, CVE-2025-62215, CVE-2025-62199  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -204,21 +204,7 @@
 
 ---
 
-#### 2. [Coupang data breach traced to ex-employee who retained system access](https://www.bleepingcomputer.com/news/security/coupang-data-breach-traced-to-ex-employee-who-retained-system-access/)
-
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Fri, 12 Dec 2025 13:28:30 -0500  
-
-**📝 Summary:** A data breach at Coupang that exposed the information of 33.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** A data breach at Coupang that exposed the information of 33
-- **✅ Solution:** On December 6, Coupang published an update on the incident, assuring its customers that the stolen information had not been leaked anywhere online
-
----
-
-#### 3. [Prompt injection is a problem that may never be fixed, warns NCSC](https://www.malwarebytes.com/blog/news/2025/12/prompt-injection-is-a-problem-that-may-never-be-fixed-warns-ncsc)
+#### 2. [Prompt injection is a problem that may never be fixed, warns NCSC](https://www.malwarebytes.com/blog/news/2025/12/prompt-injection-is-a-problem-that-may-never-be-fixed-warns-ncsc)
 
 **📡 Source:** Malwarebytes  
 **📅 Published:** Tue, 09 Dec 2025 13:34:02 GMT  
@@ -232,7 +218,7 @@
 
 ---
 
-#### 4. [How phishers hide banking scams behind free Cloudflare Pages](https://www.malwarebytes.com/blog/news/2025/12/how-phishers-hide-banking-scams-behind-free-cloudflare-pages)
+#### 3. [How phishers hide banking scams behind free Cloudflare Pages](https://www.malwarebytes.com/blog/news/2025/12/how-phishers-hide-banking-scams-behind-free-cloudflare-pages)
 
 **📡 Source:** Malwarebytes  
 **📅 Published:** Mon, 08 Dec 2025 15:26:29 GMT  
@@ -243,6 +229,20 @@
 
 - **⚠️ Issue:** These fake pages don’t just grab a username and password–they also ask for answers to secret questions and other “backup” data that attackers can use to bypass multi-factor authentication and account recovery protections
 - **✅ Solution:** These fake pages don’t just grab a username and password–they also ask for answers to secret questions and other “backup” data that attackers can use to bypass multi-factor authentication and account recovery protections
+
+---
+
+#### 4. [700Credit data breach impacts 5.8 million vehicle dealership customers](https://www.bleepingcomputer.com/news/security/700credit-data-breach-impacts-58-million-vehicle-dealership-customers/)
+
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Mon, 15 Dec 2025 11:49:03 -0500  
+
+**📝 Summary:** -based financial services and fintech company, will start notifying more than 5.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** The threat actor was able to exfiltrate data due to a security vulnerability in the API, a failure to validate consumer reference IDs against the original requester
+- **🔎 Cause:** The threat actor was able to exfiltrate data due to a security vulnerability in the API, a failure to validate consumer reference IDs against the original requester
 
 ---
 
@@ -633,7 +633,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62215, CVE-2025-62199, CVE-2025-60274  
+**🔖 CVEs:** CVE-2025-60274, CVE-2025-62215, CVE-2025-62199  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -650,7 +650,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
 **📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
+**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
 
 **📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
 
@@ -677,7 +677,21 @@
 
 ---
 
-#### 4. [Microsoft: Recent Windows updates break VPN access for WSL users](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-wsl-networking-issues/)
+#### 4. [700Credit data breach impacts 5.8 million vehicle dealership customers](https://www.bleepingcomputer.com/news/security/700credit-data-breach-impacts-58-million-vehicle-dealership-customers/)
+
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Mon, 15 Dec 2025 11:49:03 -0500  
+
+**📝 Summary:** -based financial services and fintech company, will start notifying more than 5.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** The threat actor was able to exfiltrate data due to a security vulnerability in the API, a failure to validate consumer reference IDs against the original requester
+- **🔎 Cause:** The threat actor was able to exfiltrate data due to a security vulnerability in the API, a failure to validate consumer reference IDs against the original requester
+
+---
+
+#### 5. [Microsoft: Recent Windows updates break VPN access for WSL users](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-wsl-networking-issues/)
 
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Mon, 15 Dec 2025 09:34:31 -0500  
@@ -688,22 +702,6 @@
 
 - **⚠️ Issue:** Those affected by this bug are seeing "No route to host" errors in WSL environments, even though their Windows host systems can normally access the same destinations
 - **✅ Solution:** This known issue affects users who installed the KB5067036 October 2025 non-security update, released October 28th, or any subsequent updates, including the KB5072033 cumulative update released during this month's Patch Tuesday
-
----
-
-#### 5. [Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities](https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/)
-
-**📡 Source:** Talos Blog  
-**📅 Published:** Thu, 04 Dec 2025 20:23:15 GMT  
-**🔖 CVEs:** CVE-2025-58113  
-
-**📝 Summary:** Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed an out-of-bounds read vulnerability in PDF XChange Editor, and ten vulnerabilities in Socomec DIRIS Digiware M ser...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Cisco Talos’ Vulnerability Discovery & Research team recently disclosed an out-of-bounds read vulnerability in PDF XChange Editor, and ten vulnerabilities in Socomec DIRIS Digiware M series and Easy Config products
-- **🔎 Cause:** Cisco Talos’ Vulnerability Discovery & Research team recently disclosed an out-of-bounds read vulnerability in PDF XChange Editor, and ten vulnerabilities in Socomec DIRIS Digiware M series and Easy Config products
-- **✅ Solution:** The vulnerabilities mentioned in this blog post have been patched by their respective vendors, all in adherence to Cisco’s third-party vulnerability disclosure policy
 
 ---
 
