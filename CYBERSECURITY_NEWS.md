@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-15 08:39:27 UTC
+**Last Updated:** 2025-12-15 12:51:49 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -86,22 +86,7 @@
 
 ### 🔴 Cloud Security
 
-#### 1. [Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw](https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html)
-
-🔴 **CRITICAL**  
-**📡 Source:** The Hacker News  
-**📅 Published:** Thu, 11 Dec 2025 12:39:00 +0530  
-
-**📝 Summary:** Google on Wednesday shipped security updates for its Chrome browser to address three security flaws, including one it said has come under active exploitation in the wild.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Google issues a Chrome update to fix actively exploited issue 466192044 and other confirmed 2025 security flaws
-- **✅ Solution:** Google issues a Chrome update to fix actively exploited issue 466192044 and other confirmed 2025 security flaws
-
----
-
-#### 2. [Apple fixes two zero-day flaws exploited in 'sophisticated' attacks](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/)
+#### 1. [Apple fixes two zero-day flaws exploited in 'sophisticated' attacks](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -117,7 +102,7 @@
 
 ---
 
-#### 3. [New Windows RasMan zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/)
+#### 2. [New Windows RasMan zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -134,7 +119,7 @@
 
 ---
 
-#### 4. [MITRE shares 2025's top 25 most dangerous software weaknesses](https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/)
+#### 3. [MITRE shares 2025's top 25 most dangerous software weaknesses](https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -149,19 +134,34 @@
 
 ---
 
-#### 5. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+#### 4. [November 2025 CVE Landscape: 10 Critical Vulnerabilities Show 69% Drop from October](https://www.recordedfuture.com/blog/november-2025-cve-landscape)
 
 🔴 **CRITICAL**  
-**📡 Source:** Krebs On Security  
-**📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-59516, CVE-2025-62472, CVE-2025-59517, CVE-2025-62562, CVE-2025-62557, CVE-2025-62221, CVE-2025-62458, CVE-2025-62470, CVE-2025-62554  
+**📡 Source:** Recorded Future  
+**📅 Published:** Tue, 09 Dec 2025 00:00:00 GMT  
 
-**📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
+**📝 Summary:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** The zero-day flaw patched today is CVE-2025-62221, a privilege escalation vulnerability affecting Windows 10 and later editions
-- **✅ Solution:** This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities
+- **⚠️ Issue:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching
+- **✅ Solution:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching
+
+---
+
+#### 5. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Threat Post  
+**📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
+**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
+
+**📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** ” The vulnerability allows an application to execute arbitrary code with kernel privileges, according to Apple, which, in usual vague fashion, said there is a report that it “may have been actively exploited
+- **✅ Solution:** Share this article: Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack
 
 ---
 
@@ -202,22 +202,7 @@
 
 ---
 
-#### 2. [Leaks show Intellexa burning zero-days to keep Predator spyware running](https://www.malwarebytes.com/blog/news/2025/12/leaks-show-intellexa-burning-zero-days-to-keep-predator-spyware-running)
-
-🔴 **CRITICAL**  
-**📡 Source:** Malwarebytes  
-**📅 Published:** Fri, 05 Dec 2025 13:31:54 GMT  
-
-**📝 Summary:** A fresh investigation uncovers how Predator spyware still reaches victims through high-priced, newly bought zero-days.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Google’s Threat Analysis Group (TAG) posted a blog about that, including a list of 15 unique zero-days
-- **✅ Solution:** They buy them from hackers and use them until the bugs are discovered and patched–at which point they are “burned” because they no longer work against updated systems
-
----
-
-#### 3. [Coupang data breach traced to ex-employee who retained system access](https://www.bleepingcomputer.com/news/security/coupang-data-breach-traced-to-ex-employee-who-retained-system-access/)
+#### 2. [Coupang data breach traced to ex-employee who retained system access](https://www.bleepingcomputer.com/news/security/coupang-data-breach-traced-to-ex-employee-who-retained-system-access/)
 
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Fri, 12 Dec 2025 13:28:30 -0500  
@@ -231,7 +216,7 @@
 
 ---
 
-#### 4. [Prompt injection is a problem that may never be fixed, warns NCSC](https://www.malwarebytes.com/blog/news/2025/12/prompt-injection-is-a-problem-that-may-never-be-fixed-warns-ncsc)
+#### 3. [Prompt injection is a problem that may never be fixed, warns NCSC](https://www.malwarebytes.com/blog/news/2025/12/prompt-injection-is-a-problem-that-may-never-be-fixed-warns-ncsc)
 
 **📡 Source:** Malwarebytes  
 **📅 Published:** Tue, 09 Dec 2025 13:34:02 GMT  
@@ -245,7 +230,7 @@
 
 ---
 
-#### 5. [How phishers hide banking scams behind free Cloudflare Pages](https://www.malwarebytes.com/blog/news/2025/12/how-phishers-hide-banking-scams-behind-free-cloudflare-pages)
+#### 4. [How phishers hide banking scams behind free Cloudflare Pages](https://www.malwarebytes.com/blog/news/2025/12/how-phishers-hide-banking-scams-behind-free-cloudflare-pages)
 
 **📡 Source:** Malwarebytes  
 **📅 Published:** Mon, 08 Dec 2025 15:26:29 GMT  
@@ -256,6 +241,20 @@
 
 - **⚠️ Issue:** These fake pages don’t just grab a username and password–they also ask for answers to secret questions and other “backup” data that attackers can use to bypass multi-factor authentication and account recovery protections
 - **✅ Solution:** These fake pages don’t just grab a username and password–they also ask for answers to secret questions and other “backup” data that attackers can use to bypass multi-factor authentication and account recovery protections
+
+---
+
+#### 5. [Unleashing the Kraken ransomware group](https://blog.talosintelligence.com/kraken-ransomware-group/)
+
+**📡 Source:** Talos Blog  
+**📅 Published:** Thu, 13 Nov 2025 11:00:38 GMT  
+
+**📝 Summary:** In August 2025, Cisco Talos observed big-game hunting and double extortion attacks carried out by Kraken, a Russian-speaking group that has emerged from the remnants of the HelloKitty ransomware ca...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** In August 2025, Cisco Talos Incident Response (Talos IR) observed in one instance that the Kraken ransomware actor gained initial access to the victim's machine by exploiting an existing vulnerability in the SMB service on servers exposed to the inte
+- **🔎 Cause:** In August 2025, Cisco Talos Incident Response (Talos IR) observed in one instance that the Kraken ransomware actor gained initial access to the victim's machine by exploiting an existing vulnerability in the SMB service on servers exposed to the inte
 
 ---
 
@@ -437,20 +436,7 @@
 
 ---
 
-#### 4. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
-
-**📡 Source:** Krebs On Security  
-**📅 Published:** Mon, 24 Nov 2025 18:44:52 +0000  
-
-**📝 Summary:** On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming ...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Is Your Android TV Streaming Box Part of a Botnet?
-
----
-
-#### 5. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
+#### 4. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
@@ -460,6 +446,20 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** Adversaries are using GenAI for coding, phishing, evasion, and vulnerability discovery, especially as uncensored models become more widely available
+
+---
+
+#### 5. [Viasat and the terrible, horrible, no good, very bad day](https://blog.talosintelligence.com/viasat-and-the-terrible-horrible-no-good-very-bad-day/)
+
+**📡 Source:** Talos Blog  
+**📅 Published:** Thu, 13 Nov 2025 19:00:14 GMT  
+
+**📝 Summary:** In this week’s newsletter, Amy recounts her journey from Halloween festivities to unraveling the story of the 2022 Viasat satellite hack, with plenty of cybersecurity surprises along the way.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
+- **🔎 Cause:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
 
 ---
 
@@ -625,29 +625,12 @@
 
 ### 🔴 Supply Chain
 
-#### 1. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Krebs On Security  
-**📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62199, CVE-2025-62215, CVE-2025-60274  
-
-**📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** “However, exploiting this specific vulnerability is likely to be relatively straightforward, given the existence of prior similar vulnerabilities
-- **🔎 Cause:** Despite the flaw’s zero-day status, Microsoft has assigned it an “important” rating rather than critical, because exploiting it requires an attacker to already have access to the target’s device
-- **✅ Solution:** “The patch for this should be an organization’s highest priority,” McCarthy said
-
----
-
-#### 2. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
+#### 1. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
 **📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
+**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
 
 **📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
 
@@ -658,7 +641,7 @@
 
 ---
 
-#### 3. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
+#### 2. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Wed, 26 Nov 2025 18:36:06 GMT  
@@ -674,7 +657,7 @@
 
 ---
 
-#### 4. [Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities](https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/)
+#### 3. [Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities](https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 04 Dec 2025 20:23:15 GMT  
@@ -690,7 +673,7 @@
 
 ---
 
-#### 5. [Care that you share](https://blog.talosintelligence.com/care-that-you-share/)
+#### 4. [Care that you share](https://blog.talosintelligence.com/care-that-you-share/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Wed, 26 Nov 2025 17:00:48 GMT  
@@ -702,6 +685,19 @@
 - **⚠️ Issue:** Welcome to this week's edition of the Threat Source newsletter
 - **🔎 Cause:** Many teams are running with skeleton crews, whether due to holiday mode (family, turkey, football, days off) or the year-end compliance push (hello, NIS2 and DORA)
 - **✅ Solution:** Should I give them some history of STIX/TAXII
+
+---
+
+#### 5. [5 Real-Word Third-Party Risk Examples](https://www.recordedfuture.com/blog/third-party-risk-examples)
+
+**📡 Source:** Recorded Future  
+**📅 Published:** Tue, 09 Dec 2025 00:00:00 GMT  
+
+**📝 Summary:** Explore 5 third-party risk examples, from vendor data breaches to supply chain attacks and learn how third-party risk management can prevent cyberattacks.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Explore 5 third-party risk examples, from vendor data breaches to supply chain attacks and learn how third-party risk management can prevent cyberattacks
 
 ---
 
@@ -738,38 +734,23 @@
 
 ---
 
-#### 3. [Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks](https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html)
+#### 3. [Microsoft: December security updates cause Message Queuing failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/)
 
 🔴 **CRITICAL**  
-**📡 Source:** The Hacker News  
-**📅 Published:** Thu, 11 Dec 2025 16:00:00 +0530  
-**🔖 CVEs:** CVE-2025-8110  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Mon, 15 Dec 2025 04:04:59 -0500  
 
-**📝 Summary:** A high-severity unpatched security vulnerability in Gogs has come under active exploitation, with more than 700 compromised instances accessible over the internet, according to new findings from Wiz.
+**📝 Summary:** Microsoft has confirmed that the December 2025 security updates are breaking Message Queuing (MSMQ) functionality, affecting enterprise applications and Internet Information Services (IIS) websites.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Unpatched Gogs flaw CVE-2025-8110 enables file overwrite and code execution, driving over 700 confirmed compromises
-- **✅ Solution:** Unpatched Gogs flaw CVE-2025-8110 enables file overwrite and code execution, driving over 700 confirmed compromises
+- **⚠️ Issue:** Microsoft: December security updates cause Message Queuing failures
+- **🔎 Cause:** "This issue is caused by the recent changes introduced to the MSMQ security model and NTFS permissions on C:\Windows\System32\MSMQ\storage folder
+- **✅ Solution:** This known issue affects Windows 10 22H2, Windows Server 2019, and Windows Server 2016 systems that have installed the KB5071546, KB5071544, and KB5071543 security updates released during this month's Patch Tuesday
 
 ---
 
-#### 4. [Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw](https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html)
-
-🔴 **CRITICAL**  
-**📡 Source:** The Hacker News  
-**📅 Published:** Thu, 11 Dec 2025 12:39:00 +0530  
-
-**📝 Summary:** Google on Wednesday shipped security updates for its Chrome browser to address three security flaws, including one it said has come under active exploitation in the wild.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Google issues a Chrome update to fix actively exploited issue 466192044 and other confirmed 2025 security flaws
-- **✅ Solution:** Google issues a Chrome update to fix actively exploited issue 466192044 and other confirmed 2025 security flaws
-
----
-
-#### 5. [Apple fixes two zero-day flaws exploited in 'sophisticated' attacks](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/)
+#### 4. [Apple fixes two zero-day flaws exploited in 'sophisticated' attacks](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -782,6 +763,23 @@
 
 - **⚠️ Issue:** Apple says the flaw was discovered by Google’s Threat Analysis Group
 - **✅ Solution:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an “extremely sophisticated attack” targeting specific individuals
+
+---
+
+#### 5. [New Windows RasMan zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Fri, 12 Dec 2025 06:28:06 -0500  
+**🔖 CVEs:** CVE-2025-59230  
+
+**📝 Summary:** Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service
+- **🔎 Cause:** Unprivileged users can exploit the zero-day to crash the RasMan service due to a coding error in how it processes circular linked lists
+- **✅ Solution:** Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service
 
 ---
 
