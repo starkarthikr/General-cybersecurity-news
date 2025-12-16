@@ -1,28 +1,13 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-16 08:37:40 UTC
+**Last Updated:** 2025-12-16 12:50:21 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
 
 ### 🔴 APT/Nation-State
 
-#### 1. [In Other News: PromptPwnd Attack, macOS Bounty Complaints, Chinese Hackers Trained in Cisco Academy](https://www.securityweek.com/in-other-news-promptpwnd-attack-small-macos-bounties-chinese-hackers-trained-in-cisco-academy/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Security Week  
-**📅 Published:** Fri, 12 Dec 2025 15:39:35 +0000  
-
-**📝 Summary:** Other noteworthy stories that might have slipped under the radar: Pentagon orders accelerated move to PQC, US shuts down scheme to smuggle GPUs to China, DroidLock Android ransomware.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Each week, we curate and present a collection of noteworthy developments, ranging from the latest vulnerability discoveries and emerging attack techniques to significant policy changes and industry reports
-- **✅ Solution:** Google patched the issue in Gemini CLI within days of being notified
-
----
-
-#### 2. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
+#### 1. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -38,7 +23,7 @@
 
 ---
 
-#### 3. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
+#### 2. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
@@ -55,7 +40,7 @@
 
 ---
 
-#### 4. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
+#### 3. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Sophos News  
@@ -69,7 +54,7 @@
 
 ---
 
-#### 5. [Watering Hole Attacks Push ScanBox Keylogger](https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/)
+#### 4. [Watering Hole Attacks Push ScanBox Keylogger](https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/)
 
 🟡 **MEDIUM**  
 **📡 Source:** Threat Post  
@@ -83,10 +68,42 @@
 
 ---
 
+#### 5. [Sharpening the knife: GOLD BLADE’s strategic evolution](https://news.sophos.com/en-us/2025/12/05/sharpening-the-knife-gold-blades-strategic-evolution/)
+
+🟡 **MEDIUM**  
+**📡 Source:** Sophos News  
+**📅 Published:** Fri, 05 Dec 2025 13:24:37 +0000  
+
+**📝 Summary:** Updates include novel abuse of recruitment platforms, modified infection chains, and expansion into a hybrid operation that combines data theft and ransomware deployment.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Between February 2024 and August 2025, Sophos analysts investigated nearly 40 intrusions related to  STAC6565, a campaign the analysts assess with high confidence is associated with the GOLD BLADE threat group (also known as RedCurl, RedWolf, and Ear
+- **🔎 Cause:** GOLD BLADE continually refines its intrusion methods and has shifted from traditional phishing emails to abusing recruitment platforms to deliver weaponized resumes
+- **✅ Solution:** GOLD BLADE’s ability to cycle through delivery methods and refine its techniques over time reflects a professionalized operation that treats intrusions as a core service requiring routine updates to maintain effectiveness
+- **⏰ Timeline:** Observed GOLD BLADE activity from August 2024 through August 2025 Analysis of STAC6565 victimology suggests that GOLD BLADE h
+
+---
+
 
 ### 🔴 Cloud Security
 
-#### 1. [FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE](https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html)
+#### 1. [React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors](https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html)
+
+🔴 **CRITICAL**  
+**📡 Source:** The Hacker News  
+**📅 Published:** Tue, 16 Dec 2025 13:51:00 +0530  
+**🔖 CVEs:** CVE-2025-55182  
+
+**📝 Summary:** The security vulnerability known as React2Shell is being exploited by threat actors to deliver malware families like KSwapDoor and ZnDoor, according to findings from Palo Alto Networks Unit 42 and ...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** React2Shell vulnerability CVE-2025-55182 is actively exploited to deploy Linux malware, run commands, and steal cloud credentials at scale
+
+---
+
+#### 2. [FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE](https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html)
 
 🔴 **CRITICAL**  
 **📡 Source:** The Hacker News  
@@ -101,7 +118,7 @@
 
 ---
 
-#### 2. [SoundCloud confirms breach after member data stolen, VPN access disrupted](https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/)
+#### 3. [SoundCloud confirms breach after member data stolen, VPN access disrupted](https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -116,7 +133,7 @@
 
 ---
 
-#### 3. [Google links more Chinese hacking groups to React2Shell attacks](https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/)
+#### 4. [Google links more Chinese hacking groups to React2Shell attacks](https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -133,12 +150,12 @@
 
 ---
 
-#### 4. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+#### 5. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62458, CVE-2025-62472, CVE-2025-62221, CVE-2025-59516, CVE-2025-62557, CVE-2025-62562, CVE-2025-62470, CVE-2025-59517, CVE-2025-62554  
+**🔖 CVEs:** CVE-2025-62554, CVE-2025-62472, CVE-2025-62470, CVE-2025-59517, CVE-2025-59516, CVE-2025-62562, CVE-2025-62557, CVE-2025-62221, CVE-2025-62458  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -146,23 +163,6 @@
 
 - **⚠️ Issue:** The zero-day flaw patched today is CVE-2025-62221, a privilege escalation vulnerability affecting Windows 10 and later editions
 - **✅ Solution:** This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities
-
----
-
-#### 5. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Krebs On Security  
-**📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62199, CVE-2025-60274, CVE-2025-62215  
-
-**📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** “However, exploiting this specific vulnerability is likely to be relatively straightforward, given the existence of prior similar vulnerabilities
-- **🔎 Cause:** Despite the flaw’s zero-day status, Microsoft has assigned it an “important” rating rather than critical, because exploiting it requires an attacker to already have access to the target’s device
-- **✅ Solution:** “The patch for this should be an organization’s highest priority,” McCarthy said
 
 ---
 
@@ -186,7 +186,21 @@
 
 ---
 
-#### 2. [Prompt injection is a problem that may never be fixed, warns NCSC](https://www.malwarebytes.com/blog/news/2025/12/prompt-injection-is-a-problem-that-may-never-be-fixed-warns-ncsc)
+#### 2. [Google is discontinuing its dark web report: why it matters](https://www.malwarebytes.com/blog/news/2025/12/google-is-discontinuing-its-dark-web-report-why-it-matters)
+
+🔴 **CRITICAL**  
+**📡 Source:** Malwarebytes  
+**📅 Published:** Tue, 16 Dec 2025 11:10:40 GMT  
+
+**📝 Summary:** Google will discontinue its dark web report early next year, prompting mixed reactions.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Discontinuing dark web report removes a simple visibility feature, but it also reminds users that cybersecurity awareness means staying careful on the open web and understanding what attackers might use against them
+
+---
+
+#### 3. [Prompt injection is a problem that may never be fixed, warns NCSC](https://www.malwarebytes.com/blog/news/2025/12/prompt-injection-is-a-problem-that-may-never-be-fixed-warns-ncsc)
 
 **📡 Source:** Malwarebytes  
 **📅 Published:** Tue, 09 Dec 2025 13:34:02 GMT  
@@ -200,7 +214,7 @@
 
 ---
 
-#### 3. [New SantaStealer malware steals data from browsers, crypto wallets](https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/)
+#### 4. [New SantaStealer malware steals data from browsers, crypto wallets](https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/)
 
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Mon, 15 Dec 2025 17:43:10 -0500  
@@ -213,7 +227,7 @@
 
 ---
 
-#### 4. [PornHub extorted after hackers steal Premium member activity data](https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/)
+#### 5. [PornHub extorted after hackers steal Premium member activity data](https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/)
 
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Mon, 15 Dec 2025 16:27:07 -0500  
@@ -223,20 +237,6 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** Mixpanel suffered a breach on November 8th, 2025, after an SMS phishing (smishing) attack enabled threat actors to compromise its systems
-
----
-
-#### 5. [700Credit data breach impacts 5.8 million vehicle dealership customers](https://www.bleepingcomputer.com/news/security/700credit-data-breach-impacts-58-million-vehicle-dealership-customers/)
-
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Mon, 15 Dec 2025 11:49:03 -0500  
-
-**📝 Summary:** -based financial services and fintech company, will start notifying more than 5.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** The threat actor was able to exfiltrate data due to a security vulnerability in the API, a failure to validate consumer reference IDs against the original requester
-- **🔎 Cause:** The threat actor was able to exfiltrate data due to a security vulnerability in the API, a failure to validate consumer reference IDs against the original requester
 
 ---
 
@@ -316,22 +316,7 @@
 
 ### 🔴 IoT/OT
 
-#### 1. [In Other News: PromptPwnd Attack, macOS Bounty Complaints, Chinese Hackers Trained in Cisco Academy](https://www.securityweek.com/in-other-news-promptpwnd-attack-small-macos-bounties-chinese-hackers-trained-in-cisco-academy/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Security Week  
-**📅 Published:** Fri, 12 Dec 2025 15:39:35 +0000  
-
-**📝 Summary:** Other noteworthy stories that might have slipped under the radar: Pentagon orders accelerated move to PQC, US shuts down scheme to smuggle GPUs to China, DroidLock Android ransomware.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Each week, we curate and present a collection of noteworthy developments, ranging from the latest vulnerability discoveries and emerging attack techniques to significant policy changes and industry reports
-- **✅ Solution:** Google patched the issue in Gemini CLI within days of being notified
-
----
-
-#### 2. [Watering Hole Attacks Push ScanBox Keylogger](https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/)
+#### 1. [Watering Hole Attacks Push ScanBox Keylogger](https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/)
 
 🟡 **MEDIUM**  
 **📡 Source:** Threat Post  
@@ -345,7 +330,7 @@
 
 ---
 
-#### 3. [Security for AI Building, Not Security for AI Buildings](https://cloudsecurityalliance.org/articles/security-for-ai-building-not-security-for-ai-buildings)
+#### 2. [Security for AI Building, Not Security for AI Buildings](https://cloudsecurityalliance.org/articles/security-for-ai-building-not-security-for-ai-buildings)
 
 **📡 Source:** Cloud Security  
 **📅 Published:** Mon, 08 Dec 2025 18:08:37 -0800  
@@ -358,7 +343,7 @@
 
 ---
 
-#### 4. [Zero Trust for OT in Manufacturing: A Practical Path to Modern Industrial Security](https://cloudsecurityalliance.org/articles/zero-trust-for-ot-in-manufacturing-a-practical-path-to-modern-industrial-security)
+#### 3. [Zero Trust for OT in Manufacturing: A Practical Path to Modern Industrial Security](https://cloudsecurityalliance.org/articles/zero-trust-for-ot-in-manufacturing-a-practical-path-to-modern-industrial-security)
 
 **📡 Source:** Cloud Security  
 **📅 Published:** Mon, 08 Dec 2025 09:47:44 -0800  
@@ -374,7 +359,22 @@
 
 ### 🔴 Malware
 
-#### 1. [Google links more Chinese hacking groups to React2Shell attacks](https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/)
+#### 1. [React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors](https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html)
+
+🔴 **CRITICAL**  
+**📡 Source:** The Hacker News  
+**📅 Published:** Tue, 16 Dec 2025 13:51:00 +0530  
+**🔖 CVEs:** CVE-2025-55182  
+
+**📝 Summary:** The security vulnerability known as React2Shell is being exploited by threat actors to deliver malware families like KSwapDoor and ZnDoor, according to findings from Palo Alto Networks Unit 42 and ...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** React2Shell vulnerability CVE-2025-55182 is actively exploited to deploy Linux malware, run commands, and steal cloud credentials at scale
+
+---
+
+#### 2. [Google links more Chinese hacking groups to React2Shell attacks](https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -388,21 +388,6 @@
 - **⚠️ Issue:** ​Over the weekend, ​Google's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity "React2Shell" remote code execution vulnerability
 - **🔎 Cause:** ​Over the weekend, ​Google's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity "React2Shell" remote code execution vulnerability
 - **✅ Solution:** The list of state-linked threat groups exploiting the flaw now also includes UNC6600 (which deployed MINOCAT tunneling software), UNC6586 (the SNOWLIGHT downloader), UNC6588 (the COMPOOD backdoor payload), UNC6603 (an updated version of the HISONIC b
-
----
-
-#### 2. [In Other News: PromptPwnd Attack, macOS Bounty Complaints, Chinese Hackers Trained in Cisco Academy](https://www.securityweek.com/in-other-news-promptpwnd-attack-small-macos-bounties-chinese-hackers-trained-in-cisco-academy/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Security Week  
-**📅 Published:** Fri, 12 Dec 2025 15:39:35 +0000  
-
-**📝 Summary:** Other noteworthy stories that might have slipped under the radar: Pentagon orders accelerated move to PQC, US shuts down scheme to smuggle GPUs to China, DroidLock Android ransomware.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Each week, we curate and present a collection of noteworthy developments, ranging from the latest vulnerability discoveries and emerging attack techniques to significant policy changes and industry reports
-- **✅ Solution:** Google patched the issue in Gemini CLI within days of being notified
 
 ---
 
@@ -451,22 +436,7 @@
 
 ### 🔴 Phishing
 
-#### 1. [In Other News: PromptPwnd Attack, macOS Bounty Complaints, Chinese Hackers Trained in Cisco Academy](https://www.securityweek.com/in-other-news-promptpwnd-attack-small-macos-bounties-chinese-hackers-trained-in-cisco-academy/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Security Week  
-**📅 Published:** Fri, 12 Dec 2025 15:39:35 +0000  
-
-**📝 Summary:** Other noteworthy stories that might have slipped under the radar: Pentagon orders accelerated move to PQC, US shuts down scheme to smuggle GPUs to China, DroidLock Android ransomware.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Each week, we curate and present a collection of noteworthy developments, ranging from the latest vulnerability discoveries and emerging attack techniques to significant policy changes and industry reports
-- **✅ Solution:** Google patched the issue in Gemini CLI within days of being notified
-
----
-
-#### 2. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
+#### 1. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -479,6 +449,20 @@
 - **⚠️ Issue:** Unfortunately, players on both sides are flooding the zone with GenAI-powered vulnerability discovery
 - **🔎 Cause:** They can greatly increase execution times, due to the nature of AI responses, and can result in execution failures
 - **✅ Solution:** If the researcher is focused on coordinated disclosure resulting in patches and not on selling to the highest bidder, GenAI is largely benign
+
+---
+
+#### 2. [Google is discontinuing its dark web report: why it matters](https://www.malwarebytes.com/blog/news/2025/12/google-is-discontinuing-its-dark-web-report-why-it-matters)
+
+🔴 **CRITICAL**  
+**📡 Source:** Malwarebytes  
+**📅 Published:** Tue, 16 Dec 2025 11:10:40 GMT  
+
+**📝 Summary:** Google will discontinue its dark web report early next year, prompting mixed reactions.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Discontinuing dark web report removes a simple visibility feature, but it also reminds users that cybersecurity awareness means staying careful on the open web and understanding what attackers might use against them
 
 ---
 
@@ -531,22 +515,7 @@
 
 ### 🔴 Ransomware
 
-#### 1. [In Other News: PromptPwnd Attack, macOS Bounty Complaints, Chinese Hackers Trained in Cisco Academy](https://www.securityweek.com/in-other-news-promptpwnd-attack-small-macos-bounties-chinese-hackers-trained-in-cisco-academy/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Security Week  
-**📅 Published:** Fri, 12 Dec 2025 15:39:35 +0000  
-
-**📝 Summary:** Other noteworthy stories that might have slipped under the radar: Pentagon orders accelerated move to PQC, US shuts down scheme to smuggle GPUs to China, DroidLock Android ransomware.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Each week, we curate and present a collection of noteworthy developments, ranging from the latest vulnerability discoveries and emerging attack techniques to significant policy changes and industry reports
-- **✅ Solution:** Google patched the issue in Gemini CLI within days of being notified
-
----
-
-#### 2. [New BYOVD loader behind DeadLock ransomware attack](https://blog.talosintelligence.com/byovd-loader-deadlock-ransomware/)
+#### 1. [New BYOVD loader behind DeadLock ransomware attack](https://blog.talosintelligence.com/byovd-loader-deadlock-ransomware/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -562,7 +531,7 @@
 
 ---
 
-#### 3. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
+#### 2. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Sophos News  
@@ -576,7 +545,7 @@
 
 ---
 
-#### 4. [Sharpening the knife: GOLD BLADE’s strategic evolution](https://news.sophos.com/en-us/2025/12/05/sharpening-the-knife-gold-blades-strategic-evolution/)
+#### 3. [Sharpening the knife: GOLD BLADE’s strategic evolution](https://news.sophos.com/en-us/2025/12/05/sharpening-the-knife-gold-blades-strategic-evolution/)
 
 🟡 **MEDIUM**  
 **📡 Source:** Sophos News  
@@ -593,7 +562,7 @@
 
 ---
 
-#### 5. [VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption](https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html)
+#### 4. [VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption](https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html)
 
 **📡 Source:** The Hacker News  
 **📅 Published:** Mon, 15 Dec 2025 11:03:00 +0530  
@@ -603,6 +572,20 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** Cybersecurity, Ransomware, Malware, Encryption, Cybercrime, Linux, Windows, Telegram, Data Recovery
+
+---
+
+#### 5. [Askul confirms theft of 740k customer records in ransomware attack](https://www.bleepingcomputer.com/news/security/askul-confirms-theft-of-740k-customer-records-in-ransomhouse-attack/)
+
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Mon, 15 Dec 2025 18:13:44 -0500  
+
+**📝 Summary:** Japanese e-commerce giant Askul Corporation has confirmed that RansomHouse hackers stole around 740,000 customer records in the ransomware attack it suffered in October.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Japanese e-commerce giant Askul Corporation has confirmed that RansomHouse hackers stole around 740,000 customer records in the ransomware attack it suffered in October
+- **✅ Solution:** Also, the company has informed the country’s Personal Information Protection Commission about the data exposure and established long-term monitoring to prevent misuse of the stolen information
 
 ---
 
@@ -631,7 +614,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
 **📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
+**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
 
 **📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
 
@@ -688,7 +671,22 @@
 
 ### 🔴 Vulnerability
 
-#### 1. [FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE](https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html)
+#### 1. [React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors](https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html)
+
+🔴 **CRITICAL**  
+**📡 Source:** The Hacker News  
+**📅 Published:** Tue, 16 Dec 2025 13:51:00 +0530  
+**🔖 CVEs:** CVE-2025-55182  
+
+**📝 Summary:** The security vulnerability known as React2Shell is being exploited by threat actors to deliver malware families like KSwapDoor and ZnDoor, according to findings from Palo Alto Networks Unit 42 and ...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** React2Shell vulnerability CVE-2025-55182 is actively exploited to deploy Linux malware, run commands, and steal cloud credentials at scale
+
+---
+
+#### 2. [FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE](https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html)
 
 🔴 **CRITICAL**  
 **📡 Source:** The Hacker News  
@@ -703,7 +701,7 @@
 
 ---
 
-#### 2. [CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html)
+#### 3. [CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html)
 
 🔴 **CRITICAL**  
 **📡 Source:** The Hacker News  
@@ -714,22 +712,6 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** CISA warns of active exploitation of Sierra Wireless router flaw allowing remote code execution via unrestricted file upload
-
----
-
-#### 3. [CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html)
-
-🔴 **CRITICAL**  
-**📡 Source:** The Hacker News  
-**📅 Published:** Fri, 12 Dec 2025 10:31:00 +0530  
-**🔖 CVEs:** CVE-2025-58360  
-
-**📝 Summary:** Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting OSGeo GeoServer to its Known Exploited Vulnerabilities (KEV) catalog, based on evid...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** CISA reports active exploitation of GeoServer XXE flaw CVE-2025-58360 and directs immediate updates to secure affected systems
-- **✅ Solution:** CISA reports active exploitation of GeoServer XXE flaw CVE-2025-58360 and directs immediate updates to secure affected systems
 
 ---
 
@@ -750,19 +732,19 @@
 
 ---
 
-#### 5. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+#### 5. [Microsoft: December security updates cause Message Queuing failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/)
 
 🔴 **CRITICAL**  
-**📡 Source:** Krebs On Security  
-**📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62458, CVE-2025-62472, CVE-2025-62221, CVE-2025-59516, CVE-2025-62557, CVE-2025-62562, CVE-2025-62470, CVE-2025-59517, CVE-2025-62554  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Mon, 15 Dec 2025 04:04:59 -0500  
 
-**📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
+**📝 Summary:** Microsoft has confirmed that the December 2025 security updates are breaking Message Queuing (MSMQ) functionality, affecting enterprise applications and Internet Information Services (IIS) websites.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** The zero-day flaw patched today is CVE-2025-62221, a privilege escalation vulnerability affecting Windows 10 and later editions
-- **✅ Solution:** This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities
+- **⚠️ Issue:** Microsoft: December security updates cause Message Queuing failures
+- **🔎 Cause:** "This issue is caused by the recent changes introduced to the MSMQ security model and NTFS permissions on C:\Windows\System32\MSMQ\storage folder
+- **✅ Solution:** This known issue affects Windows 10 22H2, Windows Server 2019, and Windows Server 2016 systems that have installed the KB5071546, KB5071544, and KB5071543 security updates released during this month's Patch Tuesday
 
 ---
 
