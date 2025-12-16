@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-16 16:36:21 UTC
+**Last Updated:** 2025-12-16 20:32:43 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -129,7 +129,22 @@
 
 ---
 
-#### 4. [Hackers exploit newly patched Fortinet auth bypass flaws](https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/)
+#### 4. [Amazon disrupts Russian GRU hackers attacking edge network devices](https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-gru-hackers-attacking-edge-network-devices/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Tue, 16 Dec 2025 15:13:09 -0500  
+
+**📝 Summary:** The Amazon Threat Intelligence team has disrupted active operations attributed to hackers working for the Russian foreign military intelligence agency, the GRU, who targeted customers' cloud infras...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** The Amazon Threat Intelligence team has disrupted active operations attributed to hackers working for the Russian foreign military intelligence agency, the GRU, who targeted customers' cloud infrastructure
+- **🔎 Cause:** Over time, the threat actor pivoted from exploiting vulnerabilities (zero-days and known ones) to leveraging misconfigured edge devices for initial access
+
+---
+
+#### 5. [Hackers exploit newly patched Fortinet auth bypass flaws](https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -142,21 +157,6 @@
 
 - **⚠️ Issue:** It is caused by improper verification of cryptographic signatures in SAML messages, allowing an attacker to log in without valid authentication by submitting a maliciously crafted SAML assertion
 - **🔎 Cause:** It is caused by improper verification of cryptographic signatures in SAML messages, allowing an attacker to log in without valid authentication by submitting a maliciously crafted SAML assertion
-
----
-
-#### 5. [SoundCloud confirms breach after member data stolen, VPN access disrupted](https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Mon, 15 Dec 2025 19:38:47 -0500  
-
-**📝 Summary:** Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in which threat actors stole a database exposing use...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in which threat actors stole a database exposing users' email addresses and profile information
-- **🔎 Cause:** Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in which threat actors stole a database exposing users' email addresses and profile information
 
 ---
 
@@ -194,43 +194,44 @@
 
 ---
 
-#### 3. [Prompt injection is a problem that may never be fixed, warns NCSC](https://www.malwarebytes.com/blog/news/2025/12/prompt-injection-is-a-problem-that-may-never-be-fixed-warns-ncsc)
+#### 3. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
 
-**📡 Source:** Malwarebytes  
-**📅 Published:** Tue, 09 Dec 2025 13:34:02 GMT  
+**📡 Source:** Krebs On Security  
+**📅 Published:** Wed, 26 Nov 2025 17:22:36 +0000  
 
-**📝 Summary:** The NCSC warns that prompt injection is unlikely to be mitigated in the same way SQL injection was.
+**📝 Summary:** A prolific cybercriminal group that calls itself "Scattered LAPSUS$ Hunters" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Prompt injection works because AI models can’t tell the difference between the app’s instructions and the attacker’s instructions, so they sometimes obey the wrong one
-- **✅ Solution:** Prompt injection is shaping up to be one of the most stubborn problems in AI security, and the UK’s National Cyber Security Centre (NCSC) has warned that it may never be “fixed” in the way SQL injection was
+- **⚠️ Issue:** The group later launched a data leak portal that threatened to publish the internal data of three dozen companies that allegedly had Salesforce data stolen, including Toyota, FedEx, Disney/Hulu, and UPS
 
 ---
 
-#### 4. [New SantaStealer malware steals data from browsers, crypto wallets](https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/)
+#### 4. [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
 
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Mon, 15 Dec 2025 17:43:10 -0500  
+**📡 Source:** Krebs On Security  
+**📅 Published:** Thu, 20 Nov 2025 19:06:51 +0000  
 
-**📝 Summary:** A new malware-as-a-service (MaaS) information stealer named SantaStealer is being advertised on Telegram and hacker forums as operating in memory to avoid file-based detection.
+**📝 Summary:** In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of p...
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** "While it is possible that the threat actor behind SantaStealer is still developing some of the mentioned anti-analysis or anti-AV techniques, having samples leaked before the malware is ready for production use - complete with symbol names and unenc
+- **⚠️ Issue:** “We will continue to offer our free Monitor data breach service, which is integrated into Firefox’s credential manager, and we are focused on integrating more of our privacy and security experiences in Firefox, including our VPN, for free,” the advis
+- **✅ Solution:** In March 2024, Mozilla said it was winding down its collaboration with Onerep — an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites — after KrebsOnSecurity revealed On
 
 ---
 
-#### 5. [PornHub extorted after hackers steal Premium member activity data](https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/)
+#### 5. [Unleashing the Kraken ransomware group](https://blog.talosintelligence.com/kraken-ransomware-group/)
 
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Mon, 15 Dec 2025 16:27:07 -0500  
+**📡 Source:** Talos Blog  
+**📅 Published:** Thu, 13 Nov 2025 11:00:38 GMT  
 
-**📝 Summary:** Adult video platform PornHub is being extorted by the ShinyHunters extortion gang after the search and watch history of its Premium members was reportedly stolen in a recent Mixpanel data breach.
+**📝 Summary:** In August 2025, Cisco Talos observed big-game hunting and double extortion attacks carried out by Kraken, a Russian-speaking group that has emerged from the remnants of the HelloKitty ransomware ca...
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Mixpanel suffered a breach on November 8th, 2025, after an SMS phishing (smishing) attack enabled threat actors to compromise its systems
+- **⚠️ Issue:** In August 2025, Cisco Talos Incident Response (Talos IR) observed in one instance that the Kraken ransomware actor gained initial access to the victim's machine by exploiting an existing vulnerability in the SMB service on servers exposed to the inte
+- **🔎 Cause:** In August 2025, Cisco Talos Incident Response (Talos IR) observed in one instance that the Kraken ransomware actor gained initial access to the victim's machine by exploiting an existing vulnerability in the SMB service on servers exposed to the inte
 
 ---
 
@@ -397,7 +398,20 @@
 
 ---
 
-#### 4. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
+#### 4. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+
+**📡 Source:** Krebs On Security  
+**📅 Published:** Mon, 24 Nov 2025 18:44:52 +0000  
+
+**📝 Summary:** On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming ...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Is Your Android TV Streaming Box Part of a Botnet?
+
+---
+
+#### 5. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
@@ -407,20 +421,6 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** Adversaries are using GenAI for coding, phishing, evasion, and vulnerability discovery, especially as uncensored models become more widely available
-
----
-
-#### 5. [Viasat and the terrible, horrible, no good, very bad day](https://blog.talosintelligence.com/viasat-and-the-terrible-horrible-no-good-very-bad-day/)
-
-**📡 Source:** Talos Blog  
-**📅 Published:** Thu, 13 Nov 2025 19:00:14 GMT  
-
-**📝 Summary:** In this week’s newsletter, Amy recounts her journey from Halloween festivities to unraveling the story of the 2022 Viasat satellite hack, with plenty of cybersecurity surprises along the way.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
-- **🔎 Cause:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
 
 ---
 
@@ -472,21 +472,7 @@
 
 ---
 
-#### 4. [2025’s Top Phishing Trends and What They Mean for Your Security Strategy](https://www.bleepingcomputer.com/news/security/2025s-top-phishing-trends-and-what-they-mean-for-your-security-strategy/)
-
-🟡 **MEDIUM**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Mon, 15 Dec 2025 10:05:15 -0500  
-
-**📝 Summary:** Phishing attacks in 2025 increasingly moved beyond email, with attackers using social platforms, search ads, and browser-based techniques to bypass MFA and steal sessions.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** 2025 saw a huge amount of attacker innovation when it comes to phishing attacks, as attackers continue to double down on identity-based techniques
-
----
-
-#### 5. [Sharpening the knife: GOLD BLADE’s strategic evolution](https://news.sophos.com/en-us/2025/12/05/sharpening-the-knife-gold-blades-strategic-evolution/)
+#### 4. [Sharpening the knife: GOLD BLADE’s strategic evolution](https://news.sophos.com/en-us/2025/12/05/sharpening-the-knife-gold-blades-strategic-evolution/)
 
 🟡 **MEDIUM**  
 **📡 Source:** Sophos News  
@@ -500,6 +486,19 @@
 - **🔎 Cause:** GOLD BLADE continually refines its intrusion methods and has shifted from traditional phishing emails to abusing recruitment platforms to deliver weaponized resumes
 - **✅ Solution:** GOLD BLADE’s ability to cycle through delivery methods and refine its techniques over time reflects a professionalized operation that treats intrusions as a core service requiring routine updates to maintain effectiveness
 - **⏰ Timeline:** Observed GOLD BLADE activity from August 2024 through August 2025 Analysis of STAC6565 victimology suggests that GOLD BLADE h
+
+---
+
+#### 5. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
+
+**📡 Source:** Talos Blog  
+**📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
+
+**📝 Summary:** Bill explores how our biggest mistakes can be the catalysts for growth that we need.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Adversaries are using GenAI for coding, phishing, evasion, and vulnerability discovery, especially as uncensored models become more widely available
 
 ---
 
@@ -583,7 +582,24 @@
 
 ### 🔴 Supply Chain
 
-#### 1. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
+#### 1. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Krebs On Security  
+**📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
+**🔖 CVEs:** CVE-2025-62199, CVE-2025-62215, CVE-2025-60274  
+
+**📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** “However, exploiting this specific vulnerability is likely to be relatively straightforward, given the existence of prior similar vulnerabilities
+- **🔎 Cause:** Despite the flaw’s zero-day status, Microsoft has assigned it an “important” rating rather than critical, because exploiting it requires an attacker to already have access to the target’s device
+- **✅ Solution:** “The patch for this should be an organization’s highest priority,” McCarthy said
+
+---
+
+#### 2. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
@@ -599,7 +615,7 @@
 
 ---
 
-#### 2. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
+#### 3. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Wed, 26 Nov 2025 18:36:06 GMT  
@@ -615,20 +631,20 @@
 
 ---
 
-#### 3. [PornHub extorted after hackers steal Premium member activity data](https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/)
+#### 4. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
 
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Mon, 15 Dec 2025 16:27:07 -0500  
+**📡 Source:** Krebs On Security  
+**📅 Published:** Tue, 16 Dec 2025 14:14:48 +0000  
 
-**📝 Summary:** Adult video platform PornHub is being extorted by the ShinyHunters extortion gang after the search and watch history of its Premium members was reportedly stolen in a recent Mixpanel data breach.
+**📝 Summary:** Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of "parked" domains -- mostly exp...
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Mixpanel suffered a breach on November 8th, 2025, after an SMS phishing (smishing) attack enabled threat actors to compromise its systems
+- **⚠️ Issue:** A lookalike domain to the FBI Internet Crime Complaint Center website, returned a non-threatening parking page (left) whereas a mobile user was instantly directed to deceptive content in October 2025 (right)
 
 ---
 
-#### 4. [Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities](https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/)
+#### 5. [Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities](https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 04 Dec 2025 20:23:15 GMT  
@@ -641,21 +657,6 @@
 - **⚠️ Issue:** Cisco Talos’ Vulnerability Discovery & Research team recently disclosed an out-of-bounds read vulnerability in PDF XChange Editor, and ten vulnerabilities in Socomec DIRIS Digiware M series and Easy Config products
 - **🔎 Cause:** Cisco Talos’ Vulnerability Discovery & Research team recently disclosed an out-of-bounds read vulnerability in PDF XChange Editor, and ten vulnerabilities in Socomec DIRIS Digiware M series and Easy Config products
 - **✅ Solution:** The vulnerabilities mentioned in this blog post have been patched by their respective vendors, all in adherence to Cisco’s third-party vulnerability disclosure policy
-
----
-
-#### 5. [Care that you share](https://blog.talosintelligence.com/care-that-you-share/)
-
-**📡 Source:** Talos Blog  
-**📅 Published:** Wed, 26 Nov 2025 17:00:48 GMT  
-
-**📝 Summary:** This holiday season, as teams run lean and cyber threats rise, being open with what — and how — you share can protect both information and relationships.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Welcome to this week's edition of the Threat Source newsletter
-- **🔎 Cause:** Many teams are running with skeleton crews, whether due to holiday mode (family, turkey, football, days off) or the year-end compliance push (hello, NIS2 and DORA)
-- **✅ Solution:** Should I give them some history of STIX/TAXII
 
 ---
 
@@ -706,7 +707,22 @@
 
 ---
 
-#### 4. [Hackers exploit newly patched Fortinet auth bypass flaws](https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/)
+#### 4. [Amazon disrupts Russian GRU hackers attacking edge network devices](https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-gru-hackers-attacking-edge-network-devices/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Tue, 16 Dec 2025 15:13:09 -0500  
+
+**📝 Summary:** The Amazon Threat Intelligence team has disrupted active operations attributed to hackers working for the Russian foreign military intelligence agency, the GRU, who targeted customers' cloud infras...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** The Amazon Threat Intelligence team has disrupted active operations attributed to hackers working for the Russian foreign military intelligence agency, the GRU, who targeted customers' cloud infrastructure
+- **🔎 Cause:** Over time, the threat actor pivoted from exploiting vulnerabilities (zero-days and known ones) to leveraging misconfigured edge devices for initial access
+
+---
+
+#### 5. [Hackers exploit newly patched Fortinet auth bypass flaws](https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -719,23 +735,6 @@
 
 - **⚠️ Issue:** It is caused by improper verification of cryptographic signatures in SAML messages, allowing an attacker to log in without valid authentication by submitting a maliciously crafted SAML assertion
 - **🔎 Cause:** It is caused by improper verification of cryptographic signatures in SAML messages, allowing an attacker to log in without valid authentication by submitting a maliciously crafted SAML assertion
-
----
-
-#### 5. [Microsoft Patch Tuesday for December 2025 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-december-2025/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Talos Blog  
-**📅 Published:** Tue, 09 Dec 2025 23:29:51 GMT  
-**🔖 CVEs:** CVE-2025-62549, CVE-2025-62556, CVE-2025-62557, CVE-2025-62553, CVE-2025-62554, CVE-2025-62456  
-
-**📝 Summary:** The Patch Tuesday for December of 2025 includes 57 vulnerabilities, including two that Microsoft marked as “critical.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** ”  CVE‑2025‑62562 is a Microsoft Outlook remote code execution vulnerability
-- **🔎 Cause:** CVE-2025-62456 is a Remote Code Execution Vulnerability in Windows Resilient File System (ReFS)
-- **✅ Solution:** The Patch Tuesday for December of 2025 includes 57 vulnerabilities, including two that Microsoft marked as “critical
 
 ---
 
