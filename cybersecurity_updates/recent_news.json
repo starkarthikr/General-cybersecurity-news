@@ -338,6 +338,120 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "SoundCloud confirms breach after member data stolen, VPN access disrupted",
+    "link": "https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/",
+    "published": "Mon, 15 Dec 2025 19:38:47 -0500",
+    "summary": "Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in which threat actors stole a database containing user information. [...]",
+    "ai_summary": "Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in which threat actors stole a database containing u...",
+    "authors": [
+      "Lawrence Abrams"
+    ],
+    "analysis": {
+      "issue": "Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in which threat actors stole a database containing user information",
+      "solution": null,
+      "cause": "Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in which threat actors stole a database containing user information",
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Cloud Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Google is shutting down its dark web report feature in January",
+    "link": "https://www.bleepingcomputer.com/news/google/google-is-shutting-down-its-dark-web-report-feature-in-january/",
+    "published": "Mon, 15 Dec 2025 18:24:57 -0500",
+    "summary": "Google is discontinuing its \"dark web report\" security tool, stating that it wants to focus on other tools it believes are more helpful. [...]",
+    "ai_summary": "Google is discontinuing its \"dark web report\" security tool, stating that it wants to focus on other tools it believes are more helpful.",
+    "authors": [
+      "Mayank Parmar"
+    ],
+    "analysis": {
+      "issue": "After Google scans the dark web and identifies your personal information, it will notify you where the data was found and what type of data was exposed, encouraging users to take action to protect their data",
+      "solution": "For example, if Google identifies your email on the dark web, you will be advised to turn on two-step authentication to protect your Google account",
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Askul confirms theft of 740k customer records in ransomware attack",
+    "link": "https://www.bleepingcomputer.com/news/security/askul-confirms-theft-of-740k-customer-records-in-ransomhouse-attack/",
+    "published": "Mon, 15 Dec 2025 18:13:44 -0500",
+    "summary": "Japanese e-commerce giant Askul Corporation has confirmed that RansomHouse hackers stole around 740,000 customer records in the ransomware attack it suffered in October. [...]",
+    "ai_summary": "Japanese e-commerce giant Askul Corporation has confirmed that RansomHouse hackers stole around 740,000 customer records in the ransomware attack it suffered in October.",
+    "authors": [
+      "Bill Toulas"
+    ],
+    "analysis": {
+      "issue": "Japanese e-commerce giant Askul Corporation has confirmed that RansomHouse hackers stole around 740,000 customer records in the ransomware attack it suffered in October",
+      "solution": "Also, the company has informed the country’s Personal Information Protection Commission about the data exposure and established long-term monitoring to prevent misuse of the stolen information",
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New SantaStealer malware steals data from browsers, crypto wallets",
+    "link": "https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/",
+    "published": "Mon, 15 Dec 2025 17:43:10 -0500",
+    "summary": "A new malware-as-a-service (MaaS) information stealer named SantaStealer is being advertised on Telegram and hacker forums as operating in memory to avoid file-based detection. [...]",
+    "ai_summary": "A new malware-as-a-service (MaaS) information stealer named SantaStealer is being advertised on Telegram and hacker forums as operating in memory to avoid file-based detection.",
+    "authors": [
+      "Bill Toulas"
+    ],
+    "analysis": {
+      "issue": "\"While it is possible that the threat actor behind SantaStealer is still developing some of the mentioned anti-analysis or anti-AV techniques, having samples leaked before the malware is ready for production use - complete with symbol names and unenc",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "PornHub extorted after hackers steal Premium member activity data",
+    "link": "https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/",
+    "published": "Mon, 15 Dec 2025 16:27:07 -0500",
+    "summary": "Adult video platform PornHub is being extorted by the ShinyHunters extortion gang after the search and watch history of its Premium members was reportedly stolen in a recent Mixpanel data breach. [...]",
+    "ai_summary": "Adult video platform PornHub is being extorted by the ShinyHunters extortion gang after the search and watch history of its Premium members was reportedly stolen in a recent Mixpanel data breach.",
+    "authors": [
+      "Lawrence Abrams"
+    ],
+    "analysis": {
+      "issue": "Mixpanel suffered a breach on November 8th, 2025, after an SMS phishing (smishing) attack enabled threat actors to compromise its systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Ongoing SoundCloud issue blocks VPN users with 403 server error",
     "link": "https://www.bleepingcomputer.com/news/security/ongoing-soundcloud-issue-blocks-vpn-users-with-403-server-error/",
     "published": "Mon, 15 Dec 2025 13:20:47 -0500",
@@ -520,78 +634,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CyberVolk’s ransomware debut stumbles on cryptography weakness",
-    "link": "https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/",
-    "published": "Sat, 13 Dec 2025 10:11:21 -0500",
-    "summary": "The pro-Russia hacktivist group CyberVolk launched a ransomware-as-a-service (RaaS) called VolkLocker that suffered from serious implementation flaws, allowing victims to potentially decrypt files for free. [...]",
-    "ai_summary": "The pro-Russia hacktivist group CyberVolk launched a ransomware-as-a-service (RaaS) called VolkLocker that suffered from serious implementation flaws, allowing victims to potentially decrypt files ...",
-    "authors": [
-      "Bill Toulas"
-    ],
-    "analysis": {
-      "issue": "CyberVolk is reportedly an India-based pro-Russia hacktivist collective that started operations last year, launching distributed denial of service and ransomware attacks against public and government entities opposing Russia or siding with Ukraine",
-      "solution": "The pro-Russia hacktivist group CyberVolk launched a ransomware-as-a-service (RaaS) called VolkLocker that suffered from serious implementation flaws, allowing victims to potentially decrypt files for free",
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "DDoS",
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Apple fixes two zero-day flaws exploited in 'sophisticated' attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/",
-    "published": "Fri, 12 Dec 2025 18:23:25 -0500",
-    "summary": "Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an \"extremely sophisticated attack\" targeting specific individuals. [...]",
-    "ai_summary": "Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an \"extremely sophisticated attack\" targeting specific individuals.",
-    "authors": [
-      "Lawrence Abrams"
-    ],
-    "analysis": {
-      "issue": "Apple says the flaw was discovered by Google’s Threat Analysis Group",
-      "solution": "Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an “extremely sophisticated attack” targeting specific individuals",
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-14174",
-        "CVE-2025-43529"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Coupang data breach traced to ex-employee who retained system access",
-    "link": "https://www.bleepingcomputer.com/news/security/coupang-data-breach-traced-to-ex-employee-who-retained-system-access/",
-    "published": "Fri, 12 Dec 2025 13:28:30 -0500",
-    "summary": "A data breach at Coupang that exposed the information of 33.7 million customers has been tied to a former employee who retained access to internal systems after leaving the company. [...]",
-    "ai_summary": "A data breach at Coupang that exposed the information of 33.",
-    "authors": [
-      "Bill Toulas"
-    ]
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Fake ‘One Battle After Another’ torrent hides malware in subtitles",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-one-battle-after-another-torrent-hides-malware-in-subtitles/",
-    "published": "Fri, 12 Dec 2025 12:12:47 -0500",
-    "summary": "A fake torrent for Leonardo DiCaprio's 'One Battle After Another' hides malicious PowerShell malware loaders inside subtitle files that ultimately infect devices with the Agent Tesla RAT malware. [...]",
-    "ai_summary": "A fake torrent for Leonardo DiCaprio's 'One Battle After Another' hides malicious PowerShell malware loaders inside subtitle files that ultimately infect devices with the Agent Tesla RAT malware.",
-    "authors": [
-      "Bill Toulas"
-    ]
-  },
-  {
     "source": "Krebs On Security",
     "title": "Microsoft Patch Tuesday, December 2025 Edition",
     "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
@@ -608,15 +650,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62562",
-        "CVE-2025-62458",
         "CVE-2025-62557",
-        "CVE-2025-62554",
-        "CVE-2025-62472",
-        "CVE-2025-59516",
+        "CVE-2025-62458",
         "CVE-2025-62221",
+        "CVE-2025-59516",
+        "CVE-2025-62562",
+        "CVE-2025-62472",
         "CVE-2025-59517",
-        "CVE-2025-62470"
+        "CVE-2025-62470",
+        "CVE-2025-62554"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -777,8 +819,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-60274",
-        "CVE-2025-62215",
-        "CVE-2025-62199"
+        "CVE-2025-62199",
+        "CVE-2025-62215"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -997,12 +1039,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62549",
-        "CVE-2025-62456",
         "CVE-2025-62557",
-        "CVE-2025-62554",
+        "CVE-2025-62456",
+        "CVE-2025-62549",
         "CVE-2025-62553",
-        "CVE-2025-62556"
+        "CVE-2025-62556",
+        "CVE-2025-62554"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1813,8 +1855,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -2382,7 +2424,7 @@
       "solution": "These fake pages don’t just grab a username and password–they also ask for answers to secret questions and other “backup” data that attackers can use to bypass multi-factor authentication and account recovery protections",
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": null,
       "cves": [],
       "threat_categories": [
         "Data Breach",

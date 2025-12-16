@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-15 20:31:42 UTC
+**Last Updated:** 2025-12-16 01:35:38 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -101,7 +101,22 @@
 
 ---
 
-#### 2. [Google links more Chinese hacking groups to React2Shell attacks](https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/)
+#### 2. [SoundCloud confirms breach after member data stolen, VPN access disrupted](https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Mon, 15 Dec 2025 19:38:47 -0500  
+
+**📝 Summary:** Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in which threat actors stole a database containing u...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in which threat actors stole a database containing user information
+- **🔎 Cause:** Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in which threat actors stole a database containing user information
+
+---
+
+#### 3. [Google links more Chinese hacking groups to React2Shell attacks](https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -118,28 +133,12 @@
 
 ---
 
-#### 3. [Apple fixes two zero-day flaws exploited in 'sophisticated' attacks](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Fri, 12 Dec 2025 18:23:25 -0500  
-**🔖 CVEs:** CVE-2025-14174, CVE-2025-43529  
-
-**📝 Summary:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an "extremely sophisticated attack" targeting specific individuals.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Apple says the flaw was discovered by Google’s Threat Analysis Group
-- **✅ Solution:** Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an “extremely sophisticated attack” targeting specific individuals
-
----
-
 #### 4. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62562, CVE-2025-62458, CVE-2025-62557, CVE-2025-62554, CVE-2025-62472, CVE-2025-59516, CVE-2025-62221, CVE-2025-59517, CVE-2025-62470  
+**🔖 CVEs:** CVE-2025-62557, CVE-2025-62458, CVE-2025-62221, CVE-2025-59516, CVE-2025-62562, CVE-2025-62472, CVE-2025-59517, CVE-2025-62470, CVE-2025-62554  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -155,7 +154,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-60274, CVE-2025-62215, CVE-2025-62199  
+**🔖 CVEs:** CVE-2025-60274, CVE-2025-62199, CVE-2025-62215  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -164,23 +163,6 @@
 - **⚠️ Issue:** “However, exploiting this specific vulnerability is likely to be relatively straightforward, given the existence of prior similar vulnerabilities
 - **🔎 Cause:** Despite the flaw’s zero-day status, Microsoft has assigned it an “important” rating rather than critical, because exploiting it requires an attacker to already have access to the target’s device
 - **✅ Solution:** “The patch for this should be an organization’s highest priority,” McCarthy said
-
----
-
-
-### 🔴 DDoS
-
-#### 1. [CyberVolk’s ransomware debut stumbles on cryptography weakness](https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/)
-
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Sat, 13 Dec 2025 10:11:21 -0500  
-
-**📝 Summary:** The pro-Russia hacktivist group CyberVolk launched a ransomware-as-a-service (RaaS) called VolkLocker that suffered from serious implementation flaws, allowing victims to potentially decrypt files ...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** CyberVolk is reportedly an India-based pro-Russia hacktivist collective that started operations last year, launching distributed denial of service and ransomware attacks against public and government entities opposing Russia or siding with Ukraine
-- **✅ Solution:** The pro-Russia hacktivist group CyberVolk launched a ransomware-as-a-service (RaaS) called VolkLocker that suffered from serious implementation flaws, allowing victims to potentially decrypt files for free
 
 ---
 
@@ -218,21 +200,33 @@
 
 ---
 
-#### 3. [How phishers hide banking scams behind free Cloudflare Pages](https://www.malwarebytes.com/blog/news/2025/12/how-phishers-hide-banking-scams-behind-free-cloudflare-pages)
+#### 3. [New SantaStealer malware steals data from browsers, crypto wallets](https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/)
 
-**📡 Source:** Malwarebytes  
-**📅 Published:** Mon, 08 Dec 2025 15:26:29 GMT  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Mon, 15 Dec 2025 17:43:10 -0500  
 
-**📝 Summary:** We found a campaign that hosts fake login pages on Cloudflare Pages and sends the stolen info straight to Telegram.
+**📝 Summary:** A new malware-as-a-service (MaaS) information stealer named SantaStealer is being advertised on Telegram and hacker forums as operating in memory to avoid file-based detection.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** These fake pages don’t just grab a username and password–they also ask for answers to secret questions and other “backup” data that attackers can use to bypass multi-factor authentication and account recovery protections
-- **✅ Solution:** These fake pages don’t just grab a username and password–they also ask for answers to secret questions and other “backup” data that attackers can use to bypass multi-factor authentication and account recovery protections
+- **⚠️ Issue:** "While it is possible that the threat actor behind SantaStealer is still developing some of the mentioned anti-analysis or anti-AV techniques, having samples leaked before the malware is ready for production use - complete with symbol names and unenc
 
 ---
 
-#### 4. [700Credit data breach impacts 5.8 million vehicle dealership customers](https://www.bleepingcomputer.com/news/security/700credit-data-breach-impacts-58-million-vehicle-dealership-customers/)
+#### 4. [PornHub extorted after hackers steal Premium member activity data](https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/)
+
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Mon, 15 Dec 2025 16:27:07 -0500  
+
+**📝 Summary:** Adult video platform PornHub is being extorted by the ShinyHunters extortion gang after the search and watch history of its Premium members was reportedly stolen in a recent Mixpanel data breach.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Mixpanel suffered a breach on November 8th, 2025, after an SMS phishing (smishing) attack enabled threat actors to compromise its systems
+
+---
+
+#### 5. [700Credit data breach impacts 5.8 million vehicle dealership customers](https://www.bleepingcomputer.com/news/security/700credit-data-breach-impacts-58-million-vehicle-dealership-customers/)
 
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Mon, 15 Dec 2025 11:49:03 -0500  
@@ -243,19 +237,6 @@
 
 - **⚠️ Issue:** The threat actor was able to exfiltrate data due to a security vulnerability in the API, a failure to validate consumer reference IDs against the original requester
 - **🔎 Cause:** The threat actor was able to exfiltrate data due to a security vulnerability in the API, a failure to validate consumer reference IDs against the original requester
-
----
-
-#### 5. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
-
-**📡 Source:** Krebs On Security  
-**📅 Published:** Wed, 26 Nov 2025 17:22:36 +0000  
-
-**📝 Summary:** A prolific cybercriminal group that calls itself "Scattered LAPSUS$ Hunters" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** The group later launched a data leak portal that threatened to publish the internal data of three dozen companies that allegedly had Salesforce data stolen, including Toyota, FedEx, Disney/Hulu, and UPS
 
 ---
 
@@ -633,7 +614,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-60274, CVE-2025-62215, CVE-2025-62199  
+**🔖 CVEs:** CVE-2025-60274, CVE-2025-62199, CVE-2025-62215  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -650,7 +631,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
 **📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
+**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
 
 **📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
 
@@ -677,7 +658,20 @@
 
 ---
 
-#### 4. [700Credit data breach impacts 5.8 million vehicle dealership customers](https://www.bleepingcomputer.com/news/security/700credit-data-breach-impacts-58-million-vehicle-dealership-customers/)
+#### 4. [PornHub extorted after hackers steal Premium member activity data](https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/)
+
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Mon, 15 Dec 2025 16:27:07 -0500  
+
+**📝 Summary:** Adult video platform PornHub is being extorted by the ShinyHunters extortion gang after the search and watch history of its Premium members was reportedly stolen in a recent Mixpanel data breach.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Mixpanel suffered a breach on November 8th, 2025, after an SMS phishing (smishing) attack enabled threat actors to compromise its systems
+
+---
+
+#### 5. [700Credit data breach impacts 5.8 million vehicle dealership customers](https://www.bleepingcomputer.com/news/security/700credit-data-breach-impacts-58-million-vehicle-dealership-customers/)
 
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Mon, 15 Dec 2025 11:49:03 -0500  
@@ -688,20 +682,6 @@
 
 - **⚠️ Issue:** The threat actor was able to exfiltrate data due to a security vulnerability in the API, a failure to validate consumer reference IDs against the original requester
 - **🔎 Cause:** The threat actor was able to exfiltrate data due to a security vulnerability in the API, a failure to validate consumer reference IDs against the original requester
-
----
-
-#### 5. [Microsoft: Recent Windows updates break VPN access for WSL users](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-wsl-networking-issues/)
-
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Mon, 15 Dec 2025 09:34:31 -0500  
-
-**📝 Summary:** Microsoft says that recent Windows 11 security updates are causing VPN networking failures for enterprise users running Windows Subsystem for Linux.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Those affected by this bug are seeing "No route to host" errors in WSL environments, even though their Windows host systems can normally access the same destinations
-- **✅ Solution:** This known issue affects users who installed the KB5067036 October 2025 non-security update, released October 28th, or any subsequent updates, including the KB5072033 cumulative update released during this month's Patch Tuesday
 
 ---
 
