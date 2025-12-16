@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-16 01:35:38 UTC
+**Last Updated:** 2025-12-16 04:44:21 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -138,7 +138,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62557, CVE-2025-62458, CVE-2025-62221, CVE-2025-59516, CVE-2025-62562, CVE-2025-62472, CVE-2025-59517, CVE-2025-62470, CVE-2025-62554  
+**🔖 CVEs:** CVE-2025-62554, CVE-2025-62470, CVE-2025-59517, CVE-2025-62458, CVE-2025-62557, CVE-2025-62472, CVE-2025-62562, CVE-2025-62221, CVE-2025-59516  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -154,7 +154,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-60274, CVE-2025-62199, CVE-2025-62215  
+**🔖 CVEs:** CVE-2025-60274, CVE-2025-62215, CVE-2025-62199  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -614,7 +614,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-60274, CVE-2025-62199, CVE-2025-62215  
+**🔖 CVEs:** CVE-2025-60274, CVE-2025-62215, CVE-2025-62199  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -750,19 +750,19 @@
 
 ---
 
-#### 5. [Microsoft: December security updates cause Message Queuing failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/)
+#### 5. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Mon, 15 Dec 2025 04:04:59 -0500  
+**📡 Source:** Krebs On Security  
+**📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
+**🔖 CVEs:** CVE-2025-62554, CVE-2025-62470, CVE-2025-59517, CVE-2025-62458, CVE-2025-62557, CVE-2025-62472, CVE-2025-62562, CVE-2025-62221, CVE-2025-59516  
 
-**📝 Summary:** Microsoft has confirmed that the December 2025 security updates are breaking Message Queuing (MSMQ) functionality, affecting enterprise applications and Internet Information Services (IIS) websites.
+**📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Microsoft: December security updates cause Message Queuing failures
-- **🔎 Cause:** "This issue is caused by the recent changes introduced to the MSMQ security model and NTFS permissions on C:\Windows\System32\MSMQ\storage folder
-- **✅ Solution:** This known issue affects Windows 10 22H2, Windows Server 2019, and Windows Server 2016 systems that have installed the KB5071546, KB5071544, and KB5071543 security updates released during this month's Patch Tuesday
+- **⚠️ Issue:** The zero-day flaw patched today is CVE-2025-62221, a privilege escalation vulnerability affecting Windows 10 and later editions
+- **✅ Solution:** This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities
 
 ---
 

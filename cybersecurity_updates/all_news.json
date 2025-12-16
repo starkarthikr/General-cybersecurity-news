@@ -576,18 +576,7 @@
     "ai_summary": "The French Interior Minister confirmed on Friday that the country's Ministry of the Interior was breached in a cyberattack that compromised e-mail servers.",
     "authors": [
       "Sergiu Gatlan"
-    ],
-    "analysis": {
-      "issue": "While the attack (detected overnight between Thursday, December 11, and Friday, December 12) allowed the threat actors to gain access to some document files, officials have yet to confirm whether data was stolen",
-      "solution": "So we implemented the usual protection procedures,\" Interior Minister Laurent Nuñez said in a statement shared with RTL Radio",
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT/Nation-State"
-      ]
-    }
+    ]
   },
   {
     "source": "Bleeping Computer",
@@ -598,18 +587,7 @@
     "ai_summary": "Microsoft has confirmed that the December 2025 security updates are breaking Message Queuing (MSMQ) functionality, affecting enterprise applications and Internet Information Services (IIS) websites.",
     "authors": [
       "Sergiu Gatlan"
-    ],
-    "analysis": {
-      "issue": "Microsoft: December security updates cause Message Queuing failures",
-      "solution": "This known issue affects Windows 10 22H2, Windows Server 2019, and Windows Server 2016 systems that have installed the KB5071546, KB5071544, and KB5071543 security updates released during this month's Patch Tuesday",
-      "cause": "\"This issue is caused by the recent changes introduced to the MSMQ security model and NTFS permissions on C:\\Windows\\System32\\MSMQ\\storage folder",
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    ]
   },
   {
     "source": "Bleeping Computer",
@@ -620,18 +598,7 @@
     "ai_summary": "An email scam is abusing abusing PayPal's \"Subscriptions\" billing feature to send legitimate PayPal emails that contain fake purchase notifications embedded in the Customer service URL field.",
     "authors": [
       "Lawrence Abrams"
-    ],
-    "analysis": {
-      "issue": "com,\" leading people to worry their accounts may have been hacked",
-      "solution": null,
-      "cause": "An email scam is abusing abusing PayPal’s \"Subscriptions\" billing feature to send legitimate PayPal emails that contain fake purchase notifications embedded in the Customer service URL field",
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    ]
   },
   {
     "source": "Krebs On Security",
@@ -650,15 +617,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62557",
-        "CVE-2025-62458",
-        "CVE-2025-62221",
-        "CVE-2025-59516",
-        "CVE-2025-62562",
-        "CVE-2025-62472",
-        "CVE-2025-59517",
+        "CVE-2025-62554",
         "CVE-2025-62470",
-        "CVE-2025-62554"
+        "CVE-2025-59517",
+        "CVE-2025-62458",
+        "CVE-2025-62557",
+        "CVE-2025-62472",
+        "CVE-2025-62562",
+        "CVE-2025-62221",
+        "CVE-2025-59516"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -819,8 +786,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-60274",
-        "CVE-2025-62199",
-        "CVE-2025-62215"
+        "CVE-2025-62215",
+        "CVE-2025-62199"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1039,12 +1006,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62557",
+        "CVE-2025-62554",
         "CVE-2025-62456",
-        "CVE-2025-62549",
+        "CVE-2025-62557",
         "CVE-2025-62553",
         "CVE-2025-62556",
-        "CVE-2025-62554"
+        "CVE-2025-62549"
       ],
       "threat_categories": [
         "Vulnerability"
