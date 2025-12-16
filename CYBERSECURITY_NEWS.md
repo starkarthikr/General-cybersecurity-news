@@ -1,13 +1,27 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-16 12:50:21 UTC
+**Last Updated:** 2025-12-16 16:36:21 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
 
 ### 🔴 APT/Nation-State
 
-#### 1. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
+#### 1. [Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure](https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html)
+
+🔴 **CRITICAL**  
+**📡 Source:** The Hacker News  
+**📅 Published:** Tue, 16 Dec 2025 17:57:00 +0530  
+
+**📝 Summary:** Amazon's threat intelligence team has disclosed details of a "years-long" Russian state-sponsored campaign that targeted Western critical infrastructure between 2021 and 2025.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure
+
+---
+
+#### 2. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -23,7 +37,7 @@
 
 ---
 
-#### 2. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
+#### 3. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
@@ -40,7 +54,7 @@
 
 ---
 
-#### 3. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
+#### 4. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Sophos News  
@@ -54,7 +68,7 @@
 
 ---
 
-#### 4. [Watering Hole Attacks Push ScanBox Keylogger](https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/)
+#### 5. [Watering Hole Attacks Push ScanBox Keylogger](https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/)
 
 🟡 **MEDIUM**  
 **📡 Source:** Threat Post  
@@ -68,27 +82,24 @@
 
 ---
 
-#### 5. [Sharpening the knife: GOLD BLADE’s strategic evolution](https://news.sophos.com/en-us/2025/12/05/sharpening-the-knife-gold-blades-strategic-evolution/)
-
-🟡 **MEDIUM**  
-**📡 Source:** Sophos News  
-**📅 Published:** Fri, 05 Dec 2025 13:24:37 +0000  
-
-**📝 Summary:** Updates include novel abuse of recruitment platforms, modified infection chains, and expansion into a hybrid operation that combines data theft and ransomware deployment.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Between February 2024 and August 2025, Sophos analysts investigated nearly 40 intrusions related to  STAC6565, a campaign the analysts assess with high confidence is associated with the GOLD BLADE threat group (also known as RedCurl, RedWolf, and Ear
-- **🔎 Cause:** GOLD BLADE continually refines its intrusion methods and has shifted from traditional phishing emails to abusing recruitment platforms to deliver weaponized resumes
-- **✅ Solution:** GOLD BLADE’s ability to cycle through delivery methods and refine its techniques over time reflects a professionalized operation that treats intrusions as a core service requiring routine updates to maintain effectiveness
-- **⏰ Timeline:** Observed GOLD BLADE activity from August 2024 through August 2025 Analysis of STAC6565 victimology suggests that GOLD BLADE h
-
----
-
 
 ### 🔴 Cloud Security
 
-#### 1. [React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors](https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html)
+#### 1. [Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure](https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html)
+
+🔴 **CRITICAL**  
+**📡 Source:** The Hacker News  
+**📅 Published:** Tue, 16 Dec 2025 17:57:00 +0530  
+
+**📝 Summary:** Amazon's threat intelligence team has disclosed details of a "years-long" Russian state-sponsored campaign that targeted Western critical infrastructure between 2021 and 2025.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure
+
+---
+
+#### 2. [React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors](https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html)
 
 🔴 **CRITICAL**  
 **📡 Source:** The Hacker News  
@@ -103,7 +114,7 @@
 
 ---
 
-#### 2. [FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE](https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html)
+#### 3. [FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE](https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html)
 
 🔴 **CRITICAL**  
 **📡 Source:** The Hacker News  
@@ -118,7 +129,23 @@
 
 ---
 
-#### 3. [SoundCloud confirms breach after member data stolen, VPN access disrupted](https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/)
+#### 4. [Hackers exploit newly patched Fortinet auth bypass flaws](https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Tue, 16 Dec 2025 10:57:34 -0500  
+**🔖 CVEs:** CVE-2025-59719, CVE-2025-59718  
+
+**📝 Summary:** Hackers are exploiting critical-severity vulnerabilities affecting multiple Fortinet products to get unauthorized access to admin accounts and steal system configuration files.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** It is caused by improper verification of cryptographic signatures in SAML messages, allowing an attacker to log in without valid authentication by submitting a maliciously crafted SAML assertion
+- **🔎 Cause:** It is caused by improper verification of cryptographic signatures in SAML messages, allowing an attacker to log in without valid authentication by submitting a maliciously crafted SAML assertion
+
+---
+
+#### 5. [SoundCloud confirms breach after member data stolen, VPN access disrupted](https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -130,39 +157,6 @@
 
 - **⚠️ Issue:** Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in which threat actors stole a database exposing users' email addresses and profile information
 - **🔎 Cause:** Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in which threat actors stole a database exposing users' email addresses and profile information
-
----
-
-#### 4. [Google links more Chinese hacking groups to React2Shell attacks](https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Mon, 15 Dec 2025 07:46:50 -0500  
-**🔖 CVEs:** CVE-2025-55182  
-
-**📝 Summary:** Over the weekend, ​Google's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity "React2Shell" remote code execution vulnerability.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** ​Over the weekend, ​Google's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity "React2Shell" remote code execution vulnerability
-- **🔎 Cause:** ​Over the weekend, ​Google's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity "React2Shell" remote code execution vulnerability
-- **✅ Solution:** The list of state-linked threat groups exploiting the flaw now also includes UNC6600 (which deployed MINOCAT tunneling software), UNC6586 (the SNOWLIGHT downloader), UNC6588 (the COMPOOD backdoor payload), UNC6603 (an updated version of the HISONIC b
-
----
-
-#### 5. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Krebs On Security  
-**📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62554, CVE-2025-62472, CVE-2025-62470, CVE-2025-59517, CVE-2025-59516, CVE-2025-62562, CVE-2025-62557, CVE-2025-62221, CVE-2025-62458  
-
-**📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** The zero-day flaw patched today is CVE-2025-62221, a privilege escalation vulnerability affecting Windows 10 and later editions
-- **✅ Solution:** This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities
 
 ---
 
@@ -272,17 +266,17 @@
 
 ---
 
-#### 3. [EU fines X $140m, tied to verification rules that make impostor scams easier](https://www.malwarebytes.com/blog/news/2025/12/eu-fines-x-140m-tied-to-verification-rules-that-make-impostor-scams-easier)
+#### 3. [Cyberattack disrupts Venezuelan oil giant PDVSA's operations](https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-venezuelan-oil-giant-pdvsas-operations/)
 
-🔴 **CRITICAL**  
-**📡 Source:** Malwarebytes  
-**📅 Published:** Tue, 09 Dec 2025 12:57:28 GMT  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Tue, 16 Dec 2025 10:19:17 -0500  
 
-**📝 Summary:** The core problem persists: anyone can still buy a 'verified' checkmark from X, so don't take their authenticity for granted.
+**📝 Summary:** Petróleos de Venezuela (PDVSA), Venezuela's state-owned oil company, was hit by a cyberattack over the weekend that disrupted its export operations.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** EU fines X $140m, tied to verification rules that make impostor scams easier
+- **⚠️ Issue:** Petróleos de Venezuela (PDVSA), Venezuela's state-owned oil company, was hit by a cyberattack over the weekend that disrupted its export operations
+- **✅ Solution:** "Therefore, the industry's operational continuity is maintained through the implementation of secure protocols that allow for its regular activities in the supply of products to the domestic market, as well as the fulfillment of all its export commit
 
 ---
 
@@ -374,24 +368,7 @@
 
 ---
 
-#### 2. [Google links more Chinese hacking groups to React2Shell attacks](https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Mon, 15 Dec 2025 07:46:50 -0500  
-**🔖 CVEs:** CVE-2025-55182  
-
-**📝 Summary:** Over the weekend, ​Google's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity "React2Shell" remote code execution vulnerability.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** ​Over the weekend, ​Google's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity "React2Shell" remote code execution vulnerability
-- **🔎 Cause:** ​Over the weekend, ​Google's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity "React2Shell" remote code execution vulnerability
-- **✅ Solution:** The list of state-linked threat groups exploiting the flaw now also includes UNC6600 (which deployed MINOCAT tunneling software), UNC6586 (the SNOWLIGHT downloader), UNC6588 (the COMPOOD backdoor payload), UNC6603 (an updated version of the HISONIC b
-
----
-
-#### 3. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
+#### 2. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -407,7 +384,7 @@
 
 ---
 
-#### 4. [VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption](https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html)
+#### 3. [VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption](https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html)
 
 **📡 Source:** The Hacker News  
 **📅 Published:** Mon, 15 Dec 2025 11:03:00 +0530  
@@ -420,16 +397,30 @@
 
 ---
 
-#### 5. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+#### 4. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
 
-**📡 Source:** Krebs On Security  
-**📅 Published:** Mon, 24 Nov 2025 18:44:52 +0000  
+**📡 Source:** Talos Blog  
+**📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
 
-**📝 Summary:** On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming ...
+**📝 Summary:** Bill explores how our biggest mistakes can be the catalysts for growth that we need.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Is Your Android TV Streaming Box Part of a Botnet?
+- **⚠️ Issue:** Adversaries are using GenAI for coding, phishing, evasion, and vulnerability discovery, especially as uncensored models become more widely available
+
+---
+
+#### 5. [Viasat and the terrible, horrible, no good, very bad day](https://blog.talosintelligence.com/viasat-and-the-terrible-horrible-no-good-very-bad-day/)
+
+**📡 Source:** Talos Blog  
+**📅 Published:** Thu, 13 Nov 2025 19:00:14 GMT  
+
+**📝 Summary:** In this week’s newsletter, Amy recounts her journey from Halloween festivities to unraveling the story of the 2022 Viasat satellite hack, with plenty of cybersecurity surprises along the way.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
+- **🔎 Cause:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
 
 ---
 
@@ -575,41 +566,24 @@
 
 ---
 
-#### 5. [Askul confirms theft of 740k customer records in ransomware attack](https://www.bleepingcomputer.com/news/security/askul-confirms-theft-of-740k-customer-records-in-ransomhouse-attack/)
+#### 5. [The Hidden Risk in Virtualization: Why Hypervisors are a Ransomware Magnet](https://www.bleepingcomputer.com/news/security/the-hidden-risk-in-virtualization-why-hypervisors-are-a-ransomware-magnet/)
 
 **📡 Source:** Bleeping Computer  
-**📅 Published:** Mon, 15 Dec 2025 18:13:44 -0500  
+**📅 Published:** Tue, 16 Dec 2025 10:01:11 -0500  
 
-**📝 Summary:** Japanese e-commerce giant Askul Corporation has confirmed that RansomHouse hackers stole around 740,000 customer records in the ransomware attack it suffered in October.
+**📝 Summary:** Ransomware groups are targeting hypervisors to maximize impact, allowing a single breach to encrypt dozens of virtual machines at once.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Japanese e-commerce giant Askul Corporation has confirmed that RansomHouse hackers stole around 740,000 customer records in the ransomware attack it suffered in October
-- **✅ Solution:** Also, the company has informed the country’s Personal Information Protection Commission about the data exposure and established long-term monitoring to prevent misuse of the stolen information
+- **⚠️ Issue:** From our vantage point in the SOC and threat-hunting space at Huntress, we are seeing adversaries increasingly target hypervisors to deploy ransomware at scale
+- **✅ Solution:** In this article, we outline the threats we’ve observed in the wild and provide practical guidance for securing your hypervisor infrastructure, from patching and access control to runtime hardening and robust recovery strategies
 
 ---
 
 
 ### 🔴 Supply Chain
 
-#### 1. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Krebs On Security  
-**📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62199, CVE-2025-60274, CVE-2025-62215  
-
-**📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** “However, exploiting this specific vulnerability is likely to be relatively straightforward, given the existence of prior similar vulnerabilities
-- **🔎 Cause:** Despite the flaw’s zero-day status, Microsoft has assigned it an “important” rating rather than critical, because exploiting it requires an attacker to already have access to the target’s device
-- **✅ Solution:** “The patch for this should be an organization’s highest priority,” McCarthy said
-
----
-
-#### 2. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
+#### 1. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
@@ -625,7 +599,7 @@
 
 ---
 
-#### 3. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
+#### 2. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Wed, 26 Nov 2025 18:36:06 GMT  
@@ -641,7 +615,7 @@
 
 ---
 
-#### 4. [PornHub extorted after hackers steal Premium member activity data](https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/)
+#### 3. [PornHub extorted after hackers steal Premium member activity data](https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/)
 
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Mon, 15 Dec 2025 16:27:07 -0500  
@@ -654,17 +628,34 @@
 
 ---
 
-#### 5. [700Credit data breach impacts 5.8 million vehicle dealership customers](https://www.bleepingcomputer.com/news/security/700credit-data-breach-impacts-58-million-vehicle-dealership-customers/)
+#### 4. [Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities](https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/)
 
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Mon, 15 Dec 2025 11:49:03 -0500  
+**📡 Source:** Talos Blog  
+**📅 Published:** Thu, 04 Dec 2025 20:23:15 GMT  
+**🔖 CVEs:** CVE-2025-58113  
 
-**📝 Summary:** -based financial services and fintech company, will start notifying more than 5.
+**📝 Summary:** Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed an out-of-bounds read vulnerability in PDF XChange Editor, and ten vulnerabilities in Socomec DIRIS Digiware M ser...
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** The threat actor was able to exfiltrate data due to a security vulnerability in the API, a failure to validate consumer reference IDs against the original requester
-- **🔎 Cause:** The threat actor was able to exfiltrate data due to a security vulnerability in the API, a failure to validate consumer reference IDs against the original requester
+- **⚠️ Issue:** Cisco Talos’ Vulnerability Discovery & Research team recently disclosed an out-of-bounds read vulnerability in PDF XChange Editor, and ten vulnerabilities in Socomec DIRIS Digiware M series and Easy Config products
+- **🔎 Cause:** Cisco Talos’ Vulnerability Discovery & Research team recently disclosed an out-of-bounds read vulnerability in PDF XChange Editor, and ten vulnerabilities in Socomec DIRIS Digiware M series and Easy Config products
+- **✅ Solution:** The vulnerabilities mentioned in this blog post have been patched by their respective vendors, all in adherence to Cisco’s third-party vulnerability disclosure policy
+
+---
+
+#### 5. [Care that you share](https://blog.talosintelligence.com/care-that-you-share/)
+
+**📡 Source:** Talos Blog  
+**📅 Published:** Wed, 26 Nov 2025 17:00:48 GMT  
+
+**📝 Summary:** This holiday season, as teams run lean and cyber threats rise, being open with what — and how — you share can protect both information and relationships.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Welcome to this week's edition of the Threat Source newsletter
+- **🔎 Cause:** Many teams are running with skeleton crews, whether due to holiday mode (family, turkey, football, days off) or the year-end compliance push (hello, NIS2 and DORA)
+- **✅ Solution:** Should I give them some history of STIX/TAXII
 
 ---
 
@@ -715,36 +706,36 @@
 
 ---
 
-#### 4. [Google links more Chinese hacking groups to React2Shell attacks](https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/)
+#### 4. [Hackers exploit newly patched Fortinet auth bypass flaws](https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
-**📅 Published:** Mon, 15 Dec 2025 07:46:50 -0500  
-**🔖 CVEs:** CVE-2025-55182  
+**📅 Published:** Tue, 16 Dec 2025 10:57:34 -0500  
+**🔖 CVEs:** CVE-2025-59719, CVE-2025-59718  
 
-**📝 Summary:** Over the weekend, ​Google's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity "React2Shell" remote code execution vulnerability.
+**📝 Summary:** Hackers are exploiting critical-severity vulnerabilities affecting multiple Fortinet products to get unauthorized access to admin accounts and steal system configuration files.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** ​Over the weekend, ​Google's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity "React2Shell" remote code execution vulnerability
-- **🔎 Cause:** ​Over the weekend, ​Google's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity "React2Shell" remote code execution vulnerability
-- **✅ Solution:** The list of state-linked threat groups exploiting the flaw now also includes UNC6600 (which deployed MINOCAT tunneling software), UNC6586 (the SNOWLIGHT downloader), UNC6588 (the COMPOOD backdoor payload), UNC6603 (an updated version of the HISONIC b
+- **⚠️ Issue:** It is caused by improper verification of cryptographic signatures in SAML messages, allowing an attacker to log in without valid authentication by submitting a maliciously crafted SAML assertion
+- **🔎 Cause:** It is caused by improper verification of cryptographic signatures in SAML messages, allowing an attacker to log in without valid authentication by submitting a maliciously crafted SAML assertion
 
 ---
 
-#### 5. [Microsoft: December security updates cause Message Queuing failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/)
+#### 5. [Microsoft Patch Tuesday for December 2025 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-december-2025/)
 
 🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Mon, 15 Dec 2025 04:04:59 -0500  
+**📡 Source:** Talos Blog  
+**📅 Published:** Tue, 09 Dec 2025 23:29:51 GMT  
+**🔖 CVEs:** CVE-2025-62549, CVE-2025-62556, CVE-2025-62557, CVE-2025-62553, CVE-2025-62554, CVE-2025-62456  
 
-**📝 Summary:** Microsoft has confirmed that the December 2025 security updates are breaking Message Queuing (MSMQ) functionality, affecting enterprise applications and Internet Information Services (IIS) websites.
+**📝 Summary:** The Patch Tuesday for December of 2025 includes 57 vulnerabilities, including two that Microsoft marked as “critical.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Microsoft: December security updates cause Message Queuing failures
-- **🔎 Cause:** "This issue is caused by the recent changes introduced to the MSMQ security model and NTFS permissions on C:\Windows\System32\MSMQ\storage folder
-- **✅ Solution:** This known issue affects Windows 10 22H2, Windows Server 2019, and Windows Server 2016 systems that have installed the KB5071546, KB5071544, and KB5071543 security updates released during this month's Patch Tuesday
+- **⚠️ Issue:** ”  CVE‑2025‑62562 is a Microsoft Outlook remote code execution vulnerability
+- **🔎 Cause:** CVE-2025-62456 is a Remote Code Execution Vulnerability in Windows Resilient File System (ReFS)
+- **✅ Solution:** The Patch Tuesday for December of 2025 includes 57 vulnerabilities, including two that Microsoft marked as “critical
 
 ---
 
