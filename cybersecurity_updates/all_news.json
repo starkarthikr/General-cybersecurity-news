@@ -1,6 +1,53 @@
 [
   {
     "source": "The Hacker News",
+    "title": "SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances",
+    "link": "https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html",
+    "published": "Wed, 17 Dec 2025 23:47:00 +0530",
+    "summary": "SonicWall has rolled out fixes to address a security flaw in Secure Mobile Access (SMA) 100 series appliances that it said has been actively exploited in the wild.\nThe vulnerability, tracked as CVE-2025-40602 (CVSS score: 6.6), concerns a case of local privilege escalation that arises as a result of insufficient authorization in the appliance management console (AMC).\nIt affects the following",
+    "ai_summary": "SonicWall has rolled out fixes to address a security flaw in Secure Mobile Access (SMA) 100 series appliances that it said has been actively exploited in the wild.",
+    "authors": [
+      "The Hacker News"
+    ],
+    "analysis": {
+      "issue": "SonicWall released fixes for an actively exploited SMA 100 vulnerability enabling privilege escalation and chained root access attacks",
+      "solution": "SonicWall released fixes for an actively exploited SMA 100 vulnerability enabling privilege escalation and chained root access attacks",
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-40602"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks",
+    "link": "https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html",
+    "published": "Wed, 17 Dec 2025 23:39:00 +0530",
+    "summary": "A new distributed denial-of-service (DDoS) botnet known as Kimwolf has enlisted a massive army of no less than 1.8 million infected devices comprising Android-based TVs, set-top boxes, and tablets, and may be associated with another botnet known as AISURU, according to findings from QiAnXin XLab.\n\"Kimwolf is a botnet compiled using the NDK [Native Development Kit],\" the company said in a report",
+    "ai_summary": "A new distributed denial-of-service (DDoS) botnet known as Kimwolf has enlisted a massive army of no less than 1.",
+    "authors": [
+      "The Hacker News"
+    ],
+    "analysis": {
+      "issue": "Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign",
     "link": "https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html",
     "published": "Wed, 17 Dec 2025 21:00:00 +0530",
@@ -294,47 +341,76 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE",
-    "link": "https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html",
-    "published": "Mon, 15 Dec 2025 20:02:00 +0530",
-    "summary": "Multiple security vulnerabilities have been disclosed in the open-source private branch exchange (PBX) platform FreePBX, including a critical flaw that could result in an authentication bypass under certain configurations.\nThe shortcomings, discovered by Horizon3.ai and reported to the project maintainers on September 15, 2025, are listed below -\n\nCVE-2025-61675 (CVSS score: 8.6) - Numerous",
-    "ai_summary": "Multiple security vulnerabilities have been disclosed in the open-source private branch exchange (PBX) platform FreePBX, including a critical flaw that could result in an authentication bypass unde...",
+    "source": "Bleeping Computer",
+    "title": "WhatsApp device linking abused in account hijacking attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/",
+    "published": "Wed, 17 Dec 2025 14:14:30 -0500",
+    "summary": "Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing. [...]",
+    "ai_summary": "Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing.",
     "authors": [
-      "The Hacker News"
+      "Bill Toulas"
     ],
     "analysis": {
-      "issue": "FreePBX patched 2025 flaws allowing SQL injection, file upload attacks, and an auth bypass only when webserver AUTHTYPE was enabled",
-      "solution": "FreePBX patched 2025 flaws allowing SQL injection, file upload attacks, and an auth bypass only when webserver AUTHTYPE was enabled",
-      "cause": null,
+      "issue": "Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing",
+      "solution": null,
+      "cause": "Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing",
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Cloud Security"
+        "General Security"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More",
-    "link": "https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html",
-    "published": "Mon, 15 Dec 2025 17:54:00 +0530",
-    "summary": "If you use a smartphone, browse the web, or unzip files on your computer, you are in the crosshairs this week. Hackers are currently exploiting critical flaws in the daily software we all rely on—and in some cases, they started attacking before a fix was even ready.\nBelow, we list the urgent updates you need to install right now to stop these active threats.\n⚡ Threat of the Week\nApple and",
-    "ai_summary": "If you use a smartphone, browse the web, or unzip files on your computer, you are in the crosshairs this week.",
+    "source": "Bleeping Computer",
+    "title": "Cisco warns of unpatched AsyncOS zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/",
+    "published": "Wed, 17 Dec 2025 13:45:36 -0500",
+    "summary": "​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) appliances. [...]",
+    "ai_summary": "​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) app...",
     "authors": [
-      "The Hacker News"
+      "Sergiu Gatlan"
     ],
     "analysis": {
-      "issue": "Catch up on the top cybersecurity threats of the week and how to fix them",
-      "solution": "Catch up on the top cybersecurity threats of the week and how to fix them",
-      "cause": null,
+      "issue": "Cisco Talos, the company's threat intelligence research team, believes a Chinese threat group tracked as UAT-9686 is behind attacks abusing this security flaw to execute arbitrary commands with root and deploy AquaShell persistent backdoors, AquaTunn",
+      "solution": "​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) appliances",
+      "cause": "Cisco Talos, the company's threat intelligence research team, believes a Chinese threat group tracked as UAT-9686 is behind attacks abusing this security flaw to execute arbitrary commands with root and deploy AquaShell persistent backdoors, AquaTunn",
       "timeline": null,
-      "severity": null,
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-20393"
+      ],
       "threat_categories": [
-        "Vulnerability"
+        "Vulnerability",
+        "Malware",
+        "APT/Nation-State"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Sonicwall warns of new SMA1000 zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/",
+    "published": "Wed, 17 Dec 2025 12:44:18 -0500",
+    "summary": "SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges. [...]",
+    "ai_summary": "SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges.",
+    "authors": [
+      "Sergiu Gatlan"
+    ],
+    "analysis": {
+      "issue": "SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges",
+      "solution": "SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges",
+      "cause": "SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges",
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-40602",
+        "CVE-2025-23006"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Cloud Security"
       ]
     }
   },
@@ -390,7 +466,7 @@
   },
   {
     "source": "Bleeping Computer",
-    "title": "Microsoft asks IT admins to reach out for Windows IIS failures fix",
+    "title": "Microsoft asks admins to reach out for Windows IIS failures fix",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/",
     "published": "Wed, 17 Dec 2025 07:30:32 -0500",
     "summary": "Microsoft has asked businesses to reach out for advice on how to temporarily mitigate a Message Queuing (MSMQ) issue causing enterprise apps and Internet Information Services (IIS) sites to fail. [...]",
@@ -550,73 +626,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "The Hidden Risk in Virtualization: Why Hypervisors are a Ransomware Magnet",
-    "link": "https://www.bleepingcomputer.com/news/security/the-hidden-risk-in-virtualization-why-hypervisors-are-a-ransomware-magnet/",
-    "published": "Tue, 16 Dec 2025 10:01:11 -0500",
-    "summary": "Ransomware groups are targeting hypervisors to maximize impact, allowing a single breach to encrypt dozens of virtual machines at once. Drawing on real-world incident data, Huntress explains how attackers exploit visibility gaps at the hypervisor layer and outlines steps orgs can take to harden virtualization infrastructure. [...]",
-    "ai_summary": "Ransomware groups are targeting hypervisors to maximize impact, allowing a single breach to encrypt dozens of virtual machines at once.",
-    "authors": [
-      "Sponsored by Huntress Labs"
-    ],
-    "analysis": {
-      "issue": "From our vantage point in the SOC and threat-hunting space at Huntress, we are seeing adversaries increasingly target hypervisors to deploy ransomware at scale",
-      "solution": "In this article, we outline the threats we’ve observed in the wild and provide practical guidance for securing your hypervisor infrastructure, from patching and access control to runtime hardening and robust recovery strategies",
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft to block Exchange Online access for outdated mobile devices",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-block-exchange-online-access-for-outdated-mobile-devices/",
-    "published": "Tue, 16 Dec 2025 07:53:25 -0500",
-    "summary": "Microsoft announced on Monday that it will soon block mobile devices running outdated email software from accessing Exchange Online services until they're updated. [...]",
-    "ai_summary": "Microsoft announced on Monday that it will soon block mobile devices running outdated email software from accessing Exchange Online services until they're updated.",
-    "authors": [
-      "Sergiu Gatlan"
-    ],
-    "analysis": {
-      "issue": "Microsoft to block Exchange Online access for outdated mobile devices",
-      "solution": "Microsoft announced on Monday that it will soon block mobile devices running outdated email software from accessing Exchange Online services until they're updated",
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "European authorities dismantle call center fraud ring in Ukraine",
-    "link": "https://www.bleepingcomputer.com/news/security/european-authorities-dismantle-call-center-fraud-ring-in-ukraine/",
-    "published": "Tue, 16 Dec 2025 06:44:06 -0500",
-    "summary": "European law enforcement authorities dismantled a fraud network operating call centers in Ukraine that scammed victims across Europe out of more than 10 million euros. [...]",
-    "ai_summary": "European law enforcement authorities dismantled a fraud network operating call centers in Ukraine that scammed victims across Europe out of more than 10 million euros.",
-    "authors": [
-      "Sergiu Gatlan"
-    ],
-    "analysis": {
-      "issue": "The criminals defrauded over 400 known victims through various schemes, including impersonating bank employees and police officers, tricking victims into believing that their bank accounts had been compromised, and asking them to transfer funds to \"s",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Most Parked Domains Now Serving Malicious Content",
     "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
@@ -656,15 +665,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62562",
+        "CVE-2025-62557",
+        "CVE-2025-62472",
         "CVE-2025-59517",
-        "CVE-2025-62458",
         "CVE-2025-62221",
         "CVE-2025-59516",
-        "CVE-2025-62472",
-        "CVE-2025-62557",
-        "CVE-2025-62470",
-        "CVE-2025-62554"
+        "CVE-2025-62458",
+        "CVE-2025-62554",
+        "CVE-2025-62562",
+        "CVE-2025-62470"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -824,9 +833,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-62199",
         "CVE-2025-60274",
-        "CVE-2025-62215",
-        "CVE-2025-62199"
+        "CVE-2025-62215"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -970,6 +979,29 @@
   },
   {
     "source": "Talos Blog",
+    "title": "UAT-9686 actively targets Cisco Secure Email Gateway and Secure Email and Web Manager",
+    "link": "https://blog.talosintelligence.com/uat-9686/",
+    "published": "Wed, 17 Dec 2025 16:55:59 GMT",
+    "summary": "Cisco Talos is tracking the active targeting of Cisco AsyncOS Software for Cisco Secure Email Gateway, formerly known as Cisco Email Security Appliance (ESA), and Cisco Secure Email and Web Manager, formerly known as Cisco Content Security Management Appliance (SMA).",
+    "ai_summary": "Cisco Talos is tracking the active targeting of Cisco AsyncOS Software for Cisco Secure Email Gateway, formerly known as Cisco Email Security Appliance (ESA), and Cisco Secure Email and Web Manager...",
+    "authors": [
+      "Cisco Talos"
+    ],
+    "analysis": {
+      "issue": "Talos assesses with moderate confidence that this activity is being conducted by a Chinese-nexus threat actor, which we track as UAT-9686",
+      "solution": "Additional recommendations specific to Cisco are available here",
+      "cause": null,
+      "timeline": null,
+      "severity": "Medium",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT/Nation-State"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
     "title": "Lexi DiScola’s guide to global teamwork and overflowing TBRs",
     "link": "https://blog.talosintelligence.com/lexi-discolas-guide-to-global-teamwork-and-overflowing-tbrs/",
     "published": "Wed, 17 Dec 2025 11:00:33 GMT",
@@ -1029,11 +1061,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62556",
+        "CVE-2025-62557",
+        "CVE-2025-62456",
         "CVE-2025-62553",
         "CVE-2025-62549",
-        "CVE-2025-62456",
-        "CVE-2025-62557",
+        "CVE-2025-62556",
         "CVE-2025-62554"
       ],
       "threat_categories": [
@@ -1299,31 +1331,6 @@
         "Data Breach",
         "Vulnerability",
         "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Microsoft Patch Tuesday for November 2025 — Snort rules and prominent vulnerabilities",
-    "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-november-2025/",
-    "published": "Tue, 11 Nov 2025 18:19:21 GMT",
-    "summary": "Microsoft has released its monthly security update for November 2025, which includes 63 vulnerabilities affecting a range of products, including 5 that Microsoft marked as “critical.”",
-    "ai_summary": "Microsoft has released its monthly security update for November 2025, which includes 63 vulnerabilities affecting a range of products, including 5 that Microsoft marked as “critical.",
-    "authors": [
-      "Ashley Shen"
-    ],
-    "analysis": {
-      "issue": "One is an elevation of privilege vulnerability affecting the DirectX Graphics Kernel",
-      "solution": "Microsoft has released its monthly security update for November 2025, which includes 63 vulnerabilities affecting a range of products, including 5 that Microsoft marked as “critical",
-      "cause": "CVE-2025-60724 is a RCE vulnerability in GDI+, given a CVSS 3",
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-62215",
-        "CVE-2025-60724"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },

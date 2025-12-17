@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-17 16:35:53 UTC
+**Last Updated:** 2025-12-17 20:31:45 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -21,7 +21,24 @@
 
 ---
 
-#### 2. [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
+#### 2. [Cisco warns of unpatched AsyncOS zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Wed, 17 Dec 2025 13:45:36 -0500  
+**🔖 CVEs:** CVE-2025-20393  
+
+**📝 Summary:** ​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) app...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Cisco Talos, the company's threat intelligence research team, believes a Chinese threat group tracked as UAT-9686 is behind attacks abusing this security flaw to execute arbitrary commands with root and deploy AquaShell persistent backdoors, AquaTunn
+- **🔎 Cause:** Cisco Talos, the company's threat intelligence research team, believes a Chinese threat group tracked as UAT-9686 is behind attacks abusing this security flaw to execute arbitrary commands with root and deploy AquaShell persistent backdoors, AquaTunn
+- **✅ Solution:** ​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) appliances
+
+---
+
+#### 3. [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -36,7 +53,7 @@
 
 ---
 
-#### 3. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
+#### 4. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -52,7 +69,7 @@
 
 ---
 
-#### 4. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
+#### 5. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
@@ -66,20 +83,6 @@
 - **⚠️ Issue:** Despite the severity of the vulnerability, and nearly a year into this story, over 80,000 affected devices remain unpatched
 - **🔎 Cause:** In the time since, the researchers have discovered “multiple instances of hackers looking to collaborate on exploiting Hikvision cameras using the command injection vulnerability,” specifically in Russian dark web forums, where leaked credentials hav
 - **✅ Solution:** Share this article: Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed
-
----
-
-#### 5. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Sophos News  
-**📅 Published:** Thu, 11 Dec 2025 10:00:59 +0000  
-
-**📝 Summary:** Analysis of the tradecraft evolution across 6 months and 11 incidents.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** In mid-August 2025, Counter Threat Unit™ (CTU) researchers identified the use of the legitimate Velociraptor digital forensics and incident response (DFIR) tool in likely ransomware precursor activity
 
 ---
 
@@ -115,18 +118,20 @@
 
 ---
 
-#### 3. [FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE](https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html)
+#### 3. [Sonicwall warns of new SMA1000 zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/)
 
 🔴 **CRITICAL**  
-**📡 Source:** The Hacker News  
-**📅 Published:** Mon, 15 Dec 2025 20:02:00 +0530  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Wed, 17 Dec 2025 12:44:18 -0500  
+**🔖 CVEs:** CVE-2025-40602, CVE-2025-23006  
 
-**📝 Summary:** Multiple security vulnerabilities have been disclosed in the open-source private branch exchange (PBX) platform FreePBX, including a critical flaw that could result in an authentication bypass unde...
+**📝 Summary:** SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** FreePBX patched 2025 flaws allowing SQL injection, file upload attacks, and an auth bypass only when webserver AUTHTYPE was enabled
-- **✅ Solution:** FreePBX patched 2025 flaws allowing SQL injection, file upload attacks, and an auth bypass only when webserver AUTHTYPE was enabled
+- **⚠️ Issue:** SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges
+- **🔎 Cause:** SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges
+- **✅ Solution:** SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges
 
 ---
 
@@ -158,6 +163,22 @@
 
 - **⚠️ Issue:** It is caused by improper verification of cryptographic signatures in SAML messages, allowing an attacker to log in without valid authentication by submitting a maliciously crafted SAML assertion
 - **🔎 Cause:** It is caused by improper verification of cryptographic signatures in SAML messages, allowing an attacker to log in without valid authentication by submitting a maliciously crafted SAML assertion
+
+---
+
+
+### 🔴 DDoS
+
+#### 1. [Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks](https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html)
+
+**📡 Source:** The Hacker News  
+**📅 Published:** Wed, 17 Dec 2025 23:39:00 +0530  
+
+**📝 Summary:** A new distributed denial-of-service (DDoS) botnet known as Kimwolf has enlisted a massive army of no less than 1.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks
 
 ---
 
@@ -268,7 +289,21 @@
 
 ---
 
-#### 3. [It’s not personal, it’s just business](https://blog.talosintelligence.com/its-not-personal-its-just-business/)
+#### 3. [WhatsApp device linking abused in account hijacking attacks](https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/)
+
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Wed, 17 Dec 2025 14:14:30 -0500  
+
+**📝 Summary:** Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing
+- **🔎 Cause:** Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing
+
+---
+
+#### 4. [It’s not personal, it’s just business](https://blog.talosintelligence.com/its-not-personal-its-just-business/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 20 Nov 2025 19:00:04 GMT  
@@ -282,7 +317,7 @@
 
 ---
 
-#### 4. [What’s Next for Enterprise Threat Intelligence in 2026](https://www.recordedfuture.com/blog/whats-next-for-enterprise-threat-intelligence-in-2026)
+#### 5. [What’s Next for Enterprise Threat Intelligence in 2026](https://www.recordedfuture.com/blog/whats-next-for-enterprise-threat-intelligence-in-2026)
 
 **📡 Source:** Recorded Future  
 **📅 Published:** Mon, 15 Dec 2025 00:00:00 GMT  
@@ -292,19 +327,6 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** Top enterprise threat intelligence trends for 2026: AI-augmented CTI, unified platforms, workflow integration, data fusion, budgets, ROI, and maturity
-
----
-
-#### 5. [Twitter Whistleblower Complaint: The TL;DR Version](https://threatpost.com/twitter-whistleblower-tldr-version/180472/)
-
-**📡 Source:** Threat Post  
-**📅 Published:** Wed, 24 Aug 2022 14:17:04 +0000  
-
-**📝 Summary:** Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Twitter Whistleblower Complaint: The TL;DR Version
 
 ---
 
@@ -369,7 +391,24 @@
 
 ---
 
-#### 2. [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
+#### 2. [Cisco warns of unpatched AsyncOS zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Wed, 17 Dec 2025 13:45:36 -0500  
+**🔖 CVEs:** CVE-2025-20393  
+
+**📝 Summary:** ​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) app...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Cisco Talos, the company's threat intelligence research team, believes a Chinese threat group tracked as UAT-9686 is behind attacks abusing this security flaw to execute arbitrary commands with root and deploy AquaShell persistent backdoors, AquaTunn
+- **🔎 Cause:** Cisco Talos, the company's threat intelligence research team, believes a Chinese threat group tracked as UAT-9686 is behind attacks abusing this security flaw to execute arbitrary commands with root and deploy AquaShell persistent backdoors, AquaTunn
+- **✅ Solution:** ​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) appliances
+
+---
+
+#### 3. [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -384,7 +423,7 @@
 
 ---
 
-#### 3. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
+#### 4. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -400,29 +439,18 @@
 
 ---
 
-#### 4. [Cellik Android malware builds malicious versions from Google Play apps](https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/)
+#### 5. [UAT-9686 actively targets Cisco Secure Email Gateway and Secure Email and Web Manager](https://blog.talosintelligence.com/uat-9686/)
 
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Tue, 16 Dec 2025 17:59:35 -0500  
+🟡 **MEDIUM**  
+**📡 Source:** Talos Blog  
+**📅 Published:** Wed, 17 Dec 2025 16:55:59 GMT  
 
-**📝 Summary:** A new Android malware-as-a-service (MaaS) named Cellik is being advertised on underground cybercrime forums offering a robust set of capabilities that include the option to embed it in any app avai...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Specifically, attackers can select apps from Android's official app store and create trojanized versions that appear trustworthy and keep the real app's interface and functionality
-
----
-
-#### 5. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
-
-**📡 Source:** Krebs On Security  
-**📅 Published:** Mon, 24 Nov 2025 18:44:52 +0000  
-
-**📝 Summary:** On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming ...
+**📝 Summary:** Cisco Talos is tracking the active targeting of Cisco AsyncOS Software for Cisco Secure Email Gateway, formerly known as Cisco Email Security Appliance (ESA), and Cisco Secure Email and Web Manager...
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Is Your Android TV Streaming Box Part of a Botnet?
+- **⚠️ Issue:** Talos assesses with moderate confidence that this activity is being conducted by a Chinese-nexus threat actor, which we track as UAT-9686
+- **✅ Solution:** Additional recommendations specific to Cisco are available here
 
 ---
 
@@ -567,17 +595,18 @@
 
 ---
 
-#### 5. [The Hidden Risk in Virtualization: Why Hypervisors are a Ransomware Magnet](https://www.bleepingcomputer.com/news/security/the-hidden-risk-in-virtualization-why-hypervisors-are-a-ransomware-magnet/)
+#### 5. [Inside Shanya, a packer-as-a-service fueling modern attacks](https://news.sophos.com/en-us/2025/12/06/inside-shanya-a-packer-as-a-service-fueling-modern-attacks/)
 
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Tue, 16 Dec 2025 10:01:11 -0500  
+**📡 Source:** Sophos News  
+**📅 Published:** Sun, 07 Dec 2025 02:57:18 +0000  
 
-**📝 Summary:** Ransomware groups are targeting hypervisors to maximize impact, allowing a single breach to encrypt dozens of virtual machines at once.
+**📝 Summary:** The ransomware scene gains another would-be EDR killer.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** From our vantage point in the SOC and threat-hunting space at Huntress, we are seeing adversaries increasingly target hypervisors to deploy ransomware at scale
-- **✅ Solution:** In this article, we outline the threats we’ve observed in the wild and provide practical guidance for securing your hypervisor infrastructure, from patching and access control to runtime hardening and robust recovery strategies
+- **⚠️ Issue:** We have covered packer-as-a-service offerings from the computer underworld in the past, previously dissecting impersonation campaigns and the rise of HeartCrypt, both popular among ransomware groups
+- **🔎 Cause:** We’ll look at its apparent origins, unpack the code, and examine a targeted infection leveraging this tool
+- **✅ Solution:** It should be noted that the ID of the post author, which we’ve obfuscated in Figure 1, was not “Shanya” but another string entirely
 
 ---
 
@@ -589,7 +618,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-60274, CVE-2025-62215, CVE-2025-62199  
+**🔖 CVEs:** CVE-2025-62199, CVE-2025-60274, CVE-2025-62215  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -665,7 +694,23 @@
 
 ### 🔴 Vulnerability
 
-#### 1. [React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors](https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html)
+#### 1. [SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances](https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html)
+
+🔴 **CRITICAL**  
+**📡 Source:** The Hacker News  
+**📅 Published:** Wed, 17 Dec 2025 23:47:00 +0530  
+**🔖 CVEs:** CVE-2025-40602  
+
+**📝 Summary:** SonicWall has rolled out fixes to address a security flaw in Secure Mobile Access (SMA) 100 series appliances that it said has been actively exploited in the wild.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** SonicWall released fixes for an actively exploited SMA 100 vulnerability enabling privilege escalation and chained root access attacks
+- **✅ Solution:** SonicWall released fixes for an actively exploited SMA 100 vulnerability enabling privilege escalation and chained root access attacks
+
+---
+
+#### 2. [React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors](https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html)
 
 🔴 **CRITICAL**  
 **📡 Source:** The Hacker News  
@@ -680,22 +725,41 @@
 
 ---
 
-#### 2. [FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE](https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html)
+#### 3. [Cisco warns of unpatched AsyncOS zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/)
 
 🔴 **CRITICAL**  
-**📡 Source:** The Hacker News  
-**📅 Published:** Mon, 15 Dec 2025 20:02:00 +0530  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Wed, 17 Dec 2025 13:45:36 -0500  
+**🔖 CVEs:** CVE-2025-20393  
 
-**📝 Summary:** Multiple security vulnerabilities have been disclosed in the open-source private branch exchange (PBX) platform FreePBX, including a critical flaw that could result in an authentication bypass unde...
+**📝 Summary:** ​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) app...
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** FreePBX patched 2025 flaws allowing SQL injection, file upload attacks, and an auth bypass only when webserver AUTHTYPE was enabled
-- **✅ Solution:** FreePBX patched 2025 flaws allowing SQL injection, file upload attacks, and an auth bypass only when webserver AUTHTYPE was enabled
+- **⚠️ Issue:** Cisco Talos, the company's threat intelligence research team, believes a Chinese threat group tracked as UAT-9686 is behind attacks abusing this security flaw to execute arbitrary commands with root and deploy AquaShell persistent backdoors, AquaTunn
+- **🔎 Cause:** Cisco Talos, the company's threat intelligence research team, believes a Chinese threat group tracked as UAT-9686 is behind attacks abusing this security flaw to execute arbitrary commands with root and deploy AquaShell persistent backdoors, AquaTunn
+- **✅ Solution:** ​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) appliances
 
 ---
 
-#### 3. [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
+#### 4. [Sonicwall warns of new SMA1000 zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Wed, 17 Dec 2025 12:44:18 -0500  
+**🔖 CVEs:** CVE-2025-40602, CVE-2025-23006  
+
+**📝 Summary:** SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges
+- **🔎 Cause:** SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges
+- **✅ Solution:** SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges
+
+---
+
+#### 5. [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -707,36 +771,6 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later
-
----
-
-#### 4. [Microsoft asks IT admins to reach out for Windows IIS failures fix](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Wed, 17 Dec 2025 07:30:32 -0500  
-
-**📝 Summary:** Microsoft has asked businesses to reach out for advice on how to temporarily mitigate a Message Queuing (MSMQ) issue causing enterprise apps and Internet Information Services (IIS) sites to fail.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** While Microsoft is investigating it and working on a fix, in a Tuesday update to the Windows release health dashboard, it advised enterprise customers to reach out for details on how to temporarily mitigate this bug in their environments
-- **✅ Solution:** The known issue mainly affects enterprise users with Windows 10 22H2, Windows Server 2019, and Windows Server 2016 devices that have installed the KB5071546, KB5071544, and KB5071543 security updates released during the December 2025 Patch Tuesday
-
----
-
-#### 5. [Amazon disrupts Russian GRU hackers attacking edge network devices](https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-gru-hackers-attacking-edge-network-devices/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Tue, 16 Dec 2025 15:13:09 -0500  
-
-**📝 Summary:** The Amazon Threat Intelligence team has disrupted active operations attributed to hackers working for the Russian foreign military intelligence agency, the GRU, who targeted customers' cloud infras...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** The Amazon Threat Intelligence team has disrupted active operations attributed to hackers working for the Russian foreign military intelligence agency, the GRU, who targeted customers' cloud infrastructure
-- **🔎 Cause:** Over time, the threat actor pivoted from exploiting vulnerabilities (zero-days and known ones) to leveraging misconfigured edge devices for initial access
 
 ---
 
