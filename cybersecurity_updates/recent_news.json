@@ -446,8 +446,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-59718",
-        "CVE-2025-59719"
+        "CVE-2025-59719",
+        "CVE-2025-59718"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -575,7 +575,18 @@
     "ai_summary": "Google is discontinuing its \"dark web report\" security tool, stating that it wants to focus on other tools it believes are more helpful.",
     "authors": [
       "Mayank Parmar"
-    ]
+    ],
+    "analysis": {
+      "issue": "After Google scans the dark web and identifies your personal information, it will notify you where the data was found and what type of data was exposed, encouraging users to take action to protect their data",
+      "solution": "For example, if Google identifies your email on the dark web, you will be advised to turn on two-step authentication to protect your Google account",
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
@@ -639,15 +650,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-62458",
+        "CVE-2025-62221",
         "CVE-2025-62470",
         "CVE-2025-59517",
         "CVE-2025-62557",
-        "CVE-2025-59516",
-        "CVE-2025-62562",
-        "CVE-2025-62554",
-        "CVE-2025-62458",
         "CVE-2025-62472",
-        "CVE-2025-62221"
+        "CVE-2025-59516",
+        "CVE-2025-62554",
+        "CVE-2025-62562"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -807,9 +818,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-60274",
         "CVE-2025-62199",
-        "CVE-2025-62215"
+        "CVE-2025-62215",
+        "CVE-2025-60274"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -840,6 +851,17 @@
         "Cloud Security"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Dux Emerges From Stealth Mode With $9 Million in Funding",
+    "link": "https://www.securityweek.com/dux-emerges-from-stealth-mode-with-9-million-in-funding/",
+    "published": "Wed, 17 Dec 2025 07:17:18 +0000",
+    "summary": "<p>The startup takes an agentic approach to preventing vulnerability exploitation by uncovering exposure across assets.</p>\n<p>The post <a href=\"https://www.securityweek.com/dux-emerges-from-stealth-mode-with-9-million-in-funding/\">Dux Emerges From Stealth Mode With $9 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "ai_summary": "The startup takes an agentic approach to preventing vulnerability exploitation by uncovering exposure across assets.",
+    "authors": [
+      "Ionut Arghire"
+    ]
   },
   {
     "source": "Security Week",
@@ -941,17 +963,6 @@
     ]
   },
   {
-    "source": "Security Week",
-    "title": "Militant Groups Are Experimenting With AI, and the Risks Are Expected to Grow",
-    "link": "https://www.securityweek.com/militant-groups-are-experimenting-with-ai-and-the-risks-are-expected-to-grow/",
-    "published": "Mon, 15 Dec 2025 17:28:17 +0000",
-    "summary": "<p>AI can be used by extremist groups to pump out propaganda or deepfakes at scale, widening their reach and expanding their influence.</p>\n<p>The post <a href=\"https://www.securityweek.com/militant-groups-are-experimenting-with-ai-and-the-risks-are-expected-to-grow/\">Militant Groups Are Experimenting With AI, and the Risks Are Expected to Grow</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "ai_summary": "AI can be used by extremist groups to pump out propaganda or deepfakes at scale, widening their reach and expanding their influence.",
-    "authors": [
-      "Associated Press"
-    ]
-  },
-  {
     "source": "Talos Blog",
     "title": "One newsletter to rule them all",
     "link": "https://blog.talosintelligence.com/one-newsletter-to-rule-them-all/",
@@ -990,12 +1001,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-62553",
         "CVE-2025-62557",
+        "CVE-2025-62549",
         "CVE-2025-62556",
         "CVE-2025-62554",
-        "CVE-2025-62456",
-        "CVE-2025-62549",
-        "CVE-2025-62553"
+        "CVE-2025-62456"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1806,8 +1817,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
