@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-17 08:37:16 UTC
+**Last Updated:** 2025-12-17 12:49:46 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -194,34 +194,7 @@
 
 ---
 
-#### 3. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
-
-**📡 Source:** Krebs On Security  
-**📅 Published:** Wed, 26 Nov 2025 17:22:36 +0000  
-
-**📝 Summary:** A prolific cybercriminal group that calls itself "Scattered LAPSUS$ Hunters" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** The group later launched a data leak portal that threatened to publish the internal data of three dozen companies that allegedly had Salesforce data stolen, including Toyota, FedEx, Disney/Hulu, and UPS
-
----
-
-#### 4. [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
-
-**📡 Source:** Krebs On Security  
-**📅 Published:** Thu, 20 Nov 2025 19:06:51 +0000  
-
-**📝 Summary:** In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of p...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** “We will continue to offer our free Monitor data breach service, which is integrated into Firefox’s credential manager, and we are focused on integrating more of our privacy and security experiences in Firefox, including our VPN, for free,” the advis
-- **✅ Solution:** In March 2024, Mozilla said it was winding down its collaboration with Onerep — an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites — after KrebsOnSecurity revealed On
-
----
-
-#### 5. [Unleashing the Kraken ransomware group](https://blog.talosintelligence.com/kraken-ransomware-group/)
+#### 3. [Unleashing the Kraken ransomware group](https://blog.talosintelligence.com/kraken-ransomware-group/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 13 Nov 2025 11:00:38 GMT  
@@ -232,6 +205,34 @@
 
 - **⚠️ Issue:** In August 2025, Cisco Talos Incident Response (Talos IR) observed in one instance that the Kraken ransomware actor gained initial access to the victim's machine by exploiting an existing vulnerability in the SMB service on servers exposed to the inte
 - **🔎 Cause:** In August 2025, Cisco Talos Incident Response (Talos IR) observed in one instance that the Kraken ransomware actor gained initial access to the victim's machine by exploiting an existing vulnerability in the SMB service on servers exposed to the inte
+
+---
+
+#### 4. [5 Real-Word Third-Party Risk Examples](https://www.recordedfuture.com/blog/third-party-risk-examples)
+
+**📡 Source:** Recorded Future  
+**📅 Published:** Tue, 09 Dec 2025 00:00:00 GMT  
+
+**📝 Summary:** Explore 5 third-party risk examples, from vendor data breaches to supply chain attacks and learn how third-party risk management can prevent cyberattacks.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Explore 5 third-party risk examples, from vendor data breaches to supply chain attacks and learn how third-party risk management can prevent cyberattacks
+
+---
+
+#### 5. [Student Loan Breach Exposes 2.5M Records](https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/)
+
+**📡 Source:** Threat Post  
+**📅 Published:** Wed, 31 Aug 2022 12:57:48 +0000  
+
+**📝 Summary:** 5 million people were affected, in a breach that could spell more trouble down the line.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** 5 million people were affected, in a breach that could spell more trouble down the line
+- **✅ Solution:** “[Our] cybersecurity team took immediate action to secure the information system, block the suspicious activity, fix the issue, and launched[sic] an investigation with third-party forensic experts to determine the nature and scope of the activity,” a
+- **⏰ Timeline:** ch to July 21. The breach was discovered on August 17, 2022.
 
 ---
 
@@ -267,21 +268,7 @@
 
 ---
 
-#### 3. [Cyberattack disrupts Venezuelan oil giant PDVSA's operations](https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-venezuelan-oil-giant-pdvsas-operations/)
-
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Tue, 16 Dec 2025 10:19:17 -0500  
-
-**📝 Summary:** Petróleos de Venezuela (PDVSA), Venezuela's state-owned oil company, was hit by a cyberattack over the weekend that disrupted its export operations.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Petróleos de Venezuela (PDVSA), Venezuela's state-owned oil company, was hit by a cyberattack over the weekend that disrupted its export operations
-- **✅ Solution:** "Therefore, the industry's operational continuity is maintained through the implementation of secure protocols that allow for its regular activities in the supply of products to the domestic market, as well as the fulfillment of all its export commit
-
----
-
-#### 4. [It’s not personal, it’s just business](https://blog.talosintelligence.com/its-not-personal-its-just-business/)
+#### 3. [It’s not personal, it’s just business](https://blog.talosintelligence.com/its-not-personal-its-just-business/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 20 Nov 2025 19:00:04 GMT  
@@ -295,7 +282,7 @@
 
 ---
 
-#### 5. [What’s Next for Enterprise Threat Intelligence in 2026](https://www.recordedfuture.com/blog/whats-next-for-enterprise-threat-intelligence-in-2026)
+#### 4. [What’s Next for Enterprise Threat Intelligence in 2026](https://www.recordedfuture.com/blog/whats-next-for-enterprise-threat-intelligence-in-2026)
 
 **📡 Source:** Recorded Future  
 **📅 Published:** Mon, 15 Dec 2025 00:00:00 GMT  
@@ -305,6 +292,19 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** Top enterprise threat intelligence trends for 2026: AI-augmented CTI, unified platforms, workflow integration, data fusion, budgets, ROI, and maturity
+
+---
+
+#### 5. [Twitter Whistleblower Complaint: The TL;DR Version](https://threatpost.com/twitter-whistleblower-tldr-version/180472/)
+
+**📡 Source:** Threat Post  
+**📅 Published:** Wed, 24 Aug 2022 14:17:04 +0000  
+
+**📝 Summary:** Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Twitter Whistleblower Complaint: The TL;DR Version
 
 ---
 
@@ -385,42 +385,44 @@
 
 ---
 
-#### 3. [VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption](https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html)
+#### 3. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
 
-**📡 Source:** The Hacker News  
-**📅 Published:** Mon, 15 Dec 2025 11:03:00 +0530  
+**📡 Source:** Talos Blog  
+**📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
 
-**📝 Summary:** The pro-Russian hacktivist group known as CyberVolk (aka GLORIAMIST) has resurfaced with a new ransomware-as-a-service (RaaS) offering called VolkLocker that suffers from implementation lapses in t...
+**📝 Summary:** Bill explores how our biggest mistakes can be the catalysts for growth that we need.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Cybersecurity, Ransomware, Malware, Encryption, Cybercrime, Linux, Windows, Telegram, Data Recovery
+- **⚠️ Issue:** Adversaries are using GenAI for coding, phishing, evasion, and vulnerability discovery, especially as uncensored models become more widely available
 
 ---
 
-#### 4. [Cellik Android malware builds malicious versions from Google Play apps](https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/)
+#### 4. [Viasat and the terrible, horrible, no good, very bad day](https://blog.talosintelligence.com/viasat-and-the-terrible-horrible-no-good-very-bad-day/)
 
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Tue, 16 Dec 2025 17:59:35 -0500  
+**📡 Source:** Talos Blog  
+**📅 Published:** Thu, 13 Nov 2025 19:00:14 GMT  
 
-**📝 Summary:** A new Android malware-as-a-service (MaaS) named Cellik is being advertised on underground cybercrime forums offering a robust set of capabilities that include the option to embed it in any app avai...
+**📝 Summary:** In this week’s newsletter, Amy recounts her journey from Halloween festivities to unraveling the story of the 2022 Viasat satellite hack, with plenty of cybersecurity surprises along the way.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Specifically, attackers can select apps from Android's official app store and create trojanized versions that appear trustworthy and keep the real app's interface and functionality
+- **⚠️ Issue:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
+- **🔎 Cause:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
 
 ---
 
-#### 5. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+#### 5. [AI Malware: Hype vs. Reality](https://www.recordedfuture.com/blog/ai-malware-hype-vs-reality)
 
-**📡 Source:** Krebs On Security  
-**📅 Published:** Mon, 24 Nov 2025 18:44:52 +0000  
+**📡 Source:** Recorded Future  
+**📅 Published:** Mon, 01 Dec 2025 00:00:00 GMT  
 
-**📝 Summary:** On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming ...
+**📝 Summary:** A grounded look at AI malware: most threats sit at low maturity levels, with no verified autonomous BYOAI attacks.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Is Your Android TV Streaming Box Part of a Botnet?
+- **⚠️ Issue:** A grounded look at AI malware: most threats sit at low maturity levels, with no verified autonomous BYOAI attacks
+- **✅ Solution:** Learn what’s real, what’s hype, and how defenders should respond
 
 ---
 
@@ -552,20 +554,7 @@
 
 ---
 
-#### 4. [VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption](https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html)
-
-**📡 Source:** The Hacker News  
-**📅 Published:** Mon, 15 Dec 2025 11:03:00 +0530  
-
-**📝 Summary:** The pro-Russian hacktivist group known as CyberVolk (aka GLORIAMIST) has resurfaced with a new ransomware-as-a-service (RaaS) offering called VolkLocker that suffers from implementation lapses in t...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Cybersecurity, Ransomware, Malware, Encryption, Cybercrime, Linux, Windows, Telegram, Data Recovery
-
----
-
-#### 5. [The Hidden Risk in Virtualization: Why Hypervisors are a Ransomware Magnet](https://www.bleepingcomputer.com/news/security/the-hidden-risk-in-virtualization-why-hypervisors-are-a-ransomware-magnet/)
+#### 4. [The Hidden Risk in Virtualization: Why Hypervisors are a Ransomware Magnet](https://www.bleepingcomputer.com/news/security/the-hidden-risk-in-virtualization-why-hypervisors-are-a-ransomware-magnet/)
 
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Tue, 16 Dec 2025 10:01:11 -0500  
@@ -579,32 +568,30 @@
 
 ---
 
+#### 5. [Inside Shanya, a packer-as-a-service fueling modern attacks](https://news.sophos.com/en-us/2025/12/06/inside-shanya-a-packer-as-a-service-fueling-modern-attacks/)
 
-### 🔴 Supply Chain
+**📡 Source:** Sophos News  
+**📅 Published:** Sun, 07 Dec 2025 02:57:18 +0000  
 
-#### 1. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Krebs On Security  
-**📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62199, CVE-2025-62215, CVE-2025-60274  
-
-**📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
+**📝 Summary:** The ransomware scene gains another would-be EDR killer.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** “However, exploiting this specific vulnerability is likely to be relatively straightforward, given the existence of prior similar vulnerabilities
-- **🔎 Cause:** Despite the flaw’s zero-day status, Microsoft has assigned it an “important” rating rather than critical, because exploiting it requires an attacker to already have access to the target’s device
-- **✅ Solution:** “The patch for this should be an organization’s highest priority,” McCarthy said
+- **⚠️ Issue:** We have covered packer-as-a-service offerings from the computer underworld in the past, previously dissecting impersonation campaigns and the rise of HeartCrypt, both popular among ransomware groups
+- **🔎 Cause:** We’ll look at its apparent origins, unpack the code, and examine a targeted infection leveraging this tool
+- **✅ Solution:** It should be noted that the ID of the post author, which we’ve obfuscated in Figure 1, was not “Shanya” but another string entirely
 
 ---
 
-#### 2. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
+
+### 🔴 Supply Chain
+
+#### 1. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
 **📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
+**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
 
 **📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
 
@@ -615,7 +602,7 @@
 
 ---
 
-#### 3. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
+#### 2. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Wed, 26 Nov 2025 18:36:06 GMT  
@@ -631,20 +618,7 @@
 
 ---
 
-#### 4. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-
-**📡 Source:** Krebs On Security  
-**📅 Published:** Tue, 16 Dec 2025 14:14:48 +0000  
-
-**📝 Summary:** Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of "parked" domains -- mostly exp...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** A lookalike domain to the FBI Internet Crime Complaint Center website, returned a non-threatening parking page (left) whereas a mobile user was instantly directed to deceptive content in October 2025 (right)
-
----
-
-#### 5. [Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities](https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/)
+#### 3. [Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities](https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 04 Dec 2025 20:23:15 GMT  
@@ -657,6 +631,34 @@
 - **⚠️ Issue:** Cisco Talos’ Vulnerability Discovery & Research team recently disclosed an out-of-bounds read vulnerability in PDF XChange Editor, and ten vulnerabilities in Socomec DIRIS Digiware M series and Easy Config products
 - **🔎 Cause:** Cisco Talos’ Vulnerability Discovery & Research team recently disclosed an out-of-bounds read vulnerability in PDF XChange Editor, and ten vulnerabilities in Socomec DIRIS Digiware M series and Easy Config products
 - **✅ Solution:** The vulnerabilities mentioned in this blog post have been patched by their respective vendors, all in adherence to Cisco’s third-party vulnerability disclosure policy
+
+---
+
+#### 4. [Care that you share](https://blog.talosintelligence.com/care-that-you-share/)
+
+**📡 Source:** Talos Blog  
+**📅 Published:** Wed, 26 Nov 2025 17:00:48 GMT  
+
+**📝 Summary:** This holiday season, as teams run lean and cyber threats rise, being open with what — and how — you share can protect both information and relationships.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Welcome to this week's edition of the Threat Source newsletter
+- **🔎 Cause:** Many teams are running with skeleton crews, whether due to holiday mode (family, turkey, football, days off) or the year-end compliance push (hello, NIS2 and DORA)
+- **✅ Solution:** Should I give them some history of STIX/TAXII
+
+---
+
+#### 5. [5 Real-Word Third-Party Risk Examples](https://www.recordedfuture.com/blog/third-party-risk-examples)
+
+**📡 Source:** Recorded Future  
+**📅 Published:** Tue, 09 Dec 2025 00:00:00 GMT  
+
+**📝 Summary:** Explore 5 third-party risk examples, from vendor data breaches to supply chain attacks and learn how third-party risk management can prevent cyberattacks.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Explore 5 third-party risk examples, from vendor data breaches to supply chain attacks and learn how third-party risk management can prevent cyberattacks
 
 ---
 
@@ -693,21 +695,7 @@
 
 ---
 
-#### 3. [CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html)
-
-🔴 **CRITICAL**  
-**📡 Source:** The Hacker News  
-**📅 Published:** Sat, 13 Dec 2025 18:03:00 +0530  
-
-**📝 Summary:** Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity flaw impacting Sierra Wireless AirLink ALEOS routers to its Known Exploited Vulnerabilities (KEV) catalog, fo...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** CISA warns of active exploitation of Sierra Wireless router flaw allowing remote code execution via unrestricted file upload
-
----
-
-#### 4. [Amazon disrupts Russian GRU hackers attacking edge network devices](https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-gru-hackers-attacking-edge-network-devices/)
+#### 3. [Amazon disrupts Russian GRU hackers attacking edge network devices](https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-gru-hackers-attacking-edge-network-devices/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -722,7 +710,7 @@
 
 ---
 
-#### 5. [Hackers exploit newly patched Fortinet auth bypass flaws](https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/)
+#### 4. [Hackers exploit newly patched Fortinet auth bypass flaws](https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -735,6 +723,23 @@
 
 - **⚠️ Issue:** It is caused by improper verification of cryptographic signatures in SAML messages, allowing an attacker to log in without valid authentication by submitting a maliciously crafted SAML assertion
 - **🔎 Cause:** It is caused by improper verification of cryptographic signatures in SAML messages, allowing an attacker to log in without valid authentication by submitting a maliciously crafted SAML assertion
+
+---
+
+#### 5. [Microsoft Patch Tuesday for December 2025 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-december-2025/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Talos Blog  
+**📅 Published:** Tue, 09 Dec 2025 23:29:51 GMT  
+**🔖 CVEs:** CVE-2025-62549, CVE-2025-62456, CVE-2025-62553, CVE-2025-62557, CVE-2025-62554, CVE-2025-62556  
+
+**📝 Summary:** The Patch Tuesday for December of 2025 includes 57 vulnerabilities, including two that Microsoft marked as “critical.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** ”  CVE‑2025‑62562 is a Microsoft Outlook remote code execution vulnerability
+- **🔎 Cause:** CVE-2025-62456 is a Remote Code Execution Vulnerability in Windows Resilient File System (ReFS)
+- **✅ Solution:** The Patch Tuesday for December of 2025 includes 57 vulnerabilities, including two that Microsoft marked as “critical
 
 ---
 
