@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-17 01:30:45 UTC
+**Last Updated:** 2025-12-17 04:41:36 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -149,7 +149,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Tue, 16 Dec 2025 10:57:34 -0500  
-**🔖 CVEs:** CVE-2025-59719, CVE-2025-59718  
+**🔖 CVEs:** CVE-2025-59718, CVE-2025-59719  
 
 **📝 Summary:** Hackers are exploiting critical-severity vulnerabilities affecting multiple Fortinet products to get unauthorized access to admin accounts and steal system configuration files.
 
@@ -587,7 +587,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62215, CVE-2025-60274, CVE-2025-62199  
+**🔖 CVEs:** CVE-2025-60274, CVE-2025-62199, CVE-2025-62215  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -604,7 +604,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
 **📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
+**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
 
 **📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
 
@@ -727,7 +727,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Tue, 16 Dec 2025 10:57:34 -0500  
-**🔖 CVEs:** CVE-2025-59719, CVE-2025-59718  
+**🔖 CVEs:** CVE-2025-59718, CVE-2025-59719  
 
 **📝 Summary:** Hackers are exploiting critical-severity vulnerabilities affecting multiple Fortinet products to get unauthorized access to admin accounts and steal system configuration files.
 
