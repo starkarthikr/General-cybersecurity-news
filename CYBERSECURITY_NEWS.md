@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-17 12:49:46 UTC
+**Last Updated:** 2025-12-17 16:35:53 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -21,7 +21,22 @@
 
 ---
 
-#### 2. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
+#### 2. [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Wed, 17 Dec 2025 11:09:51 -0500  
+**🔖 CVEs:** CVE-2025-55182  
+
+**📝 Summary:** A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later
+
+---
+
+#### 3. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -37,7 +52,7 @@
 
 ---
 
-#### 3. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
+#### 4. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
@@ -54,7 +69,7 @@
 
 ---
 
-#### 4. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
+#### 5. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Sophos News  
@@ -65,20 +80,6 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** In mid-August 2025, Counter Threat Unit™ (CTU) researchers identified the use of the legitimate Velociraptor digital forensics and incident response (DFIR) tool in likely ransomware precursor activity
-
----
-
-#### 5. [Watering Hole Attacks Push ScanBox Keylogger](https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/)
-
-🟡 **MEDIUM**  
-**📡 Source:** Threat Post  
-**📅 Published:** Tue, 30 Aug 2022 16:00:43 +0000  
-
-**📝 Summary:** Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** A China-based threat actor has ramped up efforts to distribute the ScanBox reconnaissance framework to victims that include domestic Australian organizations and offshore energy firms in the South China Sea
 
 ---
 
@@ -149,7 +150,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Tue, 16 Dec 2025 10:57:34 -0500  
-**🔖 CVEs:** CVE-2025-59719, CVE-2025-59718  
+**🔖 CVEs:** CVE-2025-59718, CVE-2025-59719  
 
 **📝 Summary:** Hackers are exploiting critical-severity vulnerabilities affecting multiple Fortinet products to get unauthorized access to admin accounts and steal system configuration files.
 
@@ -194,7 +195,34 @@
 
 ---
 
-#### 3. [Unleashing the Kraken ransomware group](https://blog.talosintelligence.com/kraken-ransomware-group/)
+#### 3. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
+
+**📡 Source:** Krebs On Security  
+**📅 Published:** Wed, 26 Nov 2025 17:22:36 +0000  
+
+**📝 Summary:** A prolific cybercriminal group that calls itself "Scattered LAPSUS$ Hunters" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** The group later launched a data leak portal that threatened to publish the internal data of three dozen companies that allegedly had Salesforce data stolen, including Toyota, FedEx, Disney/Hulu, and UPS
+
+---
+
+#### 4. [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
+
+**📡 Source:** Krebs On Security  
+**📅 Published:** Thu, 20 Nov 2025 19:06:51 +0000  
+
+**📝 Summary:** In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of p...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** “We will continue to offer our free Monitor data breach service, which is integrated into Firefox’s credential manager, and we are focused on integrating more of our privacy and security experiences in Firefox, including our VPN, for free,” the advis
+- **✅ Solution:** In March 2024, Mozilla said it was winding down its collaboration with Onerep — an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites — after KrebsOnSecurity revealed On
+
+---
+
+#### 5. [Unleashing the Kraken ransomware group](https://blog.talosintelligence.com/kraken-ransomware-group/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 13 Nov 2025 11:00:38 GMT  
@@ -205,34 +233,6 @@
 
 - **⚠️ Issue:** In August 2025, Cisco Talos Incident Response (Talos IR) observed in one instance that the Kraken ransomware actor gained initial access to the victim's machine by exploiting an existing vulnerability in the SMB service on servers exposed to the inte
 - **🔎 Cause:** In August 2025, Cisco Talos Incident Response (Talos IR) observed in one instance that the Kraken ransomware actor gained initial access to the victim's machine by exploiting an existing vulnerability in the SMB service on servers exposed to the inte
-
----
-
-#### 4. [5 Real-Word Third-Party Risk Examples](https://www.recordedfuture.com/blog/third-party-risk-examples)
-
-**📡 Source:** Recorded Future  
-**📅 Published:** Tue, 09 Dec 2025 00:00:00 GMT  
-
-**📝 Summary:** Explore 5 third-party risk examples, from vendor data breaches to supply chain attacks and learn how third-party risk management can prevent cyberattacks.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Explore 5 third-party risk examples, from vendor data breaches to supply chain attacks and learn how third-party risk management can prevent cyberattacks
-
----
-
-#### 5. [Student Loan Breach Exposes 2.5M Records](https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/)
-
-**📡 Source:** Threat Post  
-**📅 Published:** Wed, 31 Aug 2022 12:57:48 +0000  
-
-**📝 Summary:** 5 million people were affected, in a breach that could spell more trouble down the line.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** 5 million people were affected, in a breach that could spell more trouble down the line
-- **✅ Solution:** “[Our] cybersecurity team took immediate action to secure the information system, block the suspicious activity, fix the issue, and launched[sic] an investigation with third-party forensic experts to determine the nature and scope of the activity,” a
-- **⏰ Timeline:** ch to July 21. The breach was discovered on August 17, 2022.
 
 ---
 
@@ -369,7 +369,22 @@
 
 ---
 
-#### 2. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
+#### 2. [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Wed, 17 Dec 2025 11:09:51 -0500  
+**🔖 CVEs:** CVE-2025-55182  
+
+**📝 Summary:** A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later
+
+---
+
+#### 3. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -385,44 +400,29 @@
 
 ---
 
-#### 3. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
+#### 4. [Cellik Android malware builds malicious versions from Google Play apps](https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/)
 
-**📡 Source:** Talos Blog  
-**📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Tue, 16 Dec 2025 17:59:35 -0500  
 
-**📝 Summary:** Bill explores how our biggest mistakes can be the catalysts for growth that we need.
+**📝 Summary:** A new Android malware-as-a-service (MaaS) named Cellik is being advertised on underground cybercrime forums offering a robust set of capabilities that include the option to embed it in any app avai...
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Adversaries are using GenAI for coding, phishing, evasion, and vulnerability discovery, especially as uncensored models become more widely available
+- **⚠️ Issue:** Specifically, attackers can select apps from Android's official app store and create trojanized versions that appear trustworthy and keep the real app's interface and functionality
 
 ---
 
-#### 4. [Viasat and the terrible, horrible, no good, very bad day](https://blog.talosintelligence.com/viasat-and-the-terrible-horrible-no-good-very-bad-day/)
+#### 5. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
 
-**📡 Source:** Talos Blog  
-**📅 Published:** Thu, 13 Nov 2025 19:00:14 GMT  
+**📡 Source:** Krebs On Security  
+**📅 Published:** Mon, 24 Nov 2025 18:44:52 +0000  
 
-**📝 Summary:** In this week’s newsletter, Amy recounts her journey from Halloween festivities to unraveling the story of the 2022 Viasat satellite hack, with plenty of cybersecurity surprises along the way.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
-- **🔎 Cause:** The attackers exploited a vulnerability in a VPN appliance, gaining access to the network’s management systems
-
----
-
-#### 5. [AI Malware: Hype vs. Reality](https://www.recordedfuture.com/blog/ai-malware-hype-vs-reality)
-
-**📡 Source:** Recorded Future  
-**📅 Published:** Mon, 01 Dec 2025 00:00:00 GMT  
-
-**📝 Summary:** A grounded look at AI malware: most threats sit at low maturity levels, with no verified autonomous BYOAI attacks.
+**📝 Summary:** On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming ...
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** A grounded look at AI malware: most threats sit at low maturity levels, with no verified autonomous BYOAI attacks
-- **✅ Solution:** Learn what’s real, what’s hype, and how defenders should respond
+- **⚠️ Issue:** Is Your Android TV Streaming Box Part of a Botnet?
 
 ---
 
@@ -459,18 +459,94 @@
 
 ---
 
-#### 3. [GhostFrame phishing kit fuels widespread attacks against millions](https://www.malwarebytes.com/blog/news/2025/12/ghostframe-phishing-kit-fuels-widespread-attacks-against-millions)
+#### 3. [Sharpening the knife: GOLD BLADE’s strategic evolution](https://news.sophos.com/en-us/2025/12/05/sharpening-the-knife-gold-blades-strategic-evolution/)
 
-🔴 **CRITICAL**  
-**📡 Source:** Malwarebytes  
-**📅 Published:** Wed, 10 Dec 2025 12:41:26 GMT  
+🟡 **MEDIUM**  
+**📡 Source:** Sophos News  
+**📅 Published:** Fri, 05 Dec 2025 13:24:37 +0000  
 
-**📝 Summary:** GhostFrame uses dynamic subdomains and hidden iframes to help attackers slip past basic security tools.
+**📝 Summary:** Updates include novel abuse of recruitment platforms, modified infection chains, and expansion into a hybrid operation that combines data theft and ransomware deployment.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Threat analysts spotted a series of phishing attacks featuring tools and techniques they hadn’t seen before
-- **⏰ Timeline:** -service (PhaaS) kit, tracked since September 2025, that has already powered more than a million phishing attacks. Threat analysts
+- **⚠️ Issue:** Between February 2024 and August 2025, Sophos analysts investigated nearly 40 intrusions related to  STAC6565, a campaign the analysts assess with high confidence is associated with the GOLD BLADE threat group (also known as RedCurl, RedWolf, and Ear
+- **🔎 Cause:** GOLD BLADE continually refines its intrusion methods and has shifted from traditional phishing emails to abusing recruitment platforms to deliver weaponized resumes
+- **✅ Solution:** GOLD BLADE’s ability to cycle through delivery methods and refine its techniques over time reflects a professionalized operation that treats intrusions as a core service requiring routine updates to maintain effectiveness
+- **⏰ Timeline:** Observed GOLD BLADE activity from August 2024 through August 2025 Analysis of STAC6565 victimology suggests that GOLD BLADE h
+
+---
+
+#### 4. [Your MFA Is Costing You Millions. It Doesn't Have To.](https://www.bleepingcomputer.com/news/security/your-mfa-is-costing-you-millions-it-doesnt-have-to/)
+
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Wed, 17 Dec 2025 09:00:00 -0500  
+
+**📝 Summary:** Passwords and app-based MFA add hidden costs through lost productivity, frequent resets, and risk of phishing and social engineering attacks.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** MFA deployments cost real money but still fail against common attacks
+
+---
+
+#### 5. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
+
+**📡 Source:** Talos Blog  
+**📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
+
+**📝 Summary:** Bill explores how our biggest mistakes can be the catalysts for growth that we need.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Adversaries are using GenAI for coding, phishing, evasion, and vulnerability discovery, especially as uncensored models become more widely available
+
+---
+
+
+### 🔴 Ransomware
+
+#### 1. [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Wed, 17 Dec 2025 11:09:51 -0500  
+**🔖 CVEs:** CVE-2025-55182  
+
+**📝 Summary:** A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later
+
+---
+
+#### 2. [New BYOVD loader behind DeadLock ransomware attack](https://blog.talosintelligence.com/byovd-loader-deadlock-ransomware/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Talos Blog  
+**📅 Published:** Tue, 09 Dec 2025 11:00:25 GMT  
+**🔖 CVEs:** CVE-2024-51324  
+
+**📝 Summary:** Cisco Talos has uncovered a new DeadLock ransomware campaign using a previously unknown BYOVD loader to exploit a Baidu Antivirus driver vulnerability, letting threat actors disable EDR defenses an...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** sys”, a legitimate Baidu Antivirus driver containing an Improper Privilege Management vulnerability with CVE-2024-51324 — which the actor disguised using the file name “DriverGay
+- **🔎 Cause:** Due to the CVE-2024-51324 vulnerability, the driver fails to validate if the user-mode program has the necessary permissions to make this request
+
+---
+
+#### 3. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Sophos News  
+**📅 Published:** Thu, 11 Dec 2025 10:00:59 +0000  
+
+**📝 Summary:** Analysis of the tradecraft evolution across 6 months and 11 incidents.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** In mid-August 2025, Counter Threat Unit™ (CTU) researchers identified the use of the legitimate Velociraptor digital forensics and incident response (DFIR) tool in likely ransomware precursor activity
 
 ---
 
@@ -491,70 +567,7 @@
 
 ---
 
-#### 5. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
-
-**📡 Source:** Talos Blog  
-**📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
-
-**📝 Summary:** Bill explores how our biggest mistakes can be the catalysts for growth that we need.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Adversaries are using GenAI for coding, phishing, evasion, and vulnerability discovery, especially as uncensored models become more widely available
-
----
-
-
-### 🔴 Ransomware
-
-#### 1. [New BYOVD loader behind DeadLock ransomware attack](https://blog.talosintelligence.com/byovd-loader-deadlock-ransomware/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Talos Blog  
-**📅 Published:** Tue, 09 Dec 2025 11:00:25 GMT  
-**🔖 CVEs:** CVE-2024-51324  
-
-**📝 Summary:** Cisco Talos has uncovered a new DeadLock ransomware campaign using a previously unknown BYOVD loader to exploit a Baidu Antivirus driver vulnerability, letting threat actors disable EDR defenses an...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** sys”, a legitimate Baidu Antivirus driver containing an Improper Privilege Management vulnerability with CVE-2024-51324 — which the actor disguised using the file name “DriverGay
-- **🔎 Cause:** Due to the CVE-2024-51324 vulnerability, the driver fails to validate if the user-mode program has the necessary permissions to make this request
-
----
-
-#### 2. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Sophos News  
-**📅 Published:** Thu, 11 Dec 2025 10:00:59 +0000  
-
-**📝 Summary:** Analysis of the tradecraft evolution across 6 months and 11 incidents.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** In mid-August 2025, Counter Threat Unit™ (CTU) researchers identified the use of the legitimate Velociraptor digital forensics and incident response (DFIR) tool in likely ransomware precursor activity
-
----
-
-#### 3. [Sharpening the knife: GOLD BLADE’s strategic evolution](https://news.sophos.com/en-us/2025/12/05/sharpening-the-knife-gold-blades-strategic-evolution/)
-
-🟡 **MEDIUM**  
-**📡 Source:** Sophos News  
-**📅 Published:** Fri, 05 Dec 2025 13:24:37 +0000  
-
-**📝 Summary:** Updates include novel abuse of recruitment platforms, modified infection chains, and expansion into a hybrid operation that combines data theft and ransomware deployment.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Between February 2024 and August 2025, Sophos analysts investigated nearly 40 intrusions related to  STAC6565, a campaign the analysts assess with high confidence is associated with the GOLD BLADE threat group (also known as RedCurl, RedWolf, and Ear
-- **🔎 Cause:** GOLD BLADE continually refines its intrusion methods and has shifted from traditional phishing emails to abusing recruitment platforms to deliver weaponized resumes
-- **✅ Solution:** GOLD BLADE’s ability to cycle through delivery methods and refine its techniques over time reflects a professionalized operation that treats intrusions as a core service requiring routine updates to maintain effectiveness
-- **⏰ Timeline:** Observed GOLD BLADE activity from August 2024 through August 2025 Analysis of STAC6565 victimology suggests that GOLD BLADE h
-
----
-
-#### 4. [The Hidden Risk in Virtualization: Why Hypervisors are a Ransomware Magnet](https://www.bleepingcomputer.com/news/security/the-hidden-risk-in-virtualization-why-hypervisors-are-a-ransomware-magnet/)
+#### 5. [The Hidden Risk in Virtualization: Why Hypervisors are a Ransomware Magnet](https://www.bleepingcomputer.com/news/security/the-hidden-risk-in-virtualization-why-hypervisors-are-a-ransomware-magnet/)
 
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Tue, 16 Dec 2025 10:01:11 -0500  
@@ -568,30 +581,32 @@
 
 ---
 
-#### 5. [Inside Shanya, a packer-as-a-service fueling modern attacks](https://news.sophos.com/en-us/2025/12/06/inside-shanya-a-packer-as-a-service-fueling-modern-attacks/)
-
-**📡 Source:** Sophos News  
-**📅 Published:** Sun, 07 Dec 2025 02:57:18 +0000  
-
-**📝 Summary:** The ransomware scene gains another would-be EDR killer.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** We have covered packer-as-a-service offerings from the computer underworld in the past, previously dissecting impersonation campaigns and the rise of HeartCrypt, both popular among ransomware groups
-- **🔎 Cause:** We’ll look at its apparent origins, unpack the code, and examine a targeted infection leveraging this tool
-- **✅ Solution:** It should be noted that the ID of the post author, which we’ve obfuscated in Figure 1, was not “Shanya” but another string entirely
-
----
-
 
 ### 🔴 Supply Chain
 
-#### 1. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
+#### 1. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Krebs On Security  
+**📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
+**🔖 CVEs:** CVE-2025-60274, CVE-2025-62215, CVE-2025-62199  
+
+**📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** “However, exploiting this specific vulnerability is likely to be relatively straightforward, given the existence of prior similar vulnerabilities
+- **🔎 Cause:** Despite the flaw’s zero-day status, Microsoft has assigned it an “important” rating rather than critical, because exploiting it requires an attacker to already have access to the target’s device
+- **✅ Solution:** “The patch for this should be an organization’s highest priority,” McCarthy said
+
+---
+
+#### 2. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
 **📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
+**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
 
 **📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
 
@@ -602,7 +617,7 @@
 
 ---
 
-#### 2. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
+#### 3. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Wed, 26 Nov 2025 18:36:06 GMT  
@@ -618,7 +633,20 @@
 
 ---
 
-#### 3. [Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities](https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/)
+#### 4. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+
+**📡 Source:** Krebs On Security  
+**📅 Published:** Tue, 16 Dec 2025 14:14:48 +0000  
+
+**📝 Summary:** Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of "parked" domains -- mostly exp...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** A lookalike domain to the FBI Internet Crime Complaint Center website, returned a non-threatening parking page (left) whereas a mobile user was instantly directed to deceptive content in October 2025 (right)
+
+---
+
+#### 5. [Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities](https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 04 Dec 2025 20:23:15 GMT  
@@ -631,34 +659,6 @@
 - **⚠️ Issue:** Cisco Talos’ Vulnerability Discovery & Research team recently disclosed an out-of-bounds read vulnerability in PDF XChange Editor, and ten vulnerabilities in Socomec DIRIS Digiware M series and Easy Config products
 - **🔎 Cause:** Cisco Talos’ Vulnerability Discovery & Research team recently disclosed an out-of-bounds read vulnerability in PDF XChange Editor, and ten vulnerabilities in Socomec DIRIS Digiware M series and Easy Config products
 - **✅ Solution:** The vulnerabilities mentioned in this blog post have been patched by their respective vendors, all in adherence to Cisco’s third-party vulnerability disclosure policy
-
----
-
-#### 4. [Care that you share](https://blog.talosintelligence.com/care-that-you-share/)
-
-**📡 Source:** Talos Blog  
-**📅 Published:** Wed, 26 Nov 2025 17:00:48 GMT  
-
-**📝 Summary:** This holiday season, as teams run lean and cyber threats rise, being open with what — and how — you share can protect both information and relationships.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Welcome to this week's edition of the Threat Source newsletter
-- **🔎 Cause:** Many teams are running with skeleton crews, whether due to holiday mode (family, turkey, football, days off) or the year-end compliance push (hello, NIS2 and DORA)
-- **✅ Solution:** Should I give them some history of STIX/TAXII
-
----
-
-#### 5. [5 Real-Word Third-Party Risk Examples](https://www.recordedfuture.com/blog/third-party-risk-examples)
-
-**📡 Source:** Recorded Future  
-**📅 Published:** Tue, 09 Dec 2025 00:00:00 GMT  
-
-**📝 Summary:** Explore 5 third-party risk examples, from vendor data breaches to supply chain attacks and learn how third-party risk management can prevent cyberattacks.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Explore 5 third-party risk examples, from vendor data breaches to supply chain attacks and learn how third-party risk management can prevent cyberattacks
 
 ---
 
@@ -695,7 +695,37 @@
 
 ---
 
-#### 3. [Amazon disrupts Russian GRU hackers attacking edge network devices](https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-gru-hackers-attacking-edge-network-devices/)
+#### 3. [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Wed, 17 Dec 2025 11:09:51 -0500  
+**🔖 CVEs:** CVE-2025-55182  
+
+**📝 Summary:** A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later
+
+---
+
+#### 4. [Microsoft asks IT admins to reach out for Windows IIS failures fix](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Wed, 17 Dec 2025 07:30:32 -0500  
+
+**📝 Summary:** Microsoft has asked businesses to reach out for advice on how to temporarily mitigate a Message Queuing (MSMQ) issue causing enterprise apps and Internet Information Services (IIS) sites to fail.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** While Microsoft is investigating it and working on a fix, in a Tuesday update to the Windows release health dashboard, it advised enterprise customers to reach out for details on how to temporarily mitigate this bug in their environments
+- **✅ Solution:** The known issue mainly affects enterprise users with Windows 10 22H2, Windows Server 2019, and Windows Server 2016 devices that have installed the KB5071546, KB5071544, and KB5071543 security updates released during the December 2025 Patch Tuesday
+
+---
+
+#### 5. [Amazon disrupts Russian GRU hackers attacking edge network devices](https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-gru-hackers-attacking-edge-network-devices/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -707,39 +737,6 @@
 
 - **⚠️ Issue:** The Amazon Threat Intelligence team has disrupted active operations attributed to hackers working for the Russian foreign military intelligence agency, the GRU, who targeted customers' cloud infrastructure
 - **🔎 Cause:** Over time, the threat actor pivoted from exploiting vulnerabilities (zero-days and known ones) to leveraging misconfigured edge devices for initial access
-
----
-
-#### 4. [Hackers exploit newly patched Fortinet auth bypass flaws](https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Tue, 16 Dec 2025 10:57:34 -0500  
-**🔖 CVEs:** CVE-2025-59719, CVE-2025-59718  
-
-**📝 Summary:** Hackers are exploiting critical-severity vulnerabilities affecting multiple Fortinet products to get unauthorized access to admin accounts and steal system configuration files.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** It is caused by improper verification of cryptographic signatures in SAML messages, allowing an attacker to log in without valid authentication by submitting a maliciously crafted SAML assertion
-- **🔎 Cause:** It is caused by improper verification of cryptographic signatures in SAML messages, allowing an attacker to log in without valid authentication by submitting a maliciously crafted SAML assertion
-
----
-
-#### 5. [Microsoft Patch Tuesday for December 2025 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-december-2025/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Talos Blog  
-**📅 Published:** Tue, 09 Dec 2025 23:29:51 GMT  
-**🔖 CVEs:** CVE-2025-62549, CVE-2025-62456, CVE-2025-62553, CVE-2025-62557, CVE-2025-62554, CVE-2025-62556  
-
-**📝 Summary:** The Patch Tuesday for December of 2025 includes 57 vulnerabilities, including two that Microsoft marked as “critical.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** ”  CVE‑2025‑62562 is a Microsoft Outlook remote code execution vulnerability
-- **🔎 Cause:** CVE-2025-62456 is a Remote Code Execution Vulnerability in Windows Resilient File System (ReFS)
-- **✅ Solution:** The Patch Tuesday for December of 2025 includes 57 vulnerabilities, including two that Microsoft marked as “critical
 
 ---
 

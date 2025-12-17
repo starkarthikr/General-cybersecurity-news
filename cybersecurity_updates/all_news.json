@@ -1,6 +1,52 @@
 [
   {
     "source": "The Hacker News",
+    "title": "APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign",
+    "link": "https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html",
+    "published": "Wed, 17 Dec 2025 21:00:00 +0530",
+    "summary": "The Russian state-sponsored threat actor known as APT28 has been attributed to what has been described as a \"sustained\" credential-harvesting campaign targeting users of UKR[.]net, a webmail and news service popular in Ukraine.\nThe activity, observed by Recorded Future's Insikt Group between June 2024 and April 2025, builds upon prior findings from the cybersecurity company in May 2024 that",
+    "ai_summary": "The Russian state-sponsored threat actor known as APT28 has been attributed to what has been described as a \"sustained\" credential-harvesting campaign targeting users of UKR[.",
+    "authors": [
+      "The Hacker News"
+    ],
+    "analysis": {
+      "issue": "APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign",
+      "solution": null,
+      "cause": null,
+      "timeline": "a sustained phishing campaign from June 2024 to April 2025, using fake UKR.net login pages to steal credentials and 2FA code",
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
+        "APT/Nation-State"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails",
+    "link": "https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html",
+    "published": "Wed, 17 Dec 2025 20:24:00 +0530",
+    "summary": "The threat actor linked to Operation ForumTroll has been attributed to a fresh set of phishing attacks targeting individuals within Russia, according to Kaspersky.\nThe Russian cybersecurity vendor said it detected the new activity in October 2025. The origins of the threat actor are presently unknown.\n\"While the spring cyberattacks focused on organizations, the fall campaign honed in on",
+    "ai_summary": "The threat actor linked to Operation ForumTroll has been attributed to a fresh set of phishing attacks targeting individuals within Russia, according to Kaspersky.",
+    "authors": [
+      "The Hacker News"
+    ],
+    "analysis": {
+      "issue": "Kaspersky reports ForumTroll phishing attacks targeting Russian academics, using fake eLibrary emails, personalized files & Windows malware delivery",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time",
     "link": "https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html",
     "published": "Wed, 17 Dec 2025 17:00:00 +0530",
@@ -293,46 +339,52 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "A Browser Extension Risk Guide After the ShadyPanda Campaign",
-    "link": "https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html",
-    "published": "Mon, 15 Dec 2025 17:25:00 +0530",
-    "summary": "In early December 2025, security researchers exposed a cybercrime campaign that had quietly hijacked popular Chrome and Edge browser extensions on a massive scale.\nA threat group dubbed ShadyPanda spent seven years playing the long game, publishing or acquiring harmless extensions, letting them run clean for years to build trust and gain millions of installs, then suddenly flipping them into",
-    "ai_summary": "In early December 2025, security researchers exposed a cybercrime campaign that had quietly hijacked popular Chrome and Edge browser extensions on a massive scale.",
+    "source": "Bleeping Computer",
+    "title": "Critical React2Shell flaw exploited in ransomware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/",
+    "published": "Wed, 17 Dec 2025 11:09:51 -0500",
+    "summary": "A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later. [...]",
+    "ai_summary": "A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later.",
     "authors": [
-      "The Hacker News"
+      "Bill Toulas"
     ],
     "analysis": {
-      "issue": "A Browser Extension Risk Guide After the ShadyPanda Campaign",
+      "issue": "A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": null,
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-55182"
+      ],
       "threat_categories": [
-        "General Security"
+        "Ransomware",
+        "Vulnerability",
+        "Malware",
+        "APT/Nation-State"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector",
-    "link": "https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html",
-    "published": "Mon, 15 Dec 2025 14:54:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of an active phishing campaign that's targeting a wide range of sectors in Russia with phishing emails that deliver Phantom Stealer via malicious ISO optical disc images.\nThe activity, codenamed Operation MoneyMount-ISO by Seqrite Labs, has primarily singled out finance and accounting entities, with those in the procurement, legal, payroll",
-    "ai_summary": "Cybersecurity researchers have disclosed details of an active phishing campaign that's targeting a wide range of sectors in Russia with phishing emails that deliver Phantom Stealer via malicious IS...",
+    "source": "Bleeping Computer",
+    "title": "Your MFA Is Costing You Millions. It Doesn't Have To.",
+    "link": "https://www.bleepingcomputer.com/news/security/your-mfa-is-costing-you-millions-it-doesnt-have-to/",
+    "published": "Wed, 17 Dec 2025 09:00:00 -0500",
+    "summary": "Passwords and app-based MFA add hidden costs through lost productivity, frequent resets, and risk of phishing and social engineering attacks. Token explains how wireless biometric, passwordless authentication eliminates credential-based attacks and delivers measurable financial returns by reducing login time across the enterprise. [...]",
+    "ai_summary": "Passwords and app-based MFA add hidden costs through lost productivity, frequent resets, and risk of phishing and social engineering attacks.",
     "authors": [
-      "The Hacker News"
+      "Sponsored by Token"
     ],
     "analysis": {
-      "issue": "Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector",
+      "issue": "MFA deployments cost real money but still fail against common attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": null,
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Phishing"
+        "Phishing",
+        "Cloud Security"
       ]
     }
   },
@@ -345,7 +397,18 @@
     "ai_summary": "Microsoft has asked businesses to reach out for advice on how to temporarily mitigate a Message Queuing (MSMQ) issue causing enterprise apps and Internet Information Services (IIS) sites to fail.",
     "authors": [
       "Sergiu Gatlan"
-    ]
+    ],
+    "analysis": {
+      "issue": "While Microsoft is investigating it and working on a fix, in a Tuesday update to the Windows release health dashboard, it advised enterprise customers to reach out for details on how to temporarily mitigate this bug in their environments",
+      "solution": "The known issue mainly affects enterprise users with Windows 10 22H2, Windows Server 2019, and Windows Server 2016 devices that have installed the KB5071546, KB5071544, and KB5071543 security updates released during the December 2025 Patch Tuesday",
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
@@ -356,7 +419,19 @@
     "ai_summary": "A new Android malware-as-a-service (MaaS) named Cellik is being advertised on underground cybercrime forums offering a robust set of capabilities that include the option to embed it in any app avai...",
     "authors": [
       "Bill Toulas"
-    ]
+    ],
+    "analysis": {
+      "issue": "Specifically, attackers can select apps from Android's official app store and create trojanized versions that appear trustworthy and keep the real app's interface and functionality",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT/Nation-State"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
@@ -443,8 +518,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-59719",
-        "CVE-2025-59718"
+        "CVE-2025-59718",
+        "CVE-2025-59719"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -542,21 +617,190 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "SoundCloud confirms breach after member data stolen, VPN access disrupted",
-    "link": "https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/",
-    "published": "Mon, 15 Dec 2025 19:38:47 -0500",
-    "summary": "Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in which threat actors stole a database exposing users' email addresses and profile information. [...]",
-    "ai_summary": "Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in which threat actors stole a database exposing use...",
+    "source": "Krebs On Security",
+    "title": "Most Parked Domains Now Serving Malicious Content",
+    "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+    "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+    "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+    "ai_summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly exp...",
     "authors": [
-      "Lawrence Abrams"
+      "BrianKrebs"
     ],
     "analysis": {
-      "issue": "Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in which threat actors stole a database exposing users' email addresses and profile information",
+      "issue": "A lookalike domain to the FBI Internet Crime Complaint Center website, returned a non-threatening parking page (left) whereas a mobile user was instantly directed to deceptive content in October 2025 (right)",
       "solution": null,
-      "cause": "Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in which threat actors stole a database exposing users' email addresses and profile information",
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Microsoft Patch Tuesday, December 2025 Edition",
+    "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+    "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+    "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+    "ai_summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.",
+    "authors": [
+      "BrianKrebs"
+    ],
+    "analysis": {
+      "issue": "The zero-day flaw patched today is CVE-2025-62221, a privilege escalation vulnerability affecting Windows 10 and later editions",
+      "solution": "This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities",
+      "cause": null,
       "timeline": null,
       "severity": "Critical",
+      "cves": [
+        "CVE-2025-62562",
+        "CVE-2025-59517",
+        "CVE-2025-62458",
+        "CVE-2025-62221",
+        "CVE-2025-59516",
+        "CVE-2025-62472",
+        "CVE-2025-62557",
+        "CVE-2025-62470",
+        "CVE-2025-62554"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Cloud Security"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+    "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+    "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+    "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
+    "ai_summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university bu...",
+    "authors": [
+      "BrianKrebs"
+    ],
+    "analysis": {
+      "issue": "The link between essay mills and Russian attack drones might seem improbable, but understanding it begins with a simple question: How does a human-intensive academic cheating service stay relevant in an era when students can simply ask AI to write th",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT/Nation-State"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+    "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+    "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+    "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+    "ai_summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phi...",
+    "authors": [
+      "BrianKrebs"
+    ],
+    "analysis": {
+      "issue": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
+    "link": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
+    "published": "Wed, 26 Nov 2025 17:22:36 +0000",
+    "summary": "A prolific cybercriminal group that calls itself \"Scattered LAPSUS$ Hunters\" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations. But the tables seem to have turned somewhat for \"Rey,\" the moniker chosen by the technical operator and public face of the hacker group: Earlier this week, Rey confirmed his real life identity and agreed to an interview after KrebsOnSecurity tracked him down and contacted his father.",
+    "ai_summary": "A prolific cybercriminal group that calls itself \"Scattered LAPSUS$ Hunters\" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations.",
+    "authors": [
+      "BrianKrebs"
+    ],
+    "analysis": {
+      "issue": "The group later launched a data leak portal that threatened to publish the internal data of three dozen companies that allegedly had Salesforce data stolen, including Toyota, FedEx, Disney/Hulu, and UPS",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Is Your Android TV Streaming Box Part of a Botnet?",
+    "link": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
+    "published": "Mon, 24 Nov 2025 18:44:52 +0000",
+    "summary": "On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming services like Netflix, ESPN and Hulu, all for a one-time fee of around $400. But security experts warn these TV boxes require intrusive software that forces the user's network to relay Internet traffic for others, traffic that is often tied to cybercrime activity such as advertising fraud and account takeovers.",
+    "ai_summary": "On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming ...",
+    "authors": [
+      "BrianKrebs"
+    ],
+    "analysis": {
+      "issue": "Is Your Android TV Streaming Box Part of a Botnet?",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
+    "link": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
+    "published": "Thu, 20 Nov 2025 19:06:51 +0000",
+    "summary": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep's founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will officially end next month.",
+    "ai_summary": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of p...",
+    "authors": [
+      "BrianKrebs"
+    ],
+    "analysis": {
+      "issue": "“We will continue to offer our free Monitor data breach service, which is integrated into Firefox’s credential manager, and we are focused on integrating more of our privacy and security experiences in Firefox, including our VPN, for free,” the advis",
+      "solution": "In March 2024, Mozilla said it was winding down its collaboration with Onerep — an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites — after KrebsOnSecurity revealed On",
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "The Cloudflare Outage May Be a Security Roadmap",
+    "link": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
+    "published": "Wed, 19 Nov 2025 14:07:03 +0000",
+    "summary": "An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet's top destinations offline. Some affected Cloudflare customers were able to pivot away from the platform temporarily so that visitors could still access their websites. But security experts say doing so may have also triggered an impromptu network penetration test for organizations that have come to rely on Cloudflare to block many types of abusive and malicious traffic.",
+    "ai_summary": "An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet's top destinations offline.",
+    "authors": [
+      "BrianKrebs"
+    ],
+    "analysis": {
+      "issue": "Turner said Cloudflare’s WAF does a good job filtering out malicious traffic that matches any one of the top ten types of application-layer attacks, including credential stuffing, cross-site scripting, SQL injection, bot attacks and API abuse",
+      "solution": "Any organization that made that decision needs to look closely at any exposed infrastructure to see if they have someone persisting after they’ve switched back to Cloudflare protections",
+      "cause": null,
+      "timeline": null,
+      "severity": null,
       "cves": [],
       "threat_categories": [
         "Cloud Security"
@@ -564,26 +808,88 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Google is shutting down its dark web report feature in January",
-    "link": "https://www.bleepingcomputer.com/news/google/google-is-shutting-down-its-dark-web-report-feature-in-january/",
-    "published": "Mon, 15 Dec 2025 18:24:57 -0500",
-    "summary": "Google is discontinuing its \"dark web report\" security tool, stating that it wants to focus on other tools it believes are more helpful. [...]",
-    "ai_summary": "Google is discontinuing its \"dark web report\" security tool, stating that it wants to focus on other tools it believes are more helpful.",
+    "source": "Krebs On Security",
+    "title": "Microsoft Patch Tuesday, November 2025 Edition",
+    "link": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
+    "published": "Sun, 16 Nov 2025 21:47:14 +0000",
+    "summary": "Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being exploited. Microsoft also fixed a glitch that prevented some Windows 10 users from taking advantage of an extra year of security updates, which is nice because the zero-day flaw and other critical weaknesses patched today affect all versions of Windows, including Windows 10.",
+    "ai_summary": "Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...",
     "authors": [
-      "Mayank Parmar"
+      "BrianKrebs"
     ],
     "analysis": {
-      "issue": "After Google scans the dark web and identifies your personal information, it will notify you where the data was found and what type of data was exposed, encouraging users to take action to protect their data",
-      "solution": "For example, if Google identifies your email on the dark web, you will be advised to turn on two-step authentication to protect your Google account",
+      "issue": "“However, exploiting this specific vulnerability is likely to be relatively straightforward, given the existence of prior similar vulnerabilities",
+      "solution": "“The patch for this should be an organization’s highest priority,” McCarthy said",
+      "cause": "Despite the flaw’s zero-day status, Microsoft has assigned it an “important” rating rather than critical, because exploiting it requires an attacker to already have access to the target’s device",
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-60274",
+        "CVE-2025-62215",
+        "CVE-2025-62199"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain",
+        "Cloud Security"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
+    "link": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
+    "published": "Thu, 13 Nov 2025 14:47:22 +0000",
+    "summary": "Google is suing more than two dozen unnamed individuals allegedly involved in peddling a popular China-based mobile phishing service that helps scammers impersonate hundreds of trusted brands, blast out text message lures, and convert phished payment card data into mobile wallets from Apple and Google.",
+    "ai_summary": "Google is suing more than two dozen unnamed individuals allegedly involved in peddling a popular China-based mobile phishing service that helps scammers impersonate hundreds of trusted brands, blas...",
+    "authors": [
+      "BrianKrebs"
+    ],
+    "analysis": {
+      "issue": "Google called the scale of the Lighthouse phishing attacks “staggering",
+      "solution": null,
       "cause": null,
       "timeline": null,
       "severity": null,
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Phishing",
+        "Cloud Security"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "NMFTA Warns of Surge and Sophistication of Cyber-Enabled Cargo Theft",
+    "link": "https://www.securityweek.com/nmfta-warns-of-surge-and-sophistication-of-cyber-enabled-cargo-theft/",
+    "published": "Wed, 17 Dec 2025 13:39:51 +0000",
+    "summary": "<p>The trucking industry group has released its 2026 Transportation Industry Cybersecurity Trends Report.</p>\n<p>The post <a href=\"https://www.securityweek.com/nmfta-warns-of-surge-and-sophistication-of-cyber-enabled-cargo-theft/\">NMFTA Warns of Surge and Sophistication of Cyber-Enabled Cargo Theft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "ai_summary": "The trucking industry group has released its 2026 Transportation Industry Cybersecurity Trends Report.",
+    "authors": [
+      "Eduard Kovacs"
+    ]
+  },
+  {
+    "source": "Security Week",
+    "title": "Hacker Conversations: Alex Hall, One-time Fraudster",
+    "link": "https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/",
+    "published": "Wed, 17 Dec 2025 13:00:00 +0000",
+    "summary": "<p>A first-person journey from undetected fraud to defending trust—how life events, neurodiversity, and hard-won insight shaped a former fraudster into a fraud fighter.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/\">Hacker Conversations: Alex Hall, One-time Fraudster</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "ai_summary": "A first-person journey from undetected fraud to defending trust—how life events, neurodiversity, and hard-won insight shaped a former fraudster into a fraud fighter.",
+    "authors": [
+      "Kevin Townsend"
+    ]
+  },
+  {
+    "source": "Security Week",
+    "title": "New $150 Cellik RAT Grants Android Control, Trojanizes Google Play Apps",
+    "link": "https://www.securityweek.com/new-150-cellik-rat-grants-android-control-trojanizes-google-play-apps/",
+    "published": "Wed, 17 Dec 2025 12:44:13 +0000",
+    "summary": "<p>The malware provides full device control and real-time surveillance capabilities like those of advanced spyware.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-150-cellik-rat-grants-android-control-trojanizes-google-play-apps/\">New $150 Cellik RAT Grants Android Control, Trojanizes Google Play Apps</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "ai_summary": "The malware provides full device control and real-time surveillance capabilities like those of advanced spyware.",
+    "authors": [
+      "Ionut Arghire"
+    ]
   },
   {
     "source": "Security Week",
@@ -663,39 +969,6 @@
     ]
   },
   {
-    "source": "Security Week",
-    "title": "700,000 Records Compromised in Askul Ransomware Attack",
-    "link": "https://www.securityweek.com/700000-records-compromised-in-askul-ransomware-attack/",
-    "published": "Tue, 16 Dec 2025 14:26:25 +0000",
-    "summary": "<p>The e-commerce and logistics company was targeted by the RansomHouse ransomware group in October. </p>\n<p>The post <a href=\"https://www.securityweek.com/700000-records-compromised-in-askul-ransomware-attack/\">700,000 Records Compromised in Askul Ransomware Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "ai_summary": "The e-commerce and logistics company was targeted by the RansomHouse ransomware group in October.",
-    "authors": [
-      "Eduard Kovacs"
-    ]
-  },
-  {
-    "source": "Security Week",
-    "title": "Echo Raises $35 Million in Series A Funding",
-    "link": "https://www.securityweek.com/echo-raises-35-million-in-series-a-funding/",
-    "published": "Tue, 16 Dec 2025 14:01:00 +0000",
-    "summary": "<p>The fresh investment comes less than six months after the startup’s seed funding announcement.</p>\n<p>The post <a href=\"https://www.securityweek.com/echo-raises-35-million-in-series-a-funding/\">Echo Raises $35 Million in Series A Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "ai_summary": "The fresh investment comes less than six months after the startup’s seed funding announcement.",
-    "authors": [
-      "Ionut Arghire"
-    ]
-  },
-  {
-    "source": "Security Week",
-    "title": "Verisoul Raises $8.8 Million for Fraud Prevention",
-    "link": "https://www.securityweek.com/verisoul-raises-8-8-million-for-fraud-prevention/",
-    "published": "Tue, 16 Dec 2025 14:00:00 +0000",
-    "summary": "<p>The company plans to accelerate product development, scale go-to-market efforts, and hire new talent.</p>\n<p>The post <a href=\"https://www.securityweek.com/verisoul-raises-8-8-million-for-fraud-prevention/\">Verisoul Raises $8.8 Million for Fraud Prevention</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "ai_summary": "The company plans to accelerate product development, scale go-to-market efforts, and hire new talent.",
-    "authors": [
-      "Ionut Arghire"
-    ]
-  },
-  {
     "source": "Talos Blog",
     "title": "Lexi DiScola’s guide to global teamwork and overflowing TBRs",
     "link": "https://blog.talosintelligence.com/lexi-discolas-guide-to-global-teamwork-and-overflowing-tbrs/",
@@ -756,12 +1029,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-62556",
+        "CVE-2025-62553",
         "CVE-2025-62549",
         "CVE-2025-62456",
-        "CVE-2025-62553",
         "CVE-2025-62557",
-        "CVE-2025-62554",
-        "CVE-2025-62556"
+        "CVE-2025-62554"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1046,11 +1319,51 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-60724",
-        "CVE-2025-62215"
+        "CVE-2025-62215",
+        "CVE-2025-60724"
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "BlueDelta’s Persistent Campaign Against UKR.NET",
+    "link": "https://www.recordedfuture.com/research/bluedeltas-persistent-campaign-against-ukrnet",
+    "published": "Wed, 17 Dec 2025 00:00:00 GMT",
+    "summary": "Discover how Russia’s BlueDelta targets UKR.NET users with advanced credential-harvesting campaigns, evolving tradecraft, and multi-stage phishing techniques.",
+    "ai_summary": "Discover how Russia’s BlueDelta targets UKR.",
+    "authors": [],
+    "analysis": {
+      "issue": "BlueDelta’s Persistent Campaign Against UKR.NET",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "The $0 Transaction That Signaled a Nation-State Cyberattack",
+    "link": "https://www.recordedfuture.com/blog/transaction-that-signaled-nation-state-cyberattack",
+    "published": "Wed, 17 Dec 2025 00:00:00 GMT",
+    "summary": "A $0 card test signaled a Chinese state-linked cyberattack on Anthropic’s AI platform. Learn how card-testing fraud intelligence spots nation-state ops early.",
+    "ai_summary": "A $0 card test signaled a Chinese state-linked cyberattack on Anthropic’s AI platform.",
+    "authors": [],
+    "analysis": {
+      "issue": "A $0 card test signaled a Chinese state-linked cyberattack on Anthropic’s AI platform",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "APT/Nation-State"
       ]
     }
   },
@@ -1306,46 +1619,6 @@
     }
   },
   {
-    "source": "Recorded Future",
-    "title": "AI Malware: Hype vs. Reality",
-    "link": "https://www.recordedfuture.com/blog/ai-malware-hype-vs-reality",
-    "published": "Mon, 01 Dec 2025 00:00:00 GMT",
-    "summary": "A grounded look at AI malware: most threats sit at low maturity levels, with no verified autonomous BYOAI attacks. Learn what’s real, what’s hype, and how defenders should respond.",
-    "ai_summary": "A grounded look at AI malware: most threats sit at low maturity levels, with no verified autonomous BYOAI attacks.",
-    "authors": [],
-    "analysis": {
-      "issue": "A grounded look at AI malware: most threats sit at low maturity levels, with no verified autonomous BYOAI attacks",
-      "solution": "Learn what’s real, what’s hype, and how defenders should respond",
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "How Ransomware Affects Business Operations, Revenue, and Brand Reputation",
-    "link": "https://www.recordedfuture.com/blog/how-ransomware-affects-businesses",
-    "published": "Mon, 01 Dec 2025 00:00:00 GMT",
-    "summary": "Learn how ransomware works, how it can impact operations, revenue, and brand reputation, and how to prevent ransomware from infecting your business.",
-    "ai_summary": "Learn how ransomware works, how it can impact operations, revenue, and brand reputation, and how to prevent ransomware from infecting your business.",
-    "authors": [],
-    "analysis": {
-      "issue": "Learn how ransomware works, how it can impact operations, revenue, and brand reputation, and how to prevent ransomware from infecting your business",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
     "source": "Threat Post",
     "title": "Student Loan Breach Exposes 2.5M Records",
     "link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
@@ -1550,8 +1823,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1815,6 +2088,50 @@
         "Ransomware",
         "Phishing",
         "APT/Nation-State"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Two Chrome flaws could be triggered by simply browsing the web: Update now",
+    "link": "https://www.malwarebytes.com/blog/news/2025/12/two-chrome-flaws-could-be-triggered-by-simply-browsing-the-web-update-now",
+    "published": "Wed, 17 Dec 2025 16:02:52 GMT",
+    "summary": "Google's patched two flaws in Chrome, both of which can be triggered remotely when a user loads specially crafted web content.",
+    "ai_summary": "Google's patched two flaws in Chrome, both of which can be triggered remotely when a user loads specially crafted web content.",
+    "authors": [],
+    "analysis": {
+      "issue": "This vulnerability, tracked as CVE-2025-14765 is a use-after-free vulnerability that could allow a remote attacker to potentially exploit heap corruption via a crafted HTML page",
+      "solution": "Google issued an extra patch addressing two security vulnerabilities in Chrome, both of which can be triggered remotely by an attacker when a user visits a specially crafted, malicious web page",
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-14765"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Cloud Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Inside a purchase order PDF phishing campaign",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2025/12/inside-a-purchase-order-pdf-phishing-campaign",
+    "published": "Wed, 17 Dec 2025 13:38:00 GMT",
+    "summary": "A “purchase order” PDF blocked by Malwarebytes led to a credential-harvesting phishing site. So we analyzed the attack and where the data went next.",
+    "ai_summary": "A “purchase order” PDF blocked by Malwarebytes led to a credential-harvesting phishing site.",
+    "authors": [],
+    "analysis": {
+      "issue": "Attackers commonly test these credentials against enterprise services such as Microsoft Outlook, Google Workspace, VPNs, file-sharing platforms, and payroll systems",
+      "solution": "While this might fool some people at first glance, a closer look raised red flags: Since I’m rarely able to control my curiosity, I temporarily added an exclusion to Malwarebytes’ web protection so I could see where the link would take me",
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
       ]
     }
   },
@@ -2089,45 +2406,24 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "December Patch Tuesday fixes three zero-days, including one that hijacks Windows devices",
-    "link": "https://www.malwarebytes.com/blog/news/2025/12/december-patch-tuesday-fixes-three-zero-days-including-one-that-hijacks-windows-devices",
-    "published": "Wed, 10 Dec 2025 16:06:14 GMT",
-    "summary": "The update patches three zero-days and introduces a new PowerShell warning meant to help you avoid accidentally running unsafe code from the web.",
-    "ai_summary": "The update patches three zero-days and introduces a new PowerShell warning meant to help you avoid accidentally running unsafe code from the web.",
-    "authors": [],
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Endpoint Security Achieves 273% ROI Over Three Years",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-endpoint-security-achieves-273-percent-roi-over-three-years/",
+    "published": "Dec 17, 2025 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "The Forrester Total Economic Impact™ Study shows measurable ROI, efficiency gains, and faster protection.",
+    "authors": [
+      "Dana Larson"
+    ],
     "analysis": {
-      "issue": "Two are publicly disclosed flaws: CVE-2025-64671, which is a GitHub Copilot for JetBrains remote code execution (RCE) vulnerability, and CVE‑2025‑54100, an RCE issue in Windows PowerShell",
-      "solution": "Microsoft releases important security updates on the second Tuesday of every month—known as “Patch Tuesday",
-      "cause": "These updates from Microsoft fix serious security issues, including three that attackers are already exploiting to take control of Windows systems",
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-64671"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "GhostFrame phishing kit fuels widespread attacks against millions",
-    "link": "https://www.malwarebytes.com/blog/news/2025/12/ghostframe-phishing-kit-fuels-widespread-attacks-against-millions",
-    "published": "Wed, 10 Dec 2025 12:41:26 GMT",
-    "summary": "GhostFrame uses dynamic subdomains and hidden iframes to help attackers slip past basic security tools.",
-    "ai_summary": "GhostFrame uses dynamic subdomains and hidden iframes to help attackers slip past basic security tools.",
-    "authors": [],
-    "analysis": {
-      "issue": "Threat analysts spotted a series of phishing attacks featuring tools and techniques they hadn’t seen before",
-      "solution": null,
+      "issue": "CrowdStrike Endpoint Security Achieves 273% ROI Over Three Years",
+      "solution": "The Forrester Total Economic Impact™ Study shows measurable ROI, efficiency gains, and faster protection",
       "cause": null,
-      "timeline": "-service (PhaaS) kit, tracked since September 2025, that has already powered more than a million phishing attacks. Threat analysts",
-      "severity": "Critical",
+      "timeline": null,
+      "severity": null,
       "cves": [],
       "threat_categories": [
-        "Phishing"
+        "General Security"
       ]
     }
   },
@@ -2330,24 +2626,22 @@
     }
   },
   {
-    "source": "Crowdstrike Blog",
-    "title": "Transform AWS Security Operations with Falcon Next-Gen SIEM",
-    "link": "https://www.crowdstrike.com/en-us/blog/transform-aws-security-operations-with-falcon-next-gen-siem/",
-    "published": "Dec 01, 2025 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "CrowdStrike and AWS introduce new SIEM integrations, flexible pricing, and Quick Start onboarding to simplify cloud security operations and improve SOC efficiency.",
-    "authors": [
-      "Vicky Ngo-Lam"
-    ],
+    "source": "Cloud Security",
+    "title": "Deterministic AI vs. Generative AI: Why Precision Matters for Automated Security Fixes",
+    "link": "https://cloudsecurityalliance.org/articles/deterministic-ai-vs-generative-ai-why-precision-matters-for-automated-security-fixes",
+    "published": "Tue, 09 Dec 2025 19:40:02 -0800",
+    "summary": "Originally published by Gomboc.ai.\n\nIn 2024, the dirty little secret was out: over 60% of AI-generated security fixes still had to be torn apart and rebuilt by engineers before they were safe to ship. That’s not “helping,” that’s creating rework.\n\nThe reason? Guesswork dressed up as intelligence.\n\nIn Infrastructure as Code, “close enough” is a liability. One misplaced variable can derail a deployment, trigger a production outage, or crack open a brand-new security hole. And yet, too many ...",
+    "ai_summary": "Originally published by Gomboc.",
+    "authors": [],
     "analysis": {
-      "issue": "Transform AWS Security Operations with Falcon Next-Gen SIEM",
-      "solution": null,
+      "issue": "Deterministic AI vs. Generative AI: Why Precision Matters for Automated Security Fixes",
+      "solution": "Deterministic AI delivers merge-ready, policy-aligned fixes that remove risk before it ever hits main",
       "cause": null,
       "timeline": null,
       "severity": null,
       "cves": [],
       "threat_categories": [
-        "Cloud Security"
+        "General Security"
       ]
     }
   },
@@ -2612,26 +2906,6 @@
     "authors": [],
     "analysis": {
       "issue": "Discover 3 technical attack vectors a hacker could take when targeting your GenAI application",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Cloud Security",
-    "title": "How to Measure SOC Efficiency and Performance (Lessons from the Frontlines)",
-    "link": "https://cloudsecurityalliance.org/articles/how-to-measure-soc-efficiency-and-performance-lessons-from-the-frontlines",
-    "published": "Tue, 18 Nov 2025 15:01:23 -0800",
-    "summary": "Written by Ben Brigida, Expel.\n\nThis blog is based on a recent session where Ray and I (Ben) discussed the key aspects to measuring security operations center (SOC) effectiveness.\n\nOver the years leading SOCs, I've learned that measuring success is one of the toughest challenges we face. A SOC requires both speed and quality, and balancing those can sometimes feel like an oxymoron.\n\nThe stakes couldn't be higher. Poor SOC efficiency and performance can cause burnout, human error, missed...",
-    "ai_summary": "Written by Ben Brigida, Expel.",
-    "authors": [],
-    "analysis": {
-      "issue": "Poor SOC performance can cause burnout, human error, missed threats, & huge financial losses",
       "solution": null,
       "cause": null,
       "timeline": null,
