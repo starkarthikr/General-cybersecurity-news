@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-16 20:32:43 UTC
+**Last Updated:** 2025-12-17 01:30:45 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -398,7 +398,20 @@
 
 ---
 
-#### 4. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+#### 4. [Cellik Android malware builds malicious versions from Google Play apps](https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/)
+
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Tue, 16 Dec 2025 17:59:35 -0500  
+
+**📝 Summary:** A new Android malware-as-a-service (MaaS) named Cellik is being advertised on underground cybercrime forums offering a robust set of capabilities that include the option to embed it in any app avai...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Specifically, attackers can select apps from Android's official app store and create trojanized versions that appear trustworthy and keep the real app's interface and functionality
+
+---
+
+#### 5. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
 
 **📡 Source:** Krebs On Security  
 **📅 Published:** Mon, 24 Nov 2025 18:44:52 +0000  
@@ -408,19 +421,6 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** Is Your Android TV Streaming Box Part of a Botnet?
-
----
-
-#### 5. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
-
-**📡 Source:** Talos Blog  
-**📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
-
-**📝 Summary:** Bill explores how our biggest mistakes can be the catalysts for growth that we need.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Adversaries are using GenAI for coding, phishing, evasion, and vulnerability discovery, especially as uncensored models become more widely available
 
 ---
 
@@ -587,7 +587,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62199, CVE-2025-62215, CVE-2025-60274  
+**🔖 CVEs:** CVE-2025-62215, CVE-2025-60274, CVE-2025-62199  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -604,7 +604,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
 **📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
+**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
 
 **📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
 

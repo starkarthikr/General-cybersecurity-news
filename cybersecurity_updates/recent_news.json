@@ -340,6 +340,51 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Cellik Android malware builds malicious versions from Google Play apps",
+    "link": "https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/",
+    "published": "Tue, 16 Dec 2025 17:59:35 -0500",
+    "summary": "A new Android malware-as-a-service (MaaS) named Cellik is being advertised on underground cybercrime forums offering a robust set of capabilities that include the option to embed it in any app available on the Google Play Store. [...]",
+    "ai_summary": "A new Android malware-as-a-service (MaaS) named Cellik is being advertised on underground cybercrime forums offering a robust set of capabilities that include the option to embed it in any app avai...",
+    "authors": [
+      "Bill Toulas"
+    ],
+    "analysis": {
+      "issue": "Specifically, attackers can select apps from Android's official app store and create trojanized versions that appear trustworthy and keep the real app's interface and functionality",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT/Nation-State"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "GhostPoster attacks hide malicious JavaScript in Firefox addon logos",
+    "link": "https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/",
+    "published": "Tue, 16 Dec 2025 17:17:46 -0500",
+    "summary": "A new campaign dubbed 'GhostPoster' is hiding JavaScript code in the image logo of malicious Firefox extensions counting more than 50,000 downloads, to monitor browser activity and plant a backdoor. [...]",
+    "ai_summary": "A new campaign dubbed 'GhostPoster' is hiding JavaScript code in the image logo of malicious Firefox extensions counting more than 50,000 downloads, to monitor browser activity and plant a backdoor.",
+    "authors": [
+      "Bill Toulas"
+    ],
+    "analysis": {
+      "issue": "Koi Security researchers discovered the GhostPoster campaign and identified 17 compromised Firefox extensions that either read the PNG logo to extract and execute the malware loader or download the main payload from the attacker's server",
+      "solution": "It should be noted that the malicious extensions are from popular categories: The researchers say that not all the extensions above use the same payload loading chain, but all of them exhibit the same behavior and communicate with the same infrastruc",
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Amazon disrupts Russian GRU hackers attacking edge network devices",
     "link": "https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-gru-hackers-attacking-edge-network-devices/",
     "published": "Tue, 16 Dec 2025 15:13:09 -0500",
@@ -530,18 +575,7 @@
     "ai_summary": "Google is discontinuing its \"dark web report\" security tool, stating that it wants to focus on other tools it believes are more helpful.",
     "authors": [
       "Mayank Parmar"
-    ],
-    "analysis": {
-      "issue": "After Google scans the dark web and identifies your personal information, it will notify you where the data was found and what type of data was exposed, encouraging users to take action to protect their data",
-      "solution": "For example, if Google identifies your email on the dark web, you will be advised to turn on two-step authentication to protect your Google account",
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    ]
   },
   {
     "source": "Bleeping Computer",
@@ -552,19 +586,7 @@
     "ai_summary": "Japanese e-commerce giant Askul Corporation has confirmed that RansomHouse hackers stole around 740,000 customer records in the ransomware attack it suffered in October.",
     "authors": [
       "Bill Toulas"
-    ],
-    "analysis": {
-      "issue": "Japanese e-commerce giant Askul Corporation has confirmed that RansomHouse hackers stole around 740,000 customer records in the ransomware attack it suffered in October",
-      "solution": "Also, the company has informed the country’s Personal Information Protection Commission about the data exposure and established long-term monitoring to prevent misuse of the stolen information",
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
+    ]
   },
   {
     "source": "Bleeping Computer",
@@ -573,28 +595,6 @@
     "published": "Mon, 15 Dec 2025 17:43:10 -0500",
     "summary": "A new malware-as-a-service (MaaS) information stealer named SantaStealer is being advertised on Telegram and hacker forums as operating in memory to avoid file-based detection. [...]",
     "ai_summary": "A new malware-as-a-service (MaaS) information stealer named SantaStealer is being advertised on Telegram and hacker forums as operating in memory to avoid file-based detection.",
-    "authors": [
-      "Bill Toulas"
-    ]
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "PornHub extorted after hackers steal Premium member activity data",
-    "link": "https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/",
-    "published": "Mon, 15 Dec 2025 16:27:07 -0500",
-    "summary": "Adult video platform PornHub is being extorted by the ShinyHunters extortion gang after the search and watch history of its Premium members was reportedly stolen in a recent Mixpanel data breach. [...]",
-    "ai_summary": "Adult video platform PornHub is being extorted by the ShinyHunters extortion gang after the search and watch history of its Premium members was reportedly stolen in a recent Mixpanel data breach.",
-    "authors": [
-      "Lawrence Abrams"
-    ]
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ongoing SoundCloud issue blocks VPN users with 403 server error",
-    "link": "https://www.bleepingcomputer.com/news/security/ongoing-soundcloud-issue-blocks-vpn-users-with-403-server-error/",
-    "published": "Mon, 15 Dec 2025 13:20:47 -0500",
-    "summary": "Users accessing the SoundCloud audio streaming platform through a virtual private network (VPN) connection are denied access to the service and see a 403 'forbidden' error. [...]",
-    "ai_summary": "Users accessing the SoundCloud audio streaming platform through a virtual private network (VPN) connection are denied access to the service and see a 403 'forbidden' error.",
     "authors": [
       "Bill Toulas"
     ]
@@ -639,15 +639,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62221",
-        "CVE-2025-62557",
-        "CVE-2025-62562",
         "CVE-2025-62470",
+        "CVE-2025-62557",
+        "CVE-2025-62554",
         "CVE-2025-59517",
-        "CVE-2025-62458",
-        "CVE-2025-59516",
+        "CVE-2025-62221",
         "CVE-2025-62472",
-        "CVE-2025-62554"
+        "CVE-2025-62562",
+        "CVE-2025-59516",
+        "CVE-2025-62458"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -807,9 +807,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62199",
         "CVE-2025-62215",
-        "CVE-2025-60274"
+        "CVE-2025-60274",
+        "CVE-2025-62199"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -990,12 +990,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62456",
         "CVE-2025-62557",
+        "CVE-2025-62554",
         "CVE-2025-62549",
         "CVE-2025-62556",
-        "CVE-2025-62553",
-        "CVE-2025-62554"
+        "CVE-2025-62456",
+        "CVE-2025-62553"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1806,8 +1806,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
