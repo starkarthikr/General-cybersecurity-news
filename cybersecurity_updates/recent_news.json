@@ -1,6 +1,72 @@
 [
   {
     "source": "The Hacker News",
+    "title": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution",
+    "link": "https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html",
+    "published": "Thu, 18 Dec 2025 20:09:00 +0530",
+    "summary": "Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in remote code execution.\nThe critical vulnerability, assigned the CVE identifier CVE-2025-37164, carries a CVSS score of 10.0. HPE OneView is an IT infrastructure management software that streamlines IT operations and controls all systems via a",
+    "ai_summary": "Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in remote code execution.",
+    "authors": [
+      "The Hacker News"
+    ],
+    "analysis": {
+      "issue": "HPE patched a critical OneView vulnerability with CVSS 10",
+      "solution": "HPE patched a critical OneView vulnerability with CVSS 10",
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories",
+    "link": "https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html",
+    "published": "Thu, 18 Dec 2025 18:40:00 +0530",
+    "summary": "This week’s ThreatsDay Bulletin tracks how attackers keep reshaping old tools and finding new angles in familiar systems. Small changes in tactics are stacking up fast, and each one hints at where the next big breach could come from.\nFrom shifting infrastructures to clever social hooks, the week’s activity shows just how fluid the threat landscape has become.\nHere’s the full rundown of what",
+    "ai_summary": "This week’s ThreatsDay Bulletin tracks how attackers keep reshaping old tools and finding new angles in familiar systems.",
+    "authors": [
+      "The Hacker News"
+    ],
+    "analysis": {
+      "issue": "ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft",
+    "link": "https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html",
+    "published": "Thu, 18 Dec 2025 18:30:00 +0530",
+    "summary": "Threat actors with ties to the Democratic People's Republic of Korea (DPRK or North Korea) have been instrumental in driving a surge in global cryptocurrency theft in 2025, accounting for at least $2.02 billion out of more than $3.4 billion stolen from January through early December.\nThe figure represents a 51% increase year-over-year and $681 million more than 2024, when the threat actors stole",
+    "ai_summary": "Threat actors with ties to the Democratic People's Republic of Korea (DPRK or North Korea) have been instrumental in driving a surge in global cryptocurrency theft in 2025, accounting for at least $2.",
+    "authors": [
+      "The Hacker News"
+    ],
+    "analysis": {
+      "issue": "02B in crypto in 2025, accounting for most global thefts and major exchange breaches",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "The Case for Dynamic AI-SaaS Security as Copilots Scale",
     "link": "https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html",
     "published": "Thu, 18 Dec 2025 17:00:00 +0530",
@@ -271,69 +337,68 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
-    "link": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
-    "published": "Tue, 16 Dec 2025 21:09:00 +0530",
-    "summary": "Cybersecurity researchers have discovered a new malicious NuGet package that typosquats and impersonates the popular .NET tracing library and its author to sneak in a cryptocurrency wallet stealer.\nThe malicious package, named \"Tracer.Fody.NLog,\" remained on the repository for nearly six years. It was published by a user named \"csnemess\" on February 26, 2020. It masquerades as \"Tracer.Fody,\"",
-    "ai_summary": "Cybersecurity researchers have discovered a new malicious NuGet package that typosquats and impersonates the popular.",
+    "source": "Bleeping Computer",
+    "title": "US seizes E-Note crypto exchange for laundering ransomware payments",
+    "link": "https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/",
+    "published": "Thu, 18 Dec 2025 11:13:03 -0500",
+    "summary": "Law enforcement has seized the servers and domains of the E-Note cryptocurrency exchange, allegedly used by cybercriminal groups to launder more than $70 million. [...]",
+    "ai_summary": "Law enforcement has seized the servers and domains of the E-Note cryptocurrency exchange, allegedly used by cybercriminal groups to launder more than $70 million.",
     "authors": [
-      "The Hacker News"
+      "Bill Toulas"
     ],
     "analysis": {
-      "issue": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
+      "issue": "It is believed that the funds originated from ransomware and account takeover attacks, and were subsequently funneled through an international network of “money mules",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": null,
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Ransomware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure",
-    "link": "https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html",
-    "published": "Tue, 16 Dec 2025 17:57:00 +0530",
-    "summary": "Amazon's threat intelligence team has disclosed details of a \"years-long\" Russian state-sponsored campaign that targeted Western critical infrastructure between 2021 and 2025.\nTargets of the campaign included energy sector organizations across Western nations, critical infrastructure providers in North America and Europe, and entities with cloud-hosted network infrastructure. The activity has",
-    "ai_summary": "Amazon's threat intelligence team has disclosed details of a \"years-long\" Russian state-sponsored campaign that targeted Western critical infrastructure between 2021 and 2025.",
+    "source": "Bleeping Computer",
+    "title": "NIS2 compliance: How to get passwords and MFA right",
+    "link": "https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/",
+    "published": "Thu, 18 Dec 2025 10:01:11 -0500",
+    "summary": "NIS2 puts identity and access controls under the spotlight, with weak passwords and poor authentication now a compliance risk. Specops Software explains how to align password policies and MFA with NIS2 requirements. [...]",
+    "ai_summary": "NIS2 puts identity and access controls under the spotlight, with weak passwords and poor authentication now a compliance risk.",
     "authors": [
-      "The Hacker News"
+      "Sponsored by Specops Software"
     ],
     "analysis": {
-      "issue": "Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure",
+      "issue": "Verizon’s Data Breach Investigation Report found stolen credentials are involved in 44",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "APT/Nation-State",
-        "Cloud Security"
+        "Data Breach"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Why Data Security and Privacy Need to Start in Code",
-    "link": "https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html",
-    "published": "Tue, 16 Dec 2025 17:00:00 +0530",
-    "summary": "AI-assisted coding and AI app generation platforms have created an unprecedented surge in software development. Companies are now facing rapid growth in both the number of applications and the pace of change within those applications. Security and privacy teams are under significant pressure as the surface area they must cover is expanding quickly while their staffing levels remain largely",
-    "ai_summary": "AI-assisted coding and AI app generation platforms have created an unprecedented surge in software development.",
+    "source": "Bleeping Computer",
+    "title": "France arrests Latvian for installing malware on Italian ferry",
+    "link": "https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/",
+    "published": "Thu, 18 Dec 2025 08:47:59 -0500",
+    "summary": "French authorities arrested two crew members of an Italian passenger ferry suspected of infecting the ship with malware that could have enabled them to remotely control the vessel. [...]",
+    "ai_summary": "French authorities arrested two crew members of an Italian passenger ferry suspected of infecting the ship with malware that could have enabled them to remotely control the vessel.",
     "authors": [
-      "The Hacker News"
+      "Sergiu Gatlan"
     ],
     "analysis": {
-      "issue": "Why Data Security and Privacy Need to Start in Code",
+      "issue": "French authorities arrested two crew members of an Italian passenger ferry suspected of infecting the ship with malware that could have enabled them to remotely control the vessel",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": null,
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware"
       ]
     }
   },
@@ -508,22 +573,7 @@
     "ai_summary": "SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges.",
     "authors": [
       "Sergiu Gatlan"
-    ],
-    "analysis": {
-      "issue": "SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges",
-      "solution": "SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges",
-      "cause": "SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges",
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-23006",
-        "CVE-2025-40602"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Cloud Security"
-      ]
-    }
+    ]
   },
   {
     "source": "Bleeping Computer",
@@ -534,23 +584,7 @@
     "ai_summary": "A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later.",
     "authors": [
       "Bill Toulas"
-    ],
-    "analysis": {
-      "issue": "A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-55182"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware",
-        "APT/Nation-State"
-      ]
-    }
+    ]
   },
   {
     "source": "Bleeping Computer",
@@ -561,51 +595,6 @@
     "ai_summary": "Passwords and app-based MFA add hidden costs through lost productivity, frequent resets, and risk of phishing and social engineering attacks.",
     "authors": [
       "Sponsored by Token"
-    ],
-    "analysis": {
-      "issue": "MFA deployments cost real money but still fail against common attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft asks admins to reach out for Windows IIS failures fix",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/",
-    "published": "Wed, 17 Dec 2025 07:30:32 -0500",
-    "summary": "Microsoft has asked businesses to reach out for advice on how to temporarily mitigate a Message Queuing (MSMQ) issue causing enterprise apps and Internet Information Services (IIS) sites to fail. [...]",
-    "ai_summary": "Microsoft has asked businesses to reach out for advice on how to temporarily mitigate a Message Queuing (MSMQ) issue causing enterprise apps and Internet Information Services (IIS) sites to fail.",
-    "authors": [
-      "Sergiu Gatlan"
-    ]
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Cellik Android malware builds malicious versions from Google Play apps",
-    "link": "https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/",
-    "published": "Tue, 16 Dec 2025 17:59:35 -0500",
-    "summary": "A new Android malware-as-a-service (MaaS) named Cellik is being advertised on underground cybercrime forums offering a robust set of capabilities that include the option to embed it in any app available on the Google Play Store. [...]",
-    "ai_summary": "A new Android malware-as-a-service (MaaS) named Cellik is being advertised on underground cybercrime forums offering a robust set of capabilities that include the option to embed it in any app avai...",
-    "authors": [
-      "Bill Toulas"
-    ]
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "GhostPoster attacks hide malicious JavaScript in Firefox addon logos",
-    "link": "https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/",
-    "published": "Tue, 16 Dec 2025 17:17:46 -0500",
-    "summary": "A new campaign dubbed 'GhostPoster' is hiding JavaScript code in the image logo of malicious Firefox extensions counting more than 50,000 downloads, to monitor browser activity and plant a backdoor. [...]",
-    "ai_summary": "A new campaign dubbed 'GhostPoster' is hiding JavaScript code in the image logo of malicious Firefox extensions counting more than 50,000 downloads, to monitor browser activity and plant a backdoor.",
-    "authors": [
-      "Bill Toulas"
     ]
   },
   {
@@ -648,15 +637,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-62554",
+        "CVE-2025-62221",
+        "CVE-2025-62562",
+        "CVE-2025-62458",
+        "CVE-2025-62470",
         "CVE-2025-62472",
         "CVE-2025-59517",
-        "CVE-2025-62562",
-        "CVE-2025-62221",
-        "CVE-2025-59516",
         "CVE-2025-62557",
-        "CVE-2025-62554",
-        "CVE-2025-62470",
-        "CVE-2025-62458"
+        "CVE-2025-59516"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -817,8 +806,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-62199",
-        "CVE-2025-60274",
-        "CVE-2025-62215"
+        "CVE-2025-62215",
+        "CVE-2025-60274"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -849,6 +838,39 @@
         "Cloud Security"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "UEFI Vulnerability in Major Motherboards Enables Early-Boot Attacks",
+    "link": "https://www.securityweek.com/uefi-vulnerability-in-major-motherboards-enables-early-boot-attacks/",
+    "published": "Thu, 18 Dec 2025 15:30:00 +0000",
+    "summary": "<p>ASRock, Asus, Gigabyte, and MSI motherboards are vulnerable to early-boot DMA attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/uefi-vulnerability-in-major-motherboards-enables-early-boot-attacks/\">UEFI Vulnerability in Major Motherboards Enables Early-Boot Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "ai_summary": "ASRock, Asus, Gigabyte, and MSI motherboards are vulnerable to early-boot DMA attacks.",
+    "authors": [
+      "Eduard Kovacs"
+    ]
+  },
+  {
+    "source": "Security Week",
+    "title": "HPE Patches Critical Flaw in IT Infrastructure Management Software",
+    "link": "https://www.securityweek.com/hpe-patches-critical-flaw-in-it-infrastructure-management-software/",
+    "published": "Thu, 18 Dec 2025 15:07:19 +0000",
+    "summary": "<p>Tracked as CVE-2025-37164, the critical flaw could allow unauthenticated, remote attackers to execute arbitrary code.</p>\n<p>The post <a href=\"https://www.securityweek.com/hpe-patches-critical-flaw-in-it-infrastructure-management-software/\">HPE Patches Critical Flaw in IT Infrastructure Management Software</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "ai_summary": "Tracked as CVE-2025-37164, the critical flaw could allow unauthenticated, remote attackers to execute arbitrary code.",
+    "authors": [
+      "Ionut Arghire"
+    ]
+  },
+  {
+    "source": "Security Week",
+    "title": "CISA Warns of Exploited Flaw in Asus Update Tool",
+    "link": "https://www.securityweek.com/cisa-warns-of-exploited-flaw-in-asus-update-tool/",
+    "published": "Thu, 18 Dec 2025 13:27:51 +0000",
+    "summary": "<p>Tracked as CVE-2025-59374, the issue is a software backdoor implanted in Asus Live Update in a supply chain attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-warns-of-exploited-flaw-in-asus-update-tool/\">CISA Warns of Exploited Flaw in Asus Update Tool</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "ai_summary": "Tracked as CVE-2025-59374, the issue is a software backdoor implanted in Asus Live Update in a supply chain attack.",
+    "authors": [
+      "Ionut Arghire"
+    ]
   },
   {
     "source": "Security Week",
@@ -925,39 +947,6 @@
     "ai_summary": "A first-person journey from undetected fraud to defending trust—how life events, neurodiversity, and hard-won insight shaped a former fraudster into a fraud fighter.",
     "authors": [
       "Kevin Townsend"
-    ]
-  },
-  {
-    "source": "Security Week",
-    "title": "New $150 Cellik RAT Grants Android Control, Trojanizes Google Play Apps",
-    "link": "https://www.securityweek.com/new-150-cellik-rat-grants-android-control-trojanizes-google-play-apps/",
-    "published": "Wed, 17 Dec 2025 12:44:13 +0000",
-    "summary": "<p>The malware provides full device control and real-time surveillance capabilities like those of advanced spyware.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-150-cellik-rat-grants-android-control-trojanizes-google-play-apps/\">New $150 Cellik RAT Grants Android Control, Trojanizes Google Play Apps</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "ai_summary": "The malware provides full device control and real-time surveillance capabilities like those of advanced spyware.",
-    "authors": [
-      "Ionut Arghire"
-    ]
-  },
-  {
-    "source": "Security Week",
-    "title": "Five Cybersecurity Predictions for 2026: Identity, AI, and the Collapse of Perimeter Thinking",
-    "link": "https://www.securityweek.com/five-cybersecurity-predictions-for-2026-identity-ai-and-the-collapse-of-perimeter-thinking/",
-    "published": "Wed, 17 Dec 2025 12:00:00 +0000",
-    "summary": "<p>The perimeter is gone. Credentials are no longer sufficient. And security can no longer rely on static controls in a dynamic threat environment.</p>\n<p>The post <a href=\"https://www.securityweek.com/five-cybersecurity-predictions-for-2026-identity-ai-and-the-collapse-of-perimeter-thinking/\">Five Cybersecurity Predictions for 2026: Identity, AI, and the Collapse of Perimeter Thinking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "ai_summary": "The perimeter is gone.",
-    "authors": [
-      "Torsten George"
-    ]
-  },
-  {
-    "source": "Security Week",
-    "title": "Adaptive Security Raises $81 Million in Series B Funding",
-    "link": "https://www.securityweek.com/adaptive-security-raises-81-million-in-series-b-funding/",
-    "published": "Wed, 17 Dec 2025 11:18:29 +0000",
-    "summary": "<p>Led by Bain Capital Ventures, the investment round brings the total raised by the company to $146.5 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/adaptive-security-raises-81-million-in-series-b-funding/\">Adaptive Security Raises $81 Million in Series B Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "ai_summary": "Led by Bain Capital Ventures, the investment round brings the total raised by the company to $146.",
-    "authors": [
-      "Ionut Arghire"
     ]
   },
   {
@@ -1070,12 +1059,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-62554",
+        "CVE-2025-62549",
+        "CVE-2025-62556",
         "CVE-2025-62456",
         "CVE-2025-62553",
-        "CVE-2025-62549",
-        "CVE-2025-62557",
-        "CVE-2025-62554",
-        "CVE-2025-62556"
+        "CVE-2025-62557"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1814,8 +1803,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -2079,6 +2068,46 @@
         "Ransomware",
         "Phishing",
         "APT/Nation-State"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "The ghosts of WhatsApp: How GhostPairing hijacks accounts",
+    "link": "https://www.malwarebytes.com/blog/news/2025/12/the-ghosts-of-whatsapp-how-ghostpairing-hijacks-accounts",
+    "published": "Thu, 18 Dec 2025 13:37:27 GMT",
+    "summary": "Criminals are tricking WhatsApp users into linking an attacker’s browser to their account using fake login pages and routine-looking prompts.",
+    "ai_summary": "Criminals are tricking WhatsApp users into linking an attacker’s browser to their account using fake login pages and routine-looking prompts.",
+    "authors": [],
+    "analysis": {
+      "issue": "They’ve called this attack GhostPairing because it tricks the victim into completing WhatsApp’s own device-pairing flow, silently adding the attacker’s browser as an invisible linked device on the account",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT/Nation-State"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Chrome extension slurps up AI chats after users installed it for privacy",
+    "link": "https://www.malwarebytes.com/blog/news/2025/12/chrome-extension-slurps-up-ai-chats-after-users-installed-it-for-privacy",
+    "published": "Thu, 18 Dec 2025 13:02:29 GMT",
+    "summary": "The extension disclosed its AI data collection, but not in a way most users would recognize—or knowingly agree to.",
+    "ai_summary": "The extension disclosed its AI data collection, but not in a way most users would recognize—or knowingly agree to.",
+    "authors": [],
+    "analysis": {
+      "issue": "Chrome extension slurps up AI chats after users installed it for privacy",
+      "solution": "According to Koi Security, that update introduced code that intercepted every conversation users had with eight AI assistant platforms: ChatGPT, Claude, Gemini, Microsoft Copilot, Perplexity, DeepSeek, Grok (xAI), and Meta AI",
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -2355,48 +2384,6 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Malwarebytes for Mac now has smarter, deeper scans",
-    "link": "https://www.malwarebytes.com/blog/news/2025/12/malwarebytes-for-mac-now-has-smarter-deeper-scans",
-    "published": "Thu, 11 Dec 2025 13:40:02 GMT",
-    "summary": "Say hello to the upgraded Malwarebytes for Mac, with stronger protection and more control.",
-    "ai_summary": "Say hello to the upgraded Malwarebytes for Mac, with stronger protection and more control.",
-    "authors": [],
-    "analysis": {
-      "issue": "The new enhanced scan searches across more of your system to hunt down even the most advanced threats, from stealthy infostealers to zero-hour malware, all while keeping the straightforward experience you love",
-      "solution": "Say hello to the upgraded Malwarebytes for Mac—now with more robust protection, more control, and the same trusted defense you count on every day",
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT/Nation-State"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "[Updated] Another Chrome zero-day under attack: update now",
-    "link": "https://www.malwarebytes.com/blog/news/2025/12/another-chrome-zero-day-under-attack-update-now",
-    "published": "Thu, 11 Dec 2025 11:58:47 GMT",
-    "summary": "If we’re lucky, this update will close out 2025’s run of Chrome zero-days. This one is a V8 type-confusion issue already being exploited in the wild.",
-    "ai_summary": "If we’re lucky, this update will close out 2025’s run of Chrome zero-days.",
-    "authors": [],
-    "analysis": {
-      "issue": "Google issued an extra patch for a security vulnerability in Chrome that is being actively exploited, and it’s urging users to update",
-      "solution": "Google issued an extra patch for a security vulnerability in Chrome that is being actively exploited, and it’s urging users to update",
-      "cause": "Google issued an extra patch for a security vulnerability in Chrome that is being actively exploited, and it’s urging users to update",
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Cloud Security"
-      ]
-    }
-  },
-  {
     "source": "Crowdstrike Blog",
     "title": "CrowdStrike Endpoint Security Achieves 273% ROI Over Three Years",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-endpoint-security-achieves-273-percent-roi-over-three-years/",
@@ -2626,6 +2613,35 @@
     "authors": [],
     "analysis": {
       "issue": "AI Security Governance: Your Maturity Multiplier",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Cloud Security",
+    "title": "Governance Maturity Is Strongest Predictor of AI Readiness and Responsible Innovation, According to Study from Cloud Security Alliance and Google Cloud",
+    "link": "https://cloudsecurityalliance.org/articles/csa-and-google-cloud-study-finds-governance-maturity-is-strongest-predictor-of-ai-readiness",
+    "published": "Tue, 16 Dec 2025 06:40:00 -0800",
+    "summary": "Organizations are continuing to move from experimentation to meaningful operational use\n\nSEATTLE – Dec. 18, 2025 –The State of AI Security and Governance Survey Report, a new study from the Cloud Security Alliance (CSA), the world’s leading not-for-profit organization committed to AI, cloud, and Zero Trust cybersecurity education, and Google Cloud, revealed a clear link between mature governance and improved performance across multiple dimensions of AI adoption and security. Results show ...",
+    "ai_summary": "Organizations are continuing to move from experimentation to meaningful operational use SEATTLE – Dec.",
+    "authors": []
+  },
+  {
+    "source": "Cloud Security",
+    "title": "Agentic AI Security: New Dynamics, Trusted Foundations",
+    "link": "https://cloudsecurityalliance.org/articles/agentic-ai-security-new-dynamics-trusted-foundations",
+    "published": "Tue, 09 Dec 2025 19:53:35 -0800",
+    "summary": "Contributed by Aiceberg.\n\n&nbsp;\n\nAgentic AI - Why should you care?\n\nAgentic AI isn’t just another tech buzzword it represents a fundamental shift in how intelligent systems operate, make decisions, and interact with the world. As AI agents become more autonomous, they introduce both powerful opportunities and new risks that traditional security and governance can’t fully address. If you care about trust, compliance, and keeping humans in control, understanding agentic AI is essential.\n\n...",
+    "ai_summary": "Contributed by Aiceberg.",
+    "authors": [],
+    "analysis": {
+      "issue": "Agentic AI Security: New Dynamics, Trusted Foundations",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -2877,34 +2893,5 @@
         "General Security"
       ]
     }
-  },
-  {
-    "source": "Cloud Security",
-    "title": "The Internet is a Single Point of Failure",
-    "link": "https://cloudsecurityalliance.org/articles/the-internet-is-a-single-point-of-failure",
-    "published": "Thu, 20 Nov 2025 15:20:11 -0800",
-    "summary": "Resiliency through multicloud looks great on paper, but the reality is far more complex (and expensive).\n\nThanks to Amazon, Microsoft, and Google, my calendar over the past few weeks spiked with members calling to discuss cloud resiliency. Each of these outages was rare, and none of them shared any relationship or commonality, but we humans have this pesky habit of getting worried when there’s an uptick in similar-sounding incidents. (It’s probably tied to a deep survival instinct to rec...",
-    "ai_summary": "Resiliency through multicloud looks great on paper, but the reality is far more complex (and expensive).",
-    "authors": [],
-    "analysis": {
-      "issue": "The Internet is a Single Point of Failure",
-      "solution": "Explores multicloud resiliency, its costs, and why single-cloud resilience with chaos engineering is the recommended approach",
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Cloud Security",
-    "title": "Cloud Security Alliance Announces Availability of STAR for AI Level 2 and Valid-AI-ted for AI",
-    "link": "https://cloudsecurityalliance.org/articles/cloud-security-alliance-announces-availability-of-star-for-ai-level-2-and-valid-ai-ted-for-ai",
-    "published": "Wed, 19 Nov 2025 14:45:21 -0800",
-    "summary": "Microsoft and Zendesk recognized as first organizations to achieve STAR for AI Level 2 certification\n\nSEATTLE – November 20, 2025 – The Cloud Security Alliance (CSA), the world’s leading organization dedicated to defining and raising awareness of best practices to help ensure a secure cloud computing environment, today announced the availability of STAR for AI Level 2 and the companion Valid-AI-ted for AI service. These developments mark a major milestone in CSA’s global effort to delive...",
-    "ai_summary": "Microsoft and Zendesk recognized as first organizations to achieve STAR for AI Level 2 certification SEATTLE – November 20, 2025 – The Cloud Security Alliance (CSA), the world’s leading organizatio...",
-    "authors": []
   }
 ]

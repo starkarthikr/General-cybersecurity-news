@@ -1,27 +1,13 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-18 12:48:45 UTC
+**Last Updated:** 2025-12-18 16:37:35 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
 
 ### 🔴 APT/Nation-State
 
-#### 1. [Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure](https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html)
-
-🔴 **CRITICAL**  
-**📡 Source:** The Hacker News  
-**📅 Published:** Tue, 16 Dec 2025 17:57:00 +0530  
-
-**📝 Summary:** Amazon's threat intelligence team has disclosed details of a "years-long" Russian state-sponsored campaign that targeted Western critical infrastructure between 2021 and 2025.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure
-
----
-
-#### 2. [Cisco warns of unpatched AsyncOS zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/)
+#### 1. [Cisco warns of unpatched AsyncOS zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -38,22 +24,7 @@
 
 ---
 
-#### 3. [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Wed, 17 Dec 2025 11:09:51 -0500  
-**🔖 CVEs:** CVE-2025-55182  
-
-**📝 Summary:** A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later
-
----
-
-#### 4. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
+#### 2. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -69,7 +40,7 @@
 
 ---
 
-#### 5. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
+#### 3. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
@@ -86,24 +57,39 @@
 
 ---
 
-
-### 🔴 Cloud Security
-
-#### 1. [Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure](https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html)
+#### 4. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
 
 🔴 **CRITICAL**  
-**📡 Source:** The Hacker News  
-**📅 Published:** Tue, 16 Dec 2025 17:57:00 +0530  
+**📡 Source:** Sophos News  
+**📅 Published:** Thu, 11 Dec 2025 10:00:59 +0000  
 
-**📝 Summary:** Amazon's threat intelligence team has disclosed details of a "years-long" Russian state-sponsored campaign that targeted Western critical infrastructure between 2021 and 2025.
+**📝 Summary:** Analysis of the tradecraft evolution across 6 months and 11 incidents.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure
+- **⚠️ Issue:** In mid-August 2025, Counter Threat Unit™ (CTU) researchers identified the use of the legitimate Velociraptor digital forensics and incident response (DFIR) tool in likely ransomware precursor activity
 
 ---
 
-#### 2. [Zeroday Cloud hacking event awards $320,0000 for 11 zero days](https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/)
+#### 5. [UAT-9686 actively targets Cisco Secure Email Gateway and Secure Email and Web Manager](https://blog.talosintelligence.com/uat-9686/)
+
+🟡 **MEDIUM**  
+**📡 Source:** Talos Blog  
+**📅 Published:** Wed, 17 Dec 2025 16:55:59 GMT  
+
+**📝 Summary:** Cisco Talos is tracking the active targeting of Cisco AsyncOS Software for Cisco Secure Email Gateway, formerly known as Cisco Email Security Appliance (ESA), and Cisco Secure Email and Web Manager...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Talos assesses with moderate confidence that this activity is being conducted by a Chinese-nexus threat actor, which we track as UAT-9686
+- **✅ Solution:** Additional recommendations specific to Cisco are available here
+
+---
+
+
+### 🔴 Cloud Security
+
+#### 1. [Zeroday Cloud hacking event awards $320,0000 for 11 zero days](https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -117,29 +103,12 @@
 
 ---
 
-#### 3. [Sonicwall warns of new SMA1000 zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Wed, 17 Dec 2025 12:44:18 -0500  
-**🔖 CVEs:** CVE-2025-23006, CVE-2025-40602  
-
-**📝 Summary:** SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges
-- **🔎 Cause:** SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges
-- **✅ Solution:** SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges
-
----
-
-#### 4. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+#### 2. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62472, CVE-2025-59517, CVE-2025-62562, CVE-2025-62221, CVE-2025-59516, CVE-2025-62557, CVE-2025-62554, CVE-2025-62470, CVE-2025-62458  
+**🔖 CVEs:** CVE-2025-62554, CVE-2025-62221, CVE-2025-62562, CVE-2025-62458, CVE-2025-62470, CVE-2025-62472, CVE-2025-59517, CVE-2025-62557, CVE-2025-59516  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -150,12 +119,12 @@
 
 ---
 
-#### 5. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
+#### 3. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62199, CVE-2025-60274, CVE-2025-62215  
+**🔖 CVEs:** CVE-2025-62199, CVE-2025-62215, CVE-2025-60274  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -164,6 +133,37 @@
 - **⚠️ Issue:** “However, exploiting this specific vulnerability is likely to be relatively straightforward, given the existence of prior similar vulnerabilities
 - **🔎 Cause:** Despite the flaw’s zero-day status, Microsoft has assigned it an “important” rating rather than critical, because exploiting it requires an attacker to already have access to the target’s device
 - **✅ Solution:** “The patch for this should be an organization’s highest priority,” McCarthy said
+
+---
+
+#### 4. [November 2025 CVE Landscape: 10 Critical Vulnerabilities Show 69% Drop from October](https://www.recordedfuture.com/blog/november-2025-cve-landscape)
+
+🔴 **CRITICAL**  
+**📡 Source:** Recorded Future  
+**📅 Published:** Tue, 09 Dec 2025 00:00:00 GMT  
+
+**📝 Summary:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching
+- **✅ Solution:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching
+
+---
+
+#### 5. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Threat Post  
+**📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
+**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
+
+**📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** ” The vulnerability allows an application to execute arbitrary code with kernel privileges, according to Apple, which, in usual vague fashion, said there is a report that it “may have been actively exploited
+- **✅ Solution:** Share this article: Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack
 
 ---
 
@@ -186,7 +186,21 @@
 
 ### 🔴 Data Breach
 
-#### 1. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
+#### 1. [NIS2 compliance: How to get passwords and MFA right](https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Thu, 18 Dec 2025 10:01:11 -0500  
+
+**📝 Summary:** NIS2 puts identity and access controls under the spotlight, with weak passwords and poor authentication now a compliance risk.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Verizon’s Data Breach Investigation Report found stolen credentials are involved in 44
+
+---
+
+#### 2. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
@@ -203,7 +217,7 @@
 
 ---
 
-#### 2. [Google is discontinuing its dark web report: why it matters](https://www.malwarebytes.com/blog/news/2025/12/google-is-discontinuing-its-dark-web-report-why-it-matters)
+#### 3. [Google is discontinuing its dark web report: why it matters](https://www.malwarebytes.com/blog/news/2025/12/google-is-discontinuing-its-dark-web-report-why-it-matters)
 
 🔴 **CRITICAL**  
 **📡 Source:** Malwarebytes  
@@ -217,7 +231,7 @@
 
 ---
 
-#### 3. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
+#### 4. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
 
 **📡 Source:** Krebs On Security  
 **📅 Published:** Wed, 26 Nov 2025 17:22:36 +0000  
@@ -230,7 +244,7 @@
 
 ---
 
-#### 4. [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
+#### 5. [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
 
 **📡 Source:** Krebs On Security  
 **📅 Published:** Thu, 20 Nov 2025 19:06:51 +0000  
@@ -241,19 +255,6 @@
 
 - **⚠️ Issue:** “We will continue to offer our free Monitor data breach service, which is integrated into Firefox’s credential manager, and we are focused on integrating more of our privacy and security experiences in Firefox, including our VPN, for free,” the advis
 - **✅ Solution:** In March 2024, Mozilla said it was winding down its collaboration with Onerep — an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites — after KrebsOnSecurity revealed On
-
----
-
-#### 5. [5 Real-Word Third-Party Risk Examples](https://www.recordedfuture.com/blog/third-party-risk-examples)
-
-**📡 Source:** Recorded Future  
-**📅 Published:** Tue, 09 Dec 2025 00:00:00 GMT  
-
-**📝 Summary:** Explore 5 third-party risk examples, from vendor data breaches to supply chain attacks and learn how third-party risk management can prevent cyberattacks.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Explore 5 third-party risk examples, from vendor data breaches to supply chain attacks and learn how third-party risk management can prevent cyberattacks
 
 ---
 
@@ -394,22 +395,7 @@
 
 ---
 
-#### 2. [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Wed, 17 Dec 2025 11:09:51 -0500  
-**🔖 CVEs:** CVE-2025-55182  
-
-**📝 Summary:** A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later
-
----
-
-#### 3. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
+#### 2. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -422,6 +408,20 @@
 - **⚠️ Issue:** Unfortunately, players on both sides are flooding the zone with GenAI-powered vulnerability discovery
 - **🔎 Cause:** They can greatly increase execution times, due to the nature of AI responses, and can result in execution failures
 - **✅ Solution:** If the researcher is focused on coordinated disclosure resulting in patches and not on selling to the highest bidder, GenAI is largely benign
+
+---
+
+#### 3. [France arrests Latvian for installing malware on Italian ferry](https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/)
+
+🟠 **HIGH**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Thu, 18 Dec 2025 08:47:59 -0500  
+
+**📝 Summary:** French authorities arrested two crew members of an Italian passenger ferry suspected of infecting the ship with malware that could have enabled them to remotely control the vessel.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** French authorities arrested two crew members of an Italian passenger ferry suspected of infecting the ship with malware that could have enabled them to remotely control the vessel
 
 ---
 
@@ -503,20 +503,7 @@
 
 ---
 
-#### 4. [Your MFA Is Costing You Millions. It Doesn't Have To.](https://www.bleepingcomputer.com/news/security/your-mfa-is-costing-you-millions-it-doesnt-have-to/)
-
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Wed, 17 Dec 2025 09:00:00 -0500  
-
-**📝 Summary:** Passwords and app-based MFA add hidden costs through lost productivity, frequent resets, and risk of phishing and social engineering attacks.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** MFA deployments cost real money but still fail against common attacks
-
----
-
-#### 5. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
+#### 4. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
@@ -529,25 +516,23 @@
 
 ---
 
+#### 5. [Sophos achieves its best-ever results in the MITRE ATT&CK Enterprise 2025 Evaluation](https://news.sophos.com/en-us/2025/12/10/sophos-achieves-its-best-ever-results-in-the-mitre-attck-enterprise-2025-evaluation/)
 
-### 🔴 Ransomware
+**📡 Source:** Sophos News  
+**📅 Published:** Wed, 10 Dec 2025 15:03:30 +0000  
 
-#### 1. [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Wed, 17 Dec 2025 11:09:51 -0500  
-**🔖 CVEs:** CVE-2025-55182  
-
-**📝 Summary:** A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later.
+**📝 Summary:** A major milestone: Sophos XDR delivers 100% detection coverage in the latest ATT&#38;CK Evaluation.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later
+- **⚠️ Issue:** They emulate the tactics, techniques, and procedures (TTPs) used by real-world adversaries to assess each participating vendor’s ability to detect, analyze, and articulate threats in alignment with the MITRE ATT&CK® Framework
 
 ---
 
-#### 2. [New BYOVD loader behind DeadLock ransomware attack](https://blog.talosintelligence.com/byovd-loader-deadlock-ransomware/)
+
+### 🔴 Ransomware
+
+#### 1. [New BYOVD loader behind DeadLock ransomware attack](https://blog.talosintelligence.com/byovd-loader-deadlock-ransomware/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -563,7 +548,7 @@
 
 ---
 
-#### 3. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
+#### 2. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Sophos News  
@@ -577,7 +562,7 @@
 
 ---
 
-#### 4. [Sharpening the knife: GOLD BLADE’s strategic evolution](https://news.sophos.com/en-us/2025/12/05/sharpening-the-knife-gold-blades-strategic-evolution/)
+#### 3. [Sharpening the knife: GOLD BLADE’s strategic evolution](https://news.sophos.com/en-us/2025/12/05/sharpening-the-knife-gold-blades-strategic-evolution/)
 
 🟡 **MEDIUM**  
 **📡 Source:** Sophos News  
@@ -594,7 +579,7 @@
 
 ---
 
-#### 5. [Inside Shanya, a packer-as-a-service fueling modern attacks](https://news.sophos.com/en-us/2025/12/06/inside-shanya-a-packer-as-a-service-fueling-modern-attacks/)
+#### 4. [Inside Shanya, a packer-as-a-service fueling modern attacks](https://news.sophos.com/en-us/2025/12/06/inside-shanya-a-packer-as-a-service-fueling-modern-attacks/)
 
 **📡 Source:** Sophos News  
 **📅 Published:** Sun, 07 Dec 2025 02:57:18 +0000  
@@ -606,6 +591,19 @@
 - **⚠️ Issue:** We have covered packer-as-a-service offerings from the computer underworld in the past, previously dissecting impersonation campaigns and the rise of HeartCrypt, both popular among ransomware groups
 - **🔎 Cause:** We’ll look at its apparent origins, unpack the code, and examine a targeted infection leveraging this tool
 - **✅ Solution:** It should be noted that the ID of the post author, which we’ve obfuscated in Figure 1, was not “Shanya” but another string entirely
+
+---
+
+#### 5. [US seizes E-Note crypto exchange for laundering ransomware payments](https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/)
+
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Thu, 18 Dec 2025 11:13:03 -0500  
+
+**📝 Summary:** Law enforcement has seized the servers and domains of the E-Note cryptocurrency exchange, allegedly used by cybercriminal groups to launder more than $70 million.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** It is believed that the funds originated from ransomware and account takeover attacks, and were subsequently funneled through an international network of “money mules
 
 ---
 
@@ -632,7 +630,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62199, CVE-2025-60274, CVE-2025-62215  
+**🔖 CVEs:** CVE-2025-62199, CVE-2025-62215, CVE-2025-60274  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -665,7 +663,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
 **📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
+**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
 
 **📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
 
@@ -695,7 +693,22 @@
 
 ### 🔴 Vulnerability
 
-#### 1. [CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation](https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html)
+#### 1. [HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution](https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html)
+
+🔴 **CRITICAL**  
+**📡 Source:** The Hacker News  
+**📅 Published:** Thu, 18 Dec 2025 20:09:00 +0530  
+
+**📝 Summary:** Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in remote code execution.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** HPE patched a critical OneView vulnerability with CVSS 10
+- **✅ Solution:** HPE patched a critical OneView vulnerability with CVSS 10
+
+---
+
+#### 2. [CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation](https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html)
 
 🔴 **CRITICAL**  
 **📡 Source:** The Hacker News  
@@ -710,7 +723,7 @@
 
 ---
 
-#### 2. [Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances](https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html)
+#### 3. [Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances](https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html)
 
 🔴 **CRITICAL**  
 **📡 Source:** The Hacker News  
@@ -725,7 +738,7 @@
 
 ---
 
-#### 3. [SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances](https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html)
+#### 4. [SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances](https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html)
 
 🔴 **CRITICAL**  
 **📡 Source:** The Hacker News  
@@ -741,7 +754,7 @@
 
 ---
 
-#### 4. [HPE warns of maximum severity RCE flaw in OneView software](https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/)
+#### 5. [HPE warns of maximum severity RCE flaw in OneView software](https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -755,20 +768,6 @@
 - **⚠️ Issue:** Hewlett Packard Enterprise (HPE) has patched a maximum-severity vulnerability in its HPE OneView software that enables attackers to execute arbitrary code remotely
 - **🔎 Cause:** Hewlett Packard Enterprise (HPE) has patched a maximum-severity vulnerability in its HPE OneView software that enables attackers to execute arbitrary code remotely
 - **✅ Solution:** Hewlett Packard Enterprise (HPE) has patched a maximum-severity vulnerability in its HPE OneView software that enables attackers to execute arbitrary code remotely
-
----
-
-#### 5. [Zeroday Cloud hacking event awards $320,0000 for 11 zero days](https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Wed, 17 Dec 2025 18:09:36 -0500  
-
-**📝 Summary:** The Zeroday Cloud hacking competition in London has awarded researchers $320,000 for demonstrating critical remote code execution vulnerabilities in components used in cloud infrastructure.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** The Linux kernel was compromised through a container escape flaw, which allowed attackers to break isolation between cloud tenants, undermining a core cloud security guarantee
 
 ---
 
