@@ -342,6 +342,74 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Zeroday Cloud hacking event awards $320,0000 for 11 zero days",
+    "link": "https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/",
+    "published": "Wed, 17 Dec 2025 18:09:36 -0500",
+    "summary": "The Zeroday Cloud hacking competition in London has awarded researchers $320,000 for demonstrating critical remote code execution vulnerabilities in components used in cloud infrastructure. [...]",
+    "ai_summary": "The Zeroday Cloud hacking competition in London has awarded researchers $320,000 for demonstrating critical remote code execution vulnerabilities in components used in cloud infrastructure.",
+    "authors": [
+      "Bill Toulas"
+    ],
+    "analysis": {
+      "issue": "The Linux kernel was compromised through a container escape flaw, which allowed attackers to break isolation between cloud tenants, undermining a core cloud security guarantee",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Cloud Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "France arrests suspect tied to cyberattack on Interior Ministry",
+    "link": "https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/",
+    "published": "Wed, 17 Dec 2025 17:20:02 -0500",
+    "summary": "French authorities arrested a 22-year-old suspect on Tuesday for a cyberattack that targeted France's Ministry of the Interior earlier this month. [...]",
+    "ai_summary": "French authorities arrested a 22-year-old suspect on Tuesday for a cyberattack that targeted France's Ministry of the Interior earlier this month.",
+    "authors": [
+      "Lawrence Abrams"
+    ],
+    "analysis": {
+      "issue": "French authorities arrested a 22-year-old suspect on Tuesday for a cyberattack that targeted France's Ministry of the Interior earlier this month",
+      "solution": "\"A person was arrested on December 17, 2025, as part of the investigation opened by the cybercrime unit of the Paris public prosecutor's office, on charges including unauthorized access to an automated personal data processing system implemented by t",
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Amazon: Ongoing cryptomining campaign uses hacked AWS accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/amazon-ongoing-cryptomining-campaign-uses-hacked-aws-accounts/",
+    "published": "Wed, 17 Dec 2025 16:48:33 -0500",
+    "summary": "Amazon's AWS GuardDuty security team is warning of an ongoing crypto-mining campaign that targets its Elastic Compute Cloud (EC2) and Elastic Container Service (ECS) using compromised credentials for Identity and Access Management (IAM). [...]",
+    "ai_summary": "Amazon's AWS GuardDuty security team is warning of an ongoing crypto-mining campaign that targets its Elastic Compute Cloud (EC2) and Elastic Container Service (ECS) using compromised credentials f...",
+    "authors": [
+      "Bill Toulas"
+    ],
+    "analysis": {
+      "issue": "Amazon says that the attacker did not leverage a vulnerability but used valid credentials in customer accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Cloud Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "WhatsApp device linking abused in account hijacking attacks",
     "link": "https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/",
     "published": "Wed, 17 Dec 2025 14:14:30 -0500",
@@ -405,8 +473,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-40602",
-        "CVE-2025-23006"
+        "CVE-2025-23006",
+        "CVE-2025-40602"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -518,18 +586,7 @@
     "ai_summary": "A new campaign dubbed 'GhostPoster' is hiding JavaScript code in the image logo of malicious Firefox extensions counting more than 50,000 downloads, to monitor browser activity and plant a backdoor.",
     "authors": [
       "Bill Toulas"
-    ],
-    "analysis": {
-      "issue": "Koi Security researchers discovered the GhostPoster campaign and identified 17 compromised Firefox extensions that either read the PNG logo to extract and execute the malware loader or download the main payload from the attacker's server",
-      "solution": "It should be noted that the malicious extensions are from popular categories: The researchers say that not all the extensions above use the same payload loading chain, but all of them exhibit the same behavior and communicate with the same infrastruc",
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
+    ]
   },
   {
     "source": "Bleeping Computer",
@@ -540,90 +597,7 @@
     "ai_summary": "The Amazon Threat Intelligence team has disrupted active operations attributed to hackers working for the Russian foreign military intelligence agency, the GRU, who targeted customers' cloud infras...",
     "authors": [
       "Bill Toulas"
-    ],
-    "analysis": {
-      "issue": "The Amazon Threat Intelligence team has disrupted active operations attributed to hackers working for the Russian foreign military intelligence agency, the GRU, who targeted customers' cloud infrastructure",
-      "solution": null,
-      "cause": "Over time, the threat actor pivoted from exploiting vulnerabilities (zero-days and known ones) to leveraging misconfigured edge devices for initial access",
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Texas sues TV makers for taking screenshots of what people watch",
-    "link": "https://www.bleepingcomputer.com/news/security/texas-sues-tv-makers-for-spying-on-users-selling-data-without-consent/",
-    "published": "Tue, 16 Dec 2025 12:29:22 -0500",
-    "summary": "The Texas Attorney General sued five major television manufacturers, accusing them of illegally collecting their users' data by secretly recording what they watch using Automated Content Recognition (ACR) technology. [...]",
-    "ai_summary": "The Texas Attorney General sued five major television manufacturers, accusing them of illegally collecting their users' data by secretly recording what they watch using Automated Content Recognitio...",
-    "authors": [
-      "Sergiu Gatlan"
-    ],
-    "analysis": {
-      "issue": "Texas sues TV makers for taking screenshots of what people watch",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT/Nation-State",
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit newly patched Fortinet auth bypass flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/",
-    "published": "Tue, 16 Dec 2025 10:57:34 -0500",
-    "summary": "Hackers are exploiting critical-severity vulnerabilities affecting multiple Fortinet products to get unauthorized access to admin accounts and steal system configuration files. [...]",
-    "ai_summary": "Hackers are exploiting critical-severity vulnerabilities affecting multiple Fortinet products to get unauthorized access to admin accounts and steal system configuration files.",
-    "authors": [
-      "Bill Toulas"
-    ],
-    "analysis": {
-      "issue": "It is caused by improper verification of cryptographic signatures in SAML messages, allowing an attacker to log in without valid authentication by submitting a maliciously crafted SAML assertion",
-      "solution": null,
-      "cause": "It is caused by improper verification of cryptographic signatures in SAML messages, allowing an attacker to log in without valid authentication by submitting a maliciously crafted SAML assertion",
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-59718",
-        "CVE-2025-59719"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Cyberattack disrupts Venezuelan oil giant PDVSA's operations",
-    "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-venezuelan-oil-giant-pdvsas-operations/",
-    "published": "Tue, 16 Dec 2025 10:19:17 -0500",
-    "summary": "Petróleos de Venezuela (PDVSA), Venezuela's state-owned oil company, was hit by a cyberattack over the weekend that disrupted its export operations. [...]",
-    "ai_summary": "Petróleos de Venezuela (PDVSA), Venezuela's state-owned oil company, was hit by a cyberattack over the weekend that disrupted its export operations.",
-    "authors": [
-      "Sergiu Gatlan"
-    ],
-    "analysis": {
-      "issue": "Petróleos de Venezuela (PDVSA), Venezuela's state-owned oil company, was hit by a cyberattack over the weekend that disrupted its export operations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    ]
   },
   {
     "source": "Krebs On Security",
@@ -665,14 +639,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62557",
-        "CVE-2025-62472",
-        "CVE-2025-59517",
-        "CVE-2025-62221",
-        "CVE-2025-59516",
-        "CVE-2025-62458",
         "CVE-2025-62554",
+        "CVE-2025-62557",
         "CVE-2025-62562",
+        "CVE-2025-59516",
+        "CVE-2025-62221",
+        "CVE-2025-62472",
+        "CVE-2025-62458",
+        "CVE-2025-59517",
         "CVE-2025-62470"
       ],
       "threat_categories": [
@@ -834,8 +808,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-62199",
-        "CVE-2025-60274",
-        "CVE-2025-62215"
+        "CVE-2025-62215",
+        "CVE-2025-60274"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -979,6 +953,32 @@
   },
   {
     "source": "Talos Blog",
+    "title": "Libbiosig, Grassroot DiCoM, Smallstep step-ca vulnerabilities",
+    "link": "https://blog.talosintelligence.com/libbiosig-grassroot-dicom-smallstep-step-ca-vulnerabilities/",
+    "published": "Wed, 17 Dec 2025 21:02:40 GMT",
+    "summary": "<p>Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed vulnerabilities in Biosig Project Libbiosig, Grassroot DiCoM, and Smallstep step-ca.</p><p>The vulnerabilities mentioned in this blog post have been patched by their respective vendors, all in adherence to<a href=\"https://sec.cloudapps.cisco.com/security/center/resources/vendor_vulnerability_policy.html\"><u> Cisco&#x2019;s third-party vulnerability disclosure policy</u></a>, except for Grassroot, as the</p>",
+    "ai_summary": "Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed vulnerabilities in Biosig Project Libbiosig, Grassroot DiCoM, and Smallstep step-ca.",
+    "authors": [
+      "Kri Dontje"
+    ],
+    "analysis": {
+      "issue": "Cisco Talos’ Vulnerability Discovery & Research team recently disclosed vulnerabilities in Biosig Project Libbiosig, Grassroot DiCoM, and Smallstep step-ca",
+      "solution": "The vulnerabilities mentioned in this blog post have been patched by their respective vendors, all in adherence to Cisco’s third-party vulnerability disclosure policy, except for Grassroot, as the DiCoM vulnerabilities are zero-days",
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-66048",
+        "CVE-2025-66043"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
     "title": "UAT-9686 actively targets Cisco Secure Email Gateway and Secure Email and Web Manager",
     "link": "https://blog.talosintelligence.com/uat-9686/",
     "published": "Wed, 17 Dec 2025 16:55:59 GMT",
@@ -1061,12 +1061,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62557",
-        "CVE-2025-62456",
+        "CVE-2025-62554",
         "CVE-2025-62553",
+        "CVE-2025-62557",
         "CVE-2025-62549",
         "CVE-2025-62556",
-        "CVE-2025-62554"
+        "CVE-2025-62456"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1306,31 +1306,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Unleashing the Kraken ransomware group",
-    "link": "https://blog.talosintelligence.com/kraken-ransomware-group/",
-    "published": "Thu, 13 Nov 2025 11:00:38 GMT",
-    "summary": "In August 2025, Cisco Talos observed big-game hunting and double extortion attacks carried out by Kraken, a Russian-speaking group that has emerged from the remnants of the HelloKitty ransomware cartel.",
-    "ai_summary": "In August 2025, Cisco Talos observed big-game hunting and double extortion attacks carried out by Kraken, a Russian-speaking group that has emerged from the remnants of the HelloKitty ransomware ca...",
-    "authors": [
-      "Chetan Raghuprasad"
-    ],
-    "analysis": {
-      "issue": "In August 2025, Cisco Talos Incident Response (Talos IR) observed in one instance that the Kraken ransomware actor gained initial access to the victim's machine by exploiting an existing vulnerability in the SMB service on servers exposed to the inte",
-      "solution": null,
-      "cause": "In August 2025, Cisco Talos Incident Response (Talos IR) observed in one instance that the Kraken ransomware actor gained initial access to the victim's machine by exploiting an existing vulnerability in the SMB service on servers exposed to the inte",
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability",
-        "Cloud Security"
       ]
     }
   },
@@ -1830,8 +1805,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
