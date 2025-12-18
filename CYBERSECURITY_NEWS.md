@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-18 04:42:39 UTC
+**Last Updated:** 2025-12-18 08:36:58 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -137,7 +137,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Wed, 17 Dec 2025 12:44:18 -0500  
-**🔖 CVEs:** CVE-2025-40602, CVE-2025-23006  
+**🔖 CVEs:** CVE-2025-23006, CVE-2025-40602  
 
 **📝 Summary:** SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges.
 
@@ -154,7 +154,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62458, CVE-2025-62470, CVE-2025-62557, CVE-2025-62562, CVE-2025-62221, CVE-2025-62554, CVE-2025-62472, CVE-2025-59517, CVE-2025-59516  
+**🔖 CVEs:** CVE-2025-59516, CVE-2025-62458, CVE-2025-62562, CVE-2025-62557, CVE-2025-62472, CVE-2025-62470, CVE-2025-59517, CVE-2025-62221, CVE-2025-62554  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -612,12 +612,27 @@
 
 ### 🔴 Supply Chain
 
-#### 1. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
+#### 1. [CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation](https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html)
+
+🔴 **CRITICAL**  
+**📡 Source:** The Hacker News  
+**📅 Published:** Thu, 18 Dec 2025 10:31:00 +0530  
+
+**📝 Summary:** Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting ASUS Live Update to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** CISA adds a critical ASUS Live Update vulnerability to its KEV list, citing active exploitation linked to a past supply chain attack
+- **✅ Solution:** CISA adds a critical ASUS Live Update vulnerability to its KEV list, citing active exploitation linked to a past supply chain attack
+
+---
+
+#### 2. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62199, CVE-2025-60274, CVE-2025-62215  
+**🔖 CVEs:** CVE-2025-62199, CVE-2025-62215, CVE-2025-60274  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -629,7 +644,7 @@
 
 ---
 
-#### 2. [Libbiosig, Grassroot DiCoM, Smallstep step-ca vulnerabilities](https://blog.talosintelligence.com/libbiosig-grassroot-dicom-smallstep-step-ca-vulnerabilities/)
+#### 3. [Libbiosig, Grassroot DiCoM, Smallstep step-ca vulnerabilities](https://blog.talosintelligence.com/libbiosig-grassroot-dicom-smallstep-step-ca-vulnerabilities/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -645,7 +660,7 @@
 
 ---
 
-#### 3. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
+#### 4. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
@@ -661,7 +676,7 @@
 
 ---
 
-#### 4. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
+#### 5. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Wed, 26 Nov 2025 18:36:06 GMT  
@@ -677,23 +692,40 @@
 
 ---
 
-#### 5. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-
-**📡 Source:** Krebs On Security  
-**📅 Published:** Tue, 16 Dec 2025 14:14:48 +0000  
-
-**📝 Summary:** Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of "parked" domains -- mostly exp...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** A lookalike domain to the FBI Internet Crime Complaint Center website, returned a non-threatening parking page (left) whereas a mobile user was instantly directed to deceptive content in October 2025 (right)
-
----
-
 
 ### 🔴 Vulnerability
 
-#### 1. [SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances](https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html)
+#### 1. [CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation](https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html)
+
+🔴 **CRITICAL**  
+**📡 Source:** The Hacker News  
+**📅 Published:** Thu, 18 Dec 2025 10:31:00 +0530  
+
+**📝 Summary:** Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting ASUS Live Update to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** CISA adds a critical ASUS Live Update vulnerability to its KEV list, citing active exploitation linked to a past supply chain attack
+- **✅ Solution:** CISA adds a critical ASUS Live Update vulnerability to its KEV list, citing active exploitation linked to a past supply chain attack
+
+---
+
+#### 2. [Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances](https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html)
+
+🔴 **CRITICAL**  
+**📡 Source:** The Hacker News  
+**📅 Published:** Thu, 18 Dec 2025 09:40:00 +0530  
+
+**📝 Summary:** Cisco has alerted users to a maximum-severity zero-day flaw in Cisco AsyncOS software that has been actively exploited by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686 in ...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** 0 zero-day in AsyncOS actively exploited to gain root access on email security appliances
+- **✅ Solution:** Cisco confirms an unpatched CVSS 10
+
+---
+
+#### 3. [SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances](https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html)
 
 🔴 **CRITICAL**  
 **📡 Source:** The Hacker News  
@@ -709,7 +741,7 @@
 
 ---
 
-#### 2. [React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors](https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html)
+#### 4. [React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors](https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html)
 
 🔴 **CRITICAL**  
 **📡 Source:** The Hacker News  
@@ -724,7 +756,7 @@
 
 ---
 
-#### 3. [Zeroday Cloud hacking event awards $320,0000 for 11 zero days](https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/)
+#### 5. [Zeroday Cloud hacking event awards $320,0000 for 11 zero days](https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -735,40 +767,6 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** The Linux kernel was compromised through a container escape flaw, which allowed attackers to break isolation between cloud tenants, undermining a core cloud security guarantee
-
----
-
-#### 4. [Cisco warns of unpatched AsyncOS zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Wed, 17 Dec 2025 13:45:36 -0500  
-**🔖 CVEs:** CVE-2025-20393  
-
-**📝 Summary:** ​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) app...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Cisco Talos, the company's threat intelligence research team, believes a Chinese threat group tracked as UAT-9686 is behind attacks abusing this security flaw to execute arbitrary commands with root and deploy AquaShell persistent backdoors, AquaTunn
-- **🔎 Cause:** Cisco Talos, the company's threat intelligence research team, believes a Chinese threat group tracked as UAT-9686 is behind attacks abusing this security flaw to execute arbitrary commands with root and deploy AquaShell persistent backdoors, AquaTunn
-- **✅ Solution:** ​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) appliances
-
----
-
-#### 5. [Sonicwall warns of new SMA1000 zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Wed, 17 Dec 2025 12:44:18 -0500  
-**🔖 CVEs:** CVE-2025-40602, CVE-2025-23006  
-
-**📝 Summary:** SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges
-- **🔎 Cause:** SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges
-- **✅ Solution:** SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges
 
 ---
 

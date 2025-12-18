@@ -1,6 +1,51 @@
 [
   {
     "source": "The Hacker News",
+    "title": "CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation",
+    "link": "https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html",
+    "published": "Thu, 18 Dec 2025 10:31:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting ASUS Live Update to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2025-59374 (CVSS score: 9.3), has been described as an \"embedded malicious code vulnerability\" introduced by means of a supply chain compromise",
+    "ai_summary": "Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting ASUS Live Update to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active...",
+    "authors": [
+      "The Hacker News"
+    ],
+    "analysis": {
+      "issue": "CISA adds a critical ASUS Live Update vulnerability to its KEV list, citing active exploitation linked to a past supply chain attack",
+      "solution": "CISA adds a critical ASUS Live Update vulnerability to its KEV list, citing active exploitation linked to a past supply chain attack",
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances",
+    "link": "https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html",
+    "published": "Thu, 18 Dec 2025 09:40:00 +0530",
+    "summary": "Cisco has alerted users to a maximum-severity zero-day flaw in Cisco AsyncOS software that has been actively exploited by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686 in attacks targeting Cisco Secure Email Gateway and Cisco Secure Email and Web Manager.\nThe networking equipment major said it became aware of the intrusion campaign on December 10, 2025, and that it",
+    "ai_summary": "Cisco has alerted users to a maximum-severity zero-day flaw in Cisco AsyncOS software that has been actively exploited by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686 in ...",
+    "authors": [
+      "The Hacker News"
+    ],
+    "analysis": {
+      "issue": "0 zero-day in AsyncOS actively exploited to gain root access on email security appliances",
+      "solution": "Cisco confirms an unpatched CVSS 10",
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances",
     "link": "https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html",
     "published": "Wed, 17 Dec 2025 23:47:00 +0530",
@@ -297,50 +342,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Google to Shut Down Dark Web Monitoring Tool in February 2026",
-    "link": "https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html",
-    "published": "Tue, 16 Dec 2025 11:32:00 +0530",
-    "summary": "Google has announced that it's discontinuing its dark web report tool in February 2026, less than two years after it was launched as a way for users to monitor if their personal information is found on the dark web.\nTo that end, scans for new dark web breaches will be stopped on January 15, 2026, and the feature will cease to exist effective February 16, 2026.\n\"While the report offered general",
-    "ai_summary": "Google has announced that it's discontinuing its dark web report tool in February 2026, less than two years after it was launched as a way for users to monitor if their personal information is foun...",
-    "authors": [
-      "The Hacker News"
-    ],
-    "analysis": {
-      "issue": "Google will shut down its Dark Web Report in February 2026, ending breach scans and deleting user data to refocus on actionable security tools",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats",
-    "link": "https://thehackernews.com/2025/12/featured-chrome-browser-extension.html",
-    "published": "Mon, 15 Dec 2025 23:16:00 +0530",
-    "summary": "A Google Chrome extension with a \"Featured\" badge and six million users has been observed silently gathering every prompt entered by users into artificial intelligence (AI)-powered chatbots like OpenAI ChatGPT, Anthropic Claude, Microsoft Copilot, DeepSeek, Google Gemini, xAI Grok, Meta AI, and Perplexity.\nThe extension in question is Urban VPN Proxy, which has a 4.7 rating on the Google Chrome",
-    "ai_summary": "A Google Chrome extension with a \"Featured\" badge and six million users has been observed silently gathering every prompt entered by users into artificial intelligence (AI)-powered chatbots like Op...",
-    "authors": [
-      "The Hacker News"
-    ],
-    "analysis": {
-      "issue": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Zeroday Cloud hacking event awards $320,0000 for 11 zero days",
     "link": "https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/",
@@ -473,8 +474,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-40602",
-        "CVE-2025-23006"
+        "CVE-2025-23006",
+        "CVE-2025-40602"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -639,15 +640,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-59516",
         "CVE-2025-62458",
-        "CVE-2025-62470",
-        "CVE-2025-62557",
         "CVE-2025-62562",
-        "CVE-2025-62221",
-        "CVE-2025-62554",
+        "CVE-2025-62557",
         "CVE-2025-62472",
+        "CVE-2025-62470",
         "CVE-2025-59517",
-        "CVE-2025-59516"
+        "CVE-2025-62221",
+        "CVE-2025-62554"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -808,8 +809,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-62199",
-        "CVE-2025-60274",
-        "CVE-2025-62215"
+        "CVE-2025-62215",
+        "CVE-2025-60274"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -843,6 +844,17 @@
   },
   {
     "source": "Security Week",
+    "title": "China-Linked Hackers Exploiting Zero-Day in Cisco Security Gear",
+    "link": "https://www.securityweek.com/china-linked-hackers-exploiting-zero-day-in-cisco-security-gear/",
+    "published": "Thu, 18 Dec 2025 07:12:31 +0000",
+    "summary": "<p>The critical zero-day is tracked as CVE-2025-20393 and it impacts Secure Email Gateway and Secure Email and Web Manager appliances.</p>\n<p>The post <a href=\"https://www.securityweek.com/china-linked-hackers-exploiting-zero-day-in-cisco-security-gear/\">China-Linked Hackers Exploiting Zero-Day in Cisco Security Gear</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "ai_summary": "The critical zero-day is tracked as CVE-2025-20393 and it impacts Secure Email Gateway and Secure Email and Web Manager appliances.",
+    "authors": [
+      "Eduard Kovacs"
+    ]
+  },
+  {
+    "source": "Security Week",
     "title": "NMFTA Warns of Surge and Sophistication of Cyber-Enabled Cargo Theft",
     "link": "https://www.securityweek.com/nmfta-warns-of-surge-and-sophistication-of-cyber-enabled-cargo-theft/",
     "published": "Wed, 17 Dec 2025 13:39:51 +0000",
@@ -854,10 +866,10 @@
   },
   {
     "source": "Security Week",
-    "title": "Hacker Conversations: Alex Hall, One-time Fraudster",
+    "title": "Hacker Conversations: Alex Hall, One-Time Fraudster",
     "link": "https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/",
     "published": "Wed, 17 Dec 2025 13:00:00 +0000",
-    "summary": "<p>A first-person journey from undetected fraud to defending trust—how life events, neurodiversity, and hard-won insight shaped a former fraudster into a fraud fighter.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/\">Hacker Conversations: Alex Hall, One-time Fraudster</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "summary": "<p>A first-person journey from undetected fraud to defending trust—how life events, neurodiversity, and hard-won insight shaped a former fraudster into a fraud fighter.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/\">Hacker Conversations: Alex Hall, One-Time Fraudster</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "ai_summary": "A first-person journey from undetected fraud to defending trust—how life events, neurodiversity, and hard-won insight shaped a former fraudster into a fraud fighter.",
     "authors": [
       "Kevin Townsend"
@@ -938,17 +950,6 @@
     "ai_summary": "From open source libraries to AI-powered coding assistants, speed-driven development is introducing new third-party risks that threat actors are increasingly exploiting.",
     "authors": [
       "Nadir Izrael"
-    ]
-  },
-  {
-    "source": "Security Week",
-    "title": "CISO Communities – Cybersecurity’s Secret Weapon",
-    "link": "https://www.securityweek.com/ciso-communities-cybersecuritys-secret-weapon/",
-    "published": "Tue, 16 Dec 2025 15:00:00 +0000",
-    "summary": "<p>Closed CISO communities act as an information exchange, advice center, pressure valve, and safe haven from critical oversight.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-communities-cybersecuritys-secret-weapon/\">CISO Communities – Cybersecurity’s Secret Weapon</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "ai_summary": "Closed CISO communities act as an information exchange, advice center, pressure valve, and safe haven from critical oversight.",
-    "authors": [
-      "Kevin Townsend"
     ]
   },
   {
@@ -1062,11 +1063,11 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-62553",
-        "CVE-2025-62556",
+        "CVE-2025-62549",
         "CVE-2025-62557",
         "CVE-2025-62456",
-        "CVE-2025-62554",
-        "CVE-2025-62549"
+        "CVE-2025-62556",
+        "CVE-2025-62554"
       ],
       "threat_categories": [
         "Vulnerability"
