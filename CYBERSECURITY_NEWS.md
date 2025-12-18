@@ -1,30 +1,13 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-18 16:37:35 UTC
+**Last Updated:** 2025-12-18 20:32:25 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
 
 ### 🔴 APT/Nation-State
 
-#### 1. [Cisco warns of unpatched AsyncOS zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Wed, 17 Dec 2025 13:45:36 -0500  
-**🔖 CVEs:** CVE-2025-20393  
-
-**📝 Summary:** ​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) app...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Cisco Talos, the company's threat intelligence research team, believes a Chinese threat group tracked as UAT-9686 is behind attacks abusing this security flaw to execute arbitrary commands with root and deploy AquaShell persistent backdoors, AquaTunn
-- **🔎 Cause:** Cisco Talos, the company's threat intelligence research team, believes a Chinese threat group tracked as UAT-9686 is behind attacks abusing this security flaw to execute arbitrary commands with root and deploy AquaShell persistent backdoors, AquaTunn
-- **✅ Solution:** ​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) appliances
-
----
-
-#### 2. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
+#### 1. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -40,7 +23,7 @@
 
 ---
 
-#### 3. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
+#### 2. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
@@ -57,7 +40,7 @@
 
 ---
 
-#### 4. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
+#### 3. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Sophos News  
@@ -68,6 +51,20 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** In mid-August 2025, Counter Threat Unit™ (CTU) researchers identified the use of the legitimate Velociraptor digital forensics and incident response (DFIR) tool in likely ransomware precursor activity
+
+---
+
+#### 4. [Adios 2025, you won’t be missed](https://blog.talosintelligence.com/adios-2025-you-wont-be-missed/)
+
+🟡 **MEDIUM**  
+**📡 Source:** Talos Blog  
+**📅 Published:** Thu, 18 Dec 2025 19:00:31 GMT  
+
+**📝 Summary:** This week, Joe laments on 2025, and what we can think of in 2026 in the wild world of cybersecurity.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Welcome to this week’s edition of the Threat Source newsletter
 
 ---
 
@@ -89,7 +86,23 @@
 
 ### 🔴 Cloud Security
 
-#### 1. [Zeroday Cloud hacking event awards $320,0000 for 11 zero days](https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/)
+#### 1. [Clop ransomware targets Gladinet CentreStack in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Thu, 18 Dec 2025 15:16:55 -0500  
+
+**📝 Summary:** The Clop ransomware gang is targeting Internet-exposed Gladinet CentreStack file servers in a new data theft extortion campaign.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** However, there is currently no information on the vulnerability Clop is exploiting to hack into CentreStack servers
+- **🔎 Cause:** However, there is currently no information on the vulnerability Clop is exploiting to hack into CentreStack servers
+- **✅ Solution:** It is unclear whether this is a zero-day flaw or a previously addressed bug that the owners of the hacked systems have yet to patch
+
+---
+
+#### 2. [Zeroday Cloud hacking event awards $320,0000 for 11 zero days](https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -103,12 +116,12 @@
 
 ---
 
-#### 2. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+#### 3. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62554, CVE-2025-62221, CVE-2025-62562, CVE-2025-62458, CVE-2025-62470, CVE-2025-62472, CVE-2025-59517, CVE-2025-62557, CVE-2025-59516  
+**🔖 CVEs:** CVE-2025-59516, CVE-2025-62557, CVE-2025-62554, CVE-2025-62562, CVE-2025-62470, CVE-2025-62458, CVE-2025-62221, CVE-2025-59517, CVE-2025-62472  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -119,12 +132,12 @@
 
 ---
 
-#### 3. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
+#### 4. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62199, CVE-2025-62215, CVE-2025-60274  
+**🔖 CVEs:** CVE-2025-62215, CVE-2025-60274, CVE-2025-62199  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -136,7 +149,7 @@
 
 ---
 
-#### 4. [November 2025 CVE Landscape: 10 Critical Vulnerabilities Show 69% Drop from October](https://www.recordedfuture.com/blog/november-2025-cve-landscape)
+#### 5. [November 2025 CVE Landscape: 10 Critical Vulnerabilities Show 69% Drop from October](https://www.recordedfuture.com/blog/november-2025-cve-landscape)
 
 🔴 **CRITICAL**  
 **📡 Source:** Recorded Future  
@@ -148,22 +161,6 @@
 
 - **⚠️ Issue:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching
 - **✅ Solution:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching
-
----
-
-#### 5. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Threat Post  
-**📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
-
-**📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** ” The vulnerability allows an application to execute arbitrary code with kernel privileges, according to Apple, which, in usual vague fashion, said there is a report that it “may have been actively exploited
-- **✅ Solution:** Share this article: Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack
 
 ---
 
@@ -378,24 +375,7 @@
 
 ### 🔴 Malware
 
-#### 1. [Cisco warns of unpatched AsyncOS zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Wed, 17 Dec 2025 13:45:36 -0500  
-**🔖 CVEs:** CVE-2025-20393  
-
-**📝 Summary:** ​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) app...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Cisco Talos, the company's threat intelligence research team, believes a Chinese threat group tracked as UAT-9686 is behind attacks abusing this security flaw to execute arbitrary commands with root and deploy AquaShell persistent backdoors, AquaTunn
-- **🔎 Cause:** Cisco Talos, the company's threat intelligence research team, believes a Chinese threat group tracked as UAT-9686 is behind attacks abusing this security flaw to execute arbitrary commands with root and deploy AquaShell persistent backdoors, AquaTunn
-- **✅ Solution:** ​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) appliances
-
----
-
-#### 2. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
+#### 1. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -411,7 +391,7 @@
 
 ---
 
-#### 3. [France arrests Latvian for installing malware on Italian ferry](https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/)
+#### 2. [France arrests Latvian for installing malware on Italian ferry](https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/)
 
 🟠 **HIGH**  
 **📡 Source:** Bleeping Computer  
@@ -425,7 +405,7 @@
 
 ---
 
-#### 4. [UAT-9686 actively targets Cisco Secure Email Gateway and Secure Email and Web Manager](https://blog.talosintelligence.com/uat-9686/)
+#### 3. [UAT-9686 actively targets Cisco Secure Email Gateway and Secure Email and Web Manager](https://blog.talosintelligence.com/uat-9686/)
 
 🟡 **MEDIUM**  
 **📡 Source:** Talos Blog  
@@ -440,7 +420,7 @@
 
 ---
 
-#### 5. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+#### 4. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
 
 **📡 Source:** Krebs On Security  
 **📅 Published:** Mon, 24 Nov 2025 18:44:52 +0000  
@@ -450,6 +430,19 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** Is Your Android TV Streaming Box Part of a Botnet?
+
+---
+
+#### 5. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
+
+**📡 Source:** Talos Blog  
+**📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
+
+**📝 Summary:** Bill explores how our biggest mistakes can be the catalysts for growth that we need.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Adversaries are using GenAI for coding, phishing, evasion, and vulnerability discovery, especially as uncensored models become more widely available
 
 ---
 
@@ -486,24 +479,7 @@
 
 ---
 
-#### 3. [Sharpening the knife: GOLD BLADE’s strategic evolution](https://news.sophos.com/en-us/2025/12/05/sharpening-the-knife-gold-blades-strategic-evolution/)
-
-🟡 **MEDIUM**  
-**📡 Source:** Sophos News  
-**📅 Published:** Fri, 05 Dec 2025 13:24:37 +0000  
-
-**📝 Summary:** Updates include novel abuse of recruitment platforms, modified infection chains, and expansion into a hybrid operation that combines data theft and ransomware deployment.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Between February 2024 and August 2025, Sophos analysts investigated nearly 40 intrusions related to  STAC6565, a campaign the analysts assess with high confidence is associated with the GOLD BLADE threat group (also known as RedCurl, RedWolf, and Ear
-- **🔎 Cause:** GOLD BLADE continually refines its intrusion methods and has shifted from traditional phishing emails to abusing recruitment platforms to deliver weaponized resumes
-- **✅ Solution:** GOLD BLADE’s ability to cycle through delivery methods and refine its techniques over time reflects a professionalized operation that treats intrusions as a core service requiring routine updates to maintain effectiveness
-- **⏰ Timeline:** Observed GOLD BLADE activity from August 2024 through August 2025 Analysis of STAC6565 victimology suggests that GOLD BLADE h
-
----
-
-#### 4. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
+#### 3. [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 04 Dec 2025 19:00:21 GMT  
@@ -516,7 +492,7 @@
 
 ---
 
-#### 5. [Sophos achieves its best-ever results in the MITRE ATT&CK Enterprise 2025 Evaluation](https://news.sophos.com/en-us/2025/12/10/sophos-achieves-its-best-ever-results-in-the-mitre-attck-enterprise-2025-evaluation/)
+#### 4. [Sophos achieves its best-ever results in the MITRE ATT&CK Enterprise 2025 Evaluation](https://news.sophos.com/en-us/2025/12/10/sophos-achieves-its-best-ever-results-in-the-mitre-attck-enterprise-2025-evaluation/)
 
 **📡 Source:** Sophos News  
 **📅 Published:** Wed, 10 Dec 2025 15:03:30 +0000  
@@ -529,10 +505,39 @@
 
 ---
 
+#### 5. [Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App](https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html)
+
+**📡 Source:** The Hacker News  
+**📅 Published:** Thu, 18 Dec 2025 13:13:00 +0530  
+
+**📝 Summary:** The North Korean threat actor known as Kimsuky has been linked to a new campaign that distributes a new variant of Android malware called DocSwap via QR codes hosted on phishing sites mimicking Seo...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** North Korean group Kimsuky uses QR code phishing sites posing as CJ Logistics to spread DocSwap Android malware with RAT capabilities
+
+---
+
 
 ### 🔴 Ransomware
 
-#### 1. [New BYOVD loader behind DeadLock ransomware attack](https://blog.talosintelligence.com/byovd-loader-deadlock-ransomware/)
+#### 1. [Clop ransomware targets Gladinet CentreStack in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Thu, 18 Dec 2025 15:16:55 -0500  
+
+**📝 Summary:** The Clop ransomware gang is targeting Internet-exposed Gladinet CentreStack file servers in a new data theft extortion campaign.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** However, there is currently no information on the vulnerability Clop is exploiting to hack into CentreStack servers
+- **🔎 Cause:** However, there is currently no information on the vulnerability Clop is exploiting to hack into CentreStack servers
+- **✅ Solution:** It is unclear whether this is a zero-day flaw or a previously addressed bug that the owners of the hacked systems have yet to patch
+
+---
+
+#### 2. [New BYOVD loader behind DeadLock ransomware attack](https://blog.talosintelligence.com/byovd-loader-deadlock-ransomware/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -548,7 +553,7 @@
 
 ---
 
-#### 2. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
+#### 3. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Sophos News  
@@ -562,48 +567,31 @@
 
 ---
 
-#### 3. [Sharpening the knife: GOLD BLADE’s strategic evolution](https://news.sophos.com/en-us/2025/12/05/sharpening-the-knife-gold-blades-strategic-evolution/)
+#### 4. [Adios 2025, you won’t be missed](https://blog.talosintelligence.com/adios-2025-you-wont-be-missed/)
 
 🟡 **MEDIUM**  
-**📡 Source:** Sophos News  
-**📅 Published:** Fri, 05 Dec 2025 13:24:37 +0000  
+**📡 Source:** Talos Blog  
+**📅 Published:** Thu, 18 Dec 2025 19:00:31 GMT  
 
-**📝 Summary:** Updates include novel abuse of recruitment platforms, modified infection chains, and expansion into a hybrid operation that combines data theft and ransomware deployment.
+**📝 Summary:** This week, Joe laments on 2025, and what we can think of in 2026 in the wild world of cybersecurity.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Between February 2024 and August 2025, Sophos analysts investigated nearly 40 intrusions related to  STAC6565, a campaign the analysts assess with high confidence is associated with the GOLD BLADE threat group (also known as RedCurl, RedWolf, and Ear
-- **🔎 Cause:** GOLD BLADE continually refines its intrusion methods and has shifted from traditional phishing emails to abusing recruitment platforms to deliver weaponized resumes
-- **✅ Solution:** GOLD BLADE’s ability to cycle through delivery methods and refine its techniques over time reflects a professionalized operation that treats intrusions as a core service requiring routine updates to maintain effectiveness
-- **⏰ Timeline:** Observed GOLD BLADE activity from August 2024 through August 2025 Analysis of STAC6565 victimology suggests that GOLD BLADE h
+- **⚠️ Issue:** Welcome to this week’s edition of the Threat Source newsletter
 
 ---
 
-#### 4. [Inside Shanya, a packer-as-a-service fueling modern attacks](https://news.sophos.com/en-us/2025/12/06/inside-shanya-a-packer-as-a-service-fueling-modern-attacks/)
+#### 5. [I am not a robot: ClickFix used to deploy StealC and Qilin](https://news.sophos.com/en-us/2025/12/18/i-am-not-a-robot-clickfix-used-to-deploy-stealc-and-qilin/)
 
 **📡 Source:** Sophos News  
-**📅 Published:** Sun, 07 Dec 2025 02:57:18 +0000  
+**📅 Published:** Thu, 18 Dec 2025 19:15:41 +0000  
 
-**📝 Summary:** The ransomware scene gains another would-be EDR killer.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** We have covered packer-as-a-service offerings from the computer underworld in the past, previously dissecting impersonation campaigns and the rise of HeartCrypt, both popular among ransomware groups
-- **🔎 Cause:** We’ll look at its apparent origins, unpack the code, and examine a targeted infection leveraging this tool
-- **✅ Solution:** It should be noted that the ID of the post author, which we’ve obfuscated in Figure 1, was not “Shanya” but another string entirely
-
----
-
-#### 5. [US seizes E-Note crypto exchange for laundering ransomware payments](https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/)
-
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Thu, 18 Dec 2025 11:13:03 -0500  
-
-**📝 Summary:** Law enforcement has seized the servers and domains of the E-Note cryptocurrency exchange, allegedly used by cybercriminal groups to launder more than $70 million.
+**📝 Summary:** The fake human verification process led to infostealer and ransomware infections.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** It is believed that the funds originated from ransomware and account takeover attacks, and were subsequently funneled through an international network of “money mules
+- **⚠️ Issue:** ClickFix is an increasingly common tactic used by threat actors to install malicious software on victims’ devices
+- **✅ Solution:** ClickFix is an increasingly common tactic used by threat actors to install malicious software on victims’ devices
 
 ---
 
@@ -630,7 +618,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62199, CVE-2025-62215, CVE-2025-60274  
+**🔖 CVEs:** CVE-2025-62215, CVE-2025-60274, CVE-2025-62199  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -663,7 +651,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
 **📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
+**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
 
 **📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
 
@@ -754,20 +742,19 @@
 
 ---
 
-#### 5. [HPE warns of maximum severity RCE flaw in OneView software](https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/)
+#### 5. [Clop ransomware targets Gladinet CentreStack in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
-**📅 Published:** Thu, 18 Dec 2025 06:35:53 -0500  
-**🔖 CVEs:** CVE-2025-37164  
+**📅 Published:** Thu, 18 Dec 2025 15:16:55 -0500  
 
-**📝 Summary:** Hewlett Packard Enterprise (HPE) has patched a maximum-severity vulnerability in its HPE OneView software that enables attackers to execute arbitrary code remotely.
+**📝 Summary:** The Clop ransomware gang is targeting Internet-exposed Gladinet CentreStack file servers in a new data theft extortion campaign.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Hewlett Packard Enterprise (HPE) has patched a maximum-severity vulnerability in its HPE OneView software that enables attackers to execute arbitrary code remotely
-- **🔎 Cause:** Hewlett Packard Enterprise (HPE) has patched a maximum-severity vulnerability in its HPE OneView software that enables attackers to execute arbitrary code remotely
-- **✅ Solution:** Hewlett Packard Enterprise (HPE) has patched a maximum-severity vulnerability in its HPE OneView software that enables attackers to execute arbitrary code remotely
+- **⚠️ Issue:** However, there is currently no information on the vulnerability Clop is exploiting to hack into CentreStack servers
+- **🔎 Cause:** However, there is currently no information on the vulnerability Clop is exploiting to hack into CentreStack servers
+- **✅ Solution:** It is unclear whether this is a zero-day flaw or a previously addressed bug that the owners of the hacked systems have yet to patch
 
 ---
 
