@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-18 08:36:58 UTC
+**Last Updated:** 2025-12-18 12:48:45 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -103,22 +103,7 @@
 
 ---
 
-#### 2. [React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors](https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html)
-
-🔴 **CRITICAL**  
-**📡 Source:** The Hacker News  
-**📅 Published:** Tue, 16 Dec 2025 13:51:00 +0530  
-**🔖 CVEs:** CVE-2025-55182  
-
-**📝 Summary:** The security vulnerability known as React2Shell is being exploited by threat actors to deliver malware families like KSwapDoor and ZnDoor, according to findings from Palo Alto Networks Unit 42 and ...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** React2Shell vulnerability CVE-2025-55182 is actively exploited to deploy Linux malware, run commands, and steal cloud credentials at scale
-
----
-
-#### 3. [Zeroday Cloud hacking event awards $320,0000 for 11 zero days](https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/)
+#### 2. [Zeroday Cloud hacking event awards $320,0000 for 11 zero days](https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -132,7 +117,7 @@
 
 ---
 
-#### 4. [Sonicwall warns of new SMA1000 zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/)
+#### 3. [Sonicwall warns of new SMA1000 zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -149,12 +134,12 @@
 
 ---
 
-#### 5. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+#### 4. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-59516, CVE-2025-62458, CVE-2025-62562, CVE-2025-62557, CVE-2025-62472, CVE-2025-62470, CVE-2025-59517, CVE-2025-62221, CVE-2025-62554  
+**🔖 CVEs:** CVE-2025-62472, CVE-2025-59517, CVE-2025-62562, CVE-2025-62221, CVE-2025-59516, CVE-2025-62557, CVE-2025-62554, CVE-2025-62470, CVE-2025-62458  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -162,6 +147,23 @@
 
 - **⚠️ Issue:** The zero-day flaw patched today is CVE-2025-62221, a privilege escalation vulnerability affecting Windows 10 and later editions
 - **✅ Solution:** This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities
+
+---
+
+#### 5. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Krebs On Security  
+**📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
+**🔖 CVEs:** CVE-2025-62199, CVE-2025-60274, CVE-2025-62215  
+
+**📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** “However, exploiting this specific vulnerability is likely to be relatively straightforward, given the existence of prior similar vulnerabilities
+- **🔎 Cause:** Despite the flaw’s zero-day status, Microsoft has assigned it an “important” rating rather than critical, because exploiting it requires an attacker to already have access to the target’s device
+- **✅ Solution:** “The patch for this should be an organization’s highest priority,” McCarthy said
 
 ---
 
@@ -375,22 +377,7 @@
 
 ### 🔴 Malware
 
-#### 1. [React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors](https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html)
-
-🔴 **CRITICAL**  
-**📡 Source:** The Hacker News  
-**📅 Published:** Tue, 16 Dec 2025 13:51:00 +0530  
-**🔖 CVEs:** CVE-2025-55182  
-
-**📝 Summary:** The security vulnerability known as React2Shell is being exploited by threat actors to deliver malware families like KSwapDoor and ZnDoor, according to findings from Palo Alto Networks Unit 42 and ...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** React2Shell vulnerability CVE-2025-55182 is actively exploited to deploy Linux malware, run commands, and steal cloud credentials at scale
-
----
-
-#### 2. [Cisco warns of unpatched AsyncOS zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/)
+#### 1. [Cisco warns of unpatched AsyncOS zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -407,7 +394,7 @@
 
 ---
 
-#### 3. [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
+#### 2. [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -422,7 +409,7 @@
 
 ---
 
-#### 4. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
+#### 3. [Spy vs. spy: How GenAI is powering defenders and attackers](https://blog.talosintelligence.com/spy-vs-spy-how-genai-is-powering-defenders-and-attackers/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -438,7 +425,7 @@
 
 ---
 
-#### 5. [UAT-9686 actively targets Cisco Secure Email Gateway and Secure Email and Web Manager](https://blog.talosintelligence.com/uat-9686/)
+#### 4. [UAT-9686 actively targets Cisco Secure Email Gateway and Secure Email and Web Manager](https://blog.talosintelligence.com/uat-9686/)
 
 🟡 **MEDIUM**  
 **📡 Source:** Talos Blog  
@@ -450,6 +437,19 @@
 
 - **⚠️ Issue:** Talos assesses with moderate confidence that this activity is being conducted by a Chinese-nexus threat actor, which we track as UAT-9686
 - **✅ Solution:** Additional recommendations specific to Cisco are available here
+
+---
+
+#### 5. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+
+**📡 Source:** Krebs On Security  
+**📅 Published:** Mon, 24 Nov 2025 18:44:52 +0000  
+
+**📝 Summary:** On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming ...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Is Your Android TV Streaming Box Part of a Botnet?
 
 ---
 
@@ -632,7 +632,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62199, CVE-2025-62215, CVE-2025-60274  
+**🔖 CVEs:** CVE-2025-62199, CVE-2025-60274, CVE-2025-62215  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -649,7 +649,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
 **📅 Published:** Wed, 17 Dec 2025 21:02:40 GMT  
-**🔖 CVEs:** CVE-2025-66043, CVE-2025-66048  
+**🔖 CVEs:** CVE-2025-66048, CVE-2025-66043  
 
 **📝 Summary:** Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed vulnerabilities in Biosig Project Libbiosig, Grassroot DiCoM, and Smallstep step-ca.
 
@@ -741,18 +741,20 @@
 
 ---
 
-#### 4. [React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors](https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html)
+#### 4. [HPE warns of maximum severity RCE flaw in OneView software](https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/)
 
 🔴 **CRITICAL**  
-**📡 Source:** The Hacker News  
-**📅 Published:** Tue, 16 Dec 2025 13:51:00 +0530  
-**🔖 CVEs:** CVE-2025-55182  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Thu, 18 Dec 2025 06:35:53 -0500  
+**🔖 CVEs:** CVE-2025-37164  
 
-**📝 Summary:** The security vulnerability known as React2Shell is being exploited by threat actors to deliver malware families like KSwapDoor and ZnDoor, according to findings from Palo Alto Networks Unit 42 and ...
+**📝 Summary:** Hewlett Packard Enterprise (HPE) has patched a maximum-severity vulnerability in its HPE OneView software that enables attackers to execute arbitrary code remotely.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** React2Shell vulnerability CVE-2025-55182 is actively exploited to deploy Linux malware, run commands, and steal cloud credentials at scale
+- **⚠️ Issue:** Hewlett Packard Enterprise (HPE) has patched a maximum-severity vulnerability in its HPE OneView software that enables attackers to execute arbitrary code remotely
+- **🔎 Cause:** Hewlett Packard Enterprise (HPE) has patched a maximum-severity vulnerability in its HPE OneView software that enables attackers to execute arbitrary code remotely
+- **✅ Solution:** Hewlett Packard Enterprise (HPE) has patched a maximum-severity vulnerability in its HPE OneView software that enables attackers to execute arbitrary code remotely
 
 ---
 
