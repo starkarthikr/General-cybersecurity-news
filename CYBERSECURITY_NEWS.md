@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-19 12:47:54 UTC
+**Last Updated:** 2025-12-19 16:33:34 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -40,7 +40,24 @@
 
 ---
 
-#### 3. [Adios 2025, you won’t be missed](https://blog.talosintelligence.com/adios-2025-you-wont-be-missed/)
+#### 3. [CISA warns ASUS Live Update backdoor is still exploitable, seven years on](https://www.malwarebytes.com/blog/news/2025/12/cisa-warns-asus-live-update-backdoor-is-still-exploitable-seven-years-on)
+
+🟠 **HIGH**  
+**📡 Source:** Malwarebytes  
+**📅 Published:** Fri, 19 Dec 2025 13:56:36 GMT  
+**🔖 CVEs:** CVE-2025-59374  
+
+**📝 Summary:** Seven years after the original attack, CISA has added the ASUS Live Update backdoor to its Known Exploited Vulnerabilities catalog.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Recently, the Cybersecurity and Infrastructure Security Agency (CISA) added (along with two others) a vulnerability in ASUS Live Update to its catalog of Known Exploited Vulnerabilities (KEV)
+- **🔎 Cause:** Recently, the Cybersecurity and Infrastructure Security Agency (CISA) added (along with two others) a vulnerability in ASUS Live Update to its catalog of Known Exploited Vulnerabilities (KEV)
+- **✅ Solution:** The KEV catalog lists vulnerabilities that are known to be exploited in the wild and sets patch deadlines for Federal Civilian Executive Branch (FCEB) agencies
+
+---
+
+#### 4. [Adios 2025, you won’t be missed](https://blog.talosintelligence.com/adios-2025-you-wont-be-missed/)
 
 🟡 **MEDIUM**  
 **📡 Source:** Talos Blog  
@@ -54,7 +71,7 @@
 
 ---
 
-#### 4. [UAT-9686 actively targets Cisco Secure Email Gateway and Secure Email and Web Manager](https://blog.talosintelligence.com/uat-9686/)
+#### 5. [UAT-9686 actively targets Cisco Secure Email Gateway and Secure Email and Web Manager](https://blog.talosintelligence.com/uat-9686/)
 
 🟡 **MEDIUM**  
 **📡 Source:** Talos Blog  
@@ -69,24 +86,27 @@
 
 ---
 
-#### 5. [Watering Hole Attacks Push ScanBox Keylogger](https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/)
-
-🟡 **MEDIUM**  
-**📡 Source:** Threat Post  
-**📅 Published:** Tue, 30 Aug 2022 16:00:43 +0000  
-
-**📝 Summary:** Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** A China-based threat actor has ramped up efforts to distribute the ScanBox reconnaissance framework to victims that include domestic Australian organizations and offshore energy firms in the South China Sea
-
----
-
 
 ### 🔴 Cloud Security
 
-#### 1. [Clop ransomware targets Gladinet CentreStack in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/)
+#### 1. [Over 25,000 FortiCloud SSO devices exposed to remote attacks](https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Fri, 19 Dec 2025 10:00:45 -0500  
+**🔖 CVEs:** CVE-2025-59718, CVE-2025-59719  
+
+**📝 Summary:** Internet security watchdog Shadowserver has found over 25,000 Fortinet devices exposed online with FortiCloud SSO enabled, amid ongoing attacks targeting a critical authentication bypass vulnerability.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Internet security watchdog Shadowserver has found over 25,000 Fortinet devices exposed online with FortiCloud SSO enabled, amid ongoing attacks targeting a critical authentication bypass vulnerability
+- **🔎 Cause:** However, there is currently no information regarding how many have been secured against attacks exploiting the CVE-2025-59718/CVE-2025-59719 vulnerability
+- **✅ Solution:** Fortinet noted on December 9th, when it patched the security flaw tracked as CVE-2025-59718 (FortiOS, FortiProxy, FortiSwitchManager) and CVE-2025-59719 (FortiWeb), that the vulnerable FortiCloud SSO login feature is not enabled until admins register
+
+---
+
+#### 2. [Clop ransomware targets Gladinet CentreStack in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
@@ -102,12 +122,12 @@
 
 ---
 
-#### 2. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+#### 3. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62557, CVE-2025-59516, CVE-2025-62562, CVE-2025-62554, CVE-2025-59517, CVE-2025-62470, CVE-2025-62472, CVE-2025-62458, CVE-2025-62221  
+**🔖 CVEs:** CVE-2025-59517, CVE-2025-62458, CVE-2025-62557, CVE-2025-62221, CVE-2025-62470, CVE-2025-62554, CVE-2025-59516, CVE-2025-62472, CVE-2025-62562  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -118,12 +138,12 @@
 
 ---
 
-#### 3. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
+#### 4. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-60274, CVE-2025-62199, CVE-2025-62215  
+**🔖 CVEs:** CVE-2025-60274, CVE-2025-62215, CVE-2025-62199  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -135,7 +155,7 @@
 
 ---
 
-#### 4. [November 2025 CVE Landscape: 10 Critical Vulnerabilities Show 69% Drop from October](https://www.recordedfuture.com/blog/november-2025-cve-landscape)
+#### 5. [November 2025 CVE Landscape: 10 Critical Vulnerabilities Show 69% Drop from October](https://www.recordedfuture.com/blog/november-2025-cve-landscape)
 
 🔴 **CRITICAL**  
 **📡 Source:** Recorded Future  
@@ -147,22 +167,6 @@
 
 - **⚠️ Issue:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching
 - **✅ Solution:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching
-
----
-
-#### 5. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Threat Post  
-**📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
-
-**📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** ” The vulnerability allows an application to execute arbitrary code with kernel privileges, according to Apple, which, in usual vague fashion, said there is a report that it “may have been actively exploited
-- **✅ Solution:** Share this article: Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack
 
 ---
 
@@ -199,21 +203,7 @@
 
 ### 🔴 Data Breach
 
-#### 1. [NIS2 compliance: How to get passwords and MFA right](https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Thu, 18 Dec 2025 10:01:11 -0500  
-
-**📝 Summary:** NIS2 puts identity and access controls under the spotlight, with weak passwords and poor authentication now a compliance risk.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Verizon’s Data Breach Investigation Report found stolen credentials are involved in 44
-
----
-
-#### 2. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
+#### 1. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
@@ -230,7 +220,7 @@
 
 ---
 
-#### 3. [Google is discontinuing its dark web report: why it matters](https://www.malwarebytes.com/blog/news/2025/12/google-is-discontinuing-its-dark-web-report-why-it-matters)
+#### 2. [Google is discontinuing its dark web report: why it matters](https://www.malwarebytes.com/blog/news/2025/12/google-is-discontinuing-its-dark-web-report-why-it-matters)
 
 🔴 **CRITICAL**  
 **📡 Source:** Malwarebytes  
@@ -244,7 +234,7 @@
 
 ---
 
-#### 4. [University of Sydney suffers data breach exposing student and staff info](https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/)
+#### 3. [University of Sydney suffers data breach exposing student and staff info](https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/)
 
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Thu, 18 Dec 2025 15:22:58 -0500  
@@ -257,7 +247,7 @@
 
 ---
 
-#### 5. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
+#### 4. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
 
 **📡 Source:** Krebs On Security  
 **📅 Published:** Wed, 26 Nov 2025 17:22:36 +0000  
@@ -267,6 +257,20 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** The group later launched a data leak portal that threatened to publish the internal data of three dozen companies that allegedly had Salesforce data stolen, including Toyota, FedEx, Disney/Hulu, and UPS
+
+---
+
+#### 5. [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
+
+**📡 Source:** Krebs On Security  
+**📅 Published:** Thu, 20 Nov 2025 19:06:51 +0000  
+
+**📝 Summary:** In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of p...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** “We will continue to offer our free Monitor data breach service, which is integrated into Firefox’s credential manager, and we are focused on integrating more of our privacy and security experiences in Firefox, including our VPN, for free,” the advis
+- **✅ Solution:** In March 2024, Mozilla said it was winding down its collaboration with Onerep — an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites — after KrebsOnSecurity revealed On
 
 ---
 
@@ -302,7 +306,34 @@
 
 ---
 
-#### 3. [It’s not personal, it’s just business](https://blog.talosintelligence.com/its-not-personal-its-just-business/)
+#### 3. [Criminal IP and Palo Alto Networks Cortex XSOAR integrate to bring AI-driven exposure intelligence to automated incident response](https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/)
+
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Fri, 19 Dec 2025 09:30:00 -0500  
+
+**📝 Summary:** Criminal IP (criminalip.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** io), the AI-powered threat intelligence and attack surface monitoring platform developed by AI SPERA, is now officially integrated into Palo Alto Networks’ Cortex XSOAR
+
+---
+
+#### 4. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+
+**📡 Source:** Krebs On Security  
+**📅 Published:** Fri, 19 Dec 2025 15:14:55 +0000  
+
+**📝 Summary:** The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challe...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering di
+- **✅ Solution:** Customs and Border Protection (CBP), tourists — including those from Britain, Australia, France, and Japan — will soon be required to provide five years of their social media history
+
+---
+
+#### 5. [It’s not personal, it’s just business](https://blog.talosintelligence.com/its-not-personal-its-just-business/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 20 Nov 2025 19:00:04 GMT  
@@ -313,32 +344,6 @@
 
 - **⚠️ Issue:** Welcome to this week’s edition of the Threat Source newsletter
 - **✅ Solution:** Defensive teams can write their own agentic systems to find and fix weaknesses in their own systems before malicious actors identify them
-
----
-
-#### 4. [What’s Next for Enterprise Threat Intelligence in 2026](https://www.recordedfuture.com/blog/whats-next-for-enterprise-threat-intelligence-in-2026)
-
-**📡 Source:** Recorded Future  
-**📅 Published:** Mon, 15 Dec 2025 00:00:00 GMT  
-
-**📝 Summary:** Top enterprise threat intelligence trends for 2026: AI-augmented CTI, unified platforms, workflow integration, data fusion, budgets, ROI, and maturity.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Top enterprise threat intelligence trends for 2026: AI-augmented CTI, unified platforms, workflow integration, data fusion, budgets, ROI, and maturity
-
----
-
-#### 5. [Twitter Whistleblower Complaint: The TL;DR Version](https://threatpost.com/twitter-whistleblower-tldr-version/180472/)
-
-**📡 Source:** Threat Post  
-**📅 Published:** Wed, 24 Aug 2022 14:17:04 +0000  
-
-**📝 Summary:** Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Twitter Whistleblower Complaint: The TL;DR Version
 
 ---
 
@@ -359,7 +364,23 @@
 
 ---
 
-#### 2. [Security for AI Building, Not Security for AI Buildings](https://cloudsecurityalliance.org/articles/security-for-ai-building-not-security-for-ai-buildings)
+#### 2. [New UEFI flaw enables pre-boot attacks on motherboards from Gigabyte, MSI, ASUS, ASRock](https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/)
+
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Fri, 19 Dec 2025 10:54:48 -0500  
+**🔖 CVEs:** CVE-2025-14304, CVE-2025-11901, CVE-2025-14303  
+
+**📝 Summary:** The UEFI firmware implementation in some motherboards from ASUS, Gigabyte, MSI, and ASRock is vulnerable to direct memory access (DMA) attacks that can bypass early-boot memory protections.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** The vulnerability was discovered by Riot Games researchers Nick Peterson and Mohamed Al-Sharifi
+- **🔎 Cause:** The security issue has received multiple identifiers (CVE-2025-11901, CVE-2025‑14302, CVE-2025-14303, and CVE-2025-14304) due to differences in vendor implementations DMA is a hardware feature that allows devices such as graphics cards, Thunderbolt d
+- **✅ Solution:** The UEFI firmware implementation in some motherboards from ASUS, Gigabyte, MSI, and ASRock is vulnerable to direct memory access (DMA) attacks that can bypass early-boot memory protections
+
+---
+
+#### 3. [Security for AI Building, Not Security for AI Buildings](https://cloudsecurityalliance.org/articles/security-for-ai-building-not-security-for-ai-buildings)
 
 **📡 Source:** Cloud Security  
 **📅 Published:** Mon, 08 Dec 2025 18:08:37 -0800  
@@ -372,7 +393,7 @@
 
 ---
 
-#### 3. [Zero Trust for OT in Manufacturing: A Practical Path to Modern Industrial Security](https://cloudsecurityalliance.org/articles/zero-trust-for-ot-in-manufacturing-a-practical-path-to-modern-industrial-security)
+#### 4. [Zero Trust for OT in Manufacturing: A Practical Path to Modern Industrial Security](https://cloudsecurityalliance.org/articles/zero-trust-for-ot-in-manufacturing-a-practical-path-to-modern-industrial-security)
 
 **📡 Source:** Cloud Security  
 **📅 Published:** Mon, 08 Dec 2025 09:47:44 -0800  
@@ -404,17 +425,20 @@
 
 ---
 
-#### 2. [France arrests Latvian for installing malware on Italian ferry](https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/)
+#### 2. [CISA warns ASUS Live Update backdoor is still exploitable, seven years on](https://www.malwarebytes.com/blog/news/2025/12/cisa-warns-asus-live-update-backdoor-is-still-exploitable-seven-years-on)
 
 🟠 **HIGH**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Thu, 18 Dec 2025 08:47:59 -0500  
+**📡 Source:** Malwarebytes  
+**📅 Published:** Fri, 19 Dec 2025 13:56:36 GMT  
+**🔖 CVEs:** CVE-2025-59374  
 
-**📝 Summary:** French authorities arrested two crew members of an Italian passenger ferry suspected of infecting the ship with malware that could have enabled them to remotely control the vessel.
+**📝 Summary:** Seven years after the original attack, CISA has added the ASUS Live Update backdoor to its Known Exploited Vulnerabilities catalog.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** French authorities arrested two crew members of an Italian passenger ferry suspected of infecting the ship with malware that could have enabled them to remotely control the vessel
+- **⚠️ Issue:** Recently, the Cybersecurity and Infrastructure Security Agency (CISA) added (along with two others) a vulnerability in ASUS Live Update to its catalog of Known Exploited Vulnerabilities (KEV)
+- **🔎 Cause:** Recently, the Cybersecurity and Infrastructure Security Agency (CISA) added (along with two others) a vulnerability in ASUS Live Update to its catalog of Known Exploited Vulnerabilities (KEV)
+- **✅ Solution:** The KEV catalog lists vulnerabilities that are known to be exploited in the wild and sets patch deadlines for Federal Civilian Executive Branch (FCEB) agencies
 
 ---
 
@@ -580,20 +604,7 @@
 
 ---
 
-#### 4. [US seizes E-Note crypto exchange for laundering ransomware payments](https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/)
-
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Thu, 18 Dec 2025 11:13:03 -0500  
-
-**📝 Summary:** Law enforcement has seized the servers and domains of the E-Note cryptocurrency exchange, allegedly used by cybercriminal groups to launder more than $70 million.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** It is believed that the funds originated from ransomware and account takeover attacks, and were subsequently funneled through an international network of “money mules
-
----
-
-#### 5. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
+#### 4. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
 
 **📡 Source:** Krebs On Security  
 **📅 Published:** Wed, 26 Nov 2025 17:22:36 +0000  
@@ -603,6 +614,20 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** The group later launched a data leak portal that threatened to publish the internal data of three dozen companies that allegedly had Salesforce data stolen, including Toyota, FedEx, Disney/Hulu, and UPS
+
+---
+
+#### 5. [Ransomware Attacks are on the Rise](https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/)
+
+**📡 Source:** Threat Post  
+**📅 Published:** Fri, 26 Aug 2022 16:44:27 +0000  
+
+**📝 Summary:** Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** 0 maintain their foothold as the most threatening ransomware group,” the authors wrote, “and one with which all organizations should aim to be aware of
+- **✅ Solution:** 0 maintain their foothold as the most threatening ransomware group,” the authors wrote, “and one with which all organizations should aim to be aware of
 
 ---
 
@@ -629,7 +654,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-60274, CVE-2025-62199, CVE-2025-62215  
+**🔖 CVEs:** CVE-2025-60274, CVE-2025-62215, CVE-2025-62199  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -673,19 +698,20 @@
 
 ---
 
-#### 5. [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/)
+#### 5. [CISA warns ASUS Live Update backdoor is still exploitable, seven years on](https://www.malwarebytes.com/blog/news/2025/12/cisa-warns-asus-live-update-backdoor-is-still-exploitable-seven-years-on)
 
-**📡 Source:** Talos Blog  
-**📅 Published:** Wed, 26 Nov 2025 18:36:06 GMT  
-**🔖 CVEs:** CVE-2025-47151  
+🟠 **HIGH**  
+**📡 Source:** Malwarebytes  
+**📅 Published:** Fri, 19 Dec 2025 13:56:36 GMT  
+**🔖 CVEs:** CVE-2025-59374  
 
-**📝 Summary:** Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed five vulnerabilities in Dell ControlVault 3 firmware and its associated Windows software, four vulnerabilities in ...
+**📝 Summary:** Seven years after the original attack, CISA has added the ASUS Live Update backdoor to its Known Exploited Vulnerabilities catalog.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** Cisco Talos’ Vulnerability Discovery & Research team recently disclosed five vulnerabilities in Dell ControlVault 3 firmware and its associated Windows software, four vulnerabilities in Entr'ouvert Lasso, and one vulnerability in GL
-- **🔎 Cause:** Cisco Talos’ Vulnerability Discovery & Research team recently disclosed five vulnerabilities in Dell ControlVault 3 firmware and its associated Windows software, four vulnerabilities in Entr'ouvert Lasso, and one vulnerability in GL
-- **✅ Solution:** The vulnerabilities mentioned in this blog post have been patched by their respective vendors, all in adherence to Cisco’s third-party vulnerability disclosure policy
+- **⚠️ Issue:** Recently, the Cybersecurity and Infrastructure Security Agency (CISA) added (along with two others) a vulnerability in ASUS Live Update to its catalog of Known Exploited Vulnerabilities (KEV)
+- **🔎 Cause:** Recently, the Cybersecurity and Infrastructure Security Agency (CISA) added (along with two others) a vulnerability in ASUS Live Update to its catalog of Known Exploited Vulnerabilities (KEV)
+- **✅ Solution:** The KEV catalog lists vulnerabilities that are known to be exploited in the wild and sets patch deadlines for Federal Civilian Executive Branch (FCEB) agencies
 
 ---
 
