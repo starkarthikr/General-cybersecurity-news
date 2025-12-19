@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-18 20:32:25 UTC
+**Last Updated:** 2025-12-19 01:34:49 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -40,21 +40,7 @@
 
 ---
 
-#### 3. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Sophos News  
-**📅 Published:** Thu, 11 Dec 2025 10:00:59 +0000  
-
-**📝 Summary:** Analysis of the tradecraft evolution across 6 months and 11 incidents.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** In mid-August 2025, Counter Threat Unit™ (CTU) researchers identified the use of the legitimate Velociraptor digital forensics and incident response (DFIR) tool in likely ransomware precursor activity
-
----
-
-#### 4. [Adios 2025, you won’t be missed](https://blog.talosintelligence.com/adios-2025-you-wont-be-missed/)
+#### 3. [Adios 2025, you won’t be missed](https://blog.talosintelligence.com/adios-2025-you-wont-be-missed/)
 
 🟡 **MEDIUM**  
 **📡 Source:** Talos Blog  
@@ -68,7 +54,7 @@
 
 ---
 
-#### 5. [UAT-9686 actively targets Cisco Secure Email Gateway and Secure Email and Web Manager](https://blog.talosintelligence.com/uat-9686/)
+#### 4. [UAT-9686 actively targets Cisco Secure Email Gateway and Secure Email and Web Manager](https://blog.talosintelligence.com/uat-9686/)
 
 🟡 **MEDIUM**  
 **📡 Source:** Talos Blog  
@@ -80,6 +66,20 @@
 
 - **⚠️ Issue:** Talos assesses with moderate confidence that this activity is being conducted by a Chinese-nexus threat actor, which we track as UAT-9686
 - **✅ Solution:** Additional recommendations specific to Cisco are available here
+
+---
+
+#### 5. [Watering Hole Attacks Push ScanBox Keylogger](https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/)
+
+🟡 **MEDIUM**  
+**📡 Source:** Threat Post  
+**📅 Published:** Tue, 30 Aug 2022 16:00:43 +0000  
+
+**📝 Summary:** Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** A China-based threat actor has ramped up efforts to distribute the ScanBox reconnaissance framework to victims that include domestic Australian organizations and offshore energy firms in the South China Sea
 
 ---
 
@@ -121,7 +121,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-59516, CVE-2025-62557, CVE-2025-62554, CVE-2025-62562, CVE-2025-62470, CVE-2025-62458, CVE-2025-62221, CVE-2025-59517, CVE-2025-62472  
+**🔖 CVEs:** CVE-2025-62562, CVE-2025-62472, CVE-2025-62221, CVE-2025-62557, CVE-2025-62470, CVE-2025-59517, CVE-2025-62554, CVE-2025-62458, CVE-2025-59516  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -137,7 +137,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62215, CVE-2025-60274, CVE-2025-62199  
+**🔖 CVEs:** CVE-2025-60274, CVE-2025-62215, CVE-2025-62199  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -228,7 +228,20 @@
 
 ---
 
-#### 4. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
+#### 4. [University of Sydney suffers data breach exposing student and staff info](https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/)
+
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Thu, 18 Dec 2025 15:22:58 -0500  
+
+**📝 Summary:** Hackers gained access to an online coding repository belonging to the University of Sydney and stole files with personal information of staff and students.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** " The personal data stolen in the attack impacts more than 27,000 individuals as follows: The staff data includes names, dates of birth, phone numbers, home addresses, and job details
+
+---
+
+#### 5. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
 
 **📡 Source:** Krebs On Security  
 **📅 Published:** Wed, 26 Nov 2025 17:22:36 +0000  
@@ -238,20 +251,6 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** The group later launched a data leak portal that threatened to publish the internal data of three dozen companies that allegedly had Salesforce data stolen, including Toyota, FedEx, Disney/Hulu, and UPS
-
----
-
-#### 5. [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
-
-**📡 Source:** Krebs On Security  
-**📅 Published:** Thu, 20 Nov 2025 19:06:51 +0000  
-
-**📝 Summary:** In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of p...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** “We will continue to offer our free Monitor data breach service, which is integrated into Firefox’s credential manager, and we are focused on integrating more of our privacy and security experiences in Firefox, including our VPN, for free,” the advis
-- **✅ Solution:** In March 2024, Mozilla said it was winding down its collaboration with Onerep — an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites — after KrebsOnSecurity revealed On
 
 ---
 
@@ -301,21 +300,7 @@
 
 ---
 
-#### 4. [WhatsApp device linking abused in account hijacking attacks](https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/)
-
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Wed, 17 Dec 2025 14:14:30 -0500  
-
-**📝 Summary:** Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing
-- **🔎 Cause:** Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing
-
----
-
-#### 5. [It’s not personal, it’s just business](https://blog.talosintelligence.com/its-not-personal-its-just-business/)
+#### 4. [It’s not personal, it’s just business](https://blog.talosintelligence.com/its-not-personal-its-just-business/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 20 Nov 2025 19:00:04 GMT  
@@ -326,6 +311,19 @@
 
 - **⚠️ Issue:** Welcome to this week’s edition of the Threat Source newsletter
 - **✅ Solution:** Defensive teams can write their own agentic systems to find and fix weaknesses in their own systems before malicious actors identify them
+
+---
+
+#### 5. [What’s Next for Enterprise Threat Intelligence in 2026](https://www.recordedfuture.com/blog/whats-next-for-enterprise-threat-intelligence-in-2026)
+
+**📡 Source:** Recorded Future  
+**📅 Published:** Mon, 15 Dec 2025 00:00:00 GMT  
+
+**📝 Summary:** Top enterprise threat intelligence trends for 2026: AI-augmented CTI, unified platforms, workflow integration, data fusion, budgets, ROI, and maturity.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Top enterprise threat intelligence trends for 2026: AI-augmented CTI, unified platforms, workflow integration, data fusion, budgets, ROI, and maturity
 
 ---
 
@@ -492,20 +490,7 @@
 
 ---
 
-#### 4. [Sophos achieves its best-ever results in the MITRE ATT&CK Enterprise 2025 Evaluation](https://news.sophos.com/en-us/2025/12/10/sophos-achieves-its-best-ever-results-in-the-mitre-attck-enterprise-2025-evaluation/)
-
-**📡 Source:** Sophos News  
-**📅 Published:** Wed, 10 Dec 2025 15:03:30 +0000  
-
-**📝 Summary:** A major milestone: Sophos XDR delivers 100% detection coverage in the latest ATT&#38;CK Evaluation.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** They emulate the tactics, techniques, and procedures (TTPs) used by real-world adversaries to assess each participating vendor’s ability to detect, analyze, and articulate threats in alignment with the MITRE ATT&CK® Framework
-
----
-
-#### 5. [Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App](https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html)
+#### 4. [Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App](https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html)
 
 **📡 Source:** The Hacker News  
 **📅 Published:** Thu, 18 Dec 2025 13:13:00 +0530  
@@ -515,6 +500,20 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** North Korean group Kimsuky uses QR code phishing sites posing as CJ Logistics to spread DocSwap Android malware with RAT capabilities
+
+---
+
+#### 5. [APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign](https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html)
+
+**📡 Source:** The Hacker News  
+**📅 Published:** Wed, 17 Dec 2025 21:00:00 +0530  
+
+**📝 Summary:** The Russian state-sponsored threat actor known as APT28 has been attributed to what has been described as a "sustained" credential-harvesting campaign targeting users of UKR[.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign
+- **⏰ Timeline:** a sustained phishing campaign from June 2024 to April 2025, using fake UKR.net login pages to steal credentials and 2FA code
 
 ---
 
@@ -553,21 +552,7 @@
 
 ---
 
-#### 3. [GOLD SALEM tradecraft for deploying Warlock ransomware](https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Sophos News  
-**📅 Published:** Thu, 11 Dec 2025 10:00:59 +0000  
-
-**📝 Summary:** Analysis of the tradecraft evolution across 6 months and 11 incidents.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** In mid-August 2025, Counter Threat Unit™ (CTU) researchers identified the use of the legitimate Velociraptor digital forensics and incident response (DFIR) tool in likely ransomware precursor activity
-
----
-
-#### 4. [Adios 2025, you won’t be missed](https://blog.talosintelligence.com/adios-2025-you-wont-be-missed/)
+#### 3. [Adios 2025, you won’t be missed](https://blog.talosintelligence.com/adios-2025-you-wont-be-missed/)
 
 🟡 **MEDIUM**  
 **📡 Source:** Talos Blog  
@@ -581,17 +566,29 @@
 
 ---
 
-#### 5. [I am not a robot: ClickFix used to deploy StealC and Qilin](https://news.sophos.com/en-us/2025/12/18/i-am-not-a-robot-clickfix-used-to-deploy-stealc-and-qilin/)
+#### 4. [US seizes E-Note crypto exchange for laundering ransomware payments](https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/)
 
-**📡 Source:** Sophos News  
-**📅 Published:** Thu, 18 Dec 2025 19:15:41 +0000  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Thu, 18 Dec 2025 11:13:03 -0500  
 
-**📝 Summary:** The fake human verification process led to infostealer and ransomware infections.
+**📝 Summary:** Law enforcement has seized the servers and domains of the E-Note cryptocurrency exchange, allegedly used by cybercriminal groups to launder more than $70 million.
 
 **🔍 Analysis:**
 
-- **⚠️ Issue:** ClickFix is an increasingly common tactic used by threat actors to install malicious software on victims’ devices
-- **✅ Solution:** ClickFix is an increasingly common tactic used by threat actors to install malicious software on victims’ devices
+- **⚠️ Issue:** It is believed that the funds originated from ransomware and account takeover attacks, and were subsequently funneled through an international network of “money mules
+
+---
+
+#### 5. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
+
+**📡 Source:** Krebs On Security  
+**📅 Published:** Wed, 26 Nov 2025 17:22:36 +0000  
+
+**📝 Summary:** A prolific cybercriminal group that calls itself "Scattered LAPSUS$ Hunters" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** The group later launched a data leak portal that threatened to publish the internal data of three dozen companies that allegedly had Salesforce data stolen, including Toyota, FedEx, Disney/Hulu, and UPS
 
 ---
 
@@ -618,7 +615,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62215, CVE-2025-60274, CVE-2025-62199  
+**🔖 CVEs:** CVE-2025-60274, CVE-2025-62215, CVE-2025-62199  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -651,7 +648,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
 **📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
+**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
 
 **📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
 

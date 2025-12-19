@@ -339,6 +339,50 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Windows 10 OOB update released to fix Message Queuing (MSMQ) issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/",
+    "published": "Thu, 18 Dec 2025 20:15:19 -0500",
+    "summary": "This month's extended security update for Windows 11 broke Message Queuing (MSMQ), which is typically used by enterprises to manage background tasks. [...]",
+    "ai_summary": "This month's extended security update for Windows 11 broke Message Queuing (MSMQ), which is typically used by enterprises to manage background tasks.",
+    "authors": [
+      "Mayank Parmar"
+    ],
+    "analysis": {
+      "issue": "Windows 10 OOB update released to fix Message Queuing (MSMQ) issues",
+      "solution": "This month's extended security update for Windows 10 broke Message Queuing (MSMQ), which is typically used by enterprises to manage background tasks",
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "University of Sydney suffers data breach exposing student and staff info",
+    "link": "https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/",
+    "published": "Thu, 18 Dec 2025 15:22:58 -0500",
+    "summary": "Hackers gained access to an online coding repository belonging to the University of Sydney and stole files with personal information of staff and students. [...]",
+    "ai_summary": "Hackers gained access to an online coding repository belonging to the University of Sydney and stole files with personal information of staff and students.",
+    "authors": [
+      "Bill Toulas"
+    ],
+    "analysis": {
+      "issue": "\" The personal data stolen in the attack impacts more than 27,000 individuals as follows: The staff data includes names, dates of birth, phone numbers, home addresses, and job details",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Clop ransomware targets Gladinet CentreStack in data theft attacks",
     "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/",
     "published": "Thu, 18 Dec 2025 15:16:55 -0500",
@@ -573,28 +617,6 @@
     "ai_summary": "Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing.",
     "authors": [
       "Bill Toulas"
-    ],
-    "analysis": {
-      "issue": "Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing",
-      "solution": null,
-      "cause": "Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing",
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Cisco warns of unpatched AsyncOS zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/",
-    "published": "Wed, 17 Dec 2025 13:45:36 -0500",
-    "summary": "​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) appliances. [...]",
-    "ai_summary": "​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) app...",
-    "authors": [
-      "Sergiu Gatlan"
     ]
   },
   {
@@ -637,15 +659,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-59516",
-        "CVE-2025-62557",
-        "CVE-2025-62554",
         "CVE-2025-62562",
-        "CVE-2025-62470",
-        "CVE-2025-62458",
+        "CVE-2025-62472",
         "CVE-2025-62221",
+        "CVE-2025-62557",
+        "CVE-2025-62470",
         "CVE-2025-59517",
-        "CVE-2025-62472"
+        "CVE-2025-62554",
+        "CVE-2025-62458",
+        "CVE-2025-59516"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -805,8 +827,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62215",
         "CVE-2025-60274",
+        "CVE-2025-62215",
         "CVE-2025-62199"
       ],
       "threat_categories": [
@@ -1082,11 +1104,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62557",
-        "CVE-2025-62554",
         "CVE-2025-62549",
         "CVE-2025-62456",
+        "CVE-2025-62557",
         "CVE-2025-62556",
+        "CVE-2025-62554",
         "CVE-2025-62553"
       ],
       "threat_categories": [
@@ -1803,8 +1825,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1834,239 +1856,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Sophos News",
-    "title": "I am not a robot: ClickFix used to deploy StealC and Qilin",
-    "link": "https://news.sophos.com/en-us/2025/12/18/i-am-not-a-robot-clickfix-used-to-deploy-stealc-and-qilin/",
-    "published": "Thu, 18 Dec 2025 19:15:41 +0000",
-    "summary": "The fake human verification process led to infostealer and ransomware infections",
-    "ai_summary": "The fake human verification process led to infostealer and ransomware infections.",
-    "authors": [
-      "Mindi McDowell"
-    ],
-    "analysis": {
-      "issue": "ClickFix is an increasingly common tactic used by threat actors to install malicious software on victims’ devices",
-      "solution": "ClickFix is an increasingly common tactic used by threat actors to install malicious software on victims’ devices",
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Sophos News",
-    "title": "Game of clones: Sophos and the MITRE ATT&CK Enterprise 2025 Evaluations",
-    "link": "https://news.sophos.com/en-us/2025/12/15/game-of-clones-sophos-and-the-mitre-attck-enterprise-2025-evaluations/",
-    "published": "Mon, 15 Dec 2025 09:12:13 +0000",
-    "summary": "Winter is coming – so it must be time for Sophos X-Ops’ report on this year’s MITRE ATT&#38;CK Enterprise Evaluations",
-    "ai_summary": "Winter is coming – so it must be time for Sophos X-Ops’ report on this year’s MITRE ATT&#38;CK Enterprise Evaluations.",
-    "authors": [
-      "Matt Wixey"
-    ],
-    "analysis": {
-      "issue": "Each year, several security solution providers – including Sophos – sign up for MITRE’s ATT&CK Enterprise Evaluations, a full-scale cyber attack emulation covering one or more scenarios based on real-world threat actors and their tactics, techniques,",
-      "solution": "In particular, we’ll dive into the realism of the tooling, nuances in the testing methodology, and Sophos’ protection and detection capabilities",
-      "cause": "While we can’t cover everything, due to the sheer number of steps in each scenario, we’ll discuss a selection, highlighting the depth and accuracy of the emulations",
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Malware",
-        "APT/Nation-State",
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Sophos News",
-    "title": "A big finish to 2025 in December’s Patch Tuesday",
-    "link": "https://news.sophos.com/en-us/2025/12/11/a-big-finish-to-2025-in-decembers-patch-tuesday/",
-    "published": "Thu, 11 Dec 2025 22:02:11 +0000",
-    "summary": "A month with no Critical-severity Windows bugs is overshadowed by a mass of Mariner mop-up",
-    "ai_summary": "A month with no Critical-severity Windows bugs is overshadowed by a mass of Mariner mop-up.",
-    "authors": [
-      "Angela Gunn"
-    ],
-    "analysis": {
-      "issue": "One is known to be under active exploit in the wild, and two others are publicly disclosed",
-      "solution": "Microsoft on Tuesday released 56 patches affecting 10 product families",
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Sophos News",
-    "title": "React2Shell flaw (CVE-2025-55182) exploited for remote code execution",
-    "link": "https://news.sophos.com/en-us/2025/12/11/react2shell-flaw-cve-2025-55182-exploited-for-remote-code-execution/",
-    "published": "Thu, 11 Dec 2025 18:07:12 +0000",
-    "summary": "The availability of exploit code will likely lead to more widespread opportunistic attacks",
-    "ai_summary": "The availability of exploit code will likely lead to more widespread opportunistic attacks.",
-    "authors": [
-      "Mindi McDowell"
-    ],
-    "analysis": {
-      "issue": "Sophos analysts are investigating the widespread exploitation of a critical vulnerability dubbed ‘React2Shell’ that affects React Server Components versions 19",
-      "solution": null,
-      "cause": "The vulnerability is caused by unsafe handling of incoming data when the server converts network requests into JavaScript objects",
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-55182"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Sophos News",
-    "title": "Sophos Tops G2 Winter 2026 Reports: #1 Overall in Endpoint, XDR, MDR and Firewall",
-    "link": "https://news.sophos.com/en-us/2025/12/11/sophos-tops-g2-winter-2026-reports-1-overall-in-endpoint-xdr-mdr-and-firewall/",
-    "published": "Thu, 11 Dec 2025 16:15:21 +0000",
-    "summary": "#1 Ranked in 66 Global Reports",
-    "ai_summary": "#1 Ranked in 66 Global Reports.",
-    "authors": [
-      "rajansanhotra"
-    ],
-    "analysis": {
-      "issue": "These customer proof points continue the momentum of our Sophos Identity Threat Detection and Response (ITDR) launch, the latest in a series of advancements in our mission to help organizations of all sizes strengthen their defenses against evolving ",
-      "solution": "Sophos is ranked  the #1 Overall solution in Endpoint Protection Platforms (EPP), Managed Detection and Response (MDR), Extended Detection and Response (XDR), and Firewall Software",
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Sophos News",
-    "title": "GOLD SALEM tradecraft for deploying Warlock ransomware",
-    "link": "https://news.sophos.com/en-us/2025/12/11/gold-salem-tradecraft-for-deploying-warlock-ransomware/",
-    "published": "Thu, 11 Dec 2025 10:00:59 +0000",
-    "summary": "Analysis of the tradecraft evolution across 6 months and 11 incidents",
-    "ai_summary": "Analysis of the tradecraft evolution across 6 months and 11 incidents.",
-    "authors": [
-      "Mindi McDowell"
-    ],
-    "analysis": {
-      "issue": "In mid-August 2025, Counter Threat Unit™ (CTU) researchers identified the use of the legitimate Velociraptor digital forensics and incident response (DFIR) tool in likely ransomware precursor activity",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "APT/Nation-State"
-      ]
-    }
-  },
-  {
-    "source": "Sophos News",
-    "title": "Sophos achieves its best-ever results in the MITRE ATT&CK Enterprise 2025 Evaluation",
-    "link": "https://news.sophos.com/en-us/2025/12/10/sophos-achieves-its-best-ever-results-in-the-mitre-attck-enterprise-2025-evaluation/",
-    "published": "Wed, 10 Dec 2025 15:03:30 +0000",
-    "summary": "A major milestone: Sophos XDR delivers 100% detection coverage in the latest ATT&#38;CK Evaluation.",
-    "ai_summary": "A major milestone: Sophos XDR delivers 100% detection coverage in the latest ATT&#38;CK Evaluation.",
-    "authors": [
-      "rajansanhotra"
-    ],
-    "analysis": {
-      "issue": "They emulate the tactics, techniques, and procedures (TTPs) used by real-world adversaries to assess each participating vendor’s ability to detect, analyze, and articulate threats in alignment with the MITRE ATT&CK® Framework",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing",
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Sophos News",
-    "title": "Sophos Firewall v22 is now available",
-    "link": "https://news.sophos.com/en-us/2025/12/09/sophos-firewall-v22-is-now-available/",
-    "published": "Tue, 09 Dec 2025 12:20:43 +0000",
-    "summary": "Secure by Design.",
-    "ai_summary": "Security update: Sophos Firewall v22 is now available",
-    "authors": [
-      "Chris McCormack"
-    ],
-    "analysis": {
-      "issue": "Sophos Firewall v22 is now available",
-      "solution": "This update brings several Secure by Design enhancements and many of your top requested features",
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Sophos News",
-    "title": "Sophos Named One of Computerworld’s 2026 Best Places to Work in IT",
-    "link": "https://news.sophos.com/en-us/2025/12/09/sophos-named-one-of-computerworlds-2026-best-places-to-work-in-it/",
-    "published": "Tue, 09 Dec 2025 11:33:57 +0000",
-    "summary": "Sophos has been named one of Computerworld’s 2026 Best Places to Work in IT for the second consecutive year, earning 10th place among large organizations for its innovative, people-focused, and high-impact IT culture.",
-    "ai_summary": "Sophos has been named one of Computerworld’s 2026 Best Places to Work in IT for the second consecutive year, earning 10th place among large organizations for its innovative, people-focused, and hig...",
-    "authors": [
-      "victoriatownsley"
-    ],
-    "analysis": {
-      "issue": "Sophos Named One of Computerworld’s 2026 Best Places to Work in IT",
-      "solution": "We were acknowledged for advancing AI and analytics capabilities, automating manual tasks, and implementing improvements that allow the organization to move faster and more efficiently",
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Sophos News",
-    "title": "Inside Shanya, a packer-as-a-service fueling modern attacks",
-    "link": "https://news.sophos.com/en-us/2025/12/06/inside-shanya-a-packer-as-a-service-fueling-modern-attacks/",
-    "published": "Sun, 07 Dec 2025 02:57:18 +0000",
-    "summary": "The ransomware scene gains another would-be EDR killer",
-    "ai_summary": "The ransomware scene gains another would-be EDR killer.",
-    "authors": [
-      "Gabor Szappanos"
-    ],
-    "analysis": {
-      "issue": "We have covered packer-as-a-service offerings from the computer underworld in the past, previously dissecting impersonation campaigns and the rise of HeartCrypt, both popular among ransomware groups",
-      "solution": "It should be noted that the ID of the post author, which we’ve obfuscated in Figure 1, was not “Shanya” but another string entirely",
-      "cause": "We’ll look at its apparent origins, unpack the code, and examine a targeted infection leveraging this tool",
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
       ]
     }
   },
@@ -2627,7 +2416,7 @@
     "title": "Governance Maturity Is Strongest Predictor of AI Readiness and Responsible Innovation, According to Study from Cloud Security Alliance and Google Cloud",
     "link": "https://cloudsecurityalliance.org/articles/csa-and-google-cloud-study-finds-governance-maturity-is-strongest-predictor-of-ai-readiness",
     "published": "Tue, 16 Dec 2025 06:40:00 -0800",
-    "summary": "Organizations are continuing to move from experimentation to meaningful operational use\n\nSEATTLE – Dec. 18, 2025 –The State of AI Security and Governance Survey Report, a new study from the Cloud Security Alliance (CSA), the world’s leading not-for-profit organization committed to AI, cloud, and Zero Trust cybersecurity education, and Google Cloud, revealed a clear link between mature governance and improved performance across multiple dimensions of AI adoption and security. Results show ...",
+    "summary": "Organizations are continuing to move from experimentation to meaningful operational use\n\nSEATTLE – Dec. 18, 2025 –The State of AI Security and Governance Survey Report, a new study from the Cloud Security Alliance (CSA), the world’s leading not-for-profit organization committed to AI, cloud, and Zero Trust cybersecurity education, and Google Cloud, revealed a clear link between mature governance and improved performance across multiple dimensions of AI adoption and security. Results show...",
     "ai_summary": "Organizations are continuing to move from experimentation to meaningful operational use SEATTLE – Dec.",
     "authors": []
   },
