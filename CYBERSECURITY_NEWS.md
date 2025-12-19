@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-19 01:34:49 UTC
+**Last Updated:** 2025-12-19 04:43:00 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -121,7 +121,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62562, CVE-2025-62472, CVE-2025-62221, CVE-2025-62557, CVE-2025-62470, CVE-2025-59517, CVE-2025-62554, CVE-2025-62458, CVE-2025-59516  
+**🔖 CVEs:** CVE-2025-62472, CVE-2025-62470, CVE-2025-62557, CVE-2025-62221, CVE-2025-62562, CVE-2025-59517, CVE-2025-62458, CVE-2025-59516, CVE-2025-62554  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -137,7 +137,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-60274, CVE-2025-62215, CVE-2025-62199  
+**🔖 CVEs:** CVE-2025-62199, CVE-2025-60274, CVE-2025-62215  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -615,7 +615,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-60274, CVE-2025-62215, CVE-2025-62199  
+**🔖 CVEs:** CVE-2025-62199, CVE-2025-60274, CVE-2025-62215  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -632,7 +632,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
 **📅 Published:** Wed, 17 Dec 2025 21:02:40 GMT  
-**🔖 CVEs:** CVE-2025-66048, CVE-2025-66043  
+**🔖 CVEs:** CVE-2025-66043, CVE-2025-66048  
 
 **📝 Summary:** Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed vulnerabilities in Biosig Project Libbiosig, Grassroot DiCoM, and Smallstep step-ca.
 
