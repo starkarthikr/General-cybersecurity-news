@@ -1,6 +1,74 @@
 [
   {
     "source": "The Hacker News",
+    "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
+    "link": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
+    "published": "Fri, 19 Dec 2025 16:53:00 +0530",
+    "summary": "WatchGuard has released fixes to address a critical security flaw in Fireware OS that it said has been exploited in real-world attacks.\nTracked as CVE-2025-14733 (CVSS score: 9.3), the vulnerability has been described as a case of out-of-bounds write affecting the iked process that could allow a remote unauthenticated attacker to execute arbitrary code.\n\"This vulnerability affects both the",
+    "ai_summary": "WatchGuard has released fixes to address a critical security flaw in Fireware OS that it said has been exploited in real-world attacks.",
+    "authors": [
+      "The Hacker News"
+    ],
+    "analysis": {
+      "issue": "3 that is actively exploited in the wild",
+      "solution": "WatchGuard fixed CVE-2025-14733, a critical Fireware OS VPN flaw with CVSS 9",
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-14733"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks",
+    "link": "https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html",
+    "published": "Fri, 19 Dec 2025 15:56:00 +0530",
+    "summary": "Authorities in Nigeria have announced the arrest of three \"high-profile internet fraud suspects\" who are alleged to have been involved in phishing attacks targeting major corporations, including the main developer behind the RaccoonO365 phishing-as-a-service (PhaaS) scheme.\nThe Nigeria Police Force National Cybercrime Centre (NPF–NCCC) said investigations conducted in collaboration with",
+    "ai_summary": "Authorities in Nigeria have announced the arrest of three \"high-profile internet fraud suspects\" who are alleged to have been involved in phishing attacks targeting major corporations, including th...",
+    "authors": [
+      "The Hacker News"
+    ],
+    "analysis": {
+      "issue": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards",
+    "link": "https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html",
+    "published": "Fri, 19 Dec 2025 13:55:00 +0530",
+    "summary": "Certain motherboard models from vendors like ASRock, ASUSTeK Computer, GIGABYTE, and MSI are affected by a security vulnerability that leaves them susceptible to early-boot direct memory access (DMA) attacks across architectures that implement a Unified Extensible Firmware Interface (UEFI) and input–output memory management unit (IOMMU).\nUEFI and IOMMU are designed to enforce a security",
+    "ai_summary": "Certain motherboard models from vendors like ASRock, ASUSTeK Computer, GIGABYTE, and MSI are affected by a security vulnerability that leaves them susceptible to early-boot direct memory access (DM...",
+    "authors": [
+      "The Hacker News"
+    ],
+    "analysis": {
+      "issue": "UEFI firmware flaws in certain ASRock, ASUS, GIGABYTE, and MSI motherboards allow early-boot DMA attacks before OS security loads",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Cloud Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware",
     "link": "https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html",
     "published": "Thu, 18 Dec 2025 23:04:00 +0530",
@@ -272,68 +340,70 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time",
-    "link": "https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html",
-    "published": "Wed, 17 Dec 2025 17:00:00 +0530",
-    "summary": "Modern security teams often feel like they’re driving through fog with failing headlights. Threats accelerate, alerts multiply, and SOCs struggle to understand which dangers matter right now for their business. Breaking out of reactive defense is no longer optional. It’s the difference between preventing incidents and cleaning up after them.\nBelow is the path from reactive firefighting to a",
-    "ai_summary": "Modern security teams often feel like they’re driving through fog with failing headlights.",
+    "source": "Bleeping Computer",
+    "title": "Denmark blames Russia for destructive cyberattack on water utility",
+    "link": "https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/",
+    "published": "Fri, 19 Dec 2025 07:28:48 -0500",
+    "summary": "Danish intelligence officials blamed Russia for orchestrating cyberattacks against Denmark's critical infrastructure, as part of Moscow's hybrid attacks against Western nations. [...]",
+    "ai_summary": "Danish intelligence officials blamed Russia for orchestrating cyberattacks against Denmark's critical infrastructure, as part of Moscow's hybrid attacks against Western nations.",
     "authors": [
-      "The Hacker News"
+      "Sergiu Gatlan"
     ],
     "analysis": {
-      "issue": "How proactive SOCs use threat intelligence, industry context, and hybrid attack visibility to reduce noise and anticipate real threats",
+      "issue": "Danish intelligence officials blamed Russia for orchestrating cyberattacks against Denmark's critical infrastructure, as part of Moscow's hybrid attacks against Western nations",
       "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New critical WatchGuard Firebox firewall flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/watchguard-warns-of-new-rce-flaw-in-firebox-firewalls-exploited-in-attacks/",
+    "published": "Fri, 19 Dec 2025 05:25:06 -0500",
+    "summary": "WatchGuard has warned customers to patch a critical, actively exploited remote code execution (RCE) vulnerability in its Firebox firewalls. [...]",
+    "ai_summary": "WatchGuard has warned customers to patch a critical, actively exploited remote code execution (RCE) vulnerability in its Firebox firewalls.",
+    "authors": [
+      "Sergiu Gatlan"
+    ],
+    "analysis": {
+      "issue": "WatchGuard has warned customers to patch a critical, actively exploited remote code execution (RCE) vulnerability in its Firebox firewalls",
+      "solution": "WatchGuard has warned customers to patch a critical, actively exploited remote code execution (RCE) vulnerability in its Firebox firewalls",
+      "cause": "The vulnerability is due to an out-of-bounds write weakness that enables unauthenticated attackers to execute malicious code remotely on unpatched devices, following successful exploitation in low-complexity attacks that don't require user interactio",
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-14733"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "FTC: Instacart to refund $60M over deceptive subscription tactics",
+    "link": "https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/",
+    "published": "Fri, 19 Dec 2025 04:19:40 -0500",
+    "summary": "Grocery delivery service Instacart will refund $60 million to settle FTC claims that it misled customers with false advertising and unlawfully enrolled them in paid subscriptions. [...]",
+    "ai_summary": "Grocery delivery service Instacart will refund $60 million to settle FTC claims that it misled customers with false advertising and unlawfully enrolled them in paid subscriptions.",
+    "authors": [
+      "Sergiu Gatlan"
+    ],
+    "analysis": {
+      "issue": "FTC: Instacart to refund $60M over deceptive subscription tactics",
+      "solution": "— Christopher Mufarrige, director of the FTC's Bureau of Consumer Protection",
       "cause": null,
       "timeline": null,
       "severity": null,
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware",
-    "link": "https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html",
-    "published": "Wed, 17 Dec 2025 16:42:00 +0530",
-    "summary": "The threat actor known as Jewelbug has been increasingly focusing on government targets in Europe since July 2025, even as it continues to attack entities located in Southeast Asia and South America.\nCheck Point Research is tracking the cluster under the name Ink Dragon. It's also referenced by the broader cybersecurity community under the names CL-STA-0049, Earth Alux, and REF7707. The",
-    "ai_summary": "The threat actor known as Jewelbug has been increasingly focusing on government targets in Europe since July 2025, even as it continues to attack entities located in Southeast Asia and South America.",
-    "authors": [
-      "The Hacker News"
-    ],
-    "analysis": {
-      "issue": "China-aligned Ink Dragon targets government and telecom networks using ShadowPad and FINALDRAFT malware across Europe, Asia, and Africa",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads",
-    "link": "https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html",
-    "published": "Wed, 17 Dec 2025 13:44:00 +0530",
-    "summary": "A new campaign named GhostPoster has leveraged logo files associated with 17 Mozilla Firefox browser add-ons to embed malicious JavaScript code designed to hijack affiliate links, inject tracking code, and commit click and ad fraud.\nThe extensions have been collectively downloaded over 50,000 times, according to Koi Security, which discovered the campaign. The add-ons are no longer available.",
-    "ai_summary": "A new campaign named GhostPoster has leveraged logo files associated with 17 Mozilla Firefox browser add-ons to embed malicious JavaScript code designed to hijack affiliate links, inject tracking c...",
-    "authors": [
-      "The Hacker News"
-    ],
-    "analysis": {
-      "issue": "GhostPoster malware hid inside 17 Firefox add-ons, abusing logo files to hijack links, inject tracking code, and run ad fraud",
-      "solution": null,
-      "cause": "GhostPoster malware hid inside 17 Firefox add-ons, abusing logo files to hijack links, inject tracking code, and run ad fraud",
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -527,84 +597,6 @@
     "ai_summary": "Microsoft has confirmed that recent Windows updates trigger RemoteApp connection failures on Windows 11 24H2/25H2 and Windows Server 2025 devices in Azure Virtual Desktop environments.",
     "authors": [
       "Sergiu Gatlan"
-    ],
-    "analysis": {
-      "issue": "Affected organizations can mitigate this bug by manually adding a registry key while logged in with an account that has administrator privileges, then restarting the system",
-      "solution": "Microsoft has confirmed that recent Windows updates trigger RemoteApp connection failures on Windows 11 24H2/25H2 and Windows Server 2025 devices in Azure Virtual Desktop environments",
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Zeroday Cloud hacking event awards $320,0000 for 11 zero days",
-    "link": "https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/",
-    "published": "Wed, 17 Dec 2025 18:09:36 -0500",
-    "summary": "The Zeroday Cloud hacking competition in London has awarded researchers $320,000 for demonstrating critical remote code execution vulnerabilities in components used in cloud infrastructure. [...]",
-    "ai_summary": "The Zeroday Cloud hacking competition in London has awarded researchers $320,000 for demonstrating critical remote code execution vulnerabilities in components used in cloud infrastructure.",
-    "authors": [
-      "Bill Toulas"
-    ],
-    "analysis": {
-      "issue": "The Linux kernel was compromised through a container escape flaw, which allowed attackers to break isolation between cloud tenants, undermining a core cloud security guarantee",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Cloud Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "France arrests suspect tied to cyberattack on Interior Ministry",
-    "link": "https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/",
-    "published": "Wed, 17 Dec 2025 17:20:02 -0500",
-    "summary": "French authorities arrested a 22-year-old suspect on Tuesday for a cyberattack that targeted France's Ministry of the Interior earlier this month. [...]",
-    "ai_summary": "French authorities arrested a 22-year-old suspect on Tuesday for a cyberattack that targeted France's Ministry of the Interior earlier this month.",
-    "authors": [
-      "Lawrence Abrams"
-    ],
-    "analysis": {
-      "issue": "French authorities arrested a 22-year-old suspect on Tuesday for a cyberattack that targeted France's Ministry of the Interior earlier this month",
-      "solution": "\"A person was arrested on December 17, 2025, as part of the investigation opened by the cybercrime unit of the Paris public prosecutor's office, on charges including unauthorized access to an automated personal data processing system implemented by t",
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Amazon: Ongoing cryptomining campaign uses hacked AWS accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/amazon-ongoing-cryptomining-campaign-uses-hacked-aws-accounts/",
-    "published": "Wed, 17 Dec 2025 16:48:33 -0500",
-    "summary": "Amazon's AWS GuardDuty security team is warning of an ongoing crypto-mining campaign that targets its Elastic Compute Cloud (EC2) and Elastic Container Service (ECS) using compromised credentials for Identity and Access Management (IAM). [...]",
-    "ai_summary": "Amazon's AWS GuardDuty security team is warning of an ongoing crypto-mining campaign that targets its Elastic Compute Cloud (EC2) and Elastic Container Service (ECS) using compromised credentials f...",
-    "authors": [
-      "Bill Toulas"
-    ]
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "WhatsApp device linking abused in account hijacking attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/",
-    "published": "Wed, 17 Dec 2025 14:14:30 -0500",
-    "summary": "Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing. [...]",
-    "ai_summary": "Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing.",
-    "authors": [
-      "Bill Toulas"
     ]
   },
   {
@@ -647,15 +639,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62470",
-        "CVE-2025-59517",
-        "CVE-2025-62458",
-        "CVE-2025-62472",
-        "CVE-2025-62554",
-        "CVE-2025-62562",
+        "CVE-2025-62557",
         "CVE-2025-59516",
-        "CVE-2025-62221",
-        "CVE-2025-62557"
+        "CVE-2025-62562",
+        "CVE-2025-62554",
+        "CVE-2025-59517",
+        "CVE-2025-62470",
+        "CVE-2025-62472",
+        "CVE-2025-62458",
+        "CVE-2025-62221"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -815,8 +807,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62199",
         "CVE-2025-60274",
+        "CVE-2025-62199",
         "CVE-2025-62215"
       ],
       "threat_categories": [
@@ -848,6 +840,39 @@
         "Cloud Security"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "University of Sydney Data Breach Affects 27,000 Individuals",
+    "link": "https://www.securityweek.com/university-of-sydney-data-breach-affects-27000-individuals/",
+    "published": "Fri, 19 Dec 2025 11:59:57 +0000",
+    "summary": "<p>Downloaded from a code library, the information pertains to current and former staff and affiliates, and to alumni and students.</p>\n<p>The post <a href=\"https://www.securityweek.com/university-of-sydney-data-breach-affects-27000-individuals/\">University of Sydney Data Breach Affects 27,000 Individuals </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "ai_summary": "Downloaded from a code library, the information pertains to current and former staff and affiliates, and to alumni and students.",
+    "authors": [
+      "Ionut Arghire"
+    ]
+  },
+  {
+    "source": "Security Week",
+    "title": "‘Kimwolf’ Android Botnet Ensnares 1.8 Million Devices",
+    "link": "https://www.securityweek.com/kimwolf-android-botnet-ensnares-1-8-million-devices/",
+    "published": "Fri, 19 Dec 2025 11:48:49 +0000",
+    "summary": "<p>Linked to the Aisuru IoT botnet, Kimwolf was seen launching over 1.7 billion DDoS attack commands and increasing its C&#038;C domain’s popularity.</p>\n<p>The post <a href=\"https://www.securityweek.com/kimwolf-android-botnet-ensnares-1-8-million-devices/\">&#8216;Kimwolf&#8217; Android Botnet Ensnares 1.8 Million Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "ai_summary": "Linked to the Aisuru IoT botnet, Kimwolf was seen launching over 1.",
+    "authors": [
+      "Ionut Arghire"
+    ]
+  },
+  {
+    "source": "Security Week",
+    "title": "North Korea’s Digital Surge: $2B Stolen in Crypto as Amazon Blocks 1,800 Fake IT Workers",
+    "link": "https://www.securityweek.com/north-koreas-digital-surge-2b-stolen-in-crypto-as-amazon-blocks-1800-fake-it-workers/",
+    "published": "Fri, 19 Dec 2025 10:01:36 +0000",
+    "summary": "<p>Data from Chainalysis and Amazon offers a glimpse into North Korea’s cyber activities surrounding cryptocurrency theft and fake IT workers.</p>\n<p>The post <a href=\"https://www.securityweek.com/north-koreas-digital-surge-2b-stolen-in-crypto-as-amazon-blocks-1800-fake-it-workers/\">North Korea&#8217;s Digital Surge: $2B Stolen in Crypto as Amazon Blocks 1,800 Fake IT Workers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "ai_summary": "Data from Chainalysis and Amazon offers a glimpse into North Korea’s cyber activities surrounding cryptocurrency theft and fake IT workers.",
+    "authors": [
+      "Eduard Kovacs"
+    ]
   },
   {
     "source": "Security Week",
@@ -924,39 +949,6 @@
     "ai_summary": "The medium-severity flaw has been exploited in combination with a critical bug for remote code execution.",
     "authors": [
       "Ionut Arghire"
-    ]
-  },
-  {
-    "source": "Security Week",
-    "title": "China-Linked Hackers Exploiting Zero-Day in Cisco Security Gear",
-    "link": "https://www.securityweek.com/china-linked-hackers-exploiting-zero-day-in-cisco-security-gear/",
-    "published": "Thu, 18 Dec 2025 07:12:31 +0000",
-    "summary": "<p>The critical zero-day is tracked as CVE-2025-20393 and it impacts Secure Email Gateway and Secure Email and Web Manager appliances.</p>\n<p>The post <a href=\"https://www.securityweek.com/china-linked-hackers-exploiting-zero-day-in-cisco-security-gear/\">China-Linked Hackers Exploiting Zero-Day in Cisco Security Gear</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "ai_summary": "The critical zero-day is tracked as CVE-2025-20393 and it impacts Secure Email Gateway and Secure Email and Web Manager appliances.",
-    "authors": [
-      "Eduard Kovacs"
-    ]
-  },
-  {
-    "source": "Security Week",
-    "title": "NMFTA Warns of Surge and Sophistication of Cyber-Enabled Cargo Theft",
-    "link": "https://www.securityweek.com/nmfta-warns-of-surge-and-sophistication-of-cyber-enabled-cargo-theft/",
-    "published": "Wed, 17 Dec 2025 13:39:51 +0000",
-    "summary": "<p>The trucking industry group has released its 2026 Transportation Industry Cybersecurity Trends Report.</p>\n<p>The post <a href=\"https://www.securityweek.com/nmfta-warns-of-surge-and-sophistication-of-cyber-enabled-cargo-theft/\">NMFTA Warns of Surge and Sophistication of Cyber-Enabled Cargo Theft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "ai_summary": "The trucking industry group has released its 2026 Transportation Industry Cybersecurity Trends Report.",
-    "authors": [
-      "Eduard Kovacs"
-    ]
-  },
-  {
-    "source": "Security Week",
-    "title": "Hacker Conversations: Alex Hall, One-Time Fraudster",
-    "link": "https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/",
-    "published": "Wed, 17 Dec 2025 13:00:00 +0000",
-    "summary": "<p>A first-person journey from undetected fraud to defending trust—how life events, neurodiversity, and hard-won insight shaped a former fraudster into a fraud fighter.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/\">Hacker Conversations: Alex Hall, One-Time Fraudster</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "ai_summary": "A first-person journey from undetected fraud to defending trust—how life events, neurodiversity, and hard-won insight shaped a former fraudster into a fraud fighter.",
-    "authors": [
-      "Kevin Townsend"
     ]
   },
   {
@@ -1092,12 +1084,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62549",
+        "CVE-2025-62557",
+        "CVE-2025-62554",
+        "CVE-2025-62553",
         "CVE-2025-62456",
         "CVE-2025-62556",
-        "CVE-2025-62553",
-        "CVE-2025-62554",
-        "CVE-2025-62557"
+        "CVE-2025-62549"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1813,8 +1805,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -2592,6 +2584,26 @@
   },
   {
     "source": "Cloud Security",
+    "title": "Is Cloud-Native Key Management Right for You?",
+    "link": "https://cloudsecurityalliance.org/articles/is-cloud-native-key-management-right-for-you",
+    "published": "Tue, 25 Nov 2025 20:39:06 -0800",
+    "summary": "If you’re moving sensitive workloads into the cloud, the question “How will we handle key management in cloud services?” comes up quickly. Most providers make the decision feel easy. Turn on their cloud-native key management service, wire it into storage and databases, and move on.\n\nBut how far can you safely go with a purely cloud-native key management approach? And when do you need something more?\n\nThis blog draws on CSA’s new Key Management in Cloud Services guidance. It zooms in on a ...",
+    "ai_summary": "If you’re moving sensitive workloads into the cloud, the question “How will we handle key management in cloud services.",
+    "authors": [],
+    "analysis": {
+      "issue": "Is Cloud-Native Key Management Right for You?",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Cloud Security"
+      ]
+    }
+  },
+  {
+    "source": "Cloud Security",
     "title": "How to Build AI Prompt Guardrails: An In-Depth Guide for Securing Enterprise GenAI",
     "link": "https://cloudsecurityalliance.org/articles/how-to-build-ai-prompt-guardrails-an-in-depth-guide-for-securing-enterprise-genai",
     "published": "Tue, 25 Nov 2025 16:27:33 -0800",
@@ -2640,26 +2652,6 @@
     "authors": [],
     "analysis": {
       "issue": "MCP Can Be RCE for You and Me",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Cloud Security",
-    "title": "The Ghost in the Machine is a Compulsive Liar",
-    "link": "https://cloudsecurityalliance.org/articles/the-ghost-in-the-machine-is-a-compulsive-liar",
-    "published": "Mon, 24 Nov 2025 09:34:15 -0800",
-    "summary": "We built AI in our own image, but we forgot the blueprint – and now we’re shocked when it lies to us? The fix isn’t in the code, but our philosophy of perception.\n\nForget technical manuals - the best explanation of AI risk I ever heard came from the neuroscientist Andrew Gallimore talking about DMT on a Joe Rogan podcast. As my wife and I made the long drive to see family, Gallimore explained that when you dream, your brain builds the entire world, from scratch, from memory.\n\nIt’s alm...",
-    "ai_summary": "We built AI in our own image, but we forgot the blueprint – and now we’re shocked when it lies to us.",
-    "authors": [],
-    "analysis": {
-      "issue": "The Ghost in the Machine is a Compulsive Liar",
       "solution": null,
       "cause": null,
       "timeline": null,

@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-19 08:36:49 UTC
+**Last Updated:** 2025-12-19 12:47:54 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -102,26 +102,12 @@
 
 ---
 
-#### 2. [Zeroday Cloud hacking event awards $320,0000 for 11 zero days](https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Wed, 17 Dec 2025 18:09:36 -0500  
-
-**📝 Summary:** The Zeroday Cloud hacking competition in London has awarded researchers $320,000 for demonstrating critical remote code execution vulnerabilities in components used in cloud infrastructure.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** The Linux kernel was compromised through a container escape flaw, which allowed attackers to break isolation between cloud tenants, undermining a core cloud security guarantee
-
----
-
-#### 3. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+#### 2. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62470, CVE-2025-59517, CVE-2025-62458, CVE-2025-62472, CVE-2025-62554, CVE-2025-62562, CVE-2025-59516, CVE-2025-62221, CVE-2025-62557  
+**🔖 CVEs:** CVE-2025-62557, CVE-2025-59516, CVE-2025-62562, CVE-2025-62554, CVE-2025-59517, CVE-2025-62470, CVE-2025-62472, CVE-2025-62458, CVE-2025-62221  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -132,12 +118,12 @@
 
 ---
 
-#### 4. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
+#### 3. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62199, CVE-2025-60274, CVE-2025-62215  
+**🔖 CVEs:** CVE-2025-60274, CVE-2025-62199, CVE-2025-62215  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -149,7 +135,7 @@
 
 ---
 
-#### 5. [November 2025 CVE Landscape: 10 Critical Vulnerabilities Show 69% Drop from October](https://www.recordedfuture.com/blog/november-2025-cve-landscape)
+#### 4. [November 2025 CVE Landscape: 10 Critical Vulnerabilities Show 69% Drop from October](https://www.recordedfuture.com/blog/november-2025-cve-landscape)
 
 🔴 **CRITICAL**  
 **📡 Source:** Recorded Future  
@@ -164,10 +150,40 @@
 
 ---
 
+#### 5. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Threat Post  
+**📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
+**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
+
+**📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** ” The vulnerability allows an application to execute arbitrary code with kernel privileges, according to Apple, which, in usual vague fashion, said there is a report that it “may have been actively exploited
+- **✅ Solution:** Share this article: Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack
+
+---
+
 
 ### 🔴 DDoS
 
-#### 1. [Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks](https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html)
+#### 1. [Denmark blames Russia for destructive cyberattack on water utility](https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Fri, 19 Dec 2025 07:28:48 -0500  
+
+**📝 Summary:** Danish intelligence officials blamed Russia for orchestrating cyberattacks against Denmark's critical infrastructure, as part of Moscow's hybrid attacks against Western nations.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Danish intelligence officials blamed Russia for orchestrating cyberattacks against Denmark's critical infrastructure, as part of Moscow's hybrid attacks against Western nations
+
+---
+
+#### 2. [Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks](https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html)
 
 **📡 Source:** The Hacker News  
 **📅 Published:** Wed, 17 Dec 2025 23:39:00 +0530  
@@ -286,21 +302,7 @@
 
 ---
 
-#### 3. [France arrests suspect tied to cyberattack on Interior Ministry](https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/)
-
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Wed, 17 Dec 2025 17:20:02 -0500  
-
-**📝 Summary:** French authorities arrested a 22-year-old suspect on Tuesday for a cyberattack that targeted France's Ministry of the Interior earlier this month.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** French authorities arrested a 22-year-old suspect on Tuesday for a cyberattack that targeted France's Ministry of the Interior earlier this month
-- **✅ Solution:** "A person was arrested on December 17, 2025, as part of the investigation opened by the cybercrime unit of the Paris public prosecutor's office, on charges including unauthorized access to an automated personal data processing system implemented by t
-
----
-
-#### 4. [It’s not personal, it’s just business](https://blog.talosintelligence.com/its-not-personal-its-just-business/)
+#### 3. [It’s not personal, it’s just business](https://blog.talosintelligence.com/its-not-personal-its-just-business/)
 
 **📡 Source:** Talos Blog  
 **📅 Published:** Thu, 20 Nov 2025 19:00:04 GMT  
@@ -314,7 +316,7 @@
 
 ---
 
-#### 5. [What’s Next for Enterprise Threat Intelligence in 2026](https://www.recordedfuture.com/blog/whats-next-for-enterprise-threat-intelligence-in-2026)
+#### 4. [What’s Next for Enterprise Threat Intelligence in 2026](https://www.recordedfuture.com/blog/whats-next-for-enterprise-threat-intelligence-in-2026)
 
 **📡 Source:** Recorded Future  
 **📅 Published:** Mon, 15 Dec 2025 00:00:00 GMT  
@@ -324,6 +326,19 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** Top enterprise threat intelligence trends for 2026: AI-augmented CTI, unified platforms, workflow integration, data fusion, budgets, ROI, and maturity
+
+---
+
+#### 5. [Twitter Whistleblower Complaint: The TL;DR Version](https://threatpost.com/twitter-whistleblower-tldr-version/180472/)
+
+**📡 Source:** Threat Post  
+**📅 Published:** Wed, 24 Aug 2022 14:17:04 +0000  
+
+**📝 Summary:** Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Twitter Whistleblower Complaint: The TL;DR Version
 
 ---
 
@@ -490,7 +505,20 @@
 
 ---
 
-#### 4. [Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App](https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html)
+#### 4. [Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks](https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html)
+
+**📡 Source:** The Hacker News  
+**📅 Published:** Fri, 19 Dec 2025 15:56:00 +0530  
+
+**📝 Summary:** Authorities in Nigeria have announced the arrest of three "high-profile internet fraud suspects" who are alleged to have been involved in phishing attacks targeting major corporations, including th...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks
+
+---
+
+#### 5. [Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App](https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html)
 
 **📡 Source:** The Hacker News  
 **📅 Published:** Thu, 18 Dec 2025 13:13:00 +0530  
@@ -500,20 +528,6 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** North Korean group Kimsuky uses QR code phishing sites posing as CJ Logistics to spread DocSwap Android malware with RAT capabilities
-
----
-
-#### 5. [APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign](https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html)
-
-**📡 Source:** The Hacker News  
-**📅 Published:** Wed, 17 Dec 2025 21:00:00 +0530  
-
-**📝 Summary:** The Russian state-sponsored threat actor known as APT28 has been attributed to what has been described as a "sustained" credential-harvesting campaign targeting users of UKR[.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign
-- **⏰ Timeline:** a sustained phishing campaign from June 2024 to April 2025, using fake UKR.net login pages to steal credentials and 2FA code
 
 ---
 
@@ -615,7 +629,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62199, CVE-2025-60274, CVE-2025-62215  
+**🔖 CVEs:** CVE-2025-60274, CVE-2025-62199, CVE-2025-62215  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -648,7 +662,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
 **📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
+**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
 
 **📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
 
@@ -678,7 +692,23 @@
 
 ### 🔴 Vulnerability
 
-#### 1. [HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution](https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html)
+#### 1. [WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability](https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html)
+
+🔴 **CRITICAL**  
+**📡 Source:** The Hacker News  
+**📅 Published:** Fri, 19 Dec 2025 16:53:00 +0530  
+**🔖 CVEs:** CVE-2025-14733  
+
+**📝 Summary:** WatchGuard has released fixes to address a critical security flaw in Fireware OS that it said has been exploited in real-world attacks.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** 3 that is actively exploited in the wild
+- **✅ Solution:** WatchGuard fixed CVE-2025-14733, a critical Fireware OS VPN flaw with CVSS 9
+
+---
+
+#### 2. [HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution](https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html)
 
 🔴 **CRITICAL**  
 **📡 Source:** The Hacker News  
@@ -693,7 +723,7 @@
 
 ---
 
-#### 2. [CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation](https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html)
+#### 3. [CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation](https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html)
 
 🔴 **CRITICAL**  
 **📡 Source:** The Hacker News  
@@ -708,7 +738,7 @@
 
 ---
 
-#### 3. [Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances](https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html)
+#### 4. [Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances](https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html)
 
 🔴 **CRITICAL**  
 **📡 Source:** The Hacker News  
@@ -723,7 +753,7 @@
 
 ---
 
-#### 4. [SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances](https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html)
+#### 5. [SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances](https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html)
 
 🔴 **CRITICAL**  
 **📡 Source:** The Hacker News  
@@ -736,22 +766,6 @@
 
 - **⚠️ Issue:** SonicWall released fixes for an actively exploited SMA 100 vulnerability enabling privilege escalation and chained root access attacks
 - **✅ Solution:** SonicWall released fixes for an actively exploited SMA 100 vulnerability enabling privilege escalation and chained root access attacks
-
----
-
-#### 5. [Clop ransomware targets Gladinet CentreStack in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Thu, 18 Dec 2025 15:16:55 -0500  
-
-**📝 Summary:** The Clop ransomware gang is targeting Internet-exposed Gladinet CentreStack file servers in a new data theft extortion campaign.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** However, there is currently no information on the vulnerability Clop is exploiting to hack into CentreStack servers
-- **🔎 Cause:** However, there is currently no information on the vulnerability Clop is exploiting to hack into CentreStack servers
-- **✅ Solution:** It is unclear whether this is a zero-day flaw or a previously addressed bug that the owners of the hacked systems have yet to patch
 
 ---
 
