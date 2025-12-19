@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-19 04:43:00 UTC
+**Last Updated:** 2025-12-19 08:36:49 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -121,7 +121,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62472, CVE-2025-62470, CVE-2025-62557, CVE-2025-62221, CVE-2025-62562, CVE-2025-59517, CVE-2025-62458, CVE-2025-59516, CVE-2025-62554  
+**🔖 CVEs:** CVE-2025-62470, CVE-2025-59517, CVE-2025-62458, CVE-2025-62472, CVE-2025-62554, CVE-2025-62562, CVE-2025-59516, CVE-2025-62221, CVE-2025-62557  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
