@@ -422,9 +422,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2025-14304",
         "CVE-2025-14303",
-        "CVE-2025-11901",
-        "CVE-2025-14304"
+        "CVE-2025-11901"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -449,8 +449,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-59718",
-        "CVE-2025-59719"
+        "CVE-2025-59719",
+        "CVE-2025-59718"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -579,7 +579,18 @@
     "ai_summary": "Hackers gained access to an online coding repository belonging to the University of Sydney and stole files with personal information of staff and students.",
     "authors": [
       "Bill Toulas"
-    ]
+    ],
+    "analysis": {
+      "issue": "\" The personal data stolen in the attack impacts more than 27,000 individuals as follows: The staff data includes names, dates of birth, phone numbers, home addresses, and job details",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
@@ -590,7 +601,20 @@
     "ai_summary": "The Clop ransomware gang is targeting Internet-exposed Gladinet CentreStack file servers in a new data theft extortion campaign.",
     "authors": [
       "Sergiu Gatlan"
-    ]
+    ],
+    "analysis": {
+      "issue": "However, there is currently no information on the vulnerability Clop is exploiting to hack into CentreStack servers",
+      "solution": "It is unclear whether this is a zero-day flaw or a previously addressed bug that the owners of the hacked systems have yet to patch",
+      "cause": "However, there is currently no information on the vulnerability Clop is exploiting to hack into CentreStack servers",
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Cloud Security"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
@@ -601,7 +625,19 @@
     "ai_summary": "An automated campaign is targeting multiple VPN platforms, with credential-based attacks being observed on Palo Alto Networks GlobalProtect and Cisco SSL VPN.",
     "authors": [
       "Bill Toulas"
-    ]
+    ],
+    "analysis": {
+      "issue": "\"The consistency of the user agent, request structure, and timing suggests scripted credential probing designed to identify exposed or weakly protected GlobalProtect portals, rather than interactive access attempts or vulnerability exploitation,\" Gre",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Cloud Security"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -665,15 +701,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62554",
+        "CVE-2025-59517",
+        "CVE-2025-59516",
+        "CVE-2025-62562",
+        "CVE-2025-62221",
         "CVE-2025-62458",
+        "CVE-2025-62554",
         "CVE-2025-62557",
         "CVE-2025-62470",
-        "CVE-2025-59517",
-        "CVE-2025-62221",
-        "CVE-2025-62472",
-        "CVE-2025-59516",
-        "CVE-2025-62562"
+        "CVE-2025-62472"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -833,9 +869,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-60274",
         "CVE-2025-62199",
-        "CVE-2025-62215"
+        "CVE-2025-62215",
+        "CVE-2025-60274"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1087,12 +1123,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62554",
-        "CVE-2025-62557",
         "CVE-2025-62549",
         "CVE-2025-62456",
+        "CVE-2025-62553",
         "CVE-2025-62556",
-        "CVE-2025-62553"
+        "CVE-2025-62554",
+        "CVE-2025-62557"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1808,8 +1844,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
