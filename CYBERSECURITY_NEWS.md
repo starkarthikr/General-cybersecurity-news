@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-20 12:43:54 UTC
+**Last Updated:** 2025-12-20 16:30:57 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -106,12 +106,28 @@
 
 ---
 
-#### 2. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+#### 2. [Clop ransomware targets Gladinet CentreStack in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Thu, 18 Dec 2025 15:16:55 -0500  
+
+**📝 Summary:** The Clop ransomware gang is targeting Internet-exposed Gladinet CentreStack file servers in a new data theft extortion campaign.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** However, there is currently no information on the vulnerability Clop is exploiting to hack into CentreStack servers
+- **🔎 Cause:** However, there is currently no information on the vulnerability Clop is exploiting to hack into CentreStack servers
+- **✅ Solution:** It is unclear whether this is a zero-day flaw or a previously addressed bug that the owners of the hacked systems have yet to patch
+
+---
+
+#### 3. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-62470, CVE-2025-59517, CVE-2025-62458, CVE-2025-59516, CVE-2025-62221, CVE-2025-62472, CVE-2025-62554, CVE-2025-62557, CVE-2025-62562  
+**🔖 CVEs:** CVE-2025-62221, CVE-2025-62554, CVE-2025-62557, CVE-2025-62472, CVE-2025-59516, CVE-2025-59517, CVE-2025-62562, CVE-2025-62470, CVE-2025-62458  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -122,12 +138,12 @@
 
 ---
 
-#### 3. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
+#### 4. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62215, CVE-2025-62199, CVE-2025-60274  
+**🔖 CVEs:** CVE-2025-62215, CVE-2025-60274, CVE-2025-62199  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -139,7 +155,7 @@
 
 ---
 
-#### 4. [November 2025 CVE Landscape: 10 Critical Vulnerabilities Show 69% Drop from October](https://www.recordedfuture.com/blog/november-2025-cve-landscape)
+#### 5. [November 2025 CVE Landscape: 10 Critical Vulnerabilities Show 69% Drop from October](https://www.recordedfuture.com/blog/november-2025-cve-landscape)
 
 🔴 **CRITICAL**  
 **📡 Source:** Recorded Future  
@@ -151,22 +167,6 @@
 
 - **⚠️ Issue:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching
 - **✅ Solution:** November 2025 CVE landscape: 10 exploited critical vulnerabilities, a 69% drop from October, and why Fortinet and Samsung flaws need urgent patching
-
----
-
-#### 5. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
-
-🔴 **CRITICAL**  
-**📡 Source:** Threat Post  
-**📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
-
-**📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** ” The vulnerability allows an application to execute arbitrary code with kernel privileges, according to Apple, which, in usual vague fashion, said there is a report that it “may have been actively exploited
-- **✅ Solution:** Share this article: Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack
 
 ---
 
@@ -184,19 +184,6 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** Danish intelligence officials blamed Russia for orchestrating cyberattacks against Denmark's critical infrastructure, as part of Moscow's hybrid attacks against Western nations
-
----
-
-#### 2. [Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks](https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html)
-
-**📡 Source:** The Hacker News  
-**📅 Published:** Wed, 17 Dec 2025 23:39:00 +0530  
-
-**📝 Summary:** A new distributed denial-of-service (DDoS) botnet known as Kimwolf has enlisted a massive army of no less than 1.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks
 
 ---
 
@@ -234,7 +221,20 @@
 
 ---
 
-#### 3. [Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform](https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/)
+#### 3. [University of Sydney suffers data breach exposing student and staff info](https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/)
+
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Thu, 18 Dec 2025 15:22:58 -0500  
+
+**📝 Summary:** Hackers gained access to an online coding repository belonging to the University of Sydney and stole files with personal information of staff and students.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** " The personal data stolen in the attack impacts more than 27,000 individuals as follows: The staff data includes names, dates of birth, phone numbers, home addresses, and job details
+
+---
+
+#### 4. [Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform](https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/)
 
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Fri, 19 Dec 2025 14:05:32 -0500  
@@ -247,7 +247,7 @@
 
 ---
 
-#### 4. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
+#### 5. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
 
 **📡 Source:** Krebs On Security  
 **📅 Published:** Wed, 26 Nov 2025 17:22:36 +0000  
@@ -257,20 +257,6 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** The group later launched a data leak portal that threatened to publish the internal data of three dozen companies that allegedly had Salesforce data stolen, including Toyota, FedEx, Disney/Hulu, and UPS
-
----
-
-#### 5. [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
-
-**📡 Source:** Krebs On Security  
-**📅 Published:** Thu, 20 Nov 2025 19:06:51 +0000  
-
-**📝 Summary:** In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of p...
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** “We will continue to offer our free Monitor data breach service, which is integrated into Firefox’s credential manager, and we are focused on integrating more of our privacy and security experiences in Firefox, including our VPN, for free,” the advis
-- **✅ Solution:** In March 2024, Mozilla said it was winding down its collaboration with Onerep — an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites — after KrebsOnSecurity revealed On
 
 ---
 
@@ -368,7 +354,7 @@
 
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Fri, 19 Dec 2025 10:54:48 -0500  
-**🔖 CVEs:** CVE-2025-11901, CVE-2025-14304, CVE-2025-14303  
+**🔖 CVEs:** CVE-2025-14303, CVE-2025-11901, CVE-2025-14304  
 
 **📝 Summary:** The UEFI firmware implementation in some motherboards from ASUS, Gigabyte, MSI, and ASRock is vulnerable to direct memory access (DMA) attacks that can bypass early-boot memory protections.
 
@@ -560,7 +546,23 @@
 
 ### 🔴 Ransomware
 
-#### 1. [New BYOVD loader behind DeadLock ransomware attack](https://blog.talosintelligence.com/byovd-loader-deadlock-ransomware/)
+#### 1. [Clop ransomware targets Gladinet CentreStack in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/)
+
+🔴 **CRITICAL**  
+**📡 Source:** Bleeping Computer  
+**📅 Published:** Thu, 18 Dec 2025 15:16:55 -0500  
+
+**📝 Summary:** The Clop ransomware gang is targeting Internet-exposed Gladinet CentreStack file servers in a new data theft extortion campaign.
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** However, there is currently no information on the vulnerability Clop is exploiting to hack into CentreStack servers
+- **🔎 Cause:** However, there is currently no information on the vulnerability Clop is exploiting to hack into CentreStack servers
+- **✅ Solution:** It is unclear whether this is a zero-day flaw or a previously addressed bug that the owners of the hacked systems have yet to patch
+
+---
+
+#### 2. [New BYOVD loader behind DeadLock ransomware attack](https://blog.talosintelligence.com/byovd-loader-deadlock-ransomware/)
 
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
@@ -576,7 +578,7 @@
 
 ---
 
-#### 2. [Adios 2025, you won’t be missed](https://blog.talosintelligence.com/adios-2025-you-wont-be-missed/)
+#### 3. [Adios 2025, you won’t be missed](https://blog.talosintelligence.com/adios-2025-you-wont-be-missed/)
 
 🟡 **MEDIUM**  
 **📡 Source:** Talos Blog  
@@ -590,7 +592,7 @@
 
 ---
 
-#### 3. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
+#### 4. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
 
 **📡 Source:** Krebs On Security  
 **📅 Published:** Wed, 26 Nov 2025 17:22:36 +0000  
@@ -603,7 +605,7 @@
 
 ---
 
-#### 4. [Ransomware Attacks are on the Rise](https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/)
+#### 5. [Ransomware Attacks are on the Rise](https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/)
 
 **📡 Source:** Threat Post  
 **📅 Published:** Fri, 26 Aug 2022 16:44:27 +0000  
@@ -640,7 +642,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62215, CVE-2025-62199, CVE-2025-60274  
+**🔖 CVEs:** CVE-2025-62215, CVE-2025-60274, CVE-2025-62199  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -657,7 +659,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
 **📅 Published:** Wed, 17 Dec 2025 21:02:40 GMT  
-**🔖 CVEs:** CVE-2025-66048, CVE-2025-66043  
+**🔖 CVEs:** CVE-2025-66043, CVE-2025-66048  
 
 **📝 Summary:** Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed vulnerabilities in Biosig Project Libbiosig, Grassroot DiCoM, and Smallstep step-ca.
 
@@ -673,7 +675,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
 **📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
+**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
 
 **📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
 

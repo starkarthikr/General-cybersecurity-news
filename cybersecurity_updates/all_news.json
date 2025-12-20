@@ -1,6 +1,28 @@
 [
   {
     "source": "The Hacker News",
+    "title": "U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware",
+    "link": "https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html",
+    "published": "Sat, 20 Dec 2025 19:18:00 +0530",
+    "summary": "The U.S. Department of Justice (DoJ) this week announced the indictment of 54 individuals in connection with a multi-million dollar ATM jackpotting scheme.\nThe large-scale conspiracy involved deploying malware named Ploutus to hack into automated teller machines (ATMs) across the U.S. and force them to dispense cash. The indicted members are alleged to be part of Tren de Aragua (TdA, Spanish for",
+    "ai_summary": "Department of Justice (DoJ) this week announced the indictment of 54 individuals in connection with a multi-million dollar ATM jackpotting scheme.",
+    "authors": [
+      "The Hacker News"
+    ],
+    "analysis": {
+      "issue": "The DOJ charged 54 people over Ploutus malware attacks on ATMs, linked to Tren de Aragua, causing $40",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": null,
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers",
     "link": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html",
     "published": "Fri, 19 Dec 2025 23:24:00 +0530",
@@ -315,29 +337,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks",
-    "link": "https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html",
-    "published": "Wed, 17 Dec 2025 23:39:00 +0530",
-    "summary": "A new distributed denial-of-service (DDoS) botnet known as Kimwolf has enlisted a massive army of no less than 1.8 million infected devices comprising Android-based TVs, set-top boxes, and tablets, and may be associated with another botnet known as AISURU, according to findings from QiAnXin XLab.\n\"Kimwolf is a botnet compiled using the NDK [Native Development Kit],\" the company said in a report",
-    "ai_summary": "A new distributed denial-of-service (DDoS) botnet known as Kimwolf has enlisted a massive army of no less than 1.",
-    "authors": [
-      "The Hacker News"
-    ],
-    "analysis": {
-      "issue": "Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": null,
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Microsoft confirms Teams is down and messages are delayed",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/",
@@ -422,9 +421,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2025-14303",
         "CVE-2025-11901",
-        "CVE-2025-14304",
-        "CVE-2025-14303"
+        "CVE-2025-14304"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -579,7 +578,18 @@
     "ai_summary": "Hackers gained access to an online coding repository belonging to the University of Sydney and stole files with personal information of staff and students.",
     "authors": [
       "Bill Toulas"
-    ]
+    ],
+    "analysis": {
+      "issue": "\" The personal data stolen in the attack impacts more than 27,000 individuals as follows: The staff data includes names, dates of birth, phone numbers, home addresses, and job details",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
@@ -590,7 +600,20 @@
     "ai_summary": "The Clop ransomware gang is targeting Internet-exposed Gladinet CentreStack file servers in a new data theft extortion campaign.",
     "authors": [
       "Sergiu Gatlan"
-    ]
+    ],
+    "analysis": {
+      "issue": "However, there is currently no information on the vulnerability Clop is exploiting to hack into CentreStack servers",
+      "solution": "It is unclear whether this is a zero-day flaw or a previously addressed bug that the owners of the hacked systems have yet to patch",
+      "cause": "However, there is currently no information on the vulnerability Clop is exploiting to hack into CentreStack servers",
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Cloud Security"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
@@ -665,15 +688,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62470",
-        "CVE-2025-59517",
-        "CVE-2025-62458",
-        "CVE-2025-59516",
         "CVE-2025-62221",
-        "CVE-2025-62472",
         "CVE-2025-62554",
         "CVE-2025-62557",
-        "CVE-2025-62562"
+        "CVE-2025-62472",
+        "CVE-2025-59516",
+        "CVE-2025-59517",
+        "CVE-2025-62562",
+        "CVE-2025-62470",
+        "CVE-2025-62458"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -834,8 +857,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-62215",
-        "CVE-2025-62199",
-        "CVE-2025-60274"
+        "CVE-2025-60274",
+        "CVE-2025-62199"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -994,8 +1017,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-66048",
-        "CVE-2025-66043"
+        "CVE-2025-66043",
+        "CVE-2025-66048"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1087,11 +1110,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62549",
-        "CVE-2025-62553",
-        "CVE-2025-62556",
         "CVE-2025-62554",
         "CVE-2025-62557",
+        "CVE-2025-62556",
+        "CVE-2025-62553",
+        "CVE-2025-62549",
         "CVE-2025-62456"
       ],
       "threat_categories": [
@@ -1808,8 +1831,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
