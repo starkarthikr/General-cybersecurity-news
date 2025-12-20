@@ -422,9 +422,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-14304",
+        "CVE-2025-14303",
         "CVE-2025-11901",
-        "CVE-2025-14303"
+        "CVE-2025-14304"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -449,8 +449,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-59719",
-        "CVE-2025-59718"
+        "CVE-2025-59718",
+        "CVE-2025-59719"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -579,18 +579,7 @@
     "ai_summary": "Hackers gained access to an online coding repository belonging to the University of Sydney and stole files with personal information of staff and students.",
     "authors": [
       "Bill Toulas"
-    ],
-    "analysis": {
-      "issue": "\" The personal data stolen in the attack impacts more than 27,000 individuals as follows: The staff data includes names, dates of birth, phone numbers, home addresses, and job details",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
+    ]
   },
   {
     "source": "Bleeping Computer",
@@ -676,15 +665,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-59516",
-        "CVE-2025-62557",
-        "CVE-2025-62458",
-        "CVE-2025-62472",
-        "CVE-2025-62562",
-        "CVE-2025-59517",
         "CVE-2025-62554",
+        "CVE-2025-62458",
+        "CVE-2025-62557",
         "CVE-2025-62470",
-        "CVE-2025-62221"
+        "CVE-2025-59517",
+        "CVE-2025-62221",
+        "CVE-2025-62472",
+        "CVE-2025-59516",
+        "CVE-2025-62562"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -844,9 +833,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62215",
+        "CVE-2025-60274",
         "CVE-2025-62199",
-        "CVE-2025-60274"
+        "CVE-2025-62215"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1005,8 +994,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-66043",
-        "CVE-2025-66048"
+        "CVE-2025-66048",
+        "CVE-2025-66043"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1098,12 +1087,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62556",
-        "CVE-2025-62557",
-        "CVE-2025-62553",
         "CVE-2025-62554",
+        "CVE-2025-62557",
+        "CVE-2025-62549",
         "CVE-2025-62456",
-        "CVE-2025-62549"
+        "CVE-2025-62556",
+        "CVE-2025-62553"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1819,8 +1808,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

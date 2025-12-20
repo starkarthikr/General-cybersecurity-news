@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Latest News
 
-**Last Updated:** 2025-12-19 20:30:34 UTC
+**Last Updated:** 2025-12-20 01:30:55 UTC
 
 ## 🚨 Breaking News (Last 3 Days)
 
@@ -94,7 +94,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Fri, 19 Dec 2025 10:00:45 -0500  
-**🔖 CVEs:** CVE-2025-59719, CVE-2025-59718  
+**🔖 CVEs:** CVE-2025-59718, CVE-2025-59719  
 
 **📝 Summary:** Internet security watchdog Shadowserver has found over 25,000 Fortinet devices exposed online with FortiCloud SSO enabled, amid ongoing attacks targeting a critical authentication bypass vulnerability.
 
@@ -111,7 +111,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**🔖 CVEs:** CVE-2025-59516, CVE-2025-62557, CVE-2025-62458, CVE-2025-62472, CVE-2025-62562, CVE-2025-59517, CVE-2025-62554, CVE-2025-62470, CVE-2025-62221  
+**🔖 CVEs:** CVE-2025-62554, CVE-2025-62458, CVE-2025-62557, CVE-2025-62470, CVE-2025-59517, CVE-2025-62221, CVE-2025-62472, CVE-2025-59516, CVE-2025-62562  
 
 **📝 Summary:** Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software.
 
@@ -127,7 +127,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62215, CVE-2025-62199, CVE-2025-60274  
+**🔖 CVEs:** CVE-2025-60274, CVE-2025-62199, CVE-2025-62215  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -159,7 +159,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
 **📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
+**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
 
 **📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
 
@@ -234,20 +234,7 @@
 
 ---
 
-#### 3. [University of Sydney suffers data breach exposing student and staff info](https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/)
-
-**📡 Source:** Bleeping Computer  
-**📅 Published:** Thu, 18 Dec 2025 15:22:58 -0500  
-
-**📝 Summary:** Hackers gained access to an online coding repository belonging to the University of Sydney and stole files with personal information of staff and students.
-
-**🔍 Analysis:**
-
-- **⚠️ Issue:** " The personal data stolen in the attack impacts more than 27,000 individuals as follows: The staff data includes names, dates of birth, phone numbers, home addresses, and job details
-
----
-
-#### 4. [Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform](https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/)
+#### 3. [Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform](https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/)
 
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Fri, 19 Dec 2025 14:05:32 -0500  
@@ -260,7 +247,7 @@
 
 ---
 
-#### 5. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
+#### 4. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
 
 **📡 Source:** Krebs On Security  
 **📅 Published:** Wed, 26 Nov 2025 17:22:36 +0000  
@@ -270,6 +257,20 @@
 **🔍 Analysis:**
 
 - **⚠️ Issue:** The group later launched a data leak portal that threatened to publish the internal data of three dozen companies that allegedly had Salesforce data stolen, including Toyota, FedEx, Disney/Hulu, and UPS
+
+---
+
+#### 5. [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
+
+**📡 Source:** Krebs On Security  
+**📅 Published:** Thu, 20 Nov 2025 19:06:51 +0000  
+
+**📝 Summary:** In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of p...
+
+**🔍 Analysis:**
+
+- **⚠️ Issue:** “We will continue to offer our free Monitor data breach service, which is integrated into Firefox’s credential manager, and we are focused on integrating more of our privacy and security experiences in Firefox, including our VPN, for free,” the advis
+- **✅ Solution:** In March 2024, Mozilla said it was winding down its collaboration with Onerep — an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites — after KrebsOnSecurity revealed On
 
 ---
 
@@ -367,7 +368,7 @@
 
 **📡 Source:** Bleeping Computer  
 **📅 Published:** Fri, 19 Dec 2025 10:54:48 -0500  
-**🔖 CVEs:** CVE-2025-14304, CVE-2025-11901, CVE-2025-14303  
+**🔖 CVEs:** CVE-2025-14303, CVE-2025-11901, CVE-2025-14304  
 
 **📝 Summary:** The UEFI firmware implementation in some motherboards from ASUS, Gigabyte, MSI, and ASRock is vulnerable to direct memory access (DMA) attacks that can bypass early-boot memory protections.
 
@@ -639,7 +640,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Krebs On Security  
 **📅 Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**🔖 CVEs:** CVE-2025-62215, CVE-2025-62199, CVE-2025-60274  
+**🔖 CVEs:** CVE-2025-60274, CVE-2025-62199, CVE-2025-62215  
 
 **📝 Summary:** Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being ex...
 
@@ -656,7 +657,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Talos Blog  
 **📅 Published:** Wed, 17 Dec 2025 21:02:40 GMT  
-**🔖 CVEs:** CVE-2025-66043, CVE-2025-66048  
+**🔖 CVEs:** CVE-2025-66048, CVE-2025-66043  
 
 **📝 Summary:** Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed vulnerabilities in Biosig Project Libbiosig, Grassroot DiCoM, and Smallstep step-ca.
 
@@ -672,7 +673,7 @@
 🔴 **CRITICAL**  
 **📡 Source:** Threat Post  
 **📅 Published:** Fri, 19 Aug 2022 15:25:56 +0000  
-**🔖 CVEs:** CVE-2022-32894, CVE-2022-32893  
+**🔖 CVEs:** CVE-2022-32893, CVE-2022-32894  
 
 **📝 Summary:** Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
 
