@@ -380,10 +380,24 @@ def generate_markdown_report(recent_articles):
         
         for category in sorted(by_category.keys()):
             articles = by_category[category]
-            # Sort by severity within category
-            articles.sort(key=lambda x: severity_order.get(
-                x.get('analysis', {}).get('severity'), 4
-            ))
+            
+            # Sort by date (latest first), then by severity
+            def sort_key(article):
+                try:
+                    pub_date = article.get('published', '')
+                    if pub_date and pub_date != 'Unknown':
+                        # Try multiple date formats
+                        for fmt in ['%a, %d %b %Y %H:%M:%S %z', '%a, %d %b %Y %H:%M:%S %Z', '%Y-%m-%d %H:%M:%S']:
+                            try:
+                                return (datetime.strptime(pub_date, fmt), 
+                                        severity_order.get(article.get('analysis', {}).get('severity'), 4))
+                            except:
+                                continue
+                    return (datetime.min, severity_order.get(article.get('analysis', {}).get('severity'), 4))
+                except:
+                    return (datetime.min, severity_order.get(article.get('analysis', {}).get('severity'), 4))
+            
+            articles.sort(key=sort_key, reverse=True)
             
             md_content += f"\n### 🔴 {category}\n\n"
             
