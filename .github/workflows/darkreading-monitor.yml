@@ -138,7 +138,7 @@ EOF
             const today = new Date().toISOString().split('T')[0];
             const { data: issues } = await github.rest.issues.listForRepo({
               owner: context.repo.owner,
-              repo: context.repo.owner,
+              repo: context.repo.repo,
               state: 'open',
               labels: 'critical-alert',
               per_page: 10
