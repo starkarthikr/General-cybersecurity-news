@@ -46,7 +46,7 @@ jobs:
           PYTHONUNBUFFERED: 1
 
       - name: Generate Summary Report
-        run: |
+        run:|
           echo "Generating summary statistics..."
           if [ -f cybersecurity_updates/recent_news.json ]; then
             python3 << 'EOF'
