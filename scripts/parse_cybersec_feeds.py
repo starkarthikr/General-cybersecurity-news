@@ -8,7 +8,7 @@ Generates structured analysis: Issue, Solution, Cause, Timeline
 import feedparser
 import json
 import re
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
@@ -389,13 +389,16 @@ def generate_markdown_report(recent_articles):
                         # Try multiple date formats
                         for fmt in ['%a, %d %b %Y %H:%M:%S %z', '%a, %d %b %Y %H:%M:%S %Z', '%Y-%m-%d %H:%M:%S']:
                             try:
-                                return (datetime.strptime(pub_date, fmt), 
+                                                                dt = datetime.strptime(pub_date, fmt)
+                                if dt.tzinfo is None:
+                                    dt = dt.replace(tzinfo=timezone.utc)
+                                return (dt, 
                                         severity_order.get(article.get('analysis', {}).get('severity'), 4))
                             except:
                                 continue
-                    return (datetime.min, severity_order.get(article.get('analysis', {}).get('severity'), 4))
+                    return (datetime.min.replace(tzinfo=timezone.utc), severity_order.get(article.get('analysis', {}).get('severity'), 4))
                 except:
-                    return (datetime.min, severity_order.get(article.get('analysis', {}).get('severity'), 4))
+                    return (datetime.min.replace(tzinfo=timezone.utc), severity_order.get(article.get('analysis', {}).get('severity'), 4))
             
             articles.sort(key=sort_key, reverse=True)
             
