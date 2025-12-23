@@ -416,9 +416,7 @@ def save_json_report(articles, filename):
                                                  
             articles.sort(key=sort_key, reverse=True)
 
-            md_content += f"\n### 🔴 {category}\n\n"### 🔴 {category}
-
-"
+            md_content += f"\n### 🔴 {category}\n\n"
 
             for idx, article in enumerate(articles[:5], 1): # Top 5 per category
                 # Severity badge
