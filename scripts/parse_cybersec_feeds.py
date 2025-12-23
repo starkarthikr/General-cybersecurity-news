@@ -429,7 +429,7 @@ def save_json_report(articles, filename):
                 elif severity == 'Medium':
                     severity_badge = '🟡 **MEDIUM**'
 
-                md_content += f"#### {idx}. [{article['title']}]({article['link'])
+                md_content += f"#### {idx}. [{article['title']}]({article['link'])"
 
 "
 
