@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # Allows manual trigger
 
 concurrency:
-  group: cybersec-monitor
+  group: cybersecurity-news-monitor-sync
   cancel-in-progress: false
 
 jobs:
