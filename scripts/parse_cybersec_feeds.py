@@ -382,11 +382,144 @@ def generate_markdown_report(recent_articles):
             articles = by_category[category]
             
                                         # Sort by date (latest first), then by severity
-            def sort_key(article):
+            403
+            
                 try:
                     pub_date = article.get('published', '')
                     if pub_date and pub_date != 'Unknown':
                         # Try multiple date formats
+                        for fmt in ['%a, %d %b %Y %H:%M:%S %z', '%a, %d %b %Y %H:%M:%S %Z', '%Y-%m-%d %H:%M:%S']:
+                            try:
+                                dt = datetime.strptime(pub_date, fmt)
+                                if dt.tzinfo is None:
+                                    dt = dt.replace(tzinfo=timezone.utc)
+                                return (dt, severity_order.get(article.get('analysis', {}).get('severity'), 4))
+                            except Exception:
+                                continue
+                    return (datetime.min.replace(tzinfo=timezone.ut404
+                                                 
+            articles.sort(key=sort_key, reverse=True)
+
+            md_content += f"
+### 🔴 {category}
+
+"
+
+            for idx, article in enumerate(articles[:5], 1): # Top 5 per category
+                # Severity badge
+                severity = article.get('analysis', {}).get('severity')
+                severity_badge = ''
+                if severity == 'Critical':
+                    severity_badge = '🔴 **CRITICAL**'
+                elif severity == 'High':
+                    severity_badge = '🟠 **HIGH**'
+                elif severity == 'Medium':
+                    severity_badge = '🟡 **MEDIUM**'
+
+                md_content += f"#### {idx}. [{article['title']}]({article['link']})
+
+"
+
+                if severity_badge:
+                    md_content += f"{severity_badge} 
+"
+
+                md_content += f"**📡 Source:** {article['source']} 
+"
+                md_content += f"**📅 Published:** {article['published']} 
+"
+
+                # CVEs if present
+                cves = article.get('analysis', {}).get('cves', [])
+                if cves:
+                    md_content += f"**🔖 CVEs:** {', '.join(cves)} 
+"
+
+                # Summary
+                if article.get('ai_summary'):
+                    md_content += f"
+**📝 Summary:** {article['ai_summary']}
+"
+
+                # Detailed Analysis
+                if article.get('analysis'):
+                    analysis = article['analysis']
+                    md_content += "
+**🔍 Analysis:**
+
+"
+
+                    if analysis.get('issue'):
+                        md_content += f"- **⚠️ Issue:** {analysis['issue']}
+"
+
+                    if analysis.get('cause'):
+                        md_content += f"- **🔎 Cause:** {analysis['cause']}
+"
+
+                    if analysis.get('solution'):
+                        md_content += f"- **✅ Solution:** {analysis['solution']}
+"
+
+                    if analysis.get('timeline'):
+                        md_content += f"- **⏰ Timeline:** {analysis['timeline']}
+"
+
+                md_content += "
+---
+
+"
+
+        # Add sources section
+        md_content += f"""
+## 📡 News Sources Monitored
+### Major News Outlets
+- **The Hacker News**: Breaking cybersecurity news and threat updates
+- **Bleeping Computer**: Malware, vulnerabilities, and security guides
+- **Krebs on Security**: Investigative cybercrime journalism
+- **Dark Reading**: Enterprise security and threat analysis
+- **SecurityWeek**: Comprehensive security news coverage
+### Threat Intelligence
+- **Cisco Talos**: Advanced threat research and intelligence
+- **Recorded Future**: Predictive threat intelligence
+- **ThreatPost**: Breaking threat news and analysis
+### Vendor Blogs
+- **Sophos News**: Security research and product updates
+- **Malwarebytes Blog**: Malware analysis and removal guides
+- **CrowdStrike Blog**: Threat hunting and endpoint security
+### Government Sources
+- **CISA Alerts**: Official US cybersecurity advisories
+- **US-CERT**: Current security activities and alerts
+### Specialized
+- **Cloud Security Alliance**: Cloud security best practices
+- **SANS Reading Room**: Security research and whitepapers
+---
+*🤖 This report is automatically generated every 4 hours with AI-powered threat analysis.* 
+*📊 Includes: Threat categorization, CVE tracking, Severity assessment, Actionable intelligence* 
+*Repository: [Cybersecurity News Monitor](https://github.com/starkarthikr/cybersecurity-news-monitor)*
+"""
+
+    with open('CYBERSECURITY_NEWS.md', 'w', encoding='utf-8') as f:
+        f.write(md_content)
+
+    print(f"Generated Markdown report with {len(recent_articles)} recent articles")
+
+def main():
+    print("=" * 70)
+    print("Cybersecurity News Monitor - Threat Intelligence Analysis")
+    print("=" * 70)
+
+    all_articles, recent_articles = process_feeds()
+
+    save_json_report(all_articles, 'all_news.json')381
+            for category in sorted(by_category.keys()):
+            articles = by_category[category]
+
+            # Sort by date (latest first), then by severity
+            def sort_key(article):
+                try:
+                    pub_date = article.get('published', '')
+                    if pub_date and pub_date != 'Unknown':
                         for fmt in ['%a, %d %b %Y %H:%M:%S %z', '%a, %d %b %Y %H:%M:%S %Z', '%Y-%m-%d %H:%M:%S']:
                             try:
                                 dt = datetime.strptime(pub_date, fmt)
@@ -401,119 +534,126 @@ def generate_markdown_report(recent_articles):
 
             articles.sort(key=sort_key, reverse=True)
 
-                                continue
-                    return (datetime.min.replace(tzinfo=timezone.utc), severity_order.get(article.get('analysis', {}).get('severity'), 4))
-                except:
-                    return (datetime.min.replace(tzinfo=timezone.utc), severity_order.get(article.get('analysis', {}).get('severity'), 4))
-            
-            articles.sort(key=sort_key, reverse=True)
-            
-            md_content += f"\n### 🔴 {category}\n\n"
-            
-            for idx, article in enumerate(articles[:5], 1):  # Top 5 per category
+            md_content += f"
+### 🔴 {category}
+
+"
+
+            for idx, article in enumerate(articles[:5], 1): # Top 5 per category
                 # Severity badge
-                rity = article.get('analysis', {}).get('severity')
-                rity_badge = ''
+                severity = article.get('analysis', {}).get('severity')
+                severity_badge = ''
                 if severity == 'Critical':
                     severity_badge = '🔴 **CRITICAL**'
                 elif severity == 'High':
                     severity_badge = '🟠 **HIGH**'
                 elif severity == 'Medium':
                     severity_badge = '🟡 **MEDIUM**'
-                
-                md_content += f"#### {idx}. [{article['title']}]({article['link']})\n\n"
-                
+
+                md_content += f"#### {idx}. [{article['title']}]({article['link']})
+
+"
+
                 if severity_badge:
-                    md_content += f"{severity_badge}  \n"
-                
-                md_content += f"**📡 Source:** {article['source']}  \n"
-                md_content += f"**📅 Published:** {article['published']}  \n"
-                
+                    md_content += f"{severity_badge} 
+"
+
+                md_content += f"**📡 Source:** {article['source']} 
+"
+                md_content += f"**📅 Published:** {article['published']} 
+"
+
                 # CVEs if present
                 cves = article.get('analysis', {}).get('cves', [])
                 if cves:
-                    md_content += f"**🔖 CVEs:** {', '.join(cves)}  \n"
-                
+                    md_content += f"**🔖 CVEs:** {', '.join(cves)} 
+"
+
                 # Summary
                 if article.get('ai_summary'):
-                    md_content += f"\n**📝 Summary:** {article['ai_summary']}\n"
-                
+                    md_content += f"
+**📝 Summary:** {article['ai_summary']}
+"
+
                 # Detailed Analysis
                 if article.get('analysis'):
                     analysis = article['analysis']
-                    md_content += "\n**🔍 Analysis:**\n\n"
-                    
-                    if analysis.get('issue'):
-                        md_content += f"- **⚠️ Issue:** {analysis['issue']}\n"
-                    
-                    if analysis.get('cause'):
-                        md_content += f"- **🔎 Cause:** {analysis['cause']}\n"
-                    
-                    if analysis.get('solution'):
-                        md_content += f"- **✅ Solution:** {analysis['solution']}\n"
-                    
-                    if analysis.get('timeline'):
-                        md_content += f"- **⏰ Timeline:** {analysis['timeline']}\n"
-                
-                md_content += "\n---\n\n"
-    
-    # Add sources section
-    md_content += f"""
-## 📡 News Sources Monitored
+                    md_content += "
+**🔍 Analysis:**
 
+"
+
+                    if analysis.get('issue'):
+                        md_content += f"- **⚠️ Issue:** {analysis['issue']}
+"
+
+                    if analysis.get('cause'):
+                        md_content += f"- **🔎 Cause:** {analysis['cause']}
+"
+
+                    if analysis.get('solution'):
+                        md_content += f"- **✅ Solution:** {analysis['solution']}
+"
+
+                    if analysis.get('timeline'):
+                        md_content += f"- **⏰ Timeline:** {analysis['timeline']}
+"
+
+                md_content += "
+---
+
+"
+
+        # Add sources section
+        md_content += f"""
+## 📡 News Sources Monitored
 ### Major News Outlets
 - **The Hacker News**: Breaking cybersecurity news and threat updates
 - **Bleeping Computer**: Malware, vulnerabilities, and security guides
 - **Krebs on Security**: Investigative cybercrime journalism
 - **Dark Reading**: Enterprise security and threat analysis
 - **SecurityWeek**: Comprehensive security news coverage
-
 ### Threat Intelligence
 - **Cisco Talos**: Advanced threat research and intelligence
 - **Recorded Future**: Predictive threat intelligence
 - **ThreatPost**: Breaking threat news and analysis
-
 ### Vendor Blogs
 - **Sophos News**: Security research and product updates
 - **Malwarebytes Blog**: Malware analysis and removal guides
 - **CrowdStrike Blog**: Threat hunting and endpoint security
-
 ### Government Sources
 - **CISA Alerts**: Official US cybersecurity advisories
 - **US-CERT**: Current security activities and alerts
-
 ### Specialized
 - **Cloud Security Alliance**: Cloud security best practices
 - **SANS Reading Room**: Security research and whitepapers
-
 ---
-
-*🤖 This report is automatically generated every 4 hours with AI-powered threat analysis.*  
-*📊 Includes: Threat categorization, CVE tracking, Severity assessment, Actionable intelligence*  
+*🤖 This report is automatically generated every 4 hours with AI-powered threat analysis.* 
+*📊 Includes: Threat categorization, CVE tracking, Severity assessment, Actionable intelligence* 
 *Repository: [Cybersecurity News Monitor](https://github.com/starkarthikr/cybersecurity-news-monitor)*
 """
-    
+
     with open('CYBERSECURITY_NEWS.md', 'w', encoding='utf-8') as f:
         f.write(md_content)
-    
+
     print(f"Generated Markdown report with {len(recent_articles)} recent articles")
 
 def main():
     print("=" * 70)
     print("Cybersecurity News Monitor - Threat Intelligence Analysis")
     print("=" * 70)
-    
+
     all_articles, recent_articles = process_feeds()
-    
+
     save_json_report(all_articles, 'all_news.json')
     save_json_report(recent_articles, 'recent_news.json')
-    
+
     generate_markdown_report(recent_articles)
-    
+
     analyzed = sum(1 for a in recent_articles if a.get('analysis'))
     critical = sum(1 for a in recent_articles 
-                   if a.get('analysis', {}).get('severity') == 'Critical')
-    
+                  if a.get('analysis', {}).get('severity') == 'Critical')
+
     print("=" * 70)
     print(f"Total Articles Processed: {len(all_articles)}")
     print(f"Recent Articles (3 days): {len(recent_articles)}")
