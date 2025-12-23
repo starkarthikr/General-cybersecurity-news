@@ -6,6 +6,10 @@ on:
     - cron: '0 */4 * * *'
   workflow_dispatch: # Allows manual trigger
 
+concurrency:
+  group: cybersec-monitor
+  cancel-in-progress: false
+
 jobs:
   fetch-cybersec-news:
     runs-on: ubuntu-latest
@@ -17,6 +21,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -30,13 +37,33 @@ jobs:
       - name: Fetch Cybersecurity News
         run: python scripts/parse_cybersec_feeds.py
 
-      - name: Commit and push if changed
+      - name: Configure git
         run: |
-          git config --global user.name 'CyberSec News Bot'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add -A
-          if ! git diff --quiet || ! git diff --staged --quiet; then
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit changes (if any)
+        run: |
+          if git status --porcelain | grep .; then
+            git add -A
             git commit -m "Update cybersecurity news - $(date +'%Y-%m-%d %H:%M:%S')"
-            git pull --rebase origin main
-            git push origin main
+          else
+            echo "No changes to commit"
+            exit 0
           fi
+
+      - name: Fetch and rebase latest remote branch
+        run: |
+          BRANCH="${{ github.ref_name || 'main' }}"
+          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+          git fetch origin "$BRANCH"
+          if ! git rebase "origin/$BRANCH"; then
+            echo "Rebase failed, attempting merge"
+            git rebase --abort || true
+            git merge --no-edit "origin/$BRANCH" || { echo "Merge also failed"; git status; exit 1; }
+          fi
+
+      - name: Push changes
+        run: |
+          BRANCH="${{ github.ref_name || 'main' }}"
+          git push origin "HEAD:$BRANCH"
