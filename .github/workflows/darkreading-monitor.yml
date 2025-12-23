@@ -14,7 +14,7 @@ on:
       - main
 
 concurrency:
-  group: cybersecurity-news-updates
+  group: cybersecurity-news-monitor-sync
   cancel-in-progress: false
 
 jobs:
@@ -35,41 +35,33 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'
 
       - name: Install dependencies
         run: |
-          pip install --upgrade pip
-          pip install feedparser requests beautifulsoup4 python-dateutil lxml
-
-      - name: Configure git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Fetch and rebase latest
-        run: |
-          git pull --rebase origin main
+          pip install feedparser requests beautifulsoup4 python-dateutil
 
       - name: Fetch News
-        run: |
-          python scripts/parse_cybersec_feeds.py
-        env:
-          PYTHONUNBUFFERED: 1
+        run: python scripts/parse_cybersec_feeds.py ${{ github.event.inputs.sources || 'all' }}
 
       - name: Commit and push changes
         run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           if git status --porcelain | grep .; then
             git add -A
-            git commit -m "Update darkreading news - $(date +'%Y-%m-%d %H:%M:%S')"
+            git commit -m "Update darkreading-monitor.yml - $(date +'%Y-%m-%d %H:%M:%S')"
             
-            git fetch origin main
-            git rebase -X ours origin/main || {
-              echo "Rebase failed, trying merge"
-              git rebase --abort
-              git merge -X ours origin/main -m "Merge remote changes"
-            }
-            git push origin main
+            BRANCH="${{ github.ref_name || 'main' }}"
+            git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+            git fetch origin "$BRANCH"
+            
+            if ! git rebase "origin/$BRANCH"; then
+              echo "Rebase failed, attempting merge"
+              git rebase --abort || true
+              git merge --no-edit "origin/$BRANCH" || { echo "Merge also failed"; git status; exit 1; }
+            fi
+            
+            git push origin "HEAD:$BRANCH"
           else
             echo "No changes to commit"
           fi
