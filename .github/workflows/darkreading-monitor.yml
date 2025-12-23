@@ -40,28 +40,21 @@ jobs:
         run: |
           pip install feedparser requests beautifulsoup4 python-dateutil
 
+      - name: Pull latest changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
+
       - name: Fetch News
         run: python scripts/parse_cybersec_feeds.py ${{ github.event.inputs.sources || 'all' }}
 
       - name: Commit and push changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
           if git status --porcelain | grep .; then
             git add -A
             git commit -m "Update darkreading-monitor.yml - $(date +'%Y-%m-%d %H:%M:%S')"
-            
-            BRANCH="${{ github.ref_name || 'main' }}"
-            git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
-            git fetch origin "$BRANCH"
-            
-            if ! git rebase "origin/$BRANCH"; then
-              echo "Rebase failed, attempting merge"
-              git rebase --abort || true
-              git merge --no-edit "origin/$BRANCH" || { echo "Merge also failed"; git status; exit 1; }
-            fi
-            
-            git push origin "HEAD:$BRANCH"
+            git push origin HEAD:main
           else
             echo "No changes to commit"
           fi
