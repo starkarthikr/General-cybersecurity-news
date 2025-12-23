@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites",
+    "link": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html",
+    "published": "Tue, 23 Dec 2025 20:12:00 +0530",
+    "summary": "Cybersecurity researchers have discovered two malicious Google Chrome extensions with the same name and published by the same developer that come with capabilities to intercept traffic and capture user credentials.\nThe extensions are advertised as a \"multi-location network speed test plug-in\" for developers and foreign trade personnel. Both the browser add-ons are available for download as of",
+    "analysis": {
+      "issue": "Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty",
     "link": "https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html",
     "published": "Tue, 23 Dec 2025 17:05:00 +0530",
@@ -161,26 +179,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence",
-    "link": "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html",
-    "published": "Sun, 21 Dec 2025 09:52:00 +0530",
-    "summary": "Threat hunters have discerned new activity associated with an Iranian threat actor known as Infy (aka Prince of Persia), nearly five years after the hacking group was observed targeting victims in Sweden, the Netherlands, and Turkey.\n\"The scale of Prince of Persia's activity is more significant than we originally anticipated,\" Tomer Bar, vice president of security research at SafeBreach, said",
-    "analysis": {
-      "issue": "Iranian APT Infy resurfaced after years of silence, using updated Foudre & Tonnerre malware, phishing delivery, resilient C2 infrastructure worldwide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "APT"
       ]
     }
   },
@@ -415,15 +413,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62458",
-        "CVE-2025-59517",
-        "CVE-2025-62557",
-        "CVE-2025-62554",
-        "CVE-2025-62470",
         "CVE-2025-62562",
-        "CVE-2025-62221",
         "CVE-2025-59516",
-        "CVE-2025-62472"
+        "CVE-2025-62470",
+        "CVE-2025-62458",
+        "CVE-2025-62221",
+        "CVE-2025-59517",
+        "CVE-2025-62554",
+        "CVE-2025-62472",
+        "CVE-2025-62557"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -553,15 +551,22 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-62199",
         "CVE-2025-60274",
-        "CVE-2025-62215",
-        "CVE-2025-62199"
+        "CVE-2025-62215"
       ],
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "ServiceNow to Acquire Armis for $7.75 Billion in Cash",
+    "link": "https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/",
+    "published": "Tue, 23 Dec 2025 14:28:42 +0000",
+    "summary": "<p>Rumors of a possible buyout surfaced earlier this month, with the official announcement coming just weeks after Armis announced raising $435 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/\">ServiceNow to Acquire Armis for $7.75 Billion in Cash</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -627,13 +632,6 @@
     "summary": "<p>The Department of Justice charged 54 individuals, including leaders and members of the Venezuelan crime syndicate Tren de Aragua.</p>\n<p>The post <a href=\"https://www.securityweek.com/54-charged-in-us-over-atm-attacks-involving-ploutus-malware/\">ATM Hackers Using &#8216;Ploutus&#8217; Malware Charged in US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "MacSync macOS Malware Distributed via Signed Swift Application",
-    "link": "https://www.securityweek.com/macsync-macos-malware-distributed-via-signed-swift-application/",
-    "published": "Mon, 22 Dec 2025 13:00:00 +0000",
-    "summary": "<p>A recent MacSync Stealer version no longer requires users to directly interact with the terminal for execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/macsync-macos-malware-distributed-via-signed-swift-application/\">MacSync macOS Malware Distributed via Signed Swift Application</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
     "source": "Talos Blog",
     "title": "Adios 2025, you won’t be missed",
     "link": "https://blog.talosintelligence.com/adios-2025-you-wont-be-missed/",
@@ -665,8 +663,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-66043",
-        "CVE-2025-66048"
+        "CVE-2025-66048",
+        "CVE-2025-66043"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -742,12 +740,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62557",
-        "CVE-2025-62554",
-        "CVE-2025-62556",
-        "CVE-2025-62456",
         "CVE-2025-62553",
-        "CVE-2025-62549"
+        "CVE-2025-62456",
+        "CVE-2025-62549",
+        "CVE-2025-62556",
+        "CVE-2025-62554",
+        "CVE-2025-62557"
       ],
       "threat_categories": [
         "Vulnerability"

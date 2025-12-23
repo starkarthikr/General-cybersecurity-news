@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2025-12-23 14:04:12 UTC
+**Last Updated:** 2025-12-23 17:34:26 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty](https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html)
+### 1. [Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites](https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 23 Dec 2025 20:12:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty](https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 23 Dec 2025 17:05:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Passwd: A walkthrough of the Google Workspace Password Manager](https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html)
+### 3. [Passwd: A walkthrough of the Google Workspace Password Manager](https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 23 Dec 2025 17:00:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme](https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html)
+### 4. [U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme](https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 23 Dec 2025 13:45:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances](https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html)
+### 5. [Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances](https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 23 Dec 2025 13:04:00 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks](https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html)
+### 6. [FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks](https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 23 Dec 2025 12:28:00 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens](https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html)
+### 7. [Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens](https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Dec 2025 21:58:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More](https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html)
+### 8. [⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More](https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Dec 2025 17:30:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [How to Browse the Web More Sustainably With a Green Browser](https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html)
+### 9. [How to Browse the Web More Sustainably With a Green Browser](https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Dec 2025 17:25:00 +0530  
@@ -77,21 +86,12 @@
 
 ---
 
-### 9. [Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale](https://thehackernews.com/2025/12/android-malware-operations-merge.html)
+### 10. [Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale](https://thehackernews.com/2025/12/android-malware-operations-merge.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Dec 2025 11:41:00 +0530  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 10. [Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence](https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html)
-
-**Source:** The Hacker News  
-**Published:** Sun, 21 Dec 2025 09:52:00 +0530  
-**Severity:** Low  
-**Categories:** Malware, Phishing, APT  
 
 ---
 
@@ -208,7 +208,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62458, CVE-2025-59517, CVE-2025-62557, CVE-2025-62554, CVE-2025-62470, CVE-2025-62562, CVE-2025-62221, CVE-2025-59516, CVE-2025-62472  
+**CVEs:** CVE-2025-62562, CVE-2025-59516, CVE-2025-62470, CVE-2025-62458, CVE-2025-62221, CVE-2025-59517, CVE-2025-62554, CVE-2025-62472, CVE-2025-62557  
 **Categories:** Vulnerability  
 
 ---
@@ -272,78 +272,78 @@
 **Source:** Krebs On Security  
 **Published:** Sun, 16 Nov 2025 21:47:14 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-60274, CVE-2025-62215, CVE-2025-62199  
+**CVEs:** CVE-2025-62199, CVE-2025-60274, CVE-2025-62215  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 31. [Nissan Confirms Impact From Red Hat Data Breach](https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/)
+### 31. [ServiceNow to Acquire Armis for $7.75 Billion in Cash](https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/)
+
+**Source:** Security Week  
+**Published:** Tue, 23 Dec 2025 14:28:42 +0000  
+
+---
+
+### 32. [Nissan Confirms Impact From Red Hat Data Breach](https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/)
 
 **Source:** Security Week  
 **Published:** Tue, 23 Dec 2025 12:26:28 +0000  
 
 ---
 
-### 32. [Feds Seize Password Database Used in Massive Bank Account Takeover Scheme](https://www.securityweek.com/feds-seize-password-database-used-in-massive-bank-account-takeover-scheme/)
+### 33. [Feds Seize Password Database Used in Massive Bank Account Takeover Scheme](https://www.securityweek.com/feds-seize-password-database-used-in-massive-bank-account-takeover-scheme/)
 
 **Source:** Security Week  
 **Published:** Tue, 23 Dec 2025 12:15:29 +0000  
 
 ---
 
-### 33. [NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data](https://www.securityweek.com/npm-package-with-56000-downloads-steals-whatsapp-credentials-data/)
+### 34. [NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data](https://www.securityweek.com/npm-package-with-56000-downloads-steals-whatsapp-credentials-data/)
 
 **Source:** Security Week  
 **Published:** Tue, 23 Dec 2025 10:52:05 +0000  
 
 ---
 
-### 34. [Italy Antitrust Agency Fines Apple $116 Million Over Privacy Feature; Apple Announces Appeal](https://www.securityweek.com/italy-antitrust-agency-fines-apple-116-million-over-privacy-feature-apple-announces-appeal/)
+### 35. [Italy Antitrust Agency Fines Apple $116 Million Over Privacy Feature; Apple Announces Appeal](https://www.securityweek.com/italy-antitrust-agency-fines-apple-116-million-over-privacy-feature-apple-announces-appeal/)
 
 **Source:** Security Week  
 **Published:** Tue, 23 Dec 2025 10:11:25 +0000  
 
 ---
 
-### 35. [574 Arrested, $3 Million Seized in Crackdown on African Cybercrime Rings](https://www.securityweek.com/574-arrested-3-million-seized-in-crackdown-on-african-cybercrime-rings/)
+### 36. [574 Arrested, $3 Million Seized in Crackdown on African Cybercrime Rings](https://www.securityweek.com/574-arrested-3-million-seized-in-crackdown-on-african-cybercrime-rings/)
 
 **Source:** Security Week  
 **Published:** Tue, 23 Dec 2025 09:31:17 +0000  
 
 ---
 
-### 36. [3.5 Million Affected by University of Phoenix Data Breach](https://www.securityweek.com/3-5-million-affected-by-university-of-phoenix-data-breach/)
+### 37. [3.5 Million Affected by University of Phoenix Data Breach](https://www.securityweek.com/3-5-million-affected-by-university-of-phoenix-data-breach/)
 
 **Source:** Security Week  
 **Published:** Tue, 23 Dec 2025 07:24:43 +0000  
 
 ---
 
-### 37. [Cyberattack Disrupts France’s Postal Service and Banking During Christmas Rush](https://www.securityweek.com/cyberattack-disrupts-frances-postal-service-and-banking-during-christmas-rush/)
+### 38. [Cyberattack Disrupts France’s Postal Service and Banking During Christmas Rush](https://www.securityweek.com/cyberattack-disrupts-frances-postal-service-and-banking-during-christmas-rush/)
 
 **Source:** Security Week  
 **Published:** Tue, 23 Dec 2025 05:48:22 +0000  
 
 ---
 
-### 38. [Rising Tides: When Cybersecurity Becomes Personal – Inside the Work of an OSINT Investigator](https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/)
+### 39. [Rising Tides: When Cybersecurity Becomes Personal – Inside the Work of an OSINT Investigator](https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/)
 
 **Source:** Security Week  
 **Published:** Mon, 22 Dec 2025 15:00:00 +0000  
 
 ---
 
-### 39. [ATM Hackers Using ‘Ploutus’ Malware Charged in US](https://www.securityweek.com/54-charged-in-us-over-atm-attacks-involving-ploutus-malware/)
+### 40. [ATM Hackers Using ‘Ploutus’ Malware Charged in US](https://www.securityweek.com/54-charged-in-us-over-atm-attacks-involving-ploutus-malware/)
 
 **Source:** Security Week  
 **Published:** Mon, 22 Dec 2025 13:53:02 +0000  
-
----
-
-### 40. [MacSync macOS Malware Distributed via Signed Swift Application](https://www.securityweek.com/macsync-macos-malware-distributed-via-signed-swift-application/)
-
-**Source:** Security Week  
-**Published:** Mon, 22 Dec 2025 13:00:00 +0000  
 
 ---
 
@@ -361,7 +361,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 17 Dec 2025 21:02:40 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-66043, CVE-2025-66048  
+**CVEs:** CVE-2025-66048, CVE-2025-66043  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -398,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62557, CVE-2025-62554, CVE-2025-62556, CVE-2025-62456, CVE-2025-62553, CVE-2025-62549  
+**CVEs:** CVE-2025-62553, CVE-2025-62456, CVE-2025-62549, CVE-2025-62556, CVE-2025-62554, CVE-2025-62557  
 **Categories:** Vulnerability  
 
 ---
