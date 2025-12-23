@@ -353,7 +353,9 @@ def save_json_report(articles, filename):
         json.dump(articles, f, indent=2, ensure_ascii=False)
     print(f"Saved {len(articles)} articles to {filepath}")
 
-def generate_markdown_report(recent_articles):
+387
+385
+(recent_articles):
     """Generate Markdown report with structured analysis"""
     md_content = f"""# 🔒 Cybersecurity Latest News
 
@@ -382,8 +384,22 @@ def generate_markdown_report(recent_articles):
             articles = by_category[category]
             
                                         # Sort by date (latest first), then by severity
-            403
-            
+        def sort_key(article):
+            try:
+                pub_date = article.get('published', '')
+                if pub_date and pub_date != 'Unknown':
+                    # Try multiple date formats
+                    for fmt in ['%a, %d %b %Y %H:%M:%S %z', '%a, %d %b %Y %H:%M:%S %Z', '%Y-%m-%d %H:%M:%S']:
+                        try:
+                            dt = datetime.strptime(pub_date, fmt)
+                            if dt.tzinfo is None:
+                                dt = dt.replace(tzinfo=timezone.utc)
+                            return (dt, severity_order.get(article.get('analysis', {}).get('severity'), 4))
+                        except Exception:
+                            continue
+                return (datetime.min.replace(tzinfo=timezone.utc), severity_order.get(article.get('analysis', {}).get('severity'), 4))
+            except Exception:
+                return (datetime.min.replace(tzinfo=timezone.utc), severity_order.get(article.get('analysis', {}).get('severity'), 4))            
                 try:
                     pub_date = article.get('published', '')
                     if pub_date and pub_date != 'Unknown':
