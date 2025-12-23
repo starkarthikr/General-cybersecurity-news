@@ -381,25 +381,26 @@ def generate_markdown_report(recent_articles):
         for category in sorted(by_category.keys()):
             articles = by_category[category]
             
-                            def sort_key(article):
-            try:
-                pub_date = article.get('published', '')
-                if pub_date and pub_date != 'Unknown':
-                    # Try multiple date formats
-                    for fmt in ['%a, %d %b %Y %H:%M:%S %z', '%a, %d %b %Y %H:%M:%S %Z', '%Y-%m-%d %H:%M:%S']:
-                        try:
-                            dt = datetime.strptime(pub_date, fmt)
-                            if dt.tzinfo is None:
-                                dt = dt.replace(tzinfo=timezone.utc)
-                            return (dt, severity_order.get(article.get('analysis', {}).get('severity'), 4))
-                        except Exception:
-                            continue
-                return (datetime.min.replace(tzinfo=timezone.utc), severity_order.get(article.get('analysis', {}).get('severity'), 4))
-            except Exception:
-                return (datetime.min.replace(tzinfo=timezone.utc), severity_order.get(article.get('analysis', {}).get('severity'), 4))
+                                        # Sort by date (latest first), then by severity
+            def sort_key(article):
+                try:
+                    pub_date = article.get('published', '')
+                    if pub_date and pub_date != 'Unknown':
+                        # Try multiple date formats
+                        for fmt in ['%a, %d %b %Y %H:%M:%S %z', '%a, %d %b %Y %H:%M:%S %Z', '%Y-%m-%d %H:%M:%S']:
+                            try:
+                                dt = datetime.strptime(pub_date, fmt)
+                                if dt.tzinfo is None:
+                                    dt = dt.replace(tzinfo=timezone.utc)
+                                return (dt, severity_order.get(article.get('analysis', {}).get('severity'), 4))
+                            except Exception:
+                                continue
+                    return (datetime.min.replace(tzinfo=timezone.utc), severity_order.get(article.get('analysis', {}).get('severity'), 4))
+                except Exception:
+                    return (datetime.min.replace(tzinfo=timezone.utc), severity_order.get(article.get('analysis', {}).get('severity'), 4))
 
-        articles.sort(key=sort_key, reverse=True)
-pt:
+            articles.sort(key=sort_key, reverse=True)
+
                                 continue
                     return (datetime.min.replace(tzinfo=timezone.utc), severity_order.get(article.get('analysis', {}).get('severity'), 4))
                 except:
