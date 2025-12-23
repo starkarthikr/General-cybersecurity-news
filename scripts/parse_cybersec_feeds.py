@@ -416,8 +416,7 @@ def save_json_report(articles, filename):
                                                  
             articles.sort(key=sort_key, reverse=True)
 
-            md_content += f"
-### 🔴 {category}
+            md_content += f"\n### 🔴 {category}\n\n"### 🔴 {category}
 
 "
 
