@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers",
+    "link": "https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html",
+    "published": "Thu, 01 Jan 2026 14:49:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a persistent nine-month-long campaign that has targeted Internet of Things (IoT) devices and web applications to enroll them into a botnet known as RondoDox.\nAs of December 2025, the activity has been observed leveraging the recently disclosed React2Shell (CVE-2025-55182, CVSS score: 10.0) flaw as an initial access vector, CloudSEK said in an",
+    "analysis": {
+      "issue": "RondoDox botnet exploits the React2Shell vulnerability in Next",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack",
     "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html",
     "published": "Wed, 31 Dec 2025 21:59:00 +0530",
@@ -163,24 +182,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More",
-    "link": "https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html",
-    "published": "Mon, 29 Dec 2025 19:08:00 +0530",
-    "summary": "Last week’s cyber news in 2025 was not about one big incident. It was about many small cracks opening at the same time. Tools people trust every day behave in unexpected ways. Old flaws resurfaced. New ones were used almost immediately.\nA common theme ran through it all in 2025. Attackers moved faster than fixes. Access meant for work, updates, or support kept getting abused. And damage did not",
-    "analysis": {
-      "issue": "Weekly 2025 cyber recap: MongoBleed targets 87,000, Trust Wallet $7M loss, LastPass $35M theft, DNS poisoning, npm WhatsApp trap",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices",
     "link": "https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/",
@@ -229,8 +230,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-55182",
-        "CVE-2025-24893"
+        "CVE-2025-24893",
+        "CVE-2025-55182"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -436,15 +437,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62470",
-        "CVE-2025-62554",
-        "CVE-2025-62557",
         "CVE-2025-62221",
-        "CVE-2025-62562",
         "CVE-2025-62458",
-        "CVE-2025-62472",
         "CVE-2025-59516",
-        "CVE-2025-59517"
+        "CVE-2025-62554",
+        "CVE-2025-62472",
+        "CVE-2025-62562",
+        "CVE-2025-59517",
+        "CVE-2025-62557",
+        "CVE-2025-62470"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -753,12 +754,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-62549",
         "CVE-2025-62554",
-        "CVE-2025-62557",
-        "CVE-2025-62556",
-        "CVE-2025-62456",
         "CVE-2025-62553",
-        "CVE-2025-62549"
+        "CVE-2025-62456",
+        "CVE-2025-62557",
+        "CVE-2025-62556"
       ],
       "threat_categories": [
         "Vulnerability"

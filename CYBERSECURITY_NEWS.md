@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-01 09:27:10 UTC
+**Last Updated:** 2026-01-01 12:35:48 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html)
+### 1. [RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 01 Jan 2026 14:49:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 2. [Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 31 Dec 2025 21:59:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide](https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html)
+### 3. [DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide](https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 31 Dec 2025 21:44:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System](https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html)
+### 4. [Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System](https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 31 Dec 2025 19:07:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry](https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html)
+### 5. [Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry](https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 31 Dec 2025 18:59:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware](https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html)
+### 6. [U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware](https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 31 Dec 2025 10:47:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution](https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html)
+### 7. [CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution](https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Dec 2025 21:58:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware](https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html)
+### 8. [Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware](https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Dec 2025 16:16:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [How to Integrate AI into Modern SOC Workflows](https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html)
+### 9. [How to Integrate AI into Modern SOC Workflows](https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Dec 2025 15:00:00 +0530  
@@ -76,21 +85,12 @@
 
 ---
 
-### 9. [Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor](https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html)
+### 10. [Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor](https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 30 Dec 2025 14:05:00 +0530  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 10. [⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More](https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 29 Dec 2025 19:08:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -117,7 +117,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 31 Dec 2025 09:58:51 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2025-55182, CVE-2025-24893  
+**CVEs:** CVE-2025-24893, CVE-2025-55182  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62470, CVE-2025-62554, CVE-2025-62557, CVE-2025-62221, CVE-2025-62562, CVE-2025-62458, CVE-2025-62472, CVE-2025-59516, CVE-2025-59517  
+**CVEs:** CVE-2025-62221, CVE-2025-62458, CVE-2025-59516, CVE-2025-62554, CVE-2025-62472, CVE-2025-62562, CVE-2025-59517, CVE-2025-62557, CVE-2025-62470  
 **Categories:** Vulnerability  
 
 ---
@@ -401,7 +401,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62554, CVE-2025-62557, CVE-2025-62556, CVE-2025-62456, CVE-2025-62553, CVE-2025-62549  
+**CVEs:** CVE-2025-62549, CVE-2025-62554, CVE-2025-62553, CVE-2025-62456, CVE-2025-62557, CVE-2025-62556  
 **Categories:** Vulnerability  
 
 ---
