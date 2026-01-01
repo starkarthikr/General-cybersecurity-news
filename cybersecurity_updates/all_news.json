@@ -37,7 +37,7 @@
   },
   {
     "source": "The Hacker News",
-    "title": "IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass",
+    "title": "Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System",
     "link": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html",
     "published": "Wed, 31 Dec 2025 19:07:00 +0530",
     "summary": "IBM has disclosed details of a critical security flaw in API Connect that could allow attackers to gain remote access to the application.\nThe vulnerability, tracked as CVE-2025-13915, is rated 9.8 out of a maximum of 10.0 on the CVSS scoring system. It has been described as an authentication bypass flaw.\n\"IBM API Connect could allow a remote attacker to bypass authentication mechanisms and gain",
@@ -437,14 +437,14 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-62554",
+        "CVE-2025-59517",
+        "CVE-2025-62562",
         "CVE-2025-62221",
         "CVE-2025-62557",
-        "CVE-2025-62472",
         "CVE-2025-62470",
-        "CVE-2025-62458",
+        "CVE-2025-62472",
         "CVE-2025-59516",
-        "CVE-2025-59517",
-        "CVE-2025-62562"
+        "CVE-2025-62458"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -753,11 +753,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62553",
         "CVE-2025-62554",
-        "CVE-2025-62557",
-        "CVE-2025-62556",
         "CVE-2025-62549",
+        "CVE-2025-62556",
+        "CVE-2025-62557",
+        "CVE-2025-62553",
         "CVE-2025-62456"
       ],
       "threat_categories": [
@@ -1182,8 +1182,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

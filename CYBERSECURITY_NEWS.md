@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-01 04:55:39 UTC
+**Last Updated:** 2026-01-01 06:31:15 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -22,7 +22,7 @@
 
 ---
 
-### 3. [IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass](https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html)
+### 3. [Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System](https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 31 Dec 2025 19:07:00 +0530  
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62554, CVE-2025-62221, CVE-2025-62557, CVE-2025-62472, CVE-2025-62470, CVE-2025-62458, CVE-2025-59516, CVE-2025-59517, CVE-2025-62562  
+**CVEs:** CVE-2025-62554, CVE-2025-59517, CVE-2025-62562, CVE-2025-62221, CVE-2025-62557, CVE-2025-62470, CVE-2025-62472, CVE-2025-59516, CVE-2025-62458  
 **Categories:** Vulnerability  
 
 ---
@@ -401,7 +401,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62553, CVE-2025-62554, CVE-2025-62557, CVE-2025-62556, CVE-2025-62549, CVE-2025-62456  
+**CVEs:** CVE-2025-62554, CVE-2025-62549, CVE-2025-62556, CVE-2025-62557, CVE-2025-62553, CVE-2025-62456  
 **Categories:** Vulnerability  
 
 ---
@@ -612,7 +612,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
