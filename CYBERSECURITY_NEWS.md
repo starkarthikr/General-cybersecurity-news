@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-01 18:29:18 UTC
+**Last Updated:** 2026-01-01 20:30:55 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,34 @@
 
 ---
 
-### 11. [NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices](https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/)
+### 11. [OpenAI is offering $20 ChatGPT Plus for free to some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 01 Jan 2026 14:18:54 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [The biggest cybersecurity and cyberattack stories of 2025](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 01 Jan 2026 11:15:26 -0500  
+**Severity:** Critical  
+**Categories:** Data Breach, Vulnerability, Supply Chain  
+
+---
+
+### 13. [New GlassWorm malware wave targets Macs with trojanized crypto wallets](https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 01 Jan 2026 10:18:23 -0500  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 14. [NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices](https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 31 Dec 2025 17:52:44 -0500  
@@ -103,7 +130,7 @@
 
 ---
 
-### 12. [Hackers drain $3.9M from Unleash Protocol after multisig hijack](https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/)
+### 15. [Hackers drain $3.9M from Unleash Protocol after multisig hijack](https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 31 Dec 2025 10:54:17 -0500  
@@ -112,17 +139,17 @@
 
 ---
 
-### 13. [RondoDox botnet exploits React2Shell flaw to breach Next.js servers](https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/)
+### 16. [RondoDox botnet exploits React2Shell flaw to breach Next.js servers](https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 31 Dec 2025 09:58:51 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2025-55182, CVE-2025-24893  
+**CVEs:** CVE-2025-24893, CVE-2025-55182  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 14. [IBM warns of critical API Connect auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/)
+### 17. [IBM warns of critical API Connect auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 31 Dec 2025 05:34:38 -0500  
@@ -132,7 +159,7 @@
 
 ---
 
-### 15. [Disney will pay $10 million to settle children's data privacy lawsuit](https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/)
+### 18. [Disney will pay $10 million to settle children's data privacy lawsuit](https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 31 Dec 2025 04:43:26 -0500  
@@ -141,7 +168,7 @@
 
 ---
 
-### 16. [New ErrTraffic service enables ClickFix attacks via fake browser glitches](https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/)
+### 19. [New ErrTraffic service enables ClickFix attacks via fake browser glitches](https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 30 Dec 2025 16:08:28 -0500  
@@ -150,40 +177,12 @@
 
 ---
 
-### 17. [European Space Agency confirms breach of "external servers"](https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/)
+### 20. [European Space Agency confirms breach of "external servers"](https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 30 Dec 2025 11:26:56 -0500  
 **Severity:** Low  
 **Categories:** Data Breach  
-
----
-
-### 18. [Zoom Stealer browser extensions harvest corporate meeting intelligence](https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 30 Dec 2025 10:41:53 -0500  
-**Severity:** Low  
-**Categories:** APT  
-
----
-
-### 19. [US cybersecurity experts plead guilty to BlackCat ransomware attacks](https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 30 Dec 2025 10:25:17 -0500  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 20. [CISA orders feds to patch MongoBleed flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 30 Dec 2025 09:40:13 -0500  
-**Severity:** High  
-**CVEs:** CVE-2025-14847  
-**Categories:** Vulnerability  
 
 ---
 
@@ -219,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62562, CVE-2025-62554, CVE-2025-59517, CVE-2025-62221, CVE-2025-62458, CVE-2025-62557, CVE-2025-62470, CVE-2025-62472, CVE-2025-59516  
+**CVEs:** CVE-2025-62554, CVE-2025-62557, CVE-2025-62470, CVE-2025-62458, CVE-2025-59517, CVE-2025-62562, CVE-2025-59516, CVE-2025-62221, CVE-2025-62472  
 **Categories:** Vulnerability  
 
 ---
@@ -401,7 +400,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62456, CVE-2025-62549, CVE-2025-62556, CVE-2025-62554, CVE-2025-62557, CVE-2025-62553  
+**CVEs:** CVE-2025-62554, CVE-2025-62557, CVE-2025-62456, CVE-2025-62556, CVE-2025-62549, CVE-2025-62553  
 **Categories:** Vulnerability  
 
 ---
@@ -612,7 +611,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
