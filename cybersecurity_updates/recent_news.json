@@ -20,6 +20,24 @@
   },
   {
     "source": "The Hacker News",
+    "title": "How To Browse Faster and Get More Done Using Adapt Browser",
+    "link": "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html",
+    "published": "Thu, 01 Jan 2026 11:17:00 +0530",
+    "summary": "As web browsers evolve into all-purpose platforms, performance and productivity often suffer.&nbsp;\nFeature overload, excessive background processes, and fragmented workflows can slow down browsing sessions and introduce unnecessary friction, especially for users who rely on the browser as a primary work environment.\nThis article explores how adopting a lightweight, task-focused browser, like",
+    "analysis": {
+      "issue": "Learn how a lightweight browser architecture can reduce overhead, improve performance, & help users browse faster while staying focused & productive",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack",
     "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html",
     "published": "Wed, 31 Dec 2025 21:59:00 +0530",
@@ -160,24 +178,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor",
-    "link": "https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html",
-    "published": "Tue, 30 Dec 2025 14:05:00 +0530",
-    "summary": "The Chinese hacking group known as Mustang Panda has leveraged a previously undocumented kernel-mode rootkit driver to deliver a new variant of backdoor dubbed TONESHELL in a cyber attack detected in mid-2025 targeting an unspecified entity in Asia.\nThe findings come from Kaspersky, which observed the new backdoor variant in cyber espionage campaigns mounted by the hacking group targeting",
-    "analysis": {
-      "issue": "Mustang Panda deployed TONESHELL via a signed kernel-mode rootkit, targeting Asian government networks and evading security tools",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -438,14 +438,14 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-62554",
-        "CVE-2025-62562",
-        "CVE-2025-62557",
+        "CVE-2025-62221",
         "CVE-2025-62458",
         "CVE-2025-62472",
-        "CVE-2025-62221",
-        "CVE-2025-59517",
+        "CVE-2025-62557",
         "CVE-2025-59516",
-        "CVE-2025-62470"
+        "CVE-2025-62470",
+        "CVE-2025-62562",
+        "CVE-2025-59517"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -677,8 +677,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-66043",
-        "CVE-2025-66048"
+        "CVE-2025-66048",
+        "CVE-2025-66043"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -754,12 +754,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62456",
         "CVE-2025-62554",
+        "CVE-2025-62456",
         "CVE-2025-62557",
-        "CVE-2025-62549",
         "CVE-2025-62556",
-        "CVE-2025-62553"
+        "CVE-2025-62553",
+        "CVE-2025-62549"
       ],
       "threat_categories": [
         "Vulnerability"
