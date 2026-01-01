@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories",
+    "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html",
+    "published": "Thu, 01 Jan 2026 21:22:00 +0530",
+    "summary": "The first ThreatsDay Bulletin of 2026 lands on a day that already feels symbolic — new year, new breaches, new tricks. If the past twelve months taught defenders anything, it’s that threat actors don’t pause for holidays or resolutions. They just evolve faster. This week’s round-up shows how subtle shifts in behavior, from code tweaks to job scams, are rewriting what “cybercrime” looks like in",
+    "analysis": {
+      "issue": "The first ThreatsDay Bulletin of 2026 tracks GhostAd adware, macOS malware, proxy botnets, cloud exploits, and more emerging cyber threats",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers",
     "link": "https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html",
     "published": "Thu, 01 Jan 2026 14:49:00 +0530",
@@ -164,24 +183,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "How to Integrate AI into Modern SOC Workflows",
-    "link": "https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html",
-    "published": "Tue, 30 Dec 2025 15:00:00 +0530",
-    "summary": "Artificial intelligence (AI) is making its way into security operations quickly, but many practitioners are still struggling to turn early experimentation into consistent operational value. This is because SOCs are adopting AI without an intentional approach to operational integration. Some teams treat it as a shortcut for broken processes. Others attempt to apply machine learning to problems",
-    "analysis": {
-      "issue": "The 2025 SANS SOC Survey shows AI use is rising, but many SOCs lack integration, customization, and clear validation processes",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices",
     "link": "https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/",
@@ -230,8 +231,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-24893",
-        "CVE-2025-55182"
+        "CVE-2025-55182",
+        "CVE-2025-24893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -437,15 +438,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-62562",
         "CVE-2025-62554",
+        "CVE-2025-59517",
         "CVE-2025-62221",
         "CVE-2025-62458",
-        "CVE-2025-62472",
         "CVE-2025-62557",
-        "CVE-2025-59516",
         "CVE-2025-62470",
-        "CVE-2025-62562",
-        "CVE-2025-59517"
+        "CVE-2025-62472",
+        "CVE-2025-59516"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -754,12 +755,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62554",
         "CVE-2025-62456",
-        "CVE-2025-62557",
+        "CVE-2025-62549",
         "CVE-2025-62556",
-        "CVE-2025-62553",
-        "CVE-2025-62549"
+        "CVE-2025-62554",
+        "CVE-2025-62557",
+        "CVE-2025-62553"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1183,8 +1184,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
