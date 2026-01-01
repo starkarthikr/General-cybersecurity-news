@@ -1,191 +1,202 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2025-12-23 18:13:53 UTC
+**Last Updated:** 2026-01-01 01:18:44 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites](https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html)
+### 1. [Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html)
 
 **Source:** The Hacker News  
-**Published:** Tue, 23 Dec 2025 20:12:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 2. [INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty](https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 23 Dec 2025 17:05:00 +0530  
-**Severity:** High  
-**Categories:** Ransomware  
-
----
-
-### 3. [Passwd: A walkthrough of the Google Workspace Password Manager](https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 23 Dec 2025 17:00:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 4. [U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme](https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 23 Dec 2025 13:45:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 5. [Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances](https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 23 Dec 2025 13:04:00 +0530  
-**Severity:** Critical  
-**CVEs:** CVE-2025-68613  
-**Categories:** Vulnerability  
-
----
-
-### 6. [FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks](https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 23 Dec 2025 12:28:00 +0530  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 7. [Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens](https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 22 Dec 2025 21:58:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 8. [⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More](https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 22 Dec 2025 17:30:00 +0530  
-**Severity:** High  
-**Categories:** Vulnerability, APT  
-
----
-
-### 9. [How to Browse the Web More Sustainably With a Green Browser](https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 22 Dec 2025 17:25:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale](https://thehackernews.com/2025/12/android-malware-operations-merge.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 22 Dec 2025 11:41:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 11. [Malicious extensions in Chrome Web store steal user credentials](https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 23 Dec 2025 08:31:55 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 12. [Microsoft Teams strengthens messaging security by default in January](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 23 Dec 2025 08:23:58 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 13. [Cyberattack knocks offline France's postal, banking services](https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 23 Dec 2025 07:26:44 -0500  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 14. [Italy fines Apple $116 million over App Store privacy policy issues](https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 23 Dec 2025 06:06:22 -0500  
+**Published:** Wed, 31 Dec 2025 21:59:00 +0530  
 **Severity:** Low  
 **Categories:** Supply Chain  
 
 ---
 
-### 15. [Baker University says 2024 data breach impacts 53,000 people](https://www.bleepingcomputer.com/news/security/baker-university-data-breach-impacts-over-53-000-individuals/)
+### 2. [DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide](https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html)
 
-**Source:** Bleeping Computer  
-**Published:** Tue, 23 Dec 2025 04:50:08 -0500  
+**Source:** The Hacker News  
+**Published:** Wed, 31 Dec 2025 21:44:00 +0530  
 **Severity:** Low  
-**Categories:** Data Breach  
+**Categories:** General Security  
 
 ---
 
-### 16. [Nissan says thousands of customers exposed in Red Hat breach](https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/)
+### 3. [IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass](https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html)
 
-**Source:** Bleeping Computer  
-**Published:** Mon, 22 Dec 2025 16:32:11 -0500  
-**Severity:** Low  
-**Categories:** Data Breach  
+**Source:** The Hacker News  
+**Published:** Wed, 31 Dec 2025 19:07:00 +0530  
+**Severity:** Critical  
+**Categories:** General Security  
 
 ---
 
-### 17. [New MacSync malware dropper evades macOS Gatekeeper checks](https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/)
+### 4. [Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry](https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html)
 
-**Source:** Bleeping Computer  
-**Published:** Mon, 22 Dec 2025 15:43:38 -0500  
+**Source:** The Hacker News  
+**Published:** Wed, 31 Dec 2025 18:59:00 +0530  
 **Severity:** Low  
 **Categories:** Malware  
 
 ---
 
-### 18. [Interpol-led action decrypts 6 ransomware strains, arrests hundreds](https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/)
+### 5. [U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware](https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html)
 
-**Source:** Bleeping Computer  
-**Published:** Mon, 22 Dec 2025 13:38:08 -0500  
-**Severity:** Critical  
-**Categories:** Ransomware  
-
----
-
-### 19. [Malicious npm package steals WhatsApp accounts and messages](https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 22 Dec 2025 11:08:46 -0500  
+**Source:** The Hacker News  
+**Published:** Wed, 31 Dec 2025 10:47:00 +0530  
 **Severity:** Low  
-**Categories:** Malware, APT  
+**Categories:** General Security  
 
 ---
 
-### 20. [Romanian water authority hit by ransomware attack over weekend](https://www.bleepingcomputer.com/news/security/romanian-water-authority-hit-by-ransomware-attack-over-weekend/)
+### 6. [CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution](https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 30 Dec 2025 21:58:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 7. [Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware](https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 30 Dec 2025 16:16:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 8. [How to Integrate AI into Modern SOC Workflows](https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 30 Dec 2025 15:00:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 9. [Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor](https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 30 Dec 2025 14:05:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 10. [⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More](https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 29 Dec 2025 19:08:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 11. [NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices](https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/)
 
 **Source:** Bleeping Computer  
-**Published:** Mon, 22 Dec 2025 10:25:50 -0500  
+**Published:** Wed, 31 Dec 2025 17:52:44 -0500  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 12. [Hackers drain $3.9M from Unleash Protocol after multisig hijack](https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 31 Dec 2025 10:54:17 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [RondoDox botnet exploits React2Shell flaw to breach Next.js servers](https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 31 Dec 2025 09:58:51 -0500  
 **Severity:** Critical  
+**CVEs:** CVE-2025-55182, CVE-2025-24893  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 14. [IBM warns of critical API Connect auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 31 Dec 2025 05:34:38 -0500  
+**Severity:** Critical  
+**CVEs:** CVE-2025-13915  
+**Categories:** Vulnerability  
+
+---
+
+### 15. [Disney will pay $10 million to settle children's data privacy lawsuit](https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 31 Dec 2025 04:43:26 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 16. [New ErrTraffic service enables ClickFix attacks via fake browser glitches](https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 30 Dec 2025 16:08:28 -0500  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 17. [European Space Agency confirms breach of "external servers"](https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 30 Dec 2025 11:26:56 -0500  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 18. [Zoom Stealer browser extensions harvest corporate meeting intelligence](https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 30 Dec 2025 10:41:53 -0500  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 19. [US cybersecurity experts plead guilty to BlackCat ransomware attacks](https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 30 Dec 2025 10:25:17 -0500  
+**Severity:** Low  
 **Categories:** Ransomware  
 
 ---
 
-### 21. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+### 20. [CISA orders feds to patch MongoBleed flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 30 Dec 2025 09:40:13 -0500  
+**Severity:** High  
+**CVEs:** CVE-2025-14847  
+**Categories:** Vulnerability  
+
+---
+
+### 21. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+
+**Source:** Krebs On Security  
+**Published:** Mon, 29 Dec 2025 20:23:26 +0000  
+**Severity:** High  
+**Categories:** Phishing  
+
+---
+
+### 22. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 19 Dec 2025 15:14:55 +0000  
@@ -194,7 +205,7 @@
 
 ---
 
-### 22. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+### 23. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 16 Dec 2025 14:14:48 +0000  
@@ -203,17 +214,17 @@
 
 ---
 
-### 23. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+### 24. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62557, CVE-2025-62554, CVE-2025-62221, CVE-2025-62458, CVE-2025-62472, CVE-2025-59516, CVE-2025-62470, CVE-2025-59517, CVE-2025-62562  
+**CVEs:** CVE-2025-62562, CVE-2025-62221, CVE-2025-59516, CVE-2025-62458, CVE-2025-62557, CVE-2025-62554, CVE-2025-59517, CVE-2025-62470, CVE-2025-62472  
 **Categories:** Vulnerability  
 
 ---
 
-### 24. [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
+### 25. [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
 
 **Source:** Krebs On Security  
 **Published:** Sat, 06 Dec 2025 14:45:03 +0000  
@@ -222,7 +233,7 @@
 
 ---
 
-### 25. [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
+### 26. [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 04 Dec 2025 23:02:34 +0000  
@@ -231,7 +242,7 @@
 
 ---
 
-### 26. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
+### 27. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 26 Nov 2025 17:22:36 +0000  
@@ -240,7 +251,7 @@
 
 ---
 
-### 27. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+### 28. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 24 Nov 2025 18:44:52 +0000  
@@ -249,7 +260,7 @@
 
 ---
 
-### 28. [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
+### 29. [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 20 Nov 2025 19:06:51 +0000  
@@ -258,7 +269,7 @@
 
 ---
 
-### 29. [The Cloudflare Outage May Be a Security Roadmap](https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/)
+### 30. [The Cloudflare Outage May Be a Security Roadmap](https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 19 Nov 2025 14:07:03 +0000  
@@ -267,83 +278,75 @@
 
 ---
 
-### 30. [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
+### 31. [Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist](https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/)
 
-**Source:** Krebs On Security  
-**Published:** Sun, 16 Nov 2025 21:47:14 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2025-62199, CVE-2025-62215, CVE-2025-60274  
-**Categories:** Vulnerability, Supply Chain  
+**Source:** Security Week  
+**Published:** Wed, 31 Dec 2025 11:58:51 +0000  
 
 ---
 
-### 31. [ServiceNow to Acquire Armis for $7.75 Billion in Cash](https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/)
+### 32. [European Space Agency Confirms Breach After Hacker Offers to Sell Data](https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/)
 
 **Source:** Security Week  
-**Published:** Tue, 23 Dec 2025 14:28:42 +0000  
+**Published:** Wed, 31 Dec 2025 09:35:22 +0000  
 
 ---
 
-### 32. [Nissan Confirms Impact From Red Hat Data Breach](https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/)
+### 33. [8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025](https://www.securityweek.com/8-cybersecurity-acquisitions-surpassed-1-billion-mark-in-2025/)
 
 **Source:** Security Week  
-**Published:** Tue, 23 Dec 2025 12:26:28 +0000  
+**Published:** Tue, 30 Dec 2025 12:29:26 +0000  
 
 ---
 
-### 33. [Feds Seize Password Database Used in Massive Bank Account Takeover Scheme](https://www.securityweek.com/feds-seize-password-database-used-in-massive-bank-account-takeover-scheme/)
+### 34. [Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit](https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/)
 
 **Source:** Security Week  
-**Published:** Tue, 23 Dec 2025 12:15:29 +0000  
+**Published:** Tue, 30 Dec 2025 10:08:45 +0000  
 
 ---
 
-### 34. [NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data](https://www.securityweek.com/npm-package-with-56000-downloads-steals-whatsapp-credentials-data/)
+### 35. [Korean Air Data Compromised in Oracle EBS Hack](https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/)
 
 **Source:** Security Week  
-**Published:** Tue, 23 Dec 2025 10:52:05 +0000  
+**Published:** Tue, 30 Dec 2025 08:50:15 +0000  
 
 ---
 
-### 35. [Italy Antitrust Agency Fines Apple $116 Million Over Privacy Feature; Apple Announces Appeal](https://www.securityweek.com/italy-antitrust-agency-fines-apple-116-million-over-privacy-feature-apple-announces-appeal/)
+### 36. [Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000](https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/)
 
 **Source:** Security Week  
-**Published:** Tue, 23 Dec 2025 10:11:25 +0000  
+**Published:** Mon, 29 Dec 2025 15:40:36 +0000  
 
 ---
 
-### 36. [574 Arrested, $3 Million Seized in Crackdown on African Cybercrime Rings](https://www.securityweek.com/574-arrested-3-million-seized-in-crackdown-on-african-cybercrime-rings/)
+### 37. [Fortinet Warns of New Attacks Exploiting Old Vulnerability](https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/)
 
 **Source:** Security Week  
-**Published:** Tue, 23 Dec 2025 09:31:17 +0000  
+**Published:** Mon, 29 Dec 2025 12:52:49 +0000  
 
 ---
 
-### 37. [3.5 Million Affected by University of Phoenix Data Breach](https://www.securityweek.com/3-5-million-affected-by-university-of-phoenix-data-breach/)
+### 38. [Coupang to Issue $1.17 Billion in Vouchers Over Data Breach](https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/)
 
 **Source:** Security Week  
-**Published:** Tue, 23 Dec 2025 07:24:43 +0000  
+**Published:** Mon, 29 Dec 2025 12:13:11 +0000  
 
 ---
 
-### 38. [Cyberattack Disrupts France’s Postal Service and Banking During Christmas Rush](https://www.securityweek.com/cyberattack-disrupts-frances-postal-service-and-banking-during-christmas-rush/)
+### 39. [22 Million Affected by Aflac Data Breach](https://www.securityweek.com/22-million-affected-by-aflac-data-breach/)
 
 **Source:** Security Week  
-**Published:** Tue, 23 Dec 2025 05:48:22 +0000  
+**Published:** Mon, 29 Dec 2025 11:57:08 +0000  
 
 ---
 
-### 39. [Rising Tides: When Cybersecurity Becomes Personal – Inside the Work of an OSINT Investigator](https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/)
+### 40. [Infostealer Malware Delivered in EmEditor Supply Chain Attack](https://www.securityweek.com/infostealer-malware-delivered-in-emeditor-supply-chain-attack/)
 
 **Source:** Security Week  
-**Published:** Mon, 22 Dec 2025 15:00:00 +0000  
-
----
-
-### 40. [ATM Hackers Using ‘Ploutus’ Malware Charged in US](https://www.securityweek.com/54-charged-in-us-over-atm-attacks-involving-ploutus-malware/)
-
-**Source:** Security Week  
-**Published:** Mon, 22 Dec 2025 13:53:02 +0000  
+**Published:** Mon, 29 Dec 2025 11:21:22 +0000  
+**Severity:** High  
+**Categories:** Malware, APT, Supply Chain  
 
 ---
 
@@ -398,7 +401,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62557, CVE-2025-62554, CVE-2025-62556, CVE-2025-62549, CVE-2025-62456, CVE-2025-62553  
+**CVEs:** CVE-2025-62553, CVE-2025-62557, CVE-2025-62456, CVE-2025-62554, CVE-2025-62549, CVE-2025-62556  
 **Categories:** Vulnerability  
 
 ---
@@ -609,7 +612,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -624,7 +627,43 @@
 
 ---
 
-### 71. [Hacktivists claim near-total Spotify music scrape](https://www.malwarebytes.com/blog/news/2025/12/hacktivists-claim-near-total-spotify-music-scrape)
+### 71. [In 2025, age checks started locking people out of the internet](https://www.malwarebytes.com/blog/news/2025/12/in-2025-age-checks-started-locking-people-out-of-the-internet)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 31 Dec 2025 10:49:04 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [2025 exposed the risks we ignored while rushing AI](https://www.malwarebytes.com/blog/news/2025/12/2025-exposed-risks-we-ignored-while-rushing-ai)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 30 Dec 2025 10:02:11 GMT  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 73. [Malware in 2025 spread far beyond Windows PCs](https://www.malwarebytes.com/blog/news/2025/12/malware-in-2025-spread-beyond-windows-pcs)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 29 Dec 2025 11:48:34 GMT  
+**Severity:** High  
+**Categories:** Malware, APT  
+
+---
+
+### 74. [A week in security (December 22 &#8211; December 28)](https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-22-december-28)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 29 Dec 2025 08:02:00 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 75. [Hacktivists claim near-total Spotify music scrape](https://www.malwarebytes.com/blog/news/2025/12/hacktivists-claim-near-total-spotify-music-scrape)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 23 Dec 2025 12:28:20 GMT  
@@ -633,7 +672,7 @@
 
 ---
 
-### 72. [Pornhub tells users to expect sextortion emails after data exposure](https://www.malwarebytes.com/blog/news/2025/12/pornhub-tells-users-to-expect-sextortion-emails-after-data-exposure)
+### 76. [Pornhub tells users to expect sextortion emails after data exposure](https://www.malwarebytes.com/blog/news/2025/12/pornhub-tells-users-to-expect-sextortion-emails-after-data-exposure)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 22 Dec 2025 13:44:05 GMT  
@@ -642,7 +681,7 @@
 
 ---
 
-### 73. [A week in security (December 15 &#8211; December 21)](https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-15-december-21)
+### 77. [A week in security (December 15 &#8211; December 21)](https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-15-december-21)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 22 Dec 2025 08:07:00 GMT  
@@ -651,7 +690,7 @@
 
 ---
 
-### 74. [CISA warns ASUS Live Update backdoor is still exploitable, seven years on](https://www.malwarebytes.com/blog/news/2025/12/cisa-warns-asus-live-update-backdoor-is-still-exploitable-seven-years-on)
+### 78. [CISA warns ASUS Live Update backdoor is still exploitable, seven years on](https://www.malwarebytes.com/blog/news/2025/12/cisa-warns-asus-live-update-backdoor-is-still-exploitable-seven-years-on)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 19 Dec 2025 13:56:36 GMT  
@@ -661,7 +700,7 @@
 
 ---
 
-### 75. [The ghosts of WhatsApp: How GhostPairing hijacks accounts](https://www.malwarebytes.com/blog/news/2025/12/the-ghosts-of-whatsapp-how-ghostpairing-hijacks-accounts)
+### 79. [The ghosts of WhatsApp: How GhostPairing hijacks accounts](https://www.malwarebytes.com/blog/news/2025/12/the-ghosts-of-whatsapp-how-ghostpairing-hijacks-accounts)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 18 Dec 2025 13:37:27 GMT  
@@ -670,7 +709,7 @@
 
 ---
 
-### 76. [Chrome extension slurps up AI chats after users installed it for privacy](https://www.malwarebytes.com/blog/news/2025/12/chrome-extension-slurps-up-ai-chats-after-users-installed-it-for-privacy)
+### 80. [Chrome extension slurps up AI chats after users installed it for privacy](https://www.malwarebytes.com/blog/news/2025/12/chrome-extension-slurps-up-ai-chats-after-users-installed-it-for-privacy)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 18 Dec 2025 13:02:29 GMT  
@@ -679,44 +718,16 @@
 
 ---
 
-### 77. [Two Chrome flaws could be triggered by simply browsing the web: Update now](https://www.malwarebytes.com/blog/news/2025/12/two-chrome-flaws-could-be-triggered-by-simply-browsing-the-web-update-now)
+### 81. [Streamline Security Operations with Falcon for IT&rsquo;s Turnkey Automations](https://www.crowdstrike.com/en-us/blog/streamline-security-operations-falcon-for-it-automations/)
 
-**Source:** Malwarebytes  
-**Published:** Wed, 17 Dec 2025 16:02:52 GMT  
+**Source:** Crowdstrike Blog  
+**Published:** Dec 29, 2025 00:00:00-0600  
 **Severity:** Low  
-**CVEs:** CVE-2025-14765  
-**Categories:** Vulnerability  
+**Categories:** General Security  
 
 ---
 
-### 78. [Inside a purchase order PDF phishing campaign](https://www.malwarebytes.com/blog/threat-intel/2025/12/inside-a-purchase-order-pdf-phishing-campaign)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 17 Dec 2025 13:38:00 GMT  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
-
----
-
-### 79. [SoundCloud, Pornhub, and 700Credit all reported data breaches, but the similarities end there](https://www.malwarebytes.com/blog/news/2025/12/soundcloud-pornhub-and-700credit-all-reported-data-breaches-but-the-similarities-end-there)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 16 Dec 2025 17:04:59 GMT  
-**Severity:** Low  
-**Categories:** Data Breach, Vulnerability, Supply Chain  
-
----
-
-### 80. [Android mobile adware surges in second half of 2025](https://www.malwarebytes.com/blog/mobile/2025/12/android-threats-in-2025-when-your-phone-becomes-the-main-attack-surface)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 16 Dec 2025 13:58:42 GMT  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 81. [How CrowdStrike Trains GenAI Models at Scale Using Distributed Computing](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-trains-genai-models-at-scale-using-distributed-computing/)
+### 82. [How CrowdStrike Trains GenAI Models at Scale Using Distributed Computing](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-trains-genai-models-at-scale-using-distributed-computing/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 22, 2025 00:00:00-0600  
@@ -725,7 +736,7 @@
 
 ---
 
-### 82. [Inside CrowdStrike&rsquo;s Science-Backed Approach to Building Expert SOC Agents](https://www.crowdstrike.com/en-us/blog/inside-crowdstrikes-science-backed-approach-to-building-soc-agents/)
+### 83. [Inside CrowdStrike&rsquo;s Science-Backed Approach to Building Expert SOC Agents](https://www.crowdstrike.com/en-us/blog/inside-crowdstrikes-science-backed-approach-to-building-soc-agents/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 19, 2025 00:00:00-0600  
@@ -734,7 +745,7 @@
 
 ---
 
-### 83. [CrowdTour 2026: Securing the AI Era Together](https://www.crowdstrike.com/en-us/blog/crowdtour-2026-securing-ai-era-together/)
+### 84. [CrowdTour 2026: Securing the AI Era Together](https://www.crowdstrike.com/en-us/blog/crowdtour-2026-securing-ai-era-together/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 19, 2025 00:00:00-0600  
@@ -743,7 +754,7 @@
 
 ---
 
-### 84. [CrowdStrike Endpoint Security Achieves 273% ROI Over Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-endpoint-security-achieves-273-percent-roi-over-three-years/)
+### 85. [CrowdStrike Endpoint Security Achieves 273% ROI Over Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-endpoint-security-achieves-273-percent-roi-over-three-years/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 17, 2025 00:00:00-0600  
@@ -752,7 +763,7 @@
 
 ---
 
-### 85. [CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-growing-ai-attack-surface-with-falcon-aidr/)
+### 86. [CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-growing-ai-attack-surface-with-falcon-aidr/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 15, 2025 00:00:00-0600  
@@ -761,7 +772,7 @@
 
 ---
 
-### 86. [Inside the Latest Innovations Powering Falcon Exposure Management](https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/)
+### 87. [Inside the Latest Innovations Powering Falcon Exposure Management](https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 12, 2025 00:00:00-0600  
@@ -770,7 +781,7 @@
 
 ---
 
-### 87. [Data Leakage: AI&rsquo;s Plumbing Problem](https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/)
+### 88. [Data Leakage: AI&rsquo;s Plumbing Problem](https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 11, 2025 00:00:00-0600  
@@ -779,7 +790,7 @@
 
 ---
 
-### 88. [CrowdStrike Achieves 100% Detection, 100% Protection, and Zero False Positives in 2025 MITRE ATT&amp;CK&reg; Enterprise Evaluations](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-100-percent-2025-mitre-attack-enterprise-evaluation/)
+### 89. [CrowdStrike Achieves 100% Detection, 100% Protection, and Zero False Positives in 2025 MITRE ATT&amp;CK&reg; Enterprise Evaluations](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-100-percent-2025-mitre-attack-enterprise-evaluation/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 10, 2025 00:00:00-0600  
@@ -788,21 +799,12 @@
 
 ---
 
-### 89. [December 2025 Patch Tuesday: One Critical Zero-Day, Two Publicly Disclosed Vulnerabilities Among 57 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-december-2025/)
+### 90. [December 2025 Patch Tuesday: One Critical Zero-Day, Two Publicly Disclosed Vulnerabilities Among 57 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-december-2025/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 09, 2025 00:00:00-0600  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 90. [Falcon Shield Evolves with AI Agent Visibility and Falcon Next-Gen SIEM Integration](https://www.crowdstrike.com/en-us/blog/falcon-shield-evolves-ai-agent-visibility/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Dec 08, 2025 00:00:00-0600  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 

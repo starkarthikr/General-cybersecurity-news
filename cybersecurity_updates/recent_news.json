@@ -1,249 +1,12 @@
 [
   {
     "source": "The Hacker News",
-    "title": "Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites",
-    "link": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html",
-    "published": "Tue, 23 Dec 2025 20:12:00 +0530",
-    "summary": "Cybersecurity researchers have discovered two malicious Google Chrome extensions with the same name and published by the same developer that come with capabilities to intercept traffic and capture user credentials.\nThe extensions are advertised as a \"multi-location network speed test plug-in\" for developers and foreign trade personnel. Both the browser add-ons are available for download as of",
+    "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack",
+    "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html",
+    "published": "Wed, 31 Dec 2025 21:59:00 +0530",
+    "summary": "Trust Wallet on Tuesday revealed that the second iteration of the Shai-Hulud (aka Sha1-Hulud) supply chain outbreak in November 2025 was likely responsible for the hack of its Google Chrome extension, ultimately resulting in the theft of approximately $8.5 million in assets.\n\"Our Developer GitHub secrets were exposed in the attack, which gave the attacker access to our browser extension source",
     "analysis": {
-      "issue": "Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty",
-    "link": "https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html",
-    "published": "Tue, 23 Dec 2025 17:05:00 +0530",
-    "summary": "A law enforcement operation coordinated by INTERPOL has led to the recovery of $3 million and the arrest of 574 suspects by authorities from 19 countries, amidst a continued crackdown on cybercrime networks in Africa.\nThe coordinated effort, named Operation Sentinel, took place between October 27 and November 27, 2025, and mainly focused on business email compromise (BEC), digital extortion, and",
-    "analysis": {
-      "issue": "INTERPOL’s Operation Sentinel led to 574 arrests, $3M recovered, and major ransomware and fraud disruptions across 19 African countries",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Passwd: A walkthrough of the Google Workspace Password Manager",
-    "link": "https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html",
-    "published": "Tue, 23 Dec 2025 17:00:00 +0530",
-    "summary": "Passwd is designed specifically for organizations operating within Google Workspace. Rather than competing as a general consumer password manager, its purpose is narrow, and business-focused: secure credential storage, controlled sharing, and seamless Workspace integration. The platform emphasizes practicality over feature overload, aiming to provide a reliable system for teams that already rely",
-    "analysis": {
-      "issue": "Passwd is a Google Workspace–only password manager using zero-knowledge AES-256 encryption, Google SSO, audit logs, and scalable team pricing",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme",
-    "link": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html",
-    "published": "Tue, 23 Dec 2025 13:45:00 +0530",
-    "summary": "The U.S. Justice Department (DoJ) on Monday announced the seizure of a web domain and database that it said was used to further a criminal scheme designed to target and defraud Americans by means of bank account takeover fraud.\nThe domain in question, web3adspanels[.]org, was used as a backend web panel to host and manipulate illegally harvested bank login credentials. Users to the website are",
-    "analysis": {
-      "issue": "The US Justice Department seized a domain used to steal bank logins, causing $14",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances",
-    "link": "https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html",
-    "published": "Tue, 23 Dec 2025 13:04:00 +0530",
-    "summary": "A critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in arbitrary code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2025-68613, carries a CVSS score of 9.9 out of a maximum of 10.0. The package has about 57,000 weekly downloads, according to statistics on npm.\n\"Under certain",
-    "analysis": {
-      "issue": "Critical n8n flaw CVE-2025-68613 (CVSS 9",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-68613"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks",
-    "link": "https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html",
-    "published": "Tue, 23 Dec 2025 12:28:00 +0530",
-    "summary": "The U.S. Federal Communications Commission (FCC) on Monday announced a ban on all drones and critical components made in a foreign country, citing national security concerns.\nTo that end, the agency has added to its Covered List Uncrewed aircraft systems (UAS) and UAS critical components produced in a foreign country, and all communications and video surveillance equipment and services pursuant",
-    "analysis": {
-      "issue": "The FCC bans foreign-made drones and critical components under U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens",
-    "link": "https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html",
-    "published": "Mon, 22 Dec 2025 21:58:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new malicious package on the npm repository that works as a fully functional WhatsApp API, but also contains the ability to intercept every message and link the attacker's device to a victim's WhatsApp account.\nThe package, named \"lotusbail,\" has been downloaded over 56,000 times since it was first uploaded to the registry by a user named \"",
-    "analysis": {
-      "issue": "A malicious npm package posing as a WhatsApp API intercepts messages, steals credentials, and links attacker devices after 56,000 downloads",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More",
-    "link": "https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html",
-    "published": "Mon, 22 Dec 2025 17:30:00 +0530",
-    "summary": "Cyber threats last week showed how attackers no longer need big hacks to cause big damage. They’re going after the everyday tools we trust most — firewalls, browser add-ons, and even smart TVs — turning small cracks into serious breaches.\nThe real danger now isn’t just one major attack, but hundreds of quiet ones using the software and devices already inside our networks. Each trusted system can",
-    "analysis": {
-      "issue": "Weekly cybersecurity recap on exploited network flaws, new APT attacks, major CVEs, and defense insights",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "How to Browse the Web More Sustainably With a Green Browser",
-    "link": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html",
-    "published": "Mon, 22 Dec 2025 17:25:00 +0530",
-    "summary": "As the internet becomes an essential part of daily life, its environmental footprint continues to grow.&nbsp;\nData centers, constant connectivity, and resource-heavy browsing habits all contribute to energy consumption and digital waste. While individual users may not see this impact directly, the collective effect of everyday browsing is significant.\nChoosing a browser designed with",
-    "analysis": {
-      "issue": "Learn what eco-friendly browsing means and how a green browser like Wave Browser helps reduce digital waste while supporting more sustainable web use",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
-    "link": "https://thehackernews.com/2025/12/android-malware-operations-merge.html",
-    "published": "Mon, 22 Dec 2025 11:41:00 +0530",
-    "summary": "Threat actors have been observed leveraging malicious dropper apps masquerading as legitimate applications to deliver an Android SMS stealer dubbed Wonderland in mobile attacks targeting users in Uzbekistan.\n\"Previously, users received 'pure' Trojan APKs that acted as malware immediately upon installation,\" Group-IB said in an analysis published last week. \"Now, adversaries increasingly deploy",
-    "analysis": {
-      "issue": "Android attackers use fake apps and droppers to spread the Wonderland SMS stealer, stealing OTPs, SMS data, and bank funds, mainly in Uzbekistan",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Malicious extensions in Chrome Web store steal user credentials",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/",
-    "published": "Tue, 23 Dec 2025 08:31:55 -0500",
-    "summary": "Two Chrome extensions in the Web Store named 'Phantom Shuttle' are posing as plugins for a proxy service to hijack user traffic and steal sensitive data. [...]",
-    "analysis": {
-      "issue": "Two Chrome extensions in the Web Store named 'Phantom Shuttle' are posing as plugins for a proxy service to hijack user traffic and steal sensitive data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Teams strengthens messaging security by default in January",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/",
-    "published": "Tue, 23 Dec 2025 08:23:58 -0500",
-    "summary": "Microsoft Teams will automatically enable messaging safety features by default in January to strengthen defenses against content tagged as malicious. [...]",
-    "analysis": {
-      "issue": "Microsoft announced that Teams will automatically enable messaging safety features by default to strengthen defenses against content tagged as malicious",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Cyberattack knocks offline France's postal, banking services",
-    "link": "https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/",
-    "published": "Tue, 23 Dec 2025 07:26:44 -0500",
-    "summary": "The French national postal service's online services were knocked offline by \"a major network incident\" on Monday, disrupting digital banking and other services for millions. [...]",
-    "analysis": {
-      "issue": "La Poste, the French national postal service, confirmed on Monday that all its information systems were knocked offline by \"a major network incident,\" disrupting digital banking and online services for millions of customers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Italy fines Apple $116 million over App Store privacy policy issues",
-    "link": "https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/",
-    "published": "Tue, 23 Dec 2025 06:06:22 -0500",
-    "summary": "Italy's competition authority (AGCM) has fined Apple €98.6 million ($116 million) for using the App Tracking Transparency (ATT) privacy framework to abuse its dominant market position in mobile app advertising. [...]",
-    "analysis": {
-      "issue": "Italy's competition authority (AGCM) has fined Apple €98",
+      "issue": "Trust Wallet confirmed a supply chain attack let hackers push a malicious Chrome extension update, draining $8",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -255,49 +18,49 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Baker University says 2024 data breach impacts 53,000 people",
-    "link": "https://www.bleepingcomputer.com/news/security/baker-university-data-breach-impacts-over-53-000-individuals/",
-    "published": "Tue, 23 Dec 2025 04:50:08 -0500",
-    "summary": "Baker University has disclosed a data breach after attackers gained access to its network one year ago and stole the personal, health, and financial information of over 53,000 individuals. [...]",
+    "source": "The Hacker News",
+    "title": "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide",
+    "link": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html",
+    "published": "Wed, 31 Dec 2025 21:44:00 +0530",
+    "summary": "The threat actor behind two malicious browser extension campaigns, ShadyPanda and GhostPoster, has been attributed to a third attack campaign codenamed DarkSpectre that has impacted 2.2 million users of Google Chrome, Microsoft Edge, and Mozilla Firefox.\nThe activity is assessed to be the work of a Chinese threat actor that Koi Security is tracking under the moniker DarkSpectre. In all, the",
     "analysis": {
-      "issue": "Baker University has disclosed a data breach after attackers gained access to its network one year ago and stole the personal, health, and financial information of over 53,000 individuals",
+      "issue": "A China-linked threat actor used malicious browser extensions over seven years to steal data and corporate intelligence from Chrome, Edge, and Firefox",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Data Breach"
+        "General Security"
       ]
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Nissan says thousands of customers exposed in Red Hat breach",
-    "link": "https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/",
-    "published": "Mon, 22 Dec 2025 16:32:11 -0500",
-    "summary": "Nissan Motor Co. Ltd. (Nissan) has confirmed that information of thousands of its customers has been compromised after the data breach at Red Hat in September. [...]",
+    "source": "The Hacker News",
+    "title": "IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass",
+    "link": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html",
+    "published": "Wed, 31 Dec 2025 19:07:00 +0530",
+    "summary": "IBM has disclosed details of a critical security flaw in API Connect that could allow attackers to gain remote access to the application.\nThe vulnerability, tracked as CVE-2025-13915, is rated 9.8 out of a maximum of 10.0 on the CVSS scoring system. It has been described as an authentication bypass flaw.\n\"IBM API Connect could allow a remote attacker to bypass authentication mechanisms and gain",
     "analysis": {
-      "issue": "(Nissan) has confirmed that information of thousands of its customers has been compromised after the data breach at Red Hat in September",
+      "issue": "IBM disclosed a critical CVSS 9",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Data Breach"
+        "General Security"
       ]
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New MacSync malware dropper evades macOS Gatekeeper checks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/",
-    "published": "Mon, 22 Dec 2025 15:43:38 -0500",
-    "summary": "The latest variant of the MacSync information stealer targeting macOS systems is delivered through a digitally signed, notarized Swift application. [...]",
+    "source": "The Hacker News",
+    "title": "Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry",
+    "link": "https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html",
+    "published": "Wed, 31 Dec 2025 18:59:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of what appears to be a new strain of Shai Hulud on the npm registry with slight modifications from the previous wave observed last month.\nThe npm package that embeds the novel Shai Hulud strain is \"@vietmoney/react-big-calendar,\" which was uploaded to npm back in March 2021 by a user named \"hoquocdat.\" It was updated for the first time on",
     "analysis": {
-      "issue": "The latest variant of the MacSync information stealer targeting macOS systems is delivered through a digitally signed, notarized Swift application",
+      "issue": "A new Shai-Hulud npm strain and a fake Jackson Maven package show how attackers abuse trusted dependencies to steal secrets and spread malware",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -309,31 +72,49 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds",
-    "link": "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/",
-    "published": "Mon, 22 Dec 2025 13:38:08 -0500",
-    "summary": "An Interpol-coordinated initiative called Operation Sentinel led to the arrest of 574 individuals and the recovery of $3 million linked to business email compromise, extortion, and ransomware incidents. [...]",
+    "source": "The Hacker News",
+    "title": "U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware",
+    "link": "https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html",
+    "published": "Wed, 31 Dec 2025 10:47:00 +0530",
+    "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) on Tuesday removed three individuals linked to the Intellexa Consortium, the holding company behind a commercial spyware known as Predator, from the specially designated nationals list.\nThe names of the individuals are as follows -\n\nMerom Harpaz\nAndrea Nicola Constantino Hermes Gambazzi\nSara Aleksandra Fayssal Hamou",
     "analysis": {
-      "issue": "An Interpol-coordinated initiative called Operation Sentinel led to the arrest of 574 individuals and the recovery of $3 million linked to business email compromise, extortion, and ransomware incidents",
+      "issue": "Treasury has removed three individuals linked to Intellexa and Predator spyware from its sanctions list, without explaining the decision",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware"
+        "General Security"
       ]
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Malicious npm package steals WhatsApp accounts and messages",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/",
-    "published": "Mon, 22 Dec 2025 11:08:46 -0500",
-    "summary": "A malicious package in the Node Package Manager (NPM) registry poses as a legitimate WhatsApp Web API library to steal WhatsApp messages, collect contacts, and gain access to the account. [...]",
+    "source": "The Hacker News",
+    "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution",
+    "link": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html",
+    "published": "Tue, 30 Dec 2025 21:58:00 +0530",
+    "summary": "The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email software that could be exploited to achieve remote code execution.\nThe vulnerability, tracked as CVE-2025-52691, carries a CVSS score of 10.0. It relates to a case of arbitrary file upload that could enable code execution without requiring any",
     "analysis": {
-      "issue": "A malicious package in the Node Package Manager (NPM) registry poses as a legitimate WhatsApp Web API library to steal WhatsApp messages, collect contacts, and gain access to the account",
+      "issue": "Singapore’s CSA warns of a CVSS 10",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware",
+    "link": "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html",
+    "published": "Tue, 30 Dec 2025 16:16:00 +0530",
+    "summary": "The threat actor known as Silver Fox has turned its focus to India, using income tax-themed lures in phishing campaigns to distribute a modular remote access trojan called ValleyRAT (aka Winos 4.0).\n\"This sophisticated attack leverages a complex kill chain involving DLL hijacking and the modular Valley RAT to ensure persistence,\" CloudSEK researchers Prajwal Awasthi and Koushik Pal said in an",
+    "analysis": {
+      "issue": "Silver Fox is using India income tax phishing emails and fake software sites to install ValleyRAT, a modular Windows remote access trojan",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -341,25 +122,267 @@
       "cves": [],
       "threat_categories": [
         "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "How to Integrate AI into Modern SOC Workflows",
+    "link": "https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html",
+    "published": "Tue, 30 Dec 2025 15:00:00 +0530",
+    "summary": "Artificial intelligence (AI) is making its way into security operations quickly, but many practitioners are still struggling to turn early experimentation into consistent operational value. This is because SOCs are adopting AI without an intentional approach to operational integration. Some teams treat it as a shortcut for broken processes. Others attempt to apply machine learning to problems",
+    "analysis": {
+      "issue": "The 2025 SANS SOC Survey shows AI use is rising, but many SOCs lack integration, customization, and clear validation processes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor",
+    "link": "https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html",
+    "published": "Tue, 30 Dec 2025 14:05:00 +0530",
+    "summary": "The Chinese hacking group known as Mustang Panda has leveraged a previously undocumented kernel-mode rootkit driver to deliver a new variant of backdoor dubbed TONESHELL in a cyber attack detected in mid-2025 targeting an unspecified entity in Asia.\nThe findings come from Kaspersky, which observed the new backdoor variant in cyber espionage campaigns mounted by the hacking group targeting",
+    "analysis": {
+      "issue": "Mustang Panda deployed TONESHELL via a signed kernel-mode rootkit, targeting Asian government networks and evading security tools",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More",
+    "link": "https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html",
+    "published": "Mon, 29 Dec 2025 19:08:00 +0530",
+    "summary": "Last week’s cyber news in 2025 was not about one big incident. It was about many small cracks opening at the same time. Tools people trust every day behave in unexpected ways. Old flaws resurfaced. New ones were used almost immediately.\nA common theme ran through it all in 2025. Attackers moved faster than fixes. Access meant for work, updates, or support kept getting abused. And damage did not",
+    "analysis": {
+      "issue": "Weekly 2025 cyber recap: MongoBleed targets 87,000, Trust Wallet $7M loss, LastPass $35M theft, DNS poisoning, npm WhatsApp trap",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices",
+    "link": "https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/",
+    "published": "Wed, 31 Dec 2025 17:52:44 -0500",
+    "summary": "New York City's 2026 mayoral inauguration of Zohran Mamdani has published a list of banned items for the event, specifically prohibiting the Flipper Zero and Raspberry Pi devices. [...]",
+    "analysis": {
+      "issue": "New York City's 2026 mayoral inauguration of Zohran Mamdani has published a list of banned items for the event, specifically prohibiting the Flipper Zero and Raspberry Pi devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
         "APT"
       ]
     }
   },
   {
     "source": "Bleeping Computer",
-    "title": "Romanian water authority hit by ransomware attack over weekend",
-    "link": "https://www.bleepingcomputer.com/news/security/romanian-water-authority-hit-by-ransomware-attack-over-weekend/",
-    "published": "Mon, 22 Dec 2025 10:25:50 -0500",
-    "summary": "Romanian Waters (Administrația Națională Apele Române), the country's water management authority, was hit by a ransomware attack over the weekend. [...]",
+    "title": "Hackers drain $3.9M from Unleash Protocol after multisig hijack",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/",
+    "published": "Wed, 31 Dec 2025 10:54:17 -0500",
+    "summary": "The decentralized intellectual property platform Unleash Protocol has lost around $3.9 million worth of cryptocurrency after someone executed an unauthorized contract upgrade that allowed asset withdrawals. [...]",
     "analysis": {
-      "issue": "Romanian Waters (Administrația Națională Apele Române), the country's water management authority, was hit by a ransomware attack over the weekend",
+      "issue": "The decentralized intellectual property platform Unleash Protocol has lost around $3",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "RondoDox botnet exploits React2Shell flaw to breach Next.js servers",
+    "link": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/",
+    "published": "Wed, 31 Dec 2025 09:58:51 -0500",
+    "summary": "The RondoDox botnet has been observed exploiting the critical React2Shell flaw (CVE-2025-55182) to infect vulnerable Next.js servers with malware and cryptominers. [...]",
+    "analysis": {
+      "issue": "The RondoDox botnet has been observed exploiting the critical React2Shell flaw (CVE-2025-55182) to infect vulnerable Next",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
+      "cves": [
+        "CVE-2025-55182",
+        "CVE-2025-24893"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "IBM warns of critical API Connect auth bypass vulnerability",
+    "link": "https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/",
+    "published": "Wed, 31 Dec 2025 05:34:38 -0500",
+    "summary": "IBM urged customers to patch a critical authentication bypass vulnerability in its API Connect enterprise platform that could allow attackers to access apps remotely. [...]",
+    "analysis": {
+      "issue": "IBM urged customers to patch a critical authentication bypass vulnerability in its API Connect enterprise platform that could allow attackers to access apps remotely",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-13915"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Disney will pay $10 million to settle children's data privacy lawsuit",
+    "link": "https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/",
+    "published": "Wed, 31 Dec 2025 04:43:26 -0500",
+    "summary": "Disney has agreed to pay a $10 million civil penalty to settle claims that it violated the Children's Online Privacy Protection Act by mislabeling videos and allowing data collection for targeted advertising. [...]",
+    "analysis": {
+      "issue": "Disney has agreed to pay a $10 million civil penalty to settle claims that it violated the Children's Online Privacy Protection Act by mislabeling videos and allowing data collection for targeted advertising",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New ErrTraffic service enables ClickFix attacks via fake browser glitches",
+    "link": "https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/",
+    "published": "Tue, 30 Dec 2025 16:08:28 -0500",
+    "summary": "A new cybercrime tool called ErrTraffic allows threat actors to automate ClickFix attacks by generating 'fake glitches' on compromised websites to lure users into downloading payloads or following malicious instructions [...]",
+    "analysis": {
+      "issue": "A new cybercrime tool called ErrTraffic allows threat actors to automate ClickFix attacks by generating 'fake glitches' on compromised websites to lure users into downloading payloads or following malicious instructions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "European Space Agency confirms breach of \"external servers\"",
+    "link": "https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/",
+    "published": "Tue, 30 Dec 2025 11:26:56 -0500",
+    "summary": "The European Space Agency (ESA) confirmed that attackers recently breached servers outside its corporate network, which contained what it described as \"unclassified\" information on collaborative engineering activities. [...]",
+    "analysis": {
+      "issue": "The European Space Agency (ESA) confirmed that attackers recently breached servers outside its corporate network, which contained what it described as \"unclassified\" information on collaborative engineering activities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Zoom Stealer browser extensions harvest corporate meeting intelligence",
+    "link": "https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/",
+    "published": "Tue, 30 Dec 2025 10:41:53 -0500",
+    "summary": "A newly discovered campaign, which researchers call Zoom Stealer, is affecting 2.2 million Chrome, Firefox, and Microsoft Edge users through 18 extensions that collect online meeting-related data like URLs, IDs, topics, descriptions, and embedded passwords. [...]",
+    "analysis": {
+      "issue": "A newly discovered campaign, which researchers call Zoom Stealer, is affecting 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "US cybersecurity experts plead guilty to BlackCat ransomware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/",
+    "published": "Tue, 30 Dec 2025 10:25:17 -0500",
+    "summary": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint have pleaded guilty to targeting U.S. companies in BlackCat (ALPHV) ransomware attacks in 2023. [...]",
+    "analysis": {
+      "issue": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint have pleaded guilty to targeting U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA orders feds to patch MongoBleed flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/",
+    "published": "Tue, 30 Dec 2025 09:40:13 -0500",
+    "summary": "CISA ordered U.S. federal agencies to patch an actively exploited MongoDB vulnerability (MongoBleed) that can be exploited to steal credentials, API keys, and other sensitive data. [...]",
+    "analysis": {
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to secure their systems against a high-severity MongoDB flaw that is actively being exploited in attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2025-14847"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+    "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+    "published": "Mon, 29 Dec 2025 20:23:26 +0000",
+    "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
+    "analysis": {
+      "issue": "com celebrates its 16th anniversary today",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
       ]
     }
   },
@@ -413,15 +436,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-62562",
+        "CVE-2025-62221",
+        "CVE-2025-59516",
+        "CVE-2025-62458",
         "CVE-2025-62557",
         "CVE-2025-62554",
-        "CVE-2025-62221",
-        "CVE-2025-62458",
-        "CVE-2025-62472",
-        "CVE-2025-59516",
-        "CVE-2025-62470",
         "CVE-2025-59517",
-        "CVE-2025-62562"
+        "CVE-2025-62470",
+        "CVE-2025-62472"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -539,97 +562,87 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "Microsoft Patch Tuesday, November 2025 Edition",
-    "link": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
-    "published": "Sun, 16 Nov 2025 21:47:14 +0000",
-    "summary": "Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being exploited. Microsoft also fixed a glitch that prevented some Windows 10 users from taking advantage of an extra year of security updates, which is nice because the zero-day flaw and other critical weaknesses patched today affect all versions of Windows, including Windows 10.",
+    "source": "Security Week",
+    "title": "Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist",
+    "link": "https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/",
+    "published": "Wed, 31 Dec 2025 11:58:51 +0000",
+    "summary": "<p>The worm exposed Trust Wallet’s Developer GitHub secrets, allowing attackers to publish a backdoor extension and steal funds from 2,520 wallets.</p>\n<p>The post <a href=\"https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/\">Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "European Space Agency Confirms Breach After Hacker Offers to Sell Data",
+    "link": "https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/",
+    "published": "Wed, 31 Dec 2025 09:35:22 +0000",
+    "summary": "<p>The European Space Agency is conducting an investigation and says external science servers have been compromised.</p>\n<p>The post <a href=\"https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/\">European Space Agency Confirms Breach After Hacker Offers to Sell Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025",
+    "link": "https://www.securityweek.com/8-cybersecurity-acquisitions-surpassed-1-billion-mark-in-2025/",
+    "published": "Tue, 30 Dec 2025 12:29:26 +0000",
+    "summary": "<p>The total disclosed value for all the cybersecurity M&#038;A deals announced in 2025 exceeded $84 billion.</p>\n<p>The post <a href=\"https://www.securityweek.com/8-cybersecurity-acquisitions-surpassed-1-billion-mark-in-2025/\">8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit",
+    "link": "https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/",
+    "published": "Tue, 30 Dec 2025 10:08:45 +0000",
+    "summary": "<p>The threat actor uses a signed driver file containing two user-mode shellcodes to execute its ToneShell backdoor.</p>\n<p>The post <a href=\"https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/\">Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Korean Air Data Compromised in Oracle EBS Hack",
+    "link": "https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/",
+    "published": "Tue, 30 Dec 2025 08:50:15 +0000",
+    "summary": "<p>Roughly 30,000 Korean Air employees had their data stolen by hackers in a breach at former subsidiary KC&#038;D.</p>\n<p>The post <a href=\"https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/\">Korean Air Data Compromised in Oracle EBS Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000",
+    "link": "https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/",
+    "published": "Mon, 29 Dec 2025 15:40:36 +0000",
+    "summary": "<p>It took Sax well over a year to complete its investigation after detecting hackers on its network.</p>\n<p>The post <a href=\"https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/\">Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Fortinet Warns of New Attacks Exploiting Old Vulnerability",
+    "link": "https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/",
+    "published": "Mon, 29 Dec 2025 12:52:49 +0000",
+    "summary": "<p>Tracked as CVE-2020-12812, the exploited FortiOS flaw allows threat actors to bypass two-factor authentication.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/\">Fortinet Warns of New Attacks Exploiting Old Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Coupang to Issue $1.17 Billion in Vouchers Over Data Breach",
+    "link": "https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/",
+    "published": "Mon, 29 Dec 2025 12:13:11 +0000",
+    "summary": "<p>The ecommerce giant will provide purchase vouchers to the 33.7 million individuals impacted by the incident.</p>\n<p>The post <a href=\"https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/\">Coupang to Issue $1.17 Billion in Vouchers Over Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "22 Million Affected by Aflac Data Breach",
+    "link": "https://www.securityweek.com/22-million-affected-by-aflac-data-breach/",
+    "published": "Mon, 29 Dec 2025 11:57:08 +0000",
+    "summary": "<p>Hackers stole names, addresses, Social Security numbers, ID numbers, and medical and health insurance information from Aflac’s systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/22-million-affected-by-aflac-data-breach/\">22 Million Affected by Aflac Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Infostealer Malware Delivered in EmEditor Supply Chain Attack",
+    "link": "https://www.securityweek.com/infostealer-malware-delivered-in-emeditor-supply-chain-attack/",
+    "published": "Mon, 29 Dec 2025 11:21:22 +0000",
+    "summary": "<p>The ‘download’ button on the official EmEditor website served a malicious installer.</p>\n<p>The post <a href=\"https://www.securityweek.com/infostealer-malware-delivered-in-emeditor-supply-chain-attack/\">Infostealer Malware Delivered in EmEditor Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being exploited",
+      "issue": "The ‘download’ button on the official EmEditor website served a malicious installer",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-62199",
-        "CVE-2025-62215",
-        "CVE-2025-60274"
-      ],
+      "severity": "High",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability",
+        "Malware",
+        "APT",
         "Supply Chain"
       ]
     }
-  },
-  {
-    "source": "Security Week",
-    "title": "ServiceNow to Acquire Armis for $7.75 Billion in Cash",
-    "link": "https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/",
-    "published": "Tue, 23 Dec 2025 14:28:42 +0000",
-    "summary": "<p>Rumors of a possible buyout surfaced earlier this month, with the official announcement coming just weeks after Armis announced raising $435 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/\">ServiceNow to Acquire Armis for $7.75 Billion in Cash</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Nissan Confirms Impact From Red Hat Data Breach",
-    "link": "https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/",
-    "published": "Tue, 23 Dec 2025 12:26:28 +0000",
-    "summary": "<p>The personal information of 21,000 customers was stolen after hackers compromised Red Hat’s GitLab instances.</p>\n<p>The post <a href=\"https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/\">Nissan Confirms Impact From Red Hat Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Feds Seize Password Database Used in Massive Bank Account Takeover Scheme",
-    "link": "https://www.securityweek.com/feds-seize-password-database-used-in-massive-bank-account-takeover-scheme/",
-    "published": "Tue, 23 Dec 2025 12:15:29 +0000",
-    "summary": "<p>The cybercriminals attempted to steal $28 million from compromised bank accounts through phishing.</p>\n<p>The post <a href=\"https://www.securityweek.com/feds-seize-password-database-used-in-massive-bank-account-takeover-scheme/\">Feds Seize Password Database Used in Massive Bank Account Takeover Scheme</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data",
-    "link": "https://www.securityweek.com/npm-package-with-56000-downloads-steals-whatsapp-credentials-data/",
-    "published": "Tue, 23 Dec 2025 10:52:05 +0000",
-    "summary": "<p>The package provides legitimate functionality to evade detection, while stealing users’ data and deploying a backdoor.</p>\n<p>The post <a href=\"https://www.securityweek.com/npm-package-with-56000-downloads-steals-whatsapp-credentials-data/\">NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Italy Antitrust Agency Fines Apple $116 Million Over Privacy Feature; Apple Announces Appeal",
-    "link": "https://www.securityweek.com/italy-antitrust-agency-fines-apple-116-million-over-privacy-feature-apple-announces-appeal/",
-    "published": "Tue, 23 Dec 2025 10:11:25 +0000",
-    "summary": "<p>Italy’s antitrust authority fined Apple $116 million after determining that operating one of its privacy features restricted App Store competition.</p>\n<p>The post <a href=\"https://www.securityweek.com/italy-antitrust-agency-fines-apple-116-million-over-privacy-feature-apple-announces-appeal/\">Italy Antitrust Agency Fines Apple $116 Million Over Privacy Feature; Apple Announces Appeal</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "574 Arrested, $3 Million Seized in Crackdown on African Cybercrime Rings",
-    "link": "https://www.securityweek.com/574-arrested-3-million-seized-in-crackdown-on-african-cybercrime-rings/",
-    "published": "Tue, 23 Dec 2025 09:31:17 +0000",
-    "summary": "<p>Authorities in Senegal, Ghana, Benin, and Cameroon dismantled BEC, ransomware, and other cyber-fraud networks.</p>\n<p>The post <a href=\"https://www.securityweek.com/574-arrested-3-million-seized-in-crackdown-on-african-cybercrime-rings/\">574 Arrested, $3 Million Seized in Crackdown on African Cybercrime Rings</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "3.5 Million Affected by University of Phoenix Data Breach",
-    "link": "https://www.securityweek.com/3-5-million-affected-by-university-of-phoenix-data-breach/",
-    "published": "Tue, 23 Dec 2025 07:24:43 +0000",
-    "summary": "<p>The University of Phoenix is one of the many victims of the recent Oracle EBS hacking campaign attributed to the Cl0p ransomware group.</p>\n<p>The post <a href=\"https://www.securityweek.com/3-5-million-affected-by-university-of-phoenix-data-breach/\">3.5 Million Affected by University of Phoenix Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Cyberattack Disrupts France’s Postal Service and Banking During Christmas Rush",
-    "link": "https://www.securityweek.com/cyberattack-disrupts-frances-postal-service-and-banking-during-christmas-rush/",
-    "published": "Tue, 23 Dec 2025 05:48:22 +0000",
-    "summary": "<p>A cyberattack knocked France’s national postal service offline, blocking and delaying package deliveries and online payments.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberattack-disrupts-frances-postal-service-and-banking-during-christmas-rush/\">Cyberattack Disrupts France&#8217;s Postal Service and Banking During Christmas Rush</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Rising Tides: When Cybersecurity Becomes Personal – Inside the Work of an OSINT Investigator",
-    "link": "https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/",
-    "published": "Mon, 22 Dec 2025 15:00:00 +0000",
-    "summary": "<p>Shannon Miller shares her approach to creating domestic safety and a call to the cyber community to help reduce harm.</p>\n<p>The post <a href=\"https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/\">Rising Tides: When Cybersecurity Becomes Personal &#8211; Inside the Work of an OSINT Investigator</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "ATM Hackers Using ‘Ploutus’ Malware Charged in US",
-    "link": "https://www.securityweek.com/54-charged-in-us-over-atm-attacks-involving-ploutus-malware/",
-    "published": "Mon, 22 Dec 2025 13:53:02 +0000",
-    "summary": "<p>The Department of Justice charged 54 individuals, including leaders and members of the Venezuelan crime syndicate Tren de Aragua.</p>\n<p>The post <a href=\"https://www.securityweek.com/54-charged-in-us-over-atm-attacks-involving-ploutus-malware/\">ATM Hackers Using &#8216;Ploutus&#8217; Malware Charged in US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -740,12 +753,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-62553",
         "CVE-2025-62557",
-        "CVE-2025-62554",
-        "CVE-2025-62556",
-        "CVE-2025-62549",
         "CVE-2025-62456",
-        "CVE-2025-62553"
+        "CVE-2025-62554",
+        "CVE-2025-62549",
+        "CVE-2025-62556"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1169,8 +1182,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1195,6 +1208,79 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "In 2025, age checks started locking people out of the internet",
+    "link": "https://www.malwarebytes.com/blog/news/2025/12/in-2025-age-checks-started-locking-people-out-of-the-internet",
+    "published": "Wed, 31 Dec 2025 10:49:04 GMT",
+    "summary": "Lawmakers enforced age checks, websites blocked entire countries, and users turned to VPNs to get around them.",
+    "analysis": {
+      "issue": "If 2024 was the year lawmakers talked about online age verification, 2025 was the year they actually flipped the switch",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "2025 exposed the risks we ignored while rushing AI",
+    "link": "https://www.malwarebytes.com/blog/news/2025/12/2025-exposed-risks-we-ignored-while-rushing-ai",
+    "published": "Tue, 30 Dec 2025 10:02:11 GMT",
+    "summary": "We explore how the rapid rise of Artificial Intelligence (AI) is putting users at risk.",
+    "analysis": {
+      "issue": "This blog is part of a series where we highlight new or fast-evolving threats in the consumer security landscape",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Malware in 2025 spread far beyond Windows PCs",
+    "link": "https://www.malwarebytes.com/blog/news/2025/12/malware-in-2025-spread-beyond-windows-pcs",
+    "published": "Mon, 29 Dec 2025 11:48:34 GMT",
+    "summary": "Windows isn’t the only target anymore. In 2025, malware increasingly targeted Android, macOS, and multiple platforms at once.",
+    "analysis": {
+      "issue": "This blog is part of a series highlighting new and concerning trends we noticed over the last year",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "A week in security (December 22 &#8211; December 28)",
+    "link": "https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-22-december-28",
+    "published": "Mon, 29 Dec 2025 08:02:00 GMT",
+    "summary": "A list of topics we covered in the week of December 22 to December 28 of 2025",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -1313,79 +1399,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Two Chrome flaws could be triggered by simply browsing the web: Update now",
-    "link": "https://www.malwarebytes.com/blog/news/2025/12/two-chrome-flaws-could-be-triggered-by-simply-browsing-the-web-update-now",
-    "published": "Wed, 17 Dec 2025 16:02:52 GMT",
-    "summary": "Google's patched two flaws in Chrome, both of which can be triggered remotely when a user loads specially crafted web content.",
+    "source": "Crowdstrike Blog",
+    "title": "Streamline Security Operations with Falcon for IT&rsquo;s Turnkey Automations",
+    "link": "https://www.crowdstrike.com/en-us/blog/streamline-security-operations-falcon-for-it-automations/",
+    "published": "Dec 29, 2025 00:00:00-0600",
+    "summary": "",
     "analysis": {
-      "issue": "Google issued an extra patch addressing two security vulnerabilities in Chrome, both of which can be triggered remotely by an attacker when a user visits a specially crafted, malicious web page",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-14765"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Inside a purchase order PDF phishing campaign",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2025/12/inside-a-purchase-order-pdf-phishing-campaign",
-    "published": "Wed, 17 Dec 2025 13:38:00 GMT",
-    "summary": "A “purchase order” PDF blocked by Malwarebytes led to a credential-harvesting phishing site. So we analyzed the attack and where the data went next.",
-    "analysis": {
-      "issue": "A PDF named “NEW Purchase Order # 52177236",
+      "issue": "See how Falcon for IT turnkey automations deliver prebuilt workflows to enforce configs, maintain app health, and secure endpoints at scale",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "SoundCloud, Pornhub, and 700Credit all reported data breaches, but the similarities end there",
-    "link": "https://www.malwarebytes.com/blog/news/2025/12/soundcloud-pornhub-and-700credit-all-reported-data-breaches-but-the-similarities-end-there",
-    "published": "Tue, 16 Dec 2025 17:04:59 GMT",
-    "summary": "We compared three incidents that surfaced today to show why the impact of a breach depends less on who was hit and more on what was taken.",
-    "analysis": {
-      "issue": "Comparing data breaches is like comparing apples and oranges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Android mobile adware surges in second half of 2025",
-    "link": "https://www.malwarebytes.com/blog/mobile/2025/12/android-threats-in-2025-when-your-phone-becomes-the-main-attack-surface",
-    "published": "Tue, 16 Dec 2025 13:58:42 GMT",
-    "summary": "Malwarebytes threat research reveals spike in adware and malicious malware families Triada and MobiDash heading into the holiday season.",
-    "analysis": {
-      "issue": "Android users spent 2025 walking a tighter rope than ever, with malware, data‑stealing apps, and SMS‑borne scams all climbing sharply while attackers refined their business models around mobile data and access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -1548,24 +1575,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Falcon Shield Evolves with AI Agent Visibility and Falcon Next-Gen SIEM Integration",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-shield-evolves-ai-agent-visibility/",
-    "published": "Dec 08, 2025 00:00:00-0600",
-    "summary": "",
-    "analysis": {
-      "issue": "Falcon Shield will provide a central view of AI agents across apps and now integrates first-party SaaS telemetry into Falcon Next-Gen SIEM",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   }
