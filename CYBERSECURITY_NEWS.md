@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-02 15:23:31 UTC
+**Last Updated:** 2026-01-02 16:32:18 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,26 @@
 
 ---
 
-### 11. [Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack](https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/)
+### 11. [Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass](https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 02 Jan 2026 11:01:55 -0500  
+**Severity:** Critical  
+**CVEs:** CVE-2020-12812  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Google is testing a new image AI and it's going to be its fastest model](https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 02 Jan 2026 10:19:17 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack](https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 09:19:40 -0500  
@@ -103,7 +122,7 @@
 
 ---
 
-### 12. [OpenAI is offering $20 ChatGPT Plus for free to some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/)
+### 14. [OpenAI is offering $20 ChatGPT Plus for free to some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Jan 2026 14:18:54 -0500  
@@ -112,7 +131,7 @@
 
 ---
 
-### 13. [The biggest cybersecurity and cyberattack stories of 2025](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/)
+### 15. [The biggest cybersecurity and cyberattack stories of 2025](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Jan 2026 11:15:26 -0500  
@@ -121,7 +140,7 @@
 
 ---
 
-### 14. [New GlassWorm malware wave targets Macs with trojanized crypto wallets](https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/)
+### 16. [New GlassWorm malware wave targets Macs with trojanized crypto wallets](https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Jan 2026 10:18:23 -0500  
@@ -130,7 +149,7 @@
 
 ---
 
-### 15. [NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices](https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/)
+### 17. [NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices](https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 31 Dec 2025 17:52:44 -0500  
@@ -139,7 +158,7 @@
 
 ---
 
-### 16. [Hackers drain $3.9M from Unleash Protocol after multisig hijack](https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/)
+### 18. [Hackers drain $3.9M from Unleash Protocol after multisig hijack](https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 31 Dec 2025 10:54:17 -0500  
@@ -148,7 +167,7 @@
 
 ---
 
-### 17. [RondoDox botnet exploits React2Shell flaw to breach Next.js servers](https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/)
+### 19. [RondoDox botnet exploits React2Shell flaw to breach Next.js servers](https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 31 Dec 2025 09:58:51 -0500  
@@ -158,31 +177,13 @@
 
 ---
 
-### 18. [IBM warns of critical API Connect auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/)
+### 20. [IBM warns of critical API Connect auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 31 Dec 2025 05:34:38 -0500  
 **Severity:** Critical  
 **CVEs:** CVE-2025-13915  
 **Categories:** Vulnerability  
-
----
-
-### 19. [Disney will pay $10 million to settle children's data privacy lawsuit](https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 31 Dec 2025 04:43:26 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [New ErrTraffic service enables ClickFix attacks via fake browser glitches](https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 30 Dec 2025 16:08:28 -0500  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -227,7 +228,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62562, CVE-2025-62557, CVE-2025-62470, CVE-2025-59516, CVE-2025-62554, CVE-2025-62221, CVE-2025-62472, CVE-2025-59517, CVE-2025-62458  
+**CVEs:** CVE-2025-62458, CVE-2025-59516, CVE-2025-62554, CVE-2025-59517, CVE-2025-62562, CVE-2025-62472, CVE-2025-62221, CVE-2025-62557, CVE-2025-62470  
 **Categories:** Vulnerability  
 
 ---
@@ -398,7 +399,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62557, CVE-2025-62556, CVE-2025-62549, CVE-2025-62456, CVE-2025-62554, CVE-2025-62553  
+**CVEs:** CVE-2025-62456, CVE-2025-62554, CVE-2025-62553, CVE-2025-62556, CVE-2025-62557, CVE-2025-62549  
 **Categories:** Vulnerability  
 
 ---
