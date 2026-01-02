@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "The ROI Problem in Attack Surface Management",
+    "link": "https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html",
+    "published": "Fri, 02 Jan 2026 17:00:00 +0530",
+    "summary": "Attack Surface Management (ASM) tools promise reduced risk. What they usually deliver is more information.&nbsp;\nSecurity teams deploy ASM, asset inventories grow, alerts start flowing, and dashboards fill up. There is visible activity and measurable output. But when leadership asks a simple question, “Is this reducing incidents?” the answer is often unclear.&nbsp;\nThis gap between effort and",
+    "analysis": {
+      "issue": "Attack surface management ROI improves when ownership, exposure duration, and risky endpoints decline—not when asset counts rise",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign",
+    "link": "https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html",
+    "published": "Fri, 02 Jan 2026 14:44:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a phishing campaign that involves the attackers impersonating legitimate Google-generated messages by abusing Google Cloud's Application Integration service to distribute emails.\nThe activity, Check Point said, takes advantage of the trust associated with Google Cloud infrastructure to send the messages from a legitimate email address (\"",
+    "analysis": {
+      "issue": "Attackers misused Google Cloud Application Integration to send 9,394 phishing emails from Google domains, bypassing filters and stealing credentials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories",
     "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html",
     "published": "Thu, 01 Jan 2026 21:22:00 +0530",
@@ -146,43 +182,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution",
-    "link": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html",
-    "published": "Tue, 30 Dec 2025 21:58:00 +0530",
-    "summary": "The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email software that could be exploited to achieve remote code execution.\nThe vulnerability, tracked as CVE-2025-52691, carries a CVSS score of 10.0. It relates to a case of arbitrary file upload that could enable code execution without requiring any",
-    "analysis": {
-      "issue": "Singapore’s CSA warns of a CVSS 10",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware",
-    "link": "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html",
-    "published": "Tue, 30 Dec 2025 16:16:00 +0530",
-    "summary": "The threat actor known as Silver Fox has turned its focus to India, using income tax-themed lures in phishing campaigns to distribute a modular remote access trojan called ValleyRAT (aka Winos 4.0).\n\"This sophisticated attack leverages a complex kill chain involving DLL hijacking and the modular Valley RAT to ensure persistence,\" CloudSEK researchers Prajwal Awasthi and Koushik Pal said in an",
-    "analysis": {
-      "issue": "Silver Fox is using India income tax phishing emails and fake software sites to install ValleyRAT, a modular Windows remote access trojan",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "OpenAI is offering $20 ChatGPT Plus for free to some users",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/",
@@ -321,9 +320,9 @@
     "title": "Disney will pay $10 million to settle children's data privacy lawsuit",
     "link": "https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/",
     "published": "Wed, 31 Dec 2025 04:43:26 -0500",
-    "summary": "Disney has agreed to pay a $10 million civil penalty to settle claims that it violated the Children's Online Privacy Protection Act by mislabeling videos and allowing data collection for targeted advertising. [...]",
+    "summary": "A federal judge has approved an order requiring Disney to pay a $10 million civil penalty to settle claims that it violated the Children's Online Privacy Protection Act by mislabeling videos and allowing data collection for targeted advertising. [...]",
     "analysis": {
-      "issue": "Disney has agreed to pay a $10 million civil penalty to settle claims that it violated the Children's Online Privacy Protection Act by mislabeling videos and allowing data collection for targeted advertising",
+      "issue": "A federal judge has approved an order requiring Disney to pay a $10 million civil penalty to settle claims that it violated the Children's Online Privacy Protection Act by mislabeling videos and allowing data collection for targeted advertising",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -438,15 +437,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62470",
-        "CVE-2025-59517",
-        "CVE-2025-59516",
-        "CVE-2025-62557",
         "CVE-2025-62554",
-        "CVE-2025-62472",
+        "CVE-2025-59516",
         "CVE-2025-62458",
         "CVE-2025-62562",
-        "CVE-2025-62221"
+        "CVE-2025-62472",
+        "CVE-2025-62557",
+        "CVE-2025-59517",
+        "CVE-2025-62221",
+        "CVE-2025-62470"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -565,6 +564,34 @@
   },
   {
     "source": "Security Week",
+    "title": "Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks",
+    "link": "https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/",
+    "published": "Fri, 02 Jan 2026 12:08:33 +0000",
+    "summary": "<p>Ryan Goldberg and Kevin Martin have admitted being affiliates of the BlackCat/Alphv ransomware group.</p>\n<p>The post <a href=\"https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/\">Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "RondoDox Botnet Exploiting React2Shell Vulnerability",
+    "link": "https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/",
+    "published": "Fri, 02 Jan 2026 11:12:02 +0000",
+    "summary": "<p>In December, the botnet’s operators focused on weaponizing the flaw to compromise vulnerable Next.js servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/\">RondoDox Botnet Exploiting React2Shell Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Covenant Health Data Breach Impacts 478,000 Individuals",
+    "link": "https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/",
+    "published": "Fri, 02 Jan 2026 10:20:06 +0000",
+    "summary": "<p>The Qilin ransomware group hacked the healthcare organization and stole data from its systems in May 2025. </p>\n<p>The post <a href=\"https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/\">Covenant Health Data Breach Impacts 478,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Adobe ColdFusion Servers Targeted in Coordinated Campaign",
+    "link": "https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/",
+    "published": "Fri, 02 Jan 2026 10:11:04 +0000",
+    "summary": "<p>GreyNoise has observed thousands of requests targeting a dozen vulnerabilities in Adobe ColdFusion during the Christmas 2025 holiday.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/\">Adobe ColdFusion Servers Targeted in Coordinated Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist",
     "link": "https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/",
     "published": "Wed, 31 Dec 2025 11:58:51 +0000",
@@ -606,47 +633,6 @@
     "summary": "<p>It took Sax well over a year to complete its investigation after detecting hackers on its network.</p>\n<p>The post <a href=\"https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/\">Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "Fortinet Warns of New Attacks Exploiting Old Vulnerability",
-    "link": "https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/",
-    "published": "Mon, 29 Dec 2025 12:52:49 +0000",
-    "summary": "<p>Tracked as CVE-2020-12812, the exploited FortiOS flaw allows threat actors to bypass two-factor authentication.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/\">Fortinet Warns of New Attacks Exploiting Old Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Coupang to Issue $1.17 Billion in Vouchers Over Data Breach",
-    "link": "https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/",
-    "published": "Mon, 29 Dec 2025 12:13:11 +0000",
-    "summary": "<p>The ecommerce giant will provide purchase vouchers to the 33.7 million individuals impacted by the incident.</p>\n<p>The post <a href=\"https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/\">Coupang to Issue $1.17 Billion in Vouchers Over Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "22 Million Affected by Aflac Data Breach",
-    "link": "https://www.securityweek.com/22-million-affected-by-aflac-data-breach/",
-    "published": "Mon, 29 Dec 2025 11:57:08 +0000",
-    "summary": "<p>Hackers stole names, addresses, Social Security numbers, ID numbers, and medical and health insurance information from Aflac’s systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/22-million-affected-by-aflac-data-breach/\">22 Million Affected by Aflac Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Infostealer Malware Delivered in EmEditor Supply Chain Attack",
-    "link": "https://www.securityweek.com/infostealer-malware-delivered-in-emeditor-supply-chain-attack/",
-    "published": "Mon, 29 Dec 2025 11:21:22 +0000",
-    "summary": "<p>The ‘download’ button on the official EmEditor website served a malicious installer.</p>\n<p>The post <a href=\"https://www.securityweek.com/infostealer-malware-delivered-in-emeditor-supply-chain-attack/\">Infostealer Malware Delivered in EmEditor Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The ‘download’ button on the official EmEditor website served a malicious installer",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Adios 2025, you won’t be missed",
     "link": "https://blog.talosintelligence.com/adios-2025-you-wont-be-missed/",
@@ -678,8 +664,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-66048",
-        "CVE-2025-66043"
+        "CVE-2025-66043",
+        "CVE-2025-66048"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -755,12 +741,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62556",
+        "CVE-2025-62554",
         "CVE-2025-62553",
         "CVE-2025-62549",
+        "CVE-2025-62556",
         "CVE-2025-62456",
-        "CVE-2025-62557",
-        "CVE-2025-62554"
+        "CVE-2025-62557"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1184,8 +1170,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1210,6 +1196,25 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "How AI made scams more convincing in 2025",
+    "link": "https://www.malwarebytes.com/blog/news/2026/01/how-ai-made-scams-more-convincing-in-2025",
+    "published": "Fri, 02 Jan 2026 10:16:04 GMT",
+    "summary": "Several AI-related stories in 2025 highlighted how quickly AI systems can move beyond meaningful human control.",
+    "analysis": {
+      "issue": "This blog is part of a series where we highlight new or fast-evolving threats in consumer security",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
       ]
     }
   },
@@ -1379,24 +1384,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Chrome extension slurps up AI chats after users installed it for privacy",
-    "link": "https://www.malwarebytes.com/blog/news/2025/12/chrome-extension-slurps-up-ai-chats-after-users-installed-it-for-privacy",
-    "published": "Thu, 18 Dec 2025 13:02:29 GMT",
-    "summary": "The extension disclosed its AI data collection, but not in a way most users would recognize—or knowingly agree to.",
-    "analysis": {
-      "issue": "This case highlights a growing grey area in consumer privacy: data collection that is technically disclosed, but so far outside user expectations that most people would never knowingly agree to it",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
