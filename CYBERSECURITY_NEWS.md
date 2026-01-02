@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-02 12:47:10 UTC
+**Last Updated:** 2026-01-02 15:23:31 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
+### 1. [Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 02 Jan 2026 19:22:00 +0530  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 2. [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Jan 2026 17:00:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html)
+### 3. [Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Jan 2026 14:44:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html)
+### 4. [ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Jan 2026 21:22:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html)
+### 5. [RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Jan 2026 14:49:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [How To Browse Faster and Get More Done Using Adapt Browser](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html)
+### 6. [How To Browse Faster and Get More Done Using Adapt Browser](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Jan 2026 11:17:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html)
+### 7. [Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 31 Dec 2025 21:59:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide](https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html)
+### 8. [DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide](https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 31 Dec 2025 21:44:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System](https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html)
+### 9. [Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System](https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 31 Dec 2025 19:07:00 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry](https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html)
+### 10. [Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry](https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 31 Dec 2025 18:59:00 +0530  
@@ -85,16 +94,16 @@
 
 ---
 
-### 10. [U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware](https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html)
+### 11. [Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack](https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 31 Dec 2025 10:47:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 02 Jan 2026 09:19:40 -0500  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Data Breach  
 
 ---
 
-### 11. [OpenAI is offering $20 ChatGPT Plus for free to some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/)
+### 12. [OpenAI is offering $20 ChatGPT Plus for free to some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Jan 2026 14:18:54 -0500  
@@ -103,7 +112,7 @@
 
 ---
 
-### 12. [The biggest cybersecurity and cyberattack stories of 2025](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/)
+### 13. [The biggest cybersecurity and cyberattack stories of 2025](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Jan 2026 11:15:26 -0500  
@@ -112,7 +121,7 @@
 
 ---
 
-### 13. [New GlassWorm malware wave targets Macs with trojanized crypto wallets](https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/)
+### 14. [New GlassWorm malware wave targets Macs with trojanized crypto wallets](https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Jan 2026 10:18:23 -0500  
@@ -121,7 +130,7 @@
 
 ---
 
-### 14. [NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices](https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/)
+### 15. [NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices](https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 31 Dec 2025 17:52:44 -0500  
@@ -130,7 +139,7 @@
 
 ---
 
-### 15. [Hackers drain $3.9M from Unleash Protocol after multisig hijack](https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/)
+### 16. [Hackers drain $3.9M from Unleash Protocol after multisig hijack](https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 31 Dec 2025 10:54:17 -0500  
@@ -139,7 +148,7 @@
 
 ---
 
-### 16. [RondoDox botnet exploits React2Shell flaw to breach Next.js servers](https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/)
+### 17. [RondoDox botnet exploits React2Shell flaw to breach Next.js servers](https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 31 Dec 2025 09:58:51 -0500  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [IBM warns of critical API Connect auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/)
+### 18. [IBM warns of critical API Connect auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 31 Dec 2025 05:34:38 -0500  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [Disney will pay $10 million to settle children's data privacy lawsuit](https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/)
+### 19. [Disney will pay $10 million to settle children's data privacy lawsuit](https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 31 Dec 2025 04:43:26 -0500  
@@ -168,7 +177,7 @@
 
 ---
 
-### 19. [New ErrTraffic service enables ClickFix attacks via fake browser glitches](https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/)
+### 20. [New ErrTraffic service enables ClickFix attacks via fake browser glitches](https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 30 Dec 2025 16:08:28 -0500  
@@ -177,16 +186,16 @@
 
 ---
 
-### 20. [European Space Agency confirms breach of "external servers"](https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/)
+### 21. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 
-**Source:** Bleeping Computer  
-**Published:** Tue, 30 Dec 2025 11:26:56 -0500  
-**Severity:** Low  
-**Categories:** Data Breach  
+**Source:** Krebs On Security  
+**Published:** Fri, 02 Jan 2026 14:20:10 +0000  
+**Severity:** High  
+**Categories:** Vulnerability, Malware, DDoS, Supply Chain  
 
 ---
 
-### 21. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+### 22. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 29 Dec 2025 20:23:26 +0000  
@@ -195,7 +204,7 @@
 
 ---
 
-### 22. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+### 23. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 19 Dec 2025 15:14:55 +0000  
@@ -204,7 +213,7 @@
 
 ---
 
-### 23. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+### 24. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 16 Dec 2025 14:14:48 +0000  
@@ -213,17 +222,17 @@
 
 ---
 
-### 24. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+### 25. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-59516, CVE-2025-59517, CVE-2025-62562, CVE-2025-62458, CVE-2025-62554, CVE-2025-62557, CVE-2025-62221, CVE-2025-62472, CVE-2025-62470  
+**CVEs:** CVE-2025-62562, CVE-2025-62557, CVE-2025-62470, CVE-2025-59516, CVE-2025-62554, CVE-2025-62221, CVE-2025-62472, CVE-2025-59517, CVE-2025-62458  
 **Categories:** Vulnerability  
 
 ---
 
-### 25. [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
+### 26. [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
 
 **Source:** Krebs On Security  
 **Published:** Sat, 06 Dec 2025 14:45:03 +0000  
@@ -232,7 +241,7 @@
 
 ---
 
-### 26. [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
+### 27. [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 04 Dec 2025 23:02:34 +0000  
@@ -241,7 +250,7 @@
 
 ---
 
-### 27. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
+### 28. [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 26 Nov 2025 17:22:36 +0000  
@@ -250,7 +259,7 @@
 
 ---
 
-### 28. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+### 29. [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 24 Nov 2025 18:44:52 +0000  
@@ -259,21 +268,12 @@
 
 ---
 
-### 29. [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
+### 30. [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 20 Nov 2025 19:06:51 +0000  
 **Severity:** High  
 **Categories:** Data Breach  
-
----
-
-### 30. [The Cloudflare Outage May Be a Security Roadmap](https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/)
-
-**Source:** Krebs On Security  
-**Published:** Wed, 19 Nov 2025 14:07:03 +0000  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -361,7 +361,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 17 Dec 2025 21:02:40 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-66048, CVE-2025-66043  
+**CVEs:** CVE-2025-66043, CVE-2025-66048  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -398,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62556, CVE-2025-62456, CVE-2025-62554, CVE-2025-62557, CVE-2025-62549, CVE-2025-62553  
+**CVEs:** CVE-2025-62557, CVE-2025-62556, CVE-2025-62549, CVE-2025-62456, CVE-2025-62554, CVE-2025-62553  
 **Categories:** Vulnerability  
 
 ---
@@ -609,7 +609,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

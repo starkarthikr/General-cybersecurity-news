@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia",
+    "link": "https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html",
+    "published": "Fri, 02 Jan 2026 19:22:00 +0530",
+    "summary": "The threat actor known as Transparent Tribe has been attributed to a fresh set of attacks targeting Indian governmental, academic, and strategic entities with a remote access trojan (RAT) that grants them persistent control over compromised hosts.\n\"The campaign employs deceptive delivery techniques, including a weaponized Windows shortcut (LNK) file masquerading as a legitimate PDF document",
+    "analysis": {
+      "issue": "Transparent Tribe (APT36) is linked to new cyber-espionage attacks using malicious LNK files, adaptive RATs, and long-term persistence against Indian",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "The ROI Problem in Attack Surface Management",
     "link": "https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html",
     "published": "Fri, 02 Jan 2026 17:00:00 +0530",
@@ -164,20 +182,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware",
-    "link": "https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html",
-    "published": "Wed, 31 Dec 2025 10:47:00 +0530",
-    "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) on Tuesday removed three individuals linked to the Intellexa Consortium, the holding company behind a commercial spyware known as Predator, from the specially designated nationals list.\nThe names of the individuals are as follows -\n\nMerom Harpaz\nAndrea Nicola Constantino Hermes Gambazzi\nSara Aleksandra Fayssal Hamou",
+    "source": "Bleeping Computer",
+    "title": "Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack",
+    "link": "https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/",
+    "published": "Fri, 02 Jan 2026 09:19:40 -0500",
+    "summary": "Trust Wallet believes the compromise of its web browser to steal roughly $8.5 million from over 2,500 crypto wallets is likely related to an \"industry-wide\" Sha1-Hulud attack in November. [...]",
     "analysis": {
-      "issue": "Treasury has removed three individuals linked to Intellexa and Predator spyware from its sanctions list, without explaining the decision",
+      "issue": "Trust Wallet believes the compromise of its web browser to steal roughly $8",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach"
       ]
     }
   },
@@ -352,20 +370,23 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "European Space Agency confirms breach of \"external servers\"",
-    "link": "https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/",
-    "published": "Tue, 30 Dec 2025 11:26:56 -0500",
-    "summary": "The European Space Agency (ESA) confirmed that attackers recently breached servers outside its corporate network, which contained what it described as \"unclassified\" information on collaborative engineering activities. [...]",
+    "source": "Krebs On Security",
+    "title": "The Kimwolf Botnet is Stalking Your Local Network",
+    "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+    "published": "Fri, 02 Jan 2026 14:20:10 +0000",
+    "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
     "analysis": {
-      "issue": "The European Space Agency (ESA) confirmed that attackers recently breached servers outside its corporate network, which contained what it described as \"unclassified\" information on collaborative engineering activities",
+      "issue": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Data Breach"
+        "Vulnerability",
+        "Malware",
+        "DDoS",
+        "Supply Chain"
       ]
     }
   },
@@ -437,15 +458,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-59516",
-        "CVE-2025-59517",
         "CVE-2025-62562",
-        "CVE-2025-62458",
-        "CVE-2025-62554",
         "CVE-2025-62557",
+        "CVE-2025-62470",
+        "CVE-2025-59516",
+        "CVE-2025-62554",
         "CVE-2025-62221",
         "CVE-2025-62472",
-        "CVE-2025-62470"
+        "CVE-2025-59517",
+        "CVE-2025-62458"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -541,24 +562,6 @@
       "cves": [],
       "threat_categories": [
         "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "The Cloudflare Outage May Be a Security Roadmap",
-    "link": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
-    "published": "Wed, 19 Nov 2025 14:07:03 +0000",
-    "summary": "An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet's top destinations offline. Some affected Cloudflare customers were able to pivot away from the platform temporarily so that visitors could still access their websites. But security experts say doing so may have also triggered an impromptu network penetration test for organizations that have come to rely on Cloudflare to block many types of abusive and malicious traffic.",
-    "analysis": {
-      "issue": "An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet’s top destinations offline",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -664,8 +667,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-66048",
-        "CVE-2025-66043"
+        "CVE-2025-66043",
+        "CVE-2025-66048"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -741,11 +744,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-62557",
         "CVE-2025-62556",
+        "CVE-2025-62549",
         "CVE-2025-62456",
         "CVE-2025-62554",
-        "CVE-2025-62557",
-        "CVE-2025-62549",
         "CVE-2025-62553"
       ],
       "threat_categories": [
@@ -1170,8 +1173,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
