@@ -183,6 +183,25 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Covenant Health says May data breach impacted nearly 478,000 patients",
+    "link": "https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/",
+    "published": "Fri, 02 Jan 2026 14:00:42 -0500",
+    "summary": "The Covenant Health organization has revised to nearly 500,000 the number of individuals affected by a data breach discovered last May. [...]",
+    "analysis": {
+      "issue": "The Covenant Health organization has revised to nearly 500,000 the number of individuals affected by a data breach discovered last May",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Cryptocurrency theft attacks traced to 2022 LastPass breach",
     "link": "https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/",
     "published": "Fri, 02 Jan 2026 12:28:01 -0500",
@@ -349,28 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "RondoDox botnet exploits React2Shell flaw to breach Next.js servers",
-    "link": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/",
-    "published": "Wed, 31 Dec 2025 09:58:51 -0500",
-    "summary": "The RondoDox botnet has been observed exploiting the critical React2Shell flaw (CVE-2025-55182) to infect vulnerable Next.js servers with malware and cryptominers. [...]",
-    "analysis": {
-      "issue": "The RondoDox botnet has been observed exploiting the critical React2Shell flaw (CVE-2025-55182) to infect vulnerable Next",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-24893",
-        "CVE-2025-55182"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "The Kimwolf Botnet is Stalking Your Local Network",
     "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
@@ -459,15 +456,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62221",
-        "CVE-2025-62472",
         "CVE-2025-62470",
-        "CVE-2025-59517",
-        "CVE-2025-62557",
         "CVE-2025-62458",
         "CVE-2025-62562",
-        "CVE-2025-62554",
-        "CVE-2025-59516"
+        "CVE-2025-62557",
+        "CVE-2025-59517",
+        "CVE-2025-59516",
+        "CVE-2025-62472",
+        "CVE-2025-62221",
+        "CVE-2025-62554"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -745,12 +742,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62556",
-        "CVE-2025-62557",
-        "CVE-2025-62553",
         "CVE-2025-62549",
+        "CVE-2025-62557",
+        "CVE-2025-62456",
+        "CVE-2025-62553",
         "CVE-2025-62554",
-        "CVE-2025-62456"
+        "CVE-2025-62556"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1174,8 +1171,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
