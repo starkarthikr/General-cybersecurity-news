@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-03 18:26:40 UTC
+**Last Updated:** 2026-01-03 20:29:35 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -116,9 +116,6 @@
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 11:01:55 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2020-12812  
-**Categories:** Vulnerability  
 
 ---
 
@@ -126,8 +123,6 @@
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 10:19:17 -0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -135,8 +130,6 @@
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 09:19:40 -0500  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
@@ -144,8 +137,6 @@
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Jan 2026 14:18:54 -0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -153,8 +144,6 @@
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Jan 2026 11:15:26 -0500  
-**Severity:** Critical  
-**Categories:** Data Breach, Vulnerability, Supply Chain  
 
 ---
 
@@ -162,8 +151,6 @@
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Jan 2026 10:18:23 -0500  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -171,8 +158,6 @@
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 31 Dec 2025 17:52:44 -0500  
-**Severity:** Low  
-**Categories:** APT  
 
 ---
 
@@ -180,8 +165,6 @@
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 31 Dec 2025 10:54:17 -0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -226,7 +209,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62554, CVE-2025-62472, CVE-2025-62470, CVE-2025-62557, CVE-2025-62562, CVE-2025-59517, CVE-2025-62458, CVE-2025-62221, CVE-2025-59516  
+**CVEs:** CVE-2025-62472, CVE-2025-59517, CVE-2025-62554, CVE-2025-62470, CVE-2025-62458, CVE-2025-62557, CVE-2025-62562, CVE-2025-62221, CVE-2025-59516  
 **Categories:** Vulnerability  
 
 ---
@@ -397,7 +380,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62554, CVE-2025-62549, CVE-2025-62557, CVE-2025-62553, CVE-2025-62556, CVE-2025-62456  
+**CVEs:** CVE-2025-62554, CVE-2025-62553, CVE-2025-62556, CVE-2025-62549, CVE-2025-62557, CVE-2025-62456  
 **Categories:** Vulnerability  
 
 ---
