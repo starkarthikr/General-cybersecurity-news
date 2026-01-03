@@ -1,12 +1,15 @@
 # Security Reports Index
 
-**Last Updated:** December 21, 2025 at 06:49 PM IST
-**Total Reports:** 12
+**Last Updated:** January 03, 2026 at 06:49 PM IST
+**Total Reports:** 15
 
 ---
 
 ## All Security Reports
 
+- [January 03, 2026 at 06:49 PM](2026-01-03_18-49-56-security-report.md)
+- [January 03, 2026 at 06:49 PM](2026-01-03_18-49-28-security-report.md)
+- [January 03, 2026 at 06:49 PM](2026-01-03_18-49-01-security-report.md)
 - [December 21, 2025 at 06:49 PM](2025-12-21_18-49-36-security-report.md)
 - [December 21, 2025 at 06:48 PM](2025-12-21_18-48-56-security-report.md)
 - [December 21, 2025 at 06:48 PM](2025-12-21_18-48-13-security-report.md)
