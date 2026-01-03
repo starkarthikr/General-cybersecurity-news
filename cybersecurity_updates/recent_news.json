@@ -456,15 +456,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62562",
-        "CVE-2025-62554",
-        "CVE-2025-62221",
-        "CVE-2025-59516",
         "CVE-2025-59517",
-        "CVE-2025-62470",
+        "CVE-2025-62221",
+        "CVE-2025-62554",
+        "CVE-2025-59516",
+        "CVE-2025-62458",
         "CVE-2025-62472",
         "CVE-2025-62557",
-        "CVE-2025-62458"
+        "CVE-2025-62470",
+        "CVE-2025-62562"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -565,6 +565,13 @@
   },
   {
     "source": "Security Week",
+    "title": "President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests",
+    "link": "https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/",
+    "published": "Sat, 03 Jan 2026 10:46:09 +0000",
+    "summary": "<p>The deal involved aerospace and defense specialist Emcore Corp. selling its computer chips and wafer fabrication operation.</p>\n<p>The post <a href=\"https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/\">President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks",
     "link": "https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/",
     "published": "Fri, 02 Jan 2026 12:08:33 +0000",
@@ -627,13 +634,6 @@
     "summary": "<p>Roughly 30,000 Korean Air employees had their data stolen by hackers in a breach at former subsidiary KC&#038;D.</p>\n<p>The post <a href=\"https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/\">Korean Air Data Compromised in Oracle EBS Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000",
-    "link": "https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/",
-    "published": "Mon, 29 Dec 2025 15:40:36 +0000",
-    "summary": "<p>It took Sax well over a year to complete its investigation after detecting hackers on its network.</p>\n<p>The post <a href=\"https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/\">Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
     "source": "Talos Blog",
     "title": "Adios 2025, you won’t be missed",
     "link": "https://blog.talosintelligence.com/adios-2025-you-wont-be-missed/",
@@ -665,8 +665,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-66048",
-        "CVE-2025-66043"
+        "CVE-2025-66043",
+        "CVE-2025-66048"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -743,11 +743,11 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-62553",
-        "CVE-2025-62456",
         "CVE-2025-62554",
         "CVE-2025-62556",
-        "CVE-2025-62557",
-        "CVE-2025-62549"
+        "CVE-2025-62456",
+        "CVE-2025-62549",
+        "CVE-2025-62557"
       ],
       "threat_categories": [
         "Vulnerability"

@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-03 09:23:23 UTC
+**Last Updated:** 2026-01-03 12:32:59 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -226,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62562, CVE-2025-62554, CVE-2025-62221, CVE-2025-59516, CVE-2025-59517, CVE-2025-62470, CVE-2025-62472, CVE-2025-62557, CVE-2025-62458  
+**CVEs:** CVE-2025-59517, CVE-2025-62221, CVE-2025-62554, CVE-2025-59516, CVE-2025-62458, CVE-2025-62472, CVE-2025-62557, CVE-2025-62470, CVE-2025-62562  
 **Categories:** Vulnerability  
 
 ---
@@ -276,73 +276,73 @@
 
 ---
 
-### 31. [Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks](https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/)
+### 31. [President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests](https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/)
+
+**Source:** Security Week  
+**Published:** Sat, 03 Jan 2026 10:46:09 +0000  
+
+---
+
+### 32. [Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks](https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Jan 2026 12:08:33 +0000  
 
 ---
 
-### 32. [RondoDox Botnet Exploiting React2Shell Vulnerability](https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/)
+### 33. [RondoDox Botnet Exploiting React2Shell Vulnerability](https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Jan 2026 11:12:02 +0000  
 
 ---
 
-### 33. [Covenant Health Data Breach Impacts 478,000 Individuals](https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/)
+### 34. [Covenant Health Data Breach Impacts 478,000 Individuals](https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Jan 2026 10:20:06 +0000  
 
 ---
 
-### 34. [Adobe ColdFusion Servers Targeted in Coordinated Campaign](https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/)
+### 35. [Adobe ColdFusion Servers Targeted in Coordinated Campaign](https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Jan 2026 10:11:04 +0000  
 
 ---
 
-### 35. [Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist](https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/)
+### 36. [Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist](https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/)
 
 **Source:** Security Week  
 **Published:** Wed, 31 Dec 2025 11:58:51 +0000  
 
 ---
 
-### 36. [European Space Agency Confirms Breach After Hacker Offers to Sell Data](https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/)
+### 37. [European Space Agency Confirms Breach After Hacker Offers to Sell Data](https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/)
 
 **Source:** Security Week  
 **Published:** Wed, 31 Dec 2025 09:35:22 +0000  
 
 ---
 
-### 37. [8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025](https://www.securityweek.com/8-cybersecurity-acquisitions-surpassed-1-billion-mark-in-2025/)
+### 38. [8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025](https://www.securityweek.com/8-cybersecurity-acquisitions-surpassed-1-billion-mark-in-2025/)
 
 **Source:** Security Week  
 **Published:** Tue, 30 Dec 2025 12:29:26 +0000  
 
 ---
 
-### 38. [Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit](https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/)
+### 39. [Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit](https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/)
 
 **Source:** Security Week  
 **Published:** Tue, 30 Dec 2025 10:08:45 +0000  
 
 ---
 
-### 39. [Korean Air Data Compromised in Oracle EBS Hack](https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/)
+### 40. [Korean Air Data Compromised in Oracle EBS Hack](https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/)
 
 **Source:** Security Week  
 **Published:** Tue, 30 Dec 2025 08:50:15 +0000  
-
----
-
-### 40. [Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000](https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/)
-
-**Source:** Security Week  
-**Published:** Mon, 29 Dec 2025 15:40:36 +0000  
 
 ---
 
@@ -360,7 +360,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 17 Dec 2025 21:02:40 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-66048, CVE-2025-66043  
+**CVEs:** CVE-2025-66043, CVE-2025-66048  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -397,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62553, CVE-2025-62456, CVE-2025-62554, CVE-2025-62556, CVE-2025-62557, CVE-2025-62549  
+**CVEs:** CVE-2025-62553, CVE-2025-62554, CVE-2025-62556, CVE-2025-62456, CVE-2025-62549, CVE-2025-62557  
 **Categories:** Vulnerability  
 
 ---
