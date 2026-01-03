@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-03 20:29:35 UTC
+**Last Updated:** 2026-01-03 21:21:23 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,16 @@
 
 ---
 
-### 11. [Covenant Health says May data breach impacted nearly 478,000 patients](https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/)
+### 11. [ShinyHunters claims Resecurity hack, firm says it’s a honeypot](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-resecurity-hack-firm-says-its-a-honeypot/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 03 Jan 2026 15:34:22 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Covenant Health says May data breach impacted nearly 478,000 patients](https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 14:00:42 -0500  
@@ -103,7 +112,7 @@
 
 ---
 
-### 12. [Cryptocurrency theft attacks traced to 2022 LastPass breach](https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/)
+### 13. [Cryptocurrency theft attacks traced to 2022 LastPass breach](https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 12:28:01 -0500  
@@ -112,59 +121,67 @@
 
 ---
 
-### 13. [Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass](https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/)
+### 14. [Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass](https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 11:01:55 -0500  
+**Severity:** Critical  
+**CVEs:** CVE-2020-12812  
+**Categories:** Vulnerability  
 
 ---
 
-### 14. [Google is testing a new image AI and it's going to be its fastest model](https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/)
+### 15. [Google is testing a new image AI and it's going to be its fastest model](https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 10:19:17 -0500  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
-### 15. [Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack](https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/)
+### 16. [Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack](https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 09:19:40 -0500  
+**Severity:** Low  
+**Categories:** Data Breach  
 
 ---
 
-### 16. [OpenAI is offering $20 ChatGPT Plus for free to some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/)
+### 17. [OpenAI is offering $20 ChatGPT Plus for free to some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Jan 2026 14:18:54 -0500  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
-### 17. [The biggest cybersecurity and cyberattack stories of 2025](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/)
+### 18. [The biggest cybersecurity and cyberattack stories of 2025](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Jan 2026 11:15:26 -0500  
+**Severity:** Critical  
+**Categories:** Data Breach, Vulnerability, Supply Chain  
 
 ---
 
-### 18. [New GlassWorm malware wave targets Macs with trojanized crypto wallets](https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/)
+### 19. [New GlassWorm malware wave targets Macs with trojanized crypto wallets](https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Jan 2026 10:18:23 -0500  
+**Severity:** Low  
+**Categories:** Malware  
 
 ---
 
-### 19. [NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices](https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/)
+### 20. [NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices](https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 31 Dec 2025 17:52:44 -0500  
-
----
-
-### 20. [Hackers drain $3.9M from Unleash Protocol after multisig hijack](https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 31 Dec 2025 10:54:17 -0500  
+**Severity:** Low  
+**Categories:** APT  
 
 ---
 
@@ -209,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62472, CVE-2025-59517, CVE-2025-62554, CVE-2025-62470, CVE-2025-62458, CVE-2025-62557, CVE-2025-62562, CVE-2025-62221, CVE-2025-59516  
+**CVEs:** CVE-2025-62554, CVE-2025-59517, CVE-2025-62562, CVE-2025-62458, CVE-2025-59516, CVE-2025-62221, CVE-2025-62470, CVE-2025-62557, CVE-2025-62472  
 **Categories:** Vulnerability  
 
 ---
@@ -343,7 +360,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 17 Dec 2025 21:02:40 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-66048, CVE-2025-66043  
+**CVEs:** CVE-2025-66043, CVE-2025-66048  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -380,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62554, CVE-2025-62553, CVE-2025-62556, CVE-2025-62549, CVE-2025-62557, CVE-2025-62456  
+**CVEs:** CVE-2025-62549, CVE-2025-62554, CVE-2025-62553, CVE-2025-62556, CVE-2025-62557, CVE-2025-62456  
 **Categories:** Vulnerability  
 
 ---

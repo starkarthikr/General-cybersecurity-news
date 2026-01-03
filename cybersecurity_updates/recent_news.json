@@ -183,6 +183,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "ShinyHunters claims Resecurity hack, firm says it’s a honeypot",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-resecurity-hack-firm-says-its-a-honeypot/",
+    "published": "Sat, 03 Jan 2026 15:34:22 -0500",
+    "summary": "The ShinyHunters hacking group claims it breached the systems of cybersecurity firm Resecurity and stole internal data, while Resecurity says the attackers only accessed a deliberately deployed honeypot containing fake information used to monitor their activity. [...]",
+    "analysis": {
+      "issue": "The ShinyHunters hacking group claims it breached the systems of cybersecurity firm Resecurity and stole internal data, while Resecurity says the attackers only accessed a deliberately deployed honeypot containing fake information used to monitor the",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Covenant Health says May data breach impacted nearly 478,000 patients",
     "link": "https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/",
     "published": "Fri, 02 Jan 2026 14:00:42 -0500",
@@ -224,56 +242,130 @@
     "title": "Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass",
     "link": "https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/",
     "published": "Fri, 02 Jan 2026 11:01:55 -0500",
-    "summary": "Over 10,000 Internet-exposed Fortinet firewalls are still vulnerable to attacks exploiting a five-year-old two-factor authentication (2FA) bypass vulnerability. [...]"
+    "summary": "Over 10,000 Internet-exposed Fortinet firewalls are still vulnerable to attacks exploiting a five-year-old two-factor authentication (2FA) bypass vulnerability. [...]",
+    "analysis": {
+      "issue": "Over 10,000 Fortinet firewalls are still exposed online and vulnerable to ongoing attacks exploiting a five-year-old critical two-factor authentication (2FA) bypass vulnerability",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2020-12812"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
     "title": "Google is testing a new image AI and it's going to be its fastest model",
     "link": "https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/",
     "published": "Fri, 02 Jan 2026 10:19:17 -0500",
-    "summary": "Google is testing a new image AI model called \"Nano Banana 2 Flash,\" and it's going to be as good as the Gemini 3 Pro Nano Banana, but it'll be cheaper. [...]"
+    "summary": "Google is testing a new image AI model called \"Nano Banana 2 Flash,\" and it's going to be as good as the Gemini 3 Pro Nano Banana, but it'll be cheaper. [...]",
+    "analysis": {
+      "issue": "Google is testing a new image AI model called \"Nano Banana 2 Flash,\" and it's going to be faster than the Nano Banana Pro",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
     "title": "Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack",
     "link": "https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/",
     "published": "Fri, 02 Jan 2026 09:19:40 -0500",
-    "summary": "Trust Wallet believes the compromise of its web browser to steal roughly $8.5 million from over 2,500 crypto wallets is likely related to an \"industry-wide\" Sha1-Hulud attack in November. [...]"
+    "summary": "Trust Wallet believes the compromise of its web browser to steal roughly $8.5 million from over 2,500 crypto wallets is likely related to an \"industry-wide\" Sha1-Hulud attack in November. [...]",
+    "analysis": {
+      "issue": "Trust Wallet believes the compromise of its web browser to steal roughly $8",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
     "title": "OpenAI is offering $20 ChatGPT Plus for free to some users",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/",
     "published": "Thu, 01 Jan 2026 14:18:54 -0500",
-    "summary": "If you're already subscribed to ChatGPT Plus, which costs $20, you can request OpenAI to cancel your subscription, and it may offer one month of free usage. [...]"
+    "summary": "If you're already subscribed to ChatGPT Plus, which costs $20, you can request OpenAI to cancel your subscription, and it may offer one month of free usage. [...]",
+    "analysis": {
+      "issue": "If you're already subscribed to ChatGPT Plus, which costs $20, you can request OpenAI to cancel your subscription, and it may offer one month of free usage",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
     "title": "The biggest cybersecurity and cyberattack stories of 2025",
     "link": "https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/",
     "published": "Thu, 01 Jan 2026 11:15:26 -0500",
-    "summary": "2025 was a big year for cybersecurity, with cyberattacks, data breaches, threat groups reaching new notoriety levels, and, of course, zero-day flaws exploited in breaches. Some stories, though, were more impactful or popular with our readers than others. This article explores 15 of the biggest cybersecurity stories of 2025. [...]"
+    "summary": "2025 was a big year for cybersecurity, with cyberattacks, data breaches, threat groups reaching new notoriety levels, and, of course, zero-day flaws exploited in breaches. Some stories, though, were more impactful or popular with our readers than others. This article explores 15 of the biggest cybersecurity stories of 2025. [...]",
+    "analysis": {
+      "issue": "2025 was a big year for cybersecurity, with major cyberattacks, data breaches, threat groups reaching new notoriety levels, and, of course, zero-day vulnerabilities exploited in incidents",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
     "title": "New GlassWorm malware wave targets Macs with trojanized crypto wallets",
     "link": "https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/",
     "published": "Thu, 01 Jan 2026 10:18:23 -0500",
-    "summary": "A fourth wave of the \"GlassWorm\" campaign is targeting macOS developers with malicious VSCode/OpenVSX extensions that deliver trojanized versions of crypto wallet applications. [...]"
+    "summary": "A fourth wave of the \"GlassWorm\" campaign is targeting macOS developers with malicious VSCode/OpenVSX extensions that deliver trojanized versions of crypto wallet applications. [...]",
+    "analysis": {
+      "issue": "A fourth wave of the \"GlassWorm\" campaign is targeting macOS developers with malicious VSCode/OpenVSX extensions that deliver trojanized versions of crypto wallet applications",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
     "title": "NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices",
     "link": "https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/",
     "published": "Wed, 31 Dec 2025 17:52:44 -0500",
-    "summary": "New York City's 2026 mayoral inauguration of Zohran Mamdani has published a list of banned items for the event, specifically prohibiting the Flipper Zero and Raspberry Pi devices. [...]"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers drain $3.9M from Unleash Protocol after multisig hijack",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/",
-    "published": "Wed, 31 Dec 2025 10:54:17 -0500",
-    "summary": "The decentralized intellectual property platform Unleash Protocol has lost around $3.9 million worth of cryptocurrency after someone executed an unauthorized contract upgrade that allowed asset withdrawals. [...]"
+    "summary": "New York City's 2026 mayoral inauguration of Zohran Mamdani has published a list of banned items for the event, specifically prohibiting the Flipper Zero and Raspberry Pi devices. [...]",
+    "analysis": {
+      "issue": "New York City's 2026 mayoral inauguration of Zohran Mamdani has published a list of banned items for the event, specifically prohibiting the Flipper Zero and Raspberry Pi devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -364,15 +456,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62472",
-        "CVE-2025-59517",
         "CVE-2025-62554",
-        "CVE-2025-62470",
-        "CVE-2025-62458",
-        "CVE-2025-62557",
+        "CVE-2025-59517",
         "CVE-2025-62562",
+        "CVE-2025-62458",
+        "CVE-2025-59516",
         "CVE-2025-62221",
-        "CVE-2025-59516"
+        "CVE-2025-62470",
+        "CVE-2025-62557",
+        "CVE-2025-62472"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -573,8 +665,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-66048",
-        "CVE-2025-66043"
+        "CVE-2025-66043",
+        "CVE-2025-66048"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -650,10 +742,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-62549",
         "CVE-2025-62554",
         "CVE-2025-62553",
         "CVE-2025-62556",
-        "CVE-2025-62549",
         "CVE-2025-62557",
         "CVE-2025-62456"
       ],
