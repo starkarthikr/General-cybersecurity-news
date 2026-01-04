@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-04 16:31:12 UTC
+**Last Updated:** 2026-01-04 18:27:44 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -226,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62472, CVE-2025-62470, CVE-2025-62554, CVE-2025-62458, CVE-2025-59516, CVE-2025-62562, CVE-2025-59517, CVE-2025-62557, CVE-2025-62221  
+**CVEs:** CVE-2025-62458, CVE-2025-59517, CVE-2025-62472, CVE-2025-59516, CVE-2025-62554, CVE-2025-62557, CVE-2025-62470, CVE-2025-62562, CVE-2025-62221  
 **Categories:** Vulnerability  
 
 ---
@@ -360,7 +360,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 17 Dec 2025 21:02:40 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-66048, CVE-2025-66043  
+**CVEs:** CVE-2025-66043, CVE-2025-66048  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -397,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62556, CVE-2025-62554, CVE-2025-62553, CVE-2025-62549, CVE-2025-62557, CVE-2025-62456  
+**CVEs:** CVE-2025-62553, CVE-2025-62549, CVE-2025-62556, CVE-2025-62554, CVE-2025-62557, CVE-2025-62456  
 **Categories:** Vulnerability  
 
 ---
