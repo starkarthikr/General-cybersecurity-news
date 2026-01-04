@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-03 21:21:23 UTC
+**Last Updated:** 2026-01-04 01:19:29 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,7 @@
 
 ---
 
-### 11. [ShinyHunters claims Resecurity hack, firm says it’s a honeypot](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-resecurity-hack-firm-says-its-a-honeypot/)
+### 11. [Hackers claim to hack Resecurity, firm says it was a honeypot](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 03 Jan 2026 15:34:22 -0500  
@@ -226,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62554, CVE-2025-59517, CVE-2025-62562, CVE-2025-62458, CVE-2025-59516, CVE-2025-62221, CVE-2025-62470, CVE-2025-62557, CVE-2025-62472  
+**CVEs:** CVE-2025-59516, CVE-2025-62557, CVE-2025-62472, CVE-2025-62458, CVE-2025-62221, CVE-2025-59517, CVE-2025-62470, CVE-2025-62562, CVE-2025-62554  
 **Categories:** Vulnerability  
 
 ---
@@ -397,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62549, CVE-2025-62554, CVE-2025-62553, CVE-2025-62556, CVE-2025-62557, CVE-2025-62456  
+**CVEs:** CVE-2025-62557, CVE-2025-62549, CVE-2025-62553, CVE-2025-62456, CVE-2025-62556, CVE-2025-62554  
 **Categories:** Vulnerability  
 
 ---
