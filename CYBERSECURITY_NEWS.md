@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-05 18:30:56 UTC
+**Last Updated:** 2026-01-05 20:32:27 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,16 +94,25 @@
 
 ---
 
-### 11. [VSCode IDE forks expose users to "recommended extension" attacks](https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/)
+### 11. [US broadband provider Brightspeed investigates breach claims](https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 05 Jan 2026 15:01:17 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [VSCode IDE forks expose users to "recommended extension" attacks](https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 11:41:38 -0500  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** Vulnerability, Malware  
 
 ---
 
-### 12. [Ledger customers impacted by third-party Global-e data breach](https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/)
+### 13. [Ledger customers impacted by third-party Global-e data breach](https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 10:14:04 -0500  
@@ -112,7 +121,7 @@
 
 ---
 
-### 13. [Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome](https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/)
+### 14. [Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome](https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 10:05:15 -0500  
@@ -121,7 +130,7 @@
 
 ---
 
-### 14. [NordVPN denies breach claims, says attackers have "dummy data"](https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/)
+### 15. [NordVPN denies breach claims, says attackers have "dummy data"](https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 09:48:46 -0500  
@@ -130,7 +139,7 @@
 
 ---
 
-### 15. [Hackers claim to hack Resecurity, firm says it was a honeypot](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/)
+### 16. [Hackers claim to hack Resecurity, firm says it was a honeypot](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 03 Jan 2026 15:34:22 -0500  
@@ -139,7 +148,7 @@
 
 ---
 
-### 16. [Covenant Health says May data breach impacted nearly 478,000 patients](https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/)
+### 17. [Covenant Health says May data breach impacted nearly 478,000 patients](https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 14:00:42 -0500  
@@ -148,7 +157,7 @@
 
 ---
 
-### 17. [Cryptocurrency theft attacks traced to 2022 LastPass breach](https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/)
+### 18. [Cryptocurrency theft attacks traced to 2022 LastPass breach](https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 12:28:01 -0500  
@@ -157,7 +166,7 @@
 
 ---
 
-### 18. [Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass](https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/)
+### 19. [Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass](https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 11:01:55 -0500  
@@ -167,21 +176,12 @@
 
 ---
 
-### 19. [Google is testing a new image AI and it's going to be its fastest model](https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/)
+### 20. [Google is testing a new image AI and it's going to be its fastest model](https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 10:19:17 -0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack](https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 02 Jan 2026 09:19:40 -0500  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
@@ -226,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62221, CVE-2025-62557, CVE-2025-62562, CVE-2025-62554, CVE-2025-62470, CVE-2025-62472, CVE-2025-59517, CVE-2025-62458, CVE-2025-59516  
+**CVEs:** CVE-2025-59517, CVE-2025-62470, CVE-2025-59516, CVE-2025-62557, CVE-2025-62562, CVE-2025-62554, CVE-2025-62458, CVE-2025-62472, CVE-2025-62221  
 **Categories:** Vulnerability  
 
 ---
@@ -360,7 +360,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 17 Dec 2025 21:02:40 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-66043, CVE-2025-66048  
+**CVEs:** CVE-2025-66048, CVE-2025-66043  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -397,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62557, CVE-2025-62554, CVE-2025-62556, CVE-2025-62553, CVE-2025-62549, CVE-2025-62456  
+**CVEs:** CVE-2025-62553, CVE-2025-62557, CVE-2025-62554, CVE-2025-62556, CVE-2025-62456, CVE-2025-62549  
 **Categories:** Vulnerability  
 
 ---
