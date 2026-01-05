@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act",
+    "link": "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html",
+    "published": "Mon, 05 Jan 2026 15:12:00 +0530",
+    "summary": "Ilya Lichtenstein, who was sentenced to prison last year for money laundering charges in connection with his role in the massive hack of cryptocurrency exchange Bitfinex in 2016, said he has been released early.\nIn a post shared on X last week, the 38-year-old announced his release, crediting U.S. President Donald Trump's First Step Act. According to the Federal Bureau of Prisons' inmate locator",
+    "analysis": {
+      "issue": "Ilya Lichtenstein, convicted in the 2016 Bitfinex bitcoin hack, was released early to home confinement under the First Step Act",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code",
     "link": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html",
     "published": "Mon, 05 Jan 2026 13:18:00 +0530",
@@ -157,24 +175,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System",
-    "link": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html",
-    "published": "Wed, 31 Dec 2025 19:07:00 +0530",
-    "summary": "IBM has disclosed details of a critical security flaw in API Connect that could allow attackers to gain remote access to the application.\nThe vulnerability, tracked as CVE-2025-13915, is rated 9.8 out of a maximum of 10.0 on the CVSS scoring system. It has been described as an authentication bypass flaw.\n\"IBM API Connect could allow a remote attacker to bypass authentication mechanisms and gain",
-    "analysis": {
-      "issue": "IBM disclosed a critical CVSS 9",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -456,14 +456,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62557",
-        "CVE-2025-62221",
-        "CVE-2025-62562",
-        "CVE-2025-62458",
-        "CVE-2025-59517",
         "CVE-2025-62470",
-        "CVE-2025-59516",
+        "CVE-2025-59517",
+        "CVE-2025-62458",
+        "CVE-2025-62562",
+        "CVE-2025-62221",
         "CVE-2025-62554",
+        "CVE-2025-62557",
+        "CVE-2025-59516",
         "CVE-2025-62472"
       ],
       "threat_categories": [
@@ -565,6 +565,13 @@
   },
   {
     "source": "Security Week",
+    "title": "Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes",
+    "link": "https://www.securityweek.com/researcher-spotlights-whatsapp-metadata-leak-as-meta-begins-rolling-out-fixes/",
+    "published": "Mon, 05 Jan 2026 12:01:59 +0000",
+    "summary": "<p>WhatsApp device fingerprinting can be useful in the delivery of sophisticated spyware, but impact is very limited without a zero-day.</p>\n<p>The post <a href=\"https://www.securityweek.com/researcher-spotlights-whatsapp-metadata-leak-as-meta-begins-rolling-out-fixes/\">Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests",
     "link": "https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/",
     "published": "Sat, 03 Jan 2026 10:46:09 +0000",
@@ -625,13 +632,6 @@
     "link": "https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/",
     "published": "Tue, 30 Dec 2025 10:08:45 +0000",
     "summary": "<p>The threat actor uses a signed driver file containing two user-mode shellcodes to execute its ToneShell backdoor.</p>\n<p>The post <a href=\"https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/\">Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Korean Air Data Compromised in Oracle EBS Hack",
-    "link": "https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/",
-    "published": "Tue, 30 Dec 2025 08:50:15 +0000",
-    "summary": "<p>Roughly 30,000 Korean Air employees had their data stolen by hackers in a breach at former subsidiary KC&#038;D.</p>\n<p>The post <a href=\"https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/\">Korean Air Data Compromised in Oracle EBS Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -743,11 +743,11 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-62553",
-        "CVE-2025-62557",
         "CVE-2025-62554",
-        "CVE-2025-62456",
+        "CVE-2025-62556",
+        "CVE-2025-62557",
         "CVE-2025-62549",
-        "CVE-2025-62556"
+        "CVE-2025-62456"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1202,6 +1202,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Grok apologizes for creating image of young girls in “sexualized attire”",
+    "link": "https://www.malwarebytes.com/blog/news/2026/01/grok-apologizes-for-creating-image-of-young-girls-in-sexualized-attire",
+    "published": "Mon, 05 Jan 2026 12:11:26 GMT",
+    "summary": "Having generated content that may violate US child sexual abuse material laws, Grok highlights once again how ineffective AI guardrails can be.",
+    "analysis": {
+      "issue": "Another AI system designed to be powerful and engaging ends up illustrating how guardrails routinely fail when development speed and feature races outrun safety controls",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "A week in security (December 29 &#8211; January 4)",
     "link": "https://www.malwarebytes.com/blog/news/2026/01/a-week-in-security-december-29-january-4",
     "published": "Mon, 05 Jan 2026 08:02:00 GMT",
@@ -1362,29 +1380,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "CISA warns ASUS Live Update backdoor is still exploitable, seven years on",
-    "link": "https://www.malwarebytes.com/blog/news/2025/12/cisa-warns-asus-live-update-backdoor-is-still-exploitable-seven-years-on",
-    "published": "Fri, 19 Dec 2025 13:56:36 GMT",
-    "summary": "Seven years after the original attack, CISA has added the ASUS Live Update backdoor to its Known Exploited Vulnerabilities catalog.",
-    "analysis": {
-      "issue": "Recently, the Cybersecurity and Infrastructure Security Agency (CISA) added (along with two others) a vulnerability in ASUS Live Update to its catalog of Known Exploited Vulnerabilities (KEV)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2025-59374"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT",
-        "Supply Chain"
       ]
     }
   },

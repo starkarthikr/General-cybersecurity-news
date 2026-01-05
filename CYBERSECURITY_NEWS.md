@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-05 09:33:53 UTC
+**Last Updated:** 2026-01-05 12:38:28 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code](https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html)
+### 1. [Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act](https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 05 Jan 2026 15:12:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code](https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Jan 2026 13:18:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html)
+### 3. [Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Jan 2026 19:22:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
+### 4. [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Jan 2026 17:00:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html)
+### 5. [Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Jan 2026 14:44:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html)
+### 6. [ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Jan 2026 21:22:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html)
+### 7. [RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Jan 2026 14:49:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [How To Browse Faster and Get More Done Using Adapt Browser](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html)
+### 8. [How To Browse Faster and Get More Done Using Adapt Browser](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Jan 2026 11:17:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html)
+### 9. [Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 31 Dec 2025 21:59:00 +0530  
@@ -76,20 +85,11 @@
 
 ---
 
-### 9. [DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide](https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html)
+### 10. [DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide](https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 31 Dec 2025 21:44:00 +0530  
 **Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System](https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 31 Dec 2025 19:07:00 +0530  
-**Severity:** Critical  
 **Categories:** General Security  
 
 ---
@@ -226,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62557, CVE-2025-62221, CVE-2025-62562, CVE-2025-62458, CVE-2025-59517, CVE-2025-62470, CVE-2025-59516, CVE-2025-62554, CVE-2025-62472  
+**CVEs:** CVE-2025-62470, CVE-2025-59517, CVE-2025-62458, CVE-2025-62562, CVE-2025-62221, CVE-2025-62554, CVE-2025-62557, CVE-2025-59516, CVE-2025-62472  
 **Categories:** Vulnerability  
 
 ---
@@ -276,73 +276,73 @@
 
 ---
 
-### 31. [President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests](https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/)
+### 31. [Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes](https://www.securityweek.com/researcher-spotlights-whatsapp-metadata-leak-as-meta-begins-rolling-out-fixes/)
+
+**Source:** Security Week  
+**Published:** Mon, 05 Jan 2026 12:01:59 +0000  
+
+---
+
+### 32. [President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests](https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/)
 
 **Source:** Security Week  
 **Published:** Sat, 03 Jan 2026 10:46:09 +0000  
 
 ---
 
-### 32. [Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks](https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/)
+### 33. [Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks](https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Jan 2026 12:08:33 +0000  
 
 ---
 
-### 33. [RondoDox Botnet Exploiting React2Shell Vulnerability](https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/)
+### 34. [RondoDox Botnet Exploiting React2Shell Vulnerability](https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Jan 2026 11:12:02 +0000  
 
 ---
 
-### 34. [Covenant Health Data Breach Impacts 478,000 Individuals](https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/)
+### 35. [Covenant Health Data Breach Impacts 478,000 Individuals](https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Jan 2026 10:20:06 +0000  
 
 ---
 
-### 35. [Adobe ColdFusion Servers Targeted in Coordinated Campaign](https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/)
+### 36. [Adobe ColdFusion Servers Targeted in Coordinated Campaign](https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Jan 2026 10:11:04 +0000  
 
 ---
 
-### 36. [Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist](https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/)
+### 37. [Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist](https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/)
 
 **Source:** Security Week  
 **Published:** Wed, 31 Dec 2025 11:58:51 +0000  
 
 ---
 
-### 37. [European Space Agency Confirms Breach After Hacker Offers to Sell Data](https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/)
+### 38. [European Space Agency Confirms Breach After Hacker Offers to Sell Data](https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/)
 
 **Source:** Security Week  
 **Published:** Wed, 31 Dec 2025 09:35:22 +0000  
 
 ---
 
-### 38. [8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025](https://www.securityweek.com/8-cybersecurity-acquisitions-surpassed-1-billion-mark-in-2025/)
+### 39. [8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025](https://www.securityweek.com/8-cybersecurity-acquisitions-surpassed-1-billion-mark-in-2025/)
 
 **Source:** Security Week  
 **Published:** Tue, 30 Dec 2025 12:29:26 +0000  
 
 ---
 
-### 39. [Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit](https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/)
+### 40. [Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit](https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/)
 
 **Source:** Security Week  
 **Published:** Tue, 30 Dec 2025 10:08:45 +0000  
-
----
-
-### 40. [Korean Air Data Compromised in Oracle EBS Hack](https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/)
-
-**Source:** Security Week  
-**Published:** Tue, 30 Dec 2025 08:50:15 +0000  
 
 ---
 
@@ -397,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62553, CVE-2025-62557, CVE-2025-62554, CVE-2025-62456, CVE-2025-62549, CVE-2025-62556  
+**CVEs:** CVE-2025-62553, CVE-2025-62554, CVE-2025-62556, CVE-2025-62557, CVE-2025-62549, CVE-2025-62456  
 **Categories:** Vulnerability  
 
 ---
@@ -623,7 +623,16 @@
 
 ---
 
-### 71. [A week in security (December 29 &#8211; January 4)](https://www.malwarebytes.com/blog/news/2026/01/a-week-in-security-december-29-january-4)
+### 71. [Grok apologizes for creating image of young girls in “sexualized attire”](https://www.malwarebytes.com/blog/news/2026/01/grok-apologizes-for-creating-image-of-young-girls-in-sexualized-attire)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 05 Jan 2026 12:11:26 GMT  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 72. [A week in security (December 29 &#8211; January 4)](https://www.malwarebytes.com/blog/news/2026/01/a-week-in-security-december-29-january-4)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 05 Jan 2026 08:02:00 GMT  
@@ -632,7 +641,7 @@
 
 ---
 
-### 72. [How AI made scams more convincing in 2025](https://www.malwarebytes.com/blog/news/2026/01/how-ai-made-scams-more-convincing-in-2025)
+### 73. [How AI made scams more convincing in 2025](https://www.malwarebytes.com/blog/news/2026/01/how-ai-made-scams-more-convincing-in-2025)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 02 Jan 2026 10:16:04 GMT  
@@ -641,7 +650,7 @@
 
 ---
 
-### 73. [In 2025, age checks started locking people out of the internet](https://www.malwarebytes.com/blog/news/2025/12/in-2025-age-checks-started-locking-people-out-of-the-internet)
+### 74. [In 2025, age checks started locking people out of the internet](https://www.malwarebytes.com/blog/news/2025/12/in-2025-age-checks-started-locking-people-out-of-the-internet)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 31 Dec 2025 10:49:04 GMT  
@@ -650,7 +659,7 @@
 
 ---
 
-### 74. [2025 exposed the risks we ignored while rushing AI](https://www.malwarebytes.com/blog/news/2025/12/2025-exposed-risks-we-ignored-while-rushing-ai)
+### 75. [2025 exposed the risks we ignored while rushing AI](https://www.malwarebytes.com/blog/news/2025/12/2025-exposed-risks-we-ignored-while-rushing-ai)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 30 Dec 2025 10:02:11 GMT  
@@ -659,7 +668,7 @@
 
 ---
 
-### 75. [Malware in 2025 spread far beyond Windows PCs](https://www.malwarebytes.com/blog/news/2025/12/malware-in-2025-spread-beyond-windows-pcs)
+### 76. [Malware in 2025 spread far beyond Windows PCs](https://www.malwarebytes.com/blog/news/2025/12/malware-in-2025-spread-beyond-windows-pcs)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 29 Dec 2025 11:48:34 GMT  
@@ -668,7 +677,7 @@
 
 ---
 
-### 76. [A week in security (December 22 &#8211; December 28)](https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-22-december-28)
+### 77. [A week in security (December 22 &#8211; December 28)](https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-22-december-28)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 29 Dec 2025 08:02:00 GMT  
@@ -677,7 +686,7 @@
 
 ---
 
-### 77. [Hacktivists claim near-total Spotify music scrape](https://www.malwarebytes.com/blog/news/2025/12/hacktivists-claim-near-total-spotify-music-scrape)
+### 78. [Hacktivists claim near-total Spotify music scrape](https://www.malwarebytes.com/blog/news/2025/12/hacktivists-claim-near-total-spotify-music-scrape)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 23 Dec 2025 12:28:20 GMT  
@@ -686,7 +695,7 @@
 
 ---
 
-### 78. [Pornhub tells users to expect sextortion emails after data exposure](https://www.malwarebytes.com/blog/news/2025/12/pornhub-tells-users-to-expect-sextortion-emails-after-data-exposure)
+### 79. [Pornhub tells users to expect sextortion emails after data exposure](https://www.malwarebytes.com/blog/news/2025/12/pornhub-tells-users-to-expect-sextortion-emails-after-data-exposure)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 22 Dec 2025 13:44:05 GMT  
@@ -695,22 +704,12 @@
 
 ---
 
-### 79. [A week in security (December 15 &#8211; December 21)](https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-15-december-21)
+### 80. [A week in security (December 15 &#8211; December 21)](https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-15-december-21)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 22 Dec 2025 08:07:00 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 80. [CISA warns ASUS Live Update backdoor is still exploitable, seven years on](https://www.malwarebytes.com/blog/news/2025/12/cisa-warns-asus-live-update-backdoor-is-still-exploitable-seven-years-on)
-
-**Source:** Malwarebytes  
-**Published:** Fri, 19 Dec 2025 13:56:36 GMT  
-**Severity:** High  
-**CVEs:** CVE-2025-59374  
-**Categories:** Vulnerability, Malware, APT, Supply Chain  
 
 ---
 
