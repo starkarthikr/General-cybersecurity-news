@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-05 12:51:28 UTC
+**Last Updated:** 2026-01-05 15:26:45 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html)
+### 1. [⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More](https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 05 Jan 2026 18:23:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware, Phishing  
+
+---
+
+### 2. [The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Jan 2026 17:25:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act](https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html)
+### 3. [Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act](https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Jan 2026 15:12:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code](https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html)
+### 4. [New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code](https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Jan 2026 13:18:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html)
+### 5. [Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Jan 2026 19:22:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
+### 6. [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Jan 2026 17:00:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html)
+### 7. [Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Jan 2026 14:44:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html)
+### 8. [ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Jan 2026 21:22:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html)
+### 9. [RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Jan 2026 14:49:00 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [How To Browse Faster and Get More Done Using Adapt Browser](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html)
+### 10. [How To Browse Faster and Get More Done Using Adapt Browser](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Jan 2026 11:17:00 +0530  
@@ -85,16 +94,34 @@
 
 ---
 
-### 10. [Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html)
+### 11. [Ledger customers impacted by third-party Global-e data breach](https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 31 Dec 2025 21:59:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 05 Jan 2026 10:14:04 -0500  
 **Severity:** Low  
-**Categories:** Supply Chain  
+**Categories:** Data Breach, Supply Chain  
 
 ---
 
-### 11. [Hackers claim to hack Resecurity, firm says it was a honeypot](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/)
+### 12. [Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome](https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 05 Jan 2026 10:05:15 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [NordVPN denies breach claims, says attackers have "dummy data"](https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 05 Jan 2026 09:48:46 -0500  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
+
+---
+
+### 14. [Hackers claim to hack Resecurity, firm says it was a honeypot](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 03 Jan 2026 15:34:22 -0500  
@@ -103,7 +130,7 @@
 
 ---
 
-### 12. [Covenant Health says May data breach impacted nearly 478,000 patients](https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/)
+### 15. [Covenant Health says May data breach impacted nearly 478,000 patients](https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 14:00:42 -0500  
@@ -112,7 +139,7 @@
 
 ---
 
-### 13. [Cryptocurrency theft attacks traced to 2022 LastPass breach](https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/)
+### 16. [Cryptocurrency theft attacks traced to 2022 LastPass breach](https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 12:28:01 -0500  
@@ -121,7 +148,7 @@
 
 ---
 
-### 14. [Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass](https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/)
+### 17. [Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass](https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 11:01:55 -0500  
@@ -131,7 +158,7 @@
 
 ---
 
-### 15. [Google is testing a new image AI and it's going to be its fastest model](https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/)
+### 18. [Google is testing a new image AI and it's going to be its fastest model](https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 10:19:17 -0500  
@@ -140,7 +167,7 @@
 
 ---
 
-### 16. [Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack](https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/)
+### 19. [Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack](https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 09:19:40 -0500  
@@ -149,39 +176,12 @@
 
 ---
 
-### 17. [OpenAI is offering $20 ChatGPT Plus for free to some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/)
+### 20. [OpenAI is offering $20 ChatGPT Plus for free to some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 01 Jan 2026 14:18:54 -0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 18. [The biggest cybersecurity and cyberattack stories of 2025](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 01 Jan 2026 11:15:26 -0500  
-**Severity:** Critical  
-**Categories:** Data Breach, Vulnerability, Supply Chain  
-
----
-
-### 19. [New GlassWorm malware wave targets Macs with trojanized crypto wallets](https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 01 Jan 2026 10:18:23 -0500  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 20. [NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices](https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 31 Dec 2025 17:52:44 -0500  
-**Severity:** Low  
-**Categories:** APT  
 
 ---
 
@@ -226,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62221, CVE-2025-62472, CVE-2025-62562, CVE-2025-59517, CVE-2025-59516, CVE-2025-62470, CVE-2025-62458, CVE-2025-62554, CVE-2025-62557  
+**CVEs:** CVE-2025-62470, CVE-2025-62562, CVE-2025-62554, CVE-2025-62458, CVE-2025-59516, CVE-2025-62557, CVE-2025-62472, CVE-2025-59517, CVE-2025-62221  
 **Categories:** Vulnerability  
 
 ---
@@ -276,73 +276,73 @@
 
 ---
 
-### 31. [Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes](https://www.securityweek.com/researcher-spotlights-whatsapp-metadata-leak-as-meta-begins-rolling-out-fixes/)
+### 31. [CISA KEV Catalog Expanded 20% in 2025, Topping 1,480 Entries](https://www.securityweek.com/cisa-kev-catalog-expanded-20-in-2025-topping-1480-entries/)
+
+**Source:** Security Week  
+**Published:** Mon, 05 Jan 2026 15:13:38 +0000  
+
+---
+
+### 32. [Kimwolf Android Botnet Grows Through Residential Proxy Networks](https://www.securityweek.com/kimwolf-android-botnet-grows-through-residential-proxy-networks/)
+
+**Source:** Security Week  
+**Published:** Mon, 05 Jan 2026 12:48:08 +0000  
+
+---
+
+### 33. [Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes](https://www.securityweek.com/researcher-spotlights-whatsapp-metadata-leak-as-meta-begins-rolling-out-fixes/)
 
 **Source:** Security Week  
 **Published:** Mon, 05 Jan 2026 12:01:59 +0000  
 
 ---
 
-### 32. [President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests](https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/)
+### 34. [President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests](https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/)
 
 **Source:** Security Week  
 **Published:** Sat, 03 Jan 2026 10:46:09 +0000  
 
 ---
 
-### 33. [Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks](https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/)
+### 35. [Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks](https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Jan 2026 12:08:33 +0000  
 
 ---
 
-### 34. [RondoDox Botnet Exploiting React2Shell Vulnerability](https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/)
+### 36. [RondoDox Botnet Exploiting React2Shell Vulnerability](https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Jan 2026 11:12:02 +0000  
 
 ---
 
-### 35. [Covenant Health Data Breach Impacts 478,000 Individuals](https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/)
+### 37. [Covenant Health Data Breach Impacts 478,000 Individuals](https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Jan 2026 10:20:06 +0000  
 
 ---
 
-### 36. [Adobe ColdFusion Servers Targeted in Coordinated Campaign](https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/)
+### 38. [Adobe ColdFusion Servers Targeted in Coordinated Campaign](https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/)
 
 **Source:** Security Week  
 **Published:** Fri, 02 Jan 2026 10:11:04 +0000  
 
 ---
 
-### 37. [Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist](https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/)
+### 39. [Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist](https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/)
 
 **Source:** Security Week  
 **Published:** Wed, 31 Dec 2025 11:58:51 +0000  
 
 ---
 
-### 38. [European Space Agency Confirms Breach After Hacker Offers to Sell Data](https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/)
+### 40. [European Space Agency Confirms Breach After Hacker Offers to Sell Data](https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/)
 
 **Source:** Security Week  
 **Published:** Wed, 31 Dec 2025 09:35:22 +0000  
-
----
-
-### 39. [8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025](https://www.securityweek.com/8-cybersecurity-acquisitions-surpassed-1-billion-mark-in-2025/)
-
-**Source:** Security Week  
-**Published:** Tue, 30 Dec 2025 12:29:26 +0000  
-
----
-
-### 40. [Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit](https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/)
-
-**Source:** Security Week  
-**Published:** Tue, 30 Dec 2025 10:08:45 +0000  
 
 ---
 
@@ -397,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62549, CVE-2025-62557, CVE-2025-62456, CVE-2025-62554, CVE-2025-62553, CVE-2025-62556  
+**CVEs:** CVE-2025-62553, CVE-2025-62554, CVE-2025-62556, CVE-2025-62549, CVE-2025-62456, CVE-2025-62557  
 **Categories:** Vulnerability  
 
 ---
@@ -608,7 +608,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
