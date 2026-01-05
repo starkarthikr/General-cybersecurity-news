@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
+    "link": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html",
+    "published": "Mon, 05 Jan 2026 23:26:00 +0530",
+    "summary": "The Russia-aligned threat actor known as UAC-0184 has been observed targeting Ukrainian military and government entities by leveraging the Viber messaging platform to deliver malicious ZIP archives.\n\"This organization has continued to conduct high-intensity intelligence gathering activities against Ukrainian military and government departments in 2025,\" the 360 Threat Intelligence Center said in",
+    "analysis": {
+      "issue": "Russia-aligned UAC-0184 abuses Viber messages to deliver Hijack Loader and Remcos RAT in espionage attacks on Ukrainian military and government system",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks",
+    "link": "https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html",
+    "published": "Mon, 05 Jan 2026 22:11:00 +0530",
+    "summary": "The botnet known as Kimwolf has infected more than 2 million Android devices by tunneling through residential proxy networks, according to findings from Synthient.\n\"Key actors involved in the Kimwolf botnet are observed monetizing the botnet through app installs, selling residential proxy bandwidth, and selling its DDoS functionality,\" the company said in an analysis published last week.\nKimwolf",
+    "analysis": {
+      "issue": "Kimwolf is an Android botnet that infected 2M+ devices via exposed ADB, using proxy networks to run DDoS attacks and sell residential bandwidth",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More",
     "link": "https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html",
     "published": "Mon, 05 Jan 2026 18:23:00 +0530",
@@ -147,39 +184,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers",
-    "link": "https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html",
-    "published": "Thu, 01 Jan 2026 14:49:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a persistent nine-month-long campaign that has targeted Internet of Things (IoT) devices and web applications to enroll them into a botnet known as RondoDox.\nAs of December 2025, the activity has been observed leveraging the recently disclosed React2Shell (CVE-2025-55182, CVSS score: 10.0) flaw as an initial access vector, CloudSEK said in an",
+    "source": "Bleeping Computer",
+    "title": "VSCode IDE forks expose users to \"recommended extension\" attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/",
+    "published": "Mon, 05 Jan 2026 11:41:38 -0500",
+    "summary": "Popular AI-powered integrated development environment solutions, such as Cursor, Windsurf, Google Antigravity, and Trae, recommend extensions that are non-existent in the OpenVSX registry, allowing threat actors to claim the namespace and upload malicious extensions. [...]",
     "analysis": {
-      "issue": "RondoDox botnet exploits the React2Shell vulnerability in Next",
+      "issue": "Popular AI-powered integrated development environment solutions, such as Cursor, Windsurf, Google Antigravity, and Trae, recommend extensions that are non-existent in the OpenVSX registry, allowing threat actors to claim the namespace and upload mali",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "How To Browse Faster and Get More Done Using Adapt Browser",
-    "link": "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html",
-    "published": "Thu, 01 Jan 2026 11:17:00 +0530",
-    "summary": "As web browsers evolve into all-purpose platforms, performance and productivity often suffer.&nbsp;\nFeature overload, excessive background processes, and fragmented workflows can slow down browsing sessions and introduce unnecessary friction, especially for users who rely on the browser as a primary work environment.\nThis article explores how adopting a lightweight, task-focused browser, like",
-    "analysis": {
-      "issue": "Learn how a lightweight browser architecture can reduce overhead, improve performance, & help users browse faster while staying focused & productive",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
       ]
     }
   },
@@ -352,24 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "OpenAI is offering $20 ChatGPT Plus for free to some users",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/",
-    "published": "Thu, 01 Jan 2026 14:18:54 -0500",
-    "summary": "If you're already subscribed to ChatGPT Plus, which costs $20, you can request OpenAI to cancel your subscription, and it may offer one month of free usage. [...]",
-    "analysis": {
-      "issue": "If you're already subscribed to ChatGPT Plus, which costs $20, you can request OpenAI to cancel your subscription, and it may offer one month of free usage",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "The Kimwolf Botnet is Stalking Your Local Network",
     "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
@@ -458,15 +458,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-59517",
-        "CVE-2025-62470",
-        "CVE-2025-62562",
-        "CVE-2025-62458",
-        "CVE-2025-59516",
-        "CVE-2025-62557",
         "CVE-2025-62221",
+        "CVE-2025-62557",
+        "CVE-2025-62562",
         "CVE-2025-62554",
-        "CVE-2025-62472"
+        "CVE-2025-62470",
+        "CVE-2025-62472",
+        "CVE-2025-59517",
+        "CVE-2025-62458",
+        "CVE-2025-59516"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -567,6 +567,27 @@
   },
   {
     "source": "Security Week",
+    "title": "Cyberattack Unlikely in Communications Failure That Grounded Flights in Greece",
+    "link": "https://www.securityweek.com/cyberattack-unlikely-in-communications-failure-that-grounded-flights-in-greece/",
+    "published": "Mon, 05 Jan 2026 17:49:18 +0000",
+    "summary": "<p>Flights across Greece were impacted for several hours after noise was reported on multiple air traffic communication channels.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberattack-unlikely-in-communications-failure-that-grounded-flights-in-greece/\">Cyberattack Unlikely in Communications Failure That Grounded Flights in Greece</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Brightspeed Investigating Cyberattack",
+    "link": "https://www.securityweek.com/brightspeed-investigating-cyberattack/",
+    "published": "Mon, 05 Jan 2026 17:43:13 +0000",
+    "summary": "<p>The hacking group Crimson Collective has claimed the theft of personal information pertaining to over 1 million Brightspeed customers.</p>\n<p>The post <a href=\"https://www.securityweek.com/brightspeed-investigating-cyberattack/\">Brightspeed Investigating Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Sedgwick Confirms Cyberattack on Government Subsidiary",
+    "link": "https://www.securityweek.com/sedgwick-confirms-cyberattack-on-government-subsidiary/",
+    "published": "Mon, 05 Jan 2026 17:25:51 +0000",
+    "summary": "<p>Hackers have compromised a file transfer system at Sedgwick’s subsidiary that serves government agencies.</p>\n<p>The post <a href=\"https://www.securityweek.com/sedgwick-confirms-cyberattack-on-government-subsidiary/\">Sedgwick Confirms Cyberattack on Government Subsidiary</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "CISA KEV Catalog Expanded 20% in 2025, Topping 1,480 Entries",
     "link": "https://www.securityweek.com/cisa-kev-catalog-expanded-20-in-2025-topping-1480-entries/",
     "published": "Mon, 05 Jan 2026 15:13:38 +0000",
@@ -615,27 +636,6 @@
     "summary": "<p>The Qilin ransomware group hacked the healthcare organization and stole data from its systems in May 2025. </p>\n<p>The post <a href=\"https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/\">Covenant Health Data Breach Impacts 478,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "Adobe ColdFusion Servers Targeted in Coordinated Campaign",
-    "link": "https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/",
-    "published": "Fri, 02 Jan 2026 10:11:04 +0000",
-    "summary": "<p>GreyNoise has observed thousands of requests targeting a dozen vulnerabilities in Adobe ColdFusion during the Christmas 2025 holiday.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/\">Adobe ColdFusion Servers Targeted in Coordinated Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist",
-    "link": "https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/",
-    "published": "Wed, 31 Dec 2025 11:58:51 +0000",
-    "summary": "<p>The worm exposed Trust Wallet’s Developer GitHub secrets, allowing attackers to publish a backdoor extension and steal funds from 2,520 wallets.</p>\n<p>The post <a href=\"https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/\">Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "European Space Agency Confirms Breach After Hacker Offers to Sell Data",
-    "link": "https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/",
-    "published": "Wed, 31 Dec 2025 09:35:22 +0000",
-    "summary": "<p>The European Space Agency is conducting an investigation and says external science servers have been compromised.</p>\n<p>The post <a href=\"https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/\">European Space Agency Confirms Breach After Hacker Offers to Sell Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
     "source": "Talos Blog",
     "title": "Adios 2025, you won’t be missed",
     "link": "https://blog.talosintelligence.com/adios-2025-you-wont-be-missed/",
@@ -667,8 +667,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-66048",
-        "CVE-2025-66043"
+        "CVE-2025-66043",
+        "CVE-2025-66048"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -744,12 +744,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62456",
-        "CVE-2025-62549",
-        "CVE-2025-62553",
         "CVE-2025-62557",
+        "CVE-2025-62554",
         "CVE-2025-62556",
-        "CVE-2025-62554"
+        "CVE-2025-62553",
+        "CVE-2025-62549",
+        "CVE-2025-62456"
       ],
       "threat_categories": [
         "Vulnerability"
