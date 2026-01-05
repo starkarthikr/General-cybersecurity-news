@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-05 08:39:28 UTC
+**Last Updated:** 2026-01-05 09:33:53 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html)
+### 1. [New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code](https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 05 Jan 2026 13:18:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Jan 2026 19:22:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
+### 3. [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Jan 2026 17:00:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html)
+### 4. [Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Jan 2026 14:44:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html)
+### 5. [ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Jan 2026 21:22:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html)
+### 6. [RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Jan 2026 14:49:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [How To Browse Faster and Get More Done Using Adapt Browser](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html)
+### 7. [How To Browse Faster and Get More Done Using Adapt Browser](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 01 Jan 2026 11:17:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html)
+### 8. [Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 31 Dec 2025 21:59:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide](https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html)
+### 9. [DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide](https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 31 Dec 2025 21:44:00 +0530  
@@ -76,21 +85,12 @@
 
 ---
 
-### 9. [Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System](https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html)
+### 10. [Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System](https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 31 Dec 2025 19:07:00 +0530  
 **Severity:** Critical  
 **Categories:** General Security  
-
----
-
-### 10. [Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry](https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 31 Dec 2025 18:59:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -226,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62221, CVE-2025-62458, CVE-2025-59517, CVE-2025-62562, CVE-2025-62554, CVE-2025-62472, CVE-2025-62470, CVE-2025-62557, CVE-2025-59516  
+**CVEs:** CVE-2025-62557, CVE-2025-62221, CVE-2025-62562, CVE-2025-62458, CVE-2025-59517, CVE-2025-62470, CVE-2025-59516, CVE-2025-62554, CVE-2025-62472  
 **Categories:** Vulnerability  
 
 ---
@@ -397,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62554, CVE-2025-62553, CVE-2025-62556, CVE-2025-62557, CVE-2025-62549, CVE-2025-62456  
+**CVEs:** CVE-2025-62553, CVE-2025-62557, CVE-2025-62554, CVE-2025-62456, CVE-2025-62549, CVE-2025-62556  
 **Categories:** Vulnerability  
 
 ---

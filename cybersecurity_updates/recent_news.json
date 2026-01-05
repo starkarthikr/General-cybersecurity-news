@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code",
+    "link": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html",
+    "published": "Mon, 05 Jan 2026 13:18:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new Python-based information stealer called VVS Stealer (also styled as VVS $tealer) that's capable of harvesting Discord credentials and tokens.\nThe stealer is said to have been on sale on Telegram as far back as April 2025, according to a report from Palo Alto Networks Unit 42.\n\"VVS stealer's code is obfuscated by Pyarmor,\" researchers",
+    "analysis": {
+      "issue": "VVS Stealer is a Python-based malware sold on Telegram that steals Discord tokens, browser data, and credentials using heavy code obfuscation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia",
     "link": "https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html",
     "published": "Fri, 02 Jan 2026 19:22:00 +0530",
@@ -160,24 +178,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry",
-    "link": "https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html",
-    "published": "Wed, 31 Dec 2025 18:59:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of what appears to be a new strain of Shai Hulud on the npm registry with slight modifications from the previous wave observed last month.\nThe npm package that embeds the novel Shai Hulud strain is \"@vietmoney/react-big-calendar,\" which was uploaded to npm back in March 2021 by a user named \"hoquocdat.\" It was updated for the first time on",
-    "analysis": {
-      "issue": "A new Shai-Hulud npm strain and a fake Jackson Maven package show how attackers abuse trusted dependencies to steal secrets and spread malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -456,15 +456,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-62557",
         "CVE-2025-62221",
+        "CVE-2025-62562",
         "CVE-2025-62458",
         "CVE-2025-59517",
-        "CVE-2025-62562",
-        "CVE-2025-62554",
-        "CVE-2025-62472",
         "CVE-2025-62470",
-        "CVE-2025-62557",
-        "CVE-2025-59516"
+        "CVE-2025-59516",
+        "CVE-2025-62554",
+        "CVE-2025-62472"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -742,12 +742,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62554",
         "CVE-2025-62553",
-        "CVE-2025-62556",
         "CVE-2025-62557",
+        "CVE-2025-62554",
+        "CVE-2025-62456",
         "CVE-2025-62549",
-        "CVE-2025-62456"
+        "CVE-2025-62556"
       ],
       "threat_categories": [
         "Vulnerability"
