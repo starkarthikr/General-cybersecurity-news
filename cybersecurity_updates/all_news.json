@@ -458,15 +458,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-59517",
         "CVE-2025-62470",
         "CVE-2025-62562",
-        "CVE-2025-62554",
         "CVE-2025-62458",
         "CVE-2025-59516",
         "CVE-2025-62557",
-        "CVE-2025-62472",
-        "CVE-2025-59517",
-        "CVE-2025-62221"
+        "CVE-2025-62221",
+        "CVE-2025-62554",
+        "CVE-2025-62472"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -667,8 +667,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-66043",
-        "CVE-2025-66048"
+        "CVE-2025-66048",
+        "CVE-2025-66043"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -744,12 +744,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62553",
-        "CVE-2025-62554",
-        "CVE-2025-62556",
-        "CVE-2025-62549",
         "CVE-2025-62456",
-        "CVE-2025-62557"
+        "CVE-2025-62549",
+        "CVE-2025-62553",
+        "CVE-2025-62557",
+        "CVE-2025-62556",
+        "CVE-2025-62554"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1173,8 +1173,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1199,6 +1199,25 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "ALPRs are recording your daily drive (Lock and Code S06E26)",
+    "link": "https://www.malwarebytes.com/blog/podcast/2026/01/alprs-are-recording-your-daily-drive-lock-and-code-s06e26",
+    "published": "Mon, 05 Jan 2026 15:52:17 GMT",
+    "summary": "This week on the Lock and Code podcast, we speak with Will Freeman about Automated License Plate Reader (ALPR) surveillance.",
+    "analysis": {
+      "issue": "This week on the Lock and Code podcast… There’s an entire surveillance network popping up across the United States that has likely already captured your information, all for the non-suspicion of driving a car",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
       ]
     }
   },
@@ -1364,24 +1383,6 @@
       "threat_categories": [
         "Data Breach",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (December 15 &#8211; December 21)",
-    "link": "https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-15-december-21",
-    "published": "Mon, 22 Dec 2025 08:07:00 GMT",
-    "summary": "A list of topics we covered in the week of December 15 to December 21 of 2025",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: On the ThreatDown blog: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
