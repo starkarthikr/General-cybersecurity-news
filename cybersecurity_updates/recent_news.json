@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations",
+    "link": "https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html",
+    "published": "Mon, 05 Jan 2026 17:25:00 +0530",
+    "summary": "Featuring:\n\nCybersecurity is being reshaped by forces that extend beyond individual threats or tools. As organizations operate across cloud infrastructure, distributed endpoints, and complex supply chains, security has shifted from a collection of point solutions to a question of architecture, trust, and execution speed.\nThis report examines how core areas of cybersecurity are evolving in",
+    "analysis": {
+      "issue": "Cybersecurity shifts toward hardware trust, AI-driven defense, network visibility, and human risk as attackers move faster across cloud and endpoints",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act",
     "link": "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html",
     "published": "Mon, 05 Jan 2026 15:12:00 +0530",
@@ -160,24 +178,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide",
-    "link": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html",
-    "published": "Wed, 31 Dec 2025 21:44:00 +0530",
-    "summary": "The threat actor behind two malicious browser extension campaigns, ShadyPanda and GhostPoster, has been attributed to a third attack campaign codenamed DarkSpectre that has impacted 2.2 million users of Google Chrome, Microsoft Edge, and Mozilla Firefox.\nThe activity is assessed to be the work of a Chinese threat actor that Koi Security is tracking under the moniker DarkSpectre. In all, the",
-    "analysis": {
-      "issue": "A China-linked threat actor used malicious browser extensions over seven years to steal data and corporate intelligence from Chrome, Edge, and Firefox",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -456,15 +456,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62470",
-        "CVE-2025-59517",
-        "CVE-2025-62458",
-        "CVE-2025-62562",
         "CVE-2025-62221",
-        "CVE-2025-62554",
-        "CVE-2025-62557",
+        "CVE-2025-62472",
+        "CVE-2025-62562",
+        "CVE-2025-59517",
         "CVE-2025-59516",
-        "CVE-2025-62472"
+        "CVE-2025-62470",
+        "CVE-2025-62458",
+        "CVE-2025-62554",
+        "CVE-2025-62557"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -742,12 +742,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62553",
-        "CVE-2025-62554",
-        "CVE-2025-62556",
-        "CVE-2025-62557",
         "CVE-2025-62549",
-        "CVE-2025-62456"
+        "CVE-2025-62557",
+        "CVE-2025-62456",
+        "CVE-2025-62554",
+        "CVE-2025-62553",
+        "CVE-2025-62556"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1171,8 +1171,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
