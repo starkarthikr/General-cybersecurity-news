@@ -456,14 +456,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62458",
         "CVE-2025-62221",
-        "CVE-2025-62557",
-        "CVE-2025-62562",
-        "CVE-2025-62470",
+        "CVE-2025-62458",
         "CVE-2025-59517",
+        "CVE-2025-62562",
         "CVE-2025-62554",
         "CVE-2025-62472",
+        "CVE-2025-62470",
+        "CVE-2025-62557",
         "CVE-2025-59516"
       ],
       "threat_categories": [
@@ -665,8 +665,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-66048",
-        "CVE-2025-66043"
+        "CVE-2025-66043",
+        "CVE-2025-66048"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -742,11 +742,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-62554",
+        "CVE-2025-62553",
+        "CVE-2025-62556",
         "CVE-2025-62557",
         "CVE-2025-62549",
-        "CVE-2025-62553",
-        "CVE-2025-62554",
-        "CVE-2025-62556",
         "CVE-2025-62456"
       ],
       "threat_categories": [
@@ -1202,6 +1202,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "A week in security (December 29 &#8211; January 4)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/01/a-week-in-security-december-29-january-4",
+    "published": "Mon, 05 Jan 2026 08:02:00 GMT",
+    "summary": "A list of topics we covered in the week of December 29 2025 to January 4 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "How AI made scams more convincing in 2025",
     "link": "https://www.malwarebytes.com/blog/news/2026/01/how-ai-made-scams-more-convincing-in-2025",
     "published": "Fri, 02 Jan 2026 10:16:04 GMT",
@@ -1367,24 +1385,6 @@
         "Malware",
         "APT",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "The ghosts of WhatsApp: How GhostPairing hijacks accounts",
-    "link": "https://www.malwarebytes.com/blog/news/2025/12/the-ghosts-of-whatsapp-how-ghostpairing-hijacks-accounts",
-    "published": "Thu, 18 Dec 2025 13:37:27 GMT",
-    "summary": "Criminals are tricking WhatsApp users into linking an attacker’s browser to their account using fake login pages and routine-looking prompts.",
-    "analysis": {
-      "issue": "Researchers have found an active campaign aimed at taking over WhatsApp accounts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
       ]
     }
   },

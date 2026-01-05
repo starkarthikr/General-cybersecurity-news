@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-05 06:36:23 UTC
+**Last Updated:** 2026-01-05 08:39:28 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -226,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62458, CVE-2025-62221, CVE-2025-62557, CVE-2025-62562, CVE-2025-62470, CVE-2025-59517, CVE-2025-62554, CVE-2025-62472, CVE-2025-59516  
+**CVEs:** CVE-2025-62221, CVE-2025-62458, CVE-2025-59517, CVE-2025-62562, CVE-2025-62554, CVE-2025-62472, CVE-2025-62470, CVE-2025-62557, CVE-2025-59516  
 **Categories:** Vulnerability  
 
 ---
@@ -360,7 +360,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 17 Dec 2025 21:02:40 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-66048, CVE-2025-66043  
+**CVEs:** CVE-2025-66043, CVE-2025-66048  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -397,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62557, CVE-2025-62549, CVE-2025-62553, CVE-2025-62554, CVE-2025-62556, CVE-2025-62456  
+**CVEs:** CVE-2025-62554, CVE-2025-62553, CVE-2025-62556, CVE-2025-62557, CVE-2025-62549, CVE-2025-62456  
 **Categories:** Vulnerability  
 
 ---
@@ -623,7 +623,16 @@
 
 ---
 
-### 71. [How AI made scams more convincing in 2025](https://www.malwarebytes.com/blog/news/2026/01/how-ai-made-scams-more-convincing-in-2025)
+### 71. [A week in security (December 29 &#8211; January 4)](https://www.malwarebytes.com/blog/news/2026/01/a-week-in-security-december-29-january-4)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 05 Jan 2026 08:02:00 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 72. [How AI made scams more convincing in 2025](https://www.malwarebytes.com/blog/news/2026/01/how-ai-made-scams-more-convincing-in-2025)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 02 Jan 2026 10:16:04 GMT  
@@ -632,7 +641,7 @@
 
 ---
 
-### 72. [In 2025, age checks started locking people out of the internet](https://www.malwarebytes.com/blog/news/2025/12/in-2025-age-checks-started-locking-people-out-of-the-internet)
+### 73. [In 2025, age checks started locking people out of the internet](https://www.malwarebytes.com/blog/news/2025/12/in-2025-age-checks-started-locking-people-out-of-the-internet)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 31 Dec 2025 10:49:04 GMT  
@@ -641,7 +650,7 @@
 
 ---
 
-### 73. [2025 exposed the risks we ignored while rushing AI](https://www.malwarebytes.com/blog/news/2025/12/2025-exposed-risks-we-ignored-while-rushing-ai)
+### 74. [2025 exposed the risks we ignored while rushing AI](https://www.malwarebytes.com/blog/news/2025/12/2025-exposed-risks-we-ignored-while-rushing-ai)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 30 Dec 2025 10:02:11 GMT  
@@ -650,7 +659,7 @@
 
 ---
 
-### 74. [Malware in 2025 spread far beyond Windows PCs](https://www.malwarebytes.com/blog/news/2025/12/malware-in-2025-spread-beyond-windows-pcs)
+### 75. [Malware in 2025 spread far beyond Windows PCs](https://www.malwarebytes.com/blog/news/2025/12/malware-in-2025-spread-beyond-windows-pcs)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 29 Dec 2025 11:48:34 GMT  
@@ -659,7 +668,7 @@
 
 ---
 
-### 75. [A week in security (December 22 &#8211; December 28)](https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-22-december-28)
+### 76. [A week in security (December 22 &#8211; December 28)](https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-22-december-28)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 29 Dec 2025 08:02:00 GMT  
@@ -668,7 +677,7 @@
 
 ---
 
-### 76. [Hacktivists claim near-total Spotify music scrape](https://www.malwarebytes.com/blog/news/2025/12/hacktivists-claim-near-total-spotify-music-scrape)
+### 77. [Hacktivists claim near-total Spotify music scrape](https://www.malwarebytes.com/blog/news/2025/12/hacktivists-claim-near-total-spotify-music-scrape)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 23 Dec 2025 12:28:20 GMT  
@@ -677,7 +686,7 @@
 
 ---
 
-### 77. [Pornhub tells users to expect sextortion emails after data exposure](https://www.malwarebytes.com/blog/news/2025/12/pornhub-tells-users-to-expect-sextortion-emails-after-data-exposure)
+### 78. [Pornhub tells users to expect sextortion emails after data exposure](https://www.malwarebytes.com/blog/news/2025/12/pornhub-tells-users-to-expect-sextortion-emails-after-data-exposure)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 22 Dec 2025 13:44:05 GMT  
@@ -686,7 +695,7 @@
 
 ---
 
-### 78. [A week in security (December 15 &#8211; December 21)](https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-15-december-21)
+### 79. [A week in security (December 15 &#8211; December 21)](https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-15-december-21)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 22 Dec 2025 08:07:00 GMT  
@@ -695,22 +704,13 @@
 
 ---
 
-### 79. [CISA warns ASUS Live Update backdoor is still exploitable, seven years on](https://www.malwarebytes.com/blog/news/2025/12/cisa-warns-asus-live-update-backdoor-is-still-exploitable-seven-years-on)
+### 80. [CISA warns ASUS Live Update backdoor is still exploitable, seven years on](https://www.malwarebytes.com/blog/news/2025/12/cisa-warns-asus-live-update-backdoor-is-still-exploitable-seven-years-on)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 19 Dec 2025 13:56:36 GMT  
 **Severity:** High  
 **CVEs:** CVE-2025-59374  
 **Categories:** Vulnerability, Malware, APT, Supply Chain  
-
----
-
-### 80. [The ghosts of WhatsApp: How GhostPairing hijacks accounts](https://www.malwarebytes.com/blog/news/2025/12/the-ghosts-of-whatsapp-how-ghostpairing-hijacks-accounts)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 18 Dec 2025 13:37:27 GMT  
-**Severity:** Low  
-**Categories:** APT  
 
 ---
 
