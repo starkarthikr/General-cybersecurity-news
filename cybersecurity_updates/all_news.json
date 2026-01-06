@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users",
+    "link": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html",
+    "published": "Tue, 06 Jan 2026 22:51:00 +0530",
+    "summary": "Cybersecurity researchers have discovered two new malicious extensions on the Chrome Web Store that are designed to exfiltrate OpenAI ChatGPT and DeepSeek conversations alongside browsing data to servers under the attackers' control.\nThe names of the extensions, which collectively have over 900,000 users, are below -\n\nChat GPT for Chrome with GPT-5, Claude Sonnet &amp; DeepSeek AI (ID:",
+    "analysis": {
+      "issue": "Security researchers found two Chrome extensions with 900,000 installs secretly collecting ChatGPT and DeepSeek chats and browsing data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover",
+    "link": "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html",
+    "published": "Tue, 06 Jan 2026 21:17:00 +0530",
+    "summary": "The CERT Coordination Center (CERT/CC) has disclosed details of an unpatched security flaw impacting TOTOLINK EX200 wireless range extender that could allow a remote authenticated attacker to gain full control of the device.\nThe flaw, CVE-2025-65606 (CVSS score: N/A), has been characterized as a flaw in the firmware-upload error-handling logic, which could cause the device to inadvertently start",
+    "analysis": {
+      "issue": "CERT/CC warns an unpatched TOTOLINK EX200 firmware flaw lets authenticated attackers enable unauthenticated root telnet and take full control",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
     "link": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html",
     "published": "Tue, 06 Jan 2026 17:43:00 +0530",
@@ -145,42 +181,6 @@
         "Vulnerability",
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations",
-    "link": "https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html",
-    "published": "Mon, 05 Jan 2026 17:25:00 +0530",
-    "summary": "Featuring:\n\nCybersecurity is being reshaped by forces that extend beyond individual threats or tools. As organizations operate across cloud infrastructure, distributed endpoints, and complex supply chains, security has shifted from a collection of point solutions to a question of architecture, trust, and execution speed.\nThis report examines how core areas of cybersecurity are evolving in",
-    "analysis": {
-      "issue": "Cybersecurity shifts toward hardware trust, AI-driven defense, network visibility, and human risk as attackers move faster across cloud and endpoints",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act",
-    "link": "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html",
-    "published": "Mon, 05 Jan 2026 15:12:00 +0530",
-    "summary": "Ilya Lichtenstein, who was sentenced to prison last year for money laundering charges in connection with his role in the massive hack of cryptocurrency exchange Bitfinex in 2016, said he has been released early.\nIn a post shared on X last week, the 38-year-old announced his release, crediting U.S. President Donald Trump's First Step Act. According to the Federal Bureau of Prisons' inmate locator",
-    "analysis": {
-      "issue": "Ilya Lichtenstein, convicted in the 2016 Bitfinex bitcoin hack, was released early to home confinement under the First Step Act",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -458,15 +458,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62458",
-        "CVE-2025-62472",
-        "CVE-2025-62554",
         "CVE-2025-62562",
         "CVE-2025-59517",
-        "CVE-2025-62221",
         "CVE-2025-62557",
+        "CVE-2025-62221",
+        "CVE-2025-59516",
         "CVE-2025-62470",
-        "CVE-2025-59516"
+        "CVE-2025-62554",
+        "CVE-2025-62472",
+        "CVE-2025-62458"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -667,8 +667,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-66043",
-        "CVE-2025-66048"
+        "CVE-2025-66048",
+        "CVE-2025-66043"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -744,12 +744,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62554",
-        "CVE-2025-62553",
-        "CVE-2025-62557",
         "CVE-2025-62556",
+        "CVE-2025-62456",
+        "CVE-2025-62553",
         "CVE-2025-62549",
-        "CVE-2025-62456"
+        "CVE-2025-62557",
+        "CVE-2025-62554"
       ],
       "threat_categories": [
         "Vulnerability"

@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-06 16:34:49 UTC
+**Last Updated:** 2026-01-06 18:29:29 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat](https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html)
+### 1. [Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users](https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 06 Jan 2026 22:51:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover](https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 06 Jan 2026 21:17:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat](https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 06 Jan 2026 17:43:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [What is Identity Dark Matter?](https://thehackernews.com/2026/01/what-is-identity-dark-matter.html)
+### 4. [What is Identity Dark Matter?](https://thehackernews.com/2026/01/what-is-identity-dark-matter.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 06 Jan 2026 17:00:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX](https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html)
+### 5. [VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX](https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 06 Jan 2026 16:55:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands](https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html)
+### 6. [New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands](https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 06 Jan 2026 10:38:00 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers](https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html)
+### 7. [Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers](https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 06 Jan 2026 09:00:00 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government](https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html)
+### 8. [Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government](https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Jan 2026 23:26:00 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks](https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html)
+### 9. [Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks](https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Jan 2026 22:11:00 +0530  
@@ -68,30 +86,12 @@
 
 ---
 
-### 8. [⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More](https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html)
+### 10. [⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More](https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Jan 2026 18:23:00 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware, Phishing  
-
----
-
-### 9. [The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 05 Jan 2026 17:25:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act](https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 05 Jan 2026 15:12:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -226,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62458, CVE-2025-62472, CVE-2025-62554, CVE-2025-62562, CVE-2025-59517, CVE-2025-62221, CVE-2025-62557, CVE-2025-62470, CVE-2025-59516  
+**CVEs:** CVE-2025-62562, CVE-2025-59517, CVE-2025-62557, CVE-2025-62221, CVE-2025-59516, CVE-2025-62470, CVE-2025-62554, CVE-2025-62472, CVE-2025-62458  
 **Categories:** Vulnerability  
 
 ---
@@ -360,7 +360,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 17 Dec 2025 21:02:40 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-66043, CVE-2025-66048  
+**CVEs:** CVE-2025-66048, CVE-2025-66043  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -397,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62554, CVE-2025-62553, CVE-2025-62557, CVE-2025-62556, CVE-2025-62549, CVE-2025-62456  
+**CVEs:** CVE-2025-62556, CVE-2025-62456, CVE-2025-62553, CVE-2025-62549, CVE-2025-62557, CVE-2025-62554  
 **Categories:** Vulnerability  
 
 ---
