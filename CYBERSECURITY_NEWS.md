@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-06 15:29:13 UTC
+**Last Updated:** 2026-01-06 16:34:49 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,16 @@
 
 ---
 
-### 11. [How generative AI accelerates identity attacks against Active Directory](https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/)
+### 11. [Sedgwick confirms breach at government contractor subsidiary](https://www.bleepingcomputer.com/news/security/sedgwick-confirms-breach-at-government-contractor-subsidiary/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 06 Jan 2026 10:27:22 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [How generative AI accelerates identity attacks against Active Directory](https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Jan 2026 09:46:15 -0500  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Are Copilot prompt injection flaws vulnerabilities or AI limits?](https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/)
+### 13. [Are Copilot prompt injection flaws vulnerabilities or AI limits?](https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Jan 2026 06:16:54 -0500  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Cloud file-sharing sites targeted for corporate data theft attacks](https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/)
+### 14. [Cloud file-sharing sites targeted for corporate data theft attacks](https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 17:52:16 -0500  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [ClickFix attack uses fake Windows BSOD screens to push malware](https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/)
+### 15. [ClickFix attack uses fake Windows BSOD screens to push malware](https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 16:16:35 -0500  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [US broadband provider Brightspeed investigates breach claims](https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/)
+### 16. [US broadband provider Brightspeed investigates breach claims](https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 15:01:17 -0500  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [VSCode IDE forks expose users to "recommended extension" attacks](https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/)
+### 17. [VSCode IDE forks expose users to "recommended extension" attacks](https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 11:41:38 -0500  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [Ledger customers impacted by third-party Global-e data breach](https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/)
+### 18. [Ledger customers impacted by third-party Global-e data breach](https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 10:14:04 -0500  
@@ -158,7 +167,7 @@
 
 ---
 
-### 18. [Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome](https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/)
+### 19. [Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome](https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 10:05:15 -0500  
@@ -167,21 +176,12 @@
 
 ---
 
-### 19. [NordVPN denies breach claims, says attackers have "dummy data"](https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/)
+### 20. [NordVPN denies breach claims, says attackers have "dummy data"](https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 09:48:46 -0500  
 **Severity:** Low  
 **Categories:** Data Breach, Supply Chain  
-
----
-
-### 20. [Hackers claim to hack Resecurity, firm says it was a honeypot](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 03 Jan 2026 15:34:22 -0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -226,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62562, CVE-2025-62221, CVE-2025-62470, CVE-2025-59517, CVE-2025-62458, CVE-2025-59516, CVE-2025-62557, CVE-2025-62472, CVE-2025-62554  
+**CVEs:** CVE-2025-62458, CVE-2025-62472, CVE-2025-62554, CVE-2025-62562, CVE-2025-59517, CVE-2025-62221, CVE-2025-62557, CVE-2025-62470, CVE-2025-59516  
 **Categories:** Vulnerability  
 
 ---
@@ -360,7 +360,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 17 Dec 2025 21:02:40 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-66048, CVE-2025-66043  
+**CVEs:** CVE-2025-66043, CVE-2025-66048  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -397,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62456, CVE-2025-62553, CVE-2025-62557, CVE-2025-62554, CVE-2025-62556, CVE-2025-62549  
+**CVEs:** CVE-2025-62554, CVE-2025-62553, CVE-2025-62557, CVE-2025-62556, CVE-2025-62549, CVE-2025-62456  
 **Categories:** Vulnerability  
 
 ---
@@ -623,7 +623,16 @@
 
 ---
 
-### 71. [Disney fined $10m for mislabeling kids’ YouTube videos and violating privacy law](https://www.malwarebytes.com/blog/privacy/2026/01/disney-fined-10m-for-mislabeling-kids-youtube-videos-and-violating-privacy-law)
+### 71. [Phishing campaign abuses Google Cloud services to steal Microsoft 365 logins](https://www.malwarebytes.com/blog/news/2026/01/phishing-campaign-abuses-google-cloud-services-to-steal-microsoft-365-logins)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 06 Jan 2026 15:01:10 GMT  
+**Severity:** High  
+**Categories:** Vulnerability, Phishing, APT  
+
+---
+
+### 72. [Disney fined $10m for mislabeling kids’ YouTube videos and violating privacy law](https://www.malwarebytes.com/blog/privacy/2026/01/disney-fined-10m-for-mislabeling-kids-youtube-videos-and-violating-privacy-law)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 06 Jan 2026 12:22:47 GMT  
@@ -632,7 +641,7 @@
 
 ---
 
-### 72. [ALPRs are recording your daily drive (Lock and Code S06E26)](https://www.malwarebytes.com/blog/podcast/2026/01/alprs-are-recording-your-daily-drive-lock-and-code-s06e26)
+### 73. [ALPRs are recording your daily drive (Lock and Code S06E26)](https://www.malwarebytes.com/blog/podcast/2026/01/alprs-are-recording-your-daily-drive-lock-and-code-s06e26)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 05 Jan 2026 15:52:17 GMT  
@@ -641,7 +650,7 @@
 
 ---
 
-### 73. [Grok apologizes for creating image of young girls in “sexualized attire”](https://www.malwarebytes.com/blog/news/2026/01/grok-apologizes-for-creating-image-of-young-girls-in-sexualized-attire)
+### 74. [Grok apologizes for creating image of young girls in “sexualized attire”](https://www.malwarebytes.com/blog/news/2026/01/grok-apologizes-for-creating-image-of-young-girls-in-sexualized-attire)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 05 Jan 2026 12:11:26 GMT  
@@ -650,7 +659,7 @@
 
 ---
 
-### 74. [A week in security (December 29 &#8211; January 4)](https://www.malwarebytes.com/blog/news/2026/01/a-week-in-security-december-29-january-4)
+### 75. [A week in security (December 29 &#8211; January 4)](https://www.malwarebytes.com/blog/news/2026/01/a-week-in-security-december-29-january-4)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 05 Jan 2026 08:02:00 GMT  
@@ -659,7 +668,7 @@
 
 ---
 
-### 75. [How AI made scams more convincing in 2025](https://www.malwarebytes.com/blog/news/2026/01/how-ai-made-scams-more-convincing-in-2025)
+### 76. [How AI made scams more convincing in 2025](https://www.malwarebytes.com/blog/news/2026/01/how-ai-made-scams-more-convincing-in-2025)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 02 Jan 2026 10:16:04 GMT  
@@ -668,7 +677,7 @@
 
 ---
 
-### 76. [In 2025, age checks started locking people out of the internet](https://www.malwarebytes.com/blog/news/2025/12/in-2025-age-checks-started-locking-people-out-of-the-internet)
+### 77. [In 2025, age checks started locking people out of the internet](https://www.malwarebytes.com/blog/news/2025/12/in-2025-age-checks-started-locking-people-out-of-the-internet)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 31 Dec 2025 10:49:04 GMT  
@@ -677,7 +686,7 @@
 
 ---
 
-### 77. [2025 exposed the risks we ignored while rushing AI](https://www.malwarebytes.com/blog/news/2025/12/2025-exposed-risks-we-ignored-while-rushing-ai)
+### 78. [2025 exposed the risks we ignored while rushing AI](https://www.malwarebytes.com/blog/news/2025/12/2025-exposed-risks-we-ignored-while-rushing-ai)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 30 Dec 2025 10:02:11 GMT  
@@ -686,7 +695,7 @@
 
 ---
 
-### 78. [Malware in 2025 spread far beyond Windows PCs](https://www.malwarebytes.com/blog/news/2025/12/malware-in-2025-spread-beyond-windows-pcs)
+### 79. [Malware in 2025 spread far beyond Windows PCs](https://www.malwarebytes.com/blog/news/2025/12/malware-in-2025-spread-beyond-windows-pcs)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 29 Dec 2025 11:48:34 GMT  
@@ -695,21 +704,12 @@
 
 ---
 
-### 79. [A week in security (December 22 &#8211; December 28)](https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-22-december-28)
+### 80. [A week in security (December 22 &#8211; December 28)](https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-22-december-28)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 29 Dec 2025 08:02:00 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 80. [Hacktivists claim near-total Spotify music scrape](https://www.malwarebytes.com/blog/news/2025/12/hacktivists-claim-near-total-spotify-music-scrape)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 23 Dec 2025 12:28:20 GMT  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 

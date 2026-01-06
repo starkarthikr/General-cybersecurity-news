@@ -186,6 +186,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Sedgwick confirms breach at government contractor subsidiary",
+    "link": "https://www.bleepingcomputer.com/news/security/sedgwick-confirms-breach-at-government-contractor-subsidiary/",
+    "published": "Tue, 06 Jan 2026 10:27:22 -0500",
+    "summary": "Claims administration and risk management company Sedgwick has confirmed that its federal contractor subsidiary, Sedgwick Government Solutions, was the victim of a security breach. [...]",
+    "analysis": {
+      "issue": "Claims administration and risk management company Sedgwick has confirmed that its federal contractor subsidiary, Sedgwick Government Solutions, was the victim of a security breach",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "How generative AI accelerates identity attacks against Active Directory",
     "link": "https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/",
     "published": "Tue, 06 Jan 2026 09:46:15 -0500",
@@ -352,24 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers claim to hack Resecurity, firm says it was a honeypot",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/",
-    "published": "Sat, 03 Jan 2026 15:34:22 -0500",
-    "summary": "The ShinyHunters hacking group claims it breached the systems of cybersecurity firm Resecurity and stole internal data, while Resecurity says the attackers only accessed a deliberately deployed honeypot containing fake information used to monitor their activity. [...]",
-    "analysis": {
-      "issue": "Update: Article updated to reflect that the ShinyHunters says they were not involved in this activity",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "The Kimwolf Botnet is Stalking Your Local Network",
     "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
@@ -458,15 +458,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62562",
-        "CVE-2025-62221",
-        "CVE-2025-62470",
-        "CVE-2025-59517",
         "CVE-2025-62458",
-        "CVE-2025-59516",
-        "CVE-2025-62557",
         "CVE-2025-62472",
-        "CVE-2025-62554"
+        "CVE-2025-62554",
+        "CVE-2025-62562",
+        "CVE-2025-59517",
+        "CVE-2025-62221",
+        "CVE-2025-62557",
+        "CVE-2025-62470",
+        "CVE-2025-59516"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -667,8 +667,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-66048",
-        "CVE-2025-66043"
+        "CVE-2025-66043",
+        "CVE-2025-66048"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -744,12 +744,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62456",
+        "CVE-2025-62554",
         "CVE-2025-62553",
         "CVE-2025-62557",
-        "CVE-2025-62554",
         "CVE-2025-62556",
-        "CVE-2025-62549"
+        "CVE-2025-62549",
+        "CVE-2025-62456"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1206,6 +1206,26 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Phishing campaign abuses Google Cloud services to steal Microsoft 365 logins",
+    "link": "https://www.malwarebytes.com/blog/news/2026/01/phishing-campaign-abuses-google-cloud-services-to-steal-microsoft-365-logins",
+    "published": "Tue, 06 Jan 2026 15:01:10 GMT",
+    "summary": "Another well-crafted phishing campaign uses Google Cloud Integration Application infrastructure to bypass email filters.",
+    "analysis": {
+      "issue": "Attackers are sending very convincing fake “Google” emails that slip past spam filters, route victims through several trusted Google-owned services, and ultimately lead to a look-alike Microsoft 365 sign-in page designed to harvest usernames and pass",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Disney fined $10m for mislabeling kids’ YouTube videos and violating privacy law",
     "link": "https://www.malwarebytes.com/blog/privacy/2026/01/disney-fined-10m-for-mislabeling-kids-youtube-videos-and-violating-privacy-law",
     "published": "Tue, 06 Jan 2026 12:22:47 GMT",
@@ -1366,24 +1386,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Hacktivists claim near-total Spotify music scrape",
-    "link": "https://www.malwarebytes.com/blog/news/2025/12/hacktivists-claim-near-total-spotify-music-scrape",
-    "published": "Tue, 23 Dec 2025 12:28:20 GMT",
-    "summary": "Hacktivists have scraped almost 100% of the content available on Spotify. Is there anything users need to worry about?",
-    "analysis": {
-      "issue": "Hacktivist group Anna’s Archive claims to have scraped almost all of Spotify’s catalog and is now seeding it via BitTorrent, effectively turning a streaming platform into a roughly 300 TB pirate “preservation archive",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
