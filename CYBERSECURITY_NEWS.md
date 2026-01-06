@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-06 08:37:27 UTC
+**Last Updated:** 2026-01-06 15:29:13 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands](https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html)
+### 1. [Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat](https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 06 Jan 2026 17:43:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [What is Identity Dark Matter?](https://thehackernews.com/2026/01/what-is-identity-dark-matter.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 06 Jan 2026 17:00:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX](https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 06 Jan 2026 16:55:00 +0530  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 4. [New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands](https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 06 Jan 2026 10:38:00 +0530  
@@ -14,7 +41,7 @@
 
 ---
 
-### 2. [Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers](https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html)
+### 5. [Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers](https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 06 Jan 2026 09:00:00 +0530  
@@ -23,7 +50,7 @@
 
 ---
 
-### 3. [Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government](https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html)
+### 6. [Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government](https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Jan 2026 23:26:00 +0530  
@@ -32,7 +59,7 @@
 
 ---
 
-### 4. [Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks](https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html)
+### 7. [Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks](https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Jan 2026 22:11:00 +0530  
@@ -41,7 +68,7 @@
 
 ---
 
-### 5. [⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More](https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html)
+### 8. [⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More](https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Jan 2026 18:23:00 +0530  
@@ -50,7 +77,7 @@
 
 ---
 
-### 6. [The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html)
+### 9. [The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Jan 2026 17:25:00 +0530  
@@ -59,7 +86,7 @@
 
 ---
 
-### 7. [Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act](https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html)
+### 10. [Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act](https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Jan 2026 15:12:00 +0530  
@@ -68,34 +95,25 @@
 
 ---
 
-### 8. [New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code](https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html)
+### 11. [How generative AI accelerates identity attacks against Active Directory](https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 05 Jan 2026 13:18:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 9. [Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 02 Jan 2026 19:22:00 +0530  
-**Severity:** Low  
-**Categories:** APT  
-
----
-
-### 10. [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 02 Jan 2026 17:00:00 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Tue, 06 Jan 2026 09:46:15 -0500  
+**Severity:** High  
 **Categories:** General Security  
 
 ---
 
-### 11. [Cloud file-sharing sites targeted for corporate data theft attacks](https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/)
+### 12. [Are Copilot prompt injection flaws vulnerabilities or AI limits?](https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 06 Jan 2026 06:16:54 -0500  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 13. [Cloud file-sharing sites targeted for corporate data theft attacks](https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 17:52:16 -0500  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [ClickFix attack uses fake Windows BSOD screens to push malware](https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/)
+### 14. [ClickFix attack uses fake Windows BSOD screens to push malware](https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 16:16:35 -0500  
@@ -113,7 +131,7 @@
 
 ---
 
-### 13. [US broadband provider Brightspeed investigates breach claims](https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/)
+### 15. [US broadband provider Brightspeed investigates breach claims](https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 15:01:17 -0500  
@@ -122,7 +140,7 @@
 
 ---
 
-### 14. [VSCode IDE forks expose users to "recommended extension" attacks](https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/)
+### 16. [VSCode IDE forks expose users to "recommended extension" attacks](https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 11:41:38 -0500  
@@ -131,7 +149,7 @@
 
 ---
 
-### 15. [Ledger customers impacted by third-party Global-e data breach](https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/)
+### 17. [Ledger customers impacted by third-party Global-e data breach](https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 10:14:04 -0500  
@@ -140,7 +158,7 @@
 
 ---
 
-### 16. [Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome](https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/)
+### 18. [Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome](https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 10:05:15 -0500  
@@ -149,7 +167,7 @@
 
 ---
 
-### 17. [NordVPN denies breach claims, says attackers have "dummy data"](https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/)
+### 19. [NordVPN denies breach claims, says attackers have "dummy data"](https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 09:48:46 -0500  
@@ -158,30 +176,12 @@
 
 ---
 
-### 18. [Hackers claim to hack Resecurity, firm says it was a honeypot](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/)
+### 20. [Hackers claim to hack Resecurity, firm says it was a honeypot](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 03 Jan 2026 15:34:22 -0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 19. [Covenant Health says May data breach impacted nearly 478,000 patients](https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 02 Jan 2026 14:00:42 -0500  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 20. [Cryptocurrency theft attacks traced to 2022 LastPass breach](https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 02 Jan 2026 12:28:01 -0500  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
 
 ---
 
@@ -226,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62557, CVE-2025-62554, CVE-2025-62562, CVE-2025-59516, CVE-2025-62472, CVE-2025-62470, CVE-2025-62221, CVE-2025-62458, CVE-2025-59517  
+**CVEs:** CVE-2025-62562, CVE-2025-62221, CVE-2025-62470, CVE-2025-59517, CVE-2025-62458, CVE-2025-59516, CVE-2025-62557, CVE-2025-62472, CVE-2025-62554  
 **Categories:** Vulnerability  
 
 ---
@@ -276,73 +276,73 @@
 
 ---
 
-### 31. [Cyberattack Unlikely in Communications Failure That Grounded Flights in Greece](https://www.securityweek.com/cyberattack-unlikely-in-communications-failure-that-grounded-flights-in-greece/)
+### 31. [Hacker Conversations: Katie Paxton-Fear Talks Autism, Morality and Hacking](https://www.securityweek.com/hacker-conversations-katie-paxton-fear-talks-autism-morality-and-hacking/)
+
+**Source:** Security Week  
+**Published:** Tue, 06 Jan 2026 15:00:00 +0000  
+
+---
+
+### 32. [Cyber Risk Trends for 2026: Building Resilience, Not Just Defenses](https://www.securityweek.com/cyber-risk-trends-for-2026-building-resilience-not-just-defenses/)
+
+**Source:** Security Week  
+**Published:** Tue, 06 Jan 2026 14:45:00 +0000  
+
+---
+
+### 33. [Researchers Trap Scattered Lapsus$ Hunters in Honeypot](https://www.securityweek.com/researchers-trap-scattered-lapsus-hunters-in-honeypot/)
+
+**Source:** Security Week  
+**Published:** Tue, 06 Jan 2026 14:03:12 +0000  
+
+---
+
+### 34. [Critical Dolby Vulnerability Patched in Android](https://www.securityweek.com/critical-dolby-vulnerability-patched-in-android/)
+
+**Source:** Security Week  
+**Published:** Tue, 06 Jan 2026 13:50:36 +0000  
+
+---
+
+### 35. [Sophisticated ClickFix Campaign Targeting Hospitality Sector](https://www.securityweek.com/sophisticated-clickfix-campaign-targeting-hospitality-sector/)
+
+**Source:** Security Week  
+**Published:** Tue, 06 Jan 2026 13:24:20 +0000  
+
+---
+
+### 36. [Dozens of Major Data Breaches Linked to Single Threat Actor](https://www.securityweek.com/dozens-of-major-data-breaches-linked-to-single-threat-actor/)
+
+**Source:** Security Week  
+**Published:** Tue, 06 Jan 2026 12:29:24 +0000  
+
+---
+
+### 37. [NordVPN Denies Breach After Hacker Leaks Data](https://www.securityweek.com/nordvpn-denies-breach-after-hacker-leaks-data/)
+
+**Source:** Security Week  
+**Published:** Tue, 06 Jan 2026 11:24:11 +0000  
+
+---
+
+### 38. [Cybersecurity M&A Roundup: 30 Deals Announced in December 2025](https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-december-2025/)
+
+**Source:** Security Week  
+**Published:** Tue, 06 Jan 2026 09:02:06 +0000  
+
+---
+
+### 39. [Cyberattack Unlikely in Communications Failure That Grounded Flights in Greece](https://www.securityweek.com/cyberattack-unlikely-in-communications-failure-that-grounded-flights-in-greece/)
 
 **Source:** Security Week  
 **Published:** Mon, 05 Jan 2026 17:49:18 +0000  
 
 ---
 
-### 32. [Brightspeed Investigating Cyberattack](https://www.securityweek.com/brightspeed-investigating-cyberattack/)
+### 40. [Brightspeed Investigating Cyberattack](https://www.securityweek.com/brightspeed-investigating-cyberattack/)
 
 **Source:** Security Week  
 **Published:** Mon, 05 Jan 2026 17:43:13 +0000  
-
----
-
-### 33. [Sedgwick Confirms Cyberattack on Government Subsidiary](https://www.securityweek.com/sedgwick-confirms-cyberattack-on-government-subsidiary/)
-
-**Source:** Security Week  
-**Published:** Mon, 05 Jan 2026 17:25:51 +0000  
-
----
-
-### 34. [CISA KEV Catalog Expanded 20% in 2025, Topping 1,480 Entries](https://www.securityweek.com/cisa-kev-catalog-expanded-20-in-2025-topping-1480-entries/)
-
-**Source:** Security Week  
-**Published:** Mon, 05 Jan 2026 15:13:38 +0000  
-
----
-
-### 35. [Kimwolf Android Botnet Grows Through Residential Proxy Networks](https://www.securityweek.com/kimwolf-android-botnet-grows-through-residential-proxy-networks/)
-
-**Source:** Security Week  
-**Published:** Mon, 05 Jan 2026 12:48:08 +0000  
-
----
-
-### 36. [Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes](https://www.securityweek.com/researcher-spotlights-whatsapp-metadata-leak-as-meta-begins-rolling-out-fixes/)
-
-**Source:** Security Week  
-**Published:** Mon, 05 Jan 2026 12:01:59 +0000  
-
----
-
-### 37. [President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests](https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/)
-
-**Source:** Security Week  
-**Published:** Sat, 03 Jan 2026 10:46:09 +0000  
-
----
-
-### 38. [Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks](https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/)
-
-**Source:** Security Week  
-**Published:** Fri, 02 Jan 2026 12:08:33 +0000  
-
----
-
-### 39. [RondoDox Botnet Exploiting React2Shell Vulnerability](https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/)
-
-**Source:** Security Week  
-**Published:** Fri, 02 Jan 2026 11:12:02 +0000  
-
----
-
-### 40. [Covenant Health Data Breach Impacts 478,000 Individuals](https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/)
-
-**Source:** Security Week  
-**Published:** Fri, 02 Jan 2026 10:20:06 +0000  
 
 ---
 
@@ -397,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62557, CVE-2025-62554, CVE-2025-62556, CVE-2025-62549, CVE-2025-62456, CVE-2025-62553  
+**CVEs:** CVE-2025-62456, CVE-2025-62553, CVE-2025-62557, CVE-2025-62554, CVE-2025-62556, CVE-2025-62549  
 **Categories:** Vulnerability  
 
 ---
@@ -440,7 +440,25 @@
 
 ---
 
-### 51. [BlueDelta’s Persistent Campaign Against UKR.NET](https://www.recordedfuture.com/research/bluedeltas-persistent-campaign-against-ukrnet)
+### 51. [New ransomware tactics to watch out for in 2026](https://www.recordedfuture.com/blog/ransomware-tactics-2026)
+
+**Source:** Recorded Future  
+**Published:** Mon, 05 Jan 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** Ransomware, Vulnerability, DDoS  
+
+---
+
+### 52. [Digital Threat Detection Tools & Best Practices](https://www.recordedfuture.com/blog/digital-threat-detection)
+
+**Source:** Recorded Future  
+**Published:** Mon, 22 Dec 2025 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 53. [BlueDelta’s Persistent Campaign Against UKR.NET](https://www.recordedfuture.com/research/bluedeltas-persistent-campaign-against-ukrnet)
 
 **Source:** Recorded Future  
 **Published:** Wed, 17 Dec 2025 00:00:00 GMT  
@@ -449,7 +467,7 @@
 
 ---
 
-### 52. [The $0 Transaction That Signaled a Nation-State Cyberattack](https://www.recordedfuture.com/blog/transaction-that-signaled-nation-state-cyberattack)
+### 54. [The $0 Transaction That Signaled a Nation-State Cyberattack](https://www.recordedfuture.com/blog/transaction-that-signaled-nation-state-cyberattack)
 
 **Source:** Recorded Future  
 **Published:** Wed, 17 Dec 2025 00:00:00 GMT  
@@ -458,7 +476,7 @@
 
 ---
 
-### 53. [What’s Next for Enterprise Threat Intelligence in 2026](https://www.recordedfuture.com/blog/whats-next-for-enterprise-threat-intelligence-in-2026)
+### 55. [What’s Next for Enterprise Threat Intelligence in 2026](https://www.recordedfuture.com/blog/whats-next-for-enterprise-threat-intelligence-in-2026)
 
 **Source:** Recorded Future  
 **Published:** Mon, 15 Dec 2025 00:00:00 GMT  
@@ -467,7 +485,7 @@
 
 ---
 
-### 54. [Palestine Action: Operations and Global Network](https://www.recordedfuture.com/research/palestine-action-operations-and-global-network)
+### 56. [Palestine Action: Operations and Global Network](https://www.recordedfuture.com/research/palestine-action-operations-and-global-network)
 
 **Source:** Recorded Future  
 **Published:** Thu, 11 Dec 2025 00:00:00 GMT  
@@ -476,7 +494,7 @@
 
 ---
 
-### 55. [Implications of Russia-India-China Trilateral Cooperation](https://www.recordedfuture.com/research/implications-of-russia-india-china-trilateral-cooperation)
+### 57. [Implications of Russia-India-China Trilateral Cooperation](https://www.recordedfuture.com/research/implications-of-russia-india-china-trilateral-cooperation)
 
 **Source:** Recorded Future  
 **Published:** Wed, 10 Dec 2025 00:00:00 GMT  
@@ -485,14 +503,14 @@
 
 ---
 
-### 56. [GrayBravo’s CastleLoader Activity Clusters Target Multiple Industries](https://www.recordedfuture.com/research/graybravos-castleloader-activity-clusters-target-multiple-industries)
+### 58. [GrayBravo’s CastleLoader Activity Clusters Target Multiple Industries](https://www.recordedfuture.com/research/graybravos-castleloader-activity-clusters-target-multiple-industries)
 
 **Source:** Recorded Future  
 **Published:** Tue, 09 Dec 2025 00:00:00 GMT  
 
 ---
 
-### 57. [November 2025 CVE Landscape: 10 Critical Vulnerabilities Show 69% Drop from October](https://www.recordedfuture.com/blog/november-2025-cve-landscape)
+### 59. [November 2025 CVE Landscape: 10 Critical Vulnerabilities Show 69% Drop from October](https://www.recordedfuture.com/blog/november-2025-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Tue, 09 Dec 2025 00:00:00 GMT  
@@ -501,30 +519,12 @@
 
 ---
 
-### 58. [5 Real-Word Third-Party Risk Examples](https://www.recordedfuture.com/blog/third-party-risk-examples)
+### 60. [5 Real-Word Third-Party Risk Examples](https://www.recordedfuture.com/blog/third-party-risk-examples)
 
 **Source:** Recorded Future  
 **Published:** Tue, 09 Dec 2025 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** Data Breach, Supply Chain  
-
----
-
-### 59. [When the Digital World Turns Physical: The Expanding Role of Threat Intelligence in Executive Protection](https://www.recordedfuture.com/blog/digital-world-turns-physical-expanding-role-threat-intelligence-executive-protection)
-
-**Source:** Recorded Future  
-**Published:** Mon, 08 Dec 2025 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 60. [Critical React2Shell Vulnerability Under Active Exploitation by Chinese Threat Actors](https://www.recordedfuture.com/blog/critical-react2shell-vulnerability)
-
-**Source:** Recorded Future  
-**Published:** Mon, 08 Dec 2025 00:00:00 GMT  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -623,7 +623,16 @@
 
 ---
 
-### 71. [ALPRs are recording your daily drive (Lock and Code S06E26)](https://www.malwarebytes.com/blog/podcast/2026/01/alprs-are-recording-your-daily-drive-lock-and-code-s06e26)
+### 71. [Disney fined $10m for mislabeling kids’ YouTube videos and violating privacy law](https://www.malwarebytes.com/blog/privacy/2026/01/disney-fined-10m-for-mislabeling-kids-youtube-videos-and-violating-privacy-law)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 06 Jan 2026 12:22:47 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [ALPRs are recording your daily drive (Lock and Code S06E26)](https://www.malwarebytes.com/blog/podcast/2026/01/alprs-are-recording-your-daily-drive-lock-and-code-s06e26)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 05 Jan 2026 15:52:17 GMT  
@@ -632,7 +641,7 @@
 
 ---
 
-### 72. [Grok apologizes for creating image of young girls in “sexualized attire”](https://www.malwarebytes.com/blog/news/2026/01/grok-apologizes-for-creating-image-of-young-girls-in-sexualized-attire)
+### 73. [Grok apologizes for creating image of young girls in “sexualized attire”](https://www.malwarebytes.com/blog/news/2026/01/grok-apologizes-for-creating-image-of-young-girls-in-sexualized-attire)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 05 Jan 2026 12:11:26 GMT  
@@ -641,7 +650,7 @@
 
 ---
 
-### 73. [A week in security (December 29 &#8211; January 4)](https://www.malwarebytes.com/blog/news/2026/01/a-week-in-security-december-29-january-4)
+### 74. [A week in security (December 29 &#8211; January 4)](https://www.malwarebytes.com/blog/news/2026/01/a-week-in-security-december-29-january-4)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 05 Jan 2026 08:02:00 GMT  
@@ -650,7 +659,7 @@
 
 ---
 
-### 74. [How AI made scams more convincing in 2025](https://www.malwarebytes.com/blog/news/2026/01/how-ai-made-scams-more-convincing-in-2025)
+### 75. [How AI made scams more convincing in 2025](https://www.malwarebytes.com/blog/news/2026/01/how-ai-made-scams-more-convincing-in-2025)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 02 Jan 2026 10:16:04 GMT  
@@ -659,7 +668,7 @@
 
 ---
 
-### 75. [In 2025, age checks started locking people out of the internet](https://www.malwarebytes.com/blog/news/2025/12/in-2025-age-checks-started-locking-people-out-of-the-internet)
+### 76. [In 2025, age checks started locking people out of the internet](https://www.malwarebytes.com/blog/news/2025/12/in-2025-age-checks-started-locking-people-out-of-the-internet)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 31 Dec 2025 10:49:04 GMT  
@@ -668,7 +677,7 @@
 
 ---
 
-### 76. [2025 exposed the risks we ignored while rushing AI](https://www.malwarebytes.com/blog/news/2025/12/2025-exposed-risks-we-ignored-while-rushing-ai)
+### 77. [2025 exposed the risks we ignored while rushing AI](https://www.malwarebytes.com/blog/news/2025/12/2025-exposed-risks-we-ignored-while-rushing-ai)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 30 Dec 2025 10:02:11 GMT  
@@ -677,7 +686,7 @@
 
 ---
 
-### 77. [Malware in 2025 spread far beyond Windows PCs](https://www.malwarebytes.com/blog/news/2025/12/malware-in-2025-spread-beyond-windows-pcs)
+### 78. [Malware in 2025 spread far beyond Windows PCs](https://www.malwarebytes.com/blog/news/2025/12/malware-in-2025-spread-beyond-windows-pcs)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 29 Dec 2025 11:48:34 GMT  
@@ -686,7 +695,7 @@
 
 ---
 
-### 78. [A week in security (December 22 &#8211; December 28)](https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-22-december-28)
+### 79. [A week in security (December 22 &#8211; December 28)](https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-22-december-28)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 29 Dec 2025 08:02:00 GMT  
@@ -695,21 +704,12 @@
 
 ---
 
-### 79. [Hacktivists claim near-total Spotify music scrape](https://www.malwarebytes.com/blog/news/2025/12/hacktivists-claim-near-total-spotify-music-scrape)
+### 80. [Hacktivists claim near-total Spotify music scrape](https://www.malwarebytes.com/blog/news/2025/12/hacktivists-claim-near-total-spotify-music-scrape)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 23 Dec 2025 12:28:20 GMT  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 80. [Pornhub tells users to expect sextortion emails after data exposure](https://www.malwarebytes.com/blog/news/2025/12/pornhub-tells-users-to-expect-sextortion-emails-after-data-exposure)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 22 Dec 2025 13:44:05 GMT  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
 
 ---
 
