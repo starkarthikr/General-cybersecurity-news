@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-06 06:31:10 UTC
+**Last Updated:** 2026-01-06 08:37:27 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -14,7 +14,16 @@
 
 ---
 
-### 2. [Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government](https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html)
+### 2. [Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers](https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 06 Jan 2026 09:00:00 +0530  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 3. [Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government](https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Jan 2026 23:26:00 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks](https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html)
+### 4. [Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks](https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Jan 2026 22:11:00 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More](https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html)
+### 5. [⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More](https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Jan 2026 18:23:00 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html)
+### 6. [The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Jan 2026 17:25:00 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act](https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html)
+### 7. [Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act](https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Jan 2026 15:12:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code](https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html)
+### 8. [New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code](https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 05 Jan 2026 13:18:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html)
+### 9. [Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Jan 2026 19:22:00 +0530  
@@ -77,21 +86,12 @@
 
 ---
 
-### 9. [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
+### 10. [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 02 Jan 2026 17:00:00 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 10. [Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 02 Jan 2026 14:44:00 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 
@@ -226,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62221, CVE-2025-62554, CVE-2025-62458, CVE-2025-62470, CVE-2025-62472, CVE-2025-62557, CVE-2025-59516, CVE-2025-59517, CVE-2025-62562  
+**CVEs:** CVE-2025-62557, CVE-2025-62554, CVE-2025-62562, CVE-2025-59516, CVE-2025-62472, CVE-2025-62470, CVE-2025-62221, CVE-2025-62458, CVE-2025-59517  
 **Categories:** Vulnerability  
 
 ---
@@ -397,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62554, CVE-2025-62553, CVE-2025-62456, CVE-2025-62557, CVE-2025-62556, CVE-2025-62549  
+**CVEs:** CVE-2025-62557, CVE-2025-62554, CVE-2025-62556, CVE-2025-62549, CVE-2025-62456, CVE-2025-62553  
 **Categories:** Vulnerability  
 
 ---
@@ -608,7 +608,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

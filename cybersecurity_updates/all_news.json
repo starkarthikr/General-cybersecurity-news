@@ -21,6 +21,24 @@
   },
   {
     "source": "The Hacker News",
+    "title": "Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers",
+    "link": "https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html",
+    "published": "Tue, 06 Jan 2026 09:00:00 +0530",
+    "summary": "Users of the \"@adonisjs/bodyparser\" npm package are being advised to update to the latest version following the disclosure of a critical security vulnerability that, if successfully exploited, could allow a remote attacker to write arbitrary files on the server.\nTracked as CVE-2026-21440 (CVSS score: 9.2), the flaw has been described as a path traversal issue affecting the AdonisJS multipart",
+    "analysis": {
+      "issue": "2 flaw in AdonisJS bodyparser lets attackers write arbitrary files via path traversal when uploads are misconfigured",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
     "link": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html",
     "published": "Mon, 05 Jan 2026 23:26:00 +0530",
@@ -163,24 +181,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign",
-    "link": "https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html",
-    "published": "Fri, 02 Jan 2026 14:44:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a phishing campaign that involves the attackers impersonating legitimate Google-generated messages by abusing Google Cloud's Application Integration service to distribute emails.\nThe activity, Check Point said, takes advantage of the trust associated with Google Cloud infrastructure to send the messages from a legitimate email address (\"",
-    "analysis": {
-      "issue": "Attackers misused Google Cloud Application Integration to send 9,394 phishing emails from Google domains, bypassing filters and stealing credentials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
@@ -460,15 +460,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62221",
-        "CVE-2025-62554",
-        "CVE-2025-62458",
-        "CVE-2025-62470",
-        "CVE-2025-62472",
         "CVE-2025-62557",
+        "CVE-2025-62554",
+        "CVE-2025-62562",
         "CVE-2025-59516",
-        "CVE-2025-59517",
-        "CVE-2025-62562"
+        "CVE-2025-62472",
+        "CVE-2025-62470",
+        "CVE-2025-62221",
+        "CVE-2025-62458",
+        "CVE-2025-59517"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -746,12 +746,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62554",
-        "CVE-2025-62553",
-        "CVE-2025-62456",
         "CVE-2025-62557",
+        "CVE-2025-62554",
         "CVE-2025-62556",
-        "CVE-2025-62549"
+        "CVE-2025-62549",
+        "CVE-2025-62456",
+        "CVE-2025-62553"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1175,8 +1175,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
