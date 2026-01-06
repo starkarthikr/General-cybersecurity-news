@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-06 18:29:29 UTC
+**Last Updated:** 2026-01-06 20:31:04 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,35 @@
 
 ---
 
-### 11. [Sedgwick confirms breach at government contractor subsidiary](https://www.bleepingcomputer.com/news/security/sedgwick-confirms-breach-at-government-contractor-subsidiary/)
+### 11. [New D-Link flaw in legacy DSL routers actively exploited in attacks](https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 06 Jan 2026 14:52:52 -0500  
+**Severity:** Low  
+**CVEs:** CVE-2026-0625  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 12. [Kimwolf Android botnet abuses residential proxies to infect internal devices](https://www.bleepingcomputer.com/news/security/kimwolf-android-botnet-abuses-residential-proxies-to-infect-internal-devices/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 06 Jan 2026 14:15:11 -0500  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware, DDoS, Supply Chain  
+
+---
+
+### 13. [Jaguar Land Rover wholesale volumes down 43% after cyberattack](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 06 Jan 2026 13:27:08 -0500  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 14. [Sedgwick confirms breach at government contractor subsidiary](https://www.bleepingcomputer.com/news/security/sedgwick-confirms-breach-at-government-contractor-subsidiary/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Jan 2026 10:27:22 -0500  
@@ -104,7 +132,7 @@
 
 ---
 
-### 12. [How generative AI accelerates identity attacks against Active Directory](https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/)
+### 15. [How generative AI accelerates identity attacks against Active Directory](https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Jan 2026 09:46:15 -0500  
@@ -113,7 +141,7 @@
 
 ---
 
-### 13. [Are Copilot prompt injection flaws vulnerabilities or AI limits?](https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/)
+### 16. [Are Copilot prompt injection flaws vulnerabilities or AI limits?](https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Jan 2026 06:16:54 -0500  
@@ -122,7 +150,7 @@
 
 ---
 
-### 14. [Cloud file-sharing sites targeted for corporate data theft attacks](https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/)
+### 17. [Cloud file-sharing sites targeted for corporate data theft attacks](https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 17:52:16 -0500  
@@ -131,7 +159,7 @@
 
 ---
 
-### 15. [ClickFix attack uses fake Windows BSOD screens to push malware](https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/)
+### 18. [ClickFix attack uses fake Windows BSOD screens to push malware](https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 16:16:35 -0500  
@@ -140,7 +168,7 @@
 
 ---
 
-### 16. [US broadband provider Brightspeed investigates breach claims](https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/)
+### 19. [US broadband provider Brightspeed investigates breach claims](https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 15:01:17 -0500  
@@ -149,39 +177,12 @@
 
 ---
 
-### 17. [VSCode IDE forks expose users to "recommended extension" attacks](https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/)
+### 20. [VSCode IDE forks expose users to "recommended extension" attacks](https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 11:41:38 -0500  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 18. [Ledger customers impacted by third-party Global-e data breach](https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 05 Jan 2026 10:14:04 -0500  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
-
----
-
-### 19. [Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome](https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 05 Jan 2026 10:05:15 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [NordVPN denies breach claims, says attackers have "dummy data"](https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 05 Jan 2026 09:48:46 -0500  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
 
 ---
 
@@ -226,7 +227,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62562, CVE-2025-59517, CVE-2025-62557, CVE-2025-62221, CVE-2025-59516, CVE-2025-62470, CVE-2025-62554, CVE-2025-62472, CVE-2025-62458  
+**CVEs:** CVE-2025-62557, CVE-2025-62221, CVE-2025-62472, CVE-2025-62470, CVE-2025-62562, CVE-2025-59516, CVE-2025-62458, CVE-2025-62554, CVE-2025-59517  
 **Categories:** Vulnerability  
 
 ---
@@ -397,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62556, CVE-2025-62456, CVE-2025-62553, CVE-2025-62549, CVE-2025-62557, CVE-2025-62554  
+**CVEs:** CVE-2025-62557, CVE-2025-62456, CVE-2025-62549, CVE-2025-62556, CVE-2025-62553, CVE-2025-62554  
 **Categories:** Vulnerability  
 
 ---

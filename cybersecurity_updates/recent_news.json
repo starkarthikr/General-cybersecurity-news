@@ -186,6 +186,66 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "New D-Link flaw in legacy DSL routers actively exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/",
+    "published": "Tue, 06 Jan 2026 14:52:52 -0500",
+    "summary": "Threat actors are exploiting a recently discovered command injection vulnerability that affects multiple D-Link DSL gateway routers that went out of support years ago. [...]",
+    "analysis": {
+      "issue": "Threat actors are exploiting a recently discovered command injection vulnerability that affects multiple D-Link DSL gateway routers that went out of support years ago",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-0625"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Kimwolf Android botnet abuses residential proxies to infect internal devices",
+    "link": "https://www.bleepingcomputer.com/news/security/kimwolf-android-botnet-abuses-residential-proxies-to-infect-internal-devices/",
+    "published": "Tue, 06 Jan 2026 14:15:11 -0500",
+    "summary": "The Kimwolf botnet, an Android variant of the Aisuru malware, has grown to more than two million hosts, most of them infected by exploiting vulnerabilities in residential proxy networks to target devices on internal networks. [...]",
+    "analysis": {
+      "issue": "The Kimwolf botnet, an Android variant of the Aisuru malware, has grown to more than two million hosts, most of them infected by exploiting vulnerabilities in residential proxy networks to target devices on internal networks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "DDoS",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Jaguar Land Rover wholesale volumes down 43% after cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/",
+    "published": "Tue, 06 Jan 2026 13:27:08 -0500",
+    "summary": "Jaguar Land Rover (JLR) revealed this week that a September 2025 cyberattack led to a 43% decline in third-quarter wholesale volumes. [...]",
+    "analysis": {
+      "issue": "Jaguar Land Rover (JLR) revealed this week that a September 2025 cyberattack led to a 43% decline in third-quarter wholesale volumes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Sedgwick confirms breach at government contractor subsidiary",
     "link": "https://www.bleepingcomputer.com/news/security/sedgwick-confirms-breach-at-government-contractor-subsidiary/",
     "published": "Tue, 06 Jan 2026 10:27:22 -0500",
@@ -314,62 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Ledger customers impacted by third-party Global-e data breach",
-    "link": "https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/",
-    "published": "Mon, 05 Jan 2026 10:14:04 -0500",
-    "summary": "Ledger is informing some customers that their personal data has been exposed after hackers breached the systems of third-party payment processor Global-e. [...]",
-    "analysis": {
-      "issue": "Ledger is informing some customers that their personal data has been exposed after hackers breached the systems of third-party payment processor Global-e",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome",
-    "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/",
-    "published": "Mon, 05 Jan 2026 10:05:15 -0500",
-    "summary": "As agentic AI adoption accelerates, identity is emerging as the primary security challenge. Token Security explains why AI agents behave like a new class of identity and why CISOs must manage their access, lifecycle, and risk. [...]",
-    "analysis": {
-      "issue": "By Itamar Apelblat, CEO & Co-founder, Token Security If you are a CISO today, agentic AI probably feels familiar in an uncomfortable way",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "NordVPN denies breach claims, says attackers have \"dummy data\"",
-    "link": "https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/",
-    "published": "Mon, 05 Jan 2026 09:48:46 -0500",
-    "summary": "NordVPN denied allegations that its internal Salesforce development servers were breached, saying that cybercriminals obtained \"dummy data\" from a trial account on a third-party automated testing platform. [...]",
-    "analysis": {
-      "issue": "NordVPN denied allegations that its internal Salesforce development servers were breached, saying that cybercriminals obtained \"dummy data\" from a trial account on a third-party automated testing platform",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "The Kimwolf Botnet is Stalking Your Local Network",
     "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
@@ -458,15 +462,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62562",
-        "CVE-2025-59517",
         "CVE-2025-62557",
         "CVE-2025-62221",
-        "CVE-2025-59516",
-        "CVE-2025-62470",
-        "CVE-2025-62554",
         "CVE-2025-62472",
-        "CVE-2025-62458"
+        "CVE-2025-62470",
+        "CVE-2025-62562",
+        "CVE-2025-59516",
+        "CVE-2025-62458",
+        "CVE-2025-62554",
+        "CVE-2025-59517"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -744,11 +748,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62556",
-        "CVE-2025-62456",
-        "CVE-2025-62553",
-        "CVE-2025-62549",
         "CVE-2025-62557",
+        "CVE-2025-62456",
+        "CVE-2025-62549",
+        "CVE-2025-62556",
+        "CVE-2025-62553",
         "CVE-2025-62554"
       ],
       "threat_categories": [
