@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
+    "link": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
+    "published": "Tue, 06 Jan 2026 10:38:00 +0530",
+    "summary": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host.\nThe vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure.\nIt affects n8n versions from",
+    "analysis": {
+      "issue": "Critical n8n flaw CVE-2025-68668 allows authenticated users to run system commands via workflows; affects versions 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-68668"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
     "link": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html",
     "published": "Mon, 05 Jan 2026 23:26:00 +0530",
@@ -161,25 +181,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories",
-    "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html",
-    "published": "Thu, 01 Jan 2026 21:22:00 +0530",
-    "summary": "The first ThreatsDay Bulletin of 2026 lands on a day that already feels symbolic — new year, new breaches, new tricks. If the past twelve months taught defenders anything, it’s that threat actors don’t pause for holidays or resolutions. They just evolve faster. This week’s round-up shows how subtle shifts in behavior, from code tweaks to job scams, are rewriting what “cybercrime” looks like in",
-    "analysis": {
-      "issue": "The first ThreatsDay Bulletin of 2026 tracks GhostAd adware, macOS malware, proxy botnets, cloud exploits, and more emerging cyber threats",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -460,14 +461,14 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-62221",
-        "CVE-2025-62557",
-        "CVE-2025-62562",
+        "CVE-2025-62554",
         "CVE-2025-62458",
         "CVE-2025-62470",
-        "CVE-2025-62554",
+        "CVE-2025-62472",
+        "CVE-2025-62557",
         "CVE-2025-59516",
         "CVE-2025-59517",
-        "CVE-2025-62472"
+        "CVE-2025-62562"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -668,8 +669,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-66043",
-        "CVE-2025-66048"
+        "CVE-2025-66048",
+        "CVE-2025-66043"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -745,12 +746,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62553",
-        "CVE-2025-62549",
-        "CVE-2025-62557",
         "CVE-2025-62554",
+        "CVE-2025-62553",
         "CVE-2025-62456",
-        "CVE-2025-62556"
+        "CVE-2025-62557",
+        "CVE-2025-62556",
+        "CVE-2025-62549"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1174,8 +1175,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
