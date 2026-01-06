@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-05 21:23:15 UTC
+**Last Updated:** 2026-01-06 01:13:23 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,25 @@
 
 ---
 
-### 11. [US broadband provider Brightspeed investigates breach claims](https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/)
+### 11. [Cloud file-sharing sites targeted for corporate data theft attacks](https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 05 Jan 2026 17:52:16 -0500  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 12. [ClickFix attack uses fake Windows BSOD screens to push malware](https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 05 Jan 2026 16:16:35 -0500  
+**Severity:** High  
+**Categories:** Malware, Phishing, APT  
+
+---
+
+### 13. [US broadband provider Brightspeed investigates breach claims](https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 15:01:17 -0500  
@@ -103,7 +121,7 @@
 
 ---
 
-### 12. [VSCode IDE forks expose users to "recommended extension" attacks](https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/)
+### 14. [VSCode IDE forks expose users to "recommended extension" attacks](https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 11:41:38 -0500  
@@ -112,7 +130,7 @@
 
 ---
 
-### 13. [Ledger customers impacted by third-party Global-e data breach](https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/)
+### 15. [Ledger customers impacted by third-party Global-e data breach](https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 10:14:04 -0500  
@@ -121,7 +139,7 @@
 
 ---
 
-### 14. [Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome](https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/)
+### 16. [Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome](https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 10:05:15 -0500  
@@ -130,7 +148,7 @@
 
 ---
 
-### 15. [NordVPN denies breach claims, says attackers have "dummy data"](https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/)
+### 17. [NordVPN denies breach claims, says attackers have "dummy data"](https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 09:48:46 -0500  
@@ -139,7 +157,7 @@
 
 ---
 
-### 16. [Hackers claim to hack Resecurity, firm says it was a honeypot](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/)
+### 18. [Hackers claim to hack Resecurity, firm says it was a honeypot](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 03 Jan 2026 15:34:22 -0500  
@@ -148,7 +166,7 @@
 
 ---
 
-### 17. [Covenant Health says May data breach impacted nearly 478,000 patients](https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/)
+### 19. [Covenant Health says May data breach impacted nearly 478,000 patients](https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 14:00:42 -0500  
@@ -157,31 +175,12 @@
 
 ---
 
-### 18. [Cryptocurrency theft attacks traced to 2022 LastPass breach](https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/)
+### 20. [Cryptocurrency theft attacks traced to 2022 LastPass breach](https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 02 Jan 2026 12:28:01 -0500  
 **Severity:** Low  
 **Categories:** Malware, Phishing  
-
----
-
-### 19. [Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass](https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 02 Jan 2026 11:01:55 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2020-12812  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Google is testing a new image AI and it's going to be its fastest model](https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 02 Jan 2026 10:19:17 -0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -226,7 +225,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62562, CVE-2025-62554, CVE-2025-62458, CVE-2025-62221, CVE-2025-62472, CVE-2025-59516, CVE-2025-62470, CVE-2025-62557, CVE-2025-59517  
+**CVEs:** CVE-2025-62562, CVE-2025-62557, CVE-2025-62554, CVE-2025-62221, CVE-2025-59516, CVE-2025-59517, CVE-2025-62458, CVE-2025-62470, CVE-2025-62472  
 **Categories:** Vulnerability  
 
 ---
@@ -360,7 +359,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 17 Dec 2025 21:02:40 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-66043, CVE-2025-66048  
+**CVEs:** CVE-2025-66048, CVE-2025-66043  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -397,7 +396,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62554, CVE-2025-62553, CVE-2025-62556, CVE-2025-62549, CVE-2025-62557, CVE-2025-62456  
+**CVEs:** CVE-2025-62557, CVE-2025-62554, CVE-2025-62456, CVE-2025-62553, CVE-2025-62549, CVE-2025-62556  
 **Categories:** Vulnerability  
 
 ---
@@ -608,7 +607,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -713,7 +712,16 @@
 
 ---
 
-### 81. [Streamline Security Operations with Falcon for IT&rsquo;s Turnkey Automations](https://www.crowdstrike.com/en-us/blog/streamline-security-operations-falcon-for-it-automations/)
+### 81. [CrowdStrike&rsquo;s Journey in Customizing NVIDIA Nemotron Models for Peak Accuracy and Performance](https://www.crowdstrike.com/en-us/blog/crowdstrike-journey-in-customizing-nvidia-nemotron-models/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jan 05, 2026 00:00:00-0600  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [Streamline Security Operations with Falcon for IT&rsquo;s Turnkey Automations](https://www.crowdstrike.com/en-us/blog/streamline-security-operations-falcon-for-it-automations/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 29, 2025 00:00:00-0600  
@@ -722,7 +730,7 @@
 
 ---
 
-### 82. [How CrowdStrike Trains GenAI Models at Scale Using Distributed Computing](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-trains-genai-models-at-scale-using-distributed-computing/)
+### 83. [How CrowdStrike Trains GenAI Models at Scale Using Distributed Computing](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-trains-genai-models-at-scale-using-distributed-computing/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 22, 2025 00:00:00-0600  
@@ -731,7 +739,7 @@
 
 ---
 
-### 83. [Inside CrowdStrike&rsquo;s Science-Backed Approach to Building Expert SOC Agents](https://www.crowdstrike.com/en-us/blog/inside-crowdstrikes-science-backed-approach-to-building-soc-agents/)
+### 84. [Inside CrowdStrike&rsquo;s Science-Backed Approach to Building Expert SOC Agents](https://www.crowdstrike.com/en-us/blog/inside-crowdstrikes-science-backed-approach-to-building-soc-agents/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 19, 2025 00:00:00-0600  
@@ -740,7 +748,7 @@
 
 ---
 
-### 84. [CrowdTour 2026: Securing the AI Era Together](https://www.crowdstrike.com/en-us/blog/crowdtour-2026-securing-ai-era-together/)
+### 85. [CrowdTour 2026: Securing the AI Era Together](https://www.crowdstrike.com/en-us/blog/crowdtour-2026-securing-ai-era-together/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 19, 2025 00:00:00-0600  
@@ -749,7 +757,7 @@
 
 ---
 
-### 85. [CrowdStrike Endpoint Security Achieves 273% ROI Over Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-endpoint-security-achieves-273-percent-roi-over-three-years/)
+### 86. [CrowdStrike Endpoint Security Achieves 273% ROI Over Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-endpoint-security-achieves-273-percent-roi-over-three-years/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 17, 2025 00:00:00-0600  
@@ -758,7 +766,7 @@
 
 ---
 
-### 86. [CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-growing-ai-attack-surface-with-falcon-aidr/)
+### 87. [CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-growing-ai-attack-surface-with-falcon-aidr/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 15, 2025 00:00:00-0600  
@@ -767,7 +775,7 @@
 
 ---
 
-### 87. [Inside the Latest Innovations Powering Falcon Exposure Management](https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/)
+### 88. [Inside the Latest Innovations Powering Falcon Exposure Management](https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 12, 2025 00:00:00-0600  
@@ -776,7 +784,7 @@
 
 ---
 
-### 88. [Data Leakage: AI&rsquo;s Plumbing Problem](https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/)
+### 89. [Data Leakage: AI&rsquo;s Plumbing Problem](https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 11, 2025 00:00:00-0600  
@@ -785,21 +793,12 @@
 
 ---
 
-### 89. [CrowdStrike Achieves 100% Detection, 100% Protection, and Zero False Positives in 2025 MITRE ATT&amp;CK&reg; Enterprise Evaluations](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-100-percent-2025-mitre-attack-enterprise-evaluation/)
+### 90. [CrowdStrike Achieves 100% Detection, 100% Protection, and Zero False Positives in 2025 MITRE ATT&amp;CK&reg; Enterprise Evaluations](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-100-percent-2025-mitre-attack-enterprise-evaluation/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 10, 2025 00:00:00-0600  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 90. [December 2025 Patch Tuesday: One Critical Zero-Day, Two Publicly Disclosed Vulnerabilities Among 57 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-december-2025/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Dec 09, 2025 00:00:00-0600  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
