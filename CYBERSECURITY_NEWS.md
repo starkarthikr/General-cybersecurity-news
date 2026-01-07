@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-07 01:12:55 UTC
+**Last Updated:** 2026-01-07 01:36:15 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -172,6 +172,8 @@
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Jan 2026 06:16:54 -0500  
+**Severity:** High  
+**Categories:** General Security  
 
 ---
 
@@ -179,6 +181,8 @@
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 17:52:16 -0500  
+**Severity:** High  
+**Categories:** Malware  
 
 ---
 
@@ -223,7 +227,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62562, CVE-2025-62458, CVE-2025-62470, CVE-2025-62554, CVE-2025-59516, CVE-2025-59517, CVE-2025-62557, CVE-2025-62221, CVE-2025-62472  
+**CVEs:** CVE-2025-62221, CVE-2025-62472, CVE-2025-62554, CVE-2025-59517, CVE-2025-62458, CVE-2025-62562, CVE-2025-59516, CVE-2025-62470, CVE-2025-62557  
 **Categories:** Vulnerability  
 
 ---
@@ -357,7 +361,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 17 Dec 2025 21:02:40 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-66043, CVE-2025-66048  
+**CVEs:** CVE-2025-66048, CVE-2025-66043  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -394,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62554, CVE-2025-62456, CVE-2025-62549, CVE-2025-62556, CVE-2025-62553, CVE-2025-62557  
+**CVEs:** CVE-2025-62456, CVE-2025-62554, CVE-2025-62553, CVE-2025-62556, CVE-2025-62557, CVE-2025-62549  
 **Categories:** Vulnerability  
 
 ---
@@ -710,7 +714,16 @@
 
 ---
 
-### 81. [CrowdStrike&rsquo;s Journey in Customizing NVIDIA Nemotron Models for Peak Accuracy and Performance](https://www.crowdstrike.com/en-us/blog/crowdstrike-journey-in-customizing-nvidia-nemotron-models/)
+### 81. [How CrowdStrike&rsquo;s Malware Analysis Agent Detects Malware at Machine Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-detects-malware-at-machine-speed/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jan 06, 2026 00:00:00-0600  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 82. [CrowdStrike&rsquo;s Journey in Customizing NVIDIA Nemotron Models for Peak Accuracy and Performance](https://www.crowdstrike.com/en-us/blog/crowdstrike-journey-in-customizing-nvidia-nemotron-models/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 05, 2026 00:00:00-0600  
@@ -719,7 +732,7 @@
 
 ---
 
-### 82. [Streamline Security Operations with Falcon for IT&rsquo;s Turnkey Automations](https://www.crowdstrike.com/en-us/blog/streamline-security-operations-falcon-for-it-automations/)
+### 83. [Streamline Security Operations with Falcon for IT&rsquo;s Turnkey Automations](https://www.crowdstrike.com/en-us/blog/streamline-security-operations-falcon-for-it-automations/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 29, 2025 00:00:00-0600  
@@ -728,7 +741,7 @@
 
 ---
 
-### 83. [How CrowdStrike Trains GenAI Models at Scale Using Distributed Computing](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-trains-genai-models-at-scale-using-distributed-computing/)
+### 84. [How CrowdStrike Trains GenAI Models at Scale Using Distributed Computing](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-trains-genai-models-at-scale-using-distributed-computing/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 22, 2025 00:00:00-0600  
@@ -737,7 +750,7 @@
 
 ---
 
-### 84. [Inside CrowdStrike&rsquo;s Science-Backed Approach to Building Expert SOC Agents](https://www.crowdstrike.com/en-us/blog/inside-crowdstrikes-science-backed-approach-to-building-soc-agents/)
+### 85. [Inside CrowdStrike&rsquo;s Science-Backed Approach to Building Expert SOC Agents](https://www.crowdstrike.com/en-us/blog/inside-crowdstrikes-science-backed-approach-to-building-soc-agents/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 19, 2025 00:00:00-0600  
@@ -746,7 +759,7 @@
 
 ---
 
-### 85. [CrowdTour 2026: Securing the AI Era Together](https://www.crowdstrike.com/en-us/blog/crowdtour-2026-securing-ai-era-together/)
+### 86. [CrowdTour 2026: Securing the AI Era Together](https://www.crowdstrike.com/en-us/blog/crowdtour-2026-securing-ai-era-together/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 19, 2025 00:00:00-0600  
@@ -755,7 +768,7 @@
 
 ---
 
-### 86. [CrowdStrike Endpoint Security Achieves 273% ROI Over Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-endpoint-security-achieves-273-percent-roi-over-three-years/)
+### 87. [CrowdStrike Endpoint Security Achieves 273% ROI Over Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-endpoint-security-achieves-273-percent-roi-over-three-years/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 17, 2025 00:00:00-0600  
@@ -764,7 +777,7 @@
 
 ---
 
-### 87. [CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-growing-ai-attack-surface-with-falcon-aidr/)
+### 88. [CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-growing-ai-attack-surface-with-falcon-aidr/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 15, 2025 00:00:00-0600  
@@ -773,7 +786,7 @@
 
 ---
 
-### 88. [Inside the Latest Innovations Powering Falcon Exposure Management](https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/)
+### 89. [Inside the Latest Innovations Powering Falcon Exposure Management](https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 12, 2025 00:00:00-0600  
@@ -782,19 +795,10 @@
 
 ---
 
-### 89. [Data Leakage: AI&rsquo;s Plumbing Problem](https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/)
+### 90. [Data Leakage: AI&rsquo;s Plumbing Problem](https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Dec 11, 2025 00:00:00-0600  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [CrowdStrike Achieves 100% Detection, 100% Protection, and Zero False Positives in 2025 MITRE ATT&amp;CK&reg; Enterprise Evaluations](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-100-percent-2025-mitre-attack-enterprise-evaluation/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Dec 10, 2025 00:00:00-0600  
 **Severity:** Low  
 **Categories:** General Security  
 
