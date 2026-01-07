@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-01-06 21:23:30 UTC
+**Last Updated:** 2026-01-07 01:12:55 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,25 @@
 
 ---
 
-### 11. [Microsoft cancels plans to rate limit Exchange Online bulk emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/)
+### 11. [OpenAI is rolling out GPT-5.2 “Codex-Max” for some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-rolling-out-gpt-52-codex-max-for-some-users/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 06 Jan 2026 19:30:39 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Taiwan says China's attacks on its energy sector increased tenfold](https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 06 Jan 2026 17:27:15 -0500  
+**Severity:** Critical  
+**Categories:** DDoS  
+
+---
+
+### 13. [Microsoft cancels plans to rate limit Exchange Online bulk emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Jan 2026 15:49:30 -0500  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [New D-Link flaw in legacy DSL routers actively exploited in attacks](https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/)
+### 14. [New D-Link flaw in legacy DSL routers actively exploited in attacks](https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Jan 2026 14:52:52 -0500  
@@ -114,7 +132,7 @@
 
 ---
 
-### 13. [Kimwolf Android botnet abuses residential proxies to infect internal devices](https://www.bleepingcomputer.com/news/security/kimwolf-android-botnet-abuses-residential-proxies-to-infect-internal-devices/)
+### 15. [Kimwolf Android botnet abuses residential proxies to infect internal devices](https://www.bleepingcomputer.com/news/security/kimwolf-android-botnet-abuses-residential-proxies-to-infect-internal-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Jan 2026 14:15:11 -0500  
@@ -123,7 +141,7 @@
 
 ---
 
-### 14. [Jaguar Land Rover wholesale volumes down 43% after cyberattack](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/)
+### 16. [Jaguar Land Rover wholesale volumes down 43% after cyberattack](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Jan 2026 13:27:08 -0500  
@@ -132,7 +150,7 @@
 
 ---
 
-### 15. [Sedgwick confirms breach at government contractor subsidiary](https://www.bleepingcomputer.com/news/security/sedgwick-confirms-breach-at-government-contractor-subsidiary/)
+### 17. [Sedgwick confirms breach at government contractor subsidiary](https://www.bleepingcomputer.com/news/security/sedgwick-confirms-breach-at-government-contractor-subsidiary/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Jan 2026 10:27:22 -0500  
@@ -141,7 +159,7 @@
 
 ---
 
-### 16. [How generative AI accelerates identity attacks against Active Directory](https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/)
+### 18. [How generative AI accelerates identity attacks against Active Directory](https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Jan 2026 09:46:15 -0500  
@@ -150,39 +168,17 @@
 
 ---
 
-### 17. [Are Copilot prompt injection flaws vulnerabilities or AI limits?](https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/)
+### 19. [Are Copilot prompt injection flaws vulnerabilities or AI limits?](https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 06 Jan 2026 06:16:54 -0500  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
-### 18. [Cloud file-sharing sites targeted for corporate data theft attacks](https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/)
+### 20. [Cloud file-sharing sites targeted for corporate data theft attacks](https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 05 Jan 2026 17:52:16 -0500  
-**Severity:** High  
-**Categories:** Malware  
-
----
-
-### 19. [ClickFix attack uses fake Windows BSOD screens to push malware](https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 05 Jan 2026 16:16:35 -0500  
-**Severity:** High  
-**Categories:** Malware, Phishing, APT  
-
----
-
-### 20. [US broadband provider Brightspeed investigates breach claims](https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 05 Jan 2026 15:01:17 -0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -227,7 +223,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-59517, CVE-2025-62458, CVE-2025-59516, CVE-2025-62557, CVE-2025-62554, CVE-2025-62562, CVE-2025-62221, CVE-2025-62472, CVE-2025-62470  
+**CVEs:** CVE-2025-62562, CVE-2025-62458, CVE-2025-62470, CVE-2025-62554, CVE-2025-59516, CVE-2025-59517, CVE-2025-62557, CVE-2025-62221, CVE-2025-62472  
 **Categories:** Vulnerability  
 
 ---
@@ -398,7 +394,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Dec 2025 23:29:51 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62549, CVE-2025-62553, CVE-2025-62456, CVE-2025-62557, CVE-2025-62554, CVE-2025-62556  
+**CVEs:** CVE-2025-62554, CVE-2025-62456, CVE-2025-62549, CVE-2025-62556, CVE-2025-62553, CVE-2025-62557  
 **Categories:** Vulnerability  
 
 ---
@@ -609,7 +605,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
