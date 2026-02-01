@@ -183,6 +183,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-you-can-trust-chatgpt-answers-as-it-kicks-off-ads-rollout-preparation/",
+    "published": "Sat, 31 Jan 2026 21:00:00 -0500",
+    "summary": "OpenAI previously confirmed that it's testing ads in ChatGPT for free and $8 Go accounts, and now we're seeing early signs of that rollout, at least on Android. [...]",
+    "analysis": {
+      "issue": "OpenAI previously confirmed that it’s testing ads in ChatGPT for free and $8 Go accounts, and now we’re seeing early signs of that rollout, at least on Android",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "OpenAI is retiring famous GPT-4o model, says GPT 5.2 is good enough",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-retiring-famous-gpt-4o-model-says-gpt-52-is-good-enough/",
     "published": "Sat, 31 Jan 2026 20:26:02 -0500",
@@ -347,41 +365,18 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 KB5074105 update fixes boot, sign-in, and activation issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074105-update-fixes-boot-sign-in-and-activation-issues/",
-    "published": "Fri, 30 Jan 2026 07:02:09 -0500",
-    "summary": "Microsoft has released the KB5074105 preview cumulative update for Windows 11 systems, which includes 32 changes, including fixes for sign-in, boot, and activation issues. [...]",
-    "analysis": {
-      "issue": "Microsoft has released the KB5074105 preview cumulative update for Windows 11 systems, which includes 32 changes, including fixes for sign-in, boot, and activation issues",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "source": "Krebs On Security",
+    "title": "Who Operates the Badbox 2.0 Botnet?",
+    "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+    "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+    "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that."
   },
   {
     "source": "Krebs On Security",
     "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
     "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "published": "Tue, 20 Jan 2026 18:19:13 +0000",
-    "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
-    "analysis": {
-      "issue": "A new Internet-of-Things (IoT) botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
+    "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks."
   },
   {
     "source": "Krebs On Security",
@@ -396,9 +391,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20952",
         "CVE-2026-20805",
-        "CVE-2026-20953"
+        "CVE-2026-20953",
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -513,15 +508,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62554",
-        "CVE-2025-62221",
-        "CVE-2025-59517",
-        "CVE-2025-62470",
-        "CVE-2025-62472",
-        "CVE-2025-62458",
         "CVE-2025-59516",
-        "CVE-2025-62562",
-        "CVE-2025-62557"
+        "CVE-2025-62470",
+        "CVE-2025-62221",
+        "CVE-2025-62458",
+        "CVE-2025-62557",
+        "CVE-2025-62554",
+        "CVE-2025-59517",
+        "CVE-2025-62472",
+        "CVE-2025-62562"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -543,24 +538,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-    "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-    "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-    "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
-    "analysis": {
-      "issue": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-co",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
@@ -827,14 +804,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20952",
-        "CVE-2026-20955",
-        "CVE-2026-20953",
-        "CVE-2026-20854",
         "CVE-2026-20876",
+        "CVE-2026-20805",
         "CVE-2026-20944",
+        "CVE-2026-20854",
         "CVE-2026-20822",
-        "CVE-2026-20805"
+        "CVE-2026-20955",
+        "CVE-2026-20952",
+        "CVE-2026-20953"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1193,8 +1170,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
