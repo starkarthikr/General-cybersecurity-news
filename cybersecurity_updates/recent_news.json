@@ -183,6 +183,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Exposed MongoDB instances still targeted in data extortion attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/",
+    "published": "Sun, 01 Feb 2026 11:27:00 -0500",
+    "summary": "A threat actor is targeting exposed MongoDB instances in automated data extortion attacks demanding low ransoms from owners to restore the data. [...]",
+    "analysis": {
+      "issue": "A threat actor is targeting exposed MongoDB instances in automated data extortion attacks demanding low ransoms from owners to restore the data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New Apple privacy feature limits location tracking on iPhones, iPads",
     "link": "https://www.bleepingcomputer.com/news/apple/new-apple-privacy-feature-limits-location-tracking-on-iphones-ipads/",
     "published": "Sun, 01 Feb 2026 10:20:40 -0500",
@@ -347,20 +365,20 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Operation Switch Off dismantles major pirate TV streaming services",
-    "link": "https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/",
-    "published": "Fri, 30 Jan 2026 11:39:43 -0500",
-    "summary": "The latest phase of the global law enforcement action resulted in seizing three industrial-scale illegal IPTV services. [...]",
+    "source": "Krebs On Security",
+    "title": "Who Operates the Badbox 2.0 Botnet?",
+    "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+    "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+    "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
     "analysis": {
-      "issue": "The latest phase of the global law enforcement action resulted in seizing three industrial-scale illegal IPTV services",
+      "issue": "The cybercriminals in control of Kimwolf — a disruptive botnet that has infected more than 2 million devices — recently shared a screenshot indicating they’d compromised the control panel for Badbox 2",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "APT"
+        "Malware"
       ]
     }
   },
@@ -397,8 +415,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20952",
-        "CVE-2026-20805",
-        "CVE-2026-20953"
+        "CVE-2026-20953",
+        "CVE-2026-20805"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -513,15 +531,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62562",
-        "CVE-2025-62472",
-        "CVE-2025-62554",
-        "CVE-2025-62557",
         "CVE-2025-59517",
-        "CVE-2025-62458",
-        "CVE-2025-62470",
+        "CVE-2025-62554",
         "CVE-2025-59516",
-        "CVE-2025-62221"
+        "CVE-2025-62557",
+        "CVE-2025-62472",
+        "CVE-2025-62470",
+        "CVE-2025-62221",
+        "CVE-2025-62458",
+        "CVE-2025-62562"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -543,24 +561,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-    "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-    "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-    "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
-    "analysis": {
-      "issue": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-co",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
@@ -703,8 +703,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-55182",
-        "CVE-2025-61882"
+        "CVE-2025-61882",
+        "CVE-2025-55182"
       ],
       "threat_categories": [
         "Ransomware",
@@ -827,13 +827,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20944",
-        "CVE-2026-20805",
         "CVE-2026-20955",
         "CVE-2026-20822",
+        "CVE-2026-20805",
+        "CVE-2026-20944",
         "CVE-2026-20876",
-        "CVE-2026-20953",
         "CVE-2026-20952",
+        "CVE-2026-20953",
         "CVE-2026-20854"
       ],
       "threat_categories": [
