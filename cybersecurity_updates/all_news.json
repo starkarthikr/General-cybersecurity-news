@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
+    "link": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
+    "published": "Mon, 02 Feb 2026 14:25:00 +0530",
+    "summary": "The maintainer of Notepad++ has revealed that state-sponsored attackers hijacked the utility's update mechanism to redirect update traffic to malicious servers instead.\n\"The attack involved [an] infrastructure-level compromise that allowed malicious actors to intercept and redirect update traffic destined for notepad-plus-plus.org,\" developer Don Ho said. \"The compromise occurred at the hosting",
+    "analysis": {
+      "issue": "State-backed attackers hijacked Notepad++ update traffic via a hosting provider breach, redirecting users to malicious downloads since June 2025",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
     "link": "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html",
     "published": "Mon, 02 Feb 2026 11:17:00 +0530",
@@ -163,20 +181,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score",
-    "link": "https://thehackernews.com/2026/01/smartermail-fixes-critical.html",
-    "published": "Fri, 30 Jan 2026 12:39:00 +0530",
-    "summary": "SmarterTools has addressed two more security flaws in SmarterMail email software, including one critical security flaw that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2026-24423, carries a CVSS score of 9.3 out of 10.0.\n\"SmarterTools SmarterMail versions prior to build 9511 contain an unauthenticated remote code execution vulnerability in the ConnectToHub API",
+    "source": "Bleeping Computer",
+    "title": "Microsoft fixes bug causing password sign-in option to disappear",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/",
+    "published": "Mon, 02 Feb 2026 06:34:34 -0500",
+    "summary": "Microsoft has fixed a known issue that was causing the password sign-in option to disappear from the lock screen options after installing Windows 11 updates released since August 2025. [...]",
     "analysis": {
-      "issue": "SmarterTools fixed critical SmarterMail flaws, including CVSS 9",
+      "issue": "Microsoft has fixed a known issue that was causing the password sign-in option to disappear from the lock screen options after installing Windows 11 updates released since August 2025",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "NationStates confirms data breach, shuts down game site",
+    "link": "https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/",
+    "published": "Mon, 02 Feb 2026 05:05:57 -0500",
+    "summary": "NationStates, a multiplayer browser-based game, has confirmed a data breach after taking its website offline earlier this week to investigate a security incident. [...]",
+    "analysis": {
+      "issue": "NationStates, a multiplayer browser-based game, has confirmed a data breach after taking its website offline earlier this week to investigate a security incident",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach",
+        "Vulnerability"
       ]
     }
   },
@@ -323,43 +360,6 @@
       "threat_categories": [
         "Vulnerability",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Crypto wallets received a record $158 billion in illicit funds last year",
-    "link": "https://www.bleepingcomputer.com/news/security/crypto-wallets-received-a-record-158-billion-in-illicit-funds-last-year/",
-    "published": "Fri, 30 Jan 2026 13:49:51 -0500",
-    "summary": "Illegal cryptocurrency flows hit a record $158 billion in 2025, reversing a three-year trend of declining amounts from $86B in 2021 to $64B in 2024. [...]",
-    "analysis": {
-      "issue": "Illegal cryptocurrency flows reached a record $158 billion in 2025, reversing a three-year trend of declining amounts from $86B in 2021 to $64B in 2024",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft to disable NTLM by default in future Windows releases",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/",
-    "published": "Fri, 30 Jan 2026 12:08:57 -0500",
-    "summary": "Microsoft announced that it will disable the 30-year-old NTLM authentication protocol by default in upcoming Windows releases due to security vulnerabilities that expose organizations to cyberattacks. [...]",
-    "analysis": {
-      "issue": "Microsoft announced that it will disable the 30-year-old NTLM authentication protocol by default in upcoming Windows releases due to security vulnerabilities that expose organizations to cyberattacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
       ]
     }
   },
@@ -530,15 +530,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62562",
-        "CVE-2025-62221",
+        "CVE-2025-62554",
         "CVE-2025-62470",
         "CVE-2025-62458",
-        "CVE-2025-59517",
         "CVE-2025-62472",
-        "CVE-2025-62554",
-        "CVE-2025-59516",
-        "CVE-2025-62557"
+        "CVE-2025-59517",
+        "CVE-2025-62562",
+        "CVE-2025-62557",
+        "CVE-2025-62221",
+        "CVE-2025-59516"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -562,6 +562,34 @@
         "APT"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cyber Insights 2026: Malware and Cyberattacks in the Age of AI",
+    "link": "https://www.securityweek.com/cyber-insights-2026-malware-and-cyberattacks-in-the-age-of-ai/",
+    "published": "Mon, 02 Feb 2026 12:00:00 +0000",
+    "summary": "<p>Security leaders share how artificial intelligence is changing malware, ransomware, and identity-led intrusions, and how defenses must evolve.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyber-insights-2026-malware-and-cyberattacks-in-the-age-of-ai/\">Cyber Insights 2026: Malware and Cyberattacks in the Age of AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Over 1,400 MongoDB Databases Ransacked by Threat Actor",
+    "link": "https://www.securityweek.com/over-1400-mongodb-databases-ransacked-by-threat-actor/",
+    "published": "Mon, 02 Feb 2026 11:45:56 +0000",
+    "summary": "<p>Of 3,100 unprotected MongoDB instances, half remain compromised, most of them by a single threat actor.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-1400-mongodb-databases-ransacked-by-threat-actor/\">Over 1,400 MongoDB Databases Ransacked by Threat Actor</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Microsoft Moves Closer to Disabling NTLM",
+    "link": "https://www.securityweek.com/microsoft-moves-closer-to-disabling-ntlm/",
+    "published": "Mon, 02 Feb 2026 11:31:40 +0000",
+    "summary": "<p>The next major Windows Server and Windows releases will have the deprecated authentication protocol disabled by default.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-moves-closer-to-disabling-ntlm/\">Microsoft Moves Closer to Disabling NTLM</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China’s Influence Grows",
+    "link": "https://www.securityweek.com/japan-britain-to-boost-cybersecurity-and-critical-minerals-cooperation-as-chinas-influence-grows/",
+    "published": "Mon, 02 Feb 2026 10:35:00 +0000",
+    "summary": "<p>Japan and Britain agree to accelerate cooperation on cybersecurity and the supply of critical minerals, as China’s influence grows in the region.</p>\n<p>The post <a href=\"https://www.securityweek.com/japan-britain-to-boost-cybersecurity-and-critical-minerals-cooperation-as-chinas-influence-grows/\">Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China&#8217;s Influence Grows</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -604,34 +632,6 @@
     "link": "https://www.securityweek.com/white-house-scraps-burdensome-software-security-rules/",
     "published": "Fri, 30 Jan 2026 12:31:25 +0000",
     "summary": "<p>Two Biden-era memorandums have been revoked, but some of the resources they provide can still be used by government organizations. </p>\n<p>The post <a href=\"https://www.securityweek.com/white-house-scraps-burdensome-software-security-rules/\">White House Scraps &#8216;Burdensome&#8217; Software Security Rules </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Hugging Face Abused to Deploy Android RAT",
-    "link": "https://www.securityweek.com/hugging-face-abused-to-deploy-android-rat/",
-    "published": "Fri, 30 Jan 2026 10:56:57 +0000",
-    "summary": "<p>Android users were lured to applications that served a malicious payload hosted in a Hugging Face repository.</p>\n<p>The post <a href=\"https://www.securityweek.com/hugging-face-abused-to-deploy-android-rat/\">Hugging Face Abused to Deploy Android RAT</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid",
-    "link": "https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/",
-    "published": "Fri, 30 Jan 2026 09:35:06 +0000",
-    "summary": "<p>Sandworm/Electrum hackers targeted communication and control systems at 30 sites.</p>\n<p>The post <a href=\"https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/\">ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Ivanti Patches Exploited EPMM Zero-Days",
-    "link": "https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/",
-    "published": "Fri, 30 Jan 2026 08:32:35 +0000",
-    "summary": "<p>The critical-severity vulnerabilities could allow unauthenticated attackers to execute arbitrary code remotely.</p>\n<p>The post <a href=\"https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/\">Ivanti Patches Exploited EPMM Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "LLMs Hijacked, Monetized in ‘Operation Bizarre Bazaar’",
-    "link": "https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/",
-    "published": "Thu, 29 Jan 2026 15:01:24 +0000",
-    "summary": "<p>An LLMjacking operation has been targeting exposed LLMs and MCPs at scale, for commercial monetization.</p>\n<p>The post <a href=\"https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/\">LLMs Hijacked, Monetized in &#8216;Operation Bizarre Bazaar&#8217;</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -702,8 +702,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-55182",
-        "CVE-2025-61882"
+        "CVE-2025-61882",
+        "CVE-2025-55182"
       ],
       "threat_categories": [
         "Ransomware",
@@ -826,14 +826,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20822",
-        "CVE-2026-20876",
-        "CVE-2026-20952",
+        "CVE-2026-20854",
+        "CVE-2026-20944",
         "CVE-2026-20955",
         "CVE-2026-20953",
+        "CVE-2026-20876",
+        "CVE-2026-20822",
         "CVE-2026-20805",
-        "CVE-2026-20944",
-        "CVE-2026-20854"
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1192,8 +1192,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1218,6 +1218,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "How fake party invitations are being used to install remote access tools",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/02/how-fake-party-invitations-are-being-used-to-install-remote-access-tools",
+    "published": "Mon, 02 Feb 2026 10:18:01 GMT",
+    "summary": "“You’re invited!”&#160; It sounds&#160;friendly,&#160;familiar&#160;and quite&#160;harmless.&#160;But in a&#160;scam&#160;we recently&#160;spotted, that&#160;simple&#160;phrase is being&#160;used&#160;to trick victims into installing a full remote access tool on...",
+    "analysis": {
+      "issue": "”  It sounds friendly, familiar and quite harmless",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1384,24 +1402,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A WhatsApp bug lets malicious media files spread through group chats",
-    "link": "https://www.malwarebytes.com/blog/news/2026/01/a-whatsapp-bug-lets-malicious-media-files-spread-through-group-chats",
-    "published": "Tue, 27 Jan 2026 11:55:27 GMT",
-    "summary": "Google’s Project Zero team found that WhatsApp can download a malicious media file without you doing anything at all.",
-    "analysis": {
-      "issue": "WhatsApp is going through a rough patch",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
