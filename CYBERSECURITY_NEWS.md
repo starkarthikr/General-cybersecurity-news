@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-01 21:29:43 UTC
+**Last Updated:** 2026-02-02 01:31:33 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -208,7 +208,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
+**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
@@ -263,7 +263,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62221, CVE-2025-62470, CVE-2025-62557, CVE-2025-59516, CVE-2025-62472, CVE-2025-59517, CVE-2025-62458, CVE-2025-62554, CVE-2025-62562  
+**CVEs:** CVE-2025-62472, CVE-2025-62221, CVE-2025-62458, CVE-2025-59517, CVE-2025-62470, CVE-2025-62562, CVE-2025-62554, CVE-2025-62557, CVE-2025-59516  
 **Categories:** Vulnerability  
 
 ---
@@ -399,7 +399,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-57779, CVE-2025-59488, CVE-2025-58085  
+**CVEs:** CVE-2025-58085, CVE-2025-59488, CVE-2025-57779  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -437,7 +437,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Jan 2026 18:29:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20876, CVE-2026-20953, CVE-2026-20944, CVE-2026-20955, CVE-2026-20952, CVE-2026-20822, CVE-2026-20805, CVE-2026-20854  
+**CVEs:** CVE-2026-20854, CVE-2026-20822, CVE-2026-20805, CVE-2026-20876, CVE-2026-20953, CVE-2026-20944, CVE-2026-20952, CVE-2026-20955  
 **Categories:** Vulnerability  
 
 ---
@@ -613,7 +613,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
