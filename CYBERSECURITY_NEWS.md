@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-02 07:07:22 UTC
+**Last Updated:** 2026-02-02 08:54:22 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -198,7 +198,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
+**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20805  
 **Categories:** Vulnerability  
 
 ---
@@ -253,7 +253,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62470, CVE-2025-59517, CVE-2025-62562, CVE-2025-62472, CVE-2025-62554, CVE-2025-59516, CVE-2025-62458, CVE-2025-62221, CVE-2025-62557  
+**CVEs:** CVE-2025-62470, CVE-2025-59516, CVE-2025-59517, CVE-2025-62557, CVE-2025-62221, CVE-2025-62554, CVE-2025-62472, CVE-2025-62458, CVE-2025-62562  
 **Categories:** Vulnerability  
 
 ---
@@ -379,7 +379,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 11:00:07 GMT  
 **Severity:** High  
-**CVEs:** CVE-2025-61882, CVE-2025-55182  
+**CVEs:** CVE-2025-55182, CVE-2025-61882  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -398,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-58085, CVE-2025-59488, CVE-2025-57779  
+**CVEs:** CVE-2025-59488, CVE-2025-58085, CVE-2025-57779  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -436,7 +436,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Jan 2026 18:29:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20822, CVE-2026-20944, CVE-2026-20952, CVE-2026-20955, CVE-2026-20876, CVE-2026-20854, CVE-2026-20953, CVE-2026-20805  
+**CVEs:** CVE-2026-20854, CVE-2026-20953, CVE-2026-20955, CVE-2026-20876, CVE-2026-20952, CVE-2026-20822, CVE-2026-20805, CVE-2026-20944  
 **Categories:** Vulnerability  
 
 ---
@@ -612,7 +612,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -627,7 +627,16 @@
 
 ---
 
-### 71. [Match, Hinge, OkCupid, and Panera Bread breached by ransomware group](https://www.malwarebytes.com/blog/news/2026/01/match-hinge-okcupid-and-panera-bread-breached-by-ransomware-group)
+### 71. [A week in security (January 26 &#8211; February 1)](https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-january-26-february-1)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 02 Feb 2026 08:02:00 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 72. [Match, Hinge, OkCupid, and Panera Bread breached by ransomware group](https://www.malwarebytes.com/blog/news/2026/01/match-hinge-okcupid-and-panera-bread-breached-by-ransomware-group)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 30 Jan 2026 14:23:28 GMT  
@@ -636,7 +645,7 @@
 
 ---
 
-### 72. [TikTok’s privacy update mentions immigration status. Here’s why.](https://www.malwarebytes.com/blog/news/2026/01/tiktoks-privacy-update-mentions-immigration-status-heres-why)
+### 73. [TikTok’s privacy update mentions immigration status. Here’s why.](https://www.malwarebytes.com/blog/news/2026/01/tiktoks-privacy-update-mentions-immigration-status-heres-why)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 30 Jan 2026 11:48:41 GMT  
@@ -645,7 +654,7 @@
 
 ---
 
-### 73. [Meta confirms it’s working on premium subscription for its apps](https://www.malwarebytes.com/blog/news/2026/01/meta-confirms-its-working-on-premium-subscription-for-its-apps)
+### 74. [Meta confirms it’s working on premium subscription for its apps](https://www.malwarebytes.com/blog/news/2026/01/meta-confirms-its-working-on-premium-subscription-for-its-apps)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 29 Jan 2026 21:06:35 GMT  
@@ -654,7 +663,7 @@
 
 ---
 
-### 74. [Microsoft Office zero-day lets malicious documents slip past security checks](https://www.malwarebytes.com/blog/news/2026/01/microsoft-office-zero-day-lets-malicious-documents-slip-past-security-checks)
+### 75. [Microsoft Office zero-day lets malicious documents slip past security checks](https://www.malwarebytes.com/blog/news/2026/01/microsoft-office-zero-day-lets-malicious-documents-slip-past-security-checks)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 29 Jan 2026 14:53:57 GMT  
@@ -664,7 +673,7 @@
 
 ---
 
-### 75. [Clawdbot’s rename to Moltbot sparks impersonation campaign](https://www.malwarebytes.com/blog/threat-intel/2026/01/clawdbots-rename-to-moltbot-sparks-impersonation-campaign)
+### 76. [Clawdbot’s rename to Moltbot sparks impersonation campaign](https://www.malwarebytes.com/blog/threat-intel/2026/01/clawdbots-rename-to-moltbot-sparks-impersonation-campaign)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 29 Jan 2026 14:26:42 GMT  
@@ -673,7 +682,7 @@
 
 ---
 
-### 76. [Malicious Chrome extensions can spy on your ChatGPT chats](https://www.malwarebytes.com/blog/news/2026/01/malicious-chrome-extensions-can-spy-on-your-chatgpt-chats)
+### 77. [Malicious Chrome extensions can spy on your ChatGPT chats](https://www.malwarebytes.com/blog/news/2026/01/malicious-chrome-extensions-can-spy-on-your-chatgpt-chats)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 28 Jan 2026 14:34:43 GMT  
@@ -682,7 +691,7 @@
 
 ---
 
-### 77. [WhatsApp rolls out new protections against advanced exploits and spyware](https://www.malwarebytes.com/blog/news/2026/01/whatsapp-rolls-out-new-protections-against-advanced-exploits-and-spyware)
+### 78. [WhatsApp rolls out new protections against advanced exploits and spyware](https://www.malwarebytes.com/blog/news/2026/01/whatsapp-rolls-out-new-protections-against-advanced-exploits-and-spyware)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 28 Jan 2026 12:57:36 GMT  
@@ -691,7 +700,7 @@
 
 ---
 
-### 78. [Watch out for AT&amp;T rewards phishing text that wants your personal details](https://www.malwarebytes.com/blog/threat-intel/2026/01/watch-out-for-att-rewards-phishing-text-that-wants-your-personal-details)
+### 79. [Watch out for AT&amp;T rewards phishing text that wants your personal details](https://www.malwarebytes.com/blog/threat-intel/2026/01/watch-out-for-att-rewards-phishing-text-that-wants-your-personal-details)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 27 Jan 2026 17:43:47 GMT  
@@ -700,21 +709,12 @@
 
 ---
 
-### 79. [A WhatsApp bug lets malicious media files spread through group chats](https://www.malwarebytes.com/blog/news/2026/01/a-whatsapp-bug-lets-malicious-media-files-spread-through-group-chats)
+### 80. [A WhatsApp bug lets malicious media files spread through group chats](https://www.malwarebytes.com/blog/news/2026/01/a-whatsapp-bug-lets-malicious-media-files-spread-through-group-chats)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 27 Jan 2026 11:55:27 GMT  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 80. [TikTok narrowly avoids a US ban by spinning up a new American joint venture](https://www.malwarebytes.com/blog/news/2026/01/tiktok-narrowly-avoids-a-us-ban-by-spinning-up-a-new-american-joint-venture)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 27 Jan 2026 11:09:05 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
