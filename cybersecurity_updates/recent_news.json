@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm",
+    "link": "https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html",
+    "published": "Mon, 02 Feb 2026 10:34:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a supply chain attack targeting the Open VSX Registry in which unidentified threat actors compromised a legitimate developer's resources to push malicious updates to downstream users.\n\"On January 30, 2026, four established Open VSX extensions published by the oorzc author had malicious versions published to Open VSX that embed the GlassWorm",
+    "analysis": {
+      "issue": "Open VSX supply chain attack hijacked VS Code extensions delivered GlassWorm malware stealing macOS, crypto, and developer data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists",
     "link": "https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html",
     "published": "Sat, 31 Jan 2026 17:32:00 +0530",
@@ -160,24 +179,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries",
-    "link": "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html",
-    "published": "Fri, 30 Jan 2026 00:07:00 +0530",
-    "summary": "A new joint investigation by SentinelOne SentinelLABS, and Censys has revealed that the open-source artificial intelligence (AI) deployment has created a vast \"unmanaged, publicly accessible layer of AI compute infrastructure\" that spans 175,000 unique Ollama hosts across 130 countries.\nThese systems, which span both cloud and residential networks across the world, operate outside the",
-    "analysis": {
-      "issue": "Over 175,000 publicly exposed Ollama AI servers across 130 countries, with many enabling tool calling that allows code execution and LLMjacking abuse",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -414,9 +415,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20953",
+        "CVE-2026-20805",
         "CVE-2026-20952",
-        "CVE-2026-20805"
+        "CVE-2026-20953"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -531,15 +532,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62554",
-        "CVE-2025-62562",
-        "CVE-2025-62458",
         "CVE-2025-62470",
-        "CVE-2025-62557",
         "CVE-2025-62472",
+        "CVE-2025-62557",
+        "CVE-2025-62458",
+        "CVE-2025-62562",
+        "CVE-2025-62554",
+        "CVE-2025-59517",
         "CVE-2025-59516",
-        "CVE-2025-62221",
-        "CVE-2025-59517"
+        "CVE-2025-62221"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -746,9 +747,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-59488",
+        "CVE-2025-57779",
         "CVE-2025-58085",
-        "CVE-2025-57779"
+        "CVE-2025-59488"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -827,14 +828,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20805",
-        "CVE-2026-20876",
-        "CVE-2026-20952",
-        "CVE-2026-20953",
-        "CVE-2026-20955",
         "CVE-2026-20854",
+        "CVE-2026-20876",
         "CVE-2026-20944",
-        "CVE-2026-20822"
+        "CVE-2026-20953",
+        "CVE-2026-20805",
+        "CVE-2026-20822",
+        "CVE-2026-20955",
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
