@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-02 08:54:22 UTC
+**Last Updated:** 2026-02-02 09:52:05 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -184,7 +184,16 @@
 
 ---
 
-### 21. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
+### 21. [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
+
+**Source:** Krebs On Security  
+**Published:** Mon, 26 Jan 2026 16:11:38 +0000  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 22. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 20 Jan 2026 18:19:13 +0000  
@@ -193,17 +202,17 @@
 
 ---
 
-### 22. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
+### 23. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20805  
+**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
 **Categories:** Vulnerability  
 
 ---
 
-### 23. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
+### 24. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 08 Jan 2026 23:23:43 +0000  
@@ -212,7 +221,7 @@
 
 ---
 
-### 24. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+### 25. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 02 Jan 2026 14:20:10 +0000  
@@ -221,7 +230,7 @@
 
 ---
 
-### 25. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+### 26. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 29 Dec 2025 20:23:26 +0000  
@@ -230,7 +239,7 @@
 
 ---
 
-### 26. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+### 27. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 19 Dec 2025 15:14:55 +0000  
@@ -239,7 +248,7 @@
 
 ---
 
-### 27. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+### 28. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 16 Dec 2025 14:14:48 +0000  
@@ -248,17 +257,17 @@
 
 ---
 
-### 28. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+### 29. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62470, CVE-2025-59516, CVE-2025-59517, CVE-2025-62557, CVE-2025-62221, CVE-2025-62554, CVE-2025-62472, CVE-2025-62458, CVE-2025-62562  
+**CVEs:** CVE-2025-62562, CVE-2025-62221, CVE-2025-62470, CVE-2025-62458, CVE-2025-59517, CVE-2025-62472, CVE-2025-62554, CVE-2025-59516, CVE-2025-62557  
 **Categories:** Vulnerability  
 
 ---
 
-### 29. [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
+### 30. [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
 
 **Source:** Krebs On Security  
 **Published:** Sat, 06 Dec 2025 14:45:03 +0000  
@@ -267,82 +276,73 @@
 
 ---
 
-### 30. [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
+### 31. [Notepad++ Supply Chain Hack Conducted by China via Hosting Provider](https://www.securityweek.com/notepad-supply-chain-hack-conducted-by-china-via-hosting-provider/)
 
-**Source:** Krebs On Security  
-**Published:** Thu, 04 Dec 2025 23:02:34 +0000  
-**Severity:** Low  
-**Categories:** Phishing  
+**Source:** Security Week  
+**Published:** Mon, 02 Feb 2026 09:18:18 +0000  
 
 ---
 
-### 31. [eScan Antivirus Delivers Malware in Supply Chain Attack](https://www.securityweek.com/escan-antivirus-delivers-malware-in-supply-chain-attack/)
+### 32. [eScan Antivirus Delivers Malware in Supply Chain Attack](https://www.securityweek.com/escan-antivirus-delivers-malware-in-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Sat, 31 Jan 2026 15:00:00 +0000  
 
 ---
 
-### 32. [In Other News: Paid for Being Jailed, Google’s $68M Settlement, CISA Chief’s ChatGPT Leak](https://www.securityweek.com/in-other-news-paid-for-being-jailed-googles-68m-settlement-cisa-chiefs-chatgpt-leak/)
+### 33. [In Other News: Paid for Being Jailed, Google’s $68M Settlement, CISA Chief’s ChatGPT Leak](https://www.securityweek.com/in-other-news-paid-for-being-jailed-googles-68m-settlement-cisa-chiefs-chatgpt-leak/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Jan 2026 17:49:31 +0000  
 
 ---
 
-### 33. [Aisy Launches Out of Stealth to Transform Vulnerability Management](https://www.securityweek.com/aisy-launches-out-of-stealth-to-transform-vulnerability-management/)
+### 34. [Aisy Launches Out of Stealth to Transform Vulnerability Management](https://www.securityweek.com/aisy-launches-out-of-stealth-to-transform-vulnerability-management/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Jan 2026 15:00:46 +0000  
 
 ---
 
-### 34. [175,000 Exposed Ollama Hosts Could Enable LLM Abuse](https://www.securityweek.com/175000-exposed-ollama-hosts-could-enable-llm-abuse/)
+### 35. [175,000 Exposed Ollama Hosts Could Enable LLM Abuse](https://www.securityweek.com/175000-exposed-ollama-hosts-could-enable-llm-abuse/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Jan 2026 14:34:13 +0000  
 
 ---
 
-### 35. [White House Scraps ‘Burdensome’ Software Security Rules](https://www.securityweek.com/white-house-scraps-burdensome-software-security-rules/)
+### 36. [White House Scraps ‘Burdensome’ Software Security Rules](https://www.securityweek.com/white-house-scraps-burdensome-software-security-rules/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Jan 2026 12:31:25 +0000  
 
 ---
 
-### 36. [Hugging Face Abused to Deploy Android RAT](https://www.securityweek.com/hugging-face-abused-to-deploy-android-rat/)
+### 37. [Hugging Face Abused to Deploy Android RAT](https://www.securityweek.com/hugging-face-abused-to-deploy-android-rat/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Jan 2026 10:56:57 +0000  
 
 ---
 
-### 37. [ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid](https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/)
+### 38. [ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid](https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Jan 2026 09:35:06 +0000  
 
 ---
 
-### 38. [Ivanti Patches Exploited EPMM Zero-Days](https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/)
+### 39. [Ivanti Patches Exploited EPMM Zero-Days](https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/)
 
 **Source:** Security Week  
 **Published:** Fri, 30 Jan 2026 08:32:35 +0000  
 
 ---
 
-### 39. [LLMs Hijacked, Monetized in ‘Operation Bizarre Bazaar’](https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/)
+### 40. [LLMs Hijacked, Monetized in ‘Operation Bizarre Bazaar’](https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/)
 
 **Source:** Security Week  
 **Published:** Thu, 29 Jan 2026 15:01:24 +0000  
-
----
-
-### 40. [N8n Vulnerabilities Could Lead to Remote Code Execution](https://www.securityweek.com/n8n-vulnerabilities-could-lead-to-remote-code-execution/)
-
-**Source:** Security Week  
-**Published:** Thu, 29 Jan 2026 14:51:17 +0000  
 
 ---
 
@@ -398,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-59488, CVE-2025-58085, CVE-2025-57779  
+**CVEs:** CVE-2025-59488, CVE-2025-57779, CVE-2025-58085  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -436,7 +436,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Jan 2026 18:29:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20854, CVE-2026-20953, CVE-2026-20955, CVE-2026-20876, CVE-2026-20952, CVE-2026-20822, CVE-2026-20805, CVE-2026-20944  
+**CVEs:** CVE-2026-20822, CVE-2026-20876, CVE-2026-20952, CVE-2026-20955, CVE-2026-20953, CVE-2026-20805, CVE-2026-20944, CVE-2026-20854  
 **Categories:** Vulnerability  
 
 ---
@@ -612,7 +612,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
