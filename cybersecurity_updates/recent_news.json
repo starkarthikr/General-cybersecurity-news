@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
+    "link": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
+    "published": "Mon, 02 Feb 2026 21:29:00 +0530",
+    "summary": "Microsoft has announced a three-phase approach to phase out New Technology LAN Manager (NTLM) as part of its efforts to shift Windows environments toward stronger, Kerberos-based options.\nThe development comes more than two years after the tech giant revealed its plans to deprecate the legacy technology, citing its susceptibility to weaknesses that could facilitate relay attacks and allow bad",
+    "analysis": {
+      "issue": "Microsoft confirms a 3-phase strategy to deprecate NTLM, improve auditing, prioritize Kerberos, and disable NTLM by default in future Windows releases",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats",
     "link": "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html",
     "published": "Mon, 02 Feb 2026 17:29:00 +0530",
@@ -165,20 +183,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware",
-    "link": "https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html",
-    "published": "Fri, 30 Jan 2026 17:38:00 +0530",
-    "summary": "Cybersecurity researchers have discovered a new campaign attributed to a China-linked threat actor known as UAT-8099 that took place between late 2025 and early 2026.\nThe activity, discovered by Cisco Talos, has targeted vulnerable Internet Information Services (IIS) servers located across Asia, but with a specific focus on targets in Thailand and Vietnam. The scale of the campaign is currently",
+    "source": "Bleeping Computer",
+    "title": "CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams",
+    "link": "https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/",
+    "published": "Mon, 02 Feb 2026 10:34:44 -0500",
+    "summary": "Fake high-yield investment platforms are surging worldwide, promising \"guaranteed\" returns that mask classic Ponzi schemes.CTM360 explains how HYIP scams scale through social media, recycled templates, and referral abuse. [...]",
     "analysis": {
-      "issue": "Cisco Talos links China-based UAT-8099 to IIS server attacks using BadIIS malware for regional SEO fraud, targeting Thailand and Vietnam",
+      "issue": "Fraudulent High-Yield Investment Programs (HYIPs) are surging globally, pushing “guaranteed” profits that no legitimate investment can sustain",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -348,42 +366,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Cloud storage payment scam floods inboxes with fake renewals",
-    "link": "https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/",
-    "published": "Sat, 31 Jan 2026 11:21:32 -0500",
-    "summary": "Over the past few months, a large-scale cloud storage subscription scam campaign has been targeting users worldwide with repeated emails falsely warning recipients that their photos, files, and accounts are about to be blocked or deleted due to an alleged payment failure. [...]",
-    "analysis": {
-      "issue": "Over the past few months, a large-scale cloud storage subscription scam campaign has been targeting users worldwide with repeated emails falsely warning recipients that their photos, files, and accounts are about to be blocked or deleted due to an al",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Who Operates the Badbox 2.0 Botnet?",
-    "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-    "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-    "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-    "analysis": {
-      "issue": "The cybercriminals in control of Kimwolf — a disruptive botnet that has infected more than 2 million devices — recently shared a screenshot indicating they’d compromised the control panel for Badbox 2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
     "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -415,9 +397,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20952",
+        "CVE-2026-20953",
         "CVE-2026-20805",
-        "CVE-2026-20953"
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -532,15 +514,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62458",
-        "CVE-2025-59517",
         "CVE-2025-59516",
+        "CVE-2025-62470",
         "CVE-2025-62472",
+        "CVE-2025-62458",
         "CVE-2025-62221",
-        "CVE-2025-62557",
         "CVE-2025-62562",
-        "CVE-2025-62554",
-        "CVE-2025-62470"
+        "CVE-2025-59517",
+        "CVE-2025-62557",
+        "CVE-2025-62554"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -562,6 +544,24 @@
       "cves": [],
       "threat_categories": [
         "APT"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+    "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+    "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+    "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+    "analysis": {
+      "issue": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-co",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
       ]
     }
   },
@@ -828,14 +828,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20876",
+        "CVE-2026-20822",
         "CVE-2026-20955",
         "CVE-2026-20944",
-        "CVE-2026-20953",
-        "CVE-2026-20854",
-        "CVE-2026-20822",
+        "CVE-2026-20805",
         "CVE-2026-20952",
-        "CVE-2026-20805"
+        "CVE-2026-20854",
+        "CVE-2026-20953",
+        "CVE-2026-20876"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1194,8 +1194,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1228,7 +1228,7 @@
     "title": "Scam-checking just got easier: Malwarebytes is now in ChatGPT",
     "link": "https://www.malwarebytes.com/blog/product/2026/02/scam-checking-just-got-easier-malwarebytes-is-now-in-chatgpt",
     "published": "Mon, 02 Feb 2026 13:45:00 GMT",
-    "summary": "Malwarebytes is now in ChatGPT, making it the first cybersecurity provider that can deliver novel expertise without ever leaving the chat.",
+    "summary": "Malwarebytes' ChatGPT integration makes it the first cybersecurity provider that can deliver its expertise without ever leaving the chat",
     "analysis": {
       "issue": "If you’ve ever stared at a suspicious text, email, or link and thought “Is this a scam… or am I overthinking it",
       "solution": null,
@@ -1246,7 +1246,7 @@
     "title": "How fake party invitations are being used to install remote access tools",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/02/how-fake-party-invitations-are-being-used-to-install-remote-access-tools",
     "published": "Mon, 02 Feb 2026 10:18:01 GMT",
-    "summary": "“You’re invited!”&#160; It sounds&#160;friendly,&#160;familiar&#160;and quite&#160;harmless.&#160;But in a&#160;scam&#160;we recently&#160;spotted, that&#160;simple&#160;phrase is being&#160;used&#160;to trick victims into installing a full remote access tool on...",
+    "summary": "Fake party invitations are used to install remote access tools, so the criminals are the ones invited.",
     "analysis": {
       "issue": "”  It sounds friendly, familiar and quite harmless",
       "solution": null,
