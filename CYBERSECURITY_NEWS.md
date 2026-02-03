@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-02 18:45:42 UTC
+**Last Updated:** 2026-02-03 01:31:51 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link](https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html)
+### 1. [Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users](https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 02 Feb 2026 23:19:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link](https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 21:58:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos](https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html)
+### 3. [Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos](https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 21:29:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats](https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html)
+### 4. [⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats](https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 17:29:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Securing the Mid-Market Across the Complete Threat Lifecycle](https://thehackernews.com/2026/02/securing-mid-market-across-complete.html)
+### 5. [Securing the Mid-Market Across the Complete Threat Lifecycle](https://thehackernews.com/2026/02/securing-mid-market-across-complete.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 17:15:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users](https://thehackernews.com/2026/02/notepad-official-update-mechanism.html)
+### 6. [Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users](https://thehackernews.com/2026/02/notepad-official-update-mechanism.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 14:25:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware](https://thehackernews.com/2026/02/escan-antivirus-update-servers.html)
+### 7. [eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware](https://thehackernews.com/2026/02/escan-antivirus-update-servers.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 11:17:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm](https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html)
+### 8. [Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm](https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 10:34:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists](https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html)
+### 9. [Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists](https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 31 Jan 2026 17:32:00 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms](https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html)
+### 10. [Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms](https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 31 Jan 2026 13:28:00 +0530  
@@ -85,16 +94,35 @@
 
 ---
 
-### 10. [CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms](https://thehackernews.com/2026/01/poland-attributes-december-cyber.html)
+### 11. [New GlassWorm attack targets macOS via compromised OpenVSX extensions](https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 31 Jan 2026 12:35:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 02 Feb 2026 17:04:19 -0500  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** Malware  
 
 ---
 
-### 11. [Mozilla announces switch to disable all Firefox AI features](https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/)
+### 12. [Russian hackers exploit recently patched Microsoft Office bug in attacks](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 02 Feb 2026 16:00:07 -0500  
+**Severity:** Critical  
+**CVEs:** CVE-2026-21509  
+**Categories:** Vulnerability, Malware, APT  
+
+---
+
+### 13. [Malicious MoltBot skills used to push password-stealing malware](https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 02 Feb 2026 14:11:12 -0500  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 14. [Mozilla announces switch to disable all Firefox AI features](https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 13:09:13 -0500  
@@ -103,7 +131,7 @@
 
 ---
 
-### 12. [Microsoft: January update shutdown bug affects more Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/)
+### 15. [Microsoft: January update shutdown bug affects more Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 12:17:30 -0500  
@@ -112,7 +140,7 @@
 
 ---
 
-### 13. [CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams](https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/)
+### 16. [CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams](https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 10:34:44 -0500  
@@ -121,7 +149,7 @@
 
 ---
 
-### 14. [Notepad++ update feature hijacked by Chinese state hackers for months](https://www.bleepingcomputer.com/news/security/notepad-plus-plus-update-feature-hijacked-by-chinese-state-hackers-for-months/)
+### 17. [Notepad++ update feature hijacked by Chinese state hackers for months](https://www.bleepingcomputer.com/news/security/notepad-plus-plus-update-feature-hijacked-by-chinese-state-hackers-for-months/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 09:53:52 -0500  
@@ -130,7 +158,7 @@
 
 ---
 
-### 15. [Panera Bread breach impacts 5.1 million accounts, not 14 million customers](https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/)
+### 18. [Panera Bread breach impacts 5.1 million accounts, not 14 million customers](https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 08:46:39 -0500  
@@ -139,7 +167,7 @@
 
 ---
 
-### 16. [Microsoft fixes bug causing password sign-in option to disappear](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/)
+### 19. [Microsoft fixes bug causing password sign-in option to disappear](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 06:34:34 -0500  
@@ -148,39 +176,12 @@
 
 ---
 
-### 17. [NationStates confirms data breach, shuts down game site](https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/)
+### 20. [NationStates confirms data breach, shuts down game site](https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 05:05:57 -0500  
 **Severity:** Critical  
 **Categories:** Data Breach, Vulnerability  
-
----
-
-### 18. [Exposed MongoDB instances still targeted in data extortion attacks](https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 01 Feb 2026 11:27:00 -0500  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 19. [New Apple privacy feature limits location tracking on iPhones, iPads](https://www.bleepingcomputer.com/news/apple/new-apple-privacy-feature-limits-location-tracking-on-iphones-ipads/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 01 Feb 2026 10:20:40 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-you-can-trust-chatgpt-answers-as-it-kicks-off-ads-rollout-preparation/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 31 Jan 2026 21:00:00 -0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -216,7 +217,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20805, CVE-2026-20953, CVE-2026-20952  
+**CVEs:** CVE-2026-20952, CVE-2026-20805, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
@@ -271,7 +272,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62557, CVE-2025-59517, CVE-2025-62472, CVE-2025-62554, CVE-2025-62221, CVE-2025-62562, CVE-2025-62470, CVE-2025-62458, CVE-2025-59516  
+**CVEs:** CVE-2025-62557, CVE-2025-62554, CVE-2025-62562, CVE-2025-62458, CVE-2025-62221, CVE-2025-59517, CVE-2025-62470, CVE-2025-62472, CVE-2025-59516  
 **Categories:** Vulnerability  
 
 ---
@@ -398,7 +399,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-59488, CVE-2025-57779, CVE-2025-58085  
+**CVEs:** CVE-2025-57779, CVE-2025-59488, CVE-2025-58085  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -436,7 +437,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Jan 2026 18:29:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20805, CVE-2026-20854, CVE-2026-20822, CVE-2026-20876, CVE-2026-20952, CVE-2026-20953, CVE-2026-20955, CVE-2026-20944  
+**CVEs:** CVE-2026-20953, CVE-2026-20854, CVE-2026-20955, CVE-2026-20944, CVE-2026-20822, CVE-2026-20952, CVE-2026-20805, CVE-2026-20876  
 **Categories:** Vulnerability  
 
 ---
