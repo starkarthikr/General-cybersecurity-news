@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-03 04:54:50 UTC
+**Last Updated:** 2026-02-03 05:28:18 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users](https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html)
+### 1. [Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group](https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 03 Feb 2026 10:25:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users](https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 23:19:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link](https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html)
+### 3. [OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link](https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 21:58:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos](https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html)
+### 4. [Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos](https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 21:29:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats](https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html)
+### 5. [⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats](https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 17:29:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Securing the Mid-Market Across the Complete Threat Lifecycle](https://thehackernews.com/2026/02/securing-mid-market-across-complete.html)
+### 6. [Securing the Mid-Market Across the Complete Threat Lifecycle](https://thehackernews.com/2026/02/securing-mid-market-across-complete.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 17:15:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users](https://thehackernews.com/2026/02/notepad-official-update-mechanism.html)
+### 7. [Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users](https://thehackernews.com/2026/02/notepad-official-update-mechanism.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 14:25:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware](https://thehackernews.com/2026/02/escan-antivirus-update-servers.html)
+### 8. [eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware](https://thehackernews.com/2026/02/escan-antivirus-update-servers.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 11:17:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm](https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html)
+### 9. [Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm](https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 10:34:00 +0530  
@@ -76,19 +85,10 @@
 
 ---
 
-### 9. [Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists](https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html)
+### 10. [Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists](https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 31 Jan 2026 17:32:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms](https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 31 Jan 2026 13:28:00 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -185,25 +185,7 @@
 
 ---
 
-### 21. [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
-
-**Source:** Krebs On Security  
-**Published:** Mon, 02 Feb 2026 16:15:16 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Phishing, APT, DDoS  
-
----
-
-### 22. [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
-
-**Source:** Krebs On Security  
-**Published:** Mon, 26 Jan 2026 16:11:38 +0000  
-**Severity:** High  
-**Categories:** Malware  
-
----
-
-### 23. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
+### 21. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 20 Jan 2026 18:19:13 +0000  
@@ -212,17 +194,17 @@
 
 ---
 
-### 24. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
+### 22. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
+**CVEs:** CVE-2026-20805, CVE-2026-20953, CVE-2026-20952  
 **Categories:** Vulnerability  
 
 ---
 
-### 25. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
+### 23. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 08 Jan 2026 23:23:43 +0000  
@@ -231,7 +213,7 @@
 
 ---
 
-### 26. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+### 24. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 02 Jan 2026 14:20:10 +0000  
@@ -240,7 +222,7 @@
 
 ---
 
-### 27. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+### 25. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 29 Dec 2025 20:23:26 +0000  
@@ -249,7 +231,7 @@
 
 ---
 
-### 28. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+### 26. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 19 Dec 2025 15:14:55 +0000  
@@ -258,7 +240,7 @@
 
 ---
 
-### 29. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+### 27. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 16 Dec 2025 14:14:48 +0000  
@@ -267,13 +249,31 @@
 
 ---
 
-### 30. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+### 28. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62562, CVE-2025-62554, CVE-2025-62458, CVE-2025-62557, CVE-2025-62472, CVE-2025-59516, CVE-2025-59517, CVE-2025-62470, CVE-2025-62221  
+**CVEs:** CVE-2025-62458, CVE-2025-62554, CVE-2025-62470, CVE-2025-62221, CVE-2025-62562, CVE-2025-59516, CVE-2025-62557, CVE-2025-62472, CVE-2025-59517  
 **Categories:** Vulnerability  
+
+---
+
+### 29. [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
+
+**Source:** Krebs On Security  
+**Published:** Sat, 06 Dec 2025 14:45:03 +0000  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 30. [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
+
+**Source:** Krebs On Security  
+**Published:** Thu, 04 Dec 2025 23:02:34 +0000  
+**Severity:** Low  
+**Categories:** Phishing  
 
 ---
 
@@ -437,7 +437,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Jan 2026 18:29:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20955, CVE-2026-20822, CVE-2026-20854, CVE-2026-20876, CVE-2026-20952, CVE-2026-20944  
+**CVEs:** CVE-2026-20953, CVE-2026-20854, CVE-2026-20822, CVE-2026-20944, CVE-2026-20876, CVE-2026-20955, CVE-2026-20952, CVE-2026-20805  
 **Categories:** Vulnerability  
 
 ---
