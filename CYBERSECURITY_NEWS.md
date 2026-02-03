@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-03 09:46:03 UTC
+**Last Updated:** 2026-02-03 12:52:32 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox](https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html)
+### 1. [When Cloud Outages Ripple Across the Internet](https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 03 Feb 2026 16:30:00 +0530  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 2. [APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks](https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 03 Feb 2026 14:42:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-21509  
+**Categories:** Vulnerability, Malware, APT  
+
+---
+
+### 3. [Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox](https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Feb 2026 11:09:00 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group](https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html)
+### 4. [Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group](https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Feb 2026 10:25:00 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users](https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html)
+### 5. [Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users](https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 23:19:00 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link](https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html)
+### 6. [OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link](https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 21:58:00 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos](https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html)
+### 7. [Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos](https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 21:29:00 +0530  
@@ -49,7 +68,7 @@
 
 ---
 
-### 6. [⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats](https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html)
+### 8. [⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats](https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 17:29:00 +0530  
@@ -58,7 +77,7 @@
 
 ---
 
-### 7. [Securing the Mid-Market Across the Complete Threat Lifecycle](https://thehackernews.com/2026/02/securing-mid-market-across-complete.html)
+### 9. [Securing the Mid-Market Across the Complete Threat Lifecycle](https://thehackernews.com/2026/02/securing-mid-market-across-complete.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 17:15:00 +0530  
@@ -67,30 +86,12 @@
 
 ---
 
-### 8. [Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users](https://thehackernews.com/2026/02/notepad-official-update-mechanism.html)
+### 10. [Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users](https://thehackernews.com/2026/02/notepad-official-update-mechanism.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Feb 2026 14:25:00 +0530  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 9. [eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware](https://thehackernews.com/2026/02/escan-antivirus-update-servers.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 02 Feb 2026 11:17:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 10. [Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm](https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 02 Feb 2026 10:34:00 +0530  
-**Severity:** Low  
-**Categories:** Malware, Supply Chain  
 
 ---
 
@@ -199,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20805  
+**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
@@ -254,7 +255,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62221, CVE-2025-62472, CVE-2025-59516, CVE-2025-62557, CVE-2025-62470, CVE-2025-62458, CVE-2025-62562, CVE-2025-59517, CVE-2025-62554  
+**CVEs:** CVE-2025-62472, CVE-2025-62554, CVE-2025-62557, CVE-2025-62470, CVE-2025-62458, CVE-2025-59517, CVE-2025-62221, CVE-2025-59516, CVE-2025-62562  
 **Categories:** Vulnerability  
 
 ---
@@ -277,73 +278,73 @@
 
 ---
 
-### 31. [ShinyHunters-Branded Extortion Activity Expands, Escalates](https://www.securityweek.com/shinyhunters-branded-extortion-activity-expands-escalates/)
+### 31. [Hackers Leak 5.1 Million Panera Bread Records](https://www.securityweek.com/hackers-leak-5-1-million-panera-bread-accounts/)
+
+**Source:** Security Week  
+**Published:** Tue, 03 Feb 2026 12:16:31 +0000  
+
+---
+
+### 32. [Russia’s APT28 Rapidly Weaponizes Newly Patched Office Vulnerability](https://www.securityweek.com/russias-apt28-rapidly-weaponizes-newly-patched-office-vulnerability/)
+
+**Source:** Security Week  
+**Published:** Tue, 03 Feb 2026 11:22:52 +0000  
+
+---
+
+### 33. [Kasada Raises $20 Million for Anti-Bot Expansion](https://www.securityweek.com/kasada-raises-20-million-for-anti-bot-expansion/)
+
+**Source:** Security Week  
+**Published:** Tue, 03 Feb 2026 11:00:00 +0000  
+
+---
+
+### 34. [ShinyHunters-Branded Extortion Activity Expands, Escalates](https://www.securityweek.com/shinyhunters-branded-extortion-activity-expands-escalates/)
 
 **Source:** Security Week  
 **Published:** Mon, 02 Feb 2026 15:28:16 +0000  
 
 ---
 
-### 32. [Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack](https://www.securityweek.com/open-vsx-publisher-account-hijacked-in-fresh-glassworm-attack/)
+### 35. [Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack](https://www.securityweek.com/open-vsx-publisher-account-hijacked-in-fresh-glassworm-attack/)
 
 **Source:** Security Week  
 **Published:** Mon, 02 Feb 2026 14:12:50 +0000  
 
 ---
 
-### 33. [Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities](https://www.securityweek.com/default-ics-credentials-exploited-in-destructive-attack-on-polish-energy-facilities/)
+### 36. [Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities](https://www.securityweek.com/default-ics-credentials-exploited-in-destructive-attack-on-polish-energy-facilities/)
 
 **Source:** Security Week  
 **Published:** Mon, 02 Feb 2026 13:50:53 +0000  
 
 ---
 
-### 34. [Cyber Insights 2026: Malware and Cyberattacks in the Age of AI](https://www.securityweek.com/cyber-insights-2026-malware-and-cyberattacks-in-the-age-of-ai/)
+### 37. [Cyber Insights 2026: Malware and Cyberattacks in the Age of AI](https://www.securityweek.com/cyber-insights-2026-malware-and-cyberattacks-in-the-age-of-ai/)
 
 **Source:** Security Week  
 **Published:** Mon, 02 Feb 2026 12:00:00 +0000  
 
 ---
 
-### 35. [Over 1,400 MongoDB Databases Ransacked by Threat Actor](https://www.securityweek.com/over-1400-mongodb-databases-ransacked-by-threat-actor/)
+### 38. [Over 1,400 MongoDB Databases Ransacked by Threat Actor](https://www.securityweek.com/over-1400-mongodb-databases-ransacked-by-threat-actor/)
 
 **Source:** Security Week  
 **Published:** Mon, 02 Feb 2026 11:45:56 +0000  
 
 ---
 
-### 36. [Microsoft Moves Closer to Disabling NTLM](https://www.securityweek.com/microsoft-moves-closer-to-disabling-ntlm/)
+### 39. [Microsoft Moves Closer to Disabling NTLM](https://www.securityweek.com/microsoft-moves-closer-to-disabling-ntlm/)
 
 **Source:** Security Week  
 **Published:** Mon, 02 Feb 2026 11:31:40 +0000  
 
 ---
 
-### 37. [Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China’s Influence Grows](https://www.securityweek.com/japan-britain-to-boost-cybersecurity-and-critical-minerals-cooperation-as-chinas-influence-grows/)
+### 40. [Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China’s Influence Grows](https://www.securityweek.com/japan-britain-to-boost-cybersecurity-and-critical-minerals-cooperation-as-chinas-influence-grows/)
 
 **Source:** Security Week  
 **Published:** Mon, 02 Feb 2026 10:35:00 +0000  
-
----
-
-### 38. [Notepad++ Supply Chain Hack Conducted by China via Hosting Provider](https://www.securityweek.com/notepad-supply-chain-hack-conducted-by-china-via-hosting-provider/)
-
-**Source:** Security Week  
-**Published:** Mon, 02 Feb 2026 09:18:18 +0000  
-
----
-
-### 39. [eScan Antivirus Delivers Malware in Supply Chain Attack](https://www.securityweek.com/escan-antivirus-delivers-malware-in-supply-chain-attack/)
-
-**Source:** Security Week  
-**Published:** Sat, 31 Jan 2026 15:00:00 +0000  
-
----
-
-### 40. [In Other News: Paid for Being Jailed, Google’s $68M Settlement, CISA Chief’s ChatGPT Leak](https://www.securityweek.com/in-other-news-paid-for-being-jailed-googles-68m-settlement-cisa-chiefs-chatgpt-leak/)
-
-**Source:** Security Week  
-**Published:** Fri, 30 Jan 2026 17:49:31 +0000  
 
 ---
 
@@ -437,7 +438,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Jan 2026 18:29:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20854, CVE-2026-20876, CVE-2026-20953, CVE-2026-20955, CVE-2026-20805, CVE-2026-20944, CVE-2026-20952, CVE-2026-20822  
+**CVEs:** CVE-2026-20944, CVE-2026-20854, CVE-2026-20822, CVE-2026-20953, CVE-2026-20805, CVE-2026-20952, CVE-2026-20955, CVE-2026-20876  
 **Categories:** Vulnerability  
 
 ---
@@ -628,7 +629,34 @@
 
 ---
 
-### 71. [How Manifest v3 forced us to rethink Browser Guard, and why that’s a good thing](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/02/how-manifest-v3-forced-us-to-rethink-browser-guard-and-why-thats-a-good-thing)
+### 71. [AT&amp;T breach data resurfaces with new risks for customers](https://www.malwarebytes.com/blog/news/2026/02/att-breach-data-resurfaces-with-new-risks-for-customers)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 03 Feb 2026 11:48:18 GMT  
+**Severity:** High  
+**Categories:** Phishing  
+
+---
+
+### 72. [Apple’s new iOS setting addresses a hidden layer of location tracking](https://www.malwarebytes.com/blog/mobile/2026/02/apples-new-ios-setting-addresses-a-hidden-layer-of-location-tracking)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 03 Feb 2026 11:20:19 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 73. [A fake cloud storage alert that ends at Freecash](https://www.malwarebytes.com/blog/news/2026/02/a-fake-cloud-storage-alert-that-ends-at-freecash)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 03 Feb 2026 10:38:35 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 74. [How Manifest v3 forced us to rethink Browser Guard, and why that’s a good thing](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/02/how-manifest-v3-forced-us-to-rethink-browser-guard-and-why-thats-a-good-thing)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 02 Feb 2026 18:11:11 GMT  
@@ -637,7 +665,7 @@
 
 ---
 
-### 72. [Scam-checking just got easier: Malwarebytes is now in ChatGPT](https://www.malwarebytes.com/blog/product/2026/02/scam-checking-just-got-easier-malwarebytes-is-now-in-chatgpt)
+### 75. [Scam-checking just got easier: Malwarebytes is now in ChatGPT](https://www.malwarebytes.com/blog/product/2026/02/scam-checking-just-got-easier-malwarebytes-is-now-in-chatgpt)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 02 Feb 2026 13:45:00 GMT  
@@ -646,7 +674,7 @@
 
 ---
 
-### 73. [How fake party invitations are being used to install remote access tools](https://www.malwarebytes.com/blog/threat-intel/2026/02/how-fake-party-invitations-are-being-used-to-install-remote-access-tools)
+### 76. [How fake party invitations are being used to install remote access tools](https://www.malwarebytes.com/blog/threat-intel/2026/02/how-fake-party-invitations-are-being-used-to-install-remote-access-tools)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 02 Feb 2026 10:18:01 GMT  
@@ -655,7 +683,7 @@
 
 ---
 
-### 74. [A week in security (January 26 &#8211; February 1)](https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-january-26-february-1)
+### 77. [A week in security (January 26 &#8211; February 1)](https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-january-26-february-1)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 02 Feb 2026 08:02:00 GMT  
@@ -664,7 +692,7 @@
 
 ---
 
-### 75. [Match, Hinge, OkCupid, and Panera Bread breached by ransomware group](https://www.malwarebytes.com/blog/news/2026/01/match-hinge-okcupid-and-panera-bread-breached-by-ransomware-group)
+### 78. [Match, Hinge, OkCupid, and Panera Bread breached by ransomware group](https://www.malwarebytes.com/blog/news/2026/01/match-hinge-okcupid-and-panera-bread-breached-by-ransomware-group)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 30 Jan 2026 14:23:28 GMT  
@@ -673,7 +701,7 @@
 
 ---
 
-### 76. [TikTok’s privacy update mentions immigration status. Here’s why.](https://www.malwarebytes.com/blog/news/2026/01/tiktoks-privacy-update-mentions-immigration-status-heres-why)
+### 79. [TikTok’s privacy update mentions immigration status. Here’s why.](https://www.malwarebytes.com/blog/news/2026/01/tiktoks-privacy-update-mentions-immigration-status-heres-why)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 30 Jan 2026 11:48:41 GMT  
@@ -682,38 +710,10 @@
 
 ---
 
-### 77. [Meta confirms it’s working on premium subscription for its apps](https://www.malwarebytes.com/blog/news/2026/01/meta-confirms-its-working-on-premium-subscription-for-its-apps)
+### 80. [Meta confirms it’s working on premium subscription for its apps](https://www.malwarebytes.com/blog/news/2026/01/meta-confirms-its-working-on-premium-subscription-for-its-apps)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 29 Jan 2026 21:06:35 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 78. [Microsoft Office zero-day lets malicious documents slip past security checks](https://www.malwarebytes.com/blog/news/2026/01/microsoft-office-zero-day-lets-malicious-documents-slip-past-security-checks)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 29 Jan 2026 14:53:57 GMT  
-**Severity:** Critical  
-**CVEs:** CVE-2026-21509  
-**Categories:** Vulnerability  
-
----
-
-### 79. [Clawdbot’s rename to Moltbot sparks impersonation campaign](https://www.malwarebytes.com/blog/threat-intel/2026/01/clawdbots-rename-to-moltbot-sparks-impersonation-campaign)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 29 Jan 2026 14:26:42 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 80. [Malicious Chrome extensions can spy on your ChatGPT chats](https://www.malwarebytes.com/blog/news/2026/01/malicious-chrome-extensions-can-spy-on-your-chatgpt-chats)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 28 Jan 2026 14:34:43 GMT  
 **Severity:** Low  
 **Categories:** General Security  
 
