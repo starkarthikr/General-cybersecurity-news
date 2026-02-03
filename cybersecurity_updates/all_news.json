@@ -190,6 +190,27 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Iron Mountain: Data breach mostly limited to marketing materials",
+    "link": "https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/",
+    "published": "Tue, 03 Feb 2026 11:49:09 -0500",
+    "summary": "Iron Mountain, a leading data storage and recovery services company, says that a recent breach claimed by the Everest extortion gang is limited to mostly marketing materials. [...]",
+    "analysis": {
+      "issue": "Iron Mountain, a leading data storage and recovery services company, says that a recent breach claimed by the Everest extortion gang is limited to mostly marketing materials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "AI Agent Identity Management: A New Security Control Plane for CISOs",
     "link": "https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/",
     "published": "Tue, 03 Feb 2026 10:01:11 -0500",
@@ -353,24 +374,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams",
-    "link": "https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/",
-    "published": "Mon, 02 Feb 2026 10:34:44 -0500",
-    "summary": "Fake high-yield investment platforms are surging worldwide, promising \"guaranteed\" returns that mask classic Ponzi schemes.CTM360 explains how HYIP scams scale through social media, recycled templates, and referral abuse. [...]",
-    "analysis": {
-      "issue": "Fraudulent High-Yield Investment Programs (HYIPs) are surging globally, pushing “guaranteed” profits that no legitimate investment can sustain",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -556,9 +559,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2025-58085",
         "CVE-2025-57779",
-        "CVE-2025-59488",
-        "CVE-2025-58085"
+        "CVE-2025-59488"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -637,14 +640,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20822",
-        "CVE-2026-20944",
-        "CVE-2026-20876",
         "CVE-2026-20952",
-        "CVE-2026-20955",
         "CVE-2026-20953",
+        "CVE-2026-20944",
+        "CVE-2026-20955",
+        "CVE-2026-20876",
+        "CVE-2026-20805",
         "CVE-2026-20854",
-        "CVE-2026-20805"
+        "CVE-2026-20822"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1233,6 +1236,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Falcon Scores Perfect 100% in SE Labs&rsquo; Most Challenging Ransomware Test",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-scores-100-percent-in-se-labs-ransomware-test/",
+    "published": "Feb 03, 2026 00:00:00-0800",
+    "summary": "",
+    "analysis": {
+      "issue": "The CrowdStrike Falcon scored a perfect 100% detection, protection, and accuracy in SE Labs’ most challenging ransomware test",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data",
     "link": "https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/",
     "published": "Feb 02, 2026 00:00:00-0800",
@@ -1372,24 +1393,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "January 2026 Patch Tuesday: 114 CVEs Patched Including 3 Zero-Days",
-    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-january-2026/",
-    "published": "Jan 13, 2026 00:00:00-0600",
-    "summary": "",
-    "analysis": {
-      "issue": "Microsoft has released security updates for 114 vulnerabilities, including three zero-days, plus eight critical CVEs in its January 2026 Patch Tuesday rollout",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   }

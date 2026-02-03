@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-03 15:55:04 UTC
+**Last Updated:** 2026-02-03 17:05:15 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,16 @@
 
 ---
 
-### 11. [AI Agent Identity Management: A New Security Control Plane for CISOs](https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/)
+### 11. [Iron Mountain: Data breach mostly limited to marketing materials](https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 03 Feb 2026 11:49:09 -0500  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach, Malware, Supply Chain  
+
+---
+
+### 12. [AI Agent Identity Management: A New Security Control Plane for CISOs](https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Feb 2026 10:01:11 -0500  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [UK privacy watchdog probes Grok over AI-generated sexual images](https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/)
+### 13. [UK privacy watchdog probes Grok over AI-generated sexual images](https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Feb 2026 09:25:50 -0500  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [Hackers exploit critical React Native Metro bug to breach dev systems](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/)
+### 14. [Hackers exploit critical React Native Metro bug to breach dev systems](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Feb 2026 09:00:00 -0500  
@@ -124,7 +133,7 @@
 
 ---
 
-### 14. [French prosecutors raid X offices, summon Musk over Grok deepfakes](https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/)
+### 15. [French prosecutors raid X offices, summon Musk over Grok deepfakes](https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Feb 2026 07:43:37 -0500  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [New GlassWorm attack targets macOS via compromised OpenVSX extensions](https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/)
+### 16. [New GlassWorm attack targets macOS via compromised OpenVSX extensions](https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 17:04:19 -0500  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Russian hackers exploit recently patched Microsoft Office bug in attacks](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/)
+### 17. [Russian hackers exploit recently patched Microsoft Office bug in attacks](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 16:00:07 -0500  
@@ -152,7 +161,7 @@
 
 ---
 
-### 17. [Malicious MoltBot skills used to push password-stealing malware](https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/)
+### 18. [Malicious MoltBot skills used to push password-stealing malware](https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 14:11:12 -0500  
@@ -161,7 +170,7 @@
 
 ---
 
-### 18. [Mozilla announces switch to disable all Firefox AI features](https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/)
+### 19. [Mozilla announces switch to disable all Firefox AI features](https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 13:09:13 -0500  
@@ -170,21 +179,12 @@
 
 ---
 
-### 19. [Microsoft: January update shutdown bug affects more Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/)
+### 20. [Microsoft: January update shutdown bug affects more Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 12:17:30 -0500  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 20. [CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams](https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 02 Feb 2026 10:34:44 -0500  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -310,7 +310,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-57779, CVE-2025-59488, CVE-2025-58085  
+**CVEs:** CVE-2025-58085, CVE-2025-57779, CVE-2025-59488  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -348,7 +348,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Jan 2026 18:29:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20822, CVE-2026-20944, CVE-2026-20876, CVE-2026-20952, CVE-2026-20955, CVE-2026-20953, CVE-2026-20854, CVE-2026-20805  
+**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20944, CVE-2026-20955, CVE-2026-20876, CVE-2026-20805, CVE-2026-20854, CVE-2026-20822  
 **Categories:** Vulnerability  
 
 ---
@@ -638,7 +638,16 @@
 
 ---
 
-### 72. [Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data](https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/)
+### 72. [CrowdStrike Falcon Scores Perfect 100% in SE Labs&rsquo; Most Challenging Ransomware Test](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-scores-100-percent-in-se-labs-ransomware-test/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Feb 03, 2026 00:00:00-0800  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 73. [Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data](https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 02, 2026 00:00:00-0800  
@@ -647,7 +656,7 @@
 
 ---
 
-### 73. [How Agentic Tool Chain Attacks Threaten AI Agent Security](https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/)
+### 74. [How Agentic Tool Chain Attacks Threaten AI Agent Security](https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 30, 2026 00:00:00-0800  
@@ -656,7 +665,7 @@
 
 ---
 
-### 74. [LABYRINTH CHOLLIMA Evolves into Three Adversaries](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
+### 75. [LABYRINTH CHOLLIMA Evolves into Three Adversaries](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 29, 2026 00:00:00-0800  
@@ -665,7 +674,7 @@
 
 ---
 
-### 75. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Voice of the Customer for Endpoint Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-voice-of-the-customer-for-epp-report/)
+### 76. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Voice of the Customer for Endpoint Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-voice-of-the-customer-for-epp-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 28, 2026 00:00:00-0800  
@@ -674,7 +683,7 @@
 
 ---
 
-### 76. [Data Protection Day 2026: From Compliance to Resilience](https://www.crowdstrike.com/en-us/blog/data-protection-day-2026-from-compliance-to-resilience/)
+### 77. [Data Protection Day 2026: From Compliance to Resilience](https://www.crowdstrike.com/en-us/blog/data-protection-day-2026-from-compliance-to-resilience/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 28, 2026 00:00:00-0800  
@@ -683,7 +692,7 @@
 
 ---
 
-### 77. [Small Devices, Big Risk: USB Drives Threaten Enterprise Security](https://www.crowdstrike.com/en-us/blog/usb-drives-threaten-enterprise-security/)
+### 78. [Small Devices, Big Risk: USB Drives Threaten Enterprise Security](https://www.crowdstrike.com/en-us/blog/usb-drives-threaten-enterprise-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 21, 2026 00:00:00-0600  
@@ -692,7 +701,7 @@
 
 ---
 
-### 78. [The Architecture of Agentic Defense: Inside the Falcon Platform](https://www.crowdstrike.com/en-us/blog/architecture-of-agentic-defense-inside-the-falcon-platform/)
+### 79. [The Architecture of Agentic Defense: Inside the Falcon Platform](https://www.crowdstrike.com/en-us/blog/architecture-of-agentic-defense-inside-the-falcon-platform/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 16, 2026 00:00:00-0800  
@@ -701,21 +710,12 @@
 
 ---
 
-### 79. [CrowdStrike to Acquire Seraphic to Secure Work in Any Browser](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-seraphic/)
+### 80. [CrowdStrike to Acquire Seraphic to Secure Work in Any Browser](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-seraphic/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 13, 2026 00:00:00-0600  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 80. [January 2026 Patch Tuesday: 114 CVEs Patched Including 3 Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-january-2026/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jan 13, 2026 00:00:00-0600  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
