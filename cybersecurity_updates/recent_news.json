@@ -188,6 +188,47 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Wave of Citrix NetScaler scans use thousands of residential proxies",
+    "link": "https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/",
+    "published": "Tue, 03 Feb 2026 15:25:40 -0500",
+    "summary": "A coordinated reconnaissance campaign targeting Citrix NetScaler infrastructure over the past week used tens of thousands of residential proxies to discover login panels. [...]",
+    "analysis": {
+      "issue": "A coordinated reconnaissance campaign targeting Citrix NetScaler infrastructure over the past week used tens of thousands of residential proxies to discover login panels",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA flags critical SolarWinds RCE flaw as exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/",
+    "published": "Tue, 03 Feb 2026 14:37:00 -0500",
+    "summary": "CISA has flagged a critical SolarWinds Web Help Desk vulnerability as actively exploited in attacks and ordered federal agencies to patch their systems within three days. [...]",
+    "analysis": {
+      "issue": "CISA has flagged a critical SolarWinds Web Help Desk vulnerability as actively exploited in attacks and ordered federal agencies to patch their systems within three days",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-40552",
+        "CVE-2025-40551",
+        "CVE-2025-40554",
+        "CVE-2025-40537"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Iron Mountain: Data breach mostly limited to marketing materials",
     "link": "https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/",
     "published": "Tue, 03 Feb 2026 11:49:09 -0500",
@@ -333,42 +374,6 @@
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Mozilla announces switch to disable all Firefox AI features",
-    "link": "https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/",
-    "published": "Mon, 02 Feb 2026 13:09:13 -0500",
-    "summary": "In response to user feedback on AI integration, Mozilla announced today that the next Firefox release will let users disable AI features entirely or manage them individually. [...]",
-    "analysis": {
-      "issue": "In response to user feedback on AI integration, Mozilla announced today that the next Firefox release will let users disable AI features entirely or manage them individually",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: January update shutdown bug affects more Windows PCs",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/",
-    "published": "Mon, 02 Feb 2026 12:17:30 -0500",
-    "summary": "Microsoft has confirmed that a known issue preventing some Windows 11 devices from shutting down also affects Windows 10 systems with Virtual Secure Mode (VSM) enabled. [...]",
-    "analysis": {
-      "issue": "Microsoft has confirmed that a known issue preventing some Windows 11 devices from shutting down also affects Windows 10 systems with Virtual Secure Mode (VSM) enabled",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "Malware"
@@ -584,8 +589,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-55182",
-        "CVE-2025-61882"
+        "CVE-2025-61882",
+        "CVE-2025-55182"
       ],
       "threat_categories": [
         "Ransomware",
@@ -627,9 +632,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-57779",
         "CVE-2025-58085",
-        "CVE-2025-59488"
+        "CVE-2025-59488",
+        "CVE-2025-57779"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -708,14 +713,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20822",
+        "CVE-2026-20952",
         "CVE-2026-20944",
         "CVE-2026-20876",
-        "CVE-2026-20955",
-        "CVE-2026-20952",
-        "CVE-2026-20805",
         "CVE-2026-20953",
-        "CVE-2026-20854"
+        "CVE-2026-20854",
+        "CVE-2026-20805",
+        "CVE-2026-20955",
+        "CVE-2026-20822"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1074,8 +1079,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
