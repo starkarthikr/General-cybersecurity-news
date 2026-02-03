@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-03 12:52:32 UTC
+**Last Updated:** 2026-02-03 13:09:36 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,16 @@
 
 ---
 
-### 11. [New GlassWorm attack targets macOS via compromised OpenVSX extensions](https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/)
+### 11. [French prosecutors raid X offices, summon Musk over Grok deepfakes](https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 03 Feb 2026 07:43:37 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [New GlassWorm attack targets macOS via compromised OpenVSX extensions](https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 17:04:19 -0500  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Russian hackers exploit recently patched Microsoft Office bug in attacks](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/)
+### 13. [Russian hackers exploit recently patched Microsoft Office bug in attacks](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 16:00:07 -0500  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [Malicious MoltBot skills used to push password-stealing malware](https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/)
+### 14. [Malicious MoltBot skills used to push password-stealing malware](https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 14:11:12 -0500  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Mozilla announces switch to disable all Firefox AI features](https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/)
+### 15. [Mozilla announces switch to disable all Firefox AI features](https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 13:09:13 -0500  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Microsoft: January update shutdown bug affects more Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/)
+### 16. [Microsoft: January update shutdown bug affects more Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 12:17:30 -0500  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams](https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/)
+### 17. [CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams](https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 10:34:44 -0500  
@@ -150,7 +159,7 @@
 
 ---
 
-### 17. [Notepad++ update feature hijacked by Chinese state hackers for months](https://www.bleepingcomputer.com/news/security/notepad-plus-plus-update-feature-hijacked-by-chinese-state-hackers-for-months/)
+### 18. [Notepad++ update feature hijacked by Chinese state hackers for months](https://www.bleepingcomputer.com/news/security/notepad-plus-plus-update-feature-hijacked-by-chinese-state-hackers-for-months/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 09:53:52 -0500  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [Panera Bread breach impacts 5.1 million accounts, not 14 million customers](https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/)
+### 19. [Panera Bread breach impacts 5.1 million accounts, not 14 million customers](https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 08:46:39 -0500  
@@ -168,21 +177,12 @@
 
 ---
 
-### 19. [Microsoft fixes bug causing password sign-in option to disappear](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/)
+### 20. [Microsoft fixes bug causing password sign-in option to disappear](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 06:34:34 -0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [NationStates confirms data breach, shuts down game site](https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 02 Feb 2026 05:05:57 -0500  
-**Severity:** Critical  
-**Categories:** Data Breach, Vulnerability  
 
 ---
 
@@ -200,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
+**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20805  
 **Categories:** Vulnerability  
 
 ---
@@ -255,7 +255,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62472, CVE-2025-62554, CVE-2025-62557, CVE-2025-62470, CVE-2025-62458, CVE-2025-59517, CVE-2025-62221, CVE-2025-59516, CVE-2025-62562  
+**CVEs:** CVE-2025-62562, CVE-2025-62554, CVE-2025-59517, CVE-2025-62221, CVE-2025-62458, CVE-2025-62472, CVE-2025-59516, CVE-2025-62470, CVE-2025-62557  
 **Categories:** Vulnerability  
 
 ---
@@ -400,7 +400,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-58085, CVE-2025-57779, CVE-2025-59488  
+**CVEs:** CVE-2025-57779, CVE-2025-58085, CVE-2025-59488  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -438,7 +438,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Jan 2026 18:29:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20944, CVE-2026-20854, CVE-2026-20822, CVE-2026-20953, CVE-2026-20805, CVE-2026-20952, CVE-2026-20955, CVE-2026-20876  
+**CVEs:** CVE-2026-20854, CVE-2026-20952, CVE-2026-20953, CVE-2026-20822, CVE-2026-20805, CVE-2026-20955, CVE-2026-20944, CVE-2026-20876  
 **Categories:** Vulnerability  
 
 ---
@@ -614,7 +614,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

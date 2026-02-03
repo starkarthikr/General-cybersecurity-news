@@ -187,6 +187,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "French prosecutors raid X offices, summon Musk over Grok deepfakes",
+    "link": "https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/",
+    "published": "Tue, 03 Feb 2026 07:43:37 -0500",
+    "summary": "French prosecutors have raided X's offices in Paris on Tuesday as part of a criminal investigation into the platform's Grok AI tool, widely used to generate sexually explicit images. [...]",
+    "analysis": {
+      "issue": "French prosecutors have raided X's offices in Paris on Tuesday as part of a criminal investigation into the platform's Grok AI tool, widely used to generate sexually explicit images",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New GlassWorm attack targets macOS via compromised OpenVSX extensions",
     "link": "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/",
     "published": "Mon, 02 Feb 2026 17:04:19 -0500",
@@ -354,25 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "NationStates confirms data breach, shuts down game site",
-    "link": "https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/",
-    "published": "Mon, 02 Feb 2026 05:05:57 -0500",
-    "summary": "NationStates, a multiplayer browser-based game, has confirmed a data breach after taking its website offline earlier this week to investigate a security incident. [...]",
-    "analysis": {
-      "issue": "NationStates, a multiplayer browser-based game, has confirmed a data breach after taking its website offline earlier this week to investigate a security incident",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
     "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -404,9 +403,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20805",
         "CVE-2026-20952",
-        "CVE-2026-20953"
+        "CVE-2026-20953",
+        "CVE-2026-20805"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -521,15 +520,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62472",
+        "CVE-2025-62562",
         "CVE-2025-62554",
-        "CVE-2025-62557",
-        "CVE-2025-62470",
-        "CVE-2025-62458",
         "CVE-2025-59517",
         "CVE-2025-62221",
+        "CVE-2025-62458",
+        "CVE-2025-62472",
         "CVE-2025-59516",
-        "CVE-2025-62562"
+        "CVE-2025-62470",
+        "CVE-2025-62557"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -754,8 +753,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-58085",
         "CVE-2025-57779",
+        "CVE-2025-58085",
         "CVE-2025-59488"
       ],
       "threat_categories": [
@@ -835,13 +834,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20944",
         "CVE-2026-20854",
-        "CVE-2026-20822",
-        "CVE-2026-20953",
-        "CVE-2026-20805",
         "CVE-2026-20952",
+        "CVE-2026-20953",
+        "CVE-2026-20822",
+        "CVE-2026-20805",
         "CVE-2026-20955",
+        "CVE-2026-20944",
         "CVE-2026-20876"
       ],
       "threat_categories": [
@@ -1201,8 +1200,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
