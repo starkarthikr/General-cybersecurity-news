@@ -401,8 +401,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20805",
         "CVE-2026-20953",
+        "CVE-2026-20805",
         "CVE-2026-20952"
       ],
       "threat_categories": [
@@ -518,15 +518,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62458",
-        "CVE-2025-62554",
-        "CVE-2025-62470",
-        "CVE-2025-62221",
-        "CVE-2025-62562",
-        "CVE-2025-59516",
+        "CVE-2025-59517",
         "CVE-2025-62557",
         "CVE-2025-62472",
-        "CVE-2025-59517"
+        "CVE-2025-62554",
+        "CVE-2025-62458",
+        "CVE-2025-62221",
+        "CVE-2025-62470",
+        "CVE-2025-59516",
+        "CVE-2025-62562"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -708,8 +708,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-61882",
-        "CVE-2025-55182"
+        "CVE-2025-55182",
+        "CVE-2025-61882"
       ],
       "threat_categories": [
         "Ransomware",
@@ -751,9 +751,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-58085",
         "CVE-2025-59488",
-        "CVE-2025-57779"
+        "CVE-2025-57779",
+        "CVE-2025-58085"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -832,14 +832,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20953",
         "CVE-2026-20854",
         "CVE-2026-20822",
         "CVE-2026-20944",
-        "CVE-2026-20876",
-        "CVE-2026-20955",
         "CVE-2026-20952",
-        "CVE-2026-20805"
+        "CVE-2026-20955",
+        "CVE-2026-20805",
+        "CVE-2026-20876",
+        "CVE-2026-20953"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1412,6 +1412,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "How Three Companies Secure AI with CrowdStrike",
+    "link": "https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/",
+    "published": "Feb 02, 2026 00:00:00-0800",
+    "summary": "",
+    "analysis": {
+      "issue": "Leaders at WEX, Med Center Health, and Genesys share how they're using CrowdStrike to secure AI systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "How Agentic Tool Chain Attacks Threaten AI Agent Security",
     "link": "https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/",
     "published": "Jan 30, 2026 00:00:00-0800",
@@ -1562,24 +1580,6 @@
     "summary": "",
     "analysis": {
       "issue": "Learn what AI tool poisoning is, how attackers manipulate AI agent tools, and how organizations can defend against this emerging threat",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike to Acquire SGNL to Secure Every Identity in the AI Era",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-sgnl/",
-    "published": "Jan 08, 2026 00:00:00-0600",
-    "summary": "",
-    "analysis": {
-      "issue": "With SGNL, Falcon Next-Gen Identity Security will deliver continuous dynamic authorization and eliminate standing privileges for human, non-human, and AI agent identities",
       "solution": null,
       "cause": null,
       "timeline": null,
