@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
+    "link": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html",
+    "published": "Tue, 03 Feb 2026 11:09:00 +0530",
+    "summary": "Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artificial intelligence (GenAI) features.\n\"It provides a single place to block current and future generative AI features in Firefox,\" Ajit Varma, head of Firefox, said. \"You can also review and manage individual AI features if you choose to use them. This",
+    "analysis": {
+      "issue": "Mozilla will release Firefox 148 with a new settings toggle that lets users completely turn off all current and future generative AI features",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group",
     "link": "https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html",
     "published": "Tue, 03 Feb 2026 10:25:00 +0530",
@@ -161,24 +179,6 @@
       "threat_categories": [
         "Malware",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists",
-    "link": "https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html",
-    "published": "Sat, 31 Jan 2026 17:32:00 +0530",
-    "summary": "A Farsi-speaking threat actor aligned with Iranian state interests is suspected to be behind a new campaign targeting non-governmental organizations and individuals involved in documenting recent human rights abuses.\nThe activity, observed by HarfangLab in January 2026, has been codenamed RedKitten. It's said to coincide with the nationwide unrest in Iran that began towards the end of 2025,",
-    "analysis": {
-      "issue": "Iran-linked RedKitten uses malicious Excel files, AI-generated macros, and cloud services to spy on human rights NGOs and activists",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -401,8 +401,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20953",
         "CVE-2026-20805",
+        "CVE-2026-20953",
         "CVE-2026-20952"
       ],
       "threat_categories": [
@@ -518,15 +518,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-59517",
-        "CVE-2025-62557",
-        "CVE-2025-62472",
-        "CVE-2025-62554",
-        "CVE-2025-62458",
-        "CVE-2025-62221",
         "CVE-2025-62470",
+        "CVE-2025-59517",
+        "CVE-2025-62472",
+        "CVE-2025-62562",
+        "CVE-2025-62458",
+        "CVE-2025-62557",
         "CVE-2025-59516",
-        "CVE-2025-62562"
+        "CVE-2025-62221",
+        "CVE-2025-62554"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -708,8 +708,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-55182",
-        "CVE-2025-61882"
+        "CVE-2025-61882",
+        "CVE-2025-55182"
       ],
       "threat_categories": [
         "Ransomware",
@@ -752,8 +752,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2025-59488",
-        "CVE-2025-57779",
-        "CVE-2025-58085"
+        "CVE-2025-58085",
+        "CVE-2025-57779"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -832,14 +832,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20854",
-        "CVE-2026-20822",
-        "CVE-2026-20944",
-        "CVE-2026-20952",
         "CVE-2026-20955",
-        "CVE-2026-20805",
         "CVE-2026-20876",
-        "CVE-2026-20953"
+        "CVE-2026-20822",
+        "CVE-2026-20953",
+        "CVE-2026-20805",
+        "CVE-2026-20854",
+        "CVE-2026-20952",
+        "CVE-2026-20944"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1198,8 +1198,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1412,7 +1412,7 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "How Three Companies Secure AI with CrowdStrike",
+    "title": "Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data",
     "link": "https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/",
     "published": "Feb 02, 2026 00:00:00-0800",
     "summary": "",
