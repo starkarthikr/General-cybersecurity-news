@@ -1,6 +1,45 @@
 [
   {
     "source": "The Hacker News",
+    "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
+    "link": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
+    "published": "Tue, 03 Feb 2026 19:44:00 +0530",
+    "summary": "Most security teams today are buried under tools. Too many dashboards. Too much noise. Not enough real progress.\nEvery vendor promises “complete coverage” or “AI-powered automation,” but inside most SOCs, teams are still overwhelmed, stretched thin, and unsure which tools are truly pulling their weight. The result? Bloated stacks, missed signals, and mounting pressure to do more with less.\nThis",
+    "analysis": {
+      "issue": "Live webinar explains how modern SOCs decide what to build, buy, or automate to reduce tool sprawl and improve outcomes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
+    "link": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
+    "published": "Tue, 03 Feb 2026 19:30:00 +0530",
+    "summary": "Threat actors have been observed exploiting a critical security flaw impacting the Metro Development Server in the popular \"@react-native-community/cli\" npm package.\nCybersecurity company VulnCheck said it first observed exploitation of CVE-2025-11953 (aka Metro4Shell) on December 21, 2025. With a CVSS score of 9.8, the vulnerability allows remote unauthenticated attackers to execute arbitrary",
+    "analysis": {
+      "issue": "Active attacks exploit Metro4Shell (CVE-2025-11953) in React Native CLI to execute commands and deploy Rust malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-11953"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "When Cloud Outages Ripple Across the Internet",
     "link": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
     "published": "Tue, 03 Feb 2026 16:30:00 +0530",
@@ -150,17 +189,35 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Securing the Mid-Market Across the Complete Threat Lifecycle",
-    "link": "https://thehackernews.com/2026/02/securing-mid-market-across-complete.html",
-    "published": "Mon, 02 Feb 2026 17:15:00 +0530",
-    "summary": "For mid-market organizations, cybersecurity is a constant balancing act. Proactive, preventative security measures are essential to protect an expanding attack surface. Combined with effective protection that blocks threats, they play a critical role in stopping cyberattacks before damage is done.\nThe challenge is that many security tools add complexity and cost that most mid-market businesses",
+    "source": "Bleeping Computer",
+    "title": "AI Agent Identity Management: A New Security Control Plane for CISOs",
+    "link": "https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/",
+    "published": "Tue, 03 Feb 2026 10:01:11 -0500",
+    "summary": "Autonomous AI agents are creating a new identity blind spot as they operate outside traditional IAM controls. Token Security shows why managing the full lifecycle of AI agent identities is becoming a critical CISO priority. [...]",
     "analysis": {
-      "issue": "Mid-market organizations can reduce cyber risk and workload by combining prevention, detection, response, and MDR into a unified security platform",
+      "issue": "By Ido Shlomo, CTO and Co-Founder, Token Security Security leaders have spent years hardening identity controls for employees and service accounts",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "UK privacy watchdog probes Grok over AI-generated sexual images",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/",
+    "published": "Tue, 03 Feb 2026 09:25:50 -0500",
+    "summary": "The United Kingdom's data protection authority launched a formal investigation into X and its Irish subsidiary over reports that the Grok AI assistant was used to generate nonconsensual sexual images. [...]",
+    "analysis": {
+      "issue": "The United Kingdom's data protection authority launched a formal investigation into X and its Irish subsidiary over reports that the Grok AI assistant was used to generate nonconsensual sexual images",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -168,20 +225,22 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
-    "link": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
-    "published": "Mon, 02 Feb 2026 14:25:00 +0530",
-    "summary": "The maintainer of Notepad++ has revealed that state-sponsored attackers hijacked the utility's update mechanism to redirect update traffic to malicious servers instead.\n\"The attack involved [an] infrastructure-level compromise that allowed malicious actors to intercept and redirect update traffic destined for notepad-plus-plus.org,\" developer Don Ho said. \"The compromise occurred at the hosting",
+    "source": "Bleeping Computer",
+    "title": "Hackers exploit critical React Native Metro bug to breach dev systems",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/",
+    "published": "Tue, 03 Feb 2026 09:00:00 -0500",
+    "summary": "Hackers are targeting developers by exploiting the critical vulnerability CVE-2025-11953 in the Metro server for React Native to deliver malicious payloads for Windows and Linux. [...]",
     "analysis": {
-      "issue": "State-backed attackers hijacked Notepad++ update traffic via a hosting provider breach, redirecting users to malicious downloads since June 2025",
+      "issue": "Hackers are targeting developers by exploiting the critical vulnerability CVE-2025-11953 in the Metro server for React Native to deliver malicious payloads for Windows and Linux",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-11953"
+      ],
       "threat_categories": [
-        "Malware"
+        "Vulnerability"
       ]
     }
   },
@@ -316,260 +375,32 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Notepad++ update feature hijacked by Chinese state hackers for months",
-    "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-update-feature-hijacked-by-chinese-state-hackers-for-months/",
-    "published": "Mon, 02 Feb 2026 09:53:52 -0500",
-    "summary": "Chinese state-sponsored threat actors were likely behind the hijacking of Notepad++ update traffic last year that lasted for almost half a year, the developer states in an official announcement today. [...]",
-    "analysis": {
-      "issue": "Chinese state-sponsored threat actors were likely behind the hijacking of Notepad++ update traffic last year that lasted for almost half a year, the developer states in an official announcement today",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    "source": "Security Week",
+    "title": "RADICL Raises $31 Million for vSOC",
+    "link": "https://www.securityweek.com/radicl-raises-31-million-for-vsoc/",
+    "published": "Tue, 03 Feb 2026 15:32:00 +0000",
+    "summary": "<p>The company will use the investment to accelerate development of its autonomous virtual security operations center (vSOC).</p>\n<p>The post <a href=\"https://www.securityweek.com/radicl-raises-31-million-for-vsoc/\">RADICL Raises $31 Million for vSOC</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Panera Bread breach impacts 5.1 million accounts, not 14 million customers",
-    "link": "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/",
-    "published": "Mon, 02 Feb 2026 08:46:39 -0500",
-    "summary": "The data breach notification service Have I Been Pwned says that a data breach at the U.S. food chain Panera Bread affected 5.1 million accounts, not 14 million customers as previously reported. [...]",
-    "analysis": {
-      "issue": "The data breach notification service Have I Been Pwned says that a data breach at the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Phishing"
-      ]
-    }
+    "source": "Security Week",
+    "title": "RapidFort Raises $42M to Automate Software Supply Chain Security",
+    "link": "https://www.securityweek.com/rapidfort-raises-42m-to-automate-software-supply-chain-security/",
+    "published": "Tue, 03 Feb 2026 14:41:18 +0000",
+    "summary": "<p>The company will use the latest capital to scale its go-to-market efforts and expand its platform’s capabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/rapidfort-raises-42m-to-automate-software-supply-chain-security/\">RapidFort Raises $42M to Automate Software Supply Chain Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes bug causing password sign-in option to disappear",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/",
-    "published": "Mon, 02 Feb 2026 06:34:34 -0500",
-    "summary": "Microsoft has fixed a known issue that was causing the password sign-in option to disappear from the lock screen options after installing Windows 11 updates released since August 2025. [...]",
-    "analysis": {
-      "issue": "Microsoft has fixed a known issue that was causing the password sign-in option to disappear from the lock screen options after installing Windows 11 updates released since August 2025",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "source": "Security Week",
+    "title": "Critical React Native Vulnerability Exploited in the Wild",
+    "link": "https://www.securityweek.com/critical-react-native-vulnerability-exploited-in-the-wild/",
+    "published": "Tue, 03 Feb 2026 14:00:00 +0000",
+    "summary": "<p>Albeit mainly considered a theoretical risk, the flaw has been exploited to disable protections and deliver malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-react-native-vulnerability-exploited-in-the-wild/\">Critical React Native Vulnerability Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Krebs On Security",
-    "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
-    "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
-    "published": "Tue, 20 Jan 2026 18:19:13 +0000",
-    "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
-    "analysis": {
-      "issue": "A new Internet-of-Things (IoT) botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Patch Tuesday, January 2026 Edition",
-    "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
-    "published": "Wed, 14 Jan 2026 00:47:38 +0000",
-    "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.",
-    "analysis": {
-      "issue": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20952",
-        "CVE-2026-20953",
-        "CVE-2026-20805"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
-    "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
-    "published": "Thu, 08 Jan 2026 23:23:43 +0000",
-    "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
-    "analysis": {
-      "issue": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf has infected more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "The Kimwolf Botnet is Stalking Your Local Network",
-    "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-    "published": "Fri, 02 Jan 2026 14:20:10 +0000",
-    "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
-    "analysis": {
-      "issue": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "DDoS",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-    "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-    "published": "Mon, 29 Dec 2025 20:23:26 +0000",
-    "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
-    "analysis": {
-      "issue": "com celebrates its 16th anniversary today",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-    "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-    "published": "Fri, 19 Dec 2025 15:14:55 +0000",
-    "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
-    "analysis": {
-      "issue": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering di",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Most Parked Domains Now Serving Malicious Content",
-    "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-    "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-    "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-    "analysis": {
-      "issue": "Direct navigation — the act of visiting a website by manually typing a domain name in a web browser — has never been riskier: A new study finds the vast majority of “parked” domains — mostly expired or dormant domain names, or common misspellings of ",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Microsoft Patch Tuesday, December 2025 Edition",
-    "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-    "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-    "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-    "analysis": {
-      "issue": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-62562",
-        "CVE-2025-62554",
-        "CVE-2025-59517",
-        "CVE-2025-62221",
-        "CVE-2025-62458",
-        "CVE-2025-62472",
-        "CVE-2025-59516",
-        "CVE-2025-62470",
-        "CVE-2025-62557"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-    "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-    "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-    "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
-    "analysis": {
-      "issue": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious ties to a Kremlin-connected oligarch whose Russian university builds drones for Russia’s war against Ukraine",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-    "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-    "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-    "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
-    "analysis": {
-      "issue": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-co",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
+    "source": "Security Week",
+    "title": "Vulnerability Allows Hackers to Hijack OpenClaw AI Assistant",
+    "link": "https://www.securityweek.com/vulnerability-allows-hackers-to-hijack-openclaw-ai-assistant/",
+    "published": "Tue, 03 Feb 2026 13:44:55 +0000",
+    "summary": "<p>OpenClaw (aka Moltbot and Clawdbot) is vulnerable to one-click remote code execution attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerability-allows-hackers-to-hijack-openclaw-ai-assistant/\">Vulnerability Allows Hackers to Hijack OpenClaw AI Assistant </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -612,34 +443,6 @@
     "link": "https://www.securityweek.com/default-ics-credentials-exploited-in-destructive-attack-on-polish-energy-facilities/",
     "published": "Mon, 02 Feb 2026 13:50:53 +0000",
     "summary": "<p>Poland’s CERT has published a report on the recent attack, providing new details on targeted ICS and attribution.</p>\n<p>The post <a href=\"https://www.securityweek.com/default-ics-credentials-exploited-in-destructive-attack-on-polish-energy-facilities/\">Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Cyber Insights 2026: Malware and Cyberattacks in the Age of AI",
-    "link": "https://www.securityweek.com/cyber-insights-2026-malware-and-cyberattacks-in-the-age-of-ai/",
-    "published": "Mon, 02 Feb 2026 12:00:00 +0000",
-    "summary": "<p>Security leaders share how artificial intelligence is changing malware, ransomware, and identity-led intrusions, and how defenses must evolve.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyber-insights-2026-malware-and-cyberattacks-in-the-age-of-ai/\">Cyber Insights 2026: Malware and Cyberattacks in the Age of AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Over 1,400 MongoDB Databases Ransacked by Threat Actor",
-    "link": "https://www.securityweek.com/over-1400-mongodb-databases-ransacked-by-threat-actor/",
-    "published": "Mon, 02 Feb 2026 11:45:56 +0000",
-    "summary": "<p>Of 3,100 unprotected MongoDB instances, half remain compromised, most of them by a single threat actor.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-1400-mongodb-databases-ransacked-by-threat-actor/\">Over 1,400 MongoDB Databases Ransacked by Threat Actor</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft Moves Closer to Disabling NTLM",
-    "link": "https://www.securityweek.com/microsoft-moves-closer-to-disabling-ntlm/",
-    "published": "Mon, 02 Feb 2026 11:31:40 +0000",
-    "summary": "<p>The next major Windows Server and Windows releases will have the deprecated authentication protocol disabled by default.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-moves-closer-to-disabling-ntlm/\">Microsoft Moves Closer to Disabling NTLM</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China’s Influence Grows",
-    "link": "https://www.securityweek.com/japan-britain-to-boost-cybersecurity-and-critical-minerals-cooperation-as-chinas-influence-grows/",
-    "published": "Mon, 02 Feb 2026 10:35:00 +0000",
-    "summary": "<p>Japan and Britain agree to accelerate cooperation on cybersecurity and the supply of critical minerals, as China’s influence grows in the region.</p>\n<p>The post <a href=\"https://www.securityweek.com/japan-britain-to-boost-cybersecurity-and-critical-minerals-cooperation-as-chinas-influence-grows/\">Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China&#8217;s Influence Grows</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -710,8 +513,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-55182",
-        "CVE-2025-61882"
+        "CVE-2025-61882",
+        "CVE-2025-55182"
       ],
       "threat_categories": [
         "Ransomware",
@@ -754,8 +557,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2025-57779",
-        "CVE-2025-58085",
-        "CVE-2025-59488"
+        "CVE-2025-59488",
+        "CVE-2025-58085"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -834,14 +637,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20854",
-        "CVE-2026-20952",
-        "CVE-2026-20953",
         "CVE-2026-20822",
-        "CVE-2026-20805",
-        "CVE-2026-20955",
         "CVE-2026-20944",
-        "CVE-2026-20876"
+        "CVE-2026-20876",
+        "CVE-2026-20952",
+        "CVE-2026-20955",
+        "CVE-2026-20953",
+        "CVE-2026-20854",
+        "CVE-2026-20805"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1412,6 +1215,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/",
+    "published": "Feb 03, 2026 00:00:00-0800",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike was named a Customers’ Choice in the 2026 Gartner Peer Insights Voice of the Customer for Application Security Posture Management Tools",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data",
     "link": "https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/",
     "published": "Feb 02, 2026 00:00:00-0800",
@@ -1569,24 +1390,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "AI Tool Poisoning: How Hidden Instructions Threaten AI Agents",
-    "link": "https://www.crowdstrike.com/en-us/blog/ai-tool-poisoning/",
-    "published": "Jan 09, 2026 00:00:00-0600",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn what AI tool poisoning is, how attackers manipulate AI agent tools, and how organizations can defend against this emerging threat",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   }
