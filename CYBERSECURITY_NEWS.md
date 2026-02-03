@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-03 02:11:10 UTC
+**Last Updated:** 2026-02-03 04:54:50 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -217,7 +217,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20952, CVE-2026-20805  
+**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
 **Categories:** Vulnerability  
 
 ---
@@ -272,7 +272,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-59516, CVE-2025-62557, CVE-2025-62472, CVE-2025-62562, CVE-2025-59517, CVE-2025-62458, CVE-2025-62554, CVE-2025-62221, CVE-2025-62470  
+**CVEs:** CVE-2025-62562, CVE-2025-62554, CVE-2025-62458, CVE-2025-62557, CVE-2025-62472, CVE-2025-59516, CVE-2025-59517, CVE-2025-62470, CVE-2025-62221  
 **Categories:** Vulnerability  
 
 ---
@@ -399,7 +399,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-57779, CVE-2025-58085, CVE-2025-59488  
+**CVEs:** CVE-2025-58085, CVE-2025-59488, CVE-2025-57779  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -437,7 +437,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Jan 2026 18:29:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20944, CVE-2026-20822, CVE-2026-20952, CVE-2026-20876, CVE-2026-20854, CVE-2026-20955, CVE-2026-20805, CVE-2026-20953  
+**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20955, CVE-2026-20822, CVE-2026-20854, CVE-2026-20876, CVE-2026-20952, CVE-2026-20944  
 **Categories:** Vulnerability  
 
 ---
@@ -719,16 +719,7 @@
 
 ---
 
-### 81. [How Three Companies Secure AI with CrowdStrike](https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Feb 02, 2026 00:00:00-0800  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 82. [How Agentic Tool Chain Attacks Threaten AI Agent Security](https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/)
+### 81. [How Agentic Tool Chain Attacks Threaten AI Agent Security](https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 30, 2026 00:00:00-0800  
@@ -737,7 +728,7 @@
 
 ---
 
-### 83. [LABYRINTH CHOLLIMA Evolves into Three Adversaries](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
+### 82. [LABYRINTH CHOLLIMA Evolves into Three Adversaries](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 29, 2026 00:00:00-0800  
@@ -746,7 +737,7 @@
 
 ---
 
-### 84. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Voice of the Customer for Endpoint Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-voice-of-the-customer-for-epp-report/)
+### 83. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Voice of the Customer for Endpoint Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-voice-of-the-customer-for-epp-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 28, 2026 00:00:00-0800  
@@ -755,7 +746,7 @@
 
 ---
 
-### 85. [Data Protection Day 2026: From Compliance to Resilience](https://www.crowdstrike.com/en-us/blog/data-protection-day-2026-from-compliance-to-resilience/)
+### 84. [Data Protection Day 2026: From Compliance to Resilience](https://www.crowdstrike.com/en-us/blog/data-protection-day-2026-from-compliance-to-resilience/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 28, 2026 00:00:00-0800  
@@ -764,7 +755,7 @@
 
 ---
 
-### 86. [Small Devices, Big Risk: USB Drives Threaten Enterprise Security](https://www.crowdstrike.com/en-us/blog/usb-drives-threaten-enterprise-security/)
+### 85. [Small Devices, Big Risk: USB Drives Threaten Enterprise Security](https://www.crowdstrike.com/en-us/blog/usb-drives-threaten-enterprise-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 21, 2026 00:00:00-0600  
@@ -773,7 +764,7 @@
 
 ---
 
-### 87. [The Architecture of Agentic Defense: Inside the Falcon Platform](https://www.crowdstrike.com/en-us/blog/architecture-of-agentic-defense-inside-the-falcon-platform/)
+### 86. [The Architecture of Agentic Defense: Inside the Falcon Platform](https://www.crowdstrike.com/en-us/blog/architecture-of-agentic-defense-inside-the-falcon-platform/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 16, 2026 00:00:00-0800  
@@ -782,7 +773,7 @@
 
 ---
 
-### 88. [CrowdStrike to Acquire Seraphic to Secure Work in Any Browser](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-seraphic/)
+### 87. [CrowdStrike to Acquire Seraphic to Secure Work in Any Browser](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-seraphic/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 13, 2026 00:00:00-0600  
@@ -791,7 +782,7 @@
 
 ---
 
-### 89. [January 2026 Patch Tuesday: 114 CVEs Patched Including 3 Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-january-2026/)
+### 88. [January 2026 Patch Tuesday: 114 CVEs Patched Including 3 Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-january-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 13, 2026 00:00:00-0600  
@@ -800,10 +791,19 @@
 
 ---
 
-### 90. [AI Tool Poisoning: How Hidden Instructions Threaten AI Agents](https://www.crowdstrike.com/en-us/blog/ai-tool-poisoning/)
+### 89. [AI Tool Poisoning: How Hidden Instructions Threaten AI Agents](https://www.crowdstrike.com/en-us/blog/ai-tool-poisoning/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 09, 2026 00:00:00-0600  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 90. [CrowdStrike to Acquire SGNL to Secure Every Identity in the AI Era](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-sgnl/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jan 08, 2026 00:00:00-0600  
 **Severity:** Low  
 **Categories:** General Security  
 
