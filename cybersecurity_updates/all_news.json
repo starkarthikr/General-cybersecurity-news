@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications",
+    "link": "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html",
+    "published": "Wed, 04 Feb 2026 17:28:00 +0530",
+    "summary": "An innovative approach to discovering, analyzing, and governing identity usage beyond traditional IAM controls.\nThe Challenge: Identity Lives Outside the Identity Stack\nIdentity and access management tools were built to govern users and directories.\nModern enterprises run on applications. Over time, identity logic has moved into application code, APIs, service accounts, and custom authentication",
+    "analysis": {
+      "issue": "An innovative approach to discovering, analyzing, and governing identity usage beyond traditional IAM controls",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "The First 90 Seconds: How Early Decisions Shape Incident Response Investigations",
+    "link": "https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html",
+    "published": "Wed, 04 Feb 2026 15:30:00 +0530",
+    "summary": "Many incident response failures do not come from a lack of tools, intelligence, or technical skills. They come from what happens immediately after detection, when pressure is high, and information is incomplete.\nI have seen IR teams recover from sophisticated intrusions with limited telemetry. I have also seen teams lose control of investigations they should have been able to handle. The",
+    "analysis": {
+      "issue": "Early incident response decisions—evidence preservation, execution analysis, and logging visibility—determine investigation success",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers",
     "link": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html",
     "published": "Wed, 04 Feb 2026 13:12:00 +0530",
@@ -151,13 +187,49 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
-    "link": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html",
-    "published": "Tue, 03 Feb 2026 11:09:00 +0530",
-    "summary": "Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artificial intelligence (GenAI) features.\n\"It provides a single place to block current and future generative AI features in Firefox,\" Ajit Varma, head of Firefox, said. \"You can also review and manage individual AI features if you choose to use them. This",
+    "source": "Bleeping Computer",
+    "title": "Owner of Incognito dark web drugs market gets 30 years in prison",
+    "link": "https://www.bleepingcomputer.com/news/security/taiwanese-man-gets-30-years-for-operating-dark-web-drug-market/",
+    "published": "Wed, 04 Feb 2026 06:24:23 -0500",
+    "summary": "A Taiwanese man was sentenced to 30 years in prison for operating Incognito Market, one of the world's largest online narcotics marketplaces that sold over $105 million worth of illegal drugs to customers worldwide. [...]",
     "analysis": {
-      "issue": "Mozilla will release Firefox 148 with a new settings toggle that lets users completely turn off all current and future generative AI features",
+      "issue": "A Taiwanese man was sentenced to 30 years in prison for operating Incognito Market, one of the world's largest online narcotics marketplaces that sold over $105 million worth of illegal drugs to customers worldwide",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Coinbase confirms insider breach linked to leaked support tool screenshots",
+    "link": "https://www.bleepingcomputer.com/news/security/coinbase-confirms-insider-breach-linked-to-leaked-support-tool-screenshots/",
+    "published": "Tue, 03 Feb 2026 21:04:23 -0500",
+    "summary": "Coinbase has confirmed an insider breach after a contractor improperly accessed the data of approximately thirty customers, which BleepingComputer has learned is a new incident that occurred in December. [...]",
+    "analysis": {
+      "issue": "Coinbase has confirmed an insider breach after a contractor improperly accessed the data of approximately thirty customers, which BleepingComputer has learned is a new incident that occurred in December",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Step Finance says compromised execs' devices led to $40M crypto theft",
+    "link": "https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/",
+    "published": "Tue, 03 Feb 2026 16:33:23 -0500",
+    "summary": "Step Finance announced that it lost $40 million worth of digital assets after hackers compromised devices belonging to the company's team of executives. [...]",
+    "analysis": {
+      "issue": "Step Finance announced that it lost $40 million worth of digital assets after hackers compromised devices belonging to the company's team of executives",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -169,20 +241,138 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group",
-    "link": "https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html",
-    "published": "Tue, 03 Feb 2026 10:25:00 +0530",
-    "summary": "A China-linked threat actor known as Lotus Blossom has been attributed with medium confidence to the recently discovered compromise of the infrastructure hosting Notepad++.\nThe attack enabled the state-sponsored hacking group to deliver a previously undocumented backdoor codenamed Chrysalis to users of the open-source editor, according to new findings from Rapid7.\nThe development comes shortly",
+    "source": "Bleeping Computer",
+    "title": "Wave of Citrix NetScaler scans use thousands of residential proxies",
+    "link": "https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/",
+    "published": "Tue, 03 Feb 2026 15:25:40 -0500",
+    "summary": "A coordinated reconnaissance campaign targeting Citrix NetScaler infrastructure over the past week used tens of thousands of residential proxies to discover login panels. [...]",
     "analysis": {
-      "issue": "Rapid7 links China-linked Lotus Blossom to a 2025 Notepad++ hosting breach that delivered the Chrysalis backdoor via hijacked updates, fixed in v8",
+      "issue": "A coordinated reconnaissance campaign targeting Citrix NetScaler infrastructure over the past week used tens of thousands of residential proxies to discover login panels",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA flags critical SolarWinds RCE flaw as exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/",
+    "published": "Tue, 03 Feb 2026 14:37:00 -0500",
+    "summary": "CISA has flagged a critical SolarWinds Web Help Desk vulnerability as actively exploited in attacks and ordered federal agencies to patch their systems within three days. [...]",
+    "analysis": {
+      "issue": "CISA has flagged a critical SolarWinds Web Help Desk vulnerability as actively exploited in attacks and ordered federal agencies to patch their systems within three days",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-40554",
+        "CVE-2025-40552",
+        "CVE-2025-40551",
+        "CVE-2025-40537"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Iron Mountain: Data breach mostly limited to marketing materials",
+    "link": "https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/",
+    "published": "Tue, 03 Feb 2026 11:49:09 -0500",
+    "summary": "Iron Mountain, a leading data storage and recovery services company, says that a recent breach claimed by the Everest extortion gang is limited to mostly marketing materials. [...]",
+    "analysis": {
+      "issue": "Iron Mountain, a leading data storage and recovery services company, says that a recent breach claimed by the Everest extortion gang is limited to mostly marketing materials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "AI Agent Identity Management: A New Security Control Plane for CISOs",
+    "link": "https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/",
+    "published": "Tue, 03 Feb 2026 10:01:11 -0500",
+    "summary": "Autonomous AI agents are creating a new identity blind spot as they operate outside traditional IAM controls. Token Security shows why managing the full lifecycle of AI agent identities is becoming a critical CISO priority. [...]",
+    "analysis": {
+      "issue": "By Ido Shlomo, CTO and Co-Founder, Token Security Security leaders have spent years hardening identity controls for employees and service accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "UK privacy watchdog probes Grok over AI-generated sexual images",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/",
+    "published": "Tue, 03 Feb 2026 09:25:50 -0500",
+    "summary": "The United Kingdom's data protection authority launched a formal investigation into X and its Irish subsidiary over reports that the Grok AI assistant was used to generate nonconsensual sexual images. [...]",
+    "analysis": {
+      "issue": "The United Kingdom's data protection authority launched a formal investigation into X and its Irish subsidiary over reports that the Grok AI assistant was used to generate nonconsensual sexual images",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers exploit critical React Native Metro bug to breach dev systems",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/",
+    "published": "Tue, 03 Feb 2026 09:00:00 -0500",
+    "summary": "Hackers are targeting developers by exploiting the critical vulnerability CVE-2025-11953 in the Metro server for React Native to deliver malicious payloads for Windows and Linux. [...]",
+    "analysis": {
+      "issue": "Hackers are targeting developers by exploiting the critical vulnerability CVE-2025-11953 in the Metro server for React Native to deliver malicious payloads for Windows and Linux",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-11953"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "French prosecutors raid X offices, summon Musk over Grok deepfakes",
+    "link": "https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/",
+    "published": "Tue, 03 Feb 2026 07:43:37 -0500",
+    "summary": "French prosecutors have raided X's offices in Paris on Tuesday as part of a criminal investigation into the platform's Grok AI tool, widely used to generate sexually explicit images. [...]",
+    "analysis": {
+      "issue": "French prosecutors have raided X's offices in Paris on Tuesday as part of a criminal investigation into the platform's Grok AI tool, widely used to generate sexually explicit images",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -258,8 +448,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20805",
-        "CVE-2026-20952",
-        "CVE-2026-20953"
+        "CVE-2026-20953",
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -374,20 +564,48 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62470",
-        "CVE-2025-62557",
+        "CVE-2025-59516",
         "CVE-2025-62554",
         "CVE-2025-62562",
-        "CVE-2025-62472",
         "CVE-2025-59517",
         "CVE-2025-62221",
+        "CVE-2025-62557",
+        "CVE-2025-62472",
         "CVE-2025-62458",
-        "CVE-2025-59516"
+        "CVE-2025-62470"
       ],
       "threat_categories": [
         "Vulnerability"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Orion Raises $32 Million for Data Security",
+    "link": "https://www.securityweek.com/orion-raises-32-million-for-data-security/",
+    "published": "Wed, 04 Feb 2026 12:07:13 +0000",
+    "summary": "<p>The startup will use the funding to accelerate product development and go-to-market operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/orion-raises-32-million-for-data-security/\">Orion Raises $32 Million for Data Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "DockerDash Flaw in Docker AI Assistant Leads to RCE, Data Theft",
+    "link": "https://www.securityweek.com/dockerdash-flaw-in-docker-ai-assistant-leads-to-rce-data-theft/",
+    "published": "Wed, 04 Feb 2026 11:34:55 +0000",
+    "summary": "<p>The critical vulnerability exists in the contextual trust in MCP Gateway architecture, as instructions are passed without validation.</p>\n<p>The post <a href=\"https://www.securityweek.com/dockerdash-flaw-in-docker-ai-assistant-leads-to-rce-data-theft/\">DockerDash Flaw in Docker AI Assistant Leads to RCE, Data Theft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Cryptominers, Reverse Shells Dropped in Recent React2Shell Attacks",
+    "link": "https://www.securityweek.com/cryptominers-reverse-shells-dropped-in-recent-react2shell-attacks/",
+    "published": "Wed, 04 Feb 2026 10:00:14 +0000",
+    "summary": "<p>Two IP addresses accounted for the majority of the 1.4 million exploitation attempts observed over the past week.</p>\n<p>The post <a href=\"https://www.securityweek.com/cryptominers-reverse-shells-dropped-in-recent-react2shell-attacks/\">Cryptominers, Reverse Shells Dropped in Recent React2Shell Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Fresh SolarWinds Vulnerability Exploited in Attacks",
+    "link": "https://www.securityweek.com/fresh-solarwinds-vulnerability-exploited-in-attacks/",
+    "published": "Wed, 04 Feb 2026 09:50:56 +0000",
+    "summary": "<p>The critical-severity SolarWinds Web Help Desk flaw could lead to unauthenticated remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/fresh-solarwinds-vulnerability-exploited-in-attacks/\">Fresh SolarWinds Vulnerability Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -430,34 +648,6 @@
     "link": "https://www.securityweek.com/hackers-leak-5-1-million-panera-bread-accounts/",
     "published": "Tue, 03 Feb 2026 12:16:31 +0000",
     "summary": "<p>ShinyHunters has claimed the theft of 14 million records from the US bakery-cafe chain’s systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-leak-5-1-million-panera-bread-accounts/\">Hackers Leak 5.1 Million Panera Bread Records</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Russia’s APT28 Rapidly Weaponizes Newly Patched Office Vulnerability",
-    "link": "https://www.securityweek.com/russias-apt28-rapidly-weaponizes-newly-patched-office-vulnerability/",
-    "published": "Tue, 03 Feb 2026 11:22:52 +0000",
-    "summary": "<p>The attacks targeting Europe were analyzed by Ukraine’s CERT-UA and the cybersecurity company Zscaler.</p>\n<p>The post <a href=\"https://www.securityweek.com/russias-apt28-rapidly-weaponizes-newly-patched-office-vulnerability/\">Russia&#8217;s APT28 Rapidly Weaponizes Newly Patched Office Vulnerability </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Kasada Raises $20 Million for Anti-Bot Expansion",
-    "link": "https://www.securityweek.com/kasada-raises-20-million-for-anti-bot-expansion/",
-    "published": "Tue, 03 Feb 2026 11:00:00 +0000",
-    "summary": "<p>The company will invest in market expansion and accelerating product capabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/kasada-raises-20-million-for-anti-bot-expansion/\">Kasada Raises $20 Million for Anti-Bot Expansion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "ShinyHunters-Branded Extortion Activity Expands, Escalates",
-    "link": "https://www.securityweek.com/shinyhunters-branded-extortion-activity-expands-escalates/",
-    "published": "Mon, 02 Feb 2026 15:28:16 +0000",
-    "summary": "<p>Hackers rely on evolved vishing and login harvesting to compromise SSO credentials for unauthorized MFA enrollment.</p>\n<p>The post <a href=\"https://www.securityweek.com/shinyhunters-branded-extortion-activity-expands-escalates/\">ShinyHunters-Branded Extortion Activity Expands, Escalates</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack",
-    "link": "https://www.securityweek.com/open-vsx-publisher-account-hijacked-in-fresh-glassworm-attack/",
-    "published": "Mon, 02 Feb 2026 14:12:50 +0000",
-    "summary": "<p>A hacker published malicious versions of four established VS Code extensions to distribute a GlassWorm malware loader.</p>\n<p>The post <a href=\"https://www.securityweek.com/open-vsx-publisher-account-hijacked-in-fresh-glassworm-attack/\">Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -571,8 +761,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-58085",
         "CVE-2025-57779",
+        "CVE-2025-58085",
         "CVE-2025-59488"
       ],
       "threat_categories": [
@@ -652,13 +842,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20805",
         "CVE-2026-20944",
         "CVE-2026-20955",
-        "CVE-2026-20822",
         "CVE-2026-20876",
-        "CVE-2026-20953",
-        "CVE-2026-20805",
         "CVE-2026-20952",
+        "CVE-2026-20953",
+        "CVE-2026-20822",
         "CVE-2026-20854"
       ],
       "threat_categories": [
@@ -1049,6 +1239,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Firefox is giving users the AI off switch",
+    "link": "https://www.malwarebytes.com/blog/news/2026/02/firefox-is-giving-users-the-ai-off-switch",
+    "published": "Wed, 04 Feb 2026 12:07:50 GMT",
+    "summary": "Firefox and other companies are starting to see why giving users a choice over AI features matters.",
+    "analysis": {
+      "issue": "Some software providers have decided to lead by example and offer users a choice about the Artificial Intelligence (AI) features built into their products",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "An AI plush toy exposed thousands of private chats with children",
     "link": "https://www.malwarebytes.com/blog/news/2026/02/an-ai-plush-toy-exposed-thousands-of-private-chats-with-children",
     "published": "Tue, 03 Feb 2026 16:55:51 GMT",
@@ -1207,24 +1415,6 @@
       "threat_categories": [
         "Ransomware",
         "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "TikTok’s privacy update mentions immigration status. Here’s why.",
-    "link": "https://www.malwarebytes.com/blog/news/2026/01/tiktoks-privacy-update-mentions-immigration-status-heres-why",
-    "published": "Fri, 30 Jan 2026 11:48:41 GMT",
-    "summary": "TikTok updated its privacy policy to mention immigration status, sparking backlash—but the reality is more complicated.",
-    "analysis": {
-      "issue": "In 2026, could any five words be more chilling than “We’re changing our privacy terms",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
