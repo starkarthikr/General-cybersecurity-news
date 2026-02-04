@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers",
+    "link": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html",
+    "published": "Wed, 04 Feb 2026 13:12:00 +0530",
+    "summary": "Microsoft has warned that information-stealing attacks are \"rapidly expanding\" beyond Windows to target Apple macOS environments by leveraging cross-platform languages like Python and abusing trusted platforms for distribution at scale.\nThe tech giant's Defender Security Research Team said it observed macOS-targeted infostealer campaigns using social engineering techniques such as ClickFix since",
+    "analysis": {
+      "issue": "Python infostealers are spreading from Windows to macOS via Google Ads, ClickFix lures, and fake installers to steal credentials and financial data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
+    "link": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
+    "published": "Wed, 04 Feb 2026 11:56:00 +0530",
+    "summary": "The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threats.\nThe move marks a shift from a reactive to a proactive approach to ensure that malicious extensions don't end up getting published on the Open VSX Registry.",
+    "analysis": {
+      "issue": "Eclipse Foundation to require pre-publish security checks for Open VSX extensions to reduce VS Code supply-chain risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
+    "link": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
+    "published": "Wed, 04 Feb 2026 11:20:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) to its Known Exploited Vulnerabilities (KEV) catalog, flagging it as actively exploited in attacks.\nThe vulnerability, tracked as CVE-2025-40551 (CVSS score: 9.8), is a untrusted data deserialization vulnerability that could pave the way for remote",
+    "analysis": {
+      "issue": "CISA adds an actively exploited SolarWinds Web Help Desk RCE flaw to KEV, ordering federal agencies to patch by February 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
     "link": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
     "published": "Tue, 03 Feb 2026 22:11:00 +0530",
@@ -129,60 +183,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users",
-    "link": "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html",
-    "published": "Mon, 02 Feb 2026 23:19:00 +0530",
-    "summary": "A security audit of 2,857 skills on ClawHub has found 341 malicious skills across multiple campaigns, according to new findings from Koi Security, exposing users to new supply chain risks.\nClawHub is a marketplace designed to make it easy for OpenClaw users to find and install third-party skills. It's an extension to the OpenClaw project, a self-hosted artificial intelligence (AI) assistant",
-    "analysis": {
-      "issue": "A security audit found 341 malicious ClawHub skills abusing OpenClaw to spread Atomic Stealer and steal credentials on macOS and Windows",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
-    "link": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html",
-    "published": "Mon, 02 Feb 2026 21:58:00 +0530",
-    "summary": "A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RCE) through a crafted malicious link.\nThe issue, which is tracked as CVE-2026-25253 (CVSS score: 8.8), has been addressed in version 2026.1.29 released on January 30, 2026. It has been described as a token exfiltration vulnerability that leads to",
-    "analysis": {
-      "issue": "A high-severity OpenClaw flaw allows one-click remote code execution via token theft and WebSocket hijacking; patched in v2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
-    "link": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
-    "published": "Mon, 02 Feb 2026 21:29:00 +0530",
-    "summary": "Microsoft has announced a three-phase approach to phase out New Technology LAN Manager (NTLM) as part of its efforts to shift Windows environments toward stronger, Kerberos-based options.\nThe development comes more than two years after the tech giant revealed its plans to deprecate the legacy technology, citing its susceptibility to weaknesses that could facilitate relay attacks and allow bad",
-    "analysis": {
-      "issue": "Microsoft confirms a 3-phase strategy to deprecate NTLM, improve auditing, prioritize Kerberos, and disable NTLM by default in future Windows releases",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -395,8 +395,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-55182",
-        "CVE-2025-61882"
+        "CVE-2025-61882",
+        "CVE-2025-55182"
       ],
       "threat_categories": [
         "Ransomware",
@@ -438,8 +438,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-59488",
         "CVE-2025-58085",
+        "CVE-2025-59488",
         "CVE-2025-57779"
       ],
       "threat_categories": [
@@ -521,12 +521,12 @@
       "cves": [
         "CVE-2026-20854",
         "CVE-2026-20876",
-        "CVE-2026-20952",
-        "CVE-2026-20955",
-        "CVE-2026-20944",
         "CVE-2026-20822",
-        "CVE-2026-20953",
-        "CVE-2026-20805"
+        "CVE-2026-20944",
+        "CVE-2026-20952",
+        "CVE-2026-20805",
+        "CVE-2026-20955",
+        "CVE-2026-20953"
       ],
       "threat_categories": [
         "Vulnerability"

@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-04 06:53:53 UTC
+**Last Updated:** 2026-02-04 08:52:54 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata](https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html)
+### 1. [Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers](https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 04 Feb 2026 13:12:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions](https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 04 Feb 2026 11:56:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 04 Feb 2026 11:20:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata](https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Feb 2026 22:11:00 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate](https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html)
+### 5. [[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate](https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Feb 2026 19:44:00 +0530  
@@ -22,7 +49,7 @@
 
 ---
 
-### 3. [Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package](https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html)
+### 6. [Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package](https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Feb 2026 19:30:00 +0530  
@@ -32,7 +59,7 @@
 
 ---
 
-### 4. [When Cloud Outages Ripple Across the Internet](https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html)
+### 7. [When Cloud Outages Ripple Across the Internet](https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Feb 2026 16:30:00 +0530  
@@ -41,7 +68,7 @@
 
 ---
 
-### 5. [APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks](https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html)
+### 8. [APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks](https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Feb 2026 14:42:00 +0530  
@@ -51,7 +78,7 @@
 
 ---
 
-### 6. [Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox](https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html)
+### 9. [Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox](https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Feb 2026 11:09:00 +0530  
@@ -60,39 +87,12 @@
 
 ---
 
-### 7. [Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group](https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html)
+### 10. [Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group](https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Feb 2026 10:25:00 +0530  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 8. [Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users](https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 02 Feb 2026 23:19:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link](https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 02 Feb 2026 21:58:00 +0530  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 10. [Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos](https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 02 Feb 2026 21:29:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -269,7 +269,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 11:00:07 GMT  
 **Severity:** High  
-**CVEs:** CVE-2025-55182, CVE-2025-61882  
+**CVEs:** CVE-2025-61882, CVE-2025-55182  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -288,7 +288,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-59488, CVE-2025-58085, CVE-2025-57779  
+**CVEs:** CVE-2025-58085, CVE-2025-59488, CVE-2025-57779  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -326,7 +326,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Jan 2026 18:29:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20854, CVE-2026-20876, CVE-2026-20952, CVE-2026-20955, CVE-2026-20944, CVE-2026-20822, CVE-2026-20953, CVE-2026-20805  
+**CVEs:** CVE-2026-20854, CVE-2026-20876, CVE-2026-20822, CVE-2026-20944, CVE-2026-20952, CVE-2026-20805, CVE-2026-20955, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
