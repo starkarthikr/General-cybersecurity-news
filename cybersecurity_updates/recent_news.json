@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
+    "link": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
+    "published": "Wed, 04 Feb 2026 23:22:00 +0530",
+    "summary": "Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (AI) systems.\nThe tech giant's AI Security team said the scanner leverages three observable signals that can be used to reliably flag the presence of backdoors while maintaining a low false positive",
+    "analysis": {
+      "issue": "Microsoft develops a lightweight scanner that detects backdoors in open-weight LLMs using three behavioral signals, improving AI model security and tr",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
+    "link": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
+    "published": "Wed, 04 Feb 2026 22:54:00 +0530",
+    "summary": "Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of \"disciplined tradecraft and clever abuse of legitimate system features\" to bypass traditional detection mechanisms and deploy a remote access trojan (RAT) known as AsyncRAT.\n\"The attack leverages IPFS-hosted VHD files, extreme script obfuscation, runtime decryption, and in-memory",
+    "analysis": {
+      "issue": "DEAD#VAX campaign delivers AsyncRAT via IPFS-hosted VHD phishing files, using fileless memory injection and obfuscated scripts to evade detection",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
     "link": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
     "published": "Wed, 04 Feb 2026 19:39:00 +0530",
@@ -145,41 +182,232 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
-    "link": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
-    "published": "Tue, 03 Feb 2026 19:30:00 +0530",
-    "summary": "Threat actors have been observed exploiting a critical security flaw impacting the Metro Development Server in the popular \"@react-native-community/cli\" npm package.\nCybersecurity company VulnCheck said it first observed exploitation of CVE-2025-11953 (aka Metro4Shell) on December 21, 2025. With a CVSS score of 9.8, the vulnerability allows remote unauthenticated attackers to execute arbitrary",
+    "source": "Bleeping Computer",
+    "title": "CISA: VMware ESXi flaw now exploited in ransomware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/",
+    "published": "Wed, 04 Feb 2026 12:38:46 -0500",
+    "summary": "CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was previously used in zero-day attacks. [...]",
     "analysis": {
-      "issue": "Active attacks exploit Metro4Shell (CVE-2025-11953) in React Native CLI to execute commands and deploy Rust malware",
+      "issue": "CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was previously used in zero-day attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-22226",
+        "CVE-2025-22225",
+        "CVE-2025-22224"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA warns of five-year-old GitLab flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/",
+    "published": "Wed, 04 Feb 2026 10:42:31 -0500",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems against a five-year-old GitLab vulnerability that is actively being exploited in attacks. [...]",
+    "analysis": {
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems against a five-year-old GitLab vulnerability that is actively being exploited in attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-11953"
+        "CVE-2021-39935"
       ],
       "threat_categories": [
-        "Vulnerability",
-        "Malware"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "When Cloud Outages Ripple Across the Internet",
-    "link": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
-    "published": "Tue, 03 Feb 2026 16:30:00 +0530",
-    "summary": "Recent major cloud service outages have been hard to miss. High-profile incidents affecting providers such as AWS, Azure, and Cloudflare have disrupted large parts of the internet, taking down websites and services that many other systems depend on. The resulting ripple effects have halted applications and workflows that many organizations rely on every day.\nFor consumers, these outages are",
+    "source": "Bleeping Computer",
+    "title": "The Double-Edged Sword of Non-Human Identities",
+    "link": "https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/",
+    "published": "Wed, 04 Feb 2026 10:05:15 -0500",
+    "summary": "Leaked non-human identities like API keys and tokens are becoming a major breach driver in cloud environments. Flare shows how exposed machine credentials quietly grant attackers long-term access to enterprise systems. [...]",
     "analysis": {
-      "issue": "Cloud outages expose identity systems as critical failure points, turning infrastructure disruptions into major business continuity risks",
+      "issue": "In a sweeping analysis conducted in late 2025, Flare researchers uncovered more than 10,000 Docker Hub container images leaking secrets (including production API keys, cloud tokens, CI/CD credentials, and even AI model access tokens) all pushed into ",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "EDR killer tool uses signed kernel driver from forensic software",
+    "link": "https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/",
+    "published": "Wed, 04 Feb 2026 09:17:45 -0500",
+    "summary": "Hackers are abusing a legitimate but long-revoked EnCase kernel driver in an EDR killer that can detect 59 security tools in attempts to deactivate them. [...]",
+    "analysis": {
+      "issue": "Hackers are abusing a legitimate but long-revoked EnCase kernel driver in an EDR killer that can detect 59 security tools in attempts to deactivate them",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New Amaranth Dragon cyberespionage group exploits WinRAR flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/",
+    "published": "Wed, 04 Feb 2026 09:00:00 -0500",
+    "summary": "A new threat actor called Amaranth Dragon, linked to APT41 state-sponsored Chinese operations, exploited the CVE-2025-8088 vulnerability in WinRAR in espionage attacks on government and law enforcement agencies. [...]",
+    "analysis": {
+      "issue": "A new threat actor called Amaranth Dragon, linked to APT41 state-sponsored Chinese operations, exploited the CVE-2025-8088 vulnerability in WinRAR in espionage attacks on government and law enforcement agencies",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
+      "cves": [
+        "CVE-2025-8088"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft rolls out native Sysmon monitoring in Windows 11",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/",
+    "published": "Wed, 04 Feb 2026 07:58:20 -0500",
+    "summary": "Microsoft has started rolling out built-in Sysmon functionality to some Windows 11 systems enrolled in the Windows Insider program. [...]",
+    "analysis": {
+      "issue": "Microsoft has started rolling out built-in Sysmon functionality to some Windows 11 systems enrolled in the Windows Insider program",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Owner of Incognito dark web drugs market gets 30 years in prison",
+    "link": "https://www.bleepingcomputer.com/news/security/taiwanese-man-gets-30-years-for-operating-dark-web-drug-market/",
+    "published": "Wed, 04 Feb 2026 06:24:23 -0500",
+    "summary": "A Taiwanese man was sentenced to 30 years in prison for operating Incognito Market, one of the world's largest online narcotics marketplaces that sold over $105 million worth of illegal drugs to customers worldwide. [...]",
+    "analysis": {
+      "issue": "A Taiwanese man was sentenced to 30 years in prison for operating Incognito Market, one of the world's largest online narcotics marketplaces that sold over $105 million worth of illegal drugs to customers worldwide",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Coinbase confirms insider breach linked to leaked support tool screenshots",
+    "link": "https://www.bleepingcomputer.com/news/security/coinbase-confirms-insider-breach-linked-to-leaked-support-tool-screenshots/",
+    "published": "Tue, 03 Feb 2026 21:04:23 -0500",
+    "summary": "Coinbase has confirmed an insider breach after a contractor improperly accessed the data of approximately thirty customers, which BleepingComputer has learned is a new incident that occurred in December. [...]",
+    "analysis": {
+      "issue": "Coinbase has confirmed an insider breach after a contractor improperly accessed the data of approximately thirty customers, which BleepingComputer has learned is a new incident that occurred in December",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Step Finance says compromised execs' devices led to $40M crypto theft",
+    "link": "https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/",
+    "published": "Tue, 03 Feb 2026 16:33:23 -0500",
+    "summary": "Step Finance announced that it lost $40 million worth of digital assets after hackers compromised devices belonging to the company's team of executives. [...]",
+    "analysis": {
+      "issue": "Step Finance announced that it lost $40 million worth of digital assets after hackers compromised devices belonging to the company's team of executives",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Wave of Citrix NetScaler scans use thousands of residential proxies",
+    "link": "https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/",
+    "published": "Tue, 03 Feb 2026 15:25:40 -0500",
+    "summary": "A coordinated reconnaissance campaign targeting Citrix NetScaler infrastructure over the past week used tens of thousands of residential proxies to discover login panels. [...]",
+    "analysis": {
+      "issue": "A coordinated reconnaissance campaign targeting Citrix NetScaler infrastructure over the past week used tens of thousands of residential proxies to discover login panels",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+    "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+    "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+    "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
+    "analysis": {
+      "issue": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifyi",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Phishing",
+        "APT",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Who Operates the Badbox 2.0 Botnet?",
+    "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+    "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+    "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+    "analysis": {
+      "issue": "The cybercriminals in control of Kimwolf — a disruptive botnet that has infected more than 2 million devices — recently shared a screenshot indicating they’d compromised the control panel for Badbox 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -332,54 +560,18 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62470",
-        "CVE-2025-62472",
-        "CVE-2025-62458",
-        "CVE-2025-59517",
-        "CVE-2025-62557",
-        "CVE-2025-59516",
-        "CVE-2025-62554",
+        "CVE-2025-62562",
         "CVE-2025-62221",
-        "CVE-2025-62562"
+        "CVE-2025-62458",
+        "CVE-2025-62472",
+        "CVE-2025-62470",
+        "CVE-2025-59516",
+        "CVE-2025-59517",
+        "CVE-2025-62554",
+        "CVE-2025-62557"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-    "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-    "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-    "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
-    "analysis": {
-      "issue": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious ties to a Kremlin-connected oligarch whose Russian university builds drones for Russia’s war against Ukraine",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-    "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-    "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-    "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
-    "analysis": {
-      "issue": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-co",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
@@ -522,8 +714,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-61882",
-        "CVE-2025-55182"
+        "CVE-2025-55182",
+        "CVE-2025-61882"
       ],
       "threat_categories": [
         "Ransomware",
@@ -566,8 +758,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2025-58085",
-        "CVE-2025-59488",
-        "CVE-2025-57779"
+        "CVE-2025-57779",
+        "CVE-2025-59488"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -646,14 +838,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20854",
-        "CVE-2026-20953",
-        "CVE-2026-20822",
         "CVE-2026-20805",
-        "CVE-2026-20952",
         "CVE-2026-20944",
+        "CVE-2026-20854",
+        "CVE-2026-20952",
+        "CVE-2026-20876",
         "CVE-2026-20955",
-        "CVE-2026-20876"
+        "CVE-2026-20953",
+        "CVE-2026-20822"
       ],
       "threat_categories": [
         "Vulnerability"
