@@ -183,6 +183,27 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Critical n8n flaws disclosed along with public exploits",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/",
+    "published": "Wed, 04 Feb 2026 16:14:36 -0500",
+    "summary": "Multiple critical vulnerabilities in the popular n8n open-source workflow automation platform allow escaping the confines of the environment and taking complete control of the host server. [...]",
+    "analysis": {
+      "issue": "Multiple critical vulnerabilities in the popular n8n open-source workflow automation platform allow escaping the confines of the environment and taking complete control of the host server",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-25049",
+        "CVE-2025-68613"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "CISA: VMware ESXi flaw now exploited in ransomware attacks",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/",
     "published": "Wed, 04 Feb 2026 12:38:46 -0500",
@@ -194,9 +215,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-22226",
         "CVE-2025-22225",
-        "CVE-2025-22224"
+        "CVE-2025-22224",
+        "CVE-2025-22226"
       ],
       "threat_categories": [
         "Ransomware",
@@ -355,24 +376,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Wave of Citrix NetScaler scans use thousands of residential proxies",
-    "link": "https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/",
-    "published": "Tue, 03 Feb 2026 15:25:40 -0500",
-    "summary": "A coordinated reconnaissance campaign targeting Citrix NetScaler infrastructure over the past week used tens of thousands of residential proxies to discover login panels. [...]",
-    "analysis": {
-      "issue": "A coordinated reconnaissance campaign targeting Citrix NetScaler infrastructure over the past week used tens of thousands of residential proxies to discover login panels",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
     "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
@@ -444,8 +447,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20952",
-        "CVE-2026-20953",
-        "CVE-2026-20805"
+        "CVE-2026-20805",
+        "CVE-2026-20953"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -560,15 +563,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62562",
-        "CVE-2025-62221",
-        "CVE-2025-62458",
-        "CVE-2025-62472",
-        "CVE-2025-62470",
-        "CVE-2025-59516",
-        "CVE-2025-59517",
         "CVE-2025-62554",
-        "CVE-2025-62557"
+        "CVE-2025-62470",
+        "CVE-2025-62221",
+        "CVE-2025-62562",
+        "CVE-2025-62458",
+        "CVE-2025-59516",
+        "CVE-2025-62557",
+        "CVE-2025-62472",
+        "CVE-2025-59517"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -757,8 +760,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-58085",
         "CVE-2025-57779",
+        "CVE-2025-58085",
         "CVE-2025-59488"
       ],
       "threat_categories": [
@@ -838,14 +841,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20805",
         "CVE-2026-20944",
-        "CVE-2026-20854",
-        "CVE-2026-20952",
-        "CVE-2026-20876",
-        "CVE-2026-20955",
         "CVE-2026-20953",
-        "CVE-2026-20822"
+        "CVE-2026-20854",
+        "CVE-2026-20876",
+        "CVE-2026-20952",
+        "CVE-2026-20805",
+        "CVE-2026-20822",
+        "CVE-2026-20955"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1204,8 +1207,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
