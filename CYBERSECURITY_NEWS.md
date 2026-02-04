@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-04 15:49:55 UTC
+**Last Updated:** 2026-02-04 16:57:56 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -53,6 +53,8 @@
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 11:20:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
 
 ---
 
@@ -93,7 +95,17 @@
 
 ---
 
-### 11. [The Double-Edged Sword of Non-Human Identities](https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/)
+### 11. [CISA warns of five-year-old GitLab flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 04 Feb 2026 10:42:31 -0500  
+**Severity:** Low  
+**CVEs:** CVE-2021-39935  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [The Double-Edged Sword of Non-Human Identities](https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 10:05:15 -0500  
@@ -102,7 +114,7 @@
 
 ---
 
-### 12. [EDR killer tool uses signed kernel driver from forensic software](https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/)
+### 13. [EDR killer tool uses signed kernel driver from forensic software](https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 09:17:45 -0500  
@@ -111,7 +123,7 @@
 
 ---
 
-### 13. [New Amaranth Dragon cyberespionage group exploits WinRAR flaw](https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/)
+### 14. [New Amaranth Dragon cyberespionage group exploits WinRAR flaw](https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 09:00:00 -0500  
@@ -121,7 +133,7 @@
 
 ---
 
-### 14. [Microsoft rolls out native Sysmon monitoring in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/)
+### 15. [Microsoft rolls out native Sysmon monitoring in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 07:58:20 -0500  
@@ -130,7 +142,7 @@
 
 ---
 
-### 15. [Owner of Incognito dark web drugs market gets 30 years in prison](https://www.bleepingcomputer.com/news/security/taiwanese-man-gets-30-years-for-operating-dark-web-drug-market/)
+### 16. [Owner of Incognito dark web drugs market gets 30 years in prison](https://www.bleepingcomputer.com/news/security/taiwanese-man-gets-30-years-for-operating-dark-web-drug-market/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 06:24:23 -0500  
@@ -139,7 +151,7 @@
 
 ---
 
-### 16. [Coinbase confirms insider breach linked to leaked support tool screenshots](https://www.bleepingcomputer.com/news/security/coinbase-confirms-insider-breach-linked-to-leaked-support-tool-screenshots/)
+### 17. [Coinbase confirms insider breach linked to leaked support tool screenshots](https://www.bleepingcomputer.com/news/security/coinbase-confirms-insider-breach-linked-to-leaked-support-tool-screenshots/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Feb 2026 21:04:23 -0500  
@@ -148,7 +160,7 @@
 
 ---
 
-### 17. [Step Finance says compromised execs' devices led to $40M crypto theft](https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/)
+### 18. [Step Finance says compromised execs' devices led to $40M crypto theft](https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Feb 2026 16:33:23 -0500  
@@ -157,7 +169,7 @@
 
 ---
 
-### 18. [Wave of Citrix NetScaler scans use thousands of residential proxies](https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/)
+### 19. [Wave of Citrix NetScaler scans use thousands of residential proxies](https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Feb 2026 15:25:40 -0500  
@@ -166,19 +178,13 @@
 
 ---
 
-### 19. [CISA flags critical SolarWinds RCE flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/)
+### 20. [CISA flags critical SolarWinds RCE flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Feb 2026 14:37:00 -0500  
-
----
-
-### 20. [Iron Mountain: Data breach mostly limited to marketing materials](https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 03 Feb 2026 11:49:09 -0500  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, Malware, Supply Chain  
+**Severity:** Critical  
+**CVEs:** CVE-2025-40537, CVE-2025-40551, CVE-2025-40554, CVE-2025-40552  
+**Categories:** Vulnerability  
 
 ---
 
@@ -214,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
+**CVEs:** CVE-2026-20952, CVE-2026-20805, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
@@ -269,7 +275,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62562, CVE-2025-62458, CVE-2025-62557, CVE-2025-59516, CVE-2025-62472, CVE-2025-62470, CVE-2025-62221, CVE-2025-62554, CVE-2025-59517  
+**CVEs:** CVE-2025-62554, CVE-2025-62470, CVE-2025-59516, CVE-2025-62557, CVE-2025-59517, CVE-2025-62221, CVE-2025-62458, CVE-2025-62562, CVE-2025-62472  
 **Categories:** Vulnerability  
 
 ---
@@ -377,7 +383,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 11:00:07 GMT  
 **Severity:** High  
-**CVEs:** CVE-2025-55182, CVE-2025-61882  
+**CVEs:** CVE-2025-61882, CVE-2025-55182  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -396,7 +402,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-59488, CVE-2025-58085, CVE-2025-57779  
+**CVEs:** CVE-2025-59488, CVE-2025-57779, CVE-2025-58085  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -434,7 +440,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Jan 2026 18:29:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20955, CVE-2026-20953, CVE-2026-20944, CVE-2026-20854, CVE-2026-20805, CVE-2026-20876, CVE-2026-20822, CVE-2026-20952  
+**CVEs:** CVE-2026-20822, CVE-2026-20944, CVE-2026-20955, CVE-2026-20876, CVE-2026-20953, CVE-2026-20854, CVE-2026-20952, CVE-2026-20805  
 **Categories:** Vulnerability  
 
 ---
@@ -610,7 +616,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
