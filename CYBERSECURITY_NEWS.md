@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-03 21:40:35 UTC
+**Last Updated:** 2026-02-04 01:27:50 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,16 @@
 
 ---
 
-### 11. [Wave of Citrix NetScaler scans use thousands of residential proxies](https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/)
+### 11. [Step Finance says compromised execs' devices led to $40M crypto theft](https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 03 Feb 2026 16:33:23 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Wave of Citrix NetScaler scans use thousands of residential proxies](https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Feb 2026 15:25:40 -0500  
@@ -105,17 +114,17 @@
 
 ---
 
-### 12. [CISA flags critical SolarWinds RCE flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/)
+### 13. [CISA flags critical SolarWinds RCE flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Feb 2026 14:37:00 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2025-40537, CVE-2025-40551, CVE-2025-40552, CVE-2025-40554  
+**CVEs:** CVE-2025-40554, CVE-2025-40551, CVE-2025-40552, CVE-2025-40537  
 **Categories:** Vulnerability  
 
 ---
 
-### 13. [Iron Mountain: Data breach mostly limited to marketing materials](https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/)
+### 14. [Iron Mountain: Data breach mostly limited to marketing materials](https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Feb 2026 11:49:09 -0500  
@@ -124,7 +133,7 @@
 
 ---
 
-### 14. [AI Agent Identity Management: A New Security Control Plane for CISOs](https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/)
+### 15. [AI Agent Identity Management: A New Security Control Plane for CISOs](https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Feb 2026 10:01:11 -0500  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [UK privacy watchdog probes Grok over AI-generated sexual images](https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/)
+### 16. [UK privacy watchdog probes Grok over AI-generated sexual images](https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Feb 2026 09:25:50 -0500  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Hackers exploit critical React Native Metro bug to breach dev systems](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/)
+### 17. [Hackers exploit critical React Native Metro bug to breach dev systems](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Feb 2026 09:00:00 -0500  
@@ -152,7 +161,7 @@
 
 ---
 
-### 17. [French prosecutors raid X offices, summon Musk over Grok deepfakes](https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/)
+### 18. [French prosecutors raid X offices, summon Musk over Grok deepfakes](https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Feb 2026 07:43:37 -0500  
@@ -161,7 +170,7 @@
 
 ---
 
-### 18. [New GlassWorm attack targets macOS via compromised OpenVSX extensions](https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/)
+### 19. [New GlassWorm attack targets macOS via compromised OpenVSX extensions](https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 17:04:19 -0500  
@@ -170,22 +179,13 @@
 
 ---
 
-### 19. [Russian hackers exploit recently patched Microsoft Office bug in attacks](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/)
+### 20. [Russian hackers exploit recently patched Microsoft Office bug in attacks](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Feb 2026 16:00:07 -0500  
 **Severity:** Critical  
 **CVEs:** CVE-2026-21509  
 **Categories:** Vulnerability, Malware, APT  
-
----
-
-### 20. [Malicious MoltBot skills used to push password-stealing malware](https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 02 Feb 2026 14:11:12 -0500  
-**Severity:** High  
-**Categories:** Malware  
 
 ---
 
@@ -292,7 +292,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 11:00:07 GMT  
 **Severity:** High  
-**CVEs:** CVE-2025-55182, CVE-2025-61882  
+**CVEs:** CVE-2025-61882, CVE-2025-55182  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -311,7 +311,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-58085, CVE-2025-57779, CVE-2025-59488  
+**CVEs:** CVE-2025-57779, CVE-2025-59488, CVE-2025-58085  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -349,7 +349,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Jan 2026 18:29:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20955, CVE-2026-20876, CVE-2026-20822, CVE-2026-20805, CVE-2026-20854, CVE-2026-20953, CVE-2026-20944, CVE-2026-20952  
+**CVEs:** CVE-2026-20822, CVE-2026-20952, CVE-2026-20953, CVE-2026-20876, CVE-2026-20944, CVE-2026-20805, CVE-2026-20854, CVE-2026-20955  
 **Categories:** Vulnerability  
 
 ---
@@ -525,7 +525,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
