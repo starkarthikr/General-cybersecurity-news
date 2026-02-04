@@ -271,10 +271,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-40554",
         "CVE-2025-40552",
         "CVE-2025-40551",
-        "CVE-2025-40537"
+        "CVE-2025-40537",
+        "CVE-2025-40554"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -373,45 +373,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-    "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-    "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-    "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
-    "analysis": {
-      "issue": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifyi",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing",
-        "APT",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Who Operates the Badbox 2.0 Botnet?",
-    "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-    "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-    "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-    "analysis": {
-      "issue": "The cybercriminals in control of Kimwolf — a disruptive botnet that has infected more than 2 million devices — recently shared a screenshot indicating they’d compromised the control panel for Badbox 2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -564,20 +525,63 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-59516",
         "CVE-2025-62554",
         "CVE-2025-62562",
-        "CVE-2025-59517",
-        "CVE-2025-62221",
         "CVE-2025-62557",
+        "CVE-2025-62221",
         "CVE-2025-62472",
+        "CVE-2025-59516",
         "CVE-2025-62458",
+        "CVE-2025-59517",
         "CVE-2025-62470"
       ],
       "threat_categories": [
         "Vulnerability"
       ]
     }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+    "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+    "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+    "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
+    "analysis": {
+      "issue": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious ties to a Kremlin-connected oligarch whose Russian university builds drones for Russia’s war against Ukraine",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+    "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+    "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+    "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+    "analysis": {
+      "issue": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-co",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Varonis Acquisition of AllTrue.ai Valued at $150 Million",
+    "link": "https://www.securityweek.com/varonis-acquisition-of-alltrue-ai-valued-at-150-million/",
+    "published": "Wed, 04 Feb 2026 12:39:56 +0000",
+    "summary": "<p>The data security firm has acquired the AI trust, risk, and security management company to expand its capabilities. </p>\n<p>The post <a href=\"https://www.securityweek.com/varonis-acquisition-of-alltrue-ai-valued-at-150-million/\">Varonis Acquisition of AllTrue.ai Valued at $150 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -641,13 +645,6 @@
     "link": "https://www.securityweek.com/vulnerability-allows-hackers-to-hijack-openclaw-ai-assistant/",
     "published": "Tue, 03 Feb 2026 13:44:55 +0000",
     "summary": "<p>OpenClaw (aka Moltbot and Clawdbot) is vulnerable to one-click remote code execution attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerability-allows-hackers-to-hijack-openclaw-ai-assistant/\">Vulnerability Allows Hackers to Hijack OpenClaw AI Assistant </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Hackers Leak 5.1 Million Panera Bread Records",
-    "link": "https://www.securityweek.com/hackers-leak-5-1-million-panera-bread-accounts/",
-    "published": "Tue, 03 Feb 2026 12:16:31 +0000",
-    "summary": "<p>ShinyHunters has claimed the theft of 14 million records from the US bakery-cafe chain’s systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-leak-5-1-million-panera-bread-accounts/\">Hackers Leak 5.1 Million Panera Bread Records</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -718,8 +715,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-55182",
-        "CVE-2025-61882"
+        "CVE-2025-61882",
+        "CVE-2025-55182"
       ],
       "threat_categories": [
         "Ransomware",
@@ -843,13 +840,13 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20805",
-        "CVE-2026-20944",
-        "CVE-2026-20955",
-        "CVE-2026-20876",
+        "CVE-2026-20854",
         "CVE-2026-20952",
-        "CVE-2026-20953",
+        "CVE-2026-20955",
+        "CVE-2026-20944",
         "CVE-2026-20822",
-        "CVE-2026-20854"
+        "CVE-2026-20876",
+        "CVE-2026-20953"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1242,7 +1239,7 @@
     "title": "Firefox is giving users the AI off switch",
     "link": "https://www.malwarebytes.com/blog/news/2026/02/firefox-is-giving-users-the-ai-off-switch",
     "published": "Wed, 04 Feb 2026 12:07:50 GMT",
-    "summary": "Firefox and other companies are starting to see why giving users a choice over AI features matters.",
+    "summary": "Mozilla and other companies are starting to see why giving users a choice over AI features matters.",
     "analysis": {
       "issue": "Some software providers have decided to lead by example and offer users a choice about the Artificial Intelligence (AI) features built into their products",
       "solution": null,
