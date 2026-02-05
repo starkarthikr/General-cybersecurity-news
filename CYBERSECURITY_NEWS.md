@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-05 05:29:08 UTC
+**Last Updated:** 2026-02-05 07:00:14 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models](https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html)
+### 1. [Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows](https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 05 Feb 2026 11:46:00 +0530  
+**Severity:** Critical  
+**CVEs:** CVE-2026-25049  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign](https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 05 Feb 2026 10:26:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models](https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 23:22:00 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files](https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html)
+### 4. [DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files](https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 22:54:00 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns](https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html)
+### 5. [China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns](https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 19:39:00 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [Orchid Security Introduces Continuous Identity Observability for Enterprise Applications](https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html)
+### 6. [Orchid Security Introduces Continuous Identity Observability for Enterprise Applications](https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 17:28:00 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [The First 90 Seconds: How Early Decisions Shape Incident Response Investigations](https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html)
+### 7. [The First 90 Seconds: How Early Decisions Shape Incident Response Investigations](https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 15:30:00 +0530  
@@ -49,7 +68,7 @@
 
 ---
 
-### 6. [Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers](https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html)
+### 8. [Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers](https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 13:12:00 +0530  
@@ -58,7 +77,7 @@
 
 ---
 
-### 7. [Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions](https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html)
+### 9. [Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions](https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 11:56:00 +0530  
@@ -67,30 +86,12 @@
 
 ---
 
-### 8. [CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html)
+### 10. [CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 11:20:00 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 9. [Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata](https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 03 Feb 2026 22:11:00 +0530  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 10. [[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate](https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 03 Feb 2026 19:44:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -118,7 +119,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 12:38:46 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2025-22225, CVE-2025-22226, CVE-2025-22224  
+**CVEs:** CVE-2025-22224, CVE-2025-22225, CVE-2025-22226  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -188,7 +189,25 @@
 
 ---
 
-### 21. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
+### 21. [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
+
+**Source:** Krebs On Security  
+**Published:** Mon, 02 Feb 2026 16:15:16 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Phishing, APT, DDoS  
+
+---
+
+### 22. [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
+
+**Source:** Krebs On Security  
+**Published:** Mon, 26 Jan 2026 16:11:38 +0000  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 23. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 20 Jan 2026 18:19:13 +0000  
@@ -197,17 +216,17 @@
 
 ---
 
-### 22. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
+### 24. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20952, CVE-2026-20805  
+**CVEs:** CVE-2026-20952, CVE-2026-20805, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
 
-### 23. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
+### 25. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 08 Jan 2026 23:23:43 +0000  
@@ -216,7 +235,7 @@
 
 ---
 
-### 24. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+### 26. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 02 Jan 2026 14:20:10 +0000  
@@ -225,7 +244,7 @@
 
 ---
 
-### 25. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+### 27. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 29 Dec 2025 20:23:26 +0000  
@@ -234,7 +253,7 @@
 
 ---
 
-### 26. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+### 28. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 19 Dec 2025 15:14:55 +0000  
@@ -243,7 +262,7 @@
 
 ---
 
-### 27. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+### 29. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 16 Dec 2025 14:14:48 +0000  
@@ -252,31 +271,13 @@
 
 ---
 
-### 28. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+### 30. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62554, CVE-2025-59517, CVE-2025-62472, CVE-2025-62557, CVE-2025-62562, CVE-2025-59516, CVE-2025-62470, CVE-2025-62458, CVE-2025-62221  
+**CVEs:** CVE-2025-59517, CVE-2025-62221, CVE-2025-62557, CVE-2025-62554, CVE-2025-62470, CVE-2025-62472, CVE-2025-62562, CVE-2025-62458, CVE-2025-59516  
 **Categories:** Vulnerability  
-
----
-
-### 29. [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
-
-**Source:** Krebs On Security  
-**Published:** Sat, 06 Dec 2025 14:45:03 +0000  
-**Severity:** Low  
-**Categories:** APT  
-
----
-
-### 30. [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
-
-**Source:** Krebs On Security  
-**Published:** Thu, 04 Dec 2025 23:02:34 +0000  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 
@@ -383,7 +384,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 11:00:07 GMT  
 **Severity:** High  
-**CVEs:** CVE-2025-55182, CVE-2025-61882  
+**CVEs:** CVE-2025-61882, CVE-2025-55182  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -402,7 +403,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-57779, CVE-2025-58085, CVE-2025-59488  
+**CVEs:** CVE-2025-57779, CVE-2025-59488, CVE-2025-58085  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -440,7 +441,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Jan 2026 18:29:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20876, CVE-2026-20952, CVE-2026-20805, CVE-2026-20854, CVE-2026-20944, CVE-2026-20822, CVE-2026-20955  
+**CVEs:** CVE-2026-20944, CVE-2026-20876, CVE-2026-20805, CVE-2026-20854, CVE-2026-20955, CVE-2026-20822, CVE-2026-20952, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
@@ -616,7 +617,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
