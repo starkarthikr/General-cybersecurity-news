@@ -183,6 +183,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Hackers compromise NGINX servers to redirect user traffic",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/",
+    "published": "Wed, 04 Feb 2026 18:26:56 -0500",
+    "summary": "A threat actor is compromising NGINX servers in a campaign that hijacks user traffic and reroutes it through the attacker's backend infrastructure. [...]",
+    "analysis": {
+      "issue": "A threat actor is compromising NGINX servers in a campaign that hijacks user traffic and reroutes it through the attacker's backend infrastructure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Critical n8n flaws disclosed along with public exploits",
     "link": "https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/",
     "published": "Wed, 04 Feb 2026 16:14:36 -0500",
@@ -215,8 +233,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-22225",
         "CVE-2025-22224",
+        "CVE-2025-22225",
         "CVE-2025-22226"
       ],
       "threat_categories": [
@@ -354,24 +372,6 @@
       "cves": [],
       "threat_categories": [
         "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Step Finance says compromised execs' devices led to $40M crypto theft",
-    "link": "https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/",
-    "published": "Tue, 03 Feb 2026 16:33:23 -0500",
-    "summary": "Step Finance announced that it lost $40 million worth of digital assets after hackers compromised devices belonging to the company's team of executives. [...]",
-    "analysis": {
-      "issue": "Step Finance announced that it lost $40 million worth of digital assets after hackers compromised devices belonging to the company's team of executives",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -563,15 +563,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-62458",
+        "CVE-2025-62557",
+        "CVE-2025-59516",
+        "CVE-2025-62562",
+        "CVE-2025-62472",
+        "CVE-2025-59517",
         "CVE-2025-62554",
         "CVE-2025-62470",
-        "CVE-2025-62221",
-        "CVE-2025-62562",
-        "CVE-2025-62458",
-        "CVE-2025-59516",
-        "CVE-2025-62557",
-        "CVE-2025-62472",
-        "CVE-2025-59517"
+        "CVE-2025-62221"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -717,8 +717,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-55182",
-        "CVE-2025-61882"
+        "CVE-2025-61882",
+        "CVE-2025-55182"
       ],
       "threat_categories": [
         "Ransomware",
@@ -760,9 +760,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2025-59488",
         "CVE-2025-57779",
-        "CVE-2025-58085",
-        "CVE-2025-59488"
+        "CVE-2025-58085"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -841,14 +841,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20944",
-        "CVE-2026-20953",
-        "CVE-2026-20854",
         "CVE-2026-20876",
-        "CVE-2026-20952",
-        "CVE-2026-20805",
+        "CVE-2026-20955",
+        "CVE-2026-20854",
+        "CVE-2026-20944",
         "CVE-2026-20822",
-        "CVE-2026-20955"
+        "CVE-2026-20805",
+        "CVE-2026-20952",
+        "CVE-2026-20953"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1418,6 +1418,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "What Security Teams Need to Know About OpenClaw, the AI Super Agent",
+    "link": "https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/",
+    "published": "Feb 04, 2026 00:00:00-0800",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn what OpenClaw is, how it is deployed, how it is running, whether it is exposed, and how CrowdStrike can help",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/",
     "published": "Feb 03, 2026 00:00:00-0800",
@@ -1568,24 +1586,6 @@
     "summary": "",
     "analysis": {
       "issue": "Learn how CrowdStrike AI and ML technologies work and their role in powering the agentic SOC as agentic defense matures",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike to Acquire Seraphic to Secure Work in Any Browser",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-seraphic/",
-    "published": "Jan 13, 2026 00:00:00-0600",
-    "summary": "",
-    "analysis": {
-      "issue": "The acquisition of Seraphic will extend zero-trust protections to the browser, facilitating secure access to corporate resources for today’s distributed enterprise",
       "solution": null,
       "cause": null,
       "timeline": null,

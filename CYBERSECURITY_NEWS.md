@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-04 21:39:43 UTC
+**Last Updated:** 2026-02-05 01:27:52 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,16 @@
 
 ---
 
-### 11. [Critical n8n flaws disclosed along with public exploits](https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/)
+### 11. [Hackers compromise NGINX servers to redirect user traffic](https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 04 Feb 2026 18:26:56 -0500  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 12. [Critical n8n flaws disclosed along with public exploits](https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 16:14:36 -0500  
@@ -104,17 +113,17 @@
 
 ---
 
-### 12. [CISA: VMware ESXi flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/)
+### 13. [CISA: VMware ESXi flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 12:38:46 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2025-22225, CVE-2025-22224, CVE-2025-22226  
+**CVEs:** CVE-2025-22224, CVE-2025-22225, CVE-2025-22226  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 13. [CISA warns of five-year-old GitLab flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/)
+### 14. [CISA warns of five-year-old GitLab flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 10:42:31 -0500  
@@ -124,7 +133,7 @@
 
 ---
 
-### 14. [The Double-Edged Sword of Non-Human Identities](https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/)
+### 15. [The Double-Edged Sword of Non-Human Identities](https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 10:05:15 -0500  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [EDR killer tool uses signed kernel driver from forensic software](https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/)
+### 16. [EDR killer tool uses signed kernel driver from forensic software](https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 09:17:45 -0500  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [New Amaranth Dragon cyberespionage group exploits WinRAR flaw](https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/)
+### 17. [New Amaranth Dragon cyberespionage group exploits WinRAR flaw](https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 09:00:00 -0500  
@@ -152,7 +161,7 @@
 
 ---
 
-### 17. [Microsoft rolls out native Sysmon monitoring in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/)
+### 18. [Microsoft rolls out native Sysmon monitoring in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 07:58:20 -0500  
@@ -161,7 +170,7 @@
 
 ---
 
-### 18. [Owner of Incognito dark web drugs market gets 30 years in prison](https://www.bleepingcomputer.com/news/security/taiwanese-man-gets-30-years-for-operating-dark-web-drug-market/)
+### 19. [Owner of Incognito dark web drugs market gets 30 years in prison](https://www.bleepingcomputer.com/news/security/taiwanese-man-gets-30-years-for-operating-dark-web-drug-market/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 06:24:23 -0500  
@@ -170,21 +179,12 @@
 
 ---
 
-### 19. [Coinbase confirms insider breach linked to leaked support tool screenshots](https://www.bleepingcomputer.com/news/security/coinbase-confirms-insider-breach-linked-to-leaked-support-tool-screenshots/)
+### 20. [Coinbase confirms insider breach linked to leaked support tool screenshots](https://www.bleepingcomputer.com/news/security/coinbase-confirms-insider-breach-linked-to-leaked-support-tool-screenshots/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Feb 2026 21:04:23 -0500  
 **Severity:** Low  
 **Categories:** Data Breach  
-
----
-
-### 20. [Step Finance says compromised execs' devices led to $40M crypto theft](https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 03 Feb 2026 16:33:23 -0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -275,7 +275,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62554, CVE-2025-62470, CVE-2025-62221, CVE-2025-62562, CVE-2025-62458, CVE-2025-59516, CVE-2025-62557, CVE-2025-62472, CVE-2025-59517  
+**CVEs:** CVE-2025-62458, CVE-2025-62557, CVE-2025-59516, CVE-2025-62562, CVE-2025-62472, CVE-2025-59517, CVE-2025-62554, CVE-2025-62470, CVE-2025-62221  
 **Categories:** Vulnerability  
 
 ---
@@ -383,7 +383,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 11:00:07 GMT  
 **Severity:** High  
-**CVEs:** CVE-2025-55182, CVE-2025-61882  
+**CVEs:** CVE-2025-61882, CVE-2025-55182  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -402,7 +402,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-57779, CVE-2025-58085, CVE-2025-59488  
+**CVEs:** CVE-2025-59488, CVE-2025-57779, CVE-2025-58085  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -440,7 +440,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Jan 2026 18:29:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20944, CVE-2026-20953, CVE-2026-20854, CVE-2026-20876, CVE-2026-20952, CVE-2026-20805, CVE-2026-20822, CVE-2026-20955  
+**CVEs:** CVE-2026-20876, CVE-2026-20955, CVE-2026-20854, CVE-2026-20944, CVE-2026-20822, CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
@@ -721,7 +721,16 @@
 
 ---
 
-### 81. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/)
+### 81. [What Security Teams Need to Know About OpenClaw, the AI Super Agent](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Feb 04, 2026 00:00:00-0800  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 03, 2026 00:00:00-0800  
@@ -730,7 +739,7 @@
 
 ---
 
-### 82. [CrowdStrike Falcon Scores Perfect 100% in SE Labs&rsquo; Most Challenging Ransomware Test](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-scores-100-percent-in-se-labs-ransomware-test/)
+### 83. [CrowdStrike Falcon Scores Perfect 100% in SE Labs&rsquo; Most Challenging Ransomware Test](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-scores-100-percent-in-se-labs-ransomware-test/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 03, 2026 00:00:00-0800  
@@ -739,7 +748,7 @@
 
 ---
 
-### 83. [Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data](https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/)
+### 84. [Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data](https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 02, 2026 00:00:00-0800  
@@ -748,7 +757,7 @@
 
 ---
 
-### 84. [How Agentic Tool Chain Attacks Threaten AI Agent Security](https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/)
+### 85. [How Agentic Tool Chain Attacks Threaten AI Agent Security](https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 30, 2026 00:00:00-0800  
@@ -757,7 +766,7 @@
 
 ---
 
-### 85. [LABYRINTH CHOLLIMA Evolves into Three Adversaries](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
+### 86. [LABYRINTH CHOLLIMA Evolves into Three Adversaries](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 29, 2026 00:00:00-0800  
@@ -766,7 +775,7 @@
 
 ---
 
-### 86. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Voice of the Customer for Endpoint Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-voice-of-the-customer-for-epp-report/)
+### 87. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Voice of the Customer for Endpoint Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-voice-of-the-customer-for-epp-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 28, 2026 00:00:00-0800  
@@ -775,7 +784,7 @@
 
 ---
 
-### 87. [Data Protection Day 2026: From Compliance to Resilience](https://www.crowdstrike.com/en-us/blog/data-protection-day-2026-from-compliance-to-resilience/)
+### 88. [Data Protection Day 2026: From Compliance to Resilience](https://www.crowdstrike.com/en-us/blog/data-protection-day-2026-from-compliance-to-resilience/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 28, 2026 00:00:00-0800  
@@ -784,7 +793,7 @@
 
 ---
 
-### 88. [Small Devices, Big Risk: USB Drives Threaten Enterprise Security](https://www.crowdstrike.com/en-us/blog/usb-drives-threaten-enterprise-security/)
+### 89. [Small Devices, Big Risk: USB Drives Threaten Enterprise Security](https://www.crowdstrike.com/en-us/blog/usb-drives-threaten-enterprise-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 21, 2026 00:00:00-0600  
@@ -793,19 +802,10 @@
 
 ---
 
-### 89. [The Architecture of Agentic Defense: Inside the Falcon Platform](https://www.crowdstrike.com/en-us/blog/architecture-of-agentic-defense-inside-the-falcon-platform/)
+### 90. [The Architecture of Agentic Defense: Inside the Falcon Platform](https://www.crowdstrike.com/en-us/blog/architecture-of-agentic-defense-inside-the-falcon-platform/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 16, 2026 00:00:00-0800  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [CrowdStrike to Acquire Seraphic to Secure Work in Any Browser](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-seraphic/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jan 13, 2026 00:00:00-0600  
 **Severity:** Low  
 **Categories:** General Security  
 
