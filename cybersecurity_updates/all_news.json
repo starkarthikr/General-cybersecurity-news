@@ -204,21 +204,64 @@
     "title": "Critical n8n flaws disclosed along with public exploits",
     "link": "https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/",
     "published": "Wed, 04 Feb 2026 16:14:36 -0500",
-    "summary": "Multiple critical vulnerabilities in the popular n8n open-source workflow automation platform allow escaping the confines of the environment and taking complete control of the host server. [...]"
+    "summary": "Multiple critical vulnerabilities in the popular n8n open-source workflow automation platform allow escaping the confines of the environment and taking complete control of the host server. [...]",
+    "analysis": {
+      "issue": "Multiple critical vulnerabilities in the popular n8n open-source workflow automation platform allow escaping the confines of the environment and taking complete control of the host server",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-25049",
+        "CVE-2025-68613"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
     "title": "CISA: VMware ESXi flaw now exploited in ransomware attacks",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/",
     "published": "Wed, 04 Feb 2026 12:38:46 -0500",
-    "summary": "CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was previously used in zero-day attacks. [...]"
+    "summary": "CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was previously used in zero-day attacks. [...]",
+    "analysis": {
+      "issue": "CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was previously used in zero-day attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-22225",
+        "CVE-2025-22226",
+        "CVE-2025-22224"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
     "title": "CISA warns of five-year-old GitLab flaw exploited in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/",
     "published": "Wed, 04 Feb 2026 10:42:31 -0500",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems against a five-year-old GitLab vulnerability that is actively being exploited in attacks. [...]"
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems against a five-year-old GitLab vulnerability that is actively being exploited in attacks. [...]",
+    "analysis": {
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems against a five-year-old GitLab vulnerability that is actively being exploited in attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2021-39935"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
@@ -243,7 +286,18 @@
     "title": "EDR killer tool uses signed kernel driver from forensic software",
     "link": "https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/",
     "published": "Wed, 04 Feb 2026 09:17:45 -0500",
-    "summary": "Hackers are abusing a legitimate but long-revoked EnCase kernel driver in an EDR killer that can detect 59 security tools in attempts to deactivate them. [...]"
+    "summary": "Hackers are abusing a legitimate but long-revoked EnCase kernel driver in an EDR killer that can detect 59 security tools in attempts to deactivate them. [...]",
+    "analysis": {
+      "issue": "Hackers are abusing a legitimate but long-revoked EnCase kernel driver in an EDR killer that can detect 59 security tools in attempts to deactivate them",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
@@ -272,21 +326,54 @@
     "title": "Microsoft rolls out native Sysmon monitoring in Windows 11",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/",
     "published": "Wed, 04 Feb 2026 07:58:20 -0500",
-    "summary": "Microsoft has started rolling out built-in Sysmon functionality to some Windows 11 systems enrolled in the Windows Insider program. [...]"
+    "summary": "Microsoft has started rolling out built-in Sysmon functionality to some Windows 11 systems enrolled in the Windows Insider program. [...]",
+    "analysis": {
+      "issue": "Microsoft has started rolling out built-in Sysmon functionality to some Windows 11 systems enrolled in the Windows Insider program",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
     "title": "Owner of Incognito dark web drugs market gets 30 years in prison",
     "link": "https://www.bleepingcomputer.com/news/security/taiwanese-man-gets-30-years-for-operating-dark-web-drug-market/",
     "published": "Wed, 04 Feb 2026 06:24:23 -0500",
-    "summary": "A Taiwanese man was sentenced to 30 years in prison for operating Incognito Market, one of the world's largest online narcotics marketplaces that sold over $105 million worth of illegal drugs to customers worldwide. [...]"
+    "summary": "A Taiwanese man was sentenced to 30 years in prison for operating Incognito Market, one of the world's largest online narcotics marketplaces that sold over $105 million worth of illegal drugs to customers worldwide. [...]",
+    "analysis": {
+      "issue": "A Taiwanese man was sentenced to 30 years in prison for operating Incognito Market, one of the world's largest online narcotics marketplaces that sold over $105 million worth of illegal drugs to customers worldwide",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "DDoS"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
     "title": "Coinbase confirms insider breach linked to leaked support tool screenshots",
     "link": "https://www.bleepingcomputer.com/news/security/coinbase-confirms-insider-breach-linked-to-leaked-support-tool-screenshots/",
     "published": "Tue, 03 Feb 2026 21:04:23 -0500",
-    "summary": "Coinbase has confirmed an insider breach after a contractor improperly accessed the data of approximately thirty customers, which BleepingComputer has learned is a new incident that occurred in December. [...]"
+    "summary": "Coinbase has confirmed an insider breach after a contractor improperly accessed the data of approximately thirty customers, which BleepingComputer has learned is a new incident that occurred in December. [...]",
+    "analysis": {
+      "issue": "Coinbase has confirmed an insider breach after a contractor improperly accessed the data of approximately thirty customers, which BleepingComputer has learned is a new incident that occurred in December",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -320,9 +407,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20805",
+        "CVE-2026-20953",
         "CVE-2026-20952",
-        "CVE-2026-20953"
+        "CVE-2026-20805"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -353,7 +440,21 @@
     "title": "The Kimwolf Botnet is Stalking Your Local Network",
     "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
     "published": "Fri, 02 Jan 2026 14:20:10 +0000",
-    "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date."
+    "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
+    "analysis": {
+      "issue": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "DDoS",
+        "Supply Chain"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -423,14 +524,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-62554",
+        "CVE-2025-59517",
+        "CVE-2025-62472",
+        "CVE-2025-62557",
+        "CVE-2025-62562",
+        "CVE-2025-59516",
         "CVE-2025-62470",
         "CVE-2025-62458",
-        "CVE-2025-62472",
-        "CVE-2025-62562",
-        "CVE-2025-59517",
-        "CVE-2025-62557",
-        "CVE-2025-62554",
-        "CVE-2025-59516",
         "CVE-2025-62221"
       ],
       "threat_categories": [
@@ -738,13 +839,13 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20953",
-        "CVE-2026-20822",
         "CVE-2026-20876",
-        "CVE-2026-20955",
         "CVE-2026-20952",
+        "CVE-2026-20805",
         "CVE-2026-20854",
         "CVE-2026-20944",
-        "CVE-2026-20805"
+        "CVE-2026-20822",
+        "CVE-2026-20955"
       ],
       "threat_categories": [
         "Vulnerability"
