@@ -214,8 +214,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-25049",
-        "CVE-2025-68613"
+        "CVE-2025-68613",
+        "CVE-2026-25049"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -235,8 +235,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-22224",
         "CVE-2025-22225",
+        "CVE-2025-22224",
         "CVE-2025-22226"
       ],
       "threat_categories": [
@@ -565,15 +565,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-59517",
-        "CVE-2025-62221",
-        "CVE-2025-62557",
-        "CVE-2025-62554",
-        "CVE-2025-62470",
         "CVE-2025-62472",
         "CVE-2025-62562",
+        "CVE-2025-59516",
+        "CVE-2025-62554",
+        "CVE-2025-62557",
+        "CVE-2025-62470",
         "CVE-2025-62458",
-        "CVE-2025-59516"
+        "CVE-2025-59517",
+        "CVE-2025-62221"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -762,9 +762,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-57779",
+        "CVE-2025-58085",
         "CVE-2025-59488",
-        "CVE-2025-58085"
+        "CVE-2025-57779"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -843,14 +843,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20944",
-        "CVE-2026-20876",
-        "CVE-2026-20805",
-        "CVE-2026-20854",
-        "CVE-2026-20955",
+        "CVE-2026-20953",
         "CVE-2026-20822",
+        "CVE-2026-20854",
+        "CVE-2026-20805",
+        "CVE-2026-20944",
         "CVE-2026-20952",
-        "CVE-2026-20953"
+        "CVE-2026-20955",
+        "CVE-2026-20876"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1330,7 +1330,7 @@
   },
   {
     "source": "Malwarebytes",
-    "title": "A fake cloud storage alert that ends at Freecash",
+    "title": "[updated] A fake cloud storage alert that ends at Freecash",
     "link": "https://www.malwarebytes.com/blog/news/2026/02/a-fake-cloud-storage-alert-that-ends-at-freecash",
     "published": "Tue, 03 Feb 2026 10:38:35 GMT",
     "summary": "We followed a fake cloud storage payment alert through deceptive affiliate redirects, ending at a familiar destination: Freecash.",

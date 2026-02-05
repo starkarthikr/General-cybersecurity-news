@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-05 07:00:14 UTC
+**Last Updated:** 2026-02-05 08:54:37 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -109,7 +109,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 16:14:36 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25049, CVE-2025-68613  
+**CVEs:** CVE-2025-68613, CVE-2026-25049  
 **Categories:** Vulnerability  
 
 ---
@@ -119,7 +119,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 12:38:46 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2025-22224, CVE-2025-22225, CVE-2025-22226  
+**CVEs:** CVE-2025-22225, CVE-2025-22224, CVE-2025-22226  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -276,7 +276,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-59517, CVE-2025-62221, CVE-2025-62557, CVE-2025-62554, CVE-2025-62470, CVE-2025-62472, CVE-2025-62562, CVE-2025-62458, CVE-2025-59516  
+**CVEs:** CVE-2025-62472, CVE-2025-62562, CVE-2025-59516, CVE-2025-62554, CVE-2025-62557, CVE-2025-62470, CVE-2025-62458, CVE-2025-59517, CVE-2025-62221  
 **Categories:** Vulnerability  
 
 ---
@@ -403,7 +403,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-57779, CVE-2025-59488, CVE-2025-58085  
+**CVEs:** CVE-2025-58085, CVE-2025-59488, CVE-2025-57779  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -441,7 +441,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Jan 2026 18:29:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20944, CVE-2026-20876, CVE-2026-20805, CVE-2026-20854, CVE-2026-20955, CVE-2026-20822, CVE-2026-20952, CVE-2026-20953  
+**CVEs:** CVE-2026-20953, CVE-2026-20822, CVE-2026-20854, CVE-2026-20805, CVE-2026-20944, CVE-2026-20952, CVE-2026-20955, CVE-2026-20876  
 **Categories:** Vulnerability  
 
 ---
@@ -677,7 +677,7 @@
 
 ---
 
-### 76. [A fake cloud storage alert that ends at Freecash](https://www.malwarebytes.com/blog/news/2026/02/a-fake-cloud-storage-alert-that-ends-at-freecash)
+### 76. [[updated] A fake cloud storage alert that ends at Freecash](https://www.malwarebytes.com/blog/news/2026/02/a-fake-cloud-storage-alert-that-ends-at-freecash)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Feb 2026 10:38:35 GMT  
