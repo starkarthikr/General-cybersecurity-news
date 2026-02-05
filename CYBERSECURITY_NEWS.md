@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-05 13:11:42 UTC
+**Last Updated:** 2026-02-05 15:48:30 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [The Buyer’s Guide to AI Usage Control](https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html)
+### 1. [ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 05 Feb 2026 18:27:00 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Malware, Phishing, APT  
+
+---
+
+### 2. [The Buyer’s Guide to AI Usage Control](https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Feb 2026 17:00:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends](https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html)
+### 3. [Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends](https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Feb 2026 15:55:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows](https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html)
+### 4. [Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows](https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Feb 2026 11:46:00 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign](https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html)
+### 5. [Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign](https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Feb 2026 10:26:00 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models](https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html)
+### 6. [Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models](https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 23:22:00 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files](https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html)
+### 7. [DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files](https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 22:54:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns](https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html)
+### 8. [China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns](https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 19:39:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Orchid Security Introduces Continuous Identity Observability for Enterprise Applications](https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html)
+### 9. [Orchid Security Introduces Continuous Identity Observability for Enterprise Applications](https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 17:28:00 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [The First 90 Seconds: How Early Decisions Shape Incident Response Investigations](https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html)
+### 10. [The First 90 Seconds: How Early Decisions Shape Incident Response Investigations](https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 15:30:00 +0530  
@@ -86,16 +95,25 @@
 
 ---
 
-### 10. [Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers](https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html)
+### 11. [Romanian oil pipeline operator Conpet discloses cyberattack](https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 04 Feb 2026 13:12:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 05 Feb 2026 10:15:49 -0500  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 12. [When cloud logs fall short, the network tells the truth](https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 05 Feb 2026 10:00:10 -0500  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [Newsletter platform Substack notifies users of data breach](https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/)
+### 13. [Newsletter platform Substack notifies users of data breach](https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 07:54:48 -0500  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [Data breach at fintech firm Betterment exposes 1.4 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/)
+### 14. [Data breach at fintech firm Betterment exposes 1.4 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 06:16:12 -0500  
@@ -113,7 +131,7 @@
 
 ---
 
-### 13. [Zendesk spam wave returns, floods users with 'Activate account' emails](https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/)
+### 15. [Zendesk spam wave returns, floods users with 'Activate account' emails](https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 05:22:36 -0500  
@@ -122,7 +140,7 @@
 
 ---
 
-### 14. [Hackers compromise NGINX servers to redirect user traffic](https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/)
+### 16. [Hackers compromise NGINX servers to redirect user traffic](https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 18:26:56 -0500  
@@ -131,7 +149,7 @@
 
 ---
 
-### 15. [Critical n8n flaws disclosed along with public exploits](https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/)
+### 17. [Critical n8n flaws disclosed along with public exploits](https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 16:14:36 -0500  
@@ -141,17 +159,17 @@
 
 ---
 
-### 16. [CISA: VMware ESXi flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/)
+### 18. [CISA: VMware ESXi flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 12:38:46 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2025-22226, CVE-2025-22224, CVE-2025-22225  
+**CVEs:** CVE-2025-22226, CVE-2025-22225, CVE-2025-22224  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 17. [CISA warns of five-year-old GitLab flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/)
+### 19. [CISA warns of five-year-old GitLab flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 10:42:31 -0500  
@@ -161,31 +179,12 @@
 
 ---
 
-### 18. [The Double-Edged Sword of Non-Human Identities](https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/)
+### 20. [The Double-Edged Sword of Non-Human Identities](https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 10:05:15 -0500  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 19. [EDR killer tool uses signed kernel driver from forensic software](https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 04 Feb 2026 09:17:45 -0500  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 20. [New Amaranth Dragon cyberespionage group exploits WinRAR flaw](https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 04 Feb 2026 09:00:00 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2025-8088  
-**Categories:** Vulnerability, Malware, APT  
 
 ---
 
@@ -258,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62557, CVE-2025-62458, CVE-2025-62472, CVE-2025-59516, CVE-2025-62221, CVE-2025-62562, CVE-2025-62554, CVE-2025-62470, CVE-2025-59517  
+**CVEs:** CVE-2025-62458, CVE-2025-62554, CVE-2025-62470, CVE-2025-62557, CVE-2025-62221, CVE-2025-59517, CVE-2025-59516, CVE-2025-62562, CVE-2025-62472  
 **Categories:** Vulnerability  
 
 ---
@@ -281,73 +280,73 @@
 
 ---
 
-### 31. [Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says](https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/)
+### 31. [Substack Discloses Security Incident After Hacker Leaks Data](https://www.securityweek.com/substack-discloses-security-incident-after-hacker-leaks-data/)
+
+**Source:** Security Week  
+**Published:** Thu, 05 Feb 2026 15:13:55 +0000  
+
+---
+
+### 32. [Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign](https://www.securityweek.com/researchers-expose-network-of-150-cloned-law-firm-websites-in-ai-powered-scam-campaign/)
+
+**Source:** Security Week  
+**Published:** Thu, 05 Feb 2026 14:00:00 +0000  
+
+---
+
+### 33. [VS Code Configs Expose GitHub Codespaces to Attacks](https://www.securityweek.com/vs-code-configs-expose-github-codespaces-to-attacks/)
+
+**Source:** Security Week  
+**Published:** Thu, 05 Feb 2026 13:41:48 +0000  
+
+---
+
+### 34. [Nullify Secures $12.5 Million in Seed Funding for Cybersecurity AI Workforce](https://www.securityweek.com/nullify-secures-12-5-million-in-seed-funding-for-cybersecurity-ai-workforce/)
+
+**Source:** Security Week  
+**Published:** Thu, 05 Feb 2026 13:02:15 +0000  
+
+---
+
+### 35. [Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says](https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Feb 2026 12:29:34 +0000  
 
 ---
 
-### 32. [SystemBC Infects 10,000 Devices After Defying Law Enforcement Takedown](https://www.securityweek.com/systembc-infects-10000-devices-after-defying-law-enforcement-takedown/)
+### 36. [SystemBC Infects 10,000 Devices After Defying Law Enforcement Takedown](https://www.securityweek.com/systembc-infects-10000-devices-after-defying-law-enforcement-takedown/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Feb 2026 12:18:55 +0000  
 
 ---
 
-### 33. [Critical N8n Sandbox Escape Could Lead to Server Compromise](https://www.securityweek.com/critical-n8n-sandbox-escape-could-lead-to-server-compromise/)
+### 37. [Critical N8n Sandbox Escape Could Lead to Server Compromise](https://www.securityweek.com/critical-n8n-sandbox-escape-could-lead-to-server-compromise/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Feb 2026 11:23:19 +0000  
 
 ---
 
-### 34. [Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries](https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/)
+### 38. [Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries](https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Feb 2026 11:00:00 +0000  
 
 ---
 
-### 35. [Cisco, F5 Patch High-Severity Vulnerabilities](https://www.securityweek.com/cisco-f5-patch-high-severity-vulnerabilities/)
+### 39. [Cisco, F5 Patch High-Severity Vulnerabilities](https://www.securityweek.com/cisco-f5-patch-high-severity-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Feb 2026 09:54:34 +0000  
 
 ---
 
-### 36. [Blockchain Intelligence Firm TRM Labs Raises $70 Million at $1 Billion Valuation](https://www.securityweek.com/blockchain-intelligence-firm-trm-labs-raises-70-million-at-1-billion-valuation/)
+### 40. [Blockchain Intelligence Firm TRM Labs Raises $70 Million at $1 Billion Valuation](https://www.securityweek.com/blockchain-intelligence-firm-trm-labs-raises-70-million-at-1-billion-valuation/)
 
 **Source:** Security Week  
 **Published:** Wed, 04 Feb 2026 14:27:13 +0000  
-
----
-
-### 37. [Vulnerabilities Allowed Full Compromise of Google Looker Instances](https://www.securityweek.com/vulnerabilities-allowed-full-compromise-of-google-looker-instances/)
-
-**Source:** Security Week  
-**Published:** Wed, 04 Feb 2026 13:41:08 +0000  
-
----
-
-### 38. [Cyber Insights 2026: Cyberwar and Rising Nation State Threats](https://www.securityweek.com/cyber-insights-2026-cyberwar-and-rising-nation-state-threats/)
-
-**Source:** Security Week  
-**Published:** Wed, 04 Feb 2026 13:00:00 +0000  
-
----
-
-### 39. [Varonis Acquisition of AllTrue.ai Valued at $150 Million](https://www.securityweek.com/varonis-acquisition-of-alltrue-ai-valued-at-150-million/)
-
-**Source:** Security Week  
-**Published:** Wed, 04 Feb 2026 12:39:56 +0000  
-
----
-
-### 40. [Orion Raises $32 Million for Data Security](https://www.securityweek.com/orion-raises-32-million-for-data-security/)
-
-**Source:** Security Week  
-**Published:** Wed, 04 Feb 2026 12:07:13 +0000  
 
 ---
 
@@ -412,7 +411,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-59488, CVE-2025-57779, CVE-2025-58085  
+**CVEs:** CVE-2025-57779, CVE-2025-58085, CVE-2025-59488  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -631,7 +630,16 @@
 
 ---
 
-### 71. [Flock cameras shared license plate data without permission](https://www.malwarebytes.com/blog/privacy/2026/02/flock-cameras-shared-license-plate-data-without-permission)
+### 71. [Open the wrong “PDF” and attackers gain remote access to your PC](https://www.malwarebytes.com/blog/news/2026/02/open-the-wrong-pdf-and-attackers-gain-remote-access-to-your-pc)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 05 Feb 2026 13:48:40 GMT  
+**Severity:** High  
+**Categories:** Malware, Phishing  
+
+---
+
+### 72. [Flock cameras shared license plate data without permission](https://www.malwarebytes.com/blog/privacy/2026/02/flock-cameras-shared-license-plate-data-without-permission)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 05 Feb 2026 11:24:17 GMT  
@@ -640,7 +648,7 @@
 
 ---
 
-### 72. [Grok continues producing sexualized images after promised fixes](https://www.malwarebytes.com/blog/news/2026/02/grok-continues-producing-sexualized-images-after-promised-fixes)
+### 73. [Grok continues producing sexualized images after promised fixes](https://www.malwarebytes.com/blog/news/2026/02/grok-continues-producing-sexualized-images-after-promised-fixes)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Feb 2026 13:50:15 GMT  
@@ -649,7 +657,7 @@
 
 ---
 
-### 73. [Firefox is giving users the AI off switch](https://www.malwarebytes.com/blog/news/2026/02/firefox-is-giving-users-the-ai-off-switch)
+### 74. [Firefox is giving users the AI off switch](https://www.malwarebytes.com/blog/news/2026/02/firefox-is-giving-users-the-ai-off-switch)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Feb 2026 12:07:50 GMT  
@@ -658,7 +666,7 @@
 
 ---
 
-### 74. [An AI plush toy exposed thousands of private chats with children](https://www.malwarebytes.com/blog/news/2026/02/an-ai-plush-toy-exposed-thousands-of-private-chats-with-children)
+### 75. [An AI plush toy exposed thousands of private chats with children](https://www.malwarebytes.com/blog/news/2026/02/an-ai-plush-toy-exposed-thousands-of-private-chats-with-children)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Feb 2026 16:55:51 GMT  
@@ -667,7 +675,7 @@
 
 ---
 
-### 75. [AT&amp;T breach data resurfaces with new risks for customers](https://www.malwarebytes.com/blog/news/2026/02/att-breach-data-resurfaces-with-new-risks-for-customers)
+### 76. [AT&amp;T breach data resurfaces with new risks for customers](https://www.malwarebytes.com/blog/news/2026/02/att-breach-data-resurfaces-with-new-risks-for-customers)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Feb 2026 11:48:18 GMT  
@@ -676,7 +684,7 @@
 
 ---
 
-### 76. [Apple’s new iOS setting addresses a hidden layer of location tracking](https://www.malwarebytes.com/blog/mobile/2026/02/apples-new-ios-setting-addresses-a-hidden-layer-of-location-tracking)
+### 77. [Apple’s new iOS setting addresses a hidden layer of location tracking](https://www.malwarebytes.com/blog/mobile/2026/02/apples-new-ios-setting-addresses-a-hidden-layer-of-location-tracking)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Feb 2026 11:20:19 GMT  
@@ -685,7 +693,7 @@
 
 ---
 
-### 77. [[updated] A fake cloud storage alert that ends at Freecash](https://www.malwarebytes.com/blog/news/2026/02/a-fake-cloud-storage-alert-that-ends-at-freecash)
+### 78. [[updated] A fake cloud storage alert that ends at Freecash](https://www.malwarebytes.com/blog/news/2026/02/a-fake-cloud-storage-alert-that-ends-at-freecash)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Feb 2026 10:38:35 GMT  
@@ -694,7 +702,7 @@
 
 ---
 
-### 78. [How Manifest v3 forced us to rethink Browser Guard, and why that’s a good thing](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/02/how-manifest-v3-forced-us-to-rethink-browser-guard-and-why-thats-a-good-thing)
+### 79. [How Manifest v3 forced us to rethink Browser Guard, and why that’s a good thing](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/02/how-manifest-v3-forced-us-to-rethink-browser-guard-and-why-thats-a-good-thing)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 02 Feb 2026 18:11:11 GMT  
@@ -703,21 +711,12 @@
 
 ---
 
-### 79. [Scam-checking just got easier: Malwarebytes is now in ChatGPT](https://www.malwarebytes.com/blog/product/2026/02/scam-checking-just-got-easier-malwarebytes-is-now-in-chatgpt)
+### 80. [Scam-checking just got easier: Malwarebytes is now in ChatGPT](https://www.malwarebytes.com/blog/product/2026/02/scam-checking-just-got-easier-malwarebytes-is-now-in-chatgpt)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 02 Feb 2026 13:45:00 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 80. [How fake party invitations are being used to install remote access tools](https://www.malwarebytes.com/blog/threat-intel/2026/02/how-fake-party-invitations-are-being-used-to-install-remote-access-tools)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 02 Feb 2026 10:18:01 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
