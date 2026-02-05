@@ -43,7 +43,7 @@
     "title": "Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends",
     "link": "https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html",
     "published": "Thu, 05 Feb 2026 15:55:00 +0530",
-    "summary": "The elusive Iranian threat group known as Infy (aka Prince of Persia) has evolved its tactics as part of efforts to hide its tracks, even as it readied new command-and-control (C2) infrastructure coinciding with the end of the widespread internet blackout the regime imposed at the start of the month.\n\"The threat actor stopped maintaining its C2 servers on January 8 for the first time since we",
+    "summary": "The elusive Iranian threat group known as Infy (aka Prince of Persia) has evolved its tactics as part of efforts to hide its tracks, even as it readied new command-and-control (C2) infrastructure coinciding with the end of the widespread internet blackout the regime imposed at the start of January 2026.\n\"The threat actor stopped maintaining its C2 servers on January 8 for the first time since we",
     "analysis": {
       "issue": "Infy hackers revived operations post-Iran blackout, deploying Tornado malware, Telegram C2, and WinRAR exploits",
       "solution": null,
@@ -311,8 +311,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-68613",
-        "CVE-2026-25049"
+        "CVE-2026-25049",
+        "CVE-2025-68613"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -332,9 +332,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-22224",
         "CVE-2025-22226",
-        "CVE-2025-22225",
-        "CVE-2025-22224"
+        "CVE-2025-22225"
       ],
       "threat_categories": [
         "Ransomware",
@@ -412,8 +412,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20953",
         "CVE-2026-20805",
+        "CVE-2026-20953",
         "CVE-2026-20952"
       ],
       "threat_categories": [
@@ -529,15 +529,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62458",
-        "CVE-2025-62554",
-        "CVE-2025-62470",
-        "CVE-2025-62557",
         "CVE-2025-62221",
-        "CVE-2025-59517",
+        "CVE-2025-62557",
+        "CVE-2025-62458",
         "CVE-2025-59516",
+        "CVE-2025-59517",
+        "CVE-2025-62470",
         "CVE-2025-62562",
-        "CVE-2025-62472"
+        "CVE-2025-62472",
+        "CVE-2025-62554"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -738,8 +738,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-55182",
-        "CVE-2025-61882"
+        "CVE-2025-61882",
+        "CVE-2025-55182"
       ],
       "threat_categories": [
         "Ransomware",
@@ -782,8 +782,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2025-57779",
-        "CVE-2025-58085",
-        "CVE-2025-59488"
+        "CVE-2025-59488",
+        "CVE-2025-58085"
       ],
       "threat_categories": [
         "Vulnerability",
