@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-05 20:45:12 UTC
+**Last Updated:** 2026-02-05 21:34:50 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,16 @@
 
 ---
 
-### 11. [Microsoft to shut down Exchange Online EWS in April 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/)
+### 11. [Ransomware gang uses ISPsystem VMs for stealthy payload delivery](https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 05 Feb 2026 15:57:11 -0500  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 12. [Microsoft to shut down Exchange Online EWS in April 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 13:07:41 -0500  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Italian university La Sapienza goes offline after cyberattack](https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/)
+### 13. [Italian university La Sapienza goes offline after cyberattack](https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 12:02:45 -0500  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Romanian oil pipeline operator Conpet discloses cyberattack](https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/)
+### 14. [Romanian oil pipeline operator Conpet discloses cyberattack](https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 10:15:49 -0500  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [When cloud logs fall short, the network tells the truth](https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/)
+### 15. [When cloud logs fall short, the network tells the truth](https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 10:00:10 -0500  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [Newsletter platform Substack notifies users of data breach](https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/)
+### 16. [Newsletter platform Substack notifies users of data breach](https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 07:54:48 -0500  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [Data breach at fintech firm Betterment exposes 1.4 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/)
+### 17. [Data breach at fintech firm Betterment exposes 1.4 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 06:16:12 -0500  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [Zendesk spam wave returns, floods users with 'Activate account' emails](https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/)
+### 18. [Zendesk spam wave returns, floods users with 'Activate account' emails](https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 05:22:36 -0500  
@@ -158,7 +167,7 @@
 
 ---
 
-### 18. [Hackers compromise NGINX servers to redirect user traffic](https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/)
+### 19. [Hackers compromise NGINX servers to redirect user traffic](https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 18:26:56 -0500  
@@ -167,23 +176,13 @@
 
 ---
 
-### 19. [Critical n8n flaws disclosed along with public exploits](https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/)
+### 20. [Critical n8n flaws disclosed along with public exploits](https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 16:14:36 -0500  
 **Severity:** Critical  
 **CVEs:** CVE-2026-25049, CVE-2025-68613  
 **Categories:** Vulnerability  
-
----
-
-### 20. [CISA: VMware ESXi flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 04 Feb 2026 12:38:46 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2025-22225, CVE-2025-22224, CVE-2025-22226  
-**Categories:** Ransomware, Vulnerability  
 
 ---
 
@@ -201,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
+**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20805  
 **Categories:** Vulnerability  
 
 ---
@@ -256,7 +255,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62458, CVE-2025-59516, CVE-2025-62557, CVE-2025-62221, CVE-2025-62472, CVE-2025-62554, CVE-2025-59517, CVE-2025-62470, CVE-2025-62562  
+**CVEs:** CVE-2025-62221, CVE-2025-62554, CVE-2025-62557, CVE-2025-59517, CVE-2025-62562, CVE-2025-59516, CVE-2025-62458, CVE-2025-62470, CVE-2025-62472  
 **Categories:** Vulnerability  
 
 ---
@@ -419,7 +418,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-57779, CVE-2025-58085, CVE-2025-59488  
+**CVEs:** CVE-2025-58085, CVE-2025-57779, CVE-2025-59488  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -614,7 +613,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
