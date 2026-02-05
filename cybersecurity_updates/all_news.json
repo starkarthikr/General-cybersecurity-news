@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "The Buyer’s Guide to AI Usage Control",
+    "link": "https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html",
+    "published": "Thu, 05 Feb 2026 17:00:00 +0530",
+    "summary": "Today’s “AI everywhere” reality is woven into everyday workflows across the enterprise, embedded in SaaS platforms, browsers, copilots, extensions, and a rapidly expanding universe of shadow tools that appear faster than security teams can track. Yet most organizations still rely on legacy controls that operate far away from where AI interactions actually occur. The result is a widening",
+    "analysis": {
+      "issue": "AI adoption is surging, but enterprises lack visibility—AI Usage Control enables real-time governance of interactions and risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends",
+    "link": "https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html",
+    "published": "Thu, 05 Feb 2026 15:55:00 +0530",
+    "summary": "The elusive Iranian threat group known as Infy (aka Prince of Persia) has evolved its tactics as part of efforts to hide its tracks, even as it readied new command-and-control (C2) infrastructure coinciding with the end of the widespread internet blackout the regime imposed at the start of the month.\n\"The threat actor stopped maintaining its C2 servers on January 8 for the first time since we",
+    "analysis": {
+      "issue": "Infy hackers revived operations post-Iran blackout, deploying Tornado malware, Telegram C2, and WinRAR exploits",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
     "link": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
     "published": "Thu, 05 Feb 2026 11:46:00 +0530",
@@ -148,38 +185,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
-    "link": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
-    "published": "Wed, 04 Feb 2026 11:56:00 +0530",
-    "summary": "The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threats.\nThe move marks a shift from a reactive to a proactive approach to ensure that malicious extensions don't end up getting published on the Open VSX Registry.",
+    "source": "Bleeping Computer",
+    "title": "Data breach at fintech firm Betterment exposes 1.4 million accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/",
+    "published": "Thu, 05 Feb 2026 06:16:12 -0500",
+    "summary": "Hackers stole email addresses and other personal information from 1.4 million accounts after breaching the systems of automated investment platform Betterment in January. [...]",
     "analysis": {
-      "issue": "Eclipse Foundation to require pre-publish security checks for Open VSX extensions to reduce VS Code supply-chain risk",
+      "issue": "Hackers stole email addresses and other personal information from 1",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach",
+        "DDoS"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
-    "link": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
-    "published": "Wed, 04 Feb 2026 11:20:00 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) to its Known Exploited Vulnerabilities (KEV) catalog, flagging it as actively exploited in attacks.\nThe vulnerability, tracked as CVE-2025-40551 (CVSS score: 9.8), is a untrusted data deserialization vulnerability that could pave the way for remote",
+    "source": "Bleeping Computer",
+    "title": "Zendesk spam wave returns, floods users with 'Activate account' emails",
+    "link": "https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/",
+    "published": "Thu, 05 Feb 2026 05:22:36 -0500",
+    "summary": "A fresh wave of spam is hitting inboxes worldwide, with users reporting that they are once again being bombarded by automated emails generated through companies' unsecured Zendesk support systems. Some recipients say they are receiving hundreds of messages with strange or alarming subject lines. such as 'Activate account...' [...]",
     "analysis": {
-      "issue": "CISA adds an actively exploited SolarWinds Web Help Desk RCE flaw to KEV, ordering federal agencies to patch by February 2026",
+      "issue": "A fresh wave of spam is hitting inboxes worldwide, with users reporting that they are once again being bombarded by automated emails generated through companies' unsecured Zendesk support systems",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "DDoS"
       ]
     }
   },
@@ -227,16 +265,16 @@
     "title": "CISA: VMware ESXi flaw now exploited in ransomware attacks",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/",
     "published": "Wed, 04 Feb 2026 12:38:46 -0500",
-    "summary": "CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was previously used in zero-day attacks. [...]",
+    "summary": "CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was used in zero-day attacks since at least February 2024. [...]",
     "analysis": {
-      "issue": "CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was previously used in zero-day attacks",
+      "issue": "CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was used in zero-day attacks since at least February 2024",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-22226",
         "CVE-2025-22225",
+        "CVE-2025-22226",
         "CVE-2025-22224"
       ],
       "threat_categories": [
@@ -342,42 +380,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Owner of Incognito dark web drugs market gets 30 years in prison",
-    "link": "https://www.bleepingcomputer.com/news/security/taiwanese-man-gets-30-years-for-operating-dark-web-drug-market/",
-    "published": "Wed, 04 Feb 2026 06:24:23 -0500",
-    "summary": "A Taiwanese man was sentenced to 30 years in prison for operating Incognito Market, one of the world's largest online narcotics marketplaces that sold over $105 million worth of illegal drugs to customers worldwide. [...]",
-    "analysis": {
-      "issue": "A Taiwanese man was sentenced to 30 years in prison for operating Incognito Market, one of the world's largest online narcotics marketplaces that sold over $105 million worth of illegal drugs to customers worldwide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Coinbase confirms insider breach linked to leaked support tool screenshots",
-    "link": "https://www.bleepingcomputer.com/news/security/coinbase-confirms-insider-breach-linked-to-leaked-support-tool-screenshots/",
-    "published": "Tue, 03 Feb 2026 21:04:23 -0500",
-    "summary": "Coinbase has confirmed an insider breach after a contractor improperly accessed the data of approximately thirty customers, which BleepingComputer has learned is a new incident that occurred in December. [...]",
-    "analysis": {
-      "issue": "Coinbase has confirmed an insider breach after a contractor improperly accessed the data of approximately thirty customers, which BleepingComputer has learned is a new incident that occurred in December",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
     "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
@@ -448,9 +450,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20953",
         "CVE-2026-20805",
-        "CVE-2026-20952",
-        "CVE-2026-20953"
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -565,20 +567,55 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-59516",
-        "CVE-2025-62554",
         "CVE-2025-62221",
-        "CVE-2025-62562",
         "CVE-2025-62472",
-        "CVE-2025-62470",
         "CVE-2025-59517",
+        "CVE-2025-62470",
         "CVE-2025-62557",
-        "CVE-2025-62458"
+        "CVE-2025-62554",
+        "CVE-2025-62458",
+        "CVE-2025-59516",
+        "CVE-2025-62562"
       ],
       "threat_categories": [
         "Vulnerability"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says",
+    "link": "https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/",
+    "published": "Thu, 05 Feb 2026 12:29:34 +0000",
+    "summary": "<p>Italy has foiled a series of cyberattacks targeting some of its foreign ministry offices, including one in Washington.</p>\n<p>The post <a href=\"https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/\">Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "SystemBC Infects 10,000 Devices After Defying Law Enforcement Takedown",
+    "link": "https://www.securityweek.com/systembc-infects-10000-devices-after-defying-law-enforcement-takedown/",
+    "published": "Thu, 05 Feb 2026 12:18:55 +0000",
+    "summary": "<p>The malware is known for dropping ransomware and other payloads, and for abusing infected machines to proxy traffic.</p>\n<p>The post <a href=\"https://www.securityweek.com/systembc-infects-10000-devices-after-defying-law-enforcement-takedown/\">SystemBC Infects 10,000 Devices After Defying Law Enforcement Takedown</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical N8n Sandbox Escape Could Lead to Server Compromise",
+    "link": "https://www.securityweek.com/critical-n8n-sandbox-escape-could-lead-to-server-compromise/",
+    "published": "Thu, 05 Feb 2026 11:23:19 +0000",
+    "summary": "<p>The vulnerability could allow attackers to execute arbitrary commands and steal credentials and other secrets.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-n8n-sandbox-escape-could-lead-to-server-compromise/\">Critical N8n Sandbox Escape Could Lead to Server Compromise</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries",
+    "link": "https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/",
+    "published": "Thu, 05 Feb 2026 11:00:00 +0000",
+    "summary": "<p>Palo Alto Networks has not attributed the APT activity to any specific country, but evidence points to China.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/\">Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Cisco, F5 Patch High-Severity Vulnerabilities",
+    "link": "https://www.securityweek.com/cisco-f5-patch-high-severity-vulnerabilities/",
+    "published": "Thu, 05 Feb 2026 09:54:34 +0000",
+    "summary": "<p>The security defects can lead to DoS conditions, arbitrary command execution, and privilege escalation.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-f5-patch-high-severity-vulnerabilities/\">Cisco, F5 Patch High-Severity Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -616,39 +653,23 @@
     "summary": "<p>The startup will use the funding to accelerate product development and go-to-market operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/orion-raises-32-million-for-data-security/\">Orion Raises $32 Million for Data Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "DockerDash Flaw in Docker AI Assistant Leads to RCE, Data Theft",
-    "link": "https://www.securityweek.com/dockerdash-flaw-in-docker-ai-assistant-leads-to-rce-data-theft/",
-    "published": "Wed, 04 Feb 2026 11:34:55 +0000",
-    "summary": "<p>The critical vulnerability exists in the contextual trust in MCP Gateway architecture, as instructions are passed without validation.</p>\n<p>The post <a href=\"https://www.securityweek.com/dockerdash-flaw-in-docker-ai-assistant-leads-to-rce-data-theft/\">DockerDash Flaw in Docker AI Assistant Leads to RCE, Data Theft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Cryptominers, Reverse Shells Dropped in Recent React2Shell Attacks",
-    "link": "https://www.securityweek.com/cryptominers-reverse-shells-dropped-in-recent-react2shell-attacks/",
-    "published": "Wed, 04 Feb 2026 10:00:14 +0000",
-    "summary": "<p>Two IP addresses accounted for the majority of the 1.4 million exploitation attempts observed over the past week.</p>\n<p>The post <a href=\"https://www.securityweek.com/cryptominers-reverse-shells-dropped-in-recent-react2shell-attacks/\">Cryptominers, Reverse Shells Dropped in Recent React2Shell Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Fresh SolarWinds Vulnerability Exploited in Attacks",
-    "link": "https://www.securityweek.com/fresh-solarwinds-vulnerability-exploited-in-attacks/",
-    "published": "Wed, 04 Feb 2026 09:50:56 +0000",
-    "summary": "<p>The critical-severity SolarWinds Web Help Desk flaw could lead to unauthenticated remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/fresh-solarwinds-vulnerability-exploited-in-attacks/\">Fresh SolarWinds Vulnerability Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Security Analysis of Moltbook Agent Network: Bot-to-Bot Prompt Injection and Data Leaks",
-    "link": "https://www.securityweek.com/security-analysis-of-moltbook-agent-network-bot-to-bot-prompt-injection-and-data-leaks/",
-    "published": "Wed, 04 Feb 2026 08:43:18 +0000",
-    "summary": "<p>Wiz and Permiso have analyzed the AI agent social network and found serious security issues and threats.</p>\n<p>The post <a href=\"https://www.securityweek.com/security-analysis-of-moltbook-agent-network-bot-to-bot-prompt-injection-and-data-leaks/\">Security Analysis of Moltbook Agent Network: Bot-to-Bot Prompt Injection and Data Leaks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "RADICL Raises $31 Million for vSOC",
-    "link": "https://www.securityweek.com/radicl-raises-31-million-for-vsoc/",
-    "published": "Tue, 03 Feb 2026 15:32:00 +0000",
-    "summary": "<p>The company will use the investment to accelerate development of its autonomous virtual security operations center (vSOC).</p>\n<p>The post <a href=\"https://www.securityweek.com/radicl-raises-31-million-for-vsoc/\">RADICL Raises $31 Million for vSOC</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "Knife Cutting the Edge: Disclosing a China-nexus gateway-monitoring AitM framework",
+    "link": "https://blog.talosintelligence.com/knife-cutting-the-edge/",
+    "published": "Thu, 05 Feb 2026 11:00:55 GMT",
+    "summary": "Cisco Talos uncovered “DKnife,” a fully featured gateway-monitoring and adversary-in-the-middle (AitM) framework comprising seven Linux-based implants.",
+    "analysis": {
+      "issue": "Since 2023, Cisco Talos has continuously tracked the MOONSHINE exploit kit and the DarkNimbus backdoor it distributes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
   },
   {
     "source": "Talos Blog",
@@ -763,8 +784,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2025-58085",
-        "CVE-2025-59488",
-        "CVE-2025-57779"
+        "CVE-2025-57779",
+        "CVE-2025-59488"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -827,33 +848,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Microsoft Patch Tuesday for January 2026 — Snort rules and prominent vulnerabilities",
-    "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-january-2026/",
-    "published": "Tue, 13 Jan 2026 18:29:13 GMT",
-    "summary": "Microsoft has released its monthly security update for January 2026, which includes 112 vulnerabilities affecting a range of products, including 8 that Microsoft marked as “critical”.",
-    "analysis": {
-      "issue": "Microsoft has released its monthly security update for January 2026, which includes 112 vulnerabilities affecting a range of products, including 8 that Microsoft marked as “critical”",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20952",
-        "CVE-2026-20953",
-        "CVE-2026-20955",
-        "CVE-2026-20805",
-        "CVE-2026-20822",
-        "CVE-2026-20876",
-        "CVE-2026-20854",
-        "CVE-2026-20944"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1209,8 +1203,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1235,6 +1229,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Flock cameras shared license plate data without permission",
+    "link": "https://www.malwarebytes.com/blog/privacy/2026/02/flock-cameras-shared-license-plate-data-without-permission",
+    "published": "Thu, 05 Feb 2026 11:24:17 GMT",
+    "summary": "A California city pulled the plug on its entire  ALPR system when it found Flock had shared data with hundreds of agencies without permission.",
+    "analysis": {
+      "issue": "Mountain View, California, pulled the plug on its entire license plate reader camera network this week",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1397,24 +1409,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (January 26 &#8211; February 1)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-january-26-february-1",
-    "published": "Mon, 02 Feb 2026 08:02:00 GMT",
-    "summary": "A list of topics we covered in the week of January 26 to February 1 of 2026",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },

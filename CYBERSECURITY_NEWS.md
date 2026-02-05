@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-05 09:50:02 UTC
+**Last Updated:** 2026-02-05 12:54:03 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows](https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html)
+### 1. [The Buyer’s Guide to AI Usage Control](https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 05 Feb 2026 17:00:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends](https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 05 Feb 2026 15:55:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 3. [Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows](https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Feb 2026 11:46:00 +0530  
@@ -14,7 +32,7 @@
 
 ---
 
-### 2. [Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign](https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html)
+### 4. [Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign](https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Feb 2026 10:26:00 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models](https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html)
+### 5. [Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models](https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 23:22:00 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files](https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html)
+### 6. [DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files](https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 22:54:00 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns](https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html)
+### 7. [China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns](https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 19:39:00 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Orchid Security Introduces Continuous Identity Observability for Enterprise Applications](https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html)
+### 8. [Orchid Security Introduces Continuous Identity Observability for Enterprise Applications](https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 17:28:00 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [The First 90 Seconds: How Early Decisions Shape Incident Response Investigations](https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html)
+### 9. [The First 90 Seconds: How Early Decisions Shape Incident Response Investigations](https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 15:30:00 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers](https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html)
+### 10. [Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers](https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 13:12:00 +0530  
@@ -77,25 +95,25 @@
 
 ---
 
-### 9. [Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions](https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html)
+### 11. [Data breach at fintech firm Betterment exposes 1.4 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 04 Feb 2026 11:56:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 05 Feb 2026 06:16:12 -0500  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Data Breach, DDoS  
 
 ---
 
-### 10. [CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html)
+### 12. [Zendesk spam wave returns, floods users with 'Activate account' emails](https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 04 Feb 2026 11:20:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 05 Feb 2026 05:22:36 -0500  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** DDoS  
 
 ---
 
-### 11. [Hackers compromise NGINX servers to redirect user traffic](https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/)
+### 13. [Hackers compromise NGINX servers to redirect user traffic](https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 18:26:56 -0500  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [Critical n8n flaws disclosed along with public exploits](https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/)
+### 14. [Critical n8n flaws disclosed along with public exploits](https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 16:14:36 -0500  
@@ -114,17 +132,17 @@
 
 ---
 
-### 13. [CISA: VMware ESXi flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/)
+### 15. [CISA: VMware ESXi flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 12:38:46 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2025-22226, CVE-2025-22225, CVE-2025-22224  
+**CVEs:** CVE-2025-22225, CVE-2025-22226, CVE-2025-22224  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 14. [CISA warns of five-year-old GitLab flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/)
+### 16. [CISA warns of five-year-old GitLab flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 10:42:31 -0500  
@@ -134,7 +152,7 @@
 
 ---
 
-### 15. [The Double-Edged Sword of Non-Human Identities](https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/)
+### 17. [The Double-Edged Sword of Non-Human Identities](https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 10:05:15 -0500  
@@ -143,7 +161,7 @@
 
 ---
 
-### 16. [EDR killer tool uses signed kernel driver from forensic software](https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/)
+### 18. [EDR killer tool uses signed kernel driver from forensic software](https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 09:17:45 -0500  
@@ -152,7 +170,7 @@
 
 ---
 
-### 17. [New Amaranth Dragon cyberespionage group exploits WinRAR flaw](https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/)
+### 19. [New Amaranth Dragon cyberespionage group exploits WinRAR flaw](https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 09:00:00 -0500  
@@ -162,30 +180,12 @@
 
 ---
 
-### 18. [Microsoft rolls out native Sysmon monitoring in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/)
+### 20. [Microsoft rolls out native Sysmon monitoring in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 07:58:20 -0500  
 **Severity:** Low  
 **Categories:** APT  
-
----
-
-### 19. [Owner of Incognito dark web drugs market gets 30 years in prison](https://www.bleepingcomputer.com/news/security/taiwanese-man-gets-30-years-for-operating-dark-web-drug-market/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 04 Feb 2026 06:24:23 -0500  
-**Severity:** Low  
-**Categories:** DDoS  
-
----
-
-### 20. [Coinbase confirms insider breach linked to leaked support tool screenshots](https://www.bleepingcomputer.com/news/security/coinbase-confirms-insider-breach-linked-to-leaked-support-tool-screenshots/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 03 Feb 2026 21:04:23 -0500  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
@@ -221,7 +221,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
+**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
 **Categories:** Vulnerability  
 
 ---
@@ -276,82 +276,91 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-59516, CVE-2025-62554, CVE-2025-62221, CVE-2025-62562, CVE-2025-62472, CVE-2025-62470, CVE-2025-59517, CVE-2025-62557, CVE-2025-62458  
+**CVEs:** CVE-2025-62221, CVE-2025-62472, CVE-2025-59517, CVE-2025-62470, CVE-2025-62557, CVE-2025-62554, CVE-2025-62458, CVE-2025-59516, CVE-2025-62562  
 **Categories:** Vulnerability  
 
 ---
 
-### 31. [Blockchain Intelligence Firm TRM Labs Raises $70 Million at $1 Billion Valuation](https://www.securityweek.com/blockchain-intelligence-firm-trm-labs-raises-70-million-at-1-billion-valuation/)
+### 31. [Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says](https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/)
+
+**Source:** Security Week  
+**Published:** Thu, 05 Feb 2026 12:29:34 +0000  
+
+---
+
+### 32. [SystemBC Infects 10,000 Devices After Defying Law Enforcement Takedown](https://www.securityweek.com/systembc-infects-10000-devices-after-defying-law-enforcement-takedown/)
+
+**Source:** Security Week  
+**Published:** Thu, 05 Feb 2026 12:18:55 +0000  
+
+---
+
+### 33. [Critical N8n Sandbox Escape Could Lead to Server Compromise](https://www.securityweek.com/critical-n8n-sandbox-escape-could-lead-to-server-compromise/)
+
+**Source:** Security Week  
+**Published:** Thu, 05 Feb 2026 11:23:19 +0000  
+
+---
+
+### 34. [Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries](https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/)
+
+**Source:** Security Week  
+**Published:** Thu, 05 Feb 2026 11:00:00 +0000  
+
+---
+
+### 35. [Cisco, F5 Patch High-Severity Vulnerabilities](https://www.securityweek.com/cisco-f5-patch-high-severity-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Thu, 05 Feb 2026 09:54:34 +0000  
+
+---
+
+### 36. [Blockchain Intelligence Firm TRM Labs Raises $70 Million at $1 Billion Valuation](https://www.securityweek.com/blockchain-intelligence-firm-trm-labs-raises-70-million-at-1-billion-valuation/)
 
 **Source:** Security Week  
 **Published:** Wed, 04 Feb 2026 14:27:13 +0000  
 
 ---
 
-### 32. [Vulnerabilities Allowed Full Compromise of Google Looker Instances](https://www.securityweek.com/vulnerabilities-allowed-full-compromise-of-google-looker-instances/)
+### 37. [Vulnerabilities Allowed Full Compromise of Google Looker Instances](https://www.securityweek.com/vulnerabilities-allowed-full-compromise-of-google-looker-instances/)
 
 **Source:** Security Week  
 **Published:** Wed, 04 Feb 2026 13:41:08 +0000  
 
 ---
 
-### 33. [Cyber Insights 2026: Cyberwar and Rising Nation State Threats](https://www.securityweek.com/cyber-insights-2026-cyberwar-and-rising-nation-state-threats/)
+### 38. [Cyber Insights 2026: Cyberwar and Rising Nation State Threats](https://www.securityweek.com/cyber-insights-2026-cyberwar-and-rising-nation-state-threats/)
 
 **Source:** Security Week  
 **Published:** Wed, 04 Feb 2026 13:00:00 +0000  
 
 ---
 
-### 34. [Varonis Acquisition of AllTrue.ai Valued at $150 Million](https://www.securityweek.com/varonis-acquisition-of-alltrue-ai-valued-at-150-million/)
+### 39. [Varonis Acquisition of AllTrue.ai Valued at $150 Million](https://www.securityweek.com/varonis-acquisition-of-alltrue-ai-valued-at-150-million/)
 
 **Source:** Security Week  
 **Published:** Wed, 04 Feb 2026 12:39:56 +0000  
 
 ---
 
-### 35. [Orion Raises $32 Million for Data Security](https://www.securityweek.com/orion-raises-32-million-for-data-security/)
+### 40. [Orion Raises $32 Million for Data Security](https://www.securityweek.com/orion-raises-32-million-for-data-security/)
 
 **Source:** Security Week  
 **Published:** Wed, 04 Feb 2026 12:07:13 +0000  
 
 ---
 
-### 36. [DockerDash Flaw in Docker AI Assistant Leads to RCE, Data Theft](https://www.securityweek.com/dockerdash-flaw-in-docker-ai-assistant-leads-to-rce-data-theft/)
+### 41. [Knife Cutting the Edge: Disclosing a China-nexus gateway-monitoring AitM framework](https://blog.talosintelligence.com/knife-cutting-the-edge/)
 
-**Source:** Security Week  
-**Published:** Wed, 04 Feb 2026 11:34:55 +0000  
-
----
-
-### 37. [Cryptominers, Reverse Shells Dropped in Recent React2Shell Attacks](https://www.securityweek.com/cryptominers-reverse-shells-dropped-in-recent-react2shell-attacks/)
-
-**Source:** Security Week  
-**Published:** Wed, 04 Feb 2026 10:00:14 +0000  
+**Source:** Talos Blog  
+**Published:** Thu, 05 Feb 2026 11:00:55 GMT  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
 
 ---
 
-### 38. [Fresh SolarWinds Vulnerability Exploited in Attacks](https://www.securityweek.com/fresh-solarwinds-vulnerability-exploited-in-attacks/)
-
-**Source:** Security Week  
-**Published:** Wed, 04 Feb 2026 09:50:56 +0000  
-
----
-
-### 39. [Security Analysis of Moltbook Agent Network: Bot-to-Bot Prompt Injection and Data Leaks](https://www.securityweek.com/security-analysis-of-moltbook-agent-network-bot-to-bot-prompt-injection-and-data-leaks/)
-
-**Source:** Security Week  
-**Published:** Wed, 04 Feb 2026 08:43:18 +0000  
-
----
-
-### 40. [RADICL Raises $31 Million for vSOC](https://www.securityweek.com/radicl-raises-31-million-for-vsoc/)
-
-**Source:** Security Week  
-**Published:** Tue, 03 Feb 2026 15:32:00 +0000  
-
----
-
-### 41. [I'm locked in!](https://blog.talosintelligence.com/im-locked-in/)
+### 42. [I'm locked in!](https://blog.talosintelligence.com/im-locked-in/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 19:00:34 GMT  
@@ -360,7 +369,7 @@
 
 ---
 
-### 42. [Microsoft releases update to address zero-day vulnerability in Microsoft Office](https://blog.talosintelligence.com/microsoft-oob-update-january-2026/)
+### 43. [Microsoft releases update to address zero-day vulnerability in Microsoft Office](https://blog.talosintelligence.com/microsoft-oob-update-january-2026/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 14:43:54 GMT  
@@ -370,7 +379,7 @@
 
 ---
 
-### 43. [Dissecting UAT-8099: New persistence mechanisms and regional focus](https://blog.talosintelligence.com/uat-8099-new-persistence-mechanisms-and-regional-focus/)
+### 44. [Dissecting UAT-8099: New persistence mechanisms and regional focus](https://blog.talosintelligence.com/uat-8099-new-persistence-mechanisms-and-regional-focus/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 11:00:11 GMT  
@@ -379,7 +388,7 @@
 
 ---
 
-### 44. [IR Trends Q4 2025: Exploitation remains dominant, phishing campaign targets Native American tribal organizations](https://blog.talosintelligence.com/ir-trends-q4-2025/)
+### 45. [IR Trends Q4 2025: Exploitation remains dominant, phishing campaign targets Native American tribal organizations](https://blog.talosintelligence.com/ir-trends-q4-2025/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 11:00:07 GMT  
@@ -389,7 +398,7 @@
 
 ---
 
-### 45. [I scan, you scan, we all scan for...  knowledge?](https://blog.talosintelligence.com/i-scan-you-scan-we-all-scan-for-knowledge/)
+### 46. [I scan, you scan, we all scan for...  knowledge?](https://blog.talosintelligence.com/i-scan-you-scan-we-all-scan-for-knowledge/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 19:00:11 GMT  
@@ -398,17 +407,17 @@
 
 ---
 
-### 46. [Foxit, Epic Games Store, MedDreams vulnerabilities](https://blog.talosintelligence.com/foxi-and-epic-games/)
+### 47. [Foxit, Epic Games Store, MedDreams vulnerabilities](https://blog.talosintelligence.com/foxi-and-epic-games/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-58085, CVE-2025-59488, CVE-2025-57779  
+**CVEs:** CVE-2025-58085, CVE-2025-57779, CVE-2025-59488  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 47. [Predicting 2026](https://blog.talosintelligence.com/predicting-2026/)
+### 48. [Predicting 2026](https://blog.talosintelligence.com/predicting-2026/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 15 Jan 2026 19:00:15 GMT  
@@ -417,7 +426,7 @@
 
 ---
 
-### 48. [UAT-8837 targets critical infrastructure sectors in North America](https://blog.talosintelligence.com/uat-8837/)
+### 49. [UAT-8837 targets critical infrastructure sectors in North America](https://blog.talosintelligence.com/uat-8837/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 15 Jan 2026 11:00:47 GMT  
@@ -427,22 +436,12 @@
 
 ---
 
-### 49. [Brushstrokes and breaches with Terryn Valikodath](https://blog.talosintelligence.com/brushstrokes-and-breaches-with-terryn-valikodath/)
+### 50. [Brushstrokes and breaches with Terryn Valikodath](https://blog.talosintelligence.com/brushstrokes-and-breaches-with-terryn-valikodath/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 14 Jan 2026 11:00:25 GMT  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 50. [Microsoft Patch Tuesday for January 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-january-2026/)
-
-**Source:** Talos Blog  
-**Published:** Tue, 13 Jan 2026 18:29:13 GMT  
-**Severity:** Critical  
-**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20955, CVE-2026-20805, CVE-2026-20822, CVE-2026-20876, CVE-2026-20854, CVE-2026-20944  
-**Categories:** Vulnerability  
 
 ---
 
@@ -617,7 +616,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -632,7 +631,16 @@
 
 ---
 
-### 71. [Grok continues producing sexualized images after promised fixes](https://www.malwarebytes.com/blog/news/2026/02/grok-continues-producing-sexualized-images-after-promised-fixes)
+### 71. [Flock cameras shared license plate data without permission](https://www.malwarebytes.com/blog/privacy/2026/02/flock-cameras-shared-license-plate-data-without-permission)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 05 Feb 2026 11:24:17 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [Grok continues producing sexualized images after promised fixes](https://www.malwarebytes.com/blog/news/2026/02/grok-continues-producing-sexualized-images-after-promised-fixes)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Feb 2026 13:50:15 GMT  
@@ -641,7 +649,7 @@
 
 ---
 
-### 72. [Firefox is giving users the AI off switch](https://www.malwarebytes.com/blog/news/2026/02/firefox-is-giving-users-the-ai-off-switch)
+### 73. [Firefox is giving users the AI off switch](https://www.malwarebytes.com/blog/news/2026/02/firefox-is-giving-users-the-ai-off-switch)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Feb 2026 12:07:50 GMT  
@@ -650,7 +658,7 @@
 
 ---
 
-### 73. [An AI plush toy exposed thousands of private chats with children](https://www.malwarebytes.com/blog/news/2026/02/an-ai-plush-toy-exposed-thousands-of-private-chats-with-children)
+### 74. [An AI plush toy exposed thousands of private chats with children](https://www.malwarebytes.com/blog/news/2026/02/an-ai-plush-toy-exposed-thousands-of-private-chats-with-children)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Feb 2026 16:55:51 GMT  
@@ -659,7 +667,7 @@
 
 ---
 
-### 74. [AT&amp;T breach data resurfaces with new risks for customers](https://www.malwarebytes.com/blog/news/2026/02/att-breach-data-resurfaces-with-new-risks-for-customers)
+### 75. [AT&amp;T breach data resurfaces with new risks for customers](https://www.malwarebytes.com/blog/news/2026/02/att-breach-data-resurfaces-with-new-risks-for-customers)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Feb 2026 11:48:18 GMT  
@@ -668,7 +676,7 @@
 
 ---
 
-### 75. [Apple’s new iOS setting addresses a hidden layer of location tracking](https://www.malwarebytes.com/blog/mobile/2026/02/apples-new-ios-setting-addresses-a-hidden-layer-of-location-tracking)
+### 76. [Apple’s new iOS setting addresses a hidden layer of location tracking](https://www.malwarebytes.com/blog/mobile/2026/02/apples-new-ios-setting-addresses-a-hidden-layer-of-location-tracking)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Feb 2026 11:20:19 GMT  
@@ -677,7 +685,7 @@
 
 ---
 
-### 76. [[updated] A fake cloud storage alert that ends at Freecash](https://www.malwarebytes.com/blog/news/2026/02/a-fake-cloud-storage-alert-that-ends-at-freecash)
+### 77. [[updated] A fake cloud storage alert that ends at Freecash](https://www.malwarebytes.com/blog/news/2026/02/a-fake-cloud-storage-alert-that-ends-at-freecash)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Feb 2026 10:38:35 GMT  
@@ -686,7 +694,7 @@
 
 ---
 
-### 77. [How Manifest v3 forced us to rethink Browser Guard, and why that’s a good thing](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/02/how-manifest-v3-forced-us-to-rethink-browser-guard-and-why-thats-a-good-thing)
+### 78. [How Manifest v3 forced us to rethink Browser Guard, and why that’s a good thing](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/02/how-manifest-v3-forced-us-to-rethink-browser-guard-and-why-thats-a-good-thing)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 02 Feb 2026 18:11:11 GMT  
@@ -695,7 +703,7 @@
 
 ---
 
-### 78. [Scam-checking just got easier: Malwarebytes is now in ChatGPT](https://www.malwarebytes.com/blog/product/2026/02/scam-checking-just-got-easier-malwarebytes-is-now-in-chatgpt)
+### 79. [Scam-checking just got easier: Malwarebytes is now in ChatGPT](https://www.malwarebytes.com/blog/product/2026/02/scam-checking-just-got-easier-malwarebytes-is-now-in-chatgpt)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 02 Feb 2026 13:45:00 GMT  
@@ -704,21 +712,12 @@
 
 ---
 
-### 79. [How fake party invitations are being used to install remote access tools](https://www.malwarebytes.com/blog/threat-intel/2026/02/how-fake-party-invitations-are-being-used-to-install-remote-access-tools)
+### 80. [How fake party invitations are being used to install remote access tools](https://www.malwarebytes.com/blog/threat-intel/2026/02/how-fake-party-invitations-are-being-used-to-install-remote-access-tools)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 02 Feb 2026 10:18:01 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 80. [A week in security (January 26 &#8211; February 1)](https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-january-26-february-1)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 02 Feb 2026 08:02:00 GMT  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
