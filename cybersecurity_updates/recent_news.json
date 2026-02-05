@@ -1,10 +1,29 @@
 [
   {
     "source": "The Hacker News",
+    "title": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack",
+    "link": "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html",
+    "published": "Thu, 05 Feb 2026 22:55:00 +0530",
+    "summary": "The distributed denial-of-service (DDoS) botnet known as AISURU/Kimwolf has been attributed to a record-setting attack that peaked at 31.4 Terabits per second (Tbps) and lasted only 35 seconds.\nCloudflare, which automatically detected and mitigated the activity, said it's part of a growing number of hyper-volumetric HTTP DDoS attacks mounted by the botnet in the fourth quarter of 2025. The",
+    "analysis": {
+      "issue": "AISURU/Kimwolf launched a record 31",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories",
     "link": "https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html",
     "published": "Thu, 05 Feb 2026 18:27:00 +0530",
-    "summary": "This week didn&rsquo;t produce one big headline. It produced many small signals &mdash; the kind that quietly shape what attacks will look like next.\nResearchers tracked intrusions that start in ordinary places: developer workflows, remote tools, cloud access, identity paths, and even routine user actions. Nothing looked dramatic on the surface. That&rsquo;s the point. Entry is becoming less",
+    "summary": "This week didn’t produce one big headline. It produced many small signals — the kind that quietly shape what attacks will look like next.\nResearchers tracked intrusions that start in ordinary places: developer workflows, remote tools, cloud access, identity paths, and even routine user actions. Nothing looked dramatic on the surface. That’s the point. Entry is becoming less visible while impact",
     "analysis": {
       "issue": "ThreatsDay Bulletin: Key cyber updates on ransomware, cloud intrusions, phishing, botnets, supply-chain risks, and nation-state threat activity",
       "solution": null,
@@ -170,13 +189,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "The First 90 Seconds: How Early Decisions Shape Incident Response Investigations",
-    "link": "https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html",
-    "published": "Wed, 04 Feb 2026 15:30:00 +0530",
-    "summary": "Many incident response failures do not come from a lack of tools, intelligence, or technical skills. They come from what happens immediately after detection, when pressure is high, and information is incomplete.\nI have seen IR teams recover from sophisticated intrusions with limited telemetry. I have also seen teams lose control of investigations they should have been able to handle. The",
+    "source": "Bleeping Computer",
+    "title": "Microsoft to shut down Exchange Online EWS in April 2027",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/",
+    "published": "Thu, 05 Feb 2026 13:07:41 -0500",
+    "summary": "Microsoft announced today that the Exchange Web Services (EWS) API for Exchange Online will be shut down in April 2027, after nearly 20 years. [...]",
     "analysis": {
-      "issue": "Early incident response decisions—evidence preservation, execution analysis, and logging visibility—determine investigation success",
+      "issue": "Microsoft announced today that the Exchange Web Services (EWS) API for Exchange Online will be shut down in April 2027, after nearly 20 years",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -184,6 +203,24 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Italian university La Sapienza goes offline after cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/",
+    "published": "Thu, 05 Feb 2026 12:02:45 -0500",
+    "summary": "Rome's \"La Sapienza\" university has been targeted by a cyberattack that impacted its IT systems and caused widespread operational disruptions at the educational institute. [...]",
+    "analysis": {
+      "issue": "Rome’s “La Sapienza” university has been targeted by a cyberattack that impacted its IT systems and caused widespread operational disruptions at the educational institute",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
       ]
     }
   },
@@ -343,40 +380,41 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CISA warns of five-year-old GitLab flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/",
-    "published": "Wed, 04 Feb 2026 10:42:31 -0500",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems against a five-year-old GitLab vulnerability that is actively being exploited in attacks. [...]",
+    "source": "Krebs On Security",
+    "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+    "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+    "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+    "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
     "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems against a five-year-old GitLab vulnerability that is actively being exploited in attacks",
+      "issue": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifyi",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2021-39935"
-      ],
+      "severity": "High",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Ransomware",
+        "Phishing",
+        "APT",
+        "DDoS"
       ]
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "The Double-Edged Sword of Non-Human Identities",
-    "link": "https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/",
-    "published": "Wed, 04 Feb 2026 10:05:15 -0500",
-    "summary": "Leaked non-human identities like API keys and tokens are becoming a major breach driver in cloud environments. Flare shows how exposed machine credentials quietly grant attackers long-term access to enterprise systems. [...]",
+    "source": "Krebs On Security",
+    "title": "Who Operates the Badbox 2.0 Botnet?",
+    "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+    "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+    "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
     "analysis": {
-      "issue": "In a sweeping analysis conducted in late 2025, Flare researchers uncovered more than 10,000 Docker Hub container images leaking secrets (including production API keys, cloud tokens, CI/CD credentials, and even AI model access tokens) all pushed into ",
+      "issue": "The cybercriminals in control of Kimwolf — a disruptive botnet that has infected more than 2 million devices — recently shared a screenshot indicating they’d compromised the control panel for Badbox 2",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Malware"
       ]
     }
   },
@@ -530,53 +568,17 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-62221",
-        "CVE-2025-62557",
-        "CVE-2025-62458",
+        "CVE-2025-62554",
         "CVE-2025-59516",
+        "CVE-2025-62562",
+        "CVE-2025-62557",
         "CVE-2025-59517",
         "CVE-2025-62470",
-        "CVE-2025-62562",
         "CVE-2025-62472",
-        "CVE-2025-62554"
+        "CVE-2025-62458"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-    "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-    "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-    "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
-    "analysis": {
-      "issue": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious ties to a Kremlin-connected oligarch whose Russian university builds drones for Russia’s war against Ukraine",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-    "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-    "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-    "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
-    "analysis": {
-      "issue": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-co",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
@@ -781,8 +783,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-57779",
         "CVE-2025-59488",
+        "CVE-2025-57779",
         "CVE-2025-58085"
       ],
       "threat_categories": [
@@ -1201,8 +1203,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
