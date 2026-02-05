@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-05 02:07:51 UTC
+**Last Updated:** 2026-02-05 05:04:49 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -107,9 +107,6 @@
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 16:14:36 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2026-25049, CVE-2025-68613  
-**Categories:** Vulnerability  
 
 ---
 
@@ -117,9 +114,6 @@
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 12:38:46 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2025-22226, CVE-2025-22225, CVE-2025-22224  
-**Categories:** Ransomware, Vulnerability  
 
 ---
 
@@ -127,9 +121,6 @@
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 10:42:31 -0500  
-**Severity:** Low  
-**CVEs:** CVE-2021-39935  
-**Categories:** Vulnerability  
 
 ---
 
@@ -146,8 +137,6 @@
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 09:17:45 -0500  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -165,8 +154,6 @@
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 07:58:20 -0500  
-**Severity:** Low  
-**Categories:** APT  
 
 ---
 
@@ -174,8 +161,6 @@
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 06:24:23 -0500  
-**Severity:** Low  
-**Categories:** DDoS  
 
 ---
 
@@ -183,30 +168,10 @@
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Feb 2026 21:04:23 -0500  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
-### 21. [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
-
-**Source:** Krebs On Security  
-**Published:** Mon, 02 Feb 2026 16:15:16 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Phishing, APT, DDoS  
-
----
-
-### 22. [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
-
-**Source:** Krebs On Security  
-**Published:** Mon, 26 Jan 2026 16:11:38 +0000  
-**Severity:** High  
-**Categories:** Malware  
-
----
-
-### 23. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
+### 21. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 20 Jan 2026 18:19:13 +0000  
@@ -215,17 +180,17 @@
 
 ---
 
-### 24. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
+### 22. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20952, CVE-2026-20805  
+**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
 
-### 25. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
+### 23. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 08 Jan 2026 23:23:43 +0000  
@@ -234,16 +199,14 @@
 
 ---
 
-### 26. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+### 24. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 02 Jan 2026 14:20:10 +0000  
-**Severity:** High  
-**Categories:** Vulnerability, Malware, DDoS, Supply Chain  
 
 ---
 
-### 27. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+### 25. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 29 Dec 2025 20:23:26 +0000  
@@ -252,7 +215,7 @@
 
 ---
 
-### 28. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+### 26. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 19 Dec 2025 15:14:55 +0000  
@@ -261,7 +224,7 @@
 
 ---
 
-### 29. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+### 27. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 16 Dec 2025 14:14:48 +0000  
@@ -270,13 +233,31 @@
 
 ---
 
-### 30. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+### 28. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62458, CVE-2025-62562, CVE-2025-62221, CVE-2025-62554, CVE-2025-62472, CVE-2025-62557, CVE-2025-62470, CVE-2025-59517, CVE-2025-59516  
+**CVEs:** CVE-2025-62470, CVE-2025-62458, CVE-2025-62472, CVE-2025-62562, CVE-2025-59517, CVE-2025-62557, CVE-2025-62554, CVE-2025-59516, CVE-2025-62221  
 **Categories:** Vulnerability  
+
+---
+
+### 29. [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
+
+**Source:** Krebs On Security  
+**Published:** Sat, 06 Dec 2025 14:45:03 +0000  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 30. [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
+
+**Source:** Krebs On Security  
+**Published:** Thu, 04 Dec 2025 23:02:34 +0000  
+**Severity:** Low  
+**Categories:** Phishing  
 
 ---
 
@@ -383,7 +364,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 11:00:07 GMT  
 **Severity:** High  
-**CVEs:** CVE-2025-61882, CVE-2025-55182  
+**CVEs:** CVE-2025-55182, CVE-2025-61882  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -402,7 +383,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-58085, CVE-2025-57779, CVE-2025-59488  
+**CVEs:** CVE-2025-57779, CVE-2025-58085, CVE-2025-59488  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -440,7 +421,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 13 Jan 2026 18:29:13 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20876, CVE-2026-20944, CVE-2026-20854, CVE-2026-20953, CVE-2026-20955, CVE-2026-20822, CVE-2026-20952, CVE-2026-20805  
+**CVEs:** CVE-2026-20953, CVE-2026-20822, CVE-2026-20876, CVE-2026-20955, CVE-2026-20952, CVE-2026-20854, CVE-2026-20944, CVE-2026-20805  
 **Categories:** Vulnerability  
 
 ---
@@ -616,7 +597,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
