@@ -189,6 +189,45 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "DKnife Linux toolkit hijacks router traffic to spy, deliver malware",
+    "link": "https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/",
+    "published": "Fri, 06 Feb 2026 13:35:11 -0500",
+    "summary": "A newly discovered toolkit called DKnife has been used since 2019 to hijack traffic at the edge-device level and deliver malware in espionage campaigns. [...]",
+    "analysis": {
+      "issue": "A newly discovered toolkit called DKnife has been used since 2019 to hijack traffic at the edge-device level and deliver malware in espionage campaigns",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA warns of SmarterMail RCE flaw used in ransomware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-smartermail-rce-flaw-used-in-ransomware-attacks/",
+    "published": "Fri, 06 Feb 2026 12:16:03 -0500",
+    "summary": "The Cybersecurity & Infrastructure Security Agency (CISA) in the U.S. has issued a warning about CVE-2026-24423, an unauthenticated remote code execution (RCE) flaw in SmarterMail that is used in ransomware attacks. [...]",
+    "analysis": {
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) is warning that ransomware actors are exploiting CVE-2026-24423, a critical vulnerability in SmarterMail that allows remote code execution without authentication",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-24423"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "EDR, Email, and SASE Miss This Entire Class of Browser Attacks",
     "link": "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/",
     "published": "Fri, 06 Feb 2026 10:01:11 -0500",
@@ -332,42 +371,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Italian university La Sapienza goes offline after cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/",
-    "published": "Thu, 05 Feb 2026 12:02:45 -0500",
-    "summary": "Rome's \"La Sapienza\" university has been targeted by a cyberattack that impacted its IT systems and caused widespread operational disruptions at the educational institute. [...]",
-    "analysis": {
-      "issue": "Rome’s “La Sapienza” university has been targeted by a cyberattack that impacted its IT systems and caused widespread operational disruptions at the educational institute",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Romanian oil pipeline operator Conpet discloses cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/",
-    "published": "Thu, 05 Feb 2026 10:15:49 -0500",
-    "summary": "Conpet, Romania's national oil pipeline operator, has disclosed that a cyberattack disrupted its business systems and took down the company's website on Tuesday. [...]",
-    "analysis": {
-      "issue": "Conpet, Romania's national oil pipeline operator, has disclosed that a cyberattack disrupted its business systems and took down the company's website on Tuesday",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
       ]
     }
   },
@@ -559,15 +562,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62557",
-        "CVE-2025-59516",
         "CVE-2025-62554",
-        "CVE-2025-62472",
-        "CVE-2025-62458",
-        "CVE-2025-62221",
+        "CVE-2025-62470",
+        "CVE-2025-62557",
         "CVE-2025-59517",
-        "CVE-2025-62562",
-        "CVE-2025-62470"
+        "CVE-2025-62221",
+        "CVE-2025-59516",
+        "CVE-2025-62458",
+        "CVE-2025-62472",
+        "CVE-2025-62562"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -794,8 +797,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2025-59488",
-        "CVE-2025-57779",
-        "CVE-2025-58085"
+        "CVE-2025-58085",
+        "CVE-2025-57779"
       ],
       "threat_categories": [
         "Vulnerability",

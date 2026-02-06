@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-06 16:55:08 UTC
+**Last Updated:** 2026-02-06 18:50:30 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,26 @@
 
 ---
 
-### 11. [EDR, Email, and SASE Miss This Entire Class of Browser Attacks](https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/)
+### 11. [DKnife Linux toolkit hijacks router traffic to spy, deliver malware](https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 06 Feb 2026 13:35:11 -0500  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 12. [CISA warns of SmarterMail RCE flaw used in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-smartermail-rce-flaw-used-in-ransomware-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 06 Feb 2026 12:16:03 -0500  
+**Severity:** Critical  
+**CVEs:** CVE-2026-24423  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 13. [EDR, Email, and SASE Miss This Entire Class of Browser Attacks](https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Feb 2026 10:01:11 -0500  
@@ -103,7 +122,7 @@
 
 ---
 
-### 12. [EU says TikTok faces large fine over "addictive design"](https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/)
+### 14. [EU says TikTok faces large fine over "addictive design"](https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Feb 2026 08:53:53 -0500  
@@ -112,7 +131,7 @@
 
 ---
 
-### 13. [Man pleads guilty to hacking nearly 600 women’s Snapchat accounts](https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/)
+### 15. [Man pleads guilty to hacking nearly 600 women’s Snapchat accounts](https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Feb 2026 07:34:30 -0500  
@@ -121,7 +140,7 @@
 
 ---
 
-### 14. [Flickr discloses potential data breach exposing users' names, emails](https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/)
+### 16. [Flickr discloses potential data breach exposing users' names, emails](https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Feb 2026 04:43:10 -0500  
@@ -130,7 +149,7 @@
 
 ---
 
-### 15. [CISA orders federal agencies to replace end-of-life edge devices](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/)
+### 17. [CISA orders federal agencies to replace end-of-life edge devices](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Feb 2026 03:41:11 -0500  
@@ -139,7 +158,7 @@
 
 ---
 
-### 16. [Spain's Ministry of Science shuts down systems after breach claims](https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/)
+### 18. [Spain's Ministry of Science shuts down systems after breach claims](https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 16:23:00 -0500  
@@ -148,7 +167,7 @@
 
 ---
 
-### 17. [Ransomware gang uses ISPsystem VMs for stealthy payload delivery](https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/)
+### 19. [Ransomware gang uses ISPsystem VMs for stealthy payload delivery](https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 15:57:11 -0500  
@@ -157,30 +176,12 @@
 
 ---
 
-### 18. [Microsoft to shut down Exchange Online EWS in April 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/)
+### 20. [Microsoft to shut down Exchange Online EWS in April 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 13:07:41 -0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 19. [Italian university La Sapienza goes offline after cyberattack](https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 05 Feb 2026 12:02:45 -0500  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 20. [Romanian oil pipeline operator Conpet discloses cyberattack](https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 05 Feb 2026 10:15:49 -0500  
-**Severity:** Low  
-**Categories:** Ransomware  
 
 ---
 
@@ -271,7 +272,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62557, CVE-2025-59516, CVE-2025-62554, CVE-2025-62472, CVE-2025-62458, CVE-2025-62221, CVE-2025-59517, CVE-2025-62562, CVE-2025-62470  
+**CVEs:** CVE-2025-62554, CVE-2025-62470, CVE-2025-62557, CVE-2025-59517, CVE-2025-62221, CVE-2025-59516, CVE-2025-62458, CVE-2025-62472, CVE-2025-62562  
 **Categories:** Vulnerability  
 
 ---
@@ -416,7 +417,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-59488, CVE-2025-57779, CVE-2025-58085  
+**CVEs:** CVE-2025-59488, CVE-2025-58085, CVE-2025-57779  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
