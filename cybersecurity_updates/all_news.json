@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries",
+    "link": "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html",
+    "published": "Fri, 06 Feb 2026 11:19:00 +0530",
+    "summary": "Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-source libraries, including Ghostscript, OpenSC, and CGIF.\nClaude Opus 4.6, which was launched on Thursday, comes with improved coding skills, including code review and debugging capabilities, along",
+    "analysis": {
+      "issue": "6 identified 500+ unknown high-severity flaws in open-source projects, advancing AI-driven vulnerability detection",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack",
     "link": "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html",
     "published": "Thu, 05 Feb 2026 22:55:00 +0530",
@@ -167,24 +185,6 @@
       "threat_categories": [
         "Vulnerability",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications",
-    "link": "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html",
-    "published": "Wed, 04 Feb 2026 17:28:00 +0530",
-    "summary": "An innovative approach to discovering, analyzing, and governing identity usage beyond traditional IAM controls.\nThe Challenge: Identity Lives Outside the Identity Stack\nIdentity and access management tools were built to govern users and directories.\nModern enterprises run on applications. Over time, identity logic has moved into application code, APIs, service accounts, and custom authentication",
-    "analysis": {
-      "issue": "An innovative approach to discovering, analyzing, and governing identity usage beyond traditional IAM controls",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -374,45 +374,6 @@
   },
   {
     "source": "Krebs On Security",
-    "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-    "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-    "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-    "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
-    "analysis": {
-      "issue": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifyi",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing",
-        "APT",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Who Operates the Badbox 2.0 Botnet?",
-    "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-    "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-    "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-    "analysis": {
-      "issue": "The cybercriminals in control of Kimwolf — a disruptive botnet that has infected more than 2 million devices — recently shared a screenshot indicating they’d compromised the control panel for Badbox 2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
     "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
     "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -560,20 +521,63 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62554",
         "CVE-2025-62557",
+        "CVE-2025-59516",
+        "CVE-2025-62458",
+        "CVE-2025-62470",
         "CVE-2025-59517",
         "CVE-2025-62562",
+        "CVE-2025-62472",
         "CVE-2025-62221",
-        "CVE-2025-62458",
-        "CVE-2025-59516",
-        "CVE-2025-62470",
-        "CVE-2025-62472"
+        "CVE-2025-62554"
       ],
       "threat_categories": [
         "Vulnerability"
       ]
     }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+    "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+    "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+    "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
+    "analysis": {
+      "issue": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious ties to a Kremlin-connected oligarch whose Russian university builds drones for Russia’s war against Ukraine",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+    "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+    "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+    "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+    "analysis": {
+      "issue": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-co",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Concerns Raised Over CISA’s Silent Ransomware Updates in KEV Catalog",
+    "link": "https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/",
+    "published": "Fri, 06 Feb 2026 05:28:39 +0000",
+    "summary": "<p>CISA updated 59 KEV entries in 2025 to specify that the vulnerabilities have been exploited in ransomware attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/\">Concerns Raised Over CISA&#8217;s Silent Ransomware Updates in KEV Catalog</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -637,13 +641,6 @@
     "link": "https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/",
     "published": "Thu, 05 Feb 2026 11:00:00 +0000",
     "summary": "<p>Palo Alto Networks has not attributed the APT activity to any specific country, but evidence points to China.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/\">Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco, F5 Patch High-Severity Vulnerabilities",
-    "link": "https://www.securityweek.com/cisco-f5-patch-high-severity-vulnerabilities/",
-    "published": "Thu, 05 Feb 2026 09:54:34 +0000",
-    "summary": "<p>The security defects can lead to DoS conditions, arbitrary command execution, and privilege escalation.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-f5-patch-high-severity-vulnerabilities/\">Cisco, F5 Patch High-Severity Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -751,8 +748,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-61882",
-        "CVE-2025-55182"
+        "CVE-2025-55182",
+        "CVE-2025-61882"
       ],
       "threat_categories": [
         "Ransomware",
@@ -794,9 +791,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-57779",
+        "CVE-2025-59488",
         "CVE-2025-58085",
-        "CVE-2025-59488"
+        "CVE-2025-57779"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1408,24 +1405,6 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "Advanced Web Shell Detection and Prevention: A Deep Dive into CrowdStrike's Linux Sensor Capabilities",
-    "link": "https://www.crowdstrike.com/en-us/blog/advanced-web-shell-detection-and-prevention/",
-    "published": "Feb 05, 2026 00:00:00-0600",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn about recently released enhancements for the Falcon sensor on Linux platforms that provide better visibility",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
     "title": "What Security Teams Need to Know About OpenClaw, the AI Super Agent",
     "link": "https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/",
     "published": "Feb 04, 2026 00:00:00-0800",
@@ -1576,6 +1555,24 @@
     "summary": "",
     "analysis": {
       "issue": "Learn how CrowdStrike protects data going out, and threats coming in, across removable media like USB drives",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "The Architecture of Agentic Defense: Inside the Falcon Platform",
+    "link": "https://www.crowdstrike.com/en-us/blog/architecture-of-agentic-defense-inside-the-falcon-platform/",
+    "published": "Jan 16, 2026 00:00:00-0800",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn how CrowdStrike AI and ML technologies work and their role in powering the agentic SOC as agentic defense matures",
       "solution": null,
       "cause": null,
       "timeline": null,
