@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-06 13:08:50 UTC
+**Last Updated:** 2026-02-06 15:46:32 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities](https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html)
+### 1. [China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery](https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 06 Feb 2026 20:26:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 2. [CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk](https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 06 Feb 2026 19:13:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities](https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Feb 2026 17:37:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [How Samsung Knox Helps Stop Your Network Security Breach](https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html)
+### 4. [How Samsung Knox Helps Stop Your Network Security Breach](https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Feb 2026 16:00:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware](https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html)
+### 5. [Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware](https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Feb 2026 14:10:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries](https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html)
+### 6. [Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries](https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Feb 2026 11:19:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack](https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html)
+### 7. [AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack](https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Feb 2026 22:55:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html)
+### 8. [ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Feb 2026 18:27:00 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [The Buyer’s Guide to AI Usage Control](https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html)
+### 9. [The Buyer’s Guide to AI Usage Control](https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Feb 2026 17:00:00 +0530  
@@ -67,7 +85,7 @@
 
 ---
 
-### 8. [Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends](https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html)
+### 10. [Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends](https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Feb 2026 15:55:00 +0530  
@@ -76,26 +94,25 @@
 
 ---
 
-### 9. [Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows](https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html)
+### 11. [EDR, Email, and SASE Miss This Entire Class of Browser Attacks](https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 05 Feb 2026 11:46:00 +0530  
-**Severity:** Critical  
-**CVEs:** CVE-2026-25049  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign](https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 05 Feb 2026 10:26:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 06 Feb 2026 10:01:11 -0500  
 **Severity:** Low  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [Man pleads guilty to hacking nearly 600 women’s Snapchat accounts](https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/)
+### 12. [EU says TikTok faces large fine over "addictive design"](https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 06 Feb 2026 08:53:53 -0500  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 13. [Man pleads guilty to hacking nearly 600 women’s Snapchat accounts](https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Feb 2026 07:34:30 -0500  
@@ -104,7 +121,7 @@
 
 ---
 
-### 12. [Flickr discloses potential data breach exposing users' names, emails](https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/)
+### 14. [Flickr discloses potential data breach exposing users' names, emails](https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Feb 2026 04:43:10 -0500  
@@ -113,7 +130,7 @@
 
 ---
 
-### 13. [CISA orders federal agencies to replace end-of-life edge devices](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/)
+### 15. [CISA orders federal agencies to replace end-of-life edge devices](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Feb 2026 03:41:11 -0500  
@@ -122,7 +139,7 @@
 
 ---
 
-### 14. [Spain's Ministry of Science shuts down systems after breach claims](https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/)
+### 16. [Spain's Ministry of Science shuts down systems after breach claims](https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 16:23:00 -0500  
@@ -131,7 +148,7 @@
 
 ---
 
-### 15. [Ransomware gang uses ISPsystem VMs for stealthy payload delivery](https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/)
+### 17. [Ransomware gang uses ISPsystem VMs for stealthy payload delivery](https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 15:57:11 -0500  
@@ -140,7 +157,7 @@
 
 ---
 
-### 16. [Microsoft to shut down Exchange Online EWS in April 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/)
+### 18. [Microsoft to shut down Exchange Online EWS in April 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 13:07:41 -0500  
@@ -149,7 +166,7 @@
 
 ---
 
-### 17. [Italian university La Sapienza goes offline after cyberattack](https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/)
+### 19. [Italian university La Sapienza goes offline after cyberattack](https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 12:02:45 -0500  
@@ -158,30 +175,12 @@
 
 ---
 
-### 18. [Romanian oil pipeline operator Conpet discloses cyberattack](https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/)
+### 20. [Romanian oil pipeline operator Conpet discloses cyberattack](https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 10:15:49 -0500  
 **Severity:** Low  
 **Categories:** Ransomware  
-
----
-
-### 19. [When cloud logs fall short, the network tells the truth](https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 05 Feb 2026 10:00:10 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Newsletter platform Substack notifies users of data breach](https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 05 Feb 2026 07:54:48 -0500  
-**Severity:** Low  
-**Categories:** Data Breach, Vulnerability, Phishing  
 
 ---
 
@@ -272,7 +271,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62557, CVE-2025-62470, CVE-2025-62472, CVE-2025-62221, CVE-2025-59517, CVE-2025-62554, CVE-2025-59516, CVE-2025-62562, CVE-2025-62458  
+**CVEs:** CVE-2025-62472, CVE-2025-62554, CVE-2025-59516, CVE-2025-62562, CVE-2025-62557, CVE-2025-62458, CVE-2025-59517, CVE-2025-62470, CVE-2025-62221  
 **Categories:** Vulnerability  
 
 ---
@@ -398,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 11:00:07 GMT  
 **Severity:** High  
-**CVEs:** CVE-2025-61882, CVE-2025-55182  
+**CVEs:** CVE-2025-55182, CVE-2025-61882  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -417,7 +416,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-57779, CVE-2025-59488, CVE-2025-58085  
+**CVEs:** CVE-2025-58085, CVE-2025-59488, CVE-2025-57779  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -627,7 +626,16 @@
 
 ---
 
-### 71. [Open the wrong “PDF” and attackers gain remote access to your PC](https://www.malwarebytes.com/blog/news/2026/02/open-the-wrong-pdf-and-attackers-gain-remote-access-to-your-pc)
+### 71. [Apple Pay phish uses fake support calls to steal payment details](https://www.malwarebytes.com/blog/news/2026/02/apple-pay-phish-uses-fake-support-calls-to-steal-payment-details)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 06 Feb 2026 14:43:55 GMT  
+**Severity:** High  
+**Categories:** Phishing  
+
+---
+
+### 72. [Open the wrong “PDF” and attackers gain remote access to your PC](https://www.malwarebytes.com/blog/news/2026/02/open-the-wrong-pdf-and-attackers-gain-remote-access-to-your-pc)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 05 Feb 2026 13:48:40 GMT  
@@ -636,7 +644,7 @@
 
 ---
 
-### 72. [Flock cameras shared license plate data without permission](https://www.malwarebytes.com/blog/privacy/2026/02/flock-cameras-shared-license-plate-data-without-permission)
+### 73. [Flock cameras shared license plate data without permission](https://www.malwarebytes.com/blog/privacy/2026/02/flock-cameras-shared-license-plate-data-without-permission)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 05 Feb 2026 11:24:17 GMT  
@@ -645,7 +653,7 @@
 
 ---
 
-### 73. [Grok continues producing sexualized images after promised fixes](https://www.malwarebytes.com/blog/news/2026/02/grok-continues-producing-sexualized-images-after-promised-fixes)
+### 74. [Grok continues producing sexualized images after promised fixes](https://www.malwarebytes.com/blog/news/2026/02/grok-continues-producing-sexualized-images-after-promised-fixes)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Feb 2026 13:50:15 GMT  
@@ -654,7 +662,7 @@
 
 ---
 
-### 74. [Firefox is giving users the AI off switch](https://www.malwarebytes.com/blog/news/2026/02/firefox-is-giving-users-the-ai-off-switch)
+### 75. [Firefox is giving users the AI off switch](https://www.malwarebytes.com/blog/news/2026/02/firefox-is-giving-users-the-ai-off-switch)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Feb 2026 12:07:50 GMT  
@@ -663,7 +671,7 @@
 
 ---
 
-### 75. [An AI plush toy exposed thousands of private chats with children](https://www.malwarebytes.com/blog/news/2026/02/an-ai-plush-toy-exposed-thousands-of-private-chats-with-children)
+### 76. [An AI plush toy exposed thousands of private chats with children](https://www.malwarebytes.com/blog/news/2026/02/an-ai-plush-toy-exposed-thousands-of-private-chats-with-children)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Feb 2026 16:55:51 GMT  
@@ -672,7 +680,7 @@
 
 ---
 
-### 76. [AT&amp;T breach data resurfaces with new risks for customers](https://www.malwarebytes.com/blog/news/2026/02/att-breach-data-resurfaces-with-new-risks-for-customers)
+### 77. [AT&amp;T breach data resurfaces with new risks for customers](https://www.malwarebytes.com/blog/news/2026/02/att-breach-data-resurfaces-with-new-risks-for-customers)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Feb 2026 11:48:18 GMT  
@@ -681,7 +689,7 @@
 
 ---
 
-### 77. [Apple’s new iOS setting addresses a hidden layer of location tracking](https://www.malwarebytes.com/blog/mobile/2026/02/apples-new-ios-setting-addresses-a-hidden-layer-of-location-tracking)
+### 78. [Apple’s new iOS setting addresses a hidden layer of location tracking](https://www.malwarebytes.com/blog/mobile/2026/02/apples-new-ios-setting-addresses-a-hidden-layer-of-location-tracking)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Feb 2026 11:20:19 GMT  
@@ -690,7 +698,7 @@
 
 ---
 
-### 78. [[updated] A fake cloud storage alert that ends at Freecash](https://www.malwarebytes.com/blog/news/2026/02/a-fake-cloud-storage-alert-that-ends-at-freecash)
+### 79. [[updated] A fake cloud storage alert that ends at Freecash](https://www.malwarebytes.com/blog/news/2026/02/a-fake-cloud-storage-alert-that-ends-at-freecash)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Feb 2026 10:38:35 GMT  
@@ -699,21 +707,12 @@
 
 ---
 
-### 79. [How Manifest v3 forced us to rethink Browser Guard, and why that’s a good thing](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/02/how-manifest-v3-forced-us-to-rethink-browser-guard-and-why-thats-a-good-thing)
+### 80. [How Manifest v3 forced us to rethink Browser Guard, and why that’s a good thing](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/02/how-manifest-v3-forced-us-to-rethink-browser-guard-and-why-thats-a-good-thing)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 02 Feb 2026 18:11:11 GMT  
 **Severity:** High  
 **Categories:** Phishing  
-
----
-
-### 80. [Scam-checking just got easier: Malwarebytes is now in ChatGPT](https://www.malwarebytes.com/blog/product/2026/02/scam-checking-just-got-easier-malwarebytes-is-now-in-chatgpt)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 02 Feb 2026 13:45:00 GMT  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
