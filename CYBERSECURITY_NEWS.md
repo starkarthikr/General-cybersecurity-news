@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-06 06:56:15 UTC
+**Last Updated:** 2026-02-06 08:52:08 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -199,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
+**CVEs:** CVE-2026-20805, CVE-2026-20953, CVE-2026-20952  
 **Categories:** Vulnerability  
 
 ---
@@ -254,7 +254,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62557, CVE-2025-59516, CVE-2025-62458, CVE-2025-62470, CVE-2025-59517, CVE-2025-62562, CVE-2025-62472, CVE-2025-62221, CVE-2025-62554  
+**CVEs:** CVE-2025-62557, CVE-2025-62458, CVE-2025-59516, CVE-2025-62221, CVE-2025-62554, CVE-2025-59517, CVE-2025-62562, CVE-2025-62472, CVE-2025-62470  
 **Categories:** Vulnerability  
 
 ---
@@ -277,73 +277,73 @@
 
 ---
 
-### 31. [Concerns Raised Over CISA’s Silent Ransomware Updates in KEV Catalog](https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/)
+### 31. [5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel](https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/)
+
+**Source:** Security Week  
+**Published:** Fri, 06 Feb 2026 08:19:03 +0000  
+
+---
+
+### 32. [Critical SmarterMail Vulnerability Exploited in Ransomware Attacks](https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/)
+
+**Source:** Security Week  
+**Published:** Fri, 06 Feb 2026 07:50:23 +0000  
+
+---
+
+### 33. [Concerns Raised Over CISA’s Silent Ransomware Updates in KEV Catalog](https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Feb 2026 05:28:39 +0000  
 
 ---
 
-### 32. [Zscaler Acquires Browser Security Firm SquareX](https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/)
+### 34. [Zscaler Acquires Browser Security Firm SquareX](https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Feb 2026 02:48:22 +0000  
 
 ---
 
-### 33. [Substack Discloses Security Incident After Hacker Leaks Data](https://www.securityweek.com/substack-discloses-security-incident-after-hacker-leaks-data/)
+### 35. [Substack Discloses Security Incident After Hacker Leaks Data](https://www.securityweek.com/substack-discloses-security-incident-after-hacker-leaks-data/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Feb 2026 15:13:55 +0000  
 
 ---
 
-### 34. [Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign](https://www.securityweek.com/researchers-expose-network-of-150-cloned-law-firm-websites-in-ai-powered-scam-campaign/)
+### 36. [Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign](https://www.securityweek.com/researchers-expose-network-of-150-cloned-law-firm-websites-in-ai-powered-scam-campaign/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Feb 2026 14:00:00 +0000  
 
 ---
 
-### 35. [VS Code Configs Expose GitHub Codespaces to Attacks](https://www.securityweek.com/vs-code-configs-expose-github-codespaces-to-attacks/)
+### 37. [VS Code Configs Expose GitHub Codespaces to Attacks](https://www.securityweek.com/vs-code-configs-expose-github-codespaces-to-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Feb 2026 13:41:48 +0000  
 
 ---
 
-### 36. [Nullify Secures $12.5 Million in Seed Funding for Cybersecurity AI Workforce](https://www.securityweek.com/nullify-secures-12-5-million-in-seed-funding-for-cybersecurity-ai-workforce/)
+### 38. [Nullify Secures $12.5 Million in Seed Funding for Cybersecurity AI Workforce](https://www.securityweek.com/nullify-secures-12-5-million-in-seed-funding-for-cybersecurity-ai-workforce/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Feb 2026 13:02:15 +0000  
 
 ---
 
-### 37. [Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says](https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/)
+### 39. [Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says](https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Feb 2026 12:29:34 +0000  
 
 ---
 
-### 38. [SystemBC Infects 10,000 Devices After Defying Law Enforcement Takedown](https://www.securityweek.com/systembc-infects-10000-devices-after-defying-law-enforcement-takedown/)
+### 40. [SystemBC Infects 10,000 Devices After Defying Law Enforcement Takedown](https://www.securityweek.com/systembc-infects-10000-devices-after-defying-law-enforcement-takedown/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Feb 2026 12:18:55 +0000  
-
----
-
-### 39. [Critical N8n Sandbox Escape Could Lead to Server Compromise](https://www.securityweek.com/critical-n8n-sandbox-escape-could-lead-to-server-compromise/)
-
-**Source:** Security Week  
-**Published:** Thu, 05 Feb 2026 11:23:19 +0000  
-
----
-
-### 40. [Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries](https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/)
-
-**Source:** Security Week  
-**Published:** Thu, 05 Feb 2026 11:00:00 +0000  
 
 ---
 
@@ -417,7 +417,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-59488, CVE-2025-58085, CVE-2025-57779  
+**CVEs:** CVE-2025-59488, CVE-2025-57779, CVE-2025-58085  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -717,7 +717,16 @@
 
 ---
 
-### 81. [What Security Teams Need to Know About OpenClaw, the AI Super Agent](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
+### 81. [Advanced Web Shell Detection and Prevention: A Deep Dive into CrowdStrike's Linux Sensor Capabilities](https://www.crowdstrike.com/en-us/blog/advanced-web-shell-detection-and-prevention/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Feb 05, 2026 00:00:00-0600  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [What Security Teams Need to Know About OpenClaw, the AI Super Agent](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 04, 2026 00:00:00-0800  
@@ -726,7 +735,7 @@
 
 ---
 
-### 82. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/)
+### 83. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 03, 2026 00:00:00-0800  
@@ -735,7 +744,7 @@
 
 ---
 
-### 83. [CrowdStrike Falcon Scores Perfect 100% in SE Labs&rsquo; Most Challenging Ransomware Test](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-scores-100-percent-in-se-labs-ransomware-test/)
+### 84. [CrowdStrike Falcon Scores Perfect 100% in SE Labs&rsquo; Most Challenging Ransomware Test](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-scores-100-percent-in-se-labs-ransomware-test/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 03, 2026 00:00:00-0800  
@@ -744,7 +753,7 @@
 
 ---
 
-### 84. [Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data](https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/)
+### 85. [Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data](https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 02, 2026 00:00:00-0800  
@@ -753,7 +762,7 @@
 
 ---
 
-### 85. [How Agentic Tool Chain Attacks Threaten AI Agent Security](https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/)
+### 86. [How Agentic Tool Chain Attacks Threaten AI Agent Security](https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 30, 2026 00:00:00-0800  
@@ -762,7 +771,7 @@
 
 ---
 
-### 86. [LABYRINTH CHOLLIMA Evolves into Three Adversaries](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
+### 87. [LABYRINTH CHOLLIMA Evolves into Three Adversaries](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 29, 2026 00:00:00-0800  
@@ -771,7 +780,7 @@
 
 ---
 
-### 87. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Voice of the Customer for Endpoint Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-voice-of-the-customer-for-epp-report/)
+### 88. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Voice of the Customer for Endpoint Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-voice-of-the-customer-for-epp-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 28, 2026 00:00:00-0800  
@@ -780,7 +789,7 @@
 
 ---
 
-### 88. [Data Protection Day 2026: From Compliance to Resilience](https://www.crowdstrike.com/en-us/blog/data-protection-day-2026-from-compliance-to-resilience/)
+### 89. [Data Protection Day 2026: From Compliance to Resilience](https://www.crowdstrike.com/en-us/blog/data-protection-day-2026-from-compliance-to-resilience/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 28, 2026 00:00:00-0800  
@@ -789,19 +798,10 @@
 
 ---
 
-### 89. [Small Devices, Big Risk: USB Drives Threaten Enterprise Security](https://www.crowdstrike.com/en-us/blog/usb-drives-threaten-enterprise-security/)
+### 90. [Small Devices, Big Risk: USB Drives Threaten Enterprise Security](https://www.crowdstrike.com/en-us/blog/usb-drives-threaten-enterprise-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 21, 2026 00:00:00-0600  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [The Architecture of Agentic Defense: Inside the Falcon Platform](https://www.crowdstrike.com/en-us/blog/architecture-of-agentic-defense-inside-the-falcon-platform/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jan 16, 2026 00:00:00-0800  
 **Severity:** Low  
 **Categories:** General Security  
 

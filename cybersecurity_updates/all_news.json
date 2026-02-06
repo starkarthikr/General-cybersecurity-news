@@ -405,8 +405,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20805",
-        "CVE-2026-20952",
-        "CVE-2026-20953"
+        "CVE-2026-20953",
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -522,14 +522,14 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-62557",
-        "CVE-2025-59516",
         "CVE-2025-62458",
-        "CVE-2025-62470",
+        "CVE-2025-59516",
+        "CVE-2025-62221",
+        "CVE-2025-62554",
         "CVE-2025-59517",
         "CVE-2025-62562",
         "CVE-2025-62472",
-        "CVE-2025-62221",
-        "CVE-2025-62554"
+        "CVE-2025-62470"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -571,6 +571,20 @@
         "Phishing"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel",
+    "link": "https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/",
+    "published": "Fri, 06 Feb 2026 08:19:03 +0000",
+    "summary": "<p>The news comes after the Department of Energy conducted its annual Liberty Eclipse cybersecurity exercise.</p>\n<p>The post <a href=\"https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/\">5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical SmarterMail Vulnerability Exploited in Ransomware Attacks",
+    "link": "https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/",
+    "published": "Fri, 06 Feb 2026 07:50:23 +0000",
+    "summary": "<p>The security defect allows unauthenticated attackers to execute arbitrary code remotely via malicious HTTP requests.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/\">Critical SmarterMail Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -627,20 +641,6 @@
     "link": "https://www.securityweek.com/systembc-infects-10000-devices-after-defying-law-enforcement-takedown/",
     "published": "Thu, 05 Feb 2026 12:18:55 +0000",
     "summary": "<p>The malware is known for dropping ransomware and other payloads, and for abusing infected machines to proxy traffic.</p>\n<p>The post <a href=\"https://www.securityweek.com/systembc-infects-10000-devices-after-defying-law-enforcement-takedown/\">SystemBC Infects 10,000 Devices After Defying Law Enforcement Takedown</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical N8n Sandbox Escape Could Lead to Server Compromise",
-    "link": "https://www.securityweek.com/critical-n8n-sandbox-escape-could-lead-to-server-compromise/",
-    "published": "Thu, 05 Feb 2026 11:23:19 +0000",
-    "summary": "<p>The vulnerability could allow attackers to execute arbitrary commands and steal credentials and other secrets.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-n8n-sandbox-escape-could-lead-to-server-compromise/\">Critical N8n Sandbox Escape Could Lead to Server Compromise</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries",
-    "link": "https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/",
-    "published": "Thu, 05 Feb 2026 11:00:00 +0000",
-    "summary": "<p>Palo Alto Networks has not attributed the APT activity to any specific country, but evidence points to China.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/\">Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -792,8 +792,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2025-59488",
-        "CVE-2025-58085",
-        "CVE-2025-57779"
+        "CVE-2025-57779",
+        "CVE-2025-58085"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1405,6 +1405,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Advanced Web Shell Detection and Prevention: A Deep Dive into CrowdStrike's Linux Sensor Capabilities",
+    "link": "https://www.crowdstrike.com/en-us/blog/advanced-web-shell-detection-and-prevention/",
+    "published": "Feb 05, 2026 00:00:00-0600",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn about recently released enhancements for the Falcon sensor on Linux platforms that provide better visibility",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "What Security Teams Need to Know About OpenClaw, the AI Super Agent",
     "link": "https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/",
     "published": "Feb 04, 2026 00:00:00-0800",
@@ -1555,24 +1573,6 @@
     "summary": "",
     "analysis": {
       "issue": "Learn how CrowdStrike protects data going out, and threats coming in, across removable media like USB drives",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "The Architecture of Agentic Defense: Inside the Falcon Platform",
-    "link": "https://www.crowdstrike.com/en-us/blog/architecture-of-agentic-defense-inside-the-falcon-platform/",
-    "published": "Jan 16, 2026 00:00:00-0800",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn how CrowdStrike AI and ML technologies work and their role in powering the agentic SOC as agentic defense matures",
       "solution": null,
       "cause": null,
       "timeline": null,
