@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
+    "link": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html",
+    "published": "Fri, 06 Feb 2026 17:37:00 +0530",
+    "summary": "A previously undocumented cyber espionage group operating from Asia broke into the networks of at least 70 government and critical infrastructure organizations across 37 countries over the past year, according to new findings from Palo Alto Networks Unit 42.\nIn addition, the hacking crew has been observed conducting active reconnaissance against government infrastructure associated with 155",
+    "analysis": {
+      "issue": "Asian state-linked hackers breached 70 entities, used phishing, N-day exploits, and rootkits for global espionage",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "How Samsung Knox Helps Stop Your Network Security Breach",
+    "link": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
+    "published": "Fri, 06 Feb 2026 16:00:00 +0530",
+    "summary": "As you know, enterprise network security has undergone significant evolution over the past decade. Firewalls have become more intelligent, threat detection methods have advanced, and access controls are now more detailed. However (and it&rsquo;s a big &ldquo;however&rdquo;), the increasing use of mobile devices in business operations necessitates network security measures that are specifically",
+    "analysis": {
+      "issue": "Discover how Samsung Knox enhances mobile network security with granular controls, Zero Trust principles & seamless integration for a safer enterprise",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
     "link": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html",
     "published": "Fri, 06 Feb 2026 14:10:00 +0530",
@@ -152,39 +189,41 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
-    "link": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
-    "published": "Wed, 04 Feb 2026 23:22:00 +0530",
-    "summary": "Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (AI) systems.\nThe tech giant's AI Security team said the scanner leverages three observable signals that can be used to reliably flag the presence of backdoors while maintaining a low false positive",
+    "source": "Bleeping Computer",
+    "title": "Man pleads guilty to hacking nearly 600 women’s Snapchat accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/",
+    "published": "Fri, 06 Feb 2026 07:34:30 -0500",
+    "summary": "An Illinois man pleaded guilty to hacking nearly 600 women's Snapchat accounts to steal nude photos that he kept, sold, or traded online, including accounts he compromised at the request of a former university track coach who was later convicted of sextortion. [...]",
     "analysis": {
-      "issue": "Microsoft develops a lightweight scanner that detects backdoors in open-weight LLMs using three behavioral signals, improving AI model security and tr",
+      "issue": "An Illinois man pleaded guilty to hacking nearly 600 women's Snapchat accounts to steal nude photos that he kept, sold, or traded online, including accounts he compromised at the request of a former university track coach who was later convicted of s",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Phishing"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
-    "link": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
-    "published": "Wed, 04 Feb 2026 22:54:00 +0530",
-    "summary": "Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of \"disciplined tradecraft and clever abuse of legitimate system features\" to bypass traditional detection mechanisms and deploy a remote access trojan (RAT) known as AsyncRAT.\n\"The attack leverages IPFS-hosted VHD files, extreme script obfuscation, runtime decryption, and in-memory",
+    "source": "Bleeping Computer",
+    "title": "Flickr discloses potential data breach exposing users' names, emails",
+    "link": "https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/",
+    "published": "Fri, 06 Feb 2026 04:43:10 -0500",
+    "summary": "Photo-sharing platform Flickr is notifying users of a potential data breach after a vulnerability at a third-party email service provider exposed their real names, email addresses, IP addresses, and account activity. [...]",
     "analysis": {
-      "issue": "DEAD#VAX campaign delivers AsyncRAT via IPFS-hosted VHD phishing files, using fileless memory injection and obfuscated scripts to evade detection",
+      "issue": "Photo-sharing platform Flickr is notifying users of a potential data breach after a vulnerability at a third-party email service provider exposed their real names, email addresses, IP addresses, and account activity",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "Phishing"
+        "Data Breach",
+        "Vulnerability",
+        "Phishing",
+        "Supply Chain"
       ]
     }
   },
@@ -336,43 +375,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Data breach at fintech firm Betterment exposes 1.4 million accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/",
-    "published": "Thu, 05 Feb 2026 06:16:12 -0500",
-    "summary": "Hackers stole email addresses and other personal information from 1.4 million accounts after breaching the systems of automated investment platform Betterment in January. [...]",
-    "analysis": {
-      "issue": "Hackers stole email addresses and other personal information from 1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Zendesk spam wave returns, floods users with 'Activate account' emails",
-    "link": "https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/",
-    "published": "Thu, 05 Feb 2026 05:22:36 -0500",
-    "summary": "A fresh wave of spam is hitting inboxes worldwide, with users reporting that they are once again being bombarded by automated emails generated through companies' unsecured Zendesk support systems. Some recipients say they are receiving hundreds of messages with strange or alarming subject lines. such as 'Activate account...' [...]",
-    "analysis": {
-      "issue": "A fresh wave of spam is hitting inboxes worldwide, with users reporting that they are once again being bombarded by automated emails generated through companies' unsecured Zendesk support systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "DDoS"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
     "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
@@ -443,9 +445,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20953",
         "CVE-2026-20952",
-        "CVE-2026-20805",
-        "CVE-2026-20953"
+        "CVE-2026-20805"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -560,20 +562,48 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62562",
         "CVE-2025-59516",
+        "CVE-2025-62557",
+        "CVE-2025-62470",
         "CVE-2025-62554",
+        "CVE-2025-62562",
         "CVE-2025-62221",
         "CVE-2025-62472",
         "CVE-2025-59517",
-        "CVE-2025-62458",
-        "CVE-2025-62557",
-        "CVE-2025-62470"
+        "CVE-2025-62458"
       ],
       "threat_categories": [
         "Vulnerability"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Flickr Security Incident Tied to Third-Party Email System",
+    "link": "https://www.securityweek.com/flickr-security-incident-tied-to-third-party-email-system/",
+    "published": "Fri, 06 Feb 2026 12:00:34 +0000",
+    "summary": "<p>Potential breach at Flickr exposes usernames, email addresses, IP addresses, and activity data.</p>\n<p>The post <a href=\"https://www.securityweek.com/flickr-security-incident-tied-to-third-party-email-system/\">Flickr Security Incident Tied to Third-Party Email System</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Living off the AI: The Next Evolution of Attacker Tradecraft",
+    "link": "https://www.securityweek.com/living-off-the-ai-the-next-evolution-of-attacker-tradecraft/",
+    "published": "Fri, 06 Feb 2026 12:00:00 +0000",
+    "summary": "<p>Living off the AI isn’t a hypothetical but a natural continuation of the tradecraft we’ve all been defending against, now mapped onto assistants, agents, and MCP. </p>\n<p>The post <a href=\"https://www.securityweek.com/living-off-the-ai-the-next-evolution-of-attacker-tradecraft/\">Living off the AI: The Next Evolution of Attacker Tradecraft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "In Other News: Record DDoS, Epstein’s Hacker, ESET Product Vulnerabilities",
+    "link": "https://www.securityweek.com/in-other-news-record-ddos-epsteins-hacker-eset-product-vulnerabilities/",
+    "published": "Fri, 06 Feb 2026 12:00:00 +0000",
+    "summary": "<p>Other noteworthy stories that might have slipped under the radar: AT&#038;T and Verizon response to Salt Typhoon, AI agents solve security challenges, man arrested in Poland for DDos Attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-record-ddos-epsteins-hacker-eset-product-vulnerabilities/\">In Other News: Record DDoS, Epstein&#8217;s Hacker, ESET Product Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Airrived Emerges From Stealth With $6.1 Million in Funding",
+    "link": "https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/",
+    "published": "Fri, 06 Feb 2026 09:40:59 +0000",
+    "summary": "<p>The startup aims to unify SOC, GRC, IAM, vulnerability management, IT, and business operations through its Agentic OS platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/\">Airrived Emerges From Stealth With $6.1 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -616,34 +646,6 @@
     "link": "https://www.securityweek.com/substack-discloses-security-incident-after-hacker-leaks-data/",
     "published": "Thu, 05 Feb 2026 15:13:55 +0000",
     "summary": "<p>The hacker claims to have stolen nearly 700,000 Substack user records, including email addresses and phone numbers.</p>\n<p>The post <a href=\"https://www.securityweek.com/substack-discloses-security-incident-after-hacker-leaks-data/\">Substack Discloses Security Incident After Hacker Leaks Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign",
-    "link": "https://www.securityweek.com/researchers-expose-network-of-150-cloned-law-firm-websites-in-ai-powered-scam-campaign/",
-    "published": "Thu, 05 Feb 2026 14:00:00 +0000",
-    "summary": "<p>Criminals are using AI to clone professional websites at an industrial scale. A new report shows how one AI-powered network grew to 150+ domains by hiding behind Cloudflare and rotating IP ranges.</p>\n<p>The post <a href=\"https://www.securityweek.com/researchers-expose-network-of-150-cloned-law-firm-websites-in-ai-powered-scam-campaign/\">Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "VS Code Configs Expose GitHub Codespaces to Attacks",
-    "link": "https://www.securityweek.com/vs-code-configs-expose-github-codespaces-to-attacks/",
-    "published": "Thu, 05 Feb 2026 13:41:48 +0000",
-    "summary": "<p>VS Code-integrated configuration files are automatically executed in Codespaces when the user opens a repository or pull request.</p>\n<p>The post <a href=\"https://www.securityweek.com/vs-code-configs-expose-github-codespaces-to-attacks/\">VS Code Configs Expose GitHub Codespaces to Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Nullify Secures $12.5 Million in Seed Funding for Cybersecurity AI Workforce",
-    "link": "https://www.securityweek.com/nullify-secures-12-5-million-in-seed-funding-for-cybersecurity-ai-workforce/",
-    "published": "Thu, 05 Feb 2026 13:02:15 +0000",
-    "summary": "<p>This latest infusion, led by SYN Ventures, brings the company’s total funding to $16.9 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/nullify-secures-12-5-million-in-seed-funding-for-cybersecurity-ai-workforce/\">Nullify Secures $12.5 Million in Seed Funding for Cybersecurity AI Workforce</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says",
-    "link": "https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/",
-    "published": "Thu, 05 Feb 2026 12:29:34 +0000",
-    "summary": "<p>Italy has foiled a series of cyberattacks targeting some of its foreign ministry offices, including one in Washington.</p>\n<p>The post <a href=\"https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/\">Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -795,8 +797,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2025-59488",
-        "CVE-2025-57779",
-        "CVE-2025-58085"
+        "CVE-2025-58085",
+        "CVE-2025-57779"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1196,8 +1198,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
