@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-05 21:34:50 UTC
+**Last Updated:** 2026-02-06 01:27:51 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,16 @@
 
 ---
 
-### 11. [Ransomware gang uses ISPsystem VMs for stealthy payload delivery](https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/)
+### 11. [Spain's Ministry of Science shuts down systems after breach claims](https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 05 Feb 2026 16:23:00 -0500  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 12. [Ransomware gang uses ISPsystem VMs for stealthy payload delivery](https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 15:57:11 -0500  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Microsoft to shut down Exchange Online EWS in April 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/)
+### 13. [Microsoft to shut down Exchange Online EWS in April 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 13:07:41 -0500  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Italian university La Sapienza goes offline after cyberattack](https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/)
+### 14. [Italian university La Sapienza goes offline after cyberattack](https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 12:02:45 -0500  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [Romanian oil pipeline operator Conpet discloses cyberattack](https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/)
+### 15. [Romanian oil pipeline operator Conpet discloses cyberattack](https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 10:15:49 -0500  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [When cloud logs fall short, the network tells the truth](https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/)
+### 16. [When cloud logs fall short, the network tells the truth](https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 10:00:10 -0500  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [Newsletter platform Substack notifies users of data breach](https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/)
+### 17. [Newsletter platform Substack notifies users of data breach](https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 07:54:48 -0500  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [Data breach at fintech firm Betterment exposes 1.4 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/)
+### 18. [Data breach at fintech firm Betterment exposes 1.4 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 06:16:12 -0500  
@@ -158,7 +167,7 @@
 
 ---
 
-### 18. [Zendesk spam wave returns, floods users with 'Activate account' emails](https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/)
+### 19. [Zendesk spam wave returns, floods users with 'Activate account' emails](https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 05:22:36 -0500  
@@ -167,22 +176,12 @@
 
 ---
 
-### 19. [Hackers compromise NGINX servers to redirect user traffic](https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/)
+### 20. [Hackers compromise NGINX servers to redirect user traffic](https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Feb 2026 18:26:56 -0500  
 **Severity:** Low  
 **Categories:** APT  
-
----
-
-### 20. [Critical n8n flaws disclosed along with public exploits](https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 04 Feb 2026 16:14:36 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2026-25049, CVE-2025-68613  
-**Categories:** Vulnerability  
 
 ---
 
@@ -200,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20805  
+**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
@@ -255,7 +254,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62221, CVE-2025-62554, CVE-2025-62557, CVE-2025-59517, CVE-2025-62562, CVE-2025-59516, CVE-2025-62458, CVE-2025-62470, CVE-2025-62472  
+**CVEs:** CVE-2025-62557, CVE-2025-62470, CVE-2025-59516, CVE-2025-62554, CVE-2025-59517, CVE-2025-62458, CVE-2025-62472, CVE-2025-62221, CVE-2025-62562  
 **Categories:** Vulnerability  
 
 ---
@@ -418,7 +417,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-58085, CVE-2025-57779, CVE-2025-59488  
+**CVEs:** CVE-2025-59488, CVE-2025-58085, CVE-2025-57779  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -613,7 +612,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -718,7 +717,16 @@
 
 ---
 
-### 81. [What Security Teams Need to Know About OpenClaw, the AI Super Agent](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
+### 81. [Advanced Web Shell Detection and Prevention: A Deep Dive into CrowdStrike's Linux Sensor Capabilities](https://www.crowdstrike.com/en-us/blog/advanced-web-shell-detection-and-prevention/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Feb 05, 2026 00:00:00-0600  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [What Security Teams Need to Know About OpenClaw, the AI Super Agent](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 04, 2026 00:00:00-0800  
@@ -727,7 +735,7 @@
 
 ---
 
-### 82. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/)
+### 83. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 03, 2026 00:00:00-0800  
@@ -736,7 +744,7 @@
 
 ---
 
-### 83. [CrowdStrike Falcon Scores Perfect 100% in SE Labs&rsquo; Most Challenging Ransomware Test](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-scores-100-percent-in-se-labs-ransomware-test/)
+### 84. [CrowdStrike Falcon Scores Perfect 100% in SE Labs&rsquo; Most Challenging Ransomware Test](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-scores-100-percent-in-se-labs-ransomware-test/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 03, 2026 00:00:00-0800  
@@ -745,7 +753,7 @@
 
 ---
 
-### 84. [Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data](https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/)
+### 85. [Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data](https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 02, 2026 00:00:00-0800  
@@ -754,7 +762,7 @@
 
 ---
 
-### 85. [How Agentic Tool Chain Attacks Threaten AI Agent Security](https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/)
+### 86. [How Agentic Tool Chain Attacks Threaten AI Agent Security](https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 30, 2026 00:00:00-0800  
@@ -763,7 +771,7 @@
 
 ---
 
-### 86. [LABYRINTH CHOLLIMA Evolves into Three Adversaries](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
+### 87. [LABYRINTH CHOLLIMA Evolves into Three Adversaries](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 29, 2026 00:00:00-0800  
@@ -772,7 +780,7 @@
 
 ---
 
-### 87. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Voice of the Customer for Endpoint Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-voice-of-the-customer-for-epp-report/)
+### 88. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Voice of the Customer for Endpoint Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-voice-of-the-customer-for-epp-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 28, 2026 00:00:00-0800  
@@ -781,7 +789,7 @@
 
 ---
 
-### 88. [Data Protection Day 2026: From Compliance to Resilience](https://www.crowdstrike.com/en-us/blog/data-protection-day-2026-from-compliance-to-resilience/)
+### 89. [Data Protection Day 2026: From Compliance to Resilience](https://www.crowdstrike.com/en-us/blog/data-protection-day-2026-from-compliance-to-resilience/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 28, 2026 00:00:00-0800  
@@ -790,19 +798,10 @@
 
 ---
 
-### 89. [Small Devices, Big Risk: USB Drives Threaten Enterprise Security](https://www.crowdstrike.com/en-us/blog/usb-drives-threaten-enterprise-security/)
+### 90. [Small Devices, Big Risk: USB Drives Threaten Enterprise Security](https://www.crowdstrike.com/en-us/blog/usb-drives-threaten-enterprise-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jan 21, 2026 00:00:00-0600  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [The Architecture of Agentic Defense: Inside the Falcon Platform](https://www.crowdstrike.com/en-us/blog/architecture-of-agentic-defense-inside-the-falcon-platform/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jan 16, 2026 00:00:00-0800  
 **Severity:** Low  
 **Categories:** General Security  
 
