@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-06 08:52:08 UTC
+**Last Updated:** 2026-02-06 09:50:00 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries](https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html)
+### 1. [Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware](https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 06 Feb 2026 14:10:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 2. [Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries](https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Feb 2026 11:19:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack](https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html)
+### 3. [AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack](https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Feb 2026 22:55:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html)
+### 4. [ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Feb 2026 18:27:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [The Buyer’s Guide to AI Usage Control](https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html)
+### 5. [The Buyer’s Guide to AI Usage Control](https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Feb 2026 17:00:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends](https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html)
+### 6. [Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends](https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Feb 2026 15:55:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows](https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html)
+### 7. [Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows](https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Feb 2026 11:46:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign](https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html)
+### 8. [Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign](https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Feb 2026 10:26:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models](https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html)
+### 9. [Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models](https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 23:22:00 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files](https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html)
+### 10. [DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files](https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Feb 2026 22:54:00 +0530  
@@ -86,16 +95,16 @@
 
 ---
 
-### 10. [China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns](https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html)
+### 11. [CISA orders federal agencies to replace end-of-life edge devices](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 04 Feb 2026 19:39:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 06 Feb 2026 03:41:11 -0500  
 **Severity:** Low  
-**Categories:** Vulnerability, Phishing  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [Spain's Ministry of Science shuts down systems after breach claims](https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/)
+### 12. [Spain's Ministry of Science shuts down systems after breach claims](https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 16:23:00 -0500  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Ransomware gang uses ISPsystem VMs for stealthy payload delivery](https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/)
+### 13. [Ransomware gang uses ISPsystem VMs for stealthy payload delivery](https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 15:57:11 -0500  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Microsoft to shut down Exchange Online EWS in April 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/)
+### 14. [Microsoft to shut down Exchange Online EWS in April 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 13:07:41 -0500  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [Italian university La Sapienza goes offline after cyberattack](https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/)
+### 15. [Italian university La Sapienza goes offline after cyberattack](https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 12:02:45 -0500  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [Romanian oil pipeline operator Conpet discloses cyberattack](https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/)
+### 16. [Romanian oil pipeline operator Conpet discloses cyberattack](https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 10:15:49 -0500  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [When cloud logs fall short, the network tells the truth](https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/)
+### 17. [When cloud logs fall short, the network tells the truth](https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 10:00:10 -0500  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [Newsletter platform Substack notifies users of data breach](https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/)
+### 18. [Newsletter platform Substack notifies users of data breach](https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 07:54:48 -0500  
@@ -158,7 +167,7 @@
 
 ---
 
-### 18. [Data breach at fintech firm Betterment exposes 1.4 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/)
+### 19. [Data breach at fintech firm Betterment exposes 1.4 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 06:16:12 -0500  
@@ -167,7 +176,7 @@
 
 ---
 
-### 19. [Zendesk spam wave returns, floods users with 'Activate account' emails](https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/)
+### 20. [Zendesk spam wave returns, floods users with 'Activate account' emails](https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Feb 2026 05:22:36 -0500  
@@ -176,16 +185,25 @@
 
 ---
 
-### 20. [Hackers compromise NGINX servers to redirect user traffic](https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/)
+### 21. [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
 
-**Source:** Bleeping Computer  
-**Published:** Wed, 04 Feb 2026 18:26:56 -0500  
-**Severity:** Low  
-**Categories:** APT  
+**Source:** Krebs On Security  
+**Published:** Mon, 02 Feb 2026 16:15:16 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Phishing, APT, DDoS  
 
 ---
 
-### 21. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
+### 22. [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
+
+**Source:** Krebs On Security  
+**Published:** Mon, 26 Jan 2026 16:11:38 +0000  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 23. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 20 Jan 2026 18:19:13 +0000  
@@ -194,17 +212,17 @@
 
 ---
 
-### 22. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
+### 24. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20805, CVE-2026-20953, CVE-2026-20952  
+**CVEs:** CVE-2026-20952, CVE-2026-20805, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
 
-### 23. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
+### 25. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 08 Jan 2026 23:23:43 +0000  
@@ -213,7 +231,7 @@
 
 ---
 
-### 24. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+### 26. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 02 Jan 2026 14:20:10 +0000  
@@ -222,7 +240,7 @@
 
 ---
 
-### 25. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+### 27. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 29 Dec 2025 20:23:26 +0000  
@@ -231,7 +249,7 @@
 
 ---
 
-### 26. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+### 28. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 19 Dec 2025 15:14:55 +0000  
@@ -240,7 +258,7 @@
 
 ---
 
-### 27. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+### 29. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 16 Dec 2025 14:14:48 +0000  
@@ -249,101 +267,83 @@
 
 ---
 
-### 28. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+### 30. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62557, CVE-2025-62458, CVE-2025-59516, CVE-2025-62221, CVE-2025-62554, CVE-2025-59517, CVE-2025-62562, CVE-2025-62472, CVE-2025-62470  
+**CVEs:** CVE-2025-62562, CVE-2025-59516, CVE-2025-62554, CVE-2025-62221, CVE-2025-62472, CVE-2025-59517, CVE-2025-62458, CVE-2025-62557, CVE-2025-62470  
 **Categories:** Vulnerability  
 
 ---
 
-### 29. [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
+### 31. [‘DKnife’ Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks](https://www.securityweek.com/dknife-implant-used-by-chinese-threat-actor-for-adversary-in-the-middle-attacks/)
 
-**Source:** Krebs On Security  
-**Published:** Sat, 06 Dec 2025 14:45:03 +0000  
-**Severity:** Low  
-**Categories:** APT  
+**Source:** Security Week  
+**Published:** Fri, 06 Feb 2026 08:50:46 +0000  
 
 ---
 
-### 30. [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
-
-**Source:** Krebs On Security  
-**Published:** Thu, 04 Dec 2025 23:02:34 +0000  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 31. [5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel](https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/)
+### 32. [5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel](https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Feb 2026 08:19:03 +0000  
 
 ---
 
-### 32. [Critical SmarterMail Vulnerability Exploited in Ransomware Attacks](https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/)
+### 33. [Critical SmarterMail Vulnerability Exploited in Ransomware Attacks](https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Feb 2026 07:50:23 +0000  
 
 ---
 
-### 33. [Concerns Raised Over CISA’s Silent Ransomware Updates in KEV Catalog](https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/)
+### 34. [Concerns Raised Over CISA’s Silent Ransomware Updates in KEV Catalog](https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Feb 2026 05:28:39 +0000  
 
 ---
 
-### 34. [Zscaler Acquires Browser Security Firm SquareX](https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/)
+### 35. [Zscaler Acquires Browser Security Firm SquareX](https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Feb 2026 02:48:22 +0000  
 
 ---
 
-### 35. [Substack Discloses Security Incident After Hacker Leaks Data](https://www.securityweek.com/substack-discloses-security-incident-after-hacker-leaks-data/)
+### 36. [Substack Discloses Security Incident After Hacker Leaks Data](https://www.securityweek.com/substack-discloses-security-incident-after-hacker-leaks-data/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Feb 2026 15:13:55 +0000  
 
 ---
 
-### 36. [Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign](https://www.securityweek.com/researchers-expose-network-of-150-cloned-law-firm-websites-in-ai-powered-scam-campaign/)
+### 37. [Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign](https://www.securityweek.com/researchers-expose-network-of-150-cloned-law-firm-websites-in-ai-powered-scam-campaign/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Feb 2026 14:00:00 +0000  
 
 ---
 
-### 37. [VS Code Configs Expose GitHub Codespaces to Attacks](https://www.securityweek.com/vs-code-configs-expose-github-codespaces-to-attacks/)
+### 38. [VS Code Configs Expose GitHub Codespaces to Attacks](https://www.securityweek.com/vs-code-configs-expose-github-codespaces-to-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Feb 2026 13:41:48 +0000  
 
 ---
 
-### 38. [Nullify Secures $12.5 Million in Seed Funding for Cybersecurity AI Workforce](https://www.securityweek.com/nullify-secures-12-5-million-in-seed-funding-for-cybersecurity-ai-workforce/)
+### 39. [Nullify Secures $12.5 Million in Seed Funding for Cybersecurity AI Workforce](https://www.securityweek.com/nullify-secures-12-5-million-in-seed-funding-for-cybersecurity-ai-workforce/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Feb 2026 13:02:15 +0000  
 
 ---
 
-### 39. [Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says](https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/)
+### 40. [Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says](https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Feb 2026 12:29:34 +0000  
-
----
-
-### 40. [SystemBC Infects 10,000 Devices After Defying Law Enforcement Takedown](https://www.securityweek.com/systembc-infects-10000-devices-after-defying-law-enforcement-takedown/)
-
-**Source:** Security Week  
-**Published:** Thu, 05 Feb 2026 12:18:55 +0000  
 
 ---
 
