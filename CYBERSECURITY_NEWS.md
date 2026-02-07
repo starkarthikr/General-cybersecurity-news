@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-07 16:40:21 UTC
+**Last Updated:** 2026-02-07 18:37:10 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -217,7 +217,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20952, CVE-2026-20805, CVE-2026-20953  
+**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20805  
 **Categories:** Vulnerability  
 
 ---
@@ -272,7 +272,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62458, CVE-2025-59517, CVE-2025-62470, CVE-2025-62554, CVE-2025-62221, CVE-2025-62472, CVE-2025-62562, CVE-2025-59516, CVE-2025-62557  
+**CVEs:** CVE-2025-59517, CVE-2025-62562, CVE-2025-62557, CVE-2025-62472, CVE-2025-62221, CVE-2025-62554, CVE-2025-62470, CVE-2025-62458, CVE-2025-59516  
 **Categories:** Vulnerability  
 
 ---
@@ -398,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 11:00:07 GMT  
 **Severity:** High  
-**CVEs:** CVE-2025-55182, CVE-2025-61882  
+**CVEs:** CVE-2025-61882, CVE-2025-55182  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -417,7 +417,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 22 Jan 2026 13:54:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-57779, CVE-2025-59488, CVE-2025-58085  
+**CVEs:** CVE-2025-58085, CVE-2025-59488, CVE-2025-57779  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
