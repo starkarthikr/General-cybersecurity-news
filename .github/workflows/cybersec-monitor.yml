@@ -1,52 +1,60 @@
-name: Cybersecurity News Monitor
+name: Cybersecurity News Monitor (Scheduled)
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '0 */12 * * *'  # Runs every 12 hours
   workflow_dispatch:
 
-concurrency:
-  group: cybersecurity-news-monitor-sync
-  cancel-in-progress: false
-
 jobs:
-  fetch-cybersec-news:
+  fetch-news:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
+    
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+      cancel-in-progress: true
+    
     permissions:
       contents: write
-      issues: write
-
+    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Harden Runner
+        uses: step-security/harden-runner@5c7944e73c4c2a096b17a9cb74d65b6c2bbafbde # v2.9.1
         with:
-          fetch-depth: 0
-          persist-credentials: true
-
+          egress-policy: audit
+          allowed-endpoints: >
+            github.com:443
+            api.github.com:443
+            pypi.org:443
+            files.pythonhosted.org:443
+            feeds.feedburner.com:443
+            www.darkreading.com:443
+            krebsonsecurity.com:443
+            www.schneier.com:443
+            threatpost.com:443
+      
+      - name: Checkout repository
+        uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
+        with:
+          persist-credentials: false
+      
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@39cd14951b08e74b54015e9e001cdefcf80e669f # v5.1.1
         with:
           python-version: '3.11'
-
+          cache: 'pip'
+      
       - name: Install dependencies
         run: |
-          pip install feedparser requests beautifulsoup4 python-dateutil
-
-      - name: Pull latest changes
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Fetch cybersecurity news
+        run: python scripts/fetch_news.py
+      
+      - name: Commit and push updates
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
-
-      - name: Fetch Cybersecurity News
-        run: python scripts/parse_cybersec_feeds.py
-
-      - name: Commit and push changes
-        run: |
-          if git status --porcelain | grep .; then
-            git add -A
-            git commit -m "Update cybersecurity news - $(date +'%Y-%m-%d %H:%M:%S')"
-            git push origin HEAD:main
-          else
-            echo "No changes to commit"
-          fi
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update cybersecurity news - $(date +'%Y-%m-%d %H:%M:%S')" && git push)
