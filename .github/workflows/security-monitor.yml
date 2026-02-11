@@ -94,6 +94,7 @@ jobs:
             exit 0
           else
             git commit -m "🔒 Security Intelligence Report - $(date +'%Y-%m-%d %H:%M:%S UTC')"
+            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
             
             for i in {1..3}; do
               if git push; then

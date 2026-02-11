@@ -58,4 +58,8 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update cybersecurity news - $(date +'%Y-%m-%d %H:%M:%S')" && git push)
+          if ! git diff --quiet || ! git diff --staged --quiet; then
+            git commit -m "Update cybersecurity news - $(date +'%Y-%m-%d %H:%M:%S')"
+            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+            git push
+          fi
