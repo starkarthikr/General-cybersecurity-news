@@ -39,13 +39,22 @@ jobs:
         uses: actions/setup-python@39cd14951b08e74b54015e9e001cdefcf80e669f # v5.1.1
         with:
           python-version: '3.11'
-          cache: 'pip'
-          cache-dependency-path: '**/requirements*.txt'
+      
+      - name: Verify requirements.txt
+        run: |
+          echo "=== Contents of requirements.txt ==="
+          cat requirements.txt
+          echo "==================================="
       
       - name: Install dependencies
         run: |
+          echo "Upgrading pip..."
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          echo "Installing from requirements.txt..."
+          pip install --no-cache-dir -v -r requirements.txt
+          echo "Verifying feedparser installation..."
+          pip list | grep -i feedparser || echo "feedparser NOT found!"
+          python -c "import feedparser; print(f'feedparser version: {feedparser.__version__}')" || echo "Cannot import feedparser!"
       
       - name: Fetch Dark Reading articles
         run: python scripts/parse_cybersec_feeds.py
