@@ -4,6 +4,8 @@ import sys
 import time
 from datetime import datetime
 from pathlib import Path
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 # OpenRouter API configuration
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
@@ -36,6 +38,25 @@ FALLBACK_MODELS = [
     "qwen/qwen-2.5-7b-instruct:free",
 ]
 
+# Timeout settings (in seconds)
+CONNECT_TIMEOUT = 10  # Time to establish connection
+READ_TIMEOUT = 30     # Time to receive response
+REQUEST_TIMEOUT = (CONNECT_TIMEOUT, READ_TIMEOUT)
+
+def create_session_with_retries():
+    """Create requests session with retry logic and timeouts"""
+    session = requests.Session()
+    retry_strategy = Retry(
+        total=2,
+        backoff_factor=1,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["POST"]
+    )
+    adapter = HTTPAdapter(max_retries=retry_strategy)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    return session
+
 def generate_content(prompt: str, model: str = "meta-llama/llama-3.2-3b-instruct:free", retry_fallback: bool = True) -> dict:
     headers = {
         "Authorization": f"Bearer {API_KEY}",
@@ -50,10 +71,13 @@ def generate_content(prompt: str, model: str = "meta-llama/llama-3.2-3b-instruct
             if fallback != model and fallback not in models_to_try:
                 models_to_try.append(fallback)
     
+    session = create_session_with_retries()
+    
     for attempt, current_model in enumerate(models_to_try, 1):
         try:
             print(f"\n🔍 Analyzing cybersecurity news... (Attempt {attempt}/{len(models_to_try)})")
             print(f"   Model: {current_model}")
+            print(f"   Timeout: {CONNECT_TIMEOUT}s connect, {READ_TIMEOUT}s read")
             print(f"   Query: {prompt[:100]}..." if len(prompt) > 100 else f"   Query: {prompt}")
             
             payload = {
@@ -63,7 +87,12 @@ def generate_content(prompt: str, model: str = "meta-llama/llama-3.2-3b-instruct
                 "max_tokens": 2000
             }
             
-            response = requests.post(API_URL, json=payload, headers=headers, timeout=90)
+            response = session.post(
+                API_URL, 
+                json=payload, 
+                headers=headers, 
+                timeout=REQUEST_TIMEOUT
+            )
             
             if response.status_code == 429:
                 print(f"\n⚠️ Rate limited on {current_model}")
@@ -75,7 +104,7 @@ def generate_content(prompt: str, model: str = "meta-llama/llama-3.2-3b-instruct
                     return {"success": False, "content": "", "error": "All models rate limited", "model_used": None}
             
             if response.status_code != 200:
-                error_msg = f"HTTP {response.status_code}: {response.text}"
+                error_msg = f"HTTP {response.status_code}: {response.text[:200]}"
                 print(f"\n❌ API Error: {error_msg}")
                 if attempt < len(models_to_try):
                     print(f"   Trying fallback model...")
@@ -93,8 +122,26 @@ def generate_content(prompt: str, model: str = "meta-llama/llama-3.2-3b-instruct
             
             return {"success": True, "content": content, "error": None, "model_used": current_model}
             
+        except requests.exceptions.Timeout as e:
+            error_msg = f"Timeout error after {CONNECT_TIMEOUT + READ_TIMEOUT}s: {str(e)}"
+            print(f"\n⏱️ {error_msg}")
+            if attempt < len(models_to_try):
+                print(f"   Trying fallback model...")
+                time.sleep(1)
+                continue
+            return {"success": False, "content": "", "error": error_msg, "model_used": None}
+        
+        except requests.exceptions.ConnectionError as e:
+            error_msg = f"Connection error: {str(e)[:100]}"
+            print(f"\n🔌 {error_msg}")
+            if attempt < len(models_to_try):
+                print(f"   Trying fallback model...")
+                time.sleep(1)
+                continue
+            return {"success": False, "content": "", "error": error_msg, "model_used": None}
+        
         except Exception as e:
-            error_msg = f"Exception: {str(e)}"
+            error_msg = f"Exception: {str(e)[:200]}"
             print(f"\n❌ Error: {error_msg}")
             if attempt < len(models_to_try):
                 print(f"   Trying fallback model...")
@@ -102,6 +149,7 @@ def generate_content(prompt: str, model: str = "meta-llama/llama-3.2-3b-instruct
                 continue
             return {"success": False, "content": "", "error": error_msg, "model_used": None}
     
+    session.close()
     return {"success": False, "content": "", "error": "All retry attempts failed", "model_used": None}
 
 def save_output(prompt: str, content: str, model: str) -> str:
@@ -219,15 +267,14 @@ if __name__ == "__main__":
     else:
         print("\n⏰ Running scheduled security monitoring")
         prompts = [
-            "Generate a comprehensive daily cybersecurity threat report for February 10, 2026, covering critical vulnerabilities, active threats, and security advisories",
-            "Analyze recent zero-day exploits and provide mitigation strategies with specific IOCs and detection signatures",
-            "Create a security intelligence briefing on the latest phishing campaigns, malware families, and attack vectors"
+            "Generate a comprehensive daily cybersecurity threat report for February 12, 2026, covering critical vulnerabilities, active threats, and security advisories",
         ]
         model = custom_model
     
     print(f"\n🔍 Generating {len(prompts)} security report(s)...")
     print(f"🎯 Primary Model: {model}")
     print(f"🔄 Auto-fallback enabled")
+    print(f"⏱️  Timeout: {CONNECT_TIMEOUT}s connect + {READ_TIMEOUT}s read")
     print("="*80)
     
     success_count = 0
