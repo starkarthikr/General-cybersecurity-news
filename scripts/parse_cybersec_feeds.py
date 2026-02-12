@@ -12,6 +12,10 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
+import socket
+
+# Set global socket timeout as fallback
+socket.setdefaulttimeout(15)
 
 # Top Cybersecurity News RSS Feeds
 FEEDS = {
@@ -33,20 +37,36 @@ FEEDS = {
 OUTPUT_DIR = Path('cybersecurity_updates')
 OUTPUT_DIR.mkdir(exist_ok=True)
 
+# Timeout settings (in seconds)
+FEED_TIMEOUT = 10
+CONTENT_TIMEOUT = 8
+MAX_RETRIES = 2
+
 
 def fetch_feed(feed_url, feed_name):
-    """Fetch and parse RSS feed"""
+    """Fetch and parse RSS feed with timeout"""
     try:
         print(f'Fetching {feed_name} from {feed_url}')
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-        feed = feedparser.parse(feed_url, request_headers=headers)
+        
+        # Use requests with timeout first, then pass to feedparser
+        try:
+            response = requests.get(feed_url, headers=headers, timeout=FEED_TIMEOUT)
+            response.raise_for_status()
+            feed = feedparser.parse(response.content)
+        except requests.exceptions.Timeout:
+            print(f'Timeout error for {feed_name} - skipping')
+            return None
+        except requests.exceptions.RequestException as e:
+            print(f'Request error for {feed_name}: {e} - skipping')
+            return None
         
         if feed.bozo:
             print(f'Warning: Feed parsing issue for {feed_name}')
         
         return feed
     except Exception as e:
-        print(f'Error fetching {feed_name}: {e}')
+        print(f'Error fetching {feed_name}: {e} - skipping')
         return None
 
 
@@ -174,10 +194,12 @@ def analyze_article_structure(title, content, link):
 
 
 def extract_article_content(link):
-    """Extract article content from webpage"""
+    """Extract article content from webpage with timeout"""
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-        response = requests.get(link, headers=headers, timeout=15)
+        response = requests.get(link, headers=headers, timeout=CONTENT_TIMEOUT)
+        response.raise_for_status()
+        
         soup = BeautifulSoup(response.content, 'html.parser')
         
         # Try to find article content
@@ -193,59 +215,79 @@ def extract_article_content(link):
             return meta_desc.get('content')
         
         return None
+    except requests.exceptions.Timeout:
+        print(f'Timeout extracting content from {link[:50]}... - skipping')
+        return None
+    except requests.exceptions.RequestException as e:
+        print(f'Request error extracting content: {e} - skipping')
+        return None
     except Exception as e:
         print(f'Warning: Could not extract content: {e}')
         return None
 
 
 def process_feeds():
-    """Process all RSS feeds"""
+    """Process all RSS feeds with error handling"""
     all_articles = []
     recent_articles = []
     
-    for feed_name, feed_url in FEEDS.items():
-        feed = fetch_feed(feed_url, feed_name)
-        
-        if not feed or not hasattr(feed, 'entries'):
-            continue
-        
-        print(f'Found {len(feed.entries)} entries in {feed_name}')
-        
-        for entry in feed.entries[:10]:
-            try:
-                description = entry.get('summary', '')
-                title = entry.get('title', 'No Title')
-                link = entry.get('link', '')
-                published = entry.get('published', 'Unknown')
-                
-                # Extract full content for recent articles
-                full_content = None
-                structured_analysis = None
-                
-                if hasattr(entry, 'published_parsed') and is_recent(entry.published_parsed, days=3):
-                    full_content = extract_article_content(link)
-                    if full_content:
-                        structured_analysis = analyze_article_structure(title, full_content, link)
-                
-                article = {
-                    'source': feed_name.replace('_', ' ').title(),
-                    'title': title,
-                    'link': link,
-                    'published': published,
-                    'summary': description,
-                }
-                
-                if structured_analysis:
-                    article['analysis'] = structured_analysis
-                
-                if hasattr(entry, 'published_parsed') and is_recent(entry.published_parsed, days=3):
-                    recent_articles.append(article)
-                
-                all_articles.append(article)
-            except Exception as e:
-                print(f'Error processing entry: {e}')
-                continue
+    successful_feeds = 0
+    failed_feeds = 0
     
+    for feed_name, feed_url in FEEDS.items():
+        try:
+            feed = fetch_feed(feed_url, feed_name)
+            
+            if not feed or not hasattr(feed, 'entries'):
+                failed_feeds += 1
+                continue
+            
+            print(f'Found {len(feed.entries)} entries in {feed_name}')
+            successful_feeds += 1
+            
+            for entry in feed.entries[:10]:
+                try:
+                    description = entry.get('summary', '')
+                    title = entry.get('title', 'No Title')
+                    link = entry.get('link', '')
+                    published = entry.get('published', 'Unknown')
+                    
+                    # Extract full content for recent articles (with timeout)
+                    full_content = None
+                    structured_analysis = None
+                    
+                    if hasattr(entry, 'published_parsed') and is_recent(entry.published_parsed, days=3):
+                        try:
+                            full_content = extract_article_content(link)
+                            if full_content:
+                                structured_analysis = analyze_article_structure(title, full_content, link)
+                        except Exception as e:
+                            print(f'Error analyzing article: {e} - continuing')
+                    
+                    article = {
+                        'source': feed_name.replace('_', ' ').title(),
+                        'title': title,
+                        'link': link,
+                        'published': published,
+                        'summary': description,
+                    }
+                    
+                    if structured_analysis:
+                        article['analysis'] = structured_analysis
+                    
+                    if hasattr(entry, 'published_parsed') and is_recent(entry.published_parsed, days=3):
+                        recent_articles.append(article)
+                    
+                    all_articles.append(article)
+                except Exception as e:
+                    print(f'Error processing entry in {feed_name}: {e} - continuing')
+                    continue
+        except Exception as e:
+            print(f'Fatal error processing feed {feed_name}: {e} - skipping')
+            failed_feeds += 1
+            continue
+    
+    print(f'\nFeed Summary: {successful_feeds} successful, {failed_feeds} failed')
     return all_articles, recent_articles
 
 
