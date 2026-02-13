@@ -6,7 +6,7 @@ on:
       prompt:
         description: 'Custom security analysis query'
         required: false
-        default: 'Generate a comprehensive daily cybersecurity threat report covering critical vulnerabilities, active threats, security advisories, and recommended actions for December 13, 2025'
+        default: 'Generate a comprehensive daily cybersecurity threat report covering critical vulnerabilities, active threats, security advisories, and recommended actions for February 13, 2026'
       model:
         description: 'AI Model (all 100% FREE)'
         required: false
@@ -67,9 +67,22 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Validate API key
+        run: |
+          if [ -z "${{ secrets.OPENROUTER_API_KEY }}" ]; then
+            echo "❌ ERROR: OPENROUTER_API_KEY secret is not set!"
+            echo "Please add your OpenRouter API key:"
+            echo "1. Go to https://openrouter.ai/keys to get your API key"
+            echo "2. Add it to repository secrets as 'OPENROUTER_API_KEY'"
+            echo "3. Settings → Secrets and variables → Actions → New repository secret"
+            exit 1
+          else
+            echo "✅ API key is configured"
+          fi
+
       - name: Run security analysis
         env:
-          OPENROUTER_API_KEY: ${{ secrets.GITHUB }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           CUSTOM_PROMPT: ${{ github.event.inputs.prompt }}
           CUSTOM_MODEL: ${{ github.event.inputs.model || 'meta-llama/llama-3.2-3b-instruct:free' }}
           GITHUB_ACTIONS: true
@@ -82,6 +95,7 @@ jobs:
           python main.py
 
       - name: Commit and push security reports
+        if: success()
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -109,3 +123,12 @@ jobs:
             echo "❌ Failed to push after 3 attempts"
             exit 1
           fi
+
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "::error::Workflow failed. Check the logs above for details."
+          echo "::error::Common issues:"
+          echo "::error::  - OPENROUTER_API_KEY not set or invalid"
+          echo "::error::  - API rate limits exceeded"
+          echo "::error::  - Network connectivity issues"
