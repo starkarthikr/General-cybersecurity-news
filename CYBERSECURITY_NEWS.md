@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-13 09:22:52 UTC
+**Last Updated:** 2026-02-13 13:15:11 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support](https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html)
+### 1. [Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 13 Feb 2026 16:55:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [npm’s Update to Harden Their Supply Chain, and Points to Consider](https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 13 Feb 2026 16:15:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing, Supply Chain  
+
+---
+
+### 3. [Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability](https://thehackernews.com/2026/02/researchers-observe-in-wild.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 13 Feb 2026 14:04:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support](https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Feb 2026 23:27:00 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems](https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html)
+### 5. [Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems](https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Feb 2026 22:25:00 +0530  
@@ -22,7 +49,7 @@
 
 ---
 
-### 3. [ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html)
+### 6. [ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Feb 2026 17:21:00 +0530  
@@ -31,7 +58,7 @@
 
 ---
 
-### 4. [The CTEM Divide: Why 84% of Security Programs Are Falling Behind](https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html)
+### 7. [The CTEM Divide: Why 84% of Security Programs Are Falling Behind](https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Feb 2026 16:00:00 +0530  
@@ -40,7 +67,7 @@
 
 ---
 
-### 5. [83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure](https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html)
+### 8. [83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure](https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Feb 2026 13:02:00 +0530  
@@ -49,7 +76,7 @@
 
 ---
 
-### 6. [Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices](https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html)
+### 9. [Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices](https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Feb 2026 11:09:00 +0530  
@@ -59,7 +86,7 @@
 
 ---
 
-### 7. [First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials](https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html)
+### 10. [First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials](https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Feb 2026 23:15:00 +0530  
@@ -68,32 +95,26 @@
 
 ---
 
-### 8. [APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities](https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html)
+### 11. [CISA flags critical Microsoft SCCM flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 11 Feb 2026 20:22:00 +0530  
-**Severity:** Low  
-**Categories:** Malware, Phishing, APT  
-
----
-
-### 9. [Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms](https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 11 Feb 2026 18:58:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 13 Feb 2026 07:35:09 -0500  
 **Severity:** Critical  
+**CVEs:** CVE-2024-43468  
 **Categories:** Vulnerability  
 
 ---
 
-### 10. [Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments](https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html)
+### 12. [Microsoft fixes bug that blocked Google Chrome from launching](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 11 Feb 2026 17:00:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 13 Feb 2026 04:31:01 -0500  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
-### 11. [Russia tries to block WhatsApp, Telegram in communication blockade](https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/)
+### 13. [Russia tries to block WhatsApp, Telegram in communication blockade](https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Feb 2026 17:57:54 -0500  
@@ -102,7 +123,7 @@
 
 ---
 
-### 12. [Bitwarden introduces ‘Cupid Vault’ for secure password sharing](https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/)
+### 14. [Bitwarden introduces ‘Cupid Vault’ for secure password sharing](https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Feb 2026 16:55:24 -0500  
@@ -111,7 +132,7 @@
 
 ---
 
-### 13. [Critical BeyondTrust RCE flaw now exploited in attacks, patch now](https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/)
+### 15. [Critical BeyondTrust RCE flaw now exploited in attacks, patch now](https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Feb 2026 16:34:12 -0500  
@@ -121,7 +142,7 @@
 
 ---
 
-### 14. [Microsoft: New Windows LNK spoofing issues aren't vulnerabilities](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/)
+### 16. [Microsoft: New Windows LNK spoofing issues aren't vulnerabilities](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Feb 2026 16:01:00 -0500  
@@ -130,7 +151,7 @@
 
 ---
 
-### 15. [Romania's oil pipeline operator Conpet confirms data stolen in attack](https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/)
+### 17. [Romania's oil pipeline operator Conpet confirms data stolen in attack](https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Feb 2026 14:16:38 -0500  
@@ -139,7 +160,7 @@
 
 ---
 
-### 16. [Odido data breach exposes personal info of 6.2 million customers](https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/)
+### 18. [Odido data breach exposes personal info of 6.2 million customers](https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Feb 2026 13:18:14 -0500  
@@ -148,7 +169,7 @@
 
 ---
 
-### 17. [WordPress plugin with 900k installs vulnerable to critical RCE flaw](https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/)
+### 19. [WordPress plugin with 900k installs vulnerable to critical RCE flaw](https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Feb 2026 12:09:41 -0500  
@@ -158,30 +179,12 @@
 
 ---
 
-### 18. [AMOS infostealer targets macOS through a popular AI app](https://www.bleepingcomputer.com/news/security/amos-infostealer-targets-macos-through-a-popular-ai-app/)
+### 20. [AMOS infostealer targets macOS through a popular AI app](https://www.bleepingcomputer.com/news/security/amos-infostealer-targets-macos-through-a-popular-ai-app/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Feb 2026 09:25:38 -0500  
 **Severity:** Critical  
 **Categories:** Malware, APT  
-
----
-
-### 19. [Fake AI Chrome extensions with 300K users steal credentials, emails](https://www.bleepingcomputer.com/news/security/fake-ai-chrome-extensions-with-300k-users-steal-credentials-emails/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 12 Feb 2026 08:41:55 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Google says hackers are abusing Gemini AI for all attacks stages](https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 12 Feb 2026 02:00:00 -0500  
-**Severity:** Low  
-**Categories:** Vulnerability, Phishing, APT  
 
 ---
 
@@ -199,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21509, CVE-2026-21519, CVE-2026-21533, CVE-2026-21513, CVE-2026-21525, CVE-2026-21516, CVE-2026-21256, CVE-2026-21514, CVE-2026-21510, CVE-2026-21523  
+**CVEs:** CVE-2026-21525, CVE-2026-21509, CVE-2026-21510, CVE-2026-21523, CVE-2026-21533, CVE-2026-21514, CVE-2026-21256, CVE-2026-21513, CVE-2026-21516, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -236,7 +239,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
+**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
 **Categories:** Vulnerability  
 
 ---
@@ -277,73 +280,73 @@
 
 ---
 
-### 31. [Chrome 145 Patches 11 Vulnerabilities](https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/)
+### 31. [Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat](https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/)
+
+**Source:** Security Week  
+**Published:** Fri, 13 Feb 2026 12:35:11 +0000  
+
+---
+
+### 32. [Dutch Carrier Odido Discloses Data Breach Impacting 6 Million](https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/)
+
+**Source:** Security Week  
+**Published:** Fri, 13 Feb 2026 12:02:20 +0000  
+
+---
+
+### 33. [BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release](https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/)
+
+**Source:** Security Week  
+**Published:** Fri, 13 Feb 2026 11:01:15 +0000  
+
+---
+
+### 34. [CISA Warns of Exploited SolarWinds, Notepad++, Microsoft Vulnerabilities](https://www.securityweek.com/cisa-warns-of-exploited-solarwinds-notepad-microsoft-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Fri, 13 Feb 2026 10:36:04 +0000  
+
+---
+
+### 35. [Chrome 145 Patches 11 Vulnerabilities](https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Feb 2026 08:18:22 +0000  
 
 ---
 
-### 32. [China Revives Tianfu Cup Hacking Contest Under Increased Secrecy](https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/)
+### 36. [China Revives Tianfu Cup Hacking Contest Under Increased Secrecy](https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Feb 2026 06:49:26 +0000  
 
 ---
 
-### 33. [How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development](https://www.securityweek.com/how-to-eliminate-the-technical-debt-of-insecure-ai-assisted-software-development/)
+### 37. [How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development](https://www.securityweek.com/how-to-eliminate-the-technical-debt-of-insecure-ai-assisted-software-development/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Feb 2026 16:15:00 +0000  
 
 ---
 
-### 34. [ApolloMD Data Breach Impacts 626,000 Individuals](https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/)
+### 38. [ApolloMD Data Breach Impacts 626,000 Individuals](https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Feb 2026 12:23:33 +0000  
 
 ---
 
-### 35. [Microsoft to Enable ‘Windows Baseline Security’ With New Runtime Integrity Safeguards](https://www.securityweek.com/microsoft-to-enable-windows-baseline-security-with-new-runtime-integrity-safeguards/)
+### 39. [Microsoft to Enable ‘Windows Baseline Security’ With New Runtime Integrity Safeguards](https://www.securityweek.com/microsoft-to-enable-windows-baseline-security-with-new-runtime-integrity-safeguards/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Feb 2026 11:27:30 +0000  
 
 ---
 
-### 36. [Hacktivists, State Actors, Cybercriminals Target Global Defense Industry, Google Warns](https://www.securityweek.com/hacktivists-state-actors-cybercriminals-target-global-defense-industry-google-warns/)
+### 40. [Hacktivists, State Actors, Cybercriminals Target Global Defense Industry, Google Warns](https://www.securityweek.com/hacktivists-state-actors-cybercriminals-target-global-defense-industry-google-warns/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Feb 2026 11:12:46 +0000  
-
----
-
-### 37. [Nucleus Raises $20 Million for Exposure Management](https://www.securityweek.com/nucleus-raises-20-million-for-exposure-management/)
-
-**Source:** Security Week  
-**Published:** Thu, 12 Feb 2026 09:09:02 +0000  
-
----
-
-### 38. [Apple Patches iOS Zero-Day Exploited in ‘Extremely Sophisticated Attack’](https://www.securityweek.com/apple-patches-ios-zero-day-exploited-in-extremely-sophisticated-attack/)
-
-**Source:** Security Week  
-**Published:** Thu, 12 Feb 2026 07:48:35 +0000  
-
----
-
-### 39. [Nevada Unveils New Statewide Data Classification Policy Months After Cyberattack](https://www.securityweek.com/nevada-unveils-new-statewide-data-classification-policy-months-after-cyberattack/)
-
-**Source:** Security Week  
-**Published:** Wed, 11 Feb 2026 19:50:13 +0000  
-
----
-
-### 40. [Webinar Today: Identity Under Attack – Strengthen Your Identity Defenses](https://www.securityweek.com/webinar-today-identity-under-attack-strengthen-your-identity-defenses/)
-
-**Source:** Security Week  
-**Published:** Wed, 11 Feb 2026 15:05:53 +0000  
 
 ---
 
@@ -379,7 +382,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21519, CVE-2026-21513, CVE-2026-21525, CVE-2026-21510, CVE-2026-21522, CVE-2026-21514, CVE-2026-23655  
+**CVEs:** CVE-2026-21513, CVE-2026-21525, CVE-2026-21522, CVE-2026-21510, CVE-2026-21514, CVE-2026-23655, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -435,7 +438,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 11:00:07 GMT  
 **Severity:** High  
-**CVEs:** CVE-2025-61882, CVE-2025-55182  
+**CVEs:** CVE-2025-55182, CVE-2025-61882  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -626,7 +629,16 @@
 
 ---
 
-### 71. [Outlook add-in goes rogue and steals 4,000 credentials and payment data](https://www.malwarebytes.com/blog/news/2026/02/outlook-add-in-goes-rogue-and-steals-4000-credentials-and-payment-data)
+### 71. [Fake shops target Winter Olympics 2026 fans](https://www.malwarebytes.com/blog/scams/2026/02/fake-shops-target-winter-olympics-2026-fans)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 13 Feb 2026 09:00:02 GMT  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 72. [Outlook add-in goes rogue and steals 4,000 credentials and payment data](https://www.malwarebytes.com/blog/news/2026/02/outlook-add-in-goes-rogue-and-steals-4000-credentials-and-payment-data)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Feb 2026 14:35:13 GMT  
@@ -635,7 +647,7 @@
 
 ---
 
-### 72. [Child exploitation, grooming, and social media addiction claims put Meta on trial](https://www.malwarebytes.com/blog/family-and-parenting/2026/02/child-exploitation-grooming-and-social-media-addiction-claims-put-meta-on-trial)
+### 73. [Child exploitation, grooming, and social media addiction claims put Meta on trial](https://www.malwarebytes.com/blog/family-and-parenting/2026/02/child-exploitation-grooming-and-social-media-addiction-claims-put-meta-on-trial)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Feb 2026 12:35:26 GMT  
@@ -644,17 +656,17 @@
 
 ---
 
-### 73. [Apple patches zero-day flaw that could let attackers take control of devices](https://www.malwarebytes.com/blog/news/2026/02/apple-patches-zero-day-flaw-that-could-let-attackers-take-control-of-devices)
+### 74. [Apple patches zero-day flaw that could let attackers take control of devices](https://www.malwarebytes.com/blog/news/2026/02/apple-patches-zero-day-flaw-that-could-let-attackers-take-control-of-devices)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Feb 2026 11:40:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-43529, CVE-2026-20700, CVE-2025-14174  
+**CVEs:** CVE-2025-14174, CVE-2026-20700, CVE-2025-43529  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 74. [Criminals are using AI website builders to clone major brands](https://www.malwarebytes.com/blog/news/2026/02/criminals-are-using-ai-website-builders-to-clone-major-brands)
+### 75. [Criminals are using AI website builders to clone major brands](https://www.malwarebytes.com/blog/news/2026/02/criminals-are-using-ai-website-builders-to-clone-major-brands)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Feb 2026 08:03:00 GMT  
@@ -663,17 +675,17 @@
 
 ---
 
-### 75. [February 2026 Patch Tuesday includes six actively exploited zero-days](https://www.malwarebytes.com/blog/news/2026/02/february-2026-patch-tuesday-includes-six-actively-exploited-zero-days)
+### 76. [February 2026 Patch Tuesday includes six actively exploited zero-days](https://www.malwarebytes.com/blog/news/2026/02/february-2026-patch-tuesday-includes-six-actively-exploited-zero-days)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Feb 2026 12:32:20 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21514, CVE-2026-21510, CVE-2026-21513  
+**CVEs:** CVE-2026-21513, CVE-2026-21510, CVE-2026-21514  
 **Categories:** Vulnerability, Phishing  
 
 ---
 
-### 76. [Malwarebytes earns PCMag Best Tech Brand spot, scores 100% with MRG Effitas](https://www.malwarebytes.com/blog/product/2026/02/malwarebytes-earns-pcmag-best-tech-brand-spot-scores-100-with-mrg-effitas)
+### 77. [Malwarebytes earns PCMag Best Tech Brand spot, scores 100% with MRG Effitas](https://www.malwarebytes.com/blog/product/2026/02/malwarebytes-earns-pcmag-best-tech-brand-spot-scores-100-with-mrg-effitas)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Feb 2026 10:09:52 GMT  
@@ -682,7 +694,7 @@
 
 ---
 
-### 77. [Discord will limit profiles to teen-appropriate mode until you verify your age](https://www.malwarebytes.com/blog/news/2026/02/discord-will-limit-profiles-to-teen-appropriate-mode-until-you-verify-your-age)
+### 78. [Discord will limit profiles to teen-appropriate mode until you verify your age](https://www.malwarebytes.com/blog/news/2026/02/discord-will-limit-profiles-to-teen-appropriate-mode-until-you-verify-your-age)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 10 Feb 2026 15:29:52 GMT  
@@ -691,7 +703,7 @@
 
 ---
 
-### 78. [How safe are kids using social media? We did the groundwork](https://www.malwarebytes.com/blog/family-and-parenting/2026/02/how-safe-are-kids-using-social-media-we-did-the-groundwork)
+### 79. [How safe are kids using social media? We did the groundwork](https://www.malwarebytes.com/blog/family-and-parenting/2026/02/how-safe-are-kids-using-social-media-we-did-the-groundwork)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 10 Feb 2026 13:50:00 GMT  
@@ -700,20 +712,11 @@
 
 ---
 
-### 79. [Man tricked hundreds of women into handing over Snapchat security codes](https://www.malwarebytes.com/blog/privacy/2026/02/man-tricked-hundreds-of-women-into-handing-over-snapchat-security-codes)
+### 80. [Man tricked hundreds of women into handing over Snapchat security codes](https://www.malwarebytes.com/blog/privacy/2026/02/man-tricked-hundreds-of-women-into-handing-over-snapchat-security-codes)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 10 Feb 2026 13:28:45 GMT  
 **Severity:** High  
-**Categories:** General Security  
-
----
-
-### 80. [Is your phone listening to you? (re-air) (Lock and Code S07E03)](https://www.malwarebytes.com/blog/podcast/2026/02/is-your-phone-listening-to-you-re-air-lock-and-code-s07e03)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 09 Feb 2026 18:49:48 GMT  
-**Severity:** Low  
 **Categories:** General Security  
 
 ---

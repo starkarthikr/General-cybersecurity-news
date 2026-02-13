@@ -1,6 +1,61 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History",
+    "link": "https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html",
+    "published": "Fri, 13 Feb 2026 16:55:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a malicious Google Chrome extension that's designed to steal data associated with Meta Business Suite and Facebook Business Manager.\nThe extension, named CL Suite by @CLMasters (ID: jkphinfhmfkckkcnifhjiplhfoiefffl), is marketed as a way to scrape Meta Business Suite data, remove verification pop-ups, and generate two-factor authentication (2FA) codes.",
+    "analysis": {
+      "issue": "Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "npm’s Update to Harden Their Supply Chain, and Points to Consider",
+    "link": "https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html",
+    "published": "Fri, 13 Feb 2026 16:15:00 +0530",
+    "summary": "In December 2025, in response to the Sha1-Hulud incident, npm completed a major authentication overhaul intended to reduce supply-chain attacks. While the overhaul is a solid step forward, the changes don’t make npm projects immune from supply-chain attacks. npm is still susceptible to malware attacks – here’s what you need to know for a safer Node community.\nLet’s start with the original",
+    "analysis": {
+      "issue": "npm’s token overhaul boosts security, but MFA bypass, phishing, and console access still enable supply-chain attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability",
+    "link": "https://thehackernews.com/2026/02/researchers-observe-in-wild.html",
+    "published": "Fri, 13 Feb 2026 14:04:00 +0530",
+    "summary": "Threat actors have started to exploit a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products, according to watchTowr.\n\"Overnight we observed first in-the-wild exploitation of BeyondTrust across our global sensors,\" Ryan Dewhurst, head of threat intelligence at watchTowr, said in a post on X. \"Attackers are abusing",
+    "analysis": {
+      "issue": "Active exploitation of BeyondTrust  enables unauthenticated RCE as CISA adds Apple, Microsoft, SolarWinds, and Notepad++ flaws to KEV list",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support",
     "link": "https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html",
     "published": "Thu, 12 Feb 2026 23:27:00 +0530",
@@ -131,49 +186,42 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities",
-    "link": "https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html",
-    "published": "Wed, 11 Feb 2026 20:22:00 +0530",
-    "summary": "Indian defense sector and government-aligned organizations have been targeted by multiple campaigns that are designed to compromise Windows and Linux environments with remote access trojans capable of stealing sensitive data and ensuring continued access to infected machines.\nThe campaigns are characterized by the use of malware families like Geta RAT, Ares RAT, and DeskRAT, which are often",
+    "source": "Bleeping Computer",
+    "title": "CISA flags critical Microsoft SCCM flaw as exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/",
+    "published": "Fri, 13 Feb 2026 07:35:09 -0500",
+    "summary": "CISA ordered federal agencies on Thursday to secure their systems against a critical Microsoft Configuration Manager vulnerability patched in October 2024 and now exploited in attacks. [...]",
     "analysis": {
-      "issue": "Pakistan-aligned APT36 and SideCopy target Indian defense and government entities using phishing-delivered RAT malware across Windows and Linux system",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms",
-    "link": "https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html",
-    "published": "Wed, 11 Feb 2026 18:58:00 +0530",
-    "summary": "It's Patch Tuesday, which means a number of software vendors have released patches for various security vulnerabilities impacting their products and services.\nMicrosoft issued fixes for 59 flaws, including six actively exploited zero-days in various Windows components that could be abused to bypass security features, escalate privileges, and trigger a denial-of-service (DoS) condition.\nElsewhere",
-    "analysis": {
-      "issue": "Patch Tuesday delivers fixes for 59 Microsoft flaws, six exploited zero-days, plus critical SAP and Intel TDX vulnerabilities",
+      "issue": "government agencies on Thursday to secure their systems against a critical Microsoft Configuration Manager vulnerability patched in October 2024 and now exploited in attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
+      "cves": [
+        "CVE-2024-43468"
+      ],
       "threat_categories": [
         "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments",
-    "link": "https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html",
-    "published": "Wed, 11 Feb 2026 17:00:00 +0530",
-    "summary": "Intentionally vulnerable training applications are widely used for security education, internal testing, and product demonstrations. Tools such as OWASP Juice Shop, DVWA, Hackazon, and bWAPP are designed to be insecure by default, making them useful for learning how common attack techniques work in controlled environments.\nThe issue is not the applications themselves, but how they are often"
+    "source": "Bleeping Computer",
+    "title": "Microsoft fixes bug that blocked Google Chrome from launching",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/",
+    "published": "Fri, 13 Feb 2026 04:31:01 -0500",
+    "summary": "Microsoft has fixed a known issue causing its Family Safety parental control service to block Windows users from launching Google Chrome and other web browsers. [...]",
+    "analysis": {
+      "issue": "Microsoft has fixed a known issue causing its Family Safety parental control service to block Windows users from launching Google Chrome and other web browsers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
@@ -326,44 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Fake AI Chrome extensions with 300K users steal credentials, emails",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-ai-chrome-extensions-with-300k-users-steal-credentials-emails/",
-    "published": "Thu, 12 Feb 2026 08:41:55 -0500",
-    "summary": "A set of 30 malicious Chrome extensions that have been installed by more than 300,000 users are masquerading as AI assistants to steal credentials, email content, and browsing information. [...]",
-    "analysis": {
-      "issue": "A set of 30 malicious Chrome extensions that have been installed by more than 300,000 users are masquerading as AI assistants to steal credentials, email content, and browsing information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google says hackers are abusing Gemini AI for all attacks stages",
-    "link": "https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/",
-    "published": "Thu, 12 Feb 2026 02:00:00 -0500",
-    "summary": "Google Threat Intelligence Group (GTIG) has published a new report warning about AI model extraction/distillation attacks, in which private-sector firms and researchers use legitimate API access to systematically probe models and replicate their logic and reasoning. [...]",
-    "analysis": {
-      "issue": "State-backed hackers are using Google's Gemini AI model to support all stages of an attack, from reconnaissance to post-compromise actions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
     "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
@@ -395,16 +405,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21509",
-        "CVE-2026-21519",
-        "CVE-2026-21533",
-        "CVE-2026-21513",
         "CVE-2026-21525",
-        "CVE-2026-21516",
-        "CVE-2026-21256",
-        "CVE-2026-21514",
+        "CVE-2026-21509",
         "CVE-2026-21510",
-        "CVE-2026-21523"
+        "CVE-2026-21523",
+        "CVE-2026-21533",
+        "CVE-2026-21514",
+        "CVE-2026-21256",
+        "CVE-2026-21513",
+        "CVE-2026-21516",
+        "CVE-2026-21519"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -482,9 +492,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20953",
         "CVE-2026-20805",
-        "CVE-2026-20952",
-        "CVE-2026-20953"
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -569,6 +579,34 @@
   },
   {
     "source": "Security Week",
+    "title": "Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat",
+    "link": "https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/",
+    "published": "Fri, 13 Feb 2026 12:35:11 +0000",
+    "summary": "<p>Check Point has acquired Israeli cybersecurity companies Cyata, Cyclops, and Rotate.</p>\n<p>The post <a href=\"https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/\">Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Dutch Carrier Odido Discloses Data Breach Impacting 6 Million",
+    "link": "https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/",
+    "published": "Fri, 13 Feb 2026 12:02:20 +0000",
+    "summary": "<p>Hackers stole personal information such as names, addresses, and phone numbers from a customer contact system.</p>\n<p>The post <a href=\"https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/\">Dutch Carrier Odido Discloses Data Breach Impacting 6 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release",
+    "link": "https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/",
+    "published": "Fri, 13 Feb 2026 11:01:15 +0000",
+    "summary": "<p>Exploitation attempts target CVE-2026-1731, a critical unauthenticated remote code execution flaw in BeyondTrust Remote Support.</p>\n<p>The post <a href=\"https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/\">BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "CISA Warns of Exploited SolarWinds, Notepad++, Microsoft Vulnerabilities",
+    "link": "https://www.securityweek.com/cisa-warns-of-exploited-solarwinds-notepad-microsoft-vulnerabilities/",
+    "published": "Fri, 13 Feb 2026 10:36:04 +0000",
+    "summary": "<p>Disclosed at the end of January, the SolarWinds vulnerability was likely exploited as a zero-day since December 2025.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-warns-of-exploited-solarwinds-notepad-microsoft-vulnerabilities/\">CISA Warns of Exploited SolarWinds, Notepad++, Microsoft Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Chrome 145 Patches 11 Vulnerabilities",
     "link": "https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/",
     "published": "Fri, 13 Feb 2026 08:18:22 +0000",
@@ -608,34 +646,6 @@
     "link": "https://www.securityweek.com/hacktivists-state-actors-cybercriminals-target-global-defense-industry-google-warns/",
     "published": "Thu, 12 Feb 2026 11:12:46 +0000",
     "summary": "<p>Threat actors from Russia, China, North Korea and Iran have been observed launching attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacktivists-state-actors-cybercriminals-target-global-defense-industry-google-warns/\">Hacktivists, State Actors, Cybercriminals Target Global Defense Industry, Google Warns</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Nucleus Raises $20 Million for Exposure Management",
-    "link": "https://www.securityweek.com/nucleus-raises-20-million-for-exposure-management/",
-    "published": "Thu, 12 Feb 2026 09:09:02 +0000",
-    "summary": "<p>The company will use the investment to scale operations and deepen intelligence and automation.</p>\n<p>The post <a href=\"https://www.securityweek.com/nucleus-raises-20-million-for-exposure-management/\">Nucleus Raises $20 Million for Exposure Management</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Apple Patches iOS Zero-Day Exploited in ‘Extremely Sophisticated Attack’",
-    "link": "https://www.securityweek.com/apple-patches-ios-zero-day-exploited-in-extremely-sophisticated-attack/",
-    "published": "Thu, 12 Feb 2026 07:48:35 +0000",
-    "summary": "<p>Impacting the ‘dyld’ system component, the memory corruption issue can be exploited for arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-patches-ios-zero-day-exploited-in-extremely-sophisticated-attack/\">Apple Patches iOS Zero-Day Exploited in &#8216;Extremely Sophisticated Attack&#8217;</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Nevada Unveils New Statewide Data Classification Policy Months After Cyberattack",
-    "link": "https://www.securityweek.com/nevada-unveils-new-statewide-data-classification-policy-months-after-cyberattack/",
-    "published": "Wed, 11 Feb 2026 19:50:13 +0000",
-    "summary": "<p>Officials said data will now be classified as one of four categories: “public,” “sensitive,” “confidential” or “restricted.” </p>\n<p>The post <a href=\"https://www.securityweek.com/nevada-unveils-new-statewide-data-classification-policy-months-after-cyberattack/\">Nevada Unveils New Statewide Data Classification Policy Months After Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Webinar Today: Identity Under Attack – Strengthen Your Identity Defenses",
-    "link": "https://www.securityweek.com/webinar-today-identity-under-attack-strengthen-your-identity-defenses/",
-    "published": "Wed, 11 Feb 2026 15:05:53 +0000",
-    "summary": "<p>Gain practical insights on balancing security, user experience, and operational efficiency while staying ahead of increasingly sophisticated threats.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-identity-under-attack-strengthen-your-identity-defenses/\">Webinar Today: Identity Under Attack &#8211; Strengthen Your Identity Defenses</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -705,13 +715,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21519",
         "CVE-2026-21513",
         "CVE-2026-21525",
-        "CVE-2026-21510",
         "CVE-2026-21522",
+        "CVE-2026-21510",
         "CVE-2026-21514",
-        "CVE-2026-23655"
+        "CVE-2026-23655",
+        "CVE-2026-21519"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -824,8 +834,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-61882",
-        "CVE-2025-55182"
+        "CVE-2025-55182",
+        "CVE-2025-61882"
       ],
       "threat_categories": [
         "Ransomware",
@@ -1217,6 +1227,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Fake shops target Winter Olympics 2026 fans",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/02/fake-shops-target-winter-olympics-2026-fans",
+    "published": "Fri, 13 Feb 2026 09:00:02 GMT",
+    "summary": "Olympic merchandise is already being used as bait. We’ve identified nearly 20 fake shop sites targeting fans globally.",
+    "analysis": {
+      "issue": "If you’ve seen the two stoat siblings serving as official mascots of the Milano Cortina 2026 Winter Olympics, you already know Tina and Milo are irresistible",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Outlook add-in goes rogue and steals 4,000 credentials and payment data",
     "link": "https://www.malwarebytes.com/blog/news/2026/02/outlook-add-in-goes-rogue-and-steals-4000-credentials-and-payment-data",
     "published": "Thu, 12 Feb 2026 14:35:13 GMT",
@@ -1264,9 +1292,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-43529",
+        "CVE-2025-14174",
         "CVE-2026-20700",
-        "CVE-2025-14174"
+        "CVE-2025-43529"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1306,9 +1334,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21514",
+        "CVE-2026-21513",
         "CVE-2026-21510",
-        "CVE-2026-21513"
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1383,24 +1411,6 @@
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Is your phone listening to you? (re-air) (Lock and Code S07E03)",
-    "link": "https://www.malwarebytes.com/blog/podcast/2026/02/is-your-phone-listening-to-you-re-air-lock-and-code-s07e03",
-    "published": "Mon, 09 Feb 2026 18:49:48 GMT",
-    "summary": "This week on the Lock and Code podcast, we revisit an episode from 2025 in which we tried to answer: Is your phone listening to you?",
-    "analysis": {
-      "issue": "This week on the Lock and Code podcast… In January, Google settled a lawsuit that pricked up a few ears: It agreed to pay $68 million to a wide array of people who sued the company together, alleging that Google’s voice-activated smart assistant had ",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
