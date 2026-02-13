@@ -26,20 +26,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
-      cancel-in-progress: true
-    
     permissions:
       contents: write
-      actions: read
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -80,32 +72,10 @@ jobs:
           python main.py
 
       - name: Commit and push security reports
-        if: success()
-        run: |
-          # Configure git
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          # Add reports
-          git add reports/
-          
-          # Check for changes
-          if git diff --staged --quiet; then
-            echo "⚠️ No new security reports generated"
-            exit 0
-          fi
-          
-          # Commit and push
-          git commit -m "🔒 Security Intelligence Report - $(date +'%Y-%m-%d %H:%M:%S UTC')"
-          git push
-          
-          echo "✅ Security reports published successfully!"
-
-      - name: Notify on failure
-        if: failure()
-        run: |
-          echo "::error::Workflow failed. Check the logs above for details."
-          echo "::error::Common issues:"
-          echo "::error::  - OPENROUTER_API_KEY not set or invalid"
-          echo "::error::  - API rate limits exceeded"
-          echo "::error::  - Network connectivity issues"
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: '🔒 Security Intelligence Report - automated'
+          file_pattern: 'reports/'
+          commit_user_name: 'github-actions[bot]'
+          commit_user_email: '41898282+github-actions[bot]@users.noreply.github.com'
+          commit_author: 'github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>'
