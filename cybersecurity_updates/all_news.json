@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors",
+    "link": "https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html",
+    "published": "Fri, 13 Feb 2026 20:53:00 +0530",
+    "summary": "A previously unknown threat actor tracked as UAT-9921 has been observed leveraging a new modular framework called VoidLink in its campaigns targeting the technology and financial services sectors, according to findings from Cisco Talos.\n\"This threat actor seems to have been active since 2019, although they have not necessarily used VoidLink over the duration of their activity,\" researchers Nick",
+    "analysis": {
+      "issue": "Cisco Talos links UAT-9921 to VoidLink, a modular Zig-based malware targeting Linux cloud systems with stealth plugins and C2 control",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History",
     "link": "https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html",
     "published": "Fri, 13 Feb 2026 16:55:00 +0530",
@@ -168,20 +186,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials",
-    "link": "https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html",
-    "published": "Wed, 11 Feb 2026 23:15:00 +0530",
-    "summary": "Cybersecurity researchers have discovered what they said is the first known malicious Microsoft Outlook add-in detected in the wild.\nIn this unusual supply chain attack detailed by Koi Security, an unknown attacker claimed the domain associated with a now-abandoned legitimate add-in to serve a fake Microsoft login page, stealing over 4,000 credentials in the process. The activity has been",
+    "source": "Bleeping Computer",
+    "title": "Turning IBM QRadar Alerts into Action with Criminal IP",
+    "link": "https://www.bleepingcomputer.com/news/security/turning-ibm-qradar-alerts-into-action-with-criminal-ip/",
+    "published": "Fri, 13 Feb 2026 10:05:15 -0500",
+    "summary": "Criminal IP now integrates with IBM QRadar SIEM and SOAR to bring external IP-based threat intelligence directly into detection and response workflows. See how risk scoring and automated enrichment help SOC teams prioritize high-risk IPs and accelerate investigations without leaving QRadar. [...]",
     "analysis": {
-      "issue": "First malicious Outlook add-in abused an abandoned domain to host a fake Microsoft login page, stealing 4,000+ credentials in a supply chain attack",
+      "issue": "io), the AI-powered threat intelligence and attack surface intelligence platform, is now integrated with IBM QRadar SIEM and QRadar SOAR",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Supply Chain"
+        "General Security"
       ]
     }
   },
@@ -355,25 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "AMOS infostealer targets macOS through a popular AI app",
-    "link": "https://www.bleepingcomputer.com/news/security/amos-infostealer-targets-macos-through-a-popular-ai-app/",
-    "published": "Thu, 12 Feb 2026 09:25:38 -0500",
-    "summary": "AMOS infostealer is targeting macOS users by abusing popular AI apps and extension marketplaces to harvest credentials. Flare examines how AMOS operates, spreads through AI-driven lures, and feeds the broader stealer-log cybercrime economy. [...]",
-    "analysis": {
-      "issue": "Infostealers like Atomic MacOS Stealer (AMOS) represent far more than a standalone malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
     "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
@@ -405,16 +404,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21525",
-        "CVE-2026-21509",
         "CVE-2026-21510",
-        "CVE-2026-21523",
-        "CVE-2026-21533",
-        "CVE-2026-21514",
-        "CVE-2026-21256",
+        "CVE-2026-21525",
         "CVE-2026-21513",
         "CVE-2026-21516",
-        "CVE-2026-21519"
+        "CVE-2026-21514",
+        "CVE-2026-21256",
+        "CVE-2026-21523",
+        "CVE-2026-21519",
+        "CVE-2026-21533",
+        "CVE-2026-21509"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -492,9 +491,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20953",
         "CVE-2026-20805",
-        "CVE-2026-20952"
+        "CVE-2026-20952",
+        "CVE-2026-20953"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -579,6 +578,13 @@
   },
   {
     "source": "Security Week",
+    "title": "In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine",
+    "link": "https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/",
+    "published": "Fri, 13 Feb 2026 15:01:16 +0000",
+    "summary": "<p>Other noteworthy stories that might have slipped under the radar: vulnerabilities at 277 water systems, DoD employee acting as money mule, 200 airports exposed by flaw.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/\">In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney&#8217;s $2.7M Fine</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat",
     "link": "https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/",
     "published": "Fri, 13 Feb 2026 12:35:11 +0000",
@@ -639,13 +645,6 @@
     "link": "https://www.securityweek.com/microsoft-to-enable-windows-baseline-security-with-new-runtime-integrity-safeguards/",
     "published": "Thu, 12 Feb 2026 11:27:30 +0000",
     "summary": "<p>Windows will have runtime safeguards enabled by default, ensuring that only properly signed software runs.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-to-enable-windows-baseline-security-with-new-runtime-integrity-safeguards/\">Microsoft to Enable &#8216;Windows Baseline Security&#8217; With New Runtime Integrity Safeguards</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Hacktivists, State Actors, Cybercriminals Target Global Defense Industry, Google Warns",
-    "link": "https://www.securityweek.com/hacktivists-state-actors-cybercriminals-target-global-defense-industry-google-warns/",
-    "published": "Thu, 12 Feb 2026 11:12:46 +0000",
-    "summary": "<p>Threat actors from Russia, China, North Korea and Iran have been observed launching attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacktivists-state-actors-cybercriminals-target-global-defense-industry-google-warns/\">Hacktivists, State Actors, Cybercriminals Target Global Defense Industry, Google Warns</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -715,13 +714,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21513",
-        "CVE-2026-21525",
-        "CVE-2026-21522",
         "CVE-2026-21510",
+        "CVE-2026-21522",
+        "CVE-2026-21525",
+        "CVE-2026-21513",
         "CVE-2026-21514",
-        "CVE-2026-23655",
-        "CVE-2026-21519"
+        "CVE-2026-21519",
+        "CVE-2026-23655"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -834,8 +833,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-55182",
-        "CVE-2025-61882"
+        "CVE-2025-61882",
+        "CVE-2025-55182"
       ],
       "threat_categories": [
         "Ransomware",
@@ -1196,8 +1195,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1222,6 +1221,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "How to find and remove credential-stealing Chrome extensions",
+    "link": "https://www.malwarebytes.com/blog/news/2026/02/how-to-find-and-remove-credential-stealing-chrome-extensions",
+    "published": "Fri, 13 Feb 2026 13:27:34 GMT",
+    "summary": "Researchers have uncovered 30 Chrome extensions stealing user data. Here’s how to check your browser and remove any malicious extensions step by step.",
+    "analysis": {
+      "issue": "Researchers have found yet another family of malicious extensions in the Chrome Web Store",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -1292,8 +1309,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-14174",
         "CVE-2026-20700",
+        "CVE-2025-14174",
         "CVE-2025-43529"
       ],
       "threat_categories": [
@@ -1396,24 +1413,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Man tricked hundreds of women into handing over Snapchat security codes",
-    "link": "https://www.malwarebytes.com/blog/privacy/2026/02/man-tricked-hundreds-of-women-into-handing-over-snapchat-security-codes",
-    "published": "Tue, 10 Feb 2026 13:28:45 GMT",
-    "summary": "Hacked Snapchat accounts and secret filming with smart glasses, this week served two reminders of how women’s privacy is still being violated.",
-    "analysis": {
-      "issue": "Fresh off a breathless Super Bowl Sunday, we’re less thrilled to bring you this week’s Weirdo Wednesday",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
