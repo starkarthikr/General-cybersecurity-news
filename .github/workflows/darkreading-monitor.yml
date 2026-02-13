@@ -18,92 +18,43 @@ jobs:
       contents: write
     
     steps:
-      - name: Harden Runner
-        uses: step-security/harden-runner@5c7944e73c4c2a096b17a9cb74d65b6c2bbafbde # v2.9.1
-        with:
-          egress-policy: audit
-          allowed-endpoints: >
-            github.com:443
-            api.github.com:443
-            pypi.org:443
-            files.pythonhosted.org:443
-            www.darkreading.com:443
-            feeds.feedburner.com:443
-      
       - name: Checkout repository
-        uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          persist-credentials: true
+          fetch-depth: 0
       
       - name: Set up Python
-        uses: actions/setup-python@39cd14951b08e74b54015e9e001cdefcf80e669f # v5.1.1
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
       
-      - name: Verify requirements.txt
-        run: |
-          echo "=== Contents of requirements.txt ==="
-          cat requirements.txt
-          echo "==================================="
-      
       - name: Install dependencies
         run: |
-          echo "Upgrading pip..."
           python -m pip install --upgrade pip
-          echo "Installing from requirements.txt..."
-          pip install --no-cache-dir -v -r requirements.txt
-          echo "Verifying feedparser installation..."
-          pip list | grep -i feedparser || echo "feedparser NOT found!"
-          python -c "import feedparser; print(f'feedparser version: {feedparser.__version__}')" || echo "Cannot import feedparser!"
+          pip install -r requirements.txt
       
       - name: Fetch Dark Reading articles
         run: python scripts/parse_cybersec_feeds.py
       
       - name: Commit and push updates
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Configure git user
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # Configure git
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Configure git to use token for authentication
-          git config --global url."https://x-access-token:${GITHUB_TOKEN}@github.com/".insteadOf "https://github.com/"
-          
-          # Pull latest changes to avoid conflicts
-          git pull --rebase origin main || true
-          
-          # Add specific files
+          # Add changes
           git add cybersecurity_updates/ CYBERSECURITY_NEWS.md
           
-          # Check if there are changes to commit
+          # Check for changes
           if git diff --staged --quiet; then
             echo "⚠️ No changes to commit"
             exit 0
           fi
           
-          # Commit changes
+          # Commit and push
           git commit -m "📰 Update Dark Reading news - $(date +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
           
-          # Push with retry logic
-          for i in {1..3}; do
-            if git push origin HEAD:main; then
-              echo "✅ Successfully pushed Dark Reading updates!"
-              exit 0
-            else
-              echo "⚠️ Push attempt $i failed, retrying..."
-              git pull --rebase origin main
-              sleep 2
-            fi
-          done
-          
-          echo "❌ Failed to push after 3 attempts"
-          exit 1
-      
-      - name: Notify on failure
-        if: failure()
-        run: |
-          echo "::error::Dark Reading workflow failed"
-          echo "::error::Check logs above for details"
+          echo "✅ Successfully pushed Dark Reading updates!"
