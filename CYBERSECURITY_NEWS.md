@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-13 17:24:37 UTC
+**Last Updated:** 2026-02-14 02:35:27 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors](https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html)
+### 1. [Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs](https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 13 Feb 2026 22:57:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 2. [Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations](https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 13 Feb 2026 21:53:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 3. [UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors](https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Feb 2026 20:53:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html)
+### 4. [Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Feb 2026 16:55:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [npm’s Update to Harden Their Supply Chain, and Points to Consider](https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html)
+### 5. [npm’s Update to Harden Their Supply Chain, and Points to Consider](https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Feb 2026 16:15:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability](https://thehackernews.com/2026/02/researchers-observe-in-wild.html)
+### 6. [Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability](https://thehackernews.com/2026/02/researchers-observe-in-wild.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Feb 2026 14:04:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support](https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html)
+### 7. [Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support](https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Feb 2026 23:27:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems](https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html)
+### 8. [Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems](https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Feb 2026 22:25:00 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html)
+### 9. [ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Feb 2026 17:21:00 +0530  
@@ -67,7 +85,7 @@
 
 ---
 
-### 8. [The CTEM Divide: Why 84% of Security Programs Are Falling Behind](https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html)
+### 10. [The CTEM Divide: Why 84% of Security Programs Are Falling Behind](https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Feb 2026 16:00:00 +0530  
@@ -76,26 +94,34 @@
 
 ---
 
-### 9. [83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure](https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html)
+### 11. [Fake job recruiters hide malware in developer coding challenges](https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 12 Feb 2026 13:02:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 13 Feb 2026 17:35:37 -0500  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** Malware  
 
 ---
 
-### 10. [Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices](https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html)
+### 12. [Claude LLM artifacts abused to push Mac infostealers in ClickFix attack](https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 12 Feb 2026 11:09:00 +0530  
-**Severity:** Critical  
-**CVEs:** CVE-2026-20700  
-**Categories:** Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Fri, 13 Feb 2026 15:21:43 -0500  
+**Severity:** Medium  
+**Categories:** Malware  
 
 ---
 
-### 11. [Turning IBM QRadar Alerts into Action with Criminal IP](https://www.bleepingcomputer.com/news/security/turning-ibm-qradar-alerts-into-action-with-criminal-ip/)
+### 13. [Louis Vuitton, Dior, and Tiffany fined $25 million over data breaches](https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 13 Feb 2026 13:35:15 -0500  
+**Severity:** Low  
+**Categories:** Data Breach, Malware  
+
+---
+
+### 14. [Turning IBM QRadar Alerts into Action with Criminal IP](https://www.bleepingcomputer.com/news/security/turning-ibm-qradar-alerts-into-action-with-criminal-ip/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Feb 2026 10:05:15 -0500  
@@ -104,7 +130,7 @@
 
 ---
 
-### 12. [CISA flags critical Microsoft SCCM flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/)
+### 15. [CISA flags critical Microsoft SCCM flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Feb 2026 07:35:09 -0500  
@@ -114,7 +140,7 @@
 
 ---
 
-### 13. [Microsoft fixes bug that blocked Google Chrome from launching](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/)
+### 16. [Microsoft fixes bug that blocked Google Chrome from launching](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Feb 2026 04:31:01 -0500  
@@ -123,7 +149,7 @@
 
 ---
 
-### 14. [Russia tries to block WhatsApp, Telegram in communication blockade](https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/)
+### 17. [Russia tries to block WhatsApp, Telegram in communication blockade](https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Feb 2026 17:57:54 -0500  
@@ -132,7 +158,7 @@
 
 ---
 
-### 15. [Bitwarden introduces ‘Cupid Vault’ for secure password sharing](https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/)
+### 18. [Bitwarden introduces ‘Cupid Vault’ for secure password sharing](https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Feb 2026 16:55:24 -0500  
@@ -141,7 +167,7 @@
 
 ---
 
-### 16. [Critical BeyondTrust RCE flaw now exploited in attacks, patch now](https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/)
+### 19. [Critical BeyondTrust RCE flaw now exploited in attacks, patch now](https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Feb 2026 16:34:12 -0500  
@@ -151,39 +177,11 @@
 
 ---
 
-### 17. [Microsoft: New Windows LNK spoofing issues aren't vulnerabilities](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/)
+### 20. [Microsoft: New Windows LNK spoofing issues aren't vulnerabilities](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Feb 2026 16:01:00 -0500  
 **Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 18. [Romania's oil pipeline operator Conpet confirms data stolen in attack](https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 12 Feb 2026 14:16:38 -0500  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability  
-
----
-
-### 19. [Odido data breach exposes personal info of 6.2 million customers](https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 12 Feb 2026 13:18:14 -0500  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 20. [WordPress plugin with 900k installs vulnerable to critical RCE flaw](https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 12 Feb 2026 12:09:41 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2026-1357  
 **Categories:** Vulnerability  
 
 ---
@@ -202,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21525, CVE-2026-21513, CVE-2026-21516, CVE-2026-21514, CVE-2026-21256, CVE-2026-21523, CVE-2026-21519, CVE-2026-21533, CVE-2026-21509  
+**CVEs:** CVE-2026-21523, CVE-2026-21509, CVE-2026-21516, CVE-2026-21519, CVE-2026-21533, CVE-2026-21510, CVE-2026-21256, CVE-2026-21514, CVE-2026-21525, CVE-2026-21513  
 **Categories:** Vulnerability  
 
 ---
@@ -239,7 +237,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
+**CVEs:** CVE-2026-20952, CVE-2026-20805, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
@@ -382,7 +380,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21522, CVE-2026-21525, CVE-2026-21513, CVE-2026-21514, CVE-2026-21519, CVE-2026-23655  
+**CVEs:** CVE-2026-21519, CVE-2026-21510, CVE-2026-23655, CVE-2026-21522, CVE-2026-21514, CVE-2026-21525, CVE-2026-21513  
 **Categories:** Vulnerability  
 
 ---
@@ -670,7 +668,7 @@
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Feb 2026 11:40:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20700, CVE-2025-14174, CVE-2025-43529  
+**CVEs:** CVE-2026-20700, CVE-2025-43529, CVE-2025-14174  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -689,7 +687,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Feb 2026 12:32:20 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21513, CVE-2026-21510, CVE-2026-21514  
+**CVEs:** CVE-2026-21510, CVE-2026-21513, CVE-2026-21514  
 **Categories:** Vulnerability, Phishing  
 
 ---

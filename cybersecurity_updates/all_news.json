@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs",
+    "link": "https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html",
+    "published": "Fri, 13 Feb 2026 22:57:00 +0530",
+    "summary": "A previously undocumented threat actor has been attributed to attacks targeting Ukrainian organizations with malware known as CANFAIL.\nGoogle Threat Intelligence Group (GTIG) described the hack group as possibly affiliated with Russian intelligence services. The threat actor is assessed to have targeted defense, military, government, and energy organizations within the Ukrainian regional and",
+    "analysis": {
+      "issue": "Suspected Russian actor deploys CANFAIL malware via phishing, targeting Ukrainian defense, energy, and aid sectors using LLM-assisted lures",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations",
+    "link": "https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html",
+    "published": "Fri, 13 Feb 2026 21:53:00 +0530",
+    "summary": "Several state-sponsored actors, hacktivist entities, and criminal groups from China, Iran, North Korea, and Russia have trained their sights on the defense industrial base (DIB) sector, according to findings from Google Threat Intelligence Group (GTIG).\nThe tech giant's threat intelligence division said the adversarial targeting of the sector is centered around four key themes: striking defense",
+    "analysis": {
+      "issue": "State-backed hackers from China, Russia, Iran, and North Korea target defense contractors using espionage, malware, hiring scams, and edge exploits",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors",
     "link": "https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html",
     "published": "Fri, 13 Feb 2026 20:53:00 +0530",
@@ -148,40 +186,57 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure",
-    "link": "https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html",
-    "published": "Thu, 12 Feb 2026 13:02:00 +0530",
-    "summary": "A significant chunk of the exploitation attempts targeting a newly disclosed security flaw in Ivanti Endpoint Manager Mobile (EPMM) can be traced back to a single IP address on bulletproof hosting infrastructure offered by PROSPERO.\nThreat intelligence firm GreyNoise said it recorded 417 exploitation sessions from 8 unique source IP addresses between February 1 and 9, 2026. An estimated 346",
+    "source": "Bleeping Computer",
+    "title": "Fake job recruiters hide malware in developer coding challenges",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/",
+    "published": "Fri, 13 Feb 2026 17:35:37 -0500",
+    "summary": "A new variation of the fake recruiter campaign from North Korean threat actors is targeting JavaScript and Python developers with cryptocurrency-related tasks. [...]",
     "analysis": {
-      "issue": "83% of Ivanti EPMM exploits traced to one IP as automated scans target governments and enterprises",
+      "issue": "A new variation of the fake recruiter campaign from North Korean threat actors is targeting JavaScript and Python developers with cryptocurrency-related tasks",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices",
-    "link": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html",
-    "published": "Thu, 12 Feb 2026 11:09:00 +0530",
-    "summary": "Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks.\nThe vulnerability, tracked as CVE-2026-20700 (CVSS score: 7.8), has been described as a memory corruption issue in dyld, Apple's Dynamic Link Editor. Successful exploitation of the vulnerability could allow an",
+    "source": "Bleeping Computer",
+    "title": "Claude LLM artifacts abused to push Mac infostealers in ClickFix attack",
+    "link": "https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/",
+    "published": "Fri, 13 Feb 2026 15:21:43 -0500",
+    "summary": "Threat actors are abusing Claude artifacts and Google Ads in ClickFix campaigns that deliver infostealer malware to macOS users searching for specific queries. [...]",
     "analysis": {
-      "issue": "Apple releases security updates fixing exploited dyld zero-day CVE-2026-20700 enabling code execution across iOS, macOS, and Apple devices",
+      "issue": "Threat actors are abusing Claude artifacts and Google Ads in ClickFix campaigns that deliver infostealer malware to macOS users searching for specific queries",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20700"
-      ],
+      "severity": "Medium",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Louis Vuitton, Dior, and Tiffany fined $25 million over data breaches",
+    "link": "https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/",
+    "published": "Fri, 13 Feb 2026 13:35:15 -0500",
+    "summary": "South Korea has fined luxury fashion brands Louis Vuitton, Christian Dior Couture, and Tiffany $25 million for failing to implement adequate security measures, which facilitated unauthorized access and the exposure of data belonging to more than 5.5 million customers. [...]",
+    "analysis": {
+      "issue": "South Korea has fined luxury fashion brands Louis Vuitton, Christian Dior Couture, and Tiffany $25 million for failing to implement adequate security measures, which facilitated unauthorized access and the exposure of data belonging to more than 5",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Malware"
       ]
     }
   },
@@ -316,63 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Romania's oil pipeline operator Conpet confirms data stolen in attack",
-    "link": "https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/",
-    "published": "Thu, 12 Feb 2026 14:16:38 -0500",
-    "summary": "Romania's national oil pipeline operator, Conpet S.A., confirmed that the Qilin ransomware gang stole company data in an attack last week. [...]",
-    "analysis": {
-      "issue": "Romania’s national oil pipeline operator, Conpet S",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Odido data breach exposes personal info of 6.2 million customers",
-    "link": "https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/",
-    "published": "Thu, 12 Feb 2026 13:18:14 -0500",
-    "summary": "Dutch telecommunications provider Odido is warning that it suffered a cyberattack that reportedly exposed the personal data of 6.2 million customers. [...]",
-    "analysis": {
-      "issue": "Dutch telecommunications provider Odido is warning that it suffered a cyberattack that reportedly exposed the personal data of 6",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "WordPress plugin with 900k installs vulnerable to critical RCE flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/",
-    "published": "Thu, 12 Feb 2026 12:09:41 -0500",
-    "summary": "A critical vulnerability in the WPvivid Backup & Migration plugin for WordPress, installed on more than 900,000 websites, can be exploited to achieve remote code execution by uploading arbitrary files without authentication. [...]",
-    "analysis": {
-      "issue": "A critical vulnerability in the WPvivid Backup & Migration plugin for WordPress, installed on more than 900,000 websites, can be exploited to achieve remote code execution by uploading arbitrary files without authentication",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-1357"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
     "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
@@ -404,16 +402,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21510",
-        "CVE-2026-21525",
-        "CVE-2026-21513",
-        "CVE-2026-21516",
-        "CVE-2026-21514",
-        "CVE-2026-21256",
         "CVE-2026-21523",
+        "CVE-2026-21509",
+        "CVE-2026-21516",
         "CVE-2026-21519",
         "CVE-2026-21533",
-        "CVE-2026-21509"
+        "CVE-2026-21510",
+        "CVE-2026-21256",
+        "CVE-2026-21514",
+        "CVE-2026-21525",
+        "CVE-2026-21513"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -491,8 +489,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20805",
         "CVE-2026-20952",
+        "CVE-2026-20805",
         "CVE-2026-20953"
       ],
       "threat_categories": [
@@ -714,13 +712,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21510",
-        "CVE-2026-21522",
-        "CVE-2026-21525",
-        "CVE-2026-21513",
-        "CVE-2026-21514",
         "CVE-2026-21519",
-        "CVE-2026-23655"
+        "CVE-2026-21510",
+        "CVE-2026-23655",
+        "CVE-2026-21522",
+        "CVE-2026-21514",
+        "CVE-2026-21525",
+        "CVE-2026-21513"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1310,8 +1308,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20700",
-        "CVE-2025-14174",
-        "CVE-2025-43529"
+        "CVE-2025-43529",
+        "CVE-2025-14174"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1351,8 +1349,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21513",
         "CVE-2026-21510",
+        "CVE-2026-21513",
         "CVE-2026-21514"
       ],
       "threat_categories": [
