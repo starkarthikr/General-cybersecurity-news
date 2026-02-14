@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-14 02:35:27 UTC
+**Last Updated:** 2026-02-14 03:14:08 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -200,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21523, CVE-2026-21509, CVE-2026-21516, CVE-2026-21519, CVE-2026-21533, CVE-2026-21510, CVE-2026-21256, CVE-2026-21514, CVE-2026-21525, CVE-2026-21513  
+**CVEs:** CVE-2026-21533, CVE-2026-21514, CVE-2026-21516, CVE-2026-21523, CVE-2026-21525, CVE-2026-21510, CVE-2026-21509, CVE-2026-21256, CVE-2026-21519, CVE-2026-21513  
 **Categories:** Vulnerability  
 
 ---
@@ -237,7 +237,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20952, CVE-2026-20805, CVE-2026-20953  
+**CVEs:** CVE-2026-20805, CVE-2026-20953, CVE-2026-20952  
 **Categories:** Vulnerability  
 
 ---
@@ -380,7 +380,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21519, CVE-2026-21510, CVE-2026-23655, CVE-2026-21522, CVE-2026-21514, CVE-2026-21525, CVE-2026-21513  
+**CVEs:** CVE-2026-21514, CVE-2026-23655, CVE-2026-21525, CVE-2026-21522, CVE-2026-21510, CVE-2026-21519, CVE-2026-21513  
 **Categories:** Vulnerability  
 
 ---
@@ -436,7 +436,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 11:00:07 GMT  
 **Severity:** High  
-**CVEs:** CVE-2025-61882, CVE-2025-55182  
+**CVEs:** CVE-2025-55182, CVE-2025-61882  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -612,7 +612,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -687,7 +687,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Feb 2026 12:32:20 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21513, CVE-2026-21514  
+**CVEs:** CVE-2026-21514, CVE-2026-21513, CVE-2026-21510  
 **Categories:** Vulnerability, Phishing  
 
 ---
