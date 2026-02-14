@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-14 08:59:01 UTC
+**Last Updated:** 2026-02-14 13:02:48 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -200,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21256, CVE-2026-21510, CVE-2026-21513, CVE-2026-21533, CVE-2026-21516, CVE-2026-21509, CVE-2026-21525, CVE-2026-21514, CVE-2026-21519, CVE-2026-21523  
+**CVEs:** CVE-2026-21510, CVE-2026-21513, CVE-2026-21256, CVE-2026-21509, CVE-2026-21523, CVE-2026-21525, CVE-2026-21533, CVE-2026-21516, CVE-2026-21514, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -237,7 +237,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20805  
+**CVEs:** CVE-2026-20952, CVE-2026-20805, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
@@ -278,73 +278,73 @@
 
 ---
 
-### 31. [In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine](https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/)
+### 31. [Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data](https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/)
+
+**Source:** Security Week  
+**Published:** Sat, 14 Feb 2026 12:00:00 +0000  
+
+---
+
+### 32. [In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine](https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Feb 2026 15:01:16 +0000  
 
 ---
 
-### 32. [Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat](https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/)
+### 33. [Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat](https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Feb 2026 12:35:11 +0000  
 
 ---
 
-### 33. [Dutch Carrier Odido Discloses Data Breach Impacting 6 Million](https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/)
+### 34. [Dutch Carrier Odido Discloses Data Breach Impacting 6 Million](https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Feb 2026 12:02:20 +0000  
 
 ---
 
-### 34. [BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release](https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/)
+### 35. [BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release](https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Feb 2026 11:01:15 +0000  
 
 ---
 
-### 35. [CISA Warns of Exploited SolarWinds, Notepad++, Microsoft Vulnerabilities](https://www.securityweek.com/cisa-warns-of-exploited-solarwinds-notepad-microsoft-vulnerabilities/)
+### 36. [CISA Warns of Exploited SolarWinds, Notepad++, Microsoft Vulnerabilities](https://www.securityweek.com/cisa-warns-of-exploited-solarwinds-notepad-microsoft-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Feb 2026 10:36:04 +0000  
 
 ---
 
-### 36. [Chrome 145 Patches 11 Vulnerabilities](https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/)
+### 37. [Chrome 145 Patches 11 Vulnerabilities](https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Feb 2026 08:18:22 +0000  
 
 ---
 
-### 37. [China Revives Tianfu Cup Hacking Contest Under Increased Secrecy](https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/)
+### 38. [China Revives Tianfu Cup Hacking Contest Under Increased Secrecy](https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Feb 2026 06:49:26 +0000  
 
 ---
 
-### 38. [How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development](https://www.securityweek.com/how-to-eliminate-the-technical-debt-of-insecure-ai-assisted-software-development/)
+### 39. [How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development](https://www.securityweek.com/how-to-eliminate-the-technical-debt-of-insecure-ai-assisted-software-development/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Feb 2026 16:15:00 +0000  
 
 ---
 
-### 39. [ApolloMD Data Breach Impacts 626,000 Individuals](https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/)
+### 40. [ApolloMD Data Breach Impacts 626,000 Individuals](https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Feb 2026 12:23:33 +0000  
-
----
-
-### 40. [Microsoft to Enable ‘Windows Baseline Security’ With New Runtime Integrity Safeguards](https://www.securityweek.com/microsoft-to-enable-windows-baseline-security-with-new-runtime-integrity-safeguards/)
-
-**Source:** Security Week  
-**Published:** Thu, 12 Feb 2026 11:27:30 +0000  
 
 ---
 
@@ -380,7 +380,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21522, CVE-2026-21510, CVE-2026-21513, CVE-2026-23655, CVE-2026-21525, CVE-2026-21514, CVE-2026-21519  
+**CVEs:** CVE-2026-21510, CVE-2026-21513, CVE-2026-23655, CVE-2026-21522, CVE-2026-21525, CVE-2026-21514, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -612,7 +612,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -668,7 +668,7 @@
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Feb 2026 11:40:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-14174, CVE-2025-43529, CVE-2026-20700  
+**CVEs:** CVE-2026-20700, CVE-2025-43529, CVE-2025-14174  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -687,7 +687,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Feb 2026 12:32:20 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21513, CVE-2026-21514, CVE-2026-21510  
+**CVEs:** CVE-2026-21510, CVE-2026-21514, CVE-2026-21513  
 **Categories:** Vulnerability, Phishing  
 
 ---

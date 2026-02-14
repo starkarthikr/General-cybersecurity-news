@@ -4,7 +4,7 @@
     "title": "Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs",
     "link": "https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html",
     "published": "Fri, 13 Feb 2026 22:57:00 +0530",
-    "summary": "A previously undocumented threat actor has been attributed to attacks targeting Ukrainian organizations with malware known as CANFAIL.\nGoogle Threat Intelligence Group (GTIG) described the hack group as possibly affiliated with Russian intelligence services. The threat actor is assessed to have targeted defense, military, government, and energy organizations within the Ukrainian regional and",
+    "summary": "A previously undocumented threat actor has been attributed to attacks targeting Ukrainian organizations with malware known as CANFAIL.\nGoogle Threat Intelligence Group (GTIG) described the hacking group as possibly affiliated with Russian intelligence services. The threat actor is assessed to have targeted defense, military, government, and energy organizations within the Ukrainian regional and",
     "analysis": {
       "issue": "Suspected Russian actor deploys CANFAIL malware via phishing, targeting Ukrainian defense, energy, and aid sectors using LLM-assisted lures",
       "solution": null,
@@ -402,16 +402,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21256",
         "CVE-2026-21510",
         "CVE-2026-21513",
+        "CVE-2026-21256",
+        "CVE-2026-21509",
+        "CVE-2026-21523",
+        "CVE-2026-21525",
         "CVE-2026-21533",
         "CVE-2026-21516",
-        "CVE-2026-21509",
-        "CVE-2026-21525",
         "CVE-2026-21514",
-        "CVE-2026-21519",
-        "CVE-2026-21523"
+        "CVE-2026-21519"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -490,8 +490,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20952",
-        "CVE-2026-20953",
-        "CVE-2026-20805"
+        "CVE-2026-20805",
+        "CVE-2026-20953"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -576,6 +576,13 @@
   },
   {
     "source": "Security Week",
+    "title": "Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data",
+    "link": "https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/",
+    "published": "Sat, 14 Feb 2026 12:00:00 +0000",
+    "summary": "<p>With more than 37 million combined downloads, the extensions expose users to tracking and personal information theft.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/\">Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine",
     "link": "https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/",
     "published": "Fri, 13 Feb 2026 15:01:16 +0000",
@@ -636,13 +643,6 @@
     "link": "https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/",
     "published": "Thu, 12 Feb 2026 12:23:33 +0000",
     "summary": "<p>The company says hackers stole the personal information of patients of affiliated physicians and practices.</p>\n<p>The post <a href=\"https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/\">ApolloMD Data Breach Impacts 626,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft to Enable ‘Windows Baseline Security’ With New Runtime Integrity Safeguards",
-    "link": "https://www.securityweek.com/microsoft-to-enable-windows-baseline-security-with-new-runtime-integrity-safeguards/",
-    "published": "Thu, 12 Feb 2026 11:27:30 +0000",
-    "summary": "<p>Windows will have runtime safeguards enabled by default, ensuring that only properly signed software runs.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-to-enable-windows-baseline-security-with-new-runtime-integrity-safeguards/\">Microsoft to Enable &#8216;Windows Baseline Security&#8217; With New Runtime Integrity Safeguards</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -712,10 +712,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21522",
         "CVE-2026-21510",
         "CVE-2026-21513",
         "CVE-2026-23655",
+        "CVE-2026-21522",
         "CVE-2026-21525",
         "CVE-2026-21514",
         "CVE-2026-21519"
@@ -1193,8 +1193,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1307,9 +1307,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-14174",
+        "CVE-2026-20700",
         "CVE-2025-43529",
-        "CVE-2026-20700"
+        "CVE-2025-14174"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1349,9 +1349,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21513",
+        "CVE-2026-21510",
         "CVE-2026-21514",
-        "CVE-2026-21510"
+        "CVE-2026-21513"
       ],
       "threat_categories": [
         "Vulnerability",
