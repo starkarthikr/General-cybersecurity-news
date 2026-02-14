@@ -187,6 +187,46 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "One threat actor responsible for 83% of recent Ivanti RCE attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/",
+    "published": "Sat, 14 Feb 2026 11:02:34 -0500",
+    "summary": "Threat intelligence observations show that a single threat actor is responsible for most of the active exploitation of two critical vulnerabilities in Ivanti Endpoint Manager Mobile (EPMM), tracked as CVE-2026-21962 and CVE-2026-24061. [...]",
+    "analysis": {
+      "issue": "Threat intelligence observations show that a single threat actor is responsible for most of the active exploitation of two critical vulnerabilities in Ivanti Endpoint Manager Mobile (EPMM), tracked as CVE-2026-21962 and CVE-2026-24061",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-24061",
+        "CVE-2026-21962"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Snail mail letters target Trezor and Ledger users in crypto-theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/",
+    "published": "Sat, 14 Feb 2026 10:15:25 -0500",
+    "summary": "Threat actors are sending physical letters pretending to be from Trezor and Ledger, makers of cryptocurrency hardware wallets, to trick users into submitting recovery phrases in crypto theft attacks. [...]",
+    "analysis": {
+      "issue": "Threat actors are sending physical letters pretending to be from Trezor and Ledger, makers of cryptocurrency hardware wallets, to trick users into submitting recovery phrases in crypto theft attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Fake job recruiters hide malware in developer coding challenges",
     "link": "https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/",
     "published": "Fri, 13 Feb 2026 17:35:37 -0500",
@@ -333,44 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Critical BeyondTrust RCE flaw now exploited in attacks, patch now",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/",
-    "published": "Thu, 12 Feb 2026 16:34:12 -0500",
-    "summary": "A critical pre-authentication remote code execution vulnerability in BeyondTrust Remote Support and Privileged Remote Access appliances is now being exploited in attacks after a PoC was published online. [...]",
-    "analysis": {
-      "issue": "A critical pre-authentication remote code execution vulnerability in BeyondTrust Remote Support and Privileged Remote Access appliances is now being exploited in attacks after a PoC was published online",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-1731"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: New Windows LNK spoofing issues aren't vulnerabilities",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/",
-    "published": "Thu, 12 Feb 2026 16:01:00 -0500",
-    "summary": "Today, at Wild West Hackin' Fest, security researcher Wietze Beukema disclosed multiple vulnerabilities in Windows LK shortcut files that allow attackers to deploy malicious payloads. [...]",
-    "analysis": {
-      "issue": "Today, at Wild West Hackin' Fest, security researcher Wietze Beukema disclosed multiple vulnerabilities in Windows LK shortcut files that allow attackers to deploy malicious payloads",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
     "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
@@ -402,16 +404,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21510",
-        "CVE-2026-21513",
-        "CVE-2026-21256",
-        "CVE-2026-21509",
-        "CVE-2026-21523",
-        "CVE-2026-21525",
-        "CVE-2026-21533",
         "CVE-2026-21516",
-        "CVE-2026-21514",
-        "CVE-2026-21519"
+        "CVE-2026-21509",
+        "CVE-2026-21256",
+        "CVE-2026-21525",
+        "CVE-2026-21513",
+        "CVE-2026-21523",
+        "CVE-2026-21510",
+        "CVE-2026-21533",
+        "CVE-2026-21519",
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -489,9 +491,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20953",
         "CVE-2026-20952",
-        "CVE-2026-20805",
-        "CVE-2026-20953"
+        "CVE-2026-20805"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -712,13 +714,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21510",
-        "CVE-2026-21513",
         "CVE-2026-23655",
-        "CVE-2026-21522",
         "CVE-2026-21525",
-        "CVE-2026-21514",
-        "CVE-2026-21519"
+        "CVE-2026-21513",
+        "CVE-2026-21522",
+        "CVE-2026-21510",
+        "CVE-2026-21519",
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -831,8 +833,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-55182",
-        "CVE-2025-61882"
+        "CVE-2025-61882",
+        "CVE-2025-55182"
       ],
       "threat_categories": [
         "Ransomware",
@@ -1193,8 +1195,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1307,9 +1309,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20700",
+        "CVE-2025-14174",
         "CVE-2025-43529",
-        "CVE-2025-14174"
+        "CVE-2026-20700"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1349,9 +1351,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21513",
         "CVE-2026-21510",
-        "CVE-2026-21514",
-        "CVE-2026-21513"
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability",
