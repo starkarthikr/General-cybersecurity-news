@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
+    "link": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
+    "published": "Sun, 15 Feb 2026 19:40:00 +0530",
+    "summary": "Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (DNS) lookup to retrieve the next-stage payload.\nSpecifically, the attack relies on using the \"nslookup\" (short for nameserver lookup) command to execute a custom DNS lookup triggered via the Windows",
+    "analysis": {
+      "issue": "Microsoft details a new ClickFix variant abusing DNS nslookup commands to stage malware, enabling stealthy payload delivery and RAT deployment",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs",
     "link": "https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html",
     "published": "Fri, 13 Feb 2026 22:57:00 +0530",
@@ -168,20 +186,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "The CTEM Divide: Why 84% of Security Programs Are Falling Behind",
-    "link": "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html",
-    "published": "Thu, 12 Feb 2026 16:00:00 +0530",
-    "summary": "A new 2026 market intelligence study of 128 enterprise security decision-makers (available here) reveals a stark divide forming between organizations – one that has nothing to do with budget size or industry and everything to do with a single framework decision. Organizations implementing Continuous Threat Exposure Management (CTEM) demonstrate 50% better attack surface visibility, 23-point",
+    "source": "Bleeping Computer",
+    "title": "CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups",
+    "link": "https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/",
+    "published": "Sun, 15 Feb 2026 11:30:41 -0500",
+    "summary": "CTM360 reports 4,000+ malicious Google Groups and 3,500+ Google-hosted URLs used to spread the Lumma Stealer infostealing malware and a trojanized \"Ninja Browser.\" The report details how attackers abuse trusted Google services to steal credentials and maintain persistence across Windows and Linux systems. [...]",
     "analysis": {
-      "issue": "Study of 128 enterprises shows CTEM adopters achieve 50% better attack surface visibility and stronger security outcomes amid rising breach costs",
+      "issue": "CTM360 reports that more than 4,000 malicious Google Groups and 3,500 Google-hosted URLs are being used in an active malware campaign targeting global organizations",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps",
+    "link": "https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/",
+    "published": "Sun, 15 Feb 2026 10:17:27 -0500",
+    "summary": "Threat actors are abusing Pastebin comments to distribute a new ClickFix-style attack that tricks cryptocurrency users into executing malicious JavaScript in their browser, allowing attackers to hijack Bitcoin swap transactions and redirect funds to attacker-controlled wallets. [...]",
+    "analysis": {
+      "issue": "Threat actors are abusing Pastebin comments to distribute a new ClickFix-style attack that tricks cryptocurrency users into executing malicious JavaScript in their browser, allowing attackers to hijack Bitcoin swap transactions and redirect funds to ",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
       ]
     }
   },
@@ -198,8 +235,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24061",
-        "CVE-2026-21962"
+        "CVE-2026-21962",
+        "CVE-2026-24061"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -337,38 +374,89 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Russia tries to block WhatsApp, Telegram in communication blockade",
-    "link": "https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/",
-    "published": "Thu, 12 Feb 2026 17:57:54 -0500",
-    "summary": "The Russian government is attempting to block WhatsApp in the country as its crackdown on communication platforms not under its control intensifies. [...]",
+    "source": "Krebs On Security",
+    "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+    "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+    "published": "Wed, 11 Feb 2026 16:08:11 +0000",
+    "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
     "analysis": {
-      "issue": "The Russian government is trying to block WhatsApp in the country as its crackdown on communication platforms outside its control intensifies",
+      "issue": "For the past week, the massive “Internet of Things” (IoT) botnet known as Kimwolf has been disrupting The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware",
+        "DDoS"
       ]
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Bitwarden introduces ‘Cupid Vault’ for secure password sharing",
-    "link": "https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/",
-    "published": "Thu, 12 Feb 2026 16:55:24 -0500",
-    "summary": "Bitwarden has launched a new system called 'Cupid Vault' that allows users to safely share passwords with trusted email addresses. [...]",
+    "source": "Krebs On Security",
+    "title": "Patch Tuesday, February 2026 Edition",
+    "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+    "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+    "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
     "analysis": {
-      "issue": "Bitwarden has launched a new system called ‘Cupid Vault’ that allows users to safely share passwords with trusted email addresses",
+      "issue": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six “zero-day” vulnerabilities that attackers are already exploiting in the wild",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-21509",
+        "CVE-2026-21533",
+        "CVE-2026-21525",
+        "CVE-2026-21519",
+        "CVE-2026-21513",
+        "CVE-2026-21256",
+        "CVE-2026-21514",
+        "CVE-2026-21510",
+        "CVE-2026-21523",
+        "CVE-2026-21516"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+    "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+    "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+    "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
+    "analysis": {
+      "issue": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifyi",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Ransomware",
+        "Phishing",
+        "APT",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Who Operates the Badbox 2.0 Botnet?",
+    "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+    "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+    "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+    "analysis": {
+      "issue": "The cybercriminals in control of Kimwolf — a disruptive botnet that has infected more than 2 million devices — recently shared a screenshot indicating they’d compromised the control panel for Badbox 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -486,89 +574,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Most Parked Domains Now Serving Malicious Content",
-    "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-    "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-    "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-    "analysis": {
-      "issue": "Direct navigation — the act of visiting a website by manually typing a domain name in a web browser — has never been riskier: A new study finds the vast majority of “parked” domains — mostly expired or dormant domain names, or common misspellings of ",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Microsoft Patch Tuesday, December 2025 Edition",
-    "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-    "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-    "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-    "analysis": {
-      "issue": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-59517",
-        "CVE-2025-62554",
-        "CVE-2025-62562",
-        "CVE-2025-62557",
-        "CVE-2025-62458",
-        "CVE-2025-59516",
-        "CVE-2025-62470",
-        "CVE-2025-62472",
-        "CVE-2025-62221"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-    "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-    "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-    "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
-    "analysis": {
-      "issue": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious ties to a Kremlin-connected oligarch whose Russian university builds drones for Russia’s war against Ukraine",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-    "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-    "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-    "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
-    "analysis": {
-      "issue": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-co",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
@@ -710,13 +715,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-23655",
-        "CVE-2026-21519",
-        "CVE-2026-21514",
-        "CVE-2026-21513",
+        "CVE-2026-21522",
         "CVE-2026-21525",
-        "CVE-2026-21510",
-        "CVE-2026-21522"
+        "CVE-2026-21519",
+        "CVE-2026-21513",
+        "CVE-2026-23655",
+        "CVE-2026-21514",
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1191,8 +1196,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1305,8 +1310,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20700",
         "CVE-2025-14174",
+        "CVE-2026-20700",
         "CVE-2025-43529"
       ],
       "threat_categories": [
@@ -1347,9 +1352,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21510",
         "CVE-2026-21514",
-        "CVE-2026-21513",
-        "CVE-2026-21510"
+        "CVE-2026-21513"
       ],
       "threat_categories": [
         "Vulnerability",
