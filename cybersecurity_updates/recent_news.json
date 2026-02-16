@@ -1,6 +1,27 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware",
+    "link": "https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html",
+    "published": "Mon, 16 Feb 2026 18:25:00 +0530",
+    "summary": "This week’s recap shows how small gaps are turning into big entry points. Not always through new exploits, often through tools, add-ons, cloud setups, or workflows that people already trust and rarely question.\nAnother signal: attackers are mixing old and new methods. Legacy botnet tactics, modern cloud abuse, AI assistance, and supply-chain exposure are being used side by side, whichever path",
+    "analysis": {
+      "issue": "Outlook add-in phishing, Chrome and Apple zero-days, BeyondTrust RCE, cloud botnets, AI-driven threats, ransomware activity, and critical CVEs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud",
     "link": "https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html",
     "published": "Mon, 16 Feb 2026 17:25:00 +0530",
@@ -40,7 +61,20 @@
     "title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released",
     "link": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
     "published": "Mon, 16 Feb 2026 12:08:00 +0530",
-    "summary": "Google on Friday released security updates for its Chrome browser to address a security flaw that it said has been exploited in the wild.\nThe high-severity vulnerability, tracked as CVE-2026-2441 (CVSS score: 8.8), has been described as a use-after-free bug in CSS. Security researcher Shaheen Fazim has been credited with discovering and reporting the shortcoming on February 11, 2026.\n\"Use after"
+    "summary": "Google on Friday released security updates for its Chrome browser to address a security flaw that it said has been exploited in the wild.\nThe high-severity vulnerability, tracked as CVE-2026-2441 (CVSS score: 8.8), has been described as a use-after-free bug in CSS. Security researcher Shaheen Fazim has been credited with discovering and reporting the shortcoming on February 11, 2026.\n\"Use after",
+    "analysis": {
+      "issue": "Google fixes actively exploited Chrome zero-day CVE-2026-2441, a high-severity CSS use-after-free flaw enabling sandboxed remote code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-2441"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "The Hacker News",
@@ -154,20 +188,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability",
-    "link": "https://thehackernews.com/2026/02/researchers-observe-in-wild.html",
-    "published": "Fri, 13 Feb 2026 14:04:00 +0530",
-    "summary": "Threat actors have started to exploit a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products, according to watchTowr.\n\"Overnight we observed first in-the-wild exploitation of BeyondTrust across our global sensors,\" Ryan Dewhurst, head of threat intelligence at watchTowr, said in a post on X. \"Attackers are abusing",
+    "source": "Bleeping Computer",
+    "title": "Passwords to passkeys: Staying ISO 27001 compliant in a passwordless era",
+    "link": "https://www.bleepingcomputer.com/news/security/passwords-to-passkeys-staying-iso-27001-compliant-in-a-passwordless-era/",
+    "published": "Mon, 16 Feb 2026 10:02:12 -0500",
+    "summary": "Password-based authentication is increasingly risky as organizations adopt passkeys to strengthen security and meet ISO/IEC 27001 requirements. Passwork explains how to align passwordless adoption with Annex A controls, risk assessments, and secure implementation practices. [...]",
     "analysis": {
-      "issue": "Active exploitation of BeyondTrust  enables unauthenticated RCE as CISA adds Apple, Microsoft, SolarWinds, and Notepad++ flaws to KEV list",
+      "issue": "One morning, you wake up and realize that your business has grown to the point where you can no longer afford to get into that old, worn-out diesel subcompact",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Data Breach"
       ]
     }
   },
@@ -315,9 +349,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-1286",
+        "CVE-2026-1281",
         "CVE-2026-1340",
-        "CVE-2026-1281"
+        "CVE-2026-1286"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -340,24 +374,6 @@
       "threat_categories": [
         "Data Breach",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Fake job recruiters hide malware in developer coding challenges",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/",
-    "published": "Fri, 13 Feb 2026 17:35:37 -0500",
-    "summary": "A new variation of the fake recruiter campaign from North Korean threat actors is targeting JavaScript and Python developers with cryptocurrency-related tasks. [...]",
-    "analysis": {
-      "issue": "A new variation of the fake recruiter campaign from North Korean threat actors is targeting JavaScript and Python developers with cryptocurrency-related tasks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -393,16 +409,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21509",
-        "CVE-2026-21533",
-        "CVE-2026-21256",
         "CVE-2026-21514",
-        "CVE-2026-21513",
+        "CVE-2026-21525",
+        "CVE-2026-21256",
         "CVE-2026-21523",
-        "CVE-2026-21519",
+        "CVE-2026-21533",
         "CVE-2026-21516",
+        "CVE-2026-21509",
         "CVE-2026-21510",
-        "CVE-2026-21525"
+        "CVE-2026-21513",
+        "CVE-2026-21519"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -481,8 +497,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20953",
-        "CVE-2026-20952",
-        "CVE-2026-20805"
+        "CVE-2026-20805",
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -567,6 +583,27 @@
   },
   {
     "source": "Security Week",
+    "title": "Dior, Louis Vuitton, Tiffany Fined $25 Million in South Korea After Data Breaches",
+    "link": "https://www.securityweek.com/dior-louis-vuitton-tiffany-fined-25-million-in-south-korea-after-data-breaches/",
+    "published": "Mon, 16 Feb 2026 15:09:13 +0000",
+    "summary": "<p>Luxury brands were among the dozens of major companies whose Salesforce instances were targeted by Scattered LAPSUS$ Hunters.</p>\n<p>The post <a href=\"https://www.securityweek.com/dior-louis-vuitton-tiffany-fined-25-million-in-south-korea-after-data-breaches/\">Dior, Louis Vuitton, Tiffany Fined $25 Million in South Korea After Data Breaches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Android 17 Beta Strengthens Secure-by-Default Design for Privacy and App Security",
+    "link": "https://www.securityweek.com/android-17-beta-strengthens-secure-by-default-design-for-privacy-and-app-security/",
+    "published": "Mon, 16 Feb 2026 13:50:36 +0000",
+    "summary": "<p>The latest Android version continues to improve security and privacy, according to its developers.</p>\n<p>The post <a href=\"https://www.securityweek.com/android-17-beta-strengthens-secure-by-default-design-for-privacy-and-app-security/\">Android 17 Beta Strengthens Secure-by-Default Design for Privacy and App Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "CISA Navigates DHS Shutdown With Reduced Staff",
+    "link": "https://www.securityweek.com/cisa-navigates-dhs-shutdown-with-reduced-staff/",
+    "published": "Mon, 16 Feb 2026 13:49:03 +0000",
+    "summary": "<p>CISA is currently operating at roughly 38% capacity (888 out of 2,341 staff) due to the DHS shutdown that began February 14, 2026.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-navigates-dhs-shutdown-with-reduced-staff/\">CISA Navigates DHS Shutdown With Reduced Staff</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Microsoft Warns of ClickFix Attack Abusing DNS Lookups",
     "link": "https://www.securityweek.com/microsoft-warns-of-clickfix-attack-abusing-dns-lookups/",
     "published": "Mon, 16 Feb 2026 11:56:12 +0000",
@@ -613,27 +650,6 @@
     "link": "https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/",
     "published": "Fri, 13 Feb 2026 12:02:20 +0000",
     "summary": "<p>Hackers stole personal information such as names, addresses, and phone numbers from a customer contact system.</p>\n<p>The post <a href=\"https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/\">Dutch Carrier Odido Discloses Data Breach Impacting 6 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release",
-    "link": "https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/",
-    "published": "Fri, 13 Feb 2026 11:01:15 +0000",
-    "summary": "<p>Exploitation attempts target CVE-2026-1731, a critical unauthenticated remote code execution flaw in BeyondTrust Remote Support.</p>\n<p>The post <a href=\"https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/\">BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "CISA Warns of Exploited SolarWinds, Notepad++, Microsoft Vulnerabilities",
-    "link": "https://www.securityweek.com/cisa-warns-of-exploited-solarwinds-notepad-microsoft-vulnerabilities/",
-    "published": "Fri, 13 Feb 2026 10:36:04 +0000",
-    "summary": "<p>Disclosed at the end of January, the SolarWinds vulnerability was likely exploited as a zero-day since December 2025.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-warns-of-exploited-solarwinds-notepad-microsoft-vulnerabilities/\">CISA Warns of Exploited SolarWinds, Notepad++, Microsoft Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Chrome 145 Patches 11 Vulnerabilities",
-    "link": "https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/",
-    "published": "Fri, 13 Feb 2026 08:18:22 +0000",
-    "summary": "<p>Three of the security defects are high-severity flaws, two of which were found and reported by Google.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/\">Chrome 145 Patches 11 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -703,13 +719,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21522",
         "CVE-2026-21514",
-        "CVE-2026-21513",
-        "CVE-2026-21519",
-        "CVE-2026-21510",
         "CVE-2026-21525",
         "CVE-2026-23655",
-        "CVE-2026-21522"
+        "CVE-2026-21510",
+        "CVE-2026-21513",
+        "CVE-2026-21519"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -822,8 +838,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-55182",
-        "CVE-2025-61882"
+        "CVE-2025-61882",
+        "CVE-2025-55182"
       ],
       "threat_categories": [
         "Ransomware",
@@ -1215,6 +1231,25 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "ClickFix added nslookup commands to its arsenal for downloading RATs",
+    "link": "https://www.malwarebytes.com/blog/news/2026/02/clickfix-added-nslookup-commands-to-its-arsenal-for-downloading-rats",
+    "published": "Mon, 16 Feb 2026 13:09:37 GMT",
+    "summary": "Microsoft researchers found a ClickFix campaign that uses the nslookup tool to have users infect their own system with a Remote Access Trojan.",
+    "analysis": {
+      "issue": "ClickFix malware campaigns are all about tricking the victim into infecting their own machine",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "A week in security (February 9 &#8211; February 15)",
     "link": "https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-february-9-february-15",
     "published": "Mon, 16 Feb 2026 08:02:00 GMT",
@@ -1316,9 +1351,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20700",
         "CVE-2025-14174",
-        "CVE-2025-43529"
+        "CVE-2025-43529",
+        "CVE-2026-20700"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1358,9 +1393,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21514",
+        "CVE-2026-21510",
         "CVE-2026-21513",
-        "CVE-2026-21510"
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1384,24 +1419,6 @@
       "threat_categories": [
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Discord will limit profiles to teen-appropriate mode until you verify your age",
-    "link": "https://www.malwarebytes.com/blog/news/2026/02/discord-will-limit-profiles-to-teen-appropriate-mode-until-you-verify-your-age",
-    "published": "Tue, 10 Feb 2026 15:29:52 GMT",
-    "summary": "Discord will make all profiles teen-appropriate by default until you prove you’re an adult. What you’d “miss” may not be all that terrible.",
-    "analysis": {
-      "issue": "Discord announced it will put all existing and new profiles in teen-appropriate mode by default in early March",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
