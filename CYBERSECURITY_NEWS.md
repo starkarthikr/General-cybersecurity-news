@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-15 16:57:35 UTC
+**Last Updated:** 2026-02-16 02:44:36 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,25 @@
 
 ---
 
-### 11. [CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups](https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/)
+### 11. [New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS](https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 15 Feb 2026 19:29:00 -0500  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 12. [Windows 11 KB5077181 fixes boot failures linked to failed updates](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 15 Feb 2026 17:08:53 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups](https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 15 Feb 2026 11:30:41 -0500  
@@ -103,7 +121,7 @@
 
 ---
 
-### 12. [Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps](https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/)
+### 14. [Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps](https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 15 Feb 2026 10:17:27 -0500  
@@ -112,17 +130,17 @@
 
 ---
 
-### 13. [One threat actor responsible for 83% of recent Ivanti RCE attacks](https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/)
+### 15. [One threat actor responsible for 83% of recent Ivanti RCE attacks](https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 14 Feb 2026 11:02:34 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21962, CVE-2026-24061  
+**CVEs:** CVE-2026-1286, CVE-2026-1340, CVE-2026-1281  
 **Categories:** Vulnerability  
 
 ---
 
-### 14. [Snail mail letters target Trezor and Ledger users in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/)
+### 16. [Snail mail letters target Trezor and Ledger users in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 14 Feb 2026 10:15:25 -0500  
@@ -131,7 +149,7 @@
 
 ---
 
-### 15. [Fake job recruiters hide malware in developer coding challenges](https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/)
+### 17. [Fake job recruiters hide malware in developer coding challenges](https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Feb 2026 17:35:37 -0500  
@@ -140,7 +158,7 @@
 
 ---
 
-### 16. [Claude LLM artifacts abused to push Mac infostealers in ClickFix attack](https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/)
+### 18. [Claude LLM artifacts abused to push Mac infostealers in ClickFix attack](https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Feb 2026 15:21:43 -0500  
@@ -149,7 +167,7 @@
 
 ---
 
-### 17. [Louis Vuitton, Dior, and Tiffany fined $25 million over data breaches](https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/)
+### 19. [Louis Vuitton, Dior, and Tiffany fined $25 million over data breaches](https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Feb 2026 13:35:15 -0500  
@@ -158,30 +176,11 @@
 
 ---
 
-### 18. [Turning IBM QRadar Alerts into Action with Criminal IP](https://www.bleepingcomputer.com/news/security/turning-ibm-qradar-alerts-into-action-with-criminal-ip/)
+### 20. [Turning IBM QRadar Alerts into Action with Criminal IP](https://www.bleepingcomputer.com/news/security/turning-ibm-qradar-alerts-into-action-with-criminal-ip/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Feb 2026 10:05:15 -0500  
 **Severity:** High  
-**Categories:** General Security  
-
----
-
-### 19. [CISA flags critical Microsoft SCCM flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 13 Feb 2026 07:35:09 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2024-43468  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Microsoft fixes bug that blocked Google Chrome from launching](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 13 Feb 2026 04:31:01 -0500  
-**Severity:** Low  
 **Categories:** General Security  
 
 ---
@@ -200,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21509, CVE-2026-21533, CVE-2026-21525, CVE-2026-21519, CVE-2026-21513, CVE-2026-21256, CVE-2026-21514, CVE-2026-21510, CVE-2026-21523, CVE-2026-21516  
+**CVEs:** CVE-2026-21525, CVE-2026-21509, CVE-2026-21514, CVE-2026-21533, CVE-2026-21516, CVE-2026-21519, CVE-2026-21256, CVE-2026-21510, CVE-2026-21523, CVE-2026-21513  
 **Categories:** Vulnerability  
 
 ---
@@ -237,7 +236,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20952, CVE-2026-20805  
+**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
@@ -380,7 +379,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21522, CVE-2026-21525, CVE-2026-21519, CVE-2026-21513, CVE-2026-23655, CVE-2026-21514, CVE-2026-21510  
+**CVEs:** CVE-2026-21525, CVE-2026-21514, CVE-2026-21519, CVE-2026-21522, CVE-2026-23655, CVE-2026-21510, CVE-2026-21513  
 **Categories:** Vulnerability  
 
 ---
@@ -612,7 +611,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -668,7 +667,7 @@
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Feb 2026 11:40:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-14174, CVE-2026-20700, CVE-2025-43529  
+**CVEs:** CVE-2025-43529, CVE-2025-14174, CVE-2026-20700  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -687,7 +686,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Feb 2026 12:32:20 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21514, CVE-2026-21513  
+**CVEs:** CVE-2026-21513, CVE-2026-21514, CVE-2026-21510  
 **Categories:** Vulnerability, Phishing  
 
 ---
