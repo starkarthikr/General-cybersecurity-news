@@ -1,20 +1,35 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-16 09:14:14 UTC
+**Last Updated:** 2026-02-16 13:18:14 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released](https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html)
+### 1. [Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud](https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html)
 
 **Source:** The Hacker News  
-**Published:** Mon, 16 Feb 2026 12:08:00 +0530  
-**Severity:** Critical  
-**CVEs:** CVE-2026-2441  
-**Categories:** Vulnerability  
+**Published:** Mon, 16 Feb 2026 17:25:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
-### 2. [Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html)
+### 2. [New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft](https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 16 Feb 2026 15:54:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released](https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 16 Feb 2026 12:08:00 +0530  
+
+---
+
+### 4. [Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 15 Feb 2026 19:40:00 +0530  
@@ -23,7 +38,7 @@
 
 ---
 
-### 3. [Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs](https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html)
+### 5. [Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs](https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Feb 2026 22:57:00 +0530  
@@ -32,7 +47,7 @@
 
 ---
 
-### 4. [Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations](https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html)
+### 6. [Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations](https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Feb 2026 21:53:00 +0530  
@@ -41,7 +56,7 @@
 
 ---
 
-### 5. [UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors](https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html)
+### 7. [UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors](https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Feb 2026 20:53:00 +0530  
@@ -50,7 +65,7 @@
 
 ---
 
-### 6. [Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html)
+### 8. [Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Feb 2026 16:55:00 +0530  
@@ -59,7 +74,7 @@
 
 ---
 
-### 7. [npm’s Update to Harden Their Supply Chain, and Points to Consider](https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html)
+### 9. [npm’s Update to Harden Their Supply Chain, and Points to Consider](https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Feb 2026 16:15:00 +0530  
@@ -68,7 +83,7 @@
 
 ---
 
-### 8. [Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability](https://thehackernews.com/2026/02/researchers-observe-in-wild.html)
+### 10. [Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability](https://thehackernews.com/2026/02/researchers-observe-in-wild.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Feb 2026 14:04:00 +0530  
@@ -77,25 +92,17 @@
 
 ---
 
-### 9. [Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support](https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html)
+### 11. [CISA gives feds 3 days to patch actively exploited BeyondTrust flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 12 Feb 2026 23:27:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 16 Feb 2026 07:33:11 -0500  
 **Severity:** Low  
-**Categories:** Malware, Phishing, APT  
+**CVEs:** CVE-2026-1731  
+**Categories:** Vulnerability  
 
 ---
 
-### 10. [Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems](https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 12 Feb 2026 22:25:00 +0530  
-**Severity:** Low  
-**Categories:** Malware, APT  
-
----
-
-### 11. [Google patches first Chrome zero-day exploited in attacks this year](https://www.bleepingcomputer.com/news/security/google-patches-first-chrome-zero-day-exploited-in-attacks-this-year/)
+### 12. [Google patches first Chrome zero-day exploited in attacks this year](https://www.bleepingcomputer.com/news/security/google-patches-first-chrome-zero-day-exploited-in-attacks-this-year/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Feb 2026 03:19:19 -0500  
@@ -105,7 +112,7 @@
 
 ---
 
-### 12. [Canada Goose investigating as hackers leak 600K customer records](https://www.bleepingcomputer.com/news/security/canada-goose-investigating-as-hackers-leak-600k-customer-records/)
+### 13. [Canada Goose investigating as hackers leak 600K customer records](https://www.bleepingcomputer.com/news/security/canada-goose-investigating-as-hackers-leak-600k-customer-records/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 15 Feb 2026 23:45:32 -0500  
@@ -114,7 +121,7 @@
 
 ---
 
-### 13. [New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS](https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/)
+### 14. [New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS](https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 15 Feb 2026 19:29:00 -0500  
@@ -123,7 +130,7 @@
 
 ---
 
-### 14. [Windows 11 KB5077181 fixes boot failures linked to failed updates](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/)
+### 15. [Windows 11 KB5077181 fixes boot failures linked to failed updates](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 15 Feb 2026 17:08:53 -0500  
@@ -132,7 +139,7 @@
 
 ---
 
-### 15. [CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups](https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/)
+### 16. [CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups](https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 15 Feb 2026 11:30:41 -0500  
@@ -141,7 +148,7 @@
 
 ---
 
-### 16. [Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps](https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/)
+### 17. [Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps](https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 15 Feb 2026 10:17:27 -0500  
@@ -150,7 +157,7 @@
 
 ---
 
-### 17. [One threat actor responsible for 83% of recent Ivanti RCE attacks](https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/)
+### 18. [One threat actor responsible for 83% of recent Ivanti RCE attacks](https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 14 Feb 2026 11:02:34 -0500  
@@ -160,7 +167,7 @@
 
 ---
 
-### 18. [Snail mail letters target Trezor and Ledger users in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/)
+### 19. [Snail mail letters target Trezor and Ledger users in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 14 Feb 2026 10:15:25 -0500  
@@ -169,7 +176,7 @@
 
 ---
 
-### 19. [Fake job recruiters hide malware in developer coding challenges](https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/)
+### 20. [Fake job recruiters hide malware in developer coding challenges](https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Feb 2026 17:35:37 -0500  
@@ -178,16 +185,44 @@
 
 ---
 
-### 20. [Claude LLM artifacts abused to push Mac infostealers in ClickFix attack](https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/)
+### 21. [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
 
-**Source:** Bleeping Computer  
-**Published:** Fri, 13 Feb 2026 15:21:43 -0500  
-**Severity:** Medium  
+**Source:** Krebs On Security  
+**Published:** Wed, 11 Feb 2026 16:08:11 +0000  
+**Severity:** Low  
+**Categories:** Malware, DDoS  
+
+---
+
+### 22. [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
+
+**Source:** Krebs On Security  
+**Published:** Tue, 10 Feb 2026 21:49:53 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-21509, CVE-2026-21533, CVE-2026-21256, CVE-2026-21514, CVE-2026-21513, CVE-2026-21523, CVE-2026-21519, CVE-2026-21516, CVE-2026-21510, CVE-2026-21525  
+**Categories:** Vulnerability  
+
+---
+
+### 23. [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
+
+**Source:** Krebs On Security  
+**Published:** Mon, 02 Feb 2026 16:15:16 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Phishing, APT, DDoS  
+
+---
+
+### 24. [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
+
+**Source:** Krebs On Security  
+**Published:** Mon, 26 Jan 2026 16:11:38 +0000  
+**Severity:** High  
 **Categories:** Malware  
 
 ---
 
-### 21. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
+### 25. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 20 Jan 2026 18:19:13 +0000  
@@ -196,17 +231,17 @@
 
 ---
 
-### 22. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
+### 26. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
+**CVEs:** CVE-2026-20953, CVE-2026-20952, CVE-2026-20805  
 **Categories:** Vulnerability  
 
 ---
 
-### 23. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
+### 27. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 08 Jan 2026 23:23:43 +0000  
@@ -215,7 +250,7 @@
 
 ---
 
-### 24. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+### 28. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 02 Jan 2026 14:20:10 +0000  
@@ -224,7 +259,7 @@
 
 ---
 
-### 25. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+### 29. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 29 Dec 2025 20:23:26 +0000  
@@ -233,7 +268,7 @@
 
 ---
 
-### 26. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+### 30. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 19 Dec 2025 15:14:55 +0000  
@@ -242,110 +277,73 @@
 
 ---
 
-### 27. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+### 31. [Microsoft Warns of ClickFix Attack Abusing DNS Lookups](https://www.securityweek.com/microsoft-warns-of-clickfix-attack-abusing-dns-lookups/)
 
-**Source:** Krebs On Security  
-**Published:** Tue, 16 Dec 2025 14:14:48 +0000  
-**Severity:** High  
-**Categories:** Malware, Supply Chain  
+**Source:** Security Week  
+**Published:** Mon, 16 Feb 2026 11:56:12 +0000  
 
 ---
 
-### 28. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+### 32. [Amazon Scraps Partnership With Surveillance Company After Super Bowl Ad Backlash](https://www.securityweek.com/amazon-scraps-partnership-with-surveillance-company-after-super-bowl-ad-backlash/)
 
-**Source:** Krebs On Security  
-**Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2025-62557, CVE-2025-59516, CVE-2025-59517, CVE-2025-62554, CVE-2025-62562, CVE-2025-62470, CVE-2025-62458, CVE-2025-62472, CVE-2025-62221  
-**Categories:** Vulnerability  
+**Source:** Security Week  
+**Published:** Mon, 16 Feb 2026 11:40:34 +0000  
 
 ---
 
-### 29. [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
-
-**Source:** Krebs On Security  
-**Published:** Sat, 06 Dec 2025 14:45:03 +0000  
-**Severity:** Low  
-**Categories:** APT  
-
----
-
-### 30. [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
-
-**Source:** Krebs On Security  
-**Published:** Thu, 04 Dec 2025 23:02:34 +0000  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 31. [Google Patches First Actively Exploited Chrome Zero-Day of 2026](https://www.securityweek.com/google-patches-first-actively-exploited-chrome-zero-day-of-2026/)
+### 33. [Google Patches First Actively Exploited Chrome Zero-Day of 2026](https://www.securityweek.com/google-patches-first-actively-exploited-chrome-zero-day-of-2026/)
 
 **Source:** Security Week  
 **Published:** Mon, 16 Feb 2026 07:54:15 +0000  
 
 ---
 
-### 32. [Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data](https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/)
+### 34. [Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data](https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/)
 
 **Source:** Security Week  
 **Published:** Sat, 14 Feb 2026 12:00:00 +0000  
 
 ---
 
-### 33. [In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine](https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/)
+### 35. [In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine](https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Feb 2026 15:01:16 +0000  
 
 ---
 
-### 34. [Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat](https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/)
+### 36. [Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat](https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Feb 2026 12:35:11 +0000  
 
 ---
 
-### 35. [Dutch Carrier Odido Discloses Data Breach Impacting 6 Million](https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/)
+### 37. [Dutch Carrier Odido Discloses Data Breach Impacting 6 Million](https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Feb 2026 12:02:20 +0000  
 
 ---
 
-### 36. [BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release](https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/)
+### 38. [BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release](https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Feb 2026 11:01:15 +0000  
 
 ---
 
-### 37. [CISA Warns of Exploited SolarWinds, Notepad++, Microsoft Vulnerabilities](https://www.securityweek.com/cisa-warns-of-exploited-solarwinds-notepad-microsoft-vulnerabilities/)
+### 39. [CISA Warns of Exploited SolarWinds, Notepad++, Microsoft Vulnerabilities](https://www.securityweek.com/cisa-warns-of-exploited-solarwinds-notepad-microsoft-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Feb 2026 10:36:04 +0000  
 
 ---
 
-### 38. [Chrome 145 Patches 11 Vulnerabilities](https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/)
+### 40. [Chrome 145 Patches 11 Vulnerabilities](https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Feb 2026 08:18:22 +0000  
-
----
-
-### 39. [China Revives Tianfu Cup Hacking Contest Under Increased Secrecy](https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/)
-
-**Source:** Security Week  
-**Published:** Fri, 13 Feb 2026 06:49:26 +0000  
-
----
-
-### 40. [How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development](https://www.securityweek.com/how-to-eliminate-the-technical-debt-of-insecure-ai-assisted-software-development/)
-
-**Source:** Security Week  
-**Published:** Thu, 12 Feb 2026 16:15:00 +0000  
 
 ---
 
@@ -381,7 +379,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21514, CVE-2026-21510, CVE-2026-21513, CVE-2026-23655, CVE-2026-21525, CVE-2026-21522, CVE-2026-21519  
+**CVEs:** CVE-2026-21514, CVE-2026-21513, CVE-2026-21519, CVE-2026-21510, CVE-2026-21525, CVE-2026-23655, CVE-2026-21522  
 **Categories:** Vulnerability  
 
 ---
@@ -437,7 +435,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 11:00:07 GMT  
 **Severity:** High  
-**CVEs:** CVE-2025-61882, CVE-2025-55182  
+**CVEs:** CVE-2025-55182, CVE-2025-61882  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -678,7 +676,7 @@
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Feb 2026 11:40:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20700, CVE-2025-43529, CVE-2025-14174  
+**CVEs:** CVE-2026-20700, CVE-2025-14174, CVE-2025-43529  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -697,7 +695,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Feb 2026 12:32:20 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21514, CVE-2026-21510, CVE-2026-21513  
+**CVEs:** CVE-2026-21514, CVE-2026-21513, CVE-2026-21510  
 **Categories:** Vulnerability, Phishing  
 
 ---
