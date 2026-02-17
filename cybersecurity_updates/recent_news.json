@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
+    "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
+    "published": "Tue, 17 Feb 2026 17:29:00 +0530",
+    "summary": "Cloud attacks move fast — faster than most incident response teams.\nIn data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compromised instance can disappear in minutes. Identities rotate. Logs expire. Evidence can vanish before analysis even begins.\nCloud forensics is fundamentally",
+    "analysis": {
+      "issue": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "My Day Getting My Hands Dirty with an NDR System",
+    "link": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html",
+    "published": "Tue, 17 Feb 2026 17:00:00 +0530",
+    "summary": "My objectiveThe role of NDR in SOC workflowsStarting up the NDR systemHow AI complements the human responseWhat else did I try out?What could I see with NDR that I wouldn’t otherwise?Am I ready to be a network security analyst now?\n\n\n\n\n\n\nMy objective\nAs someone relatively inexperienced with network threat hunting, I wanted to get some hands-on experience using a network detection and response (",
+    "analysis": {
+      "issue": "Hands-on NDR testing reveals AI-assisted threat hunting, deep network visibility, and SOC workflow integration benefits",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations",
+    "link": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html",
+    "published": "Tue, 17 Feb 2026 15:01:00 +0530",
+    "summary": "New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the \"Summarize with AI\" button that's being increasingly placed on websites in ways that mirror classic search engine poisoning (AI).\nThe new AI hijacking technique has been codenamed AI Recommendation Poisoning by the Microsoft Defender Security Research Team. The tech giant",
+    "analysis": {
+      "issue": "Microsoft warns of AI recommendation poisoning where hidden prompts in “Summarize with AI” buttons manipulate chatbot memory and bias responses",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta",
     "link": "https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html",
     "published": "Tue, 17 Feb 2026 12:14:00 +0530",
@@ -131,58 +185,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
-    "link": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
-    "published": "Sun, 15 Feb 2026 19:40:00 +0530",
-    "summary": "Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (DNS) lookup to retrieve the next-stage payload.\nSpecifically, the attack relies on using the \"nslookup\" (short for nameserver lookup) command to execute a custom DNS lookup triggered via the Windows",
+    "source": "Bleeping Computer",
+    "title": "Poland arrests suspect linked to Phobos ransomware operation",
+    "link": "https://www.bleepingcomputer.com/news/security/poland-arrests-suspect-linked-to-phobos-ransomware-operation/",
+    "published": "Tue, 17 Feb 2026 06:31:37 -0500",
+    "summary": "Polish police have detained a 47-year-old man suspected of ties to the Phobos ransomware group and seized computers and mobile phones containing stolen credentials, credit card numbers, and server access data. [...]",
     "analysis": {
-      "issue": "Microsoft details a new ClickFix variant abusing DNS nslookup commands to stage malware, enabling stealthy payload delivery and RAT deployment",
+      "issue": "Polish police have detained a 47-year-old man suspected of ties to the Phobos ransomware group and seized computers and mobile phones containing stolen credentials, credit card numbers, and server access data",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Ransomware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs",
-    "link": "https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html",
-    "published": "Fri, 13 Feb 2026 22:57:00 +0530",
-    "summary": "A previously undocumented threat actor has been attributed to attacks targeting Ukrainian organizations with malware known as CANFAIL.\nGoogle Threat Intelligence Group (GTIG) described the hacking group as possibly affiliated with Russian intelligence services. The threat actor is assessed to have targeted defense, military, government, and energy organizations within the Ukrainian regional and",
+    "source": "Bleeping Computer",
+    "title": "Ireland now also investigating X over Grok-made sexual images",
+    "link": "https://www.bleepingcomputer.com/news/security/ireland-now-also-investigating-x-over-grok-made-sexual-images/",
+    "published": "Tue, 17 Feb 2026 05:02:21 -0500",
+    "summary": "Ireland's Data Protection Commission (DPC), the country's data protection authority, has opened a formal investigation into X over the use of the platform's Grok artificial intelligence tool to generate non-consensual sexual images of real people, including children. [...]",
     "analysis": {
-      "issue": "Suspected Russian actor deploys CANFAIL malware via phishing, targeting Ukrainian defense, energy, and aid sectors using LLM-assisted lures",
+      "issue": "Ireland's Data Protection Commission (DPC), the country's data protection authority, has opened a formal investigation into X over the use of the platform's Grok artificial intelligence tool to generate non-consensual sexual images of real people, in",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations",
-    "link": "https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html",
-    "published": "Fri, 13 Feb 2026 21:53:00 +0530",
-    "summary": "Several state-sponsored actors, hacktivist entities, and criminal groups from China, Iran, North Korea, and Russia have trained their sights on the defense industrial base (DIB) sector, according to findings from Google Threat Intelligence Group (GTIG).\nThe tech giant's threat intelligence division said the adversarial targeting of the sector is centered around four key themes: striking defense",
-    "analysis": {
-      "issue": "State-backed hackers from China, Russia, Iran, and North Korea target defense contractors using espionage, malware, hiring scams, and edge exploits",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -335,129 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS",
-    "link": "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/",
-    "published": "Sun, 15 Feb 2026 19:29:00 -0500",
-    "summary": "Threat actors are now abusing DNS queries as part of ClickFix social engineering attacks to deliver malware, making this the first known use of DNS as a channel in these campaigns. [...]",
-    "analysis": {
-      "issue": "Threat actors are now abusing DNS queries as part of ClickFix social engineering attacks to deliver malware, making this the first known use of DNS as a channel in these campaigns",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/",
-    "published": "Sun, 15 Feb 2026 17:08:53 -0500",
-    "summary": "Microsoft says it has resolved a Windows 11 bug that caused some commercial systems to fail to boot with an \"UNMOUNTABLE_BOOT_VOLUME\" error after installing recent security updates, with the fix delivered in the February 2026 Patch Tuesday update. [...]",
-    "analysis": {
-      "issue": "Microsoft says it has resolved a Windows 11 bug that caused some commercial systems to fail to boot with an \"UNMOUNTABLE_BOOT_VOLUME\" error after installing recent security updates, with the fix delivered in the February 2026 Patch Tuesday update",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-    "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-    "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-    "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
-    "analysis": {
-      "issue": "For the past week, the massive “Internet of Things” (IoT) botnet known as Kimwolf has been disrupting The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Patch Tuesday, February 2026 Edition",
-    "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-    "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-    "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-    "analysis": {
-      "issue": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six “zero-day” vulnerabilities that attackers are already exploiting in the wild",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-21510",
-        "CVE-2026-21525",
-        "CVE-2026-21533",
-        "CVE-2026-21509",
-        "CVE-2026-21523",
-        "CVE-2026-21513",
-        "CVE-2026-21514",
-        "CVE-2026-21256",
-        "CVE-2026-21516",
-        "CVE-2026-21519"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-    "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-    "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-    "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
-    "analysis": {
-      "issue": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifyi",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing",
-        "APT",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Who Operates the Badbox 2.0 Botnet?",
-    "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-    "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-    "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-    "analysis": {
-      "issue": "The cybercriminals in control of Kimwolf — a disruptive botnet that has infected more than 2 million devices — recently shared a screenshot indicating they’d compromised the control panel for Badbox 2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
     "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -489,9 +400,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20953",
+        "CVE-2026-20952",
         "CVE-2026-20805",
-        "CVE-2026-20952"
+        "CVE-2026-20953"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -575,6 +486,110 @@
     }
   },
   {
+    "source": "Krebs On Security",
+    "title": "Most Parked Domains Now Serving Malicious Content",
+    "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+    "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+    "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+    "analysis": {
+      "issue": "Direct navigation — the act of visiting a website by manually typing a domain name in a web browser — has never been riskier: A new study finds the vast majority of “parked” domains — mostly expired or dormant domain names, or common misspellings of ",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Microsoft Patch Tuesday, December 2025 Edition",
+    "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+    "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+    "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+    "analysis": {
+      "issue": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-62472",
+        "CVE-2025-62458",
+        "CVE-2025-59517",
+        "CVE-2025-62470",
+        "CVE-2025-62562",
+        "CVE-2025-59516",
+        "CVE-2025-62554",
+        "CVE-2025-62557",
+        "CVE-2025-62221"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+    "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+    "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+    "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
+    "analysis": {
+      "issue": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious ties to a Kremlin-connected oligarch whose Russian university builds drones for Russia’s war against Ukraine",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+    "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+    "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+    "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+    "analysis": {
+      "issue": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-co",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Man Linked to Phobos Ransomware Arrested in Poland",
+    "link": "https://www.securityweek.com/man-linked-to-phobos-ransomware-arrested-in-poland/",
+    "published": "Tue, 17 Feb 2026 12:54:34 +0000",
+    "summary": "<p>Polish police said they found evidence of cybercrime on the 47-year-old suspect’s devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/man-linked-to-phobos-ransomware-arrested-in-poland/\">Man Linked to Phobos Ransomware Arrested in Poland</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "3 Threat Groups Started Targeting ICS/OT in 2025: Dragos",
+    "link": "https://www.securityweek.com/3-threat-groups-started-targeting-ics-ot-in-2025-dragos/",
+    "published": "Tue, 17 Feb 2026 11:05:26 +0000",
+    "summary": "<p>Industrial cybersecurity firm Dragos has published its 9th Year in Review OT/ICS Cybersecurity Report.</p>\n<p>The post <a href=\"https://www.securityweek.com/3-threat-groups-started-targeting-ics-ot-in-2025-dragos/\">3 Threat Groups Started Targeting ICS/OT in 2025: Dragos </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Password Managers Vulnerable to Vault Compromise Under Malicious Server",
+    "link": "https://www.securityweek.com/password-managers-vulnerable-to-vault-compromise-under-malicious-server/",
+    "published": "Tue, 17 Feb 2026 09:30:46 +0000",
+    "summary": "<p>Researchers at ETH Zurich have tested the security of Bitwarden, LastPass, Dashlane, and 1Password password managers.</p>\n<p>The post <a href=\"https://www.securityweek.com/password-managers-vulnerable-to-vault-compromise-under-malicious-server/\">Password Managers Vulnerable to Vault Compromise Under Malicious Server</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
     "source": "Security Week",
     "title": "Dior, Louis Vuitton, Tiffany Fined $25 Million in South Korea After Data Breaches",
     "link": "https://www.securityweek.com/dior-louis-vuitton-tiffany-fined-25-million-in-south-korea-after-data-breaches/",
@@ -622,27 +637,6 @@
     "link": "https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/",
     "published": "Sat, 14 Feb 2026 12:00:00 +0000",
     "summary": "<p>With more than 37 million combined downloads, the extensions expose users to tracking and personal information theft.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/\">Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine",
-    "link": "https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/",
-    "published": "Fri, 13 Feb 2026 15:01:16 +0000",
-    "summary": "<p>Other noteworthy stories that might have slipped under the radar: vulnerabilities at 277 water systems, DoD employee acting as money mule, 200 airports exposed by flaw.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/\">In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney&#8217;s $2.7M Fine</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat",
-    "link": "https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/",
-    "published": "Fri, 13 Feb 2026 12:35:11 +0000",
-    "summary": "<p>Check Point has acquired Israeli cybersecurity companies Cyata, Cyclops, and Rotate.</p>\n<p>The post <a href=\"https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/\">Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Dutch Carrier Odido Discloses Data Breach Impacting 6 Million",
-    "link": "https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/",
-    "published": "Fri, 13 Feb 2026 12:02:20 +0000",
-    "summary": "<p>Hackers stole personal information such as names, addresses, and phone numbers from a customer contact system.</p>\n<p>The post <a href=\"https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/\">Dutch Carrier Odido Discloses Data Breach Impacting 6 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -713,12 +707,12 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-21510",
-        "CVE-2026-21525",
-        "CVE-2026-23655",
-        "CVE-2026-21513",
         "CVE-2026-21522",
         "CVE-2026-21514",
-        "CVE-2026-21519"
+        "CVE-2026-21525",
+        "CVE-2026-21519",
+        "CVE-2026-23655",
+        "CVE-2026-21513"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1224,6 +1218,44 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Update Chrome now: Zero-day bug allows code execution via malicious webpages",
+    "link": "https://www.malwarebytes.com/blog/news/2026/02/update-chrome-now-zero-day-bug-allows-code-execution-via-malicious-webpages",
+    "published": "Tue, 17 Feb 2026 12:33:13 GMT",
+    "summary": "Google has released an emergency update to patch an actively exploited zero-day—the first Chrome zero-day of the year.",
+    "analysis": {
+      "issue": "Google has issued a patch for a high‑severity Chrome zero‑day, tracked as CVE‑2026‑2441, a memory bug in how the browser handles certain font features that attackers are already exploiting",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-2441"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Hobby coder accidentally creates vacuum robot army",
+    "link": "https://www.malwarebytes.com/blog/news/2026/02/hobby-coder-accidentally-creates-vacuum-robot-army",
+    "published": "Tue, 17 Feb 2026 10:20:49 GMT",
+    "summary": "A hobby coding experiment reportedly exposed live camera feeds, microphones, and floor plans from thousands of robot vacuums worldwide.",
+    "analysis": {
+      "issue": "Sammy Azdoufal wanted to steer his robot vacuum with a PS5 controller",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "ClickFix added nslookup commands to its arsenal for downloading RATs",
     "link": "https://www.malwarebytes.com/blog/news/2026/02/clickfix-added-nslookup-commands-to-its-arsenal-for-downloading-rats",
     "published": "Mon, 16 Feb 2026 13:09:37 GMT",
@@ -1344,9 +1376,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20700",
         "CVE-2025-14174",
-        "CVE-2025-43529"
+        "CVE-2025-43529",
+        "CVE-2026-20700"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1362,48 +1394,6 @@
     "summary": "AI-assisted website builders are making it far easier for scammers to impersonate well-known and trusted brands, including Malwarebytes.",
     "analysis": {
       "issue": "AI tool Vercel was abused by cybercriminals to create a Malwarebytes lookalike website",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "February 2026 Patch Tuesday includes six actively exploited zero-days",
-    "link": "https://www.malwarebytes.com/blog/news/2026/02/february-2026-patch-tuesday-includes-six-actively-exploited-zero-days",
-    "published": "Wed, 11 Feb 2026 12:32:20 GMT",
-    "summary": "Microsoft’s February Patch Tuesday fixes 59 flaws—including six zero-days already under active attack. How bad are they?",
-    "analysis": {
-      "issue": "Microsoft releases important security updates on the second Tuesday of every month, known as “Patch Tuesday",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-21510",
-        "CVE-2026-21514",
-        "CVE-2026-21513"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Malwarebytes earns PCMag Best Tech Brand spot, scores 100% with MRG Effitas",
-    "link": "https://www.malwarebytes.com/blog/product/2026/02/malwarebytes-earns-pcmag-best-tech-brand-spot-scores-100-with-mrg-effitas",
-    "published": "Wed, 11 Feb 2026 10:09:52 GMT",
-    "summary": "Malwarebytes is not only one of PCMag's Best Tech Brands for 2026, it also scored 100% on the MRG Effitas consumer security product test.",
-    "analysis": {
-      "issue": "Recently named one of PCMag’s “Best Tech Brands for 2026,” Malwarebytes also scored 100% on the first-ever MRG Effitas consumer security product test, cementing the fact that we are loved by users and trusted by experts",
       "solution": null,
       "cause": null,
       "timeline": null,
