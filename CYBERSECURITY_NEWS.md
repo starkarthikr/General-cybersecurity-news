@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-17 03:20:56 UTC
+**Last Updated:** 2026-02-17 09:13:07 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
+### 1. [Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta](https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 17 Feb 2026 12:14:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Feb 2026 00:13:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers](https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html)
+### 3. [Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers](https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Feb 2026 23:36:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware](https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html)
+### 4. [Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware](https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Feb 2026 18:25:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud](https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html)
+### 5. [Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud](https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Feb 2026 17:25:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft](https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html)
+### 6. [New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft](https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Feb 2026 15:54:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released](https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html)
+### 7. [New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released](https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Feb 2026 12:08:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html)
+### 8. [Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 15 Feb 2026 19:40:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs](https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html)
+### 9. [Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs](https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Feb 2026 22:57:00 +0530  
@@ -77,21 +86,12 @@
 
 ---
 
-### 9. [Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations](https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html)
+### 10. [Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations](https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Feb 2026 21:53:00 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 10. [UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors](https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 13 Feb 2026 20:53:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -201,7 +201,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21509, CVE-2026-21533, CVE-2026-21523, CVE-2026-21516, CVE-2026-21513, CVE-2026-21510, CVE-2026-21514, CVE-2026-21519, CVE-2026-21525, CVE-2026-21256  
+**CVEs:** CVE-2026-21510, CVE-2026-21525, CVE-2026-21533, CVE-2026-21509, CVE-2026-21523, CVE-2026-21513, CVE-2026-21514, CVE-2026-21256, CVE-2026-21516, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -381,7 +381,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21513, CVE-2026-21510, CVE-2026-21514, CVE-2026-21519, CVE-2026-23655, CVE-2026-21525, CVE-2026-21522  
+**CVEs:** CVE-2026-21510, CVE-2026-21525, CVE-2026-23655, CVE-2026-21513, CVE-2026-21522, CVE-2026-21514, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -437,7 +437,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 11:00:07 GMT  
 **Severity:** High  
-**CVEs:** CVE-2025-61882, CVE-2025-55182  
+**CVEs:** CVE-2025-55182, CVE-2025-61882  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -687,7 +687,7 @@
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Feb 2026 11:40:35 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2025-14174, CVE-2025-43529, CVE-2026-20700  
+**CVEs:** CVE-2026-20700, CVE-2025-14174, CVE-2025-43529  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -706,7 +706,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Feb 2026 12:32:20 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21514, CVE-2026-21513, CVE-2026-21510  
+**CVEs:** CVE-2026-21510, CVE-2026-21514, CVE-2026-21513  
 **Categories:** Vulnerability, Phishing  
 
 ---
