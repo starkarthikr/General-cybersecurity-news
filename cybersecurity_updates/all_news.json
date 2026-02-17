@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens",
+    "link": "https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html",
+    "published": "Tue, 17 Feb 2026 00:13:00 +0530",
+    "summary": "Cybersecurity researchers disclosed they have detected a case of an information stealer infection successfully exfiltrating a victim's OpenClaw (formerly Clawdbot and Moltbot) configuration environment.\n\"This finding marks a significant milestone in the evolution of infostealer behavior: the transition from stealing browser credentials to harvesting the 'souls' and identities of personal AI [",
+    "analysis": {
+      "issue": "Infostealer malware stole OpenClaw AI agent files including tokens and keys, while exposed instances and malicious skills expand security risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers",
+    "link": "https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html",
+    "published": "Mon, 16 Feb 2026 23:36:00 +0530",
+    "summary": "A new study has found that multiple cloud-based password managers, including Bitwarden, Dashlane, and LastPass, are susceptible to password recovery attacks under certain conditions.\n\"The attacks range in severity from integrity violations to the complete compromise of all vaults in an organization,\" researchers Matteo Scarlata, Giovanni Torrisi, Matilda Backendal, and Kenneth G. Paterson said.",
+    "analysis": {
+      "issue": "Academic study finds 25 attack methods in major cloud password managers exposing vault, recovery, and encryption design risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware",
     "link": "https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html",
     "published": "Mon, 16 Feb 2026 18:25:00 +0530",
@@ -151,13 +187,49 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History",
-    "link": "https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html",
-    "published": "Fri, 13 Feb 2026 16:55:00 +0530",
-    "summary": "Cybersecurity researchers have discovered a malicious Google Chrome extension that's designed to steal data associated with Meta Business Suite and Facebook Business Manager.\nThe extension, named CL Suite by @CLMasters (ID: jkphinfhmfkckkcnifhjiplhfoiefffl), is marketed as a way to scrape Meta Business Suite data, remove verification pop-ups, and generate two-factor authentication (2FA) codes.",
+    "source": "Bleeping Computer",
+    "title": "Washington Hotel in Japan discloses ransomware infection incident",
+    "link": "https://www.bleepingcomputer.com/news/security/washington-hotel-in-japan-discloses-ransomware-infection-incident/",
+    "published": "Mon, 16 Feb 2026 16:10:38 -0500",
+    "summary": "The Washington Hotel brand in Japan has announced that that its servers were compromised in a ransomware attack, exposing various business data. [...]",
     "analysis": {
-      "issue": "Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "issue": "The Washington Hotel brand in Japan has announced that that its servers were compromised in a ransomware attack, exposing various business data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Eurail says stolen traveler data now up for sale on dark web",
+    "link": "https://www.bleepingcomputer.com/news/security/eurail-says-stolen-traveler-data-now-up-for-sale-on-dark-web/",
+    "published": "Mon, 16 Feb 2026 14:19:09 -0500",
+    "summary": "Eurail B.V., the operator that provides access to 250,000 kilometers of European railways, confirmed that data stolen in a breach earlier this year is being offered for sale on the dark web. [...]",
+    "analysis": {
+      "issue": ", the operator that provides access to 250,000 kilometers of European railways, confirmed that data stolen in a breach earlier this year is being offered for sale on the dark web",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Man arrested for demanding reward after accidental police data leak",
+    "link": "https://www.bleepingcomputer.com/news/security/man-arrested-for-demanding-reward-after-accidental-police-data-leak/",
+    "published": "Mon, 16 Feb 2026 14:13:39 -0500",
+    "summary": "Dutch authorities arrested a 40-year-old man after he downloaded confidential documents that had been mistakenly shared by the police and refused to delete them unless he received \"something in return.\" [...]",
+    "analysis": {
+      "issue": "Dutch authorities arrested a 40-year-old man after he downloaded confidential documents that had been mistakenly shared by the police and refused to delete them unless he received \"something in return",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -169,21 +241,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "npm’s Update to Harden Their Supply Chain, and Points to Consider",
-    "link": "https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html",
-    "published": "Fri, 13 Feb 2026 16:15:00 +0530",
-    "summary": "In December 2025, in response to the Sha1-Hulud incident, npm completed a major authentication overhaul intended to reduce supply-chain attacks. While the overhaul is a solid step forward, the changes don’t make npm projects immune from supply-chain attacks. npm is still susceptible to malware attacks – here’s what you need to know for a safer Node community.\nLet’s start with the original",
+    "source": "Bleeping Computer",
+    "title": "Infostealer malware found stealing OpenClaw secrets for first time",
+    "link": "https://www.bleepingcomputer.com/news/security/infostealer-malware-found-stealing-openclaw-secrets-for-first-time/",
+    "published": "Mon, 16 Feb 2026 12:32:26 -0500",
+    "summary": "With the massive adoption of the OpenClaw agentic AI assistant, information-stealing malware has been spotted stealing files associated with the framework that contain API keys, authentication tokens, and other secrets. [...]",
     "analysis": {
-      "issue": "npm’s token overhaul boosts security, but MFA bypass, phishing, and console access still enable supply-chain attacks",
+      "issue": "With the massive adoption of the OpenClaw agentic AI assistant, information-stealing malware has been spotted stealing files associated with the framework that contain API keys, authentication tokens, and other secrets",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Phishing",
-        "Supply Chain"
+        "Malware"
       ]
     }
   },
@@ -300,84 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups",
-    "link": "https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/",
-    "published": "Sun, 15 Feb 2026 11:30:41 -0500",
-    "summary": "CTM360 reports 4,000+ malicious Google Groups and 3,500+ Google-hosted URLs used to spread the Lumma Stealer infostealing malware and a trojanized \"Ninja Browser.\" The report details how attackers abuse trusted Google services to steal credentials and maintain persistence across Windows and Linux systems. [...]",
-    "analysis": {
-      "issue": "CTM360 reports that more than 4,000 malicious Google Groups and 3,500 Google-hosted URLs are being used in an active malware campaign targeting global organizations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps",
-    "link": "https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/",
-    "published": "Sun, 15 Feb 2026 10:17:27 -0500",
-    "summary": "Threat actors are abusing Pastebin comments to distribute a new ClickFix-style attack that tricks cryptocurrency users into executing malicious JavaScript in their browser, allowing attackers to hijack Bitcoin swap transactions and redirect funds to attacker-controlled wallets. [...]",
-    "analysis": {
-      "issue": "Threat actors are abusing Pastebin comments to distribute a new ClickFix-style attack that tricks cryptocurrency users into executing malicious JavaScript in their browser, allowing attackers to hijack Bitcoin swap transactions and redirect funds to ",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "One threat actor responsible for 83% of recent Ivanti RCE attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/",
-    "published": "Sat, 14 Feb 2026 11:02:34 -0500",
-    "summary": "Threat intelligence observations show that a single threat actor is responsible for most of the active exploitation of two critical vulnerabilities in Ivanti Endpoint Manager Mobile (EPMM), tracked as CVE-2026-1281 and CVE-2026-1340. [...]",
-    "analysis": {
-      "issue": "Update: The article initially listed the wrong CVEs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-1281",
-        "CVE-2026-1340",
-        "CVE-2026-1286"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Snail mail letters target Trezor and Ledger users in crypto-theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/",
-    "published": "Sat, 14 Feb 2026 10:15:25 -0500",
-    "summary": "Threat actors are sending physical letters pretending to be from Trezor and Ledger, makers of cryptocurrency hardware wallets, to trick users into submitting recovery phrases in crypto theft attacks. [...]",
-    "analysis": {
-      "issue": "Threat actors are sending physical letters pretending to be from Trezor and Ledger, makers of cryptocurrency hardware wallets, to trick users into submitting recovery phrases in crypto theft attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
     "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
@@ -409,16 +402,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21514",
-        "CVE-2026-21525",
-        "CVE-2026-21256",
         "CVE-2026-21523",
-        "CVE-2026-21533",
         "CVE-2026-21516",
+        "CVE-2026-21256",
+        "CVE-2026-21519",
+        "CVE-2026-21513",
+        "CVE-2026-21514",
         "CVE-2026-21509",
         "CVE-2026-21510",
-        "CVE-2026-21513",
-        "CVE-2026-21519"
+        "CVE-2026-21533",
+        "CVE-2026-21525"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -496,9 +489,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20952",
         "CVE-2026-20953",
-        "CVE-2026-20805",
-        "CVE-2026-20952"
+        "CVE-2026-20805"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -719,13 +712,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21522",
-        "CVE-2026-21514",
-        "CVE-2026-21525",
         "CVE-2026-23655",
-        "CVE-2026-21510",
+        "CVE-2026-21519",
         "CVE-2026-21513",
-        "CVE-2026-21519"
+        "CVE-2026-21514",
+        "CVE-2026-21510",
+        "CVE-2026-21522",
+        "CVE-2026-21525"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -847,6 +840,24 @@
         "Malware",
         "Phishing",
         "APT"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Network Intelligence: Your Questions, Global Answers",
+    "link": "https://www.recordedfuture.com/blog/network-intelligence-questions-answered",
+    "published": "Mon, 16 Feb 2026 00:00:00 GMT",
+    "summary": "Learn how network intelligence gives security teams control over threat investigation with global visibility—no more drowning in generic, passive threat feeds.",
+    "analysis": {
+      "issue": "Learn how network intelligence gives security teams control over threat investigation with global visibility—no more drowning in generic, passive threat feeds",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1012,24 +1023,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Practitioners Reveal What Makes Threat Intelligence Programs Mature",
-    "link": "https://www.recordedfuture.com/blog/practitioner-insights-advancing-threat-intelligence",
-    "published": "Fri, 09 Jan 2026 00:00:00 GMT",
-    "summary": "Threat intelligence practitioners from Global Payments, Adobe, and Superhuman reveal how mature CTI programs transform data overload into strategic business value. Learn proven approaches to automation, cross-functional collaboration, and executive communication.",
-    "analysis": {
-      "issue": "Threat intelligence practitioners from Global Payments, Adobe, and Superhuman reveal how mature CTI programs transform data overload into strategic business value",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1200,8 +1193,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1351,8 +1344,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-14174",
         "CVE-2025-43529",
+        "CVE-2025-14174",
         "CVE-2026-20700"
       ],
       "threat_categories": [
@@ -1393,9 +1386,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21510",
         "CVE-2026-21513",
-        "CVE-2026-21514"
+        "CVE-2026-21514",
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability",
