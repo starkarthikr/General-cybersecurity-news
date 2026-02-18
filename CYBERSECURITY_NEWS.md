@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-18 03:23:54 UTC
+**Last Updated:** 2026-02-18 09:12:22 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html)
+### 1. [Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware](https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 18 Feb 2026 13:10:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 2. [CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update](https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 18 Feb 2026 12:22:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 00:38:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies](https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html)
+### 4. [Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies](https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Feb 2026 23:38:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates](https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html)
+### 5. [Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates](https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Feb 2026 22:11:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer](https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html)
+### 6. [SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer](https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Feb 2026 18:12:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [My Day Getting My Hands Dirty with an NDR System](https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html)
+### 7. [My Day Getting My Hands Dirty with an NDR System](https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Feb 2026 17:00:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations](https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html)
+### 8. [Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations](https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Feb 2026 15:01:00 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta](https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html)
+### 9. [Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta](https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Feb 2026 12:14:00 +0530  
@@ -67,30 +85,12 @@
 
 ---
 
-### 8. [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
+### 10. [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Feb 2026 00:13:00 +0530  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 9. [Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers](https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 16 Feb 2026 23:36:00 +0530  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 10. [Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware](https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 16 Feb 2026 18:25:00 +0530  
-**Severity:** Critical  
-**Categories:** Ransomware, Vulnerability, Malware, Phishing  
 
 ---
 
@@ -108,7 +108,7 @@
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Feb 2026 16:27:12 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2025-65715, CVE-2025-65716, CVE-2025-65717  
+**CVEs:** CVE-2025-65717, CVE-2025-65716, CVE-2025-65715  
 **Categories:** Vulnerability  
 
 ---
@@ -200,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21519, CVE-2026-21256, CVE-2026-21525, CVE-2026-21509, CVE-2026-21523, CVE-2026-21533, CVE-2026-21510, CVE-2026-21513, CVE-2026-21514, CVE-2026-21516  
+**CVEs:** CVE-2026-21533, CVE-2026-21519, CVE-2026-21509, CVE-2026-21514, CVE-2026-21256, CVE-2026-21510, CVE-2026-21525, CVE-2026-21513, CVE-2026-21516, CVE-2026-21523  
 **Categories:** Vulnerability  
 
 ---
@@ -237,7 +237,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20952, CVE-2026-20805  
+**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
 **Categories:** Vulnerability  
 
 ---
@@ -278,73 +278,73 @@
 
 ---
 
-### 31. [VulnCheck Raises $25 Million in Series B Funding to Scale Vulnerability Intelligence](https://www.securityweek.com/vulncheck-raises-25-million-in-series-b-funding-to-scale-vulnerability-intelligence/)
+### 31. [Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction](https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/)
+
+**Source:** Security Week  
+**Published:** Wed, 18 Feb 2026 08:24:46 +0000  
+
+---
+
+### 32. [Dell RecoverPoint Zero-Day Exploited by Chinese Cyberespionage Group](https://www.securityweek.com/dell-recoverpoint-zero-day-exploited-by-chinese-cyberespionage-group/)
+
+**Source:** Security Week  
+**Published:** Wed, 18 Feb 2026 07:09:01 +0000  
+
+---
+
+### 33. [VulnCheck Raises $25 Million in Series B Funding to Scale Vulnerability Intelligence](https://www.securityweek.com/vulncheck-raises-25-million-in-series-b-funding-to-scale-vulnerability-intelligence/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Feb 2026 16:00:04 +0000  
 
 ---
 
-### 32. [Hackers Offer to Sell Millions of Eurail User Records](https://www.securityweek.com/hackers-offer-to-sell-millions-of-eurail-user-records/)
+### 34. [Hackers Offer to Sell Millions of Eurail User Records](https://www.securityweek.com/hackers-offer-to-sell-millions-of-eurail-user-records/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Feb 2026 15:27:12 +0000  
 
 ---
 
-### 33. [API Threats Grow in Scale as AI Expands the Blast Radius](https://www.securityweek.com/api-threats-grow-in-scale-as-ai-expands-the-blast-radius/)
+### 35. [API Threats Grow in Scale as AI Expands the Blast Radius](https://www.securityweek.com/api-threats-grow-in-scale-as-ai-expands-the-blast-radius/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Feb 2026 14:00:00 +0000  
 
 ---
 
-### 34. [Cyber Insights 2026: The Ongoing Fight to Secure Industrial Control Systems](https://www.securityweek.com/cyber-insights-2026-the-ongoing-fight-to-secure-industrial-control-systems/)
+### 36. [Cyber Insights 2026: The Ongoing Fight to Secure Industrial Control Systems](https://www.securityweek.com/cyber-insights-2026-the-ongoing-fight-to-secure-industrial-control-systems/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Feb 2026 14:00:00 +0000  
 
 ---
 
-### 35. [Man Linked to Phobos Ransomware Arrested in Poland](https://www.securityweek.com/man-linked-to-phobos-ransomware-arrested-in-poland/)
+### 37. [Man Linked to Phobos Ransomware Arrested in Poland](https://www.securityweek.com/man-linked-to-phobos-ransomware-arrested-in-poland/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Feb 2026 12:54:34 +0000  
 
 ---
 
-### 36. [3 Threat Groups Started Targeting ICS/OT in 2025: Dragos](https://www.securityweek.com/3-threat-groups-started-targeting-ics-ot-in-2025-dragos/)
+### 38. [3 Threat Groups Started Targeting ICS/OT in 2025: Dragos](https://www.securityweek.com/3-threat-groups-started-targeting-ics-ot-in-2025-dragos/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Feb 2026 11:05:26 +0000  
 
 ---
 
-### 37. [Password Managers Vulnerable to Vault Compromise Under Malicious Server](https://www.securityweek.com/password-managers-vulnerable-to-vault-compromise-under-malicious-server/)
+### 39. [Password Managers Vulnerable to Vault Compromise Under Malicious Server](https://www.securityweek.com/password-managers-vulnerable-to-vault-compromise-under-malicious-server/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Feb 2026 09:30:46 +0000  
 
 ---
 
-### 38. [Dior, Louis Vuitton, Tiffany Fined $25 Million in South Korea After Data Breaches](https://www.securityweek.com/dior-louis-vuitton-tiffany-fined-25-million-in-south-korea-after-data-breaches/)
+### 40. [Dior, Louis Vuitton, Tiffany Fined $25 Million in South Korea After Data Breaches](https://www.securityweek.com/dior-louis-vuitton-tiffany-fined-25-million-in-south-korea-after-data-breaches/)
 
 **Source:** Security Week  
 **Published:** Mon, 16 Feb 2026 15:09:13 +0000  
-
----
-
-### 39. [Android 17 Beta Strengthens Secure-by-Default Design for Privacy and App Security](https://www.securityweek.com/android-17-beta-strengthens-secure-by-default-design-for-privacy-and-app-security/)
-
-**Source:** Security Week  
-**Published:** Mon, 16 Feb 2026 13:50:36 +0000  
-
----
-
-### 40. [CISA Navigates DHS Shutdown With Reduced Staff](https://www.securityweek.com/cisa-navigates-dhs-shutdown-with-reduced-staff/)
-
-**Source:** Security Week  
-**Published:** Mon, 16 Feb 2026 13:49:03 +0000  
 
 ---
 
@@ -380,7 +380,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-23655, CVE-2026-21522, CVE-2026-21519, CVE-2026-21525, CVE-2026-21510, CVE-2026-21513, CVE-2026-21514  
+**CVEs:** CVE-2026-21519, CVE-2026-21514, CVE-2026-21510, CVE-2026-21522, CVE-2026-21525, CVE-2026-21513, CVE-2026-23655  
 **Categories:** Vulnerability  
 
 ---
@@ -436,7 +436,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 11:00:07 GMT  
 **Severity:** High  
-**CVEs:** CVE-2025-61882, CVE-2025-55182  
+**CVEs:** CVE-2025-55182, CVE-2025-61882  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -612,7 +612,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware",
+    "link": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html",
+    "published": "Wed, 18 Feb 2026 13:10:00 +0530",
+    "summary": "Notepad++ has released a security fix to plug gaps that were exploited by an advanced threat actor from China to hijack the software update mechanism to selectively deliver malware to targets of interest.\nThe version 8.9.2 update incorporates what maintainer Don Ho calls a \"double lock\" design that aims to make the update process \"robust and effectively unexploitable.\" This includes verification",
+    "analysis": {
+      "issue": "2 fixes update hijack exploited to deliver malware, patches RCE flaw, and hardens WinGUp security",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update",
+    "link": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html",
+    "published": "Wed, 18 Feb 2026 12:22:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe list of vulnerabilities is as follows -\n\nCVE-2026-2441 (CVSS score: 8.8) - A use-after-free vulnerability in Google Chrome that could allow a remote attacker to potentially exploit heap",
+    "analysis": {
+      "issue": "CISA adds four actively exploited vulnerabilities to its KEV catalog, including Chrome RCE, Zimbra SSRF, Windows ActiveX, and ThreatSonar flaws",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
     "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
     "published": "Wed, 18 Feb 2026 00:38:00 +0530",
@@ -144,45 +181,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers",
-    "link": "https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html",
-    "published": "Mon, 16 Feb 2026 23:36:00 +0530",
-    "summary": "A new study has found that multiple cloud-based password managers, including Bitwarden, Dashlane, and LastPass, are susceptible to password recovery attacks under certain conditions.\n\"The attacks range in severity from integrity violations to the complete compromise of all vaults in an organization,\" researchers Matteo Scarlata, Giovanni Torrisi, Matilda Backendal, and Kenneth G. Paterson said.",
-    "analysis": {
-      "issue": "Academic study finds 25 attack methods in major cloud password managers exposing vault, recovery, and encryption design risks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware",
-    "link": "https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html",
-    "published": "Mon, 16 Feb 2026 18:25:00 +0530",
-    "summary": "This week’s recap shows how small gaps are turning into big entry points. Not always through new exploits, often through tools, add-ons, cloud setups, or workflows that people already trust and rarely question.\nAnother signal: attackers are mixing old and new methods. Legacy botnet tactics, modern cloud abuse, AI assistance, and supply-chain exposure are being used side by side, whichever path",
-    "analysis": {
-      "issue": "Outlook add-in phishing, Chrome and Apple zero-days, BeyondTrust RCE, cloud botnets, AI-driven threats, ransomware activity, and critical CVEs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites",
     "link": "https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/",
@@ -213,9 +211,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-65715",
+        "CVE-2025-65717",
         "CVE-2025-65716",
-        "CVE-2025-65717"
+        "CVE-2025-65715"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -402,16 +400,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21519",
-        "CVE-2026-21256",
-        "CVE-2026-21525",
-        "CVE-2026-21509",
-        "CVE-2026-21523",
         "CVE-2026-21533",
-        "CVE-2026-21510",
-        "CVE-2026-21513",
+        "CVE-2026-21519",
+        "CVE-2026-21509",
         "CVE-2026-21514",
-        "CVE-2026-21516"
+        "CVE-2026-21256",
+        "CVE-2026-21510",
+        "CVE-2026-21525",
+        "CVE-2026-21513",
+        "CVE-2026-21516",
+        "CVE-2026-21523"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -490,8 +488,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20953",
-        "CVE-2026-20952",
-        "CVE-2026-20805"
+        "CVE-2026-20805",
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -576,6 +574,20 @@
   },
   {
     "source": "Security Week",
+    "title": "Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction",
+    "link": "https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/",
+    "published": "Wed, 18 Feb 2026 08:24:46 +0000",
+    "summary": "<p>Koi has developed an endpoint security solution that Palo Alto will use to enhance its products.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/\">Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Dell RecoverPoint Zero-Day Exploited by Chinese Cyberespionage Group",
+    "link": "https://www.securityweek.com/dell-recoverpoint-zero-day-exploited-by-chinese-cyberespionage-group/",
+    "published": "Wed, 18 Feb 2026 07:09:01 +0000",
+    "summary": "<p>GTIG and Mandiant said the zero-day tracked as CVE-2026-22769 has been exploited by UNC6201 since at least 2024.</p>\n<p>The post <a href=\"https://www.securityweek.com/dell-recoverpoint-zero-day-exploited-by-chinese-cyberespionage-group/\">Dell RecoverPoint Zero-Day Exploited by Chinese Cyberespionage Group</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "VulnCheck Raises $25 Million in Series B Funding to Scale Vulnerability Intelligence",
     "link": "https://www.securityweek.com/vulncheck-raises-25-million-in-series-b-funding-to-scale-vulnerability-intelligence/",
     "published": "Tue, 17 Feb 2026 16:00:04 +0000",
@@ -629,20 +641,6 @@
     "link": "https://www.securityweek.com/dior-louis-vuitton-tiffany-fined-25-million-in-south-korea-after-data-breaches/",
     "published": "Mon, 16 Feb 2026 15:09:13 +0000",
     "summary": "<p>Luxury brands were among the dozens of major companies whose Salesforce instances were targeted by Scattered LAPSUS$ Hunters.</p>\n<p>The post <a href=\"https://www.securityweek.com/dior-louis-vuitton-tiffany-fined-25-million-in-south-korea-after-data-breaches/\">Dior, Louis Vuitton, Tiffany Fined $25 Million in South Korea After Data Breaches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Android 17 Beta Strengthens Secure-by-Default Design for Privacy and App Security",
-    "link": "https://www.securityweek.com/android-17-beta-strengthens-secure-by-default-design-for-privacy-and-app-security/",
-    "published": "Mon, 16 Feb 2026 13:50:36 +0000",
-    "summary": "<p>The latest Android version continues to improve security and privacy, according to its developers.</p>\n<p>The post <a href=\"https://www.securityweek.com/android-17-beta-strengthens-secure-by-default-design-for-privacy-and-app-security/\">Android 17 Beta Strengthens Secure-by-Default Design for Privacy and App Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "CISA Navigates DHS Shutdown With Reduced Staff",
-    "link": "https://www.securityweek.com/cisa-navigates-dhs-shutdown-with-reduced-staff/",
-    "published": "Mon, 16 Feb 2026 13:49:03 +0000",
-    "summary": "<p>CISA is currently operating at roughly 38% capacity (888 out of 2,341 staff) due to the DHS shutdown that began February 14, 2026.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-navigates-dhs-shutdown-with-reduced-staff/\">CISA Navigates DHS Shutdown With Reduced Staff</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -712,13 +710,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-23655",
-        "CVE-2026-21522",
         "CVE-2026-21519",
-        "CVE-2026-21525",
+        "CVE-2026-21514",
         "CVE-2026-21510",
+        "CVE-2026-21522",
+        "CVE-2026-21525",
         "CVE-2026-21513",
-        "CVE-2026-21514"
+        "CVE-2026-23655"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -831,8 +829,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-61882",
-        "CVE-2025-55182"
+        "CVE-2025-55182",
+        "CVE-2025-61882"
       ],
       "threat_categories": [
         "Ransomware",
@@ -1193,8 +1191,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
