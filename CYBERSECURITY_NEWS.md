@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-17 17:33:49 UTC
+**Last Updated:** 2026-02-18 02:44:33 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates](https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html)
+### 1. [Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 18 Feb 2026 00:38:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies](https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 17 Feb 2026 23:38:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates](https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Feb 2026 22:11:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer](https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html)
+### 4. [SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer](https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Feb 2026 18:12:00 +0530  
@@ -22,16 +40,7 @@
 
 ---
 
-### 3. [Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 17 Feb 2026 17:29:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 4. [My Day Getting My Hands Dirty with an NDR System](https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html)
+### 5. [My Day Getting My Hands Dirty with an NDR System](https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Feb 2026 17:00:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations](https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html)
+### 6. [Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations](https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Feb 2026 15:01:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta](https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html)
+### 7. [Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta](https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Feb 2026 12:14:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
+### 8. [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Feb 2026 00:13:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers](https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html)
+### 9. [Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers](https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Feb 2026 23:36:00 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware](https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html)
+### 10. [Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware](https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Feb 2026 18:25:00 +0530  
@@ -85,16 +94,45 @@
 
 ---
 
-### 10. [Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud](https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html)
+### 11. [Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites](https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 16 Feb 2026 17:25:00 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Tue, 17 Feb 2026 18:15:49 -0500  
+**Severity:** High  
 **Categories:** General Security  
 
 ---
 
-### 11. [Microsoft Teams outage affects users in United States, Europe](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/)
+### 12. [Flaws in popular VSCode extensions expose developers to attacks](https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 17 Feb 2026 16:27:12 -0500  
+**Severity:** Critical  
+**CVEs:** CVE-2025-65715, CVE-2025-65717, CVE-2025-65716  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [Chinese hackers exploiting Dell zero-day flaw since mid-2024](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 17 Feb 2026 15:15:03 -0500  
+**Severity:** Critical  
+**CVEs:** CVE-2026-22769  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 14. [Notepad++ boosts update security with ‘double-lock’ mechanism](https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 17 Feb 2026 13:29:18 -0500  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 15. [Microsoft Teams outage affects users in United States, Europe](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Feb 2026 10:37:45 -0500  
@@ -103,7 +141,7 @@
 
 ---
 
-### 12. [What 5 Million Apps Revealed About Secrets in JavaScript](https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/)
+### 16. [What 5 Million Apps Revealed About Secrets in JavaScript](https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Feb 2026 09:40:49 -0500  
@@ -112,7 +150,7 @@
 
 ---
 
-### 13. [New Keenadu backdoor found in Android firmware, Google Play apps](https://www.bleepingcomputer.com/news/security/new-keenadu-backdoor-found-in-android-firmware-google-play-apps/)
+### 17. [New Keenadu backdoor found in Android firmware, Google Play apps](https://www.bleepingcomputer.com/news/security/new-keenadu-backdoor-found-in-android-firmware-google-play-apps/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Feb 2026 09:05:25 -0500  
@@ -121,7 +159,7 @@
 
 ---
 
-### 14. [Poland arrests suspect linked to Phobos ransomware operation](https://www.bleepingcomputer.com/news/security/poland-arrests-suspect-linked-to-phobos-ransomware-operation/)
+### 18. [Poland arrests suspect linked to Phobos ransomware operation](https://www.bleepingcomputer.com/news/security/poland-arrests-suspect-linked-to-phobos-ransomware-operation/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Feb 2026 06:31:37 -0500  
@@ -130,7 +168,7 @@
 
 ---
 
-### 15. [Ireland now also investigating X over Grok-made sexual images](https://www.bleepingcomputer.com/news/security/ireland-now-also-investigating-x-over-grok-made-sexual-images/)
+### 19. [Ireland now also investigating X over Grok-made sexual images](https://www.bleepingcomputer.com/news/security/ireland-now-also-investigating-x-over-grok-made-sexual-images/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Feb 2026 05:02:21 -0500  
@@ -139,7 +177,7 @@
 
 ---
 
-### 16. [Washington Hotel in Japan discloses ransomware infection incident](https://www.bleepingcomputer.com/news/security/washington-hotel-in-japan-discloses-ransomware-infection-incident/)
+### 20. [Washington Hotel in Japan discloses ransomware infection incident](https://www.bleepingcomputer.com/news/security/washington-hotel-in-japan-discloses-ransomware-infection-incident/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Feb 2026 16:10:38 -0500  
@@ -148,43 +186,44 @@
 
 ---
 
-### 17. [Eurail says stolen traveler data now up for sale on dark web](https://www.bleepingcomputer.com/news/security/eurail-says-stolen-traveler-data-now-up-for-sale-on-dark-web/)
+### 21. [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
 
-**Source:** Bleeping Computer  
-**Published:** Mon, 16 Feb 2026 14:19:09 -0500  
+**Source:** Krebs On Security  
+**Published:** Wed, 11 Feb 2026 16:08:11 +0000  
 **Severity:** Low  
-**Categories:** Data Breach  
+**Categories:** Malware, DDoS  
 
 ---
 
-### 18. [Man arrested for demanding reward after accidental police data leak](https://www.bleepingcomputer.com/news/security/man-arrested-for-demanding-reward-after-accidental-police-data-leak/)
+### 22. [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
 
-**Source:** Bleeping Computer  
-**Published:** Mon, 16 Feb 2026 14:13:39 -0500  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Krebs On Security  
+**Published:** Tue, 10 Feb 2026 21:49:53 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-21525, CVE-2026-21514, CVE-2026-21516, CVE-2026-21533, CVE-2026-21256, CVE-2026-21510, CVE-2026-21519, CVE-2026-21523, CVE-2026-21509, CVE-2026-21513  
+**Categories:** Vulnerability  
 
 ---
 
-### 19. [Infostealer malware found stealing OpenClaw secrets for first time](https://www.bleepingcomputer.com/news/security/infostealer-malware-found-stealing-openclaw-secrets-for-first-time/)
+### 23. [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
 
-**Source:** Bleeping Computer  
-**Published:** Mon, 16 Feb 2026 12:32:26 -0500  
-**Severity:** Low  
+**Source:** Krebs On Security  
+**Published:** Mon, 02 Feb 2026 16:15:16 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Phishing, APT, DDoS  
+
+---
+
+### 24. [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
+
+**Source:** Krebs On Security  
+**Published:** Mon, 26 Jan 2026 16:11:38 +0000  
+**Severity:** High  
 **Categories:** Malware  
 
 ---
 
-### 20. [Passwords to passkeys: Staying ISO 27001 compliant in a passwordless era](https://www.bleepingcomputer.com/news/security/passwords-to-passkeys-staying-iso-27001-compliant-in-a-passwordless-era/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 16 Feb 2026 10:02:12 -0500  
-**Severity:** High  
-**Categories:** Data Breach  
-
----
-
-### 21. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
+### 25. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 20 Jan 2026 18:19:13 +0000  
@@ -193,17 +232,17 @@
 
 ---
 
-### 22. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
+### 26. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
+**CVEs:** CVE-2026-20805, CVE-2026-20953, CVE-2026-20952  
 **Categories:** Vulnerability  
 
 ---
 
-### 23. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
+### 27. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 08 Jan 2026 23:23:43 +0000  
@@ -212,7 +251,7 @@
 
 ---
 
-### 24. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+### 28. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 02 Jan 2026 14:20:10 +0000  
@@ -221,7 +260,7 @@
 
 ---
 
-### 25. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+### 29. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 29 Dec 2025 20:23:26 +0000  
@@ -230,49 +269,12 @@
 
 ---
 
-### 26. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+### 30. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 19 Dec 2025 15:14:55 +0000  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 27. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-
-**Source:** Krebs On Security  
-**Published:** Tue, 16 Dec 2025 14:14:48 +0000  
-**Severity:** High  
-**Categories:** Malware, Supply Chain  
-
----
-
-### 28. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
-
-**Source:** Krebs On Security  
-**Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2025-59516, CVE-2025-62470, CVE-2025-62472, CVE-2025-59517, CVE-2025-62562, CVE-2025-62221, CVE-2025-62557, CVE-2025-62554, CVE-2025-62458  
-**Categories:** Vulnerability  
-
----
-
-### 29. [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
-
-**Source:** Krebs On Security  
-**Published:** Sat, 06 Dec 2025 14:45:03 +0000  
-**Severity:** Low  
-**Categories:** APT  
-
----
-
-### 30. [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
-
-**Source:** Krebs On Security  
-**Published:** Thu, 04 Dec 2025 23:02:34 +0000  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 
@@ -378,7 +380,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21514, CVE-2026-21513, CVE-2026-21519, CVE-2026-21510, CVE-2026-23655, CVE-2026-21525, CVE-2026-21522  
+**CVEs:** CVE-2026-21525, CVE-2026-21514, CVE-2026-21510, CVE-2026-21519, CVE-2026-23655, CVE-2026-21522, CVE-2026-21513  
 **Categories:** Vulnerability  
 
 ---
@@ -434,7 +436,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 11:00:07 GMT  
 **Severity:** High  
-**CVEs:** CVE-2025-55182, CVE-2025-61882  
+**CVEs:** CVE-2025-61882, CVE-2025-55182  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
 
 ---
@@ -625,7 +627,16 @@
 
 ---
 
-### 71. [Scam Guard for desktop: A second set of eyes for suspicious moments](https://www.malwarebytes.com/blog/product/2026/02/scam-guard-for-desktop-a-second-set-of-eyes-for-suspicious-moments)
+### 71. [Chrome &#8220;preloading&#8221; could be leaking your data and causing problems in Browser Guard](https://www.malwarebytes.com/blog/product/2026/02/chrome-preloading-could-be-leaking-your-data-and-causing-problems-in-browser-guard)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 17 Feb 2026 18:25:47 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 72. [Scam Guard for desktop: A second set of eyes for suspicious moments](https://www.malwarebytes.com/blog/product/2026/02/scam-guard-for-desktop-a-second-set-of-eyes-for-suspicious-moments)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Feb 2026 13:50:00 GMT  
@@ -634,7 +645,7 @@
 
 ---
 
-### 72. [Update Chrome now: Zero-day bug allows code execution via malicious webpages](https://www.malwarebytes.com/blog/news/2026/02/update-chrome-now-zero-day-bug-allows-code-execution-via-malicious-webpages)
+### 73. [Update Chrome now: Zero-day bug allows code execution via malicious webpages](https://www.malwarebytes.com/blog/news/2026/02/update-chrome-now-zero-day-bug-allows-code-execution-via-malicious-webpages)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Feb 2026 12:33:13 GMT  
@@ -644,7 +655,7 @@
 
 ---
 
-### 73. [Hobby coder accidentally creates vacuum robot army](https://www.malwarebytes.com/blog/news/2026/02/hobby-coder-accidentally-creates-vacuum-robot-army)
+### 74. [Hobby coder accidentally creates vacuum robot army](https://www.malwarebytes.com/blog/news/2026/02/hobby-coder-accidentally-creates-vacuum-robot-army)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Feb 2026 10:20:49 GMT  
@@ -653,7 +664,7 @@
 
 ---
 
-### 74. [ClickFix added nslookup commands to its arsenal for downloading RATs](https://www.malwarebytes.com/blog/news/2026/02/clickfix-added-nslookup-commands-to-its-arsenal-for-downloading-rats)
+### 75. [ClickFix added nslookup commands to its arsenal for downloading RATs](https://www.malwarebytes.com/blog/news/2026/02/clickfix-added-nslookup-commands-to-its-arsenal-for-downloading-rats)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 16 Feb 2026 13:09:37 GMT  
@@ -662,7 +673,7 @@
 
 ---
 
-### 75. [A week in security (February 9 &#8211; February 15)](https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-february-9-february-15)
+### 76. [A week in security (February 9 &#8211; February 15)](https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-february-9-february-15)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 16 Feb 2026 08:02:00 GMT  
@@ -671,7 +682,7 @@
 
 ---
 
-### 76. [How to find and remove credential-stealing Chrome extensions](https://www.malwarebytes.com/blog/news/2026/02/how-to-find-and-remove-credential-stealing-chrome-extensions)
+### 77. [How to find and remove credential-stealing Chrome extensions](https://www.malwarebytes.com/blog/news/2026/02/how-to-find-and-remove-credential-stealing-chrome-extensions)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 13 Feb 2026 13:27:34 GMT  
@@ -680,7 +691,7 @@
 
 ---
 
-### 77. [Fake shops target Winter Olympics 2026 fans](https://www.malwarebytes.com/blog/scams/2026/02/fake-shops-target-winter-olympics-2026-fans)
+### 78. [Fake shops target Winter Olympics 2026 fans](https://www.malwarebytes.com/blog/scams/2026/02/fake-shops-target-winter-olympics-2026-fans)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 13 Feb 2026 09:00:02 GMT  
@@ -689,7 +700,7 @@
 
 ---
 
-### 78. [Outlook add-in goes rogue and steals 4,000 credentials and payment data](https://www.malwarebytes.com/blog/news/2026/02/outlook-add-in-goes-rogue-and-steals-4000-credentials-and-payment-data)
+### 79. [Outlook add-in goes rogue and steals 4,000 credentials and payment data](https://www.malwarebytes.com/blog/news/2026/02/outlook-add-in-goes-rogue-and-steals-4000-credentials-and-payment-data)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Feb 2026 14:35:13 GMT  
@@ -698,22 +709,12 @@
 
 ---
 
-### 79. [Child exploitation, grooming, and social media addiction claims put Meta on trial](https://www.malwarebytes.com/blog/family-and-parenting/2026/02/child-exploitation-grooming-and-social-media-addiction-claims-put-meta-on-trial)
+### 80. [Child exploitation, grooming, and social media addiction claims put Meta on trial](https://www.malwarebytes.com/blog/family-and-parenting/2026/02/child-exploitation-grooming-and-social-media-addiction-claims-put-meta-on-trial)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Feb 2026 12:35:26 GMT  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 80. [Apple patches zero-day flaw that could let attackers take control of devices](https://www.malwarebytes.com/blog/news/2026/02/apple-patches-zero-day-flaw-that-could-let-attackers-take-control-of-devices)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 12 Feb 2026 11:40:35 GMT  
-**Severity:** Critical  
-**CVEs:** CVE-2026-20700, CVE-2025-14174, CVE-2025-43529  
-**Categories:** Vulnerability, Malware  
 
 ---
 
