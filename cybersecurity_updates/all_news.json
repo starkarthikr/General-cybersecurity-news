@@ -1,6 +1,27 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution",
+    "link": "https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html",
+    "published": "Wed, 18 Feb 2026 22:05:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a critical security flaw in the Grandstream GXP1600 series of VoIP phones that could allow an attacker to seize control of susceptible devices.\nThe vulnerability, tracked as CVE-2026-2329, carries a CVSS score of 9.3 out of a maximum of 10.0. It has been described as a case of unauthenticated stack-based buffer overflow that could result in remote code",
+    "analysis": {
+      "issue": "Critical CVE-2026-2329 flaw in Grandstream GXP1600 VoIP phones enables unauthenticated RCE, call interception, and credential theft",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-2329"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs",
     "link": "https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html",
     "published": "Wed, 18 Feb 2026 18:46:00 +0530",
@@ -167,20 +188,60 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
-    "link": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html",
-    "published": "Tue, 17 Feb 2026 18:12:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new SmartLoader campaign that involves distributing a trojanized version of a Model Context Protocol (MCP) server associated with Oura Health to deliver an information stealer known as StealC.\n\"The threat actors cloned a legitimate Oura MCP Server – a tool that connects AI assistants to Oura Ring health data – and built a deceptive",
+    "source": "Bleeping Computer",
+    "title": "Telegram channels expose rapid weaponization of SmarterMail flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/",
+    "published": "Wed, 18 Feb 2026 11:27:38 -0500",
+    "summary": "Underground Telegram channels shared SmarterMail exploit PoCs and stolen admin credentials within days of disclosure. Flare explains how monitoring these communities reveals rapid weaponization of CVE-2026-24423 and CVE-2026-23760 tied to ransomware activity. [...]",
     "analysis": {
-      "issue": "SmartLoader campaign spreading StealC via a trojanized Oura MCP server using fake GitHub forks to steal credentials and crypto funds",
+      "issue": "Flare researchers monitoring underground Telegram channels and cybercrime forums have observed threat actors rapidly sharing proof-of-concept exploits, offensive tools, and stolen administrator credentials related to recently disclosed SmarterMail vu",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-23760",
+        "CVE-2026-24423"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/",
+    "published": "Wed, 18 Feb 2026 11:26:53 -0500",
+    "summary": "Microsoft says an Exchange Online issue that mistakenly quarantined legitimate emails last week was triggered by faulty heuristic detection rules designed to block credential phishing campaigns. [...]",
+    "analysis": {
+      "issue": "Microsoft says an Exchange Online issue that mistakenly quarantined legitimate emails last week was triggered by faulty heuristic detection rules designed to block credential phishing campaigns",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Data breach at fintech firm Figure affects nearly 1 million accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/",
+    "published": "Wed, 18 Feb 2026 09:01:08 -0500",
+    "summary": "Hackers have stolen the personal and contact information of nearly 1 million accounts after breaching the systems of Figure Technology Solutions, a self-described blockchain-native financial technology company. [...]",
+    "analysis": {
+      "issue": "Hackers have stolen the personal and contact information of nearly 1 million accounts after breaching the systems of Figure Technology Solutions, a self-described blockchain-native financial technology company",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Data Breach"
       ]
     }
   },
@@ -251,9 +312,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-65716",
+        "CVE-2025-65715",
         "CVE-2025-65717",
-        "CVE-2025-65715"
+        "CVE-2025-65716"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -318,61 +379,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "What 5 Million Apps Revealed About Secrets in JavaScript",
-    "link": "https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/",
-    "published": "Tue, 17 Feb 2026 09:40:49 -0500",
-    "summary": "Leaked API keys are nothing new, but the scale of the problem in front-end code has been largely a mystery - until now. Intruder's research team built a new secrets detection method and scanned 5 million applications specifically looking for secrets hidden in JavaScript bundles. Here's what we learned. [...]",
-    "analysis": {
-      "issue": "Leaked API keys are nothing new, but the scale of the problem in front-end code has been largely a mystery - until now",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Keenadu backdoor found in Android firmware, Google Play apps",
-    "link": "https://www.bleepingcomputer.com/news/security/new-keenadu-backdoor-found-in-android-firmware-google-play-apps/",
-    "published": "Tue, 17 Feb 2026 09:05:25 -0500",
-    "summary": "A newly discovered and sophisticated Android malware called Keenadu has been found embedded in firmware from multiple device brands, enabling it to compromise all installed applications and gain unrestricted control over infected devices. [...]",
-    "analysis": {
-      "issue": "A newly discovered and sophisticated Android malware called Keenadu has been found embedded in firmware from multiple device brands, enabling it to compromise all installed applications and gain unrestricted control over infected devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Poland arrests suspect linked to Phobos ransomware operation",
-    "link": "https://www.bleepingcomputer.com/news/security/poland-arrests-suspect-linked-to-phobos-ransomware-operation/",
-    "published": "Tue, 17 Feb 2026 06:31:37 -0500",
-    "summary": "Polish police have detained a 47-year-old man suspected of ties to the Phobos ransomware group and seized computers and mobile phones containing stolen credentials, credit card numbers, and server access data. [...]",
-    "analysis": {
-      "issue": "Polish police have detained a 47-year-old man suspected of ties to the Phobos ransomware group and seized computers and mobile phones containing stolen credentials, credit card numbers, and server access data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
     "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
@@ -404,16 +410,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21516",
-        "CVE-2026-21509",
-        "CVE-2026-21510",
-        "CVE-2026-21525",
-        "CVE-2026-21519",
-        "CVE-2026-21256",
-        "CVE-2026-21523",
-        "CVE-2026-21513",
         "CVE-2026-21533",
-        "CVE-2026-21514"
+        "CVE-2026-21513",
+        "CVE-2026-21256",
+        "CVE-2026-21519",
+        "CVE-2026-21525",
+        "CVE-2026-21514",
+        "CVE-2026-21510",
+        "CVE-2026-21523",
+        "CVE-2026-21516",
+        "CVE-2026-21509"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -491,9 +497,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20952",
+        "CVE-2026-20805",
         "CVE-2026-20953",
-        "CVE-2026-20805"
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -578,6 +584,20 @@
   },
   {
     "source": "Security Week",
+    "title": "New Keenadu Android Malware Found on Thousands of Devices",
+    "link": "https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/",
+    "published": "Wed, 18 Feb 2026 15:41:25 +0000",
+    "summary": "<p>The malware has been preinstalled on many devices but it has also been distributed through Google Play and other app stores.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/\">New Keenadu Android Malware Found on Thousands of Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Cogent Security Raises $42 Million for AI-Driven Vulnerability Management",
+    "link": "https://www.securityweek.com/cogent-security-raises-42-million-for-ai-driven-vulnerability-management/",
+    "published": "Wed, 18 Feb 2026 14:47:07 +0000",
+    "summary": "<p>The Series A funding round, led by Bain Capital, brings the total raised by Cogent to $53 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/cogent-security-raises-42-million-for-ai-driven-vulnerability-management/\">Cogent Security Raises $42 Million for AI-Driven Vulnerability Management</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Vulnerabilities in Popular PDF Platforms Allowed Account Takeover, Data Exfiltration",
     "link": "https://www.securityweek.com/vulnerabilities-in-popular-pdf-platforms-allowed-account-takeover-data-exfiltration/",
     "published": "Wed, 18 Feb 2026 13:16:19 +0000",
@@ -642,20 +662,6 @@
     "link": "https://www.securityweek.com/cyber-insights-2026-the-ongoing-fight-to-secure-industrial-control-systems/",
     "published": "Tue, 17 Feb 2026 14:00:00 +0000",
     "summary": "<p>As nation-state actors, ransomware groups, and aging infrastructure collide, organizations must rethink how they defend critical operations through resilience, visibility, and modern security strategies.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyber-insights-2026-the-ongoing-fight-to-secure-industrial-control-systems/\">Cyber Insights 2026: The Ongoing Fight to Secure Industrial Control Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Man Linked to Phobos Ransomware Arrested in Poland",
-    "link": "https://www.securityweek.com/man-linked-to-phobos-ransomware-arrested-in-poland/",
-    "published": "Tue, 17 Feb 2026 12:54:34 +0000",
-    "summary": "<p>Polish police said they found evidence of cybercrime on the 47-year-old suspect’s devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/man-linked-to-phobos-ransomware-arrested-in-poland/\">Man Linked to Phobos Ransomware Arrested in Poland</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "3 Threat Groups Started Targeting ICS/OT in 2025: Dragos",
-    "link": "https://www.securityweek.com/3-threat-groups-started-targeting-ics-ot-in-2025-dragos/",
-    "published": "Tue, 17 Feb 2026 11:05:26 +0000",
-    "summary": "<p>Industrial cybersecurity firm Dragos has published its 9th Year in Review OT/ICS Cybersecurity Report.</p>\n<p>The post <a href=\"https://www.securityweek.com/3-threat-groups-started-targeting-ics-ot-in-2025-dragos/\">3 Threat Groups Started Targeting ICS/OT in 2025: Dragos </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -744,13 +750,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-23655",
-        "CVE-2026-21510",
+        "CVE-2026-21513",
         "CVE-2026-21525",
         "CVE-2026-21519",
-        "CVE-2026-21513",
         "CVE-2026-21514",
-        "CVE-2026-21522"
+        "CVE-2026-21510",
+        "CVE-2026-21522",
+        "CVE-2026-23655"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -844,6 +850,24 @@
       "cause": null,
       "timeline": null,
       "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "GrayCharlie Hijacks Law Firm Sites in Suspected Supply-Chain Attack",
+    "link": "https://www.recordedfuture.com/research/graycharlie-hijacks-law-firm-sites-suspected-supply-chain-attack",
+    "published": "Wed, 18 Feb 2026 00:00:00 GMT",
+    "summary": "GrayCharlie turns compromised WordPress sites into malware delivery machines. Discover how this threat actor chains fake browser updates and ClickFix lures to deploy NetSupport RAT, Stealc, and SectopRAT.",
+    "analysis": {
+      "issue": "GrayCharlie turns compromised WordPress sites into malware delivery machines",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "Malware"
@@ -1010,26 +1034,6 @@
       "cves": [],
       "threat_categories": [
         "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "December 2025 CVE Landscape: 22 Critical Vulnerabilities Mark 120% Surge, React2Shell Dominates Threat Activity",
-    "link": "https://www.recordedfuture.com/blog/december-2025-cve-landscape",
-    "published": "Tue, 13 Jan 2026 00:00:00 GMT",
-    "summary": "December 2025 saw a 120% surge in critical CVEs, with 22 exploited flaws and React2Shell (CVE-2025-55182) dominating threat activity across Meta’s React framework.",
-    "analysis": {
-      "issue": "December 2025 saw a 120% surge in critical CVEs, with 22 exploited flaws and React2Shell (CVE-2025-55182) dominating threat activity across Meta’s React framework",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-55182"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1231,6 +1235,26 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Betterment data breach might be worse than we thought",
+    "link": "https://www.malwarebytes.com/blog/news/2026/02/betterment-data-breach-might-be-worse-than-we-thought",
+    "published": "Wed, 18 Feb 2026 17:09:02 GMT",
+    "summary": "This breach now appears far more serious. The leaked data includes rich personal and financial details that phishers could use.",
+    "analysis": {
+      "issue": "Betterment LLC is an investment advisor registered with US Securities and Exchange Commission (SEC)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Job scam uses fake Google Forms site to harvest Google logins",
     "link": "https://www.malwarebytes.com/blog/scams/2026/02/job-scam-uses-fake-google-forms-site-to-harvest-google-logins",
     "published": "Wed, 18 Feb 2026 12:22:22 GMT",
@@ -1395,20 +1419,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Fake shops target Winter Olympics 2026 fans",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/02/fake-shops-target-winter-olympics-2026-fans",
-    "published": "Fri, 13 Feb 2026 09:00:02 GMT",
-    "summary": "Olympic merchandise is already being used as bait. We’ve identified nearly 20 fake shop sites targeting fans globally.",
+    "source": "Crowdstrike Blog",
+    "title": "Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge",
+    "link": "https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/",
+    "published": "Feb 18, 2026 00:00:00-0600",
+    "summary": "",
     "analysis": {
-      "issue": "If you’ve seen the two stoat siblings serving as official mascots of the Milano Cortina 2026 Winter Olympics, you already know Tina and Milo are irresistible",
+      "issue": "A new hands-on AI security challenge, designed to improve understanding of prompt injection attacks, is now available",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "APT"
+        "General Security"
       ]
     }
   },
@@ -1571,24 +1595,6 @@
       "cves": [],
       "threat_categories": [
         "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data",
-    "link": "https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/",
-    "published": "Feb 02, 2026 00:00:00-0800",
-    "summary": "",
-    "analysis": {
-      "issue": "Leaders at WEX, Med Center Health, and Genesys share how they're using CrowdStrike to secure AI systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   }
