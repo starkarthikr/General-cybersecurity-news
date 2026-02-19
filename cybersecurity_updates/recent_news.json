@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody",
+    "link": "https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html",
+    "published": "Wed, 18 Feb 2026 23:00:00 +0530",
+    "summary": "New research from the Citizen Lab has found signs that Kenyan authorities used a commercial forensic extraction tool manufactured by Israeli company Cellebrite to break into a prominent dissident's phone, making it the latest case of abuse of the technology targeting civil society.\nThe interdisciplinary research unit at the University of Toronto's Munk School of Global Affairs &amp; Public",
+    "analysis": {
+      "issue": "Citizen Lab and Amnesty link Cellebrite extractions and Predator spyware to surveillance of activists and journalists",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution",
     "link": "https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html",
     "published": "Wed, 18 Feb 2026 22:05:00 +0530",
@@ -170,19 +188,40 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates",
-    "link": "https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html",
-    "published": "Tue, 17 Feb 2026 22:11:00 +0530",
-    "summary": "A new Android backdoor that's embedded deep into the device firmware can silently harvest data and remotely control its behavior, according to new findings from Kaspersky.\nThe Russian cybersecurity vendor said it discovered the backdoor, dubbed Keenadu, in the firmware of devices associated with various brands, including Alldocube, with the compromise occurring during the firmware build phase.",
+    "source": "Bleeping Computer",
+    "title": "Critical infra Honeywell CCTVs vulnerable to auth bypass flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/",
+    "published": "Wed, 18 Feb 2026 15:58:20 -0500",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a critical vulnerability in multiple Honeywell CCTV products that allows unauthorized access to feeds or account hijacking. [...]",
     "analysis": {
-      "issue": "Keenadu firmware backdoor infects Android tablets via signed OTA updates, enabling remote control, ad fraud, and data theft across 13,715 devices",
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) is warning of a critical vulnerability in multiple Honeywell CCTV products that allows unauthorized access to feeds or account hijacking",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-1670"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "AI platforms can be abused for stealthy malware communication",
+    "link": "https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/",
+    "published": "Wed, 18 Feb 2026 15:18:24 -0500",
+    "summary": "AI assistants like Grok and Microsoft Copilot with web browsing and URL-fetching capabilities can be abused to intermediate command-and-control (C2) activity. [...]",
+    "analysis": {
+      "issue": "AI assistants like Grok and Microsoft Copilot with web browsing and URL-fetching capabilities can be abused to intermediate command-and-control (C2) activity",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
+        "Vulnerability",
         "Malware"
       ]
     }
@@ -200,8 +239,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-23760",
-        "CVE-2026-24423"
+        "CVE-2026-24423",
+        "CVE-2026-23760"
       ],
       "threat_categories": [
         "Ransomware",
@@ -343,42 +382,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Notepad++ boosts update security with ‘double-lock’ mechanism",
-    "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/",
-    "published": "Tue, 17 Feb 2026 13:29:18 -0500",
-    "summary": "Notepad++ has adopted a \"double-lock\" design for its update mechanism to address recently exploited security gaps that resulted in a supply-chain compromise. [...]",
-    "analysis": {
-      "issue": "Notepad++ has adopted a “double-lock” design for its update mechanism to address recently exploited security gaps that resulted in a supply-chain compromise",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Teams outage affects users in United States, Europe",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/",
-    "published": "Tue, 17 Feb 2026 10:37:45 -0500",
-    "summary": "​Microsoft is working to resolve an ongoing outage affecting Microsoft Teams users, causing delays and preventing some from accessing the service. [...]",
-    "analysis": {
-      "issue": "​Microsoft is working to resolve an ongoing outage affecting Microsoft Teams users, causing delays and preventing some from accessing the service",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
     "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
@@ -410,16 +413,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21533",
         "CVE-2026-21513",
-        "CVE-2026-21256",
         "CVE-2026-21519",
-        "CVE-2026-21525",
-        "CVE-2026-21514",
-        "CVE-2026-21510",
-        "CVE-2026-21523",
         "CVE-2026-21516",
-        "CVE-2026-21509"
+        "CVE-2026-21525",
+        "CVE-2026-21510",
+        "CVE-2026-21509",
+        "CVE-2026-21256",
+        "CVE-2026-21514",
+        "CVE-2026-21533",
+        "CVE-2026-21523"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -751,11 +754,11 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-21513",
-        "CVE-2026-21525",
         "CVE-2026-21519",
-        "CVE-2026-21514",
+        "CVE-2026-21525",
         "CVE-2026-21510",
         "CVE-2026-21522",
+        "CVE-2026-21514",
         "CVE-2026-23655"
       ],
       "threat_categories": [
@@ -1204,8 +1207,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1420,24 +1423,6 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge",
-    "link": "https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/",
-    "published": "Feb 18, 2026 00:00:00-0600",
-    "summary": "",
-    "analysis": {
-      "issue": "A new hands-on AI security challenge, designed to improve understanding of prompt injection attacks, is now available",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
     "title": "CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/",
     "published": "Feb 12, 2026 00:00:00-0600",
@@ -1595,6 +1580,24 @@
       "cves": [],
       "threat_categories": [
         "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data",
+    "link": "https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/",
+    "published": "Feb 02, 2026 00:00:00-0800",
+    "summary": "",
+    "analysis": {
+      "issue": "Leaders at WEX, Med Center Health, and Genesys share how they're using CrowdStrike to secure AI systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   }
