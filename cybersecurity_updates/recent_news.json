@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware",
+    "link": "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html",
+    "published": "Thu, 19 Feb 2026 13:43:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed CRESCENTHARVEST, likely targeting supporters of Iran's ongoing protests to conduct information theft and long-term espionage.\nThe Acronis Threat Research Unit (TRU) said it observed the activity after January 9, with the attacks designed to deliver a malicious payload that serves as a remote access trojan (RAT) and",
+    "analysis": {
+      "issue": "CRESCENTHARVEST uses protest lures and malicious LNK files to deploy RAT malware targeting Iran protest supporters for espionage and data theft",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody",
     "link": "https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html",
     "published": "Wed, 18 Feb 2026 23:00:00 +0530",
@@ -170,24 +188,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
-    "link": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html",
-    "published": "Tue, 17 Feb 2026 23:38:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed that artificial intelligence (AI) assistants that support web browsing or URL fetching capabilities can be turned into stealthy command-and-control (C2) relays, a technique that could allow attackers to blend into legitimate enterprise communications and evade detection.\nThe attack method, which has been demonstrated against Microsoft Copilot and xAI Grok",
-    "analysis": {
-      "issue": "Researchers show AI assistants can act as stealth C2 proxies, enabling malware communication, evasion, and runtime attack automation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Critical infra Honeywell CCTVs vulnerable to auth bypass flaw",
     "link": "https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/",
@@ -239,8 +239,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24423",
-        "CVE-2026-23760"
+        "CVE-2026-23760",
+        "CVE-2026-24423"
       ],
       "threat_categories": [
         "Ransomware",
@@ -351,9 +351,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-65715",
+        "CVE-2025-65716",
         "CVE-2025-65717",
-        "CVE-2025-65716"
+        "CVE-2025-65715"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -377,93 +377,6 @@
       ],
       "threat_categories": [
         "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-    "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-    "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-    "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
-    "analysis": {
-      "issue": "For the past week, the massive “Internet of Things” (IoT) botnet known as Kimwolf has been disrupting The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Patch Tuesday, February 2026 Edition",
-    "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-    "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-    "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-    "analysis": {
-      "issue": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six “zero-day” vulnerabilities that attackers are already exploiting in the wild",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-21256",
-        "CVE-2026-21533",
-        "CVE-2026-21525",
-        "CVE-2026-21516",
-        "CVE-2026-21519",
-        "CVE-2026-21523",
-        "CVE-2026-21509",
-        "CVE-2026-21513",
-        "CVE-2026-21510",
-        "CVE-2026-21514"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-    "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-    "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-    "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
-    "analysis": {
-      "issue": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifyi",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing",
-        "APT",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Who Operates the Badbox 2.0 Botnet?",
-    "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-    "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-    "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-    "analysis": {
-      "issue": "The cybercriminals in control of Kimwolf — a disruptive botnet that has infected more than 2 million devices — recently shared a screenshot indicating they’d compromised the control panel for Badbox 2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
         "Malware"
       ]
     }
@@ -500,8 +413,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20952",
         "CVE-2026-20953",
+        "CVE-2026-20952",
         "CVE-2026-20805"
       ],
       "threat_categories": [
@@ -582,6 +495,89 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Most Parked Domains Now Serving Malicious Content",
+    "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+    "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+    "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+    "analysis": {
+      "issue": "Direct navigation — the act of visiting a website by manually typing a domain name in a web browser — has never been riskier: A new study finds the vast majority of “parked” domains — mostly expired or dormant domain names, or common misspellings of ",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Microsoft Patch Tuesday, December 2025 Edition",
+    "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+    "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+    "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+    "analysis": {
+      "issue": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-62458",
+        "CVE-2025-62221",
+        "CVE-2025-62557",
+        "CVE-2025-62554",
+        "CVE-2025-62470",
+        "CVE-2025-59516",
+        "CVE-2025-59517",
+        "CVE-2025-62472",
+        "CVE-2025-62562"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+    "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+    "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+    "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
+    "analysis": {
+      "issue": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious ties to a Kremlin-connected oligarch whose Russian university builds drones for Russia’s war against Ukraine",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+    "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+    "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+    "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+    "analysis": {
+      "issue": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-co",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
       ]
     }
   },
@@ -753,13 +749,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21514",
-        "CVE-2026-21525",
-        "CVE-2026-21519",
         "CVE-2026-23655",
-        "CVE-2026-21510",
+        "CVE-2026-21525",
+        "CVE-2026-21514",
+        "CVE-2026-21519",
         "CVE-2026-21522",
-        "CVE-2026-21513"
+        "CVE-2026-21513",
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1207,8 +1203,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1423,6 +1419,42 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge",
+    "link": "https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/",
+    "published": "Feb 18, 2026 00:00:00-0600",
+    "summary": "",
+    "analysis": {
+      "issue": "A new hands-on AI security challenge, designed to improve understanding of prompt injection attacks, is now available",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "Exposing Insider Threats through Data Protection, Identity, and HR Context",
+    "link": "https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/",
+    "published": "Feb 18, 2026 00:00:00-0600",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn about CrowdStrike Falcon dashboard features that can detect insider threats and how customers can leverage this tool",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/",
     "published": "Feb 12, 2026 00:00:00-0600",
@@ -1555,42 +1587,6 @@
     "summary": "",
     "analysis": {
       "issue": "CrowdStrike was named a Customers’ Choice in the 2026 Gartner Peer Insights Voice of the Customer for Application Security Posture Management Tools",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Falcon Scores Perfect 100% in SE Labs&rsquo; Most Challenging Ransomware Test",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-scores-100-percent-in-se-labs-ransomware-test/",
-    "published": "Feb 03, 2026 00:00:00-0800",
-    "summary": "",
-    "analysis": {
-      "issue": "The CrowdStrike Falcon scored a perfect 100% detection, protection, and accuracy in SE Labs’ most challenging ransomware test",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data",
-    "link": "https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/",
-    "published": "Feb 02, 2026 00:00:00-0800",
-    "summary": "",
-    "analysis": {
-      "issue": "Leaders at WEX, Med Center Health, and Genesys share how they're using CrowdStrike to secure AI systems",
       "solution": null,
       "cause": null,
       "timeline": null,

@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-19 03:22:43 UTC
+**Last Updated:** 2026-02-19 09:11:52 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody](https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html)
+### 1. [CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware](https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 19 Feb 2026 13:43:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody](https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 23:00:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution](https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html)
+### 3. [Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution](https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 22:05:00 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs](https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html)
+### 4. [Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs](https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 18:46:00 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability](https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html)
+### 5. [Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability](https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 17:28:00 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024](https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html)
+### 6. [Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024](https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 16:02:00 +0530  
@@ -51,7 +60,7 @@
 
 ---
 
-### 6. [3 Ways to Start Your Intelligent Workflow Program](https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html)
+### 7. [3 Ways to Start Your Intelligent Workflow Program](https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 16:00:00 +0530  
@@ -60,7 +69,7 @@
 
 ---
 
-### 7. [Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware](https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html)
+### 8. [Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware](https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 13:10:00 +0530  
@@ -69,7 +78,7 @@
 
 ---
 
-### 8. [CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update](https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html)
+### 9. [CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update](https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 12:22:00 +0530  
@@ -78,21 +87,12 @@
 
 ---
 
-### 9. [Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html)
+### 10. [Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 00:38:00 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 10. [Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies](https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 17 Feb 2026 23:38:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -120,7 +120,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Feb 2026 11:27:38 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24423, CVE-2026-23760  
+**CVEs:** CVE-2026-23760, CVE-2026-24423  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -175,7 +175,7 @@
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Feb 2026 16:27:12 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2025-65715, CVE-2025-65717, CVE-2025-65716  
+**CVEs:** CVE-2025-65716, CVE-2025-65717, CVE-2025-65715  
 **Categories:** Vulnerability  
 
 ---
@@ -190,44 +190,7 @@
 
 ---
 
-### 21. [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
-
-**Source:** Krebs On Security  
-**Published:** Wed, 11 Feb 2026 16:08:11 +0000  
-**Severity:** Low  
-**Categories:** Malware, DDoS  
-
----
-
-### 22. [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
-
-**Source:** Krebs On Security  
-**Published:** Tue, 10 Feb 2026 21:49:53 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-21256, CVE-2026-21533, CVE-2026-21525, CVE-2026-21516, CVE-2026-21519, CVE-2026-21523, CVE-2026-21509, CVE-2026-21513, CVE-2026-21510, CVE-2026-21514  
-**Categories:** Vulnerability  
-
----
-
-### 23. [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
-
-**Source:** Krebs On Security  
-**Published:** Mon, 02 Feb 2026 16:15:16 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Phishing, APT, DDoS  
-
----
-
-### 24. [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
-
-**Source:** Krebs On Security  
-**Published:** Mon, 26 Jan 2026 16:11:38 +0000  
-**Severity:** High  
-**Categories:** Malware  
-
----
-
-### 25. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
+### 21. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 20 Jan 2026 18:19:13 +0000  
@@ -236,17 +199,17 @@
 
 ---
 
-### 26. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
+### 22. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20805  
+**CVEs:** CVE-2026-20953, CVE-2026-20952, CVE-2026-20805  
 **Categories:** Vulnerability  
 
 ---
 
-### 27. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
+### 23. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 08 Jan 2026 23:23:43 +0000  
@@ -255,7 +218,7 @@
 
 ---
 
-### 28. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+### 24. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 02 Jan 2026 14:20:10 +0000  
@@ -264,7 +227,7 @@
 
 ---
 
-### 29. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+### 25. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 29 Dec 2025 20:23:26 +0000  
@@ -273,12 +236,49 @@
 
 ---
 
-### 30. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+### 26. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 19 Dec 2025 15:14:55 +0000  
 **Severity:** High  
 **Categories:** General Security  
+
+---
+
+### 27. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+
+**Source:** Krebs On Security  
+**Published:** Tue, 16 Dec 2025 14:14:48 +0000  
+**Severity:** High  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 28. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+
+**Source:** Krebs On Security  
+**Published:** Tue, 09 Dec 2025 23:18:29 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2025-62458, CVE-2025-62221, CVE-2025-62557, CVE-2025-62554, CVE-2025-62470, CVE-2025-59516, CVE-2025-59517, CVE-2025-62472, CVE-2025-62562  
+**Categories:** Vulnerability  
+
+---
+
+### 29. [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
+
+**Source:** Krebs On Security  
+**Published:** Sat, 06 Dec 2025 14:45:03 +0000  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 30. [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
+
+**Source:** Krebs On Security  
+**Published:** Thu, 04 Dec 2025 23:02:34 +0000  
+**Severity:** Low  
+**Categories:** Phishing  
 
 ---
 
@@ -395,7 +395,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21514, CVE-2026-21525, CVE-2026-21519, CVE-2026-23655, CVE-2026-21510, CVE-2026-21522, CVE-2026-21513  
+**CVEs:** CVE-2026-23655, CVE-2026-21525, CVE-2026-21514, CVE-2026-21519, CVE-2026-21522, CVE-2026-21513, CVE-2026-21510  
 **Categories:** Vulnerability  
 
 ---
@@ -616,7 +616,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -722,7 +722,25 @@
 
 ---
 
-### 81. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/)
+### 81. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Feb 18, 2026 00:00:00-0600  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [Exposing Insider Threats through Data Protection, Identity, and HR Context](https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Feb 18, 2026 00:00:00-0600  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 83. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 12, 2026 00:00:00-0600  
@@ -731,7 +749,7 @@
 
 ---
 
-### 82. [How to Scale SOC Automation with Falcon Fusion SOAR](https://www.crowdstrike.com/en-us/blog/how-to-scale-soc-automation-with-falcon-fusion-soar/)
+### 84. [How to Scale SOC Automation with Falcon Fusion SOAR](https://www.crowdstrike.com/en-us/blog/how-to-scale-soc-automation-with-falcon-fusion-soar/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 11, 2026 00:00:00-0600  
@@ -740,7 +758,7 @@
 
 ---
 
-### 83. [Inside the Human-AI Feedback Loop Powering CrowdStrike&rsquo;s Agentic Security](https://www.crowdstrike.com/en-us/blog/inside-the-human-ai-feedback-loop-powering-crowdstrike-agentic-security/)
+### 85. [Inside the Human-AI Feedback Loop Powering CrowdStrike&rsquo;s Agentic Security](https://www.crowdstrike.com/en-us/blog/inside-the-human-ai-feedback-loop-powering-crowdstrike-agentic-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 10, 2026 00:00:00-0600  
@@ -749,7 +767,7 @@
 
 ---
 
-### 84. [February 2026 Patch Tuesday: Six Zero-Days Among 59 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-february-2026/)
+### 86. [February 2026 Patch Tuesday: Six Zero-Days Among 59 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-february-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 10, 2026 00:00:00-0600  
@@ -758,7 +776,7 @@
 
 ---
 
-### 85. [CrowdStrike Is the Only Vendor to Be Named a Customers&rsquo; Choice in 2025 Gartner&reg; Voice of the Customer for External Attack Surface Management](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-only-customers-choice-2025-gartner-voice-of-the-customer-easm/)
+### 87. [CrowdStrike Is the Only Vendor to Be Named a Customers&rsquo; Choice in 2025 Gartner&reg; Voice of the Customer for External Attack Surface Management](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-only-customers-choice-2025-gartner-voice-of-the-customer-easm/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 09, 2026 00:00:00-0600  
@@ -767,7 +785,7 @@
 
 ---
 
-### 86. [Advanced Web Shell Detection and Prevention: A Deep Dive into CrowdStrike's Linux Sensor Capabilities](https://www.crowdstrike.com/en-us/blog/advanced-web-shell-detection-and-prevention/)
+### 88. [Advanced Web Shell Detection and Prevention: A Deep Dive into CrowdStrike's Linux Sensor Capabilities](https://www.crowdstrike.com/en-us/blog/advanced-web-shell-detection-and-prevention/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 05, 2026 00:00:00-0600  
@@ -776,7 +794,7 @@
 
 ---
 
-### 87. [What Security Teams Need to Know About OpenClaw, the AI Super Agent](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
+### 89. [What Security Teams Need to Know About OpenClaw, the AI Super Agent](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 04, 2026 00:00:00-0800  
@@ -785,28 +803,10 @@
 
 ---
 
-### 88. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/)
+### 90. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 03, 2026 00:00:00-0800  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 89. [CrowdStrike Falcon Scores Perfect 100% in SE Labs&rsquo; Most Challenging Ransomware Test](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-scores-100-percent-in-se-labs-ransomware-test/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Feb 03, 2026 00:00:00-0800  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 90. [Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data](https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Feb 02, 2026 00:00:00-0800  
 **Severity:** Low  
 **Categories:** General Security  
 
