@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "From Exposure to Exploitation: How AI Collapses Your Response Window",
+    "link": "https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html",
+    "published": "Thu, 19 Feb 2026 17:25:00 +0530",
+    "summary": "We’ve all seen this before: a developer deploys a new cloud workload and grants overly broad permissions just to keep the sprint moving. An engineer generates a \"temporary\" API key for testing and forgets to revoke it. In the past, these were minor operational risks, debts you’d eventually pay down during a slower cycle.\nIn 2026, “Eventually” is Now\nBut today, within minutes, AI-powered",
+    "analysis": {
+      "issue": "AI compresses cyberattack timelines—32% of flaws exploited day-zero, phishing up 1,265%, forcing shift to CTEM defense models",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users",
+    "link": "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html",
+    "published": "Thu, 19 Feb 2026 15:54:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new Android trojan called Massiv that's designed to facilitate device takeover (DTO) attacks for financial theft.\nThe malware, according to ThreatFabric, masquerades as seemingly harmless IPTV apps to deceive victims, indicating that the activity is primarily singling out users looking for the online TV applications.\n\"This new threat, while",
+    "analysis": {
+      "issue": "Massiv Android trojan hides in fake IPTV apps, enabling remote device control, credential theft, and fraudulent banking transactions via DTO attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware",
     "link": "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html",
     "published": "Thu, 19 Feb 2026 13:43:00 +0530",
@@ -152,38 +190,75 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update",
-    "link": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html",
-    "published": "Wed, 18 Feb 2026 12:22:00 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe list of vulnerabilities is as follows -\n\nCVE-2026-2441 (CVSS score: 8.8) - A use-after-free vulnerability in Google Chrome that could allow a remote attacker to potentially exploit heap",
+    "source": "Bleeping Computer",
+    "title": "Texas sues TP-Link over Chinese hacking risks, user deception",
+    "link": "https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/",
+    "published": "Thu, 19 Feb 2026 07:36:51 -0500",
+    "summary": "Texas sued networking giant TP-Link Systems, accusing the company of deceptively marketing its routers as secure while allowing Chinese state-backed hackers to exploit firmware vulnerabilities and access users' devices. [...]",
     "analysis": {
-      "issue": "CISA adds four actively exploited vulnerabilities to its KEV catalog, including Chrome RCE, Zimbra SSRF, Windows ActiveX, and ThreatSonar flaws",
+      "issue": "Texas sued networking giant TP-Link Systems, accusing the company of deceptively marketing its routers as secure while allowing Chinese state-backed hackers to exploit firmware vulnerabilities and access users' devices",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
-    "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
-    "published": "Wed, 18 Feb 2026 00:38:00 +0530",
-    "summary": "Cloud attacks move fast — faster than most incident response teams.\nIn data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compromised instance can disappear in minutes. Identities rotate. Logs expire. Evidence can vanish before analysis even begins.\nCloud forensics is fundamentally",
+    "source": "Bleeping Computer",
+    "title": "Hackers target Microsoft Entra accounts in device code vishing attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/",
+    "published": "Thu, 19 Feb 2026 07:30:37 -0500",
+    "summary": "Threat actors are targeting technology, manufacturing, and financial organizations in campaigns that combine device code phishing and voice phishing (vishing) to abuse the OAuth 2.0 Device Authorization flow and compromise Microsoft Entra accounts. [...]",
     "analysis": {
-      "issue": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "issue": "Threat actors are targeting technology, manufacturing, and financial organizations in campaigns that combine device code phishing and voice phishing (vishing) to abuse the OAuth 2",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Police arrests 651 suspects in African cybercrime crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/police-arrests-651-suspects-in-african-cybercrime-crackdown/",
+    "published": "Thu, 19 Feb 2026 06:24:17 -0500",
+    "summary": "African authorities arrested 651 suspects and recovered over $4.3 million in a joint operation targeting investment fraud, mobile money scams, and fake loan applications. [...]",
+    "analysis": {
+      "issue": "African law enforcement agencies arrested 651 suspects and recovered over $4",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New 'Massiv' Android banking malware poses as an IPTV app",
+    "link": "https://www.bleepingcomputer.com/news/security/new-massiv-android-banking-malware-poses-as-an-iptv-app/",
+    "published": "Thu, 19 Feb 2026 05:00:00 -0500",
+    "summary": "A newly identified Android banking trojan named Massiv has been under active distribution across south Europe, disguised as an IPTV app. [...]",
+    "analysis": {
+      "issue": "A new Android banking malware, which researchers named Massiv, is posing as an IPTV app to steal digital identities and access online banking accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -239,8 +314,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-23760",
-        "CVE-2026-24423"
+        "CVE-2026-24423",
+        "CVE-2026-23760"
       ],
       "threat_categories": [
         "Ransomware",
@@ -303,85 +378,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Glendale man gets 5 years in prison for role in darknet drug ring",
-    "link": "https://www.bleepingcomputer.com/news/security/glendale-man-gets-5-years-in-prison-for-role-in-darknet-drug-trafficking-operation/",
-    "published": "Wed, 18 Feb 2026 05:50:50 -0500",
-    "summary": "​A Glendale man was sentenced to nearly five years in federal prison for his role in a darknet drug trafficking operation that sold cocaine, methamphetamine, MDMA, and ketamine to customers across the United States. [...]",
-    "analysis": {
-      "issue": "​A Glendale man was sentenced to nearly five years in federal prison for his role in a darknet drug trafficking operation that sold cocaine, methamphetamine, MDMA, and ketamine to customers across the United States",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites",
-    "link": "https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/",
-    "published": "Tue, 17 Feb 2026 18:15:49 -0500",
-    "summary": "A Spanish court has granted precautionary measures against NordVPN and ProtonVPN, ordering the two popular VPN providers to block 16 websites that facilitate piracy of football matches. [...]",
-    "analysis": {
-      "issue": "A Spanish court has granted precautionary measures against NordVPN and ProtonVPN, ordering the two popular VPN providers to block 16 websites that facilitate piracy of football matches",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Flaws in popular VSCode extensions expose developers to attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/",
-    "published": "Tue, 17 Feb 2026 16:27:12 -0500",
-    "summary": "Vulnerabilities with high to critical severity ratings affecting popular Visual Studio Code (VSCode) extensions collectively downloaded more than 128 million times could be exploited to steal local files and execute code remotely. [...]",
-    "analysis": {
-      "issue": "Vulnerabilities with high to critical severity ratings affecting popular Visual Studio Code (VSCode) extensions collectively downloaded more than 128 million times could be exploited to steal local files and execute code remotely",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-65716",
-        "CVE-2025-65717",
-        "CVE-2025-65715"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Chinese hackers exploiting Dell zero-day flaw since mid-2024",
-    "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/",
-    "published": "Tue, 17 Feb 2026 15:15:03 -0500",
-    "summary": "A suspected Chinese state-backed hacking group has been quietly exploiting a critical Dell security flaw in zero-day attacks that started in mid-2024. [...]",
-    "analysis": {
-      "issue": "A suspected Chinese state-backed hacking group has been quietly exploiting a critical Dell security flaw in zero-day attacks that started in mid-2024",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-22769"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
     "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -413,8 +409,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20953",
         "CVE-2026-20952",
+        "CVE-2026-20953",
         "CVE-2026-20805"
       ],
       "threat_categories": [
@@ -530,15 +526,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-62458",
-        "CVE-2025-62221",
-        "CVE-2025-62557",
-        "CVE-2025-62554",
-        "CVE-2025-62470",
         "CVE-2025-59516",
         "CVE-2025-59517",
-        "CVE-2025-62472",
-        "CVE-2025-62562"
+        "CVE-2025-62470",
+        "CVE-2025-62458",
+        "CVE-2025-62562",
+        "CVE-2025-62554",
+        "CVE-2025-62557",
+        "CVE-2025-62221",
+        "CVE-2025-62472"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -583,6 +579,41 @@
   },
   {
     "source": "Security Week",
+    "title": "Nearly 1 Million User Records Compromised in Figure Data Breach",
+    "link": "https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/",
+    "published": "Thu, 19 Feb 2026 13:19:08 +0000",
+    "summary": "<p>The blockchain-based lender has confirmed a data breach after ShinyHunters leaked over 2GB of data allegedly stolen from the company.</p>\n<p>The post <a href=\"https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/\">Nearly 1 Million User Records Compromised in Figure Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management",
+    "link": "https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/",
+    "published": "Thu, 19 Feb 2026 12:23:41 +0000",
+    "summary": "<p>Formerly named Valkyrie, the company’s funding includes $25 million raised in a Series A round. </p>\n<p>The post <a href=\"https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/\">Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Ivanti Exploitation Surges as Zero-Day Attacks Traced Back to July 2025",
+    "link": "https://www.securityweek.com/ivanti-exploitation-surges-as-zero-day-attacks-traced-back-to-july-2025/",
+    "published": "Thu, 19 Feb 2026 11:56:29 +0000",
+    "summary": "<p>Security researchers have seen the vulnerabilities being exploited to deliver shells, conduct reconnaissance, and download malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/ivanti-exploitation-surges-as-zero-day-attacks-traced-back-to-july-2025/\">Ivanti Exploitation Surges as Zero-Day Attacks Traced Back to July 2025</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenClaw Security Issues Continue as SecureClaw Open Source Tool Debuts",
+    "link": "https://www.securityweek.com/openclaw-security-issues-continue-as-secureclaw-open-source-tool-debuts/",
+    "published": "Thu, 19 Feb 2026 11:00:00 +0000",
+    "summary": "<p>OpenClaw faces security vulnerabilities and misconfiguration risks despite rapid patches and its transition to an OpenAI-backed foundation.</p>\n<p>The post <a href=\"https://www.securityweek.com/openclaw-security-issues-continue-as-secureclaw-open-source-tool-debuts/\">OpenClaw Security Issues Continue as SecureClaw Open Source Tool Debuts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "German Rail Giant Deutsche Bahn Hit by Large-Scale DDoS Attack",
+    "link": "https://www.securityweek.com/german-rail-giant-deutsche-bahn-hit-by-large-scale-ddos-attack/",
+    "published": "Thu, 19 Feb 2026 09:16:20 +0000",
+    "summary": "<p>The cyberattack disrupted information and booking systems and lasted for several hours. </p>\n<p>The post <a href=\"https://www.securityweek.com/german-rail-giant-deutsche-bahn-hit-by-large-scale-ddos-attack/\">German Rail Giant Deutsche Bahn Hit by Large-Scale DDoS Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "New Keenadu Android Malware Found on Thousands of Devices",
     "link": "https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/",
     "published": "Wed, 18 Feb 2026 15:41:25 +0000",
@@ -615,52 +646,6 @@
     "link": "https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/",
     "published": "Wed, 18 Feb 2026 08:24:46 +0000",
     "summary": "<p>Koi has developed an endpoint security solution that Palo Alto will use to enhance its products.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/\">Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Dell RecoverPoint Zero-Day Exploited by Chinese Cyberespionage Group",
-    "link": "https://www.securityweek.com/dell-recoverpoint-zero-day-exploited-by-chinese-cyberespionage-group/",
-    "published": "Wed, 18 Feb 2026 07:09:01 +0000",
-    "summary": "<p>GTIG and Mandiant said the zero-day tracked as CVE-2026-22769 has been exploited by UNC6201 since at least 2024.</p>\n<p>The post <a href=\"https://www.securityweek.com/dell-recoverpoint-zero-day-exploited-by-chinese-cyberespionage-group/\">Dell RecoverPoint Zero-Day Exploited by Chinese Cyberespionage Group</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "VulnCheck Raises $25 Million in Series B Funding to Scale Vulnerability Intelligence",
-    "link": "https://www.securityweek.com/vulncheck-raises-25-million-in-series-b-funding-to-scale-vulnerability-intelligence/",
-    "published": "Tue, 17 Feb 2026 16:00:04 +0000",
-    "summary": "<p>The latest funding round was led by Sorenson Capital and brings the total investment to $45 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulncheck-raises-25-million-in-series-b-funding-to-scale-vulnerability-intelligence/\">VulnCheck Raises $25 Million in Series B Funding to Scale Vulnerability Intelligence</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The latest funding round was led by Sorenson Capital and brings the total investment to $45 million",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Hackers Offer to Sell Millions of Eurail User Records",
-    "link": "https://www.securityweek.com/hackers-offer-to-sell-millions-of-eurail-user-records/",
-    "published": "Tue, 17 Feb 2026 15:27:12 +0000",
-    "summary": "<p>Eurail has confirmed that the stolen data is up for sale, but it’s still trying to determine how many individuals are impacted.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-offer-to-sell-millions-of-eurail-user-records/\">Hackers Offer to Sell Millions of Eurail User Records</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "API Threats Grow in Scale as AI Expands the Blast Radius",
-    "link": "https://www.securityweek.com/api-threats-grow-in-scale-as-ai-expands-the-blast-radius/",
-    "published": "Tue, 17 Feb 2026 14:00:00 +0000",
-    "summary": "<p>New research shows attackers increasingly abusing APIs at machine speed as AI-driven systems widen exposure and amplify impact.</p>\n<p>The post <a href=\"https://www.securityweek.com/api-threats-grow-in-scale-as-ai-expands-the-blast-radius/\">API Threats Grow in Scale as AI Expands the Blast Radius</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Cyber Insights 2026: The Ongoing Fight to Secure Industrial Control Systems",
-    "link": "https://www.securityweek.com/cyber-insights-2026-the-ongoing-fight-to-secure-industrial-control-systems/",
-    "published": "Tue, 17 Feb 2026 14:00:00 +0000",
-    "summary": "<p>As nation-state actors, ransomware groups, and aging infrastructure collide, organizations must rethink how they defend critical operations through resilience, visibility, and modern security strategies.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyber-insights-2026-the-ongoing-fight-to-secure-industrial-control-systems/\">Cyber Insights 2026: The Ongoing Fight to Secure Industrial Control Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -749,13 +734,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-23655",
-        "CVE-2026-21525",
+        "CVE-2026-21513",
+        "CVE-2026-21510",
         "CVE-2026-21514",
         "CVE-2026-21519",
+        "CVE-2026-21525",
         "CVE-2026-21522",
-        "CVE-2026-21513",
-        "CVE-2026-21510"
+        "CVE-2026-23655"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1203,8 +1188,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1229,6 +1214,43 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Intimate products producer Tenga spilled customer data",
+    "link": "https://www.malwarebytes.com/blog/news/2026/02/intimate-products-producer-tenga-spilled-customer-data",
+    "published": "Thu, 19 Feb 2026 11:48:35 GMT",
+    "summary": "A phishing attack on a Tenga employee may have exposed US customer data. Customers should watch for sextortion-themed phishing attempts.",
+    "analysis": {
+      "issue": "Tenga confirmed reports published by several outlets that the company notified customers of a data breach",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Meta patents AI that could keep you posting from beyond the grave",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/02/meta-patents-ai-that-could-keep-you-posting-from-beyond-the-grave",
+    "published": "Thu, 19 Feb 2026 11:16:32 GMT",
+    "summary": "Hopefully Meta really will file this in the \"just because we can do it doesn't mean we should\" drawer.",
+    "analysis": {
+      "issue": "Tech bros have been wanting to become immortal for years",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1378,42 +1400,6 @@
       "threat_categories": [
         "Malware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (February 9 &#8211; February 15)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-february-9-february-15",
-    "published": "Mon, 16 Feb 2026 08:02:00 GMT",
-    "summary": "A list of topics we covered in the week of February 9 to February 15 of 2026",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "How to find and remove credential-stealing Chrome extensions",
-    "link": "https://www.malwarebytes.com/blog/news/2026/02/how-to-find-and-remove-credential-stealing-chrome-extensions",
-    "published": "Fri, 13 Feb 2026 13:27:34 GMT",
-    "summary": "Researchers have uncovered 30 Chrome extensions stealing user data. Here’s how to check your browser and remove any malicious extensions step by step.",
-    "analysis": {
-      "issue": "Researchers have found yet another family of malicious extensions in the Chrome Web Store",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },

@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-19 09:11:52 UTC
+**Last Updated:** 2026-02-19 13:21:08 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware](https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html)
+### 1. [From Exposure to Exploitation: How AI Collapses Your Response Window](https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 19 Feb 2026 17:25:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 2. [Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users](https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 19 Feb 2026 15:54:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 3. [CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware](https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 19 Feb 2026 13:43:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody](https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html)
+### 4. [Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody](https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 23:00:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution](https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html)
+### 5. [Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution](https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 22:05:00 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs](https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html)
+### 6. [Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs](https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 18:46:00 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability](https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html)
+### 7. [Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability](https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 17:28:00 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024](https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html)
+### 8. [Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024](https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 16:02:00 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [3 Ways to Start Your Intelligent Workflow Program](https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html)
+### 9. [3 Ways to Start Your Intelligent Workflow Program](https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 16:00:00 +0530  
@@ -69,7 +87,7 @@
 
 ---
 
-### 8. [Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware](https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html)
+### 10. [Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware](https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 13:10:00 +0530  
@@ -78,25 +96,43 @@
 
 ---
 
-### 9. [CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update](https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html)
+### 11. [Texas sues TP-Link over Chinese hacking risks, user deception](https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 18 Feb 2026 12:22:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Feb 2026 07:36:51 -0500  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** Vulnerability, Malware  
 
 ---
 
-### 10. [Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html)
+### 12. [Hackers target Microsoft Entra accounts in device code vishing attacks](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 18 Feb 2026 00:38:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Feb 2026 07:30:37 -0500  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Phishing  
 
 ---
 
-### 11. [Critical infra Honeywell CCTVs vulnerable to auth bypass flaw](https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/)
+### 13. [Police arrests 651 suspects in African cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-651-suspects-in-african-cybercrime-crackdown/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Feb 2026 06:24:17 -0500  
+**Severity:** High  
+**Categories:** Phishing  
+
+---
+
+### 14. [New 'Massiv' Android banking malware poses as an IPTV app](https://www.bleepingcomputer.com/news/security/new-massiv-android-banking-malware-poses-as-an-iptv-app/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Feb 2026 05:00:00 -0500  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 15. [Critical infra Honeywell CCTVs vulnerable to auth bypass flaw](https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Feb 2026 15:58:20 -0500  
@@ -106,7 +142,7 @@
 
 ---
 
-### 12. [AI platforms can be abused for stealthy malware communication](https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/)
+### 16. [AI platforms can be abused for stealthy malware communication](https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Feb 2026 15:18:24 -0500  
@@ -115,17 +151,17 @@
 
 ---
 
-### 13. [Telegram channels expose rapid weaponization of SmarterMail flaws](https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/)
+### 17. [Telegram channels expose rapid weaponization of SmarterMail flaws](https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Feb 2026 11:27:38 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-23760, CVE-2026-24423  
+**CVEs:** CVE-2026-24423, CVE-2026-23760  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 14. [Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages](https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/)
+### 18. [Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages](https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Feb 2026 11:26:53 -0500  
@@ -134,7 +170,7 @@
 
 ---
 
-### 15. [Data breach at fintech firm Figure affects nearly 1 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/)
+### 19. [Data breach at fintech firm Figure affects nearly 1 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Feb 2026 09:01:08 -0500  
@@ -143,50 +179,12 @@
 
 ---
 
-### 16. [Microsoft says bug causes Copilot to summarize confidential emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/)
+### 20. [Microsoft says bug causes Copilot to summarize confidential emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Feb 2026 07:03:05 -0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 17. [Glendale man gets 5 years in prison for role in darknet drug ring](https://www.bleepingcomputer.com/news/security/glendale-man-gets-5-years-in-prison-for-role-in-darknet-drug-trafficking-operation/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 18 Feb 2026 05:50:50 -0500  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 18. [Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites](https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 17 Feb 2026 18:15:49 -0500  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 19. [Flaws in popular VSCode extensions expose developers to attacks](https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 17 Feb 2026 16:27:12 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2025-65716, CVE-2025-65717, CVE-2025-65715  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Chinese hackers exploiting Dell zero-day flaw since mid-2024](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 17 Feb 2026 15:15:03 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2026-22769  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -204,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20952, CVE-2026-20805  
+**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20805  
 **Categories:** Vulnerability  
 
 ---
@@ -259,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Dec 2025 23:18:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-62458, CVE-2025-62221, CVE-2025-62557, CVE-2025-62554, CVE-2025-62470, CVE-2025-59516, CVE-2025-59517, CVE-2025-62472, CVE-2025-62562  
+**CVEs:** CVE-2025-59516, CVE-2025-59517, CVE-2025-62470, CVE-2025-62458, CVE-2025-62562, CVE-2025-62554, CVE-2025-62557, CVE-2025-62221, CVE-2025-62472  
 **Categories:** Vulnerability  
 
 ---
@@ -282,75 +280,73 @@
 
 ---
 
-### 31. [New Keenadu Android Malware Found on Thousands of Devices](https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/)
+### 31. [Nearly 1 Million User Records Compromised in Figure Data Breach](https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Feb 2026 13:19:08 +0000  
+
+---
+
+### 32. [Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management](https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Feb 2026 12:23:41 +0000  
+
+---
+
+### 33. [Ivanti Exploitation Surges as Zero-Day Attacks Traced Back to July 2025](https://www.securityweek.com/ivanti-exploitation-surges-as-zero-day-attacks-traced-back-to-july-2025/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Feb 2026 11:56:29 +0000  
+
+---
+
+### 34. [OpenClaw Security Issues Continue as SecureClaw Open Source Tool Debuts](https://www.securityweek.com/openclaw-security-issues-continue-as-secureclaw-open-source-tool-debuts/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Feb 2026 11:00:00 +0000  
+
+---
+
+### 35. [German Rail Giant Deutsche Bahn Hit by Large-Scale DDoS Attack](https://www.securityweek.com/german-rail-giant-deutsche-bahn-hit-by-large-scale-ddos-attack/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Feb 2026 09:16:20 +0000  
+
+---
+
+### 36. [New Keenadu Android Malware Found on Thousands of Devices](https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Feb 2026 15:41:25 +0000  
 
 ---
 
-### 32. [Cogent Security Raises $42 Million for AI-Driven Vulnerability Management](https://www.securityweek.com/cogent-security-raises-42-million-for-ai-driven-vulnerability-management/)
+### 37. [Cogent Security Raises $42 Million for AI-Driven Vulnerability Management](https://www.securityweek.com/cogent-security-raises-42-million-for-ai-driven-vulnerability-management/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Feb 2026 14:47:07 +0000  
 
 ---
 
-### 33. [Vulnerabilities in Popular PDF Platforms Allowed Account Takeover, Data Exfiltration](https://www.securityweek.com/vulnerabilities-in-popular-pdf-platforms-allowed-account-takeover-data-exfiltration/)
+### 38. [Vulnerabilities in Popular PDF Platforms Allowed Account Takeover, Data Exfiltration](https://www.securityweek.com/vulnerabilities-in-popular-pdf-platforms-allowed-account-takeover-data-exfiltration/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Feb 2026 13:16:19 +0000  
 
 ---
 
-### 34. [CISA: Hackers Exploiting Vulnerability in Product of Taiwan Security Firm TeamT5](https://www.securityweek.com/cisa-hackers-exploiting-vulnerability-in-product-of-taiwan-security-firm-teamt5/)
+### 39. [CISA: Hackers Exploiting Vulnerability in Product of Taiwan Security Firm TeamT5](https://www.securityweek.com/cisa-hackers-exploiting-vulnerability-in-product-of-taiwan-security-firm-teamt5/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Feb 2026 10:26:03 +0000  
 
 ---
 
-### 35. [Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction](https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/)
+### 40. [Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction](https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Feb 2026 08:24:46 +0000  
-
----
-
-### 36. [Dell RecoverPoint Zero-Day Exploited by Chinese Cyberespionage Group](https://www.securityweek.com/dell-recoverpoint-zero-day-exploited-by-chinese-cyberespionage-group/)
-
-**Source:** Security Week  
-**Published:** Wed, 18 Feb 2026 07:09:01 +0000  
-
----
-
-### 37. [VulnCheck Raises $25 Million in Series B Funding to Scale Vulnerability Intelligence](https://www.securityweek.com/vulncheck-raises-25-million-in-series-b-funding-to-scale-vulnerability-intelligence/)
-
-**Source:** Security Week  
-**Published:** Tue, 17 Feb 2026 16:00:04 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 38. [Hackers Offer to Sell Millions of Eurail User Records](https://www.securityweek.com/hackers-offer-to-sell-millions-of-eurail-user-records/)
-
-**Source:** Security Week  
-**Published:** Tue, 17 Feb 2026 15:27:12 +0000  
-
----
-
-### 39. [API Threats Grow in Scale as AI Expands the Blast Radius](https://www.securityweek.com/api-threats-grow-in-scale-as-ai-expands-the-blast-radius/)
-
-**Source:** Security Week  
-**Published:** Tue, 17 Feb 2026 14:00:00 +0000  
-
----
-
-### 40. [Cyber Insights 2026: The Ongoing Fight to Secure Industrial Control Systems](https://www.securityweek.com/cyber-insights-2026-the-ongoing-fight-to-secure-industrial-control-systems/)
-
-**Source:** Security Week  
-**Published:** Tue, 17 Feb 2026 14:00:00 +0000  
 
 ---
 
@@ -395,7 +391,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-23655, CVE-2026-21525, CVE-2026-21514, CVE-2026-21519, CVE-2026-21522, CVE-2026-21513, CVE-2026-21510  
+**CVEs:** CVE-2026-21513, CVE-2026-21510, CVE-2026-21514, CVE-2026-21519, CVE-2026-21525, CVE-2026-21522, CVE-2026-23655  
 **Categories:** Vulnerability  
 
 ---
@@ -616,7 +612,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -631,7 +627,25 @@
 
 ---
 
-### 71. [Betterment data breach might be worse than we thought](https://www.malwarebytes.com/blog/news/2026/02/betterment-data-breach-might-be-worse-than-we-thought)
+### 71. [Intimate products producer Tenga spilled customer data](https://www.malwarebytes.com/blog/news/2026/02/intimate-products-producer-tenga-spilled-customer-data)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 19 Feb 2026 11:48:35 GMT  
+**Severity:** Low  
+**Categories:** Data Breach, Phishing  
+
+---
+
+### 72. [Meta patents AI that could keep you posting from beyond the grave](https://www.malwarebytes.com/blog/ai/2026/02/meta-patents-ai-that-could-keep-you-posting-from-beyond-the-grave)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 19 Feb 2026 11:16:32 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 73. [Betterment data breach might be worse than we thought](https://www.malwarebytes.com/blog/news/2026/02/betterment-data-breach-might-be-worse-than-we-thought)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Feb 2026 17:09:02 GMT  
@@ -640,7 +654,7 @@
 
 ---
 
-### 72. [Job scam uses fake Google Forms site to harvest Google logins](https://www.malwarebytes.com/blog/scams/2026/02/job-scam-uses-fake-google-forms-site-to-harvest-google-logins)
+### 74. [Job scam uses fake Google Forms site to harvest Google logins](https://www.malwarebytes.com/blog/scams/2026/02/job-scam-uses-fake-google-forms-site-to-harvest-google-logins)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Feb 2026 12:22:22 GMT  
@@ -649,7 +663,7 @@
 
 ---
 
-### 73. [Scammers use fake “Gemini” AI chatbot to sell fake “Google Coin”](https://www.malwarebytes.com/blog/ai/2026/02/scammers-use-fake-gemini-ai-chatbot-to-sell-fake-google-coin)
+### 75. [Scammers use fake “Gemini” AI chatbot to sell fake “Google Coin”](https://www.malwarebytes.com/blog/ai/2026/02/scammers-use-fake-gemini-ai-chatbot-to-sell-fake-google-coin)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Feb 2026 10:10:49 GMT  
@@ -658,7 +672,7 @@
 
 ---
 
-### 74. [Chrome &#8220;preloading&#8221; could be leaking your data and causing problems in Browser Guard](https://www.malwarebytes.com/blog/product/2026/02/chrome-preloading-could-be-leaking-your-data-and-causing-problems-in-browser-guard)
+### 76. [Chrome &#8220;preloading&#8221; could be leaking your data and causing problems in Browser Guard](https://www.malwarebytes.com/blog/product/2026/02/chrome-preloading-could-be-leaking-your-data-and-causing-problems-in-browser-guard)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Feb 2026 18:25:47 GMT  
@@ -667,7 +681,7 @@
 
 ---
 
-### 75. [Scam Guard for desktop: A second set of eyes for suspicious moments](https://www.malwarebytes.com/blog/product/2026/02/scam-guard-for-desktop-a-second-set-of-eyes-for-suspicious-moments)
+### 77. [Scam Guard for desktop: A second set of eyes for suspicious moments](https://www.malwarebytes.com/blog/product/2026/02/scam-guard-for-desktop-a-second-set-of-eyes-for-suspicious-moments)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Feb 2026 13:50:00 GMT  
@@ -676,7 +690,7 @@
 
 ---
 
-### 76. [Update Chrome now: Zero-day bug allows code execution via malicious webpages](https://www.malwarebytes.com/blog/news/2026/02/update-chrome-now-zero-day-bug-allows-code-execution-via-malicious-webpages)
+### 78. [Update Chrome now: Zero-day bug allows code execution via malicious webpages](https://www.malwarebytes.com/blog/news/2026/02/update-chrome-now-zero-day-bug-allows-code-execution-via-malicious-webpages)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Feb 2026 12:33:13 GMT  
@@ -686,7 +700,7 @@
 
 ---
 
-### 77. [Hobby coder accidentally creates vacuum robot army](https://www.malwarebytes.com/blog/news/2026/02/hobby-coder-accidentally-creates-vacuum-robot-army)
+### 79. [Hobby coder accidentally creates vacuum robot army](https://www.malwarebytes.com/blog/news/2026/02/hobby-coder-accidentally-creates-vacuum-robot-army)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Feb 2026 10:20:49 GMT  
@@ -695,30 +709,12 @@
 
 ---
 
-### 78. [ClickFix added nslookup commands to its arsenal for downloading RATs](https://www.malwarebytes.com/blog/news/2026/02/clickfix-added-nslookup-commands-to-its-arsenal-for-downloading-rats)
+### 80. [ClickFix added nslookup commands to its arsenal for downloading RATs](https://www.malwarebytes.com/blog/news/2026/02/clickfix-added-nslookup-commands-to-its-arsenal-for-downloading-rats)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 16 Feb 2026 13:09:37 GMT  
 **Severity:** Low  
 **Categories:** Malware, APT  
-
----
-
-### 79. [A week in security (February 9 &#8211; February 15)](https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-february-9-february-15)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 16 Feb 2026 08:02:00 GMT  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 80. [How to find and remove credential-stealing Chrome extensions](https://www.malwarebytes.com/blog/news/2026/02/how-to-find-and-remove-credential-stealing-chrome-extensions)
-
-**Source:** Malwarebytes  
-**Published:** Fri, 13 Feb 2026 13:27:34 GMT  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
