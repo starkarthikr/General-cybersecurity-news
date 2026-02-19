@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws & 20+ Stories",
+    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html",
+    "published": "Thu, 19 Feb 2026 20:05:00 +0530",
+    "summary": "The cyber threat space doesn’t pause, and this week makes that clear. New risks, new tactics, and new security gaps are showing up across platforms, tools, and industries — often all at the same time.\nSome developments are headline-level. Others sit in the background but carry long-term impact. Together, they shape how defenders need to think about exposure, response, and preparedness right now",
+    "analysis": {
+      "issue": "ThreatsDay Bulletin tracks active exploits, phishing waves, AI risks, major flaws, and cybercrime crackdowns shaping this week’s threat landscape",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "From Exposure to Exploitation: How AI Collapses Your Response Window",
     "link": "https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html",
     "published": "Thu, 19 Feb 2026 17:25:00 +0530",
@@ -171,21 +190,81 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware",
-    "link": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html",
-    "published": "Wed, 18 Feb 2026 13:10:00 +0530",
-    "summary": "Notepad++ has released a security fix to plug gaps that were exploited by an advanced threat actor from China to hijack the software update mechanism to selectively deliver malware to targets of interest.\nThe version 8.9.2 update incorporates what maintainer Don Ho calls a \"double lock\" design that aims to make the update process \"robust and effectively unexploitable.\" This includes verification",
+    "source": "Bleeping Computer",
+    "title": "Flaw in Grandstream VoIP phones allows stealthy eavesdropping",
+    "link": "https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/",
+    "published": "Thu, 19 Feb 2026 12:16:32 -0500",
+    "summary": "A critical vulnerability in Grandstream GXP1600 series VoIP phones allows a remote, unauthenticated attacker to gain root privileges and silently eavesdrop on communications. [...]",
     "analysis": {
-      "issue": "2 fixes update hijack exploited to deliver malware, patches RCE flaw, and hardens WinGUp security",
+      "issue": "A critical vulnerability in Grandstream GXP1600 series VoIP phones allows a remote, unauthenticated attacker to gain root privileges and silently eavesdrop on communications",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-2329"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA orders feds to patch actively exploited Dell flaw within 3 days",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/",
+    "published": "Thu, 19 Feb 2026 10:30:37 -0500",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems within three days against a maximum-severity Dell vulnerability that has been under active exploitation since mid-2024. [...]",
+    "analysis": {
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems within three days against a maximum-severity Dell vulnerability that has been under active exploitation since mid-2024",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-22769"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "How infostealers turn stolen credentials into real identities",
+    "link": "https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/",
+    "published": "Thu, 19 Feb 2026 10:05:15 -0500",
+    "summary": "Infostealer dumps increasingly tie stolen credentials to real identities, linking usernames, cookies, and behavior across personal and enterprise accounts. Specops explains how analyzing 90,000 dumps shows reuse fuels enterprise risk and how continuous AD scanning disrupts that cycle. [...]",
+    "analysis": {
+      "issue": "Modern infostealers have expanded credential theft far beyond usernames and passwords",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Malware"
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Nigerian man gets eight years in prison for hacking tax firms",
+    "link": "https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/",
+    "published": "Thu, 19 Feb 2026 08:51:49 -0500",
+    "summary": "A Nigerian national was sentenced to eight years in prison for hacking multiple tax preparation firms in Massachusetts and filing fraudulent tax returns seeking over $8.1 million in refunds. [...]",
+    "analysis": {
+      "issue": "A Nigerian national was sentenced to eight years in prison for hacking multiple tax preparation firms in Massachusetts and filing fraudulent tax returns seeking over $8",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
       ]
     }
   },
@@ -302,78 +381,89 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Telegram channels expose rapid weaponization of SmarterMail flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/",
-    "published": "Wed, 18 Feb 2026 11:27:38 -0500",
-    "summary": "Underground Telegram channels shared SmarterMail exploit PoCs and stolen admin credentials within days of disclosure. Flare explains how monitoring these communities reveals rapid weaponization of CVE-2026-24423 and CVE-2026-23760 tied to ransomware activity. [...]",
+    "source": "Krebs On Security",
+    "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+    "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+    "published": "Wed, 11 Feb 2026 16:08:11 +0000",
+    "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
     "analysis": {
-      "issue": "Flare researchers monitoring underground Telegram channels and cybercrime forums have observed threat actors rapidly sharing proof-of-concept exploits, offensive tools, and stolen administrator credentials related to recently disclosed SmarterMail vu",
+      "issue": "For the past week, the massive “Internet of Things” (IoT) botnet known as Kimwolf has been disrupting The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Patch Tuesday, February 2026 Edition",
+    "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+    "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+    "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
+    "analysis": {
+      "issue": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six “zero-day” vulnerabilities that attackers are already exploiting in the wild",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24423",
-        "CVE-2026-23760"
+        "CVE-2026-21519",
+        "CVE-2026-21256",
+        "CVE-2026-21525",
+        "CVE-2026-21510",
+        "CVE-2026-21509",
+        "CVE-2026-21516",
+        "CVE-2026-21533",
+        "CVE-2026-21514",
+        "CVE-2026-21513",
+        "CVE-2026-21523"
       ],
       "threat_categories": [
-        "Ransomware",
         "Vulnerability"
       ]
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/",
-    "published": "Wed, 18 Feb 2026 11:26:53 -0500",
-    "summary": "Microsoft says an Exchange Online issue that mistakenly quarantined legitimate emails last week was triggered by faulty heuristic detection rules designed to block credential phishing campaigns. [...]",
+    "source": "Krebs On Security",
+    "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+    "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+    "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+    "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
     "analysis": {
-      "issue": "Microsoft says an Exchange Online issue that mistakenly quarantined legitimate emails last week was triggered by faulty heuristic detection rules designed to block credential phishing campaigns",
+      "issue": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifyi",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Phishing"
+        "Ransomware",
+        "Phishing",
+        "APT",
+        "DDoS"
       ]
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Data breach at fintech firm Figure affects nearly 1 million accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/",
-    "published": "Wed, 18 Feb 2026 09:01:08 -0500",
-    "summary": "Hackers have stolen the personal and contact information of nearly 1 million accounts after breaching the systems of Figure Technology Solutions, a self-described blockchain-native financial technology company. [...]",
+    "source": "Krebs On Security",
+    "title": "Who Operates the Badbox 2.0 Botnet?",
+    "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+    "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+    "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
     "analysis": {
-      "issue": "Hackers have stolen the personal and contact information of nearly 1 million accounts after breaching the systems of Figure Technology Solutions, a self-described blockchain-native financial technology company",
+      "issue": "The cybercriminals in control of Kimwolf — a disruptive botnet that has infected more than 2 million devices — recently shared a screenshot indicating they’d compromised the control panel for Badbox 2",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft says bug causes Copilot to summarize confidential emails",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
-    "published": "Wed, 18 Feb 2026 07:03:05 -0500",
-    "summary": "Microsoft says a Microsoft 365 Copilot bug has been causing the AI assistant to summarize confidential emails since late January, bypassing data loss prevention (DLP) policies that organizations rely on to protect sensitive information. [...]",
-    "analysis": {
-      "issue": "Microsoft says a Microsoft 365 Copilot bug has been causing the AI assistant to summarize confidential emails since late January, bypassing data loss prevention (DLP) policies that organizations rely on to protect sensitive information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Malware"
       ]
     }
   },
@@ -409,9 +499,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20952",
         "CVE-2026-20953",
-        "CVE-2026-20805"
+        "CVE-2026-20805",
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -495,87 +585,11 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "Most Parked Domains Now Serving Malicious Content",
-    "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-    "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-    "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-    "analysis": {
-      "issue": "Direct navigation — the act of visiting a website by manually typing a domain name in a web browser — has never been riskier: A new study finds the vast majority of “parked” domains — mostly expired or dormant domain names, or common misspellings of ",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Microsoft Patch Tuesday, December 2025 Edition",
-    "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-    "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-    "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-    "analysis": {
-      "issue": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-59516",
-        "CVE-2025-59517",
-        "CVE-2025-62470",
-        "CVE-2025-62458",
-        "CVE-2025-62562",
-        "CVE-2025-62554",
-        "CVE-2025-62557",
-        "CVE-2025-62221",
-        "CVE-2025-62472"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-    "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-    "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-    "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
-    "analysis": {
-      "issue": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious ties to a Kremlin-connected oligarch whose Russian university builds drones for Russia’s war against Ukraine",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-    "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-    "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-    "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
-    "analysis": {
-      "issue": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-co",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
+    "source": "Security Week",
+    "title": "French Government Says 1.2 Million Bank Accounts Exposed in Breach",
+    "link": "https://www.securityweek.com/french-government-says-1-2-million-bank-accounts-exposed-in-breach/",
+    "published": "Thu, 19 Feb 2026 15:02:58 +0000",
+    "summary": "<p>The Ministry of Economy reported discovering unauthorized access to the national bank account registry FICOBA.</p>\n<p>The post <a href=\"https://www.securityweek.com/french-government-says-1-2-million-bank-accounts-exposed-in-breach/\">French Government Says 1.2 Million Bank Accounts Exposed in Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -639,13 +653,6 @@
     "link": "https://www.securityweek.com/cisa-hackers-exploiting-vulnerability-in-product-of-taiwan-security-firm-teamt5/",
     "published": "Wed, 18 Feb 2026 10:26:03 +0000",
     "summary": "<p>The vulnerability added to CISA’s KEV catalog affects ThreatSonar Anti-Ransomware and it was patched in 2024.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-hackers-exploiting-vulnerability-in-product-of-taiwan-security-firm-teamt5/\">CISA: Hackers Exploiting Vulnerability in Product of Taiwan Security Firm TeamT5</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction",
-    "link": "https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/",
-    "published": "Wed, 18 Feb 2026 08:24:46 +0000",
-    "summary": "<p>Koi has developed an endpoint security solution that Palo Alto will use to enhance its products.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/\">Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -734,13 +741,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21513",
+        "CVE-2026-21519",
+        "CVE-2026-21522",
+        "CVE-2026-23655",
+        "CVE-2026-21525",
         "CVE-2026-21510",
         "CVE-2026-21514",
-        "CVE-2026-21519",
-        "CVE-2026-21525",
-        "CVE-2026-21522",
-        "CVE-2026-23655"
+        "CVE-2026-21513"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -837,6 +844,25 @@
       "cves": [],
       "threat_categories": [
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "2025 Cloud Threat Hunting and Defense Landscape",
+    "link": "https://www.recordedfuture.com/research/2025-cloud-threat-hunting-defense-landscape",
+    "published": "Thu, 19 Feb 2026 00:00:00 GMT",
+    "summary": "Threat actors are doubling down on cloud infrastructure — exploiting misconfigurations, abusing native services, and pivoting through hybrid environments to maximize impact. See how attack patterns are evolving across exploitation, ransomware, credential abuse, and AI service targeting in this latest cloud threat roundup.",
+    "analysis": {
+      "issue": "Threat actors are doubling down on cloud infrastructure — exploiting misconfigurations, abusing native services, and pivoting through hybrid environments to maximize impact",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
       ]
     }
   },
@@ -1000,24 +1026,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Best Ransomware Detection Tools",
-    "link": "https://www.recordedfuture.com/blog/best-ransomware-detection-tools",
-    "published": "Tue, 13 Jan 2026 00:00:00 GMT",
-    "summary": "Stop ransomware before encryption begins. Learn how intelligence-driven detection tools can help identify precursor behaviors and reduce false positives for faster response.",
-    "analysis": {
-      "issue": "Stop ransomware before encryption begins",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
       ]
     }
   },
@@ -1188,8 +1196,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1214,6 +1222,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "AI-generated passwords are a security risk",
+    "link": "https://www.malwarebytes.com/blog/news/2026/02/ai-generated-passwords-are-a-security-risk",
+    "published": "Thu, 19 Feb 2026 14:46:58 GMT",
+    "summary": "AI-generated passwords are \"highly predictable\" and aren’t truly random, making them easier for cybercriminals to crack.",
+    "analysis": {
+      "issue": "Using Artificial Intelligence (AI) to generate your passwords is a bad idea",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1381,25 +1407,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "ClickFix added nslookup commands to its arsenal for downloading RATs",
-    "link": "https://www.malwarebytes.com/blog/news/2026/02/clickfix-added-nslookup-commands-to-its-arsenal-for-downloading-rats",
-    "published": "Mon, 16 Feb 2026 13:09:37 GMT",
-    "summary": "Microsoft researchers found a ClickFix campaign that uses the nslookup tool to have users infect their own system with a Remote Access Trojan.",
-    "analysis": {
-      "issue": "ClickFix malware campaigns are all about tricking the victim into infecting their own machine",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
       ]
     }
   },
