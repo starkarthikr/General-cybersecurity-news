@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-19 17:30:26 UTC
+**Last Updated:** 2026-02-20 02:38:20 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws & 20+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html)
+### 1. [PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence](https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 19 Feb 2026 23:22:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown](https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 19 Feb 2026 23:20:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center](https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 19 Feb 2026 23:10:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-26119  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws & 20+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 19 Feb 2026 20:05:00 +0530  
@@ -13,7 +41,7 @@
 
 ---
 
-### 2. [From Exposure to Exploitation: How AI Collapses Your Response Window](https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html)
+### 5. [From Exposure to Exploitation: How AI Collapses Your Response Window](https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 19 Feb 2026 17:25:00 +0530  
@@ -22,7 +50,7 @@
 
 ---
 
-### 3. [Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users](https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html)
+### 6. [Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users](https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 19 Feb 2026 15:54:00 +0530  
@@ -31,7 +59,7 @@
 
 ---
 
-### 4. [CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware](https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html)
+### 7. [CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware](https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 19 Feb 2026 13:43:00 +0530  
@@ -40,7 +68,7 @@
 
 ---
 
-### 5. [Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody](https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html)
+### 8. [Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody](https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 23:00:00 +0530  
@@ -49,7 +77,7 @@
 
 ---
 
-### 6. [Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution](https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html)
+### 9. [Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution](https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 22:05:00 +0530  
@@ -59,7 +87,7 @@
 
 ---
 
-### 7. [Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs](https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html)
+### 10. [Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs](https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Feb 2026 18:46:00 +0530  
@@ -68,35 +96,16 @@
 
 ---
 
-### 8. [Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability](https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html)
+### 11. [PromptSpy is the first known Android malware to use generative AI at runtime](https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 18 Feb 2026 17:28:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Feb 2026 17:36:25 -0500  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Malware, APT  
 
 ---
 
-### 9. [Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024](https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 18 Feb 2026 16:02:00 +0530  
-**Severity:** Critical  
-**CVEs:** CVE-2026-22769  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 10. [3 Ways to Start Your Intelligent Workflow Program](https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 18 Feb 2026 16:00:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability, Phishing  
-
----
-
-### 11. [Flaw in Grandstream VoIP phones allows stealthy eavesdropping](https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/)
+### 12. [Flaw in Grandstream VoIP phones allows stealthy eavesdropping](https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 19 Feb 2026 12:16:32 -0500  
@@ -106,7 +115,16 @@
 
 ---
 
-### 12. [CISA orders feds to patch actively exploited Dell flaw within 3 days](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/)
+### 13. [Google blocked over 1.75 million Play Store app submissions in 2025](https://www.bleepingcomputer.com/news/security/google-blocked-over-175-million-play-store-app-submissions-in-2025/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Feb 2026 12:00:00 -0500  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 14. [CISA orders feds to patch actively exploited Dell flaw within 3 days](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 19 Feb 2026 10:30:37 -0500  
@@ -116,7 +134,7 @@
 
 ---
 
-### 13. [How infostealers turn stolen credentials into real identities](https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/)
+### 15. [How infostealers turn stolen credentials into real identities](https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 19 Feb 2026 10:05:15 -0500  
@@ -125,7 +143,7 @@
 
 ---
 
-### 14. [Nigerian man gets eight years in prison for hacking tax firms](https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/)
+### 16. [Nigerian man gets eight years in prison for hacking tax firms](https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 19 Feb 2026 08:51:49 -0500  
@@ -134,7 +152,7 @@
 
 ---
 
-### 15. [Texas sues TP-Link over Chinese hacking risks, user deception](https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/)
+### 17. [Texas sues TP-Link over Chinese hacking risks, user deception](https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 19 Feb 2026 07:36:51 -0500  
@@ -143,7 +161,7 @@
 
 ---
 
-### 16. [Hackers target Microsoft Entra accounts in device code vishing attacks](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/)
+### 18. [Hackers target Microsoft Entra accounts in device code vishing attacks](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 19 Feb 2026 07:30:37 -0500  
@@ -152,7 +170,7 @@
 
 ---
 
-### 17. [Police arrests 651 suspects in African cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-651-suspects-in-african-cybercrime-crackdown/)
+### 19. [Police arrests 651 suspects in African cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-651-suspects-in-african-cybercrime-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 19 Feb 2026 06:24:17 -0500  
@@ -161,31 +179,12 @@
 
 ---
 
-### 18. [New 'Massiv' Android banking malware poses as an IPTV app](https://www.bleepingcomputer.com/news/security/new-massiv-android-banking-malware-poses-as-an-iptv-app/)
+### 20. [New 'Massiv' Android banking malware poses as an IPTV app](https://www.bleepingcomputer.com/news/security/new-massiv-android-banking-malware-poses-as-an-iptv-app/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 19 Feb 2026 05:00:00 -0500  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 19. [Critical infra Honeywell CCTVs vulnerable to auth bypass flaw](https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 18 Feb 2026 15:58:20 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2026-1670  
-**Categories:** Vulnerability  
-
----
-
-### 20. [AI platforms can be abused for stealthy malware communication](https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 18 Feb 2026 15:18:24 -0500  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -203,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21519, CVE-2026-21256, CVE-2026-21525, CVE-2026-21510, CVE-2026-21509, CVE-2026-21516, CVE-2026-21533, CVE-2026-21514, CVE-2026-21513, CVE-2026-21523  
+**CVEs:** CVE-2026-21513, CVE-2026-21514, CVE-2026-21516, CVE-2026-21256, CVE-2026-21525, CVE-2026-21510, CVE-2026-21533, CVE-2026-21509, CVE-2026-21519, CVE-2026-21523  
 **Categories:** Vulnerability  
 
 ---
@@ -351,7 +350,16 @@
 
 ---
 
-### 41. [“Good enough” emulation: Fuzzing a single thread to uncover vulnerabilities](https://blog.talosintelligence.com/good-enough-emulation/)
+### 41. [Using AI to defeat AI](https://blog.talosintelligence.com/using-ai-to-defeat-ai/)
+
+**Source:** Talos Blog  
+**Published:** Thu, 19 Feb 2026 19:00:07 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 42. [“Good enough” emulation: Fuzzing a single thread to uncover vulnerabilities](https://blog.talosintelligence.com/good-enough-emulation/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 18 Feb 2026 11:00:31 GMT  
@@ -360,7 +368,7 @@
 
 ---
 
-### 42. [Hand over the keys for Shannon’s shenanigans](https://blog.talosintelligence.com/hand-over-the-keys-for-shannons-shenanigans/)
+### 43. [Hand over the keys for Shannon’s shenanigans](https://blog.talosintelligence.com/hand-over-the-keys-for-shannons-shenanigans/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 12 Feb 2026 19:00:22 GMT  
@@ -369,7 +377,7 @@
 
 ---
 
-### 43. [Ryan Liles, master of technical diplomacy](https://blog.talosintelligence.com/ryan-liles-master-of-technical-diplomacy/)
+### 44. [Ryan Liles, master of technical diplomacy](https://blog.talosintelligence.com/ryan-liles-master-of-technical-diplomacy/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 12 Feb 2026 11:00:39 GMT  
@@ -378,7 +386,7 @@
 
 ---
 
-### 44. [New threat actor, UAT-9921, leverages VoidLink framework in campaigns](https://blog.talosintelligence.com/voidlink/)
+### 45. [New threat actor, UAT-9921, leverages VoidLink framework in campaigns](https://blog.talosintelligence.com/voidlink/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 11 Feb 2026 00:00:07 GMT  
@@ -387,17 +395,17 @@
 
 ---
 
-### 45. [Microsoft Patch Tuesday for February 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-february-2026/)
+### 46. [Microsoft Patch Tuesday for February 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-february-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21519, CVE-2026-21522, CVE-2026-23655, CVE-2026-21525, CVE-2026-21510, CVE-2026-21514, CVE-2026-21513  
+**CVEs:** CVE-2026-21513, CVE-2026-21514, CVE-2026-23655, CVE-2026-21525, CVE-2026-21510, CVE-2026-21522, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
 
-### 46. [All gas, no brakes: Time to come to AI church](https://blog.talosintelligence.com/all-gas-no-brakes-time-to-come-to-ai-church/)
+### 47. [All gas, no brakes: Time to come to AI church](https://blog.talosintelligence.com/all-gas-no-brakes-time-to-come-to-ai-church/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 05 Feb 2026 19:00:39 GMT  
@@ -406,7 +414,7 @@
 
 ---
 
-### 47. [Knife Cutting the Edge: Disclosing a China-nexus gateway-monitoring AitM framework](https://blog.talosintelligence.com/knife-cutting-the-edge/)
+### 48. [Knife Cutting the Edge: Disclosing a China-nexus gateway-monitoring AitM framework](https://blog.talosintelligence.com/knife-cutting-the-edge/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 05 Feb 2026 11:00:55 GMT  
@@ -415,7 +423,7 @@
 
 ---
 
-### 48. [I'm locked in!](https://blog.talosintelligence.com/im-locked-in/)
+### 49. [I'm locked in!](https://blog.talosintelligence.com/im-locked-in/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 19:00:34 GMT  
@@ -424,22 +432,13 @@
 
 ---
 
-### 49. [Microsoft releases update to address zero-day vulnerability in Microsoft Office](https://blog.talosintelligence.com/microsoft-oob-update-january-2026/)
+### 50. [Microsoft releases update to address zero-day vulnerability in Microsoft Office](https://blog.talosintelligence.com/microsoft-oob-update-january-2026/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 29 Jan 2026 14:43:54 GMT  
 **Severity:** Low  
 **CVEs:** CVE-2026-21509  
 **Categories:** Vulnerability  
-
----
-
-### 50. [Dissecting UAT-8099: New persistence mechanisms and regional focus](https://blog.talosintelligence.com/uat-8099-new-persistence-mechanisms-and-regional-focus/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 29 Jan 2026 11:00:11 GMT  
-**Severity:** High  
-**Categories:** Malware  
 
 ---
 
@@ -613,7 +612,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -637,7 +636,7 @@
 
 ---
 
-### 72. [Intimate products producer Tenga spilled customer data](https://www.malwarebytes.com/blog/news/2026/02/intimate-products-producer-tenga-spilled-customer-data)
+### 72. [Intimate products maker Tenga spilled customer data](https://www.malwarebytes.com/blog/news/2026/02/intimate-products-producer-tenga-spilled-customer-data)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 19 Feb 2026 11:48:35 GMT  
