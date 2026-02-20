@@ -1,6 +1,64 @@
 [
   {
     "source": "The Hacker News",
+    "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
+    "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
+    "published": "Fri, 20 Feb 2026 21:15:00 +0530",
+    "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of malicious actions, including deploying VShell and&nbsp;\nThe vulnerability, tracked as CVE-2026-1731 (CVSS score: 9.9), allows attackers to execute operating system commands in the context of the",
+    "analysis": {
+      "issue": "CVE-2026-1731 in BeyondTrust RS and PRA is exploited for ransomware, web shells, C2, and data theft across multiple sectors",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-1731"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
+    "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
+    "published": "Fri, 20 Feb 2026 19:50:00 +0530",
+    "summary": "In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI agent that has become exceedingly popular in the past few months.\n\"On February 17, 2026, at 3:26 AM PT, an unauthorized party used a compromised npm publish token to publish an update to Cline CLI",
+    "analysis": {
+      "issue": "0 was published with a stolen npm token, installing OpenClaw in an 8-hour attack affecting ~4,000 downloads",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
+    "link": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html",
+    "published": "Fri, 20 Feb 2026 17:25:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new ClickFix campaign that abuses compromised legitimate sites to deliver a previously undocumented remote access trojan (RAT) called MIMICRAT (aka AstarionRAT).\n\"The campaign demonstrates a high level of operational sophistication: compromised sites spanning multiple industries and geographies serve as delivery infrastructure, a multi-stage",
+    "analysis": {
+      "issue": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026",
     "link": "https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html",
     "published": "Fri, 20 Feb 2026 16:00:00 +0530",
@@ -40,18 +98,7 @@
     "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
     "link": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html",
     "published": "Fri, 20 Feb 2026 13:35:00 +0530",
-    "summary": "The U.S. Federal Bureau of Investigation (FBI) has warned of an increase in ATM jackpotting incidents across the country, leading to losses of more than $20 million in 2025.\nThe agency said 1,900 ATM jackpotting incidents have been reported since 2020, out of which 700 took place last year. In December 2025, the U.S. Department of Justice (DoJ) said about $40.73 million has been collectively",
-    "analysis": {
-      "issue": "FBI reports 1,900 ATM jackpotting cases since 2020, with $40",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
+    "summary": "The U.S. Federal Bureau of Investigation (FBI) has warned of an increase in ATM jackpotting incidents across the country, leading to losses of more than $20 million in 2025.\nThe agency said 1,900 ATM jackpotting incidents have been reported since 2020, out of which 700 took place last year. In December 2025, the U.S. Department of Justice (DoJ) said about $40.73 million has been collectively"
   },
   {
     "source": "The Hacker News",
@@ -128,59 +175,77 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws & 20+ Stories",
-    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html",
-    "published": "Thu, 19 Feb 2026 20:05:00 +0530",
-    "summary": "The cyber threat space doesn’t pause, and this week makes that clear. New risks, new tactics, and new security gaps are showing up across platforms, tools, and industries — often all at the same time.\nSome developments are headline-level. Others sit in the background but carry long-term impact. Together, they shape how defenders need to think about exposure, response, and preparedness right now",
+    "source": "Bleeping Computer",
+    "title": "CISA: BeyondTrust RCE flaw now exploited in ransomware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/",
+    "published": "Fri, 20 Feb 2026 12:02:25 -0500",
+    "summary": "Hackers are actively exploiting the CVE-2026-1731 vulnerability in the BeyondTrust Remote Support product, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) warns. [...]",
     "analysis": {
-      "issue": "ThreatsDay Bulletin tracks active exploits, phishing waves, AI risks, major flaws, and cybercrime crackdowns shaping this week’s threat landscape",
+      "issue": "Hackers are actively exploiting the CVE-2026-1731 vulnerability in the BeyondTrust Remote Support product, the U",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-1731"
+      ],
       "threat_categories": [
-        "Vulnerability",
-        "Phishing"
+        "Ransomware",
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "From Exposure to Exploitation: How AI Collapses Your Response Window",
-    "link": "https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html",
-    "published": "Thu, 19 Feb 2026 17:25:00 +0530",
-    "summary": "We’ve all seen this before: a developer deploys a new cloud workload and grants overly broad permissions just to keep the sprint moving. An engineer generates a \"temporary\" API key for testing and forgets to revoke it. In the past, these were minor operational risks, debts you’d eventually pay down during a slower cycle.\nIn 2026, “Eventually” is Now\nBut today, within minutes, AI-powered",
+    "source": "Bleeping Computer",
+    "title": "Data breach at French bank registry impacts 1.2 million accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/",
+    "published": "Fri, 20 Feb 2026 11:20:40 -0500",
+    "summary": "The French Ministry of Finance has published an announcement informing of a cybersecurity incident that has impacted 1.2 million accounts. [...]",
     "analysis": {
-      "issue": "AI compresses cyberattack timelines—32% of flaws exploited day-zero, phishing up 1,265%, forcing shift to CTEM defense models",
+      "issue": "The French Ministry of Finance has disclosed a cybersecurity incident that impacted data associated with 1",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Phishing"
+        "Data Breach"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users",
-    "link": "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html",
-    "published": "Thu, 19 Feb 2026 15:54:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new Android trojan called Massiv that's designed to facilitate device takeover (DTO) attacks for financial theft.\nThe malware, according to ThreatFabric, masquerades as seemingly harmless IPTV apps to deceive victims, indicating that the activity is primarily singling out users looking for the online TV applications.\n\"This new threat, while",
+    "source": "Bleeping Computer",
+    "title": "Why the shift left dream has become a nightmare for security and developers",
+    "link": "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/",
+    "published": "Fri, 20 Feb 2026 09:45:54 -0500",
+    "summary": "The \"shift left\" approach has increased pressure on developers, as speed demands override security checks in modern CI pipelines. Qualys explains how analyzing 34,000 public container images revealed 7.3% were malicious and why security must be enforced at the infrastructure layer by default. [...]",
     "analysis": {
-      "issue": "Massiv Android trojan hides in fake IPTV apps, enabling remote device control, credential theft, and fraudulent banking transactions via DTO attacks",
+      "issue": "Written by Ivan Milenkovic, Vice President Risk Technology EMEA, Qualys For the better part of the last decade,we have engaged in a comfortable fiction around security and development",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "Phishing"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "PayPal discloses data breach that exposed user info for 6 months",
+    "link": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
+    "published": "Fri, 20 Feb 2026 08:12:01 -0500",
+    "summary": "PayPal is notifying customers of a data breach after a software error in a loan application exposed their sensitive personal information, including Social Security numbers, for nearly 6 months last year. [...]",
+    "analysis": {
+      "issue": "PayPal is notifying customers of a data breach after a software error in a loan application exposed their sensitive personal information, including Social Security numbers, for nearly 6 months last year",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
       ]
     }
   },
@@ -298,84 +363,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CISA orders feds to patch actively exploited Dell flaw within 3 days",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/",
-    "published": "Thu, 19 Feb 2026 10:30:37 -0500",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems within three days against a maximum-severity Dell vulnerability that has been under active exploitation since mid-2024. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems within three days against a maximum-severity Dell vulnerability that has been under active exploitation since mid-2024",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-22769"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "How infostealers turn stolen credentials into real identities",
-    "link": "https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/",
-    "published": "Thu, 19 Feb 2026 10:05:15 -0500",
-    "summary": "Infostealer dumps increasingly tie stolen credentials to real identities, linking usernames, cookies, and behavior across personal and enterprise accounts. Specops explains how analyzing 90,000 dumps shows reuse fuels enterprise risk and how continuous AD scanning disrupts that cycle. [...]",
-    "analysis": {
-      "issue": "Modern infostealers have expanded credential theft far beyond usernames and passwords",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Nigerian man gets eight years in prison for hacking tax firms",
-    "link": "https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/",
-    "published": "Thu, 19 Feb 2026 08:51:49 -0500",
-    "summary": "A Nigerian national was sentenced to eight years in prison for hacking multiple tax preparation firms in Massachusetts and filing fraudulent tax returns seeking over $8.1 million in refunds. [...]",
-    "analysis": {
-      "issue": "A Nigerian national was sentenced to eight years in prison for hacking multiple tax preparation firms in Massachusetts and filing fraudulent tax returns seeking over $8",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Texas sues TP-Link over Chinese hacking risks, user deception",
-    "link": "https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/",
-    "published": "Thu, 19 Feb 2026 07:36:51 -0500",
-    "summary": "Texas sued networking giant TP-Link Systems, accusing the company of deceptively marketing its routers as secure while allowing Chinese state-backed hackers to exploit firmware vulnerabilities and access users' devices. [...]",
-    "analysis": {
-      "issue": "Texas sued networking giant TP-Link Systems, accusing the company of deceptively marketing its routers as secure while allowing Chinese state-backed hackers to exploit firmware vulnerabilities and access users' devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
     "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
@@ -407,16 +394,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21533",
-        "CVE-2026-21519",
-        "CVE-2026-21513",
-        "CVE-2026-21523",
-        "CVE-2026-21516",
-        "CVE-2026-21509",
-        "CVE-2026-21256",
-        "CVE-2026-21510",
         "CVE-2026-21525",
-        "CVE-2026-21514"
+        "CVE-2026-21516",
+        "CVE-2026-21519",
+        "CVE-2026-21510",
+        "CVE-2026-21509",
+        "CVE-2026-21514",
+        "CVE-2026-21513",
+        "CVE-2026-21256",
+        "CVE-2026-21533",
+        "CVE-2026-21523"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -581,6 +568,20 @@
   },
   {
     "source": "Security Week",
+    "title": "NIST’s Quantum Breakthrough: Single Photons Produced on a Chip",
+    "link": "https://www.securityweek.com/nists-quantum-breakthrough-single-photons-produced-on-a-chip/",
+    "published": "Fri, 20 Feb 2026 15:48:12 +0000",
+    "summary": "<p>NIST’s single photon chip will likely make QKD an option for a wider range of companies. </p>\n<p>The post <a href=\"https://www.securityweek.com/nists-quantum-breakthrough-single-photons-produced-on-a-chip/\">NIST’s Quantum Breakthrough: Single Photons Produced on a Chip</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "In Other News: Ransomware Shuts US Clinics, ICS Vulnerability Surge, European Parliament Bans AI",
+    "link": "https://www.securityweek.com/in-other-news-ransomware-shuts-us-clinics-ics-vulnerability-surge-european-parliament-bans-ai/",
+    "published": "Fri, 20 Feb 2026 15:30:00 +0000",
+    "summary": "<p>Other noteworthy stories that might have slipped under the radar: Axonius lays off employees, Abu Dhabi conference data leak, HackerOne addresses AI concerns.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-ransomware-shuts-us-clinics-ics-vulnerability-surge-european-parliament-bans-ai/\">In Other News: Ransomware Shuts US Clinics, ICS Vulnerability Surge, European Parliament Bans AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "BeyondTrust Vulnerability Exploited in Ransomware Attacks",
     "link": "https://www.securityweek.com/beyondtrust-vulnerability-exploited-in-ransomware-attacks/",
     "published": "Fri, 20 Feb 2026 12:29:46 +0000",
@@ -634,20 +635,6 @@
     "link": "https://www.securityweek.com/ivanti-exploitation-surges-as-zero-day-attacks-traced-back-to-july-2025/",
     "published": "Thu, 19 Feb 2026 11:56:29 +0000",
     "summary": "<p>Security researchers have seen the vulnerabilities being exploited to deliver shells, conduct reconnaissance, and download malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/ivanti-exploitation-surges-as-zero-day-attacks-traced-back-to-july-2025/\">Ivanti Exploitation Surges as Zero-Day Attacks Traced Back to July 2025</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenClaw Security Issues Continue as SecureClaw Open Source Tool Debuts",
-    "link": "https://www.securityweek.com/openclaw-security-issues-continue-as-secureclaw-open-source-tool-debuts/",
-    "published": "Thu, 19 Feb 2026 11:00:00 +0000",
-    "summary": "<p>OpenClaw faces security vulnerabilities and misconfiguration risks despite rapid patches and its transition to an OpenAI-backed foundation.</p>\n<p>The post <a href=\"https://www.securityweek.com/openclaw-security-issues-continue-as-secureclaw-open-source-tool-debuts/\">OpenClaw Security Issues Continue as SecureClaw Open Source Tool Debuts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "German Rail Giant Deutsche Bahn Hit by Large-Scale DDoS Attack",
-    "link": "https://www.securityweek.com/german-rail-giant-deutsche-bahn-hit-by-large-scale-ddos-attack/",
-    "published": "Thu, 19 Feb 2026 09:16:20 +0000",
-    "summary": "<p>The cyberattack disrupted information and booking systems and lasted for several hours. </p>\n<p>The post <a href=\"https://www.securityweek.com/german-rail-giant-deutsche-bahn-hit-by-large-scale-ddos-attack/\">German Rail Giant Deutsche Bahn Hit by Large-Scale DDoS Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -754,13 +741,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21519",
-        "CVE-2026-21513",
-        "CVE-2026-21522",
-        "CVE-2026-23655",
-        "CVE-2026-21510",
         "CVE-2026-21525",
-        "CVE-2026-21514"
+        "CVE-2026-21522",
+        "CVE-2026-21519",
+        "CVE-2026-21510",
+        "CVE-2026-21514",
+        "CVE-2026-21513",
+        "CVE-2026-23655"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1222,6 +1209,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Age verification vendor Persona left frontend exposed, researchers say",
+    "link": "https://www.malwarebytes.com/blog/news/2026/02/age-verification-vendor-persona-left-frontend-exposed",
+    "published": "Fri, 20 Feb 2026 14:08:39 GMT",
+    "summary": "Behind a basic age check, researchers say Persona’s system runs extensive identity, watchlist, and adverse-media screening.",
+    "analysis": {
+      "issue": "Three researchers investigating Discord’s age-verification checks say they discovered an exposed frontend belonging to Persona, the identity-verification vendor used by Discord",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Facebook ads spread fake Windows 11 downloads that steal passwords and crypto wallets",
     "link": "https://www.malwarebytes.com/blog/scams/2026/02/facebook-ads-spread-fake-windows-11-downloads-that-steal-passwords-and-crypto-wallets",
     "published": "Fri, 20 Feb 2026 10:00:30 GMT",
@@ -1382,26 +1387,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Update Chrome now: Zero-day bug allows code execution via malicious webpages",
-    "link": "https://www.malwarebytes.com/blog/news/2026/02/update-chrome-now-zero-day-bug-allows-code-execution-via-malicious-webpages",
-    "published": "Tue, 17 Feb 2026 12:33:13 GMT",
-    "summary": "Google has released an emergency update to patch an actively exploited zero-day—the first Chrome zero-day of the year.",
-    "analysis": {
-      "issue": "Google has issued a patch for a high‑severity Chrome zero‑day, tracked as CVE‑2026‑2441, a memory bug in how the browser handles certain font features that attackers are already exploiting",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-2441"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
