@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026",
+    "link": "https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html",
+    "published": "Fri, 20 Feb 2026 16:00:00 +0530",
+    "summary": "With one in three cyber-attacks now involving compromised employee accounts, insurers and regulators are placing far greater emphasis on identity posture when assessing cyber risk.&nbsp;\nFor many organizations, however, these assessments remain largely opaque. Elements such as password hygiene, privileged access management, and the extent of multi-factor authentication (MFA) coverage are",
+    "analysis": {
+      "issue": "Insurers tighten cyber underwriting as identity risks grow; breach costs hit $4",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case",
+    "link": "https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html",
+    "published": "Fri, 20 Feb 2026 15:22:00 +0530",
+    "summary": "A 29-year-old Ukrainian national has been sentenced to five years in prison in the U.S. for his role in facilitating North Korea's fraudulent information technology (IT) worker scheme.\nIn November 2025, Oleksandr \"Alexander\" Didenko pleaded guilty to wire fraud conspiracy and aggravated identity theft for stealing the identities of U.S. citizens and selling them to IT workers to help them land",
+    "analysis": {
+      "issue": "Ukrainian man gets 5 years for aiding North Korea IT job fraud using 871 stolen identities and laptop farms",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
     "link": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html",
     "published": "Fri, 20 Feb 2026 13:35:00 +0530",
@@ -149,38 +185,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware",
-    "link": "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html",
-    "published": "Thu, 19 Feb 2026 13:43:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed CRESCENTHARVEST, likely targeting supporters of Iran's ongoing protests to conduct information theft and long-term espionage.\nThe Acronis Threat Research Unit (TRU) said it observed the activity after January 9, with the attacks designed to deliver a malicious payload that serves as a remote access trojan (RAT) and",
+    "source": "Bleeping Computer",
+    "title": "Mississippi medical center closes all clinics after ransomware attack",
+    "link": "https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/",
+    "published": "Fri, 20 Feb 2026 06:50:14 -0500",
+    "summary": "The University of Mississippi Medical Center (UMMC) closed all its clinic locations statewide on Thursday following a ransomware attack. [...]",
     "analysis": {
-      "issue": "CRESCENTHARVEST uses protest lures and malicious LNK files to deploy RAT malware targeting Iran protest supporters for espionage and data theft",
+      "issue": "The University of Mississippi Medical Center (UMMC) closed all its clinic locations statewide on Thursday following a ransomware attack",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Ransomware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody",
-    "link": "https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html",
-    "published": "Wed, 18 Feb 2026 23:00:00 +0530",
-    "summary": "New research from the Citizen Lab has found signs that Kenyan authorities used a commercial forensic extraction tool manufactured by Israeli company Cellebrite to break into a prominent dissident's phone, making it the latest case of abuse of the technology targeting civil society.\nThe interdisciplinary research unit at the University of Toronto's Munk School of Global Affairs &amp; Public",
+    "source": "Bleeping Computer",
+    "title": "FBI: Over $20 million stolen in surge of ATM malware attacks in 2025",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/",
+    "published": "Fri, 20 Feb 2026 05:08:49 -0500",
+    "summary": "The FBI warned that Americans lost more than $20 million last year amid a massive surge in ATM \"jackpotting\" attacks, in which criminals use malware to force cash machines to dispense money. [...]",
     "analysis": {
-      "issue": "Citizen Lab and Amnesty link Cellebrite extractions and Predator spyware to surveillance of activists and journalists",
+      "issue": "The FBI warned that Americans lost more than $20 million last year amid a massive surge in ATM \"jackpotting\" attacks, in which criminals use malware to force cash machines to dispense money",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -339,42 +376,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers target Microsoft Entra accounts in device code vishing attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/",
-    "published": "Thu, 19 Feb 2026 07:30:37 -0500",
-    "summary": "Threat actors are targeting technology, manufacturing, and financial organizations in campaigns that combine device code phishing and voice phishing (vishing) to abuse the OAuth 2.0 Device Authorization flow and compromise Microsoft Entra accounts. [...]",
-    "analysis": {
-      "issue": "Threat actors are targeting technology, manufacturing, and financial organizations in campaigns that combine device code phishing and voice phishing (vishing) to abuse the OAuth 2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Police arrests 651 suspects in African cybercrime crackdown",
-    "link": "https://www.bleepingcomputer.com/news/security/police-arrests-651-suspects-in-african-cybercrime-crackdown/",
-    "published": "Thu, 19 Feb 2026 06:24:17 -0500",
-    "summary": "African authorities arrested 651 suspects and recovered over $4.3 million in a joint operation targeting investment fraud, mobile money scams, and fake loan applications. [...]",
-    "analysis": {
-      "issue": "African law enforcement agencies arrested 651 suspects and recovered over $4",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
     "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
@@ -406,16 +407,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21525",
-        "CVE-2026-21256",
-        "CVE-2026-21519",
         "CVE-2026-21533",
-        "CVE-2026-21516",
-        "CVE-2026-21510",
+        "CVE-2026-21519",
         "CVE-2026-21513",
-        "CVE-2026-21514",
         "CVE-2026-21523",
-        "CVE-2026-21509"
+        "CVE-2026-21516",
+        "CVE-2026-21509",
+        "CVE-2026-21256",
+        "CVE-2026-21510",
+        "CVE-2026-21525",
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -493,8 +494,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20952",
         "CVE-2026-20805",
+        "CVE-2026-20952",
         "CVE-2026-20953"
       ],
       "threat_categories": [
@@ -580,6 +581,27 @@
   },
   {
     "source": "Security Week",
+    "title": "BeyondTrust Vulnerability Exploited in Ransomware Attacks",
+    "link": "https://www.securityweek.com/beyondtrust-vulnerability-exploited-in-ransomware-attacks/",
+    "published": "Fri, 20 Feb 2026 12:29:46 +0000",
+    "summary": "<p>CISA has updated its KEV entry for CVE-2026-1731 to alert organizations of exploitation in ransomware attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/beyondtrust-vulnerability-exploited-in-ransomware-attacks/\">BeyondTrust Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "FBI: $20 Million Losses Caused by 700 ATM Jackpotting Attacks in 2025",
+    "link": "https://www.securityweek.com/fbi-20-million-losses-caused-by-700-atm-jackpotting-attacks-in-2025/",
+    "published": "Fri, 20 Feb 2026 11:05:26 +0000",
+    "summary": "<p>The FBI has confirmed that the Ploutus malware, which has been around for over a decade, is still being used in the wild.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-20-million-losses-caused-by-700-atm-jackpotting-attacks-in-2025/\">FBI: $20 Million Losses Caused by 700 ATM Jackpotting Attacks in 2025</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Chip Testing Giant Advantest Hit by Ransomware",
+    "link": "https://www.securityweek.com/chip-testing-giant-advantest-hit-by-ransomware/",
+    "published": "Fri, 20 Feb 2026 09:31:29 +0000",
+    "summary": "<p>The company is investigating whether any customer or employee data was stolen by hackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/chip-testing-giant-advantest-hit-by-ransomware/\">Chip Testing Giant Advantest Hit by Ransomware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence",
     "link": "https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/",
     "published": "Fri, 20 Feb 2026 07:06:15 +0000",
@@ -626,27 +648,6 @@
     "link": "https://www.securityweek.com/german-rail-giant-deutsche-bahn-hit-by-large-scale-ddos-attack/",
     "published": "Thu, 19 Feb 2026 09:16:20 +0000",
     "summary": "<p>The cyberattack disrupted information and booking systems and lasted for several hours. </p>\n<p>The post <a href=\"https://www.securityweek.com/german-rail-giant-deutsche-bahn-hit-by-large-scale-ddos-attack/\">German Rail Giant Deutsche Bahn Hit by Large-Scale DDoS Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "New Keenadu Android Malware Found on Thousands of Devices",
-    "link": "https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/",
-    "published": "Wed, 18 Feb 2026 15:41:25 +0000",
-    "summary": "<p>The malware has been preinstalled on many devices but it has also been distributed through Google Play and other app stores.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/\">New Keenadu Android Malware Found on Thousands of Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Cogent Security Raises $42 Million for AI-Driven Vulnerability Management",
-    "link": "https://www.securityweek.com/cogent-security-raises-42-million-for-ai-driven-vulnerability-management/",
-    "published": "Wed, 18 Feb 2026 14:47:07 +0000",
-    "summary": "<p>The Series A funding round, led by Bain Capital, brings the total raised by Cogent to $53 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/cogent-security-raises-42-million-for-ai-driven-vulnerability-management/\">Cogent Security Raises $42 Million for AI-Driven Vulnerability Management</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Vulnerabilities in Popular PDF Platforms Allowed Account Takeover, Data Exfiltration",
-    "link": "https://www.securityweek.com/vulnerabilities-in-popular-pdf-platforms-allowed-account-takeover-data-exfiltration/",
-    "published": "Wed, 18 Feb 2026 13:16:19 +0000",
-    "summary": "<p>Novee researchers discovered 16 vulnerabilities in Foxit and Apryse PDF tools that could have been exploited via malicious documents or URLs.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerabilities-in-popular-pdf-platforms-allowed-account-takeover-data-exfiltration/\">Vulnerabilities in Popular PDF Platforms Allowed Account Takeover, Data Exfiltration</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -753,12 +754,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21525",
         "CVE-2026-21519",
-        "CVE-2026-23655",
-        "CVE-2026-21522",
-        "CVE-2026-21510",
         "CVE-2026-21513",
+        "CVE-2026-21522",
+        "CVE-2026-23655",
+        "CVE-2026-21510",
+        "CVE-2026-21525",
         "CVE-2026-21514"
       ],
       "threat_categories": [
@@ -1221,6 +1222,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Facebook ads spread fake Windows 11 downloads that steal passwords and crypto wallets",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/02/facebook-ads-spread-fake-windows-11-downloads-that-steal-passwords-and-crypto-wallets",
+    "published": "Fri, 20 Feb 2026 10:00:30 GMT",
+    "summary": "Attackers are weaponizing Facebook ads to distribute password-stealing malware masked as a Windows download.",
+    "analysis": {
+      "issue": "Attackers are running paid Facebook ads that look like official Microsoft promotions, then directing users to near-perfect clones of the Windows 11 download page",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "AI-generated passwords are a security risk",
     "link": "https://www.malwarebytes.com/blog/news/2026/02/ai-generated-passwords-are-a-security-risk",
     "published": "Thu, 19 Feb 2026 14:46:58 GMT",
@@ -1383,24 +1402,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Hobby coder accidentally creates vacuum robot army",
-    "link": "https://www.malwarebytes.com/blog/news/2026/02/hobby-coder-accidentally-creates-vacuum-robot-army",
-    "published": "Tue, 17 Feb 2026 10:20:49 GMT",
-    "summary": "A hobby coding experiment reportedly exposed live camera feeds, microphones, and floor plans from thousands of robot vacuums worldwide.",
-    "analysis": {
-      "issue": "Sammy Azdoufal wanted to steer his robot vacuum with a PS5 controller",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
