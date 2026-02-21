@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning",
+    "link": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html",
+    "published": "Sat, 21 Feb 2026 13:28:00 +0530",
+    "summary": "Artificial intelligence (AI) company Anthropic has begun to roll out a new security feature for Claude Code that can scan a user's software codebase for vulnerabilities and suggest patches.\nThe capability, called Claude Code Security, is currently available in a limited research preview to Enterprise and Team customers.\n\"It scans codebases for security vulnerabilities and suggests targeted",
+    "analysis": {
+      "issue": "Anthropic unveils Claude Code Security, an AI tool scanning codebases for vulnerabilities with human-reviewed patch suggestions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog",
+    "link": "https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html",
+    "published": "Sat, 21 Feb 2026 12:51:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Roundcube webmail software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-49113 (CVSS score: 9.9) - A deserialization of untrusted data vulnerability that allows remote code",
+    "analysis": {
+      "issue": "CISA added two actively exploited Roundcube flaws to its KEV list, including a 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
+    "link": "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html",
+    "published": "Sat, 21 Feb 2026 10:00:00 +0530",
+    "summary": "With $5.5 trillion in global AI risk exposure and 700,000 U.S. workers needing reskilling, four new AI certifications and Certified CISO v4 help close the gap between AI adoption and workforce readiness.\nEC-Council, creator of the world-renowned Certified Ethical Hacker (CEH) credential and a global leader in applied cybersecurity education, today launched its Enterprise AI Credential Suite,",
+    "analysis": {
+      "issue": "EC-Council unveils four AI certifications and Certified CISO v4 as global AI risk hits $5",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
     "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
     "published": "Fri, 20 Feb 2026 21:15:00 +0530",
@@ -126,62 +180,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence",
-    "link": "https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html",
-    "published": "Thu, 19 Feb 2026 23:22:00 +0530",
-    "summary": "Cybersecurity researchers have discovered what they say is the first Android malware that abuses Gemini, Google's generative artificial intelligence (AI) chatbot, as part of its execution flow and achieves persistence.\nThe malware has been codenamed PromptSpy by ESET. The malware is equipped to capture lockscreen data, block uninstallation efforts, gather device information, take screenshots,",
-    "analysis": {
-      "issue": "PromptSpy Android malware abuses Google Gemini to analyze screens, automate persistence, block removal, and enable VNC-based remote device control",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown",
-    "link": "https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html",
-    "published": "Thu, 19 Feb 2026 23:20:00 +0530",
-    "summary": "An international cybercrime operation against online scams has led to 651 arrests and recovered more than $4.3 million as part of an effort led by law enforcement agencies from 16 African countries.\nThe initiative, codenamed Operation Red Card 2.0, took place between December 8, 2025 and January 30, 2026, according to INTERPOL. It targeted infrastructure and actors behind high-yield investment",
-    "analysis": {
-      "issue": "3M, dismantles scam networks across 16 African nations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center",
-    "link": "https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html",
-    "published": "Thu, 19 Feb 2026 23:10:00 +0530",
-    "summary": "Microsoft has disclosed a now-patched security flaw in Windows Admin Center that could allow an attacker to escalate their privileges.\nWindows Admin Center is a locally deployed, browser-based management tool set that lets users manage their Windows Clients, Servers, and Clusters without the need for connecting to the cloud.\nThe high-severity vulnerability, tracked as CVE-2026-26119, carries a",
-    "analysis": {
-      "issue": "Microsoft fixes CVE-2026-26119, an 8",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-26119"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -376,6 +374,111 @@
   },
   {
     "source": "Krebs On Security",
+    "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
+    "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
+    "published": "Fri, 20 Feb 2026 20:00:30 +0000",
+    "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.",
+    "analysis": {
+      "issue": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+    "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+    "published": "Wed, 11 Feb 2026 16:08:11 +0000",
+    "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
+    "analysis": {
+      "issue": "For the past week, the massive “Internet of Things” (IoT) botnet known as Kimwolf has been disrupting The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Patch Tuesday, February 2026 Edition",
+    "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+    "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+    "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
+    "analysis": {
+      "issue": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six “zero-day” vulnerabilities that attackers are already exploiting in the wild",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-21525",
+        "CVE-2026-21533",
+        "CVE-2026-21509",
+        "CVE-2026-21256",
+        "CVE-2026-21523",
+        "CVE-2026-21519",
+        "CVE-2026-21516",
+        "CVE-2026-21514",
+        "CVE-2026-21513",
+        "CVE-2026-21510"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+    "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+    "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+    "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
+    "analysis": {
+      "issue": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifyi",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Phishing",
+        "APT",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
+    "title": "Who Operates the Badbox 2.0 Botnet?",
+    "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+    "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+    "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+    "analysis": {
+      "issue": "The cybercriminals in control of Kimwolf — a disruptive botnet that has infected more than 2 million devices — recently shared a screenshot indicating they’d compromised the control panel for Badbox 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
     "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
     "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "published": "Tue, 20 Jan 2026 18:19:13 +0000",
@@ -407,8 +510,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20952",
-        "CVE-2026-20953",
-        "CVE-2026-20805"
+        "CVE-2026-20805",
+        "CVE-2026-20953"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -467,107 +570,6 @@
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-    "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-    "published": "Fri, 19 Dec 2025 15:14:55 +0000",
-    "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
-    "analysis": {
-      "issue": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering di",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Most Parked Domains Now Serving Malicious Content",
-    "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-    "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-    "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-    "analysis": {
-      "issue": "Direct navigation — the act of visiting a website by manually typing a domain name in a web browser — has never been riskier: A new study finds the vast majority of “parked” domains — mostly expired or dormant domain names, or common misspellings of ",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Microsoft Patch Tuesday, December 2025 Edition",
-    "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-    "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-    "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-    "analysis": {
-      "issue": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-59517",
-        "CVE-2025-59516",
-        "CVE-2025-62470",
-        "CVE-2025-62562",
-        "CVE-2025-62458",
-        "CVE-2025-62221",
-        "CVE-2025-62554",
-        "CVE-2025-62557",
-        "CVE-2025-62472"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-    "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-    "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-    "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
-    "analysis": {
-      "issue": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious ties to a Kremlin-connected oligarch whose Russian university builds drones for Russia’s war against Ukraine",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-    "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-    "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-    "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
-    "analysis": {
-      "issue": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-co",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "Phishing"
@@ -750,12 +752,12 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-21525",
+        "CVE-2026-23655",
         "CVE-2026-21522",
-        "CVE-2026-21510",
         "CVE-2026-21519",
         "CVE-2026-21514",
         "CVE-2026-21513",
-        "CVE-2026-23655"
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"

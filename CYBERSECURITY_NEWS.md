@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-21 03:08:36 UTC
+**Last Updated:** 2026-02-21 08:56:55 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration](https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html)
+### 1. [Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 21 Feb 2026 13:28:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 21 Feb 2026 12:51:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 21 Feb 2026 10:00:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration](https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Feb 2026 21:15:00 +0530  
@@ -14,7 +41,7 @@
 
 ---
 
-### 2. [Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems](https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html)
+### 5. [Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems](https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Feb 2026 19:50:00 +0530  
@@ -23,7 +50,7 @@
 
 ---
 
-### 3. [ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware](https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html)
+### 6. [ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware](https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Feb 2026 17:25:00 +0530  
@@ -32,7 +59,7 @@
 
 ---
 
-### 4. [Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026](https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html)
+### 7. [Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026](https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Feb 2026 16:00:00 +0530  
@@ -41,7 +68,7 @@
 
 ---
 
-### 5. [Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case](https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html)
+### 8. [Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case](https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Feb 2026 15:22:00 +0530  
@@ -50,7 +77,7 @@
 
 ---
 
-### 6. [FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025](https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html)
+### 9. [FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025](https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Feb 2026 13:35:00 +0530  
@@ -59,40 +86,12 @@
 
 ---
 
-### 7. [Former Google Engineers Indicted Over Trade Secret Transfers to Iran](https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html)
+### 10. [Former Google Engineers Indicted Over Trade Secret Transfers to Iran](https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Feb 2026 10:57:00 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 8. [PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence](https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 19 Feb 2026 23:22:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 9. [INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown](https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 19 Feb 2026 23:20:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center](https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 19 Feb 2026 23:10:00 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-26119  
-**Categories:** Vulnerability  
 
 ---
 
@@ -188,7 +187,53 @@
 
 ---
 
-### 21. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
+### 21. [‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA](https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/)
+
+**Source:** Krebs On Security  
+**Published:** Fri, 20 Feb 2026 20:00:30 +0000  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 22. [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
+
+**Source:** Krebs On Security  
+**Published:** Wed, 11 Feb 2026 16:08:11 +0000  
+**Severity:** Low  
+**Categories:** Malware, DDoS  
+
+---
+
+### 23. [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
+
+**Source:** Krebs On Security  
+**Published:** Tue, 10 Feb 2026 21:49:53 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-21525, CVE-2026-21533, CVE-2026-21509, CVE-2026-21256, CVE-2026-21523, CVE-2026-21519, CVE-2026-21516, CVE-2026-21514, CVE-2026-21513, CVE-2026-21510  
+**Categories:** Vulnerability  
+
+---
+
+### 24. [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
+
+**Source:** Krebs On Security  
+**Published:** Mon, 02 Feb 2026 16:15:16 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Phishing, APT, DDoS  
+
+---
+
+### 25. [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
+
+**Source:** Krebs On Security  
+**Published:** Mon, 26 Jan 2026 16:11:38 +0000  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 26. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 20 Jan 2026 18:19:13 +0000  
@@ -197,17 +242,17 @@
 
 ---
 
-### 22. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
+### 27. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20805  
+**CVEs:** CVE-2026-20952, CVE-2026-20805, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
 
-### 23. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
+### 28. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 08 Jan 2026 23:23:43 +0000  
@@ -216,7 +261,7 @@
 
 ---
 
-### 24. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+### 29. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 02 Jan 2026 14:20:10 +0000  
@@ -225,57 +270,11 @@
 
 ---
 
-### 25. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+### 30. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 29 Dec 2025 20:23:26 +0000  
 **Severity:** High  
-**Categories:** Phishing  
-
----
-
-### 26. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
-
-**Source:** Krebs On Security  
-**Published:** Fri, 19 Dec 2025 15:14:55 +0000  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 27. [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-
-**Source:** Krebs On Security  
-**Published:** Tue, 16 Dec 2025 14:14:48 +0000  
-**Severity:** High  
-**Categories:** Malware, Supply Chain  
-
----
-
-### 28. [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
-
-**Source:** Krebs On Security  
-**Published:** Tue, 09 Dec 2025 23:18:29 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2025-59517, CVE-2025-59516, CVE-2025-62470, CVE-2025-62562, CVE-2025-62458, CVE-2025-62221, CVE-2025-62554, CVE-2025-62557, CVE-2025-62472  
-**Categories:** Vulnerability  
-
----
-
-### 29. [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
-
-**Source:** Krebs On Security  
-**Published:** Sat, 06 Dec 2025 14:45:03 +0000  
-**Severity:** Low  
-**Categories:** APT  
-
----
-
-### 30. [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
-
-**Source:** Krebs On Security  
-**Published:** Thu, 04 Dec 2025 23:02:34 +0000  
-**Severity:** Low  
 **Categories:** Phishing  
 
 ---
@@ -400,7 +399,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21525, CVE-2026-21522, CVE-2026-21510, CVE-2026-21519, CVE-2026-21514, CVE-2026-21513, CVE-2026-23655  
+**CVEs:** CVE-2026-21525, CVE-2026-23655, CVE-2026-21522, CVE-2026-21519, CVE-2026-21514, CVE-2026-21513, CVE-2026-21510  
 **Categories:** Vulnerability  
 
 ---
