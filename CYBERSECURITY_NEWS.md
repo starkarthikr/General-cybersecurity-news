@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-21 13:01:44 UTC
+**Last Updated:** 2026-02-21 16:56:37 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
+### 1. [AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries](https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 21 Feb 2026 20:19:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Feb 2026 13:28:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html)
+### 3. [CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Feb 2026 12:51:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html)
+### 4. [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Feb 2026 10:00:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration](https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html)
+### 5. [BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration](https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Feb 2026 21:15:00 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems](https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html)
+### 6. [Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems](https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Feb 2026 19:50:00 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware](https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html)
+### 7. [ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware](https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Feb 2026 17:25:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026](https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html)
+### 8. [Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026](https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Feb 2026 16:00:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case](https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html)
+### 9. [Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case](https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Feb 2026 15:22:00 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025](https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html)
+### 10. [FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025](https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Feb 2026 13:35:00 +0530  
@@ -86,16 +95,25 @@
 
 ---
 
-### 10. [Former Google Engineers Indicted Over Trade Secret Transfers to Iran](https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html)
+### 11. [Predator spyware hooks iOS SpringBoard to hide mic, camera activity](https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 20 Feb 2026 10:57:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Sat, 21 Feb 2026 11:13:24 -0500  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware  
 
 ---
 
-### 11. [Japanese tech giant Advantest hit by ransomware attack](https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/)
+### 12. [Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks](https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 21 Feb 2026 08:50:58 -0500  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [Japanese tech giant Advantest hit by ransomware attack](https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 13:30:44 -0500  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [CISA: BeyondTrust RCE flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/)
+### 14. [CISA: BeyondTrust RCE flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 12:02:25 -0500  
@@ -114,7 +132,7 @@
 
 ---
 
-### 13. [Data breach at French bank registry impacts 1.2 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/)
+### 15. [Data breach at French bank registry impacts 1.2 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 11:20:40 -0500  
@@ -123,7 +141,7 @@
 
 ---
 
-### 14. [Why the shift left dream has become a nightmare for security and developers](https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/)
+### 16. [Why the shift left dream has become a nightmare for security and developers](https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 09:45:54 -0500  
@@ -132,7 +150,7 @@
 
 ---
 
-### 15. [PayPal discloses data breach that exposed user info for 6 months](https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/)
+### 17. [PayPal discloses data breach that exposed user info for 6 months](https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 08:12:01 -0500  
@@ -141,7 +159,7 @@
 
 ---
 
-### 16. [Mississippi medical center closes all clinics after ransomware attack](https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/)
+### 18. [Mississippi medical center closes all clinics after ransomware attack](https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 06:50:14 -0500  
@@ -150,7 +168,7 @@
 
 ---
 
-### 17. [FBI: Over $20 million stolen in surge of ATM malware attacks in 2025](https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/)
+### 19. [FBI: Over $20 million stolen in surge of ATM malware attacks in 2025](https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 05:08:49 -0500  
@@ -159,31 +177,12 @@
 
 ---
 
-### 18. [Ukrainian gets 5 years for helping North Koreans infiltrate US firms](https://www.bleepingcomputer.com/news/security/ukrainian-gets-5-years-for-helping-north-koreans-infiltrate-us-firms/)
+### 20. [Ukrainian gets 5 years for helping North Koreans infiltrate US firms](https://www.bleepingcomputer.com/news/security/ukrainian-gets-5-years-for-helping-north-koreans-infiltrate-us-firms/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 04:00:15 -0500  
 **Severity:** Low  
 **Categories:** Malware, APT  
-
----
-
-### 19. [PromptSpy is the first known Android malware to use generative AI at runtime](https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 19 Feb 2026 17:36:25 -0500  
-**Severity:** Low  
-**Categories:** Malware, APT  
-
----
-
-### 20. [Flaw in Grandstream VoIP phones allows stealthy eavesdropping](https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 19 Feb 2026 12:16:32 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2026-2329  
-**Categories:** Vulnerability  
 
 ---
 
@@ -210,7 +209,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21533, CVE-2026-21509, CVE-2026-21256, CVE-2026-21510, CVE-2026-21513, CVE-2026-21519, CVE-2026-21514, CVE-2026-21523, CVE-2026-21525, CVE-2026-21516  
+**CVEs:** CVE-2026-21256, CVE-2026-21510, CVE-2026-21513, CVE-2026-21519, CVE-2026-21525, CVE-2026-21523, CVE-2026-21509, CVE-2026-21514, CVE-2026-21533, CVE-2026-21516  
 **Categories:** Vulnerability  
 
 ---
@@ -247,7 +246,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
+**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20805  
 **Categories:** Vulnerability  
 
 ---
@@ -399,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21513, CVE-2026-23655, CVE-2026-21522, CVE-2026-21519, CVE-2026-21514, CVE-2026-21525  
+**CVEs:** CVE-2026-21510, CVE-2026-21525, CVE-2026-21513, CVE-2026-21519, CVE-2026-21514, CVE-2026-23655, CVE-2026-21522  
 **Categories:** Vulnerability  
 
 ---

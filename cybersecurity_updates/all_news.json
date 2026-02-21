@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
+    "link": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
+    "published": "Sat, 21 Feb 2026 20:19:00 +0530",
+    "summary": "A Russian-speaking, financially motivated threat actor has been observed taking advantage of commercial generative artificial intelligence (AI) services to compromise over 600 FortiGate devices located in 55 countries.\nThat's according to new findings from Amazon Threat Intelligence, which said it observed the activity between January 11 and February 18, 2026.\n\"No exploitation of FortiGate",
+    "analysis": {
+      "issue": "AI-augmented actor breached 600+ FortiGate devices in 55 countries using weak credentials and exposed ports, Amazon reports",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning",
     "link": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html",
     "published": "Sat, 21 Feb 2026 13:28:00 +0530",
@@ -166,20 +184,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Former Google Engineers Indicted Over Trade Secret Transfers to Iran",
-    "link": "https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html",
-    "published": "Fri, 20 Feb 2026 10:57:00 +0530",
-    "summary": "Two former Google engineers and one of their husbands have been indicted in the U.S. for allegedly committing trade secret theft from the search giant and other tech firms and transferring the information to unauthorized locations, including Iran.\nSamaneh Ghandali, 41, and her husband Mohammadjavad Khosravi (aka Mohammad Khosravi), 40, along with her sister Soroor Ghandali, 32, have been accused",
+    "source": "Bleeping Computer",
+    "title": "Predator spyware hooks iOS SpringBoard to hide mic, camera activity",
+    "link": "https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/",
+    "published": "Sat, 21 Feb 2026 11:13:24 -0500",
+    "summary": "Intellexa's Predator spyware can hide iOS recording indicators while secretly streaming camera and microphone feeds to its operators. [...]",
     "analysis": {
-      "issue": "DOJ indicts two ex-Google engineers and a spouse for allegedly stealing Tensor trade secrets, sending hundreds of files to Iran, and obstructing justi",
+      "issue": "Intellexa’s Predator spyware can hide iOS recording indicators while secretly streaming camera and microphone feeds to its operators",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks",
+    "link": "https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/",
+    "published": "Sat, 21 Feb 2026 08:50:58 -0500",
+    "summary": "Amazon is warning that a Russian-speaking hacker used multiple generative AI services as part of a campaign that breached more than 600 FortiGate firewalls across 55 countries in five weeks. [...]",
+    "analysis": {
+      "issue": "Amazon is warning that a Russian-speaking hacker used multiple generative AI services as part of a campaign that breached more than 600 FortiGate firewalls across 55 countries in five weeks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -334,45 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "PromptSpy is the first known Android malware to use generative AI at runtime",
-    "link": "https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/",
-    "published": "Thu, 19 Feb 2026 17:36:25 -0500",
-    "summary": "Researchers have discovered the first known Android malware to use generative AI in its execution flow, using Google's Gemini model to adapt its persistence across different devices. [...]",
-    "analysis": {
-      "issue": "Researchers have discovered the first known Android malware to use generative AI in its execution flow, using Google’s Gemini model to adapt its persistence across different devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Flaw in Grandstream VoIP phones allows stealthy eavesdropping",
-    "link": "https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/",
-    "published": "Thu, 19 Feb 2026 12:16:32 -0500",
-    "summary": "A critical vulnerability in Grandstream GXP1600 series VoIP phones allows a remote, unauthenticated attacker to gain root privileges and silently eavesdrop on communications. [...]",
-    "analysis": {
-      "issue": "A critical vulnerability in Grandstream GXP1600 series VoIP phones allows a remote, unauthenticated attacker to gain root privileges and silently eavesdrop on communications",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-2329"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
     "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
@@ -422,15 +420,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21533",
-        "CVE-2026-21509",
         "CVE-2026-21256",
         "CVE-2026-21510",
         "CVE-2026-21513",
         "CVE-2026-21519",
-        "CVE-2026-21514",
-        "CVE-2026-21523",
         "CVE-2026-21525",
+        "CVE-2026-21523",
+        "CVE-2026-21509",
+        "CVE-2026-21514",
+        "CVE-2026-21533",
         "CVE-2026-21516"
       ],
       "threat_categories": [
@@ -509,9 +507,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20805",
         "CVE-2026-20952",
-        "CVE-2026-20953"
+        "CVE-2026-20953",
+        "CVE-2026-20805"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -752,12 +750,12 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-21510",
+        "CVE-2026-21525",
         "CVE-2026-21513",
-        "CVE-2026-23655",
-        "CVE-2026-21522",
         "CVE-2026-21519",
         "CVE-2026-21514",
-        "CVE-2026-21525"
+        "CVE-2026-23655",
+        "CVE-2026-21522"
       ],
       "threat_categories": [
         "Vulnerability"
