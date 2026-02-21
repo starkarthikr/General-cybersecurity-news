@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-21 08:56:55 UTC
+**Last Updated:** 2026-02-21 13:01:44 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -210,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21525, CVE-2026-21533, CVE-2026-21509, CVE-2026-21256, CVE-2026-21523, CVE-2026-21519, CVE-2026-21516, CVE-2026-21514, CVE-2026-21513, CVE-2026-21510  
+**CVEs:** CVE-2026-21533, CVE-2026-21509, CVE-2026-21256, CVE-2026-21510, CVE-2026-21513, CVE-2026-21519, CVE-2026-21514, CVE-2026-21523, CVE-2026-21525, CVE-2026-21516  
 **Categories:** Vulnerability  
 
 ---
@@ -247,7 +247,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20952, CVE-2026-20805, CVE-2026-20953  
+**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
@@ -279,73 +279,73 @@
 
 ---
 
-### 31. [NIST’s Quantum Breakthrough: Single Photons Produced on a Chip](https://www.securityweek.com/nists-quantum-breakthrough-single-photons-produced-on-a-chip/)
+### 31. [Critical Grandstream Phone Vulnerability Exposes Calls to Interception](https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/)
+
+**Source:** Security Week  
+**Published:** Sat, 21 Feb 2026 12:00:00 +0000  
+
+---
+
+### 32. [NIST’s Quantum Breakthrough: Single Photons Produced on a Chip](https://www.securityweek.com/nists-quantum-breakthrough-single-photons-produced-on-a-chip/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Feb 2026 15:48:12 +0000  
 
 ---
 
-### 32. [In Other News: Ransomware Shuts US Clinics, ICS Vulnerability Surge, European Parliament Bans AI](https://www.securityweek.com/in-other-news-ransomware-shuts-us-clinics-ics-vulnerability-surge-european-parliament-bans-ai/)
+### 33. [In Other News: Ransomware Shuts US Clinics, ICS Vulnerability Surge, European Parliament Bans AI](https://www.securityweek.com/in-other-news-ransomware-shuts-us-clinics-ics-vulnerability-surge-european-parliament-bans-ai/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Feb 2026 15:30:00 +0000  
 
 ---
 
-### 33. [BeyondTrust Vulnerability Exploited in Ransomware Attacks](https://www.securityweek.com/beyondtrust-vulnerability-exploited-in-ransomware-attacks/)
+### 34. [BeyondTrust Vulnerability Exploited in Ransomware Attacks](https://www.securityweek.com/beyondtrust-vulnerability-exploited-in-ransomware-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Feb 2026 12:29:46 +0000  
 
 ---
 
-### 34. [FBI: $20 Million Losses Caused by 700 ATM Jackpotting Attacks in 2025](https://www.securityweek.com/fbi-20-million-losses-caused-by-700-atm-jackpotting-attacks-in-2025/)
+### 35. [FBI: $20 Million Losses Caused by 700 ATM Jackpotting Attacks in 2025](https://www.securityweek.com/fbi-20-million-losses-caused-by-700-atm-jackpotting-attacks-in-2025/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Feb 2026 11:05:26 +0000  
 
 ---
 
-### 35. [Chip Testing Giant Advantest Hit by Ransomware](https://www.securityweek.com/chip-testing-giant-advantest-hit-by-ransomware/)
+### 36. [Chip Testing Giant Advantest Hit by Ransomware](https://www.securityweek.com/chip-testing-giant-advantest-hit-by-ransomware/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Feb 2026 09:31:29 +0000  
 
 ---
 
-### 36. [PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence](https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/)
+### 37. [PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence](https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Feb 2026 07:06:15 +0000  
 
 ---
 
-### 37. [French Government Says 1.2 Million Bank Accounts Exposed in Breach](https://www.securityweek.com/french-government-says-1-2-million-bank-accounts-exposed-in-breach/)
+### 38. [French Government Says 1.2 Million Bank Accounts Exposed in Breach](https://www.securityweek.com/french-government-says-1-2-million-bank-accounts-exposed-in-breach/)
 
 **Source:** Security Week  
 **Published:** Thu, 19 Feb 2026 15:02:58 +0000  
 
 ---
 
-### 38. [Nearly 1 Million User Records Compromised in Figure Data Breach](https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/)
+### 39. [Nearly 1 Million User Records Compromised in Figure Data Breach](https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/)
 
 **Source:** Security Week  
 **Published:** Thu, 19 Feb 2026 13:19:08 +0000  
 
 ---
 
-### 39. [Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management](https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/)
+### 40. [Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management](https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/)
 
 **Source:** Security Week  
 **Published:** Thu, 19 Feb 2026 12:23:41 +0000  
-
----
-
-### 40. [Ivanti Exploitation Surges as Zero-Day Attacks Traced Back to July 2025](https://www.securityweek.com/ivanti-exploitation-surges-as-zero-day-attacks-traced-back-to-july-2025/)
-
-**Source:** Security Week  
-**Published:** Thu, 19 Feb 2026 11:56:29 +0000  
 
 ---
 
@@ -399,7 +399,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21525, CVE-2026-23655, CVE-2026-21522, CVE-2026-21519, CVE-2026-21514, CVE-2026-21513, CVE-2026-21510  
+**CVEs:** CVE-2026-21510, CVE-2026-21513, CVE-2026-23655, CVE-2026-21522, CVE-2026-21519, CVE-2026-21514, CVE-2026-21525  
 **Categories:** Vulnerability  
 
 ---
@@ -611,7 +611,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

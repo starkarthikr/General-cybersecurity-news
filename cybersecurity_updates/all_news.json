@@ -422,16 +422,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21525",
         "CVE-2026-21533",
         "CVE-2026-21509",
         "CVE-2026-21256",
-        "CVE-2026-21523",
-        "CVE-2026-21519",
-        "CVE-2026-21516",
-        "CVE-2026-21514",
+        "CVE-2026-21510",
         "CVE-2026-21513",
-        "CVE-2026-21510"
+        "CVE-2026-21519",
+        "CVE-2026-21514",
+        "CVE-2026-21523",
+        "CVE-2026-21525",
+        "CVE-2026-21516"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -509,8 +509,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20952",
         "CVE-2026-20805",
+        "CVE-2026-20952",
         "CVE-2026-20953"
       ],
       "threat_categories": [
@@ -578,6 +578,13 @@
   },
   {
     "source": "Security Week",
+    "title": "Critical Grandstream Phone Vulnerability Exposes Calls to Interception",
+    "link": "https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/",
+    "published": "Sat, 21 Feb 2026 12:00:00 +0000",
+    "summary": "<p>The flaw tracked as CVE-2026-2329 can be exploited without authentication for remote code execution with root privileges. </p>\n<p>The post <a href=\"https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/\">Critical Grandstream Phone Vulnerability Exposes Calls to Interception</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "NIST’s Quantum Breakthrough: Single Photons Produced on a Chip",
     "link": "https://www.securityweek.com/nists-quantum-breakthrough-single-photons-produced-on-a-chip/",
     "published": "Fri, 20 Feb 2026 15:48:12 +0000",
@@ -638,13 +645,6 @@
     "link": "https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/",
     "published": "Thu, 19 Feb 2026 12:23:41 +0000",
     "summary": "<p>Formerly named Valkyrie, the company’s funding includes $25 million raised in a Series A round. </p>\n<p>The post <a href=\"https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/\">Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Ivanti Exploitation Surges as Zero-Day Attacks Traced Back to July 2025",
-    "link": "https://www.securityweek.com/ivanti-exploitation-surges-as-zero-day-attacks-traced-back-to-july-2025/",
-    "published": "Thu, 19 Feb 2026 11:56:29 +0000",
-    "summary": "<p>Security researchers have seen the vulnerabilities being exploited to deliver shells, conduct reconnaissance, and download malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/ivanti-exploitation-surges-as-zero-day-attacks-traced-back-to-july-2025/\">Ivanti Exploitation Surges as Zero-Day Attacks Traced Back to July 2025</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -751,13 +751,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21525",
+        "CVE-2026-21510",
+        "CVE-2026-21513",
         "CVE-2026-23655",
         "CVE-2026-21522",
         "CVE-2026-21519",
         "CVE-2026-21514",
-        "CVE-2026-21513",
-        "CVE-2026-21510"
+        "CVE-2026-21525"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1188,8 +1188,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
