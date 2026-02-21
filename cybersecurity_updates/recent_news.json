@@ -98,7 +98,18 @@
     "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
     "link": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html",
     "published": "Fri, 20 Feb 2026 13:35:00 +0530",
-    "summary": "The U.S. Federal Bureau of Investigation (FBI) has warned of an increase in ATM jackpotting incidents across the country, leading to losses of more than $20 million in 2025.\nThe agency said 1,900 ATM jackpotting incidents have been reported since 2020, out of which 700 took place last year. In December 2025, the U.S. Department of Justice (DoJ) said about $40.73 million has been collectively"
+    "summary": "The U.S. Federal Bureau of Investigation (FBI) has warned of an increase in ATM jackpotting incidents across the country, leading to losses of more than $20 million in 2025.\nThe agency said 1,900 ATM jackpotting incidents have been reported since 2020, out of which 700 took place last year. In December 2025, the U.S. Department of Justice (DoJ) said about $40.73 million has been collectively",
+    "analysis": {
+      "issue": "FBI reports 1,900 ATM jackpotting cases since 2020, with $40",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
   },
   {
     "source": "The Hacker News",
@@ -171,6 +182,25 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Japanese tech giant Advantest hit by ransomware attack",
+    "link": "https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/",
+    "published": "Fri, 20 Feb 2026 13:30:44 -0500",
+    "summary": "Advantest Corporation disclosed that its corporate network has been targeted in a ransomware attack that may have affected customer or employee data. [...]",
+    "analysis": {
+      "issue": "Advantest Corporation disclosed that its corporate network has been targeted in a ransomware attack that may have affected customer or employee data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Supply Chain"
       ]
     }
   },
@@ -345,20 +375,20 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Google blocked over 1.75 million Play Store app submissions in 2025",
-    "link": "https://www.bleepingcomputer.com/news/security/google-blocked-over-175-million-play-store-app-submissions-in-2025/",
-    "published": "Thu, 19 Feb 2026 12:00:00 -0500",
-    "summary": "Google says that through 2025, it blocked more than 255,000 Android apps from obtaining excessive access to sensitive user data and rejected over 1.75 million apps from being published on Google Play due to policy violations. [...]",
+    "source": "Krebs On Security",
+    "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
+    "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
+    "published": "Fri, 20 Feb 2026 20:00:30 +0000",
+    "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.",
     "analysis": {
-      "issue": "Google says that through 2025, it blocked more than 255,000 Android apps from obtaining excessive access to sensitive user data and rejected over 1",
+      "issue": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Phishing"
       ]
     }
   },
@@ -394,16 +424,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21525",
-        "CVE-2026-21516",
         "CVE-2026-21519",
-        "CVE-2026-21510",
-        "CVE-2026-21509",
-        "CVE-2026-21514",
-        "CVE-2026-21513",
         "CVE-2026-21256",
+        "CVE-2026-21509",
+        "CVE-2026-21513",
+        "CVE-2026-21516",
+        "CVE-2026-21525",
+        "CVE-2026-21510",
         "CVE-2026-21533",
-        "CVE-2026-21523"
+        "CVE-2026-21523",
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -481,9 +511,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20953",
         "CVE-2026-20805",
-        "CVE-2026-20952",
-        "CVE-2026-20953"
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -545,24 +575,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-    "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-    "published": "Fri, 19 Dec 2025 15:14:55 +0000",
-    "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
-    "analysis": {
-      "issue": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering di",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -741,13 +753,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21525",
-        "CVE-2026-21522",
         "CVE-2026-21519",
-        "CVE-2026-21510",
-        "CVE-2026-21514",
         "CVE-2026-21513",
-        "CVE-2026-23655"
+        "CVE-2026-21525",
+        "CVE-2026-21510",
+        "CVE-2026-21522",
+        "CVE-2026-23655",
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1178,8 +1190,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1214,7 +1226,7 @@
     "published": "Fri, 20 Feb 2026 14:08:39 GMT",
     "summary": "Behind a basic age check, researchers say Persona’s system runs extensive identity, watchlist, and adverse-media screening.",
     "analysis": {
-      "issue": "Three researchers investigating Discord’s age-verification checks say they discovered an exposed frontend belonging to Persona, the identity-verification vendor used by Discord",
+      "issue": "Researchers investigating Discord’s age-verification checks say they discovered an exposed frontend belonging to Persona, the identity-verification vendor used by Discord",
       "solution": null,
       "cause": null,
       "timeline": null,

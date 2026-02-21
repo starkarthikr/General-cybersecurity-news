@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-20 17:08:26 UTC
+**Last Updated:** 2026-02-21 02:31:49 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -54,6 +54,8 @@
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Feb 2026 13:35:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
 
 ---
 
@@ -94,7 +96,16 @@
 
 ---
 
-### 11. [CISA: BeyondTrust RCE flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/)
+### 11. [Japanese tech giant Advantest hit by ransomware attack](https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 20 Feb 2026 13:30:44 -0500  
+**Severity:** Low  
+**Categories:** Ransomware, Supply Chain  
+
+---
+
+### 12. [CISA: BeyondTrust RCE flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 12:02:25 -0500  
@@ -104,7 +115,7 @@
 
 ---
 
-### 12. [Data breach at French bank registry impacts 1.2 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/)
+### 13. [Data breach at French bank registry impacts 1.2 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 11:20:40 -0500  
@@ -113,7 +124,7 @@
 
 ---
 
-### 13. [Why the shift left dream has become a nightmare for security and developers](https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/)
+### 14. [Why the shift left dream has become a nightmare for security and developers](https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 09:45:54 -0500  
@@ -122,7 +133,7 @@
 
 ---
 
-### 14. [PayPal discloses data breach that exposed user info for 6 months](https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/)
+### 15. [PayPal discloses data breach that exposed user info for 6 months](https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 08:12:01 -0500  
@@ -131,7 +142,7 @@
 
 ---
 
-### 15. [Mississippi medical center closes all clinics after ransomware attack](https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/)
+### 16. [Mississippi medical center closes all clinics after ransomware attack](https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 06:50:14 -0500  
@@ -140,7 +151,7 @@
 
 ---
 
-### 16. [FBI: Over $20 million stolen in surge of ATM malware attacks in 2025](https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/)
+### 17. [FBI: Over $20 million stolen in surge of ATM malware attacks in 2025](https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 05:08:49 -0500  
@@ -149,7 +160,7 @@
 
 ---
 
-### 17. [Ukrainian gets 5 years for helping North Koreans infiltrate US firms](https://www.bleepingcomputer.com/news/security/ukrainian-gets-5-years-for-helping-north-koreans-infiltrate-us-firms/)
+### 18. [Ukrainian gets 5 years for helping North Koreans infiltrate US firms](https://www.bleepingcomputer.com/news/security/ukrainian-gets-5-years-for-helping-north-koreans-infiltrate-us-firms/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 04:00:15 -0500  
@@ -158,7 +169,7 @@
 
 ---
 
-### 18. [PromptSpy is the first known Android malware to use generative AI at runtime](https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/)
+### 19. [PromptSpy is the first known Android malware to use generative AI at runtime](https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 19 Feb 2026 17:36:25 -0500  
@@ -167,7 +178,7 @@
 
 ---
 
-### 19. [Flaw in Grandstream VoIP phones allows stealthy eavesdropping](https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/)
+### 20. [Flaw in Grandstream VoIP phones allows stealthy eavesdropping](https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 19 Feb 2026 12:16:32 -0500  
@@ -177,16 +188,16 @@
 
 ---
 
-### 20. [Google blocked over 1.75 million Play Store app submissions in 2025](https://www.bleepingcomputer.com/news/security/google-blocked-over-175-million-play-store-app-submissions-in-2025/)
+### 21. [‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA](https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/)
 
-**Source:** Bleeping Computer  
-**Published:** Thu, 19 Feb 2026 12:00:00 -0500  
-**Severity:** High  
-**Categories:** General Security  
+**Source:** Krebs On Security  
+**Published:** Fri, 20 Feb 2026 20:00:30 +0000  
+**Severity:** Low  
+**Categories:** Phishing  
 
 ---
 
-### 21. [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
+### 22. [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Feb 2026 16:08:11 +0000  
@@ -195,17 +206,17 @@
 
 ---
 
-### 22. [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
+### 23. [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21525, CVE-2026-21516, CVE-2026-21519, CVE-2026-21510, CVE-2026-21509, CVE-2026-21514, CVE-2026-21513, CVE-2026-21256, CVE-2026-21533, CVE-2026-21523  
+**CVEs:** CVE-2026-21519, CVE-2026-21256, CVE-2026-21509, CVE-2026-21513, CVE-2026-21516, CVE-2026-21525, CVE-2026-21510, CVE-2026-21533, CVE-2026-21523, CVE-2026-21514  
 **Categories:** Vulnerability  
 
 ---
 
-### 23. [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
+### 24. [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 02 Feb 2026 16:15:16 +0000  
@@ -214,7 +225,7 @@
 
 ---
 
-### 24. [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
+### 25. [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 26 Jan 2026 16:11:38 +0000  
@@ -223,7 +234,7 @@
 
 ---
 
-### 25. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
+### 26. [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 20 Jan 2026 18:19:13 +0000  
@@ -232,17 +243,17 @@
 
 ---
 
-### 26. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
+### 27. [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
+**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
 **Categories:** Vulnerability  
 
 ---
 
-### 27. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
+### 28. [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 08 Jan 2026 23:23:43 +0000  
@@ -251,7 +262,7 @@
 
 ---
 
-### 28. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+### 29. [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 02 Jan 2026 14:20:10 +0000  
@@ -260,21 +271,12 @@
 
 ---
 
-### 29. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+### 30. [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 29 Dec 2025 20:23:26 +0000  
 **Severity:** High  
 **Categories:** Phishing  
-
----
-
-### 30. [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
-
-**Source:** Krebs On Security  
-**Published:** Fri, 19 Dec 2025 15:14:55 +0000  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -398,7 +400,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21525, CVE-2026-21522, CVE-2026-21519, CVE-2026-21510, CVE-2026-21514, CVE-2026-21513, CVE-2026-23655  
+**CVEs:** CVE-2026-21519, CVE-2026-21513, CVE-2026-21525, CVE-2026-21510, CVE-2026-21522, CVE-2026-23655, CVE-2026-21514  
 **Categories:** Vulnerability  
 
 ---
@@ -610,7 +612,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
