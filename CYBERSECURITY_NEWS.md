@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-22 13:03:38 UTC
+**Last Updated:** 2026-02-22 16:57:17 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,16 @@
 
 ---
 
-### 11. [Predator spyware hooks iOS SpringBoard to hide mic, camera activity](https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/)
+### 11. [Arkanix Stealer pops up as short-lived AI info-stealer experiment](https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 22 Feb 2026 10:33:26 -0500  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 12. [Predator spyware hooks iOS SpringBoard to hide mic, camera activity](https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Feb 2026 11:13:24 -0500  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks](https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/)
+### 13. [Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks](https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Feb 2026 08:50:58 -0500  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Japanese tech giant Advantest hit by ransomware attack](https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/)
+### 14. [Japanese tech giant Advantest hit by ransomware attack](https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 13:30:44 -0500  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [CISA: BeyondTrust RCE flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/)
+### 15. [CISA: BeyondTrust RCE flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 12:02:25 -0500  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Data breach at French bank registry impacts 1.2 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/)
+### 16. [Data breach at French bank registry impacts 1.2 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 11:20:40 -0500  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [Why the shift left dream has become a nightmare for security and developers](https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/)
+### 17. [Why the shift left dream has become a nightmare for security and developers](https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 09:45:54 -0500  
@@ -150,7 +159,7 @@
 
 ---
 
-### 17. [PayPal discloses data breach that exposed user info for 6 months](https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/)
+### 18. [PayPal discloses data breach that exposed user info for 6 months](https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 08:12:01 -0500  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [Mississippi medical center closes all clinics after ransomware attack](https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/)
+### 19. [Mississippi medical center closes all clinics after ransomware attack](https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 06:50:14 -0500  
@@ -168,21 +177,12 @@
 
 ---
 
-### 19. [FBI: Over $20 million stolen in surge of ATM malware attacks in 2025](https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/)
+### 20. [FBI: Over $20 million stolen in surge of ATM malware attacks in 2025](https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 05:08:49 -0500  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 20. [Ukrainian gets 5 years for helping North Koreans infiltrate US firms](https://www.bleepingcomputer.com/news/security/ukrainian-gets-5-years-for-helping-north-koreans-infiltrate-us-firms/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 20 Feb 2026 04:00:15 -0500  
-**Severity:** Low  
-**Categories:** Malware, APT  
 
 ---
 
@@ -209,7 +209,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21256, CVE-2026-21509, CVE-2026-21516, CVE-2026-21513, CVE-2026-21514, CVE-2026-21523, CVE-2026-21519, CVE-2026-21525, CVE-2026-21533  
+**CVEs:** CVE-2026-21525, CVE-2026-21509, CVE-2026-21256, CVE-2026-21523, CVE-2026-21510, CVE-2026-21514, CVE-2026-21519, CVE-2026-21513, CVE-2026-21533, CVE-2026-21516  
 **Categories:** Vulnerability  
 
 ---
@@ -398,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-23655, CVE-2026-21522, CVE-2026-21513, CVE-2026-21514, CVE-2026-21519, CVE-2026-21525  
+**CVEs:** CVE-2026-23655, CVE-2026-21525, CVE-2026-21510, CVE-2026-21514, CVE-2026-21519, CVE-2026-21522, CVE-2026-21513  
 **Categories:** Vulnerability  
 
 ---
