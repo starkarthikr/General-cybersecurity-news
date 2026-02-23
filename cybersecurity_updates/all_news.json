@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP",
+    "link": "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html",
+    "published": "Mon, 23 Feb 2026 12:55:00 +0530",
+    "summary": "The Iranian hacking group known as MuddyWater (aka Earth Vetala, Mango Sandstorm, and MUDDYCOAST) has targeted several organizations and individuals mainly located across the Middle East and North Africa (MENA) region as part of a new campaign codenamed Operation Olalampo.\nThe activity, first observed on January 26, 2026, has resulted in the deployment of new malware families that share",
+    "analysis": {
+      "issue": "MuddyWater’s Operation Olalampo targets MENA with GhostFetch, CHAR, HTTP_VIP, and AI-assisted malware since Jan 26, 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
     "link": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
     "published": "Sat, 21 Feb 2026 20:19:00 +0530",
@@ -162,24 +180,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
-    "link": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html",
-    "published": "Fri, 20 Feb 2026 13:35:00 +0530",
-    "summary": "The U.S. Federal Bureau of Investigation (FBI) has warned of an increase in ATM jackpotting incidents across the country, leading to losses of more than $20 million in 2025.\nThe agency said 1,900 ATM jackpotting incidents have been reported since 2020, out of which 700 took place last year. In December 2025, the U.S. Department of Justice (DoJ) said about $40.73 million has been collectively",
-    "analysis": {
-      "issue": "FBI reports 1,900 ATM jackpotting cases since 2020, with $40",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -419,16 +419,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21514",
-        "CVE-2026-21519",
-        "CVE-2026-21509",
         "CVE-2026-21516",
-        "CVE-2026-21533",
-        "CVE-2026-21510",
-        "CVE-2026-21523",
         "CVE-2026-21525",
+        "CVE-2026-21256",
+        "CVE-2026-21510",
+        "CVE-2026-21509",
+        "CVE-2026-21523",
+        "CVE-2026-21519",
+        "CVE-2026-21514",
         "CVE-2026-21513",
-        "CVE-2026-21256"
+        "CVE-2026-21533"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -506,9 +506,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20805",
         "CVE-2026-20953",
-        "CVE-2026-20952",
-        "CVE-2026-20805"
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -575,6 +575,13 @@
   },
   {
     "source": "Security Week",
+    "title": "PayPal Data Breach Led to Fraudulent Transactions",
+    "link": "https://www.securityweek.com/paypal-data-breach-led-to-fraudulent-transactions/",
+    "published": "Mon, 23 Feb 2026 09:13:25 +0000",
+    "summary": "<p>PayPal blamed an application error for the exposure of customer personal information for nearly 6 months. </p>\n<p>The post <a href=\"https://www.securityweek.com/paypal-data-breach-led-to-fraudulent-transactions/\">PayPal Data Breach Led to Fraudulent Transactions</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Critical Grandstream Phone Vulnerability Exposes Calls to Interception",
     "link": "https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/",
     "published": "Sat, 21 Feb 2026 12:00:00 +0000",
@@ -620,7 +627,20 @@
     "title": "PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence",
     "link": "https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/",
     "published": "Fri, 20 Feb 2026 07:06:15 +0000",
-    "summary": "<p>The malware leverages Gemini to analyze on-screen elements and ensure that it remains on the device even after a reboot.</p>\n<p>The post <a href=\"https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/\">PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "summary": "<p>The malware leverages Gemini to analyze on-screen elements and ensure that it remains on the device even after a reboot.</p>\n<p>The post <a href=\"https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/\">PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The malware leverages Gemini to analyze on-screen elements and ensure that it remains on the device even after a reboot",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Medium",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "APT"
+      ]
+    }
   },
   {
     "source": "Security Week",
@@ -635,13 +655,6 @@
     "link": "https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/",
     "published": "Thu, 19 Feb 2026 13:19:08 +0000",
     "summary": "<p>The blockchain-based lender has confirmed a data breach after ShinyHunters leaked over 2GB of data allegedly stolen from the company.</p>\n<p>The post <a href=\"https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/\">Nearly 1 Million User Records Compromised in Figure Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management",
-    "link": "https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/",
-    "published": "Thu, 19 Feb 2026 12:23:41 +0000",
-    "summary": "<p>Formerly named Valkyrie, the company’s funding includes $25 million raised in a Series A round. </p>\n<p>The post <a href=\"https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/\">Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -748,11 +761,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21514",
-        "CVE-2026-21519",
-        "CVE-2026-23655",
-        "CVE-2026-21510",
         "CVE-2026-21525",
+        "CVE-2026-21510",
+        "CVE-2026-23655",
+        "CVE-2026-21519",
+        "CVE-2026-21514",
         "CVE-2026-21513",
         "CVE-2026-21522"
       ],
@@ -1185,8 +1198,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1211,6 +1224,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "A week in security (February 16 &#8211; February 22)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-february-16-february-22",
+    "published": "Mon, 23 Feb 2026 08:02:35 GMT",
+    "summary": "A list of topics we covered in the week of February 16 to February 22 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -1376,24 +1407,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Chrome &#8220;preloading&#8221; could be leaking your data and causing problems in Browser Guard",
-    "link": "https://www.malwarebytes.com/blog/product/2026/02/chrome-preloading-could-be-leaking-your-data-and-causing-problems-in-browser-guard",
-    "published": "Tue, 17 Feb 2026 18:25:47 GMT",
-    "summary": "This article explains why Chrome’s “preloading” can cause scary-looking blocks in Malwarebytes Browser Guard.",
-    "analysis": {
-      "issue": "This article explains why Chrome’s “preloading” feature can cause scary-looking blocks in Malwarebytes Browser Guard and how to turn it off",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
