@@ -98,18 +98,7 @@
     "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
     "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
     "published": "Fri, 20 Feb 2026 19:50:00 +0530",
-    "summary": "In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI agent that has become exceedingly popular in the past few months.\n\"On February 17, 2026, at 3:26 AM PT, an unauthorized party used a compromised npm publish token to publish an update to Cline CLI",
-    "analysis": {
-      "issue": "0 was published with a stolen npm token, installing OpenClaw in an 8-hour attack affecting ~4,000 downloads",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
+    "summary": "In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI agent that has become exceedingly popular in the past few months.\n\"On February 17, 2026, at 3:26 AM PT, an unauthorized party used a compromised npm publish token to publish an update to Cline CLI"
   },
   {
     "source": "The Hacker News",
@@ -420,14 +409,14 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-21525",
-        "CVE-2026-21509",
-        "CVE-2026-21256",
-        "CVE-2026-21523",
         "CVE-2026-21510",
+        "CVE-2026-21523",
         "CVE-2026-21514",
-        "CVE-2026-21519",
-        "CVE-2026-21513",
         "CVE-2026-21533",
+        "CVE-2026-21519",
+        "CVE-2026-21256",
+        "CVE-2026-21513",
+        "CVE-2026-21509",
         "CVE-2026-21516"
       ],
       "threat_categories": [
@@ -507,8 +496,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20805",
-        "CVE-2026-20952",
-        "CVE-2026-20953"
+        "CVE-2026-20953",
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -748,13 +737,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-23655",
         "CVE-2026-21525",
         "CVE-2026-21510",
         "CVE-2026-21514",
+        "CVE-2026-23655",
         "CVE-2026-21519",
-        "CVE-2026-21522",
-        "CVE-2026-21513"
+        "CVE-2026-21513",
+        "CVE-2026-21522"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1185,8 +1174,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1211,6 +1200,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "What can&#8217;t you say on TikTok?",
+    "link": "https://www.malwarebytes.com/blog/podcast/2026/02/what-cant-you-say-on-tiktok",
+    "published": "Sun, 22 Feb 2026 23:08:27 GMT",
+    "summary": "This week on the Lock and Code podcast, we speak with Zach Hinkle and MinJi Pae about TikTok's new American ownership—and it's new rules.",
+    "analysis": {
+      "issue": "This week on the Lock and Code podcast… A funny thing happened on TikTok last month, and it has brought allegations of censorship, manipulation, and control",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1373,24 +1380,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Scam Guard for desktop: A second set of eyes for suspicious moments",
-    "link": "https://www.malwarebytes.com/blog/product/2026/02/scam-guard-for-desktop-a-second-set-of-eyes-for-suspicious-moments",
-    "published": "Tue, 17 Feb 2026 13:50:00 GMT",
-    "summary": "Malwarebytes Scam Guard is now on Windows and Mac, bringing AI-powered scam detection to your desktop.",
-    "analysis": {
-      "issue": "Scams aren’t so obvious anymore",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
       "cves": [],
       "threat_categories": [
         "Malware"

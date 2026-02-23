@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-22 16:57:17 UTC
+**Last Updated:** 2026-02-23 02:44:51 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -54,8 +54,6 @@
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Feb 2026 19:50:00 +0530  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 
@@ -209,7 +207,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21525, CVE-2026-21509, CVE-2026-21256, CVE-2026-21523, CVE-2026-21510, CVE-2026-21514, CVE-2026-21519, CVE-2026-21513, CVE-2026-21533, CVE-2026-21516  
+**CVEs:** CVE-2026-21525, CVE-2026-21510, CVE-2026-21523, CVE-2026-21514, CVE-2026-21533, CVE-2026-21519, CVE-2026-21256, CVE-2026-21513, CVE-2026-21509, CVE-2026-21516  
 **Categories:** Vulnerability  
 
 ---
@@ -246,7 +244,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
+**CVEs:** CVE-2026-20805, CVE-2026-20953, CVE-2026-20952  
 **Categories:** Vulnerability  
 
 ---
@@ -398,7 +396,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-23655, CVE-2026-21525, CVE-2026-21510, CVE-2026-21514, CVE-2026-21519, CVE-2026-21522, CVE-2026-21513  
+**CVEs:** CVE-2026-21525, CVE-2026-21510, CVE-2026-21514, CVE-2026-23655, CVE-2026-21519, CVE-2026-21513, CVE-2026-21522  
 **Categories:** Vulnerability  
 
 ---
@@ -610,7 +608,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -625,7 +623,16 @@
 
 ---
 
-### 71. [Age verification vendor Persona left frontend exposed, researchers say](https://www.malwarebytes.com/blog/news/2026/02/age-verification-vendor-persona-left-frontend-exposed)
+### 71. [What can&#8217;t you say on TikTok?](https://www.malwarebytes.com/blog/podcast/2026/02/what-cant-you-say-on-tiktok)
+
+**Source:** Malwarebytes  
+**Published:** Sun, 22 Feb 2026 23:08:27 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [Age verification vendor Persona left frontend exposed, researchers say](https://www.malwarebytes.com/blog/news/2026/02/age-verification-vendor-persona-left-frontend-exposed)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 20 Feb 2026 14:08:39 GMT  
@@ -634,7 +641,7 @@
 
 ---
 
-### 72. [Facebook ads spread fake Windows 11 downloads that steal passwords and crypto wallets](https://www.malwarebytes.com/blog/scams/2026/02/facebook-ads-spread-fake-windows-11-downloads-that-steal-passwords-and-crypto-wallets)
+### 73. [Facebook ads spread fake Windows 11 downloads that steal passwords and crypto wallets](https://www.malwarebytes.com/blog/scams/2026/02/facebook-ads-spread-fake-windows-11-downloads-that-steal-passwords-and-crypto-wallets)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 20 Feb 2026 10:00:30 GMT  
@@ -643,7 +650,7 @@
 
 ---
 
-### 73. [AI-generated passwords are a security risk](https://www.malwarebytes.com/blog/news/2026/02/ai-generated-passwords-are-a-security-risk)
+### 74. [AI-generated passwords are a security risk](https://www.malwarebytes.com/blog/news/2026/02/ai-generated-passwords-are-a-security-risk)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 19 Feb 2026 14:46:58 GMT  
@@ -652,7 +659,7 @@
 
 ---
 
-### 74. [Intimate products maker Tenga spilled customer data](https://www.malwarebytes.com/blog/news/2026/02/intimate-products-producer-tenga-spilled-customer-data)
+### 75. [Intimate products maker Tenga spilled customer data](https://www.malwarebytes.com/blog/news/2026/02/intimate-products-producer-tenga-spilled-customer-data)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 19 Feb 2026 11:48:35 GMT  
@@ -661,7 +668,7 @@
 
 ---
 
-### 75. [Meta patents AI that could keep you posting from beyond the grave](https://www.malwarebytes.com/blog/ai/2026/02/meta-patents-ai-that-could-keep-you-posting-from-beyond-the-grave)
+### 76. [Meta patents AI that could keep you posting from beyond the grave](https://www.malwarebytes.com/blog/ai/2026/02/meta-patents-ai-that-could-keep-you-posting-from-beyond-the-grave)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 19 Feb 2026 11:16:32 GMT  
@@ -670,7 +677,7 @@
 
 ---
 
-### 76. [Betterment data breach might be worse than we thought](https://www.malwarebytes.com/blog/news/2026/02/betterment-data-breach-might-be-worse-than-we-thought)
+### 77. [Betterment data breach might be worse than we thought](https://www.malwarebytes.com/blog/news/2026/02/betterment-data-breach-might-be-worse-than-we-thought)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Feb 2026 17:09:02 GMT  
@@ -679,7 +686,7 @@
 
 ---
 
-### 77. [Job scam uses fake Google Forms site to harvest Google logins](https://www.malwarebytes.com/blog/scams/2026/02/job-scam-uses-fake-google-forms-site-to-harvest-google-logins)
+### 78. [Job scam uses fake Google Forms site to harvest Google logins](https://www.malwarebytes.com/blog/scams/2026/02/job-scam-uses-fake-google-forms-site-to-harvest-google-logins)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Feb 2026 12:22:22 GMT  
@@ -688,7 +695,7 @@
 
 ---
 
-### 78. [Scammers use fake “Gemini” AI chatbot to sell fake “Google Coin”](https://www.malwarebytes.com/blog/ai/2026/02/scammers-use-fake-gemini-ai-chatbot-to-sell-fake-google-coin)
+### 79. [Scammers use fake “Gemini” AI chatbot to sell fake “Google Coin”](https://www.malwarebytes.com/blog/ai/2026/02/scammers-use-fake-gemini-ai-chatbot-to-sell-fake-google-coin)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Feb 2026 10:10:49 GMT  
@@ -697,20 +704,11 @@
 
 ---
 
-### 79. [Chrome &#8220;preloading&#8221; could be leaking your data and causing problems in Browser Guard](https://www.malwarebytes.com/blog/product/2026/02/chrome-preloading-could-be-leaking-your-data-and-causing-problems-in-browser-guard)
+### 80. [Chrome &#8220;preloading&#8221; could be leaking your data and causing problems in Browser Guard](https://www.malwarebytes.com/blog/product/2026/02/chrome-preloading-could-be-leaking-your-data-and-causing-problems-in-browser-guard)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Feb 2026 18:25:47 GMT  
 **Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 80. [Scam Guard for desktop: A second set of eyes for suspicious moments](https://www.malwarebytes.com/blog/product/2026/02/scam-guard-for-desktop-a-second-set-of-eyes-for-suspicious-moments)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 17 Feb 2026 13:50:00 GMT  
-**Severity:** High  
 **Categories:** Malware  
 
 ---
