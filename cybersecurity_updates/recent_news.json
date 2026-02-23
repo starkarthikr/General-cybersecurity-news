@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More",
+    "link": "https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html",
+    "published": "Mon, 23 Feb 2026 18:30:00 +0530",
+    "summary": "Security news rarely moves in a straight line. This week, it feels more like a series of sharp turns, some happening quietly in the background, others playing out in public view. The details are different, but the pressure points are familiar.\nAcross devices, cloud services, research labs, and even everyday apps, the line between normal behavior and hidden risk keeps getting thinner. Tools",
+    "analysis": {
+      "issue": "Zero-day exploits, AI-driven Android malware, firmware backdoors, password manager trust gaps, rising DDoS define this week’s critical cyber threats",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure",
     "link": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
     "published": "Mon, 23 Feb 2026 17:28:00 +0530",
@@ -166,20 +186,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
-    "link": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html",
-    "published": "Fri, 20 Feb 2026 17:25:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new ClickFix campaign that abuses compromised legitimate sites to deliver a previously undocumented remote access trojan (RAT) called MIMICRAT (aka AstarionRAT).\n\"The campaign demonstrates a high level of operational sophistication: compromised sites spanning multiple industries and geographies serve as delivery infrastructure, a multi-stage",
+    "source": "Bleeping Computer",
+    "title": "When identity isn’t the weak link, access still is",
+    "link": "https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/",
+    "published": "Mon, 23 Feb 2026 10:00:10 -0500",
+    "summary": "Stolen tokens and compromised devices let attackers reuse trust without breaking authentication. Specops Software explains why identity alone isn't enough and how continuous device verification strengthens Zero Trust. [...]",
     "analysis": {
-      "issue": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "issue": "For years, identity has been treated as the foundation of workforce security",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "APT",
+        "Supply Chain"
       ]
     }
   },
@@ -196,8 +217,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-49113",
-        "CVE-2025-68461"
+        "CVE-2025-68461",
+        "CVE-2025-49113"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -354,24 +375,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Mississippi medical center closes all clinics after ransomware attack",
-    "link": "https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/",
-    "published": "Fri, 20 Feb 2026 06:50:14 -0500",
-    "summary": "The University of Mississippi Medical Center (UMMC) closed all its clinic locations statewide on Thursday following a ransomware attack. [...]",
-    "analysis": {
-      "issue": "The University of Mississippi Medical Center (UMMC) closed all its clinic locations statewide on Thursday following a ransomware attack",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
     "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
@@ -421,14 +424,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21256",
-        "CVE-2026-21513",
-        "CVE-2026-21514",
-        "CVE-2026-21533",
+        "CVE-2026-21509",
         "CVE-2026-21516",
         "CVE-2026-21525",
-        "CVE-2026-21509",
+        "CVE-2026-21256",
         "CVE-2026-21523",
+        "CVE-2026-21533",
+        "CVE-2026-21514",
+        "CVE-2026-21513",
         "CVE-2026-21519",
         "CVE-2026-21510"
       ],
@@ -508,8 +511,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20953",
         "CVE-2026-20805",
+        "CVE-2026-20953",
         "CVE-2026-20952"
       ],
       "threat_categories": [
@@ -577,6 +580,20 @@
   },
   {
     "source": "Security Week",
+    "title": "US Healthcare Diagnostic Firm Says 140,000 Affected by Data Breach",
+    "link": "https://www.securityweek.com/us-healthcare-diagnostic-firm-says-140000-affected-by-data-breach/",
+    "published": "Mon, 23 Feb 2026 15:35:32 +0000",
+    "summary": "<p>The Everest ransomware group has taken credit for a hacker attack on Vikor Scientific, now called Vanta Diagnostics.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-healthcare-diagnostic-firm-says-140000-affected-by-data-breach/\">US Healthcare Diagnostic Firm Says 140,000 Affected by Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Ukrainian Gets 5 Years in US Prison for Aiding North Korean IT Fraud",
+    "link": "https://www.securityweek.com/ukrainian-gets-5-years-in-us-prison-for-aiding-north-korean-it-fraud/",
+    "published": "Mon, 23 Feb 2026 13:38:19 +0000",
+    "summary": "<p>Oleksandr Didenko sold the stolen identities of US citizens, allowing North Koreans to get hired using freelance work platforms.</p>\n<p>The post <a href=\"https://www.securityweek.com/ukrainian-gets-5-years-in-us-prison-for-aiding-north-korean-it-fraud/\">Ukrainian Gets 5 Years in US Prison for Aiding North Korean IT Fraud</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Autonomous AI Agents Provide New Class of Supply Chain Attack",
     "link": "https://www.securityweek.com/autonomous-ai-agents-provide-new-class-of-supply-chain-attack/",
     "published": "Mon, 23 Feb 2026 12:30:00 +0000",
@@ -630,20 +647,6 @@
     "link": "https://www.securityweek.com/nists-quantum-breakthrough-single-photons-produced-on-a-chip/",
     "published": "Fri, 20 Feb 2026 15:48:12 +0000",
     "summary": "<p>NIST’s single photon chip will likely make QKD an option for a wider range of companies. </p>\n<p>The post <a href=\"https://www.securityweek.com/nists-quantum-breakthrough-single-photons-produced-on-a-chip/\">NIST’s Quantum Breakthrough: Single Photons Produced on a Chip</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "In Other News: Ransomware Shuts US Clinics, ICS Vulnerability Surge, European Parliament Bans AI",
-    "link": "https://www.securityweek.com/in-other-news-ransomware-shuts-us-clinics-ics-vulnerability-surge-european-parliament-bans-ai/",
-    "published": "Fri, 20 Feb 2026 15:30:00 +0000",
-    "summary": "<p>Other noteworthy stories that might have slipped under the radar: Axonius lays off employees, Abu Dhabi conference data leak, HackerOne addresses AI concerns.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-ransomware-shuts-us-clinics-ics-vulnerability-surge-european-parliament-bans-ai/\">In Other News: Ransomware Shuts US Clinics, ICS Vulnerability Surge, European Parliament Bans AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "BeyondTrust Vulnerability Exploited in Ransomware Attacks",
-    "link": "https://www.securityweek.com/beyondtrust-vulnerability-exploited-in-ransomware-attacks/",
-    "published": "Fri, 20 Feb 2026 12:29:46 +0000",
-    "summary": "<p>CISA has updated its KEV entry for CVE-2026-1731 to alert organizations of exploitation in ransomware attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/beyondtrust-vulnerability-exploited-in-ransomware-attacks/\">BeyondTrust Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -750,13 +753,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21513",
         "CVE-2026-21522",
-        "CVE-2026-21514",
         "CVE-2026-21525",
+        "CVE-2026-23655",
+        "CVE-2026-21514",
+        "CVE-2026-21513",
         "CVE-2026-21519",
-        "CVE-2026-21510",
-        "CVE-2026-23655"
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"

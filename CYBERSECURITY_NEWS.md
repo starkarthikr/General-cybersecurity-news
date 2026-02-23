@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-23 13:20:03 UTC
+**Last Updated:** 2026-02-23 17:39:17 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [How Exposed Endpoints Increase Risk Across LLM Infrastructure](https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html)
+### 1. [⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More](https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 23 Feb 2026 18:30:00 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware, DDoS  
+
+---
+
+### 2. [How Exposed Endpoints Increase Risk Across LLM Infrastructure](https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Feb 2026 17:28:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens](https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html)
+### 3. [Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens](https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Feb 2026 15:50:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP](https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html)
+### 4. [MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP](https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Feb 2026 12:55:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries](https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html)
+### 5. [AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries](https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Feb 2026 20:19:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
+### 6. [Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Feb 2026 13:28:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html)
+### 7. [CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Feb 2026 12:51:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html)
+### 8. [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Feb 2026 10:00:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration](https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html)
+### 9. [BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration](https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Feb 2026 21:15:00 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems](https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html)
+### 10. [Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems](https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Feb 2026 19:50:00 +0530  
@@ -86,26 +95,26 @@
 
 ---
 
-### 10. [ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware](https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html)
+### 11. [When identity isn’t the weak link, access still is](https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 20 Feb 2026 17:25:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 23 Feb 2026 10:00:10 -0500  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** APT, Supply Chain  
 
 ---
 
-### 11. [CISA: Recently patched RoundCube flaws now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/)
+### 12. [CISA: Recently patched RoundCube flaws now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 23 Feb 2026 06:44:21 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2025-49113, CVE-2025-68461  
+**CVEs:** CVE-2025-68461, CVE-2025-49113  
 **Categories:** Vulnerability  
 
 ---
 
-### 12. [Arkanix Stealer pops up as short-lived AI info-stealer experiment](https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/)
+### 13. [Arkanix Stealer pops up as short-lived AI info-stealer experiment](https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 22 Feb 2026 10:33:26 -0500  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [Predator spyware hooks iOS SpringBoard to hide mic, camera activity](https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/)
+### 14. [Predator spyware hooks iOS SpringBoard to hide mic, camera activity](https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Feb 2026 11:13:24 -0500  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks](https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/)
+### 15. [Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks](https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Feb 2026 08:50:58 -0500  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Japanese tech giant Advantest hit by ransomware attack](https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/)
+### 16. [Japanese tech giant Advantest hit by ransomware attack](https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 13:30:44 -0500  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [CISA: BeyondTrust RCE flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/)
+### 17. [CISA: BeyondTrust RCE flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 12:02:25 -0500  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [Data breach at French bank registry impacts 1.2 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/)
+### 18. [Data breach at French bank registry impacts 1.2 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 11:20:40 -0500  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [Why the shift left dream has become a nightmare for security and developers](https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/)
+### 19. [Why the shift left dream has become a nightmare for security and developers](https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 09:45:54 -0500  
@@ -169,21 +178,12 @@
 
 ---
 
-### 19. [PayPal discloses data breach that exposed user info for 6 months](https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/)
+### 20. [PayPal discloses data breach that exposed user info for 6 months](https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Feb 2026 08:12:01 -0500  
 **Severity:** Low  
 **Categories:** Data Breach  
-
----
-
-### 20. [Mississippi medical center closes all clinics after ransomware attack](https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 20 Feb 2026 06:50:14 -0500  
-**Severity:** Low  
-**Categories:** Ransomware  
 
 ---
 
@@ -210,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21256, CVE-2026-21513, CVE-2026-21514, CVE-2026-21533, CVE-2026-21516, CVE-2026-21525, CVE-2026-21509, CVE-2026-21523, CVE-2026-21519, CVE-2026-21510  
+**CVEs:** CVE-2026-21509, CVE-2026-21516, CVE-2026-21525, CVE-2026-21256, CVE-2026-21523, CVE-2026-21533, CVE-2026-21514, CVE-2026-21513, CVE-2026-21519, CVE-2026-21510  
 **Categories:** Vulnerability  
 
 ---
@@ -247,7 +247,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
+**CVEs:** CVE-2026-20805, CVE-2026-20953, CVE-2026-20952  
 **Categories:** Vulnerability  
 
 ---
@@ -279,73 +279,73 @@
 
 ---
 
-### 31. [Autonomous AI Agents Provide New Class of Supply Chain Attack](https://www.securityweek.com/autonomous-ai-agents-provide-new-class-of-supply-chain-attack/)
+### 31. [US Healthcare Diagnostic Firm Says 140,000 Affected by Data Breach](https://www.securityweek.com/us-healthcare-diagnostic-firm-says-140000-affected-by-data-breach/)
+
+**Source:** Security Week  
+**Published:** Mon, 23 Feb 2026 15:35:32 +0000  
+
+---
+
+### 32. [Ukrainian Gets 5 Years in US Prison for Aiding North Korean IT Fraud](https://www.securityweek.com/ukrainian-gets-5-years-in-us-prison-for-aiding-north-korean-it-fraud/)
+
+**Source:** Security Week  
+**Published:** Mon, 23 Feb 2026 13:38:19 +0000  
+
+---
+
+### 33. [Autonomous AI Agents Provide New Class of Supply Chain Attack](https://www.securityweek.com/autonomous-ai-agents-provide-new-class-of-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Mon, 23 Feb 2026 12:30:00 +0000  
 
 ---
 
-### 32. [Romanian Hacker Pleads Guilty to Selling Access to US State Network](https://www.securityweek.com/romanian-hacker-pleads-guilty-to-selling-access-to-us-state-network/)
+### 34. [Romanian Hacker Pleads Guilty to Selling Access to US State Network](https://www.securityweek.com/romanian-hacker-pleads-guilty-to-selling-access-to-us-state-network/)
 
 **Source:** Security Week  
 **Published:** Mon, 23 Feb 2026 11:53:35 +0000  
 
 ---
 
-### 33. [Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS](https://www.securityweek.com/hundreds-of-fortigate-firewalls-hacked-in-ai-powered-attacks-aws/)
+### 35. [Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS](https://www.securityweek.com/hundreds-of-fortigate-firewalls-hacked-in-ai-powered-attacks-aws/)
 
 **Source:** Security Week  
 **Published:** Mon, 23 Feb 2026 11:34:35 +0000  
 
 ---
 
-### 34. [Recent RoundCube Webmail Vulnerability Exploited in Attacks](https://www.securityweek.com/recent-roundcube-webmail-vulnerability-exploited-in-attacks/)
+### 36. [Recent RoundCube Webmail Vulnerability Exploited in Attacks](https://www.securityweek.com/recent-roundcube-webmail-vulnerability-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Mon, 23 Feb 2026 10:47:45 +0000  
 
 ---
 
-### 35. [Mississippi Hospital System Closes All Clinics After Ransomware Attack](https://www.securityweek.com/mississippi-hospital-system-closes-all-clinics-after-ransomware-attack/)
+### 37. [Mississippi Hospital System Closes All Clinics After Ransomware Attack](https://www.securityweek.com/mississippi-hospital-system-closes-all-clinics-after-ransomware-attack/)
 
 **Source:** Security Week  
 **Published:** Mon, 23 Feb 2026 10:29:13 +0000  
 
 ---
 
-### 36. [PayPal Data Breach Led to Fraudulent Transactions](https://www.securityweek.com/paypal-data-breach-led-to-fraudulent-transactions/)
+### 38. [PayPal Data Breach Led to Fraudulent Transactions](https://www.securityweek.com/paypal-data-breach-led-to-fraudulent-transactions/)
 
 **Source:** Security Week  
 **Published:** Mon, 23 Feb 2026 09:13:25 +0000  
 
 ---
 
-### 37. [Critical Grandstream Phone Vulnerability Exposes Calls to Interception](https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/)
+### 39. [Critical Grandstream Phone Vulnerability Exposes Calls to Interception](https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/)
 
 **Source:** Security Week  
 **Published:** Sat, 21 Feb 2026 12:00:00 +0000  
 
 ---
 
-### 38. [NIST’s Quantum Breakthrough: Single Photons Produced on a Chip](https://www.securityweek.com/nists-quantum-breakthrough-single-photons-produced-on-a-chip/)
+### 40. [NIST’s Quantum Breakthrough: Single Photons Produced on a Chip](https://www.securityweek.com/nists-quantum-breakthrough-single-photons-produced-on-a-chip/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Feb 2026 15:48:12 +0000  
-
----
-
-### 39. [In Other News: Ransomware Shuts US Clinics, ICS Vulnerability Surge, European Parliament Bans AI](https://www.securityweek.com/in-other-news-ransomware-shuts-us-clinics-ics-vulnerability-surge-european-parliament-bans-ai/)
-
-**Source:** Security Week  
-**Published:** Fri, 20 Feb 2026 15:30:00 +0000  
-
----
-
-### 40. [BeyondTrust Vulnerability Exploited in Ransomware Attacks](https://www.securityweek.com/beyondtrust-vulnerability-exploited-in-ransomware-attacks/)
-
-**Source:** Security Week  
-**Published:** Fri, 20 Feb 2026 12:29:46 +0000  
 
 ---
 
@@ -399,7 +399,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21513, CVE-2026-21522, CVE-2026-21514, CVE-2026-21525, CVE-2026-21519, CVE-2026-21510, CVE-2026-23655  
+**CVEs:** CVE-2026-21522, CVE-2026-21525, CVE-2026-23655, CVE-2026-21514, CVE-2026-21513, CVE-2026-21519, CVE-2026-21510  
 **Categories:** Vulnerability  
 
 ---
