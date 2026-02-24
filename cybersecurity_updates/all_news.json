@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "APT28 Targeted European Entities Using Webhook-Based Macro Malware",
+    "link": "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html",
+    "published": "Tue, 24 Feb 2026 01:11:00 +0530",
+    "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 has been attributed to a new campaign targeting specific entities in Western and Central Europe.\nThe activity, per S2 Grupo's LAB52 threat intelligence team, was active between September 2025 and January 2026. It has been codenamed Operation MacroMaze. \"The campaign relies on basic tooling and the exploitation of legitimate services",
+    "analysis": {
+      "issue": "APT28’s Operation MacroMaze used macro-laced documents and webhook",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb",
+    "link": "https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html",
+    "published": "Mon, 23 Feb 2026 23:29:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new cryptojacking campaign that uses pirated software bundles as lures to deploy a bespoke XMRig miner program on compromised hosts.\n\"Analysis of the recovered dropper, persistence triggers, and mining payload reveals a sophisticated, multi-stage infection prioritizing maximum cryptocurrency mining hashrate, often destabilizing the victim",
+    "analysis": {
+      "issue": "Researchers uncover wormable XMRig campaign using BYOVD exploit and LLM-built React2Shell attacks hitting 90+ hosts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More",
     "link": "https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html",
     "published": "Mon, 23 Feb 2026 18:30:00 +0530",
@@ -146,42 +183,76 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
-    "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
-    "published": "Fri, 20 Feb 2026 21:15:00 +0530",
-    "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of malicious actions, including deploying VShell and&nbsp;\nThe vulnerability, tracked as CVE-2026-1731 (CVSS score: 9.9), allows attackers to execute operating system commands in the context of the",
+    "source": "Bleeping Computer",
+    "title": "Android mental health apps with 14.7M installs filled with security flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/",
+    "published": "Mon, 23 Feb 2026 17:59:04 -0500",
+    "summary": "Several mental health mobile apps with millions of downloads on Google Play contain security vulnerabilities that could expose users' sensitive medical information. [...]",
     "analysis": {
-      "issue": "CVE-2026-1731 in BeyondTrust RS and PRA is exploited for ransomware, web shells, C2, and data theft across multiple sectors",
+      "issue": "Several mental health mobile apps with millions of downloads on Google Play contain security vulnerabilities that could expose users’ sensitive medical information",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-1731"
-      ],
+      "severity": "Critical",
+      "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
-    "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
-    "published": "Fri, 20 Feb 2026 19:50:00 +0530",
-    "summary": "In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI agent that has become exceedingly popular in the past few months.\n\"On February 17, 2026, at 3:26 AM PT, an unauthorized party used a compromised npm publish token to publish an update to Cline CLI",
+    "source": "Bleeping Computer",
+    "title": "Spain arrests suspected hacktivists for DDoSing govt sites",
+    "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/",
+    "published": "Mon, 23 Feb 2026 16:59:42 -0500",
+    "summary": "Spanish authorities have arrested four alleged members of a hacktivist group believed to have carried out cyberattacks targeting government ministries, political parties, and various public institutions. [...]",
     "analysis": {
-      "issue": "0 was published with a stolen npm token, installing OpenClaw in an 8-hour attack affecting ~4,000 downloads",
+      "issue": "Spanish authorities have arrested four alleged members of a hacktivist group believed to have carried out cyberattacks targeting government ministries, political parties, and various public institutions",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Supply Chain"
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft says bug in classic Outlook hides the mouse pointer",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/",
+    "published": "Mon, 23 Feb 2026 14:40:42 -0500",
+    "summary": "Microsoft is investigating a known issue that causes the mouse pointer to disappear in the classic Outlook desktop email client for some users. [...]",
+    "analysis": {
+      "issue": "Microsoft is investigating a known issue that causes the mouse pointer to disappear in the classic Outlook desktop email client for some users",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Ad tech firm Optimizely confirms data breach after vishing attack",
+    "link": "https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/",
+    "published": "Mon, 23 Feb 2026 13:04:01 -0500",
+    "summary": "New York-based ad tech company Optimizely has notified an undisclosed number of customers of a data breach after threat actors compromised some of its systems in a voice phishing attack. [...]",
+    "analysis": {
+      "issue": "New York-based ad tech company Optimizely has notified an undisclosed number of customers of a data breach after threat actors compromised some of its systems in a voice phishing attack",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Malware",
+        "Phishing"
       ]
     }
   },
@@ -300,81 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CISA: BeyondTrust RCE flaw now exploited in ransomware attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/",
-    "published": "Fri, 20 Feb 2026 12:02:25 -0500",
-    "summary": "Hackers are actively exploiting the CVE-2026-1731 vulnerability in the BeyondTrust Remote Support product, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) warns. [...]",
-    "analysis": {
-      "issue": "Hackers are actively exploiting the CVE-2026-1731 vulnerability in the BeyondTrust Remote Support product, the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-1731"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Data breach at French bank registry impacts 1.2 million accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/",
-    "published": "Fri, 20 Feb 2026 11:20:40 -0500",
-    "summary": "The French Ministry of Finance has published an announcement informing of a cybersecurity incident that has impacted 1.2 million accounts. [...]",
-    "analysis": {
-      "issue": "The French Ministry of Finance has disclosed a cybersecurity incident that impacted data associated with 1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Why the shift left dream has become a nightmare for security and developers",
-    "link": "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/",
-    "published": "Fri, 20 Feb 2026 09:45:54 -0500",
-    "summary": "The \"shift left\" approach has increased pressure on developers, as speed demands override security checks in modern CI pipelines. Qualys explains how analyzing 34,000 public container images revealed 7.3% were malicious and why security must be enforced at the infrastructure layer by default. [...]",
-    "analysis": {
-      "issue": "Written by Ivan Milenkovic, Vice President Risk Technology EMEA, Qualys For the better part of the last decade,we have engaged in a comfortable fiction around security and development",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "PayPal discloses data breach that exposed user info for 6 months",
-    "link": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
-    "published": "Fri, 20 Feb 2026 08:12:01 -0500",
-    "summary": "PayPal is notifying customers of a data breach after a software error in a loan application exposed their sensitive personal information, including Social Security numbers, for nearly 6 months last year. [...]",
-    "analysis": {
-      "issue": "PayPal is notifying customers of a data breach after a software error in a loan application exposed their sensitive personal information, including Social Security numbers, for nearly 6 months last year",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
     "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
@@ -424,16 +420,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21509",
         "CVE-2026-21516",
+        "CVE-2026-21509",
+        "CVE-2026-21519",
         "CVE-2026-21525",
         "CVE-2026-21256",
         "CVE-2026-21523",
-        "CVE-2026-21533",
+        "CVE-2026-21510",
         "CVE-2026-21514",
         "CVE-2026-21513",
-        "CVE-2026-21519",
-        "CVE-2026-21510"
+        "CVE-2026-21533"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -511,8 +507,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20805",
         "CVE-2026-20953",
+        "CVE-2026-20805",
         "CVE-2026-20952"
       ],
       "threat_categories": [
@@ -753,13 +749,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21522",
         "CVE-2026-21525",
-        "CVE-2026-23655",
-        "CVE-2026-21514",
-        "CVE-2026-21513",
         "CVE-2026-21519",
-        "CVE-2026-21510"
+        "CVE-2026-23655",
+        "CVE-2026-21522",
+        "CVE-2026-21510",
+        "CVE-2026-21514",
+        "CVE-2026-21513"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1024,198 +1020,20 @@
     }
   },
   {
-    "source": "Threat Post",
-    "title": "Student Loan Breach Exposes 2.5M Records",
-    "link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
-    "published": "Wed, 31 Aug 2022 12:57:48 +0000",
-    "summary": "2.5 million people were affected, in a breach that could spell more trouble down the line.",
+    "source": "Malwarebytes",
+    "title": "OpenClaw: What is it and can you use it safely?",
+    "link": "https://www.malwarebytes.com/blog/news/2026/02/openclaw-what-is-it-and-can-you-use-it-safely",
+    "published": "Mon, 23 Feb 2026 21:10:50 GMT",
+    "summary": "OpenClaw is a hot topic at the moment. But what is it and how can you use the 24/7 AI assistant in a safe way?",
     "analysis": {
-      "issue": "5 million people were affected, in a breach that could spell more trouble down the line",
+      "issue": "An AI tool with a funny name has caused quite a commotion as of late—including some allegations of machine consciousness—so here is a breakdown on OpenClaw",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Threat Post",
-    "title": "Watering Hole Attacks Push ScanBox Keylogger",
-    "link": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/",
-    "published": "Tue, 30 Aug 2022 16:00:43 +0000",
-    "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.",
-    "analysis": {
-      "issue": "Share this article: Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Medium",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Threat Post",
-    "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
-    "link": "https://threatpost.com/0ktapus-victimize-130-firms/180487/",
-    "published": "Mon, 29 Aug 2022 14:56:19 +0000",
-    "summary": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.",
-    "analysis": {
-      "issue": "Share this article: Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Threat Post",
-    "title": "Ransomware Attacks are on the Rise",
-    "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
-    "published": "Fri, 26 Aug 2022 16:44:27 +0000",
-    "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
-    "analysis": {
-      "issue": "Share this article: Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Threat Post",
-    "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
-    "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
-    "published": "Thu, 25 Aug 2022 18:47:15 +0000",
-    "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
-    "analysis": {
-      "issue": "Share this article: Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2021-36260"
-      ],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Threat Post",
-    "title": "Twitter Whistleblower Complaint: The TL;DR Version",
-    "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
-    "published": "Wed, 24 Aug 2022 14:17:04 +0000",
-    "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.",
-    "analysis": {
-      "issue": "Share this article: Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Threat Post",
-    "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
-    "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
-    "published": "Tue, 23 Aug 2022 13:19:58 +0000",
-    "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
-    "analysis": {
-      "issue": "Share this article: CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2022-0028"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Threat Post",
-    "title": "Fake Reservation Links Prey on Weary Travelers",
-    "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
-    "published": "Mon, 22 Aug 2022 13:59:06 +0000",
-    "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
-    "analysis": {
-      "issue": "Share this article: Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2017-11882"
-      ],
-      "threat_categories": [
-        "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Threat Post",
-    "title": "iPhone Users Urged to Update to Patch 2 Zero-Days",
-    "link": "https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/",
-    "published": "Fri, 19 Aug 2022 15:25:56 +0000",
-    "summary": "Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.",
-    "analysis": {
-      "issue": "Share this article: Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Threat Post",
-    "title": "Google Patches Chrome’s Fifth Zero-Day of the Year",
-    "link": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/",
-    "published": "Thu, 18 Aug 2022 14:31:38 +0000",
-    "summary": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.",
-    "analysis": {
-      "issue": "Share this article: An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2022-2856"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1385,22 +1203,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Betterment data breach might be worse than we thought",
-    "link": "https://www.malwarebytes.com/blog/news/2026/02/betterment-data-breach-might-be-worse-than-we-thought",
-    "published": "Wed, 18 Feb 2026 17:09:02 GMT",
-    "summary": "This breach now appears far more serious. The leaked data includes rich personal and financial details that phishers could use.",
+    "source": "Crowdstrike Blog",
+    "title": "The Art of Deception: How Threat Actors Master Typosquatting Campaigns to Bypass Detection",
+    "link": "https://www.crowdstrike.com/en-us/blog/the-art-of-deception-how-threat-actors-master-typosquatting-campaigns-to-bypass-detection/",
+    "published": "Feb 23, 2026 00:00:00-0600",
+    "summary": "",
     "analysis": {
-      "issue": "Betterment LLC is an investment advisor registered with US Securities and Exchange Commission (SEC)",
+      "issue": "Learn about typosquatting, a technique employed by threat actors, key adversary tactics, and how to defend against it",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Phishing"
+        "General Security"
       ]
     }
   },
@@ -1556,24 +1372,6 @@
     "summary": "",
     "analysis": {
       "issue": "Learn what OpenClaw is, how it is deployed, how it is running, whether it is exposed, and how CrowdStrike can help",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/",
-    "published": "Feb 03, 2026 00:00:00-0800",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike was named a Customers’ Choice in the 2026 Gartner Peer Insights Voice of the Customer for Application Security Posture Management Tools",
       "solution": null,
       "cause": null,
       "timeline": null,
