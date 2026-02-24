@@ -1,6 +1,61 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
+    "link": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
+    "published": "Tue, 24 Feb 2026 17:28:00 +0530",
+    "summary": "Most identity programs still prioritize work the way they prioritize IT tickets: by volume, loudness, or “what failed a control check.” That approach breaks the moment your environment stops being mostly-human and mostly-onboarded.\nIn modern enterprises, identity risk is created by a compound of factors: control posture, hygiene, business context, and intent. Any one of these can perhaps be",
+    "analysis": {
+      "issue": "Identity risk escalates when control gaps, hygiene failures, impact, and intent align, forming toxic combinations that drive real breaches",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks",
+    "link": "https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html",
+    "published": "Tue, 24 Feb 2026 17:22:00 +0530",
+    "summary": "The North Korea-linked Lazarus Group (aka Diamond Sleet and Pompilus) has been observed using Medusa ransomware in an attack targeting an unnamed entity in the Middle East, according to a new report by the Symantec and Carbon Black Threat Hunter Team.\nBroadcom's threat intelligence division said it also identified the same threat actors mounting an unsuccessful attack against a healthcare",
+    "analysis": {
+      "issue": "Lazarus Group used Medusa ransomware in Middle East and U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors",
+    "link": "https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html",
+    "published": "Tue, 24 Feb 2026 15:24:00 +0530",
+    "summary": "The threat activity cluster known as UnsolicitedBooker has been observed targeting telecommunications companies in Kyrgyzstan and Tajikistan, marking a shift from prior attacks aimed at Saudi Arabian entities.\nThe attacks involve the deployment of two distinct backdoors codenamed LuciDoor and MarsSnake, according to a report published by Positive Technologies last week.\n\"The group used several",
+    "analysis": {
+      "issue": "UnsolicitedBooker targets Central Asian telecoms with LuciDoor and MarsSnake, while PseudoSticky and Cloud Atlas hit Russia",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model",
     "link": "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html",
     "published": "Tue, 24 Feb 2026 11:34:00 +0530",
@@ -129,56 +184,61 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
-    "link": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
-    "published": "Sat, 21 Feb 2026 20:19:00 +0530",
-    "summary": "A Russian-speaking, financially motivated threat actor has been observed taking advantage of commercial generative artificial intelligence (AI) services to compromise over 600 FortiGate devices located in 55 countries.\nThat's according to new findings from Amazon Threat Intelligence, which said it observed the activity between January 11 and February 18, 2026.\n\"No exploitation of FortiGate",
+    "source": "Bleeping Computer",
+    "title": "Critical SolarWinds Serv-U flaws offer root access to servers",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/",
+    "published": "Tue, 24 Feb 2026 08:00:45 -0500",
+    "summary": "SolarWinds has patched four critical Serv-U remote code execution vulnerabilities that could grant attackers root access to unpatched servers. [...]",
     "analysis": {
-      "issue": "AI-augmented actor breached 600+ FortiGate devices in 55 countries using weak credentials and exposed ports, Amazon reports",
+      "issue": "SolarWinds has released security updates to patch four critical Serv-U remote code execution vulnerabilities that could grant attackers root access to unpatched servers",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning",
-    "link": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html",
-    "published": "Sat, 21 Feb 2026 13:28:00 +0530",
-    "summary": "Artificial intelligence (AI) company Anthropic has begun to roll out a new security feature for Claude Code that can scan a user's software codebase for vulnerabilities and suggest patches.\nThe capability, called Claude Code Security, is currently available in a limited research preview to Enterprise and Team customers.\n\"It scans codebases for security vulnerabilities and suggests targeted",
-    "analysis": {
-      "issue": "Anthropic unveils Claude Code Security, an AI tool scanning codebases for vulnerabilities with human-reviewed patch suggestions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-40538"
+      ],
       "threat_categories": [
         "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog",
-    "link": "https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html",
-    "published": "Sat, 21 Feb 2026 12:51:00 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Roundcube webmail software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-49113 (CVSS score: 9.9) - A deserialization of untrusted data vulnerability that allows remote code",
+    "source": "Bleeping Computer",
+    "title": "ShinyHunters extortion gang claims Odido breach affecting millions",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/",
+    "published": "Tue, 24 Feb 2026 06:40:20 -0500",
+    "summary": "The ShinyHunters extortion gang has claimed responsibility for breaching Dutch telecommunications provider Odido and stealing millions of user records from its compromised systems. [...]",
     "analysis": {
-      "issue": "CISA added two actively exploited Roundcube flaws to its KEV list, including a 9",
+      "issue": "The ShinyHunters extortion gang has claimed responsibility for breaching Dutch telecommunications provider Odido and stealing millions of user records from its compromised systems",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "North Korean Lazarus group linked to Medusa ransomware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/",
+    "published": "Tue, 24 Feb 2026 06:00:00 -0500",
+    "summary": "North Korean state-backed hackers associated with the Lazarus threat group are targeting U.S. healthcare organizations in extortion attacks using the Medusa ransomware. [...]",
+    "analysis": {
+      "issue": "North Korean state-backed hackers associated with the Lazarus threat group are targeting U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "APT"
       ]
     }
   },
@@ -315,62 +375,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Predator spyware hooks iOS SpringBoard to hide mic, camera activity",
-    "link": "https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/",
-    "published": "Sat, 21 Feb 2026 11:13:24 -0500",
-    "summary": "Intellexa's Predator spyware can hide iOS recording indicators while secretly streaming camera and microphone feeds to its operators. [...]",
-    "analysis": {
-      "issue": "Intellexa’s Predator spyware can hide iOS recording indicators while secretly streaming camera and microphone feeds to its operators",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks",
-    "link": "https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/",
-    "published": "Sat, 21 Feb 2026 08:50:58 -0500",
-    "summary": "Amazon is warning that a Russian-speaking hacker used multiple generative AI services as part of a campaign that breached more than 600 FortiGate firewalls across 55 countries in five weeks. [...]",
-    "analysis": {
-      "issue": "Article updated at the bottom with additional technical details about this campaign",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Japanese tech giant Advantest hit by ransomware attack",
-    "link": "https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/",
-    "published": "Fri, 20 Feb 2026 13:30:44 -0500",
-    "summary": "Advantest Corporation disclosed that its corporate network has been targeted in a ransomware attack that may have affected customer or employee data. [...]",
-    "analysis": {
-      "issue": "Advantest Corporation disclosed that its corporate network has been targeted in a ransomware attack that may have affected customer or employee data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
     "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
@@ -420,16 +424,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21514",
-        "CVE-2026-21510",
-        "CVE-2026-21533",
-        "CVE-2026-21516",
-        "CVE-2026-21519",
         "CVE-2026-21256",
-        "CVE-2026-21525",
-        "CVE-2026-21513",
         "CVE-2026-21509",
-        "CVE-2026-21523"
+        "CVE-2026-21533",
+        "CVE-2026-21510",
+        "CVE-2026-21516",
+        "CVE-2026-21523",
+        "CVE-2026-21525",
+        "CVE-2026-21514",
+        "CVE-2026-21513",
+        "CVE-2026-21519"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -507,9 +511,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20953",
+        "CVE-2026-20805",
         "CVE-2026-20952",
-        "CVE-2026-20805"
+        "CVE-2026-20953"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -576,6 +580,27 @@
   },
   {
     "source": "Security Week",
+    "title": "GitHub Issues Abused in Copilot Attack Leading to Repository Takeover",
+    "link": "https://www.securityweek.com/github-issues-abused-in-copilot-attack-leading-to-repository-takeover/",
+    "published": "Tue, 24 Feb 2026 12:26:53 +0000",
+    "summary": "<p>Attackers can inject malicious instructions in a GitHub Issue that are automatically processed by Copilot when launching a Codespace from that issue.</p>\n<p>The post <a href=\"https://www.securityweek.com/github-issues-abused-in-copilot-attack-leading-to-repository-takeover/\">GitHub Issues Abused in Copilot Attack Leading to Repository Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Taiwan Security Firm Confirms Flaw Flagged by CISA Likely Exploited by Chinese APTs",
+    "link": "https://www.securityweek.com/taiwan-security-firm-confirms-flaw-flagged-by-cisa-likely-exploited-by-chinese-apt/",
+    "published": "Tue, 24 Feb 2026 12:00:51 +0000",
+    "summary": "<p>The vulnerability in TeamT5 ThreatSonar Anti-Ransomware was recently added to CISA’s KEV catalog.</p>\n<p>The post <a href=\"https://www.securityweek.com/taiwan-security-firm-confirms-flaw-flagged-by-cisa-likely-exploited-by-chinese-apt/\">Taiwan Security Firm Confirms Flaw Flagged by CISA Likely Exploited by Chinese APTs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Anonymous Fénix Members Arrested in Spain",
+    "link": "https://www.securityweek.com/anonymous-fenix-members-arrested-in-spain/",
+    "published": "Tue, 24 Feb 2026 10:05:57 +0000",
+    "summary": "<p>The group’s administrator and moderator were arrested last year, and two other members were arrested this month.</p>\n<p>The post <a href=\"https://www.securityweek.com/anonymous-fenix-members-arrested-in-spain/\">Anonymous Fénix Members Arrested in Spain</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "US Healthcare Diagnostic Firm Says 140,000 Affected by Data Breach",
     "link": "https://www.securityweek.com/us-healthcare-diagnostic-firm-says-140000-affected-by-data-breach/",
     "published": "Mon, 23 Feb 2026 15:35:32 +0000",
@@ -622,27 +647,6 @@
     "link": "https://www.securityweek.com/mississippi-hospital-system-closes-all-clinics-after-ransomware-attack/",
     "published": "Mon, 23 Feb 2026 10:29:13 +0000",
     "summary": "<p>A ransomware attack forced the University of Mississippi Medical Center to close all of its roughly three dozen clinics around the state and cancel elective procedures.</p>\n<p>The post <a href=\"https://www.securityweek.com/mississippi-hospital-system-closes-all-clinics-after-ransomware-attack/\">Mississippi Hospital System Closes All Clinics After Ransomware Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "PayPal Data Breach Led to Fraudulent Transactions",
-    "link": "https://www.securityweek.com/paypal-data-breach-led-to-fraudulent-transactions/",
-    "published": "Mon, 23 Feb 2026 09:13:25 +0000",
-    "summary": "<p>PayPal blamed an application error for the exposure of customer personal information for nearly 6 months. </p>\n<p>The post <a href=\"https://www.securityweek.com/paypal-data-breach-led-to-fraudulent-transactions/\">PayPal Data Breach Led to Fraudulent Transactions</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical Grandstream Phone Vulnerability Exposes Calls to Interception",
-    "link": "https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/",
-    "published": "Sat, 21 Feb 2026 12:00:00 +0000",
-    "summary": "<p>The flaw tracked as CVE-2026-2329 can be exploited without authentication for remote code execution with root privileges. </p>\n<p>The post <a href=\"https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/\">Critical Grandstream Phone Vulnerability Exposes Calls to Interception</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "NIST’s Quantum Breakthrough: Single Photons Produced on a Chip",
-    "link": "https://www.securityweek.com/nists-quantum-breakthrough-single-photons-produced-on-a-chip/",
-    "published": "Fri, 20 Feb 2026 15:48:12 +0000",
-    "summary": "<p>NIST’s single photon chip will likely make QKD an option for a wider range of companies. </p>\n<p>The post <a href=\"https://www.securityweek.com/nists-quantum-breakthrough-single-photons-produced-on-a-chip/\">NIST’s Quantum Breakthrough: Single Photons Produced on a Chip</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -749,13 +753,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-23655",
-        "CVE-2026-21514",
-        "CVE-2026-21510",
         "CVE-2026-21522",
-        "CVE-2026-21519",
+        "CVE-2026-21510",
+        "CVE-2026-23655",
         "CVE-2026-21525",
-        "CVE-2026-21513"
+        "CVE-2026-21514",
+        "CVE-2026-21513",
+        "CVE-2026-21519"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -834,6 +838,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Preparing for Russia’s New Generation Warfare in Europe",
+    "link": "https://www.recordedfuture.com/research/preparing-for-russias-new-generation-warfare-in-europe",
+    "published": "Tue, 24 Feb 2026 00:00:00 GMT",
+    "summary": "Russia is escalating its hybrid warfare against NATO into a coordinated, full-scale campaign blending cyber attacks, sabotage, and influence operations. Read the full report to understand what New Generation Warfare means for your organization.",
+    "analysis": {
+      "issue": "Russia is escalating its hybrid warfare against NATO into a coordinated, full-scale campaign blending cyber attacks, sabotage, and influence operations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -998,24 +1020,6 @@
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Threat and Vulnerability Management in 2026",
-    "link": "https://www.recordedfuture.com/blog/threat-and-vulnerability-management",
-    "published": "Fri, 16 Jan 2026 00:00:00 GMT",
-    "summary": "Understand the future of threat and vulnerability management (TVM). Learn what TVM is, why traditional tools fail, and how intelligence is essential in today’s landscape.",
-    "analysis": {
-      "issue": "Understand the future of threat and vulnerability management (TVM)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1217,6 +1221,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Fake Zoom meeting &#8220;update&#8221; silently installs surveillance software",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/02/fake-zoom-meeting-update-silently-installs-surveillance-software",
+    "published": "Tue, 24 Feb 2026 09:47:26 GMT",
+    "summary": "A fake Zoom meeting page looks real, triggers a bogus “update,” and silently installs surveillance software.",
+    "analysis": {
+      "issue": "A fake Zoom meeting website is silently pushing surveillance software onto Windows machines",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Refund scam impersonates Avast to harvest credit card details",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/02/refund-scam-impersonates-avast-to-harvest-credit-card-details",
     "published": "Tue, 24 Feb 2026 08:28:32 GMT",
@@ -1376,25 +1398,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Intimate products maker Tenga spilled customer data",
-    "link": "https://www.malwarebytes.com/blog/news/2026/02/intimate-products-producer-tenga-spilled-customer-data",
-    "published": "Thu, 19 Feb 2026 11:48:35 GMT",
-    "summary": "A phishing attack on a Tenga employee may have exposed US customer data. Customers should watch for sextortion-themed phishing attempts.",
-    "analysis": {
-      "issue": "Tenga confirmed reports published by several outlets that the company notified customers of a data breach",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing"
       ]
     }
   },
