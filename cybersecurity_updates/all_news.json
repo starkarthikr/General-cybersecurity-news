@@ -1,21 +1,28 @@
 [
   {
     "source": "The Hacker News",
-    "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
-    "link": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
-    "published": "Tue, 24 Feb 2026 17:28:00 +0530",
-    "summary": "Most identity programs still prioritize work the way they prioritize IT tickets: by volume, loudness, or “what failed a control check.” That approach breaks the moment your environment stops being mostly-human and mostly-onboarded.\nIn modern enterprises, identity risk is created by a compound of factors: control posture, hygiene, business context, and intent. Any one of these can perhaps be",
+    "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
+    "link": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html",
+    "published": "Tue, 24 Feb 2026 19:51:00 +0530",
+    "summary": "A Russia-aligned threat actor has been observed targeting a European financial institution as part of a social engineering attack to likely facilitate intelligence gathering or financial theft, signaling a possible expansion of the threat actor's targeting beyond Ukraine and into entities supporting the war-torn nation.\nThe activity, which targeted an unnamed entity involved in regional",
     "analysis": {
-      "issue": "Identity risk escalates when control gaps, hygiene failures, impact, and intent align, forming toxic combinations that drive real breaches",
+      "issue": "Russia-linked UAC-0050 targeted a European financial institution using a spoofed Ukrainian domain to deploy RMS remote access malware",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware"
       ]
     }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
+    "link": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
+    "published": "Tue, 24 Feb 2026 17:28:00 +0530",
+    "summary": "Most identity programs still prioritize work the way they prioritize IT tickets: by volume, loudness, or “what failed a control check.” That approach breaks the moment your environment stops being mostly-human and mostly-onboarded.\nIn modern enterprises, identity risk is created by a compound of factors: control posture, hygiene, business context, and intent. Any one of these can perhaps be"
   },
   {
     "source": "The Hacker News",
@@ -77,37 +84,14 @@
     "title": "APT28 Targeted European Entities Using Webhook-Based Macro Malware",
     "link": "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html",
     "published": "Tue, 24 Feb 2026 01:11:00 +0530",
-    "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 has been attributed to a new campaign targeting specific entities in Western and Central Europe.\nThe activity, per S2 Grupo's LAB52 threat intelligence team, was active between September 2025 and January 2026. It has been codenamed Operation MacroMaze. \"The campaign relies on basic tooling and the exploitation of legitimate services",
-    "analysis": {
-      "issue": "APT28’s Operation MacroMaze used macro-laced documents and webhook",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
+    "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 has been attributed to a new campaign targeting specific entities in Western and Central Europe.\nThe activity, per S2 Grupo's LAB52 threat intelligence team, was active between September 2025 and January 2026. It has been codenamed Operation MacroMaze. \"The campaign relies on basic tooling and the exploitation of legitimate services"
   },
   {
     "source": "The Hacker News",
     "title": "Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb",
     "link": "https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html",
     "published": "Mon, 23 Feb 2026 23:29:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new cryptojacking campaign that uses pirated software bundles as lures to deploy a bespoke XMRig miner program on compromised hosts.\n\"Analysis of the recovered dropper, persistence triggers, and mining payload reveals a sophisticated, multi-stage infection prioritizing maximum cryptocurrency mining hashrate, often destabilizing the victim",
-    "analysis": {
-      "issue": "Researchers uncover wormable XMRig campaign using BYOVD exploit and LLM-built React2Shell attacks hitting 90+ hosts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    "summary": "Cybersecurity researchers have disclosed details of a new cryptojacking campaign that uses pirated software bundles as lures to deploy a bespoke XMRig miner program on compromised hosts.\n\"Analysis of the recovered dropper, persistence triggers, and mining payload reveals a sophisticated, multi-stage infection prioritizing maximum cryptocurrency mining hashrate, often destabilizing the victim"
   },
   {
     "source": "The Hacker News",
@@ -166,20 +150,56 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP",
-    "link": "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html",
-    "published": "Mon, 23 Feb 2026 12:55:00 +0530",
-    "summary": "The Iranian hacking group known as MuddyWater (aka Earth Vetala, Mango Sandstorm, and MUDDYCOAST) has targeted several organizations and individuals mainly located across the Middle East and North Africa (MENA) region as part of a new campaign codenamed Operation Olalampo.\nThe activity, first observed on January 26, 2026, has resulted in the deployment of new malware families that share",
+    "source": "Bleeping Computer",
+    "title": "Microsoft adds Copilot data controls to all storage locations",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/",
+    "published": "Tue, 24 Feb 2026 12:30:10 -0500",
+    "summary": "Microsoft is expanding data loss prevention (DLP) controls to block the Microsoft 365 Copilot AI assistant from processing confidential Word, Excel, and PowerPoint documents, regardless of their location. [...]",
     "analysis": {
-      "issue": "MuddyWater’s Operation Olalampo targets MENA with GhostFetch, CHAR, HTTP_VIP, and AI-assisted malware since Jan 26, 2026",
+      "issue": "Microsoft is expanding data loss prevention (DLP) controls to block the Microsoft 365 Copilot AI assistant from processing confidential Word, Excel, and PowerPoint documents, regardless of their location",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Identity-First AI Security: Why CISOs Must Add Intent to the Equation",
+    "link": "https://www.bleepingcomputer.com/news/security/identity-first-ai-security-why-cisos-must-add-intent-to-the-equation/",
+    "published": "Tue, 24 Feb 2026 10:02:12 -0500",
+    "summary": "AI agents now provision infrastructure and approve actions, but many inherit over-scoped privileges without proper governance. Token Security explains why CISOs must treat agents as identities and add intent-based controls so access is granted only when purpose and context align. [...]",
+    "analysis": {
+      "issue": "Author: Itamar Apelblat, CEO and Co-Founder, Token Security Not long ago, AI deployments inside the enterprise meant copilots drafting emails or summarizing documents",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "UK fines Reddit $19 million for using children’s data unlawfully",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-fines-reddit-19-million-for-using-childrens-data-unlawfully/",
+    "published": "Tue, 24 Feb 2026 09:54:24 -0500",
+    "summary": "The UK Information Commissioner's Office (ICO) has fined Reddit £14.47 million (over $19.5 million) for collecting and using the personal information of children under 13 without adequate safeguards. [...]",
+    "analysis": {
+      "issue": "The UK Information Commissioner's Office (ICO) has fined Reddit £14",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -317,64 +337,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "When identity isn’t the weak link, access still is",
-    "link": "https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/",
-    "published": "Mon, 23 Feb 2026 10:00:10 -0500",
-    "summary": "Stolen tokens and compromised devices let attackers reuse trust without breaking authentication. Specops Software explains why identity alone isn't enough and how continuous device verification strengthens Zero Trust. [...]",
-    "analysis": {
-      "issue": "For years, identity has been treated as the foundation of workforce security",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA: Recently patched RoundCube flaws now exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/",
-    "published": "Mon, 23 Feb 2026 06:44:21 -0500",
-    "summary": "CISA flagged two Roundcube Webmail vulnerabilities as actively exploited in attacks and ordered U.S. federal agencies to patch them within three weeks. [...]",
-    "analysis": {
-      "issue": "CISA flagged two Roundcube Webmail vulnerabilities as actively exploited in attacks and ordered U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-49113",
-        "CVE-2025-68461"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Arkanix Stealer pops up as short-lived AI info-stealer experiment",
-    "link": "https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/",
-    "published": "Sun, 22 Feb 2026 10:33:26 -0500",
-    "summary": "An information-stealing malware operation named Arkanix Stealer, promoted on multiple dark web forums towards the end of 2025, was likely developed as an AI-assisted experiment. [...]",
-    "analysis": {
-      "issue": "An information-stealing malware operation named Arkanix Stealer, promoted on multiple dark web forums towards the end of 2025, was likely developed as an AI-assisted experiment",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
     "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
@@ -424,16 +386,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21256",
-        "CVE-2026-21509",
-        "CVE-2026-21533",
         "CVE-2026-21510",
         "CVE-2026-21516",
-        "CVE-2026-21523",
-        "CVE-2026-21525",
-        "CVE-2026-21514",
         "CVE-2026-21513",
-        "CVE-2026-21519"
+        "CVE-2026-21256",
+        "CVE-2026-21509",
+        "CVE-2026-21519",
+        "CVE-2026-21525",
+        "CVE-2026-21523",
+        "CVE-2026-21533",
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -511,8 +473,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20805",
         "CVE-2026-20952",
+        "CVE-2026-20805",
         "CVE-2026-20953"
       ],
       "threat_categories": [
@@ -580,6 +542,34 @@
   },
   {
     "source": "Security Week",
+    "title": "‘Arkanix Stealer’ Malware Disappears Shortly After Debut",
+    "link": "https://www.securityweek.com/arkanix-stealer-malware-disappears-shortly-after-debut/",
+    "published": "Tue, 24 Feb 2026 15:20:06 +0000",
+    "summary": "<p>Written in C++ and Python, the malware exfiltrates system information, browser data, and steals files.</p>\n<p>The post <a href=\"https://www.securityweek.com/arkanix-stealer-malware-disappears-shortly-after-debut/\">&#8216;Arkanix Stealer&#8217; Malware Disappears Shortly After Debut</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "VMware Aria Operations Vulnerability Could Allow Remote Code Execution",
+    "link": "https://www.securityweek.com/vmware-aria-operations-vulnerability-could-allow-remote-code-execution/",
+    "published": "Tue, 24 Feb 2026 14:30:00 +0000",
+    "summary": "<p>Broadcom has patched several vulnerabilities in VMware Aria Operations, including high-severity flaws.</p>\n<p>The post <a href=\"https://www.securityweek.com/vmware-aria-operations-vulnerability-could-allow-remote-code-execution/\">VMware Aria Operations Vulnerability Could Allow Remote Code Execution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "CISO Conversations: Timothy Youngblood; 4x Fortune 500 CISO/CSO",
+    "link": "https://www.securityweek.com/ciso-conversations-timothy-youngblood-4x-fortune-500-ciso-cso/",
+    "published": "Tue, 24 Feb 2026 14:00:00 +0000",
+    "summary": "<p>Timothy Youngblood was CISO at Dell, CISO at Kimberley-Clark,  VP &#038; CISO at McDonald’s, and SVP, CSO &#038; Product Security Officer at T-Mobile.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-conversations-timothy-youngblood-4x-fortune-500-ciso-cso/\">CISO Conversations: Timothy Youngblood; 4x Fortune 500 CISO/CSO</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "New ‘Sandworm_Mode’ Supply Chain Attack Hits NPM",
+    "link": "https://www.securityweek.com/new-sandworm_mode-supply-chain-attack-hits-npm/",
+    "published": "Tue, 24 Feb 2026 13:40:35 +0000",
+    "summary": "<p>The malicious code propagates like a worm, poisons AI assistants, exfiltrates secrets, and contains a destructive dead switch.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-sandworm_mode-supply-chain-attack-hits-npm/\">New &#8216;Sandworm_Mode&#8217; Supply Chain Attack Hits NPM</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "GitHub Issues Abused in Copilot Attack Leading to Repository Takeover",
     "link": "https://www.securityweek.com/github-issues-abused-in-copilot-attack-leading-to-repository-takeover/",
     "published": "Tue, 24 Feb 2026 12:26:53 +0000",
@@ -619,34 +609,6 @@
     "link": "https://www.securityweek.com/autonomous-ai-agents-provide-new-class-of-supply-chain-attack/",
     "published": "Mon, 23 Feb 2026 12:30:00 +0000",
     "summary": "<p>While this campaign targets crypto wallets and steals money, the methodology has far wider potential that could be used by other attackers. </p>\n<p>The post <a href=\"https://www.securityweek.com/autonomous-ai-agents-provide-new-class-of-supply-chain-attack/\">Autonomous AI Agents Provide New Class of Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Romanian Hacker Pleads Guilty to Selling Access to US State Network",
-    "link": "https://www.securityweek.com/romanian-hacker-pleads-guilty-to-selling-access-to-us-state-network/",
-    "published": "Mon, 23 Feb 2026 11:53:35 +0000",
-    "summary": "<p>Catalin Dragomir admitted in a US court to selling access to an Oregon state government office’s network.</p>\n<p>The post <a href=\"https://www.securityweek.com/romanian-hacker-pleads-guilty-to-selling-access-to-us-state-network/\">Romanian Hacker Pleads Guilty to Selling Access to US State Network</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS",
-    "link": "https://www.securityweek.com/hundreds-of-fortigate-firewalls-hacked-in-ai-powered-attacks-aws/",
-    "published": "Mon, 23 Feb 2026 11:34:35 +0000",
-    "summary": "<p>Threat actors relying on AI have been exploiting exposed ports and weak credentials to take over FortiGate devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/hundreds-of-fortigate-firewalls-hacked-in-ai-powered-attacks-aws/\">Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Recent RoundCube Webmail Vulnerability Exploited in Attacks",
-    "link": "https://www.securityweek.com/recent-roundcube-webmail-vulnerability-exploited-in-attacks/",
-    "published": "Mon, 23 Feb 2026 10:47:45 +0000",
-    "summary": "<p>Patched in December 2025, the exploited flaw leads to XSS attacks via the animate tags in SVG documents.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-roundcube-webmail-vulnerability-exploited-in-attacks/\">Recent RoundCube Webmail Vulnerability Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Mississippi Hospital System Closes All Clinics After Ransomware Attack",
-    "link": "https://www.securityweek.com/mississippi-hospital-system-closes-all-clinics-after-ransomware-attack/",
-    "published": "Mon, 23 Feb 2026 10:29:13 +0000",
-    "summary": "<p>A ransomware attack forced the University of Mississippi Medical Center to close all of its roughly three dozen clinics around the state and cancel elective procedures.</p>\n<p>The post <a href=\"https://www.securityweek.com/mississippi-hospital-system-closes-all-clinics-after-ransomware-attack/\">Mississippi Hospital System Closes All Clinics After Ransomware Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -753,13 +715,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-23655",
         "CVE-2026-21522",
         "CVE-2026-21510",
-        "CVE-2026-23655",
-        "CVE-2026-21525",
-        "CVE-2026-21514",
         "CVE-2026-21513",
-        "CVE-2026-21519"
+        "CVE-2026-21519",
+        "CVE-2026-21525",
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -838,6 +800,25 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "January 2026 CVE Landscape: 23 Critical Vulnerabilities Mark 5% Increase, APT28 Exploits Microsoft Office Zero-Day",
+    "link": "https://www.recordedfuture.com/blog/january-2026-cve-landscape",
+    "published": "Tue, 24 Feb 2026 00:00:00 GMT",
+    "summary": "January 2026 saw 23 actively exploited CVEs, including APT28’s Microsoft Office zero-day and critical auth bypass flaws impacting enterprise systems.",
+    "analysis": {
+      "issue": "January 2026 saw 23 actively exploited CVEs, including APT28’s Microsoft Office zero-day and critical auth bypass flaws impacting enterprise systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
       ]
     }
   },
@@ -1001,25 +982,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "PurpleBravo’s Targeting of the IT Software Supply Chain",
-    "link": "https://www.recordedfuture.com/research/purplebravos-targeting-it-software-supply-chain",
-    "published": "Wed, 21 Jan 2026 00:00:00 GMT",
-    "summary": "Discover how PurpleBravo, a North Korean threat group, exploits fake job offers to target software supply chains, using RATs and infostealers like BeaverTail.",
-    "analysis": {
-      "issue": "Discover how PurpleBravo, a North Korean threat group, exploits fake job offers to target software supply chains, using RATs and infostealers like BeaverTail",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
       ]
     }
   },
@@ -1221,6 +1183,43 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Reddit, porn sites fined by UK regulators over children’s safety and privacy",
+    "link": "https://www.malwarebytes.com/blog/news/2026/02/reddit-porn-sites-fined-by-uk-regulators-over-childrens-safety-and-privacy",
+    "published": "Tue, 24 Feb 2026 15:48:02 GMT",
+    "summary": "Ofcom and the Information Commissioner's Office respectively fined a US porn company and Reddit for failing to protect children online.",
+    "analysis": {
+      "issue": "The UK’s online safety and privacy regulators are targeting companies that violate new age verification laws at both ends : Porn sites that did not keep children out, and mainstream platforms that profited from children coming in",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Roblox gives predators &#8220;powerful tools&#8221; to target children, says LA County",
+    "link": "https://www.malwarebytes.com/blog/news/2026/02/roblox-gives-predators-powerful-tools-to-target-children-says-la-county",
+    "published": "Tue, 24 Feb 2026 15:22:20 GMT",
+    "summary": "Los Angeles County sued the online gaming platform Roblox for its alleged failure to protect children from danger.",
+    "analysis": {
+      "issue": "Los Angeles County has sued online gaming company Roblox, adding to a series of suits that accuse the virtual worlds platform of misleading parents into thinking it’s safe while leaving children exposed to predators and sexually explicit content",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Fake Zoom meeting &#8220;update&#8221; silently installs surveillance software",
     "link": "https://www.malwarebytes.com/blog/scams/2026/02/fake-zoom-meeting-update-silently-installs-surveillance-software",
     "published": "Tue, 24 Feb 2026 09:47:26 GMT",
@@ -1359,42 +1358,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Facebook ads spread fake Windows 11 downloads that steal passwords and crypto wallets",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/02/facebook-ads-spread-fake-windows-11-downloads-that-steal-passwords-and-crypto-wallets",
-    "published": "Fri, 20 Feb 2026 10:00:30 GMT",
-    "summary": "Attackers are weaponizing Facebook ads to distribute password-stealing malware masked as a Windows download.",
-    "analysis": {
-      "issue": "Attackers are running paid Facebook ads that look like official Microsoft promotions, then directing users to near-perfect clones of the Windows 11 download page",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "AI-generated passwords are a security risk",
-    "link": "https://www.malwarebytes.com/blog/news/2026/02/ai-generated-passwords-are-a-security-risk",
-    "published": "Thu, 19 Feb 2026 14:46:58 GMT",
-    "summary": "AI-generated passwords are \"highly predictable\" and aren’t truly random, making them easier for cybercriminals to crack.",
-    "analysis": {
-      "issue": "Using Artificial Intelligence (AI) to generate your passwords is a bad idea",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
