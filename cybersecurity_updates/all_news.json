@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model",
+    "link": "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html",
+    "published": "Tue, 24 Feb 2026 11:34:00 +0530",
+    "summary": "Anthropic on Monday said it identified \"industrial-scale campaigns\" mounted by three artificial intelligence (AI) companies, DeepSeek, Moonshot AI, and MiniMax, to illegally extract Claude's capabilities to improve their own models.\nThe distillation attacks generated over 16 million exchanges with its large language model (LLM) through about 24,000 fraudulent accounts in violation of its terms",
+    "analysis": {
+      "issue": "Anthropic says 16M Claude queries via 24K fake accounts fueled illegal AI model distillation campaigns",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "APT28 Targeted European Entities Using Webhook-Based Macro Malware",
     "link": "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html",
     "published": "Tue, 24 Feb 2026 01:11:00 +0530",
@@ -165,24 +183,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
-    "link": "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html",
-    "published": "Sat, 21 Feb 2026 10:00:00 +0530",
-    "summary": "With $5.5 trillion in global AI risk exposure and 700,000 U.S. workers needing reskilling, four new AI certifications and Certified CISO v4 help close the gap between AI adoption and workforce readiness.\nEC-Council, creator of the world-renowned Certified Ethical Hacker (CEH) credential and a global leader in applied cybersecurity education, today launched its Enterprise AI Credential Suite,",
-    "analysis": {
-      "issue": "EC-Council unveils four AI certifications and Certified CISO v4 as global AI risk hits $5",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Android mental health apps with 14.7M installs filled with security flaws",
     "link": "https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/",
@@ -288,8 +288,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-68461",
-        "CVE-2025-49113"
+        "CVE-2025-49113",
+        "CVE-2025-68461"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -420,16 +420,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21509",
-        "CVE-2026-21519",
-        "CVE-2026-21533",
-        "CVE-2026-21256",
-        "CVE-2026-21510",
         "CVE-2026-21514",
-        "CVE-2026-21523",
-        "CVE-2026-21525",
+        "CVE-2026-21510",
+        "CVE-2026-21533",
         "CVE-2026-21516",
-        "CVE-2026-21513"
+        "CVE-2026-21519",
+        "CVE-2026-21256",
+        "CVE-2026-21525",
+        "CVE-2026-21513",
+        "CVE-2026-21509",
+        "CVE-2026-21523"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -507,9 +507,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20953",
         "CVE-2026-20952",
-        "CVE-2026-20805",
-        "CVE-2026-20953"
+        "CVE-2026-20805"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -749,11 +749,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21522",
         "CVE-2026-23655",
-        "CVE-2026-21519",
-        "CVE-2026-21510",
         "CVE-2026-21514",
+        "CVE-2026-21510",
+        "CVE-2026-21522",
+        "CVE-2026-21519",
         "CVE-2026-21525",
         "CVE-2026-21513"
       ],
@@ -1020,6 +1020,220 @@
     }
   },
   {
+    "source": "Threat Post",
+    "title": "Student Loan Breach Exposes 2.5M Records",
+    "link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
+    "published": "Wed, 31 Aug 2022 12:57:48 +0000",
+    "summary": "2.5 million people were affected, in a breach that could spell more trouble down the line.",
+    "analysis": {
+      "issue": "5 million people were affected, in a breach that could spell more trouble down the line",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Threat Post",
+    "title": "Watering Hole Attacks Push ScanBox Keylogger",
+    "link": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/",
+    "published": "Tue, 30 Aug 2022 16:00:43 +0000",
+    "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.",
+    "analysis": {
+      "issue": "Share this article: Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Medium",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Threat Post",
+    "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
+    "link": "https://threatpost.com/0ktapus-victimize-130-firms/180487/",
+    "published": "Mon, 29 Aug 2022 14:56:19 +0000",
+    "summary": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.",
+    "analysis": {
+      "issue": "Share this article: Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Threat Post",
+    "title": "Ransomware Attacks are on the Rise",
+    "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
+    "published": "Fri, 26 Aug 2022 16:44:27 +0000",
+    "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
+    "analysis": {
+      "issue": "Share this article: Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Threat Post",
+    "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
+    "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
+    "published": "Thu, 25 Aug 2022 18:47:15 +0000",
+    "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
+    "analysis": {
+      "issue": "Share this article: Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2021-36260"
+      ],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Threat Post",
+    "title": "Twitter Whistleblower Complaint: The TL;DR Version",
+    "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
+    "published": "Wed, 24 Aug 2022 14:17:04 +0000",
+    "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.",
+    "analysis": {
+      "issue": "Share this article: Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Threat Post",
+    "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
+    "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
+    "published": "Tue, 23 Aug 2022 13:19:58 +0000",
+    "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
+    "analysis": {
+      "issue": "Share this article: CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2022-0028"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Threat Post",
+    "title": "Fake Reservation Links Prey on Weary Travelers",
+    "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
+    "published": "Mon, 22 Aug 2022 13:59:06 +0000",
+    "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
+    "analysis": {
+      "issue": "Share this article: Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2017-11882"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Threat Post",
+    "title": "iPhone Users Urged to Update to Patch 2 Zero-Days",
+    "link": "https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/",
+    "published": "Fri, 19 Aug 2022 15:25:56 +0000",
+    "summary": "Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.",
+    "analysis": {
+      "issue": "Share this article: Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2022-32894",
+        "CVE-2022-32893"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Threat Post",
+    "title": "Google Patches Chrome’s Fifth Zero-Day of the Year",
+    "link": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/",
+    "published": "Thu, 18 Aug 2022 14:31:38 +0000",
+    "summary": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.",
+    "analysis": {
+      "issue": "Share this article: An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2022-2856"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Refund scam impersonates Avast to harvest credit card details",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/02/refund-scam-impersonates-avast-to-harvest-credit-card-details",
+    "published": "Tue, 24 Feb 2026 08:28:32 GMT",
+    "summary": "A convincing fake Avast site displays a €499.99 charge and promises a refund. Instead, it harvests your name, address, and full credit card details.",
+    "analysis": {
+      "issue": "A fraudulent website dressed in Avast’s brand is tricking French-speaking users into handing over their full credit card details—card number, expiry date, and three-digit security code—under the cover story of processing a €499",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
     "source": "Malwarebytes",
     "title": "OpenClaw: What is it and can you use it safely?",
     "link": "https://www.malwarebytes.com/blog/news/2026/02/openclaw-what-is-it-and-can-you-use-it-safely",
@@ -1185,13 +1399,13 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Meta patents AI that could keep you posting from beyond the grave",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/02/meta-patents-ai-that-could-keep-you-posting-from-beyond-the-grave",
-    "published": "Thu, 19 Feb 2026 11:16:32 GMT",
-    "summary": "Hopefully Meta really will file this in the \"just because we can do it doesn't mean we should\" drawer.",
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/",
+    "published": "Feb 24, 2026 00:00:00-0600",
+    "summary": "",
     "analysis": {
-      "issue": "Tech bros have been wanting to become immortal for years",
+      "issue": "Learn how adversaries leverage trusted access paths, AI-enabled techniques, and cross-domain movement to evade detection",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1354,24 +1568,6 @@
     "summary": "",
     "analysis": {
       "issue": "Learn about recently released enhancements for the Falcon sensor on Linux platforms that provide better visibility",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "What Security Teams Need to Know About OpenClaw, the AI Super Agent",
-    "link": "https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/",
-    "published": "Feb 04, 2026 00:00:00-0800",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn what OpenClaw is, how it is deployed, how it is running, whether it is exposed, and how CrowdStrike can help",
       "solution": null,
       "cause": null,
       "timeline": null,

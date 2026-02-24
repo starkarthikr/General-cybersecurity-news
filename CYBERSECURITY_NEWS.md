@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-24 03:20:50 UTC
+**Last Updated:** 2026-02-24 09:28:40 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [APT28 Targeted European Entities Using Webhook-Based Macro Malware](https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html)
+### 1. [Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model](https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 24 Feb 2026 11:34:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [APT28 Targeted European Entities Using Webhook-Based Macro Malware](https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Feb 2026 01:11:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb](https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html)
+### 3. [Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb](https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Feb 2026 23:29:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More](https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html)
+### 4. [⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More](https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Feb 2026 18:30:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [How Exposed Endpoints Increase Risk Across LLM Infrastructure](https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html)
+### 5. [How Exposed Endpoints Increase Risk Across LLM Infrastructure](https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Feb 2026 17:28:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens](https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html)
+### 6. [Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens](https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Feb 2026 15:50:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP](https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html)
+### 7. [MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP](https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Feb 2026 12:55:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries](https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html)
+### 8. [AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries](https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Feb 2026 20:19:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
+### 9. [Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Feb 2026 13:28:00 +0530  
@@ -76,21 +85,12 @@
 
 ---
 
-### 9. [CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html)
+### 10. [CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Feb 2026 12:51:00 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 10. [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 21 Feb 2026 10:00:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -144,7 +144,7 @@
 **Source:** Bleeping Computer  
 **Published:** Mon, 23 Feb 2026 06:44:21 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2025-68461, CVE-2025-49113  
+**CVEs:** CVE-2025-49113, CVE-2025-68461  
 **Categories:** Vulnerability  
 
 ---
@@ -208,7 +208,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21509, CVE-2026-21519, CVE-2026-21533, CVE-2026-21256, CVE-2026-21510, CVE-2026-21514, CVE-2026-21523, CVE-2026-21525, CVE-2026-21516, CVE-2026-21513  
+**CVEs:** CVE-2026-21514, CVE-2026-21510, CVE-2026-21533, CVE-2026-21516, CVE-2026-21519, CVE-2026-21256, CVE-2026-21525, CVE-2026-21513, CVE-2026-21509, CVE-2026-21523  
 **Categories:** Vulnerability  
 
 ---
@@ -245,7 +245,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20952, CVE-2026-20805, CVE-2026-20953  
+**CVEs:** CVE-2026-20953, CVE-2026-20952, CVE-2026-20805  
 **Categories:** Vulnerability  
 
 ---
@@ -397,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21522, CVE-2026-23655, CVE-2026-21519, CVE-2026-21510, CVE-2026-21514, CVE-2026-21525, CVE-2026-21513  
+**CVEs:** CVE-2026-23655, CVE-2026-21514, CVE-2026-21510, CVE-2026-21522, CVE-2026-21519, CVE-2026-21525, CVE-2026-21513  
 **Categories:** Vulnerability  
 
 ---
@@ -529,7 +529,111 @@
 
 ---
 
-### 61. [OpenClaw: What is it and can you use it safely?](https://www.malwarebytes.com/blog/news/2026/02/openclaw-what-is-it-and-can-you-use-it-safely)
+### 61. [Student Loan Breach Exposes 2.5M Records](https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/)
+
+**Source:** Threat Post  
+**Published:** Wed, 31 Aug 2022 12:57:48 +0000  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
+
+---
+
+### 62. [Watering Hole Attacks Push ScanBox Keylogger](https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/)
+
+**Source:** Threat Post  
+**Published:** Tue, 30 Aug 2022 16:00:43 +0000  
+**Severity:** Medium  
+**Categories:** APT  
+
+---
+
+### 63. [Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms](https://threatpost.com/0ktapus-victimize-130-firms/180487/)
+
+**Source:** Threat Post  
+**Published:** Mon, 29 Aug 2022 14:56:19 +0000  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 64. [Ransomware Attacks are on the Rise](https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/)
+
+**Source:** Threat Post  
+**Published:** Fri, 26 Aug 2022 16:44:27 +0000  
+**Severity:** High  
+**Categories:** Ransomware  
+
+---
+
+### 65. [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
+
+**Source:** Threat Post  
+**Published:** Thu, 25 Aug 2022 18:47:15 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2021-36260  
+**Categories:** Data Breach, Vulnerability, APT  
+
+---
+
+### 66. [Twitter Whistleblower Complaint: The TL;DR Version](https://threatpost.com/twitter-whistleblower-tldr-version/180472/)
+
+**Source:** Threat Post  
+**Published:** Wed, 24 Aug 2022 14:17:04 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 67. [Firewall Bug Under Active Attack Triggers CISA Warning](https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/)
+
+**Source:** Threat Post  
+**Published:** Tue, 23 Aug 2022 13:19:58 +0000  
+**Severity:** High  
+**CVEs:** CVE-2022-0028  
+**Categories:** Vulnerability  
+
+---
+
+### 68. [Fake Reservation Links Prey on Weary Travelers](https://threatpost.com/reservation-links-prey-on-travelers/180462/)
+
+**Source:** Threat Post  
+**Published:** Mon, 22 Aug 2022 13:59:06 +0000  
+**Severity:** Low  
+**CVEs:** CVE-2017-11882  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 69. [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
+
+**Source:** Threat Post  
+**Published:** Fri, 19 Aug 2022 15:25:56 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 70. [Google Patches Chrome’s Fifth Zero-Day of the Year](https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/)
+
+**Source:** Threat Post  
+**Published:** Thu, 18 Aug 2022 14:31:38 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2022-2856  
+**Categories:** Vulnerability  
+
+---
+
+### 71. [Refund scam impersonates Avast to harvest credit card details](https://www.malwarebytes.com/blog/threat-intel/2026/02/refund-scam-impersonates-avast-to-harvest-credit-card-details)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 24 Feb 2026 08:28:32 GMT  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 72. [OpenClaw: What is it and can you use it safely?](https://www.malwarebytes.com/blog/news/2026/02/openclaw-what-is-it-and-can-you-use-it-safely)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 23 Feb 2026 21:10:50 GMT  
@@ -538,7 +642,7 @@
 
 ---
 
-### 62. [Password managers keep your passwords safe, unless…](https://www.malwarebytes.com/blog/news/2026/02/password-managers-keep-your-passwords-safe-unless)
+### 73. [Password managers keep your passwords safe, unless…](https://www.malwarebytes.com/blog/news/2026/02/password-managers-keep-your-passwords-safe-unless)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 23 Feb 2026 12:45:21 GMT  
@@ -547,7 +651,7 @@
 
 ---
 
-### 63. [Fake Huorong security site infects users with ValleyRAT](https://www.malwarebytes.com/blog/scams/2026/02/huorong)
+### 74. [Fake Huorong security site infects users with ValleyRAT](https://www.malwarebytes.com/blog/scams/2026/02/huorong)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 23 Feb 2026 12:18:50 GMT  
@@ -556,7 +660,7 @@
 
 ---
 
-### 64. [A week in security (February 16 &#8211; February 22)](https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-february-16-february-22)
+### 75. [A week in security (February 16 &#8211; February 22)](https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-february-16-february-22)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 23 Feb 2026 08:02:35 GMT  
@@ -565,7 +669,7 @@
 
 ---
 
-### 65. [What can&#8217;t you say on TikTok?](https://www.malwarebytes.com/blog/podcast/2026/02/what-cant-you-say-on-tiktok)
+### 76. [What can&#8217;t you say on TikTok?](https://www.malwarebytes.com/blog/podcast/2026/02/what-cant-you-say-on-tiktok)
 
 **Source:** Malwarebytes  
 **Published:** Sun, 22 Feb 2026 23:08:27 GMT  
@@ -574,7 +678,7 @@
 
 ---
 
-### 66. [Age verification vendor Persona left frontend exposed, researchers say](https://www.malwarebytes.com/blog/news/2026/02/age-verification-vendor-persona-left-frontend-exposed)
+### 77. [Age verification vendor Persona left frontend exposed, researchers say](https://www.malwarebytes.com/blog/news/2026/02/age-verification-vendor-persona-left-frontend-exposed)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 20 Feb 2026 14:08:39 GMT  
@@ -583,7 +687,7 @@
 
 ---
 
-### 67. [Facebook ads spread fake Windows 11 downloads that steal passwords and crypto wallets](https://www.malwarebytes.com/blog/scams/2026/02/facebook-ads-spread-fake-windows-11-downloads-that-steal-passwords-and-crypto-wallets)
+### 78. [Facebook ads spread fake Windows 11 downloads that steal passwords and crypto wallets](https://www.malwarebytes.com/blog/scams/2026/02/facebook-ads-spread-fake-windows-11-downloads-that-steal-passwords-and-crypto-wallets)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 20 Feb 2026 10:00:30 GMT  
@@ -592,7 +696,7 @@
 
 ---
 
-### 68. [AI-generated passwords are a security risk](https://www.malwarebytes.com/blog/news/2026/02/ai-generated-passwords-are-a-security-risk)
+### 79. [AI-generated passwords are a security risk](https://www.malwarebytes.com/blog/news/2026/02/ai-generated-passwords-are-a-security-risk)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 19 Feb 2026 14:46:58 GMT  
@@ -601,7 +705,7 @@
 
 ---
 
-### 69. [Intimate products maker Tenga spilled customer data](https://www.malwarebytes.com/blog/news/2026/02/intimate-products-producer-tenga-spilled-customer-data)
+### 80. [Intimate products maker Tenga spilled customer data](https://www.malwarebytes.com/blog/news/2026/02/intimate-products-producer-tenga-spilled-customer-data)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 19 Feb 2026 11:48:35 GMT  
@@ -610,16 +714,16 @@
 
 ---
 
-### 70. [Meta patents AI that could keep you posting from beyond the grave](https://www.malwarebytes.com/blog/ai/2026/02/meta-patents-ai-that-could-keep-you-posting-from-beyond-the-grave)
+### 81. [CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/)
 
-**Source:** Malwarebytes  
-**Published:** Thu, 19 Feb 2026 11:16:32 GMT  
+**Source:** Crowdstrike Blog  
+**Published:** Feb 24, 2026 00:00:00-0600  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 71. [The Art of Deception: How Threat Actors Master Typosquatting Campaigns to Bypass Detection](https://www.crowdstrike.com/en-us/blog/the-art-of-deception-how-threat-actors-master-typosquatting-campaigns-to-bypass-detection/)
+### 82. [The Art of Deception: How Threat Actors Master Typosquatting Campaigns to Bypass Detection](https://www.crowdstrike.com/en-us/blog/the-art-of-deception-how-threat-actors-master-typosquatting-campaigns-to-bypass-detection/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 23, 2026 00:00:00-0600  
@@ -628,7 +732,7 @@
 
 ---
 
-### 72. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
+### 83. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 18, 2026 00:00:00-0600  
@@ -637,7 +741,7 @@
 
 ---
 
-### 73. [Exposing Insider Threats through Data Protection, Identity, and HR Context](https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/)
+### 84. [Exposing Insider Threats through Data Protection, Identity, and HR Context](https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 18, 2026 00:00:00-0600  
@@ -646,7 +750,7 @@
 
 ---
 
-### 74. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/)
+### 85. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 12, 2026 00:00:00-0600  
@@ -655,7 +759,7 @@
 
 ---
 
-### 75. [How to Scale SOC Automation with Falcon Fusion SOAR](https://www.crowdstrike.com/en-us/blog/how-to-scale-soc-automation-with-falcon-fusion-soar/)
+### 86. [How to Scale SOC Automation with Falcon Fusion SOAR](https://www.crowdstrike.com/en-us/blog/how-to-scale-soc-automation-with-falcon-fusion-soar/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 11, 2026 00:00:00-0600  
@@ -664,7 +768,7 @@
 
 ---
 
-### 76. [Inside the Human-AI Feedback Loop Powering CrowdStrike&rsquo;s Agentic Security](https://www.crowdstrike.com/en-us/blog/inside-the-human-ai-feedback-loop-powering-crowdstrike-agentic-security/)
+### 87. [Inside the Human-AI Feedback Loop Powering CrowdStrike&rsquo;s Agentic Security](https://www.crowdstrike.com/en-us/blog/inside-the-human-ai-feedback-loop-powering-crowdstrike-agentic-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 10, 2026 00:00:00-0600  
@@ -673,7 +777,7 @@
 
 ---
 
-### 77. [February 2026 Patch Tuesday: Six Zero-Days Among 59 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-february-2026/)
+### 88. [February 2026 Patch Tuesday: Six Zero-Days Among 59 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-february-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 10, 2026 00:00:00-0600  
@@ -682,7 +786,7 @@
 
 ---
 
-### 78. [CrowdStrike Is the Only Vendor to Be Named a Customers&rsquo; Choice in 2025 Gartner&reg; Voice of the Customer for External Attack Surface Management](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-only-customers-choice-2025-gartner-voice-of-the-customer-easm/)
+### 89. [CrowdStrike Is the Only Vendor to Be Named a Customers&rsquo; Choice in 2025 Gartner&reg; Voice of the Customer for External Attack Surface Management](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-only-customers-choice-2025-gartner-voice-of-the-customer-easm/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 09, 2026 00:00:00-0600  
@@ -691,19 +795,10 @@
 
 ---
 
-### 79. [Advanced Web Shell Detection and Prevention: A Deep Dive into CrowdStrike's Linux Sensor Capabilities](https://www.crowdstrike.com/en-us/blog/advanced-web-shell-detection-and-prevention/)
+### 90. [Advanced Web Shell Detection and Prevention: A Deep Dive into CrowdStrike's Linux Sensor Capabilities](https://www.crowdstrike.com/en-us/blog/advanced-web-shell-detection-and-prevention/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 05, 2026 00:00:00-0600  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 80. [What Security Teams Need to Know About OpenClaw, the AI Super Agent](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Feb 04, 2026 00:00:00-0800  
 **Severity:** Low  
 **Categories:** General Security  
 
