@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-24 17:35:59 UTC
+**Last Updated:** 2026-02-25 02:42:30 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware](https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html)
+### 1. [RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN](https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 25 Feb 2026 00:22:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware](https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Feb 2026 19:51:00 +0530  
@@ -13,14 +22,16 @@
 
 ---
 
-### 2. [Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem](https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html)
+### 3. [Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem](https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Feb 2026 17:28:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
-### 3. [Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks](https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html)
+### 4. [Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks](https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Feb 2026 17:22:00 +0530  
@@ -29,7 +40,7 @@
 
 ---
 
-### 4. [UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors](https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html)
+### 5. [UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors](https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Feb 2026 15:24:00 +0530  
@@ -38,7 +49,7 @@
 
 ---
 
-### 5. [Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model](https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html)
+### 6. [Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model](https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Feb 2026 11:34:00 +0530  
@@ -47,21 +58,25 @@
 
 ---
 
-### 6. [APT28 Targeted European Entities Using Webhook-Based Macro Malware](https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html)
+### 7. [APT28 Targeted European Entities Using Webhook-Based Macro Malware](https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Feb 2026 01:11:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, APT  
 
 ---
 
-### 7. [Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb](https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html)
+### 8. [Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb](https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Feb 2026 23:29:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
 
 ---
 
-### 8. [⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More](https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html)
+### 9. [⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More](https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Feb 2026 18:30:00 +0530  
@@ -70,7 +85,7 @@
 
 ---
 
-### 9. [How Exposed Endpoints Increase Risk Across LLM Infrastructure](https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html)
+### 10. [How Exposed Endpoints Increase Risk Across LLM Infrastructure](https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Feb 2026 17:28:00 +0530  
@@ -79,16 +94,43 @@
 
 ---
 
-### 10. [Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens](https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html)
+### 11. [Phishing campaign targets freight and logistics orgs in the US, Europe](https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-freight-and-logistics-orgs-in-the-us-europe/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 23 Feb 2026 15:50:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Tue, 24 Feb 2026 18:57:58 -0500  
+**Severity:** Critical  
+**Categories:** Phishing  
 
 ---
 
-### 11. [Microsoft adds Copilot data controls to all storage locations](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/)
+### 12. [Wynn Resorts confirms employee data breach after extortion threat](https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 24 Feb 2026 16:51:20 -0500  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 13. [1Campaign platform helps malicious Google ads evade detection](https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 24 Feb 2026 16:45:05 -0500  
+**Severity:** High  
+**Categories:** Phishing  
+
+---
+
+### 14. [CarGurus data breach exposes information of 12.4 million accounts](https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 24 Feb 2026 13:08:20 -0500  
+**Severity:** Low  
+**Categories:** Data Breach, Phishing  
+
+---
+
+### 15. [Microsoft adds Copilot data controls to all storage locations](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Feb 2026 12:30:10 -0500  
@@ -97,7 +139,7 @@
 
 ---
 
-### 12. [Identity-First AI Security: Why CISOs Must Add Intent to the Equation](https://www.bleepingcomputer.com/news/security/identity-first-ai-security-why-cisos-must-add-intent-to-the-equation/)
+### 16. [Identity-First AI Security: Why CISOs Must Add Intent to the Equation](https://www.bleepingcomputer.com/news/security/identity-first-ai-security-why-cisos-must-add-intent-to-the-equation/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Feb 2026 10:02:12 -0500  
@@ -106,7 +148,7 @@
 
 ---
 
-### 13. [UK fines Reddit $19 million for using children’s data unlawfully](https://www.bleepingcomputer.com/news/security/uk-fines-reddit-19-million-for-using-childrens-data-unlawfully/)
+### 17. [UK fines Reddit $19 million for using children’s data unlawfully](https://www.bleepingcomputer.com/news/security/uk-fines-reddit-19-million-for-using-childrens-data-unlawfully/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Feb 2026 09:54:24 -0500  
@@ -115,7 +157,7 @@
 
 ---
 
-### 14. [Critical SolarWinds Serv-U flaws offer root access to servers](https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/)
+### 18. [Critical SolarWinds Serv-U flaws offer root access to servers](https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Feb 2026 08:00:45 -0500  
@@ -125,7 +167,7 @@
 
 ---
 
-### 15. [ShinyHunters extortion gang claims Odido breach affecting millions](https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/)
+### 19. [ShinyHunters extortion gang claims Odido breach affecting millions](https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Feb 2026 06:40:20 -0500  
@@ -134,48 +176,12 @@
 
 ---
 
-### 16. [North Korean Lazarus group linked to Medusa ransomware attacks](https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/)
+### 20. [North Korean Lazarus group linked to Medusa ransomware attacks](https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Feb 2026 06:00:00 -0500  
 **Severity:** Critical  
 **Categories:** Ransomware, Malware, APT  
-
----
-
-### 17. [Android mental health apps with 14.7M installs filled with security flaws](https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 23 Feb 2026 17:59:04 -0500  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 18. [Spain arrests suspected hacktivists for DDoSing govt sites](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 23 Feb 2026 16:59:42 -0500  
-**Severity:** Low  
-**Categories:** DDoS  
-
----
-
-### 19. [Microsoft says bug in classic Outlook hides the mouse pointer](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 23 Feb 2026 14:40:42 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Ad tech firm Optimizely confirms data breach after vishing attack](https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 23 Feb 2026 13:04:01 -0500  
-**Severity:** High  
-**Categories:** Data Breach, Malware, Phishing  
 
 ---
 
@@ -202,7 +208,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21516, CVE-2026-21513, CVE-2026-21256, CVE-2026-21509, CVE-2026-21519, CVE-2026-21525, CVE-2026-21523, CVE-2026-21533, CVE-2026-21514  
+**CVEs:** CVE-2026-21516, CVE-2026-21510, CVE-2026-21514, CVE-2026-21525, CVE-2026-21509, CVE-2026-21513, CVE-2026-21519, CVE-2026-21533, CVE-2026-21523, CVE-2026-21256  
 **Categories:** Vulnerability  
 
 ---
@@ -239,7 +245,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20952, CVE-2026-20805, CVE-2026-20953  
+**CVEs:** CVE-2026-20953, CVE-2026-20952, CVE-2026-20805  
 **Categories:** Vulnerability  
 
 ---
@@ -391,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-23655, CVE-2026-21522, CVE-2026-21510, CVE-2026-21513, CVE-2026-21519, CVE-2026-21525, CVE-2026-21514  
+**CVEs:** CVE-2026-21510, CVE-2026-21522, CVE-2026-21514, CVE-2026-21525, CVE-2026-21513, CVE-2026-23655, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -603,7 +609,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

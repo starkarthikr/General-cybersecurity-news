@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
+    "link": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html",
+    "published": "Wed, 25 Feb 2026 00:22:00 +0530",
+    "summary": "A vulnerability in GitHub Codespaces could have been exploited by bad actors to seize control of repositories by injecting malicious Copilot instructions in a GitHub issue.\nThe artificial intelligence (AI)-driven vulnerability has been codenamed RoguePilot by Orca Security. It has since been patched by Microsoft following responsible disclosure.\n\"Attackers can craft hidden instructions inside a",
+    "analysis": {
+      "issue": "RoguePilot flaw let GitHub Copilot leak GITHUB_TOKEN, while new studies expose LLM side channels, ShadowLogic backdoors, and promptware risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
     "link": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html",
     "published": "Tue, 24 Feb 2026 19:51:00 +0530",
@@ -22,7 +40,18 @@
     "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
     "link": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
     "published": "Tue, 24 Feb 2026 17:28:00 +0530",
-    "summary": "Most identity programs still prioritize work the way they prioritize IT tickets: by volume, loudness, or “what failed a control check.” That approach breaks the moment your environment stops being mostly-human and mostly-onboarded.\nIn modern enterprises, identity risk is created by a compound of factors: control posture, hygiene, business context, and intent. Any one of these can perhaps be"
+    "summary": "Most identity programs still prioritize work the way they prioritize IT tickets: by volume, loudness, or “what failed a control check.” That approach breaks the moment your environment stops being mostly-human and mostly-onboarded.\nIn modern enterprises, identity risk is created by a compound of factors: control posture, hygiene, business context, and intent. Any one of these can perhaps be",
+    "analysis": {
+      "issue": "Identity risk escalates when control gaps, hygiene failures, impact, and intent align, forming toxic combinations that drive real breaches",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "The Hacker News",
@@ -84,14 +113,37 @@
     "title": "APT28 Targeted European Entities Using Webhook-Based Macro Malware",
     "link": "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html",
     "published": "Tue, 24 Feb 2026 01:11:00 +0530",
-    "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 has been attributed to a new campaign targeting specific entities in Western and Central Europe.\nThe activity, per S2 Grupo's LAB52 threat intelligence team, was active between September 2025 and January 2026. It has been codenamed Operation MacroMaze. \"The campaign relies on basic tooling and the exploitation of legitimate services"
+    "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 has been attributed to a new campaign targeting specific entities in Western and Central Europe.\nThe activity, per S2 Grupo's LAB52 threat intelligence team, was active between September 2025 and January 2026. It has been codenamed Operation MacroMaze. \"The campaign relies on basic tooling and the exploitation of legitimate services",
+    "analysis": {
+      "issue": "APT28’s Operation MacroMaze used macro-laced documents and webhook",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
   },
   {
     "source": "The Hacker News",
     "title": "Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb",
     "link": "https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html",
     "published": "Mon, 23 Feb 2026 23:29:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new cryptojacking campaign that uses pirated software bundles as lures to deploy a bespoke XMRig miner program on compromised hosts.\n\"Analysis of the recovered dropper, persistence triggers, and mining payload reveals a sophisticated, multi-stage infection prioritizing maximum cryptocurrency mining hashrate, often destabilizing the victim"
+    "summary": "Cybersecurity researchers have disclosed details of a new cryptojacking campaign that uses pirated software bundles as lures to deploy a bespoke XMRig miner program on compromised hosts.\n\"Analysis of the recovered dropper, persistence triggers, and mining payload reveals a sophisticated, multi-stage infection prioritizing maximum cryptocurrency mining hashrate, often destabilizing the victim",
+    "analysis": {
+      "issue": "Researchers uncover wormable XMRig campaign using BYOVD exploit and LLM-built React2Shell attacks hitting 90+ hosts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "The Hacker News",
@@ -132,20 +184,76 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens",
-    "link": "https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html",
-    "published": "Mon, 23 Feb 2026 15:50:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed what they say is an active \"Shai-Hulud-like\" supply chain worm campaign that has leveraged a cluster of at least 19 malicious npm packages to enable credential harvesting and cryptocurrency key theft.\nThe campaign has been codenamed SANDWORM_MODE by supply chain security company Socket. As with prior Shai-Hulud attack waves, the malicious code embedded",
+    "source": "Bleeping Computer",
+    "title": "Phishing campaign targets freight and logistics orgs in the US, Europe",
+    "link": "https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-freight-and-logistics-orgs-in-the-us-europe/",
+    "published": "Tue, 24 Feb 2026 18:57:58 -0500",
+    "summary": "A financially motivated threat group dubbed \"Diesel Vortex\" is stealing credentials from freight and logistics operators in the U.S. and Europe in phishing attacks using 52 domains. [...]",
     "analysis": {
-      "issue": "19 npm packages spread SANDWORM_MODE worm, stealing tokens, crypto keys, CI secrets, and AI API keys via MCP injection",
+      "issue": "A financially motivated threat group dubbed “Diesel Vortex” is stealing credentials from freight and logistics operators in the U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Wynn Resorts confirms employee data breach after extortion threat",
+    "link": "https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/",
+    "published": "Tue, 24 Feb 2026 16:51:20 -0500",
+    "summary": "Wynn Resorts has confirmed that a hacker stole employee data from its systems after the company was listed on the ShinyHunters extortion gang's data leak site. [...]",
+    "analysis": {
+      "issue": "Wynn Resorts has confirmed that a hacker stole employee data from its systems after the company was listed on the ShinyHunters extortion gang's data leak site",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "1Campaign platform helps malicious Google ads evade detection",
+    "link": "https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/",
+    "published": "Tue, 24 Feb 2026 16:45:05 -0500",
+    "summary": "A newly identified cybercrime service known as 1Campaign is enabling threat actors to run malicious Google Ads that remain online for extended periods while evading scrutiny from security researchers. [...]",
+    "analysis": {
+      "issue": "A newly identified cybercrime service known as 1Campaign is enabling threat actors to run malicious Google Ads that remain online for extended periods while evading scrutiny from security researchers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CarGurus data breach exposes information of 12.4 million accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/",
+    "published": "Tue, 24 Feb 2026 13:08:20 -0500",
+    "summary": "The ShinyHunters extortion group has published personal information in more than 12 million records allegedly stolen from CarGurus, a U.S.-based digital auto platform. [...]",
+    "analysis": {
+      "issue": "The ShinyHunters extortion group has published personal information in more than 12 million records allegedly stolen from CarGurus, a U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing"
       ]
     }
   },
@@ -263,80 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Android mental health apps with 14.7M installs filled with security flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/",
-    "published": "Mon, 23 Feb 2026 17:59:04 -0500",
-    "summary": "Several mental health mobile apps with millions of downloads on Google Play contain security vulnerabilities that could expose users' sensitive medical information. [...]",
-    "analysis": {
-      "issue": "Several mental health mobile apps with millions of downloads on Google Play contain security vulnerabilities that could expose users’ sensitive medical information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Spain arrests suspected hacktivists for DDoSing govt sites",
-    "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/",
-    "published": "Mon, 23 Feb 2026 16:59:42 -0500",
-    "summary": "Spanish authorities have arrested four alleged members of a hacktivist group believed to have carried out cyberattacks targeting government ministries, political parties, and various public institutions. [...]",
-    "analysis": {
-      "issue": "Spanish authorities have arrested four alleged members of a hacktivist group believed to have carried out cyberattacks targeting government ministries, political parties, and various public institutions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft says bug in classic Outlook hides the mouse pointer",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/",
-    "published": "Mon, 23 Feb 2026 14:40:42 -0500",
-    "summary": "Microsoft is investigating a known issue that causes the mouse pointer to disappear in the classic Outlook desktop email client for some users. [...]",
-    "analysis": {
-      "issue": "Microsoft is investigating a known issue that causes the mouse pointer to disappear in the classic Outlook desktop email client for some users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ad tech firm Optimizely confirms data breach after vishing attack",
-    "link": "https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/",
-    "published": "Mon, 23 Feb 2026 13:04:01 -0500",
-    "summary": "New York-based ad tech company Optimizely has notified an undisclosed number of customers of a data breach after threat actors compromised some of its systems in a voice phishing attack. [...]",
-    "analysis": {
-      "issue": "New York-based ad tech company Optimizely has notified an undisclosed number of customers of a data breach after threat actors compromised some of its systems in a voice phishing attack",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
     "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
@@ -386,16 +420,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21510",
         "CVE-2026-21516",
-        "CVE-2026-21513",
-        "CVE-2026-21256",
-        "CVE-2026-21509",
-        "CVE-2026-21519",
+        "CVE-2026-21510",
+        "CVE-2026-21514",
         "CVE-2026-21525",
-        "CVE-2026-21523",
+        "CVE-2026-21509",
+        "CVE-2026-21513",
+        "CVE-2026-21519",
         "CVE-2026-21533",
-        "CVE-2026-21514"
+        "CVE-2026-21523",
+        "CVE-2026-21256"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -473,9 +507,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20953",
         "CVE-2026-20952",
-        "CVE-2026-20805",
-        "CVE-2026-20953"
+        "CVE-2026-20805"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -715,13 +749,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-23655",
-        "CVE-2026-21522",
         "CVE-2026-21510",
-        "CVE-2026-21513",
-        "CVE-2026-21519",
+        "CVE-2026-21522",
+        "CVE-2026-21514",
         "CVE-2026-21525",
-        "CVE-2026-21514"
+        "CVE-2026-21513",
+        "CVE-2026-23655",
+        "CVE-2026-21519"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1152,8 +1186,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
