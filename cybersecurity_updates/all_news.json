@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks",
+    "link": "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html",
+    "published": "Wed, 25 Feb 2026 20:36:00 +0530",
+    "summary": "The notorious cybercrime collective known as Scattered LAPSUS$ Hunters (SLH) has been observed offering financial incentives to recruit women to pull off social engineering attacks.\nThe idea is to hire them for voice phishing campaigns targeting IT help desks, Dataminr said in a new threat brief. The group is said to be offering anywhere between $500 and $1,000 upfront per call, in addition to",
+    "analysis": {
+      "issue": "SLH pays $500–$1,000 per call to recruit women for vishing, targeting IT help desks and MFA resets to breach Azure and deploy ransomware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It",
+    "link": "https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html",
+    "published": "Wed, 25 Feb 2026 20:00:00 +0530",
+    "summary": "Triage is supposed to make things simpler. In a lot of teams, it does the opposite.\nWhen you can’t reach a confident verdict early, alerts turn into repeat checks, back-and-forth, and “just escalate it” calls. That cost doesn’t stay inside the SOC; it shows up as missed SLAs, higher cost per case, and more room for real threats to slip through.\nSo where does triage go wrong? Here are five triage",
+    "analysis": {
+      "issue": "Execution-based triage cuts MTTR by 21 minutes, reduces escalations 30%, and exposes full attack chains in under 60 seconds",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware",
+    "link": "https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html",
+    "published": "Wed, 25 Feb 2026 18:13:00 +0530",
+    "summary": "Cybersecurity researchers have discovered four malicious NuGet packages that are designed to target ASP.NET web application developers to steal sensitive data.\nThe campaign, discovered by Socket, exfiltrates ASP.NET Identity data, including user accounts, role assignments, and permission mappings, as well as manipulates authorization rules to create persistent backdoors in victim applications.",
+    "analysis": {
+      "issue": "Four rogue NuGet packages and one npm package stole ASP",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Manual Processes Are Putting National Security at Risk",
     "link": "https://thehackernews.com/2026/02/manual-processes-are-putting-national.html",
     "published": "Wed, 25 Feb 2026 16:30:00 +0530",
@@ -128,13 +182,32 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks",
-    "link": "https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html",
-    "published": "Tue, 24 Feb 2026 17:22:00 +0530",
-    "summary": "The North Korea-linked Lazarus Group (aka Diamond Sleet and Pompilus) has been observed using Medusa ransomware in an attack targeting an unnamed entity in the Middle East, according to a new report by the Symantec and Carbon Black Threat Hunter Team.\nBroadcom's threat intelligence division said it also identified the same threat actors mounting an unsuccessful attack against a healthcare",
+    "source": "Bleeping Computer",
+    "title": "Chinese cyberspies breached dozens of telecom firms, govt agencies",
+    "link": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/",
+    "published": "Wed, 25 Feb 2026 12:00:15 -0500",
+    "summary": "Google's Threat Intelligence Group (GTIG), Mandiant, and partners disrupted a global espionage campaign attributed to a suspected Chinese threat actor that used SaaS API calls to hide malicious traffic in attacks targeting telecom and government networks. [...]",
     "analysis": {
-      "issue": "Lazarus Group used Medusa ransomware in Middle East and U",
+      "issue": "Google’s Threat Intelligence Group (GTIG), Mandiant, and partners disrupted a global espionage campaign attributed to a suspected Chinese threat actor that used SaaS API calls to hide malicious traffic in attacks targeting telecom and government netw",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Marquis sues SonicWall over backup breach that led to ransomware attack",
+    "link": "https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/",
+    "published": "Wed, 25 Feb 2026 10:54:44 -0500",
+    "summary": "Marquis Software Solutions has filed a lawsuit against SonicWall, accusing the cybersecurity company of gross negligence and misrepresentation that allegedly led to a ransomware attack disrupting operations at 74 U.S. banks. [...]",
+    "analysis": {
+      "issue": "Marquis Software Solutions has filed a lawsuit against SonicWall, accusing the cybersecurity company of gross negligence and misrepresentation that allegedly led to a ransomware attack disrupting operations at 74 U",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -142,43 +215,26 @@
       "cves": [],
       "threat_categories": [
         "Ransomware",
-        "APT"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors",
-    "link": "https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html",
-    "published": "Tue, 24 Feb 2026 15:24:00 +0530",
-    "summary": "The threat activity cluster known as UnsolicitedBooker has been observed targeting telecommunications companies in Kyrgyzstan and Tajikistan, marking a shift from prior attacks aimed at Saudi Arabian entities.\nThe attacks involve the deployment of two distinct backdoors codenamed LuciDoor and MarsSnake, according to a report published by Positive Technologies last week.\n\"The group used several",
+    "source": "Bleeping Computer",
+    "title": "The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web",
+    "link": "https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/",
+    "published": "Wed, 25 Feb 2026 10:01:11 -0500",
+    "summary": "OpenClaw has sparked heavy Telegram and dark web chatter, but Flare's data shows more research hype than mass exploitation. Flare explains how its telemetry found real supply-chain risk in the skills marketplace, yet limited signs of large-scale criminal operationalization. [...]",
     "analysis": {
-      "issue": "UnsolicitedBooker targets Central Asian telecoms with LuciDoor and MarsSnake, while PseudoSticky and Cloud Atlas hit Russia",
+      "issue": "OpenClaw started as a side project of a developer who wanted to make his (and others) life easier with AI assistance",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
+        "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model",
-    "link": "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html",
-    "published": "Tue, 24 Feb 2026 11:34:00 +0530",
-    "summary": "Anthropic on Monday said it identified \"industrial-scale campaigns\" mounted by three artificial intelligence (AI) companies, DeepSeek, Moonshot AI, and MiniMax, to illegally extract Claude's capabilities to improve their own models.\nThe distillation attacks generated over 16 million exchanges with its large language model (LLM) through about 24,000 fraudulent accounts in violation of its terms",
-    "analysis": {
-      "issue": "Anthropic says 16M Claude queries via 24K fake accounts fueled illegal AI model distillation campaigns",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -195,9 +251,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-13942",
         "CVE-2025-13943",
-        "CVE-2026-1459"
+        "CVE-2026-1459",
+        "CVE-2025-13942"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -314,61 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CarGurus data breach exposes information of 12.4 million accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/",
-    "published": "Tue, 24 Feb 2026 13:08:20 -0500",
-    "summary": "The ShinyHunters extortion group has published personal information in more than 12 million records allegedly stolen from CarGurus, a U.S.-based digital auto platform. [...]",
-    "analysis": {
-      "issue": "The ShinyHunters extortion group has published personal information in more than 12 million records allegedly stolen from CarGurus, a U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft adds Copilot data controls to all storage locations",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/",
-    "published": "Tue, 24 Feb 2026 12:30:10 -0500",
-    "summary": "Microsoft is expanding data loss prevention (DLP) controls to block the Microsoft 365 Copilot AI assistant from processing confidential Word, Excel, and PowerPoint documents, regardless of their location. [...]",
-    "analysis": {
-      "issue": "Microsoft is expanding data loss prevention (DLP) controls to block the Microsoft 365 Copilot AI assistant from processing confidential Word, Excel, and PowerPoint documents, regardless of their location",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Identity-First AI Security: Why CISOs Must Add Intent to the Equation",
-    "link": "https://www.bleepingcomputer.com/news/security/identity-first-ai-security-why-cisos-must-add-intent-to-the-equation/",
-    "published": "Tue, 24 Feb 2026 10:02:12 -0500",
-    "summary": "AI agents now provision infrastructure and approve actions, but many inherit over-scoped privileges without proper governance. Token Security explains why CISOs must treat agents as identities and add intent-based controls so access is granted only when purpose and context align. [...]",
-    "analysis": {
-      "issue": "Author: Itamar Apelblat, CEO and Co-Founder, Token Security Not long ago, AI deployments inside the enterprise meant copilots drafting emails or summarizing documents",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
     "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
@@ -418,16 +419,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21533",
         "CVE-2026-21514",
         "CVE-2026-21516",
-        "CVE-2026-21523",
-        "CVE-2026-21510",
-        "CVE-2026-21533",
-        "CVE-2026-21519",
-        "CVE-2026-21525",
         "CVE-2026-21256",
         "CVE-2026-21509",
-        "CVE-2026-21513"
+        "CVE-2026-21523",
+        "CVE-2026-21513",
+        "CVE-2026-21510",
+        "CVE-2026-21519",
+        "CVE-2026-21525"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -505,9 +506,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20953",
         "CVE-2026-20805",
-        "CVE-2026-20952",
-        "CVE-2026-20953"
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -574,6 +575,34 @@
   },
   {
     "source": "Security Week",
+    "title": "The Blast Radius Problem: Stolen Credentials are Weaponizing Agentic AI",
+    "link": "https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/",
+    "published": "Wed, 25 Feb 2026 16:16:40 +0000",
+    "summary": "<p>More than half (56%) of the 400,000 vulnerabilities IBM X-Force tracked in 2025 required no authentication before exploitation.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/\">The Blast Radius Problem: Stolen Credentials are Weaponizing Agentic AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Disrupts Chinese Cyberespionage Campaign Targeting Telecoms, Governments",
+    "link": "https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/",
+    "published": "Wed, 25 Feb 2026 16:01:45 +0000",
+    "summary": "<p>The UNC2814 threat actor has been active since at least 2017, targeting organizations across 42 countries. </p>\n<p>The post <a href=\"https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/\">Google Disrupts Chinese Cyberespionage Campaign Targeting Telecoms, Governments</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "SolarWinds Patches Four Critical Serv-U Vulnerabilities",
+    "link": "https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/",
+    "published": "Wed, 25 Feb 2026 15:30:00 +0000",
+    "summary": "<p>The four security defects could be exploited for remote code execution but require administrative privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/\">SolarWinds Patches Four Critical Serv-U Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Medical Device Maker UFP Technologies Hit by Cyberattack",
+    "link": "https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/",
+    "published": "Wed, 25 Feb 2026 13:40:46 +0000",
+    "summary": "<p>UFP Technologies appears to have been targeted in a ransomware attack that involved data theft and file-encrypting malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/\">Medical Device Maker UFP Technologies Hit by Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia",
     "link": "https://www.securityweek.com/ex-us-defense-contractor-executive-jailed-for-selling-exploits-to-russia/",
     "published": "Wed, 25 Feb 2026 12:59:30 +0000",
@@ -615,32 +644,25 @@
     "summary": "<p>Britain’s data privacy watchdog slapped online forum Reddit on Tuesday with a fine worth nearly $20 million for failures involving children’s personal information.</p>\n<p>The post <a href=\"https://www.securityweek.com/reddit-hit-with-20-million-uk-data-privacy-fine-over-child-safety-failings/\">Reddit Hit With $20 Million UK Data Privacy Fine Over Child Safety Failings</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "Claude’s New AI Vulnerability Scanner Sends Cybersecurity Shares Plunging",
-    "link": "https://www.securityweek.com/claudes-new-ai-vulnerability-scanner-sends-cybersecurity-shares-plunging/",
-    "published": "Wed, 25 Feb 2026 09:44:02 +0000",
-    "summary": "<p>The stocks of major cybersecurity companies have fallen sharply over fears that AI is disrupting the industry.</p>\n<p>The post <a href=\"https://www.securityweek.com/claudes-new-ai-vulnerability-scanner-sends-cybersecurity-shares-plunging/\">Claude&#8217;s New AI Vulnerability Scanner Sends Cybersecurity Shares Plunging</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Ad Tech Company Optimizely Targeted in Cyberattack",
-    "link": "https://www.securityweek.com/ad-tech-company-optimizely-confirms-cyberattack/",
-    "published": "Wed, 25 Feb 2026 08:23:55 +0000",
-    "summary": "<p>The company says the attackers accessed internal business systems such as Zendesk and Salesforce.</p>\n<p>The post <a href=\"https://www.securityweek.com/ad-tech-company-optimizely-confirms-cyberattack/\">Ad Tech Company Optimizely Targeted in Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "‘Arkanix Stealer’ Malware Disappears Shortly After Debut",
-    "link": "https://www.securityweek.com/arkanix-stealer-malware-disappears-shortly-after-debut/",
-    "published": "Tue, 24 Feb 2026 15:20:06 +0000",
-    "summary": "<p>Written in C++ and Python, the malware exfiltrates system information, browser data, and steals files.</p>\n<p>The post <a href=\"https://www.securityweek.com/arkanix-stealer-malware-disappears-shortly-after-debut/\">&#8216;Arkanix Stealer&#8217; Malware Disappears Shortly After Debut</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "VMware Aria Operations Vulnerability Could Allow Remote Code Execution",
-    "link": "https://www.securityweek.com/vmware-aria-operations-vulnerability-could-allow-remote-code-execution/",
-    "published": "Tue, 24 Feb 2026 14:30:00 +0000",
-    "summary": "<p>Broadcom has patched several vulnerabilities in VMware Aria Operations, including high-severity flaws.</p>\n<p>The post <a href=\"https://www.securityweek.com/vmware-aria-operations-vulnerability-could-allow-remote-code-execution/\">VMware Aria Operations Vulnerability Could Allow Remote Code Execution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "Active exploitation of Cisco Catalyst SD-WAN by UAT-8616",
+    "link": "https://blog.talosintelligence.com/uat-8616-sd-wan/",
+    "published": "Wed, 25 Feb 2026 16:13:36 GMT",
+    "summary": "Cisco Talos is tracking the active exploitation of CVE-2026-20127, a vulnerability in Cisco Catalyst SD-WAN Controller, formerly vSmart, that allows an unauthenticated remote attacker to bypass authentication and obtain administrative privileges.",
+    "analysis": {
+      "issue": "Cisco Talos is tracking the active exploitation of CVE-2026-20127, a vulnerability in Cisco Catalyst SD-WAN Controller, formerly vSmart, that allows an unauthenticated remote attacker to bypass authentication and obtain administrative privileges on t",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2022-20775",
+        "CVE-2026-20127"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Talos Blog",
@@ -748,12 +770,12 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-21514",
-        "CVE-2026-21510",
-        "CVE-2026-21519",
-        "CVE-2026-21525",
+        "CVE-2026-21513",
         "CVE-2026-21522",
+        "CVE-2026-21510",
         "CVE-2026-23655",
-        "CVE-2026-21513"
+        "CVE-2026-21519",
+        "CVE-2026-21525"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -812,26 +834,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Microsoft releases update to address zero-day vulnerability in Microsoft Office",
-    "link": "https://blog.talosintelligence.com/microsoft-oob-update-january-2026/",
-    "published": "Thu, 29 Jan 2026 14:43:54 GMT",
-    "summary": "Microsoft has published three out-of-band (OOB) updates so far in January 2026. One of these updates was released to address a vulnerability, CVE-2026-21509, affecting Microsoft Office that has been reportedly exploited in the wild.",
-    "analysis": {
-      "issue": "CVE-2026-21509 was published to address a security feature bypass vulnerability affecting Microsoft Office",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-21509"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1184,8 +1186,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1210,6 +1212,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Developer creates app to detect nearby smart glasses",
+    "link": "https://www.malwarebytes.com/blog/news/2026/02/developer-creates-app-to-detect-nearby-smart-glasses",
+    "published": "Wed, 25 Feb 2026 15:48:34 GMT",
+    "summary": "A developer created an Android app that looks for nearby smart glasses. It's not perfect, but it can help people in certian circumstances.",
+    "analysis": {
+      "issue": "An independent developer, moved after reading about the abuse of smart glasses to film people without their consent, decided to create an app to detect nearby smart glasses",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
       ]
     }
   },
@@ -1368,24 +1388,6 @@
     "summary": "This week on the Lock and Code podcast, we speak with Zach Hinkle and MinJi Pae about TikTok's new American ownership—and it's new rules.",
     "analysis": {
       "issue": "This week on the Lock and Code podcast… A funny thing happened on TikTok last month, and it has brought allegations of censorship, manipulation, and control",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Age verification vendor Persona left frontend exposed, researchers say",
-    "link": "https://www.malwarebytes.com/blog/news/2026/02/age-verification-vendor-persona-left-frontend-exposed",
-    "published": "Fri, 20 Feb 2026 14:08:39 GMT",
-    "summary": "Behind a basic age check, researchers say Persona’s system runs extensive identity, watchlist, and adverse-media screening.",
-    "analysis": {
-      "issue": "Researchers investigating Discord’s age-verification checks say they discovered an exposed frontend belonging to Persona, the identity-verification vendor used by Discord",
       "solution": null,
       "cause": null,
       "timeline": null,
