@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
+    "link": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
+    "published": "Wed, 25 Feb 2026 23:16:00 +0530",
+    "summary": "Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53 organizations across 42 countries.\n\"This prolific, elusive actor has a long history of targeting international governments and global telecommunications organizations across Africa, Asia, and the Americas,\"",
+    "analysis": {
+      "issue": "Google disrupts China-linked UNC2814 after 53 breaches in 42 countries using GRIDTIDE via Google Sheets API",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
+    "link": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
+    "published": "Wed, 25 Feb 2026 22:30:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities in Anthropic's Claude Code, an artificial intelligence (AI)-powered coding assistant, that could result in remote code execution and theft of API credentials.\n\"The vulnerabilities exploit various configuration mechanisms, including Hooks, Model Context Protocol (MCP) servers, and environment variables – executing",
+    "analysis": {
+      "issue": "Claude Code flaws allow remote code execution and API key theft via untrusted repositories; three bugs fixed across 2025–2026 releases",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks",
     "link": "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html",
     "published": "Wed, 25 Feb 2026 20:36:00 +0530",
@@ -146,13 +182,31 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
-    "link": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html",
-    "published": "Tue, 24 Feb 2026 19:51:00 +0530",
-    "summary": "A Russia-aligned threat actor has been observed targeting a European financial institution as part of a social engineering attack to likely facilitate intelligence gathering or financial theft, signaling a possible expansion of the threat actor's targeting beyond Ukraine and into entities supporting the war-torn nation.\nThe activity, which targeted an unnamed entity involved in regional",
+    "source": "Bleeping Computer",
+    "title": "Medical device maker UFP Technologies warns of data stolen in cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/",
+    "published": "Wed, 25 Feb 2026 18:02:16 -0500",
+    "summary": "American manufacturer of medical devices, UFP Technologies, has disclosed that a cybersecurity incident has compromised its IT systems and data. [...]",
     "analysis": {
-      "issue": "Russia-linked UAC-0050 targeted a European financial institution using a spoofed Ukrainian domain to deploy RMS remote access malware",
+      "issue": "American manufacturer of medical devices, UFP Technologies, has disclosed that a cybersecurity incident has compromised its IT systems and data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Fake Next.js job interview tests backdoor developer's devices",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/",
+    "published": "Wed, 25 Feb 2026 16:47:12 -0500",
+    "summary": "The Microsoft Defender team has discovered a coordinated campaign targeting software developers through malicious repositories posing as legitimate Next.js projects and technical assessment materials, including recruiting coding tests. [...]",
+    "analysis": {
+      "issue": "A coordinated campaign targeting software developers with job-themed lures is using malicious repositories posing as legitimate Next",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -164,20 +218,22 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
-    "link": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
-    "published": "Tue, 24 Feb 2026 17:28:00 +0530",
-    "summary": "Most identity programs still prioritize work the way they prioritize IT tickets: by volume, loudness, or “what failed a control check.” That approach breaks the moment your environment stops being mostly-human and mostly-onboarded.\nIn modern enterprises, identity risk is created by a compound of factors: control posture, hygiene, business context, and intent. Any one of these can perhaps be",
+    "source": "Bleeping Computer",
+    "title": "Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/",
+    "published": "Wed, 25 Feb 2026 13:01:51 -0500",
+    "summary": "Cisco is warning that a critical authentication bypass vulnerability in Cisco Catalyst SD-WAN, tracked as CVE-2026-20127, was actively exploited in zero-day attacks that allowed remote attackers to compromise controllers and add malicious rogue peers to targeted networks. [...]",
     "analysis": {
-      "issue": "Identity risk escalates when control gaps, hygiene failures, impact, and intent align, forming toxic combinations that drive real breaches",
+      "issue": "Cisco is warning that a critical authentication bypass vulnerability in Cisco Catalyst SD-WAN, tracked as CVE-2026-20127, was actively exploited in zero-day attacks that allowed remote attackers to compromise controllers and add malicious rogue peers",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20127"
+      ],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
@@ -252,8 +308,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-13943",
-        "CVE-2026-1459",
-        "CVE-2025-13942"
+        "CVE-2025-13942",
+        "CVE-2026-1459"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -315,61 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Phishing campaign targets freight and logistics orgs in the US, Europe",
-    "link": "https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-freight-and-logistics-orgs-in-the-us-europe/",
-    "published": "Tue, 24 Feb 2026 18:57:58 -0500",
-    "summary": "A financially motivated threat group dubbed \"Diesel Vortex\" is stealing credentials from freight and logistics operators in the U.S. and Europe in phishing attacks using 52 domains. [...]",
-    "analysis": {
-      "issue": "A financially motivated threat group dubbed “Diesel Vortex” is stealing credentials from freight and logistics operators in the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Wynn Resorts confirms employee data breach after extortion threat",
-    "link": "https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/",
-    "published": "Tue, 24 Feb 2026 16:51:20 -0500",
-    "summary": "Wynn Resorts has confirmed that a hacker stole employee data from its systems after the company was listed on the ShinyHunters extortion gang's data leak site. [...]",
-    "analysis": {
-      "issue": "Wynn Resorts has confirmed that a hacker stole employee data from its systems after the company was listed on the ShinyHunters extortion gang's data leak site",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "1Campaign platform helps malicious Google ads evade detection",
-    "link": "https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/",
-    "published": "Tue, 24 Feb 2026 16:45:05 -0500",
-    "summary": "A newly identified cybercrime service known as 1Campaign is enabling threat actors to run malicious Google Ads that remain online for extended periods while evading scrutiny from security researchers. [...]",
-    "analysis": {
-      "issue": "A newly identified cybercrime service known as 1Campaign is enabling threat actors to run malicious Google Ads that remain online for extended periods while evading scrutiny from security researchers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
     "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
@@ -419,16 +420,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21533",
+        "CVE-2026-21513",
         "CVE-2026-21514",
         "CVE-2026-21516",
-        "CVE-2026-21256",
-        "CVE-2026-21509",
         "CVE-2026-21523",
-        "CVE-2026-21513",
-        "CVE-2026-21510",
+        "CVE-2026-21256",
+        "CVE-2026-21525",
         "CVE-2026-21519",
-        "CVE-2026-21525"
+        "CVE-2026-21533",
+        "CVE-2026-21510",
+        "CVE-2026-21509"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -506,9 +507,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20952",
         "CVE-2026-20953",
-        "CVE-2026-20805",
-        "CVE-2026-20952"
+        "CVE-2026-20805"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -575,17 +576,17 @@
   },
   {
     "source": "Security Week",
-    "title": "The Blast Radius Problem: Stolen Credentials are Weaponizing Agentic AI",
+    "title": "The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI",
     "link": "https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/",
     "published": "Wed, 25 Feb 2026 16:16:40 +0000",
-    "summary": "<p>More than half (56%) of the 400,000 vulnerabilities IBM X-Force tracked in 2025 required no authentication before exploitation.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/\">The Blast Radius Problem: Stolen Credentials are Weaponizing Agentic AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "summary": "<p>More than half (56%) of the 400,000 vulnerabilities IBM X-Force tracked in 2025 required no authentication before exploitation.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/\">The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
-    "title": "Google Disrupts Chinese Cyberespionage Campaign Targeting Telecoms, Governments",
+    "title": "Google Disrupts Chinese Hackers Targeting Telecoms, Governments",
     "link": "https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/",
     "published": "Wed, 25 Feb 2026 16:01:45 +0000",
-    "summary": "<p>The UNC2814 threat actor has been active since at least 2017, targeting organizations across 42 countries. </p>\n<p>The post <a href=\"https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/\">Google Disrupts Chinese Cyberespionage Campaign Targeting Telecoms, Governments</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "summary": "<p>The UNC2814 threat actor has been active since at least 2017, targeting organizations across 42 countries. </p>\n<p>The post <a href=\"https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/\">Google Disrupts Chinese Hackers Targeting Telecoms, Governments</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -610,10 +611,10 @@
   },
   {
     "source": "Security Week",
-    "title": "Over 12 Million Users Impacted by CarGurus Data Breach",
+    "title": "CarGurus Data Breach Impacts Over 12 Million Users",
     "link": "https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/",
     "published": "Wed, 25 Feb 2026 12:30:00 +0000",
-    "summary": "<p>Hackers claim to have stolen personally identifiable information and internal corporate data from the automotive firm.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/\">Over 12 Million Users Impacted by CarGurus Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "summary": "<p>Hackers claim to have stolen personally identifiable information and internal corporate data from the automotive firm.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/\">CarGurus Data Breach Impacts Over 12 Million Users</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -656,8 +657,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-20775",
-        "CVE-2026-20127"
+        "CVE-2026-20127",
+        "CVE-2022-20775"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -769,13 +770,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21514",
-        "CVE-2026-21513",
-        "CVE-2026-21522",
-        "CVE-2026-21510",
         "CVE-2026-23655",
+        "CVE-2026-21522",
+        "CVE-2026-21513",
+        "CVE-2026-21514",
+        "CVE-2026-21525",
         "CVE-2026-21519",
-        "CVE-2026-21525"
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1186,8 +1187,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1272,12 +1273,12 @@
   },
   {
     "source": "Malwarebytes",
-    "title": "Fake Zoom meeting &#8220;update&#8221; silently installs surveillance software",
+    "title": "Fake Zoom meeting &#8220;update&#8221; silently installs rogue version of monitoring tool abused by cybercriminals to spy on victims",
     "link": "https://www.malwarebytes.com/blog/scams/2026/02/fake-zoom-meeting-update-silently-installs-surveillance-software",
     "published": "Tue, 24 Feb 2026 09:47:26 GMT",
     "summary": "A fake Zoom meeting page looks real, triggers a bogus “update,” and silently installs surveillance software.",
     "analysis": {
-      "issue": "A fake Zoom meeting website is silently pushing surveillance software onto Windows machines",
+      "issue": "UPDATE (February 25, 2026): Teramind has stated that it is not affiliated with the threat actors described and did not authorize the deployment of the software referenced",
       "solution": null,
       "cause": null,
       "timeline": null,
