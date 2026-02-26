@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
+    "link": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
+    "published": "Thu, 26 Feb 2026 11:43:00 +0530",
+    "summary": "A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as part of malicious activity that dates back to 2023.\nThe vulnerability, tracked as CVE-2026-20127 (CVSS score: 10.0), allows an unauthenticated remote attacker to bypass authentication and obtain",
+    "analysis": {
+      "issue": "Cisco warns CVE-2026-20127 (CVSS 10",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-20127"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
     "link": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
     "published": "Wed, 25 Feb 2026 23:16:00 +0530",
@@ -164,24 +184,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
-    "link": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html",
-    "published": "Wed, 25 Feb 2026 00:22:00 +0530",
-    "summary": "A vulnerability in GitHub Codespaces could have been exploited by bad actors to seize control of repositories by injecting malicious Copilot instructions in a GitHub issue.\nThe artificial intelligence (AI)-driven vulnerability has been codenamed RoguePilot by Orca Security. It has since been patched by Microsoft following responsible disclosure.\n\"Attackers can craft hidden instructions inside a",
-    "analysis": {
-      "issue": "RoguePilot flaw let GitHub Copilot leak GITHUB_TOKEN, while new studies expose LLM side channels, ShadowLogic backdoors, and promptware risks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Medical device maker UFP Technologies warns of data stolen in cyberattack",
     "link": "https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/",
@@ -307,9 +309,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-1459",
         "CVE-2025-13943",
-        "CVE-2025-13942"
+        "CVE-2025-13942",
+        "CVE-2026-1459"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -420,16 +422,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21513",
+        "CVE-2026-21510",
+        "CVE-2026-21256",
         "CVE-2026-21514",
         "CVE-2026-21523",
-        "CVE-2026-21509",
-        "CVE-2026-21516",
-        "CVE-2026-21510",
-        "CVE-2026-21525",
-        "CVE-2026-21256",
-        "CVE-2026-21519",
         "CVE-2026-21533",
-        "CVE-2026-21513"
+        "CVE-2026-21516",
+        "CVE-2026-21525",
+        "CVE-2026-21519",
+        "CVE-2026-21509"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -507,9 +509,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20952",
         "CVE-2026-20953",
-        "CVE-2026-20805",
-        "CVE-2026-20952"
+        "CVE-2026-20805"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -770,13 +772,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21513",
+        "CVE-2026-21510",
         "CVE-2026-23655",
         "CVE-2026-21514",
-        "CVE-2026-21519",
         "CVE-2026-21522",
         "CVE-2026-21525",
-        "CVE-2026-21510",
-        "CVE-2026-21513"
+        "CVE-2026-21519"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1187,8 +1189,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

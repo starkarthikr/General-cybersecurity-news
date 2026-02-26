@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-26 03:18:38 UTC
+**Last Updated:** 2026-02-26 09:13:02 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html)
+### 1. [Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access](https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 26 Feb 2026 11:43:00 +0530  
+**Severity:** High  
+**CVEs:** CVE-2026-20127  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Feb 2026 23:16:00 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration](https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html)
+### 3. [Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration](https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Feb 2026 22:30:00 +0530  
@@ -22,7 +32,7 @@
 
 ---
 
-### 3. [SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks](https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html)
+### 4. [SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks](https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Feb 2026 20:36:00 +0530  
@@ -31,7 +41,7 @@
 
 ---
 
-### 4. [Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It](https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html)
+### 5. [Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It](https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Feb 2026 20:00:00 +0530  
@@ -40,7 +50,7 @@
 
 ---
 
-### 5. [Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware](https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html)
+### 6. [Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware](https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Feb 2026 18:13:00 +0530  
@@ -49,7 +59,7 @@
 
 ---
 
-### 6. [Manual Processes Are Putting National Security at Risk](https://thehackernews.com/2026/02/manual-processes-are-putting-national.html)
+### 7. [Manual Processes Are Putting National Security at Risk](https://thehackernews.com/2026/02/manual-processes-are-putting-national.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Feb 2026 16:30:00 +0530  
@@ -58,7 +68,7 @@
 
 ---
 
-### 7. [Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker](https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html)
+### 8. [Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker](https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Feb 2026 14:19:00 +0530  
@@ -67,7 +77,7 @@
 
 ---
 
-### 8. [SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution](https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html)
+### 9. [SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution](https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Feb 2026 12:34:00 +0530  
@@ -76,22 +86,13 @@
 
 ---
 
-### 9. [CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability](https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html)
+### 10. [CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability](https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Feb 2026 10:53:00 +0530  
 **Severity:** Low  
 **CVEs:** CVE-2026-25108  
 **Categories:** Vulnerability  
-
----
-
-### 10. [RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN](https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 25 Feb 2026 00:22:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -155,7 +156,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Feb 2026 07:53:02 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-1459, CVE-2025-13943, CVE-2025-13942  
+**CVEs:** CVE-2025-13943, CVE-2025-13942, CVE-2026-1459  
 **Categories:** Vulnerability  
 
 ---
@@ -210,7 +211,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21514, CVE-2026-21523, CVE-2026-21509, CVE-2026-21516, CVE-2026-21510, CVE-2026-21525, CVE-2026-21256, CVE-2026-21519, CVE-2026-21533, CVE-2026-21513  
+**CVEs:** CVE-2026-21513, CVE-2026-21510, CVE-2026-21256, CVE-2026-21514, CVE-2026-21523, CVE-2026-21533, CVE-2026-21516, CVE-2026-21525, CVE-2026-21519, CVE-2026-21509  
 **Categories:** Vulnerability  
 
 ---
@@ -247,7 +248,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
+**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20805  
 **Categories:** Vulnerability  
 
 ---
@@ -409,7 +410,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-23655, CVE-2026-21514, CVE-2026-21519, CVE-2026-21522, CVE-2026-21525, CVE-2026-21510, CVE-2026-21513  
+**CVEs:** CVE-2026-21513, CVE-2026-21510, CVE-2026-23655, CVE-2026-21514, CVE-2026-21522, CVE-2026-21525, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -611,7 +612,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
