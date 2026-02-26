@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
+    "link": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html",
+    "published": "Thu, 26 Feb 2026 20:47:00 +0530",
+    "summary": "A previously undocumented threat activity cluster has been attributed to an ongoing malicious campaign targeting education and healthcare sectors in the U.S. since at least December 2025.\nThe campaign is being tracked by Cisco Talos under the moniker UAT-10027. The end goal of the attacks is to deliver a never-before-seen backdoor codenamed Dohdoor.\n\"Dohdoor utilizes the DNS-over-HTTPS (DoH)",
+    "analysis": {
+      "issue": "Cisco Talos tracks UAT-10027 targeting U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
+    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
+    "published": "Thu, 26 Feb 2026 19:58:00 +0530",
+    "summary": "Nothing here looks dramatic at first glance. That’s the point. Many of this week’s threats begin with something ordinary, like an ad, a meeting invite, or a software update.\nBehind the scenes, the tactics are sharper. Access happens faster. Control is established sooner. Cleanup becomes harder.\nHere is a quick look at the signals worth paying attention to.\n\n\n\n\n\n  \n \n\n  \n  \n    AI-powered command",
+    "analysis": {
+      "issue": "This week’s ThreatsDay Bulletin highlights emerging cyber threats, evolving attack tactics, and key security developments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Expert Recommends: Prepare for PQC Right Now",
     "link": "https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html",
     "published": "Thu, 26 Feb 2026 17:36:00 +0530",
@@ -146,38 +182,77 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware",
-    "link": "https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html",
-    "published": "Wed, 25 Feb 2026 18:13:00 +0530",
-    "summary": "Cybersecurity researchers have discovered four malicious NuGet packages that are designed to target ASP.NET web application developers to steal sensitive data.\nThe campaign, discovered by Socket, exfiltrates ASP.NET Identity data, including user accounts, role assignments, and permission mappings, as well as manipulates authorization rules to create persistent backdoors in victim applications.",
+    "source": "Bleeping Computer",
+    "title": "European DYI chain ManoMano data breach impacts 38 million customers",
+    "link": "https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/",
+    "published": "Thu, 26 Feb 2026 12:35:21 -0500",
+    "summary": "DIY store chain ManoMano is notifying customers of a data breach personal data, which was caused by hackers compromising a third-party service provider. [...]",
     "analysis": {
-      "issue": "Four rogue NuGet packages and one npm package stole ASP",
+      "issue": "DIY store chain ManoMano is notifying customers of a data breach that was caused by hackers compromising a third-party service provider",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Data Breach",
+        "Supply Chain"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Manual Processes Are Putting National Security at Risk",
-    "link": "https://thehackernews.com/2026/02/manual-processes-are-putting-national.html",
-    "published": "Wed, 25 Feb 2026 16:30:00 +0530",
-    "summary": "Why automating sensitive data transfers is now a mission-critical priority\nMore than half of national security organizations still rely on manual processes to transfer sensitive data, according to The CYBER360: Defending the Digital Battlespace report. This should alarm every defense and government leader because manual handling of sensitive data is not just inefficient, it is a systemic",
+    "source": "Bleeping Computer",
+    "title": "Critical Juniper Networks PTX flaw allows full router takeover",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/",
+    "published": "Thu, 26 Feb 2026 11:42:12 -0500",
+    "summary": "A critical vulnerability in the Junos OS Evolved network operating system running on PTX Series routers from Juniper Networks could allow an unauthenticated attacker to execute code remotely with root privileges. [...]",
     "analysis": {
-      "issue": "CYBER360 report warns over half of national security groups rely on manual data transfers, exposing mission-critical vulnerabilities",
+      "issue": "A critical vulnerability in the Junos OS Evolved network operating system running on PTX Series routers from Juniper Networks could allow an unauthenticated attacker to execute code remotely with root privileges",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
+      "cves": [
+        "CVE-2026-21902"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
+    "link": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/",
+    "published": "Thu, 26 Feb 2026 11:11:30 -0500",
+    "summary": "French professional football club Olympique de Marseille has confirmed a cyberattack after a threat actor claimed on Monday that it breached the club's systems earlier this month. [...]",
+    "analysis": {
+      "issue": "French professional football club Olympique de Marseille has confirmed a cyberattack after a threat actor claimed on Monday that it breached the club's systems earlier this month",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Ransomware payment rate drops to record low as attacks surge",
+    "link": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/",
+    "published": "Thu, 26 Feb 2026 09:00:59 -0500",
+    "summary": "The number of ransomware victims paying threat actors has dropped to 28% last year, an all-time low, despite a significant increase in the number of claimed attacks. [...]",
+    "analysis": {
+      "issue": "The number of ransomware victims paying threat actors has dropped to 28% last year, an all-time low, despite a significant increase in the number of claimed attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
       ]
     }
   },
@@ -293,84 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Marquis sues SonicWall over backup breach that led to ransomware attack",
-    "link": "https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/",
-    "published": "Wed, 25 Feb 2026 10:54:44 -0500",
-    "summary": "Marquis Software Solutions has filed a lawsuit against SonicWall, accusing the cybersecurity company of gross negligence and misrepresentation that allegedly led to a ransomware attack disrupting operations at 74 U.S. banks. [...]",
-    "analysis": {
-      "issue": "Marquis Software Solutions has filed a lawsuit against SonicWall, accusing the cybersecurity company of gross negligence and misrepresentation that allegedly led to a ransomware attack disrupting operations at 74 U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web",
-    "link": "https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/",
-    "published": "Wed, 25 Feb 2026 10:01:11 -0500",
-    "summary": "OpenClaw has sparked heavy Telegram and dark web chatter, but Flare's data shows more research hype than mass exploitation. Flare explains how its telemetry found real supply-chain risk in the skills marketplace, yet limited signs of large-scale criminal operationalization. [...]",
-    "analysis": {
-      "issue": "OpenClaw started as a side project of a developer who wanted to make his (and others) life easier with AI assistance",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Zyxel warns of critical RCE flaw affecting over a dozen routers",
-    "link": "https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/",
-    "published": "Wed, 25 Feb 2026 07:53:02 -0500",
-    "summary": "Taiwan networking provider Zyxel has released security updates to address a critical vulnerability affecting over a dozen router models that can allow unauthenticated attackers to gain remote command execution on unpatched devices. [...]",
-    "analysis": {
-      "issue": "Taiwan networking provider Zyxel has released security updates to address a critical vulnerability affecting over a dozen router models that can allow unauthenticated attackers to gain remote command execution on unpatched devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-1459",
-        "CVE-2025-13942",
-        "CVE-2025-13943"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US sanctions Russian broker for buying stolen zero-day exploits",
-    "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/",
-    "published": "Wed, 25 Feb 2026 05:31:13 -0500",
-    "summary": "The U.S. Treasury Department has sanctioned a Russian exploit broker who bought stolen hacking tools from a former executive of a U.S. defense contractor. [...]",
-    "analysis": {
-      "issue": "Treasury Department has sanctioned a Russian exploit broker who bought stolen hacking tools from a former executive of a U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
     "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
@@ -420,16 +417,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21256",
         "CVE-2026-21516",
-        "CVE-2026-21525",
-        "CVE-2026-21510",
-        "CVE-2026-21513",
-        "CVE-2026-21519",
         "CVE-2026-21523",
-        "CVE-2026-21509",
         "CVE-2026-21514",
-        "CVE-2026-21533"
+        "CVE-2026-21525",
+        "CVE-2026-21509",
+        "CVE-2026-21519",
+        "CVE-2026-21510",
+        "CVE-2026-21533",
+        "CVE-2026-21256",
+        "CVE-2026-21513"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -576,6 +573,13 @@
   },
   {
     "source": "Security Week",
+    "title": "Claude Code Flaws Exposed Developer Devices to Silent Hacking",
+    "link": "https://www.securityweek.com/claude-code-flaws-exposed-developer-devices-to-silent-hacking/",
+    "published": "Thu, 26 Feb 2026 13:37:54 +0000",
+    "summary": "<p>Anthropic has patched vulnerabilities whose impact was demonstrated by Check Point via malicious configuration files.</p>\n<p>The post <a href=\"https://www.securityweek.com/claude-code-flaws-exposed-developer-devices-to-silent-hacking/\">Claude Code Flaws Exposed Developer Devices to Silent Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Gambit Security Emerges From Stealth With $61 Million in Funding",
     "link": "https://www.securityweek.com/gambit-security-emerges-from-stealth-with-61-million-in-funding/",
     "published": "Thu, 26 Feb 2026 12:55:40 +0000",
@@ -638,13 +642,6 @@
     "summary": "<p>UFP Technologies appears to have been targeted in a ransomware attack that involved data theft and file-encrypting malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/\">Medical Device Maker UFP Technologies Hit by Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia",
-    "link": "https://www.securityweek.com/ex-us-defense-contractor-executive-jailed-for-selling-exploits-to-russia/",
-    "published": "Wed, 25 Feb 2026 12:59:30 +0000",
-    "summary": "<p>Peter Williams was sentenced to 87 months in prison for selling cyber exploits to a Russian broker.</p>\n<p>The post <a href=\"https://www.securityweek.com/ex-us-defense-contractor-executive-jailed-for-selling-exploits-to-russia/\">Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
     "source": "Talos Blog",
     "title": "New Dohdoor malware campaign targets education and health care",
     "link": "https://blog.talosintelligence.com/new-dohdoor-malware-campaign/",
@@ -676,8 +673,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20127",
-        "CVE-2022-20775"
+        "CVE-2022-20775",
+        "CVE-2026-20127"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -789,13 +786,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-23655",
+        "CVE-2026-21514",
         "CVE-2026-21525",
         "CVE-2026-21522",
-        "CVE-2026-21510",
-        "CVE-2026-21513",
         "CVE-2026-21519",
-        "CVE-2026-21514"
+        "CVE-2026-21510",
+        "CVE-2026-23655",
+        "CVE-2026-21513"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -836,6 +833,24 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Recorded Future Expands Coverage of Scams and Financial Fraud with Money Mule Intelligence from CYBERA",
+    "link": "https://www.recordedfuture.com/blog/recorded-future-money-mule-intelligence-cybera",
+    "published": "Thu, 26 Feb 2026 00:00:00 GMT",
+    "summary": "Recorded Future is expanding its payment fraud prevention capabilities through a partnership with CYBERA, the industry leader in detecting and verifying data on scam-linked bank accounts.",
+    "analysis": {
+      "issue": "Recorded Future is expanding its payment fraud prevention capabilities through a partnership with CYBERA, the industry leader in detecting and verifying data on scam-linked bank accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -997,24 +1012,6 @@
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Autonomous Threat Operations in action: Real results from Recorded Future’s own SOC team | Recorded Future",
-    "link": "https://www.recordedfuture.com/blog/autonomous-threat-operations-in-action",
-    "published": "Sun, 01 Feb 2026 00:00:00 GMT",
-    "summary": "This article explores how Recorded Future served as Customer Zero for Autonomous Threat Operations, testing the new solution within our own SOC to validate its real-world impact before releasing it to the public. The article reveals how the technology transformed inconsistent, analyst-dependent threat hunting into unified, automated operations—enabling junior analysts to run 15–20 hunts weekly and allowing our CISO to launch comprehensive network hunts in five minutes in response to critical threats like Salt Typhoon. By understanding these outcomes, security leaders can see how autonomous threat hunting empowers teams at every skill level to shift from reactive to proactive defense.",
-    "analysis": {
-      "issue": "This article explores how Recorded Future served as Customer Zero for Autonomous Threat Operations, testing the new solution within our own SOC to validate its real-world impact before releasing it to the public",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -1188,8 +1185,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1402,6 +1399,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/",
+    "published": "Feb 26, 2026 00:00:00-0600",
+    "summary": "",
+    "analysis": {
+      "issue": "FalconID brings continuous risk-aware authorization to MFA for Falcon Next-Gen Identity Security",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/",
     "published": "Feb 24, 2026 00:00:00-0600",
@@ -1552,24 +1567,6 @@
     "summary": "",
     "analysis": {
       "issue": "CrowdStrike is the only vendor to be named Customers’ Choice for the second year in a row",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Advanced Web Shell Detection and Prevention: A Deep Dive into CrowdStrike's Linux Sensor Capabilities",
-    "link": "https://www.crowdstrike.com/en-us/blog/advanced-web-shell-detection-and-prevention/",
-    "published": "Feb 05, 2026 00:00:00-0600",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn about recently released enhancements for the Falcon sensor on Linux platforms that provide better visibility",
       "solution": null,
       "cause": null,
       "timeline": null,

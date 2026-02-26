@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-26 13:21:39 UTC
+**Last Updated:** 2026-02-26 17:36:44 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Expert Recommends: Prepare for PQC Right Now](https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html)
+### 1. [UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor](https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 26 Feb 2026 20:47:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 26 Feb 2026 19:58:00 +0530  
+**Severity:** High  
+**Categories:** Ransomware  
+
+---
+
+### 3. [Expert Recommends: Prepare for PQC Right Now](https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Feb 2026 17:36:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware](https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html)
+### 4. [Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware](https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Feb 2026 16:05:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens](https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html)
+### 5. [Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens](https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Feb 2026 15:39:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access](https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html)
+### 6. [Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access](https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Feb 2026 11:43:00 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html)
+### 7. [Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Feb 2026 23:16:00 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration](https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html)
+### 8. [Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration](https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Feb 2026 22:30:00 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks](https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html)
+### 9. [SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks](https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Feb 2026 20:36:00 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It](https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html)
+### 10. [Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It](https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Feb 2026 20:00:00 +0530  
@@ -77,25 +95,44 @@
 
 ---
 
-### 9. [Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware](https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html)
+### 11. [European DYI chain ManoMano data breach impacts 38 million customers](https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 25 Feb 2026 18:13:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 26 Feb 2026 12:35:21 -0500  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** Data Breach, Supply Chain  
 
 ---
 
-### 10. [Manual Processes Are Putting National Security at Risk](https://thehackernews.com/2026/02/manual-processes-are-putting-national.html)
+### 12. [Critical Juniper Networks PTX flaw allows full router takeover](https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 25 Feb 2026 16:30:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 26 Feb 2026 11:42:12 -0500  
 **Severity:** Critical  
-**Categories:** General Security  
+**CVEs:** CVE-2026-21902  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [Microsoft expands Windows restore to more enterprise devices](https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/)
+### 13. [Olympique Marseille confirms 'attempted' cyberattack after data leak](https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 26 Feb 2026 11:11:30 -0500  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 14. [Ransomware payment rate drops to record low as attacks surge](https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 26 Feb 2026 09:00:59 -0500  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 15. [Microsoft expands Windows restore to more enterprise devices](https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Feb 2026 08:04:02 -0500  
@@ -104,7 +141,7 @@
 
 ---
 
-### 12. [New York sues Valve for promoting illegal gambling via game loot boxes](https://www.bleepingcomputer.com/news/gaming/new-york-sues-valve-for-promoting-illegal-gambling-via-game-loot-boxes/)
+### 16. [New York sues Valve for promoting illegal gambling via game loot boxes](https://www.bleepingcomputer.com/news/gaming/new-york-sues-valve-for-promoting-illegal-gambling-via-game-loot-boxes/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Feb 2026 06:44:50 -0500  
@@ -113,7 +150,7 @@
 
 ---
 
-### 13. [Medical device maker UFP Technologies warns of data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/)
+### 17. [Medical device maker UFP Technologies warns of data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Feb 2026 18:02:16 -0500  
@@ -122,7 +159,7 @@
 
 ---
 
-### 14. [Fake Next.js job interview tests backdoor developer's devices](https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/)
+### 18. [Fake Next.js job interview tests backdoor developer's devices](https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Feb 2026 16:47:12 -0500  
@@ -131,7 +168,7 @@
 
 ---
 
-### 15. [Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023](https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/)
+### 19. [Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023](https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Feb 2026 13:01:51 -0500  
@@ -141,49 +178,12 @@
 
 ---
 
-### 16. [Chinese cyberspies breached dozens of telecom firms, govt agencies](https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/)
+### 20. [Chinese cyberspies breached dozens of telecom firms, govt agencies](https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Feb 2026 12:00:15 -0500  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 17. [Marquis sues SonicWall over backup breach that led to ransomware attack](https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 25 Feb 2026 10:54:44 -0500  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability  
-
----
-
-### 18. [The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web](https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 25 Feb 2026 10:01:11 -0500  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 19. [Zyxel warns of critical RCE flaw affecting over a dozen routers](https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 25 Feb 2026 07:53:02 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2026-1459, CVE-2025-13942, CVE-2025-13943  
-**Categories:** Vulnerability  
-
----
-
-### 20. [US sanctions Russian broker for buying stolen zero-day exploits](https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 25 Feb 2026 05:31:13 -0500  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -210,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21256, CVE-2026-21516, CVE-2026-21525, CVE-2026-21510, CVE-2026-21513, CVE-2026-21519, CVE-2026-21523, CVE-2026-21509, CVE-2026-21514, CVE-2026-21533  
+**CVEs:** CVE-2026-21516, CVE-2026-21523, CVE-2026-21514, CVE-2026-21525, CVE-2026-21509, CVE-2026-21519, CVE-2026-21510, CVE-2026-21533, CVE-2026-21256, CVE-2026-21513  
 **Categories:** Vulnerability  
 
 ---
@@ -279,73 +279,73 @@
 
 ---
 
-### 31. [Gambit Security Emerges From Stealth With $61 Million in Funding](https://www.securityweek.com/gambit-security-emerges-from-stealth-with-61-million-in-funding/)
+### 31. [Claude Code Flaws Exposed Developer Devices to Silent Hacking](https://www.securityweek.com/claude-code-flaws-exposed-developer-devices-to-silent-hacking/)
+
+**Source:** Security Week  
+**Published:** Thu, 26 Feb 2026 13:37:54 +0000  
+
+---
+
+### 32. [Gambit Security Emerges From Stealth With $61 Million in Funding](https://www.securityweek.com/gambit-security-emerges-from-stealth-with-61-million-in-funding/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Feb 2026 12:55:40 +0000  
 
 ---
 
-### 32. [Zyxel Patches Critical Vulnerability in Many Device Models](https://www.securityweek.com/zyxel-patches-critical-vulnerability-in-many-device-models/)
+### 33. [Zyxel Patches Critical Vulnerability in Many Device Models](https://www.securityweek.com/zyxel-patches-critical-vulnerability-in-many-device-models/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Feb 2026 12:09:29 +0000  
 
 ---
 
-### 33. [US Sanctions Russian Exploit Broker Operation Zero](https://www.securityweek.com/us-sanctions-russian-exploit-broker-operation-zero/)
+### 34. [US Sanctions Russian Exploit Broker Operation Zero](https://www.securityweek.com/us-sanctions-russian-exploit-broker-operation-zero/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Feb 2026 10:33:53 +0000  
 
 ---
 
-### 34. [Trend Micro Patches Critical Apex One Vulnerabilities](https://www.securityweek.com/trend-micro-patches-critical-apex-one-vulnerabilities/)
+### 35. [Trend Micro Patches Critical Apex One Vulnerabilities](https://www.securityweek.com/trend-micro-patches-critical-apex-one-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Feb 2026 09:56:46 +0000  
 
 ---
 
-### 35. [Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers](https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/)
+### 36. [Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers](https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Feb 2026 09:18:43 +0000  
 
 ---
 
-### 36. [The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI](https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/)
+### 37. [The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI](https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Feb 2026 16:16:40 +0000  
 
 ---
 
-### 37. [Google Disrupts Chinese Hackers Targeting Telecoms, Governments](https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/)
+### 38. [Google Disrupts Chinese Hackers Targeting Telecoms, Governments](https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Feb 2026 16:01:45 +0000  
 
 ---
 
-### 38. [SolarWinds Patches Four Critical Serv-U Vulnerabilities](https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/)
+### 39. [SolarWinds Patches Four Critical Serv-U Vulnerabilities](https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Feb 2026 15:30:00 +0000  
 
 ---
 
-### 39. [Medical Device Maker UFP Technologies Hit by Cyberattack](https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/)
+### 40. [Medical Device Maker UFP Technologies Hit by Cyberattack](https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Feb 2026 13:40:46 +0000  
-
----
-
-### 40. [Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia](https://www.securityweek.com/ex-us-defense-contractor-executive-jailed-for-selling-exploits-to-russia/)
-
-**Source:** Security Week  
-**Published:** Wed, 25 Feb 2026 12:59:30 +0000  
 
 ---
 
@@ -363,7 +363,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 25 Feb 2026 16:13:36 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20127, CVE-2022-20775  
+**CVEs:** CVE-2022-20775, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---
@@ -418,7 +418,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-23655, CVE-2026-21525, CVE-2026-21522, CVE-2026-21510, CVE-2026-21513, CVE-2026-21519, CVE-2026-21514  
+**CVEs:** CVE-2026-21514, CVE-2026-21525, CVE-2026-21522, CVE-2026-21519, CVE-2026-21510, CVE-2026-23655, CVE-2026-21513  
 **Categories:** Vulnerability  
 
 ---
@@ -441,7 +441,16 @@
 
 ---
 
-### 51. [January 2026 CVE Landscape: 23 Critical Vulnerabilities Mark 5% Increase, APT28 Exploits Microsoft Office Zero-Day](https://www.recordedfuture.com/blog/january-2026-cve-landscape)
+### 51. [Recorded Future Expands Coverage of Scams and Financial Fraud with Money Mule Intelligence from CYBERA](https://www.recordedfuture.com/blog/recorded-future-money-mule-intelligence-cybera)
+
+**Source:** Recorded Future  
+**Published:** Thu, 26 Feb 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [January 2026 CVE Landscape: 23 Critical Vulnerabilities Mark 5% Increase, APT28 Exploits Microsoft Office Zero-Day](https://www.recordedfuture.com/blog/january-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Tue, 24 Feb 2026 00:00:00 GMT  
@@ -450,7 +459,7 @@
 
 ---
 
-### 52. [Preparing for Russia’s New Generation Warfare in Europe](https://www.recordedfuture.com/research/preparing-for-russias-new-generation-warfare-in-europe)
+### 53. [Preparing for Russia’s New Generation Warfare in Europe](https://www.recordedfuture.com/research/preparing-for-russias-new-generation-warfare-in-europe)
 
 **Source:** Recorded Future  
 **Published:** Tue, 24 Feb 2026 00:00:00 GMT  
@@ -459,7 +468,7 @@
 
 ---
 
-### 53. [2025 Cloud Threat Hunting and Defense Landscape](https://www.recordedfuture.com/research/2025-cloud-threat-hunting-defense-landscape)
+### 54. [2025 Cloud Threat Hunting and Defense Landscape](https://www.recordedfuture.com/research/2025-cloud-threat-hunting-defense-landscape)
 
 **Source:** Recorded Future  
 **Published:** Thu, 19 Feb 2026 00:00:00 GMT  
@@ -468,7 +477,7 @@
 
 ---
 
-### 54. [GrayCharlie Hijacks Law Firm Sites in Suspected Supply-Chain Attack](https://www.recordedfuture.com/research/graycharlie-hijacks-law-firm-sites-suspected-supply-chain-attack)
+### 55. [GrayCharlie Hijacks Law Firm Sites in Suspected Supply-Chain Attack](https://www.recordedfuture.com/research/graycharlie-hijacks-law-firm-sites-suspected-supply-chain-attack)
 
 **Source:** Recorded Future  
 **Published:** Wed, 18 Feb 2026 00:00:00 GMT  
@@ -477,7 +486,7 @@
 
 ---
 
-### 55. [Network Intelligence: Your Questions, Global Answers](https://www.recordedfuture.com/blog/network-intelligence-questions-answered)
+### 56. [Network Intelligence: Your Questions, Global Answers](https://www.recordedfuture.com/blog/network-intelligence-questions-answered)
 
 **Source:** Recorded Future  
 **Published:** Mon, 16 Feb 2026 00:00:00 GMT  
@@ -486,7 +495,7 @@
 
 ---
 
-### 56. [State of Security Report | Recorded Future](https://www.recordedfuture.com/research/state-of-security)
+### 57. [State of Security Report | Recorded Future](https://www.recordedfuture.com/research/state-of-security)
 
 **Source:** Recorded Future  
 **Published:** Thu, 12 Feb 2026 00:00:00 GMT  
@@ -495,7 +504,7 @@
 
 ---
 
-### 57. [Fragmentation Defined 2025's Threat Landscape. Here's What It Means for 2026](https://www.recordedfuture.com/blog/fragmentation-in-2025-what-it-means-for-2026)
+### 58. [Fragmentation Defined 2025's Threat Landscape. Here's What It Means for 2026](https://www.recordedfuture.com/blog/fragmentation-in-2025-what-it-means-for-2026)
 
 **Source:** Recorded Future  
 **Published:** Thu, 12 Feb 2026 00:00:00 GMT  
@@ -504,7 +513,7 @@
 
 ---
 
-### 58. [From 27 Steps to 5: How Recorded Future Reimagined Threat Hunting with Autonomous Threat Operations](https://www.recordedfuture.com/blog/threat-hunting-27-steps-to-5)
+### 59. [From 27 Steps to 5: How Recorded Future Reimagined Threat Hunting with Autonomous Threat Operations](https://www.recordedfuture.com/blog/threat-hunting-27-steps-to-5)
 
 **Source:** Recorded Future  
 **Published:** Wed, 11 Feb 2026 00:00:00 GMT  
@@ -513,20 +522,11 @@
 
 ---
 
-### 59. [Rublevka Team: Anatomy of a Russian Crypto Drainer Operation](https://www.recordedfuture.com/research/rublevka-team-anatomy-russian-crypto-drainer-operation)
+### 60. [Rublevka Team: Anatomy of a Russian Crypto Drainer Operation](https://www.recordedfuture.com/research/rublevka-team-anatomy-russian-crypto-drainer-operation)
 
 **Source:** Recorded Future  
 **Published:** Wed, 04 Feb 2026 00:00:00 GMT  
 **Severity:** High  
-**Categories:** General Security  
-
----
-
-### 60. [Autonomous Threat Operations in action: Real results from Recorded Future’s own SOC team | Recorded Future](https://www.recordedfuture.com/blog/autonomous-threat-operations-in-action)
-
-**Source:** Recorded Future  
-**Published:** Sun, 01 Feb 2026 00:00:00 GMT  
-**Severity:** Critical  
 **Categories:** General Security  
 
 ---
@@ -611,7 +611,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -716,7 +716,16 @@
 
 ---
 
-### 81. [CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/)
+### 81. [CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Feb 26, 2026 00:00:00-0600  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 82. [CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 24, 2026 00:00:00-0600  
@@ -725,7 +734,7 @@
 
 ---
 
-### 82. [The Art of Deception: How Threat Actors Master Typosquatting Campaigns to Bypass Detection](https://www.crowdstrike.com/en-us/blog/the-art-of-deception-how-threat-actors-master-typosquatting-campaigns-to-bypass-detection/)
+### 83. [The Art of Deception: How Threat Actors Master Typosquatting Campaigns to Bypass Detection](https://www.crowdstrike.com/en-us/blog/the-art-of-deception-how-threat-actors-master-typosquatting-campaigns-to-bypass-detection/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 23, 2026 00:00:00-0600  
@@ -734,7 +743,7 @@
 
 ---
 
-### 83. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
+### 84. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 18, 2026 00:00:00-0600  
@@ -743,7 +752,7 @@
 
 ---
 
-### 84. [Exposing Insider Threats through Data Protection, Identity, and HR Context](https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/)
+### 85. [Exposing Insider Threats through Data Protection, Identity, and HR Context](https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 18, 2026 00:00:00-0600  
@@ -752,7 +761,7 @@
 
 ---
 
-### 85. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/)
+### 86. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 12, 2026 00:00:00-0600  
@@ -761,7 +770,7 @@
 
 ---
 
-### 86. [How to Scale SOC Automation with Falcon Fusion SOAR](https://www.crowdstrike.com/en-us/blog/how-to-scale-soc-automation-with-falcon-fusion-soar/)
+### 87. [How to Scale SOC Automation with Falcon Fusion SOAR](https://www.crowdstrike.com/en-us/blog/how-to-scale-soc-automation-with-falcon-fusion-soar/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 11, 2026 00:00:00-0600  
@@ -770,7 +779,7 @@
 
 ---
 
-### 87. [Inside the Human-AI Feedback Loop Powering CrowdStrike&rsquo;s Agentic Security](https://www.crowdstrike.com/en-us/blog/inside-the-human-ai-feedback-loop-powering-crowdstrike-agentic-security/)
+### 88. [Inside the Human-AI Feedback Loop Powering CrowdStrike&rsquo;s Agentic Security](https://www.crowdstrike.com/en-us/blog/inside-the-human-ai-feedback-loop-powering-crowdstrike-agentic-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 10, 2026 00:00:00-0600  
@@ -779,7 +788,7 @@
 
 ---
 
-### 88. [February 2026 Patch Tuesday: Six Zero-Days Among 59 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-february-2026/)
+### 89. [February 2026 Patch Tuesday: Six Zero-Days Among 59 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-february-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 10, 2026 00:00:00-0600  
@@ -788,19 +797,10 @@
 
 ---
 
-### 89. [CrowdStrike Is the Only Vendor to Be Named a Customers&rsquo; Choice in 2025 Gartner&reg; Voice of the Customer for External Attack Surface Management](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-only-customers-choice-2025-gartner-voice-of-the-customer-easm/)
+### 90. [CrowdStrike Is the Only Vendor to Be Named a Customers&rsquo; Choice in 2025 Gartner&reg; Voice of the Customer for External Attack Surface Management](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-only-customers-choice-2025-gartner-voice-of-the-customer-easm/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 09, 2026 00:00:00-0600  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [Advanced Web Shell Detection and Prevention: A Deep Dive into CrowdStrike's Linux Sensor Capabilities](https://www.crowdstrike.com/en-us/blog/advanced-web-shell-detection-and-prevention/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Feb 05, 2026 00:00:00-0600  
 **Severity:** Low  
 **Categories:** General Security  
 
