@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks",
+    "link": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html",
+    "published": "Fri, 27 Feb 2026 18:13:00 +0530",
+    "summary": "The North Korean threat actor known as ScarCruft has been attributed to a fresh set of tools, including a backdoor that uses Zoho WorkDrive for command-and-control (C2) communications to fetch more payloads and an implant that uses removable media to relay commands and breach air-gapped networks.\nThe campaign, codenamed Ruby Jumper by Zscaler ThreatLabz, involves the deployment of malware",
+    "analysis": {
+      "issue": "North Korea-linked ScarCruft’s Ruby Jumper uses Zoho WorkDrive C2 and USB malware to breach air-gapped systems for surveillance",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms",
+    "link": "https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html",
+    "published": "Fri, 27 Feb 2026 15:36:00 +0530",
+    "summary": "Threat actors are luring unsuspecting users into running trojanized gaming utilities that are distributed via browsers and chat platforms to distribute a remote access trojan (RAT).\n\"A malicious downloader staged a portable Java runtime and executed a malicious Java archive (JAR) file named jd-gui.jar,\" the Microsoft Threat Intelligence team said in a post on X. \"This downloader used PowerShell",
+    "analysis": {
+      "issue": "Trojanized gaming tools and new Windows RATs like Steaelite enable data theft, ransomware, and persistent remote control",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams",
     "link": "https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html",
     "published": "Fri, 27 Feb 2026 13:26:00 +0530",
@@ -146,31 +183,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
-    "link": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
-    "published": "Wed, 25 Feb 2026 23:16:00 +0530",
-    "summary": "Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53 organizations across 42 countries.\n\"This prolific, elusive actor has a long history of targeting international governments and global telecommunications organizations across Africa, Asia, and the Americas,\"",
+    "source": "Bleeping Computer",
+    "title": "Ukrainian man pleads guilty to running AI-powered fake ID site",
+    "link": "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/",
+    "published": "Fri, 27 Feb 2026 07:30:07 -0500",
+    "summary": "A Ukrainian man has pleaded guilty to operating OnlyFake, an AI-powered website that generated and sold more than 10,000 photos of fake identification documents to customers worldwide. [...]",
     "analysis": {
-      "issue": "Google disrupts China-linked UNC2814 after 53 breaches in 42 countries using GRIDTIDE via Google Sheets API",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
-    "link": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
-    "published": "Wed, 25 Feb 2026 22:30:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities in Anthropic's Claude Code, an artificial intelligence (AI)-powered coding assistant, that could result in remote code execution and theft of API credentials.\n\"The vulnerabilities exploit various configuration mechanisms, including Hooks, Model Context Protocol (MCP) servers, and environment variables – executing",
-    "analysis": {
-      "issue": "Claude Code flaws allow remote code execution and API key theft via untrusted repositories; three bugs fixed across 2025–2026 releases",
+      "issue": "A Ukrainian man has pleaded guilty to operating OnlyFake, an AI-powered website that generated and sold more than 10,000 photos of fake identification documents to customers worldwide",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -351,24 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Fake Next.js job interview tests backdoor developer's devices",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/",
-    "published": "Wed, 25 Feb 2026 16:47:12 -0500",
-    "summary": "The Microsoft Defender team has discovered a coordinated campaign targeting software developers through malicious repositories posing as legitimate Next.js projects and technical assessment materials, including recruiting coding tests. [...]",
-    "analysis": {
-      "issue": "A coordinated campaign targeting software developers with job-themed lures is using malicious repositories posing as legitimate Next",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
     "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
@@ -418,16 +419,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21533",
-        "CVE-2026-21519",
-        "CVE-2026-21510",
-        "CVE-2026-21514",
-        "CVE-2026-21516",
-        "CVE-2026-21509",
-        "CVE-2026-21513",
         "CVE-2026-21525",
+        "CVE-2026-21516",
         "CVE-2026-21523",
-        "CVE-2026-21256"
+        "CVE-2026-21514",
+        "CVE-2026-21519",
+        "CVE-2026-21509",
+        "CVE-2026-21256",
+        "CVE-2026-21533",
+        "CVE-2026-21513",
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -505,8 +506,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20953",
         "CVE-2026-20805",
+        "CVE-2026-20953",
         "CVE-2026-20952"
       ],
       "threat_categories": [
@@ -574,6 +575,34 @@
   },
   {
     "source": "Security Week",
+    "title": "Chilean Carding Shop Operator Extradited to US",
+    "link": "https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/",
+    "published": "Fri, 27 Feb 2026 12:34:54 +0000",
+    "summary": "<p>The 24-year-old suspect has been accused of trafficking over 26,000 cards from a single brand.</p>\n<p>The post <a href=\"https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/\">Chilean Carding Shop Operator Extradited to US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline",
+    "link": "https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/",
+    "published": "Fri, 27 Feb 2026 12:34:42 +0000",
+    "summary": "<p>Anthropic said it sought narrow assurances from the Pentagon that Claude won’t be used for mass surveillance of Americans or in fully autonomous weapons.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/\">Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Aeternum Botnet Loader Employs Polygon Blockchain C&C to Boost Resilience",
+    "link": "https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/",
+    "published": "Fri, 27 Feb 2026 12:02:53 +0000",
+    "summary": "<p>Aeternum operates on smart contracts, making its command-and-control (C&#038;C) infrastructure difficult to disrupt.</p>\n<p>The post <a href=\"https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/\">Aeternum Botnet Loader Employs Polygon Blockchain C&#038;C to Boost Resilience</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Juniper Networks PTX Routers Affected by Critical Vulnerability",
+    "link": "https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/",
+    "published": "Fri, 27 Feb 2026 10:39:18 +0000",
+    "summary": "<p>An out-of-band security update for Junos OS Evolved patches the remote code execution vulnerability CVE-2026-21902.</p>\n<p>The post <a href=\"https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/\">Juniper Networks PTX Routers Affected by Critical Vulnerability </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking",
     "link": "https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/",
     "published": "Fri, 27 Feb 2026 07:38:59 +0000",
@@ -613,34 +642,6 @@
     "link": "https://www.securityweek.com/zyxel-patches-critical-vulnerability-in-many-device-models/",
     "published": "Thu, 26 Feb 2026 12:09:29 +0000",
     "summary": "<p>The issue impacts the UPnP function of multiple device models and could be exploited for remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/zyxel-patches-critical-vulnerability-in-many-device-models/\">Zyxel Patches Critical Vulnerability in Many Device Models</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "US Sanctions Russian Exploit Broker Operation Zero",
-    "link": "https://www.securityweek.com/us-sanctions-russian-exploit-broker-operation-zero/",
-    "published": "Thu, 26 Feb 2026 10:33:53 +0000",
-    "summary": "<p>The broker acquired eight zero-day exploits from a US defense contractor executive jailed for his actions.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-sanctions-russian-exploit-broker-operation-zero/\">US Sanctions Russian Exploit Broker Operation Zero</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Trend Micro Patches Critical Apex One Vulnerabilities",
-    "link": "https://www.securityweek.com/trend-micro-patches-critical-apex-one-vulnerabilities/",
-    "published": "Thu, 26 Feb 2026 09:56:46 +0000",
-    "summary": "<p>TrendAI has fixed eight critical and high-severity issues in Windows and macOS endpoint security products.</p>\n<p>The post <a href=\"https://www.securityweek.com/trend-micro-patches-critical-apex-one-vulnerabilities/\">Trend Micro Patches Critical Apex One Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers",
-    "link": "https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/",
-    "published": "Thu, 26 Feb 2026 09:18:43 +0000",
-    "summary": "<p>Already added to CISA’s KEV catalog, the flaw allows attackers to bypass authentication and gain administrative privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/\">Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI",
-    "link": "https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/",
-    "published": "Wed, 25 Feb 2026 16:16:40 +0000",
-    "summary": "<p>More than half (56%) of the 400,000 vulnerabilities IBM X-Force tracked in 2025 required no authentication before exploitation.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/\">The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -694,8 +695,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-20775",
-        "CVE-2026-20127"
+        "CVE-2026-20127",
+        "CVE-2022-20775"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -807,13 +808,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21519",
-        "CVE-2026-21510",
+        "CVE-2026-21525",
         "CVE-2026-21522",
         "CVE-2026-21514",
+        "CVE-2026-21519",
         "CVE-2026-23655",
         "CVE-2026-21513",
-        "CVE-2026-21525"
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1187,8 +1188,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1213,6 +1214,43 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Public Google API keys can be used to expose Gemini AI data",
+    "link": "https://www.malwarebytes.com/blog/news/2026/02/public-google-api-keys-can-be-used-to-expose-gemini-ai-data",
+    "published": "Fri, 27 Feb 2026 12:33:22 GMT",
+    "summary": "Researchers found that Google API keys long treated as harmless can now unlock access to Gemini.",
+    "analysis": {
+      "issue": "Google Maps/Cloud API (Application Programming Interface) keys that used to be safe to publish can now, in many cases, be used as real Gemini AI credentials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Inside a fake Google security check that becomes a browser RAT",
+    "link": "https://www.malwarebytes.com/blog/privacy/2026/02/inside-a-fake-google-security-check-that-becomes-a-browser-rat",
+    "published": "Fri, 27 Feb 2026 11:29:11 GMT",
+    "summary": "Disguised as a security check, this fake Google alert uses browser permissions to harvest contacts, location data, and more.",
+    "analysis": {
+      "issue": "A website styled to resemble a Google Account security page is distributing what may be one of the most fully featured browser-based surveillance toolkits we have observed in the wild",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
       ]
     }
   },
@@ -1360,42 +1398,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Refund scam impersonates Avast to harvest credit card details",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/02/refund-scam-impersonates-avast-to-harvest-credit-card-details",
-    "published": "Tue, 24 Feb 2026 08:28:32 GMT",
-    "summary": "A convincing fake Avast site displays a €499.99 charge and promises a refund. Instead, it harvests your name, address, and full credit card details.",
-    "analysis": {
-      "issue": "A fraudulent website dressed in Avast’s brand is tricking French-speaking users into handing over their full credit card details—card number, expiry date, and three-digit security code—under the cover story of processing a €499",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "OpenClaw: What is it and can you use it safely?",
-    "link": "https://www.malwarebytes.com/blog/news/2026/02/openclaw-what-is-it-and-can-you-use-it-safely",
-    "published": "Mon, 23 Feb 2026 21:10:50 GMT",
-    "summary": "OpenClaw is a hot topic at the moment. But what is it and how can you use the 24/7 AI assistant in a safe way?",
-    "analysis": {
-      "issue": "An AI tool with a funny name has caused quite a commotion as of late—including some allegations of machine consciousness—so here is a breakdown on OpenClaw",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },

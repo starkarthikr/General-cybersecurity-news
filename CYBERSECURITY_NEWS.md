@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-27 09:08:16 UTC
+**Last Updated:** 2026-02-27 13:12:30 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams](https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html)
+### 1. [ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks](https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 27 Feb 2026 18:13:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms](https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 27 Feb 2026 15:36:00 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 3. [Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams](https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Feb 2026 13:26:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown](https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html)
+### 4. [Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown](https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Feb 2026 23:30:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor](https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html)
+### 5. [UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor](https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Feb 2026 20:47:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html)
+### 6. [ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Feb 2026 19:58:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Expert Recommends: Prepare for PQC Right Now](https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html)
+### 7. [Expert Recommends: Prepare for PQC Right Now](https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Feb 2026 17:36:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware](https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html)
+### 8. [Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware](https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Feb 2026 16:05:00 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens](https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html)
+### 9. [Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens](https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Feb 2026 15:39:00 +0530  
@@ -67,7 +85,7 @@
 
 ---
 
-### 8. [Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access](https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html)
+### 10. [Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access](https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Feb 2026 11:43:00 +0530  
@@ -77,25 +95,16 @@
 
 ---
 
-### 9. [Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html)
+### 11. [Ukrainian man pleads guilty to running AI-powered fake ID site](https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 25 Feb 2026 23:16:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 27 Feb 2026 07:30:07 -0500  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 10. [Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration](https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 25 Feb 2026 22:30:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Previously harmless Google API keys now expose Gemini AI data](https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/)
+### 12. [Previously harmless Google API keys now expose Gemini AI data](https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Feb 2026 15:55:29 -0500  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Trend Micro warns of critical Apex One code execution flaws](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/)
+### 13. [Trend Micro warns of critical Apex One code execution flaws](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Feb 2026 12:58:28 -0500  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [European DYI chain ManoMano data breach impacts 38 million customers](https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/)
+### 14. [European DYI chain ManoMano data breach impacts 38 million customers](https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Feb 2026 12:35:21 -0500  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Critical Juniper Networks PTX flaw allows full router takeover](https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/)
+### 15. [Critical Juniper Networks PTX flaw allows full router takeover](https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Feb 2026 11:42:12 -0500  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [Olympique Marseille confirms 'attempted' cyberattack after data leak](https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/)
+### 16. [Olympique Marseille confirms 'attempted' cyberattack after data leak](https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Feb 2026 11:11:30 -0500  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Ransomware payment rate drops to record low as attacks surge](https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/)
+### 17. [Ransomware payment rate drops to record low as attacks surge](https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Feb 2026 09:00:59 -0500  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [Microsoft expands Windows restore to more enterprise devices](https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/)
+### 18. [Microsoft expands Windows restore to more enterprise devices](https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Feb 2026 08:04:02 -0500  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [New York sues Valve for promoting illegal gambling via game loot boxes](https://www.bleepingcomputer.com/news/gaming/new-york-sues-valve-for-promoting-illegal-gambling-via-game-loot-boxes/)
+### 19. [New York sues Valve for promoting illegal gambling via game loot boxes](https://www.bleepingcomputer.com/news/gaming/new-york-sues-valve-for-promoting-illegal-gambling-via-game-loot-boxes/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Feb 2026 06:44:50 -0500  
@@ -169,21 +178,12 @@
 
 ---
 
-### 19. [Medical device maker UFP Technologies warns of data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/)
+### 20. [Medical device maker UFP Technologies warns of data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Feb 2026 18:02:16 -0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [Fake Next.js job interview tests backdoor developer's devices](https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 25 Feb 2026 16:47:12 -0500  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -210,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21533, CVE-2026-21519, CVE-2026-21510, CVE-2026-21514, CVE-2026-21516, CVE-2026-21509, CVE-2026-21513, CVE-2026-21525, CVE-2026-21523, CVE-2026-21256  
+**CVEs:** CVE-2026-21525, CVE-2026-21516, CVE-2026-21523, CVE-2026-21514, CVE-2026-21519, CVE-2026-21509, CVE-2026-21256, CVE-2026-21533, CVE-2026-21513, CVE-2026-21510  
 **Categories:** Vulnerability  
 
 ---
@@ -247,7 +247,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
+**CVEs:** CVE-2026-20805, CVE-2026-20953, CVE-2026-20952  
 **Categories:** Vulnerability  
 
 ---
@@ -279,73 +279,73 @@
 
 ---
 
-### 31. [Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking](https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/)
+### 31. [Chilean Carding Shop Operator Extradited to US](https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/)
+
+**Source:** Security Week  
+**Published:** Fri, 27 Feb 2026 12:34:54 +0000  
+
+---
+
+### 32. [Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline](https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/)
+
+**Source:** Security Week  
+**Published:** Fri, 27 Feb 2026 12:34:42 +0000  
+
+---
+
+### 33. [Aeternum Botnet Loader Employs Polygon Blockchain C&C to Boost Resilience](https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/)
+
+**Source:** Security Week  
+**Published:** Fri, 27 Feb 2026 12:02:53 +0000  
+
+---
+
+### 34. [Juniper Networks PTX Routers Affected by Critical Vulnerability](https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/)
+
+**Source:** Security Week  
+**Published:** Fri, 27 Feb 2026 10:39:18 +0000  
+
+---
+
+### 35. [Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking](https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/)
 
 **Source:** Security Week  
 **Published:** Fri, 27 Feb 2026 07:38:59 +0000  
 
 ---
 
-### 32. [Apple iPhone and iPad Cleared for Classified NATO Use](https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/)
+### 36. [Apple iPhone and iPad Cleared for Classified NATO Use](https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Feb 2026 18:04:45 +0000  
 
 ---
 
-### 33. [Four Risks Boards Cannot Treat as Background Noise](https://www.securityweek.com/four-risks-boards-cannot-treat-as-background-noise/)
+### 37. [Four Risks Boards Cannot Treat as Background Noise](https://www.securityweek.com/four-risks-boards-cannot-treat-as-background-noise/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Feb 2026 17:30:00 +0000  
 
 ---
 
-### 34. [Claude Code Flaws Exposed Developer Devices to Silent Hacking](https://www.securityweek.com/claude-code-flaws-exposed-developer-devices-to-silent-hacking/)
+### 38. [Claude Code Flaws Exposed Developer Devices to Silent Hacking](https://www.securityweek.com/claude-code-flaws-exposed-developer-devices-to-silent-hacking/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Feb 2026 13:37:54 +0000  
 
 ---
 
-### 35. [Gambit Security Emerges From Stealth With $61 Million in Funding](https://www.securityweek.com/gambit-security-emerges-from-stealth-with-61-million-in-funding/)
+### 39. [Gambit Security Emerges From Stealth With $61 Million in Funding](https://www.securityweek.com/gambit-security-emerges-from-stealth-with-61-million-in-funding/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Feb 2026 12:55:40 +0000  
 
 ---
 
-### 36. [Zyxel Patches Critical Vulnerability in Many Device Models](https://www.securityweek.com/zyxel-patches-critical-vulnerability-in-many-device-models/)
+### 40. [Zyxel Patches Critical Vulnerability in Many Device Models](https://www.securityweek.com/zyxel-patches-critical-vulnerability-in-many-device-models/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Feb 2026 12:09:29 +0000  
-
----
-
-### 37. [US Sanctions Russian Exploit Broker Operation Zero](https://www.securityweek.com/us-sanctions-russian-exploit-broker-operation-zero/)
-
-**Source:** Security Week  
-**Published:** Thu, 26 Feb 2026 10:33:53 +0000  
-
----
-
-### 38. [Trend Micro Patches Critical Apex One Vulnerabilities](https://www.securityweek.com/trend-micro-patches-critical-apex-one-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Thu, 26 Feb 2026 09:56:46 +0000  
-
----
-
-### 39. [Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers](https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/)
-
-**Source:** Security Week  
-**Published:** Thu, 26 Feb 2026 09:18:43 +0000  
-
----
-
-### 40. [The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI](https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/)
-
-**Source:** Security Week  
-**Published:** Wed, 25 Feb 2026 16:16:40 +0000  
 
 ---
 
@@ -372,7 +372,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 25 Feb 2026 16:13:36 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2022-20775, CVE-2026-20127  
+**CVEs:** CVE-2026-20127, CVE-2022-20775  
 **Categories:** Vulnerability  
 
 ---
@@ -427,7 +427,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21519, CVE-2026-21510, CVE-2026-21522, CVE-2026-21514, CVE-2026-23655, CVE-2026-21513, CVE-2026-21525  
+**CVEs:** CVE-2026-21525, CVE-2026-21522, CVE-2026-21514, CVE-2026-21519, CVE-2026-23655, CVE-2026-21513, CVE-2026-21510  
 **Categories:** Vulnerability  
 
 ---
@@ -611,7 +611,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -626,7 +626,25 @@
 
 ---
 
-### 71. [Fake Zoom and Google Meet scams install Teramind: A technical deep dive](https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-zoom-and-google-meet-scams-install-teramind-a-technical-deep-dive)
+### 71. [Public Google API keys can be used to expose Gemini AI data](https://www.malwarebytes.com/blog/news/2026/02/public-google-api-keys-can-be-used-to-expose-gemini-ai-data)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 27 Feb 2026 12:33:22 GMT  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 72. [Inside a fake Google security check that becomes a browser RAT](https://www.malwarebytes.com/blog/privacy/2026/02/inside-a-fake-google-security-check-that-becomes-a-browser-rat)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 27 Feb 2026 11:29:11 GMT  
+**Severity:** Low  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 73. [Fake Zoom and Google Meet scams install Teramind: A technical deep dive](https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-zoom-and-google-meet-scams-install-teramind-a-technical-deep-dive)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 26 Feb 2026 22:40:00 GMT  
@@ -635,7 +653,7 @@
 
 ---
 
-### 72. [How to understand and avoid Advanced Persistent Threats](https://www.malwarebytes.com/blog/how-to/2026/02/how-to-understand-and-avoid-advanced-persistent-threats)
+### 74. [How to understand and avoid Advanced Persistent Threats](https://www.malwarebytes.com/blog/how-to/2026/02/how-to-understand-and-avoid-advanced-persistent-threats)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 26 Feb 2026 18:52:11 GMT  
@@ -644,7 +662,7 @@
 
 ---
 
-### 73. [The Conduent breach; from 10 million to 25 million (and counting)](https://www.malwarebytes.com/blog/news/2026/02/the-conduent-breach-from-10-million-to-25-million-and-counting)
+### 75. [The Conduent breach; from 10 million to 25 million (and counting)](https://www.malwarebytes.com/blog/news/2026/02/the-conduent-breach-from-10-million-to-25-million-and-counting)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 26 Feb 2026 11:16:20 GMT  
@@ -653,7 +671,7 @@
 
 ---
 
-### 74. [Instagram flagged explicit messages to minors in 2018. Image-blurring arrived six years later](https://www.malwarebytes.com/blog/family-and-parenting/2026/02/instagram-flagged-explicit-messages-to-minors-in-2018-image-blurring-arrived-six-years-later)
+### 76. [Instagram flagged explicit messages to minors in 2018. Image-blurring arrived six years later](https://www.malwarebytes.com/blog/family-and-parenting/2026/02/instagram-flagged-explicit-messages-to-minors-in-2018-image-blurring-arrived-six-years-later)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 26 Feb 2026 10:34:43 GMT  
@@ -662,7 +680,7 @@
 
 ---
 
-### 75. [Developer creates app to detect nearby smart glasses](https://www.malwarebytes.com/blog/news/2026/02/developer-creates-app-to-detect-nearby-smart-glasses)
+### 77. [Developer creates app to detect nearby smart glasses](https://www.malwarebytes.com/blog/news/2026/02/developer-creates-app-to-detect-nearby-smart-glasses)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 25 Feb 2026 15:48:34 GMT  
@@ -671,7 +689,7 @@
 
 ---
 
-### 76. [Reddit, porn sites fined by UK regulators over children’s safety and privacy](https://www.malwarebytes.com/blog/news/2026/02/reddit-porn-sites-fined-by-uk-regulators-over-childrens-safety-and-privacy)
+### 78. [Reddit, porn sites fined by UK regulators over children’s safety and privacy](https://www.malwarebytes.com/blog/news/2026/02/reddit-porn-sites-fined-by-uk-regulators-over-childrens-safety-and-privacy)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 24 Feb 2026 15:48:02 GMT  
@@ -680,7 +698,7 @@
 
 ---
 
-### 77. [Roblox gives predators &#8220;powerful tools&#8221; to target children, says LA County](https://www.malwarebytes.com/blog/news/2026/02/roblox-gives-predators-powerful-tools-to-target-children-says-la-county)
+### 79. [Roblox gives predators &#8220;powerful tools&#8221; to target children, says LA County](https://www.malwarebytes.com/blog/news/2026/02/roblox-gives-predators-powerful-tools-to-target-children-says-la-county)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 24 Feb 2026 15:22:20 GMT  
@@ -689,30 +707,12 @@
 
 ---
 
-### 78. [Fake Zoom meeting &#8220;update&#8221; silently installs rogue version of monitoring tool abused by cybercriminals to spy on victims](https://www.malwarebytes.com/blog/scams/2026/02/fake-zoom-meeting-update-silently-installs-surveillance-software)
+### 80. [Fake Zoom meeting &#8220;update&#8221; silently installs rogue version of monitoring tool abused by cybercriminals to spy on victims](https://www.malwarebytes.com/blog/scams/2026/02/fake-zoom-meeting-update-silently-installs-surveillance-software)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 24 Feb 2026 09:47:26 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 79. [Refund scam impersonates Avast to harvest credit card details](https://www.malwarebytes.com/blog/threat-intel/2026/02/refund-scam-impersonates-avast-to-harvest-credit-card-details)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 24 Feb 2026 08:28:32 GMT  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 80. [OpenClaw: What is it and can you use it safely?](https://www.malwarebytes.com/blog/news/2026/02/openclaw-what-is-it-and-can-you-use-it-safely)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 23 Feb 2026 21:10:50 GMT  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
