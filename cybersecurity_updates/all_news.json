@@ -1,48 +1,12 @@
 [
   {
-    "source": "The Hacker News",
-    "title": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
-    "link": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html",
-    "published": "Thu, 26 Feb 2026 20:47:00 +0530",
-    "summary": "A previously undocumented threat activity cluster has been attributed to an ongoing malicious campaign targeting education and healthcare sectors in the U.S. since at least December 2025.\nThe campaign is being tracked by Cisco Talos under the moniker UAT-10027. The end goal of the attacks is to deliver a never-before-seen backdoor codenamed Dohdoor.\n\"Dohdoor utilizes the DNS-over-HTTPS (DoH)",
+    "source": "Bleeping Computer",
+    "title": "Previously harmless Google API keys now expose Gemini AI data",
+    "link": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/",
+    "published": "Thu, 26 Feb 2026 15:55:29 -0500",
+    "summary": "Google API keys for services like Maps embedded in accessible client-side code could be used to authenticate to the Gemini AI assistant and access private data. [...]",
     "analysis": {
-      "issue": "Cisco Talos tracks UAT-10027 targeting U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
-    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
-    "published": "Thu, 26 Feb 2026 19:58:00 +0530",
-    "summary": "Nothing here looks dramatic at first glance. That’s the point. Many of this week’s threats begin with something ordinary, like an ad, a meeting invite, or a software update.\nBehind the scenes, the tactics are sharper. Access happens faster. Control is established sooner. Cleanup becomes harder.\nHere is a quick look at the signals worth paying attention to.\n\n\n\n\n\n  \n \n\n  \n  \n    AI-powered command",
-    "analysis": {
-      "issue": "This week’s ThreatsDay Bulletin highlights emerging cyber threats, evolving attack tactics, and key security developments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Expert Recommends: Prepare for PQC Right Now",
-    "link": "https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html",
-    "published": "Thu, 26 Feb 2026 17:36:00 +0530",
-    "summary": "Introduction: Steal It Today, Break It in a Decade\nDigital evolution is unstoppable, and though the pace may vary, things tend to fall into place sooner rather than later. That, of course, applies to adversaries as well. The rise of ransomware and cyber extortion generated funding for a complex and highly professional criminal ecosystem. The era of the cloud brought general availability of",
-    "analysis": {
-      "issue": "Quantum Computers won’t be available for another decade",
+      "issue": "Google API keys for services like Maps embedded in accessible client-side code could be used to authenticate to the Gemini AI assistant and access private data",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -54,130 +18,24 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
-    "link": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
-    "published": "Thu, 26 Feb 2026 16:05:00 +0530",
-    "summary": "A \"coordinated developer-targeting campaign\" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persistent access to compromised machines.\n\"The activity aligns with a broader cluster of threats that use job-themed lures to blend into routine developer workflows and increase the likelihood of code",
+    "source": "Bleeping Computer",
+    "title": "Trend Micro warns of critical Apex One code execution flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/",
+    "published": "Thu, 26 Feb 2026 12:58:28 -0500",
+    "summary": "Trend Micro has patched two critical Apex One vulnerabilities that allow attackers to gain remote code execution (RCE) on vulnerable Windows systems. [...]",
     "analysis": {
-      "issue": "js repos abuse VS Code and npm to run in-memory JavaScript C2; GitLab banned 131 accounts",
+      "issue": "Japanese cybersecurity software firm Trend Micro has patched two critical Apex One vulnerabilities that allow attackers to gain remote code execution (RCE) on vulnerable Windows systems",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
-    "link": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
-    "published": "Thu, 26 Feb 2026 15:39:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the financial sector.\nThe package, codenamed StripeApi.Net, attempts to masquerade as Stripe.net, a legitimate library from Stripe that has over 75 million downloads. It was uploaded by a user named",
-    "analysis": {
-      "issue": "Net package on NuGet mimicked Stripe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
-    "link": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
-    "published": "Thu, 26 Feb 2026 11:43:00 +0530",
-    "summary": "A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as part of malicious activity that dates back to 2023.\nThe vulnerability, tracked as CVE-2026-20127 (CVSS score: 10.0), allows an unauthenticated remote attacker to bypass authentication and obtain",
-    "analysis": {
-      "issue": "Cisco warns CVE-2026-20127 (CVSS 10",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-20127"
+        "CVE-2025-71211",
+        "CVE-2025-71210"
       ],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
-    "link": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
-    "published": "Wed, 25 Feb 2026 23:16:00 +0530",
-    "summary": "Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53 organizations across 42 countries.\n\"This prolific, elusive actor has a long history of targeting international governments and global telecommunications organizations across Africa, Asia, and the Americas,\"",
-    "analysis": {
-      "issue": "Google disrupts China-linked UNC2814 after 53 breaches in 42 countries using GRIDTIDE via Google Sheets API",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
-    "link": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
-    "published": "Wed, 25 Feb 2026 22:30:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities in Anthropic's Claude Code, an artificial intelligence (AI)-powered coding assistant, that could result in remote code execution and theft of API credentials.\n\"The vulnerabilities exploit various configuration mechanisms, including Hooks, Model Context Protocol (MCP) servers, and environment variables – executing",
-    "analysis": {
-      "issue": "Claude Code flaws allow remote code execution and API key theft via untrusted repositories; three bugs fixed across 2025–2026 releases",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks",
-    "link": "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html",
-    "published": "Wed, 25 Feb 2026 20:36:00 +0530",
-    "summary": "The notorious cybercrime collective known as Scattered LAPSUS$ Hunters (SLH) has been observed offering financial incentives to recruit women to pull off social engineering attacks.\nThe idea is to hire them for voice phishing campaigns targeting IT help desks, Dataminr said in a new threat brief. The group is said to be offering anywhere between $500 and $1,000 upfront per call, in addition to",
-    "analysis": {
-      "issue": "SLH pays $500–$1,000 per call to recruit women for vishing, targeting IT help desks and MFA resets to breach Azure and deploy ransomware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It",
-    "link": "https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html",
-    "published": "Wed, 25 Feb 2026 20:00:00 +0530",
-    "summary": "Triage is supposed to make things simpler. In a lot of teams, it does the opposite.\nWhen you can’t reach a confident verdict early, alerts turn into repeat checks, back-and-forth, and “just escalate it” calls. That cost doesn’t stay inside the SOC; it shows up as missed SLAs, higher cost per case, and more room for real threats to slip through.\nSo where does triage go wrong? Here are five triage",
-    "analysis": {
-      "issue": "Execution-based triage cuts MTTR by 21 minutes, reduces escalations 30%, and exposes full attack chains in under 60 seconds",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -329,45 +187,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/",
-    "published": "Wed, 25 Feb 2026 13:01:51 -0500",
-    "summary": "Cisco is warning that a critical authentication bypass vulnerability in Cisco Catalyst SD-WAN, tracked as CVE-2026-20127, was actively exploited in zero-day attacks that allowed remote attackers to compromise controllers and add malicious rogue peers to targeted networks. [...]",
-    "analysis": {
-      "issue": "Cisco is warning that a critical authentication bypass vulnerability in Cisco Catalyst SD-WAN, tracked as CVE-2026-20127, was actively exploited in zero-day attacks that allowed remote attackers to compromise controllers and add malicious rogue peers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20127"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Chinese cyberspies breached dozens of telecom firms, govt agencies",
-    "link": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/",
-    "published": "Wed, 25 Feb 2026 12:00:15 -0500",
-    "summary": "Google's Threat Intelligence Group (GTIG), Mandiant, and partners disrupted a global espionage campaign attributed to a suspected Chinese threat actor that used SaaS API calls to hide malicious traffic in attacks targeting telecom and government networks. [...]",
-    "analysis": {
-      "issue": "Google’s Threat Intelligence Group (GTIG), Mandiant, and partners disrupted a global espionage campaign attributed to a suspected Chinese threat actor that used SaaS API calls to hide malicious traffic in attacks targeting telecom and government netw",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
     "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
@@ -417,16 +236,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21525",
+        "CVE-2026-21533",
+        "CVE-2026-21513",
+        "CVE-2026-21256",
+        "CVE-2026-21519",
         "CVE-2026-21516",
         "CVE-2026-21523",
-        "CVE-2026-21514",
-        "CVE-2026-21525",
-        "CVE-2026-21509",
-        "CVE-2026-21519",
         "CVE-2026-21510",
-        "CVE-2026-21533",
-        "CVE-2026-21256",
-        "CVE-2026-21513"
+        "CVE-2026-21509",
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -505,8 +324,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20953",
-        "CVE-2026-20952",
-        "CVE-2026-20805"
+        "CVE-2026-20805",
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -573,6 +392,20 @@
   },
   {
     "source": "Security Week",
+    "title": "Apple iPhone and iPad Cleared for Classified NATO Use",
+    "link": "https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/",
+    "published": "Thu, 26 Feb 2026 18:04:45 +0000",
+    "summary": "<p>The devices have been added to the NATO Information Assurance Product Catalogue (NIAPC).</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/\">Apple iPhone and iPad Cleared for Classified NATO Use</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Four Risks Boards Cannot Treat as Background Noise",
+    "link": "https://www.securityweek.com/four-risks-boards-cannot-treat-as-background-noise/",
+    "published": "Thu, 26 Feb 2026 17:30:00 +0000",
+    "summary": "<p>The goal isn’t about preventing every attack but about keeping the business running when attacks succeed.</p>\n<p>The post <a href=\"https://www.securityweek.com/four-risks-boards-cannot-treat-as-background-noise/\">Four Risks Boards Cannot Treat as Background Noise</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Claude Code Flaws Exposed Developer Devices to Silent Hacking",
     "link": "https://www.securityweek.com/claude-code-flaws-exposed-developer-devices-to-silent-hacking/",
     "published": "Thu, 26 Feb 2026 13:37:54 +0000",
@@ -628,18 +461,24 @@
     "summary": "<p>The UNC2814 threat actor has been active since at least 2017, targeting organizations across 42 countries. </p>\n<p>The post <a href=\"https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/\">Google Disrupts Chinese Hackers Targeting Telecoms, Governments</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "SolarWinds Patches Four Critical Serv-U Vulnerabilities",
-    "link": "https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/",
-    "published": "Wed, 25 Feb 2026 15:30:00 +0000",
-    "summary": "<p>The four security defects could be exploited for remote code execution but require administrative privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/\">SolarWinds Patches Four Critical Serv-U Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Medical Device Maker UFP Technologies Hit by Cyberattack",
-    "link": "https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/",
-    "published": "Wed, 25 Feb 2026 13:40:46 +0000",
-    "summary": "<p>UFP Technologies appears to have been targeted in a ransomware attack that involved data theft and file-encrypting malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/\">Medical Device Maker UFP Technologies Hit by Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "Henry IV, Hotspur, Hal, and hallucinations",
+    "link": "https://blog.talosintelligence.com/henry-iv-hotspur-hal-and-hallucinations/",
+    "published": "Thu, 26 Feb 2026 19:00:39 GMT",
+    "summary": "In this edition of the Threat Source newsletter, William draws parallels between Shakespeare’s Hotspur and the challenges of cybersecurity and AI, emphasizing the importance of risk-taking, learning from failure, and surrounding yourself with smart people.",
+    "analysis": {
+      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
   },
   {
     "source": "Talos Blog",
@@ -786,13 +625,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21514",
         "CVE-2026-21525",
+        "CVE-2026-21513",
         "CVE-2026-21522",
         "CVE-2026-21519",
         "CVE-2026-21510",
-        "CVE-2026-23655",
-        "CVE-2026-21513"
+        "CVE-2026-21514",
+        "CVE-2026-23655"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -814,25 +653,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Knife Cutting the Edge: Disclosing a China-nexus gateway-monitoring AitM framework",
-    "link": "https://blog.talosintelligence.com/knife-cutting-the-edge/",
-    "published": "Thu, 05 Feb 2026 11:00:55 GMT",
-    "summary": "Cisco Talos uncovered “DKnife,” a fully featured gateway-monitoring and adversary-in-the-middle (AitM) framework comprising seven Linux-based implants.",
-    "analysis": {
-      "issue": "Since 2023, Cisco Talos has continuously tracked the MOONSHINE exploit kit and the DarkNimbus backdoor it distributes",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -1216,6 +1036,44 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Fake Zoom and Google Meet scams install Teramind: A technical deep dive",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-zoom-and-google-meet-scams-install-teramind-a-technical-deep-dive",
+    "published": "Thu, 26 Feb 2026 22:40:00 GMT",
+    "summary": "Attackers don’t always need custom malware. Sometimes they just need a trusted brand and a legitimate tool.",
+    "analysis": {
+      "issue": "On February 24, 2026, we published an article about how a fake Zoom meeting “update” silently installs monitoring software, documenting a campaign that used a convincing fake Zoom waiting room to push a legitimate Teramind installer abused for unauth",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "How to understand and avoid Advanced Persistent Threats",
+    "link": "https://www.malwarebytes.com/blog/how-to/2026/02/how-to-understand-and-avoid-advanced-persistent-threats",
+    "published": "Thu, 26 Feb 2026 18:52:11 GMT",
+    "summary": "APT stands for Advanced Persistent Threat. But what does that actually mean, and how does it translate into the kind of threat you’re facing?",
+    "analysis": {
+      "issue": "By definition, an advanced persistent threat (APT) is a prolonged, targeted attack on a specific victim with the intention to compromise their system and gain information from or about that target",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "The Conduent breach; from 10 million to 25 million (and counting)",
     "link": "https://www.malwarebytes.com/blog/news/2026/02/the-conduent-breach-from-10-million-to-25-million-and-counting",
     "published": "Thu, 26 Feb 2026 11:16:20 GMT",
@@ -1356,44 +1214,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Password managers keep your passwords safe, unless…",
-    "link": "https://www.malwarebytes.com/blog/news/2026/02/password-managers-keep-your-passwords-safe-unless",
-    "published": "Mon, 23 Feb 2026 12:45:21 GMT",
-    "summary": "Researchers investigated the zero-knowledge claims of password managers—and found some possible attack scenarios.",
-    "analysis": {
-      "issue": "I’m a big advocate of password managers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Fake Huorong security site infects users with ValleyRAT",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/02/huorong",
-    "published": "Mon, 23 Feb 2026 12:18:50 GMT",
-    "summary": "One extra letter in the domain is all it takes to hand over remote control of your system.",
-    "analysis": {
-      "issue": "A convincing lookalike of the popular Huorong Security antivirus has been used to deliver ValleyRAT, a sophisticated Remote Access Trojan (RAT) built on the Winos4",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "APT"
       ]
     }
   },
