@@ -1,5 +1,187 @@
 [
   {
+    "source": "The Hacker News",
+    "title": "Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams",
+    "link": "https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html",
+    "published": "Fri, 27 Feb 2026 13:26:00 +0530",
+    "summary": "Meta on Thursday said it's taking legal action to tackle scams on its platforms by filing lawsuits against what it calls deceptive advertisers based in Brazil, China, and Vietnam.\nAs part of the effort, the advertisers' methods of payment have been suspended, related accounts have been disabled, and the website domain names used to pull off the scams have been blocked.\nConcurrently, the social",
+    "analysis": {
+      "issue": "Meta sues global scam advertisers as reports show 30",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown",
+    "link": "https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html",
+    "published": "Thu, 26 Feb 2026 23:30:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new botnet loader called Aeternum C2 that uses a blockchain-based command-and-control (C2) infrastructure to make it resilient to takedown efforts.\n\"Instead of relying on traditional servers or domains for command-and-control, Aeternum stores its instructions on the public Polygon blockchain,\" Qrator Labs said in a report shared with The",
+    "analysis": {
+      "issue": "Researchers detail Aeternum C2 storing botnet commands on Polygon blockchain, while DSLRoot operates 300 residential proxy devices across U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
+    "link": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html",
+    "published": "Thu, 26 Feb 2026 20:47:00 +0530",
+    "summary": "A previously undocumented threat activity cluster has been attributed to an ongoing malicious campaign targeting education and healthcare sectors in the U.S. since at least December 2025.\nThe campaign is being tracked by Cisco Talos under the moniker UAT-10027. The end goal of the attacks is to deliver a never-before-seen backdoor codenamed Dohdoor.\n\"Dohdoor utilizes the DNS-over-HTTPS (DoH)",
+    "analysis": {
+      "issue": "Cisco Talos tracks UAT-10027 targeting U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
+    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
+    "published": "Thu, 26 Feb 2026 19:58:00 +0530",
+    "summary": "Nothing here looks dramatic at first glance. That’s the point. Many of this week’s threats begin with something ordinary, like an ad, a meeting invite, or a software update.\nBehind the scenes, the tactics are sharper. Access happens faster. Control is established sooner. Cleanup becomes harder.\nHere is a quick look at the signals worth paying attention to.\n\n\n\n\n\n  \n \n\n  \n  \n    AI-powered command",
+    "analysis": {
+      "issue": "This week’s ThreatsDay Bulletin highlights emerging cyber threats, evolving attack tactics, and key security developments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Expert Recommends: Prepare for PQC Right Now",
+    "link": "https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html",
+    "published": "Thu, 26 Feb 2026 17:36:00 +0530",
+    "summary": "Introduction: Steal It Today, Break It in a Decade\nDigital evolution is unstoppable, and though the pace may vary, things tend to fall into place sooner rather than later. That, of course, applies to adversaries as well. The rise of ransomware and cyber extortion generated funding for a complex and highly professional criminal ecosystem. The era of the cloud brought general availability of",
+    "analysis": {
+      "issue": "Quantum Computers won’t be available for another decade",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
+    "link": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
+    "published": "Thu, 26 Feb 2026 16:05:00 +0530",
+    "summary": "A \"coordinated developer-targeting campaign\" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persistent access to compromised machines.\n\"The activity aligns with a broader cluster of threats that use job-themed lures to blend into routine developer workflows and increase the likelihood of code",
+    "analysis": {
+      "issue": "js repos abuse VS Code and npm to run in-memory JavaScript C2; GitLab banned 131 accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
+    "link": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
+    "published": "Thu, 26 Feb 2026 15:39:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the financial sector.\nThe package, codenamed StripeApi.Net, attempts to masquerade as Stripe.net, a legitimate library from Stripe that has over 75 million downloads. It was uploaded by a user named",
+    "analysis": {
+      "issue": "Net package on NuGet mimicked Stripe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
+    "link": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
+    "published": "Thu, 26 Feb 2026 11:43:00 +0530",
+    "summary": "A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as part of malicious activity that dates back to 2023.\nThe vulnerability, tracked as CVE-2026-20127 (CVSS score: 10.0), allows an unauthenticated remote attacker to bypass authentication and obtain",
+    "analysis": {
+      "issue": "Cisco warns CVE-2026-20127 (CVSS 10",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-20127"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
+    "link": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
+    "published": "Wed, 25 Feb 2026 23:16:00 +0530",
+    "summary": "Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53 organizations across 42 countries.\n\"This prolific, elusive actor has a long history of targeting international governments and global telecommunications organizations across Africa, Asia, and the Americas,\"",
+    "analysis": {
+      "issue": "Google disrupts China-linked UNC2814 after 53 breaches in 42 countries using GRIDTIDE via Google Sheets API",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
+    "link": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
+    "published": "Wed, 25 Feb 2026 22:30:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities in Anthropic's Claude Code, an artificial intelligence (AI)-powered coding assistant, that could result in remote code execution and theft of API credentials.\n\"The vulnerabilities exploit various configuration mechanisms, including Hooks, Model Context Protocol (MCP) servers, and environment variables – executing",
+    "analysis": {
+      "issue": "Claude Code flaws allow remote code execution and API key theft via untrusted repositories; three bugs fixed across 2025–2026 releases",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
     "source": "Bleeping Computer",
     "title": "Previously harmless Google API keys now expose Gemini AI data",
     "link": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/",
@@ -30,8 +212,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-71210",
-        "CVE-2025-71211"
+        "CVE-2025-71211",
+        "CVE-2025-71210"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -236,16 +418,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21523",
-        "CVE-2026-21516",
-        "CVE-2026-21514",
-        "CVE-2026-21510",
-        "CVE-2026-21519",
-        "CVE-2026-21509",
         "CVE-2026-21533",
+        "CVE-2026-21519",
+        "CVE-2026-21510",
+        "CVE-2026-21514",
+        "CVE-2026-21516",
+        "CVE-2026-21509",
+        "CVE-2026-21513",
         "CVE-2026-21525",
-        "CVE-2026-21256",
-        "CVE-2026-21513"
+        "CVE-2026-21523",
+        "CVE-2026-21256"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -323,9 +505,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20952",
+        "CVE-2026-20953",
         "CVE-2026-20805",
-        "CVE-2026-20953"
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -392,6 +574,13 @@
   },
   {
     "source": "Security Week",
+    "title": "Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking",
+    "link": "https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/",
+    "published": "Fri, 27 Feb 2026 07:38:59 +0000",
+    "summary": "<p>CISA has released an advisory to warn about four vulnerabilities discovered by a researcher in Gardyn Home and Gardyn Studio.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/\">Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Apple iPhone and iPad Cleared for Classified NATO Use",
     "link": "https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/",
     "published": "Thu, 26 Feb 2026 18:04:45 +0000",
@@ -452,13 +641,6 @@
     "link": "https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/",
     "published": "Wed, 25 Feb 2026 16:16:40 +0000",
     "summary": "<p>More than half (56%) of the 400,000 vulnerabilities IBM X-Force tracked in 2025 required no authentication before exploitation.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/\">The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Google Disrupts Chinese Hackers Targeting Telecoms, Governments",
-    "link": "https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/",
-    "published": "Wed, 25 Feb 2026 16:01:45 +0000",
-    "summary": "<p>The UNC2814 threat actor has been active since at least 2017, targeting organizations across 42 countries. </p>\n<p>The post <a href=\"https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/\">Google Disrupts Chinese Hackers Targeting Telecoms, Governments</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -625,13 +807,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21519",
+        "CVE-2026-21510",
         "CVE-2026-21522",
         "CVE-2026-21514",
-        "CVE-2026-21510",
-        "CVE-2026-21519",
-        "CVE-2026-21525",
         "CVE-2026-23655",
-        "CVE-2026-21513"
+        "CVE-2026-21513",
+        "CVE-2026-21525"
       ],
       "threat_categories": [
         "Vulnerability"
