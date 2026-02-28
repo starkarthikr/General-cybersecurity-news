@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-28 02:43:49 UTC
+**Last Updated:** 2026-02-28 08:53:17 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams](https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html)
+### 1. [Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute](https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 28 Feb 2026 10:27:00 +0530  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 2. [DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams](https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Feb 2026 23:41:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks](https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html)
+### 3. [900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks](https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Feb 2026 23:29:00 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor](https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html)
+### 4. [Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor](https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Feb 2026 21:03:00 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks](https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html)
+### 5. [ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks](https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Feb 2026 18:13:00 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms](https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html)
+### 6. [Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms](https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Feb 2026 15:36:00 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams](https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html)
+### 7. [Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams](https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Feb 2026 13:26:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown](https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html)
+### 8. [Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown](https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Feb 2026 23:30:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor](https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html)
+### 9. [UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor](https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Feb 2026 20:47:00 +0530  
@@ -77,21 +86,12 @@
 
 ---
 
-### 9. [ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html)
+### 10. [ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Feb 2026 19:58:00 +0530  
 **Severity:** High  
 **Categories:** Ransomware  
-
----
-
-### 10. [Expert Recommends: Prepare for PQC Right Now](https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 26 Feb 2026 17:36:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -211,7 +211,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21516, CVE-2026-21509, CVE-2026-21513, CVE-2026-21514, CVE-2026-21525, CVE-2026-21523, CVE-2026-21533, CVE-2026-21519, CVE-2026-21510, CVE-2026-21256  
+**CVEs:** CVE-2026-21513, CVE-2026-21256, CVE-2026-21510, CVE-2026-21525, CVE-2026-21516, CVE-2026-21519, CVE-2026-21514, CVE-2026-21523, CVE-2026-21533, CVE-2026-21509  
 **Categories:** Vulnerability  
 
 ---
@@ -248,7 +248,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20805  
+**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
@@ -284,6 +284,8 @@
 
 **Source:** Security Week  
 **Published:** Fri, 27 Feb 2026 21:30:55 +0000  
+**Severity:** Critical  
+**Categories:** Supply Chain  
 
 ---
 
@@ -373,7 +375,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 25 Feb 2026 16:13:36 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2022-20775, CVE-2026-20127  
+**CVEs:** CVE-2026-20127, CVE-2022-20775  
 **Categories:** Vulnerability  
 
 ---
@@ -428,7 +430,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21513, CVE-2026-21525, CVE-2026-21514, CVE-2026-21519, CVE-2026-21522, CVE-2026-23655, CVE-2026-21510  
+**CVEs:** CVE-2026-21513, CVE-2026-21510, CVE-2026-21525, CVE-2026-23655, CVE-2026-21519, CVE-2026-21514, CVE-2026-21522  
 **Categories:** Vulnerability  
 
 ---
@@ -612,7 +614,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
