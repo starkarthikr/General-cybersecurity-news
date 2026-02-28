@@ -185,6 +185,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "$4.8M in crypto stolen after Korean tax agency exposes wallet seed",
+    "link": "https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/",
+    "published": "Sat, 28 Feb 2026 10:17:23 -0500",
+    "summary": "South Korea's National Tax Service accidentally exposed the mnemonic recovery phrase of a seized cryptocurrency wallet in an official press release, allowing hackers to steal 6.4 billion won ($4.8M) worth in cryptocurrency. [...]",
+    "analysis": {
+      "issue": "Someone jumped at the opportunity to steal $4",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft testing Windows 11 batch file security improvements",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/",
     "published": "Fri, 27 Feb 2026 15:00:27 -0500",
@@ -326,8 +344,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-71211",
-        "CVE-2025-71210"
+        "CVE-2025-71210",
+        "CVE-2025-71211"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -351,26 +369,6 @@
       "threat_categories": [
         "Data Breach",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical Juniper Networks PTX flaw allows full router takeover",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/",
-    "published": "Thu, 26 Feb 2026 11:42:12 -0500",
-    "summary": "A critical vulnerability in the Junos OS Evolved network operating system running on PTX Series routers from Juniper Networks could allow an unauthenticated attacker to execute code remotely with root privileges. [...]",
-    "analysis": {
-      "issue": "A critical vulnerability in the Junos OS Evolved network operating system running on PTX Series routers from Juniper Networks could allow an unauthenticated attacker to execute code remotely with root privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-21902"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -445,16 +443,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21509",
-        "CVE-2026-21514",
-        "CVE-2026-21510",
-        "CVE-2026-21256",
-        "CVE-2026-21513",
         "CVE-2026-21519",
-        "CVE-2026-21533",
-        "CVE-2026-21525",
         "CVE-2026-21523",
-        "CVE-2026-21516"
+        "CVE-2026-21510",
+        "CVE-2026-21513",
+        "CVE-2026-21509",
+        "CVE-2026-21516",
+        "CVE-2026-21256",
+        "CVE-2026-21525",
+        "CVE-2026-21533",
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -532,9 +530,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20953",
         "CVE-2026-20952",
-        "CVE-2026-20805"
+        "CVE-2026-20805",
+        "CVE-2026-20953"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -714,8 +712,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-20775",
-        "CVE-2026-20127"
+        "CVE-2026-20127",
+        "CVE-2022-20775"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -827,13 +825,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21514",
+        "CVE-2026-21519",
+        "CVE-2026-21522",
         "CVE-2026-21510",
         "CVE-2026-21513",
         "CVE-2026-21525",
-        "CVE-2026-21519",
-        "CVE-2026-21522",
-        "CVE-2026-23655"
+        "CVE-2026-23655",
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1207,8 +1205,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
