@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement",
+    "link": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html",
+    "published": "Sat, 28 Feb 2026 15:26:00 +0530",
+    "summary": "New research has found that Google Cloud API keys, typically designated as project identifiers for billing purposes, could be abused to authenticate to sensitive Gemini endpoints and access private data.\nThe findings come from Truffle Security, which discovered nearly 3,000 Google API keys (identified by the prefix \"AIza\") embedded in client-side code to provide Google-related services like",
+    "analysis": {
+      "issue": "Research reveals 2,863 public Google API keys can access Gemini endpoints, enabling data exposure and massive billing abuse",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
     "link": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
     "published": "Sat, 28 Feb 2026 10:27:00 +0530",
@@ -162,24 +180,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
-    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
-    "published": "Thu, 26 Feb 2026 19:58:00 +0530",
-    "summary": "Nothing here looks dramatic at first glance. That’s the point. Many of this week’s threats begin with something ordinary, like an ad, a meeting invite, or a software update.\nBehind the scenes, the tactics are sharper. Access happens faster. Control is established sooner. Cleanup becomes harder.\nHere is a quick look at the signals worth paying attention to.\n\n\n\n\n\n  \n \n\n  \n  \n    AI-powered command",
-    "analysis": {
-      "issue": "This week’s ThreatsDay Bulletin highlights emerging cyber threats, evolving attack tactics, and key security developments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
       ]
     }
   },
@@ -376,6 +376,27 @@
   },
   {
     "source": "Krebs On Security",
+    "title": "Who is the Kimwolf Botmaster “Dort”?",
+    "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
+    "published": "Sat, 28 Feb 2026 12:01:57 +0000",
+    "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.",
+    "analysis": {
+      "issue": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to build Kimwolf, the world’s largest and most disruptive botnet",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
     "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
     "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
     "published": "Fri, 20 Feb 2026 20:00:30 +0000",
@@ -424,16 +445,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21513",
-        "CVE-2026-21256",
-        "CVE-2026-21510",
-        "CVE-2026-21525",
-        "CVE-2026-21516",
-        "CVE-2026-21519",
+        "CVE-2026-21509",
         "CVE-2026-21514",
-        "CVE-2026-21523",
+        "CVE-2026-21510",
+        "CVE-2026-21256",
+        "CVE-2026-21513",
+        "CVE-2026-21519",
         "CVE-2026-21533",
-        "CVE-2026-21509"
+        "CVE-2026-21525",
+        "CVE-2026-21523",
+        "CVE-2026-21516"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -511,9 +532,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20805",
+        "CVE-2026-20953",
         "CVE-2026-20952",
-        "CVE-2026-20953"
+        "CVE-2026-20805"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -561,22 +582,11 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-    "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-    "published": "Mon, 29 Dec 2025 20:23:26 +0000",
-    "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
-    "analysis": {
-      "issue": "com celebrates its 16th anniversary today",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
+    "source": "Security Week",
+    "title": "Canadian Tire Data Breach Impacts 38 Million Accounts",
+    "link": "https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/",
+    "published": "Sat, 28 Feb 2026 11:50:00 +0000",
+    "summary": "<p>Names, addresses, email addresses, phone numbers, and encrypted passwords were compromised in the attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/\">Canadian Tire Data Breach Impacts 38 Million Accounts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -653,13 +663,6 @@
     "summary": "<p>CISA has released an advisory to warn about four vulnerabilities discovered by a researcher in Gardyn Home and Gardyn Studio.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/\">Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "Apple iPhone and iPad Cleared for Classified NATO Use",
-    "link": "https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/",
-    "published": "Thu, 26 Feb 2026 18:04:45 +0000",
-    "summary": "<p>The devices have been added to the NATO Information Assurance Product Catalogue (NIAPC).</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/\">Apple iPhone and iPad Cleared for Classified NATO Use</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
     "source": "Talos Blog",
     "title": "Henry IV, Hotspur, Hal, and hallucinations",
     "link": "https://blog.talosintelligence.com/henry-iv-hotspur-hal-and-hallucinations/",
@@ -711,8 +714,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20127",
-        "CVE-2022-20775"
+        "CVE-2022-20775",
+        "CVE-2026-20127"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -824,13 +827,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21513",
-        "CVE-2026-21510",
-        "CVE-2026-21525",
-        "CVE-2026-23655",
-        "CVE-2026-21519",
         "CVE-2026-21514",
-        "CVE-2026-21522"
+        "CVE-2026-21510",
+        "CVE-2026-21513",
+        "CVE-2026-21525",
+        "CVE-2026-21519",
+        "CVE-2026-21522",
+        "CVE-2026-23655"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1204,8 +1207,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
