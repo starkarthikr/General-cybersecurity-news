@@ -442,15 +442,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21514",
         "CVE-2026-21525",
-        "CVE-2026-21510",
-        "CVE-2026-21519",
         "CVE-2026-21509",
-        "CVE-2026-21516",
         "CVE-2026-21256",
+        "CVE-2026-21516",
         "CVE-2026-21533",
         "CVE-2026-21513",
+        "CVE-2026-21514",
+        "CVE-2026-21519",
+        "CVE-2026-21510",
         "CVE-2026-21523"
       ],
       "threat_categories": [
@@ -580,6 +580,13 @@
   },
   {
     "source": "Security Week",
+    "title": "Hackers Weaponize Claude Code in Mexican Government Cyberattack",
+    "link": "https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/",
+    "published": "Sun, 01 Mar 2026 12:30:00 +0000",
+    "summary": "<p>The AI was abused to write exploits, create tools, and automatically exfiltrate over 150GB of data.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/\">Hackers Weaponize Claude Code in Mexican Government Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Canadian Tire Data Breach Impacts 38 Million Accounts",
     "link": "https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/",
     "published": "Sat, 28 Feb 2026 11:50:00 +0000",
@@ -651,13 +658,6 @@
     "link": "https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/",
     "published": "Fri, 27 Feb 2026 10:39:18 +0000",
     "summary": "<p>An out-of-band security update for Junos OS Evolved patches the remote code execution vulnerability CVE-2026-21902.</p>\n<p>The post <a href=\"https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/\">Juniper Networks PTX Routers Affected by Critical Vulnerability </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking",
-    "link": "https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/",
-    "published": "Fri, 27 Feb 2026 07:38:59 +0000",
-    "summary": "<p>CISA has released an advisory to warn about four vulnerabilities discovered by a researcher in Gardyn Home and Gardyn Studio.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/\">Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -824,13 +824,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21514",
         "CVE-2026-21525",
-        "CVE-2026-21510",
-        "CVE-2026-21519",
-        "CVE-2026-21513",
         "CVE-2026-23655",
-        "CVE-2026-21522"
+        "CVE-2026-21513",
+        "CVE-2026-21522",
+        "CVE-2026-21514",
+        "CVE-2026-21519",
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1204,8 +1204,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

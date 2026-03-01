@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-01 08:55:01 UTC
+**Last Updated:** 2026-03-01 13:01:56 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21514, CVE-2026-21525, CVE-2026-21510, CVE-2026-21519, CVE-2026-21509, CVE-2026-21516, CVE-2026-21256, CVE-2026-21533, CVE-2026-21513, CVE-2026-21523  
+**CVEs:** CVE-2026-21525, CVE-2026-21509, CVE-2026-21256, CVE-2026-21516, CVE-2026-21533, CVE-2026-21513, CVE-2026-21514, CVE-2026-21519, CVE-2026-21510, CVE-2026-21523  
 **Categories:** Vulnerability  
 
 ---
@@ -279,14 +279,21 @@
 
 ---
 
-### 31. [Canadian Tire Data Breach Impacts 38 Million Accounts](https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/)
+### 31. [Hackers Weaponize Claude Code in Mexican Government Cyberattack](https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/)
+
+**Source:** Security Week  
+**Published:** Sun, 01 Mar 2026 12:30:00 +0000  
+
+---
+
+### 32. [Canadian Tire Data Breach Impacts 38 Million Accounts](https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/)
 
 **Source:** Security Week  
 **Published:** Sat, 28 Feb 2026 11:50:00 +0000  
 
 ---
 
-### 32. [Trump Orders All Federal Agencies to Phase Out Use of Anthropic Technology](https://www.securityweek.com/trump-orders-all-federal-agencies-to-phase-out-use-of-anthropic-technology/)
+### 33. [Trump Orders All Federal Agencies to Phase Out Use of Anthropic Technology](https://www.securityweek.com/trump-orders-all-federal-agencies-to-phase-out-use-of-anthropic-technology/)
 
 **Source:** Security Week  
 **Published:** Fri, 27 Feb 2026 21:30:55 +0000  
@@ -295,59 +302,52 @@
 
 ---
 
-### 33. [In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators](https://www.securityweek.com/in-other-news-attck-advisory-council-russian-cyberattacks-aid-missile-strikes-predator-bypasses-ios-indicators/)
+### 34. [In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators](https://www.securityweek.com/in-other-news-attck-advisory-council-russian-cyberattacks-aid-missile-strikes-predator-bypasses-ios-indicators/)
 
 **Source:** Security Week  
 **Published:** Fri, 27 Feb 2026 15:23:39 +0000  
 
 ---
 
-### 34. [38 Million Allegedly Impacted by ManoMano Data Breach](https://www.securityweek.com/38-million-allegedly-impacted-by-manomano-data-breach/)
+### 35. [38 Million Allegedly Impacted by ManoMano Data Breach](https://www.securityweek.com/38-million-allegedly-impacted-by-manomano-data-breach/)
 
 **Source:** Security Week  
 **Published:** Fri, 27 Feb 2026 13:41:27 +0000  
 
 ---
 
-### 35. [900 Sangoma FreePBX Instances Infected With Web Shells](https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/)
+### 36. [900 Sangoma FreePBX Instances Infected With Web Shells](https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/)
 
 **Source:** Security Week  
 **Published:** Fri, 27 Feb 2026 13:24:25 +0000  
 
 ---
 
-### 36. [Chilean Carding Shop Operator Extradited to US](https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/)
+### 37. [Chilean Carding Shop Operator Extradited to US](https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/)
 
 **Source:** Security Week  
 **Published:** Fri, 27 Feb 2026 12:34:54 +0000  
 
 ---
 
-### 37. [Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline](https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/)
+### 38. [Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline](https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/)
 
 **Source:** Security Week  
 **Published:** Fri, 27 Feb 2026 12:34:42 +0000  
 
 ---
 
-### 38. [Aeternum Botnet Loader Employs Polygon Blockchain C&C to Boost Resilience](https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/)
+### 39. [Aeternum Botnet Loader Employs Polygon Blockchain C&C to Boost Resilience](https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/)
 
 **Source:** Security Week  
 **Published:** Fri, 27 Feb 2026 12:02:53 +0000  
 
 ---
 
-### 39. [Juniper Networks PTX Routers Affected by Critical Vulnerability](https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/)
+### 40. [Juniper Networks PTX Routers Affected by Critical Vulnerability](https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Fri, 27 Feb 2026 10:39:18 +0000  
-
----
-
-### 40. [Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking](https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/)
-
-**Source:** Security Week  
-**Published:** Fri, 27 Feb 2026 07:38:59 +0000  
 
 ---
 
@@ -429,7 +429,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21514, CVE-2026-21525, CVE-2026-21510, CVE-2026-21519, CVE-2026-21513, CVE-2026-23655, CVE-2026-21522  
+**CVEs:** CVE-2026-21525, CVE-2026-23655, CVE-2026-21513, CVE-2026-21522, CVE-2026-21514, CVE-2026-21519, CVE-2026-21510  
 **Categories:** Vulnerability  
 
 ---
@@ -613,7 +613,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
