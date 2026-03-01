@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-02-28 16:50:27 UTC
+**Last Updated:** 2026-03-01 02:51:25 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement](https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html)
+### 1. [ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 28 Feb 2026 22:51:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement](https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 28 Feb 2026 15:26:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute](https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html)
+### 3. [Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute](https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 28 Feb 2026 10:27:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams](https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html)
+### 4. [DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams](https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Feb 2026 23:41:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks](https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html)
+### 5. [900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks](https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Feb 2026 23:29:00 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor](https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html)
+### 6. [Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor](https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Feb 2026 21:03:00 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks](https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html)
+### 7. [ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks](https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Feb 2026 18:13:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms](https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html)
+### 8. [Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms](https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Feb 2026 15:36:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams](https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html)
+### 9. [Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams](https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Feb 2026 13:26:00 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown](https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html)
+### 10. [Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown](https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Feb 2026 23:30:00 +0530  
@@ -86,16 +95,16 @@
 
 ---
 
-### 10. [UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor](https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html)
+### 11. [QuickLens Chrome extension steals crypto, shows ClickFix attack](https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 26 Feb 2026 20:47:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Sat, 28 Feb 2026 14:18:52 -0500  
 **Severity:** Low  
 **Categories:** Malware  
 
 ---
 
-### 11. [$4.8M in crypto stolen after Korean tax agency exposes wallet seed](https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/)
+### 12. [$4.8M in crypto stolen after Korean tax agency exposes wallet seed](https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 28 Feb 2026 10:17:23 -0500  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Microsoft testing Windows 11 batch file security improvements](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/)
+### 13. [Microsoft testing Windows 11 batch file security improvements](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Feb 2026 15:00:27 -0500  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [APT37 hackers use new malware to breach air-gapped networks](https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/)
+### 14. [APT37 hackers use new malware to breach air-gapped networks](https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Feb 2026 14:21:25 -0500  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [Europol-led crackdown on The Com hackers leads to 30 arrests](https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/)
+### 15. [Europol-led crackdown on The Com hackers leads to 30 arrests](https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Feb 2026 13:20:15 -0500  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [CISA warns that RESURGE malware can be dormant on Ivanti devices](https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/)
+### 16. [CISA warns that RESURGE malware can be dormant on Ivanti devices](https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Feb 2026 10:57:04 -0500  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [Third-Party Patching and the Business Footprint We All Share](https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/)
+### 17. [Third-Party Patching and the Business Footprint We All Share](https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Feb 2026 10:00:10 -0500  
@@ -150,7 +159,7 @@
 
 ---
 
-### 17. [Ukrainian man pleads guilty to running AI-powered fake ID site](https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/)
+### 18. [Ukrainian man pleads guilty to running AI-powered fake ID site](https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Feb 2026 07:30:07 -0500  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [Previously harmless Google API keys now expose Gemini AI data](https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/)
+### 19. [Previously harmless Google API keys now expose Gemini AI data](https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Feb 2026 15:55:29 -0500  
@@ -168,22 +177,13 @@
 
 ---
 
-### 19. [Trend Micro warns of critical Apex One code execution flaws](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/)
+### 20. [Trend Micro warns of critical Apex One code execution flaws](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Feb 2026 12:58:28 -0500  
 **Severity:** Critical  
 **CVEs:** CVE-2025-71210, CVE-2025-71211  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 20. [European DYI chain ManoMano data breach impacts 38 million customers](https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 26 Feb 2026 12:35:21 -0500  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
 
 ---
 
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21519, CVE-2026-21523, CVE-2026-21510, CVE-2026-21513, CVE-2026-21509, CVE-2026-21516, CVE-2026-21256, CVE-2026-21525, CVE-2026-21533, CVE-2026-21514  
+**CVEs:** CVE-2026-21510, CVE-2026-21519, CVE-2026-21509, CVE-2026-21516, CVE-2026-21533, CVE-2026-21523, CVE-2026-21514, CVE-2026-21525, CVE-2026-21256, CVE-2026-21513  
 **Categories:** Vulnerability  
 
 ---
@@ -256,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20952, CVE-2026-20805, CVE-2026-20953  
+**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
 **Categories:** Vulnerability  
 
 ---
@@ -429,7 +429,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21519, CVE-2026-21522, CVE-2026-21510, CVE-2026-21513, CVE-2026-21525, CVE-2026-23655, CVE-2026-21514  
+**CVEs:** CVE-2026-21510, CVE-2026-21519, CVE-2026-23655, CVE-2026-21514, CVE-2026-21525, CVE-2026-21522, CVE-2026-21513  
 **Categories:** Vulnerability  
 
 ---
@@ -613,7 +613,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket",
+    "link": "https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html",
+    "published": "Sat, 28 Feb 2026 22:51:00 +0530",
+    "summary": "OpenClaw has fixed a high-severity security issue that, if successfully exploited, could have allowed a malicious website to connect to a locally running artificial intelligence (AI) agent and take over control.\n\"Our vulnerability lives in the core system itself – no plugins, no marketplace, no user-installed extensions – just the bare OpenClaw gateway, running exactly as documented,\" Oasis",
+    "analysis": {
+      "issue": "OpenClaw patches ClawJacked flaw, log poisoning bug, and multiple CVEs as 71 malicious ClawHub skills spread malware and crypto scams",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement",
     "link": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html",
     "published": "Sat, 28 Feb 2026 15:26:00 +0530",
@@ -166,13 +184,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
-    "link": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html",
-    "published": "Thu, 26 Feb 2026 20:47:00 +0530",
-    "summary": "A previously undocumented threat activity cluster has been attributed to an ongoing malicious campaign targeting education and healthcare sectors in the U.S. since at least December 2025.\nThe campaign is being tracked by Cisco Talos under the moniker UAT-10027. The end goal of the attacks is to deliver a never-before-seen backdoor codenamed Dohdoor.\n\"Dohdoor utilizes the DNS-over-HTTPS (DoH)",
+    "source": "Bleeping Computer",
+    "title": "QuickLens Chrome extension steals crypto, shows ClickFix attack",
+    "link": "https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/",
+    "published": "Sat, 28 Feb 2026 14:18:52 -0500",
+    "summary": "A Chrome extension named \"QuickLens - Search Screen with Google Lens\" has been removed from the Chrome Web Store after it was compromised to push malware and attempt to steal crypto from thousands of users. [...]",
     "analysis": {
-      "issue": "Cisco Talos tracks UAT-10027 targeting U",
+      "issue": "A Chrome extension named \"QuickLens - Search Screen with Google Lens\" has been removed from the Chrome Web Store after it was compromised to push malware and attempt to steal crypto from thousands of users",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -354,25 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "European DYI chain ManoMano data breach impacts 38 million customers",
-    "link": "https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/",
-    "published": "Thu, 26 Feb 2026 12:35:21 -0500",
-    "summary": "DIY store chain ManoMano is notifying customers of a data breach personal data, which was caused by hackers compromising a third-party service provider. [...]",
-    "analysis": {
-      "issue": "DIY store chain ManoMano is notifying customers of a data breach that was caused by hackers compromising a third-party service provider",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who is the Kimwolf Botmaster “Dort”?",
     "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
@@ -443,16 +442,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21519",
-        "CVE-2026-21523",
         "CVE-2026-21510",
-        "CVE-2026-21513",
+        "CVE-2026-21519",
         "CVE-2026-21509",
         "CVE-2026-21516",
-        "CVE-2026-21256",
-        "CVE-2026-21525",
         "CVE-2026-21533",
-        "CVE-2026-21514"
+        "CVE-2026-21523",
+        "CVE-2026-21514",
+        "CVE-2026-21525",
+        "CVE-2026-21256",
+        "CVE-2026-21513"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -530,9 +529,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20952",
+        "CVE-2026-20953",
         "CVE-2026-20805",
-        "CVE-2026-20953"
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -825,13 +824,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21519",
-        "CVE-2026-21522",
         "CVE-2026-21510",
-        "CVE-2026-21513",
-        "CVE-2026-21525",
+        "CVE-2026-21519",
         "CVE-2026-23655",
-        "CVE-2026-21514"
+        "CVE-2026-21514",
+        "CVE-2026-21525",
+        "CVE-2026-21522",
+        "CVE-2026-21513"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1205,8 +1204,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
