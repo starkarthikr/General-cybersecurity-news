@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-02 03:16:45 UTC
+**Last Updated:** 2026-03-02 09:08:39 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -44,9 +44,6 @@
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Feb 2026 23:29:00 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2025-64328  
-**Categories:** Vulnerability  
 
 ---
 
@@ -218,7 +215,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21523, CVE-2026-21510, CVE-2026-21514, CVE-2026-21519, CVE-2026-21525, CVE-2026-21256, CVE-2026-21533, CVE-2026-21516, CVE-2026-21513, CVE-2026-21509  
+**CVEs:** CVE-2026-21516, CVE-2026-21519, CVE-2026-21525, CVE-2026-21533, CVE-2026-21523, CVE-2026-21514, CVE-2026-21513, CVE-2026-21509, CVE-2026-21510, CVE-2026-21256  
 **Categories:** Vulnerability  
 
 ---
@@ -255,7 +252,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
+**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20805  
 **Categories:** Vulnerability  
 
 ---
@@ -373,7 +370,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 25 Feb 2026 16:13:36 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20127, CVE-2022-20775  
+**CVEs:** CVE-2022-20775, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---
@@ -428,7 +425,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-23655, CVE-2026-21510, CVE-2026-21514, CVE-2026-21519, CVE-2026-21525, CVE-2026-21513, CVE-2026-21522  
+**CVEs:** CVE-2026-21519, CVE-2026-21525, CVE-2026-21513, CVE-2026-21514, CVE-2026-21510, CVE-2026-23655, CVE-2026-21522  
 **Categories:** Vulnerability  
 
 ---
@@ -627,7 +624,25 @@
 
 ---
 
-### 71. [Public Google API keys can be used to expose Gemini AI data](https://www.malwarebytes.com/blog/news/2026/02/public-google-api-keys-can-be-used-to-expose-gemini-ai-data)
+### 71. [Purchase order attachment isn’t a PDF. It’s phishing for your password](https://www.malwarebytes.com/blog/threat-intel/2026/03/purchase-order-attachment-isnt-a-pdf-its-phishing-for-your-password)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 02 Mar 2026 08:59:47 GMT  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 72. [A week in security (February 23 &#8211; March 1)](https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-february-23-march-1)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 02 Mar 2026 08:01:00 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 73. [Public Google API keys can be used to expose Gemini AI data](https://www.malwarebytes.com/blog/news/2026/02/public-google-api-keys-can-be-used-to-expose-gemini-ai-data)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 27 Feb 2026 12:33:22 GMT  
@@ -636,7 +651,7 @@
 
 ---
 
-### 72. [Inside a fake Google security check that becomes a browser RAT](https://www.malwarebytes.com/blog/privacy/2026/02/inside-a-fake-google-security-check-that-becomes-a-browser-rat)
+### 74. [Inside a fake Google security check that becomes a browser RAT](https://www.malwarebytes.com/blog/privacy/2026/02/inside-a-fake-google-security-check-that-becomes-a-browser-rat)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 27 Feb 2026 11:29:11 GMT  
@@ -645,7 +660,7 @@
 
 ---
 
-### 73. [Fake Zoom and Google Meet scams install Teramind: A technical deep dive](https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-zoom-and-google-meet-scams-install-teramind-a-technical-deep-dive)
+### 75. [Fake Zoom and Google Meet scams install Teramind: A technical deep dive](https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-zoom-and-google-meet-scams-install-teramind-a-technical-deep-dive)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 26 Feb 2026 22:40:00 GMT  
@@ -654,7 +669,7 @@
 
 ---
 
-### 74. [How to understand and avoid Advanced Persistent Threats](https://www.malwarebytes.com/blog/how-to/2026/02/how-to-understand-and-avoid-advanced-persistent-threats)
+### 76. [How to understand and avoid Advanced Persistent Threats](https://www.malwarebytes.com/blog/how-to/2026/02/how-to-understand-and-avoid-advanced-persistent-threats)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 26 Feb 2026 18:52:11 GMT  
@@ -663,7 +678,7 @@
 
 ---
 
-### 75. [The Conduent breach; from 10 million to 25 million (and counting)](https://www.malwarebytes.com/blog/news/2026/02/the-conduent-breach-from-10-million-to-25-million-and-counting)
+### 77. [The Conduent breach; from 10 million to 25 million (and counting)](https://www.malwarebytes.com/blog/news/2026/02/the-conduent-breach-from-10-million-to-25-million-and-counting)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 26 Feb 2026 11:16:20 GMT  
@@ -672,7 +687,7 @@
 
 ---
 
-### 76. [Instagram flagged explicit messages to minors in 2018. Image-blurring arrived six years later](https://www.malwarebytes.com/blog/family-and-parenting/2026/02/instagram-flagged-explicit-messages-to-minors-in-2018-image-blurring-arrived-six-years-later)
+### 78. [Instagram flagged explicit messages to minors in 2018. Image-blurring arrived six years later](https://www.malwarebytes.com/blog/family-and-parenting/2026/02/instagram-flagged-explicit-messages-to-minors-in-2018-image-blurring-arrived-six-years-later)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 26 Feb 2026 10:34:43 GMT  
@@ -681,7 +696,7 @@
 
 ---
 
-### 77. [Developer creates app to detect nearby smart glasses](https://www.malwarebytes.com/blog/news/2026/02/developer-creates-app-to-detect-nearby-smart-glasses)
+### 79. [Developer creates app to detect nearby smart glasses](https://www.malwarebytes.com/blog/news/2026/02/developer-creates-app-to-detect-nearby-smart-glasses)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 25 Feb 2026 15:48:34 GMT  
@@ -690,29 +705,11 @@
 
 ---
 
-### 78. [Reddit, porn sites fined by UK regulators over children’s safety and privacy](https://www.malwarebytes.com/blog/news/2026/02/reddit-porn-sites-fined-by-uk-regulators-over-childrens-safety-and-privacy)
+### 80. [Reddit, porn sites fined by UK regulators over children’s safety and privacy](https://www.malwarebytes.com/blog/news/2026/02/reddit-porn-sites-fined-by-uk-regulators-over-childrens-safety-and-privacy)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 24 Feb 2026 15:48:02 GMT  
 **Severity:** High  
-**Categories:** General Security  
-
----
-
-### 79. [Roblox gives predators &#8220;powerful tools&#8221; to target children, says LA County](https://www.malwarebytes.com/blog/news/2026/02/roblox-gives-predators-powerful-tools-to-target-children-says-la-county)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 24 Feb 2026 15:22:20 GMT  
-**Severity:** Low  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 80. [Fake Zoom meeting &#8220;update&#8221; silently installs unauthorized version of monitoring tool abused by cybercriminals to spy on victims](https://www.malwarebytes.com/blog/scams/2026/02/fake-zoom-meeting-update-silently-installs-surveillance-software)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 24 Feb 2026 09:47:26 GMT  
-**Severity:** Low  
 **Categories:** General Security  
 
 ---

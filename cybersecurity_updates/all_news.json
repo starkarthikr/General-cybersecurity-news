@@ -76,20 +76,7 @@
     "title": "900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks",
     "link": "https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html",
     "published": "Fri, 27 Feb 2026 23:29:00 +0530",
-    "summary": "The Shadowserver Foundation has revealed that over 900 Sangoma FreePBX instances still remain infected with web shells as part of attacks that exploited a command injection vulnerability starting in December 2025.\nOf these, 401 instances are located in the U.S., followed by 51 in Brazil, 43 in Canada, 40 in Germany, and 36 in France.\nThe non-profit entity said the compromises are likely",
-    "analysis": {
-      "issue": "Over 900 FreePBX systems remain infected after CVE-2025-64328 exploitation, now listed in CISA KEV amid active attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-64328"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    "summary": "The Shadowserver Foundation has revealed that over 900 Sangoma FreePBX instances still remain infected with web shells as part of attacks that exploited a command injection vulnerability starting in December 2025.\nOf these, 401 instances are located in the U.S., followed by 51 in Brazil, 43 in Canada, 40 in Germany, and 36 in France.\nThe non-profit entity said the compromises are likely"
   },
   {
     "source": "The Hacker News",
@@ -438,16 +425,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21523",
-        "CVE-2026-21510",
-        "CVE-2026-21514",
+        "CVE-2026-21516",
         "CVE-2026-21519",
         "CVE-2026-21525",
-        "CVE-2026-21256",
         "CVE-2026-21533",
-        "CVE-2026-21516",
+        "CVE-2026-21523",
+        "CVE-2026-21514",
         "CVE-2026-21513",
-        "CVE-2026-21509"
+        "CVE-2026-21509",
+        "CVE-2026-21510",
+        "CVE-2026-21256"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -525,9 +512,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20952",
         "CVE-2026-20953",
-        "CVE-2026-20805",
-        "CVE-2026-20952"
+        "CVE-2026-20805"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -707,8 +694,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20127",
-        "CVE-2022-20775"
+        "CVE-2022-20775",
+        "CVE-2026-20127"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -820,12 +807,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-23655",
-        "CVE-2026-21510",
-        "CVE-2026-21514",
         "CVE-2026-21519",
         "CVE-2026-21525",
         "CVE-2026-21513",
+        "CVE-2026-21514",
+        "CVE-2026-21510",
+        "CVE-2026-23655",
         "CVE-2026-21522"
       ],
       "threat_categories": [
@@ -1231,6 +1218,42 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Purchase order attachment isn’t a PDF. It’s phishing for your password",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/purchase-order-attachment-isnt-a-pdf-its-phishing-for-your-password",
+    "published": "Mon, 02 Mar 2026 08:59:47 GMT",
+    "summary": "A fake purchase order attachment turned out to be a phishing page designed to harvest your login details.",
+    "analysis": {
+      "issue": "An attachment named New PO 500PCS",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "A week in security (February 23 &#8211; March 1)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-february-23-march-1",
+    "published": "Mon, 02 Mar 2026 08:01:00 GMT",
+    "summary": "A list of topics we covered in the week of February 23 to March 1 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Public Google API keys can be used to expose Gemini AI data",
     "link": "https://www.malwarebytes.com/blog/news/2026/02/public-google-api-keys-can-be-used-to-expose-gemini-ai-data",
     "published": "Fri, 27 Feb 2026 12:33:22 GMT",
@@ -1370,43 +1393,6 @@
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Roblox gives predators &#8220;powerful tools&#8221; to target children, says LA County",
-    "link": "https://www.malwarebytes.com/blog/news/2026/02/roblox-gives-predators-powerful-tools-to-target-children-says-la-county",
-    "published": "Tue, 24 Feb 2026 15:22:20 GMT",
-    "summary": "Los Angeles County sued the online gaming platform Roblox for its alleged failure to protect children from danger.",
-    "analysis": {
-      "issue": "Los Angeles County has sued online gaming company Roblox, adding to a series of suits that accuse the virtual worlds platform of misleading parents into thinking it’s safe while leaving children exposed to predators and sexually explicit content",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Fake Zoom meeting &#8220;update&#8221; silently installs unauthorized version of monitoring tool abused by cybercriminals to spy on victims",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/02/fake-zoom-meeting-update-silently-installs-surveillance-software",
-    "published": "Tue, 24 Feb 2026 09:47:26 GMT",
-    "summary": "A fake Zoom meeting page looks real, triggers a bogus “update,” and silently installs a legitimate commercial monitoring product.",
-    "analysis": {
-      "issue": "UPDATE (February 27, 2026): We have added more clarity around the abuse of legitimate commercial products",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
