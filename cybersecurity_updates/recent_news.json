@@ -1,6 +1,63 @@
 [
   {
     "source": "The Hacker News",
+    "title": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF",
+    "link": "https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html",
+    "published": "Mon, 02 Mar 2026 17:25:00 +0530",
+    "summary": "Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them.\nOn paper, everything looks great: more sign-ups, more sessions, more API calls. But in reality, something feels off:\n\nSign-ups increase, but users aren’t activating.\nServer costs rise faster than revenue.\nLogs are filled with repeated requests from strange user agents.\n\nIf",
+    "analysis": {
+      "issue": "SafeLine self-hosted WAF blocks SaaS bot abuse with 99",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday",
+    "link": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
+    "published": "Mon, 02 Mar 2026 16:06:00 +0530",
+    "summary": "A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, according to new findings from Akamai.\nThe vulnerability in question is CVE-2026-21513 (CVSS score: 8.8), a high-severity security feature bypass affecting the MSHTML Framework.\n\"Protection mechanism failure in MSHTML Framework allows an unauthorized",
+    "analysis": {
+      "issue": "APT28 exploited CVE-2026-21513, an MSHTML zero-day (CVSS 8",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-21513"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
+    "link": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
+    "published": "Mon, 02 Mar 2026 14:14:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the npm registry.\nThe packages masquerade as developer tools, but contain functionality to extract the actual command-and-control (C2) by using seemingly harmless Pastebin content as a dead drop resolver and",
+    "analysis": {
+      "issue": "North Korean-linked campaign publishes 26 malicious npm packages hiding C2 in Pastebin, deploying credential stealers & RAT via 31 Vercel deployments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket",
     "link": "https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html",
     "published": "Sat, 28 Feb 2026 22:51:00 +0530",
@@ -76,7 +133,20 @@
     "title": "900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks",
     "link": "https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html",
     "published": "Fri, 27 Feb 2026 23:29:00 +0530",
-    "summary": "The Shadowserver Foundation has revealed that over 900 Sangoma FreePBX instances still remain infected with web shells as part of attacks that exploited a command injection vulnerability starting in December 2025.\nOf these, 401 instances are located in the U.S., followed by 51 in Brazil, 43 in Canada, 40 in Germany, and 36 in France.\nThe non-profit entity said the compromises are likely"
+    "summary": "The Shadowserver Foundation has revealed that over 900 Sangoma FreePBX instances still remain infected with web shells as part of attacks that exploited a command injection vulnerability starting in December 2025.\nOf these, 401 instances are located in the U.S., followed by 51 in Brazil, 43 in Canada, 40 in Germany, and 36 in France.\nThe non-profit entity said the compromises are likely",
+    "analysis": {
+      "issue": "Over 900 FreePBX systems remain infected after CVE-2025-64328 exploitation, now listed in CISA KEV amid active attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-64328"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "The Hacker News",
@@ -116,54 +186,17 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms",
-    "link": "https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html",
-    "published": "Fri, 27 Feb 2026 15:36:00 +0530",
-    "summary": "Threat actors are luring unsuspecting users into running trojanized gaming utilities that are distributed via browsers and chat platforms to distribute a remote access trojan (RAT).\n\"A malicious downloader staged a portable Java runtime and executed a malicious Java archive (JAR) file named jd-gui.jar,\" the Microsoft Threat Intelligence team said in a post on X. \"This downloader used PowerShell",
+    "source": "Bleeping Computer",
+    "title": "Anthropic confirms Claude is down in a worldwide outage",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/",
+    "published": "Mon, 02 Mar 2026 07:23:00 -0500",
+    "summary": "Claude appears to be having a major outage right now, with elevated errors reported across all platforms. [...]",
     "analysis": {
-      "issue": "Trojanized gaming tools and new Windows RATs like Steaelite enable data theft, ransomware, and persistent remote control",
+      "issue": "Claude appears to be having a major outage right now, with elevated errors reported across all platforms",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams",
-    "link": "https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html",
-    "published": "Fri, 27 Feb 2026 13:26:00 +0530",
-    "summary": "Meta on Thursday said it's taking legal action to tackle scams on its platforms by filing lawsuits against what it calls deceptive advertisers based in Brazil, China, and Vietnam.\nAs part of the effort, the advertisers' methods of payment have been suspended, related accounts have been disabled, and the website domain names used to pull off the scams have been blocked.\nConcurrently, the social",
-    "analysis": {
-      "issue": "Meta sues global scam advertisers as reports show 30",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown",
-    "link": "https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html",
-    "published": "Thu, 26 Feb 2026 23:30:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new botnet loader called Aeternum C2 that uses a blockchain-based command-and-control (C2) infrastructure to make it resilient to takedown efforts.\n\"Instead of relying on traditional servers or domains for command-and-control, Aeternum stores its instructions on the public Polygon blockchain,\" Qrator Labs said in a report shared with The",
-    "analysis": {
-      "issue": "Researchers detail Aeternum C2 storing botnet commands on Polygon blockchain, while DSLRoot operates 300 residential proxy devices across U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "Malware"
@@ -337,24 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Ukrainian man pleads guilty to running AI-powered fake ID site",
-    "link": "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/",
-    "published": "Fri, 27 Feb 2026 07:30:07 -0500",
-    "summary": "A Ukrainian man has pleaded guilty to operating OnlyFake, an AI-powered website that generated and sold more than 10,000 photos of fake identification documents to customers worldwide. [...]",
-    "analysis": {
-      "issue": "A Ukrainian man has pleaded guilty to operating OnlyFake, an AI-powered website that generated and sold more than 10,000 photos of fake identification documents to customers worldwide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who is the Kimwolf Botmaster “Dort”?",
     "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
@@ -425,16 +440,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21516",
-        "CVE-2026-21519",
-        "CVE-2026-21525",
-        "CVE-2026-21533",
-        "CVE-2026-21523",
-        "CVE-2026-21514",
-        "CVE-2026-21513",
         "CVE-2026-21509",
-        "CVE-2026-21510",
-        "CVE-2026-21256"
+        "CVE-2026-21516",
+        "CVE-2026-21514",
+        "CVE-2026-21523",
+        "CVE-2026-21525",
+        "CVE-2026-21256",
+        "CVE-2026-21533",
+        "CVE-2026-21513",
+        "CVE-2026-21519",
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -512,9 +527,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20805",
         "CVE-2026-20952",
-        "CVE-2026-20953",
-        "CVE-2026-20805"
+        "CVE-2026-20953"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -563,6 +578,41 @@
   },
   {
     "source": "Security Week",
+    "title": "Nick Andersen Appointed Acting Director of CISA",
+    "link": "https://www.securityweek.com/nick-andersen-appointed-acting-director-of-cisa/",
+    "published": "Mon, 02 Mar 2026 12:53:44 +0000",
+    "summary": "<p>Madhu Gottumukkala has been assigned to a new role within the Department of Homeland Security.</p>\n<p>The post <a href=\"https://www.securityweek.com/nick-andersen-appointed-acting-director-of-cisa/\">Nick Andersen Appointed Acting Director of CISA</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "AWS Expands Security Hub Into a Cross-Domain Security Platform",
+    "link": "https://www.securityweek.com/aws-expands-security-hub-into-a-cross-domain-security-platform/",
+    "published": "Mon, 02 Mar 2026 12:30:00 +0000",
+    "summary": "<p>The AWS Security Hub Extended plan aims to reduce security tool sprawl by correlating findings across multiple security domains.</p>\n<p>The post <a href=\"https://www.securityweek.com/aws-expands-security-hub-into-a-cross-domain-security-platform/\">AWS Expands Security Hub Into a Cross-Domain Security Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "North Korean APT Targets Air-Gapped Systems in Recent Campaign",
+    "link": "https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/",
+    "published": "Mon, 02 Mar 2026 11:46:29 +0000",
+    "summary": "<p>Using Windows shortcut files, the APT deployed a new implant, a loader, a propagation tool, and two backdoors.</p>\n<p>The post <a href=\"https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/\">North Korean APT Targets Air-Gapped Systems in Recent Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Working Towards Quantum-Safe Chrome HTTPS Certificates",
+    "link": "https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/",
+    "published": "Mon, 02 Mar 2026 11:33:34 +0000",
+    "summary": "<p>The internet giant is developing an evolution of the certificates based on Merkle Tree Certificates (MTCs).</p>\n<p>The post <a href=\"https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/\">Google Working Towards Quantum-Safe Chrome HTTPS Certificates </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "US-Israel and Iran Trade Cyberattacks: Pro-West Hacks Cause Disruption as Tehran Retaliates",
+    "link": "https://www.securityweek.com/us-israel-and-iran-trade-cyberattacks-pro-west-hacks-cause-disruption-as-tehran-retaliates/",
+    "published": "Mon, 02 Mar 2026 11:04:32 +0000",
+    "summary": "<p>Both sides conduct hacking and other attacks, including the deployment of wiper malware, DDoS, and disruptions to critical infrastructure. </p>\n<p>The post <a href=\"https://www.securityweek.com/us-israel-and-iran-trade-cyberattacks-pro-west-hacks-cause-disruption-as-tehran-retaliates/\">US-Israel and Iran Trade Cyberattacks: Pro-West Hacks Cause Disruption as Tehran Retaliates</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Hackers Weaponize Claude Code in Mexican Government Cyberattack",
     "link": "https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/",
     "published": "Sun, 01 Mar 2026 12:30:00 +0000",
@@ -606,41 +656,6 @@
     "link": "https://www.securityweek.com/38-million-allegedly-impacted-by-manomano-data-breach/",
     "published": "Fri, 27 Feb 2026 13:41:27 +0000",
     "summary": "<p>Hackers stole personal information such as names, email addresses, phone numbers, and other information.</p>\n<p>The post <a href=\"https://www.securityweek.com/38-million-allegedly-impacted-by-manomano-data-breach/\">38 Million Allegedly Impacted by ManoMano Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "900 Sangoma FreePBX Instances Infected With Web Shells",
-    "link": "https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/",
-    "published": "Fri, 27 Feb 2026 13:24:25 +0000",
-    "summary": "<p>The attacks exploited a post-authentication command injection vulnerability in the endpoint manager’s interface.</p>\n<p>The post <a href=\"https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/\">900 Sangoma FreePBX Instances Infected With Web Shells</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Chilean Carding Shop Operator Extradited to US",
-    "link": "https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/",
-    "published": "Fri, 27 Feb 2026 12:34:54 +0000",
-    "summary": "<p>The 24-year-old suspect has been accused of trafficking over 26,000 cards from a single brand.</p>\n<p>The post <a href=\"https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/\">Chilean Carding Shop Operator Extradited to US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline",
-    "link": "https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/",
-    "published": "Fri, 27 Feb 2026 12:34:42 +0000",
-    "summary": "<p>Anthropic said it sought narrow assurances from the Pentagon that Claude won’t be used for mass surveillance of Americans or in fully autonomous weapons.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/\">Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Aeternum Botnet Loader Employs Polygon Blockchain C&C to Boost Resilience",
-    "link": "https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/",
-    "published": "Fri, 27 Feb 2026 12:02:53 +0000",
-    "summary": "<p>Aeternum operates on smart contracts, making its command-and-control (C&#038;C) infrastructure difficult to disrupt.</p>\n<p>The post <a href=\"https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/\">Aeternum Botnet Loader Employs Polygon Blockchain C&#038;C to Boost Resilience</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Juniper Networks PTX Routers Affected by Critical Vulnerability",
-    "link": "https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/",
-    "published": "Fri, 27 Feb 2026 10:39:18 +0000",
-    "summary": "<p>An out-of-band security update for Junos OS Evolved patches the remote code execution vulnerability CVE-2026-21902.</p>\n<p>The post <a href=\"https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/\">Juniper Networks PTX Routers Affected by Critical Vulnerability </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -694,8 +709,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-20775",
-        "CVE-2026-20127"
+        "CVE-2026-20127",
+        "CVE-2022-20775"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -807,13 +822,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21519",
-        "CVE-2026-21525",
-        "CVE-2026-21513",
-        "CVE-2026-21514",
-        "CVE-2026-21510",
         "CVE-2026-23655",
-        "CVE-2026-21522"
+        "CVE-2026-21514",
+        "CVE-2026-21525",
+        "CVE-2026-21522",
+        "CVE-2026-21513",
+        "CVE-2026-21519",
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1187,8 +1202,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
