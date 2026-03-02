@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-01 16:52:43 UTC
+**Last Updated:** 2026-03-02 02:39:40 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,16 @@
 
 ---
 
-### 11. [Samsung TVs to stop collecting Texans’ data without express consent](https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/)
+### 11. [ClawJacked attack let malicious websites hijack OpenClaw to steal data](https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 01 Mar 2026 16:44:55 -0500  
+**Severity:** High  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Samsung TVs to stop collecting Texans’ data without express consent](https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 01 Mar 2026 10:23:34 -0500  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [QuickLens Chrome extension steals crypto, shows ClickFix attack](https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/)
+### 13. [QuickLens Chrome extension steals crypto, shows ClickFix attack](https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 28 Feb 2026 14:18:52 -0500  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [$4.8M in crypto stolen after Korean tax agency exposes wallet seed](https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/)
+### 14. [$4.8M in crypto stolen after Korean tax agency exposes wallet seed](https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 28 Feb 2026 10:17:23 -0500  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [Microsoft testing Windows 11 batch file security improvements](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/)
+### 15. [Microsoft testing Windows 11 batch file security improvements](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Feb 2026 15:00:27 -0500  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [APT37 hackers use new malware to breach air-gapped networks](https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/)
+### 16. [APT37 hackers use new malware to breach air-gapped networks](https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Feb 2026 14:21:25 -0500  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [Europol-led crackdown on The Com hackers leads to 30 arrests](https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/)
+### 17. [Europol-led crackdown on The Com hackers leads to 30 arrests](https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Feb 2026 13:20:15 -0500  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [CISA warns that RESURGE malware can be dormant on Ivanti devices](https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/)
+### 18. [CISA warns that RESURGE malware can be dormant on Ivanti devices](https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Feb 2026 10:57:04 -0500  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [Third-Party Patching and the Business Footprint We All Share](https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/)
+### 19. [Third-Party Patching and the Business Footprint We All Share](https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Feb 2026 10:00:10 -0500  
@@ -168,19 +177,10 @@
 
 ---
 
-### 19. [Ukrainian man pleads guilty to running AI-powered fake ID site](https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/)
+### 20. [Ukrainian man pleads guilty to running AI-powered fake ID site](https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Feb 2026 07:30:07 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Previously harmless Google API keys now expose Gemini AI data](https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 26 Feb 2026 15:55:29 -0500  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -218,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21519, CVE-2026-21510, CVE-2026-21514, CVE-2026-21525, CVE-2026-21256, CVE-2026-21513, CVE-2026-21516, CVE-2026-21523, CVE-2026-21533, CVE-2026-21509  
+**CVEs:** CVE-2026-21516, CVE-2026-21256, CVE-2026-21525, CVE-2026-21523, CVE-2026-21510, CVE-2026-21509, CVE-2026-21514, CVE-2026-21513, CVE-2026-21519, CVE-2026-21533  
 **Categories:** Vulnerability  
 
 ---
@@ -255,7 +255,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20805  
+**CVEs:** CVE-2026-20952, CVE-2026-20805, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
@@ -373,7 +373,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 25 Feb 2026 16:13:36 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20127, CVE-2022-20775  
+**CVEs:** CVE-2022-20775, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---
@@ -428,7 +428,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21522, CVE-2026-21519, CVE-2026-21525, CVE-2026-21510, CVE-2026-21514, CVE-2026-21513, CVE-2026-23655  
+**CVEs:** CVE-2026-21510, CVE-2026-21522, CVE-2026-21514, CVE-2026-23655, CVE-2026-21519, CVE-2026-21525, CVE-2026-21513  
 **Categories:** Vulnerability  
 
 ---
