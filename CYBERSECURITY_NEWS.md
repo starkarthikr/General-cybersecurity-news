@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-02 17:12:48 UTC
+**Last Updated:** 2026-03-03 02:41:55 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More](https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html)
+### 1. [New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel](https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 02 Mar 2026 22:38:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-0628  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome](https://thehackernews.com/2026/03/google-develops-merkle-tree.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 02 Mar 2026 22:22:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More](https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Mar 2026 18:56:00 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [How to Protect Your SaaS from Bot Attacks with SafeLine WAF](https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html)
+### 4. [How to Protect Your SaaS from Bot Attacks with SafeLine WAF](https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Mar 2026 17:25:00 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday](https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html)
+### 5. [APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday](https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Mar 2026 16:06:00 +0530  
@@ -32,7 +51,7 @@
 
 ---
 
-### 4. [North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT](https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html)
+### 6. [North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT](https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Mar 2026 14:14:00 +0530  
@@ -41,7 +60,7 @@
 
 ---
 
-### 5. [ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)
+### 7. [ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 28 Feb 2026 22:51:00 +0530  
@@ -50,7 +69,7 @@
 
 ---
 
-### 6. [Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement](https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html)
+### 8. [Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement](https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 28 Feb 2026 15:26:00 +0530  
@@ -59,7 +78,7 @@
 
 ---
 
-### 7. [Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute](https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html)
+### 9. [Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute](https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 28 Feb 2026 10:27:00 +0530  
@@ -68,7 +87,7 @@
 
 ---
 
-### 8. [DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams](https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html)
+### 10. [DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams](https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Feb 2026 23:41:00 +0530  
@@ -77,26 +96,43 @@
 
 ---
 
-### 9. [900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks](https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html)
+### 11. [CyberStrikeAI tool adopted by hackers for AI-powered attacks](https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 27 Feb 2026 23:29:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 02 Mar 2026 19:06:39 -0500  
 **Severity:** Low  
-**CVEs:** CVE-2025-64328  
 **Categories:** Vulnerability  
 
 ---
 
-### 10. [Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor](https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html)
+### 12. [Fake Google Security site uses PWA app to steal credentials, MFA codes](https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 27 Feb 2026 21:03:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 02 Mar 2026 15:23:41 -0500  
 **Severity:** Low  
-**Categories:** Malware, APT  
+**Categories:** Malware, Phishing  
 
 ---
 
-### 11. [UK warns of Iranian cyberattack risks amid Middle-East conflict](https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/)
+### 13. [Alabama man pleads guilty to hacking, extorting hundreds of women](https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 02 Mar 2026 13:54:34 -0500  
+**Severity:** High  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [Florida woman imprisoned for massive Microsoft license fraud scheme](https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 02 Mar 2026 12:30:13 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 15. [UK warns of Iranian cyberattack risks amid Middle-East conflict](https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Mar 2026 10:54:33 -0500  
@@ -105,7 +141,7 @@
 
 ---
 
-### 12. [How Deepfakes and Injection Attacks Are Breaking Identity Verification](https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/)
+### 16. [How Deepfakes and Injection Attacks Are Breaking Identity Verification](https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Mar 2026 10:01:11 -0500  
@@ -114,16 +150,16 @@
 
 ---
 
-### 13. [Anthropic confirms Claude is down in a worldwide outage](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/)
+### 17. [Anthropic confirms Claude is down in a worldwide outage](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Mar 2026 07:23:00 -0500  
 **Severity:** High  
-**Categories:** Malware  
+**Categories:** General Security  
 
 ---
 
-### 14. [ClawJacked attack let malicious websites hijack OpenClaw to steal data](https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/)
+### 18. [ClawJacked attack let malicious websites hijack OpenClaw to steal data](https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 01 Mar 2026 16:44:55 -0500  
@@ -132,7 +168,7 @@
 
 ---
 
-### 15. [Samsung TVs to stop collecting Texans’ data without express consent](https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/)
+### 19. [Samsung TVs to stop collecting Texans’ data without express consent](https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 01 Mar 2026 10:23:34 -0500  
@@ -141,48 +177,12 @@
 
 ---
 
-### 16. [QuickLens Chrome extension steals crypto, shows ClickFix attack](https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/)
+### 20. [QuickLens Chrome extension steals crypto, shows ClickFix attack](https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 28 Feb 2026 14:18:52 -0500  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 17. [$4.8M in crypto stolen after Korean tax agency exposes wallet seed](https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 28 Feb 2026 10:17:23 -0500  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 18. [Microsoft testing Windows 11 batch file security improvements](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 27 Feb 2026 15:00:27 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [APT37 hackers use new malware to breach air-gapped networks](https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 27 Feb 2026 14:21:25 -0500  
-**Severity:** Critical  
-**Categories:** Malware, APT  
-
----
-
-### 20. [Europol-led crackdown on The Com hackers leads to 30 arrests](https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 27 Feb 2026 13:20:15 -0500  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -218,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21516, CVE-2026-21525, CVE-2026-21510, CVE-2026-21523, CVE-2026-21519, CVE-2026-21513, CVE-2026-21514, CVE-2026-21256, CVE-2026-21533, CVE-2026-21509  
+**CVEs:** CVE-2026-21516, CVE-2026-21513, CVE-2026-21533, CVE-2026-21525, CVE-2026-21514, CVE-2026-21523, CVE-2026-21510, CVE-2026-21519, CVE-2026-21256, CVE-2026-21509  
 **Categories:** Vulnerability  
 
 ---
@@ -348,7 +348,16 @@
 
 ---
 
-### 41. [Henry IV, Hotspur, Hal, and hallucinations](https://blog.talosintelligence.com/henry-iv-hotspur-hal-and-hallucinations/)
+### 41. [Talos on the developing situation in the Middle East](https://blog.talosintelligence.com/talos-developing-situation-in-the-middle-east/)
+
+**Source:** Talos Blog  
+**Published:** Tue, 03 Mar 2026 00:55:43 GMT  
+**Severity:** High  
+**Categories:** DDoS, Supply Chain  
+
+---
+
+### 42. [Henry IV, Hotspur, Hal, and hallucinations](https://blog.talosintelligence.com/henry-iv-hotspur-hal-and-hallucinations/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 26 Feb 2026 19:00:39 GMT  
@@ -357,7 +366,7 @@
 
 ---
 
-### 42. [New Dohdoor malware campaign targets education and health care](https://blog.talosintelligence.com/new-dohdoor-malware-campaign/)
+### 43. [New Dohdoor malware campaign targets education and health care](https://blog.talosintelligence.com/new-dohdoor-malware-campaign/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 26 Feb 2026 11:00:25 GMT  
@@ -366,17 +375,17 @@
 
 ---
 
-### 43. [Active exploitation of Cisco Catalyst SD-WAN by UAT-8616](https://blog.talosintelligence.com/uat-8616-sd-wan/)
+### 44. [Active exploitation of Cisco Catalyst SD-WAN by UAT-8616](https://blog.talosintelligence.com/uat-8616-sd-wan/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 25 Feb 2026 16:13:36 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20127, CVE-2022-20775  
+**CVEs:** CVE-2022-20775, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---
 
-### 44. [Using AI to defeat AI](https://blog.talosintelligence.com/using-ai-to-defeat-ai/)
+### 45. [Using AI to defeat AI](https://blog.talosintelligence.com/using-ai-to-defeat-ai/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 19 Feb 2026 19:00:07 GMT  
@@ -385,7 +394,7 @@
 
 ---
 
-### 45. [“Good enough” emulation: Fuzzing a single thread to uncover vulnerabilities](https://blog.talosintelligence.com/good-enough-emulation/)
+### 46. [“Good enough” emulation: Fuzzing a single thread to uncover vulnerabilities](https://blog.talosintelligence.com/good-enough-emulation/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 18 Feb 2026 11:00:31 GMT  
@@ -394,7 +403,7 @@
 
 ---
 
-### 46. [Hand over the keys for Shannon’s shenanigans](https://blog.talosintelligence.com/hand-over-the-keys-for-shannons-shenanigans/)
+### 47. [Hand over the keys for Shannon’s shenanigans](https://blog.talosintelligence.com/hand-over-the-keys-for-shannons-shenanigans/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 12 Feb 2026 19:00:22 GMT  
@@ -403,7 +412,7 @@
 
 ---
 
-### 47. [Ryan Liles, master of technical diplomacy](https://blog.talosintelligence.com/ryan-liles-master-of-technical-diplomacy/)
+### 48. [Ryan Liles, master of technical diplomacy](https://blog.talosintelligence.com/ryan-liles-master-of-technical-diplomacy/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 12 Feb 2026 11:00:39 GMT  
@@ -412,7 +421,7 @@
 
 ---
 
-### 48. [New threat actor, UAT-9921, leverages VoidLink framework in campaigns](https://blog.talosintelligence.com/voidlink/)
+### 49. [New threat actor, UAT-9921, leverages VoidLink framework in campaigns](https://blog.talosintelligence.com/voidlink/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 11 Feb 2026 00:00:07 GMT  
@@ -421,26 +430,26 @@
 
 ---
 
-### 49. [Microsoft Patch Tuesday for February 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-february-2026/)
+### 50. [Microsoft Patch Tuesday for February 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-february-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21522, CVE-2026-21525, CVE-2026-21510, CVE-2026-21519, CVE-2026-21513, CVE-2026-21514, CVE-2026-23655  
+**CVEs:** CVE-2026-23655, CVE-2026-21522, CVE-2026-21513, CVE-2026-21525, CVE-2026-21514, CVE-2026-21510, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
 
-### 50. [All gas, no brakes: Time to come to AI church](https://blog.talosintelligence.com/all-gas-no-brakes-time-to-come-to-ai-church/)
+### 51. [Ongoing Iran Conflict: What You Need to Know](https://www.recordedfuture.com/blog/ongoing-iran-conflict-what-you-need-to-know)
 
-**Source:** Talos Blog  
-**Published:** Thu, 05 Feb 2026 19:00:39 GMT  
-**Severity:** High  
-**Categories:** Vulnerability  
+**Source:** Recorded Future  
+**Published:** Mon, 02 Mar 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
-### 51. [Recorded Future Expands Coverage of Scams and Financial Fraud with Money Mule Intelligence from CYBERA](https://www.recordedfuture.com/blog/recorded-future-money-mule-intelligence-cybera)
+### 52. [Recorded Future Expands Coverage of Scams and Financial Fraud with Money Mule Intelligence from CYBERA](https://www.recordedfuture.com/blog/recorded-future-money-mule-intelligence-cybera)
 
 **Source:** Recorded Future  
 **Published:** Thu, 26 Feb 2026 00:00:00 GMT  
@@ -449,7 +458,7 @@
 
 ---
 
-### 52. [January 2026 CVE Landscape: 23 Critical Vulnerabilities Mark 5% Increase, APT28 Exploits Microsoft Office Zero-Day](https://www.recordedfuture.com/blog/january-2026-cve-landscape)
+### 53. [January 2026 CVE Landscape: 23 Critical Vulnerabilities Mark 5% Increase, APT28 Exploits Microsoft Office Zero-Day](https://www.recordedfuture.com/blog/january-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Tue, 24 Feb 2026 00:00:00 GMT  
@@ -458,7 +467,7 @@
 
 ---
 
-### 53. [Preparing for Russia’s New Generation Warfare in Europe](https://www.recordedfuture.com/research/preparing-for-russias-new-generation-warfare-in-europe)
+### 54. [Preparing for Russia’s New Generation Warfare in Europe](https://www.recordedfuture.com/research/preparing-for-russias-new-generation-warfare-in-europe)
 
 **Source:** Recorded Future  
 **Published:** Tue, 24 Feb 2026 00:00:00 GMT  
@@ -467,7 +476,7 @@
 
 ---
 
-### 54. [2025 Cloud Threat Hunting and Defense Landscape](https://www.recordedfuture.com/research/2025-cloud-threat-hunting-defense-landscape)
+### 55. [2025 Cloud Threat Hunting and Defense Landscape](https://www.recordedfuture.com/research/2025-cloud-threat-hunting-defense-landscape)
 
 **Source:** Recorded Future  
 **Published:** Thu, 19 Feb 2026 00:00:00 GMT  
@@ -476,7 +485,7 @@
 
 ---
 
-### 55. [GrayCharlie Hijacks Law Firm Sites in Suspected Supply-Chain Attack](https://www.recordedfuture.com/research/graycharlie-hijacks-law-firm-sites-suspected-supply-chain-attack)
+### 56. [GrayCharlie Hijacks Law Firm Sites in Suspected Supply-Chain Attack](https://www.recordedfuture.com/research/graycharlie-hijacks-law-firm-sites-suspected-supply-chain-attack)
 
 **Source:** Recorded Future  
 **Published:** Wed, 18 Feb 2026 00:00:00 GMT  
@@ -485,7 +494,7 @@
 
 ---
 
-### 56. [Network Intelligence: Your Questions, Global Answers](https://www.recordedfuture.com/blog/network-intelligence-questions-answered)
+### 57. [Network Intelligence: Your Questions, Global Answers](https://www.recordedfuture.com/blog/network-intelligence-questions-answered)
 
 **Source:** Recorded Future  
 **Published:** Mon, 16 Feb 2026 00:00:00 GMT  
@@ -494,7 +503,7 @@
 
 ---
 
-### 57. [State of Security Report | Recorded Future](https://www.recordedfuture.com/research/state-of-security)
+### 58. [State of Security Report | Recorded Future](https://www.recordedfuture.com/research/state-of-security)
 
 **Source:** Recorded Future  
 **Published:** Thu, 12 Feb 2026 00:00:00 GMT  
@@ -503,7 +512,7 @@
 
 ---
 
-### 58. [Fragmentation Defined 2025's Threat Landscape. Here's What It Means for 2026](https://www.recordedfuture.com/blog/fragmentation-in-2025-what-it-means-for-2026)
+### 59. [Fragmentation Defined 2025's Threat Landscape. Here's What It Means for 2026](https://www.recordedfuture.com/blog/fragmentation-in-2025-what-it-means-for-2026)
 
 **Source:** Recorded Future  
 **Published:** Thu, 12 Feb 2026 00:00:00 GMT  
@@ -512,20 +521,11 @@
 
 ---
 
-### 59. [From 27 Steps to 5: How Recorded Future Reimagined Threat Hunting with Autonomous Threat Operations](https://www.recordedfuture.com/blog/threat-hunting-27-steps-to-5)
+### 60. [From 27 Steps to 5: How Recorded Future Reimagined Threat Hunting with Autonomous Threat Operations](https://www.recordedfuture.com/blog/threat-hunting-27-steps-to-5)
 
 **Source:** Recorded Future  
 **Published:** Wed, 11 Feb 2026 00:00:00 GMT  
 **Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 60. [Rublevka Team: Anatomy of a Russian Crypto Drainer Operation](https://www.recordedfuture.com/research/rublevka-team-anatomy-russian-crypto-drainer-operation)
-
-**Source:** Recorded Future  
-**Published:** Wed, 04 Feb 2026 00:00:00 GMT  
-**Severity:** High  
 **Categories:** General Security  
 
 ---
@@ -610,7 +610,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
