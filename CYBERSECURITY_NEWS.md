@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-03 09:08:11 UTC
+**Last Updated:** 2026-03-03 13:11:37 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited](https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html)
+### 1. [AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged](https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 03 Mar 2026 17:00:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication](https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 03 Mar 2026 16:40:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 3. [Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets](https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 03 Mar 2026 14:50:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 4. [Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited](https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Mar 2026 12:38:00 +0530  
@@ -14,7 +41,7 @@
 
 ---
 
-### 2. [SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains](https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html)
+### 5. [SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains](https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Mar 2026 12:23:00 +0530  
@@ -23,7 +50,7 @@
 
 ---
 
-### 3. [New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel](https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html)
+### 6. [New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel](https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Mar 2026 22:38:00 +0530  
@@ -33,7 +60,7 @@
 
 ---
 
-### 4. [Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome](https://thehackernews.com/2026/03/google-develops-merkle-tree.html)
+### 7. [Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome](https://thehackernews.com/2026/03/google-develops-merkle-tree.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Mar 2026 22:22:00 +0530  
@@ -42,7 +69,7 @@
 
 ---
 
-### 5. [⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More](https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html)
+### 8. [⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More](https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Mar 2026 18:56:00 +0530  
@@ -51,7 +78,7 @@
 
 ---
 
-### 6. [How to Protect Your SaaS from Bot Attacks with SafeLine WAF](https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html)
+### 9. [How to Protect Your SaaS from Bot Attacks with SafeLine WAF](https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Mar 2026 17:25:00 +0530  
@@ -60,7 +87,7 @@
 
 ---
 
-### 7. [APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday](https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html)
+### 10. [APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday](https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Mar 2026 16:06:00 +0530  
@@ -70,34 +97,34 @@
 
 ---
 
-### 8. [North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT](https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html)
+### 11. [Amazon: Drone strikes damaged AWS data centers in Middle East](https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 02 Mar 2026 14:14:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 03 Mar 2026 06:44:44 -0500  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 9. [ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)
+### 12. [Star Citizen game dev discloses breach affecting user data](https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 28 Feb 2026 22:51:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 03 Mar 2026 05:50:26 -0500  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** Data Breach  
 
 ---
 
-### 10. [Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement](https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html)
+### 13. [UH Cancer Center data breach affects nearly 1.2 million people](https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-ransomware-attack-affects-nearly-12-million-people/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 28 Feb 2026 15:26:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 03 Mar 2026 04:48:51 -0500  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Ransomware, Data Breach  
 
 ---
 
-### 11. [Android gets patches for Qualcomm zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/)
+### 14. [Android gets patches for Qualcomm zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 03 Mar 2026 03:19:53 -0500  
@@ -107,7 +134,7 @@
 
 ---
 
-### 12. [CyberStrikeAI tool adopted by hackers for AI-powered attacks](https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/)
+### 15. [CyberStrikeAI tool adopted by hackers for AI-powered attacks](https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Mar 2026 19:06:39 -0500  
@@ -116,7 +143,7 @@
 
 ---
 
-### 13. [Fake Google Security site uses PWA app to steal credentials, MFA codes](https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/)
+### 16. [Fake Google Security site uses PWA app to steal credentials, MFA codes](https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Mar 2026 15:23:41 -0500  
@@ -125,7 +152,7 @@
 
 ---
 
-### 14. [Alabama man pleads guilty to hacking, extorting hundreds of women](https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/)
+### 17. [Alabama man pleads guilty to hacking, extorting hundreds of women](https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Mar 2026 13:54:34 -0500  
@@ -134,7 +161,7 @@
 
 ---
 
-### 15. [Florida woman imprisoned for massive Microsoft license fraud scheme](https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/)
+### 18. [Florida woman imprisoned for massive Microsoft license fraud scheme](https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Mar 2026 12:30:13 -0500  
@@ -143,7 +170,7 @@
 
 ---
 
-### 16. [UK warns of Iranian cyberattack risks amid Middle-East conflict](https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/)
+### 19. [UK warns of Iranian cyberattack risks amid Middle-East conflict](https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Mar 2026 10:54:33 -0500  
@@ -152,39 +179,12 @@
 
 ---
 
-### 17. [How Deepfakes and Injection Attacks Are Breaking Identity Verification](https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/)
+### 20. [How Deepfakes and Injection Attacks Are Breaking Identity Verification](https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Mar 2026 10:01:11 -0500  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 18. [Anthropic confirms Claude is down in a worldwide outage](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 02 Mar 2026 07:23:00 -0500  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 19. [ClawJacked attack let malicious websites hijack OpenClaw to steal data](https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 01 Mar 2026 16:44:55 -0500  
-**Severity:** High  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Samsung TVs to stop collecting Texans’ data without express consent](https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 01 Mar 2026 10:23:34 -0500  
-**Severity:** Low  
-**Categories:** APT  
 
 ---
 
@@ -220,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21519, CVE-2026-21256, CVE-2026-21513, CVE-2026-21509, CVE-2026-21533, CVE-2026-21525, CVE-2026-21510, CVE-2026-21523, CVE-2026-21514, CVE-2026-21516  
+**CVEs:** CVE-2026-21510, CVE-2026-21514, CVE-2026-21256, CVE-2026-21509, CVE-2026-21513, CVE-2026-21525, CVE-2026-21523, CVE-2026-21516, CVE-2026-21533, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -257,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20952, CVE-2026-20805  
+**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20805  
 **Categories:** Vulnerability  
 
 ---
@@ -280,73 +280,73 @@
 
 ---
 
-### 31. [Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant](https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/)
+### 31. [Android Update Patches Exploited Qualcomm Zero-Day](https://www.securityweek.com/android-update-patches-exploited-qualcomm-zero-day/)
+
+**Source:** Security Week  
+**Published:** Tue, 03 Mar 2026 12:41:16 +0000  
+
+---
+
+### 32. [Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low](https://www.securityweek.com/iran-cyber-front-hacktivist-activity-rises-but-state-sponsored-attacks-stay-low/)
+
+**Source:** Security Week  
+**Published:** Tue, 03 Mar 2026 12:25:28 +0000  
+
+---
+
+### 33. [Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise](https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/)
+
+**Source:** Security Week  
+**Published:** Tue, 03 Mar 2026 10:43:20 +0000  
+
+---
+
+### 34. [Researchers Uncover Method to Track Cars via Tire Sensors](https://www.securityweek.com/researchers-uncover-method-to-track-cars-via-tire-sensors/)
+
+**Source:** Security Week  
+**Published:** Tue, 03 Mar 2026 09:40:03 +0000  
+
+---
+
+### 35. [Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant](https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/)
 
 **Source:** Security Week  
 **Published:** Mon, 02 Mar 2026 15:26:45 +0000  
 
 ---
 
-### 32. [OpenClaw Vulnerability Allowed Websites to Hijack AI Agents](https://www.securityweek.com/openclaw-vulnerability-allowed-malicious-websites-to-hijack-ai-agents/)
+### 36. [OpenClaw Vulnerability Allowed Websites to Hijack AI Agents](https://www.securityweek.com/openclaw-vulnerability-allowed-malicious-websites-to-hijack-ai-agents/)
 
 **Source:** Security Week  
 **Published:** Mon, 02 Mar 2026 14:26:03 +0000  
 
 ---
 
-### 33. [Madison Square Garden Data Breach Confirmed Months After Hacker Attack](https://www.securityweek.com/madison-square-garden-data-breach-confirmed-months-after-hacker-attack/)
+### 37. [Madison Square Garden Data Breach Confirmed Months After Hacker Attack](https://www.securityweek.com/madison-square-garden-data-breach-confirmed-months-after-hacker-attack/)
 
 **Source:** Security Week  
 **Published:** Mon, 02 Mar 2026 13:53:26 +0000  
 
 ---
 
-### 34. [Nick Andersen Appointed Acting Director of CISA](https://www.securityweek.com/nick-andersen-appointed-acting-director-of-cisa/)
+### 38. [Nick Andersen Appointed Acting Director of CISA](https://www.securityweek.com/nick-andersen-appointed-acting-director-of-cisa/)
 
 **Source:** Security Week  
 **Published:** Mon, 02 Mar 2026 12:53:44 +0000  
 
 ---
 
-### 35. [AWS Expands Security Hub Into a Cross-Domain Security Platform](https://www.securityweek.com/aws-expands-security-hub-into-a-cross-domain-security-platform/)
+### 39. [AWS Expands Security Hub Into a Cross-Domain Security Platform](https://www.securityweek.com/aws-expands-security-hub-into-a-cross-domain-security-platform/)
 
 **Source:** Security Week  
 **Published:** Mon, 02 Mar 2026 12:30:00 +0000  
 
 ---
 
-### 36. [North Korean APT Targets Air-Gapped Systems in Recent Campaign](https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/)
+### 40. [North Korean APT Targets Air-Gapped Systems in Recent Campaign](https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/)
 
 **Source:** Security Week  
 **Published:** Mon, 02 Mar 2026 11:46:29 +0000  
-
----
-
-### 37. [Google Working Towards Quantum-Safe Chrome HTTPS Certificates](https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/)
-
-**Source:** Security Week  
-**Published:** Mon, 02 Mar 2026 11:33:34 +0000  
-
----
-
-### 38. [US-Israel and Iran Trade Cyberattacks: Pro-West Hacks Cause Disruption as Tehran Retaliates](https://www.securityweek.com/us-israel-and-iran-trade-cyberattacks-pro-west-hacks-cause-disruption-as-tehran-retaliates/)
-
-**Source:** Security Week  
-**Published:** Mon, 02 Mar 2026 11:04:32 +0000  
-
----
-
-### 39. [Hackers Weaponize Claude Code in Mexican Government Cyberattack](https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/)
-
-**Source:** Security Week  
-**Published:** Sun, 01 Mar 2026 12:30:00 +0000  
-
----
-
-### 40. [Canadian Tire Data Breach Impacts 38 Million Accounts](https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/)
-
-**Source:** Security Week  
-**Published:** Sat, 28 Feb 2026 11:50:00 +0000  
 
 ---
 
@@ -382,7 +382,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 25 Feb 2026 16:13:36 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2022-20775, CVE-2026-20127  
+**CVEs:** CVE-2026-20127, CVE-2022-20775  
 **Categories:** Vulnerability  
 
 ---
@@ -437,7 +437,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21522, CVE-2026-21519, CVE-2026-23655, CVE-2026-21513, CVE-2026-21525, CVE-2026-21510, CVE-2026-21514  
+**CVEs:** CVE-2026-21510, CVE-2026-21522, CVE-2026-21514, CVE-2026-21519, CVE-2026-23655, CVE-2026-21513, CVE-2026-21525  
 **Categories:** Vulnerability  
 
 ---
@@ -612,7 +612,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -627,7 +627,16 @@
 
 ---
 
-### 71. [Samsung TVs stop spying on viewers in Texas. Here&#8217;s how to disable ACR anywhere](https://www.malwarebytes.com/blog/news/2026/03/samsung-tvs-stop-spying-on-viewers-in-texas-heres-how-to-disable-acr-anywhere)
+### 71. [Chrome flaw let extensions hijack Gemini’s camera, mic, and file access](https://www.malwarebytes.com/blog/news/2026/03/chrome-flaw-let-extensions-hijack-geminis-camera-mic-and-file-access)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 03 Mar 2026 12:10:19 GMT  
+**Severity:** High  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 72. [Samsung TVs stop spying on viewers in Texas. Here&#8217;s how to disable ACR anywhere](https://www.malwarebytes.com/blog/news/2026/03/samsung-tvs-stop-spying-on-viewers-in-texas-heres-how-to-disable-acr-anywhere)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 02 Mar 2026 15:01:29 GMT  
@@ -636,7 +645,7 @@
 
 ---
 
-### 72. [A fake FileZilla site hosts a malicious download](https://www.malwarebytes.com/blog/threat-intel/2026/03/a-fake-filezilla-site-hosts-a-malicious-download)
+### 73. [A fake FileZilla site hosts a malicious download](https://www.malwarebytes.com/blog/threat-intel/2026/03/a-fake-filezilla-site-hosts-a-malicious-download)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 02 Mar 2026 13:57:29 GMT  
@@ -645,7 +654,7 @@
 
 ---
 
-### 73. [Purchase order attachment isn’t a PDF. It’s phishing for your password](https://www.malwarebytes.com/blog/threat-intel/2026/03/purchase-order-attachment-isnt-a-pdf-its-phishing-for-your-password)
+### 74. [Purchase order attachment isn’t a PDF. It’s phishing for your password](https://www.malwarebytes.com/blog/threat-intel/2026/03/purchase-order-attachment-isnt-a-pdf-its-phishing-for-your-password)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 02 Mar 2026 08:59:47 GMT  
@@ -654,7 +663,7 @@
 
 ---
 
-### 74. [A week in security (February 23 &#8211; March 1)](https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-february-23-march-1)
+### 75. [A week in security (February 23 &#8211; March 1)](https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-february-23-march-1)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 02 Mar 2026 08:01:00 GMT  
@@ -663,7 +672,7 @@
 
 ---
 
-### 75. [Public Google API keys can be used to expose Gemini AI data](https://www.malwarebytes.com/blog/news/2026/02/public-google-api-keys-can-be-used-to-expose-gemini-ai-data)
+### 76. [Public Google API keys can be used to expose Gemini AI data](https://www.malwarebytes.com/blog/news/2026/02/public-google-api-keys-can-be-used-to-expose-gemini-ai-data)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 27 Feb 2026 12:33:22 GMT  
@@ -672,7 +681,7 @@
 
 ---
 
-### 76. [Inside a fake Google security check that becomes a browser RAT](https://www.malwarebytes.com/blog/privacy/2026/02/inside-a-fake-google-security-check-that-becomes-a-browser-rat)
+### 77. [Inside a fake Google security check that becomes a browser RAT](https://www.malwarebytes.com/blog/privacy/2026/02/inside-a-fake-google-security-check-that-becomes-a-browser-rat)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 27 Feb 2026 11:29:11 GMT  
@@ -681,7 +690,7 @@
 
 ---
 
-### 77. [Fake Zoom and Google Meet scams install Teramind: A technical deep dive](https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-zoom-and-google-meet-scams-install-teramind-a-technical-deep-dive)
+### 78. [Fake Zoom and Google Meet scams install Teramind: A technical deep dive](https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-zoom-and-google-meet-scams-install-teramind-a-technical-deep-dive)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 26 Feb 2026 22:40:00 GMT  
@@ -690,7 +699,7 @@
 
 ---
 
-### 78. [How to understand and avoid Advanced Persistent Threats](https://www.malwarebytes.com/blog/how-to/2026/02/how-to-understand-and-avoid-advanced-persistent-threats)
+### 79. [How to understand and avoid Advanced Persistent Threats](https://www.malwarebytes.com/blog/how-to/2026/02/how-to-understand-and-avoid-advanced-persistent-threats)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 26 Feb 2026 18:52:11 GMT  
@@ -699,21 +708,12 @@
 
 ---
 
-### 79. [The Conduent breach; from 10 million to 25 million (and counting)](https://www.malwarebytes.com/blog/news/2026/02/the-conduent-breach-from-10-million-to-25-million-and-counting)
+### 80. [The Conduent breach; from 10 million to 25 million (and counting)](https://www.malwarebytes.com/blog/news/2026/02/the-conduent-breach-from-10-million-to-25-million-and-counting)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 26 Feb 2026 11:16:20 GMT  
 **Severity:** High  
 **Categories:** Ransomware  
-
----
-
-### 80. [Instagram flagged explicit messages to minors in 2018. Image-blurring arrived six years later](https://www.malwarebytes.com/blog/family-and-parenting/2026/02/instagram-flagged-explicit-messages-to-minors-in-2018-image-blurring-arrived-six-years-later)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 26 Feb 2026 10:34:43 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
