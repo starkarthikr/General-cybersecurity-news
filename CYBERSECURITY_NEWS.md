@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-03 03:19:43 UTC
+**Last Updated:** 2026-03-03 09:08:11 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel](https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html)
+### 1. [Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited](https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 03 Mar 2026 12:38:00 +0530  
+**Severity:** Critical  
+**CVEs:** CVE-2026-0006, CVE-2026-21385  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains](https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 03 Mar 2026 12:23:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel](https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Mar 2026 22:38:00 +0530  
@@ -14,7 +33,7 @@
 
 ---
 
-### 2. [Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome](https://thehackernews.com/2026/03/google-develops-merkle-tree.html)
+### 4. [Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome](https://thehackernews.com/2026/03/google-develops-merkle-tree.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Mar 2026 22:22:00 +0530  
@@ -23,7 +42,7 @@
 
 ---
 
-### 3. [⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More](https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html)
+### 5. [⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More](https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Mar 2026 18:56:00 +0530  
@@ -32,7 +51,7 @@
 
 ---
 
-### 4. [How to Protect Your SaaS from Bot Attacks with SafeLine WAF](https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html)
+### 6. [How to Protect Your SaaS from Bot Attacks with SafeLine WAF](https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Mar 2026 17:25:00 +0530  
@@ -41,7 +60,7 @@
 
 ---
 
-### 5. [APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday](https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html)
+### 7. [APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday](https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Mar 2026 16:06:00 +0530  
@@ -51,7 +70,7 @@
 
 ---
 
-### 6. [North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT](https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html)
+### 8. [North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT](https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 02 Mar 2026 14:14:00 +0530  
@@ -60,7 +79,7 @@
 
 ---
 
-### 7. [ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)
+### 9. [ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 28 Feb 2026 22:51:00 +0530  
@@ -69,7 +88,7 @@
 
 ---
 
-### 8. [Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement](https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html)
+### 10. [Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement](https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 28 Feb 2026 15:26:00 +0530  
@@ -78,25 +97,17 @@
 
 ---
 
-### 9. [Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute](https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html)
+### 11. [Android gets patches for Qualcomm zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 28 Feb 2026 10:27:00 +0530  
-**Severity:** Low  
-**Categories:** Supply Chain  
-
----
-
-### 10. [DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams](https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 27 Feb 2026 23:41:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Tue, 03 Mar 2026 03:19:53 -0500  
+**Severity:** Critical  
+**CVEs:** CVE-2026-21385  
+**Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 11. [CyberStrikeAI tool adopted by hackers for AI-powered attacks](https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/)
+### 12. [CyberStrikeAI tool adopted by hackers for AI-powered attacks](https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Mar 2026 19:06:39 -0500  
@@ -105,7 +116,7 @@
 
 ---
 
-### 12. [Fake Google Security site uses PWA app to steal credentials, MFA codes](https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/)
+### 13. [Fake Google Security site uses PWA app to steal credentials, MFA codes](https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Mar 2026 15:23:41 -0500  
@@ -114,7 +125,7 @@
 
 ---
 
-### 13. [Alabama man pleads guilty to hacking, extorting hundreds of women](https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/)
+### 14. [Alabama man pleads guilty to hacking, extorting hundreds of women](https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Mar 2026 13:54:34 -0500  
@@ -123,7 +134,7 @@
 
 ---
 
-### 14. [Florida woman imprisoned for massive Microsoft license fraud scheme](https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/)
+### 15. [Florida woman imprisoned for massive Microsoft license fraud scheme](https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Mar 2026 12:30:13 -0500  
@@ -132,7 +143,7 @@
 
 ---
 
-### 15. [UK warns of Iranian cyberattack risks amid Middle-East conflict](https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/)
+### 16. [UK warns of Iranian cyberattack risks amid Middle-East conflict](https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Mar 2026 10:54:33 -0500  
@@ -141,7 +152,7 @@
 
 ---
 
-### 16. [How Deepfakes and Injection Attacks Are Breaking Identity Verification](https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/)
+### 17. [How Deepfakes and Injection Attacks Are Breaking Identity Verification](https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Mar 2026 10:01:11 -0500  
@@ -150,7 +161,7 @@
 
 ---
 
-### 17. [Anthropic confirms Claude is down in a worldwide outage](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/)
+### 18. [Anthropic confirms Claude is down in a worldwide outage](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 02 Mar 2026 07:23:00 -0500  
@@ -159,7 +170,7 @@
 
 ---
 
-### 18. [ClawJacked attack let malicious websites hijack OpenClaw to steal data](https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/)
+### 19. [ClawJacked attack let malicious websites hijack OpenClaw to steal data](https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 01 Mar 2026 16:44:55 -0500  
@@ -168,21 +179,12 @@
 
 ---
 
-### 19. [Samsung TVs to stop collecting Texans’ data without express consent](https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/)
+### 20. [Samsung TVs to stop collecting Texans’ data without express consent](https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 01 Mar 2026 10:23:34 -0500  
 **Severity:** Low  
 **Categories:** APT  
-
----
-
-### 20. [QuickLens Chrome extension steals crypto, shows ClickFix attack](https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 28 Feb 2026 14:18:52 -0500  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -218,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21256, CVE-2026-21533, CVE-2026-21513, CVE-2026-21509, CVE-2026-21525, CVE-2026-21523, CVE-2026-21516, CVE-2026-21510, CVE-2026-21514, CVE-2026-21519  
+**CVEs:** CVE-2026-21519, CVE-2026-21256, CVE-2026-21513, CVE-2026-21509, CVE-2026-21533, CVE-2026-21525, CVE-2026-21510, CVE-2026-21523, CVE-2026-21514, CVE-2026-21516  
 **Categories:** Vulnerability  
 
 ---
@@ -255,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20805  
+**CVEs:** CVE-2026-20953, CVE-2026-20952, CVE-2026-20805  
 **Categories:** Vulnerability  
 
 ---
@@ -435,7 +437,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-23655, CVE-2026-21513, CVE-2026-21522, CVE-2026-21525, CVE-2026-21510, CVE-2026-21514, CVE-2026-21519  
+**CVEs:** CVE-2026-21522, CVE-2026-21519, CVE-2026-23655, CVE-2026-21513, CVE-2026-21525, CVE-2026-21510, CVE-2026-21514  
 **Categories:** Vulnerability  
 
 ---

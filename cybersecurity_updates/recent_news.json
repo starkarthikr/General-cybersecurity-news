@@ -1,6 +1,45 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited",
+    "link": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
+    "published": "Tue, 03 Mar 2026 12:38:00 +0530",
+    "summary": "Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild.\nThe vulnerability in question is CVE-2026-21385 (CVSS score: 7.8), a buffer over-read in the Graphics component.\n\"Memory corruption when adding user-supplied data without checking available buffer space,\" Qualcomm said in an advisory,",
+    "analysis": {
+      "issue": "Google’s March 2026 Android update patches 129 vulnerabilities, including exploited Qualcomm flaw CVE-2026-21385 and critical RCE CVE-2026-0006",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-0006",
+        "CVE-2026-21385"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains",
+    "link": "https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html",
+    "published": "Tue, 03 Mar 2026 12:23:00 +0530",
+    "summary": "The threat activity cluster known as SloppyLemming has been attributed to a fresh set of attacks targeting government entities and critical infrastructure operators in Pakistan and Bangladesh.\nThe activity, per Arctic Wolf, took place between January 2025 and January 2026. It involves the use of two distinct attack chains to deliver malware families tracked as BurrowShell and a Rust-based",
+    "analysis": {
+      "issue": "SloppyLemming targeted Pakistan and Bangladesh with BurrowShell, a Rust keylogger, and 112 Cloudflare Workers domains in 2025–2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
     "link": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
     "published": "Mon, 02 Mar 2026 22:38:00 +0530",
@@ -149,38 +188,23 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
-    "link": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
-    "published": "Sat, 28 Feb 2026 10:27:00 +0530",
-    "summary": "Anthropic on Friday hit back after U.S. Secretary of Defense Pete Hegseth directed the Pentagon to designate the artificial intelligence (AI) upstart as a \"supply chain risk.\"\n\"This action follows months of negotiations that reached an impasse over two exceptions we requested to the lawful use of our AI model, Claude: the mass domestic surveillance of Americans and fully autonomous weapons,\" the",
+    "source": "Bleeping Computer",
+    "title": "Android gets patches for Qualcomm zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/",
+    "published": "Tue, 03 Mar 2026 03:19:53 -0500",
+    "summary": "Google has released security updates to patch 129 Android security vulnerabilities, including an actively exploited zero-day flaw in a Qualcomm display component. [...]",
     "analysis": {
-      "issue": "Pentagon labels Anthropic a supply chain risk after dispute over mass surveillance and autonomous weapons use",
+      "issue": "Google has released security updates to patch 129 Android security vulnerabilities, including an actively exploited zero-day flaw in a Qualcomm display component",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-21385"
+      ],
       "threat_categories": [
+        "Vulnerability",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
-    "link": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html",
-    "published": "Fri, 27 Feb 2026 23:41:00 +0530",
-    "summary": "The U.S. Department of Justice (DoJ) this week announced the seizure of $61 million worth of Tether that were allegedly associated with bogus cryptocurrency schemes known as pig butchering.\nThe confiscated funds were traced to cryptocurrency addresses used for the laundering of criminally derived proceeds stolen from victims of cryptocurrency investment scams, the department added.\n\"Criminal",
-    "analysis": {
-      "issue": "DoJ seized $61 million in Tether tied to pig butchering crypto investment scams, while Tether reports freezing $4",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -350,24 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "QuickLens Chrome extension steals crypto, shows ClickFix attack",
-    "link": "https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/",
-    "published": "Sat, 28 Feb 2026 14:18:52 -0500",
-    "summary": "A Chrome extension named \"QuickLens - Search Screen with Google Lens\" has been removed from the Chrome Web Store after it was compromised to push malware and attempt to steal crypto from thousands of users. [...]",
-    "analysis": {
-      "issue": "A Chrome extension named \"QuickLens - Search Screen with Google Lens\" has been removed from the Chrome Web Store after it was compromised to push malware and attempt to steal crypto from thousands of users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who is the Kimwolf Botmaster “Dort”?",
     "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
@@ -438,16 +444,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21519",
         "CVE-2026-21256",
-        "CVE-2026-21533",
         "CVE-2026-21513",
         "CVE-2026-21509",
+        "CVE-2026-21533",
         "CVE-2026-21525",
-        "CVE-2026-21523",
-        "CVE-2026-21516",
         "CVE-2026-21510",
+        "CVE-2026-21523",
         "CVE-2026-21514",
-        "CVE-2026-21519"
+        "CVE-2026-21516"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -525,8 +531,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20952",
         "CVE-2026-20953",
+        "CVE-2026-20952",
         "CVE-2026-20805"
       ],
       "threat_categories": [
@@ -828,13 +834,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21522",
+        "CVE-2026-21519",
         "CVE-2026-23655",
         "CVE-2026-21513",
-        "CVE-2026-21522",
         "CVE-2026-21525",
         "CVE-2026-21510",
-        "CVE-2026-21514",
-        "CVE-2026-21519"
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability"
