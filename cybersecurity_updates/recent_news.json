@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New RFP Template for AI Usage Control and AI Governance",
+    "link": "https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html",
+    "published": "Wed, 04 Mar 2026 17:00:00 +0530",
+    "summary": "As AI becomes the central engine for enterprise productivity, security leaders are finally getting the green light — and the budget — to secure it. But there’s a quiet crisis unfolding in the boardroom: many organizations know they need \"AI Governance,\" but they have no idea what they are actually looking for.\nThe CISO’s Dilemma: You Have the AI Budget, but Do You Have the Requirements?\nAs AI",
+    "analysis": {
+      "issue": "New RFP guide helps CISOs evaluate AI governance tools, focusing on interaction-level security and vendor accountability",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux",
+    "link": "https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html",
+    "published": "Wed, 04 Mar 2026 15:07:00 +0530",
+    "summary": "Cybersecurity researchers have flagged malicious Packagist PHP packages masquerading as Laravel utilities that act as a conduit for a cross-platform remote access trojan (RAT) that's functional on Windows, macOS, and Linux systems.\nThe names of the packages are listed below -\n\nnhattuanbl/lara-helper (37 Downloads)\nnhattuanbl/simple-queue (29 Downloads)\nnhattuanbl/lara-swagger (49 Downloads)",
+    "analysis": {
+      "issue": "Malicious Packagist Laravel packages install a cross-platform RAT enabling remote shell access and system reconnaissance via C2 server",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2",
     "link": "https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html",
     "published": "Wed, 04 Mar 2026 13:44:00 +0530",
@@ -136,45 +172,6 @@
     "summary": "Microsoft on Monday warned of phishing campaigns that employ phishing emails and OAuth URL redirection mechanisms to bypass conventional phishing defenses implemented in email and browsers.\nThe activity, the company said, targets government and public-sector organizations with the end goal of redirecting victims to attacker-controlled infrastructure without stealing their tokens. It described",
     "analysis": {
       "issue": "Microsoft details OAuth redirect abuse used to deliver ZIP malware and EvilProxy links to government targets",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited",
-    "link": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
-    "published": "Tue, 03 Mar 2026 12:38:00 +0530",
-    "summary": "Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild.\nThe vulnerability in question is CVE-2026-21385 (CVSS score: 7.8), a buffer over-read in the Graphics component.\n\"Memory corruption when adding user-supplied data without checking available buffer space,\" Qualcomm said in an advisory,",
-    "analysis": {
-      "issue": "Google’s March 2026 Android update patches 129 vulnerabilities, including exploited Qualcomm flaw CVE-2026-21385 and critical RCE CVE-2026-0006",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-0006",
-        "CVE-2026-21385"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains",
-    "link": "https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html",
-    "published": "Tue, 03 Mar 2026 12:23:00 +0530",
-    "summary": "The threat activity cluster known as SloppyLemming has been attributed to a fresh set of attacks targeting government entities and critical infrastructure operators in Pakistan and Bangladesh.\nThe activity, per Arctic Wolf, took place between January 2025 and January 2026. It involves the use of two distinct attack chains to deliver malware families tracked as BurrowShell and a Rust-based",
-    "analysis": {
-      "issue": "SloppyLemming targeted Pakistan and Bangladesh with BurrowShell, a Rust keylogger, and 112 Cloudflare Workers domains in 2025–2026",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -442,16 +439,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21516",
-        "CVE-2026-21509",
-        "CVE-2026-21256",
-        "CVE-2026-21523",
-        "CVE-2026-21525",
-        "CVE-2026-21519",
-        "CVE-2026-21510",
-        "CVE-2026-21513",
         "CVE-2026-21514",
-        "CVE-2026-21533"
+        "CVE-2026-21523",
+        "CVE-2026-21519",
+        "CVE-2026-21509",
+        "CVE-2026-21533",
+        "CVE-2026-21525",
+        "CVE-2026-21256",
+        "CVE-2026-21513",
+        "CVE-2026-21516",
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -529,9 +526,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20953",
         "CVE-2026-20805",
-        "CVE-2026-20952"
+        "CVE-2026-20952",
+        "CVE-2026-20953"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -580,6 +577,55 @@
   },
   {
     "source": "Security Week",
+    "title": "How Pirated Software Turns Helpful Employees Into Malware Delivery Agents",
+    "link": "https://www.securityweek.com/how-pirated-software-turns-helpful-employees-into-malware-delivery-agents/",
+    "published": "Wed, 04 Mar 2026 12:48:16 +0000",
+    "summary": "<p>Employees seeking free versions of paid software may unknowingly install malware-laced “cracked” apps that can steal credentials, deploy cryptominers, or open the door to ransomware.</p>\n<p>The post <a href=\"https://www.securityweek.com/how-pirated-software-turns-helpful-employees-into-malware-delivery-agents/\">How Pirated Software Turns Helpful Employees Into Malware Delivery Agents</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "AI Security Firm JetStream Launches With $34 Million in Seed Funding",
+    "link": "https://www.securityweek.com/ai-security-firm-jetstream-launches-with-34-million-in-seed-funding/",
+    "published": "Wed, 04 Mar 2026 12:43:17 +0000",
+    "summary": "<p>The startup aims to provide organizations with visibility into how AI operates across their environment.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-security-firm-jetstream-launches-with-34-million-in-seed-funding/\">AI Security Firm JetStream Launches With $34 Million in Seed Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "LastPass Warns of New Phishing Campaign",
+    "link": "https://www.securityweek.com/lastpass-warns-of-new-phishing-campaign/",
+    "published": "Wed, 04 Mar 2026 12:04:30 +0000",
+    "summary": "<p>The attackers are sending out fake alerts claiming unauthorized access or master password changes.</p>\n<p>The post <a href=\"https://www.securityweek.com/lastpass-warns-of-new-phishing-campaign/\">LastPass Warns of New Phishing Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity",
+    "link": "https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/",
+    "published": "Wed, 04 Mar 2026 12:00:00 +0000",
+    "summary": "<p>Join the webinar as we explore a blueprint for an OT SOC leveraging an integrated OT Security Platform to safeguard operations and maintain business continuity.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/\">Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Plans Two-Week Release Schedule for Chrome",
+    "link": "https://www.securityweek.com/google-plans-two-week-release-schedule-for-chrome/",
+    "published": "Wed, 04 Mar 2026 11:52:04 +0000",
+    "summary": "<p>Starting September 2026, new Chrome iterations will be released twice as fast, part of a two-week cycle.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-plans-two-week-release-schedule-for-chrome/\">Google Plans Two-Week Release Schedule for Chrome</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Global Coalition Publishes 6G Security and Resilience Principles",
+    "link": "https://www.securityweek.com/global-coalition-publishes-6g-security-and-resilience-principles/",
+    "published": "Wed, 04 Mar 2026 10:57:18 +0000",
+    "summary": "<p>The principles cover security, resilience against attacks and disasters, AI, and openness and interoperability.</p>\n<p>The post <a href=\"https://www.securityweek.com/global-coalition-publishes-6g-security-and-resilience-principles/\">Global Coalition Publishes 6G Security and Resilience Principles</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical FreeScout Vulnerability Leads to Full Server Compromise",
+    "link": "https://www.securityweek.com/critical-freescout-vulnerability-leads-to-full-server-compromise/",
+    "published": "Wed, 04 Mar 2026 09:16:39 +0000",
+    "summary": "<p>A patch bypass for an authenticated code execution bug, the flaw leads to zero-click remote code execution attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-freescout-vulnerability-leads-to-full-server-compromise/\">Critical FreeScout Vulnerability Leads to Full Server Compromise</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "VMware Aria Operations Vulnerability Exploited in the Wild",
     "link": "https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/",
     "published": "Wed, 04 Mar 2026 07:24:45 +0000",
@@ -598,55 +644,6 @@
     "link": "https://www.securityweek.com/fig-security-launches-with-38-million-to-bolster-secops-resilience/",
     "published": "Tue, 03 Mar 2026 15:56:25 +0000",
     "summary": "<p>The company was founded in March 2025 and it has now emerged from stealth mode.</p>\n<p>The post <a href=\"https://www.securityweek.com/fig-security-launches-with-38-million-to-bolster-secops-resilience/\">Fig Security Launches With $38 Million to Bolster SecOps Resilience</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Honeywell, Researcher Clash Over Impact of Building Controller Vulnerability",
-    "link": "https://www.securityweek.com/honeywell-researcher-clash-over-impact-of-building-controller-vulnerability/",
-    "published": "Tue, 03 Mar 2026 15:28:47 +0000",
-    "summary": "<p>The researcher says he has identified thousands of internet-exposed IQ4 building management controllers.</p>\n<p>The post <a href=\"https://www.securityweek.com/honeywell-researcher-clash-over-impact-of-building-controller-vulnerability/\">Honeywell, Researcher Clash Over Impact of Building Controller Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Quantum Decryption of RSA Is Much Closer Than Expected",
-    "link": "https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/",
-    "published": "Tue, 03 Mar 2026 14:00:00 +0000",
-    "summary": "<p>For decades, the quantum threat to RSA and ECC encryption has been tied to Shor’s algorithm and the assumption that we would need million-qubit quantum computers to make it practical. A newly announced algorithm challenges that assumption and suggests the breaking point could arrive far sooner than expected.</p>\n<p>The post <a href=\"https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/\">Quantum Decryption of RSA Is Much Closer Than Expected</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "New ‘AirSnitch’ Attack Shows Wi-Fi Client Isolation Could Be a False Sense of Security",
-    "link": "https://www.securityweek.com/new-airsnitch-attack-shows-wi-fi-client-isolation-could-be-a-false-sense-of-security/",
-    "published": "Tue, 03 Mar 2026 13:49:53 +0000",
-    "summary": "<p>Researchers have uncovered a Wi-Fi vulnerability that allows nearby attackers to intercept sensitive data and execute machine-in-the-middle attacks against connected devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-airsnitch-attack-shows-wi-fi-client-isolation-could-be-a-false-sense-of-security/\">New &#8216;AirSnitch&#8217; Attack Shows Wi-Fi Client Isolation Could Be a False Sense of Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "1.2 Million Affected by University of Hawaii Cancer Center Data Breach",
-    "link": "https://www.securityweek.com/1-2-million-affected-by-university-of-hawaii-cancer-center-data-breach/",
-    "published": "Tue, 03 Mar 2026 13:34:16 +0000",
-    "summary": "<p>Hackers stole names, Social Security numbers, driver’s license information, voter registration records, and health-related information.</p>\n<p>The post <a href=\"https://www.securityweek.com/1-2-million-affected-by-university-of-hawaii-cancer-center-data-breach/\">1.2 Million Affected by University of Hawaii Cancer Center Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Android Update Patches Exploited Qualcomm Zero-Day",
-    "link": "https://www.securityweek.com/android-update-patches-exploited-qualcomm-zero-day/",
-    "published": "Tue, 03 Mar 2026 12:41:16 +0000",
-    "summary": "<p>An integer overflow or wraparound in the Qualcomm graphics component, the bug leads to memory corruption.</p>\n<p>The post <a href=\"https://www.securityweek.com/android-update-patches-exploited-qualcomm-zero-day/\">Android Update Patches Exploited Qualcomm Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low",
-    "link": "https://www.securityweek.com/iran-cyber-front-hacktivist-activity-rises-but-state-sponsored-attacks-stay-low/",
-    "published": "Tue, 03 Mar 2026 12:25:28 +0000",
-    "summary": "<p>The cybersecurity industry is monitoring the landscape and says many of the big claims made by hacktivist groups remain unverified.</p>\n<p>The post <a href=\"https://www.securityweek.com/iran-cyber-front-hacktivist-activity-rises-but-state-sponsored-attacks-stay-low/\">Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise",
-    "link": "https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/",
-    "published": "Tue, 03 Mar 2026 10:43:20 +0000",
-    "summary": "<p>Improper input sanitization in the framework can be exploited through the Shell tool, allowing attackers to modify system files and steal data.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/\">Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -833,11 +830,11 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-23655",
-        "CVE-2026-21525",
-        "CVE-2026-21519",
-        "CVE-2026-21513",
-        "CVE-2026-21522",
         "CVE-2026-21514",
+        "CVE-2026-21519",
+        "CVE-2026-21525",
+        "CVE-2026-21522",
+        "CVE-2026-21513",
         "CVE-2026-21510"
       ],
       "threat_categories": [
@@ -1194,8 +1191,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1217,6 +1214,26 @@
       "severity": "Critical",
       "cves": [
         "CVE-2022-2856"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "High-severity Qualcomm bug hits Android devices in targeted attacks",
+    "link": "https://www.malwarebytes.com/blog/news/2026/03/high-severity-qualcomm-bug-hits-android-devices-in-targeted-attacks",
+    "published": "Wed, 04 Mar 2026 12:33:22 GMT",
+    "summary": "Google has patched 129 Android vulnerabilities, including an actively exploited flaw in a widely used Qualcomm component.",
+    "analysis": {
+      "issue": "Google has patched 129 vulnerabilities in Android in its March 2026 Android Security Bulletin, including a Qualcomm display flaw that is known to be actively exploited",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-21385"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1385,26 +1402,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "How to understand and avoid Advanced Persistent Threats",
-    "link": "https://www.malwarebytes.com/blog/how-to/2026/02/how-to-understand-and-avoid-advanced-persistent-threats",
-    "published": "Thu, 26 Feb 2026 18:52:11 GMT",
-    "summary": "APT stands for Advanced Persistent Threat. But what does that actually mean, and how does it translate into the kind of threat you’re facing?",
-    "analysis": {
-      "issue": "By definition, an advanced persistent threat (APT) is a prolonged, targeted attack on a specific victim with the intention to compromise their system and gain information from or about that target",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "APT",
-        "Supply Chain"
       ]
     }
   },
