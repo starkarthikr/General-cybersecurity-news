@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-04 03:11:28 UTC
+**Last Updated:** 2026-03-04 09:04:45 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations](https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html)
+### 1. [APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2](https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 04 Mar 2026 13:44:00 +0530  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 2. [CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog](https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 04 Mar 2026 10:05:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-22719  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations](https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Mar 2026 22:45:00 +0530  
@@ -13,14 +32,16 @@
 
 ---
 
-### 2. [Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow](https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html)
+### 4. [Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow](https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Mar 2026 20:00:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
-### 3. [Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries](https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html)
+### 5. [Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries](https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Mar 2026 19:59:00 +0530  
@@ -29,7 +50,7 @@
 
 ---
 
-### 4. [AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged](https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html)
+### 6. [AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged](https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Mar 2026 17:00:00 +0530  
@@ -38,7 +59,7 @@
 
 ---
 
-### 5. [Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication](https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html)
+### 7. [Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication](https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Mar 2026 16:40:00 +0530  
@@ -47,7 +68,7 @@
 
 ---
 
-### 6. [Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets](https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html)
+### 8. [Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets](https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Mar 2026 14:50:00 +0530  
@@ -56,36 +77,22 @@
 
 ---
 
-### 7. [Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited](https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html)
+### 9. [Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited](https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Mar 2026 12:38:00 +0530  
+**Severity:** Critical  
+**CVEs:** CVE-2026-0006, CVE-2026-21385  
+**Categories:** Vulnerability  
 
 ---
 
-### 8. [SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains](https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html)
+### 10. [SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains](https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Mar 2026 12:23:00 +0530  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 9. [New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel](https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 02 Mar 2026 22:38:00 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-0628  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome](https://thehackernews.com/2026/03/google-develops-merkle-tree.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 02 Mar 2026 22:22:00 +0530  
 
 ---
 
@@ -212,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21519, CVE-2026-21514, CVE-2026-21516, CVE-2026-21523, CVE-2026-21256, CVE-2026-21525, CVE-2026-21513, CVE-2026-21510, CVE-2026-21533, CVE-2026-21509  
+**CVEs:** CVE-2026-21516, CVE-2026-21509, CVE-2026-21256, CVE-2026-21523, CVE-2026-21525, CVE-2026-21519, CVE-2026-21510, CVE-2026-21513, CVE-2026-21514, CVE-2026-21533  
 **Categories:** Vulnerability  
 
 ---
@@ -249,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
+**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
 **Categories:** Vulnerability  
 
 ---
@@ -272,73 +279,73 @@
 
 ---
 
-### 31. [Iranian Strikes on Amazon Data Centers Highlight Industry’s Vulnerability to Physical Disasters](https://www.securityweek.com/iranian-strikes-on-amazon-data-centers-highlight-industrys-vulnerability-to-physical-disasters/)
+### 31. [VMware Aria Operations Vulnerability Exploited in the Wild](https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/)
+
+**Source:** Security Week  
+**Published:** Wed, 04 Mar 2026 07:24:45 +0000  
+
+---
+
+### 32. [Iranian Strikes on Amazon Data Centers Highlight Industry’s Vulnerability to Physical Disasters](https://www.securityweek.com/iranian-strikes-on-amazon-data-centers-highlight-industrys-vulnerability-to-physical-disasters/)
 
 **Source:** Security Week  
 **Published:** Tue, 03 Mar 2026 19:56:24 +0000  
 
 ---
 
-### 32. [Fig Security Launches With $38 Million to Bolster SecOps Resilience](https://www.securityweek.com/fig-security-launches-with-38-million-to-bolster-secops-resilience/)
+### 33. [Fig Security Launches With $38 Million to Bolster SecOps Resilience](https://www.securityweek.com/fig-security-launches-with-38-million-to-bolster-secops-resilience/)
 
 **Source:** Security Week  
 **Published:** Tue, 03 Mar 2026 15:56:25 +0000  
 
 ---
 
-### 33. [Honeywell, Researcher Clash Over Impact of Building Controller Vulnerability](https://www.securityweek.com/honeywell-researcher-clash-over-impact-of-building-controller-vulnerability/)
+### 34. [Honeywell, Researcher Clash Over Impact of Building Controller Vulnerability](https://www.securityweek.com/honeywell-researcher-clash-over-impact-of-building-controller-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Tue, 03 Mar 2026 15:28:47 +0000  
 
 ---
 
-### 34. [Quantum Decryption of RSA is Much Closer than Expected](https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/)
+### 35. [Quantum Decryption of RSA Is Much Closer Than Expected](https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/)
 
 **Source:** Security Week  
 **Published:** Tue, 03 Mar 2026 14:00:00 +0000  
 
 ---
 
-### 35. [New ‘AirSnitch’ Attack Shows Wi-Fi Client Isolation Could Be a False Sense of Security](https://www.securityweek.com/new-airsnitch-attack-shows-wi-fi-client-isolation-could-be-a-false-sense-of-security/)
+### 36. [New ‘AirSnitch’ Attack Shows Wi-Fi Client Isolation Could Be a False Sense of Security](https://www.securityweek.com/new-airsnitch-attack-shows-wi-fi-client-isolation-could-be-a-false-sense-of-security/)
 
 **Source:** Security Week  
 **Published:** Tue, 03 Mar 2026 13:49:53 +0000  
 
 ---
 
-### 36. [1.2 Million Affected by University of Hawaii Cancer Center Data Breach](https://www.securityweek.com/1-2-million-affected-by-university-of-hawaii-cancer-center-data-breach/)
+### 37. [1.2 Million Affected by University of Hawaii Cancer Center Data Breach](https://www.securityweek.com/1-2-million-affected-by-university-of-hawaii-cancer-center-data-breach/)
 
 **Source:** Security Week  
 **Published:** Tue, 03 Mar 2026 13:34:16 +0000  
 
 ---
 
-### 37. [Android Update Patches Exploited Qualcomm Zero-Day](https://www.securityweek.com/android-update-patches-exploited-qualcomm-zero-day/)
+### 38. [Android Update Patches Exploited Qualcomm Zero-Day](https://www.securityweek.com/android-update-patches-exploited-qualcomm-zero-day/)
 
 **Source:** Security Week  
 **Published:** Tue, 03 Mar 2026 12:41:16 +0000  
 
 ---
 
-### 38. [Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low](https://www.securityweek.com/iran-cyber-front-hacktivist-activity-rises-but-state-sponsored-attacks-stay-low/)
+### 39. [Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low](https://www.securityweek.com/iran-cyber-front-hacktivist-activity-rises-but-state-sponsored-attacks-stay-low/)
 
 **Source:** Security Week  
 **Published:** Tue, 03 Mar 2026 12:25:28 +0000  
 
 ---
 
-### 39. [Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise](https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/)
+### 40. [Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise](https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/)
 
 **Source:** Security Week  
 **Published:** Tue, 03 Mar 2026 10:43:20 +0000  
-
----
-
-### 40. [Researchers Uncover Method to Track Cars via Tire Sensors](https://www.securityweek.com/researchers-uncover-method-to-track-cars-via-tire-sensors/)
-
-**Source:** Security Week  
-**Published:** Tue, 03 Mar 2026 09:40:03 +0000  
 
 ---
 
@@ -429,7 +436,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21514, CVE-2026-21519, CVE-2026-21522, CVE-2026-21525, CVE-2026-21513, CVE-2026-21510, CVE-2026-23655  
+**CVEs:** CVE-2026-23655, CVE-2026-21525, CVE-2026-21519, CVE-2026-21513, CVE-2026-21522, CVE-2026-21514, CVE-2026-21510  
 **Categories:** Vulnerability  
 
 ---
@@ -604,7 +611,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

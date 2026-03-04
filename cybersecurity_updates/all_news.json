@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2",
+    "link": "https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html",
+    "published": "Wed, 04 Mar 2026 13:44:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) group dubbed Silver Dragon that has been linked to cyber attacks targeting entities in Europe and Southeast Asia since at least mid-2024.\n\"Silver Dragon gains its initial access by exploiting public-facing internet servers and by delivering phishing emails that contain malicious attachments,\" Check Point said",
+    "analysis": {
+      "issue": "Researchers link Silver Dragon APT to APT41 after attacks on government entities using Cobalt Strike, DNS tunneling, and Google Drive-based C2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog",
+    "link": "https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html",
+    "published": "Wed, 04 Mar 2026 10:05:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, citing active exploitation in the wild.\nThe high-severity vulnerability, CVE-2026-22719 (CVSS score: 8.1), has been described as a case of command injection that could allow an",
+    "analysis": {
+      "issue": "CISA adds VMware Aria Operations command injection flaw CVE-2026-22719 to KEV after reports of active exploitation; patches released by Broadcom",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-22719"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations",
     "link": "https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html",
     "published": "Tue, 03 Mar 2026 22:45:00 +0530",
@@ -23,7 +61,18 @@
     "title": "Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow",
     "link": "https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html",
     "published": "Tue, 03 Mar 2026 20:00:00 +0530",
-    "summary": "Every CISO knows the uncomfortable truth about their Security Operations Center: the people most responsible for catching threats in real time are the people with the least experience. Tier 1 analysts sit at the front line of detection, and yet they are also the most vulnerable to the cognitive and organizational pressures that quietly erode SOC performance over time.\nThe Paradox at the Gate:"
+    "summary": "Every CISO knows the uncomfortable truth about their Security Operations Center: the people most responsible for catching threats in real time are the people with the least experience. Tier 1 analysts sit at the front line of detection, and yet they are also the most vulnerable to the cognitive and organizational pressures that quietly erode SOC performance over time.\nThe Paradox at the Gate:",
+    "analysis": {
+      "issue": "Tier 1 SOC analysts face overload and false positives; integrated threat intelligence and sandboxing reduce dwell time and improve detection",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "The Hacker News",
@@ -102,7 +151,21 @@
     "title": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited",
     "link": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
     "published": "Tue, 03 Mar 2026 12:38:00 +0530",
-    "summary": "Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild.\nThe vulnerability in question is CVE-2026-21385 (CVSS score: 7.8), a buffer over-read in the Graphics component.\n\"Memory corruption when adding user-supplied data without checking available buffer space,\" Qualcomm said in an advisory,"
+    "summary": "Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild.\nThe vulnerability in question is CVE-2026-21385 (CVSS score: 7.8), a buffer over-read in the Graphics component.\n\"Memory corruption when adding user-supplied data without checking available buffer space,\" Qualcomm said in an advisory,",
+    "analysis": {
+      "issue": "Google’s March 2026 Android update patches 129 vulnerabilities, including exploited Qualcomm flaw CVE-2026-21385 and critical RCE CVE-2026-0006",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-0006",
+        "CVE-2026-21385"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "The Hacker News",
@@ -121,33 +184,6 @@
         "Malware"
       ]
     }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
-    "link": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
-    "published": "Mon, 02 Mar 2026 22:38:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a now-patched security flaw in Google Chrome that could have permitted attackers to escalate privileges and gain access to local files on the system.\nThe vulnerability, tracked as CVE-2026-0628 (CVSS score: 8.8), has been described as a case of insufficient policy enforcement in the WebView tag. It was patched by Google in early January 2026",
-    "analysis": {
-      "issue": "Chrome CVE-2026-0628 let malicious extensions hijack Gemini panel for privilege escalation, local file access, and surveillance",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-0628"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome",
-    "link": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html",
-    "published": "Mon, 02 Mar 2026 22:22:00 +0530",
-    "summary": "Google has announced a new program in its Chrome browser to ensure that HTTPS certificates are secure against the future risk posed by quantum computers.\n\"To ensure the scalability and efficiency of the ecosystem, Chrome has no immediate plan to add traditional X.509 certificates containing post-quantum cryptography to the Chrome Root Store,\" the Chrome Secure Web and Networking Team said.\n\""
   },
   {
     "source": "Bleeping Computer",
@@ -406,16 +442,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21519",
-        "CVE-2026-21514",
         "CVE-2026-21516",
-        "CVE-2026-21523",
+        "CVE-2026-21509",
         "CVE-2026-21256",
+        "CVE-2026-21523",
         "CVE-2026-21525",
-        "CVE-2026-21513",
+        "CVE-2026-21519",
         "CVE-2026-21510",
-        "CVE-2026-21533",
-        "CVE-2026-21509"
+        "CVE-2026-21513",
+        "CVE-2026-21514",
+        "CVE-2026-21533"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -493,9 +529,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20953",
         "CVE-2026-20805",
-        "CVE-2026-20952",
-        "CVE-2026-20953"
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -544,6 +580,13 @@
   },
   {
     "source": "Security Week",
+    "title": "VMware Aria Operations Vulnerability Exploited in the Wild",
+    "link": "https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/",
+    "published": "Wed, 04 Mar 2026 07:24:45 +0000",
+    "summary": "<p>The recently patched CVE-2026-22719 can be exploited by an unauthenticated attacker for remote code execution. </p>\n<p>The post <a href=\"https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/\">VMware Aria Operations Vulnerability Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Iranian Strikes on Amazon Data Centers Highlight Industry’s Vulnerability to Physical Disasters",
     "link": "https://www.securityweek.com/iranian-strikes-on-amazon-data-centers-highlight-industrys-vulnerability-to-physical-disasters/",
     "published": "Tue, 03 Mar 2026 19:56:24 +0000",
@@ -565,10 +608,10 @@
   },
   {
     "source": "Security Week",
-    "title": "Quantum Decryption of RSA is Much Closer than Expected",
+    "title": "Quantum Decryption of RSA Is Much Closer Than Expected",
     "link": "https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/",
     "published": "Tue, 03 Mar 2026 14:00:00 +0000",
-    "summary": "<p>For decades, the quantum threat to RSA and ECC encryption has been tied to Shor’s algorithm and the assumption that we would need million-qubit quantum computers to make it practical. A newly announced algorithm challenges that assumption and suggests the breaking point could arrive far sooner than expected.</p>\n<p>The post <a href=\"https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/\">Quantum Decryption of RSA is Much Closer than Expected</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "summary": "<p>For decades, the quantum threat to RSA and ECC encryption has been tied to Shor’s algorithm and the assumption that we would need million-qubit quantum computers to make it practical. A newly announced algorithm challenges that assumption and suggests the breaking point could arrive far sooner than expected.</p>\n<p>The post <a href=\"https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/\">Quantum Decryption of RSA Is Much Closer Than Expected</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -604,13 +647,6 @@
     "link": "https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/",
     "published": "Tue, 03 Mar 2026 10:43:20 +0000",
     "summary": "<p>Improper input sanitization in the framework can be exploited through the Shell tool, allowing attackers to modify system files and steal data.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/\">Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Researchers Uncover Method to Track Cars via Tire Sensors",
-    "link": "https://www.securityweek.com/researchers-uncover-method-to-track-cars-via-tire-sensors/",
-    "published": "Tue, 03 Mar 2026 09:40:03 +0000",
-    "summary": "<p>Using low-cost receivers deployed along roads, academic researchers tracked drivers and their movement patterns.</p>\n<p>The post <a href=\"https://www.securityweek.com/researchers-uncover-method-to-track-cars-via-tire-sensors/\">Researchers Uncover Method to Track Cars via Tire Sensors</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -796,13 +832,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21514",
-        "CVE-2026-21519",
-        "CVE-2026-21522",
+        "CVE-2026-23655",
         "CVE-2026-21525",
+        "CVE-2026-21519",
         "CVE-2026-21513",
-        "CVE-2026-21510",
-        "CVE-2026-23655"
+        "CVE-2026-21522",
+        "CVE-2026-21514",
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1158,8 +1194,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
