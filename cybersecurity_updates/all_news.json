@@ -1,6 +1,62 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware",
+    "link": "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html",
+    "published": "Thu, 05 Mar 2026 17:31:00 +0530",
+    "summary": "A suspected Iran-nexus threat actor has been attributed to a campaign targeting government officials in Iraq by impersonating the country's Ministry of Foreign Affairs to deliver a set of never-before-seen malware.\nZscaler ThreatLabz, which observed the activity in January 2026, is tracking the cluster under the name Dust Specter. The attacks, which manifest in the form of two different",
+    "analysis": {
+      "issue": "Iran-linked Dust Specter targeted Iraqi officials using fake ministry lures and new malware families uncovered by Zscaler",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Where Multi-Factor Authentication Stops and Credential Abuse Starts",
+    "link": "https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html",
+    "published": "Thu, 05 Mar 2026 16:30:00 +0530",
+    "summary": "Organizations typically roll out multi-factor authentication (MFA) and assume stolen passwords are no longer enough to access systems. In Windows environments, that assumption is often wrong. Attackers still compromise networks every day using valid credentials. The issue is not MFA itself, but coverage.&nbsp;\nEnforced through an identity provider (IdP) such as Microsoft Entra ID, Okta, or",
+    "analysis": {
+      "issue": "Seven Windows authentication paths bypass MFA protections, enabling credential attacks through AD, NTLM, Kerberos, RDP, SMB, and service accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine",
+    "link": "https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html",
+    "published": "Thu, 05 Mar 2026 15:40:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new Russian cyber campaign that has targeted Ukrainian entities with two previously undocumented malware families named BadPaw and MeowMeow.\n\"The attack chain initiates with a phishing email containing a link to a ZIP archive. Once extracted, an initial HTA file displays a lure document written in Ukrainian concerning border crossing appeals",
+    "analysis": {
+      "issue": "Researchers uncover APT28-linked phishing attacks against Ukrainian targets deploying BadPaw loader and MeowMeow backdoor for remote system control",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks",
     "link": "https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html",
     "published": "Thu, 05 Mar 2026 12:21:00 +0530",
@@ -126,59 +182,42 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog",
-    "link": "https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html",
-    "published": "Wed, 04 Mar 2026 10:05:00 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, citing active exploitation in the wild.\nThe high-severity vulnerability, CVE-2026-22719 (CVSS score: 8.1), has been described as a case of command injection that could allow an",
+    "source": "Bleeping Computer",
+    "title": "Police dismantles online gambling ring exploiting Ukrainian women",
+    "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/",
+    "published": "Thu, 05 Mar 2026 07:39:20 -0500",
+    "summary": "Spanish and Ukrainian law enforcement authorities dismantled a criminal ring that exploited war-displaced Ukrainian women to run an online gambling scheme that laundered nearly €4.75 million in illicit proceeds. [...]",
     "analysis": {
-      "issue": "CISA adds VMware Aria Operations command injection flaw CVE-2026-22719 to KEV after reports of active exploitation; patches released by Broadcom",
+      "issue": "Spanish and Ukrainian law enforcement authorities dismantled a criminal ring that exploited war-displaced Ukrainian women to run an online gambling scheme that laundered nearly €4",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-22719"
-      ],
+      "severity": "High",
+      "cves": [],
       "threat_categories": [
         "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations",
-    "link": "https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html",
-    "published": "Tue, 03 Mar 2026 22:45:00 +0530",
-    "summary": "Threat hunters have called attention to a new campaign as part of which bad actors masqueraded as fake IT support to deliver the Havoc command-and-control (C2) framework as a precursor to data exfiltration or ransomware attack.\nThe intrusions, identified by Huntress last month across five partner organizations, involved the threat actors using email spam as lures, followed by a phone call from",
+    "source": "Bleeping Computer",
+    "title": "Cisco flags more SD-WAN flaws as actively exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/",
+    "published": "Thu, 05 Mar 2026 05:32:19 -0500",
+    "summary": "​Cisco has flagged two Catalyst SD-WAN Manager security flaws as actively exploited in the wild, urging administrators to upgrade vulnerable devices. [...]",
     "analysis": {
-      "issue": "Fake IT support calls delivered Havoc C2, enabling credential theft, lateral movement, and ransomware prep across five organizations",
+      "issue": "​Cisco has flagged two Catalyst SD-WAN Manager security flaws as actively exploited in the wild, urging administrators to upgrade vulnerable devices",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20127",
+        "CVE-2026-20128",
+        "CVE-2026-20122"
+      ],
       "threat_categories": [
-        "Ransomware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow",
-    "link": "https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html",
-    "published": "Tue, 03 Mar 2026 20:00:00 +0530",
-    "summary": "Every CISO knows the uncomfortable truth about their Security Operations Center: the people most responsible for catching threats in real time are the people with the least experience. Tier 1 analysts sit at the front line of detection, and yet they are also the most vulnerable to the cognitive and organizational pressures that quietly erode SOC performance over time.\nThe Paradox at the Gate:",
-    "analysis": {
-      "issue": "Tier 1 SOC analysts face overload and false positives; integrated threat intelligence and sandboxing reduce dwell time and improve detection",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
@@ -336,42 +375,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "FBI seizes LeakBase cybercrime forum, data of 142,000 members",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-leakbase-cybercrime-forum-data-of-142-000-members/",
-    "published": "Wed, 04 Mar 2026 12:44:46 -0500",
-    "summary": "The FBI has seized the LeakBase cybercrime forum, a major online forum used by cybercriminals buy and sell hacking tools and stolen data. [...]",
-    "analysis": {
-      "issue": "The FBI has seized the LeakBase cybercrime forum, a major online forum used by cybercriminals buy and sell hacking tools and stolen data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Europol-coordinated action disrupts Tycoon2FA phishing platform",
-    "link": "https://www.bleepingcomputer.com/news/security/europol-coordinated-action-disrupts-tycoon2fa-phishing-platform/",
-    "published": "Wed, 04 Mar 2026 12:01:26 -0500",
-    "summary": "An international law enforcement operation coordinated by Europol has disrupted Tycoon2FA, a major phishing-as-a-service (PhaaS) platform linked to tens of millions of phishing messages each month. [...]",
-    "analysis": {
-      "issue": "An international law enforcement operation coordinated by Europol has disrupted Tycoon2FA, a major phishing-as-a-service (PhaaS) platform linked to tens of millions of phishing messages each month",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who is the Kimwolf Botmaster “Dort”?",
     "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
@@ -443,15 +446,15 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-21514",
+        "CVE-2026-21516",
+        "CVE-2026-21509",
+        "CVE-2026-21519",
         "CVE-2026-21513",
         "CVE-2026-21525",
-        "CVE-2026-21516",
-        "CVE-2026-21510",
-        "CVE-2026-21509",
-        "CVE-2026-21523",
-        "CVE-2026-21533",
         "CVE-2026-21256",
-        "CVE-2026-21519"
+        "CVE-2026-21510",
+        "CVE-2026-21533",
+        "CVE-2026-21523"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -530,8 +533,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20805",
-        "CVE-2026-20952",
-        "CVE-2026-20953"
+        "CVE-2026-20953",
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -580,6 +583,34 @@
   },
   {
     "source": "Security Week",
+    "title": "Russian Ransomware Operator Pleads Guilty in US",
+    "link": "https://www.securityweek.com/russian-ransomware-operator-pleads-guilty-in-us/",
+    "published": "Thu, 05 Mar 2026 12:47:10 +0000",
+    "summary": "<p>Evgenii Ptitsyn was extradited to the United States from South Korea in November 2024.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-ransomware-operator-pleads-guilty-in-us/\">Russian Ransomware Operator Pleads Guilty in US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Cisco Warns of More Catalyst SD-WAN Flaws Exploited in the Wild",
+    "link": "https://www.securityweek.com/cisco-warns-of-more-catalyst-sd-wan-flaws-exploited-in-the-wild/",
+    "published": "Thu, 05 Mar 2026 12:15:06 +0000",
+    "summary": "<p>The networking giant has added the recently patched CVE-2026-20128 and CVE-2026-20122 to the list of exploited vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-warns-of-more-catalyst-sd-wan-flaws-exploited-in-the-wild/\">Cisco Warns of More Catalyst SD-WAN Flaws Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Reclaim Security Raises $20 Million to Accelerate Remediation",
+    "link": "https://www.securityweek.com/reclaim-security-raises-20-million-to-accelerate-remediation/",
+    "published": "Thu, 05 Mar 2026 11:23:04 +0000",
+    "summary": "<p>The company will expand its engineering team, deepen integrations, and accelerate go-to-market initiatives.</p>\n<p>The post <a href=\"https://www.securityweek.com/reclaim-security-raises-20-million-to-accelerate-remediation/\">Reclaim Security Raises $20 Million to Accelerate Remediation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "LeakBase Cybercrime Forum Shut Down, Suspects Arrested",
+    "link": "https://www.securityweek.com/leakbase-cybercrime-forum-shut-down-suspects-arrested/",
+    "published": "Thu, 05 Mar 2026 10:46:17 +0000",
+    "summary": "<p>The stolen credential marketplace had been active since 2021 and in late 2025 it counted 142,000 users. </p>\n<p>The post <a href=\"https://www.securityweek.com/leakbase-cybercrime-forum-shut-down-suspects-arrested/\">LeakBase Cybercrime Forum Shut Down, Suspects Arrested</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Cisco Patches Critical Vulnerabilities in Enterprise Networking Products",
     "link": "https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-enterprise-networking-products/",
     "published": "Thu, 05 Mar 2026 08:50:31 +0000",
@@ -621,32 +652,23 @@
     "summary": "<p>A Belgian national, De Ceukelaire’ did not set out to be a hacker. Like many hackers he was born with the potential to become one and only gradually realized he is one.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-inti-de-ceukelaire-raging-against-the-machine-creatively/\">Hacker Conversations: Inti De Ceukelaire, Raging Against the Machine Creatively</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "How Pirated Software Turns Helpful Employees Into Malware Delivery Agents",
-    "link": "https://www.securityweek.com/how-pirated-software-turns-helpful-employees-into-malware-delivery-agents/",
-    "published": "Wed, 04 Mar 2026 12:48:16 +0000",
-    "summary": "<p>Employees seeking free versions of paid software may unknowingly install malware-laced “cracked” apps that can steal credentials, deploy cryptominers, or open the door to ransomware.</p>\n<p>The post <a href=\"https://www.securityweek.com/how-pirated-software-turns-helpful-employees-into-malware-delivery-agents/\">How Pirated Software Turns Helpful Employees Into Malware Delivery Agents</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "AI Security Firm JetStream Launches With $34 Million in Seed Funding",
-    "link": "https://www.securityweek.com/ai-security-firm-jetstream-launches-with-34-million-in-seed-funding/",
-    "published": "Wed, 04 Mar 2026 12:43:17 +0000",
-    "summary": "<p>The startup aims to provide organizations with visibility into how AI operates across their environment.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-security-firm-jetstream-launches-with-34-million-in-seed-funding/\">AI Security Firm JetStream Launches With $34 Million in Seed Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "LastPass Warns of New Phishing Campaign",
-    "link": "https://www.securityweek.com/lastpass-warns-of-new-phishing-campaign/",
-    "published": "Wed, 04 Mar 2026 12:04:30 +0000",
-    "summary": "<p>The attackers are sending out fake alerts claiming unauthorized access or master password changes.</p>\n<p>The post <a href=\"https://www.securityweek.com/lastpass-warns-of-new-phishing-campaign/\">LastPass Warns of New Phishing Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity",
-    "link": "https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/",
-    "published": "Wed, 04 Mar 2026 12:00:00 +0000",
-    "summary": "<p>Join the webinar as we explore a blueprint for an OT SOC leveraging an integrated OT Security Platform to safeguard operations and maintain business continuity.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/\">Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "UAT-9244 targets South American telecommunication providers with three new malware implants",
+    "link": "https://blog.talosintelligence.com/uat-9244/",
+    "published": "Thu, 05 Mar 2026 11:00:12 GMT",
+    "summary": "Cisco Talos is disclosing UAT-9244, who we assess with high confidence is a China-nexus advanced persistent threat (APT) actor closely associated with Famous Sparrow.",
+    "analysis": {
+      "issue": "UAT-9244 used dynamic-link library (DLL) side-loading to activate multiple stages of their infection chain",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
   },
   {
     "source": "Talos Blog",
@@ -719,8 +741,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-20775",
-        "CVE-2026-20127"
+        "CVE-2026-20127",
+        "CVE-2022-20775"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -814,32 +836,6 @@
       "timeline": null,
       "severity": "High",
       "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Microsoft Patch Tuesday for February 2026 — Snort rules and prominent vulnerabilities",
-    "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-february-2026/",
-    "published": "Tue, 10 Feb 2026 23:54:39 GMT",
-    "summary": "Microsoft has released its monthly security update for February 2026, which includes 55 vulnerabilities affecting a range of products, including one (CVE-2025-59498) that Microsoft marked as “Critical”.",
-    "analysis": {
-      "issue": "Microsoft has released its monthly security update for February 2026, which includes 59 vulnerabilities affecting a range of products, including two that Microsoft marked as “Critical”",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-21514",
-        "CVE-2026-21525",
-        "CVE-2026-21513",
-        "CVE-2026-21510",
-        "CVE-2026-21522",
-        "CVE-2026-23655",
-        "CVE-2026-21519"
-      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -1225,6 +1221,42 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Windows File Shredder: When deleting a file isn’t enough",
+    "link": "https://www.malwarebytes.com/blog/product/2026/03/windows-file-shredder-when-deleting-a-file-isnt-enough",
+    "published": "Thu, 05 Mar 2026 11:07:53 GMT",
+    "summary": "File Shredder for Windows from Malwarebytes lets you truly, actually, really delete a file or folder from your hard drive or USB drive.",
+    "analysis": {
+      "issue": "Most of us think deleting a file means it’s gone for good",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Supreme Court to decide whether geofence warrants are constitutional",
+    "link": "https://www.malwarebytes.com/blog/news/2026/03/supreme-court-to-decide-whether-geofence-warrants-are-constitutional",
+    "published": "Thu, 05 Mar 2026 10:54:12 GMT",
+    "summary": "Google has urged the justices to strike down the controversial warrants, which can sweep up location data from hundreds of phones near a crime scene.",
+    "analysis": {
+      "issue": "Google has weighed in on a court case that will decide the future of a powerful but contentious tool for law enforcement",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Does the UK really want to ban VPNs? And can it be done?",
     "link": "https://www.malwarebytes.com/blog/news/2026/03/does-the-uk-really-want-to-ban-vpns-and-can-it-be-done",
     "published": "Wed, 04 Mar 2026 13:44:41 GMT",
@@ -1369,42 +1401,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (February 23 &#8211; March 1)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-february-23-march-1",
-    "published": "Mon, 02 Mar 2026 08:01:00 GMT",
-    "summary": "A list of topics we covered in the week of February 23 to March 1 of 2026",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Public Google API keys can be used to expose Gemini AI data",
-    "link": "https://www.malwarebytes.com/blog/news/2026/02/public-google-api-keys-can-be-used-to-expose-gemini-ai-data",
-    "published": "Fri, 27 Feb 2026 12:33:22 GMT",
-    "summary": "Researchers found that Google API keys long treated as harmless can now unlock access to Gemini.",
-    "analysis": {
-      "issue": "Google Maps/Cloud API (Application Programming Interface) keys that used to be safe to publish can now, in many cases, be used as real Gemini AI credentials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
