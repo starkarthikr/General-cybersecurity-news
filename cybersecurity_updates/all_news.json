@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict",
+    "link": "https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html",
+    "published": "Wed, 04 Mar 2026 22:51:00 +0530",
+    "summary": "Cybersecurity researchers have warned of a surge in retaliatory hacktivist activity following the U.S.-Israel coordinated military campaign against Iran, codenamed Epic Fury and Roaring Lion.\n\"The hacktivist threat in the Middle East is highly lopsided, with two groups, Keymous+ and DieNet, driving nearly 70% of all attack activity between February 28 and March 2,\" Radware said in a Tuesday",
+    "analysis": {
+      "issue": "149 hacktivist attacks hit 110 organizations across 16 countries after Middle East conflict, targeting governments, infrastructure, & telecom sectors",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13–17.2.1",
     "link": "https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html",
     "published": "Wed, 04 Mar 2026 18:58:00 +0530",
@@ -165,13 +183,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication",
-    "link": "https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html",
-    "published": "Tue, 03 Mar 2026 16:40:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new phishing suite called Starkiller that proxies legitimate login pages to bypass multi-factor authentication (MFA) protections.\nIt's advertised as a cybercrime platform by a threat group calling itself Jinkusu, granting customers access to a dashboard that lets them select a brand to impersonate or enter a brand's real URL. It also lets",
+    "source": "Bleeping Computer",
+    "title": "Bitwarden adds support for passkey login on Windows 11",
+    "link": "https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/",
+    "published": "Wed, 04 Mar 2026 17:34:58 -0500",
+    "summary": "Bitwarden announced support for logging into Windows 11 devices using passkeys stored in the manager's vault, enabling phishing-resistant authentication. [...]",
     "analysis": {
-      "issue": "Starkiller phishing suite uses live reverse proxying to bypass MFA, while attackers abuse OAuth device codes to hijack Microsoft 365 accounts",
+      "issue": "Bitwarden announced support for logging into Windows 11 devices using passkeys stored in the manager's vault, enabling phishing-resistant authentication",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -179,6 +197,141 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Mail2Shell zero-click attack lets hackers hijack FreeScout mail servers",
+    "link": "https://www.bleepingcomputer.com/news/security/mail2shell-zero-click-attack-lets-hackers-hijack-freescout-mail-servers/",
+    "published": "Wed, 04 Mar 2026 16:51:32 -0500",
+    "summary": "A maximum severity vulnerability in the FreeScout helpdesk platform allows hackers to achieve remote code execution without any user interaction or authentication. [...]",
+    "analysis": {
+      "issue": "A maximum severity vulnerability in the FreeScout helpdesk platform allows hackers to achieve remote code execution without any user interaction or authentication",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-27636",
+        "CVE-2026-28289"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Windows 10 KB5075039 update fixes broken Recovery Environment",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5075039-update-fixes-broken-recovery-environment/",
+    "published": "Wed, 04 Mar 2026 16:03:39 -0500",
+    "summary": "Microsoft has released the KB5075039 Windows Recovery Environment update for Windows 10 to fix a long-standing issue that prevented some users from accessing the Recovery environment. [...]",
+    "analysis": {
+      "issue": "Microsoft has released the KB5075039 Windows Recovery Environment update for Windows 10 to fix a long-standing issue that prevented some users from accessing the Recovery environment",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Fake LastPass support email threads try to steal vault passwords",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-support-email-threads-try-to-steal-vault-passwords/",
+    "published": "Wed, 04 Mar 2026 15:44:21 -0500",
+    "summary": "Password management software provider LastPass is warning users of a phishing campaign targeting its users with fake unauthorized account access alerts. [...]",
+    "analysis": {
+      "issue": "Password management software provider LastPass is warning users of a phishing campaign targeting its users with fake unauthorized account access alerts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Cisco warns of max severity Secure FMC flaws giving root access",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-secure-fmc-flaws-giving-root-access/",
+    "published": "Wed, 04 Mar 2026 14:12:43 -0500",
+    "summary": "Cisco has released security updates to patch two maximum-severity vulnerabilities in its Secure Firewall Management Center (FMC) software. [...]",
+    "analysis": {
+      "issue": "Cisco has released security updates to patch two maximum-severity vulnerabilities in its Secure Firewall Management Center (FMC) software",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-20131",
+        "CVE-2026-20079"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Spyware-grade Coruna iOS exploit kit now used in crypto theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/spyware-grade-coruna-ios-exploit-kit-now-used-in-crypto-theft-attacks/",
+    "published": "Wed, 04 Mar 2026 14:06:13 -0500",
+    "summary": "A previously undocumented set of 23 iOS exploits named \"Coruna\" has been deployed by multiple threat actors in targeted espionage campaigns and financially motivated attacks. [...]",
+    "analysis": {
+      "issue": "A previously undocumented set of 23 iOS exploits named “Coruna” has been deployed by multiple threat actors in targeted espionage campaigns and financially motivated attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2024-23222"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hacker mass-mails HungerRush extortion emails to restaurant patrons",
+    "link": "https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/",
+    "published": "Wed, 04 Mar 2026 13:44:14 -0500",
+    "summary": "Customers of restaurants using the HungerRush point-of-sale (POS) platform say they received emails from a threat actor attempting to extort the company, warning that restaurant and customer data could be exposed if HungerRush fails to respond. [...]",
+    "analysis": {
+      "issue": "Update: Added HungerRush statement below",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "FBI seizes LeakBase cybercrime forum, data of 142,000 members",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-leakbase-cybercrime-forum-data-of-142-000-members/",
+    "published": "Wed, 04 Mar 2026 12:44:46 -0500",
+    "summary": "The FBI has seized the LeakBase cybercrime forum, a major online forum used by cybercriminals buy and sell hacking tools and stolen data. [...]",
+    "analysis": {
+      "issue": "The FBI has seized the LeakBase cybercrime forum, a major online forum used by cybercriminals buy and sell hacking tools and stolen data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -215,155 +368,6 @@
       "cves": [],
       "threat_categories": [
         "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "How a Brute Force Attack Unmasked a Ransomware Infrastructure Network",
-    "link": "https://www.bleepingcomputer.com/news/security/how-a-brute-force-attack-unmasked-a-ransomware-infrastructure-network/",
-    "published": "Wed, 04 Mar 2026 10:02:12 -0500",
-    "summary": "A routine RDP brute-force alert led to unusual credential hunting and a geo-distributed VPN-linked infrastructure. Huntress Labs explains how one compromised login unraveled a suspected ransomware-as-a-service ecosystem tied to initial access brokers. [...]",
-    "analysis": {
-      "issue": "By: Huntress Tactical Response Team To most defenders, another brute-force alert on exposed RDP is background noise — bread-and-butter activity you triage and move past",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA flags VMware Aria Operations RCE flaw as exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/",
-    "published": "Tue, 03 Mar 2026 18:40:37 -0500",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a VMware Aria Operations vulnerability tracked as CVE-2026-22719 to its Known Exploited Vulnerabilities catalog, flagging the flaw as exploited in attacks. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) has added a VMware Aria Operations vulnerability tracked as CVE-2026-22719 to its Known Exploited Vulnerabilities catalog, flagging the flaw as exploited in attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-22719"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Paint maker giant AkzoNobel confirms cyberattack on U.S. site",
-    "link": "https://www.bleepingcomputer.com/news/security/paint-maker-giant-akzonobel-confirms-cyberattack-on-us-site/",
-    "published": "Tue, 03 Mar 2026 18:00:53 -0500",
-    "summary": "The multinational Dutch paint company AkzoNobel has confirmed to BleepingComputer that hackers breached the network of one of its U.S. sites. [...]",
-    "analysis": {
-      "issue": "The multinational Dutch paint company AkzoNobel has confirmed to BleepingComputer that hackers breached the network of one of its U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Facebook accounts unavailable in worldwide outage",
-    "link": "https://www.bleepingcomputer.com/news/technology/facebook-hit-with-worldwide-outage-stating-accounts-are-unavailable/",
-    "published": "Tue, 03 Mar 2026 17:38:55 -0500",
-    "summary": "Social media giant Facebook is currently experiencing a massive worldwide outage, preventing users from accessing their accounts. [...]",
-    "analysis": {
-      "issue": "Story update after outage was resolved",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Hackers abuse OAuth error flows to spread malware",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/",
-    "published": "Tue, 03 Mar 2026 15:59:19 -0500",
-    "summary": "Hackers are abusing the legitimate OAuth redirection mechanism to bypass phishing protections in email and browsers to take users to malicious pages. [...]",
-    "analysis": {
-      "issue": "Hackers are abusing the legitimate OAuth redirection mechanism to bypass phishing protections in email and browsers to take users to malicious pages",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google Chrome shifts to two-week release cycle for increased stability",
-    "link": "https://www.bleepingcomputer.com/news/security/google-chrome-shifts-to-two-week-release-cycle-for-increased-stability/",
-    "published": "Tue, 03 Mar 2026 12:00:00 -0500",
-    "summary": "Google Chrome will shift from a four-week to a two-week release cycle to roll out new features, bug fixes, and performance improvements more frequently. [...]",
-    "analysis": {
-      "issue": "Google Chrome will shift from a four-week to a two-week release cycle to roll out new features, bug fixes, and performance improvements more frequently",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "LexisNexis confirms data breach as hackers leak stolen files",
-    "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/",
-    "published": "Tue, 03 Mar 2026 10:40:48 -0500",
-    "summary": "American data analytics company LexisNexis Legal & Professional has confirmed to BleepingComputer that hackers breached its servers and accessed some customer and business information. [...]",
-    "analysis": {
-      "issue": "American data analytics company LexisNexis Legal & Professional has confirmed to BleepingComputer that hackers breached its servers and accessed some customer and business information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Compromised Site Management Panels are a Hot Item in Cybercrime Markets",
-    "link": "https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/",
-    "published": "Tue, 03 Mar 2026 10:01:11 -0500",
-    "summary": "Compromised cPanel credentials are being sold in bulk across underground channels as plug-and-play phishing and scam infrastructure. Flare explains how analyzing 200,000 underground posts reveals a commoditized market for hacked site management panels. [...]",
-    "analysis": {
-      "issue": "Threat actors are openly advertising access to hacked websites as part of the underground economy",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
@@ -438,16 +442,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21525",
+        "CVE-2026-21256",
+        "CVE-2026-21509",
+        "CVE-2026-21516",
         "CVE-2026-21513",
         "CVE-2026-21533",
-        "CVE-2026-21510",
-        "CVE-2026-21509",
-        "CVE-2026-21519",
         "CVE-2026-21514",
         "CVE-2026-21523",
-        "CVE-2026-21256",
-        "CVE-2026-21525",
-        "CVE-2026-21516"
+        "CVE-2026-21510",
+        "CVE-2026-21519"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -526,8 +530,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20953",
-        "CVE-2026-20805",
-        "CVE-2026-20952"
+        "CVE-2026-20952",
+        "CVE-2026-20805"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -573,6 +577,20 @@
         "Supply Chain"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Tycoon 2FA Phishing Platform Dismantled in Global Takedown",
+    "link": "https://www.securityweek.com/tycoon-2fa-phishing-platform-dismantled-in-global-takedown/",
+    "published": "Wed, 04 Mar 2026 18:37:26 +0000",
+    "summary": "<p>The phishing-as-a-service platform was used to send fraudulent emails to over 500,000 organizations every month.</p>\n<p>The post <a href=\"https://www.securityweek.com/tycoon-2fa-phishing-platform-dismantled-in-global-takedown/\">Tycoon 2FA Phishing Platform Dismantled in Global Takedown</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "New LexisNexis Data Breach Confirmed After Hackers Leak Files",
+    "link": "https://www.securityweek.com/new-lexisnexis-data-breach-confirmed-after-hackers-leak-files/",
+    "published": "Wed, 04 Mar 2026 17:44:14 +0000",
+    "summary": "<p>The hackers claim to have stolen 2GB of files, including 400,000 personal information records. </p>\n<p>The post <a href=\"https://www.securityweek.com/new-lexisnexis-data-breach-confirmed-after-hackers-leak-files/\">New LexisNexis Data Breach Confirmed After Hackers Leak Files</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -629,20 +647,6 @@
     "link": "https://www.securityweek.com/global-coalition-publishes-6g-security-and-resilience-principles/",
     "published": "Wed, 04 Mar 2026 10:57:18 +0000",
     "summary": "<p>The principles cover security, resilience against attacks and disasters, AI, and openness and interoperability.</p>\n<p>The post <a href=\"https://www.securityweek.com/global-coalition-publishes-6g-security-and-resilience-principles/\">Global Coalition Publishes 6G Security and Resilience Principles</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical FreeScout Vulnerability Leads to Full Server Compromise",
-    "link": "https://www.securityweek.com/critical-freescout-vulnerability-leads-to-full-server-compromise/",
-    "published": "Wed, 04 Mar 2026 09:16:39 +0000",
-    "summary": "<p>A patch bypass for an authenticated code execution bug, the flaw leads to zero-click remote code execution attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-freescout-vulnerability-leads-to-full-server-compromise/\">Critical FreeScout Vulnerability Leads to Full Server Compromise</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "VMware Aria Operations Vulnerability Exploited in the Wild",
-    "link": "https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/",
-    "published": "Wed, 04 Mar 2026 07:24:45 +0000",
-    "summary": "<p>The recently patched CVE-2026-22719 can be exploited by an unauthenticated attacker for remote code execution. </p>\n<p>The post <a href=\"https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/\">VMware Aria Operations Vulnerability Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -828,16 +832,52 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21513",
-        "CVE-2026-21510",
+        "CVE-2026-21525",
         "CVE-2026-23655",
-        "CVE-2026-21522",
+        "CVE-2026-21513",
         "CVE-2026-21514",
-        "CVE-2026-21519",
-        "CVE-2026-21525"
+        "CVE-2026-21522",
+        "CVE-2026-21510",
+        "CVE-2026-21519"
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Ongoing Iran Conflict: What You Need to Know",
+    "link": "https://www.recordedfuture.com/blog/ongoing-iran-conflict-what-you-need-to-know",
+    "published": "Wed, 04 Mar 2026 00:00:00 GMT",
+    "summary": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios.",
+    "analysis": {
+      "issue": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Ongoing Iran Conflict: What You Need to Know",
+    "link": "https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know",
+    "published": "Wed, 04 Mar 2026 00:00:00 GMT",
+    "summary": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios.",
+    "analysis": {
+      "issue": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -856,24 +896,6 @@
       "cves": [],
       "threat_categories": [
         "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Ongoing Iran Conflict: What You Need to Know",
-    "link": "https://www.recordedfuture.com/blog/ongoing-iran-conflict-what-you-need-to-know",
-    "published": "Mon, 02 Mar 2026 00:00:00 GMT",
-    "summary": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios.",
-    "analysis": {
-      "issue": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1002,24 +1024,6 @@
       "cves": [],
       "threat_categories": [
         "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Fragmentation Defined 2025's Threat Landscape. Here's What It Means for 2026",
-    "link": "https://www.recordedfuture.com/blog/fragmentation-in-2025-what-it-means-for-2026",
-    "published": "Thu, 12 Feb 2026 00:00:00 GMT",
-    "summary": "The global threat landscape didn't simplify in 2025 — it shattered. The 2026 State of Security report represents Insikt Group's most comprehensive threat intelligence analysis to date, drawing on proprietary intelligence, network telemetry, and deep geopolitical research to help you stay ahead of converging threats.",
-    "analysis": {
-      "issue": "The global threat landscape didn't simplify in 2025 — it shattered",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
