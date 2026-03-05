@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-05 03:14:34 UTC
+**Last Updated:** 2026-03-05 09:07:25 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict](https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html)
+### 1. [Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks](https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 05 Mar 2026 12:21:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 2. [FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials](https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 05 Mar 2026 12:04:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict](https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Mar 2026 22:51:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13–17.2.1](https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html)
+### 4. [Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13–17.2.1](https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Mar 2026 18:58:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [New RFP Template for AI Usage Control and AI Governance](https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html)
+### 5. [New RFP Template for AI Usage Control and AI Governance](https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Mar 2026 17:00:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux](https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html)
+### 6. [Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux](https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Mar 2026 15:07:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2](https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html)
+### 7. [APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2](https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Mar 2026 13:44:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog](https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html)
+### 8. [CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog](https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 04 Mar 2026 10:05:00 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations](https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html)
+### 9. [Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations](https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Mar 2026 22:45:00 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow](https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html)
+### 10. [Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow](https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 03 Mar 2026 20:00:00 +0530  
@@ -77,25 +95,16 @@
 
 ---
 
-### 9. [Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries](https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html)
+### 11. [Phobos ransomware admin pleads guilty to wire fraud conspiracy](https://www.bleepingcomputer.com/news/security/phobos-ransomware-admin-pleads-guilty-to-wire-fraud-conspiracy/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 03 Mar 2026 19:59:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 05 Mar 2026 03:34:42 -0500  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Ransomware  
 
 ---
 
-### 10. [AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged](https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 03 Mar 2026 17:00:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Bitwarden adds support for passkey login on Windows 11](https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/)
+### 12. [Bitwarden adds support for passkey login on Windows 11](https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Mar 2026 17:34:58 -0500  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Mail2Shell zero-click attack lets hackers hijack FreeScout mail servers](https://www.bleepingcomputer.com/news/security/mail2shell-zero-click-attack-lets-hackers-hijack-freescout-mail-servers/)
+### 13. [Mail2Shell zero-click attack lets hackers hijack FreeScout mail servers](https://www.bleepingcomputer.com/news/security/mail2shell-zero-click-attack-lets-hackers-hijack-freescout-mail-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Mar 2026 16:51:32 -0500  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [Windows 10 KB5075039 update fixes broken Recovery Environment](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5075039-update-fixes-broken-recovery-environment/)
+### 14. [Windows 10 KB5075039 update fixes broken Recovery Environment](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5075039-update-fixes-broken-recovery-environment/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Mar 2026 16:03:39 -0500  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Fake LastPass support email threads try to steal vault passwords](https://www.bleepingcomputer.com/news/security/fake-lastpass-support-email-threads-try-to-steal-vault-passwords/)
+### 15. [Fake LastPass support email threads try to steal vault passwords](https://www.bleepingcomputer.com/news/security/fake-lastpass-support-email-threads-try-to-steal-vault-passwords/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Mar 2026 15:44:21 -0500  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Cisco warns of max severity Secure FMC flaws giving root access](https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-secure-fmc-flaws-giving-root-access/)
+### 16. [Cisco warns of max severity Secure FMC flaws giving root access](https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-secure-fmc-flaws-giving-root-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Mar 2026 14:12:43 -0500  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Spyware-grade Coruna iOS exploit kit now used in crypto theft attacks](https://www.bleepingcomputer.com/news/security/spyware-grade-coruna-ios-exploit-kit-now-used-in-crypto-theft-attacks/)
+### 17. [Spyware-grade Coruna iOS exploit kit now used in crypto theft attacks](https://www.bleepingcomputer.com/news/security/spyware-grade-coruna-ios-exploit-kit-now-used-in-crypto-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Mar 2026 14:06:13 -0500  
@@ -152,7 +161,7 @@
 
 ---
 
-### 17. [Hacker mass-mails HungerRush extortion emails to restaurant patrons](https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/)
+### 18. [Hacker mass-mails HungerRush extortion emails to restaurant patrons](https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Mar 2026 13:44:14 -0500  
@@ -161,7 +170,7 @@
 
 ---
 
-### 18. [FBI seizes LeakBase cybercrime forum, data of 142,000 members](https://www.bleepingcomputer.com/news/security/fbi-seizes-leakbase-cybercrime-forum-data-of-142-000-members/)
+### 19. [FBI seizes LeakBase cybercrime forum, data of 142,000 members](https://www.bleepingcomputer.com/news/security/fbi-seizes-leakbase-cybercrime-forum-data-of-142-000-members/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Mar 2026 12:44:46 -0500  
@@ -170,21 +179,12 @@
 
 ---
 
-### 19. [Europol-coordinated action disrupts Tycoon2FA phishing platform](https://www.bleepingcomputer.com/news/security/europol-coordinated-action-disrupts-tycoon2fa-phishing-platform/)
+### 20. [Europol-coordinated action disrupts Tycoon2FA phishing platform](https://www.bleepingcomputer.com/news/security/europol-coordinated-action-disrupts-tycoon2fa-phishing-platform/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 04 Mar 2026 12:01:26 -0500  
 **Severity:** High  
 **Categories:** Phishing  
-
----
-
-### 20. [Mississippi medical center reopens clinics hit by ransomware attack](https://www.bleepingcomputer.com/news/security/mississippi-medical-center-reopens-clinics-hit-by-ransomware-attack/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 04 Mar 2026 10:28:56 -0500  
-**Severity:** High  
-**Categories:** Ransomware  
 
 ---
 
@@ -220,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21514, CVE-2026-21533, CVE-2026-21513, CVE-2026-21523, CVE-2026-21525, CVE-2026-21256, CVE-2026-21510, CVE-2026-21516, CVE-2026-21509, CVE-2026-21519  
+**CVEs:** CVE-2026-21514, CVE-2026-21513, CVE-2026-21525, CVE-2026-21516, CVE-2026-21510, CVE-2026-21509, CVE-2026-21523, CVE-2026-21533, CVE-2026-21256, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -280,73 +280,73 @@
 
 ---
 
-### 31. [Tycoon 2FA Phishing Platform Dismantled in Global Takedown](https://www.securityweek.com/tycoon-2fa-phishing-platform-dismantled-in-global-takedown/)
+### 31. [Cisco Patches Critical Vulnerabilities in Enterprise Networking Products](https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-enterprise-networking-products/)
+
+**Source:** Security Week  
+**Published:** Thu, 05 Mar 2026 08:50:31 +0000  
+
+---
+
+### 32. [Nation-State iOS Exploit Kit ‘Coruna’ Found Powering Global Attacks](https://www.securityweek.com/nation-state-ios-exploit-kit-coruna-found-powering-global-attacks/)
+
+**Source:** Security Week  
+**Published:** Thu, 05 Mar 2026 04:04:17 +0000  
+
+---
+
+### 33. [Tycoon 2FA Phishing Platform Dismantled in Global Takedown](https://www.securityweek.com/tycoon-2fa-phishing-platform-dismantled-in-global-takedown/)
 
 **Source:** Security Week  
 **Published:** Wed, 04 Mar 2026 18:37:26 +0000  
 
 ---
 
-### 32. [New LexisNexis Data Breach Confirmed After Hackers Leak Files](https://www.securityweek.com/new-lexisnexis-data-breach-confirmed-after-hackers-leak-files/)
+### 34. [New LexisNexis Data Breach Confirmed After Hackers Leak Files](https://www.securityweek.com/new-lexisnexis-data-breach-confirmed-after-hackers-leak-files/)
 
 **Source:** Security Week  
 **Published:** Wed, 04 Mar 2026 17:44:14 +0000  
 
 ---
 
-### 33. [Zurich Acquires Beazley in $11 Billion Deal to Lead Cyberinsurance](https://www.securityweek.com/zurich-acquires-beazley-in-11-billion-deal-to-lead-cyberinsurance/)
+### 35. [Zurich Acquires Beazley in $11 Billion Deal to Lead Cyberinsurance](https://www.securityweek.com/zurich-acquires-beazley-in-11-billion-deal-to-lead-cyberinsurance/)
 
 **Source:** Security Week  
 **Published:** Wed, 04 Mar 2026 15:36:26 +0000  
 
 ---
 
-### 34. [Hacker Conversations: Inti De Ceukelaire, Raging Against the Machine Creatively](https://www.securityweek.com/hacker-conversations-inti-de-ceukelaire-raging-against-the-machine-creatively/)
+### 36. [Hacker Conversations: Inti De Ceukelaire, Raging Against the Machine Creatively](https://www.securityweek.com/hacker-conversations-inti-de-ceukelaire-raging-against-the-machine-creatively/)
 
 **Source:** Security Week  
 **Published:** Wed, 04 Mar 2026 15:00:00 +0000  
 
 ---
 
-### 35. [How Pirated Software Turns Helpful Employees Into Malware Delivery Agents](https://www.securityweek.com/how-pirated-software-turns-helpful-employees-into-malware-delivery-agents/)
+### 37. [How Pirated Software Turns Helpful Employees Into Malware Delivery Agents](https://www.securityweek.com/how-pirated-software-turns-helpful-employees-into-malware-delivery-agents/)
 
 **Source:** Security Week  
 **Published:** Wed, 04 Mar 2026 12:48:16 +0000  
 
 ---
 
-### 36. [AI Security Firm JetStream Launches With $34 Million in Seed Funding](https://www.securityweek.com/ai-security-firm-jetstream-launches-with-34-million-in-seed-funding/)
+### 38. [AI Security Firm JetStream Launches With $34 Million in Seed Funding](https://www.securityweek.com/ai-security-firm-jetstream-launches-with-34-million-in-seed-funding/)
 
 **Source:** Security Week  
 **Published:** Wed, 04 Mar 2026 12:43:17 +0000  
 
 ---
 
-### 37. [LastPass Warns of New Phishing Campaign](https://www.securityweek.com/lastpass-warns-of-new-phishing-campaign/)
+### 39. [LastPass Warns of New Phishing Campaign](https://www.securityweek.com/lastpass-warns-of-new-phishing-campaign/)
 
 **Source:** Security Week  
 **Published:** Wed, 04 Mar 2026 12:04:30 +0000  
 
 ---
 
-### 38. [Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity](https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/)
+### 40. [Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity](https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/)
 
 **Source:** Security Week  
 **Published:** Wed, 04 Mar 2026 12:00:00 +0000  
-
----
-
-### 39. [Google Plans Two-Week Release Schedule for Chrome](https://www.securityweek.com/google-plans-two-week-release-schedule-for-chrome/)
-
-**Source:** Security Week  
-**Published:** Wed, 04 Mar 2026 11:52:04 +0000  
-
----
-
-### 40. [Global Coalition Publishes 6G Security and Resilience Principles](https://www.securityweek.com/global-coalition-publishes-6g-security-and-resilience-principles/)
-
-**Source:** Security Week  
-**Published:** Wed, 04 Mar 2026 10:57:18 +0000  
 
 ---
 
@@ -382,7 +382,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 25 Feb 2026 16:13:36 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20127, CVE-2022-20775  
+**CVEs:** CVE-2022-20775, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---
@@ -437,7 +437,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Feb 2026 23:54:39 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21514, CVE-2026-23655, CVE-2026-21513, CVE-2026-21525, CVE-2026-21510, CVE-2026-21519, CVE-2026-21522  
+**CVEs:** CVE-2026-21514, CVE-2026-21525, CVE-2026-21513, CVE-2026-21510, CVE-2026-21522, CVE-2026-23655, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -612,7 +612,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

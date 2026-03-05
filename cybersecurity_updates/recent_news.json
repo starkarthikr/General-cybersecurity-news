@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks",
+    "link": "https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html",
+    "published": "Thu, 05 Mar 2026 12:21:00 +0530",
+    "summary": "Tycoon 2FA, one of the prominent phishing-as-a-service (PhaaS) toolkits that allowed cybercriminals to stage adversary-in-the-middle (AitM) credential harvesting attacks at scale, was dismantled by a coalition of law enforcement agencies and security companies.\nThe subscription-based phishing kit, which first emerged in August 2023, was described by Europol as one of the largest phishing",
+    "analysis": {
+      "issue": "Authorities dismantle Tycoon 2FA phishing service linked to 64,000 attacks, millions of emails, and breaches at nearly 100,000 organizations worldwide",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials",
+    "link": "https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html",
+    "published": "Thu, 05 Mar 2026 12:04:00 +0530",
+    "summary": "A joint law enforcement operation has dismantled LeakBase, one of the world's largest online forums for cybercriminals to buy and sell stolen data and cybercrime tools.\nThe LeakBase forum, per the U.S. Department of Justice (DoJ), had over 142,000 members and more than 215,000 messages between members as of December 2025. Those attempting to access the forum's website (\"leakbase[.]la\") are now",
+    "analysis": {
+      "issue": "Authorities dismantled LeakBase, a cybercrime forum with 142,000 members trading stolen credentials and financial data in a global crackdown",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict",
     "link": "https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html",
     "published": "Wed, 04 Mar 2026 22:51:00 +0530",
@@ -147,38 +183,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries",
-    "link": "https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html",
-    "published": "Tue, 03 Mar 2026 19:59:00 +0530",
-    "summary": "The threat actor behind the recently disclosed artificial intelligence (AI)-assisted campaign targeting Fortinet FortiGate appliances leveraged an open-source, AI-native security testing platform called CyberStrikeAI to execute the attacks.\nThe new findings come from Team Cymru, which detected its use following an analysis of the IP address (\"212.11.64[.]250\") that was used by the suspected",
+    "source": "Bleeping Computer",
+    "title": "Phobos ransomware admin pleads guilty to wire fraud conspiracy",
+    "link": "https://www.bleepingcomputer.com/news/security/phobos-ransomware-admin-pleads-guilty-to-wire-fraud-conspiracy/",
+    "published": "Thu, 05 Mar 2026 03:34:42 -0500",
+    "summary": "A Russian national pleaded guilty to a wire fraud conspiracy charge related to his role in administering the Phobos ransomware operation, which breached hundreds of victims worldwide. [...]",
     "analysis": {
-      "issue": "AI-powered CyberStrikeAI linked to 600 FortiGate breaches in 55 countries, with 21 IPs tied to China-based infrastructure",
+      "issue": "A Russian national pleaded guilty to a wire fraud conspiracy charge related to his role in administering the Phobos ransomware operation, which breached hundreds of victims worldwide",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged",
-    "link": "https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html",
-    "published": "Tue, 03 Mar 2026 17:00:00 +0530",
-    "summary": "The Rise of MCPs in the Enterprise\nThe Model Context Protocol (MCP) is quickly becoming a practical way to push LLMs from “chat” into real work. By providing structured access to applications, APIs, and data, MCP enables prompt-driven AI agents that can retrieve information, take action, and automate end-to-end business workflows across the enterprise. This is already showing up in production",
-    "analysis": {
-      "issue": "70% of enterprises run AI agents, but weak IAM governance risks identity “dark matter” and cross-cloud exposure, survey finds",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Ransomware"
       ]
     }
   },
@@ -354,24 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Mississippi medical center reopens clinics hit by ransomware attack",
-    "link": "https://www.bleepingcomputer.com/news/security/mississippi-medical-center-reopens-clinics-hit-by-ransomware-attack/",
-    "published": "Wed, 04 Mar 2026 10:28:56 -0500",
-    "summary": "The University of Mississippi Medical Center (UMMC) says it has resumed normal operations, nine days after a ransomware attack blocked access to electronic medical records and took down many of its IT systems. [...]",
-    "analysis": {
-      "issue": "The University of Mississippi Medical Center (UMMC) says it has resumed normal operations, nine days after a ransomware attack blocked access to electronic medical records and took down many of its IT systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who is the Kimwolf Botmaster “Dort”?",
     "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
@@ -443,14 +443,14 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-21514",
-        "CVE-2026-21533",
         "CVE-2026-21513",
-        "CVE-2026-21523",
         "CVE-2026-21525",
-        "CVE-2026-21256",
-        "CVE-2026-21510",
         "CVE-2026-21516",
+        "CVE-2026-21510",
         "CVE-2026-21509",
+        "CVE-2026-21523",
+        "CVE-2026-21533",
+        "CVE-2026-21256",
         "CVE-2026-21519"
       ],
       "threat_categories": [
@@ -580,6 +580,20 @@
   },
   {
     "source": "Security Week",
+    "title": "Cisco Patches Critical Vulnerabilities in Enterprise Networking Products",
+    "link": "https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-enterprise-networking-products/",
+    "published": "Thu, 05 Mar 2026 08:50:31 +0000",
+    "summary": "<p>Cisco has rolled out patches for 48 vulnerabilities in Firewall ASA, Secure FMC, and Secure FTD products.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-enterprise-networking-products/\">Cisco Patches Critical Vulnerabilities in Enterprise Networking Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Nation-State iOS Exploit Kit ‘Coruna’ Found Powering Global Attacks",
+    "link": "https://www.securityweek.com/nation-state-ios-exploit-kit-coruna-found-powering-global-attacks/",
+    "published": "Thu, 05 Mar 2026 04:04:17 +0000",
+    "summary": "<p>Google and iVerify analysis reveals a powerful exploit kit originally used by Russian state actors that is now appearing in broader criminal campaigns.</p>\n<p>The post <a href=\"https://www.securityweek.com/nation-state-ios-exploit-kit-coruna-found-powering-global-attacks/\">Nation-State iOS Exploit Kit ‘Coruna’ Found Powering Global Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Tycoon 2FA Phishing Platform Dismantled in Global Takedown",
     "link": "https://www.securityweek.com/tycoon-2fa-phishing-platform-dismantled-in-global-takedown/",
     "published": "Wed, 04 Mar 2026 18:37:26 +0000",
@@ -633,20 +647,6 @@
     "link": "https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/",
     "published": "Wed, 04 Mar 2026 12:00:00 +0000",
     "summary": "<p>Join the webinar as we explore a blueprint for an OT SOC leveraging an integrated OT Security Platform to safeguard operations and maintain business continuity.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/\">Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Google Plans Two-Week Release Schedule for Chrome",
-    "link": "https://www.securityweek.com/google-plans-two-week-release-schedule-for-chrome/",
-    "published": "Wed, 04 Mar 2026 11:52:04 +0000",
-    "summary": "<p>Starting September 2026, new Chrome iterations will be released twice as fast, part of a two-week cycle.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-plans-two-week-release-schedule-for-chrome/\">Google Plans Two-Week Release Schedule for Chrome</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Global Coalition Publishes 6G Security and Resilience Principles",
-    "link": "https://www.securityweek.com/global-coalition-publishes-6g-security-and-resilience-principles/",
-    "published": "Wed, 04 Mar 2026 10:57:18 +0000",
-    "summary": "<p>The principles cover security, resilience against attacks and disasters, AI, and openness and interoperability.</p>\n<p>The post <a href=\"https://www.securityweek.com/global-coalition-publishes-6g-security-and-resilience-principles/\">Global Coalition Publishes 6G Security and Resilience Principles</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -719,8 +719,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20127",
-        "CVE-2022-20775"
+        "CVE-2022-20775",
+        "CVE-2026-20127"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -833,12 +833,12 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-21514",
-        "CVE-2026-23655",
-        "CVE-2026-21513",
         "CVE-2026-21525",
+        "CVE-2026-21513",
         "CVE-2026-21510",
-        "CVE-2026-21519",
-        "CVE-2026-21522"
+        "CVE-2026-21522",
+        "CVE-2026-23655",
+        "CVE-2026-21519"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1194,8 +1194,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
