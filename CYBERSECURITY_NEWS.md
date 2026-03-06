@@ -1,19 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-06 03:13:24 UTC
+**Last Updated:** 2026-03-06 09:03:54 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders](https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html)
+### 1. [Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer](https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html)
 
 **Source:** The Hacker News  
-**Published:** Thu, 05 Mar 2026 20:52:00 +0530  
+**Published:** Fri, 06 Mar 2026 12:14:00 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 2. [Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities](https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html)
+### 2. [Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog](https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 06 Mar 2026 12:00:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2017-7921, CVE-2021-22681  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities](https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Mar 2026 20:52:00 +0530  
@@ -23,7 +33,16 @@
 
 ---
 
-### 3. [ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More](https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html)
+### 4. [Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders](https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 05 Mar 2026 20:52:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More](https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Mar 2026 19:14:00 +0530  
@@ -32,7 +51,7 @@
 
 ---
 
-### 4. [Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware](https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html)
+### 6. [Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware](https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Mar 2026 17:31:00 +0530  
@@ -41,7 +60,7 @@
 
 ---
 
-### 5. [Where Multi-Factor Authentication Stops and Credential Abuse Starts](https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html)
+### 7. [Where Multi-Factor Authentication Stops and Credential Abuse Starts](https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Mar 2026 16:30:00 +0530  
@@ -50,7 +69,7 @@
 
 ---
 
-### 6. [APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine](https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html)
+### 8. [APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine](https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Mar 2026 15:40:00 +0530  
@@ -59,7 +78,7 @@
 
 ---
 
-### 7. [Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks](https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html)
+### 9. [Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks](https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Mar 2026 12:21:00 +0530  
@@ -68,7 +87,7 @@
 
 ---
 
-### 8. [FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials](https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html)
+### 10. [FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials](https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Mar 2026 12:04:00 +0530  
@@ -77,25 +96,16 @@
 
 ---
 
-### 9. [149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict](https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html)
+### 11. [FBI investigates breach of surveillance and wiretap systems](https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 04 Mar 2026 22:51:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 06 Mar 2026 03:44:53 -0500  
 **Severity:** Low  
-**Categories:** DDoS  
+**Categories:** General Security  
 
 ---
 
-### 10. [Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13–17.2.1](https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 04 Mar 2026 18:58:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 11. [Chinese state hackers target telcos with new malware toolkit](https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/)
+### 12. [Chinese state hackers target telcos with new malware toolkit](https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 18:19:49 -0500  
@@ -104,7 +114,7 @@
 
 ---
 
-### 12. [Bing AI promoted fake OpenClaw GitHub repo pushing info-stealing malware](https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/)
+### 13. [Bing AI promoted fake OpenClaw GitHub repo pushing info-stealing malware](https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 17:37:34 -0500  
@@ -113,7 +123,7 @@
 
 ---
 
-### 13. [Wikipedia hit by self-propagating JavaScript worm that vandalized pages](https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/)
+### 14. [Wikipedia hit by self-propagating JavaScript worm that vandalized pages](https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 15:42:25 -0500  
@@ -122,7 +132,7 @@
 
 ---
 
-### 14. [WordPress membership plugin bug exploited to create admin accounts](https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/)
+### 15. [WordPress membership plugin bug exploited to create admin accounts](https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 13:44:58 -0500  
@@ -132,7 +142,7 @@
 
 ---
 
-### 15. [FBI arrests suspect linked to $46M crypto theft from US Marshals](https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/)
+### 16. [FBI arrests suspect linked to $46M crypto theft from US Marshals](https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 13:36:18 -0500  
@@ -141,7 +151,7 @@
 
 ---
 
-### 16. [Google says 90 zero-days were exploited in attacks last year](https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/)
+### 17. [Google says 90 zero-days were exploited in attacks last year](https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 10:03:43 -0500  
@@ -150,7 +160,7 @@
 
 ---
 
-### 17. [2026 Browser Data Reveals Major Enterprise Security Blind Spots](https://www.bleepingcomputer.com/news/security/2026-browser-data-reveals-major-enterprise-security-blind-spots/)
+### 18. [2026 Browser Data Reveals Major Enterprise Security Blind Spots](https://www.bleepingcomputer.com/news/security/2026-browser-data-reveals-major-enterprise-security-blind-spots/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 10:01:11 -0500  
@@ -159,7 +169,7 @@
 
 ---
 
-### 18. [Police dismantles online gambling ring exploiting Ukrainian women](https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/)
+### 19. [Police dismantles online gambling ring exploiting Ukrainian women](https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 07:39:20 -0500  
@@ -168,22 +178,13 @@
 
 ---
 
-### 19. [Cisco flags more SD-WAN flaws as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/)
+### 20. [Cisco flags more SD-WAN flaws as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 05:32:19 -0500  
 **Severity:** Critical  
 **CVEs:** CVE-2026-20128, CVE-2026-20122, CVE-2026-20127  
 **Categories:** Vulnerability  
-
----
-
-### 20. [Phobos ransomware admin pleads guilty to wire fraud conspiracy](https://www.bleepingcomputer.com/news/security/phobos-ransomware-admin-pleads-guilty-to-wire-fraud-conspiracy/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 05 Mar 2026 03:34:42 -0500  
-**Severity:** Low  
-**Categories:** Ransomware  
 
 ---
 
@@ -219,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21513, CVE-2026-21533, CVE-2026-21509, CVE-2026-21256, CVE-2026-21514, CVE-2026-21519, CVE-2026-21510, CVE-2026-21525, CVE-2026-21516, CVE-2026-21523  
+**CVEs:** CVE-2026-21525, CVE-2026-21523, CVE-2026-21513, CVE-2026-21510, CVE-2026-21514, CVE-2026-21256, CVE-2026-21519, CVE-2026-21533, CVE-2026-21509, CVE-2026-21516  
 **Categories:** Vulnerability  
 
 ---
@@ -256,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20952, CVE-2026-20805  
+**CVEs:** CVE-2026-20952, CVE-2026-20805, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
@@ -625,7 +626,16 @@
 
 ---
 
-### 71. [Windows File Shredder: When deleting a file isn’t enough](https://www.malwarebytes.com/blog/product/2026/03/windows-file-shredder-when-deleting-a-file-isnt-enough)
+### 71. [Fake CleanMyMac site installs SHub Stealer and backdoors crypto wallets](https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-cleanmymac-site-installs-shub-stealer-and-backdoors-crypto-wallets)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 06 Mar 2026 08:44:30 GMT  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 72. [Windows File Shredder: When deleting a file isn’t enough](https://www.malwarebytes.com/blog/product/2026/03/windows-file-shredder-when-deleting-a-file-isnt-enough)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 05 Mar 2026 11:07:53 GMT  
@@ -634,7 +644,7 @@
 
 ---
 
-### 72. [Supreme Court to decide whether geofence warrants are constitutional](https://www.malwarebytes.com/blog/news/2026/03/supreme-court-to-decide-whether-geofence-warrants-are-constitutional)
+### 73. [Supreme Court to decide whether geofence warrants are constitutional](https://www.malwarebytes.com/blog/news/2026/03/supreme-court-to-decide-whether-geofence-warrants-are-constitutional)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 05 Mar 2026 10:54:12 GMT  
@@ -643,7 +653,7 @@
 
 ---
 
-### 73. [Does the UK really want to ban VPNs? And can it be done?](https://www.malwarebytes.com/blog/news/2026/03/does-the-uk-really-want-to-ban-vpns-and-can-it-be-done)
+### 74. [Does the UK really want to ban VPNs? And can it be done?](https://www.malwarebytes.com/blog/news/2026/03/does-the-uk-really-want-to-ban-vpns-and-can-it-be-done)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Mar 2026 13:44:41 GMT  
@@ -652,7 +662,7 @@
 
 ---
 
-### 74. [Attackers abuse OAuth’s built-in redirects to launch phishing and malware attacks](https://www.malwarebytes.com/blog/news/2026/03/attackers-abuse-oauths-built-in-redirects-to-launch-phishing-and-malware-attacks)
+### 75. [Attackers abuse OAuth’s built-in redirects to launch phishing and malware attacks](https://www.malwarebytes.com/blog/news/2026/03/attackers-abuse-oauths-built-in-redirects-to-launch-phishing-and-malware-attacks)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Mar 2026 12:53:00 GMT  
@@ -661,7 +671,7 @@
 
 ---
 
-### 75. [High-severity Qualcomm bug hits Android devices in targeted attacks](https://www.malwarebytes.com/blog/news/2026/03/high-severity-qualcomm-bug-hits-android-devices-in-targeted-attacks)
+### 76. [High-severity Qualcomm bug hits Android devices in targeted attacks](https://www.malwarebytes.com/blog/news/2026/03/high-severity-qualcomm-bug-hits-android-devices-in-targeted-attacks)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Mar 2026 12:33:22 GMT  
@@ -671,7 +681,7 @@
 
 ---
 
-### 76. [Pentagon ditches Anthropic AI over &#8220;security risk&#8221; and OpenAI takes over](https://www.malwarebytes.com/blog/news/2026/03/pentagon-ditches-anthropic-ai-over-security-risk-and-openai-takes-over)
+### 77. [Pentagon ditches Anthropic AI over &#8220;security risk&#8221; and OpenAI takes over](https://www.malwarebytes.com/blog/news/2026/03/pentagon-ditches-anthropic-ai-over-security-risk-and-openai-takes-over)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Mar 2026 16:05:58 GMT  
@@ -680,7 +690,7 @@
 
 ---
 
-### 77. [Chrome flaw let extensions hijack Gemini’s camera, mic, and file access](https://www.malwarebytes.com/blog/news/2026/03/chrome-flaw-let-extensions-hijack-geminis-camera-mic-and-file-access)
+### 78. [Chrome flaw let extensions hijack Gemini’s camera, mic, and file access](https://www.malwarebytes.com/blog/news/2026/03/chrome-flaw-let-extensions-hijack-geminis-camera-mic-and-file-access)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Mar 2026 12:10:19 GMT  
@@ -689,7 +699,7 @@
 
 ---
 
-### 78. [Samsung TVs stop spying on viewers in Texas. Here&#8217;s how to disable ACR anywhere](https://www.malwarebytes.com/blog/news/2026/03/samsung-tvs-stop-spying-on-viewers-in-texas-heres-how-to-disable-acr-anywhere)
+### 79. [Samsung TVs stop spying on viewers in Texas. Here&#8217;s how to disable ACR anywhere](https://www.malwarebytes.com/blog/news/2026/03/samsung-tvs-stop-spying-on-viewers-in-texas-heres-how-to-disable-acr-anywhere)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 02 Mar 2026 15:01:29 GMT  
@@ -698,21 +708,12 @@
 
 ---
 
-### 79. [A fake FileZilla site hosts a malicious download](https://www.malwarebytes.com/blog/threat-intel/2026/03/a-fake-filezilla-site-hosts-a-malicious-download)
+### 80. [A fake FileZilla site hosts a malicious download](https://www.malwarebytes.com/blog/threat-intel/2026/03/a-fake-filezilla-site-hosts-a-malicious-download)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 02 Mar 2026 13:57:29 GMT  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 80. [Purchase order attachment isn’t a PDF. It’s phishing for your password](https://www.malwarebytes.com/blog/threat-intel/2026/03/purchase-order-attachment-isnt-a-pdf-its-phishing-for-your-password)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 02 Mar 2026 08:59:47 GMT  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 

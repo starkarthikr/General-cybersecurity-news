@@ -1,12 +1,12 @@
 [
   {
     "source": "The Hacker News",
-    "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
-    "link": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
-    "published": "Thu, 05 Mar 2026 20:52:00 +0530",
-    "summary": "Most organizations assume encrypted data is safe.\nBut many attackers are already preparing for a future where today’s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers.\nThis tactic—known as “harvest now, decrypt later”—means sensitive data transmitted today could become",
+    "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer",
+    "link": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html",
+    "published": "Fri, 06 Mar 2026 12:14:00 +0530",
+    "summary": "Microsoft on Thursday disclosed details of a new widespread ClickFix social engineering campaign that has leveraged the Windows Terminal app as a way to activate a sophisticated attack chain and deploy the Lumma Stealer malware.\nThe activity, observed in February 2026, makes use of the terminal emulator program instead of instructing users to launch the Windows Run dialog and paste a command",
     "analysis": {
-      "issue": "Harvest-now-decrypt-later threats push organizations toward hybrid cryptography and ML-KEM as quantum risks grow",
+      "issue": "Microsoft reveals ClickFix campaign abusing Windows Terminal to deliver Lumma Stealer and steal browser credentials",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -14,6 +14,27 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog",
+    "link": "https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html",
+    "published": "Fri, 06 Mar 2026 12:00:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Hikvision and Rockwell Automation products to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe critical-severity vulnerabilities are listed below -\n\nCVE-2017-7921 (CVSS score: 9.8) - An improper authentication vulnerability affecting",
+    "analysis": {
+      "issue": "CISA adds Hikvision flaw CVE-2017-7921 and Rockwell Automation CVE-2021-22681 to KEV, urging agencies to patch by March 26, 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2017-7921",
+        "CVE-2021-22681"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -35,6 +56,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
+    "link": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
+    "published": "Thu, 05 Mar 2026 20:52:00 +0530",
+    "summary": "Most organizations assume encrypted data is safe.\nBut many attackers are already preparing for a future where today’s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers.\nThis tactic—known as “harvest now, decrypt later”—means sensitive data transmitted today could become",
+    "analysis": {
+      "issue": "Harvest-now-decrypt-later threats push organizations toward hybrid cryptography and ML-KEM as quantum risks grow",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -149,38 +188,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict",
-    "link": "https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html",
-    "published": "Wed, 04 Mar 2026 22:51:00 +0530",
-    "summary": "Cybersecurity researchers have warned of a surge in retaliatory hacktivist activity following the U.S.-Israel coordinated military campaign against Iran, codenamed Epic Fury and Roaring Lion.\n\"The hacktivist threat in the Middle East is highly lopsided, with two groups, Keymous+ and DieNet, driving nearly 70% of all attack activity between February 28 and March 2,\" Radware said in a Tuesday",
+    "source": "Bleeping Computer",
+    "title": "FBI investigates breach of surveillance and wiretap systems",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/",
+    "published": "Fri, 06 Mar 2026 03:44:53 -0500",
+    "summary": "The U.S. Federal Bureau of Investigation (FBI) confirmed on Thursday that it's investigating a breach that affected systems used to manage surveillance and wiretap warrants. [...]",
     "analysis": {
-      "issue": "149 hacktivist attacks hit 110 organizations across 16 countries after Middle East conflict, targeting governments, infrastructure, & telecom sectors",
+      "issue": "Federal Bureau of Investigation (FBI) confirmed on Thursday that it's investigating a breach that affected systems used to manage surveillance and wiretap warrants",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13–17.2.1",
-    "link": "https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html",
-    "published": "Wed, 04 Mar 2026 18:58:00 +0530",
-    "summary": "Google said it identified a \"new and powerful\" exploit kit dubbed Coruna (aka CryptoWaters) targeting Apple iPhone models running iOS versions between 13.0 and 17.2.1.\nThe exploit kit featured five full iOS exploit chains and a total of 23 exploits, Google Threat Intelligence Group (GTIG) said. It's not effective against the latest version of iOS. The findings were first reported by WIRED.\n\"The",
-    "analysis": {
-      "issue": "Google uncovered Coruna iOS exploit kit with 23 exploits across five chains targeting iPhones running iOS 13–17",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -354,24 +375,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Phobos ransomware admin pleads guilty to wire fraud conspiracy",
-    "link": "https://www.bleepingcomputer.com/news/security/phobos-ransomware-admin-pleads-guilty-to-wire-fraud-conspiracy/",
-    "published": "Thu, 05 Mar 2026 03:34:42 -0500",
-    "summary": "A Russian national pleaded guilty to a wire fraud conspiracy charge related to his role in administering the Phobos ransomware operation, which breached hundreds of victims worldwide. [...]",
-    "analysis": {
-      "issue": "A Russian national pleaded guilty to a wire fraud conspiracy charge related to his role in administering the Phobos ransomware operation, which breached hundreds of victims worldwide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who is the Kimwolf Botmaster “Dort”?",
     "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
@@ -442,16 +445,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21525",
+        "CVE-2026-21523",
         "CVE-2026-21513",
+        "CVE-2026-21510",
+        "CVE-2026-21514",
+        "CVE-2026-21256",
+        "CVE-2026-21519",
         "CVE-2026-21533",
         "CVE-2026-21509",
-        "CVE-2026-21256",
-        "CVE-2026-21514",
-        "CVE-2026-21519",
-        "CVE-2026-21510",
-        "CVE-2026-21525",
-        "CVE-2026-21516",
-        "CVE-2026-21523"
+        "CVE-2026-21516"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -529,9 +532,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20953",
         "CVE-2026-20952",
-        "CVE-2026-20805"
+        "CVE-2026-20805",
+        "CVE-2026-20953"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1219,6 +1222,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Fake CleanMyMac site installs SHub Stealer and backdoors crypto wallets",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-cleanmymac-site-installs-shub-stealer-and-backdoors-crypto-wallets",
+    "published": "Fri, 06 Mar 2026 08:44:30 GMT",
+    "summary": "We uncovered a fake CleanMyMac site delivering SHub Stealer, a macOS infostealer that steals credentials and silently backdoors crypto wallets.",
+    "analysis": {
+      "issue": "A convincing fake version of the popular Mac utility CleanMyMac is tricking users into installing malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Windows File Shredder: When deleting a file isn’t enough",
     "link": "https://www.malwarebytes.com/blog/product/2026/03/windows-file-shredder-when-deleting-a-file-isnt-enough",
     "published": "Thu, 05 Mar 2026 11:07:53 GMT",
@@ -1381,24 +1402,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Purchase order attachment isn’t a PDF. It’s phishing for your password",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/purchase-order-attachment-isnt-a-pdf-its-phishing-for-your-password",
-    "published": "Mon, 02 Mar 2026 08:59:47 GMT",
-    "summary": "A fake purchase order attachment turned out to be a phishing page designed to harvest your login details.",
-    "analysis": {
-      "issue": "An attachment named New PO 500PCS",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
