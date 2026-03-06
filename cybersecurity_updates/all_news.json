@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India",
+    "link": "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html",
+    "published": "Fri, 06 Mar 2026 20:41:00 +0530",
+    "summary": "The Pakistan-aligned threat actor known as Transparent Tribe has become the latest hacking group to embrace artificial intelligence (AI)-powered coding tools to strike targets with various implants.\nThe activity is designed to produce a \"high-volume, mediocre mass of implants\" that are developed using lesser-known programming languages like Nim, Zig, and Crystal and rely on trusted services like",
+    "analysis": {
+      "issue": "Transparent Tribe uses AI tools to mass-produce polyglot malware targeting India using Slack, Discord, and Google Sheets C2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT",
+    "link": "https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html",
+    "published": "Fri, 06 Mar 2026 20:03:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a multi-stage malware campaign that uses batch scripts as a pathway to deliver various encrypted remote access trojan (RATs) payloads that correspond to XWorm, AsyncRAT, and Xeno RAT.\nThe stealthy attack chain has been codenamed VOID#GEIST by Securonix Threat Research.\nAt a high level, the obfuscated batch script is used to deploy a second",
+    "analysis": {
+      "issue": "VOID#GEIST malware campaign delivers XWorm, AsyncRAT, and Xeno RAT using batch scripts, Python loaders, and explorer",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity",
     "link": "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html",
     "published": "Fri, 06 Mar 2026 16:00:00 +0530",
@@ -84,8 +120,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2017-7921",
-        "CVE-2021-22681"
+        "CVE-2021-22681",
+        "CVE-2017-7921"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -150,38 +186,77 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware",
-    "link": "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html",
-    "published": "Thu, 05 Mar 2026 17:31:00 +0530",
-    "summary": "A suspected Iran-nexus threat actor has been attributed to a campaign targeting government officials in Iraq by impersonating the country's Ministry of Foreign Affairs to deliver a set of never-before-seen malware.\nZscaler ThreatLabz, which observed the activity in January 2026, is tracking the cluster under the name Dust Specter. The attacks, which manifest in the form of two different",
+    "source": "Bleeping Computer",
+    "title": "CISA warns feds to patch iOS flaws exploited in crypto-theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/",
+    "published": "Fri, 06 Mar 2026 10:57:16 -0500",
+    "summary": "CISA ordered U.S. federal agencies to patch three iOS security flaws targeted in cyberespionage and crypto-theft attacks using the Coruna exploit kit. [...]",
     "analysis": {
-      "issue": "Iran-linked Dust Specter targeted Iraqi officials using fake ministry lures and new malware families uncovered by Zscaler",
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) ordered federal agencies to patch three iOS security flaws targeted in cyberespionage and crypto-theft attacks using the Coruna exploit kit",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
+    "link": "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/",
+    "published": "Fri, 06 Mar 2026 10:00:10 -0500",
+    "summary": "EC-Council, creator of the world-renowned Certified Ethical Hacker (CEH) credential and a global leader in applied cybersecurity education, today launched its Enterprise AI Credential Suite, with four new role-based AI certifications debuting alongside Certified CISO v4, an overhauled executive cyber leadership program. [...]",
+    "analysis": {
+      "issue": "5 trillion in global AI risk exposure and 700,000 U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Fake Claude Code install guides push infostealers in InstallFix attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/",
+    "published": "Fri, 06 Mar 2026 10:00:00 -0500",
+    "summary": "Threat actors are employing a new variation of the ClickFix social engineering technique called InstallFix to convince users into running malicious commands under the pretext of installing legitimate command line interface (CLI) tools. [...]",
+    "analysis": {
+      "issue": "Threat actors are employing a new variation of the ClickFix social engineering technique called InstallFix to convince users into running malicious commands under the pretext of installing legitimate command-line interface (CLI) tools",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
         "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Where Multi-Factor Authentication Stops and Credential Abuse Starts",
-    "link": "https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html",
-    "published": "Thu, 05 Mar 2026 16:30:00 +0530",
-    "summary": "Organizations typically roll out multi-factor authentication (MFA) and assume stolen passwords are no longer enough to access systems. In Windows environments, that assumption is often wrong. Attackers still compromise networks every day using valid credentials. The issue is not MFA itself, but coverage.&nbsp;\nEnforced through an identity provider (IdP) such as Microsoft Entra ID, Okta, or",
+    "source": "Bleeping Computer",
+    "title": "Microsoft 365 Backup to add file-level restore for faster recovery",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/",
+    "published": "Fri, 06 Mar 2026 09:21:09 -0500",
+    "summary": "Microsoft will soon begin rolling out a significant upgrade to Microsoft 365 Backup to speed up recovery by allowing administrators to restore individual files and folders. [...]",
     "analysis": {
-      "issue": "Seven Windows authentication paths bypass MFA protections, enabling credential attacks through AD, NTLM, Kerberos, RDP, SMB, and service accounts",
+      "issue": "Microsoft will soon begin rolling out a significant upgrade to Microsoft 365 Backup to speed up recovery by allowing administrators to restore individual files and folders",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Ransomware"
       ]
     }
   },
@@ -297,78 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "FBI arrests suspect linked to $46M crypto theft from US Marshals",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/",
-    "published": "Thu, 05 Mar 2026 13:36:18 -0500",
-    "summary": "​A U.S. government contractor's son, accused of stealing more than $46 million in cryptocurrency from the U.S. Marshals Service, was arrested Wednesday on the island of Saint Martin. [...]",
-    "analysis": {
-      "issue": "government contractor's son, accused of stealing more than $46 million in cryptocurrency from the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google says 90 zero-days were exploited in attacks last year",
-    "link": "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/",
-    "published": "Thu, 05 Mar 2026 10:03:43 -0500",
-    "summary": "Google Threat Intelligence Group (GTIG) tracked 90 zero-day vulnerabilities actively exploited throughout 2025, almost half of them in enterprise software and appliances. [...]",
-    "analysis": {
-      "issue": "Google Threat Intelligence Group (GTIG) tracked 90 zero-day vulnerabilities actively exploited throughout 2025, almost half of them in enterprise software and appliances",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "2026 Browser Data Reveals Major Enterprise Security Blind Spots",
-    "link": "https://www.bleepingcomputer.com/news/security/2026-browser-data-reveals-major-enterprise-security-blind-spots/",
-    "published": "Thu, 05 Mar 2026 10:01:11 -0500",
-    "summary": "The browser is becoming the operating system for modern work, yet many enterprises still treat it as an extension of network or endpoint security. Keep Aware's 2026 State of Browser Security Report shows 41% of employees used AI web tools while browser-based phishing, extensions, and social engineering drive new security blind spots. [...]",
-    "analysis": {
-      "issue": "The 2026 State of Browser Security Report is now available, revealing how the browser has rapidly become the most critical and least protected control point in the enterprise",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Police dismantles online gambling ring exploiting Ukrainian women",
-    "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/",
-    "published": "Thu, 05 Mar 2026 07:39:20 -0500",
-    "summary": "Spanish and Ukrainian law enforcement authorities dismantled a criminal ring that exploited war-displaced Ukrainian women to run an online gambling scheme that laundered nearly €4.75 million in illicit proceeds. [...]",
-    "analysis": {
-      "issue": "Spanish and Ukrainian law enforcement authorities dismantled a criminal ring that exploited war-displaced Ukrainian women to run an online gambling scheme that laundered nearly €4",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who is the Kimwolf Botmaster “Dort”?",
     "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
@@ -439,16 +442,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21256",
         "CVE-2026-21533",
-        "CVE-2026-21516",
         "CVE-2026-21519",
-        "CVE-2026-21513",
-        "CVE-2026-21509",
         "CVE-2026-21523",
-        "CVE-2026-21510",
-        "CVE-2026-21514",
         "CVE-2026-21525",
-        "CVE-2026-21256"
+        "CVE-2026-21509",
+        "CVE-2026-21516",
+        "CVE-2026-21510",
+        "CVE-2026-21513",
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -526,9 +529,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20953",
         "CVE-2026-20805",
-        "CVE-2026-20952",
-        "CVE-2026-20953"
+        "CVE-2026-20952"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -574,6 +577,27 @@
         "Supply Chain"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "ArmorCode Raises $16 Million for Exposure Management Platform",
+    "link": "https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/",
+    "published": "Fri, 06 Mar 2026 16:06:39 +0000",
+    "summary": "<p>The company will accelerate platform development, expand go-to-market efforts, and invest in product innovation.</p>\n<p>The post <a href=\"https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/\">ArmorCode Raises $16 Million for Exposure Management Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike",
+    "link": "https://www.securityweek.com/in-other-news-fbi-hacked-us-security-pro-killed-in-iran-war-hijacked-cameras-used-in-khamenei-strike/",
+    "published": "Fri, 06 Mar 2026 15:35:00 +0000",
+    "summary": "<p>Other noteworthy stories that might have slipped under the radar: Avira antivirus vulnerabilities, Transport for London data breach affects 10 million, Gaming cheat exposes North Korean hacker.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-fbi-hacked-us-security-pro-killed-in-iran-war-hijacked-cameras-used-in-khamenei-strike/\">In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List",
+    "link": "https://www.securityweek.com/cisa-adds-ios-flaws-from-coruna-exploit-kit-to-kev/",
+    "published": "Fri, 06 Mar 2026 13:18:12 +0000",
+    "summary": "<p>The nation-state-grade iOS exploit kit targets 23 vulnerabilities affecting iOS 13 to 17.2.1.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-adds-ios-flaws-from-coruna-exploit-kit-to-kev/\">CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -623,27 +647,6 @@
     "link": "https://www.securityweek.com/cisco-warns-of-more-catalyst-sd-wan-flaws-exploited-in-the-wild/",
     "published": "Thu, 05 Mar 2026 12:15:06 +0000",
     "summary": "<p>The networking giant has added the recently patched CVE-2026-20128 and CVE-2026-20122 to the list of exploited vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-warns-of-more-catalyst-sd-wan-flaws-exploited-in-the-wild/\">Cisco Warns of More Catalyst SD-WAN Flaws Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Reclaim Security Raises $20 Million to Accelerate Remediation",
-    "link": "https://www.securityweek.com/reclaim-security-raises-20-million-to-accelerate-remediation/",
-    "published": "Thu, 05 Mar 2026 11:23:04 +0000",
-    "summary": "<p>The company will expand its engineering team, deepen integrations, and accelerate go-to-market initiatives.</p>\n<p>The post <a href=\"https://www.securityweek.com/reclaim-security-raises-20-million-to-accelerate-remediation/\">Reclaim Security Raises $20 Million to Accelerate Remediation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "LeakBase Cybercrime Forum Shut Down, Suspects Arrested",
-    "link": "https://www.securityweek.com/leakbase-cybercrime-forum-shut-down-suspects-arrested/",
-    "published": "Thu, 05 Mar 2026 10:46:17 +0000",
-    "summary": "<p>The stolen credential marketplace had been active since 2021 and in late 2025 it counted 142,000 users. </p>\n<p>The post <a href=\"https://www.securityweek.com/leakbase-cybercrime-forum-shut-down-suspects-arrested/\">LeakBase Cybercrime Forum Shut Down, Suspects Arrested</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco Patches Critical Vulnerabilities in Enterprise Networking Products",
-    "link": "https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-enterprise-networking-products/",
-    "published": "Thu, 05 Mar 2026 08:50:31 +0000",
-    "summary": "<p>Cisco has rolled out patches for 48 vulnerabilities in Firewall ASA, Secure FMC, and Secure FTD products.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-enterprise-networking-products/\">Cisco Patches Critical Vulnerabilities in Enterprise Networking Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -1185,8 +1188,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

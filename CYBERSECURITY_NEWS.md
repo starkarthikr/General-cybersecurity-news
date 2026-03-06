@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-06 13:09:57 UTC
+**Last Updated:** 2026-03-06 17:06:38 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
+### 1. [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 06 Mar 2026 20:41:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 06 Mar 2026 20:03:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 16:00:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor](https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html)
+### 4. [Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor](https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 15:53:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks](https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html)
+### 5. [China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks](https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 13:52:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer](https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html)
+### 6. [Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer](https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 12:14:00 +0530  
@@ -40,17 +58,17 @@
 
 ---
 
-### 5. [Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog](https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html)
+### 7. [Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog](https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 12:00:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2017-7921, CVE-2021-22681  
+**CVEs:** CVE-2021-22681, CVE-2017-7921  
 **Categories:** Vulnerability  
 
 ---
 
-### 6. [Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities](https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html)
+### 8. [Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities](https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Mar 2026 20:52:00 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders](https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html)
+### 9. [Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders](https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Mar 2026 20:52:00 +0530  
@@ -69,7 +87,7 @@
 
 ---
 
-### 8. [ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More](https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html)
+### 10. [ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More](https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Mar 2026 19:14:00 +0530  
@@ -78,25 +96,43 @@
 
 ---
 
-### 9. [Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware](https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html)
+### 11. [CISA warns feds to patch iOS flaws exploited in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 05 Mar 2026 17:31:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
+**Source:** Bleeping Computer  
+**Published:** Fri, 06 Mar 2026 10:57:16 -0500  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware, APT  
 
 ---
 
-### 10. [Where Multi-Factor Authentication Stops and Credential Abuse Starts](https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html)
+### 12. [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 05 Mar 2026 16:30:00 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Fri, 06 Mar 2026 10:00:10 -0500  
+**Severity:** High  
 **Categories:** General Security  
 
 ---
 
-### 11. [Ghanain man pleads guilty to role in $100 million fraud ring](https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/)
+### 13. [Fake Claude Code install guides push infostealers in InstallFix attacks](https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 06 Mar 2026 10:00:00 -0500  
+**Severity:** High  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 14. [Microsoft 365 Backup to add file-level restore for faster recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 06 Mar 2026 09:21:09 -0500  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 15. [Ghanain man pleads guilty to role in $100 million fraud ring](https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Mar 2026 05:08:00 -0500  
@@ -105,7 +141,7 @@
 
 ---
 
-### 12. [FBI investigates breach of surveillance and wiretap systems](https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/)
+### 16. [FBI investigates breach of surveillance and wiretap systems](https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Mar 2026 03:44:53 -0500  
@@ -114,7 +150,7 @@
 
 ---
 
-### 13. [Chinese state hackers target telcos with new malware toolkit](https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/)
+### 17. [Chinese state hackers target telcos with new malware toolkit](https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 18:19:49 -0500  
@@ -123,7 +159,7 @@
 
 ---
 
-### 14. [Bing AI promoted fake OpenClaw GitHub repo pushing info-stealing malware](https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/)
+### 18. [Bing AI promoted fake OpenClaw GitHub repo pushing info-stealing malware](https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 17:37:34 -0500  
@@ -132,7 +168,7 @@
 
 ---
 
-### 15. [Wikipedia hit by self-propagating JavaScript worm that vandalized pages](https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/)
+### 19. [Wikipedia hit by self-propagating JavaScript worm that vandalized pages](https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 15:42:25 -0500  
@@ -141,49 +177,13 @@
 
 ---
 
-### 16. [WordPress membership plugin bug exploited to create admin accounts](https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/)
+### 20. [WordPress membership plugin bug exploited to create admin accounts](https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 13:44:58 -0500  
 **Severity:** Critical  
 **CVEs:** CVE-2026-1492  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 17. [FBI arrests suspect linked to $46M crypto theft from US Marshals](https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 05 Mar 2026 13:36:18 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 18. [Google says 90 zero-days were exploited in attacks last year](https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 05 Mar 2026 10:03:43 -0500  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 19. [2026 Browser Data Reveals Major Enterprise Security Blind Spots](https://www.bleepingcomputer.com/news/security/2026-browser-data-reveals-major-enterprise-security-blind-spots/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 05 Mar 2026 10:01:11 -0500  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 20. [Police dismantles online gambling ring exploiting Ukrainian women](https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 05 Mar 2026 07:39:20 -0500  
-**Severity:** High  
-**Categories:** Vulnerability  
 
 ---
 
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21533, CVE-2026-21516, CVE-2026-21519, CVE-2026-21513, CVE-2026-21509, CVE-2026-21523, CVE-2026-21510, CVE-2026-21514, CVE-2026-21525, CVE-2026-21256  
+**CVEs:** CVE-2026-21256, CVE-2026-21533, CVE-2026-21519, CVE-2026-21523, CVE-2026-21525, CVE-2026-21509, CVE-2026-21516, CVE-2026-21510, CVE-2026-21513, CVE-2026-21514  
 **Categories:** Vulnerability  
 
 ---
@@ -256,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
+**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
 **Categories:** Vulnerability  
 
 ---
@@ -279,73 +279,73 @@
 
 ---
 
-### 31. [Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks](https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/)
+### 31. [ArmorCode Raises $16 Million for Exposure Management Platform](https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/)
+
+**Source:** Security Week  
+**Published:** Fri, 06 Mar 2026 16:06:39 +0000  
+
+---
+
+### 32. [In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike](https://www.securityweek.com/in-other-news-fbi-hacked-us-security-pro-killed-in-iran-war-hijacked-cameras-used-in-khamenei-strike/)
+
+**Source:** Security Week  
+**Published:** Fri, 06 Mar 2026 15:35:00 +0000  
+
+---
+
+### 33. [CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List](https://www.securityweek.com/cisa-adds-ios-flaws-from-coruna-exploit-kit-to-kev/)
+
+**Source:** Security Week  
+**Published:** Fri, 06 Mar 2026 13:18:12 +0000  
+
+---
+
+### 34. [Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks](https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 12:32:09 +0000  
 
 ---
 
-### 32. [James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO](https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/)
+### 35. [James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO](https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 11:44:15 +0000  
 
 ---
 
-### 33. [Iranian APT Hacked US Airport, Bank, Software Company](https://www.securityweek.com/iranian-apt-hacks-us-airport-bank-software-company/)
+### 36. [Iranian APT Hacked US Airport, Bank, Software Company](https://www.securityweek.com/iranian-apt-hacks-us-airport-bank-software-company/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 11:31:09 +0000  
 
 ---
 
-### 34. [Data Security Firm Evervault Raises $25 Million in Series B Funding](https://www.securityweek.com/data-security-firm-evervault-raises-25-million-in-series-b-funding/)
+### 37. [Data Security Firm Evervault Raises $25 Million in Series B Funding](https://www.securityweek.com/data-security-firm-evervault-raises-25-million-in-series-b-funding/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 09:05:48 +0000  
 
 ---
 
-### 35. [Google: Half of 2025’s 90 Exploited Zero-Days Aimed at Enterprises](https://www.securityweek.com/google-half-of-2025s-90-exploited-zero-days-aimed-at-enterprises/)
+### 38. [Google: Half of 2025’s 90 Exploited Zero-Days Aimed at Enterprises](https://www.securityweek.com/google-half-of-2025s-90-exploited-zero-days-aimed-at-enterprises/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Mar 2026 15:00:00 +0000  
 
 ---
 
-### 36. [Russian Ransomware Operator Pleads Guilty in US](https://www.securityweek.com/russian-ransomware-operator-pleads-guilty-in-us/)
+### 39. [Russian Ransomware Operator Pleads Guilty in US](https://www.securityweek.com/russian-ransomware-operator-pleads-guilty-in-us/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Mar 2026 12:47:10 +0000  
 
 ---
 
-### 37. [Cisco Warns of More Catalyst SD-WAN Flaws Exploited in the Wild](https://www.securityweek.com/cisco-warns-of-more-catalyst-sd-wan-flaws-exploited-in-the-wild/)
+### 40. [Cisco Warns of More Catalyst SD-WAN Flaws Exploited in the Wild](https://www.securityweek.com/cisco-warns-of-more-catalyst-sd-wan-flaws-exploited-in-the-wild/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Mar 2026 12:15:06 +0000  
-
----
-
-### 38. [Reclaim Security Raises $20 Million to Accelerate Remediation](https://www.securityweek.com/reclaim-security-raises-20-million-to-accelerate-remediation/)
-
-**Source:** Security Week  
-**Published:** Thu, 05 Mar 2026 11:23:04 +0000  
-
----
-
-### 39. [LeakBase Cybercrime Forum Shut Down, Suspects Arrested](https://www.securityweek.com/leakbase-cybercrime-forum-shut-down-suspects-arrested/)
-
-**Source:** Security Week  
-**Published:** Thu, 05 Mar 2026 10:46:17 +0000  
-
----
-
-### 40. [Cisco Patches Critical Vulnerabilities in Enterprise Networking Products](https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-enterprise-networking-products/)
-
-**Source:** Security Week  
-**Published:** Thu, 05 Mar 2026 08:50:31 +0000  
 
 ---
 
@@ -610,7 +610,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
