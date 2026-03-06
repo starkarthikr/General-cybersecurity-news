@@ -30,8 +30,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-20128",
-        "CVE-2026-20122"
+        "CVE-2026-20122",
+        "CVE-2026-20128"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -186,6 +186,99 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Chinese state hackers target telcos with new malware toolkit",
+    "link": "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/",
+    "published": "Thu, 05 Mar 2026 18:19:49 -0500",
+    "summary": "A China-linked advanced persistent threat actor tracked as UAT-9244 has been targeting telecommunication service providers in South America since 2024, compromising Windows, Linux, and network-edge devices. [...]",
+    "analysis": {
+      "issue": "A China-linked advanced persistent threat actor tracked as UAT-9244 has been targeting telecommunication service providers in South America since 2024, compromising Windows, Linux, and network-edge devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Bing AI promoted fake OpenClaw GitHub repo pushing info-stealing malware",
+    "link": "https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/",
+    "published": "Thu, 05 Mar 2026 17:37:34 -0500",
+    "summary": "Fake OpenClaw installers hosted in GitHub repositories and promoted by Microsoft Bing's AI-enhanced search feature instructed users to run commands that deployed information stealers and proxy malware. [...]",
+    "analysis": {
+      "issue": "Fake OpenClaw installers hosted in GitHub repositories and promoted by Microsoft Bing’s AI-enhanced search feature instructed users to run commands that deployed information stealers and proxy malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Wikipedia hit by self-propagating JavaScript worm that vandalized pages",
+    "link": "https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/",
+    "published": "Thu, 05 Mar 2026 15:42:25 -0500",
+    "summary": "The Wikimedia Foundation suffered a security incident today after a self-propagating JavaScript worm began vandalizing pages and modifying user scripts across multiple wikis. [...]",
+    "analysis": {
+      "issue": "Update: Added Wikimedia Foundation's statement below and made a correction to denote it was only the Meta-Wiki that was vandalized",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "WordPress membership plugin bug exploited to create admin accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/",
+    "published": "Thu, 05 Mar 2026 13:44:58 -0500",
+    "summary": "Hackers are exploiting a critical vulnerability in the User Registration & Membership plugin, which is installed on more than 60,000 WordPress sites. [...]",
+    "analysis": {
+      "issue": "Hackers are exploiting a critical vulnerability in the User Registration & Membership plugin, which is installed on more than 60,000 WordPress sites",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-1492"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "FBI arrests suspect linked to $46M crypto theft from US Marshals",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/",
+    "published": "Thu, 05 Mar 2026 13:36:18 -0500",
+    "summary": "​A U.S. government contractor's son, accused of stealing more than $46 million in cryptocurrency from the U.S. Marshals Service, was arrested Wednesday on the island of Saint Martin. [...]",
+    "analysis": {
+      "issue": "government contractor's son, accused of stealing more than $46 million in cryptocurrency from the U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Google says 90 zero-days were exploited in attacks last year",
     "link": "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/",
     "published": "Thu, 05 Mar 2026 10:03:43 -0500",
@@ -251,8 +344,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20128",
         "CVE-2026-20122",
+        "CVE-2026-20128",
         "CVE-2026-20127"
       ],
       "threat_categories": [
@@ -275,103 +368,6 @@
       "cves": [],
       "threat_categories": [
         "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Bitwarden adds support for passkey login on Windows 11",
-    "link": "https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/",
-    "published": "Wed, 04 Mar 2026 17:34:58 -0500",
-    "summary": "Bitwarden announced support for logging into Windows 11 devices using passkeys stored in the manager's vault, enabling phishing-resistant authentication. [...]",
-    "analysis": {
-      "issue": "Bitwarden announced support for logging into Windows 11 devices using passkeys stored in the manager's vault, enabling phishing-resistant authentication",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Mail2Shell zero-click attack lets hackers hijack FreeScout mail servers",
-    "link": "https://www.bleepingcomputer.com/news/security/mail2shell-zero-click-attack-lets-hackers-hijack-freescout-mail-servers/",
-    "published": "Wed, 04 Mar 2026 16:51:32 -0500",
-    "summary": "A maximum severity vulnerability in the FreeScout helpdesk platform allows hackers to achieve remote code execution without any user interaction or authentication. [...]",
-    "analysis": {
-      "issue": "A maximum severity vulnerability in the FreeScout helpdesk platform allows hackers to achieve remote code execution without any user interaction or authentication",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-27636",
-        "CVE-2026-28289"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows 10 KB5075039 update fixes broken Recovery Environment",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5075039-update-fixes-broken-recovery-environment/",
-    "published": "Wed, 04 Mar 2026 16:03:39 -0500",
-    "summary": "Microsoft has released the KB5075039 Windows Recovery Environment update for Windows 10 to fix a long-standing issue that prevented some users from accessing the Recovery environment. [...]",
-    "analysis": {
-      "issue": "Microsoft has released the KB5075039 Windows Recovery Environment update for Windows 10 to fix a long-standing issue that prevented some users from accessing the Recovery environment",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Fake LastPass support email threads try to steal vault passwords",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-support-email-threads-try-to-steal-vault-passwords/",
-    "published": "Wed, 04 Mar 2026 15:44:21 -0500",
-    "summary": "Password management software provider LastPass is warning users of a phishing campaign targeting its users with fake unauthorized account access alerts. [...]",
-    "analysis": {
-      "issue": "Password management software provider LastPass is warning users of a phishing campaign targeting its users with fake unauthorized account access alerts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Cisco warns of max severity Secure FMC flaws giving root access",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-secure-fmc-flaws-giving-root-access/",
-    "published": "Wed, 04 Mar 2026 14:12:43 -0500",
-    "summary": "Cisco has released security updates to patch two maximum-severity vulnerabilities in its Secure Firewall Management Center (FMC) software. [...]",
-    "analysis": {
-      "issue": "Cisco has released security updates to patch two maximum-severity vulnerabilities in its Secure Firewall Management Center (FMC) software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-20079",
-        "CVE-2026-20131"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -446,16 +442,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21509",
-        "CVE-2026-21513",
         "CVE-2026-21510",
-        "CVE-2026-21516",
-        "CVE-2026-21525",
-        "CVE-2026-21514",
-        "CVE-2026-21256",
         "CVE-2026-21519",
+        "CVE-2026-21516",
+        "CVE-2026-21513",
+        "CVE-2026-21514",
+        "CVE-2026-21525",
         "CVE-2026-21533",
-        "CVE-2026-21523"
+        "CVE-2026-21256",
+        "CVE-2026-21523",
+        "CVE-2026-21509"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -654,6 +650,25 @@
   },
   {
     "source": "Talos Blog",
+    "title": "Patch, track, repeat: The 2025 CVE retrospective",
+    "link": "https://blog.talosintelligence.com/patch-track-repeat-the-2025-cve-retrospective/",
+    "published": "Thu, 05 Mar 2026 19:00:44 GMT",
+    "summary": "Thor analyzes CVE data from 2025 and provides recommendations for where and how organizations should strengthen their defenses.",
+    "analysis": {
+      "issue": "Welcome to this week's edition of the Threat Source newsletter",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
     "title": "UAT-9244 targets South American telecommunication providers with three new malware implants",
     "link": "https://blog.talosintelligence.com/uat-9244/",
     "published": "Thu, 05 Mar 2026 11:00:12 GMT",
@@ -821,24 +836,6 @@
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "New threat actor, UAT-9921, leverages VoidLink framework in campaigns",
-    "link": "https://blog.talosintelligence.com/voidlink/",
-    "published": "Wed, 11 Feb 2026 00:00:07 GMT",
-    "summary": "Cisco Talos recently discovered a new threat actor, UAT-9221, leveraging VoidLink in campaigns. Their activities may go as far back as 2019, even without VoidLink.",
-    "analysis": {
-      "issue": "VoidLink is a new modular framework that targets Linux based systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1191,8 +1188,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

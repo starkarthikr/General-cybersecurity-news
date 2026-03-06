@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-05 18:27:34 UTC
+**Last Updated:** 2026-03-06 02:34:53 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -18,7 +18,7 @@
 **Source:** The Hacker News  
 **Published:** Thu, 05 Mar 2026 20:52:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2026-20128, CVE-2026-20122  
+**CVEs:** CVE-2026-20122, CVE-2026-20128  
 **Categories:** Vulnerability  
 
 ---
@@ -95,7 +95,53 @@
 
 ---
 
-### 11. [Google says 90 zero-days were exploited in attacks last year](https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/)
+### 11. [Chinese state hackers target telcos with new malware toolkit](https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 05 Mar 2026 18:19:49 -0500  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 12. [Bing AI promoted fake OpenClaw GitHub repo pushing info-stealing malware](https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 05 Mar 2026 17:37:34 -0500  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [Wikipedia hit by self-propagating JavaScript worm that vandalized pages](https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 05 Mar 2026 15:42:25 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 14. [WordPress membership plugin bug exploited to create admin accounts](https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 05 Mar 2026 13:44:58 -0500  
+**Severity:** Critical  
+**CVEs:** CVE-2026-1492  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 15. [FBI arrests suspect linked to $46M crypto theft from US Marshals](https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 05 Mar 2026 13:36:18 -0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 16. [Google says 90 zero-days were exploited in attacks last year](https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 10:03:43 -0500  
@@ -104,7 +150,7 @@
 
 ---
 
-### 12. [2026 Browser Data Reveals Major Enterprise Security Blind Spots](https://www.bleepingcomputer.com/news/security/2026-browser-data-reveals-major-enterprise-security-blind-spots/)
+### 17. [2026 Browser Data Reveals Major Enterprise Security Blind Spots](https://www.bleepingcomputer.com/news/security/2026-browser-data-reveals-major-enterprise-security-blind-spots/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 10:01:11 -0500  
@@ -113,7 +159,7 @@
 
 ---
 
-### 13. [Police dismantles online gambling ring exploiting Ukrainian women](https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/)
+### 18. [Police dismantles online gambling ring exploiting Ukrainian women](https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 07:39:20 -0500  
@@ -122,69 +168,22 @@
 
 ---
 
-### 14. [Cisco flags more SD-WAN flaws as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/)
+### 19. [Cisco flags more SD-WAN flaws as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 05:32:19 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20128, CVE-2026-20122, CVE-2026-20127  
+**CVEs:** CVE-2026-20122, CVE-2026-20128, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---
 
-### 15. [Phobos ransomware admin pleads guilty to wire fraud conspiracy](https://www.bleepingcomputer.com/news/security/phobos-ransomware-admin-pleads-guilty-to-wire-fraud-conspiracy/)
+### 20. [Phobos ransomware admin pleads guilty to wire fraud conspiracy](https://www.bleepingcomputer.com/news/security/phobos-ransomware-admin-pleads-guilty-to-wire-fraud-conspiracy/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 03:34:42 -0500  
 **Severity:** Low  
 **Categories:** Ransomware  
-
----
-
-### 16. [Bitwarden adds support for passkey login on Windows 11](https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 04 Mar 2026 17:34:58 -0500  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 17. [Mail2Shell zero-click attack lets hackers hijack FreeScout mail servers](https://www.bleepingcomputer.com/news/security/mail2shell-zero-click-attack-lets-hackers-hijack-freescout-mail-servers/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 04 Mar 2026 16:51:32 -0500  
-**Severity:** Low  
-**CVEs:** CVE-2026-27636, CVE-2026-28289  
-**Categories:** Vulnerability  
-
----
-
-### 18. [Windows 10 KB5075039 update fixes broken Recovery Environment](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5075039-update-fixes-broken-recovery-environment/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 04 Mar 2026 16:03:39 -0500  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 19. [Fake LastPass support email threads try to steal vault passwords](https://www.bleepingcomputer.com/news/security/fake-lastpass-support-email-threads-try-to-steal-vault-passwords/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 04 Mar 2026 15:44:21 -0500  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 20. [Cisco warns of max severity Secure FMC flaws giving root access](https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-secure-fmc-flaws-giving-root-access/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 04 Mar 2026 14:12:43 -0500  
-**Severity:** Low  
-**CVEs:** CVE-2026-20079, CVE-2026-20131  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -220,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21509, CVE-2026-21513, CVE-2026-21510, CVE-2026-21516, CVE-2026-21525, CVE-2026-21514, CVE-2026-21256, CVE-2026-21519, CVE-2026-21533, CVE-2026-21523  
+**CVEs:** CVE-2026-21510, CVE-2026-21519, CVE-2026-21516, CVE-2026-21513, CVE-2026-21514, CVE-2026-21525, CVE-2026-21533, CVE-2026-21256, CVE-2026-21523, CVE-2026-21509  
 **Categories:** Vulnerability  
 
 ---
@@ -350,7 +349,16 @@
 
 ---
 
-### 41. [UAT-9244 targets South American telecommunication providers with three new malware implants](https://blog.talosintelligence.com/uat-9244/)
+### 41. [Patch, track, repeat: The 2025 CVE retrospective](https://blog.talosintelligence.com/patch-track-repeat-the-2025-cve-retrospective/)
+
+**Source:** Talos Blog  
+**Published:** Thu, 05 Mar 2026 19:00:44 GMT  
+**Severity:** Low  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 42. [UAT-9244 targets South American telecommunication providers with three new malware implants](https://blog.talosintelligence.com/uat-9244/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 05 Mar 2026 11:00:12 GMT  
@@ -359,7 +367,7 @@
 
 ---
 
-### 42. [Talos on the developing situation in the Middle East](https://blog.talosintelligence.com/talos-developing-situation-in-the-middle-east/)
+### 43. [Talos on the developing situation in the Middle East](https://blog.talosintelligence.com/talos-developing-situation-in-the-middle-east/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 03 Mar 2026 00:55:43 GMT  
@@ -368,7 +376,7 @@
 
 ---
 
-### 43. [Henry IV, Hotspur, Hal, and hallucinations](https://blog.talosintelligence.com/henry-iv-hotspur-hal-and-hallucinations/)
+### 44. [Henry IV, Hotspur, Hal, and hallucinations](https://blog.talosintelligence.com/henry-iv-hotspur-hal-and-hallucinations/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 26 Feb 2026 19:00:39 GMT  
@@ -377,7 +385,7 @@
 
 ---
 
-### 44. [New Dohdoor malware campaign targets education and health care](https://blog.talosintelligence.com/new-dohdoor-malware-campaign/)
+### 45. [New Dohdoor malware campaign targets education and health care](https://blog.talosintelligence.com/new-dohdoor-malware-campaign/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 26 Feb 2026 11:00:25 GMT  
@@ -386,7 +394,7 @@
 
 ---
 
-### 45. [Active exploitation of Cisco Catalyst SD-WAN by UAT-8616](https://blog.talosintelligence.com/uat-8616-sd-wan/)
+### 46. [Active exploitation of Cisco Catalyst SD-WAN by UAT-8616](https://blog.talosintelligence.com/uat-8616-sd-wan/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 25 Feb 2026 16:13:36 GMT  
@@ -396,7 +404,7 @@
 
 ---
 
-### 46. [Using AI to defeat AI](https://blog.talosintelligence.com/using-ai-to-defeat-ai/)
+### 47. [Using AI to defeat AI](https://blog.talosintelligence.com/using-ai-to-defeat-ai/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 19 Feb 2026 19:00:07 GMT  
@@ -405,7 +413,7 @@
 
 ---
 
-### 47. [“Good enough” emulation: Fuzzing a single thread to uncover vulnerabilities](https://blog.talosintelligence.com/good-enough-emulation/)
+### 48. [“Good enough” emulation: Fuzzing a single thread to uncover vulnerabilities](https://blog.talosintelligence.com/good-enough-emulation/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 18 Feb 2026 11:00:31 GMT  
@@ -414,7 +422,7 @@
 
 ---
 
-### 48. [Hand over the keys for Shannon’s shenanigans](https://blog.talosintelligence.com/hand-over-the-keys-for-shannons-shenanigans/)
+### 49. [Hand over the keys for Shannon’s shenanigans](https://blog.talosintelligence.com/hand-over-the-keys-for-shannons-shenanigans/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 12 Feb 2026 19:00:22 GMT  
@@ -423,21 +431,12 @@
 
 ---
 
-### 49. [Ryan Liles, master of technical diplomacy](https://blog.talosintelligence.com/ryan-liles-master-of-technical-diplomacy/)
+### 50. [Ryan Liles, master of technical diplomacy](https://blog.talosintelligence.com/ryan-liles-master-of-technical-diplomacy/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 12 Feb 2026 11:00:39 GMT  
 **Severity:** High  
 **Categories:** Vulnerability, Supply Chain  
-
----
-
-### 50. [New threat actor, UAT-9921, leverages VoidLink framework in campaigns](https://blog.talosintelligence.com/voidlink/)
-
-**Source:** Talos Blog  
-**Published:** Wed, 11 Feb 2026 00:00:07 GMT  
-**Severity:** High  
-**Categories:** Vulnerability  
 
 ---
 
@@ -611,7 +610,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
