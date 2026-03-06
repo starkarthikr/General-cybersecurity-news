@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity",
+    "link": "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html",
+    "published": "Fri, 06 Mar 2026 16:00:00 +0530",
+    "summary": "Scaling cybersecurity services as an MSP or MSSP requires technical expertise and a business model that delivers measurable value at scale.\nRisk-based cybersecurity is the foundation of that model. When done right, it builds client trust, increases upsell opportunities, and drives recurring revenue. But to deliver this consistently and efficiently, you need the right technology and processes.",
+    "analysis": {
+      "issue": "AI-powered risk management helps MSPs automate assessments, manage compliance, and scale cybersecurity services with recurring revenue",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor",
+    "link": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html",
+    "published": "Fri, 06 Mar 2026 15:53:00 +0530",
+    "summary": "New research from Broadcom's Symantec and Carbon Black Threat Hunter Team has discovered evidence of an Iranian hacking group embedding itself in several U.S. companies' networks, including banks, airports, non-profit, and the Israeli arm of a software company.\nThe activity has been attributed to a state-sponsored hacking group called MuddyWater (aka Seedworm). It's affiliated with the Iranian",
+    "analysis": {
+      "issue": "Iran-linked MuddyWater hackers breached U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks",
+    "link": "https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html",
+    "published": "Fri, 06 Mar 2026 13:52:00 +0530",
+    "summary": "A China-linked advanced persistent threat (APT) actor has been targeting critical telecommunications infrastructure in South America since 2024, targeting Windows and Linux systems and edge devices with three different implants.\nThe activity is being tracked by Cisco Talos under the moniker UAT-9244, describing it as closely associated with another cluster known as FamousSparrow.\nIt's worth",
+    "analysis": {
+      "issue": "China-linked UAT-9244 targets South American telecom networks with TernDoor, PeerTime, and BruteEntry malware on Windows, Linux, and edge devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer",
     "link": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html",
     "published": "Fri, 06 Mar 2026 12:14:00 +0530",
@@ -132,55 +186,17 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine",
-    "link": "https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html",
-    "published": "Thu, 05 Mar 2026 15:40:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new Russian cyber campaign that has targeted Ukrainian entities with two previously undocumented malware families named BadPaw and MeowMeow.\n\"The attack chain initiates with a phishing email containing a link to a ZIP archive. Once extracted, an initial HTA file displays a lure document written in Ukrainian concerning border crossing appeals",
+    "source": "Bleeping Computer",
+    "title": "Ghanain man pleads guilty to role in $100 million fraud ring",
+    "link": "https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/",
+    "published": "Fri, 06 Mar 2026 05:08:00 -0500",
+    "summary": "A Ghanaian national pleaded guilty to his role in a massive fraud ring that stole over $100 million from victims across the United States through business email compromise attacks and romance scams. [...]",
     "analysis": {
-      "issue": "Researchers uncover APT28-linked phishing attacks against Ukrainian targets deploying BadPaw loader and MeowMeow backdoor for remote system control",
+      "issue": "A Ghanaian national pleaded guilty to his role in a massive fraud ring that stole over $100 million from victims across the United States through business email compromise attacks and romance scams",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks",
-    "link": "https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html",
-    "published": "Thu, 05 Mar 2026 12:21:00 +0530",
-    "summary": "Tycoon 2FA, one of the prominent phishing-as-a-service (PhaaS) toolkits that allowed cybercriminals to stage adversary-in-the-middle (AitM) credential harvesting attacks at scale, was dismantled by a coalition of law enforcement agencies and security companies.\nThe subscription-based phishing kit, which first emerged in August 2023, was described by Europol as one of the largest phishing",
-    "analysis": {
-      "issue": "Authorities dismantle Tycoon 2FA phishing service linked to 64,000 attacks, millions of emails, and breaches at nearly 100,000 organizations worldwide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials",
-    "link": "https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html",
-    "published": "Thu, 05 Mar 2026 12:04:00 +0530",
-    "summary": "A joint law enforcement operation has dismantled LeakBase, one of the world's largest online forums for cybercriminals to buy and sell stolen data and cybercrime tools.\nThe LeakBase forum, per the U.S. Department of Justice (DoJ), had over 142,000 members and more than 215,000 messages between members as of December 2025. Those attempting to access the forum's website (\"leakbase[.]la\") are now",
-    "analysis": {
-      "issue": "Authorities dismantled LeakBase, a cybercrime forum with 142,000 members trading stolen credentials and financial data in a global crackdown",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -353,28 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Cisco flags more SD-WAN flaws as actively exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/",
-    "published": "Thu, 05 Mar 2026 05:32:19 -0500",
-    "summary": "​Cisco has flagged two Catalyst SD-WAN Manager security flaws as actively exploited in the wild, urging administrators to upgrade vulnerable devices. [...]",
-    "analysis": {
-      "issue": "​Cisco has flagged two Catalyst SD-WAN Manager security flaws as actively exploited in the wild, urging administrators to upgrade vulnerable devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20128",
-        "CVE-2026-20122",
-        "CVE-2026-20127"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who is the Kimwolf Botmaster “Dort”?",
     "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
@@ -445,16 +439,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21525",
-        "CVE-2026-21523",
+        "CVE-2026-21533",
+        "CVE-2026-21516",
+        "CVE-2026-21519",
         "CVE-2026-21513",
+        "CVE-2026-21509",
+        "CVE-2026-21523",
         "CVE-2026-21510",
         "CVE-2026-21514",
-        "CVE-2026-21256",
-        "CVE-2026-21519",
-        "CVE-2026-21533",
-        "CVE-2026-21509",
-        "CVE-2026-21516"
+        "CVE-2026-21525",
+        "CVE-2026-21256"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -532,8 +526,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20952",
         "CVE-2026-20805",
+        "CVE-2026-20952",
         "CVE-2026-20953"
       ],
       "threat_categories": [
@@ -583,6 +577,34 @@
   },
   {
     "source": "Security Week",
+    "title": "Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks",
+    "link": "https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/",
+    "published": "Fri, 06 Mar 2026 12:32:09 +0000",
+    "summary": "<p>The vulnerability was disclosed and mitigated in 2021 but its in-the-wild exploitation has only now come to light.</p>\n<p>The post <a href=\"https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/\">Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO",
+    "link": "https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/",
+    "published": "Fri, 06 Mar 2026 11:44:15 +0000",
+    "summary": "<p>Bishop replaces David McKeown, who will take on a role in the private sector after 40 years of government service. </p>\n<p>The post <a href=\"https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/\">James &#8216;Aaron&#8217; Bishop Tapped to Serve as New Pentagon CISO</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Iranian APT Hacked US Airport, Bank, Software Company",
+    "link": "https://www.securityweek.com/iranian-apt-hacks-us-airport-bank-software-company/",
+    "published": "Fri, 06 Mar 2026 11:31:09 +0000",
+    "summary": "<p>The attacks, observed since February, show that Iranian hackers already have a presence in the networks of US organizations.</p>\n<p>The post <a href=\"https://www.securityweek.com/iranian-apt-hacks-us-airport-bank-software-company/\">Iranian APT Hacked US Airport, Bank, Software Company</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Data Security Firm Evervault Raises $25 Million in Series B Funding",
+    "link": "https://www.securityweek.com/data-security-firm-evervault-raises-25-million-in-series-b-funding/",
+    "published": "Fri, 06 Mar 2026 09:05:48 +0000",
+    "summary": "<p>The company has raised a total of $46 million in funding for its developer-focused encryption and orchestration platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/data-security-firm-evervault-raises-25-million-in-series-b-funding/\">Data Security Firm Evervault Raises $25 Million in Series B Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Google: Half of 2025’s 90 Exploited Zero-Days Aimed at Enterprises",
     "link": "https://www.securityweek.com/google-half-of-2025s-90-exploited-zero-days-aimed-at-enterprises/",
     "published": "Thu, 05 Mar 2026 15:00:00 +0000",
@@ -622,34 +644,6 @@
     "link": "https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-enterprise-networking-products/",
     "published": "Thu, 05 Mar 2026 08:50:31 +0000",
     "summary": "<p>Cisco has rolled out patches for 48 vulnerabilities in Firewall ASA, Secure FMC, and Secure FTD products.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-enterprise-networking-products/\">Cisco Patches Critical Vulnerabilities in Enterprise Networking Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Nation-State iOS Exploit Kit ‘Coruna’ Found Powering Global Attacks",
-    "link": "https://www.securityweek.com/nation-state-ios-exploit-kit-coruna-found-powering-global-attacks/",
-    "published": "Thu, 05 Mar 2026 04:04:17 +0000",
-    "summary": "<p>Google and iVerify analysis reveals a powerful exploit kit originally used by Russian state actors that is now appearing in broader criminal campaigns.</p>\n<p>The post <a href=\"https://www.securityweek.com/nation-state-ios-exploit-kit-coruna-found-powering-global-attacks/\">Nation-State iOS Exploit Kit ‘Coruna’ Found Powering Global Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Tycoon 2FA Phishing Platform Dismantled in Global Takedown",
-    "link": "https://www.securityweek.com/tycoon-2fa-phishing-platform-dismantled-in-global-takedown/",
-    "published": "Wed, 04 Mar 2026 18:37:26 +0000",
-    "summary": "<p>The phishing-as-a-service platform was used to send fraudulent emails to over 500,000 organizations every month.</p>\n<p>The post <a href=\"https://www.securityweek.com/tycoon-2fa-phishing-platform-dismantled-in-global-takedown/\">Tycoon 2FA Phishing Platform Dismantled in Global Takedown</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "New LexisNexis Data Breach Confirmed After Hackers Leak Files",
-    "link": "https://www.securityweek.com/new-lexisnexis-data-breach-confirmed-after-hackers-leak-files/",
-    "published": "Wed, 04 Mar 2026 17:44:14 +0000",
-    "summary": "<p>The hackers claim to have stolen 2GB of files, including 400,000 personal information records. </p>\n<p>The post <a href=\"https://www.securityweek.com/new-lexisnexis-data-breach-confirmed-after-hackers-leak-files/\">New LexisNexis Data Breach Confirmed After Hackers Leak Files</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Zurich Acquires Beazley in $11 Billion Deal to Lead Cyberinsurance",
-    "link": "https://www.securityweek.com/zurich-acquires-beazley-in-11-billion-deal-to-lead-cyberinsurance/",
-    "published": "Wed, 04 Mar 2026 15:36:26 +0000",
-    "summary": "<p>The deal awaits final shareholder and regulatory approvals and is expected to be completed in the second half of 2026.</p>\n<p>The post <a href=\"https://www.securityweek.com/zurich-acquires-beazley-in-11-billion-deal-to-lead-cyberinsurance/\">Zurich Acquires Beazley in $11 Billion Deal to Lead Cyberinsurance</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -760,8 +754,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20127",
-        "CVE-2022-20775"
+        "CVE-2022-20775",
+        "CVE-2026-20127"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1191,8 +1185,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1217,6 +1211,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Beware of fake OpenClaw installers, even if Bing points you to GitHub",
+    "link": "https://www.malwarebytes.com/blog/news/2026/03/beware-of-fake-openclaw-installers-even-if-bing-points-you-to-github",
+    "published": "Fri, 06 Mar 2026 11:11:26 GMT",
+    "summary": "Bing search results pointed victims to GitHub repositories claiming to host OpenClaw installers, but in reality they installed malware.",
+    "analysis": {
+      "issue": "Attackers are abusing OpenClaw’s popularity by seeding fake “installers” on GitHub, boosted by Bing AI search results, to deliver infostealers and proxy malware instead of the AI assistant users were looking for",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -1383,25 +1395,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A fake FileZilla site hosts a malicious download",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/a-fake-filezilla-site-hosts-a-malicious-download",
-    "published": "Mon, 02 Mar 2026 13:57:29 GMT",
-    "summary": "A tampered copy of FileZilla quietly contacts attacker-controlled servers using encrypted DNS traffic that can slip past traditional monitoring.",
-    "analysis": {
-      "issue": "A trojanized copy of the open-source FTP client FileZilla 3",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
