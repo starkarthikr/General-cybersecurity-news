@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-06 02:34:53 UTC
+**Last Updated:** 2026-03-06 03:13:24 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -18,7 +18,7 @@
 **Source:** The Hacker News  
 **Published:** Thu, 05 Mar 2026 20:52:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2026-20122, CVE-2026-20128  
+**CVEs:** CVE-2026-20128, CVE-2026-20122  
 **Categories:** Vulnerability  
 
 ---
@@ -173,7 +173,7 @@
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 05:32:19 -0500  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20122, CVE-2026-20128, CVE-2026-20127  
+**CVEs:** CVE-2026-20128, CVE-2026-20122, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21519, CVE-2026-21516, CVE-2026-21513, CVE-2026-21514, CVE-2026-21525, CVE-2026-21533, CVE-2026-21256, CVE-2026-21523, CVE-2026-21509  
+**CVEs:** CVE-2026-21513, CVE-2026-21533, CVE-2026-21509, CVE-2026-21256, CVE-2026-21514, CVE-2026-21519, CVE-2026-21510, CVE-2026-21525, CVE-2026-21516, CVE-2026-21523  
 **Categories:** Vulnerability  
 
 ---
@@ -399,7 +399,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 25 Feb 2026 16:13:36 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2022-20775, CVE-2026-20127  
+**CVEs:** CVE-2026-20127, CVE-2022-20775  
 **Categories:** Vulnerability  
 
 ---
