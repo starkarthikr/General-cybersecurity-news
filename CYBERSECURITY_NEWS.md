@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-06 17:06:38 UTC
+**Last Updated:** 2026-03-07 02:28:18 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -73,7 +73,7 @@
 **Source:** The Hacker News  
 **Published:** Thu, 05 Mar 2026 20:52:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2026-20128, CVE-2026-20122  
+**CVEs:** CVE-2026-20122, CVE-2026-20128  
 **Categories:** Vulnerability  
 
 ---
@@ -96,7 +96,16 @@
 
 ---
 
-### 11. [CISA warns feds to patch iOS flaws exploited in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/)
+### 11. [Cognizant TriZetto breach exposes health data of 3.4 million patients](https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 06 Mar 2026 14:50:21 -0500  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 12. [CISA warns feds to patch iOS flaws exploited in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Mar 2026 10:57:16 -0500  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/)
+### 13. [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Mar 2026 10:00:10 -0500  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [Fake Claude Code install guides push infostealers in InstallFix attacks](https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/)
+### 14. [Fake Claude Code install guides push infostealers in InstallFix attacks](https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Mar 2026 10:00:00 -0500  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Microsoft 365 Backup to add file-level restore for faster recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/)
+### 15. [Microsoft 365 Backup to add file-level restore for faster recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Mar 2026 09:21:09 -0500  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Ghanain man pleads guilty to role in $100 million fraud ring](https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/)
+### 16. [Ghanain man pleads guilty to role in $100 million fraud ring](https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Mar 2026 05:08:00 -0500  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [FBI investigates breach of surveillance and wiretap systems](https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/)
+### 17. [FBI investigates breach of surveillance and wiretap systems](https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Mar 2026 03:44:53 -0500  
@@ -150,7 +159,7 @@
 
 ---
 
-### 17. [Chinese state hackers target telcos with new malware toolkit](https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/)
+### 18. [Chinese state hackers target telcos with new malware toolkit](https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 18:19:49 -0500  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [Bing AI promoted fake OpenClaw GitHub repo pushing info-stealing malware](https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/)
+### 19. [Bing AI promoted fake OpenClaw GitHub repo pushing info-stealing malware](https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 17:37:34 -0500  
@@ -168,22 +177,12 @@
 
 ---
 
-### 19. [Wikipedia hit by self-propagating JavaScript worm that vandalized pages](https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/)
+### 20. [Wikipedia hit by self-propagating JavaScript worm that vandalized pages](https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 05 Mar 2026 15:42:25 -0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [WordPress membership plugin bug exploited to create admin accounts](https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 05 Mar 2026 13:44:58 -0500  
-**Severity:** Critical  
-**CVEs:** CVE-2026-1492  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -219,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21256, CVE-2026-21533, CVE-2026-21519, CVE-2026-21523, CVE-2026-21525, CVE-2026-21509, CVE-2026-21516, CVE-2026-21510, CVE-2026-21513, CVE-2026-21514  
+**CVEs:** CVE-2026-21525, CVE-2026-21256, CVE-2026-21510, CVE-2026-21533, CVE-2026-21509, CVE-2026-21519, CVE-2026-21516, CVE-2026-21523, CVE-2026-21514, CVE-2026-21513  
 **Categories:** Vulnerability  
 
 ---
@@ -256,7 +255,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
+**CVEs:** CVE-2026-20805, CVE-2026-20953, CVE-2026-20952  
 **Categories:** Vulnerability  
 
 ---
@@ -279,73 +278,73 @@
 
 ---
 
-### 31. [ArmorCode Raises $16 Million for Exposure Management Platform](https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/)
+### 31. [FBI Investigating ‘Suspicious’ Cyber Activity on System Holding Sensitive Surveillance Information](https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/)
+
+**Source:** Security Week  
+**Published:** Sat, 07 Mar 2026 01:01:54 +0000  
+
+---
+
+### 32. [ArmorCode Raises $16 Million for Exposure Management Platform](https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 16:06:39 +0000  
 
 ---
 
-### 32. [In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike](https://www.securityweek.com/in-other-news-fbi-hacked-us-security-pro-killed-in-iran-war-hijacked-cameras-used-in-khamenei-strike/)
+### 33. [In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike](https://www.securityweek.com/in-other-news-fbi-hacked-us-security-pro-killed-in-iran-war-hijacked-cameras-used-in-khamenei-strike/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 15:35:00 +0000  
 
 ---
 
-### 33. [CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List](https://www.securityweek.com/cisa-adds-ios-flaws-from-coruna-exploit-kit-to-kev/)
+### 34. [CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List](https://www.securityweek.com/cisa-adds-ios-flaws-from-coruna-exploit-kit-to-kev/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 13:18:12 +0000  
 
 ---
 
-### 34. [Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks](https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/)
+### 35. [Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks](https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 12:32:09 +0000  
 
 ---
 
-### 35. [James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO](https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/)
+### 36. [James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO](https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 11:44:15 +0000  
 
 ---
 
-### 36. [Iranian APT Hacked US Airport, Bank, Software Company](https://www.securityweek.com/iranian-apt-hacks-us-airport-bank-software-company/)
+### 37. [Iranian APT Hacked US Airport, Bank, Software Company](https://www.securityweek.com/iranian-apt-hacks-us-airport-bank-software-company/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 11:31:09 +0000  
 
 ---
 
-### 37. [Data Security Firm Evervault Raises $25 Million in Series B Funding](https://www.securityweek.com/data-security-firm-evervault-raises-25-million-in-series-b-funding/)
+### 38. [Data Security Firm Evervault Raises $25 Million in Series B Funding](https://www.securityweek.com/data-security-firm-evervault-raises-25-million-in-series-b-funding/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 09:05:48 +0000  
 
 ---
 
-### 38. [Google: Half of 2025’s 90 Exploited Zero-Days Aimed at Enterprises](https://www.securityweek.com/google-half-of-2025s-90-exploited-zero-days-aimed-at-enterprises/)
+### 39. [Google: Half of 2025’s 90 Exploited Zero-Days Aimed at Enterprises](https://www.securityweek.com/google-half-of-2025s-90-exploited-zero-days-aimed-at-enterprises/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Mar 2026 15:00:00 +0000  
 
 ---
 
-### 39. [Russian Ransomware Operator Pleads Guilty in US](https://www.securityweek.com/russian-ransomware-operator-pleads-guilty-in-us/)
+### 40. [Russian Ransomware Operator Pleads Guilty in US](https://www.securityweek.com/russian-ransomware-operator-pleads-guilty-in-us/)
 
 **Source:** Security Week  
 **Published:** Thu, 05 Mar 2026 12:47:10 +0000  
-
----
-
-### 40. [Cisco Warns of More Catalyst SD-WAN Flaws Exploited in the Wild](https://www.securityweek.com/cisco-warns-of-more-catalyst-sd-wan-flaws-exploited-in-the-wild/)
-
-**Source:** Security Week  
-**Published:** Thu, 05 Mar 2026 12:15:06 +0000  
 
 ---
 
@@ -399,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 25 Feb 2026 16:13:36 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2022-20775, CVE-2026-20127  
+**CVEs:** CVE-2026-20127, CVE-2022-20775  
 **Categories:** Vulnerability  
 
 ---
@@ -610,7 +609,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -625,7 +624,16 @@
 
 ---
 
-### 71. [Beware of fake OpenClaw installers, even if Bing points you to GitHub](https://www.malwarebytes.com/blog/news/2026/03/beware-of-fake-openclaw-installers-even-if-bing-points-you-to-github)
+### 71. [One click on this fake Google Meet update can give attackers control of your PC](https://www.malwarebytes.com/blog/threat-intel/2026/03/one-click-on-this-fake-google-meet-update-can-give-attackers-control-of-your-pc)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 06 Mar 2026 19:35:56 GMT  
+**Severity:** Low  
+**Categories:** Phishing, APT  
+
+---
+
+### 72. [Beware of fake OpenClaw installers, even if Bing points you to GitHub](https://www.malwarebytes.com/blog/news/2026/03/beware-of-fake-openclaw-installers-even-if-bing-points-you-to-github)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 06 Mar 2026 11:11:26 GMT  
@@ -634,7 +642,7 @@
 
 ---
 
-### 72. [Fake CleanMyMac site installs SHub Stealer and backdoors crypto wallets](https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-cleanmymac-site-installs-shub-stealer-and-backdoors-crypto-wallets)
+### 73. [Fake CleanMyMac site installs SHub Stealer and backdoors crypto wallets](https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-cleanmymac-site-installs-shub-stealer-and-backdoors-crypto-wallets)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 06 Mar 2026 08:44:30 GMT  
@@ -643,7 +651,7 @@
 
 ---
 
-### 73. [Windows File Shredder: When deleting a file isn’t enough](https://www.malwarebytes.com/blog/product/2026/03/windows-file-shredder-when-deleting-a-file-isnt-enough)
+### 74. [Windows File Shredder: When deleting a file isn’t enough](https://www.malwarebytes.com/blog/product/2026/03/windows-file-shredder-when-deleting-a-file-isnt-enough)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 05 Mar 2026 11:07:53 GMT  
@@ -652,7 +660,7 @@
 
 ---
 
-### 74. [Supreme Court to decide whether geofence warrants are constitutional](https://www.malwarebytes.com/blog/news/2026/03/supreme-court-to-decide-whether-geofence-warrants-are-constitutional)
+### 75. [Supreme Court to decide whether geofence warrants are constitutional](https://www.malwarebytes.com/blog/news/2026/03/supreme-court-to-decide-whether-geofence-warrants-are-constitutional)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 05 Mar 2026 10:54:12 GMT  
@@ -661,7 +669,7 @@
 
 ---
 
-### 75. [Does the UK really want to ban VPNs? And can it be done?](https://www.malwarebytes.com/blog/news/2026/03/does-the-uk-really-want-to-ban-vpns-and-can-it-be-done)
+### 76. [Does the UK really want to ban VPNs? And can it be done?](https://www.malwarebytes.com/blog/news/2026/03/does-the-uk-really-want-to-ban-vpns-and-can-it-be-done)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Mar 2026 13:44:41 GMT  
@@ -670,7 +678,7 @@
 
 ---
 
-### 76. [Attackers abuse OAuth’s built-in redirects to launch phishing and malware attacks](https://www.malwarebytes.com/blog/news/2026/03/attackers-abuse-oauths-built-in-redirects-to-launch-phishing-and-malware-attacks)
+### 77. [Attackers abuse OAuth’s built-in redirects to launch phishing and malware attacks](https://www.malwarebytes.com/blog/news/2026/03/attackers-abuse-oauths-built-in-redirects-to-launch-phishing-and-malware-attacks)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Mar 2026 12:53:00 GMT  
@@ -679,7 +687,7 @@
 
 ---
 
-### 77. [High-severity Qualcomm bug hits Android devices in targeted attacks](https://www.malwarebytes.com/blog/news/2026/03/high-severity-qualcomm-bug-hits-android-devices-in-targeted-attacks)
+### 78. [High-severity Qualcomm bug hits Android devices in targeted attacks](https://www.malwarebytes.com/blog/news/2026/03/high-severity-qualcomm-bug-hits-android-devices-in-targeted-attacks)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Mar 2026 12:33:22 GMT  
@@ -689,7 +697,7 @@
 
 ---
 
-### 78. [Pentagon ditches Anthropic AI over &#8220;security risk&#8221; and OpenAI takes over](https://www.malwarebytes.com/blog/news/2026/03/pentagon-ditches-anthropic-ai-over-security-risk-and-openai-takes-over)
+### 79. [Pentagon ditches Anthropic AI over &#8220;security risk&#8221; and OpenAI takes over](https://www.malwarebytes.com/blog/news/2026/03/pentagon-ditches-anthropic-ai-over-security-risk-and-openai-takes-over)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Mar 2026 16:05:58 GMT  
@@ -698,21 +706,12 @@
 
 ---
 
-### 79. [Chrome flaw let extensions hijack Gemini’s camera, mic, and file access](https://www.malwarebytes.com/blog/news/2026/03/chrome-flaw-let-extensions-hijack-geminis-camera-mic-and-file-access)
+### 80. [Chrome flaw let extensions hijack Gemini’s camera, mic, and file access](https://www.malwarebytes.com/blog/news/2026/03/chrome-flaw-let-extensions-hijack-geminis-camera-mic-and-file-access)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 03 Mar 2026 12:10:19 GMT  
 **Severity:** High  
 **Categories:** Vulnerability, Phishing  
-
----
-
-### 80. [Samsung TVs stop spying on viewers in Texas. Here&#8217;s how to disable ACR anywhere](https://www.malwarebytes.com/blog/news/2026/03/samsung-tvs-stop-spying-on-viewers-in-texas-heres-how-to-disable-acr-anywhere)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 02 Mar 2026 15:01:29 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
