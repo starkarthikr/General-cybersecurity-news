@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model",
+    "link": "https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html",
+    "published": "Sat, 07 Mar 2026 16:51:00 +0530",
+    "summary": "Anthropic on Friday said it discovered 22 new security vulnerabilities in the Firefox web browser as part of a security partnership with Mozilla.\nOf these, 14 have been classified as high, seven have been classified as moderate, and one has been rated low in severity. The issues were addressed in Firefox 148, released late last month. The vulnerabilities were identified over a two-week period in",
+    "analysis": {
+      "issue": "6 AI found 22 Firefox vulnerabilities, including 14 high severity, helping Mozilla patch flaws in Firefox 148",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India",
     "link": "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html",
     "published": "Fri, 06 Mar 2026 20:41:00 +0530",
@@ -120,8 +138,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2017-7921",
-        "CVE-2021-22681"
+        "CVE-2021-22681",
+        "CVE-2017-7921"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -164,24 +182,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More",
-    "link": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html",
-    "published": "Thu, 05 Mar 2026 19:14:00 +0530",
-    "summary": "Some weeks in cybersecurity feel routine. This one doesn&rsquo;t.\nSeveral new developments surfaced over the past few days, showing how quickly the threat landscape keeps shifting. Researchers uncovered fresh activity, security teams shared new findings, and a few unexpected moves from major tech companies also drew attention.\nTogether, these updates offer a useful snapshot of what is happening",
-    "analysis": {
-      "issue": "Latest cybersecurity threats, malware campaigns, research findings, and key security developments from this week’s ThreatsDay Bulletin",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -439,16 +439,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21510",
-        "CVE-2026-21513",
-        "CVE-2026-21523",
-        "CVE-2026-21516",
         "CVE-2026-21514",
+        "CVE-2026-21525",
+        "CVE-2026-21516",
         "CVE-2026-21533",
-        "CVE-2026-21256",
         "CVE-2026-21519",
+        "CVE-2026-21256",
+        "CVE-2026-21513",
         "CVE-2026-21509",
-        "CVE-2026-21525"
+        "CVE-2026-21523",
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -577,6 +577,20 @@
   },
   {
     "source": "Security Week",
+    "title": "Over 100 GitHub Repositories Distributing BoryptGrab Stealer",
+    "link": "https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/",
+    "published": "Sat, 07 Mar 2026 12:40:00 +0000",
+    "summary": "<p>The malware targets browser and cryptocurrency wallet data, along with system information and user files.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/\">Over 100 GitHub Repositories Distributing BoryptGrab Stealer</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare",
+    "link": "https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/",
+    "published": "Sat, 07 Mar 2026 11:51:16 +0000",
+    "summary": "<p>Pentagon CTO Emil Michael said the military is developing procedures for enabling different levels of autonomy in warfare depending on the risk posed.</p>\n<p>The post <a href=\"https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/\">Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "FBI Investigating ‘Suspicious’ Cyber Activity on System Holding Sensitive Surveillance Information",
     "link": "https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/",
     "published": "Sat, 07 Mar 2026 01:01:54 +0000",
@@ -630,20 +644,6 @@
     "link": "https://www.securityweek.com/data-security-firm-evervault-raises-25-million-in-series-b-funding/",
     "published": "Fri, 06 Mar 2026 09:05:48 +0000",
     "summary": "<p>The company has raised a total of $46 million in funding for its developer-focused encryption and orchestration platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/data-security-firm-evervault-raises-25-million-in-series-b-funding/\">Data Security Firm Evervault Raises $25 Million in Series B Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Google: Half of 2025’s 90 Exploited Zero-Days Aimed at Enterprises",
-    "link": "https://www.securityweek.com/google-half-of-2025s-90-exploited-zero-days-aimed-at-enterprises/",
-    "published": "Thu, 05 Mar 2026 15:00:00 +0000",
-    "summary": "<p>Less than half of the total zero-days have been attributed to a threat actor, but spyware vendors and China are in the lead. </p>\n<p>The post <a href=\"https://www.securityweek.com/google-half-of-2025s-90-exploited-zero-days-aimed-at-enterprises/\">Google: Half of 2025&#8217;s 90 Exploited Zero-Days Aimed at Enterprises</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Russian Ransomware Operator Pleads Guilty in US",
-    "link": "https://www.securityweek.com/russian-ransomware-operator-pleads-guilty-in-us/",
-    "published": "Thu, 05 Mar 2026 12:47:10 +0000",
-    "summary": "<p>Evgenii Ptitsyn was extradited to the United States from South Korea in November 2024.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-ransomware-operator-pleads-guilty-in-us/\">Russian Ransomware Operator Pleads Guilty in US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -754,8 +754,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-20775",
-        "CVE-2026-20127"
+        "CVE-2026-20127",
+        "CVE-2022-20775"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1185,8 +1185,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

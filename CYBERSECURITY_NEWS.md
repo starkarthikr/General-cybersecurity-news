@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-07 08:55:20 UTC
+**Last Updated:** 2026-03-07 13:00:07 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
+### 1. [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 07 Mar 2026 16:51:00 +0530  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 2. [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 20:41:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
+### 3. [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 20:03:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
+### 4. [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 16:00:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor](https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html)
+### 5. [Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor](https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 15:53:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks](https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html)
+### 6. [China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks](https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 13:52:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer](https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html)
+### 7. [Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer](https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 12:14:00 +0530  
@@ -58,17 +67,17 @@
 
 ---
 
-### 7. [Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog](https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html)
+### 8. [Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog](https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 12:00:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2017-7921, CVE-2021-22681  
+**CVEs:** CVE-2021-22681, CVE-2017-7921  
 **Categories:** Vulnerability  
 
 ---
 
-### 8. [Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities](https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html)
+### 9. [Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities](https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Mar 2026 20:52:00 +0530  
@@ -78,21 +87,12 @@
 
 ---
 
-### 9. [Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders](https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html)
+### 10. [Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders](https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 05 Mar 2026 20:52:00 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 10. [ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More](https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 05 Mar 2026 19:14:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -218,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21513, CVE-2026-21523, CVE-2026-21516, CVE-2026-21514, CVE-2026-21533, CVE-2026-21256, CVE-2026-21519, CVE-2026-21509, CVE-2026-21525  
+**CVEs:** CVE-2026-21514, CVE-2026-21525, CVE-2026-21516, CVE-2026-21533, CVE-2026-21519, CVE-2026-21256, CVE-2026-21513, CVE-2026-21509, CVE-2026-21523, CVE-2026-21510  
 **Categories:** Vulnerability  
 
 ---
@@ -278,73 +278,73 @@
 
 ---
 
-### 31. [FBI Investigating ‘Suspicious’ Cyber Activity on System Holding Sensitive Surveillance Information](https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/)
+### 31. [Over 100 GitHub Repositories Distributing BoryptGrab Stealer](https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/)
+
+**Source:** Security Week  
+**Published:** Sat, 07 Mar 2026 12:40:00 +0000  
+
+---
+
+### 32. [Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare](https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/)
+
+**Source:** Security Week  
+**Published:** Sat, 07 Mar 2026 11:51:16 +0000  
+
+---
+
+### 33. [FBI Investigating ‘Suspicious’ Cyber Activity on System Holding Sensitive Surveillance Information](https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/)
 
 **Source:** Security Week  
 **Published:** Sat, 07 Mar 2026 01:01:54 +0000  
 
 ---
 
-### 32. [ArmorCode Raises $16 Million for Exposure Management Platform](https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/)
+### 34. [ArmorCode Raises $16 Million for Exposure Management Platform](https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 16:06:39 +0000  
 
 ---
 
-### 33. [In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike](https://www.securityweek.com/in-other-news-fbi-hacked-us-security-pro-killed-in-iran-war-hijacked-cameras-used-in-khamenei-strike/)
+### 35. [In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike](https://www.securityweek.com/in-other-news-fbi-hacked-us-security-pro-killed-in-iran-war-hijacked-cameras-used-in-khamenei-strike/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 15:35:00 +0000  
 
 ---
 
-### 34. [CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List](https://www.securityweek.com/cisa-adds-ios-flaws-from-coruna-exploit-kit-to-kev/)
+### 36. [CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List](https://www.securityweek.com/cisa-adds-ios-flaws-from-coruna-exploit-kit-to-kev/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 13:18:12 +0000  
 
 ---
 
-### 35. [Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks](https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/)
+### 37. [Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks](https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 12:32:09 +0000  
 
 ---
 
-### 36. [James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO](https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/)
+### 38. [James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO](https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 11:44:15 +0000  
 
 ---
 
-### 37. [Iranian APT Hacked US Airport, Bank, Software Company](https://www.securityweek.com/iranian-apt-hacks-us-airport-bank-software-company/)
+### 39. [Iranian APT Hacked US Airport, Bank, Software Company](https://www.securityweek.com/iranian-apt-hacks-us-airport-bank-software-company/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 11:31:09 +0000  
 
 ---
 
-### 38. [Data Security Firm Evervault Raises $25 Million in Series B Funding](https://www.securityweek.com/data-security-firm-evervault-raises-25-million-in-series-b-funding/)
+### 40. [Data Security Firm Evervault Raises $25 Million in Series B Funding](https://www.securityweek.com/data-security-firm-evervault-raises-25-million-in-series-b-funding/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 09:05:48 +0000  
-
----
-
-### 39. [Google: Half of 2025’s 90 Exploited Zero-Days Aimed at Enterprises](https://www.securityweek.com/google-half-of-2025s-90-exploited-zero-days-aimed-at-enterprises/)
-
-**Source:** Security Week  
-**Published:** Thu, 05 Mar 2026 15:00:00 +0000  
-
----
-
-### 40. [Russian Ransomware Operator Pleads Guilty in US](https://www.securityweek.com/russian-ransomware-operator-pleads-guilty-in-us/)
-
-**Source:** Security Week  
-**Published:** Thu, 05 Mar 2026 12:47:10 +0000  
 
 ---
 
@@ -398,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 25 Feb 2026 16:13:36 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2022-20775, CVE-2026-20127  
+**CVEs:** CVE-2026-20127, CVE-2022-20775  
 **Categories:** Vulnerability  
 
 ---
@@ -609,7 +609,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
