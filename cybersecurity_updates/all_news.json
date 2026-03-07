@@ -120,8 +120,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2021-22681",
-        "CVE-2017-7921"
+        "CVE-2017-7921",
+        "CVE-2021-22681"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -141,8 +141,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-20128",
-        "CVE-2026-20122"
+        "CVE-2026-20122",
+        "CVE-2026-20128"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -439,16 +439,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21519",
-        "CVE-2026-21525",
-        "CVE-2026-21256",
-        "CVE-2026-21533",
+        "CVE-2026-21510",
         "CVE-2026-21513",
+        "CVE-2026-21523",
         "CVE-2026-21516",
         "CVE-2026-21514",
+        "CVE-2026-21533",
+        "CVE-2026-21256",
+        "CVE-2026-21519",
         "CVE-2026-21509",
-        "CVE-2026-21523",
-        "CVE-2026-21510"
+        "CVE-2026-21525"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -526,9 +526,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20805",
         "CVE-2026-20952",
-        "CVE-2026-20953",
-        "CVE-2026-20805"
+        "CVE-2026-20953"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -754,8 +754,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20127",
-        "CVE-2022-20775"
+        "CVE-2022-20775",
+        "CVE-2026-20127"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1401,6 +1401,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection",
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/",
+    "published": "Mar 06, 2026 00:00:00-0600",
+    "summary": "",
+    "analysis": {
+      "issue": "Falcon sensor-based log collector deployment will extend the existing policy-driven control plane to automate collector installation and management",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "CrowdStrike Achieves NCSC CIR Assurance for Incident Response",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/",
     "published": "Mar 02, 2026 00:00:00-0600",
@@ -1558,24 +1576,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "February 2026 Patch Tuesday: Six Zero-Days Among 59 CVEs Patched",
-    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-february-2026/",
-    "published": "Feb 10, 2026 00:00:00-0600",
-    "summary": "",
-    "analysis": {
-      "issue": "Microsoft's February 2026 Patch Tuesday addresses 59 CVEs, featuring six exploited vulnerabilities, three of which were publicly known, and five Critical vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   }
