@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-08 08:55:43 UTC
+**Last Updated:** 2026-03-08 13:01:47 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -81,7 +81,7 @@
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 12:00:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2017-7921, CVE-2021-22681  
+**CVEs:** CVE-2021-22681, CVE-2017-7921  
 **Categories:** Vulnerability  
 
 ---
@@ -218,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21533, CVE-2026-21525, CVE-2026-21513, CVE-2026-21516, CVE-2026-21510, CVE-2026-21256, CVE-2026-21523, CVE-2026-21519, CVE-2026-21509, CVE-2026-21514  
+**CVEs:** CVE-2026-21513, CVE-2026-21519, CVE-2026-21523, CVE-2026-21516, CVE-2026-21510, CVE-2026-21256, CVE-2026-21514, CVE-2026-21509, CVE-2026-21525, CVE-2026-21533  
 **Categories:** Vulnerability  
 
 ---
@@ -255,7 +255,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
+**CVEs:** CVE-2026-20805, CVE-2026-20953, CVE-2026-20952  
 **Categories:** Vulnerability  
 
 ---
@@ -278,73 +278,73 @@
 
 ---
 
-### 31. [US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies](https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/)
+### 31. [Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited](https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/)
+
+**Source:** Security Week  
+**Published:** Sun, 08 Mar 2026 12:15:00 +0000  
+
+---
+
+### 32. [US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies](https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/)
 
 **Source:** Security Week  
 **Published:** Sat, 07 Mar 2026 15:57:23 +0000  
 
 ---
 
-### 32. [Over 100 GitHub Repositories Distributing BoryptGrab Stealer](https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/)
+### 33. [Over 100 GitHub Repositories Distributing BoryptGrab Stealer](https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/)
 
 **Source:** Security Week  
 **Published:** Sat, 07 Mar 2026 12:40:00 +0000  
 
 ---
 
-### 33. [Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare](https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/)
+### 34. [Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare](https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/)
 
 **Source:** Security Week  
 **Published:** Sat, 07 Mar 2026 11:51:16 +0000  
 
 ---
 
-### 34. [FBI Investigating ‘Suspicious’ Cyber Activity on System Holding Sensitive Surveillance Information](https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/)
+### 35. [FBI Investigating ‘Suspicious’ Cyber Activity on System Holding Sensitive Surveillance Information](https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/)
 
 **Source:** Security Week  
 **Published:** Sat, 07 Mar 2026 01:01:54 +0000  
 
 ---
 
-### 35. [ArmorCode Raises $16 Million for Exposure Management Platform](https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/)
+### 36. [ArmorCode Raises $16 Million for Exposure Management Platform](https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 16:06:39 +0000  
 
 ---
 
-### 36. [In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike](https://www.securityweek.com/in-other-news-fbi-hacked-us-security-pro-killed-in-iran-war-hijacked-cameras-used-in-khamenei-strike/)
+### 37. [In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike](https://www.securityweek.com/in-other-news-fbi-hacked-us-security-pro-killed-in-iran-war-hijacked-cameras-used-in-khamenei-strike/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 15:35:00 +0000  
 
 ---
 
-### 37. [CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List](https://www.securityweek.com/cisa-adds-ios-flaws-from-coruna-exploit-kit-to-kev/)
+### 38. [CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List](https://www.securityweek.com/cisa-adds-ios-flaws-from-coruna-exploit-kit-to-kev/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 13:18:12 +0000  
 
 ---
 
-### 38. [Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks](https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/)
+### 39. [Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks](https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 12:32:09 +0000  
 
 ---
 
-### 39. [James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO](https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/)
+### 40. [James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO](https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 11:44:15 +0000  
-
----
-
-### 40. [Iranian APT Hacked US Airport, Bank, Software Company](https://www.securityweek.com/iranian-apt-hacks-us-airport-bank-software-company/)
-
-**Source:** Security Week  
-**Published:** Fri, 06 Mar 2026 11:31:09 +0000  
 
 ---
 
@@ -398,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 25 Feb 2026 16:13:36 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20127, CVE-2022-20775  
+**CVEs:** CVE-2022-20775, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---

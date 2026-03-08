@@ -156,8 +156,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2017-7921",
-        "CVE-2021-22681"
+        "CVE-2021-22681",
+        "CVE-2017-7921"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -441,16 +441,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21533",
-        "CVE-2026-21525",
         "CVE-2026-21513",
+        "CVE-2026-21519",
+        "CVE-2026-21523",
         "CVE-2026-21516",
         "CVE-2026-21510",
         "CVE-2026-21256",
-        "CVE-2026-21523",
-        "CVE-2026-21519",
+        "CVE-2026-21514",
         "CVE-2026-21509",
-        "CVE-2026-21514"
+        "CVE-2026-21525",
+        "CVE-2026-21533"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -528,8 +528,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20953",
         "CVE-2026-20805",
+        "CVE-2026-20953",
         "CVE-2026-20952"
       ],
       "threat_categories": [
@@ -576,6 +576,13 @@
         "Supply Chain"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited",
+    "link": "https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/",
+    "published": "Sun, 08 Mar 2026 12:15:00 +0000",
+    "summary": "<p>WatchTowr reports seeing exploitation attempts for CVE-2026-20127 from numerous unique IP addresses.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/\">Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -639,13 +646,6 @@
     "link": "https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/",
     "published": "Fri, 06 Mar 2026 11:44:15 +0000",
     "summary": "<p>Bishop replaces David McKeown, who will take on a role in the private sector after 40 years of government service. </p>\n<p>The post <a href=\"https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/\">James &#8216;Aaron&#8217; Bishop Tapped to Serve as New Pentagon CISO</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Iranian APT Hacked US Airport, Bank, Software Company",
-    "link": "https://www.securityweek.com/iranian-apt-hacks-us-airport-bank-software-company/",
-    "published": "Fri, 06 Mar 2026 11:31:09 +0000",
-    "summary": "<p>The attacks, observed since February, show that Iranian hackers already have a presence in the networks of US organizations.</p>\n<p>The post <a href=\"https://www.securityweek.com/iranian-apt-hacks-us-airport-bank-software-company/\">Iranian APT Hacked US Airport, Bank, Software Company</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -756,8 +756,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20127",
-        "CVE-2022-20775"
+        "CVE-2022-20775",
+        "CVE-2026-20127"
       ],
       "threat_categories": [
         "Vulnerability"
