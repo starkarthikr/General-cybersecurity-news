@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-08 13:01:47 UTC
+**Last Updated:** 2026-03-08 16:53:00 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -81,7 +81,7 @@
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 12:00:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2021-22681, CVE-2017-7921  
+**CVEs:** CVE-2017-7921, CVE-2021-22681  
 **Categories:** Vulnerability  
 
 ---
@@ -91,12 +91,30 @@
 **Source:** The Hacker News  
 **Published:** Thu, 05 Mar 2026 20:52:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2026-20122, CVE-2026-20128  
+**CVEs:** CVE-2026-20128, CVE-2026-20122  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [Termite ransomware breaches linked to ClickFix CastleRAT attacks](https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/)
+### 11. [EU court adviser says banks must immediately refund phishing victims](https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 08 Mar 2026 11:25:37 -0400  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 12. [Hackers abuse .arpa DNS and ipv6 to evade phishing defenses](https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 08 Mar 2026 10:12:22 -0400  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 13. [Termite ransomware breaches linked to ClickFix CastleRAT attacks](https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 07 Mar 2026 11:14:32 -0500  
@@ -105,7 +123,7 @@
 
 ---
 
-### 12. [Microsoft: Hackers abusing AI at every stage of cyberattacks](https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/)
+### 14. [Microsoft: Hackers abusing AI at every stage of cyberattacks](https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 07 Mar 2026 10:15:25 -0500  
@@ -114,7 +132,7 @@
 
 ---
 
-### 13. [Cognizant TriZetto breach exposes health data of 3.4 million patients](https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/)
+### 15. [Cognizant TriZetto breach exposes health data of 3.4 million patients](https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Mar 2026 14:50:21 -0500  
@@ -123,7 +141,7 @@
 
 ---
 
-### 14. [CISA warns feds to patch iOS flaws exploited in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/)
+### 16. [CISA warns feds to patch iOS flaws exploited in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Mar 2026 10:57:16 -0500  
@@ -132,7 +150,7 @@
 
 ---
 
-### 15. [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/)
+### 17. [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Mar 2026 10:00:10 -0500  
@@ -141,7 +159,7 @@
 
 ---
 
-### 16. [Fake Claude Code install guides push infostealers in InstallFix attacks](https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/)
+### 18. [Fake Claude Code install guides push infostealers in InstallFix attacks](https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Mar 2026 10:00:00 -0500  
@@ -150,7 +168,7 @@
 
 ---
 
-### 17. [Microsoft 365 Backup to add file-level restore for faster recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/)
+### 19. [Microsoft 365 Backup to add file-level restore for faster recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Mar 2026 09:21:09 -0500  
@@ -159,30 +177,12 @@
 
 ---
 
-### 18. [Ghanain man pleads guilty to role in $100 million fraud ring](https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/)
+### 20. [Ghanain man pleads guilty to role in $100 million fraud ring](https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Mar 2026 05:08:00 -0500  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 19. [FBI investigates breach of surveillance and wiretap systems](https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 06 Mar 2026 03:44:53 -0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Chinese state hackers target telcos with new malware toolkit](https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 05 Mar 2026 18:19:49 -0500  
-**Severity:** High  
-**Categories:** Malware  
 
 ---
 
@@ -218,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21513, CVE-2026-21519, CVE-2026-21523, CVE-2026-21516, CVE-2026-21510, CVE-2026-21256, CVE-2026-21514, CVE-2026-21509, CVE-2026-21525, CVE-2026-21533  
+**CVEs:** CVE-2026-21256, CVE-2026-21513, CVE-2026-21509, CVE-2026-21516, CVE-2026-21523, CVE-2026-21519, CVE-2026-21510, CVE-2026-21525, CVE-2026-21514, CVE-2026-21533  
 **Categories:** Vulnerability  
 
 ---
@@ -398,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 25 Feb 2026 16:13:36 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2022-20775, CVE-2026-20127  
+**CVEs:** CVE-2026-20127, CVE-2022-20775  
 **Categories:** Vulnerability  
 
 ---
