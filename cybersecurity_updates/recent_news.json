@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Can the Security Platform Finally Deliver for the Mid-Market?",
+    "link": "https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html",
+    "published": "Mon, 09 Mar 2026 17:15:00 +0530",
+    "summary": "Mid-market organizations are constantly striving to achieve security levels on a par with their enterprise peers. With heightened awareness of supply chain attacks, your customers and business partners are defining the security level you must meet.\nWhat if you could be the enabler for your organization to remain competitive — and help win business — by easily demonstrating that you meet these",
+    "analysis": {
+      "issue": "Bitdefender GravityZone webinar shows how mid-market teams consolidate security tools to reduce complexity and improve resilience",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft",
+    "link": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html",
+    "published": "Mon, 09 Mar 2026 15:58:00 +0530",
+    "summary": "Two Google Chrome extensions have turned malicious after what appears to be a case of ownership transfer, offering attackers a way to push malware to downstream customers, inject arbitrary code, and harvest sensitive data.\nThe extensions in question, both originally associated with a developer named \"akshayanuonline@gmail.com\" (BuildMelon), are listed below -\n\nQuickLens - Search Screen with",
+    "analysis": {
+      "issue": "Malicious Chrome extensions tied to ownership transfers push malware and steal data, exposing thousands to credential theft and system compromise",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure",
     "link": "https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html",
     "published": "Mon, 09 Mar 2026 12:51:00 +0530",
@@ -140,45 +177,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer",
-    "link": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html",
-    "published": "Fri, 06 Mar 2026 12:14:00 +0530",
-    "summary": "Microsoft on Thursday disclosed details of a new widespread ClickFix social engineering campaign that has leveraged the Windows Terminal app as a way to activate a sophisticated attack chain and deploy the Lumma Stealer malware.\nThe activity, observed in February 2026, makes use of the terminal emulator program instead of instructing users to launch the Windows Run dialog and paste a command",
-    "analysis": {
-      "issue": "Microsoft reveals ClickFix campaign abusing Windows Terminal to deliver Lumma Stealer and steal browser credentials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog",
-    "link": "https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html",
-    "published": "Fri, 06 Mar 2026 12:00:00 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Hikvision and Rockwell Automation products to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe critical-severity vulnerabilities are listed below -\n\nCVE-2017-7921 (CVSS score: 9.8) - An improper authentication vulnerability affecting",
-    "analysis": {
-      "issue": "CISA adds Hikvision flaw CVE-2017-7921 and Rockwell Automation CVE-2021-22681 to KEV, urging agencies to patch by March 26, 2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2021-22681",
-        "CVE-2017-7921"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -456,15 +454,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21523",
-        "CVE-2026-21256",
-        "CVE-2026-21509",
-        "CVE-2026-21525",
         "CVE-2026-21533",
-        "CVE-2026-21510",
-        "CVE-2026-21514",
+        "CVE-2026-21256",
+        "CVE-2026-21525",
+        "CVE-2026-21523",
         "CVE-2026-21513",
+        "CVE-2026-21514",
+        "CVE-2026-21509",
         "CVE-2026-21519",
+        "CVE-2026-21510",
         "CVE-2026-21516"
       ],
       "threat_categories": [
@@ -573,6 +571,27 @@
   },
   {
     "source": "Security Week",
+    "title": "ClickFix Attack Uses Windows Terminal to Evade Detection",
+    "link": "https://www.securityweek.com/clickfix-attack-uses-windows-terminal-to-evade-detection/",
+    "published": "Mon, 09 Mar 2026 12:51:29 +0000",
+    "summary": "<p>Fake CAPTCHA pages instruct victims to paste malicious commands in the Windows Terminal instead of the Run dialog.</p>\n<p>The post <a href=\"https://www.securityweek.com/clickfix-attack-uses-windows-terminal-to-evade-detection/\">ClickFix Attack Uses Windows Terminal to Evade Detection</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Internet Infrastructure TLD .arpa Abused in Phishing Attacks",
+    "link": "https://www.securityweek.com/internet-infrastructure-tld-arpa-abused-in-phishing-attacks/",
+    "published": "Mon, 09 Mar 2026 12:06:25 +0000",
+    "summary": "<p>Abusing DNS record management controls, the threat actor hides the location of malicious content via Cloudflare.</p>\n<p>The post <a href=\"https://www.securityweek.com/internet-infrastructure-tld-arpa-abused-in-phishing-attacks/\">Internet Infrastructure TLD .arpa Abused in Phishing Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign",
+    "link": "https://www.securityweek.com/cloned-ai-tool-sites-distribute-malware-in-installfix-campaign/",
+    "published": "Mon, 09 Mar 2026 11:42:07 +0000",
+    "summary": "<p>Threat actors replace legitimate commands on the cloned installation webpages with malicious commands.</p>\n<p>The post <a href=\"https://www.securityweek.com/cloned-ai-tool-sites-distribute-malware-in-installfix-campaign/\">Cloned AI Tool Sites Distribute Malware in &#8216;InstallFix&#8217; Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited",
     "link": "https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/",
     "published": "Sun, 08 Mar 2026 12:15:00 +0000",
@@ -619,27 +638,6 @@
     "link": "https://www.securityweek.com/in-other-news-fbi-hacked-us-security-pro-killed-in-iran-war-hijacked-cameras-used-in-khamenei-strike/",
     "published": "Fri, 06 Mar 2026 15:35:00 +0000",
     "summary": "<p>Other noteworthy stories that might have slipped under the radar: Avira antivirus vulnerabilities, Transport for London data breach affects 10 million, Gaming cheat exposes North Korean hacker.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-fbi-hacked-us-security-pro-killed-in-iran-war-hijacked-cameras-used-in-khamenei-strike/\">In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List",
-    "link": "https://www.securityweek.com/cisa-adds-ios-flaws-from-coruna-exploit-kit-to-kev/",
-    "published": "Fri, 06 Mar 2026 13:18:12 +0000",
-    "summary": "<p>The nation-state-grade iOS exploit kit targets 23 vulnerabilities affecting iOS 13 to 17.2.1.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-adds-ios-flaws-from-coruna-exploit-kit-to-kev/\">CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks",
-    "link": "https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/",
-    "published": "Fri, 06 Mar 2026 12:32:09 +0000",
-    "summary": "<p>The vulnerability was disclosed and mitigated in 2021 but its in-the-wild exploitation has only now come to light.</p>\n<p>The post <a href=\"https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/\">Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO",
-    "link": "https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/",
-    "published": "Fri, 06 Mar 2026 11:44:15 +0000",
-    "summary": "<p>Bishop replaces David McKeown, who will take on a role in the private sector after 40 years of government service. </p>\n<p>The post <a href=\"https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/\">James &#8216;Aaron&#8217; Bishop Tapped to Serve as New Pentagon CISO</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -750,8 +748,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-20775",
-        "CVE-2026-20127"
+        "CVE-2026-20127",
+        "CVE-2022-20775"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1212,6 +1210,42 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Fake Claude Code install pages hit Windows and Mac users with infostealers",
+    "link": "https://www.malwarebytes.com/blog/news/2026/03/fake-claude-code-install-pages-hit-windows-and-mac-users-with-infostealers",
+    "published": "Mon, 09 Mar 2026 13:07:25 GMT",
+    "summary": "Researchers uncovered fake Claude Code install pages spreading infostealers that steal passwords and browser sessions.",
+    "analysis": {
+      "issue": "Attackers are cloning install pages for popular tools like Claude Code and swapping the “one‑liner” install commands with malware, mainly to steal passwords, cookies, sessions, and access to developer environments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Quiz sites trick users into enabling unwanted browser notifications",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/quiz-sites-trick-users-into-enabling-unwanted-browser-notifications",
+    "published": "Mon, 09 Mar 2026 12:53:38 GMT",
+    "summary": "The quiz is just bait. The real goal is to win permission to send browser notifications that can later be used for ads, scams, or shady promotions.",
+    "analysis": {
+      "issue": "Our support team flagged a number of customers who suspected their device might be infected with malware, but Malwarebytes scans came up empty",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "A week in security (March 2 &#8211; March 8)",
     "link": "https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-march-2-march-8",
     "published": "Mon, 09 Mar 2026 07:21:00 GMT",
@@ -1352,45 +1386,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Attackers abuse OAuth’s built-in redirects to launch phishing and malware attacks",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/attackers-abuse-oauths-built-in-redirects-to-launch-phishing-and-malware-attacks",
-    "published": "Wed, 04 Mar 2026 12:53:00 GMT",
-    "summary": "Researchers have found that attackers are abusing OAuth to send users from legitimate Microsoft or Google login pages to phishing sites or malware downloads.",
-    "analysis": {
-      "issue": "Attackers are abusing normal OAuth error redirects to send users from a legitimate Microsoft or Google login URL to phishing or malware pages, without ever completing a successful sign‑in or stealing tokens from the OAuth flow itself",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "High-severity Qualcomm bug hits Android devices in targeted attacks",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/high-severity-qualcomm-bug-hits-android-devices-in-targeted-attacks",
-    "published": "Wed, 04 Mar 2026 12:33:22 GMT",
-    "summary": "Google has patched 129 Android vulnerabilities, including an actively exploited flaw in a widely used Qualcomm component.",
-    "analysis": {
-      "issue": "Google has patched 129 vulnerabilities in Android in its March 2026 Android Security Bulletin, including a Qualcomm display flaw that is known to be actively exploited",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-21385"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },

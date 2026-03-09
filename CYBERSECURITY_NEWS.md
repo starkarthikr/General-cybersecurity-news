@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-09 09:08:37 UTC
+**Last Updated:** 2026-03-09 13:18:10 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure](https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html)
+### 1. [Can the Security Platform Finally Deliver for the Mid-Market?](https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 09 Mar 2026 17:15:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 09 Mar 2026 15:58:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 3. [Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure](https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Mar 2026 12:51:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
+### 4. [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 07 Mar 2026 21:58:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
+### 5. [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 07 Mar 2026 16:51:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
+### 6. [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 20:41:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
+### 7. [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 20:03:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
+### 8. [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 16:00:00 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor](https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html)
+### 9. [Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor](https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 15:53:00 +0530  
@@ -67,31 +85,12 @@
 
 ---
 
-### 8. [China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks](https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html)
+### 10. [China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks](https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 13:52:00 +0530  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 9. [Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer](https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 06 Mar 2026 12:14:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog](https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 06 Mar 2026 12:00:00 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2021-22681, CVE-2017-7921  
-**Categories:** Vulnerability  
 
 ---
 
@@ -226,7 +225,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21523, CVE-2026-21256, CVE-2026-21509, CVE-2026-21525, CVE-2026-21533, CVE-2026-21510, CVE-2026-21514, CVE-2026-21513, CVE-2026-21519, CVE-2026-21516  
+**CVEs:** CVE-2026-21533, CVE-2026-21256, CVE-2026-21525, CVE-2026-21523, CVE-2026-21513, CVE-2026-21514, CVE-2026-21509, CVE-2026-21519, CVE-2026-21510, CVE-2026-21516  
 **Categories:** Vulnerability  
 
 ---
@@ -277,73 +276,73 @@
 
 ---
 
-### 31. [Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited](https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/)
+### 31. [ClickFix Attack Uses Windows Terminal to Evade Detection](https://www.securityweek.com/clickfix-attack-uses-windows-terminal-to-evade-detection/)
+
+**Source:** Security Week  
+**Published:** Mon, 09 Mar 2026 12:51:29 +0000  
+
+---
+
+### 32. [Internet Infrastructure TLD .arpa Abused in Phishing Attacks](https://www.securityweek.com/internet-infrastructure-tld-arpa-abused-in-phishing-attacks/)
+
+**Source:** Security Week  
+**Published:** Mon, 09 Mar 2026 12:06:25 +0000  
+
+---
+
+### 33. [Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign](https://www.securityweek.com/cloned-ai-tool-sites-distribute-malware-in-installfix-campaign/)
+
+**Source:** Security Week  
+**Published:** Mon, 09 Mar 2026 11:42:07 +0000  
+
+---
+
+### 34. [Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited](https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/)
 
 **Source:** Security Week  
 **Published:** Sun, 08 Mar 2026 12:15:00 +0000  
 
 ---
 
-### 32. [US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies](https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/)
+### 35. [US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies](https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/)
 
 **Source:** Security Week  
 **Published:** Sat, 07 Mar 2026 15:57:23 +0000  
 
 ---
 
-### 33. [Over 100 GitHub Repositories Distributing BoryptGrab Stealer](https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/)
+### 36. [Over 100 GitHub Repositories Distributing BoryptGrab Stealer](https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/)
 
 **Source:** Security Week  
 **Published:** Sat, 07 Mar 2026 12:40:00 +0000  
 
 ---
 
-### 34. [Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare](https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/)
+### 37. [Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare](https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/)
 
 **Source:** Security Week  
 **Published:** Sat, 07 Mar 2026 11:51:16 +0000  
 
 ---
 
-### 35. [FBI Investigating ‘Suspicious’ Cyber Activity on System Holding Sensitive Surveillance Information](https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/)
+### 38. [FBI Investigating ‘Suspicious’ Cyber Activity on System Holding Sensitive Surveillance Information](https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/)
 
 **Source:** Security Week  
 **Published:** Sat, 07 Mar 2026 01:01:54 +0000  
 
 ---
 
-### 36. [ArmorCode Raises $16 Million for Exposure Management Platform](https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/)
+### 39. [ArmorCode Raises $16 Million for Exposure Management Platform](https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 16:06:39 +0000  
 
 ---
 
-### 37. [In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike](https://www.securityweek.com/in-other-news-fbi-hacked-us-security-pro-killed-in-iran-war-hijacked-cameras-used-in-khamenei-strike/)
+### 40. [In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike](https://www.securityweek.com/in-other-news-fbi-hacked-us-security-pro-killed-in-iran-war-hijacked-cameras-used-in-khamenei-strike/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 15:35:00 +0000  
-
----
-
-### 38. [CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List](https://www.securityweek.com/cisa-adds-ios-flaws-from-coruna-exploit-kit-to-kev/)
-
-**Source:** Security Week  
-**Published:** Fri, 06 Mar 2026 13:18:12 +0000  
-
----
-
-### 39. [Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks](https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/)
-
-**Source:** Security Week  
-**Published:** Fri, 06 Mar 2026 12:32:09 +0000  
-
----
-
-### 40. [James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO](https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/)
-
-**Source:** Security Week  
-**Published:** Fri, 06 Mar 2026 11:44:15 +0000  
 
 ---
 
@@ -397,7 +396,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 25 Feb 2026 16:13:36 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2022-20775, CVE-2026-20127  
+**CVEs:** CVE-2026-20127, CVE-2022-20775  
 **Categories:** Vulnerability  
 
 ---
@@ -623,7 +622,25 @@
 
 ---
 
-### 71. [A week in security (March 2 &#8211; March 8)](https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-march-2-march-8)
+### 71. [Fake Claude Code install pages hit Windows and Mac users with infostealers](https://www.malwarebytes.com/blog/news/2026/03/fake-claude-code-install-pages-hit-windows-and-mac-users-with-infostealers)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 09 Mar 2026 13:07:25 GMT  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 72. [Quiz sites trick users into enabling unwanted browser notifications](https://www.malwarebytes.com/blog/threat-intel/2026/03/quiz-sites-trick-users-into-enabling-unwanted-browser-notifications)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 09 Mar 2026 12:53:38 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 73. [A week in security (March 2 &#8211; March 8)](https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-march-2-march-8)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 09 Mar 2026 07:21:00 GMT  
@@ -632,7 +649,7 @@
 
 ---
 
-### 72. [Ring doorbells: Won&#8217;t you see my neighbor? (Lock and Code S07E05)](https://www.malwarebytes.com/blog/podcast/2026/03/ring-doorbells-wont-you-see-my-neighbor-lock-and-code-s07e05)
+### 74. [Ring doorbells: Won&#8217;t you see my neighbor? (Lock and Code S07E05)](https://www.malwarebytes.com/blog/podcast/2026/03/ring-doorbells-wont-you-see-my-neighbor-lock-and-code-s07e05)
 
 **Source:** Malwarebytes  
 **Published:** Sun, 08 Mar 2026 22:55:35 GMT  
@@ -641,7 +658,7 @@
 
 ---
 
-### 73. [One click on this fake Google Meet update can give attackers control of your PC](https://www.malwarebytes.com/blog/threat-intel/2026/03/one-click-on-this-fake-google-meet-update-can-give-attackers-control-of-your-pc)
+### 75. [One click on this fake Google Meet update can give attackers control of your PC](https://www.malwarebytes.com/blog/threat-intel/2026/03/one-click-on-this-fake-google-meet-update-can-give-attackers-control-of-your-pc)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 06 Mar 2026 19:35:56 GMT  
@@ -650,7 +667,7 @@
 
 ---
 
-### 74. [Beware of fake OpenClaw installers, even if Bing points you to GitHub](https://www.malwarebytes.com/blog/news/2026/03/beware-of-fake-openclaw-installers-even-if-bing-points-you-to-github)
+### 76. [Beware of fake OpenClaw installers, even if Bing points you to GitHub](https://www.malwarebytes.com/blog/news/2026/03/beware-of-fake-openclaw-installers-even-if-bing-points-you-to-github)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 06 Mar 2026 11:11:26 GMT  
@@ -659,7 +676,7 @@
 
 ---
 
-### 75. [Fake CleanMyMac site installs SHub Stealer and backdoors crypto wallets](https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-cleanmymac-site-installs-shub-stealer-and-backdoors-crypto-wallets)
+### 77. [Fake CleanMyMac site installs SHub Stealer and backdoors crypto wallets](https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-cleanmymac-site-installs-shub-stealer-and-backdoors-crypto-wallets)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 06 Mar 2026 08:44:30 GMT  
@@ -668,7 +685,7 @@
 
 ---
 
-### 76. [Windows File Shredder: When deleting a file isn’t enough](https://www.malwarebytes.com/blog/product/2026/03/windows-file-shredder-when-deleting-a-file-isnt-enough)
+### 78. [Windows File Shredder: When deleting a file isn’t enough](https://www.malwarebytes.com/blog/product/2026/03/windows-file-shredder-when-deleting-a-file-isnt-enough)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 05 Mar 2026 11:07:53 GMT  
@@ -677,7 +694,7 @@
 
 ---
 
-### 77. [Supreme Court to decide whether geofence warrants are constitutional](https://www.malwarebytes.com/blog/news/2026/03/supreme-court-to-decide-whether-geofence-warrants-are-constitutional)
+### 79. [Supreme Court to decide whether geofence warrants are constitutional](https://www.malwarebytes.com/blog/news/2026/03/supreme-court-to-decide-whether-geofence-warrants-are-constitutional)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 05 Mar 2026 10:54:12 GMT  
@@ -686,31 +703,12 @@
 
 ---
 
-### 78. [Does the UK really want to ban VPNs? And can it be done?](https://www.malwarebytes.com/blog/news/2026/03/does-the-uk-really-want-to-ban-vpns-and-can-it-be-done)
+### 80. [Does the UK really want to ban VPNs? And can it be done?](https://www.malwarebytes.com/blog/news/2026/03/does-the-uk-really-want-to-ban-vpns-and-can-it-be-done)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Mar 2026 13:44:41 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 79. [Attackers abuse OAuth’s built-in redirects to launch phishing and malware attacks](https://www.malwarebytes.com/blog/news/2026/03/attackers-abuse-oauths-built-in-redirects-to-launch-phishing-and-malware-attacks)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 04 Mar 2026 12:53:00 GMT  
-**Severity:** High  
-**Categories:** Malware, Phishing  
-
----
-
-### 80. [High-severity Qualcomm bug hits Android devices in targeted attacks](https://www.malwarebytes.com/blog/news/2026/03/high-severity-qualcomm-bug-hits-android-devices-in-targeted-attacks)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 04 Mar 2026 12:33:22 GMT  
-**Severity:** Critical  
-**CVEs:** CVE-2026-21385  
-**Categories:** Vulnerability  
 
 ---
 
