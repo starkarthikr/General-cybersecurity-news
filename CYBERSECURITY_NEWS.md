@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-09 02:42:36 UTC
+**Last Updated:** 2026-03-09 03:20:27 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -81,7 +81,7 @@
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 12:00:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2021-22681, CVE-2017-7921  
+**CVEs:** CVE-2017-7921, CVE-2021-22681  
 **Categories:** Vulnerability  
 
 ---
@@ -91,7 +91,7 @@
 **Source:** The Hacker News  
 **Published:** Thu, 05 Mar 2026 20:52:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2026-20128, CVE-2026-20122  
+**CVEs:** CVE-2026-20122, CVE-2026-20128  
 **Categories:** Vulnerability  
 
 ---
@@ -227,7 +227,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21519, CVE-2026-21514, CVE-2026-21525, CVE-2026-21513, CVE-2026-21509, CVE-2026-21516, CVE-2026-21256, CVE-2026-21523, CVE-2026-21533  
+**CVEs:** CVE-2026-21513, CVE-2026-21509, CVE-2026-21525, CVE-2026-21510, CVE-2026-21256, CVE-2026-21514, CVE-2026-21516, CVE-2026-21523, CVE-2026-21533, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -264,7 +264,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20952, CVE-2026-20953, CVE-2026-20805  
+**CVEs:** CVE-2026-20953, CVE-2026-20952, CVE-2026-20805  
 **Categories:** Vulnerability  
 
 ---
