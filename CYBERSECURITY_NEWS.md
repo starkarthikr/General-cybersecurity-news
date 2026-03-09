@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-09 03:20:27 UTC
+**Last Updated:** 2026-03-09 09:08:37 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
+### 1. [Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure](https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 09 Mar 2026 12:51:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 07 Mar 2026 21:58:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
+### 3. [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 07 Mar 2026 16:51:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
+### 4. [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 20:41:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
+### 5. [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 20:03:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
+### 6. [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 16:00:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor](https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html)
+### 7. [Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor](https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 15:53:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks](https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html)
+### 8. [China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks](https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 13:52:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer](https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html)
+### 9. [Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer](https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 12:14:00 +0530  
@@ -76,22 +85,12 @@
 
 ---
 
-### 9. [Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog](https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html)
+### 10. [Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog](https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 12:00:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2017-7921, CVE-2021-22681  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities](https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 05 Mar 2026 20:52:00 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-20122, CVE-2026-20128  
+**CVEs:** CVE-2021-22681, CVE-2017-7921  
 **Categories:** Vulnerability  
 
 ---
@@ -227,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21513, CVE-2026-21509, CVE-2026-21525, CVE-2026-21510, CVE-2026-21256, CVE-2026-21514, CVE-2026-21516, CVE-2026-21523, CVE-2026-21533, CVE-2026-21519  
+**CVEs:** CVE-2026-21523, CVE-2026-21256, CVE-2026-21509, CVE-2026-21525, CVE-2026-21533, CVE-2026-21510, CVE-2026-21514, CVE-2026-21513, CVE-2026-21519, CVE-2026-21516  
 **Categories:** Vulnerability  
 
 ---
@@ -624,7 +623,16 @@
 
 ---
 
-### 71. [Ring doorbells: Won&#8217;t you see my neighbor? (Lock and Code S07E05)](https://www.malwarebytes.com/blog/podcast/2026/03/ring-doorbells-wont-you-see-my-neighbor-lock-and-code-s07e05)
+### 71. [A week in security (March 2 &#8211; March 8)](https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-march-2-march-8)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 09 Mar 2026 07:21:00 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 72. [Ring doorbells: Won&#8217;t you see my neighbor? (Lock and Code S07E05)](https://www.malwarebytes.com/blog/podcast/2026/03/ring-doorbells-wont-you-see-my-neighbor-lock-and-code-s07e05)
 
 **Source:** Malwarebytes  
 **Published:** Sun, 08 Mar 2026 22:55:35 GMT  
@@ -633,7 +641,7 @@
 
 ---
 
-### 72. [One click on this fake Google Meet update can give attackers control of your PC](https://www.malwarebytes.com/blog/threat-intel/2026/03/one-click-on-this-fake-google-meet-update-can-give-attackers-control-of-your-pc)
+### 73. [One click on this fake Google Meet update can give attackers control of your PC](https://www.malwarebytes.com/blog/threat-intel/2026/03/one-click-on-this-fake-google-meet-update-can-give-attackers-control-of-your-pc)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 06 Mar 2026 19:35:56 GMT  
@@ -642,7 +650,7 @@
 
 ---
 
-### 73. [Beware of fake OpenClaw installers, even if Bing points you to GitHub](https://www.malwarebytes.com/blog/news/2026/03/beware-of-fake-openclaw-installers-even-if-bing-points-you-to-github)
+### 74. [Beware of fake OpenClaw installers, even if Bing points you to GitHub](https://www.malwarebytes.com/blog/news/2026/03/beware-of-fake-openclaw-installers-even-if-bing-points-you-to-github)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 06 Mar 2026 11:11:26 GMT  
@@ -651,7 +659,7 @@
 
 ---
 
-### 74. [Fake CleanMyMac site installs SHub Stealer and backdoors crypto wallets](https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-cleanmymac-site-installs-shub-stealer-and-backdoors-crypto-wallets)
+### 75. [Fake CleanMyMac site installs SHub Stealer and backdoors crypto wallets](https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-cleanmymac-site-installs-shub-stealer-and-backdoors-crypto-wallets)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 06 Mar 2026 08:44:30 GMT  
@@ -660,7 +668,7 @@
 
 ---
 
-### 75. [Windows File Shredder: When deleting a file isn’t enough](https://www.malwarebytes.com/blog/product/2026/03/windows-file-shredder-when-deleting-a-file-isnt-enough)
+### 76. [Windows File Shredder: When deleting a file isn’t enough](https://www.malwarebytes.com/blog/product/2026/03/windows-file-shredder-when-deleting-a-file-isnt-enough)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 05 Mar 2026 11:07:53 GMT  
@@ -669,7 +677,7 @@
 
 ---
 
-### 76. [Supreme Court to decide whether geofence warrants are constitutional](https://www.malwarebytes.com/blog/news/2026/03/supreme-court-to-decide-whether-geofence-warrants-are-constitutional)
+### 77. [Supreme Court to decide whether geofence warrants are constitutional](https://www.malwarebytes.com/blog/news/2026/03/supreme-court-to-decide-whether-geofence-warrants-are-constitutional)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 05 Mar 2026 10:54:12 GMT  
@@ -678,7 +686,7 @@
 
 ---
 
-### 77. [Does the UK really want to ban VPNs? And can it be done?](https://www.malwarebytes.com/blog/news/2026/03/does-the-uk-really-want-to-ban-vpns-and-can-it-be-done)
+### 78. [Does the UK really want to ban VPNs? And can it be done?](https://www.malwarebytes.com/blog/news/2026/03/does-the-uk-really-want-to-ban-vpns-and-can-it-be-done)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Mar 2026 13:44:41 GMT  
@@ -687,7 +695,7 @@
 
 ---
 
-### 78. [Attackers abuse OAuth’s built-in redirects to launch phishing and malware attacks](https://www.malwarebytes.com/blog/news/2026/03/attackers-abuse-oauths-built-in-redirects-to-launch-phishing-and-malware-attacks)
+### 79. [Attackers abuse OAuth’s built-in redirects to launch phishing and malware attacks](https://www.malwarebytes.com/blog/news/2026/03/attackers-abuse-oauths-built-in-redirects-to-launch-phishing-and-malware-attacks)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Mar 2026 12:53:00 GMT  
@@ -696,22 +704,13 @@
 
 ---
 
-### 79. [High-severity Qualcomm bug hits Android devices in targeted attacks](https://www.malwarebytes.com/blog/news/2026/03/high-severity-qualcomm-bug-hits-android-devices-in-targeted-attacks)
+### 80. [High-severity Qualcomm bug hits Android devices in targeted attacks](https://www.malwarebytes.com/blog/news/2026/03/high-severity-qualcomm-bug-hits-android-devices-in-targeted-attacks)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 04 Mar 2026 12:33:22 GMT  
 **Severity:** Critical  
 **CVEs:** CVE-2026-21385  
 **Categories:** Vulnerability  
-
----
-
-### 80. [Pentagon ditches Anthropic AI over &#8220;security risk&#8221; and OpenAI takes over](https://www.malwarebytes.com/blog/news/2026/03/pentagon-ditches-anthropic-ai-over-security-risk-and-openai-takes-over)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 03 Mar 2026 16:05:58 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 

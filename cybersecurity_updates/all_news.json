@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure",
+    "link": "https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html",
+    "published": "Mon, 09 Mar 2026 12:51:00 +0530",
+    "summary": "High-value organizations located in South, Southeast, and East Asia have been targeted by a Chinese threat actor as part of a years-long campaign.\nThe activity, which has targeted aviation, energy, government, law enforcement, pharmaceutical, technology, and telecommunications sectors, has been attributed by Palo Alto Networks Unit 42 to a previously undocumented threat activity group dubbed",
+    "analysis": {
+      "issue": "New hacking cluster exploits web servers and Mimikatz to infiltrate Asian infrastructure for long-term espionage in aviation, energy, and govt sectors",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues",
     "link": "https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html",
     "published": "Sat, 07 Mar 2026 21:58:00 +0530",
@@ -156,29 +174,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2017-7921",
-        "CVE-2021-22681"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities",
-    "link": "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html",
-    "published": "Thu, 05 Mar 2026 20:52:00 +0530",
-    "summary": "Cisco has disclosed that two more vulnerabilities affecting Catalyst SD-WAN Manager (formerly SD-WAN vManage) have come under active exploitation in the wild.\nThe vulnerabilities in question are listed below -\n\nCVE-2026-20122 (CVSS score: 7.1) - An arbitrary file overwrite vulnerability that could allow an authenticated, remote attacker to overwrite arbitrary files on the local file system.",
-    "analysis": {
-      "issue": "Cisco warns CVE-2026-20122 and CVE-2026-20128 in Catalyst SD-WAN Manager are actively exploited; patches released across multiple software versions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-20122",
-        "CVE-2026-20128"
+        "CVE-2021-22681",
+        "CVE-2017-7921"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -459,16 +456,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21513",
+        "CVE-2026-21523",
+        "CVE-2026-21256",
         "CVE-2026-21509",
         "CVE-2026-21525",
-        "CVE-2026-21510",
-        "CVE-2026-21256",
-        "CVE-2026-21514",
-        "CVE-2026-21516",
-        "CVE-2026-21523",
         "CVE-2026-21533",
-        "CVE-2026-21519"
+        "CVE-2026-21510",
+        "CVE-2026-21514",
+        "CVE-2026-21513",
+        "CVE-2026-21519",
+        "CVE-2026-21516"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1215,6 +1212,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "A week in security (March 2 &#8211; March 8)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-march-2-march-8",
+    "published": "Mon, 09 Mar 2026 07:21:00 GMT",
+    "summary": "A list of topics we covered in the week of March 2 to March 8 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Ring doorbells: Won&#8217;t you see my neighbor? (Lock and Code S07E05)",
     "link": "https://www.malwarebytes.com/blog/podcast/2026/03/ring-doorbells-wont-you-see-my-neighbor-lock-and-code-s07e05",
     "published": "Sun, 08 Mar 2026 22:55:35 GMT",
@@ -1376,24 +1391,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Pentagon ditches Anthropic AI over &#8220;security risk&#8221; and OpenAI takes over",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/pentagon-ditches-anthropic-ai-over-security-risk-and-openai-takes-over",
-    "published": "Tue, 03 Mar 2026 16:05:58 GMT",
-    "summary": "At the center of the dispute is how far AI models should be allowed to go inside military systems.",
-    "analysis": {
-      "issue": "On Friday the US Pentagon cut ties with Anthropic, the company behind Claude AI",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
