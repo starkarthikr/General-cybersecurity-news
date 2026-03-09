@@ -156,8 +156,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2017-7921",
-        "CVE-2021-22681"
+        "CVE-2021-22681",
+        "CVE-2017-7921"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -372,6 +372,24 @@
   },
   {
     "source": "Krebs On Security",
+    "title": "How AI Assistants are Moving the Security Goalposts",
+    "link": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
+    "published": "Sun, 08 Mar 2026 23:35:42 +0000",
+    "summary": "AI-based assistants or \"agents\" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.",
+    "analysis": {
+      "issue": "AI-based assistants or “agents” — autonomous programs that have access to the user’s computer, files, online services and can automate virtually any task — are growing in popularity with developers and IT workers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Krebs On Security",
     "title": "Who is the Kimwolf Botmaster “Dort”?",
     "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
     "published": "Sat, 28 Feb 2026 12:01:57 +0000",
@@ -441,15 +459,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21256",
+        "CVE-2026-21510",
+        "CVE-2026-21519",
+        "CVE-2026-21514",
+        "CVE-2026-21525",
         "CVE-2026-21513",
         "CVE-2026-21509",
         "CVE-2026-21516",
+        "CVE-2026-21256",
         "CVE-2026-21523",
-        "CVE-2026-21519",
-        "CVE-2026-21510",
-        "CVE-2026-21525",
-        "CVE-2026-21514",
         "CVE-2026-21533"
       ],
       "threat_categories": [
@@ -528,9 +546,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20805",
+        "CVE-2026-20952",
         "CVE-2026-20953",
-        "CVE-2026-20952"
+        "CVE-2026-20805"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -553,27 +571,6 @@
       "threat_categories": [
         "Malware",
         "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "The Kimwolf Botnet is Stalking Your Local Network",
-    "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-    "published": "Fri, 02 Jan 2026 14:20:10 +0000",
-    "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
-    "analysis": {
-      "issue": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "DDoS",
-        "Supply Chain"
       ]
     }
   },
@@ -756,8 +753,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20127",
-        "CVE-2022-20775"
+        "CVE-2022-20775",
+        "CVE-2026-20127"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1218,6 +1215,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Ring doorbells: Won&#8217;t you see my neighbor? (Lock and Code S07E05)",
+    "link": "https://www.malwarebytes.com/blog/podcast/2026/03/ring-doorbells-wont-you-see-my-neighbor-lock-and-code-s07e05",
+    "published": "Sun, 08 Mar 2026 22:55:35 GMT",
+    "summary": "This week on the Lock and Code podcast, we speak with Matthew Guariglia about Ring smart doorbells and the surveillance network they create.",
+    "analysis": {
+      "issue": "This week on the Lock and Code podcast… On February 8, during the Super Bowl in the United States, countless owners of one of the most popular smart products today got a bit of a wakeup call: Their Ring doorbells could be used to see a whole lot more",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "One click on this fake Google Meet update can give attackers control of your PC",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/one-click-on-this-fake-google-meet-update-can-give-attackers-control-of-your-pc",
     "published": "Fri, 06 Mar 2026 19:35:56 GMT",
@@ -1379,25 +1394,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Chrome flaw let extensions hijack Gemini’s camera, mic, and file access",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/chrome-flaw-let-extensions-hijack-geminis-camera-mic-and-file-access",
-    "published": "Tue, 03 Mar 2026 12:10:19 GMT",
-    "summary": "Researchers found a now-patched vulnerability in \"Live in Chrome\" that allowed a Chrome extension to inherit Gemini’s permissions.",
-    "analysis": {
-      "issue": "Chrome’s Gemini “Live in Chrome” panel (Gemini’s embedded, agent-style assistant mode within Chrome) had a high‑severity vulnerability tracked as CVE‑2026‑0628",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
       ]
     }
   },
