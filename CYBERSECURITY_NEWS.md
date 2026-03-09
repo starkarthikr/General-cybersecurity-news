@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-09 13:18:10 UTC
+**Last Updated:** 2026-03-09 17:25:43 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Can the Security Platform Finally Deliver for the Mid-Market?](https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html)
+### 1. [UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device](https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 09 Mar 2026 20:20:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 2. [⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware](https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 09 Mar 2026 19:16:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 3. [Can the Security Platform Finally Deliver for the Mid-Market?](https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Mar 2026 17:15:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html)
+### 4. [Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Mar 2026 15:58:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure](https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html)
+### 5. [Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure](https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Mar 2026 12:51:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
+### 6. [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 07 Mar 2026 21:58:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
+### 7. [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 07 Mar 2026 16:51:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
+### 8. [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 20:41:00 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
+### 9. [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 20:03:00 +0530  
@@ -67,7 +85,7 @@
 
 ---
 
-### 8. [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
+### 10. [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 16:00:00 +0530  
@@ -76,25 +94,52 @@
 
 ---
 
-### 9. [Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor](https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html)
+### 11. [Microsoft Teams will tag third-party bots trying to join meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 06 Mar 2026 15:53:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 09 Mar 2026 13:12:49 -0400  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** Supply Chain  
 
 ---
 
-### 10. [China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks](https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html)
+### 12. [ShinyHunters claims ongoing Salesforce Aura data theft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 06 Mar 2026 13:52:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
+**Source:** Bleeping Computer  
+**Published:** Mon, 09 Mar 2026 13:12:22 -0400  
+**Severity:** High  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [EU court adviser says banks must immediately refund phishing victims](https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/)
+### 13. [FBI warns of phishing attacks impersonating US city, county officials](https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 09 Mar 2026 11:30:50 -0400  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 14. [Why Password Audits Miss the Accounts Attackers Actually Want](https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 09 Mar 2026 10:10:20 -0400  
+**Severity:** Critical  
+**Categories:** Data Breach  
+
+---
+
+### 15. [Microsoft still working to fix Windows Explorer white flashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 09 Mar 2026 10:10:17 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 16. [EU court adviser says banks must immediately refund phishing victims](https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 08 Mar 2026 11:25:37 -0400  
@@ -103,7 +148,7 @@
 
 ---
 
-### 12. [Hackers abuse .arpa DNS and ipv6 to evade phishing defenses](https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/)
+### 17. [Hackers abuse .arpa DNS and ipv6 to evade phishing defenses](https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 08 Mar 2026 10:12:22 -0400  
@@ -112,7 +157,7 @@
 
 ---
 
-### 13. [Termite ransomware breaches linked to ClickFix CastleRAT attacks](https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/)
+### 18. [Termite ransomware breaches linked to ClickFix CastleRAT attacks](https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 07 Mar 2026 11:14:32 -0500  
@@ -121,7 +166,7 @@
 
 ---
 
-### 14. [Microsoft: Hackers abusing AI at every stage of cyberattacks](https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/)
+### 19. [Microsoft: Hackers abusing AI at every stage of cyberattacks](https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 07 Mar 2026 10:15:25 -0500  
@@ -130,57 +175,12 @@
 
 ---
 
-### 15. [Cognizant TriZetto breach exposes health data of 3.4 million patients](https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/)
+### 20. [Cognizant TriZetto breach exposes health data of 3.4 million patients](https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 06 Mar 2026 14:50:21 -0500  
 **Severity:** Low  
 **Categories:** Data Breach  
-
----
-
-### 16. [CISA warns feds to patch iOS flaws exploited in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 06 Mar 2026 10:57:16 -0500  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware, APT  
-
----
-
-### 17. [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 06 Mar 2026 10:00:10 -0500  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 18. [Fake Claude Code install guides push infostealers in InstallFix attacks](https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 06 Mar 2026 10:00:00 -0500  
-**Severity:** High  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 19. [Microsoft 365 Backup to add file-level restore for faster recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 06 Mar 2026 09:21:09 -0500  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 20. [Ghanain man pleads guilty to role in $100 million fraud ring](https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 06 Mar 2026 05:08:00 -0500  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -225,7 +225,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21533, CVE-2026-21256, CVE-2026-21525, CVE-2026-21523, CVE-2026-21513, CVE-2026-21514, CVE-2026-21509, CVE-2026-21519, CVE-2026-21510, CVE-2026-21516  
+**CVEs:** CVE-2026-21533, CVE-2026-21525, CVE-2026-21513, CVE-2026-21523, CVE-2026-21514, CVE-2026-21509, CVE-2026-21516, CVE-2026-21510, CVE-2026-21256, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -262,7 +262,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20952, CVE-2026-20805  
+**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
@@ -276,73 +276,73 @@
 
 ---
 
-### 31. [ClickFix Attack Uses Windows Terminal to Evade Detection](https://www.securityweek.com/clickfix-attack-uses-windows-terminal-to-evade-detection/)
+### 31. [Cybersecurity M&A Roundup: 42 Deals Announced in February 2026](https://www.securityweek.com/cybersecurity-ma-roundup-42-deals-announced-in-february-2026/)
+
+**Source:** Security Week  
+**Published:** Mon, 09 Mar 2026 15:54:43 +0000  
+
+---
+
+### 32. [ClickFix Attack Uses Windows Terminal to Evade Detection](https://www.securityweek.com/clickfix-attack-uses-windows-terminal-to-evade-detection/)
 
 **Source:** Security Week  
 **Published:** Mon, 09 Mar 2026 12:51:29 +0000  
 
 ---
 
-### 32. [Internet Infrastructure TLD .arpa Abused in Phishing Attacks](https://www.securityweek.com/internet-infrastructure-tld-arpa-abused-in-phishing-attacks/)
+### 33. [Internet Infrastructure TLD .arpa Abused in Phishing Attacks](https://www.securityweek.com/internet-infrastructure-tld-arpa-abused-in-phishing-attacks/)
 
 **Source:** Security Week  
 **Published:** Mon, 09 Mar 2026 12:06:25 +0000  
 
 ---
 
-### 33. [Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign](https://www.securityweek.com/cloned-ai-tool-sites-distribute-malware-in-installfix-campaign/)
+### 34. [Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign](https://www.securityweek.com/cloned-ai-tool-sites-distribute-malware-in-installfix-campaign/)
 
 **Source:** Security Week  
 **Published:** Mon, 09 Mar 2026 11:42:07 +0000  
 
 ---
 
-### 34. [Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited](https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/)
+### 35. [Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited](https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/)
 
 **Source:** Security Week  
 **Published:** Sun, 08 Mar 2026 12:15:00 +0000  
 
 ---
 
-### 35. [US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies](https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/)
+### 36. [US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies](https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/)
 
 **Source:** Security Week  
 **Published:** Sat, 07 Mar 2026 15:57:23 +0000  
 
 ---
 
-### 36. [Over 100 GitHub Repositories Distributing BoryptGrab Stealer](https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/)
+### 37. [Over 100 GitHub Repositories Distributing BoryptGrab Stealer](https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/)
 
 **Source:** Security Week  
 **Published:** Sat, 07 Mar 2026 12:40:00 +0000  
 
 ---
 
-### 37. [Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare](https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/)
+### 38. [Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare](https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/)
 
 **Source:** Security Week  
 **Published:** Sat, 07 Mar 2026 11:51:16 +0000  
 
 ---
 
-### 38. [FBI Investigating ‘Suspicious’ Cyber Activity on System Holding Sensitive Surveillance Information](https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/)
+### 39. [FBI Investigating ‘Suspicious’ Cyber Activity on System Holding Sensitive Surveillance Information](https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/)
 
 **Source:** Security Week  
 **Published:** Sat, 07 Mar 2026 01:01:54 +0000  
 
 ---
 
-### 39. [ArmorCode Raises $16 Million for Exposure Management Platform](https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/)
+### 40. [ArmorCode Raises $16 Million for Exposure Management Platform](https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/)
 
 **Source:** Security Week  
 **Published:** Fri, 06 Mar 2026 16:06:39 +0000  
-
----
-
-### 40. [In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike](https://www.securityweek.com/in-other-news-fbi-hacked-us-security-pro-killed-in-iran-war-hijacked-cameras-used-in-khamenei-strike/)
-
-**Source:** Security Week  
-**Published:** Fri, 06 Mar 2026 15:35:00 +0000  
 
 ---
 
@@ -396,7 +396,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 25 Feb 2026 16:13:36 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20127, CVE-2022-20775  
+**CVEs:** CVE-2022-20775, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---
@@ -607,7 +607,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -712,7 +712,16 @@
 
 ---
 
-### 81. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
+### 81. [Falcon for XIoT Extends Asset Protection to Healthcare Environments](https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Mar 09, 2026 00:00:00-0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 06, 2026 00:00:00-0600  
@@ -721,7 +730,7 @@
 
 ---
 
-### 82. [CrowdStrike Achieves NCSC CIR Assurance for Incident Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/)
+### 83. [CrowdStrike Achieves NCSC CIR Assurance for Incident Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 02, 2026 00:00:00-0600  
@@ -730,7 +739,7 @@
 
 ---
 
-### 83. [CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/)
+### 84. [CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 26, 2026 00:00:00-0600  
@@ -739,7 +748,7 @@
 
 ---
 
-### 84. [CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/)
+### 85. [CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 24, 2026 00:00:00-0600  
@@ -748,7 +757,7 @@
 
 ---
 
-### 85. [The Art of Deception: How Threat Actors Master Typosquatting Campaigns to Bypass Detection](https://www.crowdstrike.com/en-us/blog/the-art-of-deception-how-threat-actors-master-typosquatting-campaigns-to-bypass-detection/)
+### 86. [The Art of Deception: How Threat Actors Master Typosquatting Campaigns to Bypass Detection](https://www.crowdstrike.com/en-us/blog/the-art-of-deception-how-threat-actors-master-typosquatting-campaigns-to-bypass-detection/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 23, 2026 00:00:00-0600  
@@ -757,7 +766,7 @@
 
 ---
 
-### 86. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
+### 87. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 18, 2026 00:00:00-0600  
@@ -766,7 +775,7 @@
 
 ---
 
-### 87. [Exposing Insider Threats through Data Protection, Identity, and HR Context](https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/)
+### 88. [Exposing Insider Threats through Data Protection, Identity, and HR Context](https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 18, 2026 00:00:00-0600  
@@ -775,7 +784,7 @@
 
 ---
 
-### 88. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/)
+### 89. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 12, 2026 00:00:00-0600  
@@ -784,20 +793,11 @@
 
 ---
 
-### 89. [How to Scale SOC Automation with Falcon Fusion SOAR](https://www.crowdstrike.com/en-us/blog/how-to-scale-soc-automation-with-falcon-fusion-soar/)
+### 90. [How to Scale SOC Automation with Falcon Fusion SOAR](https://www.crowdstrike.com/en-us/blog/how-to-scale-soc-automation-with-falcon-fusion-soar/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 11, 2026 00:00:00-0600  
 **Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [Inside the Human-AI Feedback Loop Powering CrowdStrike&rsquo;s Agentic Security](https://www.crowdstrike.com/en-us/blog/inside-the-human-ai-feedback-loop-powering-crowdstrike-agentic-security/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Feb 10, 2026 00:00:00-0600  
-**Severity:** High  
 **Categories:** General Security  
 
 ---
