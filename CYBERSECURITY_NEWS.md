@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-10 13:15:24 UTC
+**Last Updated:** 2026-03-10 17:24:09 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows](https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html)
+### 1. [KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet](https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 10 Mar 2026 21:30:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [New "LeakyLooker" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries](https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 10 Mar 2026 18:50:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows](https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Mar 2026 17:15:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction](https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html)
+### 4. [The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction](https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Mar 2026 16:30:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military](https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html)
+### 5. [APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military](https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Mar 2026 16:25:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool](https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html)
+### 6. [Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool](https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Mar 2026 12:47:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited](https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html)
+### 7. [CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited](https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Mar 2026 11:47:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials](https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html)
+### 8. [Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials](https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Mar 2026 00:01:00 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device](https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html)
+### 9. [UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device](https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Mar 2026 20:20:00 +0530  
@@ -67,7 +85,7 @@
 
 ---
 
-### 8. [⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware](https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html)
+### 10. [⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware](https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Mar 2026 19:16:00 +0530  
@@ -76,25 +94,34 @@
 
 ---
 
-### 9. [Can the Security Platform Finally Deliver for the Mid-Market?](https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html)
+### 11. [Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 09 Mar 2026 17:15:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 09 Mar 2026 15:58:00 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Tue, 10 Mar 2026 11:27:58 -0400  
+**Severity:** High  
 **Categories:** Malware, Phishing  
 
 ---
 
-### 11. [CISA: Recently patched Ivanti EPM flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/)
+### 12. [New KadNap botnet hijacks ASUS routers to fuel cybercrime proxy network](https://www.bleepingcomputer.com/news/security/new-kadnap-botnet-hijacks-asus-routers-to-fuel-cybercrime-proxy-network/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 10 Mar 2026 11:01:57 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [The New Turing Test: How Threats Use Geometry to Prove 'Humanness'](https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 10 Mar 2026 10:02:12 -0400  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 14. [CISA: Recently patched Ivanti EPM flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 10 Mar 2026 07:36:13 -0400  
@@ -104,7 +131,7 @@
 
 ---
 
-### 12. [Microsoft to enable Windows hotpatch security updates by default](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/)
+### 15. [Microsoft to enable Windows hotpatch security updates by default](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 10 Mar 2026 06:35:33 -0400  
@@ -113,7 +140,7 @@
 
 ---
 
-### 13. [APT28 hackers deploy customized variant of Covenant open-source tool](https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/)
+### 16. [APT28 hackers deploy customized variant of Covenant open-source tool](https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 10 Mar 2026 06:00:00 -0400  
@@ -123,7 +150,7 @@
 
 ---
 
-### 14. [Microsoft Teams phishing targets employees with A0Backdoor malware](https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/)
+### 17. [Microsoft Teams phishing targets employees with A0Backdoor malware](https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Mar 2026 18:50:38 -0400  
@@ -132,7 +159,7 @@
 
 ---
 
-### 15. [Google: Cloud attacks exploit flaws more than weak credentials](https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/)
+### 18. [Google: Cloud attacks exploit flaws more than weak credentials](https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Mar 2026 17:45:34 -0400  
@@ -142,7 +169,7 @@
 
 ---
 
-### 16. [Dutch govt warns of Signal, WhatsApp account hijacking attacks](https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-signal-whatsapp-account-hijacking-attacks/)
+### 19. [Dutch govt warns of Signal, WhatsApp account hijacking attacks](https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-signal-whatsapp-account-hijacking-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Mar 2026 17:24:49 -0400  
@@ -151,39 +178,12 @@
 
 ---
 
-### 17. [Ericsson US discloses data breach after service provider hack](https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/)
+### 20. [Ericsson US discloses data breach after service provider hack](https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Mar 2026 15:07:50 -0400  
 **Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 18. [Microsoft Teams will tag third-party bots trying to join meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 09 Mar 2026 13:12:49 -0400  
-**Severity:** Low  
-**Categories:** Supply Chain  
-
----
-
-### 19. [ShinyHunters claims ongoing Salesforce Aura data theft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 09 Mar 2026 13:12:22 -0400  
-**Severity:** High  
-**Categories:** Vulnerability  
-
----
-
-### 20. [FBI warns of phishing attacks impersonating US city, county officials](https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 09 Mar 2026 11:30:50 -0400  
-**Severity:** Low  
-**Categories:** Phishing  
+**Categories:** Data Breach, Supply Chain  
 
 ---
 
@@ -191,6 +191,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Sun, 08 Mar 2026 23:35:42 +0000  
+**Severity:** Low  
+**Categories:** APT  
 
 ---
 
@@ -198,6 +200,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Sat, 28 Feb 2026 12:01:57 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware, APT, DDoS  
 
 ---
 
@@ -205,6 +209,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Fri, 20 Feb 2026 20:00:30 +0000  
+**Severity:** Low  
+**Categories:** Phishing  
 
 ---
 
@@ -212,6 +218,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Feb 2026 16:08:11 +0000  
+**Severity:** Low  
+**Categories:** Malware, DDoS  
 
 ---
 
@@ -219,6 +227,9 @@
 
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-21510, CVE-2026-21256, CVE-2026-21523, CVE-2026-21516, CVE-2026-21525, CVE-2026-21533, CVE-2026-21514, CVE-2026-21519, CVE-2026-21513, CVE-2026-21509  
+**Categories:** Vulnerability  
 
 ---
 
@@ -226,6 +237,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 02 Feb 2026 16:15:16 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Phishing, APT, DDoS  
 
 ---
 
@@ -233,6 +246,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 26 Jan 2026 16:11:38 +0000  
+**Severity:** High  
+**Categories:** Malware  
 
 ---
 
@@ -240,6 +255,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Tue, 20 Jan 2026 18:19:13 +0000  
+**Severity:** Low  
+**Categories:** Malware, DDoS  
 
 ---
 
@@ -247,6 +264,9 @@
 
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-20952, CVE-2026-20805, CVE-2026-20953  
+**Categories:** Vulnerability  
 
 ---
 
@@ -254,76 +274,78 @@
 
 **Source:** Krebs On Security  
 **Published:** Thu, 08 Jan 2026 23:23:43 +0000  
+**Severity:** Low  
+**Categories:** Malware, DDoS  
 
 ---
 
-### 31. [Hundreds of Salesforce Customers Allegedly Targeted in New Data Theft Campaign](https://www.securityweek.com/hundreds-of-salesforce-customers-allegedly-targeted-in-new-data-theft-campaign/)
+### 31. [Kai Emerges From Stealth With $125M in Funding for AI Platform Bridging IT and OT Security](https://www.securityweek.com/kai-emerges-from-stealth-with-125m-in-funding-for-ai-platform-bridging-it-and-ot-security/)
+
+**Source:** Security Week  
+**Published:** Tue, 10 Mar 2026 15:13:03 +0000  
+
+---
+
+### 32. [Webinar Today: Securing Fragile OT in an Exposed World](https://www.securityweek.com/webinar-today-securing-fragile-ot-in-an-exposed-world/)
+
+**Source:** Security Week  
+**Published:** Tue, 10 Mar 2026 15:04:28 +0000  
+
+---
+
+### 33. [SAP Patches Critical FS-QUO, NetWeaver Vulnerabilities](https://www.securityweek.com/sap-patches-critical-fs-quo-netweaver-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Tue, 10 Mar 2026 14:31:36 +0000  
+
+---
+
+### 34. [Thousands Affected by Ericsson Data Breach](https://www.securityweek.com/thousands-affected-by-ericsson-data-breach/)
+
+**Source:** Security Week  
+**Published:** Tue, 10 Mar 2026 14:23:34 +0000  
+
+---
+
+### 35. [OpenAI Rolls Out Codex Security Vulnerability Scanner](https://www.securityweek.com/openai-rolls-out-codex-security-vulnerability-scanner/)
+
+**Source:** Security Week  
+**Published:** Tue, 10 Mar 2026 13:23:05 +0000  
+
+---
+
+### 36. [Kevin Mandia’s Armadin Launches With $190 Million in Funding](https://www.securityweek.com/kevin-mandias-armadin-launches-with-189-9-million-in-funding/)
+
+**Source:** Security Week  
+**Published:** Tue, 10 Mar 2026 13:21:05 +0000  
+
+---
+
+### 37. [Hundreds of Salesforce Customers Allegedly Targeted in New Data Theft Campaign](https://www.securityweek.com/hundreds-of-salesforce-customers-allegedly-targeted-in-new-data-theft-campaign/)
 
 **Source:** Security Week  
 **Published:** Tue, 10 Mar 2026 12:37:17 +0000  
 
 ---
 
-### 32. [Escape Raises $18 Million to Automate Pentesting](https://www.securityweek.com/escape-raises-18-million-to-automate-pentesting/)
+### 38. [Escape Raises $18 Million to Automate Pentesting](https://www.securityweek.com/escape-raises-18-million-to-automate-pentesting/)
 
 **Source:** Security Week  
 **Published:** Tue, 10 Mar 2026 11:58:32 +0000  
 
 ---
 
-### 33. [Recent Ivanti Endpoint Manager Flaw Exploited in Attacks](https://www.securityweek.com/recent-ivanti-endpoint-manager-flaw-exploited-in-attacks/)
+### 39. [Recent Ivanti Endpoint Manager Flaw Exploited in Attacks](https://www.securityweek.com/recent-ivanti-endpoint-manager-flaw-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 10 Mar 2026 11:51:02 +0000  
 
 ---
 
-### 34. [SIM Swaps Expose a Critical Flaw in Identity Security](https://www.securityweek.com/sim-swaps-expose-a-critical-flaw-in-identity-security/)
+### 40. [SIM Swaps Expose a Critical Flaw in Identity Security](https://www.securityweek.com/sim-swaps-expose-a-critical-flaw-in-identity-security/)
 
 **Source:** Security Week  
 **Published:** Tue, 10 Mar 2026 11:00:00 +0000  
-
----
-
-### 35. [Cylake Raises $45 Million to Secure Organizations Barred From Cloud](https://www.securityweek.com/cylake-raises-45-million-to-secure-organizations-barred-from-cloud/)
-
-**Source:** Security Week  
-**Published:** Tue, 10 Mar 2026 07:10:22 +0000  
-
----
-
-### 36. [Cybersecurity M&A Roundup: 42 Deals Announced in February 2026](https://www.securityweek.com/cybersecurity-ma-roundup-42-deals-announced-in-february-2026/)
-
-**Source:** Security Week  
-**Published:** Mon, 09 Mar 2026 15:54:43 +0000  
-
----
-
-### 37. [ClickFix Attack Uses Windows Terminal to Evade Detection](https://www.securityweek.com/clickfix-attack-uses-windows-terminal-to-evade-detection/)
-
-**Source:** Security Week  
-**Published:** Mon, 09 Mar 2026 12:51:29 +0000  
-
----
-
-### 38. [Internet Infrastructure TLD .arpa Abused in Phishing Attacks](https://www.securityweek.com/internet-infrastructure-tld-arpa-abused-in-phishing-attacks/)
-
-**Source:** Security Week  
-**Published:** Mon, 09 Mar 2026 12:06:25 +0000  
-
----
-
-### 39. [Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign](https://www.securityweek.com/cloned-ai-tool-sites-distribute-malware-in-installfix-campaign/)
-
-**Source:** Security Week  
-**Published:** Mon, 09 Mar 2026 11:42:07 +0000  
-
----
-
-### 40. [Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited](https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/)
-
-**Source:** Security Week  
-**Published:** Sun, 08 Mar 2026 12:15:00 +0000  
 
 ---
 
