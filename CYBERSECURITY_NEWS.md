@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-10 03:12:10 UTC
+**Last Updated:** 2026-03-10 09:08:46 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials](https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html)
+### 1. [Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool](https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 10 Mar 2026 12:47:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited](https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 10 Mar 2026 11:47:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials](https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Mar 2026 00:01:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device](https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html)
+### 4. [UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device](https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Mar 2026 20:20:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware](https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html)
+### 5. [⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware](https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Mar 2026 19:16:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Can the Security Platform Finally Deliver for the Mid-Market?](https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html)
+### 6. [Can the Security Platform Finally Deliver for the Mid-Market?](https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Mar 2026 17:15:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html)
+### 7. [Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Mar 2026 15:58:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure](https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html)
+### 8. [Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure](https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Mar 2026 12:51:00 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
+### 9. [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 07 Mar 2026 21:58:00 +0530  
@@ -67,30 +85,12 @@
 
 ---
 
-### 8. [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
+### 10. [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 07 Mar 2026 16:51:00 +0530  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 9. [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 06 Mar 2026 20:41:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 10. [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 06 Mar 2026 20:03:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -226,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21513, CVE-2026-21523, CVE-2026-21509, CVE-2026-21514, CVE-2026-21519, CVE-2026-21533, CVE-2026-21516, CVE-2026-21525, CVE-2026-21256  
+**CVEs:** CVE-2026-21256, CVE-2026-21516, CVE-2026-21513, CVE-2026-21523, CVE-2026-21519, CVE-2026-21533, CVE-2026-21509, CVE-2026-21525, CVE-2026-21510, CVE-2026-21514  
 **Categories:** Vulnerability  
 
 ---
@@ -263,7 +263,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20953, CVE-2026-20805, CVE-2026-20952  
+**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
 **Categories:** Vulnerability  
 
 ---
@@ -277,73 +277,73 @@
 
 ---
 
-### 31. [Cybersecurity M&A Roundup: 42 Deals Announced in February 2026](https://www.securityweek.com/cybersecurity-ma-roundup-42-deals-announced-in-february-2026/)
+### 31. [Cylake Raises $45 Million to Secure Organizations Barred From Cloud](https://www.securityweek.com/cylake-raises-45-million-to-secure-organizations-barred-from-cloud/)
+
+**Source:** Security Week  
+**Published:** Tue, 10 Mar 2026 07:10:22 +0000  
+
+---
+
+### 32. [Cybersecurity M&A Roundup: 42 Deals Announced in February 2026](https://www.securityweek.com/cybersecurity-ma-roundup-42-deals-announced-in-february-2026/)
 
 **Source:** Security Week  
 **Published:** Mon, 09 Mar 2026 15:54:43 +0000  
 
 ---
 
-### 32. [ClickFix Attack Uses Windows Terminal to Evade Detection](https://www.securityweek.com/clickfix-attack-uses-windows-terminal-to-evade-detection/)
+### 33. [ClickFix Attack Uses Windows Terminal to Evade Detection](https://www.securityweek.com/clickfix-attack-uses-windows-terminal-to-evade-detection/)
 
 **Source:** Security Week  
 **Published:** Mon, 09 Mar 2026 12:51:29 +0000  
 
 ---
 
-### 33. [Internet Infrastructure TLD .arpa Abused in Phishing Attacks](https://www.securityweek.com/internet-infrastructure-tld-arpa-abused-in-phishing-attacks/)
+### 34. [Internet Infrastructure TLD .arpa Abused in Phishing Attacks](https://www.securityweek.com/internet-infrastructure-tld-arpa-abused-in-phishing-attacks/)
 
 **Source:** Security Week  
 **Published:** Mon, 09 Mar 2026 12:06:25 +0000  
 
 ---
 
-### 34. [Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign](https://www.securityweek.com/cloned-ai-tool-sites-distribute-malware-in-installfix-campaign/)
+### 35. [Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign](https://www.securityweek.com/cloned-ai-tool-sites-distribute-malware-in-installfix-campaign/)
 
 **Source:** Security Week  
 **Published:** Mon, 09 Mar 2026 11:42:07 +0000  
 
 ---
 
-### 35. [Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited](https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/)
+### 36. [Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited](https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/)
 
 **Source:** Security Week  
 **Published:** Sun, 08 Mar 2026 12:15:00 +0000  
 
 ---
 
-### 36. [US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies](https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/)
+### 37. [US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies](https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/)
 
 **Source:** Security Week  
 **Published:** Sat, 07 Mar 2026 15:57:23 +0000  
 
 ---
 
-### 37. [Over 100 GitHub Repositories Distributing BoryptGrab Stealer](https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/)
+### 38. [Over 100 GitHub Repositories Distributing BoryptGrab Stealer](https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/)
 
 **Source:** Security Week  
 **Published:** Sat, 07 Mar 2026 12:40:00 +0000  
 
 ---
 
-### 38. [Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare](https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/)
+### 39. [Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare](https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/)
 
 **Source:** Security Week  
 **Published:** Sat, 07 Mar 2026 11:51:16 +0000  
 
 ---
 
-### 39. [FBI Investigating ‘Suspicious’ Cyber Activity on System Holding Sensitive Surveillance Information](https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/)
+### 40. [FBI Investigating ‘Suspicious’ Cyber Activity on System Holding Sensitive Surveillance Information](https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/)
 
 **Source:** Security Week  
 **Published:** Sat, 07 Mar 2026 01:01:54 +0000  
-
----
-
-### 40. [ArmorCode Raises $16 Million for Exposure Management Platform](https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/)
-
-**Source:** Security Week  
-**Published:** Fri, 06 Mar 2026 16:06:39 +0000  
 
 ---
 
@@ -397,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 25 Feb 2026 16:13:36 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20127, CVE-2022-20775  
+**CVEs:** CVE-2022-20775, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---
@@ -608,7 +608,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
