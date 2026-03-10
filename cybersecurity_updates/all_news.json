@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials",
+    "link": "https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html",
+    "published": "Tue, 10 Mar 2026 00:01:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a malicious npm package that masquerades as an OpenClaw installer to deploy a remote access trojan (RAT) and steal sensitive data from compromised hosts.\nThe package, named \"@openclaw-ai/openclawai,\" was uploaded to the registry by a user named \"openclaw-ai\" on March 3, 2026. It has been downloaded 178 times to date. The library is still available for",
+    "analysis": {
+      "issue": "Malicious npm package '@openclaw-ai/openclawai' downloaded 178 times installs GhostLoader RAT, stealing credentials and crypto wallets",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device",
     "link": "https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html",
     "published": "Mon, 09 Mar 2026 20:20:00 +0530",
@@ -165,20 +183,80 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity",
-    "link": "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html",
-    "published": "Fri, 06 Mar 2026 16:00:00 +0530",
-    "summary": "Scaling cybersecurity services as an MSP or MSSP requires technical expertise and a business model that delivers measurable value at scale.\nRisk-based cybersecurity is the foundation of that model. When done right, it builds client trust, increases upsell opportunities, and drives recurring revenue. But to deliver this consistently and efficiently, you need the right technology and processes.",
+    "source": "Bleeping Computer",
+    "title": "Microsoft Teams phishing targets employees with A0Backdoor malware",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/",
+    "published": "Mon, 09 Mar 2026 18:50:38 -0400",
+    "summary": "Hackers contacted employees at financial and healthcare organizations over Microsoft Teams to trick them into granting remote access through Quick Assist and deploy a new piece of malware called A0Backdoor. [...]",
     "analysis": {
-      "issue": "AI-powered risk management helps MSPs automate assessments, manage compliance, and scale cybersecurity services with recurring revenue",
+      "issue": "Hackers contacted employees at financial and healthcare organizations over Microsoft Teams to trick them into granting remote access through Quick Assist and deploy a new piece of malware called A0Backdoor",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Google: Cloud attacks exploit flaws more than weak credentials",
+    "link": "https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/",
+    "published": "Mon, 09 Mar 2026 17:45:34 -0400",
+    "summary": "Hackers are increasingly exploiting newly disclosed vulnerabilities in third-party software to gain initial access to cloud environments, with the window for attacks shrinking from weeks to just days. [...]",
+    "analysis": {
+      "issue": "Hackers are increasingly exploiting newly disclosed vulnerabilities in third-party software to gain initial access to cloud environments, with the window for attacks shrinking from weeks to just days",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2025-24893",
+        "CVE-2025-55182"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Dutch govt warns of Signal, WhatsApp account hijacking attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-signal-whatsapp-account-hijacking-attacks/",
+    "published": "Mon, 09 Mar 2026 17:24:49 -0400",
+    "summary": "Russian state-sponsored hackers have been linked to an ongoing Signal and WhatsApp phishing campaign targeting government officials, military personnel, and journalists to gain access to sensitive messages. [...]",
+    "analysis": {
+      "issue": "Russian state-sponsored hackers have been linked to an ongoing Signal and WhatsApp phishing campaign targeting government officials, military personnel, and journalists to gain access to sensitive messages",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Ericsson US discloses data breach after service provider hack",
+    "link": "https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/",
+    "published": "Mon, 09 Mar 2026 15:07:50 -0400",
+    "summary": "Ericsson Inc., the U.S. subsidiary of Swedish networking and telecommunications giant Ericsson, says attackers have stolen data belonging to an undisclosed number of employees and customers after hacking one of its service providers. [...]",
+    "analysis": {
+      "issue": "subsidiary of Swedish networking and telecommunications giant Ericsson, says attackers have stolen data belonging to an undisclosed number of employees and customers after hacking one of its service providers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
       ]
     }
   },
@@ -291,80 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/",
-    "published": "Sun, 08 Mar 2026 10:12:22 -0400",
-    "summary": "Threat actors are abusing the special-use \".arpa\" domain and IPv6 reverse DNS in phishing campaigns that more easily evade domain reputation checks and email security gateways. [...]",
-    "analysis": {
-      "issue": "Threat actors are abusing the special-use \"",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Termite ransomware breaches linked to ClickFix CastleRAT attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/",
-    "published": "Sat, 07 Mar 2026 11:14:32 -0500",
-    "summary": "Ransomware threat actors tracked as Velvet Tempest are using the ClickFix technique and legitimate Windows utilities to deploy the DonutLoader malware and the CastleRAT backdoor. [...]",
-    "analysis": {
-      "issue": "Ransomware threat actors tracked as Velvet Tempest are using the ClickFix technique and legitimate Windows utilities to deploy the DonutLoader malware and the CastleRAT backdoor",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Hackers abusing AI at every stage of cyberattacks",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/",
-    "published": "Sat, 07 Mar 2026 10:15:25 -0500",
-    "summary": "Microsoft says threat actors are increasingly using artificial intelligence in their operations to accelerate attacks, scale malicious activity, and lower technical barriers across all aspects of a cyberattack. [...]",
-    "analysis": {
-      "issue": "Microsoft says threat actors are increasingly using artificial intelligence in their operations to accelerate attacks, scale malicious activity, and lower technical barriers across all aspects of a cyberattack",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Cognizant TriZetto breach exposes health data of 3.4 million patients",
-    "link": "https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/",
-    "published": "Fri, 06 Mar 2026 14:50:21 -0500",
-    "summary": "TriZetto Provider Solutions, a healthcare IT company that develops software and services used by health insurers and healthcare providers, has suffered a data breach that exposed the sensitive information of over 3.4 million people. [...]",
-    "analysis": {
-      "issue": "TriZetto Provider Solutions, a healthcare IT company that develops software and services used by health insurers and healthcare providers, has suffered a data breach that exposed the sensitive information of over 3",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "How AI Assistants are Moving the Security Goalposts",
     "link": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
@@ -453,16 +457,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21533",
-        "CVE-2026-21525",
-        "CVE-2026-21513",
-        "CVE-2026-21523",
-        "CVE-2026-21514",
-        "CVE-2026-21509",
-        "CVE-2026-21516",
         "CVE-2026-21510",
+        "CVE-2026-21513",
         "CVE-2026-21256",
-        "CVE-2026-21519"
+        "CVE-2026-21519",
+        "CVE-2026-21516",
+        "CVE-2026-21523",
+        "CVE-2026-21533",
+        "CVE-2026-21509",
+        "CVE-2026-21514",
+        "CVE-2026-21525"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -747,8 +751,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-20775",
-        "CVE-2026-20127"
+        "CVE-2026-20127",
+        "CVE-2022-20775"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -833,7 +837,7 @@
     "source": "Recorded Future",
     "title": "The Iran War: What You Need to Know",
     "link": "https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know",
-    "published": "Wed, 04 Mar 2026 00:00:00 GMT",
+    "published": "Mon, 09 Mar 2026 00:00:00 GMT",
     "summary": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios.",
     "analysis": {
       "issue": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios",
@@ -1178,8 +1182,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

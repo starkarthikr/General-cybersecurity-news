@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-09 17:25:43 UTC
+**Last Updated:** 2026-03-10 02:33:43 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device](https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html)
+### 1. [Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials](https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 10 Mar 2026 00:01:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device](https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Mar 2026 20:20:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware](https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html)
+### 3. [⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware](https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Mar 2026 19:16:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Can the Security Platform Finally Deliver for the Mid-Market?](https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html)
+### 4. [Can the Security Platform Finally Deliver for the Mid-Market?](https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Mar 2026 17:15:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html)
+### 5. [Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Mar 2026 15:58:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure](https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html)
+### 6. [Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure](https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 09 Mar 2026 12:51:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
+### 7. [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 07 Mar 2026 21:58:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
+### 8. [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 07 Mar 2026 16:51:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
+### 9. [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 20:41:00 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
+### 10. [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 06 Mar 2026 20:03:00 +0530  
@@ -85,16 +94,44 @@
 
 ---
 
-### 10. [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
+### 11. [Microsoft Teams phishing targets employees with A0Backdoor malware](https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 06 Mar 2026 16:00:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 09 Mar 2026 18:50:38 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Malware, Phishing  
 
 ---
 
-### 11. [Microsoft Teams will tag third-party bots trying to join meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/)
+### 12. [Google: Cloud attacks exploit flaws more than weak credentials](https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 09 Mar 2026 17:45:34 -0400  
+**Severity:** High  
+**CVEs:** CVE-2025-24893, CVE-2025-55182  
+**Categories:** Vulnerability, Malware, Supply Chain  
+
+---
+
+### 13. [Dutch govt warns of Signal, WhatsApp account hijacking attacks](https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-signal-whatsapp-account-hijacking-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 09 Mar 2026 17:24:49 -0400  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 14. [Ericsson US discloses data breach after service provider hack](https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 09 Mar 2026 15:07:50 -0400  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 15. [Microsoft Teams will tag third-party bots trying to join meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Mar 2026 13:12:49 -0400  
@@ -103,7 +140,7 @@
 
 ---
 
-### 12. [ShinyHunters claims ongoing Salesforce Aura data theft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/)
+### 16. [ShinyHunters claims ongoing Salesforce Aura data theft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Mar 2026 13:12:22 -0400  
@@ -112,7 +149,7 @@
 
 ---
 
-### 13. [FBI warns of phishing attacks impersonating US city, county officials](https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/)
+### 17. [FBI warns of phishing attacks impersonating US city, county officials](https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Mar 2026 11:30:50 -0400  
@@ -121,7 +158,7 @@
 
 ---
 
-### 14. [Why Password Audits Miss the Accounts Attackers Actually Want](https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/)
+### 18. [Why Password Audits Miss the Accounts Attackers Actually Want](https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Mar 2026 10:10:20 -0400  
@@ -130,7 +167,7 @@
 
 ---
 
-### 15. [Microsoft still working to fix Windows Explorer white flashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/)
+### 19. [Microsoft still working to fix Windows Explorer white flashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 09 Mar 2026 10:10:17 -0400  
@@ -139,48 +176,12 @@
 
 ---
 
-### 16. [EU court adviser says banks must immediately refund phishing victims](https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/)
+### 20. [EU court adviser says banks must immediately refund phishing victims](https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 08 Mar 2026 11:25:37 -0400  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 17. [Hackers abuse .arpa DNS and ipv6 to evade phishing defenses](https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 08 Mar 2026 10:12:22 -0400  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 18. [Termite ransomware breaches linked to ClickFix CastleRAT attacks](https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 07 Mar 2026 11:14:32 -0500  
-**Severity:** Low  
-**Categories:** Ransomware, Malware  
-
----
-
-### 19. [Microsoft: Hackers abusing AI at every stage of cyberattacks](https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 07 Mar 2026 10:15:25 -0500  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
-
----
-
-### 20. [Cognizant TriZetto breach exposes health data of 3.4 million patients](https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 06 Mar 2026 14:50:21 -0500  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
@@ -225,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21533, CVE-2026-21525, CVE-2026-21513, CVE-2026-21523, CVE-2026-21514, CVE-2026-21509, CVE-2026-21516, CVE-2026-21510, CVE-2026-21256, CVE-2026-21519  
+**CVEs:** CVE-2026-21510, CVE-2026-21513, CVE-2026-21256, CVE-2026-21519, CVE-2026-21516, CVE-2026-21523, CVE-2026-21533, CVE-2026-21509, CVE-2026-21514, CVE-2026-21525  
 **Categories:** Vulnerability  
 
 ---
@@ -396,7 +397,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 25 Feb 2026 16:13:36 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2022-20775, CVE-2026-20127  
+**CVEs:** CVE-2026-20127, CVE-2022-20775  
 **Categories:** Vulnerability  
 
 ---
@@ -440,7 +441,7 @@
 ### 51. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
 
 **Source:** Recorded Future  
-**Published:** Wed, 04 Mar 2026 00:00:00 GMT  
+**Published:** Mon, 09 Mar 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -607,7 +608,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
