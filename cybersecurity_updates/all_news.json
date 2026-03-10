@@ -1,6 +1,61 @@
 [
   {
     "source": "The Hacker News",
+    "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
+    "link": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
+    "published": "Tue, 10 Mar 2026 17:15:00 +0530",
+    "summary": "Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emails, move data, and even manage software on their own.\nBut there is a problem. While these agents make work faster, they also open a new \"back door\" for hackers.\nThe Problem: \"The Invisible Employee\"\nThink of an AI Agent like a new employee who has",
+    "analysis": {
+      "issue": "Learn to audit AI agents and stop data leaks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction",
+    "link": "https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html",
+    "published": "Tue, 10 Mar 2026 16:30:00 +0530",
+    "summary": "You can't control when the next critical vulnerability drops. You can control how much of your environment is exposed when it does. The problem is that most teams have more internet-facing exposure than they realise. Intruder's Head of Security digs into why this happens and how teams can manage it deliberately.\nTime-to-exploit is shrinking\nThe larger and less controlled your attack surface is,",
+    "analysis": {
+      "issue": "Attack surface exposure leaves services reachable as exploits appear within 24–48 hours after disclosure, increasing breach risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military",
+    "link": "https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html",
+    "published": "Tue, 10 Mar 2026 16:25:00 +0530",
+    "summary": "The Russian state-sponsored hacking group tracked as APT28 has been observed using a pair of implants dubbed BEARDSHELL and COVENANT to facilitate long‑term surveillance of Ukrainian military personnel.\nThe two malware families have been put to use since April 2024, ESET said in a new report shared with The Hacker News.\nAPT28, also tracked as Blue Athena, BlueDelta, Fancy Bear, Fighting Ursa,",
+    "analysis": {
+      "issue": "APT28 deploys BEARDSHELL and COVENANT since April 2024 targeting Ukrainian military, enabling cloud-based espionage and persistent surveillance",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool",
     "link": "https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html",
     "published": "Tue, 10 Mar 2026 12:47:00 +0530",
@@ -129,35 +184,37 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure",
-    "link": "https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html",
-    "published": "Mon, 09 Mar 2026 12:51:00 +0530",
-    "summary": "High-value organizations located in South, Southeast, and East Asia have been targeted by a Chinese threat actor as part of a years-long campaign.\nThe activity, which has targeted aviation, energy, government, law enforcement, pharmaceutical, technology, and telecommunications sectors, has been attributed by Palo Alto Networks Unit 42 to a previously undocumented threat activity group dubbed",
+    "source": "Bleeping Computer",
+    "title": "CISA: Recently patched Ivanti EPM flaw now actively exploited",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/",
+    "published": "Tue, 10 Mar 2026 07:36:13 -0400",
+    "summary": "CISA flagged a high-severity Ivanti Endpoint Manager (EPM) vulnerability as actively exploited in attacks and ordered U.S. federal agencies to patch systems within three weeks. [...]",
     "analysis": {
-      "issue": "New hacking cluster exploits web servers and Mimikatz to infiltrate Asian infrastructure for long-term espionage in aviation, energy, and govt sectors",
+      "issue": "CISA flagged a high-severity Ivanti Endpoint Manager (EPM) vulnerability as actively exploited in attacks and ordered U",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "High",
+      "cves": [
+        "CVE-2026-1603"
+      ],
       "threat_categories": [
         "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues",
-    "link": "https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html",
-    "published": "Sat, 07 Mar 2026 21:58:00 +0530",
-    "summary": "OpenAI on Friday began rolling out Codex Security, an artificial intelligence (AI)-powered security agent that's designed to find, validate, and propose fixes for vulnerabilities.\nThe feature is available in a research preview to ChatGPT Pro, Enterprise, Business, and Edu customers via the Codex web with free usage for the next month.\n\"It builds deep context about your project to identify",
+    "source": "Bleeping Computer",
+    "title": "Microsoft to enable Windows hotpatch security updates by default",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/",
+    "published": "Tue, 10 Mar 2026 06:35:33 -0400",
+    "summary": "Microsoft will turn on hotpatch security updates by default for all eligible Windows devices managed through Microsoft Intune and the Microsoft Graph API, beginning with the May 2026 Windows security update. [...]",
     "analysis": {
-      "issue": "OpenAI launches Codex Security AI agent that scanned 1",
+      "issue": "Microsoft will turn on hotpatch security updates by default for all eligible Windows devices managed through Microsoft Intune and the Microsoft Graph API, beginning with the May 2026 Windows security update",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -165,20 +222,24 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model",
-    "link": "https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html",
-    "published": "Sat, 07 Mar 2026 16:51:00 +0530",
-    "summary": "Anthropic on Friday said it discovered 22 new security vulnerabilities in the Firefox web browser as part of a security partnership with Mozilla.\nOf these, 14 have been classified as high, seven have been classified as moderate, and one has been rated low in severity. The issues were addressed in Firefox 148, released late last month. The vulnerabilities were identified over a two-week period in",
+    "source": "Bleeping Computer",
+    "title": "APT28 hackers deploy customized variant of Covenant open-source tool",
+    "link": "https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/",
+    "published": "Tue, 10 Mar 2026 06:00:00 -0400",
+    "summary": "The Russian state-sponsored APT28 threat group is using a custom variant of the open-source Covenant post-exploitation framework for long-term espionage operations. [...]",
     "analysis": {
-      "issue": "6 AI found 22 Firefox vulnerabilities, including 14 high severity, helping Mozilla patch flaws in Firefox 148",
+      "issue": "The Russian state-sponsored APT28 threat group is using a custom variant of the open-source Covenant post-exploitation framework for long-term espionage operations",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [],
+      "cves": [
+        "CVE-2026-21509"
+      ],
       "threat_categories": [
-        "General Security"
+        "Vulnerability",
+        "Malware",
+        "APT"
       ]
     }
   },
@@ -214,8 +275,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-55182",
-        "CVE-2025-24893"
+        "CVE-2025-24893",
+        "CVE-2025-55182"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -247,9 +308,9 @@
     "title": "Ericsson US discloses data breach after service provider hack",
     "link": "https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/",
     "published": "Mon, 09 Mar 2026 15:07:50 -0400",
-    "summary": "Ericsson Inc., the U.S. subsidiary of Swedish networking and telecommunications giant Ericsson, says attackers have stolen data belonging to an undisclosed number of employees and customers after hacking one of its service providers. [...]",
+    "summary": "Ericsson Inc., the U.S. subsidiary of Swedish networking and telecommunications giant Ericsson, says attackers have stolen data belonging to over 15,000 employees and customers after hacking one of its service providers. [...]",
     "analysis": {
-      "issue": "subsidiary of Swedish networking and telecommunications giant Ericsson, says attackers have stolen data belonging to an undisclosed number of employees and customers after hacking one of its service providers",
+      "issue": "subsidiary of Swedish networking and telecommunications giant Ericsson, says attackers have stolen data belonging to over 15,000 employees and customers after hacking one of its service providers",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -315,262 +376,102 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Why Password Audits Miss the Accounts Attackers Actually Want",
-    "link": "https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/",
-    "published": "Mon, 09 Mar 2026 10:10:20 -0400",
-    "summary": "Password audits often focus on complexity rules but miss the accounts attackers actually target. Specops Software explains how breached passwords, orphaned users, and service accounts can leave organizations exposed. [...]",
-    "analysis": {
-      "issue": "Password audits are a standard part of most security programs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft still working to fix Windows Explorer white flashes",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/",
-    "published": "Mon, 09 Mar 2026 10:10:17 -0400",
-    "summary": "Microsoft has confirmed that it's still working to fully address a known issue that causes bright white flashes when opening the File Explorer on some Windows 11 systems. [...]",
-    "analysis": {
-      "issue": "Microsoft has confirmed that it's still working to fully address a known issue that causes bright white flashes when opening the File Explorer on some Windows 11 systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "EU court adviser says banks must immediately refund phishing victims",
-    "link": "https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/",
-    "published": "Sun, 08 Mar 2026 11:25:37 -0400",
-    "summary": "Athanasios Rantos, the Advocate General of the Court of Justice of the EU (CJEU), has issued a formal opinion suggesting that banks must immediately refund account holders affected by unauthorized transactions, even when it's their fault. [...]",
-    "analysis": {
-      "issue": "Athanasios Rantos, the Advocate General of the Court of Justice of the EU (CJEU), has issued a formal opinion suggesting that banks must immediately refund account holders affected by unauthorized transactions, even when it's their fault",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "How AI Assistants are Moving the Security Goalposts",
     "link": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
     "published": "Sun, 08 Mar 2026 23:35:42 +0000",
-    "summary": "AI-based assistants or \"agents\" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.",
-    "analysis": {
-      "issue": "AI-based assistants or “agents” — autonomous programs that have access to the user’s computer, files, online services and can automate virtually any task — are growing in popularity with developers and IT workers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
+    "summary": "AI-based assistants or \"agents\" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey."
   },
   {
     "source": "Krebs On Security",
     "title": "Who is the Kimwolf Botmaster “Dort”?",
     "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
     "published": "Sat, 28 Feb 2026 12:01:57 +0000",
-    "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.",
-    "analysis": {
-      "issue": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to build Kimwolf, the world’s largest and most disruptive botnet",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT",
-        "DDoS"
-      ]
-    }
+    "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information."
   },
   {
     "source": "Krebs On Security",
     "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
     "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
     "published": "Fri, 20 Feb 2026 20:00:30 +0000",
-    "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.",
-    "analysis": {
-      "issue": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
+    "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses."
   },
   {
     "source": "Krebs On Security",
     "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
     "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
     "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-    "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
-    "analysis": {
-      "issue": "For the past week, the massive “Internet of Things” (IoT) botnet known as Kimwolf has been disrupting The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
+    "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers."
   },
   {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, February 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
     "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-    "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-    "analysis": {
-      "issue": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six “zero-day” vulnerabilities that attackers are already exploiting in the wild",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-21256",
-        "CVE-2026-21516",
-        "CVE-2026-21513",
-        "CVE-2026-21523",
-        "CVE-2026-21519",
-        "CVE-2026-21533",
-        "CVE-2026-21509",
-        "CVE-2026-21525",
-        "CVE-2026-21510",
-        "CVE-2026-21514"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild."
   },
   {
     "source": "Krebs On Security",
     "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
     "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
     "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-    "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
-    "analysis": {
-      "issue": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifyi",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing",
-        "APT",
-        "DDoS"
-      ]
-    }
+    "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>"
   },
   {
     "source": "Krebs On Security",
     "title": "Who Operates the Badbox 2.0 Botnet?",
     "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
     "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-    "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-    "analysis": {
-      "issue": "The cybercriminals in control of Kimwolf — a disruptive botnet that has infected more than 2 million devices — recently shared a screenshot indicating they’d compromised the control panel for Badbox 2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
+    "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that."
   },
   {
     "source": "Krebs On Security",
     "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
     "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "published": "Tue, 20 Jan 2026 18:19:13 +0000",
-    "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
-    "analysis": {
-      "issue": "A new Internet-of-Things (IoT) botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
+    "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks."
   },
   {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, January 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
     "published": "Wed, 14 Jan 2026 00:47:38 +0000",
-    "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.",
-    "analysis": {
-      "issue": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20805",
-        "CVE-2026-20952",
-        "CVE-2026-20953"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today."
   },
   {
     "source": "Krebs On Security",
     "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
     "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
     "published": "Thu, 08 Jan 2026 23:23:43 +0000",
-    "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
-    "analysis": {
-      "issue": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf has infected more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
+    "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread."
+  },
+  {
+    "source": "Security Week",
+    "title": "Hundreds of Salesforce Customers Allegedly Targeted in New Data Theft Campaign",
+    "link": "https://www.securityweek.com/hundreds-of-salesforce-customers-allegedly-targeted-in-new-data-theft-campaign/",
+    "published": "Tue, 10 Mar 2026 12:37:17 +0000",
+    "summary": "<p>Salesforce has confirmed that customers are being targeted via poorly secured instances.</p>\n<p>The post <a href=\"https://www.securityweek.com/hundreds-of-salesforce-customers-allegedly-targeted-in-new-data-theft-campaign/\">Hundreds of Salesforce Customers Allegedly Targeted in New Data Theft Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Escape Raises $18 Million to Automate Pentesting",
+    "link": "https://www.securityweek.com/escape-raises-18-million-to-automate-pentesting/",
+    "published": "Tue, 10 Mar 2026 11:58:32 +0000",
+    "summary": "<p>The company will deepen its platform's AI agent capabilities and scale engineering and go-to-market teams.</p>\n<p>The post <a href=\"https://www.securityweek.com/escape-raises-18-million-to-automate-pentesting/\">Escape Raises $18 Million to Automate Pentesting</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Recent Ivanti Endpoint Manager Flaw Exploited in Attacks",
+    "link": "https://www.securityweek.com/recent-ivanti-endpoint-manager-flaw-exploited-in-attacks/",
+    "published": "Tue, 10 Mar 2026 11:51:02 +0000",
+    "summary": "<p>CISA has added the high-severity authentication bypass vulnerability to its KEV list, along with SolarWinds and Workspace One bugs.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-ivanti-endpoint-manager-flaw-exploited-in-attacks/\">Recent Ivanti Endpoint Manager Flaw Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "SIM Swaps Expose a Critical Flaw in Identity Security",
+    "link": "https://www.securityweek.com/sim-swaps-expose-a-critical-flaw-in-identity-security/",
+    "published": "Tue, 10 Mar 2026 11:00:00 +0000",
+    "summary": "<p>SIM swap attacks exploit misplaced trust in phone numbers and human processes to bypass authentication controls and seize high-value accounts.</p>\n<p>The post <a href=\"https://www.securityweek.com/sim-swaps-expose-a-critical-flaw-in-identity-security/\">SIM Swaps Expose a Critical Flaw in Identity Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -613,34 +514,6 @@
     "link": "https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/",
     "published": "Sun, 08 Mar 2026 12:15:00 +0000",
     "summary": "<p>WatchTowr reports seeing exploitation attempts for CVE-2026-20127 from numerous unique IP addresses.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/\">Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies",
-    "link": "https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/",
-    "published": "Sat, 07 Mar 2026 15:57:23 +0000",
-    "summary": "<p>Trump’s Cyber Strategy calls for stronger deterrence against cyber adversaries, modernization of federal networks, protection of critical infrastructure, and investment in technologies such as AI and post-quantum cryptography.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/\">US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Over 100 GitHub Repositories Distributing BoryptGrab Stealer",
-    "link": "https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/",
-    "published": "Sat, 07 Mar 2026 12:40:00 +0000",
-    "summary": "<p>The malware targets browser and cryptocurrency wallet data, along with system information and user files.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/\">Over 100 GitHub Repositories Distributing BoryptGrab Stealer</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare",
-    "link": "https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/",
-    "published": "Sat, 07 Mar 2026 11:51:16 +0000",
-    "summary": "<p>Pentagon CTO Emil Michael said the military is developing procedures for enabling different levels of autonomy in warfare depending on the risk posed.</p>\n<p>The post <a href=\"https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/\">Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "FBI Investigating ‘Suspicious’ Cyber Activity on System Holding Sensitive Surveillance Information",
-    "link": "https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/",
-    "published": "Sat, 07 Mar 2026 01:01:54 +0000",
-    "summary": "<p>The bureau is working to determine the scope and impact of the problem, according to a notification sent to members of Congress.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/\">FBI Investigating ‘Suspicious’ Cyber Activity on System Holding Sensitive Surveillance Information</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -751,8 +624,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-20775",
-        "CVE-2026-20127"
+        "CVE-2026-20127",
+        "CVE-2022-20775"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1182,8 +1055,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1208,6 +1081,46 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Signal and WhatsApp accounts targeted in phishing campaign",
+    "link": "https://www.malwarebytes.com/blog/news/2026/03/signal-and-whatsapp-accounts-targeted-in-phishing-campaign",
+    "published": "Tue, 10 Mar 2026 11:19:28 GMT",
+    "summary": "Dutch intelligence warns that attackers are hijacking Signal and WhatsApp accounts by tricking users into sharing verification codes or linking a malicious device.",
+    "analysis": {
+      "issue": "Dutch intelligence services AIVD and MIVD warn that Russian state‑backed hackers are running a large‑scale campaign to break into Signal and WhatsApp accounts of high‑value targets",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Hackers may have breached FBI wiretap network via supply chain",
+    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/03/hackers-may-have-breached-fbi-wiretap-network-via-supply-chain",
+    "published": "Tue, 10 Mar 2026 10:38:51 GMT",
+    "summary": "A suspected breach of the FBI’s wiretap network has investigators asking whether a nation-state was involved.",
+    "analysis": {
+      "issue": "Investigators are worried that a recent attack on a critical FBI system was more than just a random hit, and that another nation-state might have been involved",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "APT",
+        "Supply Chain"
       ]
     }
   },
@@ -1353,42 +1266,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Supreme Court to decide whether geofence warrants are constitutional",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/supreme-court-to-decide-whether-geofence-warrants-are-constitutional",
-    "published": "Thu, 05 Mar 2026 10:54:12 GMT",
-    "summary": "Google has urged the justices to strike down the controversial warrants, which can sweep up location data from hundreds of phones near a crime scene.",
-    "analysis": {
-      "issue": "Google has weighed in on a court case that will decide the future of a powerful but contentious tool for law enforcement",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Does the UK really want to ban VPNs? And can it be done?",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/does-the-uk-really-want-to-ban-vpns-and-can-it-be-done",
-    "published": "Wed, 04 Mar 2026 13:44:41 GMT",
-    "summary": "Reports of a \"Great British Firewall\" are exaggerated. And even if they wanted to, here's why it would be virtually impossible.",
-    "analysis": {
-      "issue": "The idea of a “Great British Firewall” makes for a catchy headline, but it would be riddled with holes and cause huge problems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
