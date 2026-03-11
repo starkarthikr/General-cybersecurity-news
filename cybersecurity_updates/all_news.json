@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials",
+    "link": "https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html",
+    "published": "Wed, 11 Mar 2026 20:21:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of two now-patched security flaws in the n8n workflow automation platform, including two critical bugs that could result in arbitrary command execution.\nThe vulnerabilities are listed below -\n\nCVE-2026-27577 (CVSS score: 9.4) - Expression sandbox escape leading to remote code execution (RCE)\nCVE-2026-27493 (CVSS score: 9.5) - Unauthenticated",
+    "analysis": {
+      "issue": "5) enable RCE via expression sandbox escape and public forms, risking credential exposure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown",
+    "link": "https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html",
+    "published": "Wed, 11 Mar 2026 18:45:00 +0530",
+    "summary": "Meta on Wednesday said it disabled over 150,000 accounts associated with scam centers in Southeast Asia as part of a coordinated effort in partnership with authorities from Thailand, the U.S., the U.K., Canada, Korea, Japan, Singapore, the Philippines, Australia, New Zealand, and Indonesia.\nThe effort also led to 21 arrests made by the Royal Thai Police, the company said. The action builds upon",
+    "analysis": {
+      "issue": "Meta disabled 150,000 scam accounts tied to Southeast Asian fraud networks, prompting arrests and new anti-scam tools to protect users",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices",
     "link": "https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html",
     "published": "Wed, 11 Mar 2026 17:56:00 +0530",
@@ -145,38 +181,57 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New \"LeakyLooker\" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries",
-    "link": "https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html",
-    "published": "Tue, 10 Mar 2026 18:50:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed nine cross-tenant vulnerabilities in Google Looker Studio that could have permitted attackers to run arbitrary SQL queries on victims' databases and exfiltrate sensitive data within organizations' Google Cloud environments.\nThe shortcomings have been collectively named LeakyLooker by Tenable. There is no evidence that the vulnerabilities were exploited in",
+    "source": "Bleeping Computer",
+    "title": "Medtech giant Stryker offline after Iran-linked wiper malware attack",
+    "link": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/",
+    "published": "Wed, 11 Mar 2026 13:21:22 -0400",
+    "summary": "Leading medical technology company Stryker has been hit by a wiper malware attack claimed by Handala, an Iranian-linked and pro-Palestinian hacktivist group. [...]",
     "analysis": {
-      "issue": "Nine “LeakyLooker” flaws in Google Looker Studio allowed cross-tenant SQL access across GCP services before being patched",
+      "issue": "Leading medical technology company Stryker has been hit by a wiper malware attack claimed by Handala, an Iranian-linked and pro-Palestinian hacktivist group",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware",
+        "APT"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction",
-    "link": "https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html",
-    "published": "Tue, 10 Mar 2026 16:30:00 +0530",
-    "summary": "You can't control when the next critical vulnerability drops. You can control how much of your environment is exposed when it does. The problem is that most teams have more internet-facing exposure than they realise. Intruder's Head of Security digs into why this happens and how teams can manage it deliberately.\nTime-to-exploit is shrinking\nThe larger and less controlled your attack surface is,",
+    "source": "Bleeping Computer",
+    "title": "New PhantomRaven NPM attack wave steals dev data via 88 packages",
+    "link": "https://www.bleepingcomputer.com/news/security/new-phantomraven-npm-attack-wave-steals-dev-data-via-88-packages/",
+    "published": "Wed, 11 Mar 2026 13:09:42 -0400",
+    "summary": "New attack waves from the 'PhantomRaven' supply-chain campaign are hitting the npm registry, with dozens of malicious packages that exfiltrate sensitive data from JavaScript developers. [...]",
     "analysis": {
-      "issue": "Attack surface exposure leaves services reachable as exploits appear within 24–48 hours after disclosure, increasing breach risk",
+      "issue": "New attack waves from the ‘PhantomRaven’ supply-chain campaign are hitting the npm registry, with dozens of malicious packages that exfiltrate sensitive data from JavaScript developers",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools",
+    "link": "https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/",
+    "published": "Wed, 11 Mar 2026 09:29:29 -0400",
+    "summary": "Meta is introducing new anti-scam protections across its platforms, deploying systems and user-facing warnings to protect users against scammers. [...]",
+    "analysis": {
+      "issue": "Meta is introducing new anti-scam protections across its platforms, deploying systems and user-facing warnings to protect users against scammers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
       ]
     }
   },
@@ -311,57 +366,20 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/",
-    "published": "Tue, 10 Mar 2026 11:27:58 -0400",
-    "summary": "Microsoft is rolling out passkey support for Microsoft Entra on Windows devices, adding phishing-resistant passwordless authentication via Windows Hello. [...]",
+    "source": "Krebs On Security",
+    "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
+    "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+    "published": "Wed, 11 Mar 2026 16:20:13 +0000",
+    "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency.",
     "analysis": {
-      "issue": "Microsoft is rolling out passkey support for Microsoft Entra on Windows devices, adding phishing-resistant passwordless authentication via Windows Hello",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New KadNap botnet hijacks ASUS routers to fuel cybercrime proxy network",
-    "link": "https://www.bleepingcomputer.com/news/security/new-kadnap-botnet-hijacks-asus-routers-to-fuel-cybercrime-proxy-network/",
-    "published": "Tue, 10 Mar 2026 11:01:57 -0400",
-    "summary": "A newly discovered botnet malware called KadNap is targeting ASUS routers and other edge networking devices to turn them into proxies for malicious traffic. [...]",
-    "analysis": {
-      "issue": "A newly discovered botnet malware called KadNap is targeting ASUS routers and other edge networking devices to turn them into proxies for malicious traffic",
+      "issue": "A hacktivist group with links to Iran’s intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "The New Turing Test: How Threats Use Geometry to Prove 'Humanness'",
-    "link": "https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/",
-    "published": "Tue, 10 Mar 2026 10:02:12 -0400",
-    "summary": "Malware is evolving to evade sandboxes by pretending to be a real human behind the keyboard. The Picus Red Report 2026 shows 80% of top attacker techniques now focus on evasion and persistence, including geometry-based cursor tests and CPU timing checks. [...]",
-    "analysis": {
-      "issue": "By Sila Ozeren Hacioglu, Security Research Engineer at Picus Security",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -378,14 +396,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-25187",
+        "CVE-2026-21262",
         "CVE-2026-26127",
         "CVE-2026-24291",
-        "CVE-2026-24294",
-        "CVE-2026-26110",
-        "CVE-2026-21262",
         "CVE-2026-26113",
-        "CVE-2026-24289"
+        "CVE-2026-24294",
+        "CVE-2026-24289",
+        "CVE-2026-25187",
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -482,16 +500,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21513",
-        "CVE-2026-21519",
-        "CVE-2026-21256",
-        "CVE-2026-21510",
         "CVE-2026-21514",
+        "CVE-2026-21510",
+        "CVE-2026-21256",
+        "CVE-2026-21519",
         "CVE-2026-21516",
+        "CVE-2026-21525",
+        "CVE-2026-21513",
         "CVE-2026-21509",
         "CVE-2026-21523",
-        "CVE-2026-21533",
-        "CVE-2026-21525"
+        "CVE-2026-21533"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -557,26 +575,39 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "Patch Tuesday, January 2026 Edition",
-    "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
-    "published": "Wed, 14 Jan 2026 00:47:38 +0000",
-    "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.",
-    "analysis": {
-      "issue": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20952",
-        "CVE-2026-20805",
-        "CVE-2026-20953"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    "source": "Security Week",
+    "title": "MedTech Giant Stryker Crippled by Iran-Linked Hacker Attack",
+    "link": "https://www.securityweek.com/medtech-giant-stryker-crippled-by-iran-linked-hacker-attack/",
+    "published": "Wed, 11 Mar 2026 16:18:39 +0000",
+    "summary": "<p>Stryker was targeted by the Handala group, which claims to have wiped more than 200,000 of the company’s devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/medtech-giant-stryker-crippled-by-iran-linked-hacker-attack/\">MedTech Giant Stryker Crippled by Iran-Linked Hacker Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Wiz Joins Google Cloud as Landmark Acquisition Closes",
+    "link": "https://www.securityweek.com/wiz-joins-google-cloud-as-landmark-acquisition-closes/",
+    "published": "Wed, 11 Mar 2026 14:25:17 +0000",
+    "summary": "<p>Google has completed its $32 billion acquisition of the cloud security giant, which will maintain its brand.</p>\n<p>The post <a href=\"https://www.securityweek.com/wiz-joins-google-cloud-as-landmark-acquisition-closes/\">Wiz Joins Google Cloud as Landmark Acquisition Closes</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "CISO Conversations: Aimee Cardwell",
+    "link": "https://www.securityweek.com/ciso-conversations-aimee-cardwell/",
+    "published": "Wed, 11 Mar 2026 14:00:00 +0000",
+    "summary": "<p>Aimee Cardwell started her career at Netscape, become a VP of engineering at American Express, CISO at UnitedHealth Group, and now CISO in Residence at Transcend.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-conversations-aimee-cardwell/\">CISO Conversations: Aimee Cardwell</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "238,000 Impacted by Bell Ambulance Data Breach",
+    "link": "https://www.securityweek.com/238000-impacted-by-bell-ambulance-data-breach/",
+    "published": "Wed, 11 Mar 2026 13:34:17 +0000",
+    "summary": "<p>Hackers stole personal information such as names, Social Security numbers, and driver’s license numbers.</p>\n<p>The post <a href=\"https://www.securityweek.com/238000-impacted-by-bell-ambulance-data-breach/\">238,000 Impacted by Bell Ambulance Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Scanner Raises $22 Million for AI-Powered Threat Hunting",
+    "link": "https://www.securityweek.com/scanner-raises-22-million-for-ai-powered-threat-hunting/",
+    "published": "Wed, 11 Mar 2026 13:16:46 +0000",
+    "summary": "<p>The company connects AI agents to security data lakes for interactive investigations, detection engineering, and autonomous response.</p>\n<p>The post <a href=\"https://www.securityweek.com/scanner-raises-22-million-for-ai-powered-threat-hunting/\">Scanner Raises $22 Million for AI-Powered Threat Hunting</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -612,41 +643,6 @@
     "link": "https://www.securityweek.com/quantro-security-emerges-from-stealth-with-2-5-million-in-funding/",
     "published": "Wed, 11 Mar 2026 10:49:03 +0000",
     "summary": "<p>The startup integrates with existing cybersecurity stacks, ingests and normalizes data, and delivers intelligence to reduce risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/quantro-security-emerges-from-stealth-with-2-5-million-in-funding/\">Quantro Security Emerges From Stealth With $2.5 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "‘BlackSanta’ Malware Activates EDR and AV Killer Before Detonating Payload",
-    "link": "https://www.securityweek.com/blacksanta-malware-activates-edr-and-av-killer-before-detonating-payload/",
-    "published": "Wed, 11 Mar 2026 09:42:41 +0000",
-    "summary": "<p>The malware disables antivirus and EDR protections at the kernel level, clearing the path for credential harvesting, system reconnaissance, and eventual data exfiltration.</p>\n<p>The post <a href=\"https://www.securityweek.com/blacksanta-malware-activates-edr-and-av-killer-before-detonating-payload/\">&#8216;BlackSanta&#8217; Malware Activates EDR and AV Killer Before Detonating Payload</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Moxa, Mitsubishi Electric",
-    "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-moxa-mitsubishi-electric/",
-    "published": "Wed, 11 Mar 2026 07:51:18 +0000",
-    "summary": "<p>Industrial giants Siemens, Schneider Electric, Mitsubishi Electric, and Moxa have published new ICS Patch Tuesday advisories. </p>\n<p>The post <a href=\"https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-moxa-mitsubishi-electric/\">ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Moxa, Mitsubishi Electric</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft Patches 83 Vulnerabilities",
-    "link": "https://www.securityweek.com/microsoft-patches-83-vulnerabilities/",
-    "published": "Tue, 10 Mar 2026 19:12:21 +0000",
-    "summary": "<p>Microsoft has fixed a critical vulnerability, but none of the flaws fixed this Patch Tuesday has been exploited in the wild.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-83-vulnerabilities/\">Microsoft Patches 83 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Adobe Patches 80 Vulnerabilities Across Eight Products",
-    "link": "https://www.securityweek.com/adobe-patches-80-vulnerabilities-across-eight-products/",
-    "published": "Tue, 10 Mar 2026 18:22:40 +0000",
-    "summary": "<p>Adobe has rolled out patches for 80 vulnerabilities across 8 products, including Commerce, Illustrator, Acrobat Reader, and Premiere Pro.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-80-vulnerabilities-across-eight-products/\">Adobe Patches 80 Vulnerabilities Across Eight Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Jazz Emerges From Stealth With $61M in Funding for AI-Powered DLP",
-    "link": "https://www.securityweek.com/jazz-emerges-from-stealth-with-61m-in-funding-for-ai-powered-dlp/",
-    "published": "Tue, 10 Mar 2026 17:45:32 +0000",
-    "summary": "<p>The startup brings AI to data loss prevention to provide visibility into intent, context, and risk.</p>\n<p>The post <a href=\"https://www.securityweek.com/jazz-emerges-from-stealth-with-61m-in-funding-for-ai-powered-dlp/\">Jazz Emerges From Stealth With $61M in Funding for AI-Powered DLP</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -697,17 +693,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26106",
-        "CVE-2026-26116",
-        "CVE-2026-26109",
-        "CVE-2026-26114",
-        "CVE-2026-26128",
-        "CVE-2026-26110",
-        "CVE-2026-26144",
         "CVE-2026-21262",
-        "CVE-2026-26118",
+        "CVE-2026-26106",
         "CVE-2026-26113",
-        "CVE-2026-26115"
+        "CVE-2026-26144",
+        "CVE-2026-26128",
+        "CVE-2026-26115",
+        "CVE-2026-26116",
+        "CVE-2026-26118",
+        "CVE-2026-26110",
+        "CVE-2026-26109",
+        "CVE-2026-26114"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1229,6 +1225,43 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Sextortion &#8220;I recorded you&#8221; emails reuse passwords found in disposable inboxes",
+    "link": "https://www.malwarebytes.com/blog/news/2026/03/sextortion-i-recorded-you-emails-reuse-passwords-found-in-disposable-inboxes",
+    "published": "Wed, 11 Mar 2026 14:56:45 GMT",
+    "summary": "“You pervert, I recorded you!” sextortion emails include real passwords harvested from public temporary email inboxes.",
+    "analysis": {
+      "issue": "Our malware removal support team recently flagged a new wave of sextortion emails, with the subject line: “You pervert, I recorded you",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Watch out for tax-season robocalls pushing fake “relief programs”",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/watch-out-for-tax-season-robocalls-pushing-fake-relief-programs",
+    "published": "Wed, 11 Mar 2026 13:30:00 GMT",
+    "summary": "Scammers are targeting Americans with robocalls during tax season. Here’s how to spot the scam.",
+    "analysis": {
+      "issue": "While Americans are sorting through paperwork to get their taxes filed in time, scammers are working overtime to grab a piece of the action",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "March 2026 Patch Tuesday fixes two zero-day vulnerabilities",
     "link": "https://www.malwarebytes.com/blog/news/2026/03/march-2026-patch-tuesday-fixes-two-zero-day-vulnerabilities",
     "published": "Wed, 11 Mar 2026 10:47:32 GMT",
@@ -1240,11 +1273,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26127",
-        "CVE-2026-26110",
         "CVE-2026-21262",
+        "CVE-2026-26127",
+        "CVE-2026-26113",
         "CVE-2026-26144",
-        "CVE-2026-26113"
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1379,43 +1412,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "One click on this fake Google Meet update can give attackers control of your PC",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/one-click-on-this-fake-google-meet-update-can-give-attackers-control-of-your-pc",
-    "published": "Fri, 06 Mar 2026 19:35:56 GMT",
-    "summary": "We found a fake Google Meet update that enrolls the victim's Windows PC in an attacker's device management system.",
-    "analysis": {
-      "issue": "A phishing page disguised as a Google Meet update notice is silently handing victims’ Windows computers to an attacker-controlled management server",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Beware of fake OpenClaw installers, even if Bing points you to GitHub",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/beware-of-fake-openclaw-installers-even-if-bing-points-you-to-github",
-    "published": "Fri, 06 Mar 2026 11:11:26 GMT",
-    "summary": "Bing search results pointed victims to GitHub repositories claiming to host OpenClaw installers, but in reality they installed malware.",
-    "analysis": {
-      "issue": "Attackers are abusing OpenClaw’s popularity by seeding fake “installers” on GitHub, boosted by Bing AI search results, to deliver infostealers and proxy malware instead of the AI assistant users were looking for",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
