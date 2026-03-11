@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices",
+    "link": "https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html",
+    "published": "Wed, 11 Mar 2026 17:56:00 +0530",
+    "summary": "SAP has released security updates to address two critical security flaws that could be exploited to achieve arbitrary code execution on affected systems.\nThe vulnerabilities in question listed below -\n\nCVE-2019-17571 (CVSS score: 9.8) - A code injection vulnerability in SAP Quotation Management Insurance application (FS-QUO)\nCVE-2026-27685 (CVSS score: 9.1) - An insecure deserialization",
+    "analysis": {
+      "issue": "SAP patches two critical flaws (CVSS 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "What Boards Must Demand in the Age of AI-Automated Exploitation",
+    "link": "https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html",
+    "published": "Wed, 11 Mar 2026 17:00:00 +0530",
+    "summary": "“You knew, and you could have acted. Why didn’t you?”&nbsp;\nThis is the question you do not want to be asked. And increasingly, it’s the question leaders are forced to answer after an incident.\nFor years, many executive teams and boards have treated a large vulnerability backlog as an uncomfortable but tolerable fact of life: “we’ve accepted the risk.” If you’ve ever seen a report showing",
+    "analysis": {
+      "issue": "AI-driven attack automation accelerates exploitation of thousands of open CVEs, forcing boards to confront vulnerability backlog risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days",
+    "link": "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html",
+    "published": "Wed, 11 Mar 2026 14:45:00 +0530",
+    "summary": "Microsoft on Tuesday released patches for a set of 84 new security vulnerabilities affecting various software components, including two that have been listed as publicly known.\nOf these, eight are rated Critical, and 76 are rated Important in severity. Forty-six of the patched vulnerabilities relate to privilege escalation, followed by 18 remote code execution, 10 information disclosure, four",
+    "analysis": {
+      "issue": "Microsoft patches 84 vulnerabilities, including two public zero-days, strengthening defenses against privilege escalation and cloud token theft",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours",
     "link": "https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html",
     "published": "Wed, 11 Mar 2026 13:01:00 +0530",
@@ -116,61 +170,6 @@
     "summary": "You can't control when the next critical vulnerability drops. You can control how much of your environment is exposed when it does. The problem is that most teams have more internet-facing exposure than they realise. Intruder's Head of Security digs into why this happens and how teams can manage it deliberately.\nTime-to-exploit is shrinking\nThe larger and less controlled your attack surface is,",
     "analysis": {
       "issue": "Attack surface exposure leaves services reachable as exploits appear within 24–48 hours after disclosure, increasing breach risk",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military",
-    "link": "https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html",
-    "published": "Tue, 10 Mar 2026 16:25:00 +0530",
-    "summary": "The Russian state-sponsored hacking group tracked as APT28 has been observed using a pair of implants dubbed BEARDSHELL and COVENANT to facilitate long‑term surveillance of Ukrainian military personnel.\nThe two malware families have been put to use since April 2024, ESET said in a new report shared with The Hacker News.\nAPT28, also tracked as Blue Athena, BlueDelta, Fancy Bear, Fighting Ursa,",
-    "analysis": {
-      "issue": "APT28 deploys BEARDSHELL and COVENANT since April 2024 targeting Ukrainian military, enabling cloud-based espionage and persistent surveillance",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool",
-    "link": "https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html",
-    "published": "Tue, 10 Mar 2026 12:47:00 +0530",
-    "summary": "Salesforce has warned of an increase in threat actor activity that's aimed at exploiting misconfigurations in publicly accessible Experience Cloud sites by making use of a customized version of an open-source tool called AuraInspector.\nThe activity, per the company, involves the exploitation of customers' overly permissive Experience Cloud guest user configurations to obtain access to sensitive",
-    "analysis": {
-      "issue": "Modified AuraInspector scans misconfigured Salesforce Experience Cloud sites, extracting CRM data and enabling targeted vishing campaigns",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited",
-    "link": "https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html",
-    "published": "Tue, 10 Mar 2026 11:47:00 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability list is as follows -\n\nCVE-2021-22054 (CVSS score: 7.5) - A server-side request forgery (SSRF) vulnerability in Omnissa Workspace One UEM (formerly VMware Workspace One UEM) that",
-    "analysis": {
-      "issue": "CISA adds 3 exploited flaws—SolarWinds, Ivanti, Workspace One—to KEV after attacks, forcing federal patch deadlines in March 2026",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -379,14 +378,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24289",
-        "CVE-2026-26110",
-        "CVE-2026-24291",
-        "CVE-2026-26113",
         "CVE-2026-25187",
-        "CVE-2026-21262",
+        "CVE-2026-26127",
+        "CVE-2026-24291",
         "CVE-2026-24294",
-        "CVE-2026-26127"
+        "CVE-2026-26110",
+        "CVE-2026-21262",
+        "CVE-2026-26113",
+        "CVE-2026-24289"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -484,15 +483,15 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-21513",
-        "CVE-2026-21510",
+        "CVE-2026-21519",
         "CVE-2026-21256",
+        "CVE-2026-21510",
         "CVE-2026-21514",
-        "CVE-2026-21533",
-        "CVE-2026-21525",
         "CVE-2026-21516",
         "CVE-2026-21509",
-        "CVE-2026-21519",
-        "CVE-2026-21523"
+        "CVE-2026-21523",
+        "CVE-2026-21533",
+        "CVE-2026-21525"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -581,6 +580,48 @@
   },
   {
     "source": "Security Week",
+    "title": "OpenAI to Acquire AI Security Startup Promptfoo",
+    "link": "https://www.securityweek.com/openai-to-acquire-ai-security-startup-promptfoo/",
+    "published": "Wed, 11 Mar 2026 12:25:58 +0000",
+    "summary": "<p>Promptfoo has raised more than $23 million in funding for a platform that helps developers secure LLMs and AI agents.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-to-acquire-ai-security-startup-promptfoo/\">OpenAI to Acquire AI Security Startup Promptfoo</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Fortinet, Ivanti, Intel Patch High-Severity Vulnerabilities",
+    "link": "https://www.securityweek.com/fortinet-ivanti-intel-patch-high-severity-vulnerabilities/",
+    "published": "Wed, 11 Mar 2026 12:10:12 +0000",
+    "summary": "<p>The bugs could lead to arbitrary code execution, privilege escalation, or authentication rate-limit bypass.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-ivanti-intel-patch-high-severity-vulnerabilities/\">Fortinet, Ivanti, Intel Patch High-Severity Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "How to 10x Your Vulnerability Management Program in the Agentic Era",
+    "link": "https://www.securityweek.com/how-to-10x-your-vulnerability-management-program-in-the-agentic-era/",
+    "published": "Wed, 11 Mar 2026 12:00:00 +0000",
+    "summary": "<p>The evolution of vulnerability management in the agentic era is characterized by continuous telemetry, contextual prioritization and the ultimate goal of agentic remediation.</p>\n<p>The post <a href=\"https://www.securityweek.com/how-to-10x-your-vulnerability-management-program-in-the-agentic-era/\">How to 10x Your Vulnerability Management Program in the Agentic Era</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Michelin Confirms Data Breach Linked to Oracle EBS Attack",
+    "link": "https://www.securityweek.com/michelin-confirms-data-breach-linked-to-oracle-ebs-attack/",
+    "published": "Wed, 11 Mar 2026 11:27:20 +0000",
+    "summary": "<p>The cybercriminals have leaked more than 300GB of files allegedly stolen from the tire giant.</p>\n<p>The post <a href=\"https://www.securityweek.com/michelin-confirms-data-breach-linked-to-oracle-ebs-attack/\">Michelin Confirms Data Breach Linked to Oracle EBS Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Quantro Security Emerges From Stealth With $2.5 Million in Funding",
+    "link": "https://www.securityweek.com/quantro-security-emerges-from-stealth-with-2-5-million-in-funding/",
+    "published": "Wed, 11 Mar 2026 10:49:03 +0000",
+    "summary": "<p>The startup integrates with existing cybersecurity stacks, ingests and normalizes data, and delivers intelligence to reduce risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/quantro-security-emerges-from-stealth-with-2-5-million-in-funding/\">Quantro Security Emerges From Stealth With $2.5 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "‘BlackSanta’ Malware Activates EDR and AV Killer Before Detonating Payload",
+    "link": "https://www.securityweek.com/blacksanta-malware-activates-edr-and-av-killer-before-detonating-payload/",
+    "published": "Wed, 11 Mar 2026 09:42:41 +0000",
+    "summary": "<p>The malware disables antivirus and EDR protections at the kernel level, clearing the path for credential harvesting, system reconnaissance, and eventual data exfiltration.</p>\n<p>The post <a href=\"https://www.securityweek.com/blacksanta-malware-activates-edr-and-av-killer-before-detonating-payload/\">&#8216;BlackSanta&#8217; Malware Activates EDR and AV Killer Before Detonating Payload</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Moxa, Mitsubishi Electric",
     "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-moxa-mitsubishi-electric/",
     "published": "Wed, 11 Mar 2026 07:51:18 +0000",
@@ -608,69 +649,40 @@
     "summary": "<p>The startup brings AI to data loss prevention to provide visibility into intent, context, and risk.</p>\n<p>The post <a href=\"https://www.securityweek.com/jazz-emerges-from-stealth-with-61m-in-funding-for-ai-powered-dlp/\">Jazz Emerges From Stealth With $61M in Funding for AI-Powered DLP</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "Kai Emerges From Stealth With $125M in Funding for AI Platform Bridging IT and OT Security",
-    "link": "https://www.securityweek.com/kai-emerges-from-stealth-with-125m-in-funding-for-ai-platform-bridging-it-and-ot-security/",
-    "published": "Tue, 10 Mar 2026 15:13:03 +0000",
-    "summary": "<p>The company was created by a Claroty founder and is backed by Evolution Equity Partners, N47, and other investors. </p>\n<p>The post <a href=\"https://www.securityweek.com/kai-emerges-from-stealth-with-125m-in-funding-for-ai-platform-bridging-it-and-ot-security/\">Kai Emerges From Stealth With $125M in Funding for AI Platform Bridging IT and OT Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Agentic AI security: Why you need to know about autonomous agents now",
+    "link": "https://blog.talosintelligence.com/agentic-ai-security-why-you-need-to-know-about-autonomous-agents-now/",
+    "published": "Wed, 11 Mar 2026 10:00:33 GMT",
+    "summary": "There are many benefits and security risks of deploying agentic AI within organizations. This blog emphasizes the importance of robust risk management and threat modeling to defend against both internal operational errors and potential malicious exploitation.",
     "analysis": {
-      "issue": "The company was created by a Claroty founder and is backed by Evolution Equity Partners, N47, and other investors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Webinar Today: Securing Fragile OT in an Exposed World",
-    "link": "https://www.securityweek.com/webinar-today-securing-fragile-ot-in-an-exposed-world/",
-    "published": "Tue, 10 Mar 2026 15:04:28 +0000",
-    "summary": "<p>Join the webinar as we examine the current OT threat landscape and move past the \"doom and gloom\" to discuss the mechanics of modern OT exposure.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-securing-fragile-ot-in-an-exposed-world/\">Webinar Today: Securing Fragile OT in an Exposed World</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "SAP Patches Critical FS-QUO, NetWeaver Vulnerabilities",
-    "link": "https://www.securityweek.com/sap-patches-critical-fs-quo-netweaver-vulnerabilities/",
-    "published": "Tue, 10 Mar 2026 14:31:36 +0000",
-    "summary": "<p>A code injection bug in FS-QUO and an insecure deserialization flaw in NetWeaver could lead to arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-patches-critical-fs-quo-netweaver-vulnerabilities/\">SAP Patches Critical FS-QUO, NetWeaver Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Thousands Affected by Ericsson Data Breach",
-    "link": "https://www.securityweek.com/thousands-affected-by-ericsson-data-breach/",
-    "published": "Tue, 10 Mar 2026 14:23:34 +0000",
-    "summary": "<p>The telecommunications equipment and services giant has blamed the incident on a third-party vendor.</p>\n<p>The post <a href=\"https://www.securityweek.com/thousands-affected-by-ericsson-data-breach/\">Thousands Affected by Ericsson Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The telecommunications equipment and services giant has blamed the incident on a third-party vendor",
+      "issue": "Agentic AI is making headlines worldwide for its potential force-multiplying capabilities, and organizations are understandably intrigued by how it can improve throughput and capabilities",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Data Breach",
-        "Supply Chain"
+        "General Security"
       ]
     }
   },
   {
-    "source": "Security Week",
-    "title": "OpenAI Rolls Out Codex Security Vulnerability Scanner",
-    "link": "https://www.securityweek.com/openai-rolls-out-codex-security-vulnerability-scanner/",
-    "published": "Tue, 10 Mar 2026 13:23:05 +0000",
-    "summary": "<p>Codex Security, formerly Aardvark⁠, has found hundreds of critical vulnerabilities in tested software in the past month.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-rolls-out-codex-security-vulnerability-scanner/\">OpenAI Rolls Out Codex Security Vulnerability Scanner</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Kevin Mandia’s Armadin Launches With $190 Million in Funding",
-    "link": "https://www.securityweek.com/kevin-mandias-armadin-launches-with-189-9-million-in-funding/",
-    "published": "Tue, 10 Mar 2026 13:21:05 +0000",
-    "summary": "<p>Armadin uses AI-powered red teaming to find and exploit weaknesses in the same way that attackers attack them.</p>\n<p>The post <a href=\"https://www.securityweek.com/kevin-mandias-armadin-launches-with-189-9-million-in-funding/\">Kevin Mandia’s Armadin Launches With $190 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "Spinning complex ideas into clear docs with Kri Dontje",
+    "link": "https://blog.talosintelligence.com/spinning-complex-ideas-into-clear-docs-with-kri-dontje/",
+    "published": "Wed, 11 Mar 2026 10:00:29 GMT",
+    "summary": "The episode features Kri Dontje discussing her role in translating complex technical cybersecurity topics into clear, accessible documentation, emphasizing the importance of consistency, accuracy, and collaboration with subject matter experts.",
+    "analysis": {
+      "issue": "This week, we're shining a spotlight on Kri Dontje, a technical writer who’s become an essential voice in making Cisco Talos' work understandable for a wide audience",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "Talos Blog",
@@ -685,17 +697,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-26106",
         "CVE-2026-26116",
+        "CVE-2026-26109",
+        "CVE-2026-26114",
         "CVE-2026-26128",
         "CVE-2026-26110",
-        "CVE-2026-26113",
-        "CVE-2026-26114",
         "CVE-2026-26144",
-        "CVE-2026-26115",
-        "CVE-2026-26118",
         "CVE-2026-21262",
-        "CVE-2026-26109",
-        "CVE-2026-26106"
+        "CVE-2026-26118",
+        "CVE-2026-26113",
+        "CVE-2026-26115"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -834,43 +846,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "“Good enough” emulation: Fuzzing a single thread to uncover vulnerabilities",
-    "link": "https://blog.talosintelligence.com/good-enough-emulation/",
-    "published": "Wed, 18 Feb 2026 11:00:31 GMT",
-    "summary": "A Talos researcher used targeted emulation of the Socomec DIRIS M-70 gateway’s Modbus thread to uncover six patched vulnerabilities, showcasing efficient tools and methods for IoT security testing.",
-    "analysis": {
-      "issue": "This blog describes efforts at emulating functionality of the Socomec DIRIS M-70 gateway to discover vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Hand over the keys for Shannon’s shenanigans",
-    "link": "https://blog.talosintelligence.com/hand-over-the-keys-for-shannons-shenanigans/",
-    "published": "Thu, 12 Feb 2026 19:00:22 GMT",
-    "summary": "In this week’s newsletter, Amy examines the rise of Shannon, an autonomous AI penetration testing tool, and what it means for security teams and risk management.",
-    "analysis": {
-      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1254,6 +1229,31 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "March 2026 Patch Tuesday fixes two zero-day vulnerabilities",
+    "link": "https://www.malwarebytes.com/blog/news/2026/03/march-2026-patch-tuesday-fixes-two-zero-day-vulnerabilities",
+    "published": "Wed, 11 Mar 2026 10:47:32 GMT",
+    "summary": "Microsoft patched 79 security vulnerabilities this month, including bugs that could let attackers escalate privileges or crash critical services.",
+    "analysis": {
+      "issue": "Microsoft releases important security updates on the second Tuesday of every month, known as Patch Tuesday",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-26127",
+        "CVE-2026-26110",
+        "CVE-2026-21262",
+        "CVE-2026-26144",
+        "CVE-2026-26113"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "How to see your Google Search history (and delete it)",
     "link": "https://www.malwarebytes.com/blog/how-to/2026/03/how-to-see-your-google-search-history-and-delete-it",
     "published": "Tue, 10 Mar 2026 17:40:35 GMT",
@@ -1413,24 +1413,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Fake CleanMyMac site installs SHub Stealer and backdoors crypto wallets",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-cleanmymac-site-installs-shub-stealer-and-backdoors-crypto-wallets",
-    "published": "Fri, 06 Mar 2026 08:44:30 GMT",
-    "summary": "We uncovered a fake CleanMyMac site delivering SHub Stealer, a macOS infostealer that steals credentials and silently backdoors crypto wallets.",
-    "analysis": {
-      "issue": "A convincing fake version of the popular Mac utility CleanMyMac is tricking users into installing malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
       "cves": [],
       "threat_categories": [
         "Malware"
