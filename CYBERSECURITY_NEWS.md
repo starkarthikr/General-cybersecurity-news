@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-11 02:33:04 UTC
+**Last Updated:** 2026-03-11 03:11:03 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -189,9 +189,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-24291, CVE-2026-26113, CVE-2026-24289, CVE-2026-26110, CVE-2026-26127, CVE-2026-24294, CVE-2026-25187, CVE-2026-21262  
-**Categories:** Vulnerability, DDoS  
 
 ---
 
@@ -206,8 +203,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Sat, 28 Feb 2026 12:01:57 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware, APT, DDoS  
 
 ---
 
@@ -215,8 +210,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Fri, 20 Feb 2026 20:00:30 +0000  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 
@@ -224,8 +217,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Feb 2026 16:08:11 +0000  
-**Severity:** Low  
-**Categories:** Malware, DDoS  
 
 ---
 
@@ -233,9 +224,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-21533, CVE-2026-21256, CVE-2026-21513, CVE-2026-21519, CVE-2026-21525, CVE-2026-21510, CVE-2026-21509, CVE-2026-21514, CVE-2026-21516, CVE-2026-21523  
-**Categories:** Vulnerability  
 
 ---
 
@@ -243,8 +231,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 02 Feb 2026 16:15:16 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Phishing, APT, DDoS  
 
 ---
 
@@ -252,8 +238,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 26 Jan 2026 16:11:38 +0000  
-**Severity:** High  
-**Categories:** Malware  
 
 ---
 
@@ -268,9 +252,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-20805, CVE-2026-20952, CVE-2026-20953  
-**Categories:** Vulnerability  
 
 ---
 
@@ -349,7 +330,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26114, CVE-2026-26106, CVE-2026-26109, CVE-2026-26113, CVE-2026-26116, CVE-2026-26110, CVE-2026-26115, CVE-2026-21262, CVE-2026-26128, CVE-2026-26118, CVE-2026-26144  
+**CVEs:** CVE-2026-26113, CVE-2026-26114, CVE-2026-21262, CVE-2026-26109, CVE-2026-26128, CVE-2026-26116, CVE-2026-26115, CVE-2026-26106, CVE-2026-26110, CVE-2026-26118, CVE-2026-26144  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -606,7 +587,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

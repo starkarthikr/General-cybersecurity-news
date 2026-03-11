@@ -372,28 +372,7 @@
     "title": "Microsoft Patch Tuesday, March 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
     "published": "Wed, 11 Mar 2026 00:32:51 +0000",
-    "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.",
-    "analysis": {
-      "issue": "today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-24291",
-        "CVE-2026-26113",
-        "CVE-2026-24289",
-        "CVE-2026-26110",
-        "CVE-2026-26127",
-        "CVE-2026-24294",
-        "CVE-2026-25187",
-        "CVE-2026-21262"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "DDoS"
-      ]
-    }
+    "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday."
   },
   {
     "source": "Krebs On Security",
@@ -407,126 +386,42 @@
     "title": "Who is the Kimwolf Botmaster “Dort”?",
     "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
     "published": "Sat, 28 Feb 2026 12:01:57 +0000",
-    "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.",
-    "analysis": {
-      "issue": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to build Kimwolf, the world’s largest and most disruptive botnet",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT",
-        "DDoS"
-      ]
-    }
+    "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information."
   },
   {
     "source": "Krebs On Security",
     "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
     "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
     "published": "Fri, 20 Feb 2026 20:00:30 +0000",
-    "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.",
-    "analysis": {
-      "issue": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
+    "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses."
   },
   {
     "source": "Krebs On Security",
     "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
     "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
     "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-    "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
-    "analysis": {
-      "issue": "For the past week, the massive “Internet of Things” (IoT) botnet known as Kimwolf has been disrupting The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
+    "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers."
   },
   {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, February 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
     "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-    "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-    "analysis": {
-      "issue": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six “zero-day” vulnerabilities that attackers are already exploiting in the wild",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-21533",
-        "CVE-2026-21256",
-        "CVE-2026-21513",
-        "CVE-2026-21519",
-        "CVE-2026-21525",
-        "CVE-2026-21510",
-        "CVE-2026-21509",
-        "CVE-2026-21514",
-        "CVE-2026-21516",
-        "CVE-2026-21523"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild."
   },
   {
     "source": "Krebs On Security",
     "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
     "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
     "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-    "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
-    "analysis": {
-      "issue": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifyi",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing",
-        "APT",
-        "DDoS"
-      ]
-    }
+    "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>"
   },
   {
     "source": "Krebs On Security",
     "title": "Who Operates the Badbox 2.0 Botnet?",
     "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
     "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-    "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-    "analysis": {
-      "issue": "The cybercriminals in control of Kimwolf — a disruptive botnet that has infected more than 2 million devices — recently shared a screenshot indicating they’d compromised the control panel for Badbox 2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
+    "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that."
   },
   {
     "source": "Krebs On Security",
@@ -540,22 +435,7 @@
     "title": "Patch Tuesday, January 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
     "published": "Wed, 14 Jan 2026 00:47:38 +0000",
-    "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.",
-    "analysis": {
-      "issue": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20805",
-        "CVE-2026-20952",
-        "CVE-2026-20953"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today."
   },
   {
     "source": "Security Week",
@@ -640,15 +520,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26114",
-        "CVE-2026-26106",
-        "CVE-2026-26109",
         "CVE-2026-26113",
-        "CVE-2026-26116",
-        "CVE-2026-26110",
-        "CVE-2026-26115",
+        "CVE-2026-26114",
         "CVE-2026-21262",
+        "CVE-2026-26109",
         "CVE-2026-26128",
+        "CVE-2026-26116",
+        "CVE-2026-26115",
+        "CVE-2026-26106",
+        "CVE-2026-26110",
         "CVE-2026-26118",
         "CVE-2026-26144"
       ],
@@ -1178,8 +1058,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
