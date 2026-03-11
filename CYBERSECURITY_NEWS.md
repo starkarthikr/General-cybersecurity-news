@@ -1,19 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-11 03:11:03 UTC
+**Last Updated:** 2026-03-11 09:07:53 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows](https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html)
+### 1. [UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours](https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html)
 
 **Source:** The Hacker News  
-**Published:** Tue, 10 Mar 2026 21:51:00 +0530  
+**Published:** Wed, 11 Mar 2026 13:01:00 +0530  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Vulnerability  
 
 ---
 
-### 2. [FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials](https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html)
+### 2. [Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets](https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 11 Mar 2026 10:42:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials](https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Mar 2026 21:51:00 +0530  
@@ -22,7 +31,16 @@
 
 ---
 
-### 3. [KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet](https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html)
+### 4. [How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows](https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 10 Mar 2026 21:51:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet](https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Mar 2026 21:30:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [New "LeakyLooker" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries](https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html)
+### 6. [New "LeakyLooker" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries](https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Mar 2026 18:50:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction](https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html)
+### 7. [The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction](https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Mar 2026 16:30:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military](https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html)
+### 8. [APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military](https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Mar 2026 16:25:00 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool](https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html)
+### 9. [Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool](https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Mar 2026 12:47:00 +0530  
@@ -67,30 +85,12 @@
 
 ---
 
-### 8. [CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited](https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html)
+### 10. [CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited](https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 10 Mar 2026 11:47:00 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 9. [Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials](https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 10 Mar 2026 00:01:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device](https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 09 Mar 2026 20:20:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -189,6 +189,9 @@
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-24289, CVE-2026-26110, CVE-2026-24291, CVE-2026-26113, CVE-2026-25187, CVE-2026-21262, CVE-2026-24294, CVE-2026-26127  
+**Categories:** Vulnerability, DDoS  
 
 ---
 
@@ -196,6 +199,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Sun, 08 Mar 2026 23:35:42 +0000  
+**Severity:** Low  
+**Categories:** APT  
 
 ---
 
@@ -203,6 +208,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Sat, 28 Feb 2026 12:01:57 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware, APT, DDoS  
 
 ---
 
@@ -210,6 +217,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Fri, 20 Feb 2026 20:00:30 +0000  
+**Severity:** Low  
+**Categories:** Phishing  
 
 ---
 
@@ -217,6 +226,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Feb 2026 16:08:11 +0000  
+**Severity:** Low  
+**Categories:** Malware, DDoS  
 
 ---
 
@@ -224,6 +235,9 @@
 
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-21513, CVE-2026-21510, CVE-2026-21256, CVE-2026-21514, CVE-2026-21533, CVE-2026-21525, CVE-2026-21516, CVE-2026-21509, CVE-2026-21519, CVE-2026-21523  
+**Categories:** Vulnerability  
 
 ---
 
@@ -231,6 +245,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 02 Feb 2026 16:15:16 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Phishing, APT, DDoS  
 
 ---
 
@@ -238,6 +254,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 26 Jan 2026 16:11:38 +0000  
+**Severity:** High  
+**Categories:** Malware  
 
 ---
 
@@ -245,6 +263,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Tue, 20 Jan 2026 18:19:13 +0000  
+**Severity:** Low  
+**Categories:** Malware, DDoS  
 
 ---
 
@@ -252,76 +272,83 @@
 
 **Source:** Krebs On Security  
 **Published:** Wed, 14 Jan 2026 00:47:38 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-20952, CVE-2026-20805, CVE-2026-20953  
+**Categories:** Vulnerability  
 
 ---
 
-### 31. [Microsoft Patches 83 Vulnerabilities](https://www.securityweek.com/microsoft-patches-83-vulnerabilities/)
+### 31. [ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Moxa, Mitsubishi Electric](https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-moxa-mitsubishi-electric/)
+
+**Source:** Security Week  
+**Published:** Wed, 11 Mar 2026 07:51:18 +0000  
+
+---
+
+### 32. [Microsoft Patches 83 Vulnerabilities](https://www.securityweek.com/microsoft-patches-83-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Tue, 10 Mar 2026 19:12:21 +0000  
 
 ---
 
-### 32. [Adobe Patches 80 Vulnerabilities Across Eight Products](https://www.securityweek.com/adobe-patches-80-vulnerabilities-across-eight-products/)
+### 33. [Adobe Patches 80 Vulnerabilities Across Eight Products](https://www.securityweek.com/adobe-patches-80-vulnerabilities-across-eight-products/)
 
 **Source:** Security Week  
 **Published:** Tue, 10 Mar 2026 18:22:40 +0000  
 
 ---
 
-### 33. [Jazz Emerges From Stealth With $61M in Funding for AI-Powered DLP](https://www.securityweek.com/jazz-emerges-from-stealth-with-61m-in-funding-for-ai-powered-dlp/)
+### 34. [Jazz Emerges From Stealth With $61M in Funding for AI-Powered DLP](https://www.securityweek.com/jazz-emerges-from-stealth-with-61m-in-funding-for-ai-powered-dlp/)
 
 **Source:** Security Week  
 **Published:** Tue, 10 Mar 2026 17:45:32 +0000  
 
 ---
 
-### 34. [Kai Emerges From Stealth With $125M in Funding for AI Platform Bridging IT and OT Security](https://www.securityweek.com/kai-emerges-from-stealth-with-125m-in-funding-for-ai-platform-bridging-it-and-ot-security/)
+### 35. [Kai Emerges From Stealth With $125M in Funding for AI Platform Bridging IT and OT Security](https://www.securityweek.com/kai-emerges-from-stealth-with-125m-in-funding-for-ai-platform-bridging-it-and-ot-security/)
 
 **Source:** Security Week  
 **Published:** Tue, 10 Mar 2026 15:13:03 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
 
 ---
 
-### 35. [Webinar Today: Securing Fragile OT in an Exposed World](https://www.securityweek.com/webinar-today-securing-fragile-ot-in-an-exposed-world/)
+### 36. [Webinar Today: Securing Fragile OT in an Exposed World](https://www.securityweek.com/webinar-today-securing-fragile-ot-in-an-exposed-world/)
 
 **Source:** Security Week  
 **Published:** Tue, 10 Mar 2026 15:04:28 +0000  
 
 ---
 
-### 36. [SAP Patches Critical FS-QUO, NetWeaver Vulnerabilities](https://www.securityweek.com/sap-patches-critical-fs-quo-netweaver-vulnerabilities/)
+### 37. [SAP Patches Critical FS-QUO, NetWeaver Vulnerabilities](https://www.securityweek.com/sap-patches-critical-fs-quo-netweaver-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Tue, 10 Mar 2026 14:31:36 +0000  
 
 ---
 
-### 37. [Thousands Affected by Ericsson Data Breach](https://www.securityweek.com/thousands-affected-by-ericsson-data-breach/)
+### 38. [Thousands Affected by Ericsson Data Breach](https://www.securityweek.com/thousands-affected-by-ericsson-data-breach/)
 
 **Source:** Security Week  
 **Published:** Tue, 10 Mar 2026 14:23:34 +0000  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
 
 ---
 
-### 38. [OpenAI Rolls Out Codex Security Vulnerability Scanner](https://www.securityweek.com/openai-rolls-out-codex-security-vulnerability-scanner/)
+### 39. [OpenAI Rolls Out Codex Security Vulnerability Scanner](https://www.securityweek.com/openai-rolls-out-codex-security-vulnerability-scanner/)
 
 **Source:** Security Week  
 **Published:** Tue, 10 Mar 2026 13:23:05 +0000  
 
 ---
 
-### 39. [Kevin Mandia’s Armadin Launches With $190 Million in Funding](https://www.securityweek.com/kevin-mandias-armadin-launches-with-189-9-million-in-funding/)
+### 40. [Kevin Mandia’s Armadin Launches With $190 Million in Funding](https://www.securityweek.com/kevin-mandias-armadin-launches-with-189-9-million-in-funding/)
 
 **Source:** Security Week  
 **Published:** Tue, 10 Mar 2026 13:21:05 +0000  
-
----
-
-### 40. [Hundreds of Salesforce Customers Allegedly Targeted in New Data Theft Campaign](https://www.securityweek.com/hundreds-of-salesforce-customers-allegedly-targeted-in-new-data-theft-campaign/)
-
-**Source:** Security Week  
-**Published:** Tue, 10 Mar 2026 12:37:17 +0000  
 
 ---
 
@@ -330,7 +357,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-26114, CVE-2026-21262, CVE-2026-26109, CVE-2026-26128, CVE-2026-26116, CVE-2026-26115, CVE-2026-26106, CVE-2026-26110, CVE-2026-26118, CVE-2026-26144  
+**CVEs:** CVE-2026-26116, CVE-2026-26128, CVE-2026-26110, CVE-2026-26113, CVE-2026-26114, CVE-2026-26144, CVE-2026-26115, CVE-2026-26118, CVE-2026-21262, CVE-2026-26109, CVE-2026-26106  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -587,7 +614,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -692,7 +719,16 @@
 
 ---
 
-### 81. [Falcon for XIoT Extends Asset Protection to Healthcare Environments](https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/)
+### 81. [March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Mar 10, 2026 00:00:00-0500  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 82. [Falcon for XIoT Extends Asset Protection to Healthcare Environments](https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 09, 2026 00:00:00-0400  
@@ -701,7 +737,7 @@
 
 ---
 
-### 82. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
+### 83. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 06, 2026 00:00:00-0600  
@@ -710,7 +746,7 @@
 
 ---
 
-### 83. [CrowdStrike Achieves NCSC CIR Assurance for Incident Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/)
+### 84. [CrowdStrike Achieves NCSC CIR Assurance for Incident Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 02, 2026 00:00:00-0600  
@@ -719,7 +755,7 @@
 
 ---
 
-### 84. [CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/)
+### 85. [CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 26, 2026 00:00:00-0600  
@@ -728,7 +764,7 @@
 
 ---
 
-### 85. [CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/)
+### 86. [CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 24, 2026 00:00:00-0600  
@@ -737,7 +773,7 @@
 
 ---
 
-### 86. [The Art of Deception: How Threat Actors Master Typosquatting Campaigns to Bypass Detection](https://www.crowdstrike.com/en-us/blog/the-art-of-deception-how-threat-actors-master-typosquatting-campaigns-to-bypass-detection/)
+### 87. [The Art of Deception: How Threat Actors Master Typosquatting Campaigns to Bypass Detection](https://www.crowdstrike.com/en-us/blog/the-art-of-deception-how-threat-actors-master-typosquatting-campaigns-to-bypass-detection/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 23, 2026 00:00:00-0600  
@@ -746,7 +782,7 @@
 
 ---
 
-### 87. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
+### 88. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 18, 2026 00:00:00-0600  
@@ -755,7 +791,7 @@
 
 ---
 
-### 88. [Exposing Insider Threats through Data Protection, Identity, and HR Context](https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/)
+### 89. [Exposing Insider Threats through Data Protection, Identity, and HR Context](https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 18, 2026 00:00:00-0600  
@@ -764,19 +800,10 @@
 
 ---
 
-### 89. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/)
+### 90. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 12, 2026 00:00:00-0600  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [How to Scale SOC Automation with Falcon Fusion SOAR](https://www.crowdstrike.com/en-us/blog/how-to-scale-soc-automation-with-falcon-fusion-soar/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Feb 11, 2026 00:00:00-0600  
 **Severity:** Low  
 **Categories:** General Security  
 
