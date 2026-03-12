@@ -1,6 +1,45 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets",
+    "link": "https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html",
+    "published": "Thu, 12 Mar 2026 13:26:00 +0530",
+    "summary": "Cybersecurity researchers have discovered half-a-dozen new Android malware families that come with capabilities to steal data from compromised devices and conduct financial fraud.\nThe Android malware range from traditional banking trojans like PixRevolution, TaxiSpy RAT, BeatBanker, Mirax, and Oblivion RAT to full-fledged remote administration tools such as SURXRAT.\nPixRevolution, according to",
+    "analysis": {
+      "issue": "Six Android malware families discovered targeting banking apps and crypto wallets, exploiting accessibility features to steal funds and data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed",
+    "link": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html",
+    "published": "Thu, 12 Mar 2026 10:48:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting n8n to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability, tracked as CVE-2025-68613 (CVSS score: 9.9), concerns a case of expression injection that leads to remote code execution. The security shortcoming was patched",
+    "analysis": {
+      "issue": "CISA adds n8n RCE flaw CVE-2025-68613 to KEV after active exploitation; 24,700 exposed instances raise compromise risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-68613"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes",
     "link": "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html",
     "published": "Wed, 11 Mar 2026 22:08:00 +0530",
@@ -144,43 +183,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials",
-    "link": "https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html",
-    "published": "Tue, 10 Mar 2026 21:51:00 +0530",
-    "summary": "Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances as entry points to breach victim networks.&nbsp;\nThe activity involves the exploitation of recently disclosed security vulnerabilities or weak credentials to extract configuration files containing service account credentials and network topology",
-    "analysis": {
-      "issue": "Attackers exploit FortiGate vulnerabilities to steal LDAP credentials and breach networks, enabling AD access and malware deployment",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
-    "link": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
-    "published": "Tue, 10 Mar 2026 21:51:00 +0530",
-    "summary": "Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emails, move data, and even manage software on their own.\nBut there is a problem. While these agents make work faster, they also open a new \"back door\" for hackers.\nThe Problem: \"The Invisible Employee\"\nThink of an AI Agent like a new employee who has",
-    "analysis": {
-      "issue": "Learn to audit AI agents and stop data leaks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "WhatsApp introduces parent-managed accounts for pre-teens",
     "link": "https://www.bleepingcomputer.com/news/security/whatsapp-introduces-parent-managed-accounts-for-pre-teens/",
@@ -211,7 +213,7 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-2313"
+        "CVE-2026-2413"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -397,14 +399,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26127",
+        "CVE-2026-25187",
         "CVE-2026-24291",
+        "CVE-2026-26127",
+        "CVE-2026-24289",
         "CVE-2026-24294",
         "CVE-2026-21262",
         "CVE-2026-26110",
-        "CVE-2026-25187",
-        "CVE-2026-26113",
-        "CVE-2026-24289"
+        "CVE-2026-26113"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -501,16 +503,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21516",
-        "CVE-2026-21533",
-        "CVE-2026-21519",
-        "CVE-2026-21513",
-        "CVE-2026-21509",
-        "CVE-2026-21523",
-        "CVE-2026-21514",
-        "CVE-2026-21256",
         "CVE-2026-21510",
-        "CVE-2026-21525"
+        "CVE-2026-21523",
+        "CVE-2026-21516",
+        "CVE-2026-21514",
+        "CVE-2026-21525",
+        "CVE-2026-21509",
+        "CVE-2026-21256",
+        "CVE-2026-21513",
+        "CVE-2026-21533",
+        "CVE-2026-21519"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -715,17 +717,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26128",
-        "CVE-2026-26110",
-        "CVE-2026-21262",
-        "CVE-2026-26144",
-        "CVE-2026-26109",
-        "CVE-2026-26113",
-        "CVE-2026-26118",
-        "CVE-2026-26106",
-        "CVE-2026-26116",
         "CVE-2026-26114",
-        "CVE-2026-26115"
+        "CVE-2026-26144",
+        "CVE-2026-26115",
+        "CVE-2026-26106",
+        "CVE-2026-26110",
+        "CVE-2026-26109",
+        "CVE-2026-26128",
+        "CVE-2026-26116",
+        "CVE-2026-21262",
+        "CVE-2026-26113",
+        "CVE-2026-26118"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1295,10 +1297,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-26144",
+        "CVE-2026-26110",
         "CVE-2026-26127",
         "CVE-2026-21262",
-        "CVE-2026-26110",
-        "CVE-2026-26144",
         "CVE-2026-26113"
       ],
       "threat_categories": [
@@ -1416,6 +1418,24 @@
       "cves": [],
       "threat_categories": [
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "Enhanced Network Visibility: A Dive into the Falcon macOS Sensor's New Capabilities",
+    "link": "https://www.crowdstrike.com/en-us/blog/enhanced-network-visibility-dive-into-falcon-macos-sensor-new-capabilities/",
+    "published": "Mar 11, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn about the new Enhanced Network Visibility feature for the CrowdStrike Falcon macOS sensor",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1571,24 +1591,6 @@
     "summary": "",
     "analysis": {
       "issue": "Learn about CrowdStrike Falcon dashboard features that can detect insider threats and how customers can leverage this tool",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/",
-    "published": "Feb 12, 2026 00:00:00-0600",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike has the most five-star ratings of any vendor evaluated in the report, based on the most verified ratings of any vendor",
       "solution": null,
       "cause": null,
       "timeline": null,

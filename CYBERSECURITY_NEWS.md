@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-12 03:17:34 UTC
+**Last Updated:** 2026-03-12 09:09:29 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes](https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html)
+### 1. [Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets](https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 12 Mar 2026 13:26:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 2. [CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 12 Mar 2026 10:48:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2025-68613  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes](https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Mar 2026 22:08:00 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials](https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html)
+### 4. [Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials](https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Mar 2026 20:21:00 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown](https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html)
+### 5. [Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown](https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Mar 2026 18:45:00 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices](https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html)
+### 6. [Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices](https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Mar 2026 17:56:00 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [What Boards Must Demand in the Age of AI-Automated Exploitation](https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html)
+### 7. [What Boards Must Demand in the Age of AI-Automated Exploitation](https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Mar 2026 17:00:00 +0530  
@@ -49,7 +68,7 @@
 
 ---
 
-### 6. [Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days](https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html)
+### 8. [Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days](https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Mar 2026 14:45:00 +0530  
@@ -58,7 +77,7 @@
 
 ---
 
-### 7. [UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours](https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html)
+### 9. [UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours](https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Mar 2026 13:01:00 +0530  
@@ -67,30 +86,12 @@
 
 ---
 
-### 8. [Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets](https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html)
+### 10. [Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets](https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Mar 2026 10:42:00 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 9. [FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials](https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 10 Mar 2026 21:51:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 10. [How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows](https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 10 Mar 2026 21:51:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -108,7 +109,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 11 Mar 2026 15:38:14 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-2313  
+**CVEs:** CVE-2026-2413  
 **Categories:** Vulnerability  
 
 ---
@@ -200,7 +201,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26127, CVE-2026-24291, CVE-2026-24294, CVE-2026-21262, CVE-2026-26110, CVE-2026-25187, CVE-2026-26113, CVE-2026-24289  
+**CVEs:** CVE-2026-25187, CVE-2026-24291, CVE-2026-26127, CVE-2026-24289, CVE-2026-24294, CVE-2026-21262, CVE-2026-26110, CVE-2026-26113  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -246,7 +247,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21516, CVE-2026-21533, CVE-2026-21519, CVE-2026-21513, CVE-2026-21509, CVE-2026-21523, CVE-2026-21514, CVE-2026-21256, CVE-2026-21510, CVE-2026-21525  
+**CVEs:** CVE-2026-21510, CVE-2026-21523, CVE-2026-21516, CVE-2026-21514, CVE-2026-21525, CVE-2026-21509, CVE-2026-21256, CVE-2026-21513, CVE-2026-21533, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -381,7 +382,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26128, CVE-2026-26110, CVE-2026-21262, CVE-2026-26144, CVE-2026-26109, CVE-2026-26113, CVE-2026-26118, CVE-2026-26106, CVE-2026-26116, CVE-2026-26114, CVE-2026-26115  
+**CVEs:** CVE-2026-26114, CVE-2026-26144, CVE-2026-26115, CVE-2026-26106, CVE-2026-26110, CVE-2026-26109, CVE-2026-26128, CVE-2026-26116, CVE-2026-21262, CVE-2026-26113, CVE-2026-26118  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -658,7 +659,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Mar 2026 10:47:32 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26127, CVE-2026-21262, CVE-2026-26110, CVE-2026-26144, CVE-2026-26113  
+**CVEs:** CVE-2026-26144, CVE-2026-26110, CVE-2026-26127, CVE-2026-21262, CVE-2026-26113  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -717,7 +718,16 @@
 
 ---
 
-### 81. [March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/)
+### 81. [Enhanced Network Visibility: A Dive into the Falcon macOS Sensor's New Capabilities](https://www.crowdstrike.com/en-us/blog/enhanced-network-visibility-dive-into-falcon-macos-sensor-new-capabilities/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Mar 11, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 10, 2026 00:00:00-0500  
@@ -726,7 +736,7 @@
 
 ---
 
-### 82. [Falcon for XIoT Extends Asset Protection to Healthcare Environments](https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/)
+### 83. [Falcon for XIoT Extends Asset Protection to Healthcare Environments](https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 09, 2026 00:00:00-0400  
@@ -735,7 +745,7 @@
 
 ---
 
-### 83. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
+### 84. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 06, 2026 00:00:00-0600  
@@ -744,7 +754,7 @@
 
 ---
 
-### 84. [CrowdStrike Achieves NCSC CIR Assurance for Incident Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/)
+### 85. [CrowdStrike Achieves NCSC CIR Assurance for Incident Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 02, 2026 00:00:00-0600  
@@ -753,7 +763,7 @@
 
 ---
 
-### 85. [CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/)
+### 86. [CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 26, 2026 00:00:00-0600  
@@ -762,7 +772,7 @@
 
 ---
 
-### 86. [CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/)
+### 87. [CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 24, 2026 00:00:00-0600  
@@ -771,7 +781,7 @@
 
 ---
 
-### 87. [The Art of Deception: How Threat Actors Master Typosquatting Campaigns to Bypass Detection](https://www.crowdstrike.com/en-us/blog/the-art-of-deception-how-threat-actors-master-typosquatting-campaigns-to-bypass-detection/)
+### 88. [The Art of Deception: How Threat Actors Master Typosquatting Campaigns to Bypass Detection](https://www.crowdstrike.com/en-us/blog/the-art-of-deception-how-threat-actors-master-typosquatting-campaigns-to-bypass-detection/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 23, 2026 00:00:00-0600  
@@ -780,7 +790,7 @@
 
 ---
 
-### 88. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
+### 89. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 18, 2026 00:00:00-0600  
@@ -789,19 +799,10 @@
 
 ---
 
-### 89. [Exposing Insider Threats through Data Protection, Identity, and HR Context](https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/)
+### 90. [Exposing Insider Threats through Data Protection, Identity, and HR Context](https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 18, 2026 00:00:00-0600  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Feb 12, 2026 00:00:00-0600  
 **Severity:** Low  
 **Categories:** General Security  
 
