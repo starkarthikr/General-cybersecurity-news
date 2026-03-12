@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload",
+    "link": "https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html",
+    "published": "Thu, 12 Mar 2026 17:00:00 +0530",
+    "summary": "The most dangerous phishing campaigns aren’t just designed to fool employees. Many are designed to exhaust the analysts investigating them. When a phishing investigation takes 12 hours instead of five minutes, the outcome can shift from a contained incident to a breach.\nFor years, the cybersecurity industry has focused on the front door of phishing defense: employee training, email gateways that",
+    "analysis": {
+      "issue": "Phishing floods overwhelm SOC analysts; with 66% unable to keep up, attackers hide spear-phishing in alert queues, increasing breach risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit",
+    "link": "https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html",
+    "published": "Thu, 12 Mar 2026 15:28:00 +0530",
+    "summary": "Apple on Wednesday backported fixes for a security flaw in iOS, iPadOS, and macOS Sonoma to older versions after it was found to be used as part of the Coruna exploit kit.\nThe vulnerability, tracked as CVE-2023-43010, relates to an unspecified vulnerability in WebKit that could result in memory corruption when processing maliciously crafted web content. The iPhone maker said the issue was",
+    "analysis": {
+      "issue": "Apple backports CVE-2023-43010 WebKit fix after Coruna exploit kit abused iOS flaws, protecting older iPhones and iPads from memory corruption attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2023-43010"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets",
     "link": "https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html",
     "published": "Thu, 12 Mar 2026 13:26:00 +0530",
@@ -147,38 +185,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours",
-    "link": "https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html",
-    "published": "Wed, 11 Mar 2026 13:01:00 +0530",
-    "summary": "A threat actor known as UNC6426 leveraged keys stolen following the supply chain compromise of the nx npm package last year to completely breach a victim's cloud environment within a span of 72 hours.\nThe attack started with the theft of a developer's GitHub token, which the threat actor then used to gain unauthorized access to the cloud and steal data.\n\"The threat actor, UNC6426, then used this",
+    "source": "Bleeping Computer",
+    "title": "US charges another ransomware negotiator linked to BlackCat attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/us-charges-another-ransomware-negotiator-linked-to-blackcat-attacks/",
+    "published": "Thu, 12 Mar 2026 07:31:57 -0400",
+    "summary": "The U.S. Department of Justice charged another former DigitalMint employee for his involvement in an insider scheme in which ransomware negotiators secretly partnered with the BlackCat (ALPHV) ransomware operation. [...]",
     "analysis": {
-      "issue": "UNC6426 used stolen GitHub tokens from the 2025 nx npm breach to gain AWS admin access in under 72 hours, enabling data theft and cloud destruction",
+      "issue": "Department of Justice charged another former DigitalMint employee for his involvement in an insider scheme in which ransomware negotiators secretly partnered with the BlackCat (ALPHV) ransomware operation",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets",
-    "link": "https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html",
-    "published": "Wed, 11 Mar 2026 10:42:00 +0530",
-    "summary": "Cybersecurity researchers have discovered five malicious Rust crates that masquerade as time-related utilities to transmit .env file data to the threat actors.\nThe Rust packages, published to crates.io, are listed below -\n\nchrono_anchor\ndnp3times\ntime_calibrator\ntime_calibrators\ntime-sync\n\nThe crates, per Socket, impersonate timeapi.io and were published between late February and early March",
-    "analysis": {
-      "issue": "Five malicious Rust crates and an AI bot exploited CI/CD pipelines and GitHub Actions in Feb 2026, stealing developer secrets and tokens",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
+        "Ransomware"
       ]
     }
   },
@@ -351,24 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft releases Windows 10 KB5078885 extended security update",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/",
-    "published": "Tue, 10 Mar 2026 14:23:35 -0400",
-    "summary": "Microsoft has released the Windows 10 KB5078885 extended security update to fix the March 2026 Patch Tuesday vulnerabilities, including 2 zero-days and an issue that prevent some devices from shutting down. [...]",
-    "analysis": {
-      "issue": "Microsoft has released the Windows 10 KB5078885 extended security update to fix the March 2026 Patch Tuesday vulnerabilities, including 2 zero-days and an issue that prevents some devices from shutting down",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
     "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
@@ -399,12 +401,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-25187",
+        "CVE-2026-24294",
+        "CVE-2026-24289",
         "CVE-2026-24291",
         "CVE-2026-26127",
-        "CVE-2026-24289",
-        "CVE-2026-24294",
         "CVE-2026-21262",
+        "CVE-2026-25187",
         "CVE-2026-26110",
         "CVE-2026-26113"
       ],
@@ -503,16 +505,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21510",
         "CVE-2026-21523",
-        "CVE-2026-21516",
-        "CVE-2026-21514",
         "CVE-2026-21525",
-        "CVE-2026-21509",
         "CVE-2026-21256",
-        "CVE-2026-21513",
         "CVE-2026-21533",
-        "CVE-2026-21519"
+        "CVE-2026-21514",
+        "CVE-2026-21509",
+        "CVE-2026-21510",
+        "CVE-2026-21519",
+        "CVE-2026-21513",
+        "CVE-2026-21516"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -579,6 +581,48 @@
   },
   {
     "source": "Security Week",
+    "title": "Ally WordPress Plugin Flaw Exposes Over 200,000 Websites to Attacks",
+    "link": "https://www.securityweek.com/ally-wordpress-plugin-flaw-exposes-over-200000-websites-to-attacks/",
+    "published": "Thu, 12 Mar 2026 12:43:10 +0000",
+    "summary": "<p>The issue allows attackers to inject SQL queries and extract sensitive information from the database.</p>\n<p>The post <a href=\"https://www.securityweek.com/ally-wordpress-plugin-flaw-exposes-over-200000-websites-to-attacks/\">Ally WordPress Plugin Flaw Exposes Over 200,000 Websites to Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "The Human IOC: Why Security Professionals Struggle with Social Vetting",
+    "link": "https://www.securityweek.com/the-human-ioc-why-security-professionals-struggle-with-social-vetting/",
+    "published": "Thu, 12 Mar 2026 12:30:00 +0000",
+    "summary": "<p>Applying SOC-level rigor to the rumors, politics, and 'human intel' can make or break a security team.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-human-ioc-why-security-professionals-struggle-with-social-vetting/\">The Human IOC: Why Security Professionals Struggle with Social Vetting</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Splunk, Zoom Patch Severe Vulnerabilities",
+    "link": "https://www.securityweek.com/splunk-zoom-patch-severe-vulnerabilities/",
+    "published": "Thu, 12 Mar 2026 12:06:15 +0000",
+    "summary": "<p>Critical- and high-severity flaws could be exploited to execute arbitrary shell commands or elevate privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/splunk-zoom-patch-severe-vulnerabilities/\">Splunk, Zoom Patch Severe Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Cisco Patches High-Severity IOS XR Vulnerabilities",
+    "link": "https://www.securityweek.com/cisco-patches-high-severity-ios-xr-vulnerabilities-2/",
+    "published": "Thu, 12 Mar 2026 10:25:26 +0000",
+    "summary": "<p>The security defects could lead to denial-of-service (DoS) conditions, command execution, or device takeover.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-high-severity-ios-xr-vulnerabilities-2/\">Cisco Patches High-Severity IOS XR Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical N8n Vulnerabilities Allowed Server Takeover",
+    "link": "https://www.securityweek.com/critical-n8n-vulnerabilities-allowed-server-takeover/",
+    "published": "Thu, 12 Mar 2026 09:54:40 +0000",
+    "summary": "<p>The bugs allowed unauthenticated attackers to execute arbitrary code, steal credentials, and take over servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-n8n-vulnerabilities-allowed-server-takeover/\">Critical N8n Vulnerabilities Allowed Server Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Polyfill Supply Chain Attack Impacting 100k Sites Linked to North Korea",
+    "link": "https://www.securityweek.com/polyfill-supply-chain-attack-impacting-100k-sites-linked-to-north-korea/",
+    "published": "Thu, 12 Mar 2026 09:40:59 +0000",
+    "summary": "<p>The 2024 incident was initially linked to China, but an infostealer infection has now revealed North Korean involvement.</p>\n<p>The post <a href=\"https://www.securityweek.com/polyfill-supply-chain-attack-impacting-100k-sites-linked-to-north-korea/\">Polyfill Supply Chain Attack Impacting 100k Sites Linked to North Korea</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Senate Confirms Joshua Rudd to Lead NSA and US Cyber Command",
     "link": "https://www.securityweek.com/senate-confirms-joshua-rudd-to-lead-nsa-and-us-cyber-command/",
     "published": "Wed, 11 Mar 2026 19:08:03 +0000",
@@ -604,48 +648,6 @@
     "link": "https://www.securityweek.com/ciso-conversations-aimee-cardwell/",
     "published": "Wed, 11 Mar 2026 14:00:00 +0000",
     "summary": "<p>Cardwell started her career at Netscape, become a VP of engineering at American Express, CISO at UnitedHealth Group, and now CISO in Residence at Transcend.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-conversations-aimee-cardwell/\">CISO Conversations: Aimee Cardwell</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "238,000 Impacted by Bell Ambulance Data Breach",
-    "link": "https://www.securityweek.com/238000-impacted-by-bell-ambulance-data-breach/",
-    "published": "Wed, 11 Mar 2026 13:34:17 +0000",
-    "summary": "<p>Hackers stole personal information such as names, Social Security numbers, and driver’s license numbers.</p>\n<p>The post <a href=\"https://www.securityweek.com/238000-impacted-by-bell-ambulance-data-breach/\">238,000 Impacted by Bell Ambulance Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Scanner Raises $22 Million for AI-Powered Threat Hunting",
-    "link": "https://www.securityweek.com/scanner-raises-22-million-for-ai-powered-threat-hunting/",
-    "published": "Wed, 11 Mar 2026 13:16:46 +0000",
-    "summary": "<p>The company connects AI agents to security data lakes for interactive investigations, detection engineering, and autonomous response.</p>\n<p>The post <a href=\"https://www.securityweek.com/scanner-raises-22-million-for-ai-powered-threat-hunting/\">Scanner Raises $22 Million for AI-Powered Threat Hunting</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenAI to Acquire AI Security Startup Promptfoo",
-    "link": "https://www.securityweek.com/openai-to-acquire-ai-security-startup-promptfoo/",
-    "published": "Wed, 11 Mar 2026 12:25:58 +0000",
-    "summary": "<p>Promptfoo has raised more than $23 million in funding for a platform that helps developers secure LLMs and AI agents.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-to-acquire-ai-security-startup-promptfoo/\">OpenAI to Acquire AI Security Startup Promptfoo</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Fortinet, Ivanti, Intel Patch High-Severity Vulnerabilities",
-    "link": "https://www.securityweek.com/fortinet-ivanti-intel-patch-high-severity-vulnerabilities/",
-    "published": "Wed, 11 Mar 2026 12:10:12 +0000",
-    "summary": "<p>The bugs could lead to arbitrary code execution, privilege escalation, or authentication rate-limit bypass.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-ivanti-intel-patch-high-severity-vulnerabilities/\">Fortinet, Ivanti, Intel Patch High-Severity Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "How to 10x Your Vulnerability Management Program in the Agentic Era",
-    "link": "https://www.securityweek.com/how-to-10x-your-vulnerability-management-program-in-the-agentic-era/",
-    "published": "Wed, 11 Mar 2026 12:00:00 +0000",
-    "summary": "<p>The evolution of vulnerability management in the agentic era is characterized by continuous telemetry, contextual prioritization and the ultimate goal of agentic remediation.</p>\n<p>The post <a href=\"https://www.securityweek.com/how-to-10x-your-vulnerability-management-program-in-the-agentic-era/\">How to 10x Your Vulnerability Management Program in the Agentic Era</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Michelin Confirms Data Breach Linked to Oracle EBS Attack",
-    "link": "https://www.securityweek.com/michelin-confirms-data-breach-linked-to-oracle-ebs-attack/",
-    "published": "Wed, 11 Mar 2026 11:27:20 +0000",
-    "summary": "<p>The cybercriminals have leaked more than 300GB of files allegedly stolen from the tire giant.</p>\n<p>The post <a href=\"https://www.securityweek.com/michelin-confirms-data-breach-linked-to-oracle-ebs-attack/\">Michelin Confirms Data Breach Linked to Oracle EBS Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -717,17 +719,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26114",
+        "CVE-2026-26113",
+        "CVE-2026-26118",
         "CVE-2026-26144",
-        "CVE-2026-26115",
-        "CVE-2026-26106",
-        "CVE-2026-26110",
-        "CVE-2026-26109",
+        "CVE-2026-21262",
         "CVE-2026-26128",
         "CVE-2026-26116",
-        "CVE-2026-21262",
-        "CVE-2026-26113",
-        "CVE-2026-26118"
+        "CVE-2026-26110",
+        "CVE-2026-26114",
+        "CVE-2026-26115",
+        "CVE-2026-26106",
+        "CVE-2026-26109"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -843,8 +845,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-20775",
-        "CVE-2026-20127"
+        "CVE-2026-20127",
+        "CVE-2022-20775"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1231,6 +1233,45 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Microsoft Authenticator could leak login codes—update your app now",
+    "link": "https://www.malwarebytes.com/blog/news/2026/03/microsoft-authenticator-could-leak-login-codes-update-your-app-now",
+    "published": "Thu, 12 Mar 2026 10:24:19 GMT",
+    "summary": "A bug in Microsoft Authenticator on Android and iOS could allow malicious apps on the same device to intercept authentication codes or sign-in links.",
+    "analysis": {
+      "issue": "A vulnerability in Microsoft Authenticator for both iOS and Android (CVE-2026-26123) could leak your one-time sign-in codes or authentication deep links to a malicious app on the same device",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-26123"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Meta rolls out anti-scam tools across WhatsApp, Facebook, and Messenger",
+    "link": "https://www.malwarebytes.com/blog/news/2026/03/meta-rolls-out-anti-scam-tools-across-whatsapp-facebook-and-messenger",
+    "published": "Thu, 12 Mar 2026 09:56:10 GMT",
+    "summary": "New AI-powered protections aim to detect impersonation attempts, suspicious friend requests, and scam messages.",
+    "analysis": {
+      "issue": "Meta has rolled out more anti-scam protections across WhatsApp, Facebook, and Messenger to fight sophisticated fraud tactics",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Phishers hide scam links with IPv6 trick in “free toothbrush” emails",
     "link": "https://www.malwarebytes.com/blog/scams/2026/03/phishers-hide-scam-links-with-ipv6-trick-in-free-toothbrush-emails",
     "published": "Wed, 11 Mar 2026 18:17:56 GMT",
@@ -1298,9 +1339,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-26144",
-        "CVE-2026-26110",
         "CVE-2026-26127",
         "CVE-2026-21262",
+        "CVE-2026-26110",
         "CVE-2026-26113"
       ],
       "threat_categories": [
@@ -1379,42 +1420,6 @@
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Quiz sites trick users into enabling unwanted browser notifications",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/quiz-sites-trick-users-into-enabling-unwanted-browser-notifications",
-    "published": "Mon, 09 Mar 2026 12:53:38 GMT",
-    "summary": "The quiz is just bait. The real goal is to win permission to send browser notifications that can later be used for ads, scams, or shady promotions.",
-    "analysis": {
-      "issue": "Our support team flagged a number of customers who suspected their device might be infected with malware, but Malwarebytes scans came up empty",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (March 2 &#8211; March 8)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-march-2-march-8",
-    "published": "Mon, 09 Mar 2026 07:21:00 GMT",
-    "summary": "A list of topics we covered in the week of March 2 to March 8 of 2026",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "Malware"
