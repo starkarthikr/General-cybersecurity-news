@@ -1,6 +1,61 @@
 [
   {
     "source": "The Hacker News",
+    "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
+    "link": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html",
+    "published": "Fri, 13 Mar 2026 20:50:00 +0530",
+    "summary": "INTERPOL on Friday announced the takedown of 45,000 malicious IP addresses and servers used in connection with phishing, malware, and ransomware campaigns, as part of the agency's ongoing efforts to dismantle criminal networks, disrupt emerging threats, and safeguard victims from scams.\nThe effort is part of an international law enforcement operation that involved 72 countries and territories.",
+    "analysis": {
+      "issue": "INTERPOL dismantled 45,000 malicious IPs in Operation Synergia across 72 countries, disrupting global phishing and ransomware networks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials",
+    "link": "https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html",
+    "published": "Fri, 13 Mar 2026 19:08:00 +0530",
+    "summary": "Microsoft has disclosed details of a credential theft campaign that employs fake virtual private network (VPN) clients distributed through search engine optimization (SEO) poisoning techniques.\n\"The campaign redirects users searching for legitimate enterprise software to malicious ZIP files on attacker-controlled websites to deploy digitally signed trojans that masquerade as trusted VPN clients",
+    "analysis": {
+      "issue": "Storm-2561 spreads fake VPN installers via SEO poisoning and GitHub downloads, stealing enterprise VPN credentials with Hyrax malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Investigating a New Click-Fix Variant",
+    "link": "https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html",
+    "published": "Fri, 13 Mar 2026 18:58:00 +0530",
+    "summary": "Disclaimer: This report has been prepared by the Threat Research Center to enhance cybersecurity awareness and support the strengthening of defense capabilities. It is based on independent research and observations of the current threat landscape available at the time of publication. The content is intended for informational and preparedness purposes only.\nRead more blogs around threat",
+    "analysis": {
+      "issue": "New ClickFix variant maps WebDAV drive to run trojanized WorkFlowy app, enabling stealth C2 beacon and payload delivery",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
     "link": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html",
     "published": "Fri, 13 Mar 2026 14:47:00 +0530",
@@ -129,13 +184,69 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More",
-    "link": "https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html",
-    "published": "Thu, 12 Mar 2026 18:44:00 +0530",
-    "summary": "Another Thursday, another pile of weird security stuff that somehow happened in just seven days. Some of it is clever. Some of it is lazy. A few bits fall into that uncomfortable category of “yeah… this is probably going to show up in real incidents sooner than we’d like.”\nThe pattern this week feels familiar in a slightly annoying way. Old tricks are getting polished. New research shows how",
+    "source": "Bleeping Computer",
+    "title": "Microsoft investigates classic Outlook sync and connection issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/",
+    "published": "Fri, 13 Mar 2026 12:53:02 -0400",
+    "summary": "​Microsoft is investigating several issues causing email synchronization and connection problems when using the classic Outlook desktop client. [...]",
     "analysis": {
-      "issue": "ThreatsDay: OAuth abuse, Signal hijacks, Zombie ZIP evasion, Teams malware, AI hack, RondoDox botnet, and more cyber stories",
+      "issue": "​Microsoft is investigating several issues causing email synchronization and connection problems when using the classic Outlook desktop client",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "From VMware to what’s next: Protecting data during hypervisor migration",
+    "link": "https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/",
+    "published": "Fri, 13 Mar 2026 10:15:25 -0400",
+    "summary": "Hypervisor migrations can introduce hidden risks that threaten data availability and recovery. Acronis explains why verified backups and cross-platform recovery are essential during VMware transitions. [...]",
+    "analysis": {
+      "issue": "Broadcom’s acquisition of VMware in 2023 set off a wave of migrations that shows no signs of subsiding",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Police sinkholes 45,000 IP addresses in cybercrime crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/",
+    "published": "Fri, 13 Mar 2026 09:28:33 -0400",
+    "summary": "An international law enforcement action codenamed \"Operation Synergia III\" has sinkholed tens of thousands of IP addresses and seized servers linked to cybercrime operations worldwide. [...]",
+    "analysis": {
+      "issue": "An international law enforcement action codenamed \"Operation Synergia III\" has sinkholed tens of thousands of IP addresses and seized servers linked to cybercrime operations worldwide",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Fake enterprise VPN downloads used to steal company credentials",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/",
+    "published": "Fri, 13 Mar 2026 09:23:28 -0400",
+    "summary": "A threat actor tracked as Storm-2561 is distributing fake enterprise VPN clients from Ivanti, Cisco, and Fortinet to steal VPN credentials from unsuspecting users. [...]",
+    "analysis": {
+      "issue": "A threat actor tracked as Storm-2561 is distributing fake enterprise VPN clients from Ivanti, Cisco, and Fortinet to steal VPN credentials from unsuspecting users",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -143,45 +254,7 @@
       "cves": [],
       "threat_categories": [
         "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload",
-    "link": "https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html",
-    "published": "Thu, 12 Mar 2026 17:00:00 +0530",
-    "summary": "The most dangerous phishing campaigns aren’t just designed to fool employees. Many are designed to exhaust the analysts investigating them. When a phishing investigation takes 12 hours instead of five minutes, the outcome can shift from a contained incident to a breach.\nFor years, the cybersecurity industry has focused on the front door of phishing defense: employee training, email gateways that",
-    "analysis": {
-      "issue": "Phishing floods overwhelm SOC analysts; with 66% unable to keep up, attackers hide spear-phishing in alert queues, increasing breach risk",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit",
-    "link": "https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html",
-    "published": "Thu, 12 Mar 2026 15:28:00 +0530",
-    "summary": "Apple on Wednesday backported fixes for a security flaw in iOS, iPadOS, and macOS Sonoma to older versions after it was found to be used as part of the Coruna exploit kit.\nThe vulnerability, tracked as CVE-2023-43010, relates to an unspecified vulnerability in WebKit that could result in memory corruption when processing maliciously crafted web content. The iPhone maker said the issue was",
-    "analysis": {
-      "issue": "Apple backports CVE-2023-43010 WebKit fix after Coruna exploit kit abused iOS flaws, protecting older iPhones and iPads from memory corruption attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2023-43010"
-      ],
-      "threat_categories": [
-        "Vulnerability"
+        "APT"
       ]
     }
   },
@@ -295,86 +368,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21666",
-        "CVE-2026-21667",
         "CVE-2026-21708",
+        "CVE-2026-21667",
+        "CVE-2026-21666",
         "CVE-2026-21669"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US disrupts SocksEscort proxy network powered by Linux malware",
-    "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/",
-    "published": "Thu, 12 Mar 2026 12:19:56 -0400",
-    "summary": "Law enforcement agencies in the U.S. and Europe along with private partners have disrupted the SocksEscort cybercrime proxy network that used only edge devices compromised via the AVRecon malware for Linux. [...]",
-    "analysis": {
-      "issue": "Law enforcement agencies in the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google paid $17.1 million for vulnerability reports in 2025",
-    "link": "https://www.bleepingcomputer.com/news/google/google-paid-171-million-for-vulnerability-reports-in-2025/",
-    "published": "Thu, 12 Mar 2026 11:22:35 -0400",
-    "summary": "Google paid over $17 million to 747 security researchers who reported security bugs through its Vulnerability Reward Program (VRP) in 2025. [...]",
-    "analysis": {
-      "issue": "Google paid over $17 million to 747 security researchers who reported security bugs through its Vulnerability Reward Program (VRP) in 2025",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Telus Digital confirms breach after hacker claims 1 petabyte data theft",
-    "link": "https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/",
-    "published": "Thu, 12 Mar 2026 10:40:14 -0400",
-    "summary": "Canadian business process outsourcing giant Telus Digital has confirmed it suffered a security incident after threat actors claimed to have stolen nearly 1 petabyte of data from the company in a multi-month breach. [...]",
-    "analysis": {
-      "issue": "Canadian business process outsourcing giant Telus Digital has confirmed it suffered a security incident after threat actors claimed to have stolen nearly 1 petabyte of data from the company in a multi-month breach",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Going the Extra Mile: Travel Rewards Turn into Underground Currency.",
-    "link": "https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/",
-    "published": "Thu, 12 Mar 2026 10:05:15 -0400",
-    "summary": "Stolen airline miles are converted into flights and hotel stays, then resold as discounted travel. Flare shows how cybercriminals and underground markets treat loyalty accounts like tradable currency. [...]",
-    "analysis": {
-      "issue": "Airline miles were designed as rewards, however, in cybercrime markets, they are inventory",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -409,14 +409,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26113",
+        "CVE-2026-24289",
         "CVE-2026-25187",
-        "CVE-2026-26127",
-        "CVE-2026-24291",
         "CVE-2026-24294",
+        "CVE-2026-26113",
         "CVE-2026-26110",
         "CVE-2026-21262",
-        "CVE-2026-24289"
+        "CVE-2026-26127",
+        "CVE-2026-24291"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -513,16 +513,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21519",
-        "CVE-2026-21513",
-        "CVE-2026-21256",
-        "CVE-2026-21533",
-        "CVE-2026-21509",
-        "CVE-2026-21510",
         "CVE-2026-21525",
         "CVE-2026-21516",
+        "CVE-2026-21513",
+        "CVE-2026-21509",
+        "CVE-2026-21514",
+        "CVE-2026-21519",
+        "CVE-2026-21256",
+        "CVE-2026-21533",
         "CVE-2026-21523",
-        "CVE-2026-21514"
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -589,6 +589,20 @@
   },
   {
     "source": "Security Week",
+    "title": "Starbucks Data Breach Impacts Employees",
+    "link": "https://www.securityweek.com/starbucks-data-breach-impacts-employees/",
+    "published": "Fri, 13 Mar 2026 15:21:13 +0000",
+    "summary": "<p>Starbucks said the incident involved phishing attacks targeting an employee portal, affecting hundreds.</p>\n<p>The post <a href=\"https://www.securityweek.com/starbucks-data-breach-impacts-employees/\">Starbucks Data Breach Impacts Employees</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown",
+    "link": "https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/",
+    "published": "Fri, 13 Mar 2026 14:27:12 +0000",
+    "summary": "<p>Other noteworthy stories that might have slipped under the radar: Telus Digital data breach, vulnerabilities in Linux AppArmor allow root privileges, US defense contractor behind Coruna exploits.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/\">In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Iran-Linked Hackers Take Aim at US and Other Targets, Raising Risk of Cyberattacks During War",
     "link": "https://www.securityweek.com/iran-linked-hackers-take-aim-at-us-and-other-targets-raising-risk-of-cyberattacks-during-war/",
     "published": "Fri, 13 Mar 2026 12:32:48 +0000",
@@ -642,20 +656,6 @@
     "link": "https://www.securityweek.com/apple-updates-older-ios-versions-to-patch-coruna-exploits/",
     "published": "Thu, 12 Mar 2026 14:40:34 +0000",
     "summary": "<p>The company has released iOS and iPadOS versions 16.7.15 and 15.8.7 to patch the vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-updates-older-ios-versions-to-patch-coruna-exploits/\">Apple Updates Legacy iOS Versions to Patch Coruna Exploits</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Meta Launches New Protection Tools as It Helps Disrupt Scam Centers",
-    "link": "https://www.securityweek.com/meta-launches-new-protection-tools-as-it-helps-disrupt-scam-centers/",
-    "published": "Thu, 12 Mar 2026 13:17:26 +0000",
-    "summary": "<p>The social media giant has disabled more than 150,000 accounts powering scam centers in Asia.</p>\n<p>The post <a href=\"https://www.securityweek.com/meta-launches-new-protection-tools-as-it-helps-disrupt-scam-centers/\">Meta Launches New Protection Tools as It Helps Disrupt Scam Centers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Ally WordPress Plugin Flaw Exposes Over 200,000 Websites to Attacks",
-    "link": "https://www.securityweek.com/ally-wordpress-plugin-flaw-exposes-over-200000-websites-to-attacks/",
-    "published": "Thu, 12 Mar 2026 12:43:10 +0000",
-    "summary": "<p>The issue allows attackers to inject SQL queries and extract sensitive information from the database.</p>\n<p>The post <a href=\"https://www.securityweek.com/ally-wordpress-plugin-flaw-exposes-over-200000-websites-to-attacks/\">Ally WordPress Plugin Flaw Exposes Over 200,000 Websites to Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -745,17 +745,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26128",
-        "CVE-2026-26113",
-        "CVE-2026-26116",
-        "CVE-2026-26114",
-        "CVE-2026-26109",
         "CVE-2026-26118",
-        "CVE-2026-26115",
-        "CVE-2026-21262",
-        "CVE-2026-26110",
+        "CVE-2026-26128",
         "CVE-2026-26106",
-        "CVE-2026-26144"
+        "CVE-2026-26115",
+        "CVE-2026-26109",
+        "CVE-2026-26113",
+        "CVE-2026-26114",
+        "CVE-2026-26110",
+        "CVE-2026-21262",
+        "CVE-2026-26144",
+        "CVE-2026-26116"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1238,6 +1238,25 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Watch out for fake Malwarebytes renewal notices in your calendar",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-malwarebytes-renewal-notices-in-your-calendar",
+    "published": "Fri, 13 Mar 2026 15:48:16 GMT",
+    "summary": "Scammers are sending fake calendar “renewal” notices impersonating Malwarebytes to trick victims into calling a fake billing number.",
+    "analysis": {
+      "issue": "We’ve become aware of a scam campaign sending fake calendar invites that impersonate Malwarebytes and attempt to trick recipients into calling a scam “billing support” number",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Google patches two Chrome zero-days under active attack. Update now",
     "link": "https://www.malwarebytes.com/blog/news/2026/03/google-patches-two-chrome-zero-days-under-active-attack-update-now",
     "published": "Fri, 13 Mar 2026 12:58:37 GMT",
@@ -1261,7 +1280,7 @@
     "published": "Fri, 13 Mar 2026 09:30:43 GMT",
     "summary": "A fake $TEMU crypto airdrop uses the ClickFix trick to make victims run malware themselves and quietly installs a remote-access backdoor.",
     "analysis": {
-      "issue": "We’ve covered ClickFix campaigns before: the fake CAPTCHAs, the fake Windows updates, the trick of getting victims to paste malicious commands into their own machines",
+      "issue": "Update Friday, March 13: A Temu spokesperson contacted us to say: “Temu has not issued any cryptocurrency, token, or digital asset—including any so-called “Temu Coin",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1286,9 +1305,9 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2023-43000",
+        "CVE-2024-23222",
         "CVE-2023-41974",
-        "CVE-2024-23222"
+        "CVE-2023-43000"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1408,31 +1427,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "March 2026 Patch Tuesday fixes two zero-day vulnerabilities",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/march-2026-patch-tuesday-fixes-two-zero-day-vulnerabilities",
-    "published": "Wed, 11 Mar 2026 10:47:32 GMT",
-    "summary": "Microsoft patched 79 security vulnerabilities this month, including bugs that could let attackers escalate privileges or crash critical services.",
-    "analysis": {
-      "issue": "Microsoft releases important security updates on the second Tuesday of every month, known as Patch Tuesday",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-26113",
-        "CVE-2026-26127",
-        "CVE-2026-26110",
-        "CVE-2026-21262",
-        "CVE-2026-26144"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "DDoS"
       ]
     }
   },
