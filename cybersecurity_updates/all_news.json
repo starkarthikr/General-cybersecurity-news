@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries",
+    "link": "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html",
+    "published": "Fri, 13 Mar 2026 10:56:00 +0530",
+    "summary": "A court-authorized international law enforcement operation has dismantled a criminal proxy service named SocksEscort that enslaved thousands of residential routers worldwide into a botnet for committing large-scale fraud.\n\"SocksEscort infected home and small business internet routers with malware,\" the U.S. Department of Justice (DoJ) said. \"The malware allowed SocksEscort to direct internet",
+    "analysis": {
+      "issue": "Operation Lightning dismantled SocksEscort proxy botnet exploiting 369,000 IPs in 163 countries, disrupting fraud networks and freezing $3",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution",
+    "link": "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html",
+    "published": "Fri, 13 Mar 2026 09:45:00 +0530",
+    "summary": "Veeam has released security updates to address multiple critical vulnerabilities in its Backup &amp; Replication software that, if successfully exploited, could result in remote code execution.\nThe vulnerabilities are as follows -\n\nCVE-2026-21666 (CVSS score: 9.9) - A vulnerability that allows an authenticated domain user to perform remote code execution on the Backup Server.\nCVE-2026-21667 (",
+    "analysis": {
+      "issue": "Veeam fixes 7 Backup & Replication flaws, including CVSS 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays",
     "link": "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html",
     "published": "Thu, 12 Mar 2026 23:01:00 +0530",
@@ -152,38 +189,41 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes",
-    "link": "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html",
-    "published": "Wed, 11 Mar 2026 22:08:00 +0530",
-    "summary": "Agentic web browsers that leverage artificial intelligence (AI) capabilities to autonomously execute actions across multiple websites on behalf of a user could be trained and tricked into falling prey to phishing and scam traps.\nThe attack, at its core, takes advantage of AI browsers' tendency to reason their actions and use it against the model itself to lower their security guardrails, Guardio",
+    "source": "Bleeping Computer",
+    "title": "Starbucks discloses data breach affecting hundreds of employees",
+    "link": "https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/",
+    "published": "Fri, 13 Mar 2026 04:16:55 -0400",
+    "summary": "Starbucks has disclosed a data breach affecting hundreds of employees after threat actors gained access to their Starbucks Partner Central accounts. [...]",
     "analysis": {
-      "issue": "Researchers show GAN-trained phishing pages can trick Perplexity’s Comet AI browser in under four minutes, exposing a new AI-targeted attack surface",
+      "issue": "Starbucks has disclosed a data breach affecting hundreds of employees after threat actors gained access to their Starbucks Partner Central accounts",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Phishing"
+        "Data Breach"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials",
-    "link": "https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html",
-    "published": "Wed, 11 Mar 2026 20:21:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of two now-patched security flaws in the n8n workflow automation platform, including two critical bugs that could result in arbitrary command execution.\nThe vulnerabilities are listed below -\n\nCVE-2026-27577 (CVSS score: 9.4) - Expression sandbox escape leading to remote code execution (RCE)\nCVE-2026-27493 (CVSS score: 9.5) - Unauthenticated",
+    "source": "Bleeping Computer",
+    "title": "Google fixes two new Chrome zero-days exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/",
+    "published": "Fri, 13 Mar 2026 02:56:58 -0400",
+    "summary": "Google has released emergency security updates to patch two high-severity Chrome vulnerabilities exploited in zero-day attacks. [...]",
     "analysis": {
-      "issue": "5) enable RCE via expression sandbox escape and public forms, risking credential exposure",
+      "issue": "Google has released emergency security updates to patch two high-severity Chrome vulnerabilities exploited in zero-day attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
+      "cves": [
+        "CVE-2026-3909",
+        "CVE-2026-3910"
+      ],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
@@ -258,10 +298,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21666",
+        "CVE-2026-21708",
         "CVE-2026-21669",
-        "CVE-2026-21667",
-        "CVE-2026-21708"
+        "CVE-2026-21666",
+        "CVE-2026-21667"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -342,42 +382,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Apple patches older iPhones and iPads against Coruna exploits",
-    "link": "https://www.bleepingcomputer.com/news/apple/apple-patches-older-iphones-and-ipads-against-coruna-exploits/",
-    "published": "Thu, 12 Mar 2026 09:43:46 -0400",
-    "summary": "​Apple has released security updates to patch older iPhones and iPads against a set of vulnerabilities targeted in cyberespionage and crypto-theft attacks using the Coruna exploit kit. [...]",
-    "analysis": {
-      "issue": "​Apple has released security updates to patch older iPhones and iPads against a set of vulnerabilities targeted in cyberespionage and crypto-theft attacks using the Coruna exploit kit",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US charges another ransomware negotiator linked to BlackCat attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/us-charges-another-ransomware-negotiator-linked-to-blackcat-attacks/",
-    "published": "Thu, 12 Mar 2026 07:31:57 -0400",
-    "summary": "The U.S. Department of Justice charged another former DigitalMint employee for his involvement in an insider scheme in which ransomware negotiators secretly partnered with the BlackCat (ALPHV) ransomware operation. [...]",
-    "analysis": {
-      "issue": "Department of Justice charged another former DigitalMint employee for his involvement in an insider scheme in which ransomware negotiators secretly partnered with the BlackCat (ALPHV) ransomware operation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
     "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
@@ -408,14 +412,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-25187",
-        "CVE-2026-26127",
-        "CVE-2026-24291",
-        "CVE-2026-21262",
         "CVE-2026-26113",
+        "CVE-2026-25187",
+        "CVE-2026-24291",
         "CVE-2026-24289",
-        "CVE-2026-24294",
-        "CVE-2026-26110"
+        "CVE-2026-21262",
+        "CVE-2026-26110",
+        "CVE-2026-26127",
+        "CVE-2026-24294"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -513,15 +517,15 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-21510",
-        "CVE-2026-21509",
-        "CVE-2026-21519",
-        "CVE-2026-21523",
-        "CVE-2026-21514",
-        "CVE-2026-21525",
-        "CVE-2026-21516",
         "CVE-2026-21533",
+        "CVE-2026-21509",
+        "CVE-2026-21516",
+        "CVE-2026-21513",
         "CVE-2026-21256",
-        "CVE-2026-21513"
+        "CVE-2026-21525",
+        "CVE-2026-21519",
+        "CVE-2026-21514",
+        "CVE-2026-21523"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -588,6 +592,20 @@
   },
   {
     "source": "Security Week",
+    "title": "Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet",
+    "link": "https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/",
+    "published": "Fri, 13 Mar 2026 08:27:34 +0000",
+    "summary": "<p>Law enforcement agencies in the US and Europe targeted the cybercrime service that has impacted 360,000 devices since 2020.</p>\n<p>The post <a href=\"https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/\">Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Chrome 146 Update Patches Two Exploited Zero-Days",
+    "link": "https://www.securityweek.com/chrome-146-update-patches-two-exploited-zero-days/",
+    "published": "Fri, 13 Mar 2026 07:47:19 +0000",
+    "summary": "<p>The flaws can be exploited to manipulate data and bypass security restrictions, potentially leading to code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-146-update-patches-two-exploited-zero-days/\">Chrome 146 Update Patches Two Exploited Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Apple Updates Legacy iOS Versions to Patch Coruna Exploits",
     "link": "https://www.securityweek.com/apple-updates-older-ios-versions-to-patch-coruna-exploits/",
     "published": "Thu, 12 Mar 2026 14:40:34 +0000",
@@ -641,20 +659,6 @@
     "link": "https://www.securityweek.com/polyfill-supply-chain-attack-impacting-100k-sites-linked-to-north-korea/",
     "published": "Thu, 12 Mar 2026 09:40:59 +0000",
     "summary": "<p>The 2024 incident was initially linked to China, but an infostealer infection has now revealed North Korean involvement.</p>\n<p>The post <a href=\"https://www.securityweek.com/polyfill-supply-chain-attack-impacting-100k-sites-linked-to-north-korea/\">Polyfill Supply Chain Attack Impacting 100k Sites Linked to North Korea</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Senate Confirms Joshua Rudd to Lead NSA and US Cyber Command",
-    "link": "https://www.securityweek.com/senate-confirms-joshua-rudd-to-lead-nsa-and-us-cyber-command/",
-    "published": "Wed, 11 Mar 2026 19:08:03 +0000",
-    "summary": "<p>The leadership structure, commonly referred to as the “dual-hat” arrangement, assigns a single individual to oversee both organizations.</p>\n<p>The post <a href=\"https://www.securityweek.com/senate-confirms-joshua-rudd-to-lead-nsa-and-us-cyber-command/\">Senate Confirms Joshua Rudd to Lead NSA and US Cyber Command</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "MedTech Giant Stryker Crippled by Iran-Linked Hacker Attack",
-    "link": "https://www.securityweek.com/medtech-giant-stryker-crippled-by-iran-linked-hacker-attack/",
-    "published": "Wed, 11 Mar 2026 16:18:39 +0000",
-    "summary": "<p>Stryker was targeted by the Handala group, which claims to have wiped more than 200,000 of the company’s devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/medtech-giant-stryker-crippled-by-iran-linked-hacker-attack/\">MedTech Giant Stryker Crippled by Iran-Linked Hacker Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -744,17 +748,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-26113",
+        "CVE-2026-26116",
+        "CVE-2026-26109",
+        "CVE-2026-26118",
+        "CVE-2026-26114",
         "CVE-2026-26106",
         "CVE-2026-26144",
-        "CVE-2026-26128",
+        "CVE-2026-26110",
         "CVE-2026-26115",
-        "CVE-2026-26118",
-        "CVE-2026-26116",
         "CVE-2026-21262",
-        "CVE-2026-26113",
-        "CVE-2026-26114",
-        "CVE-2026-26109",
-        "CVE-2026-26110"
+        "CVE-2026-26128"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1206,8 +1210,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1386,11 +1390,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26144",
-        "CVE-2026-26127",
-        "CVE-2026-21262",
         "CVE-2026-26113",
-        "CVE-2026-26110"
+        "CVE-2026-26144",
+        "CVE-2026-21262",
+        "CVE-2026-26110",
+        "CVE-2026-26127"
       ],
       "threat_categories": [
         "Vulnerability",

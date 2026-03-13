@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-13 03:14:14 UTC
+**Last Updated:** 2026-03-13 09:06:40 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays](https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html)
+### 1. [Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries](https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 13 Mar 2026 10:56:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 2. [Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution](https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 13 Mar 2026 09:45:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays](https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Mar 2026 23:01:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks](https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html)
+### 4. [Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks](https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Mar 2026 22:32:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs](https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html)
+### 5. [How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs](https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Mar 2026 19:00:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More](https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html)
+### 6. [ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More](https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Mar 2026 18:44:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload](https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html)
+### 7. [Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload](https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Mar 2026 17:00:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit](https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html)
+### 8. [Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit](https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Mar 2026 15:28:00 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets](https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html)
+### 9. [Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets](https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Mar 2026 13:26:00 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html)
+### 10. [CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Mar 2026 10:48:00 +0530  
@@ -78,25 +96,26 @@
 
 ---
 
-### 9. [Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes](https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html)
+### 11. [Starbucks discloses data breach affecting hundreds of employees](https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 11 Mar 2026 22:08:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 13 Mar 2026 04:16:55 -0400  
 **Severity:** Low  
-**Categories:** Phishing  
+**Categories:** Data Breach  
 
 ---
 
-### 10. [Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials](https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html)
+### 12. [Google fixes two new Chrome zero-days exploited in attacks](https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 11 Mar 2026 20:21:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 13 Mar 2026 02:56:58 -0400  
 **Severity:** Critical  
-**Categories:** General Security  
+**CVEs:** CVE-2026-3909, CVE-2026-3910  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [Canadian retail giant Loblaw notifies customers of data breach](https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/)
+### 13. [Canadian retail giant Loblaw notifies customers of data breach](https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Mar 2026 17:32:21 -0400  
@@ -105,7 +124,7 @@
 
 ---
 
-### 12. [England Hockey investigating ransomware data breach](https://www.bleepingcomputer.com/news/security/england-hockey-investigating-ransomware-data-breach/)
+### 14. [England Hockey investigating ransomware data breach](https://www.bleepingcomputer.com/news/security/england-hockey-investigating-ransomware-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Mar 2026 16:37:16 -0400  
@@ -114,7 +133,7 @@
 
 ---
 
-### 13. [AI-generated Slopoly malware used in Interlock ransomware attack](https://www.bleepingcomputer.com/news/security/ai-generated-slopoly-malware-used-in-interlock-ransomware-attack/)
+### 15. [AI-generated Slopoly malware used in Interlock ransomware attack](https://www.bleepingcomputer.com/news/security/ai-generated-slopoly-malware-used-in-interlock-ransomware-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Mar 2026 16:01:27 -0400  
@@ -123,17 +142,17 @@
 
 ---
 
-### 14. [Veeam warns of critical flaws exposing backup servers to RCE attacks](https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/)
+### 16. [Veeam warns of critical flaws exposing backup servers to RCE attacks](https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Mar 2026 12:59:20 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21666, CVE-2026-21669, CVE-2026-21667, CVE-2026-21708  
+**CVEs:** CVE-2026-21708, CVE-2026-21669, CVE-2026-21666, CVE-2026-21667  
 **Categories:** Vulnerability  
 
 ---
 
-### 15. [US disrupts SocksEscort proxy network powered by Linux malware](https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/)
+### 17. [US disrupts SocksEscort proxy network powered by Linux malware](https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Mar 2026 12:19:56 -0400  
@@ -142,7 +161,7 @@
 
 ---
 
-### 16. [Google paid $17.1 million for vulnerability reports in 2025](https://www.bleepingcomputer.com/news/google/google-paid-171-million-for-vulnerability-reports-in-2025/)
+### 18. [Google paid $17.1 million for vulnerability reports in 2025](https://www.bleepingcomputer.com/news/google/google-paid-171-million-for-vulnerability-reports-in-2025/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Mar 2026 11:22:35 -0400  
@@ -151,7 +170,7 @@
 
 ---
 
-### 17. [Telus Digital confirms breach after hacker claims 1 petabyte data theft](https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/)
+### 19. [Telus Digital confirms breach after hacker claims 1 petabyte data theft](https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Mar 2026 10:40:14 -0400  
@@ -160,30 +179,12 @@
 
 ---
 
-### 18. [Going the Extra Mile: Travel Rewards Turn into Underground Currency.](https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/)
+### 20. [Going the Extra Mile: Travel Rewards Turn into Underground Currency.](https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Mar 2026 10:05:15 -0400  
 **Severity:** Low  
 **Categories:** Malware, Phishing  
-
----
-
-### 19. [Apple patches older iPhones and iPads against Coruna exploits](https://www.bleepingcomputer.com/news/apple/apple-patches-older-iphones-and-ipads-against-coruna-exploits/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 12 Mar 2026 09:43:46 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 20. [US charges another ransomware negotiator linked to BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-charges-another-ransomware-negotiator-linked-to-blackcat-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 12 Mar 2026 07:31:57 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
 
 ---
 
@@ -201,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-26127, CVE-2026-24291, CVE-2026-21262, CVE-2026-26113, CVE-2026-24289, CVE-2026-24294, CVE-2026-26110  
+**CVEs:** CVE-2026-26113, CVE-2026-25187, CVE-2026-24291, CVE-2026-24289, CVE-2026-21262, CVE-2026-26110, CVE-2026-26127, CVE-2026-24294  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -247,7 +248,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21509, CVE-2026-21519, CVE-2026-21523, CVE-2026-21514, CVE-2026-21525, CVE-2026-21516, CVE-2026-21533, CVE-2026-21256, CVE-2026-21513  
+**CVEs:** CVE-2026-21510, CVE-2026-21533, CVE-2026-21509, CVE-2026-21516, CVE-2026-21513, CVE-2026-21256, CVE-2026-21525, CVE-2026-21519, CVE-2026-21514, CVE-2026-21523  
 **Categories:** Vulnerability  
 
 ---
@@ -279,73 +280,73 @@
 
 ---
 
-### 31. [Apple Updates Legacy iOS Versions to Patch Coruna Exploits](https://www.securityweek.com/apple-updates-older-ios-versions-to-patch-coruna-exploits/)
+### 31. [Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet](https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/)
+
+**Source:** Security Week  
+**Published:** Fri, 13 Mar 2026 08:27:34 +0000  
+
+---
+
+### 32. [Chrome 146 Update Patches Two Exploited Zero-Days](https://www.securityweek.com/chrome-146-update-patches-two-exploited-zero-days/)
+
+**Source:** Security Week  
+**Published:** Fri, 13 Mar 2026 07:47:19 +0000  
+
+---
+
+### 33. [Apple Updates Legacy iOS Versions to Patch Coruna Exploits](https://www.securityweek.com/apple-updates-older-ios-versions-to-patch-coruna-exploits/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Mar 2026 14:40:34 +0000  
 
 ---
 
-### 32. [Meta Launches New Protection Tools as It Helps Disrupt Scam Centers](https://www.securityweek.com/meta-launches-new-protection-tools-as-it-helps-disrupt-scam-centers/)
+### 34. [Meta Launches New Protection Tools as It Helps Disrupt Scam Centers](https://www.securityweek.com/meta-launches-new-protection-tools-as-it-helps-disrupt-scam-centers/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Mar 2026 13:17:26 +0000  
 
 ---
 
-### 33. [Ally WordPress Plugin Flaw Exposes Over 200,000 Websites to Attacks](https://www.securityweek.com/ally-wordpress-plugin-flaw-exposes-over-200000-websites-to-attacks/)
+### 35. [Ally WordPress Plugin Flaw Exposes Over 200,000 Websites to Attacks](https://www.securityweek.com/ally-wordpress-plugin-flaw-exposes-over-200000-websites-to-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Mar 2026 12:43:10 +0000  
 
 ---
 
-### 34. [The Human IOC: Why Security Professionals Struggle with Social Vetting](https://www.securityweek.com/the-human-ioc-why-security-professionals-struggle-with-social-vetting/)
+### 36. [The Human IOC: Why Security Professionals Struggle with Social Vetting](https://www.securityweek.com/the-human-ioc-why-security-professionals-struggle-with-social-vetting/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Mar 2026 12:30:00 +0000  
 
 ---
 
-### 35. [Splunk, Zoom Patch Severe Vulnerabilities](https://www.securityweek.com/splunk-zoom-patch-severe-vulnerabilities/)
+### 37. [Splunk, Zoom Patch Severe Vulnerabilities](https://www.securityweek.com/splunk-zoom-patch-severe-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Mar 2026 12:06:15 +0000  
 
 ---
 
-### 36. [Cisco Patches High-Severity IOS XR Vulnerabilities](https://www.securityweek.com/cisco-patches-high-severity-ios-xr-vulnerabilities-2/)
+### 38. [Cisco Patches High-Severity IOS XR Vulnerabilities](https://www.securityweek.com/cisco-patches-high-severity-ios-xr-vulnerabilities-2/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Mar 2026 10:25:26 +0000  
 
 ---
 
-### 37. [Critical N8n Vulnerabilities Allowed Server Takeover](https://www.securityweek.com/critical-n8n-vulnerabilities-allowed-server-takeover/)
+### 39. [Critical N8n Vulnerabilities Allowed Server Takeover](https://www.securityweek.com/critical-n8n-vulnerabilities-allowed-server-takeover/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Mar 2026 09:54:40 +0000  
 
 ---
 
-### 38. [Polyfill Supply Chain Attack Impacting 100k Sites Linked to North Korea](https://www.securityweek.com/polyfill-supply-chain-attack-impacting-100k-sites-linked-to-north-korea/)
+### 40. [Polyfill Supply Chain Attack Impacting 100k Sites Linked to North Korea](https://www.securityweek.com/polyfill-supply-chain-attack-impacting-100k-sites-linked-to-north-korea/)
 
 **Source:** Security Week  
 **Published:** Thu, 12 Mar 2026 09:40:59 +0000  
-
----
-
-### 39. [Senate Confirms Joshua Rudd to Lead NSA and US Cyber Command](https://www.securityweek.com/senate-confirms-joshua-rudd-to-lead-nsa-and-us-cyber-command/)
-
-**Source:** Security Week  
-**Published:** Wed, 11 Mar 2026 19:08:03 +0000  
-
----
-
-### 40. [MedTech Giant Stryker Crippled by Iran-Linked Hacker Attack](https://www.securityweek.com/medtech-giant-stryker-crippled-by-iran-linked-hacker-attack/)
-
-**Source:** Security Week  
-**Published:** Wed, 11 Mar 2026 16:18:39 +0000  
 
 ---
 
@@ -391,7 +392,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26106, CVE-2026-26144, CVE-2026-26128, CVE-2026-26115, CVE-2026-26118, CVE-2026-26116, CVE-2026-21262, CVE-2026-26113, CVE-2026-26114, CVE-2026-26109, CVE-2026-26110  
+**CVEs:** CVE-2026-26113, CVE-2026-26116, CVE-2026-26109, CVE-2026-26118, CVE-2026-26114, CVE-2026-26106, CVE-2026-26144, CVE-2026-26110, CVE-2026-26115, CVE-2026-21262, CVE-2026-26128  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -611,7 +612,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -697,7 +698,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Mar 2026 10:47:32 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26144, CVE-2026-26127, CVE-2026-21262, CVE-2026-26113, CVE-2026-26110  
+**CVEs:** CVE-2026-26113, CVE-2026-26144, CVE-2026-21262, CVE-2026-26110, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
