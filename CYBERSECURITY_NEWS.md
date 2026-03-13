@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-12 17:27:03 UTC
+**Last Updated:** 2026-03-13 02:36:44 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs](https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html)
+### 1. [Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays](https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 12 Mar 2026 23:01:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 2. [Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks](https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 12 Mar 2026 22:32:00 +0530  
+**Severity:** High  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 3. [How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs](https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Mar 2026 19:00:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More](https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html)
+### 4. [ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More](https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Mar 2026 18:44:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload](https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html)
+### 5. [Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload](https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Mar 2026 17:00:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit](https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html)
+### 6. [Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit](https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Mar 2026 15:28:00 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets](https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html)
+### 7. [Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets](https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Mar 2026 13:26:00 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html)
+### 8. [CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Mar 2026 10:48:00 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes](https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html)
+### 9. [Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes](https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Mar 2026 22:08:00 +0530  
@@ -69,7 +87,7 @@
 
 ---
 
-### 8. [Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials](https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html)
+### 10. [Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials](https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 11 Mar 2026 20:21:00 +0530  
@@ -78,35 +96,44 @@
 
 ---
 
-### 9. [Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown](https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html)
+### 11. [Canadian retail giant Loblaw notifies customers of data breach](https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 11 Mar 2026 18:45:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices](https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 11 Mar 2026 17:56:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 12 Mar 2026 17:32:21 -0400  
 **Severity:** Critical  
-**Categories:** General Security  
+**Categories:** Data Breach, Phishing, Supply Chain  
 
 ---
 
-### 11. [Veeam warns of critical flaws exposing backup servers to RCE attacks](https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/)
+### 12. [England Hockey investigating ransomware data breach](https://www.bleepingcomputer.com/news/security/england-hockey-investigating-ransomware-data-breach/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 12 Mar 2026 16:37:16 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 13. [AI-generated Slopoly malware used in Interlock ransomware attack](https://www.bleepingcomputer.com/news/security/ai-generated-slopoly-malware-used-in-interlock-ransomware-attack/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 12 Mar 2026 16:01:27 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 14. [Veeam warns of critical flaws exposing backup servers to RCE attacks](https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Mar 2026 12:59:20 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21667, CVE-2026-21669, CVE-2026-21708, CVE-2026-21666  
+**CVEs:** CVE-2026-21666, CVE-2026-21669, CVE-2026-21708, CVE-2026-21667  
 **Categories:** Vulnerability  
 
 ---
 
-### 12. [US disrupts SocksEscort proxy network powered by Linux malware](https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/)
+### 15. [US disrupts SocksEscort proxy network powered by Linux malware](https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Mar 2026 12:19:56 -0400  
@@ -115,7 +142,7 @@
 
 ---
 
-### 13. [Google paid $17.1 million for vulnerability reports in 2025](https://www.bleepingcomputer.com/news/google/google-paid-171-million-for-vulnerability-reports-in-2025/)
+### 16. [Google paid $17.1 million for vulnerability reports in 2025](https://www.bleepingcomputer.com/news/google/google-paid-171-million-for-vulnerability-reports-in-2025/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Mar 2026 11:22:35 -0400  
@@ -124,7 +151,7 @@
 
 ---
 
-### 14. [Telus Digital confirms breach after hacker claims 1 petabyte data theft](https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/)
+### 17. [Telus Digital confirms breach after hacker claims 1 petabyte data theft](https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Mar 2026 10:40:14 -0400  
@@ -133,7 +160,7 @@
 
 ---
 
-### 15. [Going the Extra Mile: Travel Rewards Turn into Underground Currency.](https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/)
+### 18. [Going the Extra Mile: Travel Rewards Turn into Underground Currency.](https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Mar 2026 10:05:15 -0400  
@@ -142,7 +169,7 @@
 
 ---
 
-### 16. [Apple patches older iPhones and iPads against Coruna exploits](https://www.bleepingcomputer.com/news/apple/apple-patches-older-iphones-and-ipads-against-coruna-exploits/)
+### 19. [Apple patches older iPhones and iPads against Coruna exploits](https://www.bleepingcomputer.com/news/apple/apple-patches-older-iphones-and-ipads-against-coruna-exploits/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Mar 2026 09:43:46 -0400  
@@ -151,41 +178,12 @@
 
 ---
 
-### 17. [US charges another ransomware negotiator linked to BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-charges-another-ransomware-negotiator-linked-to-blackcat-attacks/)
+### 20. [US charges another ransomware negotiator linked to BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-charges-another-ransomware-negotiator-linked-to-blackcat-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Mar 2026 07:31:57 -0400  
 **Severity:** Low  
 **Categories:** Ransomware  
-
----
-
-### 18. [WhatsApp introduces parent-managed accounts for pre-teens](https://www.bleepingcomputer.com/news/security/whatsapp-introduces-parent-managed-accounts-for-pre-teens/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 11 Mar 2026 16:06:39 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [SQLi flaw in Elementor Ally plugin impacts 250k+ WordPress sites](https://www.bleepingcomputer.com/news/security/sqli-flaw-in-elementor-ally-plugin-impacts-250k-plus-wordpress-sites/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 11 Mar 2026 15:38:14 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-2413  
-**Categories:** Vulnerability  
-
----
-
-### 20. [CISA orders feds to patch n8n RCE flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 11 Mar 2026 14:21:15 -0400  
-**Severity:** High  
-**CVEs:** CVE-2025-68613  
-**Categories:** Vulnerability  
 
 ---
 
@@ -203,7 +201,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-24291, CVE-2026-25187, CVE-2026-26110, CVE-2026-24289, CVE-2026-26113, CVE-2026-24294, CVE-2026-26127  
+**CVEs:** CVE-2026-24294, CVE-2026-26113, CVE-2026-26127, CVE-2026-26110, CVE-2026-25187, CVE-2026-21262, CVE-2026-24289, CVE-2026-24291  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -249,7 +247,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21519, CVE-2026-21525, CVE-2026-21533, CVE-2026-21510, CVE-2026-21509, CVE-2026-21256, CVE-2026-21523, CVE-2026-21514, CVE-2026-21513, CVE-2026-21516  
+**CVEs:** CVE-2026-21516, CVE-2026-21519, CVE-2026-21510, CVE-2026-21514, CVE-2026-21533, CVE-2026-21525, CVE-2026-21509, CVE-2026-21256, CVE-2026-21513, CVE-2026-21523  
 **Categories:** Vulnerability  
 
 ---
@@ -351,7 +349,16 @@
 
 ---
 
-### 41. [DirectX, OpenFOAM, Libbiosig vulnerabilities](https://blog.talosintelligence.com/directx-openfoam-libbiosig-vulnerabilities/)
+### 41. [This one’s for you, Mom](https://blog.talosintelligence.com/this-ones-for-you-mom/)
+
+**Source:** Talos Blog  
+**Published:** Thu, 12 Mar 2026 18:00:01 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 42. [DirectX, OpenFOAM, Libbiosig vulnerabilities](https://blog.talosintelligence.com/directx-openfoam-libbiosig-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 11 Mar 2026 20:26:57 GMT  
@@ -361,7 +368,7 @@
 
 ---
 
-### 42. [Agentic AI security: Why you need to know about autonomous agents now](https://blog.talosintelligence.com/agentic-ai-security-why-you-need-to-know-about-autonomous-agents-now/)
+### 43. [Agentic AI security: Why you need to know about autonomous agents now](https://blog.talosintelligence.com/agentic-ai-security-why-you-need-to-know-about-autonomous-agents-now/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 11 Mar 2026 10:00:33 GMT  
@@ -370,7 +377,7 @@
 
 ---
 
-### 43. [Spinning complex ideas into clear docs with Kri Dontje](https://blog.talosintelligence.com/spinning-complex-ideas-into-clear-docs-with-kri-dontje/)
+### 44. [Spinning complex ideas into clear docs with Kri Dontje](https://blog.talosintelligence.com/spinning-complex-ideas-into-clear-docs-with-kri-dontje/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 11 Mar 2026 10:00:29 GMT  
@@ -379,17 +386,17 @@
 
 ---
 
-### 44. [Microsoft Patch Tuesday for March 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-march-2026/)
+### 45. [Microsoft Patch Tuesday for March 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-march-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-26109, CVE-2026-26110, CVE-2026-26106, CVE-2026-26118, CVE-2026-26115, CVE-2026-26128, CVE-2026-26113, CVE-2026-26114, CVE-2026-26144, CVE-2026-26116  
+**CVEs:** CVE-2026-26109, CVE-2026-26106, CVE-2026-26128, CVE-2026-26113, CVE-2026-26114, CVE-2026-26116, CVE-2026-26110, CVE-2026-21262, CVE-2026-26144, CVE-2026-26115, CVE-2026-26118  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 45. [Patch, track, repeat: The 2025 CVE retrospective](https://blog.talosintelligence.com/patch-track-repeat-the-2025-cve-retrospective/)
+### 46. [Patch, track, repeat: The 2025 CVE retrospective](https://blog.talosintelligence.com/patch-track-repeat-the-2025-cve-retrospective/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 05 Mar 2026 19:00:44 GMT  
@@ -398,7 +405,7 @@
 
 ---
 
-### 46. [UAT-9244 targets South American telecommunication providers with three new malware implants](https://blog.talosintelligence.com/uat-9244/)
+### 47. [UAT-9244 targets South American telecommunication providers with three new malware implants](https://blog.talosintelligence.com/uat-9244/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 05 Mar 2026 11:00:12 GMT  
@@ -407,7 +414,7 @@
 
 ---
 
-### 47. [Update, March 10: Talos on the developing situation in the Middle East](https://blog.talosintelligence.com/talos-developing-situation-in-the-middle-east/)
+### 48. [Update, March 10: Talos on the developing situation in the Middle East](https://blog.talosintelligence.com/talos-developing-situation-in-the-middle-east/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 03 Mar 2026 00:55:43 GMT  
@@ -416,7 +423,7 @@
 
 ---
 
-### 48. [Henry IV, Hotspur, Hal, and hallucinations](https://blog.talosintelligence.com/henry-iv-hotspur-hal-and-hallucinations/)
+### 49. [Henry IV, Hotspur, Hal, and hallucinations](https://blog.talosintelligence.com/henry-iv-hotspur-hal-and-hallucinations/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 26 Feb 2026 19:00:39 GMT  
@@ -425,22 +432,12 @@
 
 ---
 
-### 49. [New Dohdoor malware campaign targets education and health care](https://blog.talosintelligence.com/new-dohdoor-malware-campaign/)
+### 50. [New Dohdoor malware campaign targets education and health care](https://blog.talosintelligence.com/new-dohdoor-malware-campaign/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 26 Feb 2026 11:00:25 GMT  
 **Severity:** Low  
 **Categories:** Malware, Phishing  
-
----
-
-### 50. [Active exploitation of Cisco Catalyst SD-WAN by UAT-8616](https://blog.talosintelligence.com/uat-8616-sd-wan/)
-
-**Source:** Talos Blog  
-**Published:** Wed, 25 Feb 2026 16:13:36 GMT  
-**Severity:** Critical  
-**CVEs:** CVE-2026-20127, CVE-2022-20775  
-**Categories:** Vulnerability  
 
 ---
 
@@ -629,7 +626,17 @@
 
 ---
 
-### 71. [This Android vulnerability can break your lock screen in under 60 seconds](https://www.malwarebytes.com/blog/news/2026/03/this-android-vulnerability-can-break-your-lock-screen-in-under-60-seconds)
+### 71. [Apple patches Coruna exploit kit flaws for older iOS versions](https://www.malwarebytes.com/blog/news/2026/03/apple-patches-coruna-exploit-kit-flaws-for-older-ios-versions)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 12 Mar 2026 17:49:44 GMT  
+**Severity:** High  
+**CVEs:** CVE-2023-43000, CVE-2024-23222, CVE-2023-41974  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 72. [This Android vulnerability can break your lock screen in under 60 seconds](https://www.malwarebytes.com/blog/news/2026/03/this-android-vulnerability-can-break-your-lock-screen-in-under-60-seconds)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Mar 2026 13:13:59 GMT  
@@ -639,7 +646,7 @@
 
 ---
 
-### 72. [Microsoft Authenticator could leak login codes—update your app now](https://www.malwarebytes.com/blog/news/2026/03/microsoft-authenticator-could-leak-login-codes-update-your-app-now)
+### 73. [Microsoft Authenticator could leak login codes—update your app now](https://www.malwarebytes.com/blog/news/2026/03/microsoft-authenticator-could-leak-login-codes-update-your-app-now)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Mar 2026 10:24:19 GMT  
@@ -649,7 +656,7 @@
 
 ---
 
-### 73. [Meta rolls out anti-scam tools across WhatsApp, Facebook, and Messenger](https://www.malwarebytes.com/blog/news/2026/03/meta-rolls-out-anti-scam-tools-across-whatsapp-facebook-and-messenger)
+### 74. [Meta rolls out anti-scam tools across WhatsApp, Facebook, and Messenger](https://www.malwarebytes.com/blog/news/2026/03/meta-rolls-out-anti-scam-tools-across-whatsapp-facebook-and-messenger)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Mar 2026 09:56:10 GMT  
@@ -658,7 +665,7 @@
 
 ---
 
-### 74. [Phishers hide scam links with IPv6 trick in “free toothbrush” emails](https://www.malwarebytes.com/blog/scams/2026/03/phishers-hide-scam-links-with-ipv6-trick-in-free-toothbrush-emails)
+### 75. [Phishers hide scam links with IPv6 trick in “free toothbrush” emails](https://www.malwarebytes.com/blog/scams/2026/03/phishers-hide-scam-links-with-ipv6-trick-in-free-toothbrush-emails)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Mar 2026 18:17:56 GMT  
@@ -667,7 +674,7 @@
 
 ---
 
-### 75. [Sextortion &#8220;I recorded you&#8221; emails reuse passwords found in disposable inboxes](https://www.malwarebytes.com/blog/news/2026/03/sextortion-i-recorded-you-emails-reuse-passwords-found-in-disposable-inboxes)
+### 76. [Sextortion &#8220;I recorded you&#8221; emails reuse passwords found in disposable inboxes](https://www.malwarebytes.com/blog/news/2026/03/sextortion-i-recorded-you-emails-reuse-passwords-found-in-disposable-inboxes)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Mar 2026 14:56:45 GMT  
@@ -676,7 +683,7 @@
 
 ---
 
-### 76. [Watch out for tax-season robocalls pushing fake “relief programs”](https://www.malwarebytes.com/blog/threat-intel/2026/03/watch-out-for-tax-season-robocalls-pushing-fake-relief-programs)
+### 77. [Watch out for tax-season robocalls pushing fake “relief programs”](https://www.malwarebytes.com/blog/threat-intel/2026/03/watch-out-for-tax-season-robocalls-pushing-fake-relief-programs)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Mar 2026 13:30:00 GMT  
@@ -685,17 +692,17 @@
 
 ---
 
-### 77. [March 2026 Patch Tuesday fixes two zero-day vulnerabilities](https://www.malwarebytes.com/blog/news/2026/03/march-2026-patch-tuesday-fixes-two-zero-day-vulnerabilities)
+### 78. [March 2026 Patch Tuesday fixes two zero-day vulnerabilities](https://www.malwarebytes.com/blog/news/2026/03/march-2026-patch-tuesday-fixes-two-zero-day-vulnerabilities)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Mar 2026 10:47:32 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-26110, CVE-2026-26113, CVE-2026-26144, CVE-2026-26127  
+**CVEs:** CVE-2026-26113, CVE-2026-26127, CVE-2026-26110, CVE-2026-21262, CVE-2026-26144  
 **Categories:** Vulnerability, DDoS  
 
 ---
 
-### 78. [How to see your Google Search history (and delete it)](https://www.malwarebytes.com/blog/how-to/2026/03/how-to-see-your-google-search-history-and-delete-it)
+### 79. [How to see your Google Search history (and delete it)](https://www.malwarebytes.com/blog/how-to/2026/03/how-to-see-your-google-search-history-and-delete-it)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 10 Mar 2026 17:40:35 GMT  
@@ -704,7 +711,7 @@
 
 ---
 
-### 79. [Signal and WhatsApp accounts targeted in phishing campaign](https://www.malwarebytes.com/blog/news/2026/03/signal-and-whatsapp-accounts-targeted-in-phishing-campaign)
+### 80. [Signal and WhatsApp accounts targeted in phishing campaign](https://www.malwarebytes.com/blog/news/2026/03/signal-and-whatsapp-accounts-targeted-in-phishing-campaign)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 10 Mar 2026 11:19:28 GMT  
@@ -713,16 +720,16 @@
 
 ---
 
-### 80. [Hackers may have breached FBI wiretap network via supply chain](https://www.malwarebytes.com/blog/data-breaches/2026/03/hackers-may-have-breached-fbi-wiretap-network-via-supply-chain)
+### 81. [4 Ways Businesses Use CrowdStrike Charlotte AI to Transform Security Operations](https://www.crowdstrike.com/en-us/blog/four-ways-businesses-use-charlotte-ai-to-transform-security-operations/)
 
-**Source:** Malwarebytes  
-**Published:** Tue, 10 Mar 2026 10:38:51 GMT  
-**Severity:** Critical  
-**Categories:** Ransomware, Vulnerability, APT, Supply Chain  
+**Source:** Crowdstrike Blog  
+**Published:** Mar 12, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
-### 81. [Enhanced Network Visibility: A Dive into the Falcon macOS Sensor's New Capabilities](https://www.crowdstrike.com/en-us/blog/enhanced-network-visibility-dive-into-falcon-macos-sensor-new-capabilities/)
+### 82. [Enhanced Network Visibility: A Dive into the Falcon macOS Sensor's New Capabilities](https://www.crowdstrike.com/en-us/blog/enhanced-network-visibility-dive-into-falcon-macos-sensor-new-capabilities/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 11, 2026 00:00:00-0500  
@@ -731,7 +738,7 @@
 
 ---
 
-### 82. [March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/)
+### 83. [March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 10, 2026 00:00:00-0500  
@@ -740,7 +747,7 @@
 
 ---
 
-### 83. [Falcon for XIoT Extends Asset Protection to Healthcare Environments](https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/)
+### 84. [Falcon for XIoT Extends Asset Protection to Healthcare Environments](https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 09, 2026 00:00:00-0400  
@@ -749,7 +756,7 @@
 
 ---
 
-### 84. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
+### 85. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 06, 2026 00:00:00-0600  
@@ -758,7 +765,7 @@
 
 ---
 
-### 85. [CrowdStrike Achieves NCSC CIR Assurance for Incident Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/)
+### 86. [CrowdStrike Achieves NCSC CIR Assurance for Incident Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 02, 2026 00:00:00-0600  
@@ -767,7 +774,7 @@
 
 ---
 
-### 86. [CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/)
+### 87. [CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 26, 2026 00:00:00-0600  
@@ -776,7 +783,7 @@
 
 ---
 
-### 87. [CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/)
+### 88. [CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 24, 2026 00:00:00-0600  
@@ -785,7 +792,7 @@
 
 ---
 
-### 88. [The Art of Deception: How Threat Actors Master Typosquatting Campaigns to Bypass Detection](https://www.crowdstrike.com/en-us/blog/the-art-of-deception-how-threat-actors-master-typosquatting-campaigns-to-bypass-detection/)
+### 89. [The Art of Deception: How Threat Actors Master Typosquatting Campaigns to Bypass Detection](https://www.crowdstrike.com/en-us/blog/the-art-of-deception-how-threat-actors-master-typosquatting-campaigns-to-bypass-detection/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 23, 2026 00:00:00-0600  
@@ -794,16 +801,7 @@
 
 ---
 
-### 89. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Feb 18, 2026 00:00:00-0600  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [Exposing Insider Threats through Data Protection, Identity, and HR Context](https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/)
+### 90. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Feb 18, 2026 00:00:00-0600  
