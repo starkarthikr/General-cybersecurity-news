@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
+    "link": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html",
+    "published": "Sat, 14 Mar 2026 18:25:00 +0530",
+    "summary": "Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a \"significant escalation\" in how it propagates through the Open VSX registry.\n\"Instead of requiring every malicious listing to embed the loader directly, the threat actor is now abusing extensionPack and extensionDependencies to turn initially standalone-looking extensions into transitive",
+    "analysis": {
+      "issue": "GlassWorm campaign used 72 malicious Open VSX extensions and infected 151 GitHub repositories, enabling stealth supply-chain attacks on developers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
     "link": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
     "published": "Fri, 13 Mar 2026 23:03:00 +0530",
@@ -165,21 +183,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays",
-    "link": "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html",
-    "published": "Thu, 12 Mar 2026 23:01:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new banking malware targeting Brazilian users that's written in Rust, marking a significant departure from other known Delphi-based malware families associated with the Latin American cybercrime ecosystem.\nThe malware, which is designed to infect Windows systems and was first discovered last month, has been codenamed VENON by Brazilian",
+    "source": "Bleeping Computer",
+    "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
+    "link": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/",
+    "published": "Sat, 14 Mar 2026 10:36:42 -0400",
+    "summary": "The AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack. [...]",
     "analysis": {
-      "issue": "Rust-based VENON malware targets 33 Brazilian financial platforms using advanced evasion and overlays, enabling credential theft",
+      "issue": "The AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "Phishing"
+        "General Security"
       ]
     }
   },
@@ -343,31 +360,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-3909",
-        "CVE-2026-3910"
+        "CVE-2026-3910",
+        "CVE-2026-3909"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Canadian retail giant Loblaw notifies customers of data breach",
-    "link": "https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/",
-    "published": "Thu, 12 Mar 2026 17:32:21 -0400",
-    "summary": "Still, out of an abundance of caution, Loblaw says it has automatically logged out all customers from their accounts. Account holders who need to access the company's digital services will have to log in again. [...]",
-    "analysis": {
-      "issue": "Loblaw Companies Limited (Loblaw), the largest food and pharmacy retailer in Canada, announced that hackers breached a portion of its IT network and accessed basic customer information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing",
-        "Supply Chain"
       ]
     }
   },
@@ -402,14 +399,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24294",
-        "CVE-2026-24289",
-        "CVE-2026-26127",
-        "CVE-2026-25187",
-        "CVE-2026-26113",
         "CVE-2026-21262",
-        "CVE-2026-26110",
-        "CVE-2026-24291"
+        "CVE-2026-26113",
+        "CVE-2026-26127",
+        "CVE-2026-24291",
+        "CVE-2026-25187",
+        "CVE-2026-24289",
+        "CVE-2026-24294",
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -506,16 +503,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21509",
+        "CVE-2026-21516",
+        "CVE-2026-21519",
         "CVE-2026-21525",
         "CVE-2026-21533",
-        "CVE-2026-21516",
-        "CVE-2026-21523",
         "CVE-2026-21513",
-        "CVE-2026-21256",
-        "CVE-2026-21510",
+        "CVE-2026-21523",
         "CVE-2026-21514",
-        "CVE-2026-21519"
+        "CVE-2026-21256",
+        "CVE-2026-21509",
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -738,17 +735,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26144",
-        "CVE-2026-26128",
-        "CVE-2026-26115",
-        "CVE-2026-26116",
         "CVE-2026-26113",
-        "CVE-2026-21262",
-        "CVE-2026-26110",
-        "CVE-2026-26109",
-        "CVE-2026-26118",
+        "CVE-2026-26144",
         "CVE-2026-26106",
-        "CVE-2026-26114"
+        "CVE-2026-21262",
+        "CVE-2026-26128",
+        "CVE-2026-26109",
+        "CVE-2026-26110",
+        "CVE-2026-26116",
+        "CVE-2026-26115",
+        "CVE-2026-26114",
+        "CVE-2026-26118"
       ],
       "threat_categories": [
         "Vulnerability",
