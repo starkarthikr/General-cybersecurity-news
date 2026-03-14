@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-13 17:06:32 UTC
+**Last Updated:** 2026-03-14 02:34:38 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime](https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html)
+### 1. [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 13 Mar 2026 23:03:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 2. [Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026](https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 13 Mar 2026 22:39:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime](https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 20:50:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials](https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html)
+### 4. [Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials](https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 19:08:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Investigating a New Click-Fix Variant](https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html)
+### 5. [Investigating a New Click-Fix Variant](https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 18:58:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8](https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html)
+### 6. [Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8](https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 14:47:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation](https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html)
+### 7. [Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation](https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 13:48:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries](https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html)
+### 8. [Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries](https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 10:56:00 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution](https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html)
+### 9. [Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution](https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 09:45:00 +0530  
@@ -67,7 +85,7 @@
 
 ---
 
-### 8. [Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays](https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html)
+### 10. [Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays](https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 12 Mar 2026 23:01:00 +0530  
@@ -76,25 +94,34 @@
 
 ---
 
-### 9. [Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks](https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html)
+### 11. [Microsoft: Windows 11 users can't access C: drive on some Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 12 Mar 2026 22:32:00 +0530  
-**Severity:** High  
-**Categories:** Ransomware, Malware  
-
----
-
-### 10. [How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs](https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 12 Mar 2026 19:00:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 13 Mar 2026 18:11:57 -0400  
 **Severity:** Low  
-**Categories:** Phishing  
+**Categories:** APT  
 
 ---
 
-### 11. [Microsoft investigates classic Outlook sync and connection issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/)
+### 12. [FBI seeks victims of Steam games used to spread malware](https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 13 Mar 2026 16:52:31 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [Poland's nuclear research centre targeted by cyberattack](https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 13 Mar 2026 13:11:37 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 14. [Microsoft investigates classic Outlook sync and connection issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 12:53:02 -0400  
@@ -103,7 +130,7 @@
 
 ---
 
-### 12. [From VMware to what’s next: Protecting data during hypervisor migration](https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/)
+### 15. [From VMware to what’s next: Protecting data during hypervisor migration](https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 10:15:25 -0400  
@@ -112,7 +139,7 @@
 
 ---
 
-### 13. [Police sinkholes 45,000 IP addresses in cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/)
+### 16. [Police sinkholes 45,000 IP addresses in cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 09:28:33 -0400  
@@ -121,7 +148,7 @@
 
 ---
 
-### 14. [Fake enterprise VPN downloads used to steal company credentials](https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/)
+### 17. [Fake enterprise VPN sites used to steal company credentials](https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 09:23:28 -0400  
@@ -130,7 +157,7 @@
 
 ---
 
-### 15. [Starbucks discloses data breach affecting hundreds of employees](https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/)
+### 18. [Starbucks discloses data breach affecting hundreds of employees](https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 04:16:55 -0400  
@@ -139,50 +166,22 @@
 
 ---
 
-### 16. [Google fixes two new Chrome zero-days exploited in attacks](https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/)
+### 19. [Google fixes two new Chrome zero-days exploited in attacks](https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 02:56:58 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-3909, CVE-2026-3910  
+**CVEs:** CVE-2026-3910, CVE-2026-3909  
 **Categories:** Vulnerability  
 
 ---
 
-### 17. [Canadian retail giant Loblaw notifies customers of data breach](https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/)
+### 20. [Canadian retail giant Loblaw notifies customers of data breach](https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 12 Mar 2026 17:32:21 -0400  
 **Severity:** Critical  
 **Categories:** Data Breach, Phishing, Supply Chain  
-
----
-
-### 18. [England Hockey investigating ransomware data breach](https://www.bleepingcomputer.com/news/security/england-hockey-investigating-ransomware-data-breach/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 12 Mar 2026 16:37:16 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 19. [AI-generated Slopoly malware used in Interlock ransomware attack](https://www.bleepingcomputer.com/news/security/ai-generated-slopoly-malware-used-in-interlock-ransomware-attack/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 12 Mar 2026 16:01:27 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Malware  
-
----
-
-### 20. [Veeam warns of critical flaws exposing backup servers to RCE attacks](https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 12 Mar 2026 12:59:20 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-21708, CVE-2026-21667, CVE-2026-21666, CVE-2026-21669  
-**Categories:** Vulnerability  
 
 ---
 
@@ -200,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24289, CVE-2026-25187, CVE-2026-24294, CVE-2026-26113, CVE-2026-26110, CVE-2026-21262, CVE-2026-26127, CVE-2026-24291  
+**CVEs:** CVE-2026-24289, CVE-2026-21262, CVE-2026-26127, CVE-2026-24294, CVE-2026-24291, CVE-2026-26110, CVE-2026-26113, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -246,7 +245,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21525, CVE-2026-21516, CVE-2026-21513, CVE-2026-21509, CVE-2026-21514, CVE-2026-21519, CVE-2026-21256, CVE-2026-21533, CVE-2026-21523, CVE-2026-21510  
+**CVEs:** CVE-2026-21256, CVE-2026-21514, CVE-2026-21510, CVE-2026-21509, CVE-2026-21523, CVE-2026-21533, CVE-2026-21516, CVE-2026-21513, CVE-2026-21519, CVE-2026-21525  
 **Categories:** Vulnerability  
 
 ---
@@ -390,7 +389,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26118, CVE-2026-26128, CVE-2026-26106, CVE-2026-26115, CVE-2026-26109, CVE-2026-26113, CVE-2026-26114, CVE-2026-26110, CVE-2026-21262, CVE-2026-26144, CVE-2026-26116  
+**CVEs:** CVE-2026-21262, CVE-2026-26109, CVE-2026-26116, CVE-2026-26110, CVE-2026-26113, CVE-2026-26144, CVE-2026-26115, CVE-2026-26118, CVE-2026-26106, CVE-2026-26128, CVE-2026-26114  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -413,7 +412,7 @@
 
 ---
 
-### 48. [Update, March 10: Talos on the developing situation in the Middle East](https://blog.talosintelligence.com/talos-developing-situation-in-the-middle-east/)
+### 48. [Update, March 13: Talos on the developing situation in the Middle East](https://blog.talosintelligence.com/talos-developing-situation-in-the-middle-east/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 03 Mar 2026 00:55:43 GMT  
@@ -440,20 +439,20 @@
 
 ---
 
-### 51. [February 2026 CVE Landscape: 13 Critical Vulnerabilities Mark 43% Drop from January](https://www.recordedfuture.com/blog/february-2026-cve-landscape)
+### 51. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
 
 **Source:** Recorded Future  
-**Published:** Thu, 12 Mar 2026 00:00:00 GMT  
-**Severity:** High  
+**Published:** Fri, 13 Mar 2026 00:00:00 GMT  
+**Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 52. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+### 52. [February 2026 CVE Landscape: 13 Critical Vulnerabilities Mark 43% Drop from January](https://www.recordedfuture.com/blog/february-2026-cve-landscape)
 
 **Source:** Recorded Future  
-**Published:** Mon, 09 Mar 2026 00:00:00 GMT  
-**Severity:** Low  
+**Published:** Thu, 12 Mar 2026 00:00:00 GMT  
+**Severity:** High  
 **Categories:** General Security  
 
 ---
@@ -643,7 +642,7 @@
 
 ---
 
-### 73. [Fake Temu Coin airdrop uses ClickFix trick to install stealthy malware](https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-temu-coin-airdrop-uses-clickfix-trick-to-install-stealthy-malware)
+### 73. [Attackers impersonate Temu in ClickFix $Temu airdrop scam](https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-temu-coin-airdrop-uses-clickfix-trick-to-install-stealthy-malware)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 13 Mar 2026 09:30:43 GMT  
@@ -657,7 +656,7 @@
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Mar 2026 17:49:44 GMT  
 **Severity:** High  
-**CVEs:** CVE-2024-23222, CVE-2023-41974, CVE-2023-43000  
+**CVEs:** CVE-2023-41974, CVE-2023-43000, CVE-2024-23222  
 **Categories:** Vulnerability, Malware  
 
 ---
