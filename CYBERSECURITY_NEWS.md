@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-15 13:06:30 UTC
+**Last Updated:** 2026-03-15 16:57:07 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,17 +94,26 @@
 
 ---
 
-### 11. [Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/)
+### 11. [Betterleaks, a new open-source secrets scanner to replace Gitleaks](https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 15 Mar 2026 10:17:23 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 14 Mar 2026 17:48:14 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-26111, CVE-2026-25173, CVE-2026-25172  
+**CVEs:** CVE-2026-25172, CVE-2026-26111, CVE-2026-25173  
 **Categories:** Vulnerability  
 
 ---
 
-### 12. [AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code](https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/)
+### 13. [AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code](https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 14 Mar 2026 10:36:42 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Microsoft: Windows 11 users can't access C: drive on some Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/)
+### 14. [Microsoft: Windows 11 users can't access C: drive on some Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 18:11:57 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [FBI seeks victims of Steam games used to spread malware](https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/)
+### 15. [FBI seeks victims of Steam games used to spread malware](https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 16:52:31 -0400  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [Poland's nuclear research centre targeted by cyberattack](https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/)
+### 16. [Poland's nuclear research centre targeted by cyberattack](https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 13:11:37 -0400  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [Microsoft investigates classic Outlook sync and connection issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/)
+### 17. [Microsoft investigates classic Outlook sync and connection issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 12:53:02 -0400  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [From VMware to what’s next: Protecting data during hypervisor migration](https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/)
+### 18. [From VMware to what’s next: Protecting data during hypervisor migration](https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 10:15:25 -0400  
@@ -158,7 +167,7 @@
 
 ---
 
-### 18. [Police sinkholes 45,000 IP addresses in cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/)
+### 19. [Police sinkholes 45,000 IP addresses in cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 09:28:33 -0400  
@@ -167,21 +176,12 @@
 
 ---
 
-### 19. [Fake enterprise VPN sites used to steal company credentials](https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/)
+### 20. [Fake enterprise VPN sites used to steal company credentials](https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 09:23:28 -0400  
 **Severity:** Low  
 **Categories:** Malware, APT  
-
----
-
-### 20. [Starbucks discloses data breach affecting hundreds of employees](https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 13 Mar 2026 04:16:55 -0400  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
@@ -199,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-24294, CVE-2026-26127, CVE-2026-21262, CVE-2026-24289, CVE-2026-25187, CVE-2026-26110, CVE-2026-24291  
+**CVEs:** CVE-2026-26127, CVE-2026-21262, CVE-2026-24291, CVE-2026-26110, CVE-2026-24294, CVE-2026-26113, CVE-2026-25187, CVE-2026-24289  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -245,7 +245,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21516, CVE-2026-21525, CVE-2026-21509, CVE-2026-21523, CVE-2026-21256, CVE-2026-21514, CVE-2026-21533, CVE-2026-21510, CVE-2026-21513, CVE-2026-21519  
+**CVEs:** CVE-2026-21256, CVE-2026-21514, CVE-2026-21525, CVE-2026-21523, CVE-2026-21510, CVE-2026-21519, CVE-2026-21513, CVE-2026-21516, CVE-2026-21533, CVE-2026-21509  
 **Categories:** Vulnerability  
 
 ---
@@ -389,7 +389,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-26109, CVE-2026-21262, CVE-2026-26144, CVE-2026-26118, CVE-2026-26106, CVE-2026-26114, CVE-2026-26115, CVE-2026-26110, CVE-2026-26128, CVE-2026-26116  
+**CVEs:** CVE-2026-26115, CVE-2026-21262, CVE-2026-26110, CVE-2026-26118, CVE-2026-26109, CVE-2026-26106, CVE-2026-26144, CVE-2026-26113, CVE-2026-26116, CVE-2026-26128, CVE-2026-26114  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -656,7 +656,7 @@
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Mar 2026 17:49:44 GMT  
 **Severity:** High  
-**CVEs:** CVE-2024-23222, CVE-2023-41974, CVE-2023-43000  
+**CVEs:** CVE-2023-43000, CVE-2024-23222, CVE-2023-41974  
 **Categories:** Vulnerability, Malware  
 
 ---
