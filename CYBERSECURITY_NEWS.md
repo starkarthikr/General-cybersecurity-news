@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-15 09:02:37 UTC
+**Last Updated:** 2026-03-15 13:06:30 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -199,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24289, CVE-2026-24291, CVE-2026-25187, CVE-2026-26110, CVE-2026-26127, CVE-2026-21262, CVE-2026-26113, CVE-2026-24294  
+**CVEs:** CVE-2026-26113, CVE-2026-24294, CVE-2026-26127, CVE-2026-21262, CVE-2026-24289, CVE-2026-25187, CVE-2026-26110, CVE-2026-24291  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -245,7 +245,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21514, CVE-2026-21256, CVE-2026-21519, CVE-2026-21525, CVE-2026-21509, CVE-2026-21516, CVE-2026-21533, CVE-2026-21513, CVE-2026-21510, CVE-2026-21523  
+**CVEs:** CVE-2026-21516, CVE-2026-21525, CVE-2026-21509, CVE-2026-21523, CVE-2026-21256, CVE-2026-21514, CVE-2026-21533, CVE-2026-21510, CVE-2026-21513, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -277,73 +277,73 @@
 
 ---
 
-### 31. [Critical HPE AOS-CX Vulnerability Allows Admin Password Resets](https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/)
+### 31. [Loblaw Data Breach Impacts Customer Information](https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/)
+
+**Source:** Security Week  
+**Published:** Sun, 15 Mar 2026 10:00:00 +0000  
+
+---
+
+### 32. [Critical HPE AOS-CX Vulnerability Allows Admin Password Resets](https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/)
 
 **Source:** Security Week  
 **Published:** Sat, 14 Mar 2026 10:50:00 +0000  
 
 ---
 
-### 32. [Starbucks Data Breach Impacts Employees](https://www.securityweek.com/starbucks-data-breach-impacts-employees/)
+### 33. [Starbucks Data Breach Impacts Employees](https://www.securityweek.com/starbucks-data-breach-impacts-employees/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Mar 2026 15:21:13 +0000  
 
 ---
 
-### 33. [In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown](https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/)
+### 34. [In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown](https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Mar 2026 14:27:12 +0000  
 
 ---
 
-### 34. [Iran-Linked Hackers Take Aim at US and Other Targets, Raising Risk of Cyberattacks During War](https://www.securityweek.com/iran-linked-hackers-take-aim-at-us-and-other-targets-raising-risk-of-cyberattacks-during-war/)
+### 35. [Iran-Linked Hackers Take Aim at US and Other Targets, Raising Risk of Cyberattacks During War](https://www.securityweek.com/iran-linked-hackers-take-aim-at-us-and-other-targets-raising-risk-of-cyberattacks-during-war/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Mar 2026 12:32:48 +0000  
 
 ---
 
-### 35. [Bold Security Emerges From Stealth With $40 Million in Funding](https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/)
+### 36. [Bold Security Emerges From Stealth With $40 Million in Funding](https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Mar 2026 11:36:32 +0000  
 
 ---
 
-### 36. [Google Paid Out $17 Million in Bug Bounty Rewards in 2025](https://www.securityweek.com/google-paid-out-17-million-in-bug-bounty-rewards-in-2025/)
+### 37. [Google Paid Out $17 Million in Bug Bounty Rewards in 2025](https://www.securityweek.com/google-paid-out-17-million-in-bug-bounty-rewards-in-2025/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Mar 2026 11:04:54 +0000  
 
 ---
 
-### 37. [Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping](https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/)
+### 38. [Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping](https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Mar 2026 10:38:47 +0000  
 
 ---
 
-### 38. [Onyx Security Launches With $40 Million in Funding](https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/)
+### 39. [Onyx Security Launches With $40 Million in Funding](https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Mar 2026 09:25:51 +0000  
 
 ---
 
-### 39. [Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet](https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/)
+### 40. [Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet](https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Mar 2026 08:27:34 +0000  
-
----
-
-### 40. [Chrome 146 Update Patches Two Exploited Zero-Days](https://www.securityweek.com/chrome-146-update-patches-two-exploited-zero-days/)
-
-**Source:** Security Week  
-**Published:** Fri, 13 Mar 2026 07:47:19 +0000  
 
 ---
 
@@ -389,7 +389,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26109, CVE-2026-26114, CVE-2026-26144, CVE-2026-26115, CVE-2026-26118, CVE-2026-26128, CVE-2026-26110, CVE-2026-26106, CVE-2026-21262, CVE-2026-26113, CVE-2026-26116  
+**CVEs:** CVE-2026-26113, CVE-2026-26109, CVE-2026-21262, CVE-2026-26144, CVE-2026-26118, CVE-2026-26106, CVE-2026-26114, CVE-2026-26115, CVE-2026-26110, CVE-2026-26128, CVE-2026-26116  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -656,7 +656,7 @@
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Mar 2026 17:49:44 GMT  
 **Severity:** High  
-**CVEs:** CVE-2024-23222, CVE-2023-43000, CVE-2023-41974  
+**CVEs:** CVE-2024-23222, CVE-2023-41974, CVE-2023-43000  
 **Categories:** Vulnerability, Malware  
 
 ---
