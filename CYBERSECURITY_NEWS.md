@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-14 16:56:28 UTC
+**Last Updated:** 2026-03-15 02:55:49 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
+### 1. [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 14 Mar 2026 21:47:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 14 Mar 2026 18:25:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html)
+### 3. [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 23:03:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026](https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html)
+### 4. [Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026](https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 22:39:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime](https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html)
+### 5. [INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime](https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 20:50:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials](https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html)
+### 6. [Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials](https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 19:08:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Investigating a New Click-Fix Variant](https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html)
+### 7. [Investigating a New Click-Fix Variant](https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 18:58:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8](https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html)
+### 8. [Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8](https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 14:47:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation](https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html)
+### 9. [Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation](https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 13:48:00 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries](https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html)
+### 10. [Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries](https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 10:56:00 +0530  
@@ -85,16 +94,17 @@
 
 ---
 
-### 10. [Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution](https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html)
+### 11. [Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 13 Mar 2026 09:45:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Sat, 14 Mar 2026 17:48:14 -0400  
 **Severity:** Low  
+**CVEs:** CVE-2026-25173, CVE-2026-25172, CVE-2026-26111  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code](https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/)
+### 12. [AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code](https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 14 Mar 2026 10:36:42 -0400  
@@ -103,7 +113,7 @@
 
 ---
 
-### 12. [Microsoft: Windows 11 users can't access C: drive on some Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/)
+### 13. [Microsoft: Windows 11 users can't access C: drive on some Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 18:11:57 -0400  
@@ -112,7 +122,7 @@
 
 ---
 
-### 13. [FBI seeks victims of Steam games used to spread malware](https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/)
+### 14. [FBI seeks victims of Steam games used to spread malware](https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 16:52:31 -0400  
@@ -121,7 +131,7 @@
 
 ---
 
-### 14. [Poland's nuclear research centre targeted by cyberattack](https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/)
+### 15. [Poland's nuclear research centre targeted by cyberattack](https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 13:11:37 -0400  
@@ -130,7 +140,7 @@
 
 ---
 
-### 15. [Microsoft investigates classic Outlook sync and connection issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/)
+### 16. [Microsoft investigates classic Outlook sync and connection issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 12:53:02 -0400  
@@ -139,7 +149,7 @@
 
 ---
 
-### 16. [From VMware to what’s next: Protecting data during hypervisor migration](https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/)
+### 17. [From VMware to what’s next: Protecting data during hypervisor migration](https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 10:15:25 -0400  
@@ -148,7 +158,7 @@
 
 ---
 
-### 17. [Police sinkholes 45,000 IP addresses in cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/)
+### 18. [Police sinkholes 45,000 IP addresses in cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 09:28:33 -0400  
@@ -157,7 +167,7 @@
 
 ---
 
-### 18. [Fake enterprise VPN sites used to steal company credentials](https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/)
+### 19. [Fake enterprise VPN sites used to steal company credentials](https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 09:23:28 -0400  
@@ -166,22 +176,12 @@
 
 ---
 
-### 19. [Starbucks discloses data breach affecting hundreds of employees](https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/)
+### 20. [Starbucks discloses data breach affecting hundreds of employees](https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 04:16:55 -0400  
 **Severity:** Low  
 **Categories:** Data Breach  
-
----
-
-### 20. [Google fixes two new Chrome zero-days exploited in attacks](https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 13 Mar 2026 02:56:58 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-3910, CVE-2026-3909  
-**Categories:** Vulnerability  
 
 ---
 
@@ -199,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-26113, CVE-2026-26127, CVE-2026-24291, CVE-2026-25187, CVE-2026-24289, CVE-2026-24294, CVE-2026-26110  
+**CVEs:** CVE-2026-26127, CVE-2026-24294, CVE-2026-24289, CVE-2026-24291, CVE-2026-26113, CVE-2026-21262, CVE-2026-26110, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -245,7 +245,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21516, CVE-2026-21519, CVE-2026-21525, CVE-2026-21533, CVE-2026-21513, CVE-2026-21523, CVE-2026-21514, CVE-2026-21256, CVE-2026-21509, CVE-2026-21510  
+**CVEs:** CVE-2026-21513, CVE-2026-21523, CVE-2026-21256, CVE-2026-21514, CVE-2026-21510, CVE-2026-21525, CVE-2026-21533, CVE-2026-21509, CVE-2026-21516, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -389,7 +389,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-26144, CVE-2026-26106, CVE-2026-21262, CVE-2026-26128, CVE-2026-26109, CVE-2026-26110, CVE-2026-26116, CVE-2026-26115, CVE-2026-26114, CVE-2026-26118  
+**CVEs:** CVE-2026-26116, CVE-2026-26118, CVE-2026-26109, CVE-2026-26113, CVE-2026-26144, CVE-2026-21262, CVE-2026-26110, CVE-2026-26128, CVE-2026-26114, CVE-2026-26115, CVE-2026-26106  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -609,7 +609,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -656,7 +656,7 @@
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Mar 2026 17:49:44 GMT  
 **Severity:** High  
-**CVEs:** CVE-2023-41974, CVE-2024-23222, CVE-2023-43000  
+**CVEs:** CVE-2024-23222, CVE-2023-41974, CVE-2023-43000  
 **Categories:** Vulnerability, Malware  
 
 ---
