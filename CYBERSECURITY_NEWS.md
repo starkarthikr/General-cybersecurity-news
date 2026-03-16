@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-16 09:40:43 UTC
+**Last Updated:** 2026-03-16 13:27:08 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
+### 1. [Why Security Validation Is Becoming Agentic](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 16 Mar 2026 17:28:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers](https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 16 Mar 2026 17:11:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage](https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 16 Mar 2026 14:37:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, APT  
+
+---
+
+### 4. [Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 11:13:00 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
+### 5. [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 14 Mar 2026 21:47:00 +0530  
@@ -22,7 +49,7 @@
 
 ---
 
-### 3. [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
+### 6. [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 14 Mar 2026 18:25:00 +0530  
@@ -31,7 +58,7 @@
 
 ---
 
-### 4. [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html)
+### 7. [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 23:03:00 +0530  
@@ -40,7 +67,7 @@
 
 ---
 
-### 5. [Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026](https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html)
+### 8. [Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026](https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 22:39:00 +0530  
@@ -49,7 +76,7 @@
 
 ---
 
-### 6. [INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime](https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html)
+### 9. [INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime](https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 20:50:00 +0530  
@@ -58,7 +85,7 @@
 
 ---
 
-### 7. [Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials](https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html)
+### 10. [Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials](https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 19:08:00 +0530  
@@ -67,34 +94,16 @@
 
 ---
 
-### 8. [Investigating a New Click-Fix Variant](https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html)
+### 11. [Microsoft pulls Samsung app blocking Windows C: drive from Store](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-samsung-app-blocking-windows-c-drive-from-store/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 13 Mar 2026 18:58:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 9. [Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8](https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 13 Mar 2026 14:47:00 +0530  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation](https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 13 Mar 2026 13:48:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 16 Mar 2026 09:14:32 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [OpenAI says ChatGPT ads are not rolling out globally for now](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/)
+### 12. [OpenAI says ChatGPT ads are not rolling out globally for now](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 15 Mar 2026 19:13:28 -0400  
@@ -103,7 +112,7 @@
 
 ---
 
-### 12. [Betterleaks, a new open-source secrets scanner to replace Gitleaks](https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/)
+### 13. [Betterleaks, a new open-source secrets scanner to replace Gitleaks](https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 15 Mar 2026 10:17:23 -0400  
@@ -112,7 +121,7 @@
 
 ---
 
-### 13. [Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/)
+### 14. [Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 14 Mar 2026 17:48:14 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code](https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/)
+### 15. [AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code](https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 14 Mar 2026 10:36:42 -0400  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [Microsoft: Windows 11 users can't access C: drive on some Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/)
+### 16. [Microsoft: Windows 11 users can't access C: drive on some Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 18:11:57 -0400  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [FBI seeks victims of Steam games used to spread malware](https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/)
+### 17. [FBI seeks victims of Steam games used to spread malware](https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 16:52:31 -0400  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [Poland's nuclear research centre targeted by cyberattack](https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/)
+### 18. [Poland's nuclear research centre targeted by cyberattack](https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 13:11:37 -0400  
@@ -158,7 +167,7 @@
 
 ---
 
-### 18. [Microsoft investigates classic Outlook sync and connection issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/)
+### 19. [Microsoft investigates classic Outlook sync and connection issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 12:53:02 -0400  
@@ -167,21 +176,12 @@
 
 ---
 
-### 19. [From VMware to what’s next: Protecting data during hypervisor migration](https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/)
+### 20. [From VMware to what’s next: Protecting data during hypervisor migration](https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 13 Mar 2026 10:15:25 -0400  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 20. [Police sinkholes 45,000 IP addresses in cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 13 Mar 2026 09:28:33 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Malware, Phishing  
 
 ---
 
@@ -199,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24291, CVE-2026-21262, CVE-2026-25187, CVE-2026-26127, CVE-2026-26110, CVE-2026-24289, CVE-2026-26113, CVE-2026-24294  
+**CVEs:** CVE-2026-25187, CVE-2026-26113, CVE-2026-24294, CVE-2026-21262, CVE-2026-24291, CVE-2026-26110, CVE-2026-24289, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -245,7 +245,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21525, CVE-2026-21513, CVE-2026-21510, CVE-2026-21523, CVE-2026-21509, CVE-2026-21256, CVE-2026-21533, CVE-2026-21516, CVE-2026-21519, CVE-2026-21514  
+**CVEs:** CVE-2026-21523, CVE-2026-21514, CVE-2026-21533, CVE-2026-21516, CVE-2026-21525, CVE-2026-21519, CVE-2026-21256, CVE-2026-21513, CVE-2026-21509, CVE-2026-21510  
 **Categories:** Vulnerability  
 
 ---
@@ -277,14 +277,35 @@
 
 ---
 
-### 31. [Hacking Attempt Reported at Poland’s Nuclear Research Center](https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/)
+### 31. [China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation](https://www.securityweek.com/china-linked-hackers-hit-asian-militaries-in-patient-espionage-operation/)
+
+**Source:** Security Week  
+**Published:** Mon, 16 Mar 2026 12:52:12 +0000  
+
+---
+
+### 32. [Threat Actor Targeting VPN Users in New Credential Theft Campaign](https://www.securityweek.com/threat-actor-targeting-vpn-users-in-new-credential-theft-campaign/)
+
+**Source:** Security Week  
+**Published:** Mon, 16 Mar 2026 12:28:58 +0000  
+
+---
+
+### 33. [ForceMemo: Python Repositories Compromised in GlassWorm Aftermath](https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/)
+
+**Source:** Security Week  
+**Published:** Mon, 16 Mar 2026 11:51:36 +0000  
+
+---
+
+### 34. [Hacking Attempt Reported at Poland’s Nuclear Research Center](https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/)
 
 **Source:** Security Week  
 **Published:** Mon, 16 Mar 2026 08:56:04 +0000  
 
 ---
 
-### 32. [Loblaw Data Breach Impacts Customer Information](https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/)
+### 35. [Loblaw Data Breach Impacts Customer Information](https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/)
 
 **Source:** Security Week  
 **Published:** Sun, 15 Mar 2026 10:00:00 +0000  
@@ -293,59 +314,38 @@
 
 ---
 
-### 33. [Critical HPE AOS-CX Vulnerability Allows Admin Password Resets](https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/)
+### 36. [Critical HPE AOS-CX Vulnerability Allows Admin Password Resets](https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/)
 
 **Source:** Security Week  
 **Published:** Sat, 14 Mar 2026 10:50:00 +0000  
 
 ---
 
-### 34. [Starbucks Data Breach Impacts Employees](https://www.securityweek.com/starbucks-data-breach-impacts-employees/)
+### 37. [Starbucks Data Breach Impacts Employees](https://www.securityweek.com/starbucks-data-breach-impacts-employees/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Mar 2026 15:21:13 +0000  
 
 ---
 
-### 35. [In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown](https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/)
+### 38. [In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown](https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Mar 2026 14:27:12 +0000  
 
 ---
 
-### 36. [Iran-Linked Hackers Take Aim at US and Other Targets, Raising Risk of Cyberattacks During War](https://www.securityweek.com/iran-linked-hackers-take-aim-at-us-and-other-targets-raising-risk-of-cyberattacks-during-war/)
+### 39. [Iran-Linked Hackers Take Aim at US and Other Targets, Raising Risk of Cyberattacks During War](https://www.securityweek.com/iran-linked-hackers-take-aim-at-us-and-other-targets-raising-risk-of-cyberattacks-during-war/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Mar 2026 12:32:48 +0000  
 
 ---
 
-### 37. [Bold Security Emerges From Stealth With $40 Million in Funding](https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/)
+### 40. [Bold Security Emerges From Stealth With $40 Million in Funding](https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Mar 2026 11:36:32 +0000  
-
----
-
-### 38. [Google Paid Out $17 Million in Bug Bounty Rewards in 2025](https://www.securityweek.com/google-paid-out-17-million-in-bug-bounty-rewards-in-2025/)
-
-**Source:** Security Week  
-**Published:** Fri, 13 Mar 2026 11:04:54 +0000  
-
----
-
-### 39. [Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping](https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/)
-
-**Source:** Security Week  
-**Published:** Fri, 13 Mar 2026 10:38:47 +0000  
-
----
-
-### 40. [Onyx Security Launches With $40 Million in Funding](https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/)
-
-**Source:** Security Week  
-**Published:** Fri, 13 Mar 2026 09:25:51 +0000  
 
 ---
 
@@ -391,7 +391,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26109, CVE-2026-26106, CVE-2026-21262, CVE-2026-26144, CVE-2026-26114, CVE-2026-26118, CVE-2026-26128, CVE-2026-26110, CVE-2026-26115, CVE-2026-26113, CVE-2026-26116  
+**CVEs:** CVE-2026-26109, CVE-2026-26144, CVE-2026-26116, CVE-2026-26114, CVE-2026-26128, CVE-2026-21262, CVE-2026-26106, CVE-2026-26113, CVE-2026-26110, CVE-2026-26115, CVE-2026-26118  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -611,7 +611,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -644,11 +644,12 @@
 
 ---
 
-### 73. [Google patches two Chrome zero-days under active attack. Update now](https://www.malwarebytes.com/blog/news/2026/03/google-patches-two-chrome-zero-days-under-active-attack-update-now)
+### 73. [[updated] Google patches two Chrome zero-days under active attack](https://www.malwarebytes.com/blog/news/2026/03/google-patches-two-chrome-zero-days-under-active-attack-update-now)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 13 Mar 2026 12:58:37 GMT  
 **Severity:** High  
+**CVEs:** CVE-2026-3909  
 **Categories:** Vulnerability  
 
 ---
@@ -667,7 +668,7 @@
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Mar 2026 17:49:44 GMT  
 **Severity:** High  
-**CVEs:** CVE-2023-43000, CVE-2023-41974, CVE-2024-23222  
+**CVEs:** CVE-2024-23222, CVE-2023-43000, CVE-2023-41974  
 **Categories:** Vulnerability, Malware  
 
 ---
