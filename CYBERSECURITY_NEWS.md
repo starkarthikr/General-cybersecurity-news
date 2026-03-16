@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-16 03:43:13 UTC
+**Last Updated:** 2026-03-16 09:40:43 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
+### 1. [Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 16 Mar 2026 11:13:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 14 Mar 2026 21:47:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
+### 3. [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 14 Mar 2026 18:25:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html)
+### 4. [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 23:03:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026](https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html)
+### 5. [Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026](https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 22:39:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime](https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html)
+### 6. [INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime](https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 20:50:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials](https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html)
+### 7. [Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials](https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 19:08:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Investigating a New Click-Fix Variant](https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html)
+### 8. [Investigating a New Click-Fix Variant](https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 18:58:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8](https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html)
+### 9. [Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8](https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 14:47:00 +0530  
@@ -76,21 +85,12 @@
 
 ---
 
-### 9. [Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation](https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html)
+### 10. [Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation](https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 13:48:00 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 10. [Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries](https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 13 Mar 2026 10:56:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -117,7 +117,7 @@
 **Source:** Bleeping Computer  
 **Published:** Sat, 14 Mar 2026 17:48:14 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-25172, CVE-2026-25173, CVE-2026-26111  
+**CVEs:** CVE-2026-25173, CVE-2026-25172, CVE-2026-26111  
 **Categories:** Vulnerability  
 
 ---
@@ -199,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26127, CVE-2026-21262, CVE-2026-26113, CVE-2026-24294, CVE-2026-24291, CVE-2026-26110, CVE-2026-25187, CVE-2026-24289  
+**CVEs:** CVE-2026-24291, CVE-2026-21262, CVE-2026-25187, CVE-2026-26127, CVE-2026-26110, CVE-2026-24289, CVE-2026-26113, CVE-2026-24294  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -245,7 +245,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21519, CVE-2026-21533, CVE-2026-21510, CVE-2026-21523, CVE-2026-21525, CVE-2026-21513, CVE-2026-21516, CVE-2026-21509, CVE-2026-21514, CVE-2026-21256  
+**CVEs:** CVE-2026-21525, CVE-2026-21513, CVE-2026-21510, CVE-2026-21523, CVE-2026-21509, CVE-2026-21256, CVE-2026-21533, CVE-2026-21516, CVE-2026-21519, CVE-2026-21514  
 **Categories:** Vulnerability  
 
 ---
@@ -277,73 +277,75 @@
 
 ---
 
-### 31. [Loblaw Data Breach Impacts Customer Information](https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/)
+### 31. [Hacking Attempt Reported at Poland’s Nuclear Research Center](https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/)
 
 **Source:** Security Week  
-**Published:** Sun, 15 Mar 2026 10:00:00 +0000  
+**Published:** Mon, 16 Mar 2026 08:56:04 +0000  
 
 ---
 
-### 32. [Critical HPE AOS-CX Vulnerability Allows Admin Password Resets](https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/)
+### 32. [Loblaw Data Breach Impacts Customer Information](https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/)
+
+**Source:** Security Week  
+**Published:** Sun, 15 Mar 2026 10:00:00 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach, Supply Chain  
+
+---
+
+### 33. [Critical HPE AOS-CX Vulnerability Allows Admin Password Resets](https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/)
 
 **Source:** Security Week  
 **Published:** Sat, 14 Mar 2026 10:50:00 +0000  
 
 ---
 
-### 33. [Starbucks Data Breach Impacts Employees](https://www.securityweek.com/starbucks-data-breach-impacts-employees/)
+### 34. [Starbucks Data Breach Impacts Employees](https://www.securityweek.com/starbucks-data-breach-impacts-employees/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Mar 2026 15:21:13 +0000  
 
 ---
 
-### 34. [In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown](https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/)
+### 35. [In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown](https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Mar 2026 14:27:12 +0000  
 
 ---
 
-### 35. [Iran-Linked Hackers Take Aim at US and Other Targets, Raising Risk of Cyberattacks During War](https://www.securityweek.com/iran-linked-hackers-take-aim-at-us-and-other-targets-raising-risk-of-cyberattacks-during-war/)
+### 36. [Iran-Linked Hackers Take Aim at US and Other Targets, Raising Risk of Cyberattacks During War](https://www.securityweek.com/iran-linked-hackers-take-aim-at-us-and-other-targets-raising-risk-of-cyberattacks-during-war/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Mar 2026 12:32:48 +0000  
 
 ---
 
-### 36. [Bold Security Emerges From Stealth With $40 Million in Funding](https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/)
+### 37. [Bold Security Emerges From Stealth With $40 Million in Funding](https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Mar 2026 11:36:32 +0000  
 
 ---
 
-### 37. [Google Paid Out $17 Million in Bug Bounty Rewards in 2025](https://www.securityweek.com/google-paid-out-17-million-in-bug-bounty-rewards-in-2025/)
+### 38. [Google Paid Out $17 Million in Bug Bounty Rewards in 2025](https://www.securityweek.com/google-paid-out-17-million-in-bug-bounty-rewards-in-2025/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Mar 2026 11:04:54 +0000  
 
 ---
 
-### 38. [Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping](https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/)
+### 39. [Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping](https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Mar 2026 10:38:47 +0000  
 
 ---
 
-### 39. [Onyx Security Launches With $40 Million in Funding](https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/)
+### 40. [Onyx Security Launches With $40 Million in Funding](https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/)
 
 **Source:** Security Week  
 **Published:** Fri, 13 Mar 2026 09:25:51 +0000  
-
----
-
-### 40. [Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet](https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/)
-
-**Source:** Security Week  
-**Published:** Fri, 13 Mar 2026 08:27:34 +0000  
 
 ---
 
@@ -389,7 +391,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-26144, CVE-2026-26113, CVE-2026-26109, CVE-2026-26106, CVE-2026-26115, CVE-2026-26118, CVE-2026-26110, CVE-2026-26128, CVE-2026-26114, CVE-2026-26116  
+**CVEs:** CVE-2026-26109, CVE-2026-26106, CVE-2026-21262, CVE-2026-26144, CVE-2026-26114, CVE-2026-26118, CVE-2026-26128, CVE-2026-26110, CVE-2026-26115, CVE-2026-26113, CVE-2026-26116  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -624,7 +626,16 @@
 
 ---
 
-### 71. [Watch out for fake Malwarebytes renewal notices in your calendar](https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-malwarebytes-renewal-notices-in-your-calendar)
+### 71. [A week in security (March 9 &#8211; March 15)](https://www.malwarebytes.com/blog/bugs/2026/03/a-week-in-security-march-9-march-15)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 16 Mar 2026 07:16:13 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 72. [Watch out for fake Malwarebytes renewal notices in your calendar](https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-malwarebytes-renewal-notices-in-your-calendar)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 13 Mar 2026 15:48:16 GMT  
@@ -633,7 +644,7 @@
 
 ---
 
-### 72. [Google patches two Chrome zero-days under active attack. Update now](https://www.malwarebytes.com/blog/news/2026/03/google-patches-two-chrome-zero-days-under-active-attack-update-now)
+### 73. [Google patches two Chrome zero-days under active attack. Update now](https://www.malwarebytes.com/blog/news/2026/03/google-patches-two-chrome-zero-days-under-active-attack-update-now)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 13 Mar 2026 12:58:37 GMT  
@@ -642,7 +653,7 @@
 
 ---
 
-### 73. [Attackers impersonate Temu in ClickFix $Temu airdrop scam](https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-temu-coin-airdrop-uses-clickfix-trick-to-install-stealthy-malware)
+### 74. [Attackers impersonate Temu in ClickFix $Temu airdrop scam](https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-temu-coin-airdrop-uses-clickfix-trick-to-install-stealthy-malware)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 13 Mar 2026 09:30:43 GMT  
@@ -651,17 +662,17 @@
 
 ---
 
-### 74. [Apple patches Coruna exploit kit flaws for older iOS versions](https://www.malwarebytes.com/blog/news/2026/03/apple-patches-coruna-exploit-kit-flaws-for-older-ios-versions)
+### 75. [Apple patches Coruna exploit kit flaws for older iOS versions](https://www.malwarebytes.com/blog/news/2026/03/apple-patches-coruna-exploit-kit-flaws-for-older-ios-versions)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Mar 2026 17:49:44 GMT  
 **Severity:** High  
-**CVEs:** CVE-2024-23222, CVE-2023-41974, CVE-2023-43000  
+**CVEs:** CVE-2023-43000, CVE-2023-41974, CVE-2024-23222  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 75. [This Android vulnerability can break your lock screen in under 60 seconds](https://www.malwarebytes.com/blog/news/2026/03/this-android-vulnerability-can-break-your-lock-screen-in-under-60-seconds)
+### 76. [This Android vulnerability can break your lock screen in under 60 seconds](https://www.malwarebytes.com/blog/news/2026/03/this-android-vulnerability-can-break-your-lock-screen-in-under-60-seconds)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Mar 2026 13:13:59 GMT  
@@ -671,7 +682,7 @@
 
 ---
 
-### 76. [Microsoft Authenticator could leak login codes—update your app now](https://www.malwarebytes.com/blog/news/2026/03/microsoft-authenticator-could-leak-login-codes-update-your-app-now)
+### 77. [Microsoft Authenticator could leak login codes—update your app now](https://www.malwarebytes.com/blog/news/2026/03/microsoft-authenticator-could-leak-login-codes-update-your-app-now)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Mar 2026 10:24:19 GMT  
@@ -681,7 +692,7 @@
 
 ---
 
-### 77. [Meta rolls out anti-scam tools across WhatsApp, Facebook, and Messenger](https://www.malwarebytes.com/blog/news/2026/03/meta-rolls-out-anti-scam-tools-across-whatsapp-facebook-and-messenger)
+### 78. [Meta rolls out anti-scam tools across WhatsApp, Facebook, and Messenger](https://www.malwarebytes.com/blog/news/2026/03/meta-rolls-out-anti-scam-tools-across-whatsapp-facebook-and-messenger)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 12 Mar 2026 09:56:10 GMT  
@@ -690,7 +701,7 @@
 
 ---
 
-### 78. [Phishers hide scam links with IPv6 trick in “free toothbrush” emails](https://www.malwarebytes.com/blog/scams/2026/03/phishers-hide-scam-links-with-ipv6-trick-in-free-toothbrush-emails)
+### 79. [Phishers hide scam links with IPv6 trick in “free toothbrush” emails](https://www.malwarebytes.com/blog/scams/2026/03/phishers-hide-scam-links-with-ipv6-trick-in-free-toothbrush-emails)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Mar 2026 18:17:56 GMT  
@@ -699,21 +710,12 @@
 
 ---
 
-### 79. [Sextortion &#8220;I recorded you&#8221; emails reuse passwords found in disposable inboxes](https://www.malwarebytes.com/blog/news/2026/03/sextortion-i-recorded-you-emails-reuse-passwords-found-in-disposable-inboxes)
+### 80. [Sextortion &#8220;I recorded you&#8221; emails reuse passwords found in disposable inboxes](https://www.malwarebytes.com/blog/news/2026/03/sextortion-i-recorded-you-emails-reuse-passwords-found-in-disposable-inboxes)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 11 Mar 2026 14:56:45 GMT  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 80. [Watch out for tax-season robocalls pushing fake “relief programs”](https://www.malwarebytes.com/blog/threat-intel/2026/03/watch-out-for-tax-season-robocalls-pushing-fake-relief-programs)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 11 Mar 2026 13:30:00 GMT  
-**Severity:** Critical  
-**Categories:** General Security  
 
 ---
 

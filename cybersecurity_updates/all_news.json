@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
+    "link": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
+    "published": "Mon, 16 Mar 2026 11:13:00 +0530",
+    "summary": "Google is testing a new security feature as part of Android Advanced Protection Mode (AAPM) that prevents certain kinds of apps from using the accessibility services API.\nThe change, incorporated in Android 17 Beta 2, was first reported by Android Authority last week.\nAAPM was introduced by Google in Android 16, released last year. When enabled, it causes the device to enter a heightened",
+    "analysis": {
+      "issue": "Android 17 blocks non-accessibility apps from the Accessibility API in Advanced Protection Mode, reducing malware abuse and the attack surface",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
     "link": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
     "published": "Sat, 14 Mar 2026 21:47:00 +0530",
@@ -164,25 +182,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries",
-    "link": "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html",
-    "published": "Fri, 13 Mar 2026 10:56:00 +0530",
-    "summary": "A court-authorized international law enforcement operation has dismantled a criminal proxy service named SocksEscort that enslaved thousands of residential routers worldwide into a botnet for committing large-scale fraud.\n\"SocksEscort infected home and small business internet routers with malware,\" the U.S. Department of Justice (DoJ) said. \"The malware allowed SocksEscort to direct internet",
-    "analysis": {
-      "issue": "Operation Lightning dismantled SocksEscort proxy botnet exploiting 369,000 IPs in 163 countries, disrupting fraud networks and freezing $3",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "OpenAI says ChatGPT ads are not rolling out globally for now",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/",
@@ -231,8 +230,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25172",
         "CVE-2026-25173",
+        "CVE-2026-25172",
         "CVE-2026-26111"
       ],
       "threat_categories": [
@@ -399,14 +398,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26127",
-        "CVE-2026-21262",
-        "CVE-2026-26113",
-        "CVE-2026-24294",
         "CVE-2026-24291",
-        "CVE-2026-26110",
+        "CVE-2026-21262",
         "CVE-2026-25187",
-        "CVE-2026-24289"
+        "CVE-2026-26127",
+        "CVE-2026-26110",
+        "CVE-2026-24289",
+        "CVE-2026-26113",
+        "CVE-2026-24294"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -503,16 +502,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21519",
-        "CVE-2026-21533",
-        "CVE-2026-21510",
-        "CVE-2026-21523",
         "CVE-2026-21525",
         "CVE-2026-21513",
-        "CVE-2026-21516",
+        "CVE-2026-21510",
+        "CVE-2026-21523",
         "CVE-2026-21509",
-        "CVE-2026-21514",
-        "CVE-2026-21256"
+        "CVE-2026-21256",
+        "CVE-2026-21533",
+        "CVE-2026-21516",
+        "CVE-2026-21519",
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -579,10 +578,30 @@
   },
   {
     "source": "Security Week",
+    "title": "Hacking Attempt Reported at Poland’s Nuclear Research Center",
+    "link": "https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/",
+    "published": "Mon, 16 Mar 2026 08:56:04 +0000",
+    "summary": "<p>Initial evidence indicates Iran may be behind the attack, but officials admitted it could be a false flag. </p>\n<p>The post <a href=\"https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/\">Hacking Attempt Reported at Poland&#8217;s Nuclear Research Center</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Loblaw Data Breach Impacts Customer Information",
     "link": "https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/",
     "published": "Sun, 15 Mar 2026 10:00:00 +0000",
-    "summary": "<p>Personal information such as names, email addresses, and phone numbers was accessed by hackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/\">Loblaw Data Breach Impacts Customer Information</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "summary": "<p>Personal information such as names, email addresses, and phone numbers was accessed by hackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/\">Loblaw Data Breach Impacts Customer Information</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Personal information such as names, email addresses, and phone numbers was accessed by hackers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
   },
   {
     "source": "Security Week",
@@ -639,13 +658,6 @@
     "link": "https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/",
     "published": "Fri, 13 Mar 2026 09:25:51 +0000",
     "summary": "<p>The startup is building a control pane to help organizations oversee autonomous AI agents and rapidly adopt them.</p>\n<p>The post <a href=\"https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/\">Onyx Security Launches With $40 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet",
-    "link": "https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/",
-    "published": "Fri, 13 Mar 2026 08:27:34 +0000",
-    "summary": "<p>Law enforcement agencies in the US and Europe targeted the cybercrime service that has impacted 360,000 devices since 2020.</p>\n<p>The post <a href=\"https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/\">Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -735,16 +747,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21262",
-        "CVE-2026-26144",
-        "CVE-2026-26113",
         "CVE-2026-26109",
         "CVE-2026-26106",
-        "CVE-2026-26115",
-        "CVE-2026-26118",
-        "CVE-2026-26110",
-        "CVE-2026-26128",
+        "CVE-2026-21262",
+        "CVE-2026-26144",
         "CVE-2026-26114",
+        "CVE-2026-26118",
+        "CVE-2026-26128",
+        "CVE-2026-26110",
+        "CVE-2026-26115",
+        "CVE-2026-26113",
         "CVE-2026-26116"
       ],
       "threat_categories": [
@@ -1228,6 +1240,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "A week in security (March 9 &#8211; March 15)",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/03/a-week-in-security-march-9-march-15",
+    "published": "Mon, 16 Mar 2026 07:16:13 GMT",
+    "summary": "A list of topics we covered in the week of March 9 to March 15 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Watch out for fake Malwarebytes renewal notices in your calendar",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-malwarebytes-renewal-notices-in-your-calendar",
     "published": "Fri, 13 Mar 2026 15:48:16 GMT",
@@ -1295,9 +1325,9 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2024-23222",
+        "CVE-2023-43000",
         "CVE-2023-41974",
-        "CVE-2023-43000"
+        "CVE-2024-23222"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1399,24 +1429,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Watch out for tax-season robocalls pushing fake “relief programs”",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/watch-out-for-tax-season-robocalls-pushing-fake-relief-programs",
-    "published": "Wed, 11 Mar 2026 13:30:00 GMT",
-    "summary": "Scammers are targeting Americans with robocalls during tax season. Here’s how to spot the scam.",
-    "analysis": {
-      "issue": "While Americans are sorting through paperwork to get their taxes filed in time, scammers are working overtime to grab a piece of the action",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
