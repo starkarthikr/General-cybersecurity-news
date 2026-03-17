@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-16 17:35:21 UTC
+**Last Updated:** 2026-03-17 02:39:13 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
+### 1. [GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos](https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 17 Mar 2026 01:07:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 19:47:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Why Security Validation Is Becoming Agentic](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
+### 3. [Why Security Validation Is Becoming Agentic](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 17:28:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers](https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html)
+### 4. [ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers](https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 17:11:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage](https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html)
+### 5. [DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage](https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 14:37:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
+### 6. [Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 11:13:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
+### 7. [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 14 Mar 2026 21:47:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
+### 8. [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 14 Mar 2026 18:25:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html)
+### 9. [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 23:03:00 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026](https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html)
+### 10. [Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026](https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 22:39:00 +0530  
@@ -85,16 +94,26 @@
 
 ---
 
-### 10. [INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime](https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html)
+### 11. [Stryker attack wiped tens of thousands of devices, no malware needed](https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 13 Mar 2026 20:50:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 16 Mar 2026 15:17:20 -0400  
 **Severity:** Low  
-**Categories:** Ransomware, Phishing  
+**Categories:** Ransomware, Malware  
 
 ---
 
-### 11. [UK’s Companies House confirms security flaw exposed business data](https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/)
+### 12. [CISA flags Wing FTP Server flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 16 Mar 2026 14:00:22 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2025-47813, CVE-2025-27889, CVE-2025-47812  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [UK’s Companies House confirms security flaw exposed business data](https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Mar 2026 13:07:25 -0400  
@@ -103,7 +122,7 @@
 
 ---
 
-### 12. [Microsoft Exchange Online outage blocks access to mailboxes](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/)
+### 14. [Microsoft Exchange Online outage blocks access to mailboxes](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Mar 2026 12:05:02 -0400  
@@ -112,7 +131,7 @@
 
 ---
 
-### 13. [Shadow AI is everywhere. Here’s how to find and secure it.](https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/)
+### 15. [Shadow AI is everywhere. Here’s how to find and secure it.](https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Mar 2026 10:01:11 -0400  
@@ -121,7 +140,7 @@
 
 ---
 
-### 14. [Microsoft pulls Samsung app blocking Windows C: drive from Store](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-samsung-app-blocking-windows-c-drive-from-store/)
+### 16. [Microsoft pulls Samsung app blocking Windows C: drive from Store](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-samsung-app-blocking-windows-c-drive-from-store/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Mar 2026 09:14:32 -0400  
@@ -130,7 +149,7 @@
 
 ---
 
-### 15. [OpenAI says ChatGPT ads are not rolling out globally for now](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/)
+### 17. [OpenAI says ChatGPT ads are not rolling out globally for now](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 15 Mar 2026 19:13:28 -0400  
@@ -139,7 +158,7 @@
 
 ---
 
-### 16. [Betterleaks, a new open-source secrets scanner to replace Gitleaks](https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/)
+### 18. [Betterleaks, a new open-source secrets scanner to replace Gitleaks](https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 15 Mar 2026 10:17:23 -0400  
@@ -148,40 +167,22 @@
 
 ---
 
-### 17. [Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/)
+### 19. [Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 14 Mar 2026 17:48:14 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-25172, CVE-2026-26111, CVE-2026-25173  
+**CVEs:** CVE-2026-25172, CVE-2026-25173, CVE-2026-26111  
 **Categories:** Vulnerability  
 
 ---
 
-### 18. [AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code](https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/)
+### 20. [AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code](https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 14 Mar 2026 10:36:42 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 19. [Microsoft: Windows 11 users can't access C: drive on some Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 13 Mar 2026 18:11:57 -0400  
-**Severity:** Low  
-**Categories:** APT  
-
----
-
-### 20. [FBI seeks victims of Steam games used to spread malware](https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 13 Mar 2026 16:52:31 -0400  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -199,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24294, CVE-2026-26110, CVE-2026-21262, CVE-2026-24289, CVE-2026-26127, CVE-2026-26113, CVE-2026-25187, CVE-2026-24291  
+**CVEs:** CVE-2026-24291, CVE-2026-24289, CVE-2026-26113, CVE-2026-24294, CVE-2026-26127, CVE-2026-21262, CVE-2026-26110, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -245,7 +246,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21519, CVE-2026-21523, CVE-2026-21533, CVE-2026-21514, CVE-2026-21516, CVE-2026-21256, CVE-2026-21513, CVE-2026-21509, CVE-2026-21525  
+**CVEs:** CVE-2026-21525, CVE-2026-21509, CVE-2026-21523, CVE-2026-21514, CVE-2026-21519, CVE-2026-21510, CVE-2026-21513, CVE-2026-21533, CVE-2026-21516, CVE-2026-21256  
 **Categories:** Vulnerability  
 
 ---
@@ -391,7 +392,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26106, CVE-2026-26118, CVE-2026-26144, CVE-2026-26109, CVE-2026-26110, CVE-2026-26116, CVE-2026-26128, CVE-2026-26114, CVE-2026-21262, CVE-2026-26115, CVE-2026-26113  
+**CVEs:** CVE-2026-26144, CVE-2026-26114, CVE-2026-26118, CVE-2026-26106, CVE-2026-26116, CVE-2026-21262, CVE-2026-26115, CVE-2026-26128, CVE-2026-26109, CVE-2026-26113, CVE-2026-26110  
 **Categories:** Vulnerability, APT  
 
 ---

@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
+    "link": "https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html",
+    "published": "Tue, 17 Mar 2026 01:07:00 +0530",
+    "summary": "The GlassWorm malware campaign is being used to fuel an ongoing attack that leverages the stolen GitHub tokens to inject malware into hundreds of Python repositories.\n\"The attack targets Python projects — including Django apps, ML research code, Streamlit dashboards, and PyPI packages — by appending obfuscated code to files like setup.py, main.py, and app.py,\" StepSecurity said. \"Anyone who runs",
+    "analysis": {
+      "issue": "GlassWorm campaign injects malware into GitHub Python repos using stolen tokens since March 8, 2026, exposing developers to supply-chain compromise",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More",
     "link": "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html",
     "published": "Mon, 16 Mar 2026 19:47:00 +0530",
@@ -165,13 +183,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
-    "link": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html",
-    "published": "Fri, 13 Mar 2026 20:50:00 +0530",
-    "summary": "INTERPOL on Friday announced the takedown of 45,000 malicious IP addresses and servers used in connection with phishing, malware, and ransomware campaigns, as part of the agency's ongoing efforts to dismantle criminal networks, disrupt emerging threats, and safeguard victims from scams.\nThe effort is part of an international law enforcement operation that involved 72 countries and territories.",
+    "source": "Bleeping Computer",
+    "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
+    "link": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/",
+    "published": "Mon, 16 Mar 2026 15:17:20 -0400",
+    "summary": "Last week's cyberattack on medical technology giant Stryker was limited to its internal Microsoft environment and remotely wiped tens of thousands of employee devices. [...]",
     "analysis": {
-      "issue": "INTERPOL dismantled 45,000 malicious IPs in Operation Synergia across 72 countries, disrupting global phishing and ransomware networks",
+      "issue": "Last week's cyberattack on medical technology giant Stryker was limited to its internal Microsoft environment and remotely wiped tens of thousands of employee devices",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -179,7 +197,29 @@
       "cves": [],
       "threat_categories": [
         "Ransomware",
-        "Phishing"
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
+    "published": "Mon, 16 Mar 2026 14:00:22 -0400",
+    "summary": "CISA warned U.S. government agencies to secure their Wing FTP Server instances against an actively exploited vulnerability that may be chained in remote code execution attacks. [...]",
+    "analysis": {
+      "issue": "government agencies to secure their Wing FTP Server instances against an actively exploited vulnerability that may be chained in remote code execution attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-47813",
+        "CVE-2025-27889",
+        "CVE-2025-47812"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -305,8 +345,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-25172",
-        "CVE-2026-26111",
-        "CVE-2026-25173"
+        "CVE-2026-25173",
+        "CVE-2026-26111"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -328,42 +368,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/",
-    "published": "Fri, 13 Mar 2026 18:11:57 -0400",
-    "summary": "Microsoft is investigating a new issue affecting some Samsung laptops running Windows 11 after installing the February 2026 security updates, in which users lose access to their C:&#092; drive and are unable to launch applications. [...]",
-    "analysis": {
-      "issue": "Microsoft is investigating a new issue affecting some Samsung laptops running Windows 11 after installing the February 2026 security updates, in which users lose access to their C:\\ drive and are unable to launch applications",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI seeks victims of Steam games used to spread malware",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/",
-    "published": "Fri, 13 Mar 2026 16:52:31 -0400",
-    "summary": "The FBI is asking gamers who installed Steam titles containing malware to provide information as part of an ongoing investigation into eight malicious games uploaded to the gaming platform. [...]",
-    "analysis": {
-      "issue": "The FBI is asking gamers who installed Steam titles containing malware to provide information as part of an ongoing investigation into eight malicious games uploaded to the gaming platform",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -398,14 +402,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24294",
-        "CVE-2026-26110",
-        "CVE-2026-21262",
+        "CVE-2026-24291",
         "CVE-2026-24289",
-        "CVE-2026-26127",
         "CVE-2026-26113",
-        "CVE-2026-25187",
-        "CVE-2026-24291"
+        "CVE-2026-24294",
+        "CVE-2026-26127",
+        "CVE-2026-21262",
+        "CVE-2026-26110",
+        "CVE-2026-25187"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -502,16 +506,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21510",
-        "CVE-2026-21519",
-        "CVE-2026-21523",
-        "CVE-2026-21533",
-        "CVE-2026-21514",
-        "CVE-2026-21516",
-        "CVE-2026-21256",
-        "CVE-2026-21513",
+        "CVE-2026-21525",
         "CVE-2026-21509",
-        "CVE-2026-21525"
+        "CVE-2026-21523",
+        "CVE-2026-21514",
+        "CVE-2026-21519",
+        "CVE-2026-21510",
+        "CVE-2026-21513",
+        "CVE-2026-21533",
+        "CVE-2026-21516",
+        "CVE-2026-21256"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -747,17 +751,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26106",
-        "CVE-2026-26118",
         "CVE-2026-26144",
-        "CVE-2026-26109",
-        "CVE-2026-26110",
-        "CVE-2026-26116",
-        "CVE-2026-26128",
         "CVE-2026-26114",
+        "CVE-2026-26118",
+        "CVE-2026-26106",
+        "CVE-2026-26116",
         "CVE-2026-21262",
         "CVE-2026-26115",
-        "CVE-2026-26113"
+        "CVE-2026-26128",
+        "CVE-2026-26109",
+        "CVE-2026-26113",
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
