@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-17 13:25:44 UTC
+**Last Updated:** 2026-03-17 17:36:26 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds](https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html)
+### 1. [LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader](https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 17 Mar 2026 20:04:00 +0530  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 2. [AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds](https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Mar 2026 17:00:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware](https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html)
+### 3. [Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware](https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Mar 2026 15:23:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html)
+### 4. [CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Mar 2026 10:53:00 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos](https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html)
+### 5. [GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos](https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Mar 2026 01:07:00 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
+### 6. [⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 19:47:00 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Why Security Validation Is Becoming Agentic](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
+### 7. [Why Security Validation Is Becoming Agentic](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 17:28:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers](https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html)
+### 8. [ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers](https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 17:11:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage](https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html)
+### 9. [DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage](https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 14:37:00 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
+### 10. [Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 11:13:00 +0530  
@@ -86,16 +95,34 @@
 
 ---
 
-### 10. [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
+### 11. [Top 5 Things CISOs Need to Do Today to Secure AI Agents](https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 14 Mar 2026 21:47:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 17 Mar 2026 10:02:12 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks](https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/)
+### 12. [New font-rendering trick hides malicious commands from AI tools](https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 17 Mar 2026 09:59:12 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [Microsoft stops force-installing the Microsoft 365 Copilot app](https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 17 Mar 2026 09:54:37 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 14. [LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks](https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Mar 2026 08:09:35 -0400  
@@ -104,7 +131,7 @@
 
 ---
 
-### 12. [Microsoft shares fix for Windows C: drive access issues on Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/)
+### 15. [Microsoft shares fix for Windows C: drive access issues on Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Mar 2026 08:03:38 -0400  
@@ -113,7 +140,7 @@
 
 ---
 
-### 13. [New Windows 11 hotpatch fixes Bluetooth device visibility issue](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/)
+### 16. [New Windows 11 hotpatch fixes Bluetooth device visibility issue](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Mar 2026 07:07:05 -0400  
@@ -122,7 +149,7 @@
 
 ---
 
-### 14. [Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic](https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/)
+### 17. [Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic](https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Mar 2026 06:37:19 -0400  
@@ -131,7 +158,7 @@
 
 ---
 
-### 15. [Stryker attack wiped tens of thousands of devices, no malware needed](https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/)
+### 18. [Stryker attack wiped tens of thousands of devices, no malware needed](https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Mar 2026 15:17:20 -0400  
@@ -140,7 +167,7 @@
 
 ---
 
-### 16. [CISA flags Wing FTP Server flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/)
+### 19. [CISA flags Wing FTP Server flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Mar 2026 14:00:22 -0400  
@@ -150,39 +177,12 @@
 
 ---
 
-### 17. [UK’s Companies House confirms security flaw exposed business data](https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/)
+### 20. [UK’s Companies House confirms security flaw exposed business data](https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Mar 2026 13:07:25 -0400  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 18. [Microsoft Exchange Online outage blocks access to mailboxes](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 16 Mar 2026 12:05:02 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Shadow AI is everywhere. Here’s how to find and secure it.](https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 16 Mar 2026 10:01:11 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Microsoft pulls Samsung app blocking Windows C: drive from Store](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-samsung-app-blocking-windows-c-drive-from-store/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 16 Mar 2026 09:14:32 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -200,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-24289, CVE-2026-24291, CVE-2026-26110, CVE-2026-24294, CVE-2026-21262, CVE-2026-26127, CVE-2026-25187  
+**CVEs:** CVE-2026-26113, CVE-2026-24294, CVE-2026-26110, CVE-2026-24289, CVE-2026-25187, CVE-2026-24291, CVE-2026-21262, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -218,6 +218,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Sat, 28 Feb 2026 12:01:57 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware, APT, DDoS  
 
 ---
 
@@ -244,7 +246,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21514, CVE-2026-21516, CVE-2026-21509, CVE-2026-21519, CVE-2026-21513, CVE-2026-21525, CVE-2026-21510, CVE-2026-21256, CVE-2026-21523, CVE-2026-21533  
+**CVEs:** CVE-2026-21514, CVE-2026-21256, CVE-2026-21509, CVE-2026-21513, CVE-2026-21516, CVE-2026-21525, CVE-2026-21510, CVE-2026-21533, CVE-2026-21523, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -276,73 +278,73 @@
 
 ---
 
-### 31. [174 Vulnerabilities Targeted by RondoDox Botnet](https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/)
+### 31. [Tech Giants Invest $12.5 Million in Open Source Security](https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/)
+
+**Source:** Security Week  
+**Published:** Tue, 17 Mar 2026 16:01:00 +0000  
+
+---
+
+### 32. [UK Companies House Exposed Details of Millions of Firms](https://www.securityweek.com/uk-companies-house-exposed-details-of-millions-of-firms/)
+
+**Source:** Security Week  
+**Published:** Tue, 17 Mar 2026 15:40:25 +0000  
+
+---
+
+### 33. [Surf AI Raises $57 Million for Agentic Security Operations Platform](https://www.securityweek.com/surf-ai-raises-57-million-for-agentic-security-operations-platform/)
+
+**Source:** Security Week  
+**Published:** Tue, 17 Mar 2026 14:21:43 +0000  
+
+---
+
+### 34. [Robotic Surgery Giant Intuitive Discloses Cyberattack](https://www.securityweek.com/robotic-surgery-giant-intuitive-discloses-cyberattack/)
+
+**Source:** Security Week  
+**Published:** Tue, 17 Mar 2026 13:28:20 +0000  
+
+---
+
+### 35. [174 Vulnerabilities Targeted by RondoDox Botnet](https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Mar 2026 12:37:45 +0000  
 
 ---
 
-### 32. [Google, Meta, Microsoft Among Signatories of Pact to Combat Scams](https://www.securityweek.com/google-meta-microsoft-among-signatories-of-pact-to-combat-scams/)
+### 36. [Google, Meta, Microsoft Among Signatories of Pact to Combat Scams](https://www.securityweek.com/google-meta-microsoft-among-signatories-of-pact-to-combat-scams/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Mar 2026 12:10:52 +0000  
 
 ---
 
-### 33. [Tracebit Raises $20M for Cloud-Native Deception Technology](https://www.securityweek.com/tracebit-raises-20m-for-cloud-native-deception-technology/)
+### 37. [Tracebit Raises $20M for Cloud-Native Deception Technology](https://www.securityweek.com/tracebit-raises-20m-for-cloud-native-deception-technology/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Mar 2026 11:52:34 +0000  
 
 ---
 
-### 34. [CISA Flags Year-Old Wing FTP Vulnerability as Exploited](https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/)
+### 38. [CISA Flags Year-Old Wing FTP Vulnerability as Exploited](https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Mar 2026 10:55:55 +0000  
 
 ---
 
-### 35. [AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks](https://www.securityweek.com/ai-apis-and-ddos-collide-in-new-era-of-coordinated-cyberattacks/)
+### 39. [AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks](https://www.securityweek.com/ai-apis-and-ddos-collide-in-new-era-of-coordinated-cyberattacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 17 Mar 2026 10:30:00 +0000  
 
 ---
 
-### 36. [Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact](https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/)
+### 40. [Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact](https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/)
 
 **Source:** Security Week  
 **Published:** Mon, 16 Mar 2026 15:44:37 +0000  
-
----
-
-### 37. [Security Firm Executive Targeted in Sophisticated Phishing Attack](https://www.securityweek.com/security-firm-executive-targeted-in-sophisticated-phishing-attack/)
-
-**Source:** Security Week  
-**Published:** Mon, 16 Mar 2026 14:39:52 +0000  
-
----
-
-### 38. [China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation](https://www.securityweek.com/china-linked-hackers-hit-asian-militaries-in-patient-espionage-operation/)
-
-**Source:** Security Week  
-**Published:** Mon, 16 Mar 2026 12:52:12 +0000  
-
----
-
-### 39. [Threat Actor Targeting VPN Users in New Credential Theft Campaign](https://www.securityweek.com/threat-actor-targeting-vpn-users-in-new-credential-theft-campaign/)
-
-**Source:** Security Week  
-**Published:** Mon, 16 Mar 2026 12:28:58 +0000  
-
----
-
-### 40. [ForceMemo: Python Repositories Compromised in GlassWorm Aftermath](https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/)
-
-**Source:** Security Week  
-**Published:** Mon, 16 Mar 2026 11:51:36 +0000  
 
 ---
 
@@ -388,7 +390,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-26115, CVE-2026-26106, CVE-2026-26116, CVE-2026-26114, CVE-2026-26118, CVE-2026-26110, CVE-2026-21262, CVE-2026-26109, CVE-2026-26128, CVE-2026-26144  
+**CVEs:** CVE-2026-26115, CVE-2026-26144, CVE-2026-26113, CVE-2026-26110, CVE-2026-26118, CVE-2026-26128, CVE-2026-26116, CVE-2026-26109, CVE-2026-26114, CVE-2026-26106, CVE-2026-21262  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -608,7 +610,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -623,7 +625,16 @@
 
 ---
 
-### 71. [90% of people don’t trust AI with their data](https://www.malwarebytes.com/blog/privacy/2026/03/90-of-people-dont-trust-ai-with-their-data)
+### 71. [Fake Pudgy World site steals your crypto passwords](https://www.malwarebytes.com/blog/scams/2026/03/fake-pudgy-world-site-steals-your-crypto-passwords)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 17 Mar 2026 16:10:42 GMT  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 72. [90% of people don’t trust AI with their data](https://www.malwarebytes.com/blog/privacy/2026/03/90-of-people-dont-trust-ai-with-their-data)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Mar 2026 12:26:37 GMT  
@@ -632,7 +643,7 @@
 
 ---
 
-### 72. [How searching for a VPN could mean handing over your work login details](https://www.malwarebytes.com/blog/news/2026/03/how-searching-for-a-vpn-could-mean-handing-over-your-work-login-details)
+### 73. [How searching for a VPN could mean handing over your work login details](https://www.malwarebytes.com/blog/news/2026/03/how-searching-for-a-vpn-could-mean-handing-over-your-work-login-details)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Mar 2026 11:36:23 GMT  
@@ -641,7 +652,7 @@
 
 ---
 
-### 73. [Google cracks down on Android apps abusing accessibility](https://www.malwarebytes.com/blog/mobile/2026/03/google-cracks-down-on-android-apps-abusing-accessibility)
+### 74. [Google cracks down on Android apps abusing accessibility](https://www.malwarebytes.com/blog/mobile/2026/03/google-cracks-down-on-android-apps-abusing-accessibility)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Mar 2026 09:59:12 GMT  
@@ -650,7 +661,7 @@
 
 ---
 
-### 74. [Hacked sites deliver Vidar infostealer to Windows users](https://www.malwarebytes.com/blog/threat-intel/2026/03/hacked-sites-deliver-vidar-infostealer-to-windows-users)
+### 75. [Hacked sites deliver Vidar infostealer to Windows users](https://www.malwarebytes.com/blog/threat-intel/2026/03/hacked-sites-deliver-vidar-infostealer-to-windows-users)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 16 Mar 2026 17:15:10 GMT  
@@ -659,7 +670,7 @@
 
 ---
 
-### 75. [Zombie ZIP method can fool antivirus during the first scan](https://www.malwarebytes.com/blog/news/2026/03/zombie-zip-method-can-fool-antivirus-during-the-first-scan)
+### 76. [Zombie ZIP method can fool antivirus during the first scan](https://www.malwarebytes.com/blog/news/2026/03/zombie-zip-method-can-fool-antivirus-during-the-first-scan)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 16 Mar 2026 16:09:08 GMT  
@@ -669,7 +680,7 @@
 
 ---
 
-### 76. [Delete doesn’t mean gone. Here’s how File Shredder fixes that](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/03/delete-doesnt-mean-gone-heres-how-file-shredder-fixes-that)
+### 77. [Delete doesn’t mean gone. Here’s how File Shredder fixes that](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/03/delete-doesnt-mean-gone-heres-how-file-shredder-fixes-that)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 16 Mar 2026 14:22:31 GMT  
@@ -678,7 +689,7 @@
 
 ---
 
-### 77. [A week in security (March 9 &#8211; March 15)](https://www.malwarebytes.com/blog/bugs/2026/03/a-week-in-security-march-9-march-15)
+### 78. [A week in security (March 9 &#8211; March 15)](https://www.malwarebytes.com/blog/bugs/2026/03/a-week-in-security-march-9-march-15)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 16 Mar 2026 07:16:13 GMT  
@@ -687,7 +698,7 @@
 
 ---
 
-### 78. [Watch out for fake Malwarebytes renewal notices in your calendar](https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-malwarebytes-renewal-notices-in-your-calendar)
+### 79. [Watch out for fake Malwarebytes renewal notices in your calendar](https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-malwarebytes-renewal-notices-in-your-calendar)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 13 Mar 2026 15:48:16 GMT  
@@ -696,22 +707,13 @@
 
 ---
 
-### 79. [[updated] Google patches two Chrome zero-days under active attack](https://www.malwarebytes.com/blog/news/2026/03/google-patches-two-chrome-zero-days-under-active-attack-update-now)
+### 80. [[updated] Google patches two Chrome zero-days under active attack](https://www.malwarebytes.com/blog/news/2026/03/google-patches-two-chrome-zero-days-under-active-attack-update-now)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 13 Mar 2026 12:58:37 GMT  
 **Severity:** High  
 **CVEs:** CVE-2026-3909  
 **Categories:** Vulnerability  
-
----
-
-### 80. [Attackers impersonate Temu in ClickFix $Temu airdrop scam](https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-temu-coin-airdrop-uses-clickfix-trick-to-install-stealthy-malware)
-
-**Source:** Malwarebytes  
-**Published:** Fri, 13 Mar 2026 09:30:43 GMT  
-**Severity:** Low  
-**Categories:** Malware, APT  
 
 ---
 

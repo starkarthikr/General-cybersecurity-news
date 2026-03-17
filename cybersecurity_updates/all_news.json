@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
+    "link": "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html",
+    "published": "Tue, 17 Mar 2026 20:04:00 +0530",
+    "summary": "The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial access method.\nThe use of ClickFix, where users are tricked into manually running malicious commands to address non-existent errors, is a departure from relying on traditional methods for obtaining initial access, such as through stolen credentials",
+    "analysis": {
+      "issue": "LeakNet uses ClickFix via compromised sites to gain access, enabling stealth attacks and scalable ransomware operations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds",
     "link": "https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html",
     "published": "Tue, 17 Mar 2026 17:00:00 +0530",
@@ -167,13 +185,49 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
-    "link": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
-    "published": "Sat, 14 Mar 2026 21:47:00 +0530",
-    "summary": "China's National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw (formerly Clawdbot and Moltbot), an open-source and self-hosted autonomous artificial intelligence (AI) agent.\nIn a post shared on WeChat, CNCERT noted that the platform's \"inherently weak default security configurations,\" coupled with its",
+    "source": "Bleeping Computer",
+    "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
+    "link": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/",
+    "published": "Tue, 17 Mar 2026 10:02:12 -0400",
+    "summary": "AI agents are autonomous actors with real access to data and systems, not just copilots. Token Security explains why identity-based access control is critical to prevent misuse and data exposure. [...]",
     "analysis": {
-      "issue": "CNCERT warns OpenClaw AI agent has weak defaults enabling prompt injection and data leaks, prompting China to restrict use on government systems",
+      "issue": "By Itamar Apelblat, Co-Founder and CEO, Token Security Agentic AI represents a once-in-a-generation shift in how organizations operate",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New font-rendering trick hides malicious commands from AI tools",
+    "link": "https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/",
+    "published": "Tue, 17 Mar 2026 09:59:12 -0400",
+    "summary": "A new font-rendering attack causes AI assistants to miss malicious commands shown on webpages by hiding them in seemingly harmless HTML. [...]",
+    "analysis": {
+      "issue": "A new font-rendering attack causes AI assistants to miss malicious commands shown on webpages by hiding them in seemingly harmless HTML",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft stops force-installing the Microsoft 365 Copilot app",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/",
+    "published": "Tue, 17 Mar 2026 09:54:37 -0400",
+    "summary": "Microsoft has stopped automatically installing the Microsoft 365 Copilot app on Windows devices that have the Microsoft 365 desktop client apps. [...]",
+    "analysis": {
+      "issue": "Microsoft has stopped automatically installing the Microsoft 365 Copilot app on Windows devices that have the Microsoft 365 desktop client apps",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -317,60 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Exchange Online outage blocks access to mailboxes",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/",
-    "published": "Mon, 16 Mar 2026 12:05:02 -0400",
-    "summary": "Microsoft is working to address an ongoing Exchange Online outage that is preventing customers from accessing their mailboxes and calendars. [...]",
-    "analysis": {
-      "issue": "Microsoft is working to address an ongoing Exchange Online outage that is preventing customers from accessing their mailboxes and calendars",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Shadow AI is everywhere. Here’s how to find and secure it.",
-    "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/",
-    "published": "Mon, 16 Mar 2026 10:01:11 -0400",
-    "summary": "Shadow AI is quietly spreading across SaaS environments as employees adopt new AI tools without IT oversight. Nudge Security explains how security teams can discover AI apps, monitor usage, and govern risky AI activity. [...]",
-    "analysis": {
-      "issue": "AI tools are everywhere now and used by virtually everyone in your org",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft pulls Samsung app blocking Windows C: drive from Store",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-samsung-app-blocking-windows-c-drive-from-store/",
-    "published": "Mon, 16 Mar 2026 09:14:32 -0400",
-    "summary": "​Microsoft has removed the Samsung Galaxy Connect app from the Microsoft Store because it was causing issues on specific Samsung Galaxy Book 4 and desktop models running Windows 11. [...]",
-    "analysis": {
-      "issue": "​Microsoft has removed the Samsung Galaxy Connect app from the Microsoft Store because it was causing issues on specific Samsung Galaxy Book 4 and desktop models running Windows 11",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
     "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
@@ -402,13 +402,13 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-26113",
-        "CVE-2026-24289",
-        "CVE-2026-24291",
-        "CVE-2026-26110",
         "CVE-2026-24294",
+        "CVE-2026-26110",
+        "CVE-2026-24289",
+        "CVE-2026-25187",
+        "CVE-2026-24291",
         "CVE-2026-21262",
-        "CVE-2026-26127",
-        "CVE-2026-25187"
+        "CVE-2026-26127"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -439,7 +439,21 @@
     "title": "Who is the Kimwolf Botmaster “Dort”?",
     "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
     "published": "Sat, 28 Feb 2026 12:01:57 +0000",
-    "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information."
+    "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.",
+    "analysis": {
+      "issue": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to build Kimwolf, the world’s largest and most disruptive botnet",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT",
+        "DDoS"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -492,15 +506,15 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-21514",
-        "CVE-2026-21516",
+        "CVE-2026-21256",
         "CVE-2026-21509",
-        "CVE-2026-21519",
         "CVE-2026-21513",
+        "CVE-2026-21516",
         "CVE-2026-21525",
         "CVE-2026-21510",
-        "CVE-2026-21256",
+        "CVE-2026-21533",
         "CVE-2026-21523",
-        "CVE-2026-21533"
+        "CVE-2026-21519"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -567,6 +581,34 @@
   },
   {
     "source": "Security Week",
+    "title": "Tech Giants Invest $12.5 Million in Open Source Security",
+    "link": "https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/",
+    "published": "Tue, 17 Mar 2026 16:01:00 +0000",
+    "summary": "<p>Anthropic, AWS, Google, Microsoft, and OpenAI fund the Linux Foundation’s long-term security initiatives focused on open source software.</p>\n<p>The post <a href=\"https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/\">Tech Giants Invest $12.5 Million in Open Source Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "UK Companies House Exposed Details of Millions of Firms",
+    "link": "https://www.securityweek.com/uk-companies-house-exposed-details-of-millions-of-firms/",
+    "published": "Tue, 17 Mar 2026 15:40:25 +0000",
+    "summary": "<p>The government agency confirmed the vulnerability could have been exploited to obtain company details and alter records.  </p>\n<p>The post <a href=\"https://www.securityweek.com/uk-companies-house-exposed-details-of-millions-of-firms/\">UK Companies House Exposed Details of Millions of Firms </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Surf AI Raises $57 Million for Agentic Security Operations Platform",
+    "link": "https://www.securityweek.com/surf-ai-raises-57-million-for-agentic-security-operations-platform/",
+    "published": "Tue, 17 Mar 2026 14:21:43 +0000",
+    "summary": "<p>The company has announced its launch, backed by funding from Accel, Cyberstarts, and Boldstart Ventures.</p>\n<p>The post <a href=\"https://www.securityweek.com/surf-ai-raises-57-million-for-agentic-security-operations-platform/\">Surf AI Raises $57 Million for Agentic Security Operations Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Robotic Surgery Giant Intuitive Discloses Cyberattack",
+    "link": "https://www.securityweek.com/robotic-surgery-giant-intuitive-discloses-cyberattack/",
+    "published": "Tue, 17 Mar 2026 13:28:20 +0000",
+    "summary": "<p>The company says some of its internal business applications were accessed after an employee fell victim to a phishing attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/robotic-surgery-giant-intuitive-discloses-cyberattack/\">Robotic Surgery Giant Intuitive Discloses Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "174 Vulnerabilities Targeted by RondoDox Botnet",
     "link": "https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/",
     "published": "Tue, 17 Mar 2026 12:37:45 +0000",
@@ -606,34 +648,6 @@
     "link": "https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/",
     "published": "Mon, 16 Mar 2026 15:44:37 +0000",
     "summary": "<p>Broadcom, Bechtel, Estée Lauder, and Abbott Technologies are the only major companies that have yet to issue a public statement. </p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/\">Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Security Firm Executive Targeted in Sophisticated Phishing Attack",
-    "link": "https://www.securityweek.com/security-firm-executive-targeted-in-sophisticated-phishing-attack/",
-    "published": "Mon, 16 Mar 2026 14:39:52 +0000",
-    "summary": "<p>The attackers used a DKIM-signed phishing email, trusted redirect infrastructure, compromised servers, and Cloudflare-protected phishing pages.</p>\n<p>The post <a href=\"https://www.securityweek.com/security-firm-executive-targeted-in-sophisticated-phishing-attack/\">Security Firm Executive Targeted in Sophisticated Phishing Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation",
-    "link": "https://www.securityweek.com/china-linked-hackers-hit-asian-militaries-in-patient-espionage-operation/",
-    "published": "Mon, 16 Mar 2026 12:52:12 +0000",
-    "summary": "<p>The state-sponsored hackers deployed custom tools and stayed dormant in the compromised environments for months.</p>\n<p>The post <a href=\"https://www.securityweek.com/china-linked-hackers-hit-asian-militaries-in-patient-espionage-operation/\">China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Threat Actor Targeting VPN Users in New Credential Theft Campaign",
-    "link": "https://www.securityweek.com/threat-actor-targeting-vpn-users-in-new-credential-theft-campaign/",
-    "published": "Mon, 16 Mar 2026 12:28:58 +0000",
-    "summary": "<p>Storm-2561 is distributing fake VPN clients through SEO poisoning, deploying trojans, and stealing login information.</p>\n<p>The post <a href=\"https://www.securityweek.com/threat-actor-targeting-vpn-users-in-new-credential-theft-campaign/\">Threat Actor Targeting VPN Users in New Credential Theft Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "ForceMemo: Python Repositories Compromised in GlassWorm Aftermath",
-    "link": "https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/",
-    "published": "Mon, 16 Mar 2026 11:51:36 +0000",
-    "summary": "<p>Hundreds of GitHub accounts were accessed using credentials stolen in the VS Code GlassWorm campaign.</p>\n<p>The post <a href=\"https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/\">ForceMemo: Python Repositories Compromised in GlassWorm Aftermath</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -723,17 +737,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26113",
         "CVE-2026-26115",
-        "CVE-2026-26106",
-        "CVE-2026-26116",
-        "CVE-2026-26114",
-        "CVE-2026-26118",
+        "CVE-2026-26144",
+        "CVE-2026-26113",
         "CVE-2026-26110",
-        "CVE-2026-21262",
-        "CVE-2026-26109",
+        "CVE-2026-26118",
         "CVE-2026-26128",
-        "CVE-2026-26144"
+        "CVE-2026-26116",
+        "CVE-2026-26109",
+        "CVE-2026-26114",
+        "CVE-2026-26106",
+        "CVE-2026-21262"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1185,8 +1199,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1211,6 +1225,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Fake Pudgy World site steals your crypto passwords",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/03/fake-pudgy-world-site-steals-your-crypto-passwords",
+    "published": "Tue, 17 Mar 2026 16:10:42 GMT",
+    "summary": "The phishing site it is not affiliated with Igloo Inc or Pudgy Penguins, but is designed to lure fans and steal their crypto passwords.",
+    "analysis": {
+      "issue": "A phishing site impersonating the newly-launched Pudgy World browser game is targeting crypto users with a technique that goes well beyond a convincing logo and matching color scheme",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
       ]
     }
   },
@@ -1384,25 +1416,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Attackers impersonate Temu in ClickFix $Temu airdrop scam",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/fake-temu-coin-airdrop-uses-clickfix-trick-to-install-stealthy-malware",
-    "published": "Fri, 13 Mar 2026 09:30:43 GMT",
-    "summary": "A fake $TEMU crypto airdrop uses the ClickFix trick to make victims run malware themselves and quietly installs a remote-access backdoor.",
-    "analysis": {
-      "issue": "Update Friday, March 13: A Temu spokesperson contacted us to say: “Temu has not issued any cryptocurrency, token, or digital asset—including any so-called “Temu Coin",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
       ]
     }
   },
