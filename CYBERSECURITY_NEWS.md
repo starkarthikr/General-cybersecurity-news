@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-17 03:19:07 UTC
+**Last Updated:** 2026-03-17 09:28:53 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos](https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html)
+### 1. [CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 17 Mar 2026 10:53:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2025-47813  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos](https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Mar 2026 01:07:00 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
+### 3. [⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 19:47:00 +0530  
@@ -22,7 +32,7 @@
 
 ---
 
-### 3. [Why Security Validation Is Becoming Agentic](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
+### 4. [Why Security Validation Is Becoming Agentic](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 17:28:00 +0530  
@@ -31,7 +41,7 @@
 
 ---
 
-### 4. [ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers](https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html)
+### 5. [ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers](https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 17:11:00 +0530  
@@ -40,7 +50,7 @@
 
 ---
 
-### 5. [DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage](https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html)
+### 6. [DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage](https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 14:37:00 +0530  
@@ -49,7 +59,7 @@
 
 ---
 
-### 6. [Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
+### 7. [Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 11:13:00 +0530  
@@ -58,7 +68,7 @@
 
 ---
 
-### 7. [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
+### 8. [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 14 Mar 2026 21:47:00 +0530  
@@ -67,7 +77,7 @@
 
 ---
 
-### 8. [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
+### 9. [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 14 Mar 2026 18:25:00 +0530  
@@ -76,21 +86,12 @@
 
 ---
 
-### 9. [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html)
+### 10. [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 13 Mar 2026 23:03:00 +0530  
 **Severity:** Low  
 **Categories:** Malware, Phishing  
-
----
-
-### 10. [Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026](https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 13 Mar 2026 22:39:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -108,7 +109,7 @@
 **Source:** Bleeping Computer  
 **Published:** Mon, 16 Mar 2026 14:00:22 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2025-47813, CVE-2025-47812, CVE-2025-27889  
+**CVEs:** CVE-2025-27889, CVE-2025-47812, CVE-2025-47813  
 **Categories:** Vulnerability  
 
 ---
@@ -172,7 +173,7 @@
 **Source:** Bleeping Computer  
 **Published:** Sat, 14 Mar 2026 17:48:14 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-25173, CVE-2026-26111, CVE-2026-25172  
+**CVEs:** CVE-2026-25172, CVE-2026-26111, CVE-2026-25173  
 **Categories:** Vulnerability  
 
 ---
@@ -200,7 +201,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24289, CVE-2026-26127, CVE-2026-24294, CVE-2026-26110, CVE-2026-24291, CVE-2026-25187, CVE-2026-26113, CVE-2026-21262  
+**CVEs:** CVE-2026-26110, CVE-2026-24294, CVE-2026-26113, CVE-2026-21262, CVE-2026-24289, CVE-2026-24291, CVE-2026-25187, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -246,7 +247,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21256, CVE-2026-21513, CVE-2026-21510, CVE-2026-21519, CVE-2026-21509, CVE-2026-21516, CVE-2026-21525, CVE-2026-21514, CVE-2026-21523, CVE-2026-21533  
+**CVEs:** CVE-2026-21533, CVE-2026-21256, CVE-2026-21523, CVE-2026-21525, CVE-2026-21513, CVE-2026-21510, CVE-2026-21514, CVE-2026-21516, CVE-2026-21509, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -392,7 +393,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26109, CVE-2026-26115, CVE-2026-26118, CVE-2026-26144, CVE-2026-26110, CVE-2026-26116, CVE-2026-26114, CVE-2026-26113, CVE-2026-26106, CVE-2026-26128, CVE-2026-21262  
+**CVEs:** CVE-2026-26110, CVE-2026-26118, CVE-2026-26113, CVE-2026-26114, CVE-2026-21262, CVE-2026-26109, CVE-2026-26144, CVE-2026-26128, CVE-2026-26116, CVE-2026-26115, CVE-2026-26106  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -612,7 +613,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
