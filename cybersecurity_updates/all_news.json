@@ -1,6 +1,66 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
+    "link": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
+    "published": "Wed, 18 Mar 2026 13:38:00 +0530",
+    "summary": "A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to the root level.\nTracked as CVE-2026-3888 (CVSS score: 7.8), the issue could allow an attacker to seize control of a susceptible system.\n\"This flaw (CVE-2026-3888) allows an unprivileged local attacker to escalate privileges to full root access",
+    "analysis": {
+      "issue": "Ubuntu CVE-2026-3888 flaw exploits cleanup timing in snap-confine to gain root access, risking full system compromise",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-3888"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
+    "link": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
+    "published": "Wed, 18 Mar 2026 12:01:00 +0530",
+    "summary": "Apple on Tuesday released its first round of Background Security Improvements to address a security flaw in WebKit that affects iOS, iPadOS, and macOS.\nThe vulnerability, tracked as CVE-2026-20643 (CVSS score: N/A), has been described as a cross-origin issue in WebKit's Navigation API that could be exploited to bypass the same-origin policy when processing maliciously crafted web content.\nThe",
+    "analysis": {
+      "issue": "Apple fixes WebKit CVE-2026-20643 in iOS 26",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-20643"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
+    "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
+    "published": "Wed, 18 Mar 2026 10:36:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary code with elevated privileges.\nThe vulnerability, tracked as CVE-2026-32746, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of out-of-bounds write in the LINEMODE Set",
+    "analysis": {
+      "issue": "CVE-2026-32746 exposes telnetd via pre-auth flaw (CVSS 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-32746"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
     "link": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
     "published": "Tue, 17 Mar 2026 22:09:00 +0530",
@@ -126,61 +186,6 @@
       "threat_categories": [
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Why Security Validation Is Becoming Agentic",
-    "link": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html",
-    "published": "Mon, 16 Mar 2026 17:28:00 +0530",
-    "summary": "If you run security at any reasonably complex organization, your validation stack probably looks something like this: a BAS tool in one corner. A pentest engagement, or maybe an automated pentesting product, in another. A vulnerability scanner feeding an attack surface management platform somewhere else. Each tool gives you a slice of the picture. None of them talks to each other in any",
-    "analysis": {
-      "issue": "Agentic AI automates security validation using unified data fabric and exposure intelligence, enabling faster threat detection and remediation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers",
-    "link": "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html",
-    "published": "Mon, 16 Mar 2026 17:11:00 +0530",
-    "summary": "Three different ClickFix campaigns have been found to act as a delivery vector for the deployment of a macOS information stealer called MacSync.\n\"Unlike traditional exploit-based attacks, this method relies entirely on user interaction – usually in the form of copying and executing commands – making it particularly effective against users who may not appreciate the implications of running",
-    "analysis": {
-      "issue": "ClickFix campaigns spread MacSync macOS infostealer via malicious Terminal commands since Nov 2025, targeting AI tool users and developers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage",
-    "link": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html",
-    "published": "Mon, 16 Mar 2026 14:37:00 +0530",
-    "summary": "Ukrainian entities have emerged as the target of a new campaign likely orchestrated by threat actors linked to Russia, according to a report from S2 Grupo's LAB52 threat intelligence team.\nThe campaign, observed in February 2026, has been assessed to share overlaps with a prior campaign mounted by Laundry Bear (aka UAC-0190 or Void Blizzard) aimed at Ukrainian defense forces with a malware",
-    "analysis": {
-      "issue": "DRILLAPP JavaScript backdoor targets Ukraine in Feb 2026, abusing Edge debugging features to spy via camera, microphone, and screen capture",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
       ]
     }
   },
@@ -398,14 +403,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24289",
-        "CVE-2026-26110",
-        "CVE-2026-26113",
         "CVE-2026-24291",
-        "CVE-2026-26127",
+        "CVE-2026-24289",
+        "CVE-2026-26113",
+        "CVE-2026-24294",
         "CVE-2026-21262",
         "CVE-2026-25187",
-        "CVE-2026-24294"
+        "CVE-2026-26110",
+        "CVE-2026-26127"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -502,16 +507,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21514",
-        "CVE-2026-21509",
-        "CVE-2026-21523",
-        "CVE-2026-21519",
-        "CVE-2026-21510",
-        "CVE-2026-21513",
-        "CVE-2026-21516",
         "CVE-2026-21533",
         "CVE-2026-21525",
-        "CVE-2026-21256"
+        "CVE-2026-21509",
+        "CVE-2026-21519",
+        "CVE-2026-21256",
+        "CVE-2026-21514",
+        "CVE-2026-21513",
+        "CVE-2026-21523",
+        "CVE-2026-21516",
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -734,17 +739,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26109",
         "CVE-2026-26116",
         "CVE-2026-26144",
-        "CVE-2026-26110",
-        "CVE-2026-26114",
-        "CVE-2026-21262",
-        "CVE-2026-26113",
-        "CVE-2026-26118",
-        "CVE-2026-26128",
         "CVE-2026-26115",
-        "CVE-2026-26106"
+        "CVE-2026-26114",
+        "CVE-2026-26113",
+        "CVE-2026-21262",
+        "CVE-2026-26128",
+        "CVE-2026-26109",
+        "CVE-2026-26118",
+        "CVE-2026-26106",
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1227,6 +1232,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Inside a network of 20,000+ fake shops",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/03/inside-a-network-of-20000-fake-shops",
+    "published": "Wed, 18 Mar 2026 08:51:46 GMT",
+    "summary": "A sprawling network of fake shops, all built for one purpose: to steal your payment details and personal data.",
+    "analysis": {
+      "issue": "We mapped a sprawling fake shop operation of over 20,000 domains, dozens of shared IP addresses and identical storefronts with different names pasted on top",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Fake Pudgy World site steals your crypto passwords",
     "link": "https://www.malwarebytes.com/blog/scams/2026/03/fake-pudgy-world-site-steals-your-crypto-passwords",
     "published": "Tue, 17 Mar 2026 16:10:42 GMT",
@@ -1393,26 +1416,6 @@
       "threat_categories": [
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "[updated] Google patches two Chrome zero-days under active attack",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/google-patches-two-chrome-zero-days-under-active-attack-update-now",
-    "published": "Fri, 13 Mar 2026 12:58:37 GMT",
-    "summary": "Google has released an out-of-band Chrome update to patch two zero-day vulnerabilities that are already being actively exploited.",
-    "analysis": {
-      "issue": "Update March 16, 2026Earlier this week, Google incorrectly reported that an actively exploited vulnerability in Chrome had been fixed, and has now announced it will roll out a new update to protect users against the vulnerability tracked as CVE-2026-",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-3909"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
