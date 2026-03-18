@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-17 17:36:26 UTC
+**Last Updated:** 2026-03-18 02:45:28 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader](https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html)
+### 1. [AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE](https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 17 Mar 2026 22:09:00 +0530  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 2. [LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader](https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Mar 2026 20:04:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds](https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html)
+### 3. [AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds](https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Mar 2026 17:00:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware](https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html)
+### 4. [Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware](https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Mar 2026 15:23:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html)
+### 5. [CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Mar 2026 10:53:00 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos](https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html)
+### 6. [GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos](https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Mar 2026 01:07:00 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
+### 7. [⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 19:47:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Why Security Validation Is Becoming Agentic](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
+### 8. [Why Security Validation Is Becoming Agentic](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 17:28:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers](https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html)
+### 9. [ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers](https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 17:11:00 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage](https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html)
+### 10. [DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage](https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 16 Mar 2026 14:37:00 +0530  
@@ -86,16 +95,35 @@
 
 ---
 
-### 10. [Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
+### 11. [Apple pushes first Background Security Improvements update to fix WebKit flaw](https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 16 Mar 2026 11:13:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 17 Mar 2026 21:06:31 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2026-20643  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX](https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 17 Mar 2026 17:42:54 -0400  
 **Severity:** Low  
 **Categories:** Malware  
 
 ---
 
-### 11. [Top 5 Things CISOs Need to Do Today to Secure AI Agents](https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/)
+### 13. [Europe sanctions Chinese and Iranian firms for cyberattacks](https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 17 Mar 2026 14:41:59 -0400  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 14. [Top 5 Things CISOs Need to Do Today to Secure AI Agents](https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Mar 2026 10:02:12 -0400  
@@ -104,7 +132,7 @@
 
 ---
 
-### 12. [New font-rendering trick hides malicious commands from AI tools](https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/)
+### 15. [New font-rendering trick hides malicious commands from AI tools](https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Mar 2026 09:59:12 -0400  
@@ -113,7 +141,7 @@
 
 ---
 
-### 13. [Microsoft stops force-installing the Microsoft 365 Copilot app](https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/)
+### 16. [Microsoft stops force-installing the Microsoft 365 Copilot app](https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Mar 2026 09:54:37 -0400  
@@ -122,7 +150,7 @@
 
 ---
 
-### 14. [LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks](https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/)
+### 17. [LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks](https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Mar 2026 08:09:35 -0400  
@@ -131,7 +159,7 @@
 
 ---
 
-### 15. [Microsoft shares fix for Windows C: drive access issues on Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/)
+### 18. [Microsoft shares fix for Windows C: drive access issues on Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Mar 2026 08:03:38 -0400  
@@ -140,7 +168,7 @@
 
 ---
 
-### 16. [New Windows 11 hotpatch fixes Bluetooth device visibility issue](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/)
+### 19. [New Windows 11 hotpatch fixes Bluetooth device visibility issue](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Mar 2026 07:07:05 -0400  
@@ -149,40 +177,12 @@
 
 ---
 
-### 17. [Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic](https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/)
+### 20. [Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic](https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Mar 2026 06:37:19 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 18. [Stryker attack wiped tens of thousands of devices, no malware needed](https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 16 Mar 2026 15:17:20 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Malware  
-
----
-
-### 19. [CISA flags Wing FTP Server flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 16 Mar 2026 14:00:22 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2025-47813, CVE-2025-27889, CVE-2025-47812  
-**Categories:** Vulnerability  
-
----
-
-### 20. [UK’s Companies House confirms security flaw exposed business data](https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 16 Mar 2026 13:07:25 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -200,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-24294, CVE-2026-26110, CVE-2026-24289, CVE-2026-25187, CVE-2026-24291, CVE-2026-21262, CVE-2026-26127  
+**CVEs:** CVE-2026-26110, CVE-2026-26113, CVE-2026-24289, CVE-2026-25187, CVE-2026-24294, CVE-2026-26127, CVE-2026-21262, CVE-2026-24291  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -246,7 +246,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21514, CVE-2026-21256, CVE-2026-21509, CVE-2026-21513, CVE-2026-21516, CVE-2026-21525, CVE-2026-21510, CVE-2026-21533, CVE-2026-21523, CVE-2026-21519  
+**CVEs:** CVE-2026-21523, CVE-2026-21509, CVE-2026-21514, CVE-2026-21513, CVE-2026-21525, CVE-2026-21510, CVE-2026-21533, CVE-2026-21256, CVE-2026-21516, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -390,7 +390,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26115, CVE-2026-26144, CVE-2026-26113, CVE-2026-26110, CVE-2026-26118, CVE-2026-26128, CVE-2026-26116, CVE-2026-26109, CVE-2026-26114, CVE-2026-26106, CVE-2026-21262  
+**CVEs:** CVE-2026-26110, CVE-2026-26113, CVE-2026-26114, CVE-2026-26109, CVE-2026-26118, CVE-2026-26144, CVE-2026-26116, CVE-2026-26128, CVE-2026-21262, CVE-2026-26106, CVE-2026-26115  
 **Categories:** Vulnerability, APT  
 
 ---

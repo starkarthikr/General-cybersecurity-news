@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
+    "link": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
+    "published": "Tue, 17 Mar 2026 22:09:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution environments using domain name system (DNS) queries.\nIn a report published Monday, BeyondTrust revealed that Amazon Bedrock AgentCore Code Interpreter's sandbox mode permits outbound DNS queries that an attacker can exploit to enable interactive shells",
+    "analysis": {
+      "issue": "DNS flaw in Amazon Bedrock and critical AI vulnerabilities expose data and enable RCE, risking breaches and infrastructure compromise",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
     "link": "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html",
     "published": "Tue, 17 Mar 2026 20:04:00 +0530",
@@ -167,13 +185,33 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
-    "link": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
-    "published": "Mon, 16 Mar 2026 11:13:00 +0530",
-    "summary": "Google is testing a new security feature as part of Android Advanced Protection Mode (AAPM) that prevents certain kinds of apps from using the accessibility services API.\nThe change, incorporated in Android 17 Beta 2, was first reported by Android Authority last week.\nAAPM was introduced by Google in Android 16, released last year. When enabled, it causes the device to enter a heightened",
+    "source": "Bleeping Computer",
+    "title": "Apple pushes first Background Security Improvements update to fix WebKit flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/",
+    "published": "Tue, 17 Mar 2026 21:06:31 -0400",
+    "summary": "Apple has released its first Background Security Improvements update to fix a WebKit flaw tracked as CVE-2026-20643 on iPhones, iPads, and Macs without requiring a full operating system upgrade. [...]",
     "analysis": {
-      "issue": "Android 17 blocks non-accessibility apps from the Accessibility API in Advanced Protection Mode, reducing malware abuse and the attack surface",
+      "issue": "Apple has released its first Background Security Improvements update to fix a WebKit flaw tracked as CVE-2026-20643 on iPhones, iPads, and Macs without requiring a full operating system upgrade",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-20643"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX",
+    "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/",
+    "published": "Tue, 17 Mar 2026 17:42:54 -0400",
+    "summary": "The GlassWorm supply-chain campaign has returned with a new, coordinated attack that targeted hundreds of packages, repositories, and extensions on GitHub, npm, and VSCode/OpenVSX extensions. [...]",
+    "analysis": {
+      "issue": "The GlassWorm supply-chain campaign has returned with a new, coordinated attack that targeted hundreds of packages, repositories, and extensions on GitHub, npm, and VSCode/OpenVSX extensions",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -181,6 +219,24 @@
       "cves": [],
       "threat_categories": [
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Europe sanctions Chinese and Iranian firms for cyberattacks",
+    "link": "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/",
+    "published": "Tue, 17 Mar 2026 14:41:59 -0400",
+    "summary": "The European Union Council has announced sanctions against three entities and two individuals for their involvement in cyberattacks targeting critical infrastructure in the region. [...]",
+    "analysis": {
+      "issue": "The Council of the European Union has sanctioned three Chinese and Iranian companies and two individuals for cyberattacks targeting devices and critical infrastructure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -312,65 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
-    "link": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/",
-    "published": "Mon, 16 Mar 2026 15:17:20 -0400",
-    "summary": "Last week's cyberattack on medical technology giant Stryker was limited to its internal Microsoft environment and remotely wiped tens of thousands of employee devices. [...]",
-    "analysis": {
-      "issue": "Last week's cyberattack on medical technology giant Stryker was limited to its internal Microsoft environment and remotely wiped tens of thousands of employee devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
-    "published": "Mon, 16 Mar 2026 14:00:22 -0400",
-    "summary": "CISA warned U.S. government agencies to secure their Wing FTP Server instances against an actively exploited vulnerability that may be chained in remote code execution attacks. [...]",
-    "analysis": {
-      "issue": "government agencies to secure their Wing FTP Server instances against an actively exploited vulnerability that may be chained in remote code execution attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-47813",
-        "CVE-2025-27889",
-        "CVE-2025-47812"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "UK’s Companies House confirms security flaw exposed business data",
-    "link": "https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/",
-    "published": "Mon, 16 Mar 2026 13:07:25 -0400",
-    "summary": "Companies House, a British government agency that operates the registry for all U.K. companies, says its WebFiling service is back online after it was closed on Friday to fix a security flaw that exposed companies' information since October 2025. [...]",
-    "analysis": {
-      "issue": "Companies House, a British government agency that operates the registry for all U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
     "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
@@ -401,14 +398,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26113",
-        "CVE-2026-24294",
         "CVE-2026-26110",
+        "CVE-2026-26113",
         "CVE-2026-24289",
         "CVE-2026-25187",
-        "CVE-2026-24291",
+        "CVE-2026-24294",
+        "CVE-2026-26127",
         "CVE-2026-21262",
-        "CVE-2026-26127"
+        "CVE-2026-24291"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -505,15 +502,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21514",
-        "CVE-2026-21256",
+        "CVE-2026-21523",
         "CVE-2026-21509",
+        "CVE-2026-21514",
         "CVE-2026-21513",
-        "CVE-2026-21516",
         "CVE-2026-21525",
         "CVE-2026-21510",
         "CVE-2026-21533",
-        "CVE-2026-21523",
+        "CVE-2026-21256",
+        "CVE-2026-21516",
         "CVE-2026-21519"
       ],
       "threat_categories": [
@@ -737,17 +734,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26115",
-        "CVE-2026-26144",
-        "CVE-2026-26113",
         "CVE-2026-26110",
-        "CVE-2026-26118",
-        "CVE-2026-26128",
-        "CVE-2026-26116",
-        "CVE-2026-26109",
+        "CVE-2026-26113",
         "CVE-2026-26114",
+        "CVE-2026-26109",
+        "CVE-2026-26118",
+        "CVE-2026-26144",
+        "CVE-2026-26116",
+        "CVE-2026-26128",
+        "CVE-2026-21262",
         "CVE-2026-26106",
-        "CVE-2026-21262"
+        "CVE-2026-26115"
       ],
       "threat_categories": [
         "Vulnerability",
