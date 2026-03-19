@@ -1,6 +1,27 @@
 [
   {
     "source": "The Hacker News",
+    "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
+    "link": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html",
+    "published": "Thu, 19 Mar 2026 11:35:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged government agencies to apply patches for two security flaws impacting Synacor Zimbra Collaboration Suite (ZCS) and Microsoft Office SharePoint, stating they have been actively exploited in the wild.\nThe vulnerabilities in question are as follows -\n\nCVE-2025-66376 (CVSS score: 7.2) - A stored cross-site scripting",
+    "analysis": {
+      "issue": "Interlock exploits CVE-2026-20131 zero-day since Jan 26, enabling root access on Cisco FMC, increasing ransomware risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20131"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
     "link": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
     "published": "Wed, 18 Mar 2026 22:56:00 +0530",
@@ -171,24 +192,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
-    "link": "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html",
-    "published": "Tue, 17 Mar 2026 20:04:00 +0530",
-    "summary": "The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial access method.\nThe use of ClickFix, where users are tricked into manually running malicious commands to address non-existent errors, is a departure from relying on traditional methods for obtaining initial access, such as through stolen credentials",
-    "analysis": {
-      "issue": "LeakNet uses ClickFix via compromised sites to gain access, enabling stealth attacks and scalable ransomware operations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Aura confirms data breach exposing 900,000 marketing contacts",
     "link": "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/",
@@ -309,7 +312,7 @@
   },
   {
     "source": "Bleeping Computer",
-    "title": "New “Darksword” iOS exploit used in infostealer attack on iPhones",
+    "title": "New DarkSword iOS exploit used in infostealer attack on iPhones",
     "link": "https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/",
     "published": "Wed, 18 Mar 2026 10:02:08 -0400",
     "summary": "A new exploit kit for iOS devices and delivery framework dubbed \"Darksword\" has been used to steal a wide range of personal information, including data from cryptocurrency wallet app. [...]",
@@ -322,10 +325,10 @@
       "cves": [
         "CVE-2025-14174",
         "CVE-2025-43510",
-        "CVE-2026-20700",
-        "CVE-2025-43520",
         "CVE-2025-43529",
-        "CVE-2025-31277"
+        "CVE-2026-20700",
+        "CVE-2025-31277",
+        "CVE-2025-43520"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -421,13 +424,13 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-26113",
-        "CVE-2026-26127",
-        "CVE-2026-24291",
-        "CVE-2026-25187",
-        "CVE-2026-21262",
+        "CVE-2026-26110",
         "CVE-2026-24289",
         "CVE-2026-24294",
-        "CVE-2026-26110"
+        "CVE-2026-25187",
+        "CVE-2026-26127",
+        "CVE-2026-21262",
+        "CVE-2026-24291"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -524,15 +527,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21513",
-        "CVE-2026-21510",
+        "CVE-2026-21516",
         "CVE-2026-21533",
+        "CVE-2026-21523",
         "CVE-2026-21519",
         "CVE-2026-21525",
-        "CVE-2026-21516",
-        "CVE-2026-21523",
         "CVE-2026-21509",
+        "CVE-2026-21510",
         "CVE-2026-21514",
+        "CVE-2026-21513",
         "CVE-2026-21256"
       ],
       "threat_categories": [
@@ -600,6 +603,13 @@
   },
   {
     "source": "Security Week",
+    "title": "Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks",
+    "link": "https://www.securityweek.com/cisco-firewall-vulnerability-exploited-as-zero-day-in-interlock-ransomware-attacks/",
+    "published": "Thu, 19 Mar 2026 08:57:59 +0000",
+    "summary": "<p>Amazon found evidence that the FMC software vulnerability has been exploited since late January, and found links to Russia.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-firewall-vulnerability-exploited-as-zero-day-in-interlock-ransomware-attacks/\">Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "The Collapse of Predictive Security in the Age of Machine-Speed Attacks",
     "link": "https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/",
     "published": "Wed, 18 Mar 2026 19:37:25 +0000",
@@ -660,13 +670,6 @@
     "link": "https://www.securityweek.com/iranian-hackers-likely-used-malware-stolen-credentials-in-stryker-breach/",
     "published": "Wed, 18 Mar 2026 12:47:00 +0000",
     "summary": "<p>The medtech giant has been working on restoring systems affected by the cyberattack conducted by the Handala hackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/iranian-hackers-likely-used-malware-stolen-credentials-in-stryker-breach/\">Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Apple Debuts Background Security Improvements With Fresh WebKit Patches",
-    "link": "https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/",
-    "published": "Wed, 18 Mar 2026 12:35:49 +0000",
-    "summary": "<p>The lightweight updates are meant to deliver security protections between security updates.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/\">Apple Debuts Background Security Improvements With Fresh WebKit Patches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -774,17 +777,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26128",
-        "CVE-2026-26109",
-        "CVE-2026-26106",
-        "CVE-2026-26115",
         "CVE-2026-26113",
-        "CVE-2026-26116",
-        "CVE-2026-21262",
-        "CVE-2026-26114",
+        "CVE-2026-26109",
+        "CVE-2026-26110",
         "CVE-2026-26144",
+        "CVE-2026-26114",
+        "CVE-2026-26128",
+        "CVE-2026-26115",
+        "CVE-2026-26106",
         "CVE-2026-26118",
-        "CVE-2026-26110"
+        "CVE-2026-26116",
+        "CVE-2026-21262"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1217,8 +1220,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

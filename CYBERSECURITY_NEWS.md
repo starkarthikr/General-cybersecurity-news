@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-19 03:26:13 UTC
+**Last Updated:** 2026-03-19 09:09:39 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs](https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html)
+### 1. [CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks](https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 19 Mar 2026 11:35:00 +0530  
+**Severity:** Critical  
+**CVEs:** CVE-2026-20131  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 2. [OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs](https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 22:56:00 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access](https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html)
+### 3. [Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access](https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 21:30:00 +0530  
@@ -23,7 +33,7 @@
 
 ---
 
-### 3. [Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
+### 4. [Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 18:00:00 +0530  
@@ -33,7 +43,7 @@
 
 ---
 
-### 4. [Claude Code Security and Magecart: Getting the Threat Model Right](https://thehackernews.com/2026/03/claude-code-security-and-magecart.html)
+### 5. [Claude Code Security and Magecart: Getting the Threat Model Right](https://thehackernews.com/2026/03/claude-code-security-and-magecart.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 17:28:00 +0530  
@@ -42,7 +52,7 @@
 
 ---
 
-### 5. [9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors](https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html)
+### 6. [9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors](https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 17:12:00 +0530  
@@ -51,7 +61,7 @@
 
 ---
 
-### 6. [Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels](https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html)
+### 7. [Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels](https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 16:00:00 +0530  
@@ -60,7 +70,7 @@
 
 ---
 
-### 7. [Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit](https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html)
+### 8. [Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit](https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 13:38:00 +0530  
@@ -70,7 +80,7 @@
 
 ---
 
-### 8. [Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS](https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html)
+### 9. [Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS](https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 12:01:00 +0530  
@@ -80,21 +90,12 @@
 
 ---
 
-### 9. [AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE](https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html)
+### 10. [AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE](https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 17 Mar 2026 22:09:00 +0530  
 **Severity:** Critical  
 **Categories:** General Security  
-
----
-
-### 10. [LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader](https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 17 Mar 2026 20:04:00 +0530  
-**Severity:** Low  
-**Categories:** Ransomware  
 
 ---
 
@@ -155,12 +156,12 @@
 
 ---
 
-### 17. [New “Darksword” iOS exploit used in infostealer attack on iPhones](https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/)
+### 17. [New DarkSword iOS exploit used in infostealer attack on iPhones](https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Mar 2026 10:02:08 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2025-14174, CVE-2025-43510, CVE-2026-20700, CVE-2025-43520, CVE-2025-43529, CVE-2025-31277  
+**CVEs:** CVE-2025-14174, CVE-2025-43510, CVE-2025-43529, CVE-2026-20700, CVE-2025-31277, CVE-2025-43520  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -207,7 +208,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-26127, CVE-2026-24291, CVE-2026-25187, CVE-2026-21262, CVE-2026-24289, CVE-2026-24294, CVE-2026-26110  
+**CVEs:** CVE-2026-26113, CVE-2026-26110, CVE-2026-24289, CVE-2026-24294, CVE-2026-25187, CVE-2026-26127, CVE-2026-21262, CVE-2026-24291  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -253,7 +254,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21513, CVE-2026-21510, CVE-2026-21533, CVE-2026-21519, CVE-2026-21525, CVE-2026-21516, CVE-2026-21523, CVE-2026-21509, CVE-2026-21514, CVE-2026-21256  
+**CVEs:** CVE-2026-21516, CVE-2026-21533, CVE-2026-21523, CVE-2026-21519, CVE-2026-21525, CVE-2026-21509, CVE-2026-21510, CVE-2026-21514, CVE-2026-21513, CVE-2026-21256  
 **Categories:** Vulnerability  
 
 ---
@@ -285,73 +286,73 @@
 
 ---
 
-### 31. [The Collapse of Predictive Security in the Age of Machine-Speed Attacks](https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/)
+### 31. [Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks](https://www.securityweek.com/cisco-firewall-vulnerability-exploited-as-zero-day-in-interlock-ransomware-attacks/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Mar 2026 08:57:59 +0000  
+
+---
+
+### 32. [The Collapse of Predictive Security in the Age of Machine-Speed Attacks](https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 19:37:25 +0000  
 
 ---
 
-### 32. [Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation](https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/)
+### 33. [Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation](https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 18:01:50 +0000  
 
 ---
 
-### 33. [Cloud Security Startup Native Exits Stealth With $42 Million in Funding](https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/)
+### 34. [Cloud Security Startup Native Exits Stealth With $42 Million in Funding](https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 15:59:50 +0000  
 
 ---
 
-### 34. [‘DarkSword’ iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors](https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/)
+### 35. [‘DarkSword’ iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors](https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 15:30:50 +0000  
 
 ---
 
-### 35. [Virtual Summit Today: Supply Chain & Third-Party Risk Summit](https://www.securityweek.com/virtual-summit-today-supply-chain-third-party-risk-summit/)
+### 36. [Virtual Summit Today: Supply Chain & Third-Party Risk Summit](https://www.securityweek.com/virtual-summit-today-supply-chain-third-party-risk-summit/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 14:57:28 +0000  
 
 ---
 
-### 36. [EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations](https://www.securityweek.com/eu-sanctions-chinese-iranian-firms-supporting-hacking-operations/)
+### 37. [EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations](https://www.securityweek.com/eu-sanctions-chinese-iranian-firms-supporting-hacking-operations/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 14:54:51 +0000  
 
 ---
 
-### 37. [Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches](https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/)
+### 38. [Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches](https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 14:00:00 +0000  
 
 ---
 
-### 38. [Manifold Raises $8 Million for AI Detection and Response](https://www.securityweek.com/manifold-raises-8-million-for-ai-detection-and-response/)
+### 39. [Manifold Raises $8 Million for AI Detection and Response](https://www.securityweek.com/manifold-raises-8-million-for-ai-detection-and-response/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 13:59:23 +0000  
 
 ---
 
-### 39. [Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach](https://www.securityweek.com/iranian-hackers-likely-used-malware-stolen-credentials-in-stryker-breach/)
+### 40. [Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach](https://www.securityweek.com/iranian-hackers-likely-used-malware-stolen-credentials-in-stryker-breach/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 12:47:00 +0000  
-
----
-
-### 40. [Apple Debuts Background Security Improvements With Fresh WebKit Patches](https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/)
-
-**Source:** Security Week  
-**Published:** Wed, 18 Mar 2026 12:35:49 +0000  
 
 ---
 
@@ -406,7 +407,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26128, CVE-2026-26109, CVE-2026-26106, CVE-2026-26115, CVE-2026-26113, CVE-2026-26116, CVE-2026-21262, CVE-2026-26114, CVE-2026-26144, CVE-2026-26118, CVE-2026-26110  
+**CVEs:** CVE-2026-26113, CVE-2026-26109, CVE-2026-26110, CVE-2026-26144, CVE-2026-26114, CVE-2026-26128, CVE-2026-26115, CVE-2026-26106, CVE-2026-26118, CVE-2026-26116, CVE-2026-21262  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -617,7 +618,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
