@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-19 13:19:49 UTC
+**Last Updated:** 2026-03-19 17:32:02 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [How Ceros Gives Security Teams Visibility and Control in Claude Code](https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html)
+### 1. [ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More](https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 19 Mar 2026 19:55:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 2. [New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data](https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 19 Mar 2026 18:13:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 3. [How Ceros Gives Security Teams Visibility and Control in Claude Code](https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 19 Mar 2026 16:28:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover](https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html)
+### 4. [DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover](https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 19 Mar 2026 14:44:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks](https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html)
+### 5. [CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks](https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 19 Mar 2026 11:35:00 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs](https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html)
+### 6. [OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs](https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 22:56:00 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access](https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html)
+### 7. [Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access](https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 21:30:00 +0530  
@@ -51,7 +69,7 @@
 
 ---
 
-### 6. [Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
+### 8. [Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 18:00:00 +0530  
@@ -61,7 +79,7 @@
 
 ---
 
-### 7. [Claude Code Security and Magecart: Getting the Threat Model Right](https://thehackernews.com/2026/03/claude-code-security-and-magecart.html)
+### 9. [Claude Code Security and Magecart: Getting the Threat Model Right](https://thehackernews.com/2026/03/claude-code-security-and-magecart.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 17:28:00 +0530  
@@ -70,7 +88,7 @@
 
 ---
 
-### 8. [9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors](https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html)
+### 10. [9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors](https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 17:12:00 +0530  
@@ -79,26 +97,44 @@
 
 ---
 
-### 9. [Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels](https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html)
+### 11. [Bitrefill blames North Korean Lazarus group for cyberattack](https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 18 Mar 2026 16:00:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Mar 2026 13:08:24 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Malware, APT  
 
 ---
 
-### 10. [Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit](https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html)
+### 12. [FBI seizes Handala data leak site after Stryker cyberattack](https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 18 Mar 2026 13:38:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Mar 2026 12:14:13 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-3888  
-**Categories:** Vulnerability  
+**Categories:** Vulnerability, Malware  
 
 ---
 
-### 11. [Max severity Ubiquiti UniFi flaw may allow account takeover](https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/)
+### 13. [Russian hackers exploit Zimbra flaw in Ukrainian govt attacks](https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Mar 2026 10:55:50 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2025-66376  
+**Categories:** Vulnerability, Phishing, APT  
+
+---
+
+### 14. [7 Ways to Prevent Privilege Escalation via Password Resets](https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Mar 2026 10:00:10 -0400  
+**Severity:** High  
+**Categories:** APT  
+
+---
+
+### 15. [Max severity Ubiquiti UniFi flaw may allow account takeover](https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 19 Mar 2026 09:00:22 -0400  
@@ -108,7 +144,7 @@
 
 ---
 
-### 12. [CISA urges US orgs to secure Microsoft Intune systems after Stryker breach](https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/)
+### 16. [CISA urges US orgs to secure Microsoft Intune systems after Stryker breach](https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 19 Mar 2026 07:02:27 -0400  
@@ -117,7 +153,7 @@
 
 ---
 
-### 13. [New ‘Perseus’ Android malware checks user notes for secrets](https://www.bleepingcomputer.com/news/security/new-perseus-android-malware-checks-user-notes-for-secrets/)
+### 17. [New ‘Perseus’ Android malware checks user notes for secrets](https://www.bleepingcomputer.com/news/security/new-perseus-android-malware-checks-user-notes-for-secrets/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 19 Mar 2026 06:13:23 -0400  
@@ -126,7 +162,7 @@
 
 ---
 
-### 14. [Critical Microsoft SharePoint flaw now exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/)
+### 18. [Critical Microsoft SharePoint flaw now exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 19 Mar 2026 06:06:38 -0400  
@@ -136,7 +172,7 @@
 
 ---
 
-### 15. [Aura confirms data breach exposing 900,000 marketing contacts](https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/)
+### 19. [Aura confirms data breach exposing 900,000 marketing contacts](https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Mar 2026 18:56:50 -0400  
@@ -145,51 +181,13 @@
 
 ---
 
-### 16. [CISA orders feds to patch Zimbra XSS flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/)
+### 20. [CISA orders feds to patch Zimbra XSS flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Mar 2026 15:57:13 -0400  
 **Severity:** High  
 **CVEs:** CVE-2025-66376  
 **Categories:** Vulnerability  
-
----
-
-### 17. [ConnectWise patches new flaw allowing ScreenConnect hijacking](https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 18 Mar 2026 14:10:35 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-3564  
-**Categories:** Vulnerability  
-
----
-
-### 18. [Ransomware gang exploits Cisco flaw in zero-day attacks since January](https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 18 Mar 2026 12:53:42 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-20131  
-**Categories:** Ransomware, Vulnerability, Malware  
-
----
-
-### 19. [Marquis: Ransomware gang stole data of 672K people in cyberattack](https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 18 Mar 2026 11:32:39 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 20. [The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms](https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 18 Mar 2026 10:05:15 -0400  
-**Severity:** High  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -207,7 +205,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-26113, CVE-2026-25187, CVE-2026-26127, CVE-2026-24289, CVE-2026-24291, CVE-2026-24294, CVE-2026-26110  
+**CVEs:** CVE-2026-26127, CVE-2026-24294, CVE-2026-21262, CVE-2026-24289, CVE-2026-25187, CVE-2026-26113, CVE-2026-26110, CVE-2026-24291  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -253,7 +251,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21513, CVE-2026-21523, CVE-2026-21256, CVE-2026-21516, CVE-2026-21533, CVE-2026-21514, CVE-2026-21525, CVE-2026-21519, CVE-2026-21509  
+**CVEs:** CVE-2026-21525, CVE-2026-21509, CVE-2026-21513, CVE-2026-21256, CVE-2026-21519, CVE-2026-21523, CVE-2026-21510, CVE-2026-21514, CVE-2026-21533, CVE-2026-21516  
 **Categories:** Vulnerability  
 
 ---
@@ -285,73 +283,73 @@
 
 ---
 
-### 31. [Raven Emerges From Stealth With $20 Million in Funding](https://www.securityweek.com/raven-emerges-from-stealth-with-20-million-in-funding/)
+### 31. [Iran Readied Cyberattack Capabilities for Response Prior to Epic Fury](https://www.securityweek.com/iran-readied-cyberattack-capabilities-for-response-prior-to-epic-fury/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Mar 2026 15:30:00 +0000  
+
+---
+
+### 32. [Marquis Data Breach Affects 672,000 Individuals](https://www.securityweek.com/marquis-data-breach-affects-672000-individuals/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Mar 2026 15:07:36 +0000  
+
+---
+
+### 33. [Security Firm Aura Discloses Data Breach Impacting 900,000 Records](https://www.securityweek.com/security-firm-aura-discloses-data-breach-impacting-900000-records/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Mar 2026 14:19:08 +0000  
+
+---
+
+### 34. [Hacker Conversations: Ben Harris, From Unintentional Young Hacker to Intentional Adult CEO](https://www.securityweek.com/hacker-conversations-ben-harris-from-unintentional-young-hacker-to-intentional-adult-ceo/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Mar 2026 13:30:00 +0000  
+
+---
+
+### 35. [Russian APT Exploits Zimbra Vulnerability Against Ukraine](https://www.securityweek.com/russian-apt-exploits-zimbra-vulnerability-against-ukraine/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Mar 2026 13:24:54 +0000  
+
+---
+
+### 36. [Raven Emerges From Stealth With $20 Million in Funding](https://www.securityweek.com/raven-emerges-from-stealth-with-20-million-in-funding/)
 
 **Source:** Security Week  
 **Published:** Thu, 19 Mar 2026 10:31:16 +0000  
 
 ---
 
-### 32. [CISA Warns of Attacks Exploiting Recent SharePoint Vulnerability](https://www.securityweek.com/cisa-warns-of-attacks-exploiting-recent-sharepoint-vulnerability/)
+### 37. [CISA Warns of Attacks Exploiting Recent SharePoint Vulnerability](https://www.securityweek.com/cisa-warns-of-attacks-exploiting-recent-sharepoint-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Thu, 19 Mar 2026 09:42:52 +0000  
 
 ---
 
-### 33. [Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks](https://www.securityweek.com/cisco-firewall-vulnerability-exploited-as-zero-day-in-interlock-ransomware-attacks/)
+### 38. [Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks](https://www.securityweek.com/cisco-firewall-vulnerability-exploited-as-zero-day-in-interlock-ransomware-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 19 Mar 2026 08:57:59 +0000  
 
 ---
 
-### 34. [The Collapse of Predictive Security in the Age of Machine-Speed Attacks](https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/)
+### 39. [The Collapse of Predictive Security in the Age of Machine-Speed Attacks](https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 19:37:25 +0000  
 
 ---
 
-### 35. [Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation](https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/)
+### 40. [Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation](https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 18:01:50 +0000  
-
----
-
-### 36. [Cloud Security Startup Native Exits Stealth With $42 Million in Funding](https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/)
-
-**Source:** Security Week  
-**Published:** Wed, 18 Mar 2026 15:59:50 +0000  
-
----
-
-### 37. [‘DarkSword’ iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors](https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/)
-
-**Source:** Security Week  
-**Published:** Wed, 18 Mar 2026 15:30:50 +0000  
-
----
-
-### 38. [Virtual Summit Today: Supply Chain & Third-Party Risk Summit](https://www.securityweek.com/virtual-summit-today-supply-chain-third-party-risk-summit/)
-
-**Source:** Security Week  
-**Published:** Wed, 18 Mar 2026 14:57:28 +0000  
-
----
-
-### 39. [EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations](https://www.securityweek.com/eu-sanctions-chinese-iranian-firms-supporting-hacking-operations/)
-
-**Source:** Security Week  
-**Published:** Wed, 18 Mar 2026 14:54:51 +0000  
-
----
-
-### 40. [Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches](https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/)
-
-**Source:** Security Week  
-**Published:** Wed, 18 Mar 2026 14:00:00 +0000  
 
 ---
 
@@ -415,7 +413,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26106, CVE-2026-21262, CVE-2026-26113, CVE-2026-26118, CVE-2026-26115, CVE-2026-26144, CVE-2026-26109, CVE-2026-26114, CVE-2026-26116, CVE-2026-26128, CVE-2026-26110  
+**CVEs:** CVE-2026-26144, CVE-2026-26116, CVE-2026-26114, CVE-2026-26115, CVE-2026-26106, CVE-2026-21262, CVE-2026-26109, CVE-2026-26128, CVE-2026-26113, CVE-2026-26110, CVE-2026-26118  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -447,7 +445,16 @@
 
 ---
 
-### 51. [2025 Identity Threat Landscape Report: Inside the Infostealer Economy: Credential Threats in 2025](https://www.recordedfuture.com/blog/identity-trend-report-march-blog)
+### 51. [2025 Year in Review: Malicious, Infrastructure](https://www.recordedfuture.com/research/2025-year-in-review-malicious-infrastructure)
+
+**Source:** Recorded Future  
+**Published:** Thu, 19 Mar 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [2025 Identity Threat Landscape Report: Inside the Infostealer Economy: Credential Threats in 2025](https://www.recordedfuture.com/blog/identity-trend-report-march-blog)
 
 **Source:** Recorded Future  
 **Published:** Mon, 16 Mar 2026 00:00:00 GMT  
@@ -456,7 +463,7 @@
 
 ---
 
-### 52. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+### 53. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
 
 **Source:** Recorded Future  
 **Published:** Fri, 13 Mar 2026 00:00:00 GMT  
@@ -465,7 +472,7 @@
 
 ---
 
-### 53. [February 2026 CVE Landscape: 13 Critical Vulnerabilities Mark 43% Drop from January](https://www.recordedfuture.com/blog/february-2026-cve-landscape)
+### 54. [February 2026 CVE Landscape: 13 Critical Vulnerabilities Mark 43% Drop from January](https://www.recordedfuture.com/blog/february-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Thu, 12 Mar 2026 00:00:00 GMT  
@@ -474,7 +481,7 @@
 
 ---
 
-### 54. [Latin America's Cybersecurity Turning Point: From Reactive Defense to Threat Intelligence](https://www.recordedfuture.com/blog/latin-america-cybersecurity-turning-point)
+### 55. [Latin America's Cybersecurity Turning Point: From Reactive Defense to Threat Intelligence](https://www.recordedfuture.com/blog/latin-america-cybersecurity-turning-point)
 
 **Source:** Recorded Future  
 **Published:** Tue, 03 Mar 2026 00:00:00 GMT  
@@ -483,7 +490,7 @@
 
 ---
 
-### 55. [Recorded Future Expands Coverage of Scams and Financial Fraud with Money Mule Intelligence from CYBERA](https://www.recordedfuture.com/blog/recorded-future-money-mule-intelligence-cybera)
+### 56. [Recorded Future Expands Coverage of Scams and Financial Fraud with Money Mule Intelligence from CYBERA](https://www.recordedfuture.com/blog/recorded-future-money-mule-intelligence-cybera)
 
 **Source:** Recorded Future  
 **Published:** Thu, 26 Feb 2026 00:00:00 GMT  
@@ -492,7 +499,7 @@
 
 ---
 
-### 56. [January 2026 CVE Landscape: 23 Critical Vulnerabilities Mark 5% Increase, APT28 Exploits Microsoft Office Zero-Day](https://www.recordedfuture.com/blog/january-2026-cve-landscape)
+### 57. [January 2026 CVE Landscape: 23 Critical Vulnerabilities Mark 5% Increase, APT28 Exploits Microsoft Office Zero-Day](https://www.recordedfuture.com/blog/january-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Tue, 24 Feb 2026 00:00:00 GMT  
@@ -501,7 +508,7 @@
 
 ---
 
-### 57. [Preparing for Russia’s New Generation Warfare in Europe](https://www.recordedfuture.com/research/preparing-for-russias-new-generation-warfare-in-europe)
+### 58. [Preparing for Russia’s New Generation Warfare in Europe](https://www.recordedfuture.com/research/preparing-for-russias-new-generation-warfare-in-europe)
 
 **Source:** Recorded Future  
 **Published:** Tue, 24 Feb 2026 00:00:00 GMT  
@@ -510,7 +517,7 @@
 
 ---
 
-### 58. [2025 Cloud Threat Hunting and Defense Landscape](https://www.recordedfuture.com/research/2025-cloud-threat-hunting-defense-landscape)
+### 59. [2025 Cloud Threat Hunting and Defense Landscape](https://www.recordedfuture.com/research/2025-cloud-threat-hunting-defense-landscape)
 
 **Source:** Recorded Future  
 **Published:** Thu, 19 Feb 2026 00:00:00 GMT  
@@ -519,21 +526,12 @@
 
 ---
 
-### 59. [GrayCharlie Hijacks Law Firm Sites in Suspected Supply-Chain Attack](https://www.recordedfuture.com/research/graycharlie-hijacks-law-firm-sites-suspected-supply-chain-attack)
+### 60. [GrayCharlie Hijacks Law Firm Sites in Suspected Supply-Chain Attack](https://www.recordedfuture.com/research/graycharlie-hijacks-law-firm-sites-suspected-supply-chain-attack)
 
 **Source:** Recorded Future  
 **Published:** Wed, 18 Feb 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 60. [Network Intelligence: Your Questions, Global Answers](https://www.recordedfuture.com/blog/network-intelligence-questions-answered)
-
-**Source:** Recorded Future  
-**Published:** Mon, 16 Feb 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -617,7 +615,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

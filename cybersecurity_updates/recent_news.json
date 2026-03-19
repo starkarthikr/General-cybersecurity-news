@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More",
+    "link": "https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html",
+    "published": "Thu, 19 Mar 2026 19:55:00 +0530",
+    "summary": "ThreatsDay Bulletin is back on The Hacker News, and this week feels off in a familiar way. Nothing loud, nothing breaking everything at once. Just a lot of small things that shouldn&rsquo;t work anymore but still do.\nSome of it looks simple, almost sloppy, until you see how well it lands. Other bits feel a little too practical, like they&rsquo;re already closer to real-world use than anyone",
+    "analysis": {
+      "issue": "ThreatsDay roundup covering stealthy attacks, phishing trends, exploit chains, and rising security risks across the threat landscape",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
+    "link": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html",
+    "published": "Thu, 19 Mar 2026 18:13:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a new Android malware family called Perseus that's being actively distributed in the wild with an aim to conduct device takeover (DTO) and financial fraud.\nPerseus is built upon the foundations of Cerberus and Phoenix, at the same time evolving into a \"more flexible and capable platform\" for compromising Android devices through dropper apps distributed",
+    "analysis": {
+      "issue": "Perseus Android malware uses accessibility abuse via phishing apps to enable device takeover and financial fraud across multiple countries",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "How Ceros Gives Security Teams Visibility and Control in Claude Code",
     "link": "https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html",
     "published": "Thu, 19 Mar 2026 16:28:00 +0530",
@@ -152,40 +190,80 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
-    "link": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
-    "published": "Wed, 18 Mar 2026 16:00:00 +0530",
-    "summary": "Security teams today are not short on tools or data. They are overwhelmed by both.&nbsp;\nYet within the terabytes of alerts, exposures, and misconfigurations – security teams still struggle to understand context:&nbsp;\nQ: Which exposures, misconfigurations, and vulnerabilities chain together to create viable attack paths to crown jewels?\nEven the most mature security teams can’t answer that",
+    "source": "Bleeping Computer",
+    "title": "Bitrefill blames North Korean Lazarus group for cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/",
+    "published": "Thu, 19 Mar 2026 13:08:24 -0400",
+    "summary": "Crypto-powered gift card store Bitrefill says that the attack it suffered at the beginning of the month was likely perpetrated by North Korean hackers of the Bluenoroff group. [...]",
     "analysis": {
-      "issue": "CSMA links siloed security tools into attack paths to crown jewels, exposing hidden risks and enabling faster remediation",
+      "issue": "Crypto-powered gift card store Bitrefill says that the attack it suffered at the beginning of the month was likely perpetrated by North Korean hackers of the Bluenoroff group",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware",
+        "APT"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
-    "link": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
-    "published": "Wed, 18 Mar 2026 13:38:00 +0530",
-    "summary": "A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to the root level.\nTracked as CVE-2026-3888 (CVSS score: 7.8), the issue could allow an attacker to seize control of a susceptible system.\n\"This flaw (CVE-2026-3888) allows an unprivileged local attacker to escalate privileges to full root access",
+    "source": "Bleeping Computer",
+    "title": "FBI seizes Handala data leak site after Stryker cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/",
+    "published": "Thu, 19 Mar 2026 12:14:13 -0400",
+    "summary": "The FBI has seized two websites used by the Handala hacktivist group after the threat actors conducted a destructive cyberattack on medical technology giant Stryker that wiped approximately 80,000 devices. [...]",
     "analysis": {
-      "issue": "Ubuntu CVE-2026-3888 flaw exploits cleanup timing in snap-confine to gain root access, risking full system compromise",
+      "issue": "The FBI has seized two websites used by the Handala hacktivist group after the threat actors conducted a destructive cyberattack on medical technology giant Stryker that wiped approximately 80,000 devices",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Russian hackers exploit Zimbra flaw in Ukrainian govt attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/",
+    "published": "Thu, 19 Mar 2026 10:55:50 -0400",
+    "summary": "Hackers part of APT28, a state-backed threat group linked to Russia's military intelligence service (GRU), are exploiting a Zimbra Collaboration Suite (ZCS) vulnerability in attacks targeting Ukrainian government entities. [...]",
+    "analysis": {
+      "issue": "Hackers part of APT28, a state-backed threat group linked to Russia's military intelligence service (GRU), are exploiting a Zimbra Collaboration Suite (ZCS) vulnerability in attacks targeting Ukrainian government entities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-3888"
+        "CVE-2025-66376"
       ],
       "threat_categories": [
-        "Vulnerability"
+        "Vulnerability",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "7 Ways to Prevent Privilege Escalation via Password Resets",
+    "link": "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/",
+    "published": "Thu, 19 Mar 2026 10:00:10 -0400",
+    "summary": "Password resets are often weaker than login security, making them a prime target for privilege escalation. Specops Software explains how attackers abuse reset workflows and how to secure them. [...]",
+    "analysis": {
+      "issue": "While IT teams invest heavily in login security, many don’t apply the same scrutiny to password resets",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "APT"
       ]
     }
   },
@@ -274,7 +352,7 @@
     "published": "Wed, 18 Mar 2026 18:56:50 -0400",
     "summary": "Identity protection company Aura has confirmed that an unauthorized party gained access to nearly 900,000 customer records containing names and email addresses. [...]",
     "analysis": {
-      "issue": "Identity protection company Aura has confirmed that an unauthorized party gained access to nearly 900,000 customer records containing names and email addresses",
+      "issue": "Identity protection company Aura has confirmed that an unauthorized party gained access to nearly 900,000 records containing names and email addresses",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -303,86 +381,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ConnectWise patches new flaw allowing ScreenConnect hijacking",
-    "link": "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/",
-    "published": "Wed, 18 Mar 2026 14:10:35 -0400",
-    "summary": "ConnectWise is warning ScreenConnect customers of a cryptographic signature verification vulnerability that could lead to unauthorized access and privilege escalation. [...]",
-    "analysis": {
-      "issue": "ConnectWise is warning ScreenConnect customers of a cryptographic signature verification vulnerability that could lead to unauthorized access and privilege escalation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-3564"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ransomware gang exploits Cisco flaw in zero-day attacks since January",
-    "link": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/",
-    "published": "Wed, 18 Mar 2026 12:53:42 -0400",
-    "summary": "The Interlock ransomware gang has been exploiting a maximum severity remote code execution (RCE) vulnerability in Cisco's Secure Firewall Management Center (FMC) software in zero-day attacks since late January. [...]",
-    "analysis": {
-      "issue": "The Interlock ransomware gang has been exploiting a maximum severity remote code execution (RCE) vulnerability in Cisco's Secure Firewall Management Center (FMC) software in zero-day attacks since late January",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20131"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Marquis: Ransomware gang stole data of 672K people in cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/",
-    "published": "Wed, 18 Mar 2026 11:32:39 -0400",
-    "summary": "Marquis, a Texas-based financial services provider, revealed this week that a ransomware gang stole the data of over 670,000 individuals in an August 2025 cyberattack that also disrupted operations at 74 banks across the United States. [...]",
-    "analysis": {
-      "issue": "Marquis, a Texas-based financial services provider, revealed this week that a ransomware gang stole the data of over 670,000 individuals in an August 2025 cyberattack that also disrupted operations at 74 banks across the United States",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms",
-    "link": "https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/",
-    "published": "Wed, 18 Mar 2026 10:05:15 -0400",
-    "summary": "Refund fraud is now a business, with methods and tutorials sold to exploit return policies for profit. Flare shows how fraudsters turn refunds and chargebacks into a repeatable profit model. [...]",
-    "analysis": {
-      "issue": "Refund fraud is no longer just opportunistic abuse of return policies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -417,14 +415,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21262",
-        "CVE-2026-26113",
-        "CVE-2026-25187",
         "CVE-2026-26127",
-        "CVE-2026-24289",
-        "CVE-2026-24291",
         "CVE-2026-24294",
-        "CVE-2026-26110"
+        "CVE-2026-21262",
+        "CVE-2026-24289",
+        "CVE-2026-25187",
+        "CVE-2026-26113",
+        "CVE-2026-26110",
+        "CVE-2026-24291"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -521,16 +519,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21510",
-        "CVE-2026-21513",
-        "CVE-2026-21523",
-        "CVE-2026-21256",
-        "CVE-2026-21516",
-        "CVE-2026-21533",
-        "CVE-2026-21514",
         "CVE-2026-21525",
+        "CVE-2026-21509",
+        "CVE-2026-21513",
+        "CVE-2026-21256",
         "CVE-2026-21519",
-        "CVE-2026-21509"
+        "CVE-2026-21523",
+        "CVE-2026-21510",
+        "CVE-2026-21514",
+        "CVE-2026-21533",
+        "CVE-2026-21516"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -597,6 +595,41 @@
   },
   {
     "source": "Security Week",
+    "title": "Iran Readied Cyberattack Capabilities for Response Prior to Epic Fury",
+    "link": "https://www.securityweek.com/iran-readied-cyberattack-capabilities-for-response-prior-to-epic-fury/",
+    "published": "Thu, 19 Mar 2026 15:30:00 +0000",
+    "summary": "<p>Analysis reveals a six-month buildup of Iran-linked cyber infrastructure, including US-based shell companies, designed to weather kinetic strikes and ensure the resilience of its global hacking operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/iran-readied-cyberattack-capabilities-for-response-prior-to-epic-fury/\">Iran Readied Cyberattack Capabilities for Response Prior to Epic Fury</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Marquis Data Breach Affects 672,000 Individuals",
+    "link": "https://www.securityweek.com/marquis-data-breach-affects-672000-individuals/",
+    "published": "Thu, 19 Mar 2026 15:07:36 +0000",
+    "summary": "<p>It was previously estimated that more than 1.6 million people may be affected by the Marquis data breach.</p>\n<p>The post <a href=\"https://www.securityweek.com/marquis-data-breach-affects-672000-individuals/\">Marquis Data Breach Affects 672,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Security Firm Aura Discloses Data Breach Impacting 900,000 Records",
+    "link": "https://www.securityweek.com/security-firm-aura-discloses-data-breach-impacting-900000-records/",
+    "published": "Thu, 19 Mar 2026 14:19:08 +0000",
+    "summary": "<p>The information was stolen from a marketing tool after an employee fell victim to a targeted phone phishing attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/security-firm-aura-discloses-data-breach-impacting-900000-records/\">Security Firm Aura Discloses Data Breach Impacting 900,000 Records</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Hacker Conversations: Ben Harris, From Unintentional Young Hacker to Intentional Adult CEO",
+    "link": "https://www.securityweek.com/hacker-conversations-ben-harris-from-unintentional-young-hacker-to-intentional-adult-ceo/",
+    "published": "Thu, 19 Mar 2026 13:30:00 +0000",
+    "summary": "<p>Harris is a hacker with a rebellious spirit and a willingness to break rules in the pursuit of his purpose – but without causing harm or damage. </p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-ben-harris-from-unintentional-young-hacker-to-intentional-adult-ceo/\">Hacker Conversations: Ben Harris, From Unintentional Young Hacker to Intentional Adult CEO</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Russian APT Exploits Zimbra Vulnerability Against Ukraine",
+    "link": "https://www.securityweek.com/russian-apt-exploits-zimbra-vulnerability-against-ukraine/",
+    "published": "Thu, 19 Mar 2026 13:24:54 +0000",
+    "summary": "<p>Insufficient sanitization of CSS content within HTML emails leads to inline script execution when the message is opened in a browser.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-apt-exploits-zimbra-vulnerability-against-ukraine/\">Russian APT Exploits Zimbra Vulnerability Against Ukraine</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Raven Emerges From Stealth With $20 Million in Funding",
     "link": "https://www.securityweek.com/raven-emerges-from-stealth-with-20-million-in-funding/",
     "published": "Thu, 19 Mar 2026 10:31:16 +0000",
@@ -629,41 +662,6 @@
     "link": "https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/",
     "published": "Wed, 18 Mar 2026 18:01:50 +0000",
     "summary": "<p>The company has developed an AI-powered platform that autonomously discovers and validates software vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/\">Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Cloud Security Startup Native Exits Stealth With $42 Million in Funding",
-    "link": "https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/",
-    "published": "Wed, 18 Mar 2026 15:59:50 +0000",
-    "summary": "<p>Phil Venables, former CISO of Google Cloud and now a venture partner at Ballistic Ventures, has joined Native’s board of directors.</p>\n<p>The post <a href=\"https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/\">Cloud Security Startup Native Exits Stealth With $42 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "‘DarkSword’ iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors",
-    "link": "https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/",
-    "published": "Wed, 18 Mar 2026 15:30:50 +0000",
-    "summary": "<p>Targeting six iOS vulnerabilities and leading to full device compromise, the exploit chain is meant for surveillance.</p>\n<p>The post <a href=\"https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/\">&#8216;DarkSword&#8217; iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Virtual Summit Today: Supply Chain & Third-Party Risk Summit",
-    "link": "https://www.securityweek.com/virtual-summit-today-supply-chain-third-party-risk-summit/",
-    "published": "Wed, 18 Mar 2026 14:57:28 +0000",
-    "summary": "<p>Cyber risk doesn’t stop at your perimeter. Today’s most dangerous threats could be hiding in your software supply chain.</p>\n<p>The post <a href=\"https://www.securityweek.com/virtual-summit-today-supply-chain-third-party-risk-summit/\">Virtual Summit Today: Supply Chain &amp; Third-Party Risk Summit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations",
-    "link": "https://www.securityweek.com/eu-sanctions-chinese-iranian-firms-supporting-hacking-operations/",
-    "published": "Wed, 18 Mar 2026 14:54:51 +0000",
-    "summary": "<p>The sanctions target two Chinese individuals, two Chinese companies, and one Iranian firm involved in hacking EU member states.</p>\n<p>The post <a href=\"https://www.securityweek.com/eu-sanctions-chinese-iranian-firms-supporting-hacking-operations/\">EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches",
-    "link": "https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/",
-    "published": "Wed, 18 Mar 2026 14:00:00 +0000",
-    "summary": "<p>From Chaos to Control examines the chaos that often comes from shadow AI hidden in SaaS apps and urges better visibility and control over agentic AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/\">Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -792,17 +790,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-26144",
+        "CVE-2026-26116",
+        "CVE-2026-26114",
+        "CVE-2026-26115",
         "CVE-2026-26106",
         "CVE-2026-21262",
-        "CVE-2026-26113",
-        "CVE-2026-26118",
-        "CVE-2026-26115",
-        "CVE-2026-26144",
         "CVE-2026-26109",
-        "CVE-2026-26114",
-        "CVE-2026-26116",
         "CVE-2026-26128",
-        "CVE-2026-26110"
+        "CVE-2026-26113",
+        "CVE-2026-26110",
+        "CVE-2026-26118"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -856,6 +854,24 @@
     "summary": "Cisco Talos updates this blog with additional IOCs, guidance, recommendations and timelines as of March 10, 2026.",
     "analysis": {
       "issue": "Date  Description of updates  March 13, 2026  Talos’ assessment of the cyber attack on Stryker and the elevated threat landscape",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "2025 Year in Review: Malicious, Infrastructure",
+    "link": "https://www.recordedfuture.com/research/2025-year-in-review-malicious-infrastructure",
+    "published": "Thu, 19 Mar 2026 00:00:00 GMT",
+    "summary": "Explore Insikt Group’s 2025 Malicious Infrastructure Report. Gain insights into Cobalt Strike, Vidar infostealers, and AI-driven threats to secure your 2026 strategy.",
+    "analysis": {
+      "issue": "Explore Insikt Group’s 2025 Malicious Infrastructure Report",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1031,24 +1047,6 @@
     }
   },
   {
-    "source": "Recorded Future",
-    "title": "Network Intelligence: Your Questions, Global Answers",
-    "link": "https://www.recordedfuture.com/blog/network-intelligence-questions-answered",
-    "published": "Mon, 16 Feb 2026 00:00:00 GMT",
-    "summary": "Learn how network intelligence gives security teams control over threat investigation with global visibility—no more drowning in generic, passive threat feeds.",
-    "analysis": {
-      "issue": "Learn how network intelligence gives security teams control over threat investigation with global visibility—no more drowning in generic, passive threat feeds",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Threat Post",
     "title": "Student Loan Breach Exposes 2.5M Records",
     "link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
@@ -1215,8 +1213,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1249,7 +1247,7 @@
     "title": "A DarkSword hangs over unpatched iPhones",
     "link": "https://www.malwarebytes.com/blog/mobile/2026/03/a-darksword-hangs-over-unpatched-iphones",
     "published": "Thu, 19 Mar 2026 12:27:53 GMT",
-    "summary": "Researchers have identified multiple state-level attacks using DarkSword, a chain of vulnerabilities, to infect unpatches iPhones.",
+    "summary": "Researchers have identified multiple state-level attacks using DarkSword, a chain of vulnerabilities, to infect unpatched iPhones.",
     "analysis": {
       "issue": "Researchers at Google have identified an iOS exploit chain, named DarkSword, that has been used since late last year by multiple actors to infect iPhones with malware in targeted attacks",
       "solution": null,
