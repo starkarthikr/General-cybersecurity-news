@@ -190,6 +190,65 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Aura confirms data breach exposing 900,000 marketing contacts",
+    "link": "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/",
+    "published": "Wed, 18 Mar 2026 18:56:50 -0400",
+    "summary": "Identity protection company Aura has confirmed that an unauthorized party gained access to nearly 900,000 customer records containing names and email addresses. [...]",
+    "analysis": {
+      "issue": "Identity protection company Aura has confirmed that an unauthorized party gained access to nearly 900,000 customer records containing names and email addresses",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA orders feds to patch Zimbra XSS flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/",
+    "published": "Wed, 18 Mar 2026 15:57:13 -0400",
+    "summary": "CISA has ordered U.S. government agencies to secure their servers against an actively exploited vulnerability in the Zimbra Collaboration Suite (ZCS). [...]",
+    "analysis": {
+      "issue": "government agencies to secure their servers against an actively exploited vulnerability in the Zimbra Collaboration Suite (ZCS)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2025-66376"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "ConnectWise patches new flaw allowing ScreenConnect hijacking",
+    "link": "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/",
+    "published": "Wed, 18 Mar 2026 14:10:35 -0400",
+    "summary": "ConnectWise is warning ScreenConnect customers of a cryptographic signature verification vulnerability that could lead to unauthorized access and privilege escalation. [...]",
+    "analysis": {
+      "issue": "ConnectWise is warning ScreenConnect customers of a cryptographic signature verification vulnerability that could lead to unauthorized access and privilege escalation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-3564"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Ransomware gang exploits Cisco flaw in zero-day attacks since January",
     "link": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/",
     "published": "Wed, 18 Mar 2026 12:53:42 -0400",
@@ -261,12 +320,12 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-14174",
-        "CVE-2025-43510",
+        "CVE-2025-31277",
         "CVE-2026-20700",
         "CVE-2025-43529",
-        "CVE-2025-31277",
-        "CVE-2025-43520"
+        "CVE-2025-43510",
+        "CVE-2025-43520",
+        "CVE-2025-14174"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -331,60 +390,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Europe sanctions Chinese and Iranian firms for cyberattacks",
-    "link": "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/",
-    "published": "Tue, 17 Mar 2026 14:41:59 -0400",
-    "summary": "The European Union Council has announced sanctions against three entities and two individuals for their involvement in cyberattacks targeting critical infrastructure in the region. [...]",
-    "analysis": {
-      "issue": "The Council of the European Union has sanctioned three Chinese and Iranian companies and two individuals for cyberattacks targeting devices and critical infrastructure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
-    "link": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/",
-    "published": "Tue, 17 Mar 2026 10:02:12 -0400",
-    "summary": "AI agents are autonomous actors with real access to data and systems, not just copilots. Token Security explains why identity-based access control is critical to prevent misuse and data exposure. [...]",
-    "analysis": {
-      "issue": "By Itamar Apelblat, Co-Founder and CEO, Token Security Agentic AI represents a once-in-a-generation shift in how organizations operate",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New font-rendering trick hides malicious commands from AI tools",
-    "link": "https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/",
-    "published": "Tue, 17 Mar 2026 09:59:12 -0400",
-    "summary": "A new font-rendering attack causes AI assistants to miss malicious commands shown on webpages by hiding them in seemingly harmless HTML. [...]",
-    "analysis": {
-      "issue": "A new font-rendering attack causes AI assistants to miss malicious commands shown on webpages by hiding them in seemingly harmless HTML",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
     "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
@@ -416,13 +421,13 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-26113",
-        "CVE-2026-25187",
-        "CVE-2026-26127",
         "CVE-2026-24291",
         "CVE-2026-26110",
-        "CVE-2026-21262",
         "CVE-2026-24289",
-        "CVE-2026-24294"
+        "CVE-2026-25187",
+        "CVE-2026-24294",
+        "CVE-2026-26127",
+        "CVE-2026-21262"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -519,16 +524,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21509",
-        "CVE-2026-21516",
-        "CVE-2026-21525",
-        "CVE-2026-21523",
-        "CVE-2026-21256",
-        "CVE-2026-21514",
         "CVE-2026-21519",
+        "CVE-2026-21516",
+        "CVE-2026-21523",
+        "CVE-2026-21533",
+        "CVE-2026-21525",
+        "CVE-2026-21509",
         "CVE-2026-21513",
-        "CVE-2026-21510",
-        "CVE-2026-21533"
+        "CVE-2026-21514",
+        "CVE-2026-21256",
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -595,6 +600,20 @@
   },
   {
     "source": "Security Week",
+    "title": "The Collapse of Predictive Security in the Age of Machine-Speed Attacks",
+    "link": "https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/",
+    "published": "Wed, 18 Mar 2026 19:37:25 +0000",
+    "summary": "<p>With exploitation of vulnerabilities taking just days, preemptive security must be the new model for defenders.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/\">The Collapse of Predictive Security in the Age of Machine-Speed Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation",
+    "link": "https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/",
+    "published": "Wed, 18 Mar 2026 18:01:50 +0000",
+    "summary": "<p>The company has developed an AI-powered platform that autonomously discovers and validates software vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/\">Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Cloud Security Startup Native Exits Stealth With $42 Million in Funding",
     "link": "https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/",
     "published": "Wed, 18 Mar 2026 15:59:50 +0000",
@@ -648,20 +667,6 @@
     "link": "https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/",
     "published": "Wed, 18 Mar 2026 12:35:49 +0000",
     "summary": "<p>The lightweight updates are meant to deliver security protections between security updates.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/\">Apple Debuts Background Security Improvements With Fresh WebKit Patches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Researcher Discovers 4th WhatsApp View Once Bypass; Meta Won’t Patch",
-    "link": "https://www.securityweek.com/researcher-discovers-4th-whatsapp-view-once-bypass-meta-wont-patch/",
-    "published": "Wed, 18 Mar 2026 10:43:23 +0000",
-    "summary": "<p>Meta does not plan on fixing the vulnerability because it involves the use of a modified client application.</p>\n<p>The post <a href=\"https://www.securityweek.com/researcher-discovers-4th-whatsapp-view-once-bypass-meta-wont-patch/\">Researcher Discovers 4th WhatsApp View Once Bypass; Meta Won’t Patch</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Tech Giants Invest $12.5 Million in Open Source Security",
-    "link": "https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/",
-    "published": "Tue, 17 Mar 2026 16:01:00 +0000",
-    "summary": "<p>Anthropic, AWS, Google, Microsoft, and OpenAI fund the Linux Foundation’s long-term security initiatives focused on open source software.</p>\n<p>The post <a href=\"https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/\">Tech Giants Invest $12.5 Million in Open Source Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -770,16 +775,16 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-26113",
+        "CVE-2026-26116",
         "CVE-2026-26144",
+        "CVE-2026-26114",
+        "CVE-2026-26110",
+        "CVE-2026-26128",
+        "CVE-2026-26109",
+        "CVE-2026-26118",
         "CVE-2026-26106",
         "CVE-2026-26115",
-        "CVE-2026-26128",
-        "CVE-2026-26110",
-        "CVE-2026-21262",
-        "CVE-2026-26114",
-        "CVE-2026-26116",
-        "CVE-2026-26109",
-        "CVE-2026-26118"
+        "CVE-2026-21262"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1212,8 +1217,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

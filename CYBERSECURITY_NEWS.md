@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-18 17:36:33 UTC
+**Last Updated:** 2026-03-19 02:46:58 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -98,7 +98,36 @@
 
 ---
 
-### 11. [Ransomware gang exploits Cisco flaw in zero-day attacks since January](https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/)
+### 11. [Aura confirms data breach exposing 900,000 marketing contacts](https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 18 Mar 2026 18:56:50 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Phishing  
+
+---
+
+### 12. [CISA orders feds to patch Zimbra XSS flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 18 Mar 2026 15:57:13 -0400  
+**Severity:** High  
+**CVEs:** CVE-2025-66376  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [ConnectWise patches new flaw allowing ScreenConnect hijacking](https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 18 Mar 2026 14:10:35 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-3564  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [Ransomware gang exploits Cisco flaw in zero-day attacks since January](https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Mar 2026 12:53:42 -0400  
@@ -108,7 +137,7 @@
 
 ---
 
-### 12. [Marquis: Ransomware gang stole data of 672K people in cyberattack](https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/)
+### 15. [Marquis: Ransomware gang stole data of 672K people in cyberattack](https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Mar 2026 11:32:39 -0400  
@@ -117,7 +146,7 @@
 
 ---
 
-### 13. [The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms](https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/)
+### 16. [The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms](https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Mar 2026 10:05:15 -0400  
@@ -126,17 +155,17 @@
 
 ---
 
-### 14. [New “Darksword” iOS exploit used in infostealer attack on iPhones](https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/)
+### 17. [New “Darksword” iOS exploit used in infostealer attack on iPhones](https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Mar 2026 10:02:08 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2025-14174, CVE-2025-43510, CVE-2026-20700, CVE-2025-43529, CVE-2025-31277, CVE-2025-43520  
+**CVEs:** CVE-2025-31277, CVE-2026-20700, CVE-2025-43529, CVE-2025-43510, CVE-2025-43520, CVE-2025-14174  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 15. [Nordstrom's email system abused to send crypto scams to customers](https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/)
+### 18. [Nordstrom's email system abused to send crypto scams to customers](https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Mar 2026 09:55:49 -0400  
@@ -145,7 +174,7 @@
 
 ---
 
-### 16. [Apple pushes first Background Security Improvements update to fix WebKit flaw](https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/)
+### 19. [Apple pushes first Background Security Improvements update to fix WebKit flaw](https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Mar 2026 21:06:31 -0400  
@@ -155,39 +184,12 @@
 
 ---
 
-### 17. [GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX](https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/)
+### 20. [GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX](https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 17 Mar 2026 17:42:54 -0400  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 18. [Europe sanctions Chinese and Iranian firms for cyberattacks](https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 17 Mar 2026 14:41:59 -0400  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 19. [Top 5 Things CISOs Need to Do Today to Secure AI Agents](https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 17 Mar 2026 10:02:12 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [New font-rendering trick hides malicious commands from AI tools](https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 17 Mar 2026 09:59:12 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -205,7 +207,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-25187, CVE-2026-26127, CVE-2026-24291, CVE-2026-26110, CVE-2026-21262, CVE-2026-24289, CVE-2026-24294  
+**CVEs:** CVE-2026-26113, CVE-2026-24291, CVE-2026-26110, CVE-2026-24289, CVE-2026-25187, CVE-2026-24294, CVE-2026-26127, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -251,7 +253,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21509, CVE-2026-21516, CVE-2026-21525, CVE-2026-21523, CVE-2026-21256, CVE-2026-21514, CVE-2026-21519, CVE-2026-21513, CVE-2026-21510, CVE-2026-21533  
+**CVEs:** CVE-2026-21519, CVE-2026-21516, CVE-2026-21523, CVE-2026-21533, CVE-2026-21525, CVE-2026-21509, CVE-2026-21513, CVE-2026-21514, CVE-2026-21256, CVE-2026-21510  
 **Categories:** Vulnerability  
 
 ---
@@ -283,73 +285,73 @@
 
 ---
 
-### 31. [Cloud Security Startup Native Exits Stealth With $42 Million in Funding](https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/)
+### 31. [The Collapse of Predictive Security in the Age of Machine-Speed Attacks](https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/)
+
+**Source:** Security Week  
+**Published:** Wed, 18 Mar 2026 19:37:25 +0000  
+
+---
+
+### 32. [Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation](https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/)
+
+**Source:** Security Week  
+**Published:** Wed, 18 Mar 2026 18:01:50 +0000  
+
+---
+
+### 33. [Cloud Security Startup Native Exits Stealth With $42 Million in Funding](https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 15:59:50 +0000  
 
 ---
 
-### 32. [‘DarkSword’ iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors](https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/)
+### 34. [‘DarkSword’ iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors](https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 15:30:50 +0000  
 
 ---
 
-### 33. [Virtual Summit Today: Supply Chain & Third-Party Risk Summit](https://www.securityweek.com/virtual-summit-today-supply-chain-third-party-risk-summit/)
+### 35. [Virtual Summit Today: Supply Chain & Third-Party Risk Summit](https://www.securityweek.com/virtual-summit-today-supply-chain-third-party-risk-summit/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 14:57:28 +0000  
 
 ---
 
-### 34. [EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations](https://www.securityweek.com/eu-sanctions-chinese-iranian-firms-supporting-hacking-operations/)
+### 36. [EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations](https://www.securityweek.com/eu-sanctions-chinese-iranian-firms-supporting-hacking-operations/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 14:54:51 +0000  
 
 ---
 
-### 35. [Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches](https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/)
+### 37. [Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches](https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 14:00:00 +0000  
 
 ---
 
-### 36. [Manifold Raises $8 Million for AI Detection and Response](https://www.securityweek.com/manifold-raises-8-million-for-ai-detection-and-response/)
+### 38. [Manifold Raises $8 Million for AI Detection and Response](https://www.securityweek.com/manifold-raises-8-million-for-ai-detection-and-response/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 13:59:23 +0000  
 
 ---
 
-### 37. [Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach](https://www.securityweek.com/iranian-hackers-likely-used-malware-stolen-credentials-in-stryker-breach/)
+### 39. [Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach](https://www.securityweek.com/iranian-hackers-likely-used-malware-stolen-credentials-in-stryker-breach/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 12:47:00 +0000  
 
 ---
 
-### 38. [Apple Debuts Background Security Improvements With Fresh WebKit Patches](https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/)
+### 40. [Apple Debuts Background Security Improvements With Fresh WebKit Patches](https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 12:35:49 +0000  
-
----
-
-### 39. [Researcher Discovers 4th WhatsApp View Once Bypass; Meta Won’t Patch](https://www.securityweek.com/researcher-discovers-4th-whatsapp-view-once-bypass-meta-wont-patch/)
-
-**Source:** Security Week  
-**Published:** Wed, 18 Mar 2026 10:43:23 +0000  
-
----
-
-### 40. [Tech Giants Invest $12.5 Million in Open Source Security](https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/)
-
-**Source:** Security Week  
-**Published:** Tue, 17 Mar 2026 16:01:00 +0000  
 
 ---
 
@@ -404,7 +406,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-26144, CVE-2026-26106, CVE-2026-26115, CVE-2026-26128, CVE-2026-26110, CVE-2026-21262, CVE-2026-26114, CVE-2026-26116, CVE-2026-26109, CVE-2026-26118  
+**CVEs:** CVE-2026-26113, CVE-2026-26116, CVE-2026-26144, CVE-2026-26114, CVE-2026-26110, CVE-2026-26128, CVE-2026-26109, CVE-2026-26118, CVE-2026-26106, CVE-2026-26115, CVE-2026-21262  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -615,7 +617,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
