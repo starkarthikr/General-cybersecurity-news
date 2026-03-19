@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-19 02:46:58 UTC
+**Last Updated:** 2026-03-19 03:26:13 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -160,7 +160,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Mar 2026 10:02:08 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2025-31277, CVE-2026-20700, CVE-2025-43529, CVE-2025-43510, CVE-2025-43520, CVE-2025-14174  
+**CVEs:** CVE-2025-14174, CVE-2025-43510, CVE-2026-20700, CVE-2025-43520, CVE-2025-43529, CVE-2025-31277  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -207,7 +207,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-24291, CVE-2026-26110, CVE-2026-24289, CVE-2026-25187, CVE-2026-24294, CVE-2026-26127, CVE-2026-21262  
+**CVEs:** CVE-2026-26113, CVE-2026-26127, CVE-2026-24291, CVE-2026-25187, CVE-2026-21262, CVE-2026-24289, CVE-2026-24294, CVE-2026-26110  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -253,7 +253,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21519, CVE-2026-21516, CVE-2026-21523, CVE-2026-21533, CVE-2026-21525, CVE-2026-21509, CVE-2026-21513, CVE-2026-21514, CVE-2026-21256, CVE-2026-21510  
+**CVEs:** CVE-2026-21513, CVE-2026-21510, CVE-2026-21533, CVE-2026-21519, CVE-2026-21525, CVE-2026-21516, CVE-2026-21523, CVE-2026-21509, CVE-2026-21514, CVE-2026-21256  
 **Categories:** Vulnerability  
 
 ---
@@ -406,7 +406,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-26116, CVE-2026-26144, CVE-2026-26114, CVE-2026-26110, CVE-2026-26128, CVE-2026-26109, CVE-2026-26118, CVE-2026-26106, CVE-2026-26115, CVE-2026-21262  
+**CVEs:** CVE-2026-26128, CVE-2026-26109, CVE-2026-26106, CVE-2026-26115, CVE-2026-26113, CVE-2026-26116, CVE-2026-21262, CVE-2026-26114, CVE-2026-26144, CVE-2026-26118, CVE-2026-26110  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -617,7 +617,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
