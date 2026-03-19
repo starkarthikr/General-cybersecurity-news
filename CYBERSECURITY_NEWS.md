@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-19 09:09:39 UTC
+**Last Updated:** 2026-03-19 13:19:49 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks](https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html)
+### 1. [How Ceros Gives Security Teams Visibility and Control in Claude Code](https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 19 Mar 2026 16:28:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover](https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 19 Mar 2026 14:44:00 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks](https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 19 Mar 2026 11:35:00 +0530  
@@ -14,7 +32,7 @@
 
 ---
 
-### 2. [OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs](https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html)
+### 4. [OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs](https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 22:56:00 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access](https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html)
+### 5. [Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access](https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 21:30:00 +0530  
@@ -33,7 +51,7 @@
 
 ---
 
-### 4. [Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
+### 6. [Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 18:00:00 +0530  
@@ -43,7 +61,7 @@
 
 ---
 
-### 5. [Claude Code Security and Magecart: Getting the Threat Model Right](https://thehackernews.com/2026/03/claude-code-security-and-magecart.html)
+### 7. [Claude Code Security and Magecart: Getting the Threat Model Right](https://thehackernews.com/2026/03/claude-code-security-and-magecart.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 17:28:00 +0530  
@@ -52,7 +70,7 @@
 
 ---
 
-### 6. [9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors](https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html)
+### 8. [9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors](https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 17:12:00 +0530  
@@ -61,7 +79,7 @@
 
 ---
 
-### 7. [Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels](https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html)
+### 9. [Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels](https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 16:00:00 +0530  
@@ -70,7 +88,7 @@
 
 ---
 
-### 8. [Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit](https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html)
+### 10. [Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit](https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 18 Mar 2026 13:38:00 +0530  
@@ -80,26 +98,45 @@
 
 ---
 
-### 9. [Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS](https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html)
+### 11. [Max severity Ubiquiti UniFi flaw may allow account takeover](https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 18 Mar 2026 12:01:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Mar 2026 09:00:22 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-20643  
+**CVEs:** CVE-2026-22557  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 12. [CISA urges US orgs to secure Microsoft Intune systems after Stryker breach](https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Mar 2026 07:02:27 -0400  
+**Severity:** Low  
 **Categories:** Vulnerability  
 
 ---
 
-### 10. [AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE](https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html)
+### 13. [New ‘Perseus’ Android malware checks user notes for secrets](https://www.bleepingcomputer.com/news/security/new-perseus-android-malware-checks-user-notes-for-secrets/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 17 Mar 2026 22:09:00 +0530  
-**Severity:** Critical  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Mar 2026 06:13:23 -0400  
+**Severity:** Low  
+**Categories:** Malware, APT  
 
 ---
 
-### 11. [Aura confirms data breach exposing 900,000 marketing contacts](https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/)
+### 14. [Critical Microsoft SharePoint flaw now exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 19 Mar 2026 06:06:38 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-20963  
+**Categories:** Vulnerability  
+
+---
+
+### 15. [Aura confirms data breach exposing 900,000 marketing contacts](https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Mar 2026 18:56:50 -0400  
@@ -108,7 +145,7 @@
 
 ---
 
-### 12. [CISA orders feds to patch Zimbra XSS flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/)
+### 16. [CISA orders feds to patch Zimbra XSS flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Mar 2026 15:57:13 -0400  
@@ -118,7 +155,7 @@
 
 ---
 
-### 13. [ConnectWise patches new flaw allowing ScreenConnect hijacking](https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/)
+### 17. [ConnectWise patches new flaw allowing ScreenConnect hijacking](https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Mar 2026 14:10:35 -0400  
@@ -128,7 +165,7 @@
 
 ---
 
-### 14. [Ransomware gang exploits Cisco flaw in zero-day attacks since January](https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/)
+### 18. [Ransomware gang exploits Cisco flaw in zero-day attacks since January](https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Mar 2026 12:53:42 -0400  
@@ -138,7 +175,7 @@
 
 ---
 
-### 15. [Marquis: Ransomware gang stole data of 672K people in cyberattack](https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/)
+### 19. [Marquis: Ransomware gang stole data of 672K people in cyberattack](https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Mar 2026 11:32:39 -0400  
@@ -147,50 +184,12 @@
 
 ---
 
-### 16. [The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms](https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/)
+### 20. [The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms](https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 18 Mar 2026 10:05:15 -0400  
 **Severity:** High  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 17. [New DarkSword iOS exploit used in infostealer attack on iPhones](https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 18 Mar 2026 10:02:08 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2025-14174, CVE-2025-43510, CVE-2025-43529, CVE-2026-20700, CVE-2025-31277, CVE-2025-43520  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 18. [Nordstrom's email system abused to send crypto scams to customers](https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 18 Mar 2026 09:55:49 -0400  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 19. [Apple pushes first Background Security Improvements update to fix WebKit flaw](https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 17 Mar 2026 21:06:31 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2026-20643  
-**Categories:** Vulnerability  
-
----
-
-### 20. [GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX](https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 17 Mar 2026 17:42:54 -0400  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -208,7 +207,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-26110, CVE-2026-24289, CVE-2026-24294, CVE-2026-25187, CVE-2026-26127, CVE-2026-21262, CVE-2026-24291  
+**CVEs:** CVE-2026-21262, CVE-2026-26113, CVE-2026-25187, CVE-2026-26127, CVE-2026-24289, CVE-2026-24291, CVE-2026-24294, CVE-2026-26110  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -254,7 +253,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21516, CVE-2026-21533, CVE-2026-21523, CVE-2026-21519, CVE-2026-21525, CVE-2026-21509, CVE-2026-21510, CVE-2026-21514, CVE-2026-21513, CVE-2026-21256  
+**CVEs:** CVE-2026-21510, CVE-2026-21513, CVE-2026-21523, CVE-2026-21256, CVE-2026-21516, CVE-2026-21533, CVE-2026-21514, CVE-2026-21525, CVE-2026-21519, CVE-2026-21509  
 **Categories:** Vulnerability  
 
 ---
@@ -286,77 +285,86 @@
 
 ---
 
-### 31. [Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks](https://www.securityweek.com/cisco-firewall-vulnerability-exploited-as-zero-day-in-interlock-ransomware-attacks/)
+### 31. [Raven Emerges From Stealth With $20 Million in Funding](https://www.securityweek.com/raven-emerges-from-stealth-with-20-million-in-funding/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Mar 2026 10:31:16 +0000  
+
+---
+
+### 32. [CISA Warns of Attacks Exploiting Recent SharePoint Vulnerability](https://www.securityweek.com/cisa-warns-of-attacks-exploiting-recent-sharepoint-vulnerability/)
+
+**Source:** Security Week  
+**Published:** Thu, 19 Mar 2026 09:42:52 +0000  
+
+---
+
+### 33. [Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks](https://www.securityweek.com/cisco-firewall-vulnerability-exploited-as-zero-day-in-interlock-ransomware-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 19 Mar 2026 08:57:59 +0000  
 
 ---
 
-### 32. [The Collapse of Predictive Security in the Age of Machine-Speed Attacks](https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/)
+### 34. [The Collapse of Predictive Security in the Age of Machine-Speed Attacks](https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 19:37:25 +0000  
 
 ---
 
-### 33. [Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation](https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/)
+### 35. [Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation](https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 18:01:50 +0000  
 
 ---
 
-### 34. [Cloud Security Startup Native Exits Stealth With $42 Million in Funding](https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/)
+### 36. [Cloud Security Startup Native Exits Stealth With $42 Million in Funding](https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 15:59:50 +0000  
 
 ---
 
-### 35. [‘DarkSword’ iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors](https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/)
+### 37. [‘DarkSword’ iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors](https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 15:30:50 +0000  
 
 ---
 
-### 36. [Virtual Summit Today: Supply Chain & Third-Party Risk Summit](https://www.securityweek.com/virtual-summit-today-supply-chain-third-party-risk-summit/)
+### 38. [Virtual Summit Today: Supply Chain & Third-Party Risk Summit](https://www.securityweek.com/virtual-summit-today-supply-chain-third-party-risk-summit/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 14:57:28 +0000  
 
 ---
 
-### 37. [EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations](https://www.securityweek.com/eu-sanctions-chinese-iranian-firms-supporting-hacking-operations/)
+### 39. [EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations](https://www.securityweek.com/eu-sanctions-chinese-iranian-firms-supporting-hacking-operations/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 14:54:51 +0000  
 
 ---
 
-### 38. [Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches](https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/)
+### 40. [Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches](https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/)
 
 **Source:** Security Week  
 **Published:** Wed, 18 Mar 2026 14:00:00 +0000  
 
 ---
 
-### 39. [Manifold Raises $8 Million for AI Detection and Response](https://www.securityweek.com/manifold-raises-8-million-for-ai-detection-and-response/)
+### 41. [Everyday tools, extraordinary crimes: the ransomware exfiltration playbook](https://blog.talosintelligence.com/everyday-tools-extraordinary-crimes-the-ransomware-exfiltration-playbook/)
 
-**Source:** Security Week  
-**Published:** Wed, 18 Mar 2026 13:59:23 +0000  
-
----
-
-### 40. [Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach](https://www.securityweek.com/iranian-hackers-likely-used-malware-stolen-credentials-in-stryker-breach/)
-
-**Source:** Security Week  
-**Published:** Wed, 18 Mar 2026 12:47:00 +0000  
+**Source:** Talos Blog  
+**Published:** Thu, 19 Mar 2026 10:00:38 GMT  
+**Severity:** High  
+**Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
 
-### 41. [Transparent COM instrumentation for malware analysis](https://blog.talosintelligence.com/transparent-com-instrumentation-for-malware-analysis/)
+### 42. [Transparent COM instrumentation for malware analysis](https://blog.talosintelligence.com/transparent-com-instrumentation-for-malware-analysis/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 18 Mar 2026 10:00:44 GMT  
@@ -365,7 +373,7 @@
 
 ---
 
-### 42. [This one’s for you, Mom](https://blog.talosintelligence.com/this-ones-for-you-mom/)
+### 43. [This one’s for you, Mom](https://blog.talosintelligence.com/this-ones-for-you-mom/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 12 Mar 2026 18:00:01 GMT  
@@ -374,7 +382,7 @@
 
 ---
 
-### 43. [DirectX, OpenFOAM, Libbiosig vulnerabilities](https://blog.talosintelligence.com/directx-openfoam-libbiosig-vulnerabilities/)
+### 44. [DirectX, OpenFOAM, Libbiosig vulnerabilities](https://blog.talosintelligence.com/directx-openfoam-libbiosig-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 11 Mar 2026 20:26:57 GMT  
@@ -384,7 +392,7 @@
 
 ---
 
-### 44. [Agentic AI security: Why you need to know about autonomous agents now](https://blog.talosintelligence.com/agentic-ai-security-why-you-need-to-know-about-autonomous-agents-now/)
+### 45. [Agentic AI security: Why you need to know about autonomous agents now](https://blog.talosintelligence.com/agentic-ai-security-why-you-need-to-know-about-autonomous-agents-now/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 11 Mar 2026 10:00:33 GMT  
@@ -393,7 +401,7 @@
 
 ---
 
-### 45. [Spinning complex ideas into clear docs with Kri Dontje](https://blog.talosintelligence.com/spinning-complex-ideas-into-clear-docs-with-kri-dontje/)
+### 46. [Spinning complex ideas into clear docs with Kri Dontje](https://blog.talosintelligence.com/spinning-complex-ideas-into-clear-docs-with-kri-dontje/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 11 Mar 2026 10:00:29 GMT  
@@ -402,17 +410,17 @@
 
 ---
 
-### 46. [Microsoft Patch Tuesday for March 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-march-2026/)
+### 47. [Microsoft Patch Tuesday for March 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-march-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-26109, CVE-2026-26110, CVE-2026-26144, CVE-2026-26114, CVE-2026-26128, CVE-2026-26115, CVE-2026-26106, CVE-2026-26118, CVE-2026-26116, CVE-2026-21262  
+**CVEs:** CVE-2026-26106, CVE-2026-21262, CVE-2026-26113, CVE-2026-26118, CVE-2026-26115, CVE-2026-26144, CVE-2026-26109, CVE-2026-26114, CVE-2026-26116, CVE-2026-26128, CVE-2026-26110  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 47. [Patch, track, repeat: The 2025 CVE retrospective](https://blog.talosintelligence.com/patch-track-repeat-the-2025-cve-retrospective/)
+### 48. [Patch, track, repeat: The 2025 CVE retrospective](https://blog.talosintelligence.com/patch-track-repeat-the-2025-cve-retrospective/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 05 Mar 2026 19:00:44 GMT  
@@ -421,7 +429,7 @@
 
 ---
 
-### 48. [UAT-9244 targets South American telecommunication providers with three new malware implants](https://blog.talosintelligence.com/uat-9244/)
+### 49. [UAT-9244 targets South American telecommunication providers with three new malware implants](https://blog.talosintelligence.com/uat-9244/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 05 Mar 2026 11:00:12 GMT  
@@ -430,21 +438,12 @@
 
 ---
 
-### 49. [Update, March 13: Talos on the developing situation in the Middle East](https://blog.talosintelligence.com/talos-developing-situation-in-the-middle-east/)
+### 50. [Update, March 13: Talos on the developing situation in the Middle East](https://blog.talosintelligence.com/talos-developing-situation-in-the-middle-east/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 03 Mar 2026 00:55:43 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 50. [Henry IV, Hotspur, Hal, and hallucinations](https://blog.talosintelligence.com/henry-iv-hotspur-hal-and-hallucinations/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 26 Feb 2026 19:00:39 GMT  
-**Severity:** Critical  
-**Categories:** Malware, Phishing, APT  
 
 ---
 
@@ -618,7 +617,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -633,7 +632,25 @@
 
 ---
 
-### 71. [Researchers found font-rendering trick to hide malicious commands](https://www.malwarebytes.com/blog/news/2026/03/researchers-found-font-rendering-trick-to-hide-malicious-commands)
+### 71. [A DarkSword hangs over unpatched iPhones](https://www.malwarebytes.com/blog/mobile/2026/03/a-darksword-hangs-over-unpatched-iphones)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 19 Mar 2026 12:27:53 GMT  
+**Severity:** High  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 72. [Your tax forms sell for $20 on the dark web](https://www.malwarebytes.com/blog/privacy/2026/03/your-tax-forms-sell-for-20-on-the-dark-web)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 19 Mar 2026 11:33:30 GMT  
+**Severity:** High  
+**Categories:** Malware, Phishing, Supply Chain  
+
+---
+
+### 73. [Researchers found font-rendering trick to hide malicious commands](https://www.malwarebytes.com/blog/news/2026/03/researchers-found-font-rendering-trick-to-hide-malicious-commands)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Mar 2026 17:16:59 GMT  
@@ -642,7 +659,7 @@
 
 ---
 
-### 72. [Apple patches WebKit bug that could let sites access your data](https://www.malwarebytes.com/blog/news/2026/03/apple-patches-webkit-bug-that-could-let-sites-access-your-data)
+### 74. [Apple patches WebKit bug that could let sites access your data](https://www.malwarebytes.com/blog/news/2026/03/apple-patches-webkit-bug-that-could-let-sites-access-your-data)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Mar 2026 11:19:59 GMT  
@@ -652,7 +669,7 @@
 
 ---
 
-### 73. [Inside a network of 20,000+ fake shops](https://www.malwarebytes.com/blog/scams/2026/03/inside-a-network-of-20000-fake-shops)
+### 75. [Inside a network of 20,000+ fake shops](https://www.malwarebytes.com/blog/scams/2026/03/inside-a-network-of-20000-fake-shops)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Mar 2026 08:51:46 GMT  
@@ -661,7 +678,7 @@
 
 ---
 
-### 74. [Fake Pudgy World site steals your crypto passwords](https://www.malwarebytes.com/blog/scams/2026/03/fake-pudgy-world-site-steals-your-crypto-passwords)
+### 76. [Fake Pudgy World site steals your crypto passwords](https://www.malwarebytes.com/blog/scams/2026/03/fake-pudgy-world-site-steals-your-crypto-passwords)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Mar 2026 16:10:42 GMT  
@@ -670,7 +687,7 @@
 
 ---
 
-### 75. [90% of people don’t trust AI with their data](https://www.malwarebytes.com/blog/privacy/2026/03/90-of-people-dont-trust-ai-with-their-data)
+### 77. [90% of people don’t trust AI with their data](https://www.malwarebytes.com/blog/privacy/2026/03/90-of-people-dont-trust-ai-with-their-data)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Mar 2026 12:26:37 GMT  
@@ -679,7 +696,7 @@
 
 ---
 
-### 76. [How searching for a VPN could mean handing over your work login details](https://www.malwarebytes.com/blog/news/2026/03/how-searching-for-a-vpn-could-mean-handing-over-your-work-login-details)
+### 78. [How searching for a VPN could mean handing over your work login details](https://www.malwarebytes.com/blog/news/2026/03/how-searching-for-a-vpn-could-mean-handing-over-your-work-login-details)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Mar 2026 11:36:23 GMT  
@@ -688,7 +705,7 @@
 
 ---
 
-### 77. [Google cracks down on Android apps abusing accessibility](https://www.malwarebytes.com/blog/mobile/2026/03/google-cracks-down-on-android-apps-abusing-accessibility)
+### 79. [Google cracks down on Android apps abusing accessibility](https://www.malwarebytes.com/blog/mobile/2026/03/google-cracks-down-on-android-apps-abusing-accessibility)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Mar 2026 09:59:12 GMT  
@@ -697,31 +714,12 @@
 
 ---
 
-### 78. [Hacked sites deliver Vidar infostealer to Windows users](https://www.malwarebytes.com/blog/threat-intel/2026/03/hacked-sites-deliver-vidar-infostealer-to-windows-users)
+### 80. [Hacked sites deliver Vidar infostealer to Windows users](https://www.malwarebytes.com/blog/threat-intel/2026/03/hacked-sites-deliver-vidar-infostealer-to-windows-users)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 16 Mar 2026 17:15:10 GMT  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware, APT  
-
----
-
-### 79. [Zombie ZIP method can fool antivirus during the first scan](https://www.malwarebytes.com/blog/news/2026/03/zombie-zip-method-can-fool-antivirus-during-the-first-scan)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 16 Mar 2026 16:09:08 GMT  
-**Severity:** High  
-**CVEs:** CVE-2026-0866  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 80. [Delete doesn’t mean gone. Here’s how File Shredder fixes that](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/03/delete-doesnt-mean-gone-heres-how-file-shredder-fixes-that)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 16 Mar 2026 14:22:31 GMT  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 

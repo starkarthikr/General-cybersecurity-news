@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "How Ceros Gives Security Teams Visibility and Control in Claude Code",
+    "link": "https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html",
+    "published": "Thu, 19 Mar 2026 16:28:00 +0530",
+    "summary": "Security teams have spent years building identity and access controls for human users and service accounts. But a new category of actor has quietly entered most enterprise environments, and it operates entirely outside those controls.\nClaude Code, Anthropic's AI coding agent, is now running across engineering organizations at scale. It reads files, executes shell commands, calls external APIs,",
+    "analysis": {
+      "issue": "Claude Code bypasses security controls by acting locally before monitoring, exposing data risks and audit gaps",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
+    "link": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html",
+    "published": "Thu, 19 Mar 2026 14:44:00 +0530",
+    "summary": "A new exploit kit for Apple iOS devices designed to steal sensitive data from is being wielded by multiple threat actors since at least November 2025, according to reports from Google Threat Intelligence Group (GTIG), iVerify, and Lookout.\nAccording to GTIG, multiple commercial surveillance vendors and suspected state-sponsored actors have utilized the full-chain exploit kit, codenamed DarkSword",
+    "analysis": {
+      "issue": "DarkSword exploit targets iOS 18",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
     "link": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html",
     "published": "Thu, 19 Mar 2026 11:35:00 +0530",
@@ -154,40 +190,80 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
-    "link": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
-    "published": "Wed, 18 Mar 2026 12:01:00 +0530",
-    "summary": "Apple on Tuesday released its first round of Background Security Improvements to address a security flaw in WebKit that affects iOS, iPadOS, and macOS.\nThe vulnerability, tracked as CVE-2026-20643 (CVSS score: N/A), has been described as a cross-origin issue in WebKit's Navigation API that could be exploited to bypass the same-origin policy when processing maliciously crafted web content.\nThe",
+    "source": "Bleeping Computer",
+    "title": "Max severity Ubiquiti UniFi flaw may allow account takeover",
+    "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/",
+    "published": "Thu, 19 Mar 2026 09:00:22 -0400",
+    "summary": "Ubiquiti has patched two vulnerabilities in the UniFi Network Application, including a maximum-severity flaw that may allow attackers to take over user accounts. [...]",
     "analysis": {
-      "issue": "Apple fixes WebKit CVE-2026-20643 in iOS 26",
+      "issue": "Ubiquiti has patched two vulnerabilities in the UniFi Network Application, including a maximum-severity flaw that may allow attackers to take over user accounts",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-20643"
+        "CVE-2026-22557"
       ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA urges US orgs to secure Microsoft Intune systems after Stryker breach",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/",
+    "published": "Thu, 19 Mar 2026 07:02:27 -0400",
+    "summary": "CISA warned U.S. organizations to follow Microsoft guidance to strengthen the Intune endpoint management tool after a cyberattack exploited it to wipe medical technology giant Stryker's systems. [...]",
+    "analysis": {
+      "issue": "organizations to follow Microsoft guidance to strengthen the Intune endpoint management tool after a cyberattack exploited it to wipe medical technology giant Stryker's systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
       "threat_categories": [
         "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
-    "link": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
-    "published": "Tue, 17 Mar 2026 22:09:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution environments using domain name system (DNS) queries.\nIn a report published Monday, BeyondTrust revealed that Amazon Bedrock AgentCore Code Interpreter's sandbox mode permits outbound DNS queries that an attacker can exploit to enable interactive shells",
+    "source": "Bleeping Computer",
+    "title": "New ‘Perseus’ Android malware checks user notes for secrets",
+    "link": "https://www.bleepingcomputer.com/news/security/new-perseus-android-malware-checks-user-notes-for-secrets/",
+    "published": "Thu, 19 Mar 2026 06:13:23 -0400",
+    "summary": "A new Android malware called Perseus is checking user-curated notes to steal  sensitive information, like passwords, recovery phrases, or financial data. [...]",
     "analysis": {
-      "issue": "DNS flaw in Amazon Bedrock and critical AI vulnerabilities expose data and enable RCE, risking breaches and infrastructure compromise",
+      "issue": "A new Android malware called Perseus is checking user-curated notes to steal  sensitive information, like passwords, recovery phrases, or financial data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Critical Microsoft SharePoint flaw now exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/",
+    "published": "Thu, 19 Mar 2026 06:06:38 -0400",
+    "summary": "A critical Microsoft SharePoint vulnerability patched in January is now being exploited in attacks, the Cybersecurity and Infrastructure Security Agency (CISA) warned. [...]",
+    "analysis": {
+      "issue": "A critical Microsoft SharePoint vulnerability patched in January is now being exploited in attacks, the Cybersecurity and Infrastructure Security Agency (CISA) warned",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
+      "cves": [
+        "CVE-2026-20963"
+      ],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
@@ -311,88 +387,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New DarkSword iOS exploit used in infostealer attack on iPhones",
-    "link": "https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/",
-    "published": "Wed, 18 Mar 2026 10:02:08 -0400",
-    "summary": "A new exploit kit for iOS devices and delivery framework dubbed \"Darksword\" has been used to steal a wide range of personal information, including data from cryptocurrency wallet app. [...]",
-    "analysis": {
-      "issue": "A new exploit kit for iOS devices and delivery framework dubbed “DarkSword” has been used to steal a wide range of personal information, including data from cryptocurrency wallet apps",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-14174",
-        "CVE-2025-43510",
-        "CVE-2025-43529",
-        "CVE-2026-20700",
-        "CVE-2025-31277",
-        "CVE-2025-43520"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Nordstrom's email system abused to send crypto scams to customers",
-    "link": "https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/",
-    "published": "Wed, 18 Mar 2026 09:55:49 -0400",
-    "summary": "Customers of upscale department store chain Nordstrom received fraudulent messages from a legitimate company email address that promoted cryptocurrency scams disguised as a St. Patrick's Day promotion. [...]",
-    "analysis": {
-      "issue": "Customers of upscale department store chain Nordstrom received fraudulent messages from a legitimate company email address that promoted cryptocurrency scams disguised as a St",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Apple pushes first Background Security Improvements update to fix WebKit flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/",
-    "published": "Tue, 17 Mar 2026 21:06:31 -0400",
-    "summary": "Apple has released its first Background Security Improvements update to fix a WebKit flaw tracked as CVE-2026-20643 on iPhones, iPads, and Macs without requiring a full operating system upgrade. [...]",
-    "analysis": {
-      "issue": "Apple has released its first Background Security Improvements update to fix a WebKit flaw tracked as CVE-2026-20643 on iPhones, iPads, and Macs without requiring a full operating system upgrade",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-20643"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX",
-    "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/",
-    "published": "Tue, 17 Mar 2026 17:42:54 -0400",
-    "summary": "The GlassWorm supply-chain campaign has returned with a new, coordinated attack that targeted hundreds of packages, repositories, and extensions on GitHub, npm, and VSCode/OpenVSX extensions. [...]",
-    "analysis": {
-      "issue": "The GlassWorm supply-chain campaign has returned with a new, coordinated attack that targeted hundreds of packages, repositories, and extensions on GitHub, npm, and VSCode/OpenVSX extensions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
     "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
@@ -423,14 +417,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21262",
         "CVE-2026-26113",
-        "CVE-2026-26110",
-        "CVE-2026-24289",
-        "CVE-2026-24294",
         "CVE-2026-25187",
         "CVE-2026-26127",
-        "CVE-2026-21262",
-        "CVE-2026-24291"
+        "CVE-2026-24289",
+        "CVE-2026-24291",
+        "CVE-2026-24294",
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -527,16 +521,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21510",
+        "CVE-2026-21513",
+        "CVE-2026-21523",
+        "CVE-2026-21256",
         "CVE-2026-21516",
         "CVE-2026-21533",
-        "CVE-2026-21523",
-        "CVE-2026-21519",
-        "CVE-2026-21525",
-        "CVE-2026-21509",
-        "CVE-2026-21510",
         "CVE-2026-21514",
-        "CVE-2026-21513",
-        "CVE-2026-21256"
+        "CVE-2026-21525",
+        "CVE-2026-21519",
+        "CVE-2026-21509"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -603,6 +597,20 @@
   },
   {
     "source": "Security Week",
+    "title": "Raven Emerges From Stealth With $20 Million in Funding",
+    "link": "https://www.securityweek.com/raven-emerges-from-stealth-with-20-million-in-funding/",
+    "published": "Thu, 19 Mar 2026 10:31:16 +0000",
+    "summary": "<p>Raven’s platform observes applications at runtime to detect anomalous behavior and prevent cyberattacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/raven-emerges-from-stealth-with-20-million-in-funding/\">Raven Emerges From Stealth With $20 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "CISA Warns of Attacks Exploiting Recent SharePoint Vulnerability",
+    "link": "https://www.securityweek.com/cisa-warns-of-attacks-exploiting-recent-sharepoint-vulnerability/",
+    "published": "Thu, 19 Mar 2026 09:42:52 +0000",
+    "summary": "<p>The SharePoint remote code execution vulnerability CVE-2026-20963, which Microsoft patched in January, has been exploited in the wild.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-warns-of-attacks-exploiting-recent-sharepoint-vulnerability/\">CISA Warns of Attacks Exploiting Recent SharePoint Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks",
     "link": "https://www.securityweek.com/cisco-firewall-vulnerability-exploited-as-zero-day-in-interlock-ransomware-attacks/",
     "published": "Thu, 19 Mar 2026 08:57:59 +0000",
@@ -658,18 +666,25 @@
     "summary": "<p>From Chaos to Control examines the chaos that often comes from shadow AI hidden in SaaS apps and urges better visibility and control over agentic AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/\">Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "Manifold Raises $8 Million for AI Detection and Response",
-    "link": "https://www.securityweek.com/manifold-raises-8-million-for-ai-detection-and-response/",
-    "published": "Wed, 18 Mar 2026 13:59:23 +0000",
-    "summary": "<p>Focused on securing autonomous AI on endpoints, the startup will invest in product development.</p>\n<p>The post <a href=\"https://www.securityweek.com/manifold-raises-8-million-for-ai-detection-and-response/\">Manifold Raises $8 Million for AI Detection and Response</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach",
-    "link": "https://www.securityweek.com/iranian-hackers-likely-used-malware-stolen-credentials-in-stryker-breach/",
-    "published": "Wed, 18 Mar 2026 12:47:00 +0000",
-    "summary": "<p>The medtech giant has been working on restoring systems affected by the cyberattack conducted by the Handala hackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/iranian-hackers-likely-used-malware-stolen-credentials-in-stryker-breach/\">Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "Everyday tools, extraordinary crimes: the ransomware exfiltration playbook",
+    "link": "https://blog.talosintelligence.com/everyday-tools-extraordinary-crimes-the-ransomware-exfiltration-playbook/",
+    "published": "Thu, 19 Mar 2026 10:00:38 GMT",
+    "summary": "Attackers use trusted tools for data theft, making traditional detection unreliable. The Exfiltration Framework enables defenders to spot exfiltration by focusing on behavioral signals across endpoints, networks, and cloud environments rather than static tool indicators.",
+    "analysis": {
+      "issue": "As defenders have improved their ability to detect malicious code, attackers have adapted by reducing their reliance on bespoke implants",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
   },
   {
     "source": "Talos Blog",
@@ -777,17 +792,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26113",
-        "CVE-2026-26109",
-        "CVE-2026-26110",
-        "CVE-2026-26144",
-        "CVE-2026-26114",
-        "CVE-2026-26128",
-        "CVE-2026-26115",
         "CVE-2026-26106",
+        "CVE-2026-21262",
+        "CVE-2026-26113",
         "CVE-2026-26118",
+        "CVE-2026-26115",
+        "CVE-2026-26144",
+        "CVE-2026-26109",
+        "CVE-2026-26114",
         "CVE-2026-26116",
-        "CVE-2026-21262"
+        "CVE-2026-26128",
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -848,26 +863,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Henry IV, Hotspur, Hal, and hallucinations",
-    "link": "https://blog.talosintelligence.com/henry-iv-hotspur-hal-and-hallucinations/",
-    "published": "Thu, 26 Feb 2026 19:00:39 GMT",
-    "summary": "In this edition of the Threat Source newsletter, William draws parallels between Shakespeare’s Hotspur and the challenges of cybersecurity and AI, emphasizing the importance of risk-taking, learning from failure, and surrounding yourself with smart people.",
-    "analysis": {
-      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "APT"
       ]
     }
   },
@@ -1220,8 +1215,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1246,6 +1241,45 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "A DarkSword hangs over unpatched iPhones",
+    "link": "https://www.malwarebytes.com/blog/mobile/2026/03/a-darksword-hangs-over-unpatched-iphones",
+    "published": "Thu, 19 Mar 2026 12:27:53 GMT",
+    "summary": "Researchers have identified multiple state-level attacks using DarkSword, a chain of vulnerabilities, to infect unpatches iPhones.",
+    "analysis": {
+      "issue": "Researchers at Google have identified an iOS exploit chain, named DarkSword, that has been used since late last year by multiple actors to infect iPhones with malware in targeted attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Your tax forms sell for $20 on the dark web",
+    "link": "https://www.malwarebytes.com/blog/privacy/2026/03/your-tax-forms-sell-for-20-on-the-dark-web",
+    "published": "Thu, 19 Mar 2026 11:33:30 GMT",
+    "summary": "Tax season is also peak season for identity theft. Malwarebytes researchers spotted criminals trading stolen tax records on dark web forums.",
+    "analysis": {
+      "issue": "Tax season is also peak season for identity theft",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing",
+        "Supply Chain"
       ]
     }
   },
@@ -1397,45 +1431,6 @@
         "Vulnerability",
         "Malware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Zombie ZIP method can fool antivirus during the first scan",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/zombie-zip-method-can-fool-antivirus-during-the-first-scan",
-    "published": "Mon, 16 Mar 2026 16:09:08 GMT",
-    "summary": "Researchers published about the Zombie ZIP vulnerability (or not a vulnerability, that's up for debate) that can bypass a first AV inspection.",
-    "analysis": {
-      "issue": "A researcher published “Zombie ZIP,” a simple way to change the first part (header) of a ZIP file so it falsely claims its contents are uncompressed while they are actually compressed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-0866"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Delete doesn’t mean gone. Here’s how File Shredder fixes that",
-    "link": "https://www.malwarebytes.com/blog/inside-malwarebytes/2026/03/delete-doesnt-mean-gone-heres-how-file-shredder-fixes-that",
-    "published": "Mon, 16 Mar 2026 14:22:31 GMT",
-    "summary": "When you delete a file, it's not really gone.  We explain what really happens to deleted files and how File Shredder erases them for good.",
-    "analysis": {
-      "issue": "You have done it a thousand times",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
