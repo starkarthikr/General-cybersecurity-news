@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
+    "link": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html",
+    "published": "Fri, 20 Mar 2026 00:46:00 +0530",
+    "summary": "Cybersecurity researchers have flagged a new malware dubbed Speagle that hijacks the functionality and infrastructure of a legitimate program called Cobra DocGuard.\n\"Speagle is designed to surreptitiously harvest sensitive information from infected computers and transmit it to a Cobra DocGuard server that has been compromised by the attackers, masking the data exfiltration process as legitimate",
+    "analysis": {
+      "issue": "Speagle malware exploits Cobra DocGuard servers to exfiltrate sensitive data, indicating targeted espionage risks for protected systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
+    "link": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
+    "published": "Fri, 20 Mar 2026 00:22:00 +0530",
+    "summary": "A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 34 vulnerable drivers.\nEDR killer programs have been a common presence in ransomware intrusions as they offer a way for affiliates to neutralize security software before deploying file-encrypting malware. This",
+    "analysis": {
+      "issue": "54 EDR killers exploit 34 vulnerable drivers via BYOVD, gaining kernel access to disable defenses, increasing ransomware success rates",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More",
     "link": "https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html",
     "published": "Thu, 19 Mar 2026 19:55:00 +0530",
@@ -154,38 +192,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Claude Code Security and Magecart: Getting the Threat Model Right",
-    "link": "https://thehackernews.com/2026/03/claude-code-security-and-magecart.html",
-    "published": "Wed, 18 Mar 2026 17:28:00 +0530",
-    "summary": "When a Magecart payload hides inside the EXIF data of a dynamically loaded third-party favicon, no repository scanner will catch it – because the malicious code never actually touches your repo. As teams adopt Claude Code Security for static analysis, this is the exact technical boundary where AI code scanning stops and client-side runtime execution begins.\nA detailed analysis of where Claude",
+    "source": "Bleeping Computer",
+    "title": "Navia discloses data breach impacting 2.7 million people",
+    "link": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
+    "published": "Thu, 19 Mar 2026 16:43:54 -0400",
+    "summary": "Navia Benefit Solutions, Inc. (Navia) is informing nearly 2.7 million individuals of a data breach that exposed their sensitive information to attackers. [...]",
     "analysis": {
-      "issue": "Magecart hides payload in favicon EXIF via third-party scripts, bypassing static analysis and stealing checkout data at runtime",
+      "issue": "7 million individuals of a data breach that exposed their sensitive information to attackers",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Supply Chain"
+        "Data Breach"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors",
-    "link": "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html",
-    "published": "Wed, 18 Mar 2026 17:12:00 +0530",
-    "summary": "Cybersecurity researchers have warned about the risks posed by low-cost IP KVM (Keyboard, Video, Mouse over Internet Protocol) devices, which can grant attackers extensive control over compromised hosts.\nThe nine vulnerabilities, discovered by Eclypsium, span four different products from GL-iNet Comet RM-1, Angeet/Yeeso ES3 KVM, Sipeed NanoKVM, and JetKVM. The most severe of them allow",
+    "source": "Bleeping Computer",
+    "title": "New ‘PolyShell’ flaw allows unauthenticated RCE on Magento e-stores",
+    "link": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/",
+    "published": "Thu, 19 Mar 2026 16:01:03 -0400",
+    "summary": "A newly disclosed vulnerability dubbed 'PolyShell' affects all Magento Open Source and Adobe Commerce stable version 2 installations, allowing unauthenticated code execution and account takeover. [...]",
     "analysis": {
-      "issue": "Researchers uncovered 9 vulnerabilities across 4 IP KVM devices enabling unauthenticated root access and code execution",
+      "issue": "A newly disclosed vulnerability dubbed 'PolyShell' affects all Magento Open Source and Adobe Commerce stable version 2 installations, allowing unauthenticated code execution and account takeover",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
@@ -346,41 +384,21 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Aura confirms data breach exposing 900,000 marketing contacts",
-    "link": "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/",
-    "published": "Wed, 18 Mar 2026 18:56:50 -0400",
-    "summary": "Identity protection company Aura has confirmed that an unauthorized party gained access to nearly 900,000 customer records containing names and email addresses. [...]",
+    "source": "Krebs On Security",
+    "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
+    "link": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
+    "published": "Fri, 20 Mar 2026 00:49:19 +0000",
+    "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.",
     "analysis": {
-      "issue": "Identity protection company Aura has confirmed that an unauthorized party gained access to nearly 900,000 records containing names and email addresses",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA orders feds to patch Zimbra XSS flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/",
-    "published": "Wed, 18 Mar 2026 15:57:13 -0400",
-    "summary": "CISA has ordered U.S. government agencies to secure their servers against an actively exploited vulnerability in the Zimbra Collaboration Suite (ZCS). [...]",
-    "analysis": {
-      "issue": "government agencies to secure their servers against an actively exploited vulnerability in the Zimbra Collaboration Suite (ZCS)",
+      "issue": "Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million Internet of Things (IoT) devices, such as routers and web cameras",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [
-        "CVE-2025-66376"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Malware",
+        "DDoS"
       ]
     }
   },
@@ -415,14 +433,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26127",
-        "CVE-2026-24294",
-        "CVE-2026-21262",
         "CVE-2026-24289",
-        "CVE-2026-25187",
-        "CVE-2026-26113",
+        "CVE-2026-24294",
         "CVE-2026-26110",
-        "CVE-2026-24291"
+        "CVE-2026-26113",
+        "CVE-2026-26127",
+        "CVE-2026-21262",
+        "CVE-2026-24291",
+        "CVE-2026-25187"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -519,16 +537,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21525",
+        "CVE-2026-21516",
         "CVE-2026-21509",
+        "CVE-2026-21523",
+        "CVE-2026-21533",
         "CVE-2026-21513",
         "CVE-2026-21256",
+        "CVE-2026-21525",
         "CVE-2026-21519",
-        "CVE-2026-21523",
         "CVE-2026-21510",
-        "CVE-2026-21514",
-        "CVE-2026-21533",
-        "CVE-2026-21516"
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -575,23 +593,32 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
-    "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
-    "published": "Tue, 20 Jan 2026 18:19:13 +0000",
-    "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
-    "analysis": {
-      "issue": "A new Internet-of-Things (IoT) botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
+    "source": "Security Week",
+    "title": "Oasis Security Raises $120 Million for Agentic Access Management",
+    "link": "https://www.securityweek.com/oasis-security-raises-120-million-for-agentic-access-management/",
+    "published": "Thu, 19 Mar 2026 18:23:15 +0000",
+    "summary": "<p>The company will invest in R&#038;D, product expansion across AI frameworks, and in scaling go-to-market and sales efforts.</p>\n<p>The post <a href=\"https://www.securityweek.com/oasis-security-raises-120-million-for-agentic-access-management/\">Oasis Security Raises $120 Million for Agentic Access Management</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "1stProtect Emerges From Stealth With $20 Million in Funding",
+    "link": "https://www.securityweek.com/1stprotect-emerges-from-stealth-with-20-million-in-funding/",
+    "published": "Thu, 19 Mar 2026 17:55:10 +0000",
+    "summary": "<p>The company’s endpoint security platform monitors behavior and verifies user intent to stop cyberattacks in real time.</p>\n<p>The post <a href=\"https://www.securityweek.com/1stprotect-emerges-from-stealth-with-20-million-in-funding/\">1stProtect Emerges From Stealth With $20 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical ScreenConnect Vulnerability Exposes Machine Keys",
+    "link": "https://www.securityweek.com/critical-screenconnect-vulnerability-exposes-machine-keys/",
+    "published": "Thu, 19 Mar 2026 17:40:03 +0000",
+    "summary": "<p>Latest ScreenConnect version adds encrypted storage and management to prevent unauthorized access to machine keys.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-screenconnect-vulnerability-exposes-machine-keys/\">Critical ScreenConnect Vulnerability Exposes Machine Keys</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Privacy Platform Cloaked Raises $375M to Expand Enterprise Reach",
+    "link": "https://www.securityweek.com/privacy-platform-cloaked-raises-375m-to-expand-consumer-tools-and-enterprise-reach/",
+    "published": "Thu, 19 Mar 2026 17:32:29 +0000",
+    "summary": "<p>Cloaked plans to introduce AI agents designed to act on behalf of users to monitor, manage, and enforce privacy preferences and security postures.</p>\n<p>The post <a href=\"https://www.securityweek.com/privacy-platform-cloaked-raises-375m-to-expand-consumer-tools-and-enterprise-reach/\">Privacy Platform Cloaked Raises $375M to Expand Enterprise Reach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -636,32 +663,22 @@
     "summary": "<p>Raven’s platform observes applications at runtime to detect anomalous behavior and prevent cyberattacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/raven-emerges-from-stealth-with-20-million-in-funding/\">Raven Emerges From Stealth With $20 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "CISA Warns of Attacks Exploiting Recent SharePoint Vulnerability",
-    "link": "https://www.securityweek.com/cisa-warns-of-attacks-exploiting-recent-sharepoint-vulnerability/",
-    "published": "Thu, 19 Mar 2026 09:42:52 +0000",
-    "summary": "<p>The SharePoint remote code execution vulnerability CVE-2026-20963, which Microsoft patched in January, has been exploited in the wild.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-warns-of-attacks-exploiting-recent-sharepoint-vulnerability/\">CISA Warns of Attacks Exploiting Recent SharePoint Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks",
-    "link": "https://www.securityweek.com/cisco-firewall-vulnerability-exploited-as-zero-day-in-interlock-ransomware-attacks/",
-    "published": "Thu, 19 Mar 2026 08:57:59 +0000",
-    "summary": "<p>Amazon found evidence that the FMC software vulnerability has been exploited since late January, and found links to Russia.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-firewall-vulnerability-exploited-as-zero-day-in-interlock-ransomware-attacks/\">Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "The Collapse of Predictive Security in the Age of Machine-Speed Attacks",
-    "link": "https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/",
-    "published": "Wed, 18 Mar 2026 19:37:25 +0000",
-    "summary": "<p>With exploitation of vulnerabilities taking just days, preemptive security must be the new model for defenders.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/\">The Collapse of Predictive Security in the Age of Machine-Speed Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation",
-    "link": "https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/",
-    "published": "Wed, 18 Mar 2026 18:01:50 +0000",
-    "summary": "<p>The company has developed an AI-powered platform that autonomously discovers and validates software vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/\">Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "You have to invite them in",
+    "link": "https://blog.talosintelligence.com/you-have-to-invite-them-in/",
+    "published": "Thu, 19 Mar 2026 18:00:34 GMT",
+    "summary": "While a garlic and wooden stakes keep the vampires at bay in movies, they won’t save your network once an attacker has been \"invited in.\" Discover why identity is the new frontier of cyber horror in this week’s edition.",
+    "analysis": {
+      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "Talos Blog",
@@ -790,17 +807,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26144",
-        "CVE-2026-26116",
-        "CVE-2026-26114",
-        "CVE-2026-26115",
-        "CVE-2026-26106",
-        "CVE-2026-21262",
-        "CVE-2026-26109",
         "CVE-2026-26128",
-        "CVE-2026-26113",
+        "CVE-2026-26106",
+        "CVE-2026-26114",
+        "CVE-2026-26144",
         "CVE-2026-26110",
-        "CVE-2026-26118"
+        "CVE-2026-26113",
+        "CVE-2026-26116",
+        "CVE-2026-21262",
+        "CVE-2026-26118",
+        "CVE-2026-26115",
+        "CVE-2026-26109"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -843,24 +860,6 @@
       "threat_categories": [
         "Malware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Update, March 13: Talos on the developing situation in the Middle East",
-    "link": "https://blog.talosintelligence.com/talos-developing-situation-in-the-middle-east/",
-    "published": "Tue, 03 Mar 2026 00:55:43 GMT",
-    "summary": "Cisco Talos updates this blog with additional IOCs, guidance, recommendations and timelines as of March 10, 2026.",
-    "analysis": {
-      "issue": "Date  Description of updates  March 13, 2026  Talos’ assessment of the cyber attack on Stryker and the elevated threat landscape",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1213,8 +1212,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1434,6 +1433,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails",
+    "link": "https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/",
+    "published": "Mar 19, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike Falcon AI Detection and Response (AIDR) now supports NeMo Guardrails for enterprise-grade agentic AI protection",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Falcon Platform for Government Now Offers Falcon for XIoT to Secure Connected Assets",
     "link": "https://www.crowdstrike.com/en-us/blog/falcon-platform-for-government-now-offers-falcon-for-xiot-to-secure-connected-assets/",
     "published": "Mar 18, 2026 00:00:00-0500",
@@ -1591,24 +1608,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/",
-    "published": "Feb 24, 2026 00:00:00-0600",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn how adversaries leverage trusted access paths, AI-enabled techniques, and cross-domain movement to evade detection",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   }
