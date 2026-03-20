@@ -433,14 +433,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24289",
         "CVE-2026-24294",
-        "CVE-2026-26110",
         "CVE-2026-26113",
-        "CVE-2026-26127",
         "CVE-2026-21262",
-        "CVE-2026-24291",
-        "CVE-2026-25187"
+        "CVE-2026-26127",
+        "CVE-2026-24289",
+        "CVE-2026-25187",
+        "CVE-2026-26110",
+        "CVE-2026-24291"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -537,16 +537,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21516",
+        "CVE-2026-21533",
+        "CVE-2026-21510",
+        "CVE-2026-21513",
         "CVE-2026-21509",
         "CVE-2026-21523",
-        "CVE-2026-21533",
-        "CVE-2026-21513",
+        "CVE-2026-21514",
+        "CVE-2026-21519",
         "CVE-2026-21256",
         "CVE-2026-21525",
-        "CVE-2026-21519",
-        "CVE-2026-21510",
-        "CVE-2026-21514"
+        "CVE-2026-21516"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -808,15 +808,15 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-26128",
-        "CVE-2026-26106",
-        "CVE-2026-26114",
         "CVE-2026-26144",
-        "CVE-2026-26110",
         "CVE-2026-26113",
+        "CVE-2026-26115",
         "CVE-2026-26116",
         "CVE-2026-21262",
+        "CVE-2026-26106",
         "CVE-2026-26118",
-        "CVE-2026-26115",
+        "CVE-2026-26110",
+        "CVE-2026-26114",
         "CVE-2026-26109"
       ],
       "threat_categories": [
@@ -1212,8 +1212,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1433,24 +1433,6 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails",
-    "link": "https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/",
-    "published": "Mar 19, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike Falcon AI Detection and Response (AIDR) now supports NeMo Guardrails for enterprise-grade agentic AI protection",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
     "title": "Falcon Platform for Government Now Offers Falcon for XIoT to Secure Connected Assets",
     "link": "https://www.crowdstrike.com/en-us/blog/falcon-platform-for-government-now-offers-falcon-for-xiot-to-secure-connected-assets/",
     "published": "Mar 18, 2026 00:00:00-0500",
@@ -1608,6 +1590,24 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/",
+    "published": "Feb 24, 2026 00:00:00-0600",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn how adversaries leverage trusted access paths, AI-enabled techniques, and cross-domain movement to evade detection",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   }
