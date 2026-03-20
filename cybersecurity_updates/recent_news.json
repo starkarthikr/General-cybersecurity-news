@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams",
+    "link": "https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html",
+    "published": "Fri, 20 Mar 2026 16:27:00 +0530",
+    "summary": "Google on Thursday announced a new \"advanced flow\" for Android sideloading that requires a mandatory 24-hour wait period to install apps from unverified developers in an attempt to balance openness with safety.\nThe new changes come against the backdrop of a developer verification mandate the tech giant announced last year that requires all Android apps to be registered by verified developers to",
+    "analysis": {
+      "issue": "Google adds 24-hour sideloading delay amid 17 malware families in 4 months, reducing scam-driven installs and device compromise risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks",
+    "link": "https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html",
+    "published": "Fri, 20 Mar 2026 15:30:00 +0530",
+    "summary": "Artificial Intelligence (AI) is changing how individuals and organizations conduct many activities, including how cybercriminals carry out phishing attacks and iterate on malware. Now, cybercriminals are using AI to generate personalized phishing emails, deepfakes and malware that evade traditional detection by impersonating normal user activity and bypassing legacy security models. As a result,",
+    "analysis": {
+      "issue": "AI-based cyber attacks often blend in with normal behavior",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover",
+    "link": "https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html",
+    "published": "Fri, 20 Mar 2026 15:00:00 +0530",
+    "summary": "Sansec is warning of a critical security flaw in Magento's REST API that could allow unauthenticated attackers to upload arbitrary executables and achieve code execution and account takeover.\nThe vulnerability has been codenamed PolyShell by Sansec owing to the fact that the attack hinges on disguising malicious code as an image. There is no evidence that the shortcoming has been exploited in",
+    "analysis": {
+      "issue": "Magento flaw allows unauthenticated file uploads up to 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
     "link": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html",
     "published": "Fri, 20 Mar 2026 11:55:00 +0530",
@@ -131,52 +185,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
-    "link": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html",
-    "published": "Thu, 19 Mar 2026 14:44:00 +0530",
-    "summary": "A new exploit kit for Apple iOS devices designed to steal sensitive data from is being wielded by multiple threat actors since at least November 2025, according to reports from Google Threat Intelligence Group (GTIG), iVerify, and Lookout.\nAccording to GTIG, multiple commercial surveillance vendors and suspected state-sponsored actors have utilized the full-chain exploit kit, codenamed DarkSword",
+    "source": "Bleeping Computer",
+    "title": "Musician admits to $10M streaming royalty fraud using AI bots",
+    "link": "https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/",
+    "published": "Fri, 20 Mar 2026 05:33:33 -0400",
+    "summary": "North Carolina musician Michael Smith has pleaded guilty to collecting over $10 million in royalty payments through a massive streaming royalty fraud scheme on Spotify, Apple Music, Amazon Music, and YouTube Music. [...]",
     "analysis": {
-      "issue": "DarkSword exploit targets iOS 18",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
-    "link": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html",
-    "published": "Thu, 19 Mar 2026 11:35:00 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged government agencies to apply patches for two security flaws impacting Synacor Zimbra Collaboration Suite (ZCS) and Microsoft Office SharePoint, stating they have been actively exploited in the wild.\nThe vulnerabilities in question are as follows -\n\nCVE-2025-66376 (CVSS score: 7.2) - A stored cross-site scripting",
-    "analysis": {
-      "issue": "Interlock exploits CVE-2026-20131 zero-day since Jan 26, enabling root access on Cisco FMC, increasing ransomware risks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20131"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
-    "link": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
-    "published": "Wed, 18 Mar 2026 22:56:00 +0530",
-    "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has sanctioned six individuals and two entities for their involvement in the Democratic People's Republic of Korea (DPRK) information technology (IT) worker scheme with an aim to defraud U.S. businesses and generate illicit revenue for the regime to fund its weapons of mass destruction (WMD) programs.\n\"The North Korean",
-    "analysis": {
-      "issue": "OFAC sanctions DPRK IT fraud network using fake jobs and AI tactics, exposing funding links to WMD programs and insider threats",
+      "issue": "North Carolina musician Michael Smith has pleaded guilty to collecting over $10 million in royalty payments through a massive streaming royalty fraud scheme on Spotify, Apple Music, Amazon Music, and YouTube Music",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -357,27 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Max severity Ubiquiti UniFi flaw may allow account takeover",
-    "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/",
-    "published": "Thu, 19 Mar 2026 09:00:22 -0400",
-    "summary": "Ubiquiti has patched two vulnerabilities in the UniFi Network Application, including a maximum-severity flaw that may allow attackers to take over user accounts. [...]",
-    "analysis": {
-      "issue": "Ubiquiti has patched two vulnerabilities in the UniFi Network Application, including a maximum-severity flaw that may allow attackers to take over user accounts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-22557"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
     "link": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
@@ -428,12 +422,12 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-24294",
+        "CVE-2026-21262",
+        "CVE-2026-24289",
         "CVE-2026-26127",
         "CVE-2026-24291",
         "CVE-2026-26113",
         "CVE-2026-26110",
-        "CVE-2026-24289",
-        "CVE-2026-21262",
         "CVE-2026-25187"
       ],
       "threat_categories": [
@@ -531,16 +525,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21513",
+        "CVE-2026-21516",
+        "CVE-2026-21514",
+        "CVE-2026-21256",
+        "CVE-2026-21509",
         "CVE-2026-21533",
         "CVE-2026-21523",
-        "CVE-2026-21516",
-        "CVE-2026-21256",
-        "CVE-2026-21514",
-        "CVE-2026-21509",
-        "CVE-2026-21513",
         "CVE-2026-21519",
-        "CVE-2026-21510",
-        "CVE-2026-21525"
+        "CVE-2026-21525",
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -588,6 +582,41 @@
   },
   {
     "source": "Security Week",
+    "title": "US Confirms Handala Link to Iran Government Amid Takedown of Hackers’ Sites",
+    "link": "https://www.securityweek.com/us-confirms-handala-link-to-iran-government-amid-takedown-of-hackers-sites/",
+    "published": "Fri, 20 Mar 2026 12:25:41 +0000",
+    "summary": "<p>The US has seized several domains used by Handala in cyber-enabled psychological operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-confirms-handala-link-to-iran-government-amid-takedown-of-hackers-sites/\">US Confirms Handala Link to Iran Government Amid Takedown of Hackers&#8217; Sites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Cape Raises $100 Million for Protection Against Cellular Security Threats",
+    "link": "https://www.securityweek.com/cape-raises-100-million-for-protection-against-cellular-security-threats/",
+    "published": "Fri, 20 Mar 2026 11:36:00 +0000",
+    "summary": "<p>Cape offers a privacy-focused mobile virtual network operator (MVNO) service for consumers, enterprises, and governments.</p>\n<p>The post <a href=\"https://www.securityweek.com/cape-raises-100-million-for-protection-against-cellular-security-threats/\">Cape Raises $100 Million for Protection Against Cellular Security Threats</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Navia Data Breach Impacts 2.7 Million",
+    "link": "https://www.securityweek.com/navia-data-breach-impacts-2-7-million/",
+    "published": "Fri, 20 Mar 2026 11:02:08 +0000",
+    "summary": "<p>Between late December 2025 and mid-January 2026, hackers stole personal and health plan information from Navia’s environment.</p>\n<p>The post <a href=\"https://www.securityweek.com/navia-data-breach-impacts-2-7-million/\">Navia Data Breach Impacts 2.7 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Thousands of Magento Sites Hit in Ongoing Defacement Campaign",
+    "link": "https://www.securityweek.com/thousands-of-magento-sites-hit-in-ongoing-defacement-campaign/",
+    "published": "Fri, 20 Mar 2026 10:36:51 +0000",
+    "summary": "<p>The attacks started on February 27 and have targeted e-commerce platforms, global brands, and government services.</p>\n<p>The post <a href=\"https://www.securityweek.com/thousands-of-magento-sites-hit-in-ongoing-defacement-campaign/\">Thousands of Magento Sites Hit in Ongoing Defacement Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Allure Security Raises $17 Million for Online Brand Protection",
+    "link": "https://www.securityweek.com/allure-security-raises-17-million-for-online-brand-protection/",
+    "published": "Fri, 20 Mar 2026 09:09:59 +0000",
+    "summary": "<p>The company will invest in expanding its digital brand protection platform and in scaling its go-to-market efforts.</p>\n<p>The post <a href=\"https://www.securityweek.com/allure-security-raises-17-million-for-online-brand-protection/\">Allure Security Raises $17 Million for Online Brand Protection</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Critical Langflow Vulnerability Exploited Hours After Public Disclosure",
     "link": "https://www.securityweek.com/critical-langflow-vulnerability-exploited-hours-after-public-disclosure/",
     "published": "Fri, 20 Mar 2026 08:38:56 +0000",
@@ -620,41 +649,6 @@
     "link": "https://www.securityweek.com/critical-screenconnect-vulnerability-exposes-machine-keys/",
     "published": "Thu, 19 Mar 2026 17:40:03 +0000",
     "summary": "<p>Latest ScreenConnect version adds encrypted storage and management to prevent unauthorized access to machine keys.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-screenconnect-vulnerability-exposes-machine-keys/\">Critical ScreenConnect Vulnerability Exposes Machine Keys</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Privacy Platform Cloaked Raises $375M to Expand Enterprise Reach",
-    "link": "https://www.securityweek.com/privacy-platform-cloaked-raises-375m-to-expand-consumer-tools-and-enterprise-reach/",
-    "published": "Thu, 19 Mar 2026 17:32:29 +0000",
-    "summary": "<p>Cloaked plans to introduce AI agents designed to act on behalf of users to monitor, manage, and enforce privacy preferences and security postures.</p>\n<p>The post <a href=\"https://www.securityweek.com/privacy-platform-cloaked-raises-375m-to-expand-consumer-tools-and-enterprise-reach/\">Privacy Platform Cloaked Raises $375M to Expand Enterprise Reach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Iran Readied Cyberattack Capabilities for Response Prior to Epic Fury",
-    "link": "https://www.securityweek.com/iran-readied-cyberattack-capabilities-for-response-prior-to-epic-fury/",
-    "published": "Thu, 19 Mar 2026 15:30:00 +0000",
-    "summary": "<p>Analysis reveals a six-month buildup of Iran-linked cyber infrastructure, including US-based shell companies, designed to weather kinetic strikes and ensure the resilience of its global hacking operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/iran-readied-cyberattack-capabilities-for-response-prior-to-epic-fury/\">Iran Readied Cyberattack Capabilities for Response Prior to Epic Fury</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Marquis Data Breach Affects 672,000 Individuals",
-    "link": "https://www.securityweek.com/marquis-data-breach-affects-672000-individuals/",
-    "published": "Thu, 19 Mar 2026 15:07:36 +0000",
-    "summary": "<p>It was previously estimated that more than 1.6 million people may be affected by the Marquis data breach.</p>\n<p>The post <a href=\"https://www.securityweek.com/marquis-data-breach-affects-672000-individuals/\">Marquis Data Breach Affects 672,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Security Firm Aura Discloses Data Breach Impacting 900,000 Records",
-    "link": "https://www.securityweek.com/security-firm-aura-discloses-data-breach-impacting-900000-records/",
-    "published": "Thu, 19 Mar 2026 14:19:08 +0000",
-    "summary": "<p>The information was stolen from a marketing tool after an employee fell victim to a targeted phone phishing attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/security-firm-aura-discloses-data-breach-impacting-900000-records/\">Security Firm Aura Discloses Data Breach Impacting 900,000 Records</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Hacker Conversations: Ben Harris, From Unintentional Young Hacker to Intentional Adult CEO",
-    "link": "https://www.securityweek.com/hacker-conversations-ben-harris-from-unintentional-young-hacker-to-intentional-adult-ceo/",
-    "published": "Thu, 19 Mar 2026 13:30:00 +0000",
-    "summary": "<p>Harris is a hacker with a rebellious spirit and a willingness to break rules in the pursuit of his purpose – but without causing harm or damage. </p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-ben-harris-from-unintentional-young-hacker-to-intentional-adult-ceo/\">Hacker Conversations: Ben Harris, From Unintentional Young Hacker to Intentional Adult CEO</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -801,17 +795,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26128",
-        "CVE-2026-26109",
-        "CVE-2026-26118",
-        "CVE-2026-26113",
-        "CVE-2026-26115",
-        "CVE-2026-26110",
-        "CVE-2026-26106",
         "CVE-2026-26116",
-        "CVE-2026-26144",
         "CVE-2026-21262",
-        "CVE-2026-26114"
+        "CVE-2026-26144",
+        "CVE-2026-26115",
+        "CVE-2026-26113",
+        "CVE-2026-26106",
+        "CVE-2026-26118",
+        "CVE-2026-26109",
+        "CVE-2026-26114",
+        "CVE-2026-26110",
+        "CVE-2026-26128"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1237,6 +1231,25 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "That “job brief” on Google Forms could infect your device",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/that-job-brief-on-google-forms-could-infect-your-device",
+    "published": "Fri, 20 Mar 2026 11:38:40 GMT",
+    "summary": "Fake job offers on Google Forms are spreading PureHVNC malware that can take over your device.",
+    "analysis": {
+      "issue": "We’ve identified a campaign using business-related lures, such as job interviews, project briefs, and financial document,  to distribute malware, including the PureHVNC Remote Access Trojan (RAT)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "A DarkSword hangs over unpatched iPhones",
     "link": "https://www.malwarebytes.com/blog/mobile/2026/03/a-darksword-hangs-over-unpatched-iphones",
     "published": "Thu, 19 Mar 2026 12:27:53 GMT",
@@ -1400,26 +1413,6 @@
       "cves": [],
       "threat_categories": [
         "Ransomware",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Hacked sites deliver Vidar infostealer to Windows users",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/hacked-sites-deliver-vidar-infostealer-to-windows-users",
-    "published": "Mon, 16 Mar 2026 17:15:10 GMT",
-    "summary": "We found fake “verify you are human” pages on hacked WordPress sites that trick Windows users into installing the Vidar infostealer.",
-    "analysis": {
-      "issue": "In recent years, ClickFix and fake CAPTCHA techniques have become a popular way for cybercriminals to distribute malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
         "Malware",
         "APT"
       ]
