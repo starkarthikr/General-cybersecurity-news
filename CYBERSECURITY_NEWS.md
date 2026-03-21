@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-20 17:09:51 UTC
+**Last Updated:** 2026-03-21 02:31:16 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html)
+### 1. [Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 20 Mar 2026 23:17:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 20:45:00 +0530  
@@ -14,7 +23,7 @@
 
 ---
 
-### 2. [Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
+### 3. [Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 16:27:00 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks](https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html)
+### 4. [The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks](https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 15:30:00 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover](https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html)
+### 5. [Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover](https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 15:00:00 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
+### 6. [DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 11:55:00 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks](https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html)
+### 7. [Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks](https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 10:46:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers](https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html)
+### 8. [Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers](https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 00:46:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security](https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html)
+### 9. [54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security](https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 00:22:00 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More](https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html)
+### 10. [ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More](https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 19 Mar 2026 19:55:00 +0530  
@@ -86,16 +95,35 @@
 
 ---
 
-### 10. [New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data](https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html)
+### 11. [FBI links Signal phishing attacks to Russian intelligence services](https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 19 Mar 2026 18:13:00 +0530  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
+**Source:** Bleeping Computer  
+**Published:** Fri, 20 Mar 2026 16:45:52 -0400  
+**Severity:** High  
+**Categories:** Phishing  
 
 ---
 
-### 11. [CISA orders feds to patch max-severity Cisco flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/)
+### 12. [Oracle pushes emergency fix for critical Identity Manager RCE flaw](https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 20 Mar 2026 14:48:47 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-21992  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [Police take down 373,000 fake CSAM sites in Operation Alice](https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 20 Mar 2026 13:19:02 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 14. [CISA orders feds to patch max-severity Cisco flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Mar 2026 11:09:12 -0400  
@@ -105,7 +133,7 @@
 
 ---
 
-### 12. [How CISOs Can Survive the Era of Geopolitical Cyberattacks](https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/)
+### 15. [How CISOs Can Survive the Era of Geopolitical Cyberattacks](https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Mar 2026 10:01:11 -0400  
@@ -114,7 +142,7 @@
 
 ---
 
-### 13. [Musician admits to $10M streaming royalty fraud using AI bots](https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/)
+### 16. [Musician admits to $10M streaming royalty fraud using AI bots](https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Mar 2026 05:33:33 -0400  
@@ -123,7 +151,7 @@
 
 ---
 
-### 14. [International joint action disrupts world’s largest DDoS botnets](https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/)
+### 17. [International joint action disrupts world’s largest DDoS botnets](https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Mar 2026 04:05:12 -0400  
@@ -132,7 +160,7 @@
 
 ---
 
-### 15. [Microsoft: March Windows updates break Teams, OneDrive sign-ins](https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/)
+### 18. [Microsoft: March Windows updates break Teams, OneDrive sign-ins](https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Mar 2026 03:33:32 -0400  
@@ -141,7 +169,7 @@
 
 ---
 
-### 16. [Ex-data analyst stole company data in $2.5M extortion scheme](https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/)
+### 19. [Ex-data analyst stole company data in $2.5M extortion scheme](https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Mar 2026 02:57:46 -0400  
@@ -150,39 +178,12 @@
 
 ---
 
-### 17. [Navia discloses data breach impacting 2.7 million people](https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/)
+### 20. [Navia discloses data breach impacting 2.7 million people](https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 19 Mar 2026 16:43:54 -0400  
 **Severity:** Low  
 **Categories:** Data Breach  
-
----
-
-### 18. [New ‘PolyShell’ flaw allows unauthenticated RCE on Magento e-stores](https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 19 Mar 2026 16:01:03 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Bitrefill blames North Korean Lazarus group for cyberattack](https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 19 Mar 2026 13:08:24 -0400  
-**Severity:** Low  
-**Categories:** Malware, APT  
-
----
-
-### 20. [FBI seizes Handala data leak site after Stryker cyberattack](https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 19 Mar 2026 12:14:13 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -209,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-26127, CVE-2026-26113, CVE-2026-24289, CVE-2026-25187, CVE-2026-26110, CVE-2026-24294, CVE-2026-24291  
+**CVEs:** CVE-2026-24294, CVE-2026-26127, CVE-2026-24289, CVE-2026-26113, CVE-2026-21262, CVE-2026-24291, CVE-2026-25187, CVE-2026-26110  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -255,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21513, CVE-2026-21516, CVE-2026-21509, CVE-2026-21533, CVE-2026-21519, CVE-2026-21523, CVE-2026-21514, CVE-2026-21525, CVE-2026-21256, CVE-2026-21510  
+**CVEs:** CVE-2026-21519, CVE-2026-21513, CVE-2026-21523, CVE-2026-21516, CVE-2026-21514, CVE-2026-21510, CVE-2026-21525, CVE-2026-21509, CVE-2026-21533, CVE-2026-21256  
 **Categories:** Vulnerability  
 
 ---
@@ -417,7 +418,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26144, CVE-2026-26114, CVE-2026-26115, CVE-2026-26116, CVE-2026-26118, CVE-2026-26106, CVE-2026-21262, CVE-2026-26113, CVE-2026-26128, CVE-2026-26110, CVE-2026-26109  
+**CVEs:** CVE-2026-26144, CVE-2026-26116, CVE-2026-26128, CVE-2026-26118, CVE-2026-26113, CVE-2026-21262, CVE-2026-26109, CVE-2026-26115, CVE-2026-26114, CVE-2026-26106, CVE-2026-26110  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -440,7 +441,16 @@
 
 ---
 
-### 51. [2025 Year in Review: Malicious, Infrastructure](https://www.recordedfuture.com/research/2025-year-in-review-malicious-infrastructure)
+### 51. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+
+**Source:** Recorded Future  
+**Published:** Fri, 20 Mar 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [2025 Year in Review: Malicious, Infrastructure](https://www.recordedfuture.com/research/2025-year-in-review-malicious-infrastructure)
 
 **Source:** Recorded Future  
 **Published:** Thu, 19 Mar 2026 00:00:00 GMT  
@@ -449,21 +459,12 @@
 
 ---
 
-### 52. [2025 Identity Threat Landscape Report: Inside the Infostealer Economy: Credential Threats in 2025](https://www.recordedfuture.com/blog/identity-trend-report-march-blog)
+### 53. [2025 Identity Threat Landscape Report: Inside the Infostealer Economy: Credential Threats in 2025](https://www.recordedfuture.com/blog/identity-trend-report-march-blog)
 
 **Source:** Recorded Future  
 **Published:** Mon, 16 Mar 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 53. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
-
-**Source:** Recorded Future  
-**Published:** Fri, 13 Mar 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -716,7 +717,16 @@
 
 ---
 
-### 81. [Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails](https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/)
+### 81. [Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown](https://www.crowdstrike.com/en-us/blog/tycoon2fa-phishing-as-a-service-platform-persists-following-takedown/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Mar 20, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 82. [Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails](https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 19, 2026 00:00:00-0500  
@@ -725,7 +735,7 @@
 
 ---
 
-### 82. [Falcon Platform for Government Now Offers Falcon for XIoT to Secure Connected Assets](https://www.crowdstrike.com/en-us/blog/falcon-platform-for-government-now-offers-falcon-for-xiot-to-secure-connected-assets/)
+### 83. [Falcon Platform for Government Now Offers Falcon for XIoT to Secure Connected Assets](https://www.crowdstrike.com/en-us/blog/falcon-platform-for-government-now-offers-falcon-for-xiot-to-secure-connected-assets/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 18, 2026 00:00:00-0500  
@@ -734,7 +744,7 @@
 
 ---
 
-### 83. [CrowdStrike Innovates to Modernize National Security and Protect Critical Systems](https://www.crowdstrike.com/en-us/blog/crowdstrike-innovates-to-modernize-national-security-and-protect-critical-systems/)
+### 84. [CrowdStrike Innovates to Modernize National Security and Protect Critical Systems](https://www.crowdstrike.com/en-us/blog/crowdstrike-innovates-to-modernize-national-security-and-protect-critical-systems/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 18, 2026 00:00:00-0500  
@@ -743,7 +753,7 @@
 
 ---
 
-### 84. [4 Ways Businesses Use CrowdStrike Charlotte AI to Transform Security Operations](https://www.crowdstrike.com/en-us/blog/four-ways-businesses-use-charlotte-ai-to-transform-security-operations/)
+### 85. [4 Ways Businesses Use CrowdStrike Charlotte AI to Transform Security Operations](https://www.crowdstrike.com/en-us/blog/four-ways-businesses-use-charlotte-ai-to-transform-security-operations/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 12, 2026 00:00:00-0500  
@@ -752,7 +762,7 @@
 
 ---
 
-### 85. [Enhanced Network Visibility: A Dive into the Falcon macOS Sensor's New Capabilities](https://www.crowdstrike.com/en-us/blog/enhanced-network-visibility-dive-into-falcon-macos-sensor-new-capabilities/)
+### 86. [Enhanced Network Visibility: A Dive into the Falcon macOS Sensor's New Capabilities](https://www.crowdstrike.com/en-us/blog/enhanced-network-visibility-dive-into-falcon-macos-sensor-new-capabilities/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 11, 2026 00:00:00-0500  
@@ -761,7 +771,7 @@
 
 ---
 
-### 86. [March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/)
+### 87. [March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 10, 2026 00:00:00-0500  
@@ -770,7 +780,7 @@
 
 ---
 
-### 87. [Falcon for XIoT Extends Asset Protection to Healthcare Environments](https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/)
+### 88. [Falcon for XIoT Extends Asset Protection to Healthcare Environments](https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 09, 2026 00:00:00-0400  
@@ -779,7 +789,7 @@
 
 ---
 
-### 88. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
+### 89. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 06, 2026 00:00:00-0600  
@@ -788,21 +798,12 @@
 
 ---
 
-### 89. [CrowdStrike Achieves NCSC CIR Assurance for Incident Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/)
+### 90. [CrowdStrike Achieves NCSC CIR Assurance for Incident Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 02, 2026 00:00:00-0600  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 90. [CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Feb 26, 2026 00:00:00-0600  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 

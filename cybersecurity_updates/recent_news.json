@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
+    "link": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
+    "published": "Fri, 20 Mar 2026 23:17:00 +0530",
+    "summary": "Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets.\nThe latest incident impacted GitHub Actions \"aquasecurity/trivy-action\" and \"aquasecurity/setup-trivy,\" which are used to scan Docker container images for vulnerabilities and set up GitHub Actions workflow",
+    "analysis": {
+      "issue": "Trivy attack force-pushed 75 tags via GitHub Actions, exposing CI/CD secrets, enabling data theft and persistence across developer systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure",
     "link": "https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html",
     "published": "Fri, 20 Mar 2026 20:45:00 +0530",
@@ -168,21 +186,58 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
-    "link": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html",
-    "published": "Thu, 19 Mar 2026 18:13:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed a new Android malware family called Perseus that's being actively distributed in the wild with an aim to conduct device takeover (DTO) and financial fraud.\nPerseus is built upon the foundations of Cerberus and Phoenix, at the same time evolving into a \"more flexible and capable platform\" for compromising Android devices through dropper apps distributed",
+    "source": "Bleeping Computer",
+    "title": "FBI links Signal phishing attacks to Russian intelligence services",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/",
+    "published": "Fri, 20 Mar 2026 16:45:52 -0400",
+    "summary": "The FBI has issued a public service announcement warning that Russian intelligence-linked threat actors are actively targeting users of encrypted messaging apps such as Signal and WhatsApp in phishing campaigns that have already compromised thousands of accounts. [...]",
     "analysis": {
-      "issue": "Perseus Android malware uses accessibility abuse via phishing apps to enable device takeover and financial fraud across multiple countries",
+      "issue": "The FBI has issued a public service announcement warning that Russian intelligence-linked threat actors are actively targeting users of encrypted messaging apps such as Signal and WhatsApp in phishing campaigns that have already compromised thousands",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
+    "published": "Fri, 20 Mar 2026 14:48:47 -0400",
+    "summary": "Oracle has released an out-of-band security update to fix a critical unauthenticated remote code execution vulnerability in Identity Manager and Web Services Manager tracked as CVE-2026-21992. [...]",
+    "analysis": {
+      "issue": "Update: Added that Oracle declined to comment on whether the vulnerability has been exploited",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-21992"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Police take down 373,000 fake CSAM sites in Operation Alice",
+    "link": "https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/",
+    "published": "Fri, 20 Mar 2026 13:19:02 -0400",
+    "summary": "An international law enforcement action called Operation Alice has shut down over 373,000 dark web sites that offered fake CSAM packages. [...]",
+    "analysis": {
+      "issue": "An international law enforcement action called Operation Alice has shut down over 373,000 dark web sites that offered fake CSAM packages",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "Phishing"
+        "General Security"
       ]
     }
   },
@@ -321,62 +376,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New ‘PolyShell’ flaw allows unauthenticated RCE on Magento e-stores",
-    "link": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/",
-    "published": "Thu, 19 Mar 2026 16:01:03 -0400",
-    "summary": "A newly disclosed vulnerability dubbed 'PolyShell' affects all Magento Open Source and Adobe Commerce stable version 2 installations, allowing unauthenticated code execution and account takeover. [...]",
-    "analysis": {
-      "issue": "A newly disclosed vulnerability dubbed 'PolyShell' affects all Magento Open Source and Adobe Commerce stable version 2 installations, allowing unauthenticated code execution and account takeover",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Bitrefill blames North Korean Lazarus group for cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/",
-    "published": "Thu, 19 Mar 2026 13:08:24 -0400",
-    "summary": "Crypto-powered gift card store Bitrefill says that the attack it suffered at the beginning of the month was likely perpetrated by North Korean hackers of the Bluenoroff group. [...]",
-    "analysis": {
-      "issue": "Crypto-powered gift card store Bitrefill says that the attack it suffered at the beginning of the month was likely perpetrated by North Korean hackers of the Bluenoroff group",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI seizes Handala data leak site after Stryker cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/",
-    "published": "Thu, 19 Mar 2026 12:14:13 -0400",
-    "summary": "The FBI has seized two websites used by the Handala hacktivist group after the threat actors conducted a destructive cyberattack on medical technology giant Stryker that wiped approximately 80,000 devices. [...]",
-    "analysis": {
-      "issue": "The FBI has seized two websites used by the Handala hacktivist group after the threat actors conducted a destructive cyberattack on medical technology giant Stryker that wiped approximately 80,000 devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
     "link": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
@@ -426,14 +425,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21262",
-        "CVE-2026-26127",
-        "CVE-2026-26113",
-        "CVE-2026-24289",
-        "CVE-2026-25187",
-        "CVE-2026-26110",
         "CVE-2026-24294",
-        "CVE-2026-24291"
+        "CVE-2026-26127",
+        "CVE-2026-24289",
+        "CVE-2026-26113",
+        "CVE-2026-21262",
+        "CVE-2026-24291",
+        "CVE-2026-25187",
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -530,16 +529,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21519",
         "CVE-2026-21513",
+        "CVE-2026-21523",
         "CVE-2026-21516",
+        "CVE-2026-21514",
+        "CVE-2026-21510",
+        "CVE-2026-21525",
         "CVE-2026-21509",
         "CVE-2026-21533",
-        "CVE-2026-21519",
-        "CVE-2026-21523",
-        "CVE-2026-21514",
-        "CVE-2026-21525",
-        "CVE-2026-21256",
-        "CVE-2026-21510"
+        "CVE-2026-21256"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -801,16 +800,16 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-26144",
-        "CVE-2026-26114",
-        "CVE-2026-26115",
         "CVE-2026-26116",
-        "CVE-2026-26118",
-        "CVE-2026-26106",
-        "CVE-2026-21262",
-        "CVE-2026-26113",
         "CVE-2026-26128",
-        "CVE-2026-26110",
-        "CVE-2026-26109"
+        "CVE-2026-26118",
+        "CVE-2026-26113",
+        "CVE-2026-21262",
+        "CVE-2026-26109",
+        "CVE-2026-26115",
+        "CVE-2026-26114",
+        "CVE-2026-26106",
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -858,6 +857,24 @@
   },
   {
     "source": "Recorded Future",
+    "title": "The Iran War: What You Need to Know",
+    "link": "https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know",
+    "published": "Fri, 20 Mar 2026 00:00:00 GMT",
+    "summary": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios.",
+    "analysis": {
+      "issue": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "2025 Year in Review: Malicious, Infrastructure",
     "link": "https://www.recordedfuture.com/research/2025-year-in-review-malicious-infrastructure",
     "published": "Thu, 19 Mar 2026 00:00:00 GMT",
@@ -889,24 +906,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "The Iran War: What You Need to Know",
-    "link": "https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know",
-    "published": "Fri, 13 Mar 2026 00:00:00 GMT",
-    "summary": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios.",
-    "analysis": {
-      "issue": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1423,6 +1422,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown",
+    "link": "https://www.crowdstrike.com/en-us/blog/tycoon2fa-phishing-as-a-service-platform-persists-following-takedown/",
+    "published": "Mar 20, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "The subscription-based Tycoon2FA PHaaS platform, which enabled adversaries to bypass MFA, persists after takedown",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails",
     "link": "https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/",
     "published": "Mar 19, 2026 00:00:00-0500",
@@ -1580,24 +1597,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/",
-    "published": "Feb 26, 2026 00:00:00-0600",
-    "summary": "",
-    "analysis": {
-      "issue": "FalconID brings continuous risk-aware authorization to MFA for Falcon Next-Gen Identity Security",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   }
