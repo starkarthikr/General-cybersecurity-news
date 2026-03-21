@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-21 13:02:30 UTC
+**Last Updated:** 2026-03-21 16:55:05 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html)
+### 1. [FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks](https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 21 Mar 2026 18:47:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 2. [Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Mar 2026 15:54:00 +0530  
@@ -14,7 +23,7 @@
 
 ---
 
-### 2. [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
+### 3. [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Mar 2026 13:55:00 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html)
+### 4. [CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Mar 2026 13:55:00 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html)
+### 5. [Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 23:17:00 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html)
+### 6. [Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 20:45:00 +0530  
@@ -51,7 +60,7 @@
 
 ---
 
-### 6. [Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
+### 7. [Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 16:27:00 +0530  
@@ -60,7 +69,7 @@
 
 ---
 
-### 7. [The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks](https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html)
+### 8. [The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks](https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 15:30:00 +0530  
@@ -69,7 +78,7 @@
 
 ---
 
-### 8. [Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover](https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html)
+### 9. [Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover](https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 15:00:00 +0530  
@@ -78,7 +87,7 @@
 
 ---
 
-### 9. [DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
+### 10. [DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 11:55:00 +0530  
@@ -87,16 +96,25 @@
 
 ---
 
-### 10. [Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks](https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html)
+### 11. [Google adds ‘Advanced Flow’ for safe APK sideloading on Android](https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 20 Mar 2026 10:46:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Sat, 21 Mar 2026 10:18:23 -0400  
+**Severity:** High  
+**Categories:** Vulnerability, Malware  
 
 ---
 
-### 11. [FBI links Signal phishing attacks to Russian intelligence services](https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/)
+### 12. [Microsoft Azure Monitor alerts abused for callback phishing attacks](https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 21 Mar 2026 10:09:19 -0400  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 13. [FBI links Signal phishing attacks to Russian intelligence services](https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Mar 2026 16:45:52 -0400  
@@ -105,7 +123,7 @@
 
 ---
 
-### 12. [Oracle pushes emergency fix for critical Identity Manager RCE flaw](https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/)
+### 14. [Oracle pushes emergency fix for critical Identity Manager RCE flaw](https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Mar 2026 14:48:47 -0400  
@@ -115,7 +133,7 @@
 
 ---
 
-### 13. [Police take down 373,000 fake CSAM sites in Operation Alice](https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/)
+### 15. [Police take down 373,000 fake CSAM sites in Operation Alice](https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Mar 2026 13:19:02 -0400  
@@ -124,7 +142,7 @@
 
 ---
 
-### 14. [CISA orders feds to patch max-severity Cisco flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/)
+### 16. [CISA orders feds to patch max-severity Cisco flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Mar 2026 11:09:12 -0400  
@@ -134,7 +152,7 @@
 
 ---
 
-### 15. [How CISOs Can Survive the Era of Geopolitical Cyberattacks](https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/)
+### 17. [How CISOs Can Survive the Era of Geopolitical Cyberattacks](https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Mar 2026 10:01:11 -0400  
@@ -143,7 +161,7 @@
 
 ---
 
-### 16. [Musician admits to $10M streaming royalty fraud using AI bots](https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/)
+### 18. [Musician admits to $10M streaming royalty fraud using AI bots](https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Mar 2026 05:33:33 -0400  
@@ -152,7 +170,7 @@
 
 ---
 
-### 17. [International joint action disrupts world’s largest DDoS botnets](https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/)
+### 19. [International joint action disrupts world’s largest DDoS botnets](https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Mar 2026 04:05:12 -0400  
@@ -161,30 +179,12 @@
 
 ---
 
-### 18. [Microsoft: March Windows updates break Teams, OneDrive sign-ins](https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/)
+### 20. [Microsoft: March Windows updates break Teams, OneDrive sign-ins](https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Mar 2026 03:33:32 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 19. [Ex-data analyst stole company data in $2.5M extortion scheme](https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 20 Mar 2026 02:57:46 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 20. [Navia discloses data breach impacting 2.7 million people](https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 19 Mar 2026 16:43:54 -0400  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
@@ -211,7 +211,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24294, CVE-2026-24291, CVE-2026-24289, CVE-2026-25187, CVE-2026-26113, CVE-2026-26127, CVE-2026-21262, CVE-2026-26110  
+**CVEs:** CVE-2026-25187, CVE-2026-24289, CVE-2026-21262, CVE-2026-24294, CVE-2026-26110, CVE-2026-24291, CVE-2026-26113, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -257,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21256, CVE-2026-21514, CVE-2026-21519, CVE-2026-21516, CVE-2026-21509, CVE-2026-21533, CVE-2026-21523, CVE-2026-21513, CVE-2026-21510, CVE-2026-21525  
+**CVEs:** CVE-2026-21519, CVE-2026-21523, CVE-2026-21533, CVE-2026-21525, CVE-2026-21514, CVE-2026-21256, CVE-2026-21513, CVE-2026-21509, CVE-2026-21516, CVE-2026-21510  
 **Categories:** Vulnerability  
 
 ---
@@ -419,7 +419,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26115, CVE-2026-26114, CVE-2026-26113, CVE-2026-26128, CVE-2026-26109, CVE-2026-21262, CVE-2026-26144, CVE-2026-26116, CVE-2026-26118, CVE-2026-26110, CVE-2026-26106  
+**CVEs:** CVE-2026-26109, CVE-2026-26144, CVE-2026-26116, CVE-2026-26118, CVE-2026-26114, CVE-2026-26128, CVE-2026-21262, CVE-2026-26110, CVE-2026-26106, CVE-2026-26113, CVE-2026-26115  
 **Categories:** Vulnerability, APT  
 
 ---
