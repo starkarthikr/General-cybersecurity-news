@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-21 03:07:36 UTC
+**Last Updated:** 2026-03-21 08:57:52 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html)
+### 1. [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 21 Mar 2026 13:55:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 2. [CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 21 Mar 2026 13:55:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 3. [Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 23:17:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html)
+### 4. [Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 20:45:00 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
+### 5. [Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 16:27:00 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks](https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html)
+### 6. [The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks](https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 15:30:00 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover](https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html)
+### 7. [Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover](https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 15:00:00 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
+### 8. [DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 11:55:00 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks](https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html)
+### 9. [Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks](https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 10:46:00 +0530  
@@ -68,30 +86,12 @@
 
 ---
 
-### 8. [Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers](https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html)
+### 10. [Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers](https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 00:46:00 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 9. [54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security](https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 20 Mar 2026 00:22:00 +0530  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability  
-
----
-
-### 10. [ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More](https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 19 Mar 2026 19:55:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability, Phishing  
 
 ---
 
@@ -210,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26110, CVE-2026-26113, CVE-2026-24294, CVE-2026-25187, CVE-2026-24289, CVE-2026-26127, CVE-2026-21262, CVE-2026-24291  
+**CVEs:** CVE-2026-24294, CVE-2026-24289, CVE-2026-24291, CVE-2026-26113, CVE-2026-25187, CVE-2026-26127, CVE-2026-21262, CVE-2026-26110  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -256,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21523, CVE-2026-21533, CVE-2026-21256, CVE-2026-21525, CVE-2026-21516, CVE-2026-21519, CVE-2026-21510, CVE-2026-21514, CVE-2026-21513, CVE-2026-21509  
+**CVEs:** CVE-2026-21256, CVE-2026-21525, CVE-2026-21516, CVE-2026-21513, CVE-2026-21533, CVE-2026-21510, CVE-2026-21514, CVE-2026-21509, CVE-2026-21519, CVE-2026-21523  
 **Categories:** Vulnerability  
 
 ---
@@ -418,7 +418,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26110, CVE-2026-26115, CVE-2026-26114, CVE-2026-26113, CVE-2026-26118, CVE-2026-26109, CVE-2026-26106, CVE-2026-26144, CVE-2026-26128, CVE-2026-26116, CVE-2026-21262  
+**CVEs:** CVE-2026-26115, CVE-2026-26106, CVE-2026-26113, CVE-2026-26114, CVE-2026-26109, CVE-2026-26118, CVE-2026-26144, CVE-2026-21262, CVE-2026-26116, CVE-2026-26110, CVE-2026-26128  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -611,7 +611,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -726,7 +726,16 @@
 
 ---
 
-### 82. [Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails](https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/)
+### 82. [From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise](https://www.crowdstrike.com/en-us/blog/from-scanner-to-stealer-inside-the-trivy-action-supply-chain-compromise/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Mar 20, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 83. [Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails](https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 19, 2026 00:00:00-0500  
@@ -735,7 +744,7 @@
 
 ---
 
-### 83. [Falcon Platform for Government Now Offers Falcon for XIoT to Secure Connected Assets](https://www.crowdstrike.com/en-us/blog/falcon-platform-for-government-now-offers-falcon-for-xiot-to-secure-connected-assets/)
+### 84. [Falcon Platform for Government Now Offers Falcon for XIoT to Secure Connected Assets](https://www.crowdstrike.com/en-us/blog/falcon-platform-for-government-now-offers-falcon-for-xiot-to-secure-connected-assets/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 18, 2026 00:00:00-0500  
@@ -744,7 +753,7 @@
 
 ---
 
-### 84. [CrowdStrike Innovates to Modernize National Security and Protect Critical Systems](https://www.crowdstrike.com/en-us/blog/crowdstrike-innovates-to-modernize-national-security-and-protect-critical-systems/)
+### 85. [CrowdStrike Innovates to Modernize National Security and Protect Critical Systems](https://www.crowdstrike.com/en-us/blog/crowdstrike-innovates-to-modernize-national-security-and-protect-critical-systems/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 18, 2026 00:00:00-0500  
@@ -753,7 +762,7 @@
 
 ---
 
-### 85. [4 Ways Businesses Use CrowdStrike Charlotte AI to Transform Security Operations](https://www.crowdstrike.com/en-us/blog/four-ways-businesses-use-charlotte-ai-to-transform-security-operations/)
+### 86. [4 Ways Businesses Use CrowdStrike Charlotte AI to Transform Security Operations](https://www.crowdstrike.com/en-us/blog/four-ways-businesses-use-charlotte-ai-to-transform-security-operations/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 12, 2026 00:00:00-0500  
@@ -762,7 +771,7 @@
 
 ---
 
-### 86. [Enhanced Network Visibility: A Dive into the Falcon macOS Sensor's New Capabilities](https://www.crowdstrike.com/en-us/blog/enhanced-network-visibility-dive-into-falcon-macos-sensor-new-capabilities/)
+### 87. [Enhanced Network Visibility: A Dive into the Falcon macOS Sensor's New Capabilities](https://www.crowdstrike.com/en-us/blog/enhanced-network-visibility-dive-into-falcon-macos-sensor-new-capabilities/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 11, 2026 00:00:00-0500  
@@ -771,7 +780,7 @@
 
 ---
 
-### 87. [March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/)
+### 88. [March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 10, 2026 00:00:00-0500  
@@ -780,7 +789,7 @@
 
 ---
 
-### 88. [Falcon for XIoT Extends Asset Protection to Healthcare Environments](https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/)
+### 89. [Falcon for XIoT Extends Asset Protection to Healthcare Environments](https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 09, 2026 00:00:00-0400  
@@ -789,19 +798,10 @@
 
 ---
 
-### 89. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
+### 90. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 06, 2026 00:00:00-0600  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [CrowdStrike Achieves NCSC CIR Assurance for Incident Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Mar 02, 2026 00:00:00-0600  
 **Severity:** Low  
 **Categories:** General Security  
 
