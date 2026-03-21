@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager",
+    "link": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
+    "published": "Sat, 21 Mar 2026 15:54:00 +0530",
+    "summary": "Oracle has released security updates to address a critical security flaw impacting Identity Manager and Web Services Manager that could be exploited to achieve remote code execution.\nThe vulnerability, tracked as CVE-2026-21992, carries a CVSS score of 9.8 out of a maximum of 10.0.\n\"This vulnerability is remotely exploitable without authentication,\" Oracle said in an advisory. \"If successfully",
+    "analysis": {
+      "issue": "Oracle fixes CVE-2026-21992 (CVSS 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-21992"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
     "link": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
     "published": "Sat, 21 Mar 2026 13:55:00 +0530",
@@ -163,25 +183,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
-    "link": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html",
-    "published": "Fri, 20 Mar 2026 00:46:00 +0530",
-    "summary": "Cybersecurity researchers have flagged a new malware dubbed Speagle that hijacks the functionality and infrastructure of a legitimate program called Cobra DocGuard.\n\"Speagle is designed to surreptitiously harvest sensitive information from infected computers and transmit it to a Cobra DocGuard server that has been compromised by the attackers, masking the data exfiltration process as legitimate",
-    "analysis": {
-      "issue": "Speagle malware exploits Cobra DocGuard servers to exfiltrate sensitive data, indicating targeted espionage risks for protected systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -426,10 +427,10 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-24294",
-        "CVE-2026-24289",
         "CVE-2026-24291",
-        "CVE-2026-26113",
+        "CVE-2026-24289",
         "CVE-2026-25187",
+        "CVE-2026-26113",
         "CVE-2026-26127",
         "CVE-2026-21262",
         "CVE-2026-26110"
@@ -530,15 +531,15 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-21256",
-        "CVE-2026-21525",
-        "CVE-2026-21516",
-        "CVE-2026-21513",
-        "CVE-2026-21533",
-        "CVE-2026-21510",
         "CVE-2026-21514",
-        "CVE-2026-21509",
         "CVE-2026-21519",
-        "CVE-2026-21523"
+        "CVE-2026-21516",
+        "CVE-2026-21509",
+        "CVE-2026-21533",
+        "CVE-2026-21523",
+        "CVE-2026-21513",
+        "CVE-2026-21510",
+        "CVE-2026-21525"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -583,6 +584,13 @@
         "Malware"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical Quest KACE Vulnerability Potentially Exploited in Attacks",
+    "link": "https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks/",
+    "published": "Sat, 21 Mar 2026 11:00:00 +0000",
+    "summary": "<p>The vulnerability is tracked as CVE-2025-32975 and it may have been exploited in attacks against the education sector.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks/\">Critical Quest KACE Vulnerability Potentially Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -646,13 +654,6 @@
     "link": "https://www.securityweek.com/critical-langflow-vulnerability-exploited-hours-after-public-disclosure/",
     "published": "Fri, 20 Mar 2026 08:38:56 +0000",
     "summary": "<p>Because attacker-supplied flow data is used in public flows, the bug leads to unauthenticated remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-langflow-vulnerability-exploited-hours-after-public-disclosure/\">Critical Langflow Vulnerability Exploited Hours After Public Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Aisuru and Kimwolf DDoS Botnets Disrupted in International Operation",
-    "link": "https://www.securityweek.com/aisuru-and-kimwolf-ddos-botnets-disrupted-in-international-operation/",
-    "published": "Fri, 20 Mar 2026 07:32:32 +0000",
-    "summary": "<p>The lesser-known JackSkid and Mossad botnets have also been targeted in the operation.</p>\n<p>The post <a href=\"https://www.securityweek.com/aisuru-and-kimwolf-ddos-botnets-disrupted-in-international-operation/\">Aisuru and Kimwolf DDoS Botnets Disrupted in International Operation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -800,16 +801,16 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-26115",
-        "CVE-2026-26106",
-        "CVE-2026-26113",
         "CVE-2026-26114",
+        "CVE-2026-26113",
+        "CVE-2026-26128",
         "CVE-2026-26109",
-        "CVE-2026-26118",
-        "CVE-2026-26144",
         "CVE-2026-21262",
+        "CVE-2026-26144",
         "CVE-2026-26116",
+        "CVE-2026-26118",
         "CVE-2026-26110",
-        "CVE-2026-26128"
+        "CVE-2026-26106"
       ],
       "threat_categories": [
         "Vulnerability",

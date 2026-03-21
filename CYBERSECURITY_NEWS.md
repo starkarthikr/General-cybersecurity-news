@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-21 08:57:52 UTC
+**Last Updated:** 2026-03-21 13:02:30 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
+### 1. [Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 21 Mar 2026 15:54:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-21992  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Mar 2026 13:55:00 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html)
+### 3. [CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Mar 2026 13:55:00 +0530  
@@ -22,7 +32,7 @@
 
 ---
 
-### 3. [Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html)
+### 4. [Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 23:17:00 +0530  
@@ -31,7 +41,7 @@
 
 ---
 
-### 4. [Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html)
+### 5. [Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 20:45:00 +0530  
@@ -41,7 +51,7 @@
 
 ---
 
-### 5. [Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
+### 6. [Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 16:27:00 +0530  
@@ -50,7 +60,7 @@
 
 ---
 
-### 6. [The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks](https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html)
+### 7. [The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks](https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 15:30:00 +0530  
@@ -59,7 +69,7 @@
 
 ---
 
-### 7. [Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover](https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html)
+### 8. [Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover](https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 15:00:00 +0530  
@@ -68,7 +78,7 @@
 
 ---
 
-### 8. [DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
+### 9. [DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 11:55:00 +0530  
@@ -77,21 +87,12 @@
 
 ---
 
-### 9. [Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks](https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html)
+### 10. [Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks](https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 10:46:00 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 10. [Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers](https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 20 Mar 2026 00:46:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -210,7 +211,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24294, CVE-2026-24289, CVE-2026-24291, CVE-2026-26113, CVE-2026-25187, CVE-2026-26127, CVE-2026-21262, CVE-2026-26110  
+**CVEs:** CVE-2026-24294, CVE-2026-24291, CVE-2026-24289, CVE-2026-25187, CVE-2026-26113, CVE-2026-26127, CVE-2026-21262, CVE-2026-26110  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -256,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21256, CVE-2026-21525, CVE-2026-21516, CVE-2026-21513, CVE-2026-21533, CVE-2026-21510, CVE-2026-21514, CVE-2026-21509, CVE-2026-21519, CVE-2026-21523  
+**CVEs:** CVE-2026-21256, CVE-2026-21514, CVE-2026-21519, CVE-2026-21516, CVE-2026-21509, CVE-2026-21533, CVE-2026-21523, CVE-2026-21513, CVE-2026-21510, CVE-2026-21525  
 **Categories:** Vulnerability  
 
 ---
@@ -279,73 +280,73 @@
 
 ---
 
-### 31. [In Other News: New Android Safeguards, Operation Alice, UK Toughens Cyber Reporting](https://www.securityweek.com/in-other-news-new-android-safeguards-operation-alice-uk-toughens-cyber-reporting/)
+### 31. [Critical Quest KACE Vulnerability Potentially Exploited in Attacks](https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks/)
+
+**Source:** Security Week  
+**Published:** Sat, 21 Mar 2026 11:00:00 +0000  
+
+---
+
+### 32. [In Other News: New Android Safeguards, Operation Alice, UK Toughens Cyber Reporting](https://www.securityweek.com/in-other-news-new-android-safeguards-operation-alice-uk-toughens-cyber-reporting/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Mar 2026 15:57:30 +0000  
 
 ---
 
-### 32. [3 Men Charged With Conspiring to Smuggle US Artificial Intelligence to China](https://www.securityweek.com/3-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/)
+### 33. [3 Men Charged With Conspiring to Smuggle US Artificial Intelligence to China](https://www.securityweek.com/3-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Mar 2026 14:43:36 +0000  
 
 ---
 
-### 33. [Eclypsium Raises $25 Million for Device Supply Chain Security](https://www.securityweek.com/eclypsium-raises-25-million-for-device-supply-chain-security/)
+### 34. [Eclypsium Raises $25 Million for Device Supply Chain Security](https://www.securityweek.com/eclypsium-raises-25-million-for-device-supply-chain-security/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Mar 2026 13:25:34 +0000  
 
 ---
 
-### 34. [US Confirms Handala Link to Iran Government Amid Takedown of Hackers’ Sites](https://www.securityweek.com/us-confirms-handala-link-to-iran-government-amid-takedown-of-hackers-sites/)
+### 35. [US Confirms Handala Link to Iran Government Amid Takedown of Hackers’ Sites](https://www.securityweek.com/us-confirms-handala-link-to-iran-government-amid-takedown-of-hackers-sites/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Mar 2026 12:25:41 +0000  
 
 ---
 
-### 35. [Cape Raises $100 Million for Protection Against Cellular Security Threats](https://www.securityweek.com/cape-raises-100-million-for-protection-against-cellular-security-threats/)
+### 36. [Cape Raises $100 Million for Protection Against Cellular Security Threats](https://www.securityweek.com/cape-raises-100-million-for-protection-against-cellular-security-threats/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Mar 2026 11:36:00 +0000  
 
 ---
 
-### 36. [Navia Data Breach Impacts 2.7 Million](https://www.securityweek.com/navia-data-breach-impacts-2-7-million/)
+### 37. [Navia Data Breach Impacts 2.7 Million](https://www.securityweek.com/navia-data-breach-impacts-2-7-million/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Mar 2026 11:02:08 +0000  
 
 ---
 
-### 37. [Thousands of Magento Sites Hit in Ongoing Defacement Campaign](https://www.securityweek.com/thousands-of-magento-sites-hit-in-ongoing-defacement-campaign/)
+### 38. [Thousands of Magento Sites Hit in Ongoing Defacement Campaign](https://www.securityweek.com/thousands-of-magento-sites-hit-in-ongoing-defacement-campaign/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Mar 2026 10:36:51 +0000  
 
 ---
 
-### 38. [Allure Security Raises $17 Million for Online Brand Protection](https://www.securityweek.com/allure-security-raises-17-million-for-online-brand-protection/)
+### 39. [Allure Security Raises $17 Million for Online Brand Protection](https://www.securityweek.com/allure-security-raises-17-million-for-online-brand-protection/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Mar 2026 09:09:59 +0000  
 
 ---
 
-### 39. [Critical Langflow Vulnerability Exploited Hours After Public Disclosure](https://www.securityweek.com/critical-langflow-vulnerability-exploited-hours-after-public-disclosure/)
+### 40. [Critical Langflow Vulnerability Exploited Hours After Public Disclosure](https://www.securityweek.com/critical-langflow-vulnerability-exploited-hours-after-public-disclosure/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Mar 2026 08:38:56 +0000  
-
----
-
-### 40. [Aisuru and Kimwolf DDoS Botnets Disrupted in International Operation](https://www.securityweek.com/aisuru-and-kimwolf-ddos-botnets-disrupted-in-international-operation/)
-
-**Source:** Security Week  
-**Published:** Fri, 20 Mar 2026 07:32:32 +0000  
 
 ---
 
@@ -418,7 +419,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26115, CVE-2026-26106, CVE-2026-26113, CVE-2026-26114, CVE-2026-26109, CVE-2026-26118, CVE-2026-26144, CVE-2026-21262, CVE-2026-26116, CVE-2026-26110, CVE-2026-26128  
+**CVEs:** CVE-2026-26115, CVE-2026-26114, CVE-2026-26113, CVE-2026-26128, CVE-2026-26109, CVE-2026-21262, CVE-2026-26144, CVE-2026-26116, CVE-2026-26118, CVE-2026-26110, CVE-2026-26106  
 **Categories:** Vulnerability, APT  
 
 ---
