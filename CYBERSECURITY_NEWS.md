@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-22 16:55:38 UTC
+**Last Updated:** 2026-03-23 02:48:00 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -211,7 +211,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26127, CVE-2026-24294, CVE-2026-26113, CVE-2026-21262, CVE-2026-24291, CVE-2026-25187, CVE-2026-26110, CVE-2026-24289  
+**CVEs:** CVE-2026-24289, CVE-2026-21262, CVE-2026-24294, CVE-2026-26127, CVE-2026-25187, CVE-2026-24291, CVE-2026-26113, CVE-2026-26110  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -257,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21256, CVE-2026-21516, CVE-2026-21509, CVE-2026-21514, CVE-2026-21510, CVE-2026-21525, CVE-2026-21523, CVE-2026-21519, CVE-2026-21533, CVE-2026-21513  
+**CVEs:** CVE-2026-21513, CVE-2026-21519, CVE-2026-21525, CVE-2026-21523, CVE-2026-21516, CVE-2026-21256, CVE-2026-21510, CVE-2026-21533, CVE-2026-21509, CVE-2026-21514  
 **Categories:** Vulnerability  
 
 ---
@@ -419,7 +419,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26115, CVE-2026-26144, CVE-2026-26113, CVE-2026-21262, CVE-2026-26106, CVE-2026-26128, CVE-2026-26114, CVE-2026-26110, CVE-2026-26116, CVE-2026-26118, CVE-2026-26109  
+**CVEs:** CVE-2026-21262, CVE-2026-26116, CVE-2026-26128, CVE-2026-26109, CVE-2026-26118, CVE-2026-26114, CVE-2026-26144, CVE-2026-26106, CVE-2026-26115, CVE-2026-26113, CVE-2026-26110  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -612,7 +612,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -627,7 +627,16 @@
 
 ---
 
-### 71. [Could your face change what you pay? NYC wants limits on biometric tracking](https://www.malwarebytes.com/blog/news/2026/03/could-your-face-change-what-you-pay-nyc-wants-limits-on-biometric-tracking)
+### 71. [This is all it takes to stop a train (Lock and Code S07E06)](https://www.malwarebytes.com/blog/podcast/2026/03/this-is-all-it-takes-to-stop-a-train-lock-and-code-s07e06)
+
+**Source:** Malwarebytes  
+**Published:** Sun, 22 Mar 2026 22:02:28 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [Could your face change what you pay? NYC wants limits on biometric tracking](https://www.malwarebytes.com/blog/news/2026/03/could-your-face-change-what-you-pay-nyc-wants-limits-on-biometric-tracking)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 20 Mar 2026 13:39:55 GMT  
@@ -636,7 +645,7 @@
 
 ---
 
-### 72. [That “job brief” on Google Forms could infect your device](https://www.malwarebytes.com/blog/threat-intel/2026/03/that-job-brief-on-google-forms-could-infect-your-device)
+### 73. [That “job brief” on Google Forms could infect your device](https://www.malwarebytes.com/blog/threat-intel/2026/03/that-job-brief-on-google-forms-could-infect-your-device)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 20 Mar 2026 11:38:40 GMT  
@@ -645,7 +654,7 @@
 
 ---
 
-### 73. [A DarkSword hangs over unpatched iPhones](https://www.malwarebytes.com/blog/mobile/2026/03/a-darksword-hangs-over-unpatched-iphones)
+### 74. [A DarkSword hangs over unpatched iPhones](https://www.malwarebytes.com/blog/mobile/2026/03/a-darksword-hangs-over-unpatched-iphones)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 19 Mar 2026 12:27:53 GMT  
@@ -654,7 +663,7 @@
 
 ---
 
-### 74. [Your tax forms sell for $20 on the dark web](https://www.malwarebytes.com/blog/privacy/2026/03/your-tax-forms-sell-for-20-on-the-dark-web)
+### 75. [Your tax forms sell for $20 on the dark web](https://www.malwarebytes.com/blog/privacy/2026/03/your-tax-forms-sell-for-20-on-the-dark-web)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 19 Mar 2026 11:33:30 GMT  
@@ -663,7 +672,7 @@
 
 ---
 
-### 75. [Researchers found font-rendering trick to hide malicious commands](https://www.malwarebytes.com/blog/news/2026/03/researchers-found-font-rendering-trick-to-hide-malicious-commands)
+### 76. [Researchers found font-rendering trick to hide malicious commands](https://www.malwarebytes.com/blog/news/2026/03/researchers-found-font-rendering-trick-to-hide-malicious-commands)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Mar 2026 17:16:59 GMT  
@@ -672,7 +681,7 @@
 
 ---
 
-### 76. [Apple patches WebKit bug that could let sites access your data](https://www.malwarebytes.com/blog/news/2026/03/apple-patches-webkit-bug-that-could-let-sites-access-your-data)
+### 77. [Apple patches WebKit bug that could let sites access your data](https://www.malwarebytes.com/blog/news/2026/03/apple-patches-webkit-bug-that-could-let-sites-access-your-data)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Mar 2026 11:19:59 GMT  
@@ -682,7 +691,7 @@
 
 ---
 
-### 77. [Inside a network of 20,000+ fake shops](https://www.malwarebytes.com/blog/scams/2026/03/inside-a-network-of-20000-fake-shops)
+### 78. [Inside a network of 20,000+ fake shops](https://www.malwarebytes.com/blog/scams/2026/03/inside-a-network-of-20000-fake-shops)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Mar 2026 08:51:46 GMT  
@@ -691,7 +700,7 @@
 
 ---
 
-### 78. [Fake Pudgy World site steals your crypto passwords](https://www.malwarebytes.com/blog/scams/2026/03/fake-pudgy-world-site-steals-your-crypto-passwords)
+### 79. [Fake Pudgy World site steals your crypto passwords](https://www.malwarebytes.com/blog/scams/2026/03/fake-pudgy-world-site-steals-your-crypto-passwords)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Mar 2026 16:10:42 GMT  
@@ -700,21 +709,12 @@
 
 ---
 
-### 79. [90% of people don’t trust AI with their data](https://www.malwarebytes.com/blog/privacy/2026/03/90-of-people-dont-trust-ai-with-their-data)
+### 80. [90% of people don’t trust AI with their data](https://www.malwarebytes.com/blog/privacy/2026/03/90-of-people-dont-trust-ai-with-their-data)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Mar 2026 12:26:37 GMT  
 **Severity:** High  
 **Categories:** Malware  
-
----
-
-### 80. [How searching for a VPN could mean handing over your work login details](https://www.malwarebytes.com/blog/news/2026/03/how-searching-for-a-vpn-could-mean-handing-over-your-work-login-details)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 17 Mar 2026 11:36:23 GMT  
-**Severity:** High  
-**Categories:** Vulnerability, Malware  
 
 ---
 

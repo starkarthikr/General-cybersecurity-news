@@ -427,14 +427,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26127",
-        "CVE-2026-24294",
-        "CVE-2026-26113",
+        "CVE-2026-24289",
         "CVE-2026-21262",
-        "CVE-2026-24291",
+        "CVE-2026-24294",
+        "CVE-2026-26127",
         "CVE-2026-25187",
-        "CVE-2026-26110",
-        "CVE-2026-24289"
+        "CVE-2026-24291",
+        "CVE-2026-26113",
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -531,16 +531,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21256",
-        "CVE-2026-21516",
-        "CVE-2026-21509",
-        "CVE-2026-21514",
-        "CVE-2026-21510",
+        "CVE-2026-21513",
+        "CVE-2026-21519",
         "CVE-2026-21525",
         "CVE-2026-21523",
-        "CVE-2026-21519",
+        "CVE-2026-21516",
+        "CVE-2026-21256",
+        "CVE-2026-21510",
         "CVE-2026-21533",
-        "CVE-2026-21513"
+        "CVE-2026-21509",
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -801,17 +801,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26115",
-        "CVE-2026-26144",
-        "CVE-2026-26113",
         "CVE-2026-21262",
-        "CVE-2026-26106",
-        "CVE-2026-26128",
-        "CVE-2026-26114",
-        "CVE-2026-26110",
         "CVE-2026-26116",
+        "CVE-2026-26128",
+        "CVE-2026-26109",
         "CVE-2026-26118",
-        "CVE-2026-26109"
+        "CVE-2026-26114",
+        "CVE-2026-26144",
+        "CVE-2026-26106",
+        "CVE-2026-26115",
+        "CVE-2026-26113",
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1206,8 +1206,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1232,6 +1232,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "This is all it takes to stop a train (Lock and Code S07E06)",
+    "link": "https://www.malwarebytes.com/blog/podcast/2026/03/this-is-all-it-takes-to-stop-a-train-lock-and-code-s07e06",
+    "published": "Sun, 22 Mar 2026 22:02:28 GMT",
+    "summary": "This week on the Lock and Code podcast, we speak with Rachel Swan about the simple network problems causing major train outages in the Bay.",
+    "analysis": {
+      "issue": "This week on the Lock and Code podcast… Forget the runaway train thrillingly shot in Buster Keaton’s 1926 film “The General,” and never mind the charging locomotive rescued by actors Denzel Washington and Chris Pine in the 2010 film “Unstoppable,” as",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1399,25 +1417,6 @@
       "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "How searching for a VPN could mean handing over your work login details",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/how-searching-for-a-vpn-could-mean-handing-over-your-work-login-details",
-    "published": "Tue, 17 Mar 2026 11:36:23 GMT",
-    "summary": "What looks like a legit VPN download could be a trap, as SEO poisoning is being used to steal corporate logins.",
-    "analysis": {
-      "issue": "This blog is about how trying to do the “right thing” can lead you straight into a trap",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
         "Malware"
       ]
     }
