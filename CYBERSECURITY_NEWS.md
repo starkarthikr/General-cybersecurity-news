@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-23 03:29:32 UTC
+**Last Updated:** 2026-03-23 09:37:00 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks](https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html)
+### 1. [Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper](https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 23 Mar 2026 14:01:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing, Supply Chain  
+
+---
+
+### 2. [Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems](https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 23 Mar 2026 11:45:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2025-32975  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks](https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Mar 2026 18:47:00 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html)
+### 4. [Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Mar 2026 15:54:00 +0530  
@@ -23,7 +42,7 @@
 
 ---
 
-### 3. [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
+### 5. [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Mar 2026 13:55:00 +0530  
@@ -32,7 +51,7 @@
 
 ---
 
-### 4. [CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html)
+### 6. [CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Mar 2026 13:55:00 +0530  
@@ -41,7 +60,7 @@
 
 ---
 
-### 5. [Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html)
+### 7. [Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 23:17:00 +0530  
@@ -50,7 +69,7 @@
 
 ---
 
-### 6. [Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html)
+### 8. [Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 20:45:00 +0530  
@@ -60,7 +79,7 @@
 
 ---
 
-### 7. [Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
+### 9. [Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 16:27:00 +0530  
@@ -69,7 +88,7 @@
 
 ---
 
-### 8. [The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks](https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html)
+### 10. [The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks](https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 20 Mar 2026 15:30:00 +0530  
@@ -78,25 +97,26 @@
 
 ---
 
-### 9. [Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover](https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html)
+### 11. [CISA orders feds to patch DarkSword iOS flaws exploited attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 20 Mar 2026 15:00:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 23 Mar 2026 04:37:28 -0400  
 **Severity:** Low  
+**CVEs:** CVE-2025-31277, CVE-2025-43520, CVE-2025-43529, CVE-2025-14174, CVE-2026-20700, CVE-2025-43510  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 12. [New KB5085516 emergency update fixes Microsoft account sign-in](https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 23 Mar 2026 04:04:30 -0400  
+**Severity:** High  
 **Categories:** General Security  
 
 ---
 
-### 10. [DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 20 Mar 2026 11:55:00 +0530  
-**Severity:** Low  
-**Categories:** Malware, DDoS  
-
----
-
-### 11. [VoidStealer malware steals Chrome master key via debugger trick](https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/)
+### 13. [VoidStealer malware steals Chrome master key via debugger trick](https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 22 Mar 2026 10:32:46 -0400  
@@ -105,7 +125,7 @@
 
 ---
 
-### 12. [Trivy vulnerability scanner breach pushed infostealer via GitHub Actions](https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/)
+### 14. [Trivy vulnerability scanner breach pushed infostealer via GitHub Actions](https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Mar 2026 13:30:41 -0400  
@@ -114,7 +134,7 @@
 
 ---
 
-### 13. [Google adds ‘Advanced Flow’ for safe APK sideloading on Android](https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/)
+### 15. [Google adds ‘Advanced Flow’ for safe APK sideloading on Android](https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Mar 2026 10:18:23 -0400  
@@ -123,7 +143,7 @@
 
 ---
 
-### 14. [Microsoft Azure Monitor alerts abused for callback phishing attacks](https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/)
+### 16. [Microsoft Azure Monitor alerts abused for callback phishing attacks](https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 21 Mar 2026 10:09:19 -0400  
@@ -132,7 +152,7 @@
 
 ---
 
-### 15. [FBI links Signal phishing attacks to Russian intelligence services](https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/)
+### 17. [FBI links Signal phishing attacks to Russian intelligence services](https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Mar 2026 16:45:52 -0400  
@@ -141,7 +161,7 @@
 
 ---
 
-### 16. [Oracle pushes emergency fix for critical Identity Manager RCE flaw](https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/)
+### 18. [Oracle pushes emergency fix for critical Identity Manager RCE flaw](https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Mar 2026 14:48:47 -0400  
@@ -151,7 +171,7 @@
 
 ---
 
-### 17. [Police take down 373,000 fake CSAM sites in Operation Alice](https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/)
+### 19. [Police take down 373,000 fake CSAM sites in Operation Alice](https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Mar 2026 13:19:02 -0400  
@@ -160,31 +180,13 @@
 
 ---
 
-### 18. [CISA orders feds to patch max-severity Cisco flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/)
+### 20. [CISA orders feds to patch max-severity Cisco flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 20 Mar 2026 11:09:12 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-20131  
 **Categories:** Ransomware, Vulnerability, Malware  
-
----
-
-### 19. [How CISOs Can Survive the Era of Geopolitical Cyberattacks](https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 20 Mar 2026 10:01:11 -0400  
-**Severity:** Critical  
-**Categories:** Ransomware, Malware, APT, Supply Chain  
-
----
-
-### 20. [Musician admits to $10M streaming royalty fraud using AI bots](https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 20 Mar 2026 05:33:33 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -211,7 +213,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-26110, CVE-2026-26113, CVE-2026-26127, CVE-2026-21262, CVE-2026-24289, CVE-2026-24294, CVE-2026-24291  
+**CVEs:** CVE-2026-24291, CVE-2026-26127, CVE-2026-21262, CVE-2026-25187, CVE-2026-26110, CVE-2026-24294, CVE-2026-26113, CVE-2026-24289  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -257,7 +259,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21256, CVE-2026-21510, CVE-2026-21514, CVE-2026-21509, CVE-2026-21513, CVE-2026-21533, CVE-2026-21516, CVE-2026-21523, CVE-2026-21525, CVE-2026-21519  
+**CVEs:** CVE-2026-21510, CVE-2026-21523, CVE-2026-21509, CVE-2026-21516, CVE-2026-21513, CVE-2026-21256, CVE-2026-21525, CVE-2026-21514, CVE-2026-21519, CVE-2026-21533  
 **Categories:** Vulnerability  
 
 ---
@@ -280,73 +282,73 @@
 
 ---
 
-### 31. [Critical Quest KACE Vulnerability Potentially Exploited in Attacks](https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks/)
+### 31. [Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability](https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/)
+
+**Source:** Security Week  
+**Published:** Mon, 23 Mar 2026 05:34:43 +0000  
+
+---
+
+### 32. [Critical Quest KACE Vulnerability Potentially Exploited in Attacks](https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Sat, 21 Mar 2026 11:00:00 +0000  
 
 ---
 
-### 32. [In Other News: New Android Safeguards, Operation Alice, UK Toughens Cyber Reporting](https://www.securityweek.com/in-other-news-new-android-safeguards-operation-alice-uk-toughens-cyber-reporting/)
+### 33. [In Other News: New Android Safeguards, Operation Alice, UK Toughens Cyber Reporting](https://www.securityweek.com/in-other-news-new-android-safeguards-operation-alice-uk-toughens-cyber-reporting/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Mar 2026 15:57:30 +0000  
 
 ---
 
-### 33. [3 Men Charged With Conspiring to Smuggle US Artificial Intelligence to China](https://www.securityweek.com/3-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/)
+### 34. [3 Men Charged With Conspiring to Smuggle US Artificial Intelligence to China](https://www.securityweek.com/3-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Mar 2026 14:43:36 +0000  
 
 ---
 
-### 34. [Eclypsium Raises $25 Million for Device Supply Chain Security](https://www.securityweek.com/eclypsium-raises-25-million-for-device-supply-chain-security/)
+### 35. [Eclypsium Raises $25 Million for Device Supply Chain Security](https://www.securityweek.com/eclypsium-raises-25-million-for-device-supply-chain-security/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Mar 2026 13:25:34 +0000  
 
 ---
 
-### 35. [US Confirms Handala Link to Iran Government Amid Takedown of Hackers’ Sites](https://www.securityweek.com/us-confirms-handala-link-to-iran-government-amid-takedown-of-hackers-sites/)
+### 36. [US Confirms Handala Link to Iran Government Amid Takedown of Hackers’ Sites](https://www.securityweek.com/us-confirms-handala-link-to-iran-government-amid-takedown-of-hackers-sites/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Mar 2026 12:25:41 +0000  
 
 ---
 
-### 36. [Cape Raises $100 Million for Protection Against Cellular Security Threats](https://www.securityweek.com/cape-raises-100-million-for-protection-against-cellular-security-threats/)
+### 37. [Cape Raises $100 Million for Protection Against Cellular Security Threats](https://www.securityweek.com/cape-raises-100-million-for-protection-against-cellular-security-threats/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Mar 2026 11:36:00 +0000  
 
 ---
 
-### 37. [Navia Data Breach Impacts 2.7 Million](https://www.securityweek.com/navia-data-breach-impacts-2-7-million/)
+### 38. [Navia Data Breach Impacts 2.7 Million](https://www.securityweek.com/navia-data-breach-impacts-2-7-million/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Mar 2026 11:02:08 +0000  
 
 ---
 
-### 38. [Thousands of Magento Sites Hit in Ongoing Defacement Campaign](https://www.securityweek.com/thousands-of-magento-sites-hit-in-ongoing-defacement-campaign/)
+### 39. [Thousands of Magento Sites Hit in Ongoing Defacement Campaign](https://www.securityweek.com/thousands-of-magento-sites-hit-in-ongoing-defacement-campaign/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Mar 2026 10:36:51 +0000  
 
 ---
 
-### 39. [Allure Security Raises $17 Million for Online Brand Protection](https://www.securityweek.com/allure-security-raises-17-million-for-online-brand-protection/)
+### 40. [Allure Security Raises $17 Million for Online Brand Protection](https://www.securityweek.com/allure-security-raises-17-million-for-online-brand-protection/)
 
 **Source:** Security Week  
 **Published:** Fri, 20 Mar 2026 09:09:59 +0000  
-
----
-
-### 40. [Critical Langflow Vulnerability Exploited Hours After Public Disclosure](https://www.securityweek.com/critical-langflow-vulnerability-exploited-hours-after-public-disclosure/)
-
-**Source:** Security Week  
-**Published:** Fri, 20 Mar 2026 08:38:56 +0000  
 
 ---
 
@@ -419,7 +421,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26116, CVE-2026-26110, CVE-2026-26113, CVE-2026-26106, CVE-2026-26114, CVE-2026-26109, CVE-2026-21262, CVE-2026-26118, CVE-2026-26144, CVE-2026-26115, CVE-2026-26128  
+**CVEs:** CVE-2026-26144, CVE-2026-26114, CVE-2026-26128, CVE-2026-21262, CVE-2026-26110, CVE-2026-26113, CVE-2026-26106, CVE-2026-26118, CVE-2026-26109, CVE-2026-26116, CVE-2026-26115  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -627,7 +629,16 @@
 
 ---
 
-### 71. [This is all it takes to stop a train (Lock and Code S07E06)](https://www.malwarebytes.com/blog/podcast/2026/03/this-is-all-it-takes-to-stop-a-train-lock-and-code-s07e06)
+### 71. [A week in security (March 16 &#8211; March 22)](https://www.malwarebytes.com/blog/uncategorized/2026/03/a-week-in-security-march-16-march-22)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 23 Mar 2026 07:06:59 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 72. [This is all it takes to stop a train (Lock and Code S07E06)](https://www.malwarebytes.com/blog/podcast/2026/03/this-is-all-it-takes-to-stop-a-train-lock-and-code-s07e06)
 
 **Source:** Malwarebytes  
 **Published:** Sun, 22 Mar 2026 22:02:28 GMT  
@@ -636,7 +647,7 @@
 
 ---
 
-### 72. [Could your face change what you pay? NYC wants limits on biometric tracking](https://www.malwarebytes.com/blog/news/2026/03/could-your-face-change-what-you-pay-nyc-wants-limits-on-biometric-tracking)
+### 73. [Could your face change what you pay? NYC wants limits on biometric tracking](https://www.malwarebytes.com/blog/news/2026/03/could-your-face-change-what-you-pay-nyc-wants-limits-on-biometric-tracking)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 20 Mar 2026 13:39:55 GMT  
@@ -645,7 +656,7 @@
 
 ---
 
-### 73. [That “job brief” on Google Forms could infect your device](https://www.malwarebytes.com/blog/threat-intel/2026/03/that-job-brief-on-google-forms-could-infect-your-device)
+### 74. [That “job brief” on Google Forms could infect your device](https://www.malwarebytes.com/blog/threat-intel/2026/03/that-job-brief-on-google-forms-could-infect-your-device)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 20 Mar 2026 11:38:40 GMT  
@@ -654,7 +665,7 @@
 
 ---
 
-### 74. [A DarkSword hangs over unpatched iPhones](https://www.malwarebytes.com/blog/mobile/2026/03/a-darksword-hangs-over-unpatched-iphones)
+### 75. [A DarkSword hangs over unpatched iPhones](https://www.malwarebytes.com/blog/mobile/2026/03/a-darksword-hangs-over-unpatched-iphones)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 19 Mar 2026 12:27:53 GMT  
@@ -663,7 +674,7 @@
 
 ---
 
-### 75. [Your tax forms sell for $20 on the dark web](https://www.malwarebytes.com/blog/privacy/2026/03/your-tax-forms-sell-for-20-on-the-dark-web)
+### 76. [Your tax forms sell for $20 on the dark web](https://www.malwarebytes.com/blog/privacy/2026/03/your-tax-forms-sell-for-20-on-the-dark-web)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 19 Mar 2026 11:33:30 GMT  
@@ -672,7 +683,7 @@
 
 ---
 
-### 76. [Researchers found font-rendering trick to hide malicious commands](https://www.malwarebytes.com/blog/news/2026/03/researchers-found-font-rendering-trick-to-hide-malicious-commands)
+### 77. [Researchers found font-rendering trick to hide malicious commands](https://www.malwarebytes.com/blog/news/2026/03/researchers-found-font-rendering-trick-to-hide-malicious-commands)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Mar 2026 17:16:59 GMT  
@@ -681,7 +692,7 @@
 
 ---
 
-### 77. [Apple patches WebKit bug that could let sites access your data](https://www.malwarebytes.com/blog/news/2026/03/apple-patches-webkit-bug-that-could-let-sites-access-your-data)
+### 78. [Apple patches WebKit bug that could let sites access your data](https://www.malwarebytes.com/blog/news/2026/03/apple-patches-webkit-bug-that-could-let-sites-access-your-data)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Mar 2026 11:19:59 GMT  
@@ -691,7 +702,7 @@
 
 ---
 
-### 78. [Inside a network of 20,000+ fake shops](https://www.malwarebytes.com/blog/scams/2026/03/inside-a-network-of-20000-fake-shops)
+### 79. [Inside a network of 20,000+ fake shops](https://www.malwarebytes.com/blog/scams/2026/03/inside-a-network-of-20000-fake-shops)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 18 Mar 2026 08:51:46 GMT  
@@ -700,21 +711,12 @@
 
 ---
 
-### 79. [Fake Pudgy World site steals your crypto passwords](https://www.malwarebytes.com/blog/scams/2026/03/fake-pudgy-world-site-steals-your-crypto-passwords)
+### 80. [Fake Pudgy World site steals your crypto passwords](https://www.malwarebytes.com/blog/scams/2026/03/fake-pudgy-world-site-steals-your-crypto-passwords)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 17 Mar 2026 16:10:42 GMT  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 80. [90% of people don’t trust AI with their data](https://www.malwarebytes.com/blog/privacy/2026/03/90-of-people-dont-trust-ai-with-their-data)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 17 Mar 2026 12:26:37 GMT  
-**Severity:** High  
-**Categories:** Malware  
 
 ---
 
