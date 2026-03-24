@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-24 03:19:44 UTC
+**Last Updated:** 2026-03-24 09:29:42 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware](https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html)
+### 1. [U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage](https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 24 Mar 2026 12:19:00 +0530  
+**Severity:** High  
+**Categories:** Ransomware  
+
+---
+
+### 2. [Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks](https://thehackernews.com/2026/03/citrix-urges-patching-critical.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 24 Mar 2026 11:29:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-3055  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware](https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Mar 2026 23:39:00 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More](https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html)
+### 4. [⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More](https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Mar 2026 18:44:00 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them](https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html)
+### 5. [We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them](https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Mar 2026 17:25:00 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware](https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html)
+### 6. [Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware](https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Mar 2026 16:25:00 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper](https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html)
+### 7. [Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper](https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Mar 2026 14:01:00 +0530  
@@ -49,7 +68,7 @@
 
 ---
 
-### 6. [Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems](https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html)
+### 8. [Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems](https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Mar 2026 11:45:00 +0530  
@@ -59,7 +78,7 @@
 
 ---
 
-### 7. [FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks](https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html)
+### 9. [FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks](https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Mar 2026 18:47:00 +0530  
@@ -68,31 +87,13 @@
 
 ---
 
-### 8. [Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html)
+### 10. [Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Mar 2026 15:54:00 +0530  
 **Severity:** Low  
 **CVEs:** CVE-2026-21992  
 **Categories:** Vulnerability  
-
----
-
-### 9. [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 21 Mar 2026 13:55:00 +0530  
-**Severity:** Low  
-**Categories:** Malware, Supply Chain  
-
----
-
-### 10. [CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 21 Mar 2026 13:55:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -182,7 +183,7 @@
 **Source:** Bleeping Computer  
 **Published:** Mon, 23 Mar 2026 04:37:28 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2025-14174, CVE-2026-20700, CVE-2025-43529, CVE-2025-31277, CVE-2025-43520, CVE-2025-43510  
+**CVEs:** CVE-2026-20700, CVE-2025-43520, CVE-2025-43510, CVE-2025-31277, CVE-2025-43529, CVE-2025-14174  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -219,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24294, CVE-2026-25187, CVE-2026-26110, CVE-2026-26127, CVE-2026-26113, CVE-2026-21262, CVE-2026-24289, CVE-2026-24291  
+**CVEs:** CVE-2026-26113, CVE-2026-21262, CVE-2026-26110, CVE-2026-24294, CVE-2026-25187, CVE-2026-24289, CVE-2026-24291, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -265,7 +266,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21513, CVE-2026-21510, CVE-2026-21514, CVE-2026-21533, CVE-2026-21523, CVE-2026-21509, CVE-2026-21516, CVE-2026-21256, CVE-2026-21525, CVE-2026-21519  
+**CVEs:** CVE-2026-21509, CVE-2026-21523, CVE-2026-21516, CVE-2026-21519, CVE-2026-21514, CVE-2026-21510, CVE-2026-21256, CVE-2026-21513, CVE-2026-21525, CVE-2026-21533  
 **Categories:** Vulnerability  
 
 ---
@@ -436,7 +437,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26115, CVE-2026-26118, CVE-2026-26110, CVE-2026-26109, CVE-2026-26116, CVE-2026-26144, CVE-2026-26114, CVE-2026-26113, CVE-2026-21262, CVE-2026-26128, CVE-2026-26106  
+**CVEs:** CVE-2026-26115, CVE-2026-26113, CVE-2026-26110, CVE-2026-26109, CVE-2026-26144, CVE-2026-26106, CVE-2026-21262, CVE-2026-26128, CVE-2026-26116, CVE-2026-26118, CVE-2026-26114  
 **Categories:** Vulnerability, APT  
 
 ---
