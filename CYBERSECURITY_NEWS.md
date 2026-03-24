@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-23 17:26:08 UTC
+**Last Updated:** 2026-03-24 02:39:07 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More](https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html)
+### 1. [North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware](https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 23 Mar 2026 23:39:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 2. [⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More](https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Mar 2026 18:44:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them](https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html)
+### 3. [We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them](https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Mar 2026 17:25:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware](https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html)
+### 4. [Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware](https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Mar 2026 16:25:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper](https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html)
+### 5. [Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper](https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Mar 2026 14:01:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems](https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html)
+### 6. [Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems](https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Mar 2026 11:45:00 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks](https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html)
+### 7. [FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks](https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Mar 2026 18:47:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html)
+### 8. [Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Mar 2026 15:54:00 +0530  
@@ -69,7 +78,7 @@
 
 ---
 
-### 8. [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
+### 9. [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Mar 2026 13:55:00 +0530  
@@ -78,7 +87,7 @@
 
 ---
 
-### 9. [CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html)
+### 10. [CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 21 Mar 2026 13:55:00 +0530  
@@ -87,16 +96,61 @@
 
 ---
 
-### 10. [Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html)
+### 11. [OpenAI rolls out ChatGPT Library to store your personal files](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 20 Mar 2026 23:17:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 23 Mar 2026 19:47:14 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [Varonis Atlas: Securing AI and the Data That Powers It](https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/)
+### 12. [Mazda discloses security breach exposing employee and partner data](https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 23 Mar 2026 18:12:52 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 13. [Tycoon2FA phishing platform returns after recent police disruption](https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 23 Mar 2026 17:52:58 -0400  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 14. [TeamPCP deploys Iran-targeted wiper in Kubernetes attacks](https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 23 Mar 2026 16:09:10 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 15. [Crunchyroll probes breach after hacker claims to steal 6.8M users' data](https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 23 Mar 2026 15:21:04 -0400  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 16. [Trivy supply-chain attack spreads to Docker, GitHub repos](https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 23 Mar 2026 13:40:27 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 17. [Varonis Atlas: Securing AI and the Data That Powers It](https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 23 Mar 2026 10:02:12 -0400  
@@ -105,7 +159,7 @@
 
 ---
 
-### 12. [Microsoft Exchange Online service change causes email access issues](https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/)
+### 18. [Microsoft Exchange Online service change causes email access issues](https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 23 Mar 2026 08:17:18 -0400  
@@ -114,7 +168,7 @@
 
 ---
 
-### 13. [FBI warns of Handala hackers using Telegram in malware attacks](https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/)
+### 19. [FBI warns of Handala hackers using Telegram in malware attacks](https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 23 Mar 2026 05:45:55 -0400  
@@ -123,67 +177,13 @@
 
 ---
 
-### 14. [CISA orders feds to patch DarkSword iOS flaws exploited attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/)
+### 20. [CISA orders feds to patch DarkSword iOS flaws exploited attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 23 Mar 2026 04:37:28 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2025-43529, CVE-2026-20700, CVE-2025-43510, CVE-2025-14174, CVE-2025-31277, CVE-2025-43520  
+**CVEs:** CVE-2025-43520, CVE-2026-20700, CVE-2025-43510, CVE-2025-14174, CVE-2025-43529, CVE-2025-31277  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 15. [New KB5085516 emergency update fixes Microsoft account sign-in](https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 23 Mar 2026 04:04:30 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 16. [VoidStealer malware steals Chrome master key via debugger trick](https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 22 Mar 2026 10:32:46 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 17. [Trivy vulnerability scanner breach pushed infostealer via GitHub Actions](https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 21 Mar 2026 13:30:41 -0400  
-**Severity:** High  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 18. [Google adds ‘Advanced Flow’ for safe APK sideloading on Android](https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 21 Mar 2026 10:18:23 -0400  
-**Severity:** High  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 19. [Microsoft Azure Monitor alerts abused for callback phishing attacks](https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 21 Mar 2026 10:09:19 -0400  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 20. [FBI links Signal phishing attacks to Russian intelligence services](https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 20 Mar 2026 16:45:52 -0400  
-**Severity:** High  
-**Categories:** Phishing  
 
 ---
 
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-25187, CVE-2026-26113, CVE-2026-26127, CVE-2026-26110, CVE-2026-24294, CVE-2026-24291, CVE-2026-24289  
+**CVEs:** CVE-2026-26127, CVE-2026-24294, CVE-2026-25187, CVE-2026-24291, CVE-2026-26113, CVE-2026-24289, CVE-2026-21262, CVE-2026-26110  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -265,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21525, CVE-2026-21519, CVE-2026-21514, CVE-2026-21523, CVE-2026-21513, CVE-2026-21510, CVE-2026-21256, CVE-2026-21516, CVE-2026-21509, CVE-2026-21533  
+**CVEs:** CVE-2026-21516, CVE-2026-21523, CVE-2026-21510, CVE-2026-21519, CVE-2026-21513, CVE-2026-21525, CVE-2026-21533, CVE-2026-21256, CVE-2026-21514, CVE-2026-21509  
 **Categories:** Vulnerability  
 
 ---
@@ -436,7 +436,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26114, CVE-2026-21262, CVE-2026-26109, CVE-2026-26113, CVE-2026-26106, CVE-2026-26144, CVE-2026-26115, CVE-2026-26116, CVE-2026-26118, CVE-2026-26128, CVE-2026-26110  
+**CVEs:** CVE-2026-26113, CVE-2026-26115, CVE-2026-26118, CVE-2026-26144, CVE-2026-26114, CVE-2026-26116, CVE-2026-21262, CVE-2026-26128, CVE-2026-26110, CVE-2026-26106, CVE-2026-26109  
 **Categories:** Vulnerability, APT  
 
 ---
