@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 Likely via Trivy CI/CD Compromise",
+    "link": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html",
+    "published": "Tue, 24 Mar 2026 23:51:00 +0530",
+    "summary": "TeamPCP, the threat actor behind the recent compromises of Trivy and KICS, has now compromised a popular Python package named litellm, pushing two malicious versions containing a credential harvester, a Kubernetes lateral movement toolkit, and a persistent backdoor.\nMultiple security vendors, including Endor Labs and JFrog, revealed that litellm versions 1.82.7 and 1.82.8 were published on",
+    "analysis": {
+      "issue": "8 via Trivy compromise deploys backdoor and steals credentials, enabling Kubernetes-wide persistence and lateral spread",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR",
+    "link": "https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html",
+    "published": "Tue, 24 Mar 2026 22:35:00 +0530",
+    "summary": "A large-scale malvertising campaign active since January 2026 has been observed targeting U.S.-based individuals searching for tax-related documents to serve rogue installers for ConnectWise ScreenConnect that drop a tool named HwAudKiller to blind security programs using the bring your own vulnerable driver (BYOVD) technique.\n\"The campaign abuses Google Ads to serve rogue ScreenConnect (",
+    "analysis": {
+      "issue": "Google Ads malvertising spreads ScreenConnect malware using Huawei driver flaw, enabling EDR bypass and credential theft in U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents",
     "link": "https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html",
     "published": "Tue, 24 Mar 2026 22:06:05 +0530",
@@ -148,17 +185,37 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
-    "link": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
-    "published": "Mon, 23 Mar 2026 18:44:00 +0530",
-    "summary": "Another week, another reminder that the internet is still a mess. Systems people thought were secure are being broken in simple ways, showing many still ignore basic advisories.\nThis edition covers a mix of issues: supply chain attacks hitting CI/CD setups, long-abused IoT devices being shut down, and exploits moving quickly from disclosure to real attacks. There are also new malware tricks",
+    "source": "Bleeping Computer",
+    "title": "PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug",
+    "link": "https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/",
+    "published": "Tue, 24 Mar 2026 19:04:36 -0400",
+    "summary": "PTC Inc. is warning of a critical vulnerability in Windchill and FlexPLM, widely used product lifecycle management (PLM) solutions, that could allow remote code execution. [...]",
     "analysis": {
-      "issue": "Trivy backdoored, FBI buys location data, iOS DarkSword kit, WhatsApp usernames, Langflow RCE, Cisco FMC zero-day & critical CVEs to patch",
+      "issue": "is warning of a critical vulnerability in Windchill and FlexPLM, widely used product lifecycle management (PLM) solutions, that could allow remote code execution",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
+      "cves": [
+        "CVE-2026-4681"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens",
+    "link": "https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/",
+    "published": "Tue, 24 Mar 2026 18:29:01 -0400",
+    "summary": "The TeamPCP hacking group continues its supply-chain rampage, now compromising the massively popular \"LiteLLM\" Python package on PyPI and claiming to have stolen data from hundreds of thousands of devices during the attack. [...]",
+    "analysis": {
+      "issue": "The TeamPCP hacking group continues its supply-chain rampage, now compromising the massively popular \"LiteLLM\" Python package on PyPI and claiming to have stolen data from hundreds of thousands of devices during the attack",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "Vulnerability",
@@ -167,20 +224,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them",
-    "link": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
-    "published": "Mon, 23 Mar 2026 17:25:00 +0530",
-    "summary": "AWS Bedrock is Amazon's platform for building AI-powered applications. It gives developers access to foundation models and the tools to connect those models directly to enterprise data and systems. That connectivity is what makes it powerful – but it’s also what makes Bedrock a target.\nWhen an AI agent can query your Salesforce instance, trigger a Lambda function, or pull from a SharePoint",
+    "source": "Bleeping Computer",
+    "title": "FCC bans new routers made outside the USA over security risks",
+    "link": "https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/",
+    "published": "Tue, 24 Mar 2026 16:41:30 -0400",
+    "summary": "The Federal Communications Commission has updated its Covered List to include all consumer routers made in foreign countries, banning the sale of new models in the U.S. [...]",
     "analysis": {
-      "issue": "8 Bedrock attack vectors exploit permissions and integrations, enabling data theft, agent hijacking, and system compromise at scale",
+      "issue": "The Federal Communications Commission has updated its Covered List to include all consumer routers made in foreign countries, banning the sale of new models in the U",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -313,79 +370,11 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "OpenAI rolls out ChatGPT Library to store your personal files",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/",
-    "published": "Mon, 23 Mar 2026 19:47:14 -0400",
-    "summary": "OpenAI is rolling out a new feature called 'Library' for ChatGPT, which allows you to store your personal files or images on OpenAI's cloud storage, so you can reference those items in a future chat. [...]",
-    "analysis": {
-      "issue": "OpenAI is rolling out a new feature called 'Library' for ChatGPT, which allows you to store your personal files or images on OpenAI's cloud storage",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Mazda discloses security breach exposing employee and partner data",
-    "link": "https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/",
-    "published": "Mon, 23 Mar 2026 18:12:52 -0400",
-    "summary": "Mazda Motor Corporation (Mazda) announced that information belonging to its employees and business partners had been exposed in a security incident detected last December. [...]",
-    "analysis": {
-      "issue": "Mazda Motor Corporation (Mazda) announced that information belonging to its employees and business partners had been exposed in a security incident detected last December",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Tycoon2FA phishing platform returns after recent police disruption",
-    "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/",
-    "published": "Mon, 23 Mar 2026 17:52:58 -0400",
-    "summary": "The Tycoon2FA phishing-as-a-service (PhaaS) platform that Europol and partners disrupted on March 4 has already returned to previously observed activity levels. [...]",
-    "analysis": {
-      "issue": "The Tycoon2FA phishing-as-a-service (PhaaS) platform that Europol and partners disrupted on March 4 has already returned to previously observed activity levels",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
     "published": "Mon, 23 Mar 2026 15:43:04 +0000",
-    "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language.",
-    "analysis": {
-      "issue": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran’s time zone or have Farsi s",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
+    "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language."
   },
   {
     "source": "Krebs On Security",
@@ -411,46 +400,14 @@
     "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
     "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
     "published": "Wed, 11 Mar 2026 16:20:13 +0000",
-    "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency.",
-    "analysis": {
-      "issue": "A hacktivist group with links to Iran’s intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency."
   },
   {
     "source": "Krebs On Security",
     "title": "Microsoft Patch Tuesday, March 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
     "published": "Wed, 11 Mar 2026 00:32:51 +0000",
-    "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.",
-    "analysis": {
-      "issue": "today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-21262",
-        "CVE-2026-26127",
-        "CVE-2026-24291",
-        "CVE-2026-26110",
-        "CVE-2026-25187",
-        "CVE-2026-24294",
-        "CVE-2026-26113",
-        "CVE-2026-24289"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "DDoS"
-      ]
-    }
+    "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday."
   },
   {
     "source": "Krebs On Security",
@@ -496,18 +453,7 @@
     "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
     "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
     "published": "Fri, 20 Feb 2026 20:00:30 +0000",
-    "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.",
-    "analysis": {
-      "issue": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
+    "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses."
   },
   {
     "source": "Krebs On Security",
@@ -541,16 +487,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21510",
-        "CVE-2026-21509",
         "CVE-2026-21533",
-        "CVE-2026-21525",
-        "CVE-2026-21516",
-        "CVE-2026-21513",
         "CVE-2026-21523",
-        "CVE-2026-21256",
+        "CVE-2026-21510",
+        "CVE-2026-21514",
+        "CVE-2026-21525",
+        "CVE-2026-21513",
         "CVE-2026-21519",
-        "CVE-2026-21514"
+        "CVE-2026-21256",
+        "CVE-2026-21516",
+        "CVE-2026-21509"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -577,6 +523,27 @@
         "DDoS"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "DoE Publishes 5-Year Energy Security Plan",
+    "link": "https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/",
+    "published": "Tue, 24 Mar 2026 19:42:07 +0000",
+    "summary": "<p>CESER’s Project Armor is a five year initiative to harden the US critical energy infrastructure, including strengthening energy systems ‘to prevent and recover from wildfires and other hazards’.</p>\n<p>The post <a href=\"https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/\">DoE Publishes 5-Year Energy Security Plan</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw",
+    "link": "https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/",
+    "published": "Tue, 24 Mar 2026 18:27:48 +0000",
+    "summary": "<p>Agentic AI platforms are shifting from passive recommendation tools to autonomous action-takers with real system access,</p>\n<p>The post <a href=\"https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/\">Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Poland Faced a Surge in Cyberattacks in 2025, Including a Major Assault on the Energy Sector",
+    "link": "https://www.securityweek.com/poland-faced-a-surge-in-cyberattacks-in-2025-including-a-major-assault-on-the-energy-sector/",
+    "published": "Tue, 24 Mar 2026 17:51:42 +0000",
+    "summary": "<p>The attacks included a destructive infiltration of Poland's energy system in December and was suspected of originating in Russia.</p>\n<p>The post <a href=\"https://www.securityweek.com/poland-faced-a-surge-in-cyberattacks-in-2025-including-a-major-assault-on-the-energy-sector/\">Poland Faced a Surge in Cyberattacks in 2025, Including a Major Assault on the Energy Sector</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -626,27 +593,6 @@
     "link": "https://www.securityweek.com/critical-citrix-netscaler-vulnerability-poised-for-exploitation-security-firms-warn/",
     "published": "Tue, 24 Mar 2026 11:19:47 +0000",
     "summary": "<p>An out-of-bounds read vulnerability can be exploited remotely without authentication to read sensitive information from memory.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-citrix-netscaler-vulnerability-poised-for-exploitation-security-firms-warn/\">Critical Citrix NetScaler Vulnerability Poised for Exploitation, Security Firms Warn</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Mazda Says Employee, Partner Information Stolen in Cyberattack",
-    "link": "https://www.securityweek.com/mazda-says-employee-partner-information-stolen-in-cyberattack/",
-    "published": "Tue, 24 Mar 2026 10:38:44 +0000",
-    "summary": "<p>The hackers stole internal IDs, names, email addresses, and business partner IDs from an internal management system.</p>\n<p>The post <a href=\"https://www.securityweek.com/mazda-says-employee-partner-information-stolen-in-cyberattack/\">Mazda Says Employee, Partner Information Stolen in Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Stryker Says Malicious File Found During Probe Into Iran-Linked Attack",
-    "link": "https://www.securityweek.com/stryker-says-malicious-file-found-during-probe-into-iran-linked-attack/",
-    "published": "Tue, 24 Mar 2026 09:30:18 +0000",
-    "summary": "<p>The FBI has published an alert describing the malware used by Iranian government hackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/stryker-says-malicious-file-found-during-probe-into-iran-linked-attack/\">Stryker Says Malicious File Found During Probe Into Iran-Linked Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "RSAC 2026 Conference Announcements Summary (Pre-Event)",
-    "link": "https://www.securityweek.com/rsac-2026-conference-announcements-summary-pre-event/",
-    "published": "Mon, 23 Mar 2026 15:52:57 +0000",
-    "summary": "<p>A summary of the announcements made by vendors in the days leading up to the RSAC 2026 Conference.</p>\n<p>The post <a href=\"https://www.securityweek.com/rsac-2026-conference-announcements-summary-pre-event/\">RSAC 2026 Conference Announcements Summary (Pre-Event)</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -829,17 +775,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21262",
+        "CVE-2026-26144",
+        "CVE-2026-26109",
+        "CVE-2026-26115",
         "CVE-2026-26106",
         "CVE-2026-26110",
-        "CVE-2026-26116",
-        "CVE-2026-26109",
-        "CVE-2026-26144",
-        "CVE-2026-26115",
-        "CVE-2026-26113",
         "CVE-2026-26118",
         "CVE-2026-26128",
-        "CVE-2026-26114"
+        "CVE-2026-26113",
+        "CVE-2026-26114",
+        "CVE-2026-26116",
+        "CVE-2026-21262"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1196,8 +1142,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

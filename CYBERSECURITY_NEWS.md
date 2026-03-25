@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-24 17:31:25 UTC
+**Last Updated:** 2026-03-25 02:44:21 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents](https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html)
+### 1. [TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 Likely via Trivy CI/CD Compromise](https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 24 Mar 2026 23:51:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR](https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 24 Mar 2026 22:35:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 3. [5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents](https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 22:06:05 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner](https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html)
+### 4. [Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner](https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 22:05:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills](https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html)
+### 5. [The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills](https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 17:31:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials](https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html)
+### 6. [Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials](https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 17:30:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials](https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html)
+### 7. [TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials](https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 16:08:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage](https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html)
+### 8. [U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage](https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 12:19:00 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks](https://thehackernews.com/2026/03/citrix-urges-patching-critical.html)
+### 9. [Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks](https://thehackernews.com/2026/03/citrix-urges-patching-critical.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 11:29:00 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware](https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html)
+### 10. [North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware](https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 23 Mar 2026 23:39:00 +0530  
@@ -77,25 +95,35 @@
 
 ---
 
-### 9. [⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More](https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html)
+### 11. [PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug](https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 23 Mar 2026 18:44:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 24 Mar 2026 19:04:36 -0400  
 **Severity:** Critical  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 10. [We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them](https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 23 Mar 2026 17:25:00 +0530  
-**Severity:** Low  
+**CVEs:** CVE-2026-4681  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [Firefox now has a free built-in VPN with 50GB monthly data limit](https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/)
+### 12. [Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens](https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 24 Mar 2026 18:29:01 -0400  
+**Severity:** High  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 13. [FCC bans new routers made outside the USA over security risks](https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 24 Mar 2026 16:41:30 -0400  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 14. [Firefox now has a free built-in VPN with 50GB monthly data limit](https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 13:23:01 -0400  
@@ -104,7 +132,7 @@
 
 ---
 
-### 12. [Microsoft fixes bug causing Classic Outlook sync issues with Gmail](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/)
+### 15. [Microsoft fixes bug causing Classic Outlook sync issues with Gmail](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 11:12:13 -0400  
@@ -113,7 +141,7 @@
 
 ---
 
-### 13. [Zero Trust: Bridging the Gap Between Authentication and Trust](https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/)
+### 16. [Zero Trust: Bridging the Gap Between Authentication and Trust](https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 10:02:12 -0400  
@@ -122,7 +150,7 @@
 
 ---
 
-### 14. [HackerOne discloses employee data breach after Navia hack](https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/)
+### 17. [HackerOne discloses employee data breach after Navia hack](https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 10:01:02 -0400  
@@ -131,7 +159,7 @@
 
 ---
 
-### 15. [Infinite Campus warns of breach after ShinyHunters claims data theft](https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/)
+### 18. [Infinite Campus warns of breach after ShinyHunters claims data theft](https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 09:48:38 -0400  
@@ -140,7 +168,7 @@
 
 ---
 
-### 16. [Yanluowang ransomware access broker gets 81 months in prison](https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/)
+### 19. [Yanluowang ransomware access broker gets 81 months in prison](https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 09:06:03 -0400  
@@ -149,7 +177,7 @@
 
 ---
 
-### 17. [Dutch Ministry of Finance discloses breach affecting employees](https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/)
+### 20. [Dutch Ministry of Finance discloses breach affecting employees](https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 08:03:08 -0400  
@@ -158,39 +186,10 @@
 
 ---
 
-### 18. [OpenAI rolls out ChatGPT Library to store your personal files](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 23 Mar 2026 19:47:14 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Mazda discloses security breach exposing employee and partner data](https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 23 Mar 2026 18:12:52 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Phishing  
-
----
-
-### 20. [Tycoon2FA phishing platform returns after recent police disruption](https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 23 Mar 2026 17:52:58 -0400  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
 ### 21. [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 23 Mar 2026 15:43:04 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware, Supply Chain  
 
 ---
 
@@ -207,8 +206,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 16:20:13 +0000  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -216,9 +213,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-26127, CVE-2026-24291, CVE-2026-26110, CVE-2026-25187, CVE-2026-24294, CVE-2026-26113, CVE-2026-24289  
-**Categories:** Vulnerability, DDoS  
 
 ---
 
@@ -244,8 +238,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Fri, 20 Feb 2026 20:00:30 +0000  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 
@@ -263,7 +255,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21509, CVE-2026-21533, CVE-2026-21525, CVE-2026-21516, CVE-2026-21513, CVE-2026-21523, CVE-2026-21256, CVE-2026-21519, CVE-2026-21514  
+**CVEs:** CVE-2026-21533, CVE-2026-21523, CVE-2026-21510, CVE-2026-21514, CVE-2026-21525, CVE-2026-21513, CVE-2026-21519, CVE-2026-21256, CVE-2026-21516, CVE-2026-21509  
 **Categories:** Vulnerability  
 
 ---
@@ -277,73 +269,73 @@
 
 ---
 
-### 31. [RSAC 2026 Conference Announcements Summary (Day 1)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-1/)
+### 31. [DoE Publishes 5-Year Energy Security Plan](https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/)
+
+**Source:** Security Week  
+**Published:** Tue, 24 Mar 2026 19:42:07 +0000  
+
+---
+
+### 32. [Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw](https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/)
+
+**Source:** Security Week  
+**Published:** Tue, 24 Mar 2026 18:27:48 +0000  
+
+---
+
+### 33. [Poland Faced a Surge in Cyberattacks in 2025, Including a Major Assault on the Energy Sector](https://www.securityweek.com/poland-faced-a-surge-in-cyberattacks-in-2025-including-a-major-assault-on-the-energy-sector/)
+
+**Source:** Security Week  
+**Published:** Tue, 24 Mar 2026 17:51:42 +0000  
+
+---
+
+### 34. [RSAC 2026 Conference Announcements Summary (Day 1)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-1/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Mar 2026 15:57:12 +0000  
 
 ---
 
-### 32. [Extortion Group Claims It Hacked AstraZeneca](https://www.securityweek.com/extortion-group-claims-it-hacked-astrazeneca/)
+### 35. [Extortion Group Claims It Hacked AstraZeneca](https://www.securityweek.com/extortion-group-claims-it-hacked-astrazeneca/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Mar 2026 13:54:47 +0000  
 
 ---
 
-### 33. [Chrome 146 Update Patches High-Severity Vulnerabilities](https://www.securityweek.com/chrome-146-update-patches-high-severity-vulnerabilities/)
+### 36. [Chrome 146 Update Patches High-Severity Vulnerabilities](https://www.securityweek.com/chrome-146-update-patches-high-severity-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Mar 2026 13:35:47 +0000  
 
 ---
 
-### 34. [Webinar Today: Putting CIS Controls and Benchmarks into Practice](https://www.securityweek.com/webinar-today-putting-cis-controls-and-benchmarks-into-practice/)
+### 37. [Webinar Today: Putting CIS Controls and Benchmarks into Practice](https://www.securityweek.com/webinar-today-putting-cis-controls-and-benchmarks-into-practice/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Mar 2026 12:30:00 +0000  
 
 ---
 
-### 35. [3.1 Million Impacted by QualDerm Data Breach](https://www.securityweek.com/3-1-million-impacted-by-qualderm-data-breach/)
+### 38. [3.1 Million Impacted by QualDerm Data Breach](https://www.securityweek.com/3-1-million-impacted-by-qualderm-data-breach/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Mar 2026 12:23:59 +0000  
 
 ---
 
-### 36. [Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool](https://www.securityweek.com/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/)
+### 39. [Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool](https://www.securityweek.com/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Mar 2026 12:10:23 +0000  
 
 ---
 
-### 37. [Critical Citrix NetScaler Vulnerability Poised for Exploitation, Security Firms Warn](https://www.securityweek.com/critical-citrix-netscaler-vulnerability-poised-for-exploitation-security-firms-warn/)
+### 40. [Critical Citrix NetScaler Vulnerability Poised for Exploitation, Security Firms Warn](https://www.securityweek.com/critical-citrix-netscaler-vulnerability-poised-for-exploitation-security-firms-warn/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Mar 2026 11:19:47 +0000  
-
----
-
-### 38. [Mazda Says Employee, Partner Information Stolen in Cyberattack](https://www.securityweek.com/mazda-says-employee-partner-information-stolen-in-cyberattack/)
-
-**Source:** Security Week  
-**Published:** Tue, 24 Mar 2026 10:38:44 +0000  
-
----
-
-### 39. [Stryker Says Malicious File Found During Probe Into Iran-Linked Attack](https://www.securityweek.com/stryker-says-malicious-file-found-during-probe-into-iran-linked-attack/)
-
-**Source:** Security Week  
-**Published:** Tue, 24 Mar 2026 09:30:18 +0000  
-
----
-
-### 40. [RSAC 2026 Conference Announcements Summary (Pre-Event)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-pre-event/)
-
-**Source:** Security Week  
-**Published:** Mon, 23 Mar 2026 15:52:57 +0000  
 
 ---
 
@@ -434,7 +426,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-26106, CVE-2026-26110, CVE-2026-26116, CVE-2026-26109, CVE-2026-26144, CVE-2026-26115, CVE-2026-26113, CVE-2026-26118, CVE-2026-26128, CVE-2026-26114  
+**CVEs:** CVE-2026-26144, CVE-2026-26109, CVE-2026-26115, CVE-2026-26106, CVE-2026-26110, CVE-2026-26118, CVE-2026-26128, CVE-2026-26113, CVE-2026-26114, CVE-2026-26116, CVE-2026-21262  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -609,7 +601,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
