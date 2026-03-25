@@ -1,6 +1,61 @@
 [
   {
     "source": "The Hacker News",
+    "title": "The Kill Chain Is Obsolete When Your AI Agent Is the Threat",
+    "link": "https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html",
+    "published": "Wed, 25 Mar 2026 17:28:00 +0530",
+    "summary": "In September 2025, Anthropic disclosed that a state-sponsored threat actor used an AI coding agent to execute an autonomous cyber espionage campaign against 30 global targets. The AI handled 80-90% of tactical operations on its own, performing reconnaissance, writing exploit code, and attempting lateral movement at machine speed.\nThis incident is worrying, but there's a scenario that should",
+    "analysis": {
+      "issue": "AI agents executed 80–90% of espionage tasks in 2025; compromised agents bypass kill chain, enabling stealth access and data exfiltration",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks",
+    "link": "https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html",
+    "published": "Wed, 25 Mar 2026 17:22:00 +0530",
+    "summary": "The U.S. Department of Justice (DoJ) said a Russian national has been sentenced to two years in prison for managing a botnet that was used to launch ransomware attacks against U.S. companies.\nIlya Angelov, 40, of Tolyatti, Russia, was also fined $100,000. Angelov, who went by the online aliases \"milan\" and \"okart,\" is said to have co-managed a Russia-based cybercriminal group known as TA551 (aka",
+    "analysis": {
+      "issue": "firms via spam malware, enabling $14",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse",
+    "link": "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html",
+    "published": "Wed, 25 Mar 2026 17:04:00 +0530",
+    "summary": "Cybersecurity researchers are calling attention to an active device code phishing campaign that's targeting Microsoft 365 identities across more than 340 organizations in the U.S., Canada, Australia, New Zealand, and Germany.\nThe activity, per Huntress, was first spotted on February 19, 2026, with subsequent cases appearing at an accelerated pace since then. Notably, the campaign leverages",
+    "analysis": {
+      "issue": "Device code phishing targets 340+ Microsoft 365 orgs since Feb 2026 via OAuth abuse, enabling persistent token hijacking and account takeover",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
     "link": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html",
     "published": "Wed, 25 Mar 2026 12:41:00 +0530",
@@ -127,56 +182,40 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials",
-    "link": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html",
-    "published": "Tue, 24 Mar 2026 16:08:00 +0530",
-    "summary": "Two more GitHub Actions workflows have become the latest to be compromised by credential-stealing malware by a threat actor known as TeamPCP, the cloud-native cybercriminal operation also behind the Trivy supply chain attack.\nThe workflows, both maintained by the supply chain security company Checkmarx, are listed below -\n\ncheckmarx/ast-github-action\ncheckmarx/kics-github-action\n\nCloud security",
+    "source": "Bleeping Computer",
+    "title": "Kali Linux 2026.1 released with 8 new tools, new BackTrack mode",
+    "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/",
+    "published": "Wed, 25 Mar 2026 08:31:26 -0400",
+    "summary": "Kali Linux 2026.1, the first release of the year, is now available for download, featuring 8 new tools, a theme refresh, and a new BackTrack mode for Kali-Undercover. [...]",
     "analysis": {
-      "issue": "TeamPCP compromised 2 GitHub Actions post-March 19, 2026 breach, enabling credential theft and supply chain attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage",
-    "link": "https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html",
-    "published": "Tue, 24 Mar 2026 12:19:00 +0530",
-    "summary": "A 26-year-old Russian citizen has been sentenced in the U.S. to 6.75 years (81 months) in prison for his role in assisting major cybercrime groups, including the Yanluowang ransomware crew, in conducting numerous attacks against U.S. companies and other organizations.\nAccording to the U.S. Department of Justice (DoJ), Aleksei Olegovich Volkov facilitated dozens of ransomware attacks across the",
-    "analysis": {
-      "issue": "75 years after enabling ransomware attacks causing $9M+ losses, highlighting access broker role in cybercrime",
+      "issue": "1, the first release of the year, is now available for download, featuring 8 new tools, a theme refresh, and a new BackTrack mode for Kali-Undercover",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Ransomware"
+        "General Security"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks",
-    "link": "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html",
-    "published": "Tue, 24 Mar 2026 11:29:00 +0530",
-    "summary": "Citrix has released security updates to address two vulnerabilities in NetScaler ADC and NetScaler Gateway, including a critical flaw that could be exploited to leak sensitive data from the application.\nThe vulnerabilities are listed below -\n\nCVE-2026-3055 (CVSS score: 9.3) - Insufficient input validation leading to memory overread\nCVE-2026-4368 (CVSS score: 7.7) - Race condition leading to user",
+    "source": "Bleeping Computer",
+    "title": "TP-Link warns users to patch critical router auth bypass flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/",
+    "published": "Wed, 25 Mar 2026 07:11:00 -0400",
+    "summary": "TP-Link has patched several vulnerabilities in its Archer NX router series, including a critical-severity flaw that may allow attackers to bypass authentication and upload new firmware. [...]",
     "analysis": {
-      "issue": "Citrix fixes CVE-2026-3055 memory flaw in NetScaler, enabling data leaks in SAML setups, raising risk of imminent exploitation",
+      "issue": "TP-Link has patched several vulnerabilities in its Archer NX router series, including a critical-severity flaw that may allow attackers to bypass authentication and upload new firmware",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-3055"
+        "CVE-2025-15518",
+        "CVE-2025-15519",
+        "CVE-2025-15605",
+        "CVE-2025-15517"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -334,43 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Infinite Campus warns of breach after ShinyHunters claims data theft",
-    "link": "https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/",
-    "published": "Tue, 24 Mar 2026 09:48:38 -0400",
-    "summary": "Infinite Campus, a widely used K-12 student information system, is warning customers of a data breach following an extortion attempt by a threat actor. [...]",
-    "analysis": {
-      "issue": "Infinite Campus, a widely used K-12 student information system, is warning customers of a data breach following an extortion attempt by a threat actor",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Yanluowang ransomware access broker gets 81 months in prison",
-    "link": "https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/",
-    "published": "Tue, 24 Mar 2026 09:06:03 -0400",
-    "summary": "A Russian national was sentenced to nearly 7 years in prison after pleading guilty to acting as an initial access broker (IAB) for Yanluowang ransomware attacks. [...]",
-    "analysis": {
-      "issue": "A Russian national was sentenced to nearly 7 years in prison after pleading guilty to acting as an initial access broker (IAB) for Yanluowang ransomware attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -440,14 +442,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-24291",
+        "CVE-2026-21262",
+        "CVE-2026-24294",
         "CVE-2026-24289",
         "CVE-2026-25187",
-        "CVE-2026-26113",
         "CVE-2026-26127",
-        "CVE-2026-24294",
-        "CVE-2026-21262",
         "CVE-2026-26110",
-        "CVE-2026-24291"
+        "CVE-2026-26113"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -544,16 +546,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21519",
-        "CVE-2026-21510",
-        "CVE-2026-21514",
         "CVE-2026-21516",
-        "CVE-2026-21523",
-        "CVE-2026-21525",
+        "CVE-2026-21514",
         "CVE-2026-21509",
+        "CVE-2026-21525",
+        "CVE-2026-21510",
         "CVE-2026-21513",
+        "CVE-2026-21533",
+        "CVE-2026-21523",
         "CVE-2026-21256",
-        "CVE-2026-21533"
+        "CVE-2026-21519"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -580,6 +582,34 @@
         "DDoS"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "FCC Bans New Routers Made Outside the US Over National Security Risks",
+    "link": "https://www.securityweek.com/fcc-bans-new-foreign-made-consumer-routers-over-national-security-risks/",
+    "published": "Wed, 25 Mar 2026 12:43:35 +0000",
+    "summary": "<p>The ban aligns with a White House determination that all routers produced abroad are a threat to national security.</p>\n<p>The post <a href=\"https://www.securityweek.com/fcc-bans-new-foreign-made-consumer-routers-over-national-security-risks/\">FCC Bans New Routers Made Outside the US Over National Security Risks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "RSAC 2026 Conference Announcements Summary (Day 2)",
+    "link": "https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-2/",
+    "published": "Wed, 25 Mar 2026 12:05:57 +0000",
+    "summary": "<p>A summary of the announcements made by vendors on the second day of the RSAC 2026 Conference.</p>\n<p>The post <a href=\"https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-2/\">RSAC 2026 Conference Announcements Summary (Day 2)</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "From Trivy to Broad OSS Compromise: TeamPCP Hits Docker Hub, VS Code, PyPI",
+    "link": "https://www.securityweek.com/from-trivy-to-broad-oss-compromise-teampcp-hits-docker-hub-vs-code-pypi/",
+    "published": "Wed, 25 Mar 2026 11:55:25 +0000",
+    "summary": "<p>The hackers compromised GitHub Action tags, then shifted to NPM, Docker Hub, VS Code, and PyPI, and teamed with Lapsus$.</p>\n<p>The post <a href=\"https://www.securityweek.com/from-trivy-to-broad-oss-compromise-teampcp-hits-docker-hub-vs-code-pypi/\">From Trivy to Broad OSS Compromise: TeamPCP Hits Docker Hub, VS Code, PyPI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "US Prisons Russian Access Broker for Aiding Ransomware Attacks",
+    "link": "https://www.securityweek.com/us-prisons-russian-access-broker-for-aiding-ransomware-attacks/",
+    "published": "Wed, 25 Mar 2026 09:27:33 +0000",
+    "summary": "<p>Aleksei Volkov has been sentenced to 81 months in prison for his role in Yanluowang ransomware attacks. </p>\n<p>The post <a href=\"https://www.securityweek.com/us-prisons-russian-access-broker-for-aiding-ransomware-attacks/\">US Prisons Russian Access Broker for Aiding Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -622,34 +652,6 @@
     "link": "https://www.securityweek.com/extortion-group-claims-it-hacked-astrazeneca/",
     "published": "Tue, 24 Mar 2026 13:54:47 +0000",
     "summary": "<p>The Lapsus$ hackers allegedly compromised internal code repositories, credentials, and employee data.</p>\n<p>The post <a href=\"https://www.securityweek.com/extortion-group-claims-it-hacked-astrazeneca/\">Extortion Group Claims It Hacked AstraZeneca</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Chrome 146 Update Patches High-Severity Vulnerabilities",
-    "link": "https://www.securityweek.com/chrome-146-update-patches-high-severity-vulnerabilities/",
-    "published": "Tue, 24 Mar 2026 13:35:47 +0000",
-    "summary": "<p>The software refresh fixes eight memory safety bugs affecting seven Chrome components.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-146-update-patches-high-severity-vulnerabilities/\">Chrome 146 Update Patches High-Severity Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Webinar Today: Putting CIS Controls and Benchmarks into Practice",
-    "link": "https://www.securityweek.com/webinar-today-putting-cis-controls-and-benchmarks-into-practice/",
-    "published": "Tue, 24 Mar 2026 12:30:00 +0000",
-    "summary": "<p>Learn how the CIS Critical Security Controls and the CIS Benchmarks can be used together to support secure configuration at scale. </p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-putting-cis-controls-and-benchmarks-into-practice/\">Webinar Today: Putting CIS Controls and Benchmarks into Practice</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "3.1 Million Impacted by QualDerm Data Breach",
-    "link": "https://www.securityweek.com/3-1-million-impacted-by-qualderm-data-breach/",
-    "published": "Tue, 24 Mar 2026 12:23:59 +0000",
-    "summary": "<p>Hackers stole personal, medical, and health insurance information from the company’s internal systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/3-1-million-impacted-by-qualderm-data-breach/\">3.1 Million Impacted by QualDerm Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool",
-    "link": "https://www.securityweek.com/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/",
-    "published": "Tue, 24 Mar 2026 12:10:23 +0000",
-    "summary": "<p>The role of Israel’s hijacking of Iran’s street cameras in the killing of the country’s supreme leader underscores how surveillance systems are increasingly being targeted by adversaries in wartime.</p>\n<p>The post <a href=\"https://www.securityweek.com/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/\">Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -834,15 +836,15 @@
       "cves": [
         "CVE-2026-26115",
         "CVE-2026-26118",
+        "CVE-2026-21262",
+        "CVE-2026-26114",
+        "CVE-2026-26106",
         "CVE-2026-26128",
+        "CVE-2026-26110",
+        "CVE-2026-26109",
         "CVE-2026-26113",
         "CVE-2026-26144",
-        "CVE-2026-26106",
-        "CVE-2026-26116",
-        "CVE-2026-26110",
-        "CVE-2026-21262",
-        "CVE-2026-26109",
-        "CVE-2026-26114"
+        "CVE-2026-26116"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1199,8 +1201,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1222,6 +1224,26 @@
       "severity": "Critical",
       "cves": [
         "CVE-2022-2856"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Meet Khaled Mohamed: the bug hunter who found a Microsoft flaw",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/03/meet-khaled-mohamed-the-bug-hunter-who-found-a-microsoft-flaw",
+    "published": "Wed, 25 Mar 2026 09:57:08 GMT",
+    "summary": "We talked to Khaled Mohamed on going from script kiddie to bug bounty hunter, and the moment he uncovered a flaw in Microsoft Authenticator.",
+    "analysis": {
+      "issue": "It’s only on rare occasions that anyone pays attention to the acknowledgment section of a vulnerability disclosure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-26123"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1389,25 +1411,6 @@
       "threat_categories": [
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A DarkSword hangs over unpatched iPhones",
-    "link": "https://www.malwarebytes.com/blog/mobile/2026/03/a-darksword-hangs-over-unpatched-iphones",
-    "published": "Thu, 19 Mar 2026 12:27:53 GMT",
-    "summary": "Researchers have identified multiple state-level attacks using DarkSword, a chain of vulnerabilities, to infect unpatched iPhones.",
-    "analysis": {
-      "issue": "Researchers at Google have identified an iOS exploit chain, named DarkSword, that has been used since late last year by multiple actors to infect iPhones with malware in targeted attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },

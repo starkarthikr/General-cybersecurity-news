@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-25 09:27:56 UTC
+**Last Updated:** 2026-03-25 13:25:02 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns](https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html)
+### 1. [The Kill Chain Is Obsolete When Your AI Agent Is the Threat](https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 25 Mar 2026 17:28:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks](https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 25 Mar 2026 17:22:00 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 3. [Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse](https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 25 Mar 2026 17:04:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 4. [FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns](https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Mar 2026 12:41:00 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise](https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html)
+### 5. [TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise](https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 23:51:00 +0530  
@@ -22,7 +49,7 @@
 
 ---
 
-### 3. [Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR](https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html)
+### 6. [Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR](https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 22:35:00 +0530  
@@ -31,7 +58,7 @@
 
 ---
 
-### 4. [5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents](https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html)
+### 7. [5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents](https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 22:06:05 +0530  
@@ -40,7 +67,7 @@
 
 ---
 
-### 5. [Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner](https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html)
+### 8. [Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner](https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 22:05:00 +0530  
@@ -49,7 +76,7 @@
 
 ---
 
-### 6. [The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills](https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html)
+### 9. [The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills](https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 17:31:00 +0530  
@@ -58,7 +85,7 @@
 
 ---
 
-### 7. [Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials](https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html)
+### 10. [Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials](https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 17:30:00 +0530  
@@ -67,35 +94,26 @@
 
 ---
 
-### 8. [TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials](https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html)
+### 11. [Kali Linux 2026.1 released with 8 new tools, new BackTrack mode](https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 24 Mar 2026 16:08:00 +0530  
-**Severity:** Low  
-**Categories:** Phishing, Supply Chain  
-
----
-
-### 9. [U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage](https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 24 Mar 2026 12:19:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 25 Mar 2026 08:31:26 -0400  
 **Severity:** High  
-**Categories:** Ransomware  
+**Categories:** General Security  
 
 ---
 
-### 10. [Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks](https://thehackernews.com/2026/03/citrix-urges-patching-critical.html)
+### 12. [TP-Link warns users to patch critical router auth bypass flaw](https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 24 Mar 2026 11:29:00 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-3055  
+**Source:** Bleeping Computer  
+**Published:** Wed, 25 Mar 2026 07:11:00 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2025-15518, CVE-2025-15519, CVE-2025-15605, CVE-2025-15517  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [Manager of botnet used in ransomware attacks gets 2 years in prison](https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/)
+### 13. [Manager of botnet used in ransomware attacks gets 2 years in prison](https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Mar 2026 04:47:29 -0400  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug](https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/)
+### 14. [PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug](https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 19:04:36 -0400  
@@ -114,7 +132,7 @@
 
 ---
 
-### 13. [Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens](https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/)
+### 15. [Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens](https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 18:29:01 -0400  
@@ -123,7 +141,7 @@
 
 ---
 
-### 14. [FCC bans new routers made outside the USA over security risks](https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/)
+### 16. [FCC bans new routers made outside the USA over security risks](https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 16:41:30 -0400  
@@ -132,7 +150,7 @@
 
 ---
 
-### 15. [Firefox now has a free built-in VPN with 50GB monthly data limit](https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/)
+### 17. [Firefox now has a free built-in VPN with 50GB monthly data limit](https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 13:23:01 -0400  
@@ -141,7 +159,7 @@
 
 ---
 
-### 16. [Microsoft fixes bug causing Classic Outlook sync issues with Gmail](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/)
+### 18. [Microsoft fixes bug causing Classic Outlook sync issues with Gmail](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 11:12:13 -0400  
@@ -150,7 +168,7 @@
 
 ---
 
-### 17. [Zero Trust: Bridging the Gap Between Authentication and Trust](https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/)
+### 19. [Zero Trust: Bridging the Gap Between Authentication and Trust](https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 10:02:12 -0400  
@@ -159,30 +177,12 @@
 
 ---
 
-### 18. [HackerOne discloses employee data breach after Navia hack](https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/)
+### 20. [HackerOne discloses employee data breach after Navia hack](https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 10:01:02 -0400  
 **Severity:** High  
 **Categories:** Data Breach, Vulnerability  
-
----
-
-### 19. [Infinite Campus warns of breach after ShinyHunters claims data theft](https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 24 Mar 2026 09:48:38 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 20. [Yanluowang ransomware access broker gets 81 months in prison](https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 24 Mar 2026 09:06:03 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
 
 ---
 
@@ -218,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24289, CVE-2026-25187, CVE-2026-26113, CVE-2026-26127, CVE-2026-24294, CVE-2026-21262, CVE-2026-26110, CVE-2026-24291  
+**CVEs:** CVE-2026-24291, CVE-2026-21262, CVE-2026-24294, CVE-2026-24289, CVE-2026-25187, CVE-2026-26127, CVE-2026-26110, CVE-2026-26113  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -264,7 +264,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21519, CVE-2026-21510, CVE-2026-21514, CVE-2026-21516, CVE-2026-21523, CVE-2026-21525, CVE-2026-21509, CVE-2026-21513, CVE-2026-21256, CVE-2026-21533  
+**CVEs:** CVE-2026-21516, CVE-2026-21514, CVE-2026-21509, CVE-2026-21525, CVE-2026-21510, CVE-2026-21513, CVE-2026-21533, CVE-2026-21523, CVE-2026-21256, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -278,73 +278,73 @@
 
 ---
 
-### 31. [HackerOne Employee Data Exposed in Massive Navia Breach](https://www.securityweek.com/hackerone-employee-data-exposed-in-massive-navia-breach/)
+### 31. [FCC Bans New Routers Made Outside the US Over National Security Risks](https://www.securityweek.com/fcc-bans-new-foreign-made-consumer-routers-over-national-security-risks/)
+
+**Source:** Security Week  
+**Published:** Wed, 25 Mar 2026 12:43:35 +0000  
+
+---
+
+### 32. [RSAC 2026 Conference Announcements Summary (Day 2)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-2/)
+
+**Source:** Security Week  
+**Published:** Wed, 25 Mar 2026 12:05:57 +0000  
+
+---
+
+### 33. [From Trivy to Broad OSS Compromise: TeamPCP Hits Docker Hub, VS Code, PyPI](https://www.securityweek.com/from-trivy-to-broad-oss-compromise-teampcp-hits-docker-hub-vs-code-pypi/)
+
+**Source:** Security Week  
+**Published:** Wed, 25 Mar 2026 11:55:25 +0000  
+
+---
+
+### 34. [US Prisons Russian Access Broker for Aiding Ransomware Attacks](https://www.securityweek.com/us-prisons-russian-access-broker-for-aiding-ransomware-attacks/)
+
+**Source:** Security Week  
+**Published:** Wed, 25 Mar 2026 09:27:33 +0000  
+
+---
+
+### 35. [HackerOne Employee Data Exposed in Massive Navia Breach](https://www.securityweek.com/hackerone-employee-data-exposed-in-massive-navia-breach/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Mar 2026 07:57:00 +0000  
 
 ---
 
-### 32. [DoE Publishes 5-Year Energy Security Plan](https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/)
+### 36. [DoE Publishes 5-Year Energy Security Plan](https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Mar 2026 19:42:07 +0000  
 
 ---
 
-### 33. [Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw](https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/)
+### 37. [Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw](https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Mar 2026 18:27:48 +0000  
 
 ---
 
-### 34. [Poland Faced a Surge in Cyberattacks in 2025, Including a Major Assault on the Energy Sector](https://www.securityweek.com/poland-faced-a-surge-in-cyberattacks-in-2025-including-a-major-assault-on-the-energy-sector/)
+### 38. [Poland Faced a Surge in Cyberattacks in 2025, Including a Major Assault on the Energy Sector](https://www.securityweek.com/poland-faced-a-surge-in-cyberattacks-in-2025-including-a-major-assault-on-the-energy-sector/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Mar 2026 17:51:42 +0000  
 
 ---
 
-### 35. [RSAC 2026 Conference Announcements Summary (Day 1)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-1/)
+### 39. [RSAC 2026 Conference Announcements Summary (Day 1)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-1/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Mar 2026 15:57:12 +0000  
 
 ---
 
-### 36. [Extortion Group Claims It Hacked AstraZeneca](https://www.securityweek.com/extortion-group-claims-it-hacked-astrazeneca/)
+### 40. [Extortion Group Claims It Hacked AstraZeneca](https://www.securityweek.com/extortion-group-claims-it-hacked-astrazeneca/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Mar 2026 13:54:47 +0000  
-
----
-
-### 37. [Chrome 146 Update Patches High-Severity Vulnerabilities](https://www.securityweek.com/chrome-146-update-patches-high-severity-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Tue, 24 Mar 2026 13:35:47 +0000  
-
----
-
-### 38. [Webinar Today: Putting CIS Controls and Benchmarks into Practice](https://www.securityweek.com/webinar-today-putting-cis-controls-and-benchmarks-into-practice/)
-
-**Source:** Security Week  
-**Published:** Tue, 24 Mar 2026 12:30:00 +0000  
-
----
-
-### 39. [3.1 Million Impacted by QualDerm Data Breach](https://www.securityweek.com/3-1-million-impacted-by-qualderm-data-breach/)
-
-**Source:** Security Week  
-**Published:** Tue, 24 Mar 2026 12:23:59 +0000  
-
----
-
-### 40. [Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool](https://www.securityweek.com/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/)
-
-**Source:** Security Week  
-**Published:** Tue, 24 Mar 2026 12:10:23 +0000  
 
 ---
 
@@ -435,7 +435,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26115, CVE-2026-26118, CVE-2026-26128, CVE-2026-26113, CVE-2026-26144, CVE-2026-26106, CVE-2026-26116, CVE-2026-26110, CVE-2026-21262, CVE-2026-26109, CVE-2026-26114  
+**CVEs:** CVE-2026-26115, CVE-2026-26118, CVE-2026-21262, CVE-2026-26114, CVE-2026-26106, CVE-2026-26128, CVE-2026-26110, CVE-2026-26109, CVE-2026-26113, CVE-2026-26144, CVE-2026-26116  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -610,7 +610,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -625,7 +625,17 @@
 
 ---
 
-### 71. [FBI, CISA warn of Russian hackers hijacking Signal and WhatsApp accounts](https://www.malwarebytes.com/blog/news/2026/03/fbi-cisa-warn-of-russian-hackers-hijacking-signal-and-whatsapp-accounts)
+### 71. [Meet Khaled Mohamed: the bug hunter who found a Microsoft flaw](https://www.malwarebytes.com/blog/bugs/2026/03/meet-khaled-mohamed-the-bug-hunter-who-found-a-microsoft-flaw)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 25 Mar 2026 09:57:08 GMT  
+**Severity:** High  
+**CVEs:** CVE-2026-26123  
+**Categories:** Vulnerability  
+
+---
+
+### 72. [FBI, CISA warn of Russian hackers hijacking Signal and WhatsApp accounts](https://www.malwarebytes.com/blog/news/2026/03/fbi-cisa-warn-of-russian-hackers-hijacking-signal-and-whatsapp-accounts)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 24 Mar 2026 13:39:36 GMT  
@@ -634,7 +644,7 @@
 
 ---
 
-### 72. [Scam compounds hiring &#8220;AI models&#8221; to seal the deal in deepfake video calls](https://www.malwarebytes.com/blog/news/2026/03/scam-compounds-hiring-ai-models-to-seal-deal-in-deepfake-video-calls)
+### 73. [Scam compounds hiring &#8220;AI models&#8221; to seal the deal in deepfake video calls](https://www.malwarebytes.com/blog/news/2026/03/scam-compounds-hiring-ai-models-to-seal-deal-in-deepfake-video-calls)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 24 Mar 2026 12:18:23 GMT  
@@ -643,7 +653,7 @@
 
 ---
 
-### 73. [FriendlyDealer mimics official app stores to push unvetted gambling apps](https://www.malwarebytes.com/blog/scams/2026/03/friendlydealer-mimics-official-app-stores-to-push-unvetted-gambling-apps)
+### 74. [FriendlyDealer mimics official app stores to push unvetted gambling apps](https://www.malwarebytes.com/blog/scams/2026/03/friendlydealer-mimics-official-app-stores-to-push-unvetted-gambling-apps)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 23 Mar 2026 15:41:26 GMT  
@@ -652,7 +662,7 @@
 
 ---
 
-### 74. [The March Madness scam playbook](https://www.malwarebytes.com/blog/news/2026/03/the-march-madness-scam-playbook)
+### 75. [The March Madness scam playbook](https://www.malwarebytes.com/blog/news/2026/03/the-march-madness-scam-playbook)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 23 Mar 2026 15:19:40 GMT  
@@ -661,7 +671,7 @@
 
 ---
 
-### 75. [Advanced Flow will make Android sideloading safer](https://www.malwarebytes.com/blog/news/2026/03/advanced-flow-will-make-android-sideloading-safer)
+### 76. [Advanced Flow will make Android sideloading safer](https://www.malwarebytes.com/blog/news/2026/03/advanced-flow-will-make-android-sideloading-safer)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 23 Mar 2026 12:42:41 GMT  
@@ -670,7 +680,7 @@
 
 ---
 
-### 76. [A week in security (March 16 &#8211; March 22)](https://www.malwarebytes.com/blog/uncategorized/2026/03/a-week-in-security-march-16-march-22)
+### 77. [A week in security (March 16 &#8211; March 22)](https://www.malwarebytes.com/blog/uncategorized/2026/03/a-week-in-security-march-16-march-22)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 23 Mar 2026 07:06:59 GMT  
@@ -679,7 +689,7 @@
 
 ---
 
-### 77. [This is all it takes to stop a train (Lock and Code S07E06)](https://www.malwarebytes.com/blog/podcast/2026/03/this-is-all-it-takes-to-stop-a-train-lock-and-code-s07e06)
+### 78. [This is all it takes to stop a train (Lock and Code S07E06)](https://www.malwarebytes.com/blog/podcast/2026/03/this-is-all-it-takes-to-stop-a-train-lock-and-code-s07e06)
 
 **Source:** Malwarebytes  
 **Published:** Sun, 22 Mar 2026 22:02:28 GMT  
@@ -688,7 +698,7 @@
 
 ---
 
-### 78. [Could your face change what you pay? NYC wants limits on biometric tracking](https://www.malwarebytes.com/blog/news/2026/03/could-your-face-change-what-you-pay-nyc-wants-limits-on-biometric-tracking)
+### 79. [Could your face change what you pay? NYC wants limits on biometric tracking](https://www.malwarebytes.com/blog/news/2026/03/could-your-face-change-what-you-pay-nyc-wants-limits-on-biometric-tracking)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 20 Mar 2026 13:39:55 GMT  
@@ -697,21 +707,12 @@
 
 ---
 
-### 79. [That “job brief” on Google Forms could infect your device](https://www.malwarebytes.com/blog/threat-intel/2026/03/that-job-brief-on-google-forms-could-infect-your-device)
+### 80. [That “job brief” on Google Forms could infect your device](https://www.malwarebytes.com/blog/threat-intel/2026/03/that-job-brief-on-google-forms-could-infect-your-device)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 20 Mar 2026 11:38:40 GMT  
 **Severity:** Low  
 **Categories:** Malware, Phishing  
-
----
-
-### 80. [A DarkSword hangs over unpatched iPhones](https://www.malwarebytes.com/blog/mobile/2026/03/a-darksword-hangs-over-unpatched-iphones)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 19 Mar 2026 12:27:53 GMT  
-**Severity:** High  
-**Categories:** Vulnerability, Malware  
 
 ---
 
