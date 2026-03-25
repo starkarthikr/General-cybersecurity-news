@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data",
+    "link": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html",
+    "published": "Wed, 25 Mar 2026 19:56:00 +0530",
+    "summary": "Cybersecurity researchers have flagged a new evolution of the GlassWorm campaign that delivers a multi-stage framework capable of comprehensive data theft and installing a remote access trojan (RAT), which deploys an information-stealing Google Chrome extension masquerading as an offline version of Google Docs.\n\"It logs keystrokes, dumps cookies and session tokens, captures screenshots, and",
+    "analysis": {
+      "issue": "GlassWorm uses Solana and Google Calendar dead drops to deliver RAT stealing browser data and crypto wallets, impacting developers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "The Kill Chain Is Obsolete When Your AI Agent Is the Threat",
     "link": "https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html",
     "published": "Wed, 25 Mar 2026 17:28:00 +0530",
@@ -164,20 +182,41 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials",
-    "link": "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html",
-    "published": "Tue, 24 Mar 2026 17:30:00 +0530",
-    "summary": "Cybersecurity researchers have uncovered a new set of malicious npm packages that are designed to steal cryptocurrency wallets and sensitive data.\nThe activity is being tracked by ReversingLabs as the Ghost campaign. The list of identified packages, all published by a user named mikilanjillo, is below -\n\nreact-performance-suite\nreact-state-optimizer-core\nreact-fast-utilsa\nai-fast-auto-trader",
+    "source": "Bleeping Computer",
+    "title": "Citrix urges admins to patch NetScaler flaws as soon as possible",
+    "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/",
+    "published": "Wed, 25 Mar 2026 11:52:10 -0400",
+    "summary": "Citrix has patched two NetScaler ADC and NetScaler Gateway vulnerabilities, one of which is very similar to the CitrixBleed and CitrixBleed2 flaws exploited in zero-day attacks in recent years. [...]",
     "analysis": {
-      "issue": "7 malicious npm packages steal crypto wallets by phishing sudo passwords via fake installs, leading to RAT deployment and credential exfiltration",
+      "issue": "Citrix has patched two vulnerabilities affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions, one of which is very similar to the CitrixBleed and CitrixBleed2 flaws exploited in zero-day attacks in recent ",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-3055",
+        "CVE-2026-4368"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Paid AI Accounts Are Now a Hot Underground Commodity",
+    "link": "https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/",
+    "published": "Wed, 25 Mar 2026 10:02:12 -0400",
+    "summary": "AI accounts are becoming part of the cybercrime supply chain, sold like email accounts or VPS access. Flare Systems shows how underground markets bundle and resell premium AI access at scale. [...]",
+    "analysis": {
+      "issue": "AI tools have rapidly become part of everyday life, powering everything from content creation and software development to research and business workflows",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Phishing"
+        "General Security"
       ]
     }
   },
@@ -214,8 +253,8 @@
       "cves": [
         "CVE-2025-15518",
         "CVE-2025-15519",
-        "CVE-2025-15605",
-        "CVE-2025-15517"
+        "CVE-2025-15517",
+        "CVE-2025-15605"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -336,43 +375,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Zero Trust: Bridging the Gap Between Authentication and Trust",
-    "link": "https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/",
-    "published": "Tue, 24 Mar 2026 10:02:12 -0400",
-    "summary": "Passing MFA doesn't mean a session is safe, attackers can hijack tokens and bypass identity checks. Specops Software explains why Zero Trust must verify both user identity and device health. [...]",
-    "analysis": {
-      "issue": "The traditional concept of a \"secure perimeter\" has effectively evaporated",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "HackerOne discloses employee data breach after Navia hack",
-    "link": "https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/",
-    "published": "Tue, 24 Mar 2026 10:01:02 -0400",
-    "summary": "Bug bounty platform HackerOne is notifying hundreds of employees that their data was stolen after attackers hacked Navia, one of its U.S. benefits administrators. [...]",
-    "analysis": {
-      "issue": "Bug bounty platform HackerOne is notifying hundreds of employees that their data was stolen after attackers hacked Navia, one of its U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -442,14 +444,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24291",
-        "CVE-2026-21262",
-        "CVE-2026-24294",
-        "CVE-2026-24289",
-        "CVE-2026-25187",
-        "CVE-2026-26127",
         "CVE-2026-26110",
-        "CVE-2026-26113"
+        "CVE-2026-24291",
+        "CVE-2026-25187",
+        "CVE-2026-26113",
+        "CVE-2026-24289",
+        "CVE-2026-21262",
+        "CVE-2026-26127",
+        "CVE-2026-24294"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -546,16 +548,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21516",
-        "CVE-2026-21514",
-        "CVE-2026-21509",
-        "CVE-2026-21525",
-        "CVE-2026-21510",
-        "CVE-2026-21513",
-        "CVE-2026-21533",
+        "CVE-2026-21519",
         "CVE-2026-21523",
+        "CVE-2026-21513",
+        "CVE-2026-21514",
         "CVE-2026-21256",
-        "CVE-2026-21519"
+        "CVE-2026-21533",
+        "CVE-2026-21525",
+        "CVE-2026-21516",
+        "CVE-2026-21510",
+        "CVE-2026-21509"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -582,6 +584,34 @@
         "DDoS"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Onit Security Raises $11 Million for Exposure Management Platform",
+    "link": "https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/",
+    "published": "Wed, 25 Mar 2026 15:58:16 +0000",
+    "summary": "<p>The startup will invest in product development and go-to-market efforts as it expands into new sectors.</p>\n<p>The post <a href=\"https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/\">Onit Security Raises $11 Million for Exposure Management Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Russian Cybercriminal Gets 2-Year Prison Sentence in US",
+    "link": "https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/",
+    "published": "Wed, 25 Mar 2026 14:30:32 +0000",
+    "summary": "<p>Ilya Angelov was a member of the cybercrime group tracked as TA-551, Shathak, Gold Cabin, Monster Libra, and ATK236.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/\">Russian Cybercriminal Gets 2-Year Prison Sentence in US </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link",
+    "link": "https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/",
+    "published": "Wed, 25 Mar 2026 14:15:00 +0000",
+    "summary": "<p>PwC finds AI is amplifying speed and scale of attacks, as identity theft evolves into a cybercriminal supply chain.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/\">AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "iOS, macOS 26.4 Roll Out With Fresh Security Patches",
+    "link": "https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/",
+    "published": "Wed, 25 Mar 2026 13:29:17 +0000",
+    "summary": "<p>Apple released security fixes for older devices as well, in iOS 18.7.7, iPadOS 18.7.7, macOS Sequoia 15.7.5, and macOS Sonoma 14.8.5.</p>\n<p>The post <a href=\"https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/\">iOS, macOS 26.4 Roll Out With Fresh Security Patches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -624,34 +654,6 @@
     "link": "https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/",
     "published": "Tue, 24 Mar 2026 19:42:07 +0000",
     "summary": "<p>CESER’s Project Armor is a five year initiative to harden the US critical energy infrastructure, including strengthening energy systems ‘to prevent and recover from wildfires and other hazards’.</p>\n<p>The post <a href=\"https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/\">DoE Publishes 5-Year Energy Security Plan</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw",
-    "link": "https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/",
-    "published": "Tue, 24 Mar 2026 18:27:48 +0000",
-    "summary": "<p>Agentic AI platforms are shifting from passive recommendation tools to autonomous action-takers with real system access,</p>\n<p>The post <a href=\"https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/\">Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Poland Faced a Surge in Cyberattacks in 2025, Including a Major Assault on the Energy Sector",
-    "link": "https://www.securityweek.com/poland-faced-a-surge-in-cyberattacks-in-2025-including-a-major-assault-on-the-energy-sector/",
-    "published": "Tue, 24 Mar 2026 17:51:42 +0000",
-    "summary": "<p>The attacks included a destructive infiltration of Poland's energy system in December and was suspected of originating in Russia.</p>\n<p>The post <a href=\"https://www.securityweek.com/poland-faced-a-surge-in-cyberattacks-in-2025-including-a-major-assault-on-the-energy-sector/\">Poland Faced a Surge in Cyberattacks in 2025, Including a Major Assault on the Energy Sector</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "RSAC 2026 Conference Announcements Summary (Day 1)",
-    "link": "https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-1/",
-    "published": "Tue, 24 Mar 2026 15:57:12 +0000",
-    "summary": "<p>A summary of the announcements made by vendors on the first day of the RSAC 2026 Conference.</p>\n<p>The post <a href=\"https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-1/\">RSAC 2026 Conference Announcements Summary (Day 1)</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Extortion Group Claims It Hacked AstraZeneca",
-    "link": "https://www.securityweek.com/extortion-group-claims-it-hacked-astrazeneca/",
-    "published": "Tue, 24 Mar 2026 13:54:47 +0000",
-    "summary": "<p>The Lapsus$ hackers allegedly compromised internal code repositories, credentials, and employee data.</p>\n<p>The post <a href=\"https://www.securityweek.com/extortion-group-claims-it-hacked-astrazeneca/\">Extortion Group Claims It Hacked AstraZeneca</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -834,17 +836,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26115",
-        "CVE-2026-26118",
-        "CVE-2026-21262",
-        "CVE-2026-26114",
-        "CVE-2026-26106",
-        "CVE-2026-26128",
         "CVE-2026-26110",
+        "CVE-2026-26115",
+        "CVE-2026-26116",
+        "CVE-2026-26144",
         "CVE-2026-26109",
         "CVE-2026-26113",
-        "CVE-2026-26144",
-        "CVE-2026-26116"
+        "CVE-2026-21262",
+        "CVE-2026-26118",
+        "CVE-2026-26114",
+        "CVE-2026-26106",
+        "CVE-2026-26128"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1232,6 +1234,42 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Hackers claim to have accessed data tied to millions of crime tipsters",
+    "link": "https://www.malwarebytes.com/blog/news/2026/03/hackers-claim-to-have-accessed-data-tied-to-millions-of-crime-tipsters",
+    "published": "Wed, 25 Mar 2026 16:19:00 GMT",
+    "summary": "A hacktivist group claims to have obtained sensitive data on crime tipsters and the people they reported, dating back to 1987.",
+    "analysis": {
+      "issue": "Millions of crime tips may have been exposed after a hacker group claims to have compromised systems used by Crime Stoppers programs and other organizations worldwide",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "New FCC router ban could leave home networks less secure",
+    "link": "https://www.malwarebytes.com/blog/news/2026/03/new-fcc-router-ban-could-leave-home-networks-less-secure",
+    "published": "Wed, 25 Mar 2026 14:40:03 GMT",
+    "summary": "The FCC announced a ban on routers made outside the US, but it could backfire. Here’s the real risk, and what you can do about it.",
+    "analysis": {
+      "issue": "On Monday, the Federal Communications Commission (FCC) updated its list of insecure equipment, outlining its reasons for adding all consumer-grade routers made outside the US",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Meet Khaled Mohamed: the bug hunter who found a Microsoft flaw",
     "link": "https://www.malwarebytes.com/blog/bugs/2026/03/meet-khaled-mohamed-the-bug-hunter-who-found-a-microsoft-flaw",
     "published": "Wed, 25 Mar 2026 09:57:08 GMT",
@@ -1378,13 +1416,13 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Could your face change what you pay? NYC wants limits on biometric tracking",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/could-your-face-change-what-you-pay-nyc-wants-limits-on-biometric-tracking",
-    "published": "Fri, 20 Mar 2026 13:39:55 GMT",
-    "summary": "NYC lawmakers are pushing to rein in biometric tracking before it turns into real-world surveillance pricing and customer profiling.",
+    "source": "Crowdstrike Blog",
+    "title": "How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem",
+    "link": "https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/",
+    "published": "Mar 25, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "New York City lawmakers are pushing to ban private businesses from using biometric tools like voice and facial recognition software to track the public",
+      "issue": "Charlotte AI underpins a security-first ecosystem for building and orchestrating agents across the SOC",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1392,25 +1430,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "That “job brief” on Google Forms could infect your device",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/that-job-brief-on-google-forms-could-infect-your-device",
-    "published": "Fri, 20 Mar 2026 11:38:40 GMT",
-    "summary": "Fake job offers on Google Forms are spreading PureHVNC malware that can take over your device.",
-    "analysis": {
-      "issue": "We’ve identified a campaign using business-related lures, such as job interviews, project briefs, and financial document,  to distribute malware, including the PureHVNC Remote Access Trojan (RAT)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -1570,24 +1589,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Falcon Platform for Government Now Offers Falcon for XIoT to Secure Connected Assets",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-platform-for-government-now-offers-falcon-for-xiot-to-secure-connected-assets/",
-    "published": "Mar 18, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike's FedRAMP High authorized offering now enables government agencies to identify, prioritize, and address risks across OT and IT environments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"

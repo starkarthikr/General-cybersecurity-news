@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-25 13:25:02 UTC
+**Last Updated:** 2026-03-25 17:35:16 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [The Kill Chain Is Obsolete When Your AI Agent Is the Threat](https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html)
+### 1. [GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data](https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 25 Mar 2026 19:56:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [The Kill Chain Is Obsolete When Your AI Agent Is the Threat](https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Mar 2026 17:28:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks](https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html)
+### 3. [Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks](https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Mar 2026 17:22:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse](https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html)
+### 4. [Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse](https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Mar 2026 17:04:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns](https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html)
+### 5. [FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns](https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Mar 2026 12:41:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise](https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html)
+### 6. [TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise](https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 23:51:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR](https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html)
+### 7. [Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR](https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 22:35:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents](https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html)
+### 8. [5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents](https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 22:06:05 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner](https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html)
+### 9. [Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner](https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 22:05:00 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills](https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html)
+### 10. [The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills](https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 17:31:00 +0530  
@@ -85,16 +94,26 @@
 
 ---
 
-### 10. [Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials](https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html)
+### 11. [Citrix urges admins to patch NetScaler flaws as soon as possible](https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 24 Mar 2026 17:30:00 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
+**Source:** Bleeping Computer  
+**Published:** Wed, 25 Mar 2026 11:52:10 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-3055, CVE-2026-4368  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [Kali Linux 2026.1 released with 8 new tools, new BackTrack mode](https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/)
+### 12. [Paid AI Accounts Are Now a Hot Underground Commodity](https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 25 Mar 2026 10:02:12 -0400  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 13. [Kali Linux 2026.1 released with 8 new tools, new BackTrack mode](https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Mar 2026 08:31:26 -0400  
@@ -103,17 +122,17 @@
 
 ---
 
-### 12. [TP-Link warns users to patch critical router auth bypass flaw](https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/)
+### 14. [TP-Link warns users to patch critical router auth bypass flaw](https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Mar 2026 07:11:00 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2025-15518, CVE-2025-15519, CVE-2025-15605, CVE-2025-15517  
+**CVEs:** CVE-2025-15518, CVE-2025-15519, CVE-2025-15517, CVE-2025-15605  
 **Categories:** Vulnerability  
 
 ---
 
-### 13. [Manager of botnet used in ransomware attacks gets 2 years in prison](https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/)
+### 15. [Manager of botnet used in ransomware attacks gets 2 years in prison](https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Mar 2026 04:47:29 -0400  
@@ -122,7 +141,7 @@
 
 ---
 
-### 14. [PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug](https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/)
+### 16. [PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug](https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 19:04:36 -0400  
@@ -132,7 +151,7 @@
 
 ---
 
-### 15. [Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens](https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/)
+### 17. [Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens](https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 18:29:01 -0400  
@@ -141,7 +160,7 @@
 
 ---
 
-### 16. [FCC bans new routers made outside the USA over security risks](https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/)
+### 18. [FCC bans new routers made outside the USA over security risks](https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 16:41:30 -0400  
@@ -150,7 +169,7 @@
 
 ---
 
-### 17. [Firefox now has a free built-in VPN with 50GB monthly data limit](https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/)
+### 19. [Firefox now has a free built-in VPN with 50GB monthly data limit](https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 13:23:01 -0400  
@@ -159,30 +178,12 @@
 
 ---
 
-### 18. [Microsoft fixes bug causing Classic Outlook sync issues with Gmail](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/)
+### 20. [Microsoft fixes bug causing Classic Outlook sync issues with Gmail](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 11:12:13 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 19. [Zero Trust: Bridging the Gap Between Authentication and Trust](https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 24 Mar 2026 10:02:12 -0400  
-**Severity:** Critical  
-**Categories:** Data Breach  
-
----
-
-### 20. [HackerOne discloses employee data breach after Navia hack](https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 24 Mar 2026 10:01:02 -0400  
-**Severity:** High  
-**Categories:** Data Breach, Vulnerability  
 
 ---
 
@@ -218,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24291, CVE-2026-21262, CVE-2026-24294, CVE-2026-24289, CVE-2026-25187, CVE-2026-26127, CVE-2026-26110, CVE-2026-26113  
+**CVEs:** CVE-2026-26110, CVE-2026-24291, CVE-2026-25187, CVE-2026-26113, CVE-2026-24289, CVE-2026-21262, CVE-2026-26127, CVE-2026-24294  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -264,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21516, CVE-2026-21514, CVE-2026-21509, CVE-2026-21525, CVE-2026-21510, CVE-2026-21513, CVE-2026-21533, CVE-2026-21523, CVE-2026-21256, CVE-2026-21519  
+**CVEs:** CVE-2026-21519, CVE-2026-21523, CVE-2026-21513, CVE-2026-21514, CVE-2026-21256, CVE-2026-21533, CVE-2026-21525, CVE-2026-21516, CVE-2026-21510, CVE-2026-21509  
 **Categories:** Vulnerability  
 
 ---
@@ -278,73 +279,73 @@
 
 ---
 
-### 31. [FCC Bans New Routers Made Outside the US Over National Security Risks](https://www.securityweek.com/fcc-bans-new-foreign-made-consumer-routers-over-national-security-risks/)
+### 31. [Onit Security Raises $11 Million for Exposure Management Platform](https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/)
+
+**Source:** Security Week  
+**Published:** Wed, 25 Mar 2026 15:58:16 +0000  
+
+---
+
+### 32. [Russian Cybercriminal Gets 2-Year Prison Sentence in US](https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/)
+
+**Source:** Security Week  
+**Published:** Wed, 25 Mar 2026 14:30:32 +0000  
+
+---
+
+### 33. [AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link](https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/)
+
+**Source:** Security Week  
+**Published:** Wed, 25 Mar 2026 14:15:00 +0000  
+
+---
+
+### 34. [iOS, macOS 26.4 Roll Out With Fresh Security Patches](https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/)
+
+**Source:** Security Week  
+**Published:** Wed, 25 Mar 2026 13:29:17 +0000  
+
+---
+
+### 35. [FCC Bans New Routers Made Outside the US Over National Security Risks](https://www.securityweek.com/fcc-bans-new-foreign-made-consumer-routers-over-national-security-risks/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Mar 2026 12:43:35 +0000  
 
 ---
 
-### 32. [RSAC 2026 Conference Announcements Summary (Day 2)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-2/)
+### 36. [RSAC 2026 Conference Announcements Summary (Day 2)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-2/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Mar 2026 12:05:57 +0000  
 
 ---
 
-### 33. [From Trivy to Broad OSS Compromise: TeamPCP Hits Docker Hub, VS Code, PyPI](https://www.securityweek.com/from-trivy-to-broad-oss-compromise-teampcp-hits-docker-hub-vs-code-pypi/)
+### 37. [From Trivy to Broad OSS Compromise: TeamPCP Hits Docker Hub, VS Code, PyPI](https://www.securityweek.com/from-trivy-to-broad-oss-compromise-teampcp-hits-docker-hub-vs-code-pypi/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Mar 2026 11:55:25 +0000  
 
 ---
 
-### 34. [US Prisons Russian Access Broker for Aiding Ransomware Attacks](https://www.securityweek.com/us-prisons-russian-access-broker-for-aiding-ransomware-attacks/)
+### 38. [US Prisons Russian Access Broker for Aiding Ransomware Attacks](https://www.securityweek.com/us-prisons-russian-access-broker-for-aiding-ransomware-attacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Mar 2026 09:27:33 +0000  
 
 ---
 
-### 35. [HackerOne Employee Data Exposed in Massive Navia Breach](https://www.securityweek.com/hackerone-employee-data-exposed-in-massive-navia-breach/)
+### 39. [HackerOne Employee Data Exposed in Massive Navia Breach](https://www.securityweek.com/hackerone-employee-data-exposed-in-massive-navia-breach/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Mar 2026 07:57:00 +0000  
 
 ---
 
-### 36. [DoE Publishes 5-Year Energy Security Plan](https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/)
+### 40. [DoE Publishes 5-Year Energy Security Plan](https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/)
 
 **Source:** Security Week  
 **Published:** Tue, 24 Mar 2026 19:42:07 +0000  
-
----
-
-### 37. [Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw](https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/)
-
-**Source:** Security Week  
-**Published:** Tue, 24 Mar 2026 18:27:48 +0000  
-
----
-
-### 38. [Poland Faced a Surge in Cyberattacks in 2025, Including a Major Assault on the Energy Sector](https://www.securityweek.com/poland-faced-a-surge-in-cyberattacks-in-2025-including-a-major-assault-on-the-energy-sector/)
-
-**Source:** Security Week  
-**Published:** Tue, 24 Mar 2026 17:51:42 +0000  
-
----
-
-### 39. [RSAC 2026 Conference Announcements Summary (Day 1)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-1/)
-
-**Source:** Security Week  
-**Published:** Tue, 24 Mar 2026 15:57:12 +0000  
-
----
-
-### 40. [Extortion Group Claims It Hacked AstraZeneca](https://www.securityweek.com/extortion-group-claims-it-hacked-astrazeneca/)
-
-**Source:** Security Week  
-**Published:** Tue, 24 Mar 2026 13:54:47 +0000  
 
 ---
 
@@ -435,7 +436,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26115, CVE-2026-26118, CVE-2026-21262, CVE-2026-26114, CVE-2026-26106, CVE-2026-26128, CVE-2026-26110, CVE-2026-26109, CVE-2026-26113, CVE-2026-26144, CVE-2026-26116  
+**CVEs:** CVE-2026-26110, CVE-2026-26115, CVE-2026-26116, CVE-2026-26144, CVE-2026-26109, CVE-2026-26113, CVE-2026-21262, CVE-2026-26118, CVE-2026-26114, CVE-2026-26106, CVE-2026-26128  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -625,7 +626,25 @@
 
 ---
 
-### 71. [Meet Khaled Mohamed: the bug hunter who found a Microsoft flaw](https://www.malwarebytes.com/blog/bugs/2026/03/meet-khaled-mohamed-the-bug-hunter-who-found-a-microsoft-flaw)
+### 71. [Hackers claim to have accessed data tied to millions of crime tipsters](https://www.malwarebytes.com/blog/news/2026/03/hackers-claim-to-have-accessed-data-tied-to-millions-of-crime-tipsters)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 25 Mar 2026 16:19:00 GMT  
+**Severity:** Low  
+**Categories:** DDoS  
+
+---
+
+### 72. [New FCC router ban could leave home networks less secure](https://www.malwarebytes.com/blog/news/2026/03/new-fcc-router-ban-could-leave-home-networks-less-secure)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 25 Mar 2026 14:40:03 GMT  
+**Severity:** Critical  
+**Categories:** Malware  
+
+---
+
+### 73. [Meet Khaled Mohamed: the bug hunter who found a Microsoft flaw](https://www.malwarebytes.com/blog/bugs/2026/03/meet-khaled-mohamed-the-bug-hunter-who-found-a-microsoft-flaw)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 25 Mar 2026 09:57:08 GMT  
@@ -635,7 +654,7 @@
 
 ---
 
-### 72. [FBI, CISA warn of Russian hackers hijacking Signal and WhatsApp accounts](https://www.malwarebytes.com/blog/news/2026/03/fbi-cisa-warn-of-russian-hackers-hijacking-signal-and-whatsapp-accounts)
+### 74. [FBI, CISA warn of Russian hackers hijacking Signal and WhatsApp accounts](https://www.malwarebytes.com/blog/news/2026/03/fbi-cisa-warn-of-russian-hackers-hijacking-signal-and-whatsapp-accounts)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 24 Mar 2026 13:39:36 GMT  
@@ -644,7 +663,7 @@
 
 ---
 
-### 73. [Scam compounds hiring &#8220;AI models&#8221; to seal the deal in deepfake video calls](https://www.malwarebytes.com/blog/news/2026/03/scam-compounds-hiring-ai-models-to-seal-deal-in-deepfake-video-calls)
+### 75. [Scam compounds hiring &#8220;AI models&#8221; to seal the deal in deepfake video calls](https://www.malwarebytes.com/blog/news/2026/03/scam-compounds-hiring-ai-models-to-seal-deal-in-deepfake-video-calls)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 24 Mar 2026 12:18:23 GMT  
@@ -653,7 +672,7 @@
 
 ---
 
-### 74. [FriendlyDealer mimics official app stores to push unvetted gambling apps](https://www.malwarebytes.com/blog/scams/2026/03/friendlydealer-mimics-official-app-stores-to-push-unvetted-gambling-apps)
+### 76. [FriendlyDealer mimics official app stores to push unvetted gambling apps](https://www.malwarebytes.com/blog/scams/2026/03/friendlydealer-mimics-official-app-stores-to-push-unvetted-gambling-apps)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 23 Mar 2026 15:41:26 GMT  
@@ -662,7 +681,7 @@
 
 ---
 
-### 75. [The March Madness scam playbook](https://www.malwarebytes.com/blog/news/2026/03/the-march-madness-scam-playbook)
+### 77. [The March Madness scam playbook](https://www.malwarebytes.com/blog/news/2026/03/the-march-madness-scam-playbook)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 23 Mar 2026 15:19:40 GMT  
@@ -671,7 +690,7 @@
 
 ---
 
-### 76. [Advanced Flow will make Android sideloading safer](https://www.malwarebytes.com/blog/news/2026/03/advanced-flow-will-make-android-sideloading-safer)
+### 78. [Advanced Flow will make Android sideloading safer](https://www.malwarebytes.com/blog/news/2026/03/advanced-flow-will-make-android-sideloading-safer)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 23 Mar 2026 12:42:41 GMT  
@@ -680,7 +699,7 @@
 
 ---
 
-### 77. [A week in security (March 16 &#8211; March 22)](https://www.malwarebytes.com/blog/uncategorized/2026/03/a-week-in-security-march-16-march-22)
+### 79. [A week in security (March 16 &#8211; March 22)](https://www.malwarebytes.com/blog/uncategorized/2026/03/a-week-in-security-march-16-march-22)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 23 Mar 2026 07:06:59 GMT  
@@ -689,7 +708,7 @@
 
 ---
 
-### 78. [This is all it takes to stop a train (Lock and Code S07E06)](https://www.malwarebytes.com/blog/podcast/2026/03/this-is-all-it-takes-to-stop-a-train-lock-and-code-s07e06)
+### 80. [This is all it takes to stop a train (Lock and Code S07E06)](https://www.malwarebytes.com/blog/podcast/2026/03/this-is-all-it-takes-to-stop-a-train-lock-and-code-s07e06)
 
 **Source:** Malwarebytes  
 **Published:** Sun, 22 Mar 2026 22:02:28 GMT  
@@ -698,25 +717,16 @@
 
 ---
 
-### 79. [Could your face change what you pay? NYC wants limits on biometric tracking](https://www.malwarebytes.com/blog/news/2026/03/could-your-face-change-what-you-pay-nyc-wants-limits-on-biometric-tracking)
+### 81. [How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem](https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/)
 
-**Source:** Malwarebytes  
-**Published:** Fri, 20 Mar 2026 13:39:55 GMT  
+**Source:** Crowdstrike Blog  
+**Published:** Mar 25, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 80. [That “job brief” on Google Forms could infect your device](https://www.malwarebytes.com/blog/threat-intel/2026/03/that-job-brief-on-google-forms-could-infect-your-device)
-
-**Source:** Malwarebytes  
-**Published:** Fri, 20 Mar 2026 11:38:40 GMT  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
-
----
-
-### 81. [Falcon Data Security Secures Data Wherever It Lives and Moves](https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/)
+### 82. [Falcon Data Security Secures Data Wherever It Lives and Moves](https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 24, 2026 00:00:00-0500  
@@ -725,7 +735,7 @@
 
 ---
 
-### 82. [CrowdStrike Services and Agentic MDR Put the Agentic SOC in Reach](https://www.crowdstrike.com/en-us/blog/crowdstrike-services-and-agentic-mdr-put-the-agentic-soc-in-reach/)
+### 83. [CrowdStrike Services and Agentic MDR Put the Agentic SOC in Reach](https://www.crowdstrike.com/en-us/blog/crowdstrike-services-and-agentic-mdr-put-the-agentic-soc-in-reach/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 24, 2026 00:00:00-0500  
@@ -734,7 +744,7 @@
 
 ---
 
-### 83. [CrowdStrike Advances CNAPP with Industry-First Adversary-Informed Risk Prioritization](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-cnapp-with-industry-first-adversary-informed-risk-prioritization/)
+### 84. [CrowdStrike Advances CNAPP with Industry-First Adversary-Informed Risk Prioritization](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-cnapp-with-industry-first-adversary-informed-risk-prioritization/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 24, 2026 00:00:00-0500  
@@ -743,7 +753,7 @@
 
 ---
 
-### 84. [CrowdStrike Flex for Services Expands Access to Elite Security Expertise](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/)
+### 85. [CrowdStrike Flex for Services Expands Access to Elite Security Expertise](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 24, 2026 00:00:00-0500  
@@ -752,7 +762,7 @@
 
 ---
 
-### 85. [Falcon Next-Gen SIEM Supports Third-Party EDR Tools, Starting with Microsoft Defender](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-supports-third-party-edr-tools-starting-with-microsoft-defender/)
+### 86. [Falcon Next-Gen SIEM Supports Third-Party EDR Tools, Starting with Microsoft Defender](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-supports-third-party-edr-tools-starting-with-microsoft-defender/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 23, 2026 00:00:00-0500  
@@ -761,7 +771,7 @@
 
 ---
 
-### 86. [New CrowdStrike Innovations Secure AI Agents and Govern Shadow AI Across Endpoints, SaaS, and Cloud](https://www.crowdstrike.com/en-us/blog/new-crowdstrike-innovations-secure-ai-agents-govern-shadow-ai/)
+### 87. [New CrowdStrike Innovations Secure AI Agents and Govern Shadow AI Across Endpoints, SaaS, and Cloud](https://www.crowdstrike.com/en-us/blog/new-crowdstrike-innovations-secure-ai-agents-govern-shadow-ai/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 23, 2026 00:00:00-0500  
@@ -770,7 +780,7 @@
 
 ---
 
-### 87. [Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown](https://www.crowdstrike.com/en-us/blog/tycoon2fa-phishing-as-a-service-platform-persists-following-takedown/)
+### 88. [Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown](https://www.crowdstrike.com/en-us/blog/tycoon2fa-phishing-as-a-service-platform-persists-following-takedown/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 20, 2026 00:00:00-0500  
@@ -779,7 +789,7 @@
 
 ---
 
-### 88. [From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise](https://www.crowdstrike.com/en-us/blog/from-scanner-to-stealer-inside-the-trivy-action-supply-chain-compromise/)
+### 89. [From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise](https://www.crowdstrike.com/en-us/blog/from-scanner-to-stealer-inside-the-trivy-action-supply-chain-compromise/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 20, 2026 00:00:00-0500  
@@ -788,20 +798,11 @@
 
 ---
 
-### 89. [Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails](https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/)
+### 90. [Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails](https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 19, 2026 00:00:00-0500  
 **Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [Falcon Platform for Government Now Offers Falcon for XIoT to Secure Connected Assets](https://www.crowdstrike.com/en-us/blog/falcon-platform-for-government-now-offers-falcon-for-xiot-to-secure-connected-assets/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Mar 18, 2026 00:00:00-0500  
-**Severity:** High  
 **Categories:** General Security  
 
 ---
