@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
+    "link": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html",
+    "published": "Wed, 25 Mar 2026 23:05:00 +0530",
+    "summary": "The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday.\nAccording to TASS and MVD Media, a news website linked to the Russian Interior Ministry, the suspect is a resident of the city of Taganrog. The suspect is said to have been detained for creating and managing a criminal site that allowed stolen",
+    "analysis": {
+      "issue": "Russian authorities arrested the alleged admin of LeakBase, a cybercrime forum operating since 2021 that enabled trading stolen data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data",
     "link": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html",
     "published": "Wed, 25 Mar 2026 19:56:00 +0530",
@@ -164,20 +182,75 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
-    "link": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html",
-    "published": "Tue, 24 Mar 2026 17:31:00 +0530",
-    "summary": "Cybersecurity has changed fast. Roles are more&nbsp;specialized, and tooling is more advanced. On paper, this should make organizations more secure. But in practice, many teams struggle with the same basic problems they faced years ago: unclear risk priorities, misaligned tooling decisions, and difficulty explaining security issues in terms the business understands. \nThese challenges do not",
+    "source": "Bleeping Computer",
+    "title": "GitHub adds AI-powered bug detection to expand security coverage",
+    "link": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/",
+    "published": "Wed, 25 Mar 2026 19:23:39 -0400",
+    "summary": "GitHub is adopting AI-based scanning for its Code Security tool to expand vulnerability detections beyond the CodeQL static analysis and cover more languages and frameworks. [...]",
     "analysis": {
-      "issue": "Lack of foundational cybersecurity context weakens risk prioritization, causing misaligned tools and slower incident response",
+      "issue": "GitHub is adopting AI-based scanning for its Code Security tool to expand vulnerability detections beyond the CodeQL static analysis and cover more languages and frameworks",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "PolyShell attacks target 56% of all vulnerable Magento stores",
+    "link": "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/",
+    "published": "Wed, 25 Mar 2026 17:40:21 -0400",
+    "summary": "Attacks leveraging the 'PolyShell' vulnerability in version 2 of Magento Open Source and Adobe Commerce installations are underway, targeting more than half of all vulnerable stores. [...]",
+    "analysis": {
+      "issue": "Attacks leveraging the ‘PolyShell’ vulnerability in version 2 of Magento Open Source and Adobe Commerce installations are underway, targeting more than half of all vulnerable stores",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Bubble AI app builder abused to steal Microsoft account credentials",
+    "link": "https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/",
+    "published": "Wed, 25 Mar 2026 15:48:36 -0400",
+    "summary": "Threat actors are evading phishing detection in campaigns targeting Microsoft accounts by abusing the no-code app-building platform Bubble to generate and host malicious web apps. [...]",
+    "analysis": {
+      "issue": "Threat actors are evading phishing detection in campaigns targeting Microsoft accounts by abusing the no-code app-building platform Bubble to generate and host malicious web apps",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New Torg Grabber infostealer malware targets 728 crypto wallets",
+    "link": "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/",
+    "published": "Wed, 25 Mar 2026 14:32:37 -0400",
+    "summary": "A new info-stealing malware called Torg Grabber is stealing sensitive data from 850 browser extensions, more than 700 of them for cryptocurrency wallets. [...]",
+    "analysis": {
+      "issue": "A new info-stealing malware called Torg Grabber is stealing sensitive data from 850 browser extensions, more than 700 of them for cryptocurrency wallets",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -252,8 +325,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2025-15518",
-        "CVE-2025-15519",
         "CVE-2025-15517",
+        "CVE-2025-15519",
         "CVE-2025-15605"
       ],
       "threat_categories": [
@@ -298,79 +371,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens",
-    "link": "https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/",
-    "published": "Tue, 24 Mar 2026 18:29:01 -0400",
-    "summary": "The TeamPCP hacking group continues its supply-chain rampage, now compromising the massively popular \"LiteLLM\" Python package on PyPI and claiming to have stolen data from hundreds of thousands of devices during the attack. [...]",
-    "analysis": {
-      "issue": "The TeamPCP hacking group continues its supply-chain rampage, now compromising the massively popular \"LiteLLM\" Python package on PyPI and claiming to have stolen data from hundreds of thousands of devices during the attack",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FCC bans new routers made outside the USA over security risks",
-    "link": "https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/",
-    "published": "Tue, 24 Mar 2026 16:41:30 -0400",
-    "summary": "The Federal Communications Commission has updated its Covered List to include all consumer routers made in foreign countries, banning the sale of new models in the U.S. [...]",
-    "analysis": {
-      "issue": "The Federal Communications Commission has updated its Covered List to include all consumer routers made in foreign countries, banning the sale of new models in the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Firefox now has a free built-in VPN with 50GB monthly data limit",
-    "link": "https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/",
-    "published": "Tue, 24 Mar 2026 13:23:01 -0400",
-    "summary": "Mozilla released Firefox 149 with added privacy protection through a built-in VPN tool offering up to 50GB of monthly traffic. [...]",
-    "analysis": {
-      "issue": "Mozilla released Firefox 149 with added privacy protection through a built-in VPN tool offering up to 50GB of monthly traffic",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes bug causing Classic Outlook sync issues with Gmail",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/",
-    "published": "Tue, 24 Mar 2026 11:12:13 -0400",
-    "summary": "​Microsoft has fixed a known issue causing Gmail and Yahoo email synchronization and connection problems for classic Outlook users. [...]",
-    "analysis": {
-      "issue": "Microsoft has fixed a known issue causing Gmail and Yahoo email synchronization problems for classic Outlook users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -444,13 +444,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26110",
-        "CVE-2026-24291",
-        "CVE-2026-25187",
-        "CVE-2026-26113",
         "CVE-2026-24289",
-        "CVE-2026-21262",
         "CVE-2026-26127",
+        "CVE-2026-26113",
+        "CVE-2026-25187",
+        "CVE-2026-26110",
+        "CVE-2026-21262",
+        "CVE-2026-24291",
         "CVE-2026-24294"
       ],
       "threat_categories": [
@@ -548,16 +548,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21519",
-        "CVE-2026-21523",
-        "CVE-2026-21513",
         "CVE-2026-21514",
-        "CVE-2026-21256",
+        "CVE-2026-21513",
+        "CVE-2026-21523",
         "CVE-2026-21533",
-        "CVE-2026-21525",
         "CVE-2026-21516",
-        "CVE-2026-21510",
-        "CVE-2026-21509"
+        "CVE-2026-21525",
+        "CVE-2026-21256",
+        "CVE-2026-21509",
+        "CVE-2026-21519",
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -836,17 +836,17 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26110",
-        "CVE-2026-26115",
-        "CVE-2026-26116",
-        "CVE-2026-26144",
-        "CVE-2026-26109",
-        "CVE-2026-26113",
+        "CVE-2026-26128",
         "CVE-2026-21262",
-        "CVE-2026-26118",
+        "CVE-2026-26109",
         "CVE-2026-26114",
+        "CVE-2026-26118",
+        "CVE-2026-26113",
         "CVE-2026-26106",
-        "CVE-2026-26128"
+        "CVE-2026-26116",
+        "CVE-2026-26110",
+        "CVE-2026-26144",
+        "CVE-2026-26115"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1203,8 +1203,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-25 17:35:16 UTC
+**Last Updated:** 2026-03-26 02:51:11 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data](https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html)
+### 1. [LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace](https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 25 Mar 2026 23:05:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data](https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Mar 2026 19:56:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [The Kill Chain Is Obsolete When Your AI Agent Is the Threat](https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html)
+### 3. [The Kill Chain Is Obsolete When Your AI Agent Is the Threat](https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Mar 2026 17:28:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks](https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html)
+### 4. [Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks](https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Mar 2026 17:22:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse](https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html)
+### 5. [Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse](https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Mar 2026 17:04:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns](https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html)
+### 6. [FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns](https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Mar 2026 12:41:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise](https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html)
+### 7. [TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise](https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 23:51:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR](https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html)
+### 8. [Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR](https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 22:35:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents](https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html)
+### 9. [5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents](https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 22:06:05 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner](https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html)
+### 10. [Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner](https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 22:05:00 +0530  
@@ -85,16 +94,43 @@
 
 ---
 
-### 10. [The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills](https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html)
+### 11. [GitHub adds AI-powered bug detection to expand security coverage](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 24 Mar 2026 17:31:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 25 Mar 2026 19:23:39 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Data Breach, Vulnerability  
 
 ---
 
-### 11. [Citrix urges admins to patch NetScaler flaws as soon as possible](https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/)
+### 12. [PolyShell attacks target 56% of all vulnerable Magento stores](https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 25 Mar 2026 17:40:21 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [Bubble AI app builder abused to steal Microsoft account credentials](https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 25 Mar 2026 15:48:36 -0400  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 14. [New Torg Grabber infostealer malware targets 728 crypto wallets](https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 25 Mar 2026 14:32:37 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 15. [Citrix urges admins to patch NetScaler flaws as soon as possible](https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Mar 2026 11:52:10 -0400  
@@ -104,7 +140,7 @@
 
 ---
 
-### 12. [Paid AI Accounts Are Now a Hot Underground Commodity](https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/)
+### 16. [Paid AI Accounts Are Now a Hot Underground Commodity](https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Mar 2026 10:02:12 -0400  
@@ -113,7 +149,7 @@
 
 ---
 
-### 13. [Kali Linux 2026.1 released with 8 new tools, new BackTrack mode](https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/)
+### 17. [Kali Linux 2026.1 released with 8 new tools, new BackTrack mode](https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Mar 2026 08:31:26 -0400  
@@ -122,17 +158,17 @@
 
 ---
 
-### 14. [TP-Link warns users to patch critical router auth bypass flaw](https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/)
+### 18. [TP-Link warns users to patch critical router auth bypass flaw](https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Mar 2026 07:11:00 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2025-15518, CVE-2025-15519, CVE-2025-15517, CVE-2025-15605  
+**CVEs:** CVE-2025-15518, CVE-2025-15517, CVE-2025-15519, CVE-2025-15605  
 **Categories:** Vulnerability  
 
 ---
 
-### 15. [Manager of botnet used in ransomware attacks gets 2 years in prison](https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/)
+### 19. [Manager of botnet used in ransomware attacks gets 2 years in prison](https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Mar 2026 04:47:29 -0400  
@@ -141,49 +177,13 @@
 
 ---
 
-### 16. [PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug](https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/)
+### 20. [PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug](https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 24 Mar 2026 19:04:36 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-4681  
 **Categories:** Vulnerability  
-
----
-
-### 17. [Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens](https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 24 Mar 2026 18:29:01 -0400  
-**Severity:** High  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 18. [FCC bans new routers made outside the USA over security risks](https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 24 Mar 2026 16:41:30 -0400  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 19. [Firefox now has a free built-in VPN with 50GB monthly data limit](https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 24 Mar 2026 13:23:01 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Microsoft fixes bug causing Classic Outlook sync issues with Gmail](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 24 Mar 2026 11:12:13 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26110, CVE-2026-24291, CVE-2026-25187, CVE-2026-26113, CVE-2026-24289, CVE-2026-21262, CVE-2026-26127, CVE-2026-24294  
+**CVEs:** CVE-2026-24289, CVE-2026-26127, CVE-2026-26113, CVE-2026-25187, CVE-2026-26110, CVE-2026-21262, CVE-2026-24291, CVE-2026-24294  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -265,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21519, CVE-2026-21523, CVE-2026-21513, CVE-2026-21514, CVE-2026-21256, CVE-2026-21533, CVE-2026-21525, CVE-2026-21516, CVE-2026-21510, CVE-2026-21509  
+**CVEs:** CVE-2026-21514, CVE-2026-21513, CVE-2026-21523, CVE-2026-21533, CVE-2026-21516, CVE-2026-21525, CVE-2026-21256, CVE-2026-21509, CVE-2026-21519, CVE-2026-21510  
 **Categories:** Vulnerability  
 
 ---
@@ -436,7 +436,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26110, CVE-2026-26115, CVE-2026-26116, CVE-2026-26144, CVE-2026-26109, CVE-2026-26113, CVE-2026-21262, CVE-2026-26118, CVE-2026-26114, CVE-2026-26106, CVE-2026-26128  
+**CVEs:** CVE-2026-26128, CVE-2026-21262, CVE-2026-26109, CVE-2026-26114, CVE-2026-26118, CVE-2026-26113, CVE-2026-26106, CVE-2026-26116, CVE-2026-26110, CVE-2026-26144, CVE-2026-26115  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -611,7 +611,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
