@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-26 03:36:55 UTC
+**Last Updated:** 2026-03-26 09:33:57 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace](https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html)
+### 1. [WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites](https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 26 Mar 2026 12:23:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace](https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Mar 2026 23:05:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data](https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html)
+### 3. [GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data](https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Mar 2026 19:56:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [The Kill Chain Is Obsolete When Your AI Agent Is the Threat](https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html)
+### 4. [The Kill Chain Is Obsolete When Your AI Agent Is the Threat](https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Mar 2026 17:28:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks](https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html)
+### 5. [Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks](https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Mar 2026 17:22:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse](https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html)
+### 6. [Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse](https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Mar 2026 17:04:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns](https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html)
+### 7. [FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns](https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 25 Mar 2026 12:41:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise](https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html)
+### 8. [TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise](https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 23:51:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR](https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html)
+### 9. [Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR](https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 22:35:00 +0530  
@@ -76,21 +85,12 @@
 
 ---
 
-### 9. [5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents](https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html)
+### 10. [5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents](https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 24 Mar 2026 22:06:05 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 10. [Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner](https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 24 Mar 2026 22:05:00 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 
@@ -135,7 +135,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Mar 2026 11:52:10 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-3055, CVE-2026-4368  
+**CVEs:** CVE-2026-4368, CVE-2026-3055  
 **Categories:** Vulnerability  
 
 ---
@@ -163,7 +163,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Mar 2026 07:11:00 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2025-15519, CVE-2025-15605, CVE-2025-15518, CVE-2025-15517  
+**CVEs:** CVE-2025-15518, CVE-2025-15519, CVE-2025-15517, CVE-2025-15605  
 **Categories:** Vulnerability  
 
 ---
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26127, CVE-2026-26113, CVE-2026-24294, CVE-2026-25187, CVE-2026-24289, CVE-2026-24291, CVE-2026-26110, CVE-2026-21262  
+**CVEs:** CVE-2026-24294, CVE-2026-25187, CVE-2026-24289, CVE-2026-26127, CVE-2026-26113, CVE-2026-26110, CVE-2026-21262, CVE-2026-24291  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -265,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21516, CVE-2026-21256, CVE-2026-21533, CVE-2026-21509, CVE-2026-21523, CVE-2026-21519, CVE-2026-21514, CVE-2026-21525, CVE-2026-21513, CVE-2026-21510  
+**CVEs:** CVE-2026-21519, CVE-2026-21513, CVE-2026-21509, CVE-2026-21525, CVE-2026-21533, CVE-2026-21514, CVE-2026-21523, CVE-2026-21256, CVE-2026-21516, CVE-2026-21510  
 **Categories:** Vulnerability  
 
 ---
@@ -279,73 +279,73 @@
 
 ---
 
-### 31. [Onit Security Raises $11 Million for Exposure Management Platform](https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/)
+### 31. [Dell and HP Roll Out Quantum-Resistant Device Security and AI-Era Cyber Resilience](https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/)
+
+**Source:** Security Week  
+**Published:** Thu, 26 Mar 2026 08:57:41 +0000  
+
+---
+
+### 32. [Onit Security Raises $11 Million for Exposure Management Platform](https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Mar 2026 15:58:16 +0000  
 
 ---
 
-### 32. [Russian Cybercriminal Gets 2-Year Prison Sentence in US](https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/)
+### 33. [Russian Cybercriminal Gets 2-Year Prison Sentence in US](https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Mar 2026 14:30:32 +0000  
 
 ---
 
-### 33. [AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link](https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/)
+### 34. [AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link](https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Mar 2026 14:15:00 +0000  
 
 ---
 
-### 34. [iOS, macOS 26.4 Roll Out With Fresh Security Patches](https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/)
+### 35. [iOS, macOS 26.4 Roll Out With Fresh Security Patches](https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Mar 2026 13:29:17 +0000  
 
 ---
 
-### 35. [FCC Bans New Routers Made Outside the US Over National Security Risks](https://www.securityweek.com/fcc-bans-new-foreign-made-consumer-routers-over-national-security-risks/)
+### 36. [FCC Bans New Routers Made Outside the US Over National Security Risks](https://www.securityweek.com/fcc-bans-new-foreign-made-consumer-routers-over-national-security-risks/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Mar 2026 12:43:35 +0000  
 
 ---
 
-### 36. [RSAC 2026 Conference Announcements Summary (Day 2)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-2/)
+### 37. [RSAC 2026 Conference Announcements Summary (Day 2)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-2/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Mar 2026 12:05:57 +0000  
 
 ---
 
-### 37. [From Trivy to Broad OSS Compromise: TeamPCP Hits Docker Hub, VS Code, PyPI](https://www.securityweek.com/from-trivy-to-broad-oss-compromise-teampcp-hits-docker-hub-vs-code-pypi/)
+### 38. [From Trivy to Broad OSS Compromise: TeamPCP Hits Docker Hub, VS Code, PyPI](https://www.securityweek.com/from-trivy-to-broad-oss-compromise-teampcp-hits-docker-hub-vs-code-pypi/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Mar 2026 11:55:25 +0000  
 
 ---
 
-### 38. [US Prisons Russian Access Broker for Aiding Ransomware Attacks](https://www.securityweek.com/us-prisons-russian-access-broker-for-aiding-ransomware-attacks/)
+### 39. [US Prisons Russian Access Broker for Aiding Ransomware Attacks](https://www.securityweek.com/us-prisons-russian-access-broker-for-aiding-ransomware-attacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Mar 2026 09:27:33 +0000  
 
 ---
 
-### 39. [HackerOne Employee Data Exposed in Massive Navia Breach](https://www.securityweek.com/hackerone-employee-data-exposed-in-massive-navia-breach/)
+### 40. [HackerOne Employee Data Exposed in Massive Navia Breach](https://www.securityweek.com/hackerone-employee-data-exposed-in-massive-navia-breach/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Mar 2026 07:57:00 +0000  
-
----
-
-### 40. [DoE Publishes 5-Year Energy Security Plan](https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/)
-
-**Source:** Security Week  
-**Published:** Tue, 24 Mar 2026 19:42:07 +0000  
 
 ---
 
@@ -436,7 +436,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 10 Mar 2026 22:23:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26114, CVE-2026-26113, CVE-2026-26118, CVE-2026-26116, CVE-2026-26144, CVE-2026-26128, CVE-2026-26106, CVE-2026-26109, CVE-2026-26115, CVE-2026-26110, CVE-2026-21262  
+**CVEs:** CVE-2026-26109, CVE-2026-26144, CVE-2026-26114, CVE-2026-26115, CVE-2026-26116, CVE-2026-26106, CVE-2026-26110, CVE-2026-26113, CVE-2026-26118, CVE-2026-21262, CVE-2026-26128  
 **Categories:** Vulnerability, APT  
 
 ---
