@@ -183,6 +183,79 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "UK sanctions Xinbi marketplace linked to Asian scam centers",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/",
+    "published": "Thu, 26 Mar 2026 11:42:43 -0400",
+    "summary": "The United Kingdom's Foreign, Commonwealth and Development Office (FCDO) has sanctioned Xinbi, a Chinese-language cryptocurrency-based online marketplace that sells stolen data and satellite internet equipment to scam networks in Southeast Asia. [...]",
+    "analysis": {
+      "issue": "The United Kingdom's Foreign, Commonwealth and Development Office (FCDO) has sanctioned Xinbi, a Chinese-language online marketplace that sells stolen data and satellite internet equipment to scam networks in Southeast Asia",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "TikTok for Business accounts targeted in new phishing campaign",
+    "link": "https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/",
+    "published": "Thu, 26 Mar 2026 10:09:17 -0400",
+    "summary": "Threat actors are targeting TikTok for Business accounts in a phishing campaign that prevents security bots from analyzing malicious pages. [...]",
+    "analysis": {
+      "issue": "Threat actors are targeting TikTok for Business accounts in a phishing campaign that prevents security bots from analyzing malicious pages",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "WhatsApp rolls out more AI features, iOS multi-account support",
+    "link": "https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/",
+    "published": "Thu, 26 Mar 2026 10:06:27 -0400",
+    "summary": "WhatsApp is rolling out multiple features designed to make the app easier to use, including AI-powered message replies and photo retouching, support for two accounts on iOS, and chat history transfer between iOS and Android devices. [...]",
+    "analysis": {
+      "issue": "WhatsApp is rolling out multiple features designed to make the app easier to use, including AI-powered message replies and photo retouching, support for two accounts on iOS, and chat history transfer between iOS and Android devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers",
+    "link": "https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/",
+    "published": "Thu, 26 Mar 2026 10:00:10 -0400",
+    "summary": "Multi-stage fraud attacks chain bots, proxies, and stolen credentials from signup to takeover. IPQS shows why correlating IP, device, identity, and behavior is critical to stop it. [...]",
+    "analysis": {
+      "issue": "Modern fraud attacks look like a relay race where different tools and actors handle each stage of the journey from signup to cash-out",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Coruna iOS exploit framework linked to Triangulation attacks",
     "link": "https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/",
     "published": "Thu, 26 Mar 2026 09:10:14 -0400",
@@ -194,8 +267,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2023-32434",
-        "CVE-2023-38606"
+        "CVE-2023-38606",
+        "CVE-2023-32434"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -294,81 +367,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New Torg Grabber infostealer malware targets 728 crypto wallets",
-    "link": "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/",
-    "published": "Wed, 25 Mar 2026 14:32:37 -0400",
-    "summary": "A new info-stealing malware called Torg Grabber is stealing sensitive data from 850 browser extensions, more than 700 of them for cryptocurrency wallets. [...]",
-    "analysis": {
-      "issue": "A new info-stealing malware called Torg Grabber is stealing sensitive data from 850 browser extensions, more than 700 of them for cryptocurrency wallets",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Citrix urges admins to patch NetScaler flaws as soon as possible",
-    "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/",
-    "published": "Wed, 25 Mar 2026 11:52:10 -0400",
-    "summary": "Citrix has patched two NetScaler ADC and NetScaler Gateway vulnerabilities, one of which is very similar to the CitrixBleed and CitrixBleed2 flaws exploited in zero-day attacks in recent years. [...]",
-    "analysis": {
-      "issue": "Citrix has patched two vulnerabilities affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions, one of which is very similar to the CitrixBleed and CitrixBleed2 flaws exploited in zero-day attacks in recent ",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-3055",
-        "CVE-2026-4368"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Paid AI Accounts Are Now a Hot Underground Commodity",
-    "link": "https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/",
-    "published": "Wed, 25 Mar 2026 10:02:12 -0400",
-    "summary": "AI accounts are becoming part of the cybercrime supply chain, sold like email accounts or VPS access. Flare Systems shows how underground markets bundle and resell premium AI access at scale. [...]",
-    "analysis": {
-      "issue": "AI tools have rapidly become part of everyday life, powering everything from content creation and software development to research and business workflows",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Kali Linux 2026.1 released with 8 new tools, new BackTrack mode",
-    "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/",
-    "published": "Wed, 25 Mar 2026 08:31:26 -0400",
-    "summary": "Kali Linux 2026.1, the first release of the year, is now available for download, featuring 8 new tools, a theme refresh, and a new BackTrack mode for Kali-Undercover. [...]",
-    "analysis": {
-      "issue": "1, the first release of the year, is now available for download, featuring 8 new tools, a theme refresh, and a new BackTrack mode for Kali-Undercover",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -438,14 +436,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24289",
-        "CVE-2026-21262",
-        "CVE-2026-25187",
         "CVE-2026-26113",
+        "CVE-2026-24294",
+        "CVE-2026-25187",
         "CVE-2026-24291",
+        "CVE-2026-24289",
         "CVE-2026-26127",
         "CVE-2026-26110",
-        "CVE-2026-24294"
+        "CVE-2026-21262"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -542,16 +540,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21525",
-        "CVE-2026-21513",
-        "CVE-2026-21523",
         "CVE-2026-21510",
+        "CVE-2026-21516",
+        "CVE-2026-21509",
+        "CVE-2026-21525",
+        "CVE-2026-21523",
         "CVE-2026-21519",
         "CVE-2026-21256",
-        "CVE-2026-21516",
         "CVE-2026-21514",
-        "CVE-2026-21509",
-        "CVE-2026-21533"
+        "CVE-2026-21533",
+        "CVE-2026-21513"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -578,6 +576,13 @@
         "DDoS"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Hightower Holding Data Breach Impacts 130,000",
+    "link": "https://www.securityweek.com/hightower-holding-data-breach-impacts-130000/",
+    "published": "Thu, 26 Mar 2026 14:07:07 +0000",
+    "summary": "<p>The holdings company says hackers stole names, Social Security numbers, and driver’s license numbers from its environment.</p>\n<p>The post <a href=\"https://www.securityweek.com/hightower-holding-data-breach-impacts-130000/\">Hightower Holding Data Breach Impacts 130,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -641,13 +646,6 @@
     "link": "https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/",
     "published": "Wed, 25 Mar 2026 13:29:17 +0000",
     "summary": "<p>Apple released security fixes for older devices as well, in iOS 18.7.7, iPadOS 18.7.7, macOS Sequoia 15.7.5, and macOS Sonoma 14.8.5.</p>\n<p>The post <a href=\"https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/\">iOS, macOS 26.4 Roll Out With Fresh Security Patches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "FCC Bans New Routers Made Outside the US Over National Security Risks",
-    "link": "https://www.securityweek.com/fcc-bans-new-foreign-made-consumer-routers-over-national-security-risks/",
-    "published": "Wed, 25 Mar 2026 12:43:35 +0000",
-    "summary": "<p>The ban aligns with a White House determination that all routers produced abroad are a threat to national security.</p>\n<p>The post <a href=\"https://www.securityweek.com/fcc-bans-new-foreign-made-consumer-routers-over-national-security-risks/\">FCC Bans New Routers Made Outside the US Over National Security Risks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -1184,8 +1182,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

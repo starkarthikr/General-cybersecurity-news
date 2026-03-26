@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-26 13:43:04 UTC
+**Last Updated:** 2026-03-26 17:35:43 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,17 +94,53 @@
 
 ---
 
-### 11. [Coruna iOS exploit framework linked to Triangulation attacks](https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/)
+### 11. [UK sanctions Xinbi marketplace linked to Asian scam centers](https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 26 Mar 2026 11:42:43 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [TikTok for Business accounts targeted in new phishing campaign](https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 26 Mar 2026 10:09:17 -0400  
+**Severity:** High  
+**Categories:** Malware, Phishing  
+
+---
+
+### 13. [WhatsApp rolls out more AI features, iOS multi-account support](https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 26 Mar 2026 10:06:27 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 14. [Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers](https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 26 Mar 2026 10:00:10 -0400  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 15. [Coruna iOS exploit framework linked to Triangulation attacks](https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Mar 2026 09:10:14 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2023-32434, CVE-2023-38606  
+**CVEs:** CVE-2023-38606, CVE-2023-32434  
 **Categories:** Vulnerability  
 
 ---
 
-### 12. [Russia arrests suspected owner of LeakBase cybercrime forum](https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/)
+### 16. [Russia arrests suspected owner of LeakBase cybercrime forum](https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Mar 2026 08:50:17 -0400  
@@ -113,7 +149,7 @@
 
 ---
 
-### 13. [Suspected RedLine infostealer malware admin extradited to US](https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/)
+### 17. [Suspected RedLine infostealer malware admin extradited to US](https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Mar 2026 07:51:59 -0400  
@@ -122,7 +158,7 @@
 
 ---
 
-### 14. [GitHub adds AI-powered bug detection to expand security coverage](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/)
+### 18. [GitHub adds AI-powered bug detection to expand security coverage](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Mar 2026 19:23:39 -0400  
@@ -131,7 +167,7 @@
 
 ---
 
-### 15. [PolyShell attacks target 56% of all vulnerable Magento stores](https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/)
+### 19. [PolyShell attacks target 56% of all vulnerable Magento stores](https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Mar 2026 17:40:21 -0400  
@@ -140,49 +176,12 @@
 
 ---
 
-### 16. [Bubble AI app builder abused to steal Microsoft account credentials](https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/)
+### 20. [Bubble AI app builder abused to steal Microsoft account credentials](https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 25 Mar 2026 15:48:36 -0400  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 17. [New Torg Grabber infostealer malware targets 728 crypto wallets](https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 25 Mar 2026 14:32:37 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 18. [Citrix urges admins to patch NetScaler flaws as soon as possible](https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 25 Mar 2026 11:52:10 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-3055, CVE-2026-4368  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Paid AI Accounts Are Now a Hot Underground Commodity](https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 25 Mar 2026 10:02:12 -0400  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 20. [Kali Linux 2026.1 released with 8 new tools, new BackTrack mode](https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 25 Mar 2026 08:31:26 -0400  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -218,7 +217,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24289, CVE-2026-21262, CVE-2026-25187, CVE-2026-26113, CVE-2026-24291, CVE-2026-26127, CVE-2026-26110, CVE-2026-24294  
+**CVEs:** CVE-2026-26113, CVE-2026-24294, CVE-2026-25187, CVE-2026-24291, CVE-2026-24289, CVE-2026-26127, CVE-2026-26110, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -264,7 +263,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21525, CVE-2026-21513, CVE-2026-21523, CVE-2026-21510, CVE-2026-21519, CVE-2026-21256, CVE-2026-21516, CVE-2026-21514, CVE-2026-21509, CVE-2026-21533  
+**CVEs:** CVE-2026-21510, CVE-2026-21516, CVE-2026-21509, CVE-2026-21525, CVE-2026-21523, CVE-2026-21519, CVE-2026-21256, CVE-2026-21514, CVE-2026-21533, CVE-2026-21513  
 **Categories:** Vulnerability  
 
 ---
@@ -278,73 +277,73 @@
 
 ---
 
-### 31. [BIND Updates Patch High-Severity Vulnerabilities](https://www.securityweek.com/bind-updates-patch-high-severity-vulnerabilities-2/)
+### 31. [Hightower Holding Data Breach Impacts 130,000](https://www.securityweek.com/hightower-holding-data-breach-impacts-130000/)
+
+**Source:** Security Week  
+**Published:** Thu, 26 Mar 2026 14:07:07 +0000  
+
+---
+
+### 32. [BIND Updates Patch High-Severity Vulnerabilities](https://www.securityweek.com/bind-updates-patch-high-severity-vulnerabilities-2/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Mar 2026 13:31:40 +0000  
 
 ---
 
-### 32. [Chinese Hackers Caught Deep Within Telecom Backbone Infrastructure](https://www.securityweek.com/chinese-hackers-caught-deep-within-telecom-backbone-infrastructure/)
+### 33. [Chinese Hackers Caught Deep Within Telecom Backbone Infrastructure](https://www.securityweek.com/chinese-hackers-caught-deep-within-telecom-backbone-infrastructure/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Mar 2026 13:00:00 +0000  
 
 ---
 
-### 33. [Cisco Patches Multiple Vulnerabilities in IOS Software](https://www.securityweek.com/cisco-patches-multiple-vulnerabilities-in-ios-software/)
+### 34. [Cisco Patches Multiple Vulnerabilities in IOS Software](https://www.securityweek.com/cisco-patches-multiple-vulnerabilities-in-ios-software/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Mar 2026 12:32:17 +0000  
 
 ---
 
-### 34. [Alleged RedLine Malware Administrator Extradited to US](https://www.securityweek.com/alleged-redline-malware-administrator-extradited-to-us/)
+### 35. [Alleged RedLine Malware Administrator Extradited to US](https://www.securityweek.com/alleged-redline-malware-administrator-extradited-to-us/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Mar 2026 10:06:56 +0000  
 
 ---
 
-### 35. [Dell and HP Roll Out Quantum-Resistant Device Security and AI-Era Cyber Resilience](https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/)
+### 36. [Dell and HP Roll Out Quantum-Resistant Device Security and AI-Era Cyber Resilience](https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Mar 2026 08:57:41 +0000  
 
 ---
 
-### 36. [Onit Security Raises $11 Million for Exposure Management Platform](https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/)
+### 37. [Onit Security Raises $11 Million for Exposure Management Platform](https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Mar 2026 15:58:16 +0000  
 
 ---
 
-### 37. [Russian Cybercriminal Gets 2-Year Prison Sentence in US](https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/)
+### 38. [Russian Cybercriminal Gets 2-Year Prison Sentence in US](https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Mar 2026 14:30:32 +0000  
 
 ---
 
-### 38. [AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link](https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/)
+### 39. [AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link](https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Mar 2026 14:15:00 +0000  
 
 ---
 
-### 39. [iOS, macOS 26.4 Roll Out With Fresh Security Patches](https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/)
+### 40. [iOS, macOS 26.4 Roll Out With Fresh Security Patches](https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/)
 
 **Source:** Security Week  
 **Published:** Wed, 25 Mar 2026 13:29:17 +0000  
-
----
-
-### 40. [FCC Bans New Routers Made Outside the US Over National Security Risks](https://www.securityweek.com/fcc-bans-new-foreign-made-consumer-routers-over-national-security-risks/)
-
-**Source:** Security Week  
-**Published:** Wed, 25 Mar 2026 12:43:35 +0000  
 
 ---
 
@@ -609,7 +608,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
