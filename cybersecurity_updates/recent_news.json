@@ -1,6 +1,61 @@
 [
   {
     "source": "The Hacker News",
+    "title": "AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion",
+    "link": "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html",
+    "published": "Fri, 27 Mar 2026 17:33:00 +0530",
+    "summary": "Threat actors are using adversary-in-the-middle (AitM) phishing pages to seize control of TikTok for Business accounts in a new campaign, according to a report from Push Security.\nBusiness accounts associated with social media platforms are a lucrative target, as they can be weaponized by bad actors for malvertising and distributing malware.\n\"TikTok has been historically abused to distribute",
+    "analysis": {
+      "issue": "AitM phishing hijacks TikTok Business accounts via Cloudflare Turnstile evasion as SVG malware linked to BianLian targets Venezuela",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "We Are At War",
+    "link": "https://thehackernews.com/2026/03/we-are-at-war.html",
+    "published": "Fri, 27 Mar 2026 16:30:00 +0530",
+    "summary": "Rising geopolitical tensions are reflected (or in some cases preceded) by cyber operations, while technology itself has become politicized. Let’s admit it: we are in the middle of it.&nbsp;\nIntroduction: One tech power to rule them all is a thing of the past&nbsp;\nThe relative safety, peace and prosperity that much of the world has enjoyed since 1945 was not accidental. It emerged from the ashes",
+    "analysis": {
+      "issue": "Rising geopolitical tensions are reflected by cyber operations, while tech itself has become politicized",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware",
+    "link": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
+    "published": "Fri, 27 Mar 2026 15:34:00 +0530",
+    "summary": "A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent attacks leveraging a custom Windows ransomware strain codenamed GenieLocker.\n\"Bearlyfy (also known as Labubu) operates as a dual-purpose group aimed at inflicting maximum damage upon Russian businesses;",
+    "analysis": {
+      "issue": "Bearlyfy launched 70+ attacks since 2025 using GenieLocker ransomware, targeting Russian firms, driving high ransom payments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
     "link": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
     "published": "Fri, 27 Mar 2026 13:37:00 +0530",
@@ -127,56 +182,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites",
-    "link": "https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html",
-    "published": "Thu, 26 Mar 2026 12:23:00 +0530",
-    "summary": "Cybersecurity researchers have discovered a new payment skimmer that uses WebRTC data channels as a means to receive payloads and exfiltrate data, effectively bypassing security controls.\n\"Instead of the usual HTTP requests or image beacons, this malware uses WebRTC data channels to load its payload and exfiltrate stolen payment data,\" Sansec said in a report published this week.\nThe attack,",
+    "source": "Bleeping Computer",
+    "title": "European Commission investigating breach after Amazon cloud hack",
+    "link": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-hack/",
+    "published": "Fri, 27 Mar 2026 08:22:19 -0400",
+    "summary": "The European Commission, the European Union's main executive body, is investigating a security breach after a threat actor gained access to its Amazon cloud infrastructure. [...]",
     "analysis": {
-      "issue": "WebRTC skimmer exploits PolyShell flaw since March 19, hitting 56",
+      "issue": "The European Commission, the European Union's main executive body, is investigating a security breach after a threat actor gained access to its Amazon cloud infrastructure",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Data Breach"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
-    "link": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html",
-    "published": "Wed, 25 Mar 2026 23:05:00 +0530",
-    "summary": "The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday.\nAccording to TASS and MVD Media, a news website linked to the Russian Interior Ministry, the suspect is a resident of the city of Taganrog. The suspect is said to have been detained for creating and managing a criminal site that allowed stolen",
+    "source": "Bleeping Computer",
+    "title": "Anti-piracy coalition takes down AnimePlay app with 5 million users",
+    "link": "https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/",
+    "published": "Fri, 27 Mar 2026 06:40:17 -0400",
+    "summary": "The Alliance for Creativity and Entertainment (ACE) announced the shutdown of AnimePlay, a major anime streaming platform with over 5 million users. [...]",
     "analysis": {
-      "issue": "Russian authorities arrested the alleged admin of LeakBase, a cybercrime forum operating since 2021 that enabled trading stolen data",
+      "issue": "The Alliance for Creativity and Entertainment (ACE) announced the shutdown of AnimePlay, a major anime streaming platform with over 5 million users",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data",
-    "link": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html",
-    "published": "Wed, 25 Mar 2026 19:56:00 +0530",
-    "summary": "Cybersecurity researchers have flagged a new evolution of the GlassWorm campaign that delivers a multi-stage framework capable of comprehensive data theft and installing a remote access trojan (RAT), which deploys an information-stealing Google Chrome extension masquerading as an offline version of Google Docs.\n\"It logs keystrokes, dumps cookies and session tokens, captures screenshots, and",
-    "analysis": {
-      "issue": "GlassWorm uses Solana and Google Calendar dead drops to deliver RAT stealing browser data and crypto wallets, impacting developers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -329,45 +366,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Coruna iOS exploit framework linked to Triangulation attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/",
-    "published": "Thu, 26 Mar 2026 09:10:14 -0400",
-    "summary": "The Coruna exploit kit is an evolution of the framework used in the Operation Triangulation espionage campaign, which in 2023 targeted iPhones via zero-click iMessage exploits. [...]",
-    "analysis": {
-      "issue": "The Coruna exploit kit is an evolution of the framework used in the Operation Triangulation espionage campaign, which in 2023 targeted iPhones via zero-click iMessage exploits",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2023-32434",
-        "CVE-2023-38606"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Russia arrests suspected owner of LeakBase cybercrime forum",
-    "link": "https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/",
-    "published": "Thu, 26 Mar 2026 08:50:17 -0400",
-    "summary": "Russian police arrested a Taganrog resident believed to be the owner of LeakBase, a major online forum used by cybercriminals to buy and sell stolen data and hacking tools. [...]",
-    "analysis": {
-      "issue": "Russian police in the Rostov region arrested a Taganrog resident believed to be the owner and administrator of LeakBase, a major online forum used by cybercriminals to buy and sell stolen data and hacking tools",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -438,13 +436,13 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-21262",
-        "CVE-2026-25187",
         "CVE-2026-26110",
-        "CVE-2026-24289",
+        "CVE-2026-24291",
+        "CVE-2026-25187",
         "CVE-2026-24294",
-        "CVE-2026-26113",
         "CVE-2026-26127",
-        "CVE-2026-24291"
+        "CVE-2026-26113",
+        "CVE-2026-24289"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -542,14 +540,14 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-21513",
-        "CVE-2026-21516",
+        "CVE-2026-21256",
         "CVE-2026-21510",
         "CVE-2026-21509",
         "CVE-2026-21523",
         "CVE-2026-21525",
-        "CVE-2026-21514",
-        "CVE-2026-21256",
         "CVE-2026-21533",
+        "CVE-2026-21516",
+        "CVE-2026-21514",
         "CVE-2026-21519"
       ],
       "threat_categories": [
@@ -577,6 +575,27 @@
         "DDoS"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "TP-Link Patches High-Severity Router Vulnerabilities",
+    "link": "https://www.securityweek.com/tp-link-patches-high-severity-router-vulnerabilities/",
+    "published": "Fri, 27 Mar 2026 11:42:30 +0000",
+    "summary": "<p>The security defects could be used to bypass authentication, execute arbitrary commands, and decrypt configuration files.</p>\n<p>The post <a href=\"https://www.securityweek.com/tp-link-patches-high-severity-router-vulnerabilities/\">TP-Link Patches High-Severity Router Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "RSAC 2026 Conference Announcements Summary (Days 3-4)",
+    "link": "https://www.securityweek.com/rsac-2026-conference-announcements-summary-days-3-4/",
+    "published": "Fri, 27 Mar 2026 10:48:53 +0000",
+    "summary": "<p>A summary of the announcements made by vendors on the third and fourth days of the RSAC 2026 Conference.</p>\n<p>The post <a href=\"https://www.securityweek.com/rsac-2026-conference-announcements-summary-days-3-4/\">RSAC 2026 Conference Announcements Summary (Days 3-4)</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Coruna iOS Exploit Kit Likely an Update to Operation Triangulation",
+    "link": "https://www.securityweek.com/coruna-ios-exploit-kit-likely-an-update-to-operation-triangulation/",
+    "published": "Fri, 27 Mar 2026 10:35:20 +0000",
+    "summary": "<p>Coruna contains the updated version of a kernel exploit used in Operation Triangulation three years ago.</p>\n<p>The post <a href=\"https://www.securityweek.com/coruna-ios-exploit-kit-likely-an-update-to-operation-triangulation/\">Coruna iOS Exploit Kit Likely an Update to Operation Triangulation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -626,27 +645,6 @@
     "link": "https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/",
     "published": "Thu, 26 Mar 2026 08:57:41 +0000",
     "summary": "<p>The computer giants have announced new security capabilities for PCs and printers.</p>\n<p>The post <a href=\"https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/\">Dell and HP Roll Out Quantum-Resistant Device Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Onit Security Raises $11 Million for Exposure Management Platform",
-    "link": "https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/",
-    "published": "Wed, 25 Mar 2026 15:58:16 +0000",
-    "summary": "<p>The startup will invest in product development and go-to-market efforts as it expands into new sectors.</p>\n<p>The post <a href=\"https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/\">Onit Security Raises $11 Million for Exposure Management Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Russian Cybercriminal Gets 2-Year Prison Sentence in US",
-    "link": "https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/",
-    "published": "Wed, 25 Mar 2026 14:30:32 +0000",
-    "summary": "<p>Ilya Angelov was a member of the cybercrime group tracked as TA-551, Shathak, Gold Cabin, Monster Libra, and ATK236.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/\">Russian Cybercriminal Gets 2-Year Prison Sentence in US </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link",
-    "link": "https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/",
-    "published": "Wed, 25 Mar 2026 14:15:00 +0000",
-    "summary": "<p>PwC finds AI is amplifying speed and scale of attacks, as identity theft evolves into a cybercriminal supply chain.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/\">AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -1217,6 +1215,25 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Bogus Avast website fakes virus scan, installs Venom Stealer instead",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/bogus-avast-website-fakes-virus-scan-installs-venom-stealer-instead",
+    "published": "Fri, 27 Mar 2026 10:49:31 GMT",
+    "summary": "A fake Avast scan tells you your PC is infected, then installs the malware that steals passwords, session data and crypto wallets.",
+    "analysis": {
+      "issue": "A fake website impersonating Avast antivirus is tricking people into infecting their own computers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Infiniti Stealer: a new macOS infostealer using ClickFix and Python/Nuitka",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/infiniti-stealer-a-new-macos-infostealer-using-clickfix-and-python-nuitka",
     "published": "Thu, 26 Mar 2026 17:39:01 GMT",
@@ -1380,24 +1397,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "The March Madness scam playbook",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/the-march-madness-scam-playbook",
-    "published": "Mon, 23 Mar 2026 15:19:40 GMT",
-    "summary": "Fans aren't the only ones who show up for March Madness. Here's how to spot all the different scams that turn up to major sporting events.",
-    "analysis": {
-      "issue": "March Madness is the annual men’s and women’s NCAA Division I basketball tournament, where 68 teams play in a single-elimination bracket for the US national championship",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },

@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-27 09:27:09 UTC
+**Last Updated:** 2026-03-27 13:20:03 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks](https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html)
+### 1. [AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion](https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 27 Mar 2026 17:33:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 2. [We Are At War](https://thehackernews.com/2026/03/we-are-at-war.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 27 Mar 2026 16:30:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware](https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 27 Mar 2026 15:34:00 +0530  
+**Severity:** High  
+**Categories:** Ransomware  
+
+---
+
+### 4. [LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks](https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 13:37:00 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks](https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html)
+### 5. [China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks](https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Mar 2026 23:10:00 +0530  
@@ -22,7 +49,7 @@
 
 ---
 
-### 3. [[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks](https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html)
+### 6. [[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks](https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Mar 2026 18:42:00 +0530  
@@ -31,7 +58,7 @@
 
 ---
 
-### 4. [Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website](https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html)
+### 7. [Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website](https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Mar 2026 18:41:00 +0530  
@@ -40,7 +67,7 @@
 
 ---
 
-### 5. [Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception](https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html)
+### 8. [Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception](https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Mar 2026 17:28:00 +0530  
@@ -49,7 +76,7 @@
 
 ---
 
-### 6. [ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories](https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html)
+### 9. [ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories](https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Mar 2026 17:15:00 +0530  
@@ -58,7 +85,7 @@
 
 ---
 
-### 7. [Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks](https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html)
+### 10. [Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks](https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Mar 2026 16:37:00 +0530  
@@ -67,34 +94,25 @@
 
 ---
 
-### 8. [WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites](https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html)
+### 11. [European Commission investigating breach after Amazon cloud hack](https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-hack/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 26 Mar 2026 12:23:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 27 Mar 2026 08:22:19 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** Data Breach  
 
 ---
 
-### 9. [LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace](https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html)
+### 12. [Anti-piracy coalition takes down AnimePlay app with 5 million users](https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 25 Mar 2026 23:05:00 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Fri, 27 Mar 2026 06:40:17 -0400  
+**Severity:** High  
 **Categories:** General Security  
 
 ---
 
-### 10. [GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data](https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 25 Mar 2026 19:56:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 11. [Windows 11 KB5079391 update rolls out Smart App Control improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/)
+### 13. [Windows 11 KB5079391 update rolls out Smart App Control improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Mar 2026 05:20:59 -0400  
@@ -103,7 +121,7 @@
 
 ---
 
-### 12. [Dutch Police discloses security breach after phishing attack](https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/)
+### 14. [Dutch Police discloses security breach after phishing attack](https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Mar 2026 04:20:11 -0400  
@@ -112,7 +130,7 @@
 
 ---
 
-### 13. [Ajax football club hack exposed fan data, enabled ticket hijack](https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/)
+### 15. [Ajax football club hack exposed fan data, enabled ticket hijack](https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Mar 2026 16:37:25 -0400  
@@ -121,7 +139,7 @@
 
 ---
 
-### 14. [CISA: New Langflow flaw actively exploited to hijack AI workflows](https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/)
+### 16. [CISA: New Langflow flaw actively exploited to hijack AI workflows](https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Mar 2026 15:17:43 -0400  
@@ -131,7 +149,7 @@
 
 ---
 
-### 15. [UK sanctions Xinbi marketplace linked to Asian scam centers](https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/)
+### 17. [UK sanctions Xinbi marketplace linked to Asian scam centers](https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Mar 2026 11:42:43 -0400  
@@ -140,7 +158,7 @@
 
 ---
 
-### 16. [TikTok for Business accounts targeted in new phishing campaign](https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/)
+### 18. [TikTok for Business accounts targeted in new phishing campaign](https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Mar 2026 10:09:17 -0400  
@@ -149,7 +167,7 @@
 
 ---
 
-### 17. [WhatsApp rolls out more AI features, iOS multi-account support](https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/)
+### 19. [WhatsApp rolls out more AI features, iOS multi-account support](https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Mar 2026 10:06:27 -0400  
@@ -158,31 +176,12 @@
 
 ---
 
-### 18. [Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers](https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/)
+### 20. [Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers](https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Mar 2026 10:00:10 -0400  
 **Severity:** Low  
 **Categories:** Data Breach  
-
----
-
-### 19. [Coruna iOS exploit framework linked to Triangulation attacks](https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 26 Mar 2026 09:10:14 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2023-32434, CVE-2023-38606  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Russia arrests suspected owner of LeakBase cybercrime forum](https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 26 Mar 2026 08:50:17 -0400  
-**Severity:** High  
-**Categories:** Vulnerability  
 
 ---
 
@@ -218,7 +217,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-25187, CVE-2026-26110, CVE-2026-24289, CVE-2026-24294, CVE-2026-26113, CVE-2026-26127, CVE-2026-24291  
+**CVEs:** CVE-2026-21262, CVE-2026-26110, CVE-2026-24291, CVE-2026-25187, CVE-2026-24294, CVE-2026-26127, CVE-2026-26113, CVE-2026-24289  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -264,7 +263,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21513, CVE-2026-21516, CVE-2026-21510, CVE-2026-21509, CVE-2026-21523, CVE-2026-21525, CVE-2026-21514, CVE-2026-21256, CVE-2026-21533, CVE-2026-21519  
+**CVEs:** CVE-2026-21513, CVE-2026-21256, CVE-2026-21510, CVE-2026-21509, CVE-2026-21523, CVE-2026-21525, CVE-2026-21533, CVE-2026-21516, CVE-2026-21514, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---
@@ -278,73 +277,73 @@
 
 ---
 
-### 31. [CISA Flags Critical PTC Vulnerability That Had German Police Mobilized](https://www.securityweek.com/cisa-flags-critical-ptc-vulnerability-that-had-german-police-mobilized/)
+### 31. [TP-Link Patches High-Severity Router Vulnerabilities](https://www.securityweek.com/tp-link-patches-high-severity-router-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Fri, 27 Mar 2026 11:42:30 +0000  
+
+---
+
+### 32. [RSAC 2026 Conference Announcements Summary (Days 3-4)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-days-3-4/)
+
+**Source:** Security Week  
+**Published:** Fri, 27 Mar 2026 10:48:53 +0000  
+
+---
+
+### 33. [Coruna iOS Exploit Kit Likely an Update to Operation Triangulation](https://www.securityweek.com/coruna-ios-exploit-kit-likely-an-update-to-operation-triangulation/)
+
+**Source:** Security Week  
+**Published:** Fri, 27 Mar 2026 10:35:20 +0000  
+
+---
+
+### 34. [CISA Flags Critical PTC Vulnerability That Had German Police Mobilized](https://www.securityweek.com/cisa-flags-critical-ptc-vulnerability-that-had-german-police-mobilized/)
 
 **Source:** Security Week  
 **Published:** Fri, 27 Mar 2026 09:21:14 +0000  
 
 ---
 
-### 32. [Hightower Holding Data Breach Impacts 130,000](https://www.securityweek.com/hightower-holding-data-breach-impacts-130000/)
+### 35. [Hightower Holding Data Breach Impacts 130,000](https://www.securityweek.com/hightower-holding-data-breach-impacts-130000/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Mar 2026 14:07:07 +0000  
 
 ---
 
-### 33. [BIND Updates Patch High-Severity Vulnerabilities](https://www.securityweek.com/bind-updates-patch-high-severity-vulnerabilities-2/)
+### 36. [BIND Updates Patch High-Severity Vulnerabilities](https://www.securityweek.com/bind-updates-patch-high-severity-vulnerabilities-2/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Mar 2026 13:31:40 +0000  
 
 ---
 
-### 34. [Chinese Hackers Caught Deep Within Telecom Backbone Infrastructure](https://www.securityweek.com/chinese-hackers-caught-deep-within-telecom-backbone-infrastructure/)
+### 37. [Chinese Hackers Caught Deep Within Telecom Backbone Infrastructure](https://www.securityweek.com/chinese-hackers-caught-deep-within-telecom-backbone-infrastructure/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Mar 2026 13:00:00 +0000  
 
 ---
 
-### 35. [Cisco Patches Multiple Vulnerabilities in IOS Software](https://www.securityweek.com/cisco-patches-multiple-vulnerabilities-in-ios-software/)
+### 38. [Cisco Patches Multiple Vulnerabilities in IOS Software](https://www.securityweek.com/cisco-patches-multiple-vulnerabilities-in-ios-software/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Mar 2026 12:32:17 +0000  
 
 ---
 
-### 36. [Alleged RedLine Malware Administrator Extradited to US](https://www.securityweek.com/alleged-redline-malware-administrator-extradited-to-us/)
+### 39. [Alleged RedLine Malware Administrator Extradited to US](https://www.securityweek.com/alleged-redline-malware-administrator-extradited-to-us/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Mar 2026 10:06:56 +0000  
 
 ---
 
-### 37. [Dell and HP Roll Out Quantum-Resistant Device Security](https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/)
+### 40. [Dell and HP Roll Out Quantum-Resistant Device Security](https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Mar 2026 08:57:41 +0000  
-
----
-
-### 38. [Onit Security Raises $11 Million for Exposure Management Platform](https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/)
-
-**Source:** Security Week  
-**Published:** Wed, 25 Mar 2026 15:58:16 +0000  
-
----
-
-### 39. [Russian Cybercriminal Gets 2-Year Prison Sentence in US](https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/)
-
-**Source:** Security Week  
-**Published:** Wed, 25 Mar 2026 14:30:32 +0000  
-
----
-
-### 40. [AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link](https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/)
-
-**Source:** Security Week  
-**Published:** Wed, 25 Mar 2026 14:15:00 +0000  
 
 ---
 
@@ -625,7 +624,16 @@
 
 ---
 
-### 71. [Infiniti Stealer: a new macOS infostealer using ClickFix and Python/Nuitka](https://www.malwarebytes.com/blog/threat-intel/2026/03/infiniti-stealer-a-new-macos-infostealer-using-clickfix-and-python-nuitka)
+### 71. [Bogus Avast website fakes virus scan, installs Venom Stealer instead](https://www.malwarebytes.com/blog/threat-intel/2026/03/bogus-avast-website-fakes-virus-scan-installs-venom-stealer-instead)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 27 Mar 2026 10:49:31 GMT  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 72. [Infiniti Stealer: a new macOS infostealer using ClickFix and Python/Nuitka](https://www.malwarebytes.com/blog/threat-intel/2026/03/infiniti-stealer-a-new-macos-infostealer-using-clickfix-and-python-nuitka)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 26 Mar 2026 17:39:01 GMT  
@@ -634,7 +642,7 @@
 
 ---
 
-### 72. [GlassWorm attack installs fake browser extension for surveillance](https://www.malwarebytes.com/blog/news/2026/03/glassworm-attack-installs-fake-browser-extension-for-surveillance)
+### 73. [GlassWorm attack installs fake browser extension for surveillance](https://www.malwarebytes.com/blog/news/2026/03/glassworm-attack-installs-fake-browser-extension-for-surveillance)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 26 Mar 2026 13:00:39 GMT  
@@ -643,7 +651,7 @@
 
 ---
 
-### 73. [Landmark verdicts put Meta’s “addiction machine” platforms on trial](https://www.malwarebytes.com/blog/news/2026/03/landmark-verdicts-put-metas-addiction-machine-platforms-on-trial)
+### 74. [Landmark verdicts put Meta’s “addiction machine” platforms on trial](https://www.malwarebytes.com/blog/news/2026/03/landmark-verdicts-put-metas-addiction-machine-platforms-on-trial)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 26 Mar 2026 10:43:01 GMT  
@@ -652,7 +660,7 @@
 
 ---
 
-### 74. [Hackers claim to have accessed data tied to millions of crime tipsters](https://www.malwarebytes.com/blog/news/2026/03/hackers-claim-to-have-accessed-data-tied-to-millions-of-crime-tipsters)
+### 75. [Hackers claim to have accessed data tied to millions of crime tipsters](https://www.malwarebytes.com/blog/news/2026/03/hackers-claim-to-have-accessed-data-tied-to-millions-of-crime-tipsters)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 25 Mar 2026 16:19:00 GMT  
@@ -661,7 +669,7 @@
 
 ---
 
-### 75. [New FCC router ban could leave home networks less secure](https://www.malwarebytes.com/blog/news/2026/03/new-fcc-router-ban-could-leave-home-networks-less-secure)
+### 76. [New FCC router ban could leave home networks less secure](https://www.malwarebytes.com/blog/news/2026/03/new-fcc-router-ban-could-leave-home-networks-less-secure)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 25 Mar 2026 14:40:03 GMT  
@@ -670,7 +678,7 @@
 
 ---
 
-### 76. [Meet Khaled Mohamed: the bug hunter who found a Microsoft flaw](https://www.malwarebytes.com/blog/bugs/2026/03/meet-khaled-mohamed-the-bug-hunter-who-found-a-microsoft-flaw)
+### 77. [Meet Khaled Mohamed: the bug hunter who found a Microsoft flaw](https://www.malwarebytes.com/blog/bugs/2026/03/meet-khaled-mohamed-the-bug-hunter-who-found-a-microsoft-flaw)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 25 Mar 2026 09:57:08 GMT  
@@ -680,7 +688,7 @@
 
 ---
 
-### 77. [FBI, CISA warn of Russian hackers hijacking Signal and WhatsApp accounts](https://www.malwarebytes.com/blog/news/2026/03/fbi-cisa-warn-of-russian-hackers-hijacking-signal-and-whatsapp-accounts)
+### 78. [FBI, CISA warn of Russian hackers hijacking Signal and WhatsApp accounts](https://www.malwarebytes.com/blog/news/2026/03/fbi-cisa-warn-of-russian-hackers-hijacking-signal-and-whatsapp-accounts)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 24 Mar 2026 13:39:36 GMT  
@@ -689,7 +697,7 @@
 
 ---
 
-### 78. [Scam compounds hiring &#8220;AI models&#8221; to seal the deal in deepfake video calls](https://www.malwarebytes.com/blog/news/2026/03/scam-compounds-hiring-ai-models-to-seal-deal-in-deepfake-video-calls)
+### 79. [Scam compounds hiring &#8220;AI models&#8221; to seal the deal in deepfake video calls](https://www.malwarebytes.com/blog/news/2026/03/scam-compounds-hiring-ai-models-to-seal-deal-in-deepfake-video-calls)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 24 Mar 2026 12:18:23 GMT  
@@ -698,21 +706,12 @@
 
 ---
 
-### 79. [FriendlyDealer mimics official app stores to push unvetted gambling apps](https://www.malwarebytes.com/blog/scams/2026/03/friendlydealer-mimics-official-app-stores-to-push-unvetted-gambling-apps)
+### 80. [FriendlyDealer mimics official app stores to push unvetted gambling apps](https://www.malwarebytes.com/blog/scams/2026/03/friendlydealer-mimics-official-app-stores-to-push-unvetted-gambling-apps)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 23 Mar 2026 15:41:26 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 80. [The March Madness scam playbook](https://www.malwarebytes.com/blog/news/2026/03/the-march-madness-scam-playbook)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 23 Mar 2026 15:19:40 GMT  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
