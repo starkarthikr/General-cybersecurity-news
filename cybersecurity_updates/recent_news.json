@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
+    "link": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
+    "published": "Fri, 27 Mar 2026 13:37:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed three security vulnerabilities impacting LangChain and LangGraph that, if successfully exploited, could expose filesystem data, environment secrets, and conversation history.\nBoth LangChain and LangGraph are open-source frameworks that are used to build applications powered by Large Language Models (LLMs). LangGraph is built on the foundations of",
+    "analysis": {
+      "issue": "Three LangChain flaws enable data theft across LLM apps, affecting millions of deployments, exposing secrets and files",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
     "link": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html",
     "published": "Thu, 26 Mar 2026 23:10:00 +0530",
@@ -163,20 +181,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "The Kill Chain Is Obsolete When Your AI Agent Is the Threat",
-    "link": "https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html",
-    "published": "Wed, 25 Mar 2026 17:28:00 +0530",
-    "summary": "In September 2025, Anthropic disclosed that a state-sponsored threat actor used an AI coding agent to execute an autonomous cyber espionage campaign against 30 global targets. The AI handled 80-90% of tactical operations on its own, performing reconnaissance, writing exploit code, and attempting lateral movement at machine speed.\nThis incident is worrying, but there's a scenario that should",
+    "source": "Bleeping Computer",
+    "title": "Windows 11 KB5079391 update rolls out Smart App Control improvements",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/",
+    "published": "Fri, 27 Mar 2026 05:20:59 -0400",
+    "summary": "​Microsoft has released the KB5079391 preview cumulative update for Windows 11 24H2 and 25H2, which includes 29 changes, such as Smart App Control and Display improvements. [...]",
     "analysis": {
-      "issue": "AI agents executed 80–90% of espionage tasks in 2025; compromised agents bypass kill chain, enabling stealth access and data exfiltration",
+      "issue": "​Microsoft has released the KB5079391 preview cumulative update for Windows 11 24H2 and 25H2, which includes 29 changes, such as Smart App Control and Display improvements",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Dutch Police discloses security breach after phishing attack",
+    "link": "https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/",
+    "published": "Fri, 27 Mar 2026 04:20:11 -0400",
+    "summary": "The Dutch National Police (Politie) says a security breach resulting from a successful phishing attack has had a limited impact and hasn't affected citizens' data. [...]",
+    "analysis": {
+      "issue": "The Dutch National Police (Politie) says a security breach resulting from a successful phishing attack has had a limited impact and hasn't affected citizens' data",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach",
+        "Phishing"
       ]
     }
   },
@@ -331,43 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Suspected RedLine infostealer malware admin extradited to US",
-    "link": "https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/",
-    "published": "Thu, 26 Mar 2026 07:51:59 -0400",
-    "summary": "An Armenian suspect was extradited to the United States to face criminal charges for allegedly helping manage RedLine, one of the most prolific infostealer malware operations in recent years. [...]",
-    "analysis": {
-      "issue": "An Armenian suspect was extradited to the United States to face criminal charges for allegedly helping manage RedLine, one of the most prolific infostealer malware operations in recent years",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "GitHub adds AI-powered bug detection to expand security coverage",
-    "link": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/",
-    "published": "Wed, 25 Mar 2026 19:23:39 -0400",
-    "summary": "GitHub is adopting AI-based scanning for its Code Security tool to expand vulnerability detections beyond the CodeQL static analysis and cover more languages and frameworks. [...]",
-    "analysis": {
-      "issue": "GitHub is adopting AI-based scanning for its Code Security tool to expand vulnerability detections beyond the CodeQL static analysis and cover more languages and frameworks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -437,14 +437,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26127",
-        "CVE-2026-25187",
-        "CVE-2026-24294",
         "CVE-2026-21262",
-        "CVE-2026-24291",
+        "CVE-2026-25187",
         "CVE-2026-26110",
         "CVE-2026-24289",
-        "CVE-2026-26113"
+        "CVE-2026-24294",
+        "CVE-2026-26113",
+        "CVE-2026-26127",
+        "CVE-2026-24291"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -541,16 +541,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21510",
+        "CVE-2026-21513",
         "CVE-2026-21516",
-        "CVE-2026-21523",
-        "CVE-2026-21256",
+        "CVE-2026-21510",
         "CVE-2026-21509",
-        "CVE-2026-21519",
+        "CVE-2026-21523",
         "CVE-2026-21525",
-        "CVE-2026-21533",
         "CVE-2026-21514",
-        "CVE-2026-21513"
+        "CVE-2026-21256",
+        "CVE-2026-21533",
+        "CVE-2026-21519"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -577,6 +577,13 @@
         "DDoS"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "CISA Flags Critical PTC Vulnerability That Had German Police Mobilized",
+    "link": "https://www.securityweek.com/cisa-flags-critical-ptc-vulnerability-that-had-german-police-mobilized/",
+    "published": "Fri, 27 Mar 2026 09:21:14 +0000",
+    "summary": "<p>Police in Germany physically warned organizations about the critical PTC Windchill vulnerability tracked as CVE-2026-4681.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-flags-critical-ptc-vulnerability-that-had-german-police-mobilized/\">CISA Flags Critical PTC Vulnerability That Had German Police Mobilized</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -640,13 +647,6 @@
     "link": "https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/",
     "published": "Wed, 25 Mar 2026 14:15:00 +0000",
     "summary": "<p>PwC finds AI is amplifying speed and scale of attacks, as identity theft evolves into a cybercriminal supply chain.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/\">AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "iOS, macOS 26.4 Roll Out With Fresh Security Patches",
-    "link": "https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/",
-    "published": "Wed, 25 Mar 2026 13:29:17 +0000",
-    "summary": "<p>Apple released security fixes for older devices as well, in iOS 18.7.7, iPadOS 18.7.7, macOS Sequoia 15.7.5, and macOS Sonoma 14.8.5.</p>\n<p>The post <a href=\"https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/\">iOS, macOS 26.4 Roll Out With Fresh Security Patches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -1186,8 +1186,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
