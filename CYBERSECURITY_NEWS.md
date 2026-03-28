@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-28 03:21:41 UTC
+**Last Updated:** 2026-03-28 09:04:49 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits](https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html)
+### 1. [TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign](https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 28 Mar 2026 12:37:00 +0530  
+**Severity:** Low  
+**Categories:** Data Breach, Vulnerability, Phishing  
+
+---
+
+### 2. [CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation](https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 28 Mar 2026 12:37:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2025-53521  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits](https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 22:52:00 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files](https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html)
+### 4. [TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files](https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 22:23:00 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks](https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html)
+### 5. [Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks](https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 19:27:00 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion](https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html)
+### 6. [AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion](https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 17:33:00 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [We Are At War](https://thehackernews.com/2026/03/we-are-at-war.html)
+### 7. [We Are At War](https://thehackernews.com/2026/03/we-are-at-war.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 16:30:00 +0530  
@@ -49,7 +68,7 @@
 
 ---
 
-### 6. [Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware](https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html)
+### 8. [Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware](https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 15:34:00 +0530  
@@ -58,7 +77,7 @@
 
 ---
 
-### 7. [LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks](https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html)
+### 9. [LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks](https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 13:37:00 +0530  
@@ -67,28 +86,10 @@
 
 ---
 
-### 8. [China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks](https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html)
+### 10. [China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks](https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 26 Mar 2026 23:10:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks](https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 26 Mar 2026 18:42:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website](https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 26 Mar 2026 18:41:00 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -217,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-21262, CVE-2026-26127, CVE-2026-24289, CVE-2026-26110, CVE-2026-24291, CVE-2026-24294, CVE-2026-25187  
+**CVEs:** CVE-2026-25187, CVE-2026-26110, CVE-2026-24294, CVE-2026-21262, CVE-2026-24291, CVE-2026-24289, CVE-2026-26113, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -263,7 +264,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21516, CVE-2026-21514, CVE-2026-21509, CVE-2026-21513, CVE-2026-21523, CVE-2026-21519, CVE-2026-21533, CVE-2026-21525, CVE-2026-21256  
+**CVEs:** CVE-2026-21509, CVE-2026-21525, CVE-2026-21514, CVE-2026-21513, CVE-2026-21519, CVE-2026-21256, CVE-2026-21516, CVE-2026-21533, CVE-2026-21523, CVE-2026-21510  
 **Categories:** Vulnerability  
 
 ---

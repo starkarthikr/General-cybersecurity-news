@@ -1,6 +1,46 @@
 [
   {
     "source": "The Hacker News",
+    "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
+    "link": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
+    "published": "Sat, 28 Mar 2026 12:37:00 +0530",
+    "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices.\nThe activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446, which is also tracked by the broader cybersecurity community under the monikers Callisto,",
+    "analysis": {
+      "issue": "TA446 used leaked DarkSword on March 26 to target iOS devices, prompting Apple alerts and widening mobile espionage risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
+    "link": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
+    "published": "Sat, 28 Mar 2026 12:37:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2025-53521 (CVSS v4 score: 9.3), which could allow a threat actor to achieve remote code execution.\n\"When a",
+    "analysis": {
+      "issue": "CISA adds actively exploited F5 BIG-IP APM CVE-2025-53521 (CVSS 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-53521"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
     "link": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
     "published": "Fri, 27 Mar 2026 22:52:00 +0530",
@@ -134,42 +174,6 @@
     "summary": "A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against government networks.\nThe strategic positioning activity, which involves implanting and maintaining stealthy access mechanisms within critical environments, has been attributed to Red Menshen, a threat cluster that's also tracked as Earth Bluecrow,",
     "analysis": {
       "issue": "China-linked Red Menshen embeds BPFDoor in telecom networks since 2021, enabling stealth espionage via kernel implants",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
-    "link": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html",
-    "published": "Thu, 26 Mar 2026 18:42:00 +0530",
-    "summary": "Most teams have security tools in place. Alerts are firing, dashboards look clean, threat intel is flowing in. On the surface, everything feels under control.\nBut one question usually stays unanswered: Would your defenses actually stop a real attack?\nThat’s where things get shaky. A control exists, so it’s assumed to work. A detection rule is active, so it’s expected to catch something. But very",
-    "analysis": {
-      "issue": "Validate your security posture with real attacker behavior using continuous, CTI-driven testing to uncover gaps and prove defenses work",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website",
-    "link": "https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html",
-    "published": "Thu, 26 Mar 2026 18:41:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed a vulnerability in Anthropic's Claude Google Chrome Extension that could have been exploited to trigger malicious prompts simply by visiting a web page.\nThe flaw \"allowed any website to silently inject prompts into that assistant as if the user wrote them,\" Koi Security researcher Oren Yomtov said in a report shared with The Hacker News. \"No clicks, no",
-    "analysis": {
-      "issue": "Claude extension flaw enabled silent prompt injection via XSS and weak allowlist, risking data theft and impersonation until Feb 19, 2026 fix",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -435,14 +439,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26113",
-        "CVE-2026-21262",
-        "CVE-2026-26127",
-        "CVE-2026-24289",
+        "CVE-2026-25187",
         "CVE-2026-26110",
-        "CVE-2026-24291",
         "CVE-2026-24294",
-        "CVE-2026-25187"
+        "CVE-2026-21262",
+        "CVE-2026-24291",
+        "CVE-2026-24289",
+        "CVE-2026-26113",
+        "CVE-2026-26127"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -539,16 +543,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21510",
-        "CVE-2026-21516",
-        "CVE-2026-21514",
         "CVE-2026-21509",
-        "CVE-2026-21513",
-        "CVE-2026-21523",
-        "CVE-2026-21519",
-        "CVE-2026-21533",
         "CVE-2026-21525",
-        "CVE-2026-21256"
+        "CVE-2026-21514",
+        "CVE-2026-21513",
+        "CVE-2026-21519",
+        "CVE-2026-21256",
+        "CVE-2026-21516",
+        "CVE-2026-21533",
+        "CVE-2026-21523",
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
