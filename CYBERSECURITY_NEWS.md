@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-28 13:07:37 UTC
+**Last Updated:** 2026-03-28 16:59:42 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
+### 1. [Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack](https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 28 Mar 2026 21:10:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 28 Mar 2026 14:41:00 +0530  
@@ -14,7 +23,7 @@
 
 ---
 
-### 2. [CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation](https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html)
+### 3. [CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation](https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 28 Mar 2026 12:37:00 +0530  
@@ -24,7 +33,7 @@
 
 ---
 
-### 3. [TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign](https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html)
+### 4. [TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign](https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 28 Mar 2026 12:37:00 +0530  
@@ -33,7 +42,7 @@
 
 ---
 
-### 4. [Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits](https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html)
+### 5. [Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits](https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 22:52:00 +0530  
@@ -42,7 +51,7 @@
 
 ---
 
-### 5. [TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files](https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html)
+### 6. [TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files](https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 22:23:00 +0530  
@@ -51,7 +60,7 @@
 
 ---
 
-### 6. [Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks](https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html)
+### 7. [Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks](https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 19:27:00 +0530  
@@ -60,7 +69,7 @@
 
 ---
 
-### 7. [AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion](https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html)
+### 8. [AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion](https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 17:33:00 +0530  
@@ -69,7 +78,7 @@
 
 ---
 
-### 8. [We Are At War](https://thehackernews.com/2026/03/we-are-at-war.html)
+### 9. [We Are At War](https://thehackernews.com/2026/03/we-are-at-war.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 16:30:00 +0530  
@@ -78,7 +87,7 @@
 
 ---
 
-### 9. [Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware](https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html)
+### 10. [Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware](https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 15:34:00 +0530  
@@ -87,16 +96,16 @@
 
 ---
 
-### 10. [LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks](https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html)
+### 11. [New Infinity Stealer malware grabs macOS data via ClickFix lures](https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 27 Mar 2026 13:37:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Sat, 28 Mar 2026 10:35:10 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Malware, APT  
 
 ---
 
-### 11. [Backdoored Telnyx PyPI package pushes malware hidden in WAV audio](https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/)
+### 12. [Backdoored Telnyx PyPI package pushes malware hidden in WAV audio](https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Mar 2026 17:13:26 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [Fake VS Code alerts on GitHub spread malware to developers](https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/)
+### 13. [Fake VS Code alerts on GitHub spread malware to developers](https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Mar 2026 12:51:52 -0400  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.](https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/)
+### 14. [Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.](https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Mar 2026 10:02:12 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [European Commission investigating breach after Amazon cloud account hack](https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/)
+### 15. [European Commission investigating breach after Amazon cloud account hack](https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Mar 2026 08:22:19 -0400  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Anti-piracy coalition takes down AnimePlay app with 5 million users](https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/)
+### 16. [Anti-piracy coalition takes down AnimePlay app with 5 million users](https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Mar 2026 06:40:17 -0400  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [Windows 11 KB5079391 update rolls out Smart App Control improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/)
+### 17. [Windows 11 KB5079391 update rolls out Smart App Control improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Mar 2026 05:20:59 -0400  
@@ -150,7 +159,7 @@
 
 ---
 
-### 17. [Dutch Police discloses security breach after phishing attack](https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/)
+### 18. [Dutch Police discloses security breach after phishing attack](https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Mar 2026 04:20:11 -0400  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [Ajax football club hack exposed fan data, enabled ticket hijack](https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/)
+### 19. [Ajax football club hack exposed fan data, enabled ticket hijack](https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Mar 2026 16:37:25 -0400  
@@ -168,22 +177,13 @@
 
 ---
 
-### 19. [CISA: New Langflow flaw actively exploited to hijack AI workflows](https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/)
+### 20. [CISA: New Langflow flaw actively exploited to hijack AI workflows](https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Mar 2026 15:17:43 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-33017  
 **Categories:** Vulnerability  
-
----
-
-### 20. [UK sanctions Xinbi marketplace linked to Asian scam centers](https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 26 Mar 2026 11:42:43 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24289, CVE-2026-24294, CVE-2026-24291, CVE-2026-26110, CVE-2026-25187, CVE-2026-21262, CVE-2026-26113, CVE-2026-26127  
+**CVEs:** CVE-2026-24291, CVE-2026-26113, CVE-2026-21262, CVE-2026-24294, CVE-2026-24289, CVE-2026-26127, CVE-2026-26110, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -265,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21516, CVE-2026-21510, CVE-2026-21514, CVE-2026-21533, CVE-2026-21525, CVE-2026-21256, CVE-2026-21513, CVE-2026-21509, CVE-2026-21519, CVE-2026-21523  
+**CVEs:** CVE-2026-21509, CVE-2026-21533, CVE-2026-21525, CVE-2026-21513, CVE-2026-21514, CVE-2026-21516, CVE-2026-21510, CVE-2026-21519, CVE-2026-21256, CVE-2026-21523  
 **Categories:** Vulnerability  
 
 ---
@@ -611,7 +611,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
