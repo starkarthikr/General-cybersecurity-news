@@ -1,15 +1,16 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-28 09:04:49 UTC
+**Last Updated:** 2026-03-28 13:07:37 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign](https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html)
+### 1. [Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
 
 **Source:** The Hacker News  
-**Published:** Sat, 28 Mar 2026 12:37:00 +0530  
+**Published:** Sat, 28 Mar 2026 14:41:00 +0530  
 **Severity:** Low  
-**Categories:** Data Breach, Vulnerability, Phishing  
+**CVEs:** CVE-2026-3055  
+**Categories:** Vulnerability  
 
 ---
 
@@ -23,7 +24,16 @@
 
 ---
 
-### 3. [Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits](https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html)
+### 3. [TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign](https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 28 Mar 2026 12:37:00 +0530  
+**Severity:** Low  
+**Categories:** Data Breach, Vulnerability, Phishing  
+
+---
+
+### 4. [Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits](https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 22:52:00 +0530  
@@ -32,7 +42,7 @@
 
 ---
 
-### 4. [TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files](https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html)
+### 5. [TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files](https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 22:23:00 +0530  
@@ -41,7 +51,7 @@
 
 ---
 
-### 5. [Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks](https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html)
+### 6. [Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks](https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 19:27:00 +0530  
@@ -50,7 +60,7 @@
 
 ---
 
-### 6. [AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion](https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html)
+### 7. [AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion](https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 17:33:00 +0530  
@@ -59,7 +69,7 @@
 
 ---
 
-### 7. [We Are At War](https://thehackernews.com/2026/03/we-are-at-war.html)
+### 8. [We Are At War](https://thehackernews.com/2026/03/we-are-at-war.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 16:30:00 +0530  
@@ -68,7 +78,7 @@
 
 ---
 
-### 8. [Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware](https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html)
+### 9. [Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware](https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 15:34:00 +0530  
@@ -77,19 +87,10 @@
 
 ---
 
-### 9. [LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks](https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html)
+### 10. [LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks](https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 13:37:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks](https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 26 Mar 2026 23:10:00 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -218,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-26110, CVE-2026-24294, CVE-2026-21262, CVE-2026-24291, CVE-2026-24289, CVE-2026-26113, CVE-2026-26127  
+**CVEs:** CVE-2026-24289, CVE-2026-24294, CVE-2026-24291, CVE-2026-26110, CVE-2026-25187, CVE-2026-21262, CVE-2026-26113, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -264,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21509, CVE-2026-21525, CVE-2026-21514, CVE-2026-21513, CVE-2026-21519, CVE-2026-21256, CVE-2026-21516, CVE-2026-21533, CVE-2026-21523, CVE-2026-21510  
+**CVEs:** CVE-2026-21516, CVE-2026-21510, CVE-2026-21514, CVE-2026-21533, CVE-2026-21525, CVE-2026-21256, CVE-2026-21513, CVE-2026-21509, CVE-2026-21519, CVE-2026-21523  
 **Categories:** Vulnerability  
 
 ---
@@ -278,73 +279,73 @@
 
 ---
 
-### 31. [Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account](https://www.securityweek.com/pro-iranian-hacking-group-claims-credit-for-hack-of-fbi-director-kash-patels-personal-account/)
+### 31. [Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs](https://www.securityweek.com/cloudflare-themed-clickfix-attack-drops-infiniti-stealer-on-macs/)
+
+**Source:** Security Week  
+**Published:** Sat, 28 Mar 2026 10:30:00 +0000  
+
+---
+
+### 32. [Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account](https://www.securityweek.com/pro-iranian-hacking-group-claims-credit-for-hack-of-fbi-director-kash-patels-personal-account/)
 
 **Source:** Security Week  
 **Published:** Fri, 27 Mar 2026 16:42:22 +0000  
 
 ---
 
-### 32. [In Other News: Palo Alto Recruiter Scam, Anti-Deepfake Chip, Google Sets 2029 Quantum Deadline](https://www.securityweek.com/in-other-news-palo-alto-recruiter-scam-anti-deepfake-chip-google-sets-2029-quantum-deadline/)
+### 33. [In Other News: Palo Alto Recruiter Scam, Anti-Deepfake Chip, Google Sets 2029 Quantum Deadline](https://www.securityweek.com/in-other-news-palo-alto-recruiter-scam-anti-deepfake-chip-google-sets-2029-quantum-deadline/)
 
 **Source:** Security Week  
 **Published:** Fri, 27 Mar 2026 14:25:52 +0000  
 
 ---
 
-### 33. [OpenAI Launches Bug Bounty Program for Abuse and Safety Risks](https://www.securityweek.com/openai-launches-bug-bounty-program-for-abuse-and-safety-risks/)
+### 34. [OpenAI Launches Bug Bounty Program for Abuse and Safety Risks](https://www.securityweek.com/openai-launches-bug-bounty-program-for-abuse-and-safety-risks/)
 
 **Source:** Security Week  
 **Published:** Fri, 27 Mar 2026 13:33:11 +0000  
 
 ---
 
-### 34. [TP-Link Patches High-Severity Router Vulnerabilities](https://www.securityweek.com/tp-link-patches-high-severity-router-vulnerabilities/)
+### 35. [TP-Link Patches High-Severity Router Vulnerabilities](https://www.securityweek.com/tp-link-patches-high-severity-router-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 27 Mar 2026 11:42:30 +0000  
 
 ---
 
-### 35. [RSAC 2026 Conference Announcements Summary (Days 3-4)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-days-3-4/)
+### 36. [RSAC 2026 Conference Announcements Summary (Days 3-4)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-days-3-4/)
 
 **Source:** Security Week  
 **Published:** Fri, 27 Mar 2026 10:48:53 +0000  
 
 ---
 
-### 36. [Coruna iOS Exploit Kit Likely an Update to Operation Triangulation](https://www.securityweek.com/coruna-ios-exploit-kit-likely-an-update-to-operation-triangulation/)
+### 37. [Coruna iOS Exploit Kit Likely an Update to Operation Triangulation](https://www.securityweek.com/coruna-ios-exploit-kit-likely-an-update-to-operation-triangulation/)
 
 **Source:** Security Week  
 **Published:** Fri, 27 Mar 2026 10:35:20 +0000  
 
 ---
 
-### 37. [CISA Flags Critical PTC Vulnerability That Had German Police Mobilized](https://www.securityweek.com/cisa-flags-critical-ptc-vulnerability-that-had-german-police-mobilized/)
+### 38. [CISA Flags Critical PTC Vulnerability That Had German Police Mobilized](https://www.securityweek.com/cisa-flags-critical-ptc-vulnerability-that-had-german-police-mobilized/)
 
 **Source:** Security Week  
 **Published:** Fri, 27 Mar 2026 09:21:14 +0000  
 
 ---
 
-### 38. [Hightower Holding Data Breach Impacts 130,000](https://www.securityweek.com/hightower-holding-data-breach-impacts-130000/)
+### 39. [Hightower Holding Data Breach Impacts 130,000](https://www.securityweek.com/hightower-holding-data-breach-impacts-130000/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Mar 2026 14:07:07 +0000  
 
 ---
 
-### 39. [BIND Updates Patch High-Severity Vulnerabilities](https://www.securityweek.com/bind-updates-patch-high-severity-vulnerabilities-2/)
+### 40. [BIND Updates Patch High-Severity Vulnerabilities](https://www.securityweek.com/bind-updates-patch-high-severity-vulnerabilities-2/)
 
 **Source:** Security Week  
 **Published:** Thu, 26 Mar 2026 13:31:40 +0000  
-
----
-
-### 40. [Chinese Hackers Caught Deep Within Telecom Backbone Infrastructure](https://www.securityweek.com/chinese-hackers-caught-deep-within-telecom-backbone-infrastructure/)
-
-**Source:** Security Week  
-**Published:** Thu, 26 Mar 2026 13:00:00 +0000  
 
 ---
 
@@ -610,7 +611,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
