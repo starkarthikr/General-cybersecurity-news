@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-29 13:09:22 UTC
+**Last Updated:** 2026-03-29 17:01:56 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,17 @@
 
 ---
 
-### 11. [New Infinity Stealer malware grabs macOS data via ClickFix lures](https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/)
+### 11. [File read flaw in Smart Slider plugin impacts 500K WordPress sites](https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 29 Mar 2026 10:38:25 -0400  
+**Severity:** Medium  
+**CVEs:** CVE-2026-3098  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [New Infinity Stealer malware grabs macOS data via ClickFix lures](https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 28 Mar 2026 10:35:10 -0400  
@@ -105,7 +115,7 @@
 
 ---
 
-### 12. [Backdoored Telnyx PyPI package pushes malware hidden in WAV audio](https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/)
+### 13. [Backdoored Telnyx PyPI package pushes malware hidden in WAV audio](https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Mar 2026 17:13:26 -0400  
@@ -114,7 +124,7 @@
 
 ---
 
-### 13. [Fake VS Code alerts on GitHub spread malware to developers](https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/)
+### 14. [Fake VS Code alerts on GitHub spread malware to developers](https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Mar 2026 12:51:52 -0400  
@@ -123,7 +133,7 @@
 
 ---
 
-### 14. [Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.](https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/)
+### 15. [Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.](https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Mar 2026 10:02:12 -0400  
@@ -132,7 +142,7 @@
 
 ---
 
-### 15. [European Commission investigating breach after Amazon cloud account hack](https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/)
+### 16. [European Commission investigating breach after Amazon cloud account hack](https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Mar 2026 08:22:19 -0400  
@@ -141,7 +151,7 @@
 
 ---
 
-### 16. [Anti-piracy coalition takes down AnimePlay app with 5 million users](https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/)
+### 17. [Anti-piracy coalition takes down AnimePlay app with 5 million users](https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Mar 2026 06:40:17 -0400  
@@ -150,7 +160,7 @@
 
 ---
 
-### 17. [Windows 11 KB5079391 update rolls out Smart App Control improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/)
+### 18. [Windows 11 KB5079391 update rolls out Smart App Control improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Mar 2026 05:20:59 -0400  
@@ -159,7 +169,7 @@
 
 ---
 
-### 18. [Dutch Police discloses security breach after phishing attack](https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/)
+### 19. [Dutch Police discloses security breach after phishing attack](https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Mar 2026 04:20:11 -0400  
@@ -168,21 +178,11 @@
 
 ---
 
-### 19. [Ajax football club hack exposed fan data, enabled ticket hijack](https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/)
+### 20. [Ajax football club hack exposed fan data, enabled ticket hijack](https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 26 Mar 2026 16:37:25 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 20. [CISA: New Langflow flaw actively exploited to hijack AI workflows](https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 26 Mar 2026 15:17:43 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-33017  
 **Categories:** Vulnerability  
 
 ---
@@ -219,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-24294, CVE-2026-24291, CVE-2026-21262, CVE-2026-24289, CVE-2026-26110, CVE-2026-26113, CVE-2026-26127  
+**CVEs:** CVE-2026-26113, CVE-2026-24294, CVE-2026-25187, CVE-2026-24289, CVE-2026-24291, CVE-2026-21262, CVE-2026-26110, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -265,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21523, CVE-2026-21509, CVE-2026-21516, CVE-2026-21533, CVE-2026-21519, CVE-2026-21514, CVE-2026-21256, CVE-2026-21513, CVE-2026-21510, CVE-2026-21525  
+**CVEs:** CVE-2026-21525, CVE-2026-21514, CVE-2026-21510, CVE-2026-21516, CVE-2026-21533, CVE-2026-21513, CVE-2026-21509, CVE-2026-21256, CVE-2026-21519, CVE-2026-21523  
 **Categories:** Vulnerability  
 
 ---
@@ -611,7 +611,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
