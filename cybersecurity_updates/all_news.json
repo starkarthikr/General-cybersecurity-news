@@ -188,6 +188,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "FBI confirms hack of Director Patel's personal email inbox",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
+    "published": "Sun, 29 Mar 2026 17:09:50 -0400",
+    "summary": "The Handala hackers associated with Iran have breached the personal email account of FBI Director Kash Patel and published photos and documents. [...]",
+    "analysis": {
+      "issue": "The Handala hackers associated with Iran have breached the personal email account of FBI Director Kash Patel and published photos and documents",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "File read flaw in Smart Slider plugin impacts 500K WordPress sites",
     "link": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
     "published": "Sun, 29 Mar 2026 10:38:25 -0400",
@@ -355,24 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Ajax football club hack exposed fan data, enabled ticket hijack",
-    "link": "https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/",
-    "published": "Thu, 26 Mar 2026 16:37:25 -0400",
-    "summary": "Dutch professional football club Ajax Amsterdam (AFC Ajax) disclosed that a hacker exploited vulnerabilities in its IT systems and accessed data belonging to a few hundred people. [...]",
-    "analysis": {
-      "issue": "Dutch professional football club Ajax Amsterdam (AFC Ajax) disclosed that a hacker exploited vulnerabilities in its IT systems and accessed data belonging to a few hundred people",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -442,14 +442,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26113",
-        "CVE-2026-24294",
-        "CVE-2026-25187",
-        "CVE-2026-24289",
         "CVE-2026-24291",
-        "CVE-2026-21262",
+        "CVE-2026-24294",
+        "CVE-2026-26113",
         "CVE-2026-26110",
-        "CVE-2026-26127"
+        "CVE-2026-21262",
+        "CVE-2026-24289",
+        "CVE-2026-26127",
+        "CVE-2026-25187"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -546,16 +546,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21525",
-        "CVE-2026-21514",
-        "CVE-2026-21510",
-        "CVE-2026-21516",
-        "CVE-2026-21533",
         "CVE-2026-21513",
-        "CVE-2026-21509",
+        "CVE-2026-21510",
+        "CVE-2026-21525",
+        "CVE-2026-21523",
         "CVE-2026-21256",
         "CVE-2026-21519",
-        "CVE-2026-21523"
+        "CVE-2026-21509",
+        "CVE-2026-21514",
+        "CVE-2026-21533",
+        "CVE-2026-21516"
       ],
       "threat_categories": [
         "Vulnerability"
