@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-30 09:56:03 UTC
+**Last Updated:** 2026-03-30 13:48:16 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign](https://thehackernews.com/2026/03/three-china-linked-clusters-target.html)
+### 1. [The State of Secrets Sprawl 2026: 9 Takeaways for CISOs](https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 30 Mar 2026 17:00:00 +0530  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 2. [Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels](https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 30 Mar 2026 15:28:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign](https://thehackernews.com/2026/03/three-china-linked-clusters-target.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 30 Mar 2026 12:30:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack](https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html)
+### 4. [Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack](https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 28 Mar 2026 21:10:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
+### 5. [Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 28 Mar 2026 14:41:00 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign](https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html)
+### 6. [TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign](https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 28 Mar 2026 12:37:00 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation](https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html)
+### 7. [CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation](https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 28 Mar 2026 12:37:00 +0530  
@@ -51,7 +69,7 @@
 
 ---
 
-### 6. [Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits](https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html)
+### 8. [Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits](https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 22:52:00 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files](https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html)
+### 9. [TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files](https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 22:23:00 +0530  
@@ -69,7 +87,7 @@
 
 ---
 
-### 8. [Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks](https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html)
+### 10. [Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks](https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 27 Mar 2026 19:27:00 +0530  
@@ -78,25 +96,17 @@
 
 ---
 
-### 9. [AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion](https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html)
+### 11. [Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 27 Mar 2026 17:33:00 +0530  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
-
----
-
-### 10. [We Are At War](https://thehackernews.com/2026/03/we-are-at-war.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 27 Mar 2026 16:30:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Mon, 30 Mar 2026 06:59:38 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2025-53521  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [Microsoft pulls KB5079391 Windows update over install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/)
+### 12. [Microsoft pulls KB5079391 Windows update over install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 30 Mar 2026 05:38:45 -0400  
@@ -105,7 +115,7 @@
 
 ---
 
-### 12. [Critical Fortinet Forticlient EMS flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/)
+### 13. [Critical Fortinet Forticlient EMS flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 30 Mar 2026 03:48:17 -0400  
@@ -115,7 +125,7 @@
 
 ---
 
-### 13. [European Commission confirms data breach after Europa.eu hack](https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/)
+### 14. [European Commission confirms data breach after Europa.eu hack](https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 30 Mar 2026 02:42:58 -0400  
@@ -124,7 +134,7 @@
 
 ---
 
-### 14. [FBI confirms hack of Director Patel's personal email inbox](https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/)
+### 15. [FBI confirms hack of Director Patel's personal email inbox](https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 29 Mar 2026 17:09:50 -0400  
@@ -133,7 +143,7 @@
 
 ---
 
-### 15. [File read flaw in Smart Slider plugin impacts 500K WordPress sites](https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/)
+### 16. [File read flaw in Smart Slider plugin impacts 500K WordPress sites](https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 29 Mar 2026 10:38:25 -0400  
@@ -143,7 +153,7 @@
 
 ---
 
-### 16. [New Infinity Stealer malware grabs macOS data via ClickFix lures](https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/)
+### 17. [New Infinity Stealer malware grabs macOS data via ClickFix lures](https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 28 Mar 2026 10:35:10 -0400  
@@ -152,7 +162,7 @@
 
 ---
 
-### 17. [Backdoored Telnyx PyPI package pushes malware hidden in WAV audio](https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/)
+### 18. [Backdoored Telnyx PyPI package pushes malware hidden in WAV audio](https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Mar 2026 17:13:26 -0400  
@@ -161,7 +171,7 @@
 
 ---
 
-### 18. [Fake VS Code alerts on GitHub spread malware to developers](https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/)
+### 19. [Fake VS Code alerts on GitHub spread malware to developers](https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Mar 2026 12:51:52 -0400  
@@ -170,19 +180,10 @@
 
 ---
 
-### 19. [Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.](https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/)
+### 20. [Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.](https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 27 Mar 2026 10:02:12 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [European Commission investigating breach after Amazon cloud account hack](https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 27 Mar 2026 08:22:19 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -220,7 +221,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24291, CVE-2026-26127, CVE-2026-26113, CVE-2026-26110, CVE-2026-25187, CVE-2026-24294, CVE-2026-21262, CVE-2026-24289  
+**CVEs:** CVE-2026-24294, CVE-2026-24291, CVE-2026-24289, CVE-2026-25187, CVE-2026-26110, CVE-2026-26113, CVE-2026-26127, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -266,7 +267,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21256, CVE-2026-21519, CVE-2026-21509, CVE-2026-21510, CVE-2026-21513, CVE-2026-21533, CVE-2026-21525, CVE-2026-21523, CVE-2026-21516, CVE-2026-21514  
+**CVEs:** CVE-2026-21525, CVE-2026-21513, CVE-2026-21523, CVE-2026-21516, CVE-2026-21256, CVE-2026-21533, CVE-2026-21514, CVE-2026-21519, CVE-2026-21510, CVE-2026-21509  
 **Categories:** Vulnerability  
 
 ---
@@ -280,73 +281,73 @@
 
 ---
 
-### 31. [Exploitation of Fresh Citrix NetScaler Vulnerability Begins](https://www.securityweek.com/exploitation-of-fresh-citrix-netscaler-vulnerability-begins/)
+### 31. [Huskeys Emerges From Stealth With $8 Million in Funding](https://www.securityweek.com/huskeys-emerges-from-stealth-with-8-million-in-funding/)
+
+**Source:** Security Week  
+**Published:** Mon, 30 Mar 2026 12:40:27 +0000  
+
+---
+
+### 32. [Russian APT Star Blizzard Adopts DarkSword iOS Exploit Kit](https://www.securityweek.com/russian-apt-star-blizzard-adopts-darksword-ios-exploit-kit/)
+
+**Source:** Security Week  
+**Published:** Mon, 30 Mar 2026 11:54:15 +0000  
+
+---
+
+### 33. [European Commission Reports Cyber Intrusion and Data Theft](https://www.securityweek.com/european-commission-reports-cyber-intrusion-and-data-theft/)
+
+**Source:** Security Week  
+**Published:** Mon, 30 Mar 2026 11:29:45 +0000  
+
+---
+
+### 34. [Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare](https://www.securityweek.com/hacked-hospitals-hidden-spyware-iran-conflict-shows-how-digital-fight-is-ingrained-in-warfare/)
+
+**Source:** Security Week  
+**Published:** Mon, 30 Mar 2026 11:09:49 +0000  
+
+---
+
+### 35. [Telnyx Targeted in Growing TeamPCP Supply Chain Attack](https://www.securityweek.com/telnyx-targeted-in-growing-teampcp-supply-chain-attack/)
+
+**Source:** Security Week  
+**Published:** Mon, 30 Mar 2026 10:53:46 +0000  
+
+---
+
+### 36. [Exploitation of Fresh Citrix NetScaler Vulnerability Begins](https://www.securityweek.com/exploitation-of-fresh-citrix-netscaler-vulnerability-begins/)
 
 **Source:** Security Week  
 **Published:** Mon, 30 Mar 2026 09:24:10 +0000  
 
 ---
 
-### 32. [FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers](https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/)
+### 37. [FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers](https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/)
 
 **Source:** Security Week  
 **Published:** Mon, 30 Mar 2026 08:01:43 +0000  
 
 ---
 
-### 33. [F5 BIG-IP DoS Flaw Upgraded to Critical RCE, Now Exploited in the Wild](https://www.securityweek.com/f5-big-ip-dos-flaw-upgraded-to-critical-rce-now-exploited-in-the-wild/)
+### 38. [F5 BIG-IP DoS Flaw Upgraded to Critical RCE, Now Exploited in the Wild](https://www.securityweek.com/f5-big-ip-dos-flaw-upgraded-to-critical-rce-now-exploited-in-the-wild/)
 
 **Source:** Security Week  
 **Published:** Mon, 30 Mar 2026 07:07:09 +0000  
 
 ---
 
-### 34. [Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs](https://www.securityweek.com/cloudflare-themed-clickfix-attack-drops-infiniti-stealer-on-macs/)
+### 39. [Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs](https://www.securityweek.com/cloudflare-themed-clickfix-attack-drops-infiniti-stealer-on-macs/)
 
 **Source:** Security Week  
 **Published:** Sat, 28 Mar 2026 10:30:00 +0000  
 
 ---
 
-### 35. [Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account](https://www.securityweek.com/pro-iranian-hacking-group-claims-credit-for-hack-of-fbi-director-kash-patels-personal-account/)
+### 40. [Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account](https://www.securityweek.com/pro-iranian-hacking-group-claims-credit-for-hack-of-fbi-director-kash-patels-personal-account/)
 
 **Source:** Security Week  
 **Published:** Fri, 27 Mar 2026 16:42:22 +0000  
-
----
-
-### 36. [In Other News: Palo Alto Recruiter Scam, Anti-Deepfake Chip, Google Sets 2029 Quantum Deadline](https://www.securityweek.com/in-other-news-palo-alto-recruiter-scam-anti-deepfake-chip-google-sets-2029-quantum-deadline/)
-
-**Source:** Security Week  
-**Published:** Fri, 27 Mar 2026 14:25:52 +0000  
-
----
-
-### 37. [OpenAI Launches Bug Bounty Program for Abuse and Safety Risks](https://www.securityweek.com/openai-launches-bug-bounty-program-for-abuse-and-safety-risks/)
-
-**Source:** Security Week  
-**Published:** Fri, 27 Mar 2026 13:33:11 +0000  
-
----
-
-### 38. [TP-Link Patches High-Severity Router Vulnerabilities](https://www.securityweek.com/tp-link-patches-high-severity-router-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Fri, 27 Mar 2026 11:42:30 +0000  
-
----
-
-### 39. [RSAC 2026 Conference Announcements Summary (Days 3-4)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-days-3-4/)
-
-**Source:** Security Week  
-**Published:** Fri, 27 Mar 2026 10:48:53 +0000  
-
----
-
-### 40. [Coruna iOS Exploit Kit Likely an Update to Operation Triangulation](https://www.securityweek.com/coruna-ios-exploit-kit-likely-an-update-to-operation-triangulation/)
-
-**Source:** Security Week  
-**Published:** Fri, 27 Mar 2026 10:35:20 +0000  
 
 ---
 
@@ -612,7 +613,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
