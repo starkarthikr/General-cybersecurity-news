@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-31 03:38:41 UTC
+**Last Updated:** 2026-03-31 09:40:23 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability](https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html)
+### 1. [Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account](https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 31 Mar 2026 11:38:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 2. [OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability](https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 30 Mar 2026 23:35:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials](https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html)
+### 3. [DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials](https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 30 Mar 2026 21:17:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More](https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html)
+### 4. [⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More](https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 30 Mar 2026 19:26:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [3 SOC Process Fixes That Unlock Tier 1 Productivity](https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html)
+### 5. [3 SOC Process Fixes That Unlock Tier 1 Productivity](https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 30 Mar 2026 18:30:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels](https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html)
+### 6. [Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels](https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 30 Mar 2026 17:48:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [The State of Secrets Sprawl 2026: 9 Takeaways for CISOs](https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html)
+### 7. [The State of Secrets Sprawl 2026: 9 Takeaways for CISOs](https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 30 Mar 2026 17:00:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign](https://thehackernews.com/2026/03/three-china-linked-clusters-target.html)
+### 8. [Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign](https://thehackernews.com/2026/03/three-china-linked-clusters-target.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 30 Mar 2026 12:30:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack](https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html)
+### 9. [Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack](https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 28 Mar 2026 21:10:00 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
+### 10. [Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 28 Mar 2026 14:41:00 +0530  
@@ -86,16 +95,35 @@
 
 ---
 
-### 10. [TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign](https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html)
+### 11. [Hacker charged with stealing $53 million from Uranium crypto exchange](https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 28 Mar 2026 12:37:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 31 Mar 2026 05:15:45 -0400  
 **Severity:** Low  
-**Categories:** Data Breach, Vulnerability, Phishing  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [Healthcare tech firm CareCloud says hackers stole patient data](https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/)
+### 12. [Dutch Finance Ministry takes treasury banking portal offline after breach](https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 31 Mar 2026 03:52:15 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 13. [CISA orders feds to patch actively exploited Citrix flaw by Thursday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 31 Mar 2026 03:05:25 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2026-3055  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [Healthcare tech firm CareCloud says hackers stole patient data](https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 30 Mar 2026 17:44:31 -0400  
@@ -104,7 +132,7 @@
 
 ---
 
-### 12. [New RoadK1ll WebSocket implant used to pivot on breached networks](https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/)
+### 15. [New RoadK1ll WebSocket implant used to pivot on breached networks](https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 30 Mar 2026 16:49:22 -0400  
@@ -113,17 +141,17 @@
 
 ---
 
-### 13. [Critical Citrix NetScaler memory flaw actively exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/)
+### 16. [Critical Citrix NetScaler memory flaw actively exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 30 Mar 2026 14:28:37 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-3055, CVE-2026-4368  
+**CVEs:** CVE-2026-4368, CVE-2026-3055  
 **Categories:** Vulnerability  
 
 ---
 
-### 14. [Apple adds macOS Terminal warning to block ClickFix attacks](https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/)
+### 17. [Apple adds macOS Terminal warning to block ClickFix attacks](https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 30 Mar 2026 10:32:34 -0400  
@@ -132,7 +160,7 @@
 
 ---
 
-### 15. [How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking](https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/)
+### 18. [How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking](https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 30 Mar 2026 10:01:11 -0400  
@@ -141,7 +169,7 @@
 
 ---
 
-### 16. [Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/)
+### 19. [Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 30 Mar 2026 06:59:38 -0400  
@@ -151,38 +179,10 @@
 
 ---
 
-### 17. [Microsoft pulls KB5079391 Windows update over install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/)
+### 20. [Microsoft pulls KB5079391 Windows update over install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 30 Mar 2026 05:38:45 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 18. [Critical Fortinet Forticlient EMS flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 30 Mar 2026 03:48:17 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-21643  
-**Categories:** Vulnerability  
-
----
-
-### 19. [European Commission confirms data breach after Europa.eu hack](https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 30 Mar 2026 02:42:58 -0400  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 20. [FBI confirms hack of Director Patel's personal email inbox](https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 29 Mar 2026 17:09:50 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -220,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26127, CVE-2026-25187, CVE-2026-24294, CVE-2026-26113, CVE-2026-21262, CVE-2026-26110, CVE-2026-24291, CVE-2026-24289  
+**CVEs:** CVE-2026-26127, CVE-2026-24289, CVE-2026-26113, CVE-2026-24294, CVE-2026-21262, CVE-2026-24291, CVE-2026-26110, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -256,6 +256,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Feb 2026 16:08:11 +0000  
+**Severity:** Low  
+**Categories:** Malware, DDoS  
 
 ---
 
@@ -264,7 +266,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21516, CVE-2026-21533, CVE-2026-21256, CVE-2026-21519, CVE-2026-21513, CVE-2026-21525, CVE-2026-21514, CVE-2026-21510, CVE-2026-21509, CVE-2026-21523  
+**CVEs:** CVE-2026-21509, CVE-2026-21516, CVE-2026-21256, CVE-2026-21510, CVE-2026-21514, CVE-2026-21519, CVE-2026-21513, CVE-2026-21533, CVE-2026-21523, CVE-2026-21525  
 **Categories:** Vulnerability  
 
 ---
@@ -278,73 +280,73 @@
 
 ---
 
-### 31. [Healthcare IT Platform CareCloud Probing Potential Data Breach](https://www.securityweek.com/healthcare-it-platform-carecloud-probing-potential-data-breach/)
+### 31. [Critical Vulnerability in OpenAI Codex Allowed GitHub Token Compromise](https://www.securityweek.com/critical-vulnerability-in-openai-codex-allowed-github-token-compromise/)
+
+**Source:** Security Week  
+**Published:** Tue, 31 Mar 2026 06:35:48 +0000  
+
+---
+
+### 32. [Healthcare IT Platform CareCloud Probing Potential Data Breach](https://www.securityweek.com/healthcare-it-platform-carecloud-probing-potential-data-breach/)
 
 **Source:** Security Week  
 **Published:** Mon, 30 Mar 2026 14:16:49 +0000  
 
 ---
 
-### 32. [Silent Drift: How LLMs Are Quietly Breaking Organizational Access Control](https://www.securityweek.com/silent-drift-how-llms-are-quietly-breaking-organizational-access-control/)
+### 33. [Silent Drift: How LLMs Are Quietly Breaking Organizational Access Control](https://www.securityweek.com/silent-drift-how-llms-are-quietly-breaking-organizational-access-control/)
 
 **Source:** Security Week  
 **Published:** Mon, 30 Mar 2026 14:15:00 +0000  
 
 ---
 
-### 33. [Huskeys Emerges From Stealth With $8 Million in Funding](https://www.securityweek.com/huskeys-emerges-from-stealth-with-8-million-in-funding/)
+### 34. [Huskeys Emerges From Stealth With $8 Million in Funding](https://www.securityweek.com/huskeys-emerges-from-stealth-with-8-million-in-funding/)
 
 **Source:** Security Week  
 **Published:** Mon, 30 Mar 2026 12:40:27 +0000  
 
 ---
 
-### 34. [Russian APT Star Blizzard Adopts DarkSword iOS Exploit Kit](https://www.securityweek.com/russian-apt-star-blizzard-adopts-darksword-ios-exploit-kit/)
+### 35. [Russian APT Star Blizzard Adopts DarkSword iOS Exploit Kit](https://www.securityweek.com/russian-apt-star-blizzard-adopts-darksword-ios-exploit-kit/)
 
 **Source:** Security Week  
 **Published:** Mon, 30 Mar 2026 11:54:15 +0000  
 
 ---
 
-### 35. [European Commission Reports Cyber Intrusion and Data Theft](https://www.securityweek.com/european-commission-reports-cyber-intrusion-and-data-theft/)
+### 36. [European Commission Reports Cyber Intrusion and Data Theft](https://www.securityweek.com/european-commission-reports-cyber-intrusion-and-data-theft/)
 
 **Source:** Security Week  
 **Published:** Mon, 30 Mar 2026 11:29:45 +0000  
 
 ---
 
-### 36. [Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare](https://www.securityweek.com/hacked-hospitals-hidden-spyware-iran-conflict-shows-how-digital-fight-is-ingrained-in-warfare/)
+### 37. [Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare](https://www.securityweek.com/hacked-hospitals-hidden-spyware-iran-conflict-shows-how-digital-fight-is-ingrained-in-warfare/)
 
 **Source:** Security Week  
 **Published:** Mon, 30 Mar 2026 11:09:49 +0000  
 
 ---
 
-### 37. [Telnyx Targeted in Growing TeamPCP Supply Chain Attack](https://www.securityweek.com/telnyx-targeted-in-growing-teampcp-supply-chain-attack/)
+### 38. [Telnyx Targeted in Growing TeamPCP Supply Chain Attack](https://www.securityweek.com/telnyx-targeted-in-growing-teampcp-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Mon, 30 Mar 2026 10:53:46 +0000  
 
 ---
 
-### 38. [Exploitation of Fresh Citrix NetScaler Vulnerability Begins](https://www.securityweek.com/exploitation-of-fresh-citrix-netscaler-vulnerability-begins/)
+### 39. [Exploitation of Fresh Citrix NetScaler Vulnerability Begins](https://www.securityweek.com/exploitation-of-fresh-citrix-netscaler-vulnerability-begins/)
 
 **Source:** Security Week  
 **Published:** Mon, 30 Mar 2026 09:24:10 +0000  
 
 ---
 
-### 39. [FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers](https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/)
+### 40. [FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers](https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/)
 
 **Source:** Security Week  
 **Published:** Mon, 30 Mar 2026 08:01:43 +0000  
-
----
-
-### 40. [F5 BIG-IP DoS Flaw Upgraded to Critical RCE, Now Exploited in the Wild](https://www.securityweek.com/f5-big-ip-dos-flaw-upgraded-to-critical-rce-now-exploited-in-the-wild/)
-
-**Source:** Security Week  
-**Published:** Mon, 30 Mar 2026 07:07:09 +0000  
 
 ---
 

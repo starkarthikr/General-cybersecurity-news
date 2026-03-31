@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
+    "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
+    "published": "Tue, 31 Mar 2026 11:38:00 +0530",
+    "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency.\nVersions 1.14.1 and 0.30.4 of Axios have been found to inject \"plain-crypto-js\" version 4.2.1 as a fake dependency.\nAccording to StepSecurity, the two versions were published using the compromised npm credentials of the primary Axios",
+    "analysis": {
+      "issue": "4 injected malicious plain-crypto-js@4",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
     "link": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
     "published": "Mon, 30 Mar 2026 23:35:00 +0530",
@@ -166,22 +185,58 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
-    "link": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
-    "published": "Sat, 28 Mar 2026 12:37:00 +0530",
-    "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices.\nThe activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446, which is also tracked by the broader cybersecurity community under the monikers Callisto,",
+    "source": "Bleeping Computer",
+    "title": "Hacker charged with stealing $53 million from Uranium crypto exchange",
+    "link": "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/",
+    "published": "Tue, 31 Mar 2026 05:15:45 -0400",
+    "summary": "U.S. prosecutors have charged a Maryland man with stealing more than $53 million after hacking the Uranium Finance crypto exchange twice and laundering the proceeds through a cryptocurrency mixer. [...]",
     "analysis": {
-      "issue": "TA446 used leaked DarkSword on March 26 to target iOS devices, prompting Apple alerts and widening mobile espionage risks",
+      "issue": "prosecutors have charged a Maryland man with stealing more than $53 million after hacking the Uranium Finance crypto exchange twice and laundering the proceeds through a cryptocurrency mixer",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Phishing"
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Dutch Finance Ministry takes treasury banking portal offline after breach",
+    "link": "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/",
+    "published": "Tue, 31 Mar 2026 03:52:15 -0400",
+    "summary": "The Dutch Ministry of Finance took some of its systems offline, including the digital portal for treasury banking, while investigating a cyberattack detected two weeks ago. [...]",
+    "analysis": {
+      "issue": "The Dutch Ministry of Finance took some of its systems offline, including the digital portal for treasury banking, while investigating a cyberattack detected two weeks ago",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA orders feds to patch actively exploited Citrix flaw by Thursday",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
+    "published": "Tue, 31 Mar 2026 03:05:25 -0400",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their Citrix NetScaler appliances against an actively exploited vulnerability by Thursday. [...]",
+    "analysis": {
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their Citrix NetScaler appliances against an actively exploited vulnerability by Thursday",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-3055"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -234,8 +289,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-3055",
-        "CVE-2026-4368"
+        "CVE-2026-4368",
+        "CVE-2026-3055"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -280,7 +335,7 @@
   },
   {
     "source": "Bleeping Computer",
-    "title": "Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now",
+    "title": "Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
     "published": "Mon, 30 Mar 2026 06:59:38 -0400",
     "summary": "F5 has reclassified a BIG-IP APM denial-of-service (DoS) vulnerability as a critical-severity remote code execution (RCE) flaw, warning that attackers are exploiting it to deploy webshells on unpatched devices. [...]",
@@ -306,62 +361,6 @@
     "summary": "Microsoft has pulled a buggy Windows 11 non-security preview update to investigate a known issue that triggers 0x80073712 errors during installation. [...]",
     "analysis": {
       "issue": "Microsoft has pulled a buggy Windows 11 non-security preview update to investigate a known issue that triggers 0x80073712 errors during installation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical Fortinet Forticlient EMS flaw now exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
-    "published": "Mon, 30 Mar 2026 03:48:17 -0400",
-    "summary": "Attackers are now actively exploiting a critical vulnerability in Fortinet's FortiClient EMS platform, according to threat intelligence company Defused. [...]",
-    "analysis": {
-      "issue": "Attackers are now actively exploiting a critical vulnerability in Fortinet's FortiClient EMS platform, according to threat intelligence company Defused",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-21643"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "European Commission confirms data breach after Europa.eu hack",
-    "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/",
-    "published": "Mon, 30 Mar 2026 02:42:58 -0400",
-    "summary": "The European Commission has confirmed a data breach after its Europa.eu web platform was hacked in a cyberattack claimed by the ShinyHunters extortion gang. [...]",
-    "analysis": {
-      "issue": "The European Commission has confirmed a data breach after its Europa",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI confirms hack of Director Patel's personal email inbox",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
-    "published": "Sun, 29 Mar 2026 17:09:50 -0400",
-    "summary": "The Handala hackers associated with Iran have breached the personal email account of FBI Director Kash Patel and published photos and documents. [...]",
-    "analysis": {
-      "issue": "The Handala hackers associated with Iran have breached the personal email account of FBI Director Kash Patel and published photos and documents",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -443,13 +442,13 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-26127",
-        "CVE-2026-25187",
-        "CVE-2026-24294",
+        "CVE-2026-24289",
         "CVE-2026-26113",
+        "CVE-2026-24294",
         "CVE-2026-21262",
-        "CVE-2026-26110",
         "CVE-2026-24291",
-        "CVE-2026-24289"
+        "CVE-2026-26110",
+        "CVE-2026-25187"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -519,7 +518,19 @@
     "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
     "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
     "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-    "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers."
+    "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
+    "analysis": {
+      "issue": "For the past week, the massive “Internet of Things” (IoT) botnet known as Kimwolf has been disrupting The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -534,16 +545,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21509",
         "CVE-2026-21516",
-        "CVE-2026-21533",
         "CVE-2026-21256",
+        "CVE-2026-21510",
+        "CVE-2026-21514",
         "CVE-2026-21519",
         "CVE-2026-21513",
-        "CVE-2026-21525",
-        "CVE-2026-21514",
-        "CVE-2026-21510",
-        "CVE-2026-21509",
-        "CVE-2026-21523"
+        "CVE-2026-21533",
+        "CVE-2026-21523",
+        "CVE-2026-21525"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -570,6 +581,13 @@
         "DDoS"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical Vulnerability in OpenAI Codex Allowed GitHub Token Compromise",
+    "link": "https://www.securityweek.com/critical-vulnerability-in-openai-codex-allowed-github-token-compromise/",
+    "published": "Tue, 31 Mar 2026 06:35:48 +0000",
+    "summary": "<p>Researchers found an OpenAI Codex vulnerability that could have been exploited to compromise GitHub tokens.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerability-in-openai-codex-allowed-github-token-compromise/\">Critical Vulnerability in OpenAI Codex Allowed GitHub Token Compromise </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -633,13 +651,6 @@
     "link": "https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/",
     "published": "Mon, 30 Mar 2026 08:01:43 +0000",
     "summary": "<p>The agency said Iranian hackers targeted the director’s personal email account and noted that the compromised information is old.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/\">FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "F5 BIG-IP DoS Flaw Upgraded to Critical RCE, Now Exploited in the Wild",
-    "link": "https://www.securityweek.com/f5-big-ip-dos-flaw-upgraded-to-critical-rce-now-exploited-in-the-wild/",
-    "published": "Mon, 30 Mar 2026 07:07:09 +0000",
-    "summary": "<p>Initially disclosed as a high-severity denial-of-service (DoS), the bug was reclassified as a critical RCE issue.</p>\n<p>The post <a href=\"https://www.securityweek.com/f5-big-ip-dos-flaw-upgraded-to-critical-rce-now-exploited-in-the-wild/\">F5 BIG-IP DoS Flaw Upgraded to Critical RCE, Now Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
