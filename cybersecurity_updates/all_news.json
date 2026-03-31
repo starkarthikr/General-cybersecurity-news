@@ -1,10 +1,65 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
+    "link": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
+    "published": "Tue, 31 Mar 2026 18:39:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a security \"blind spot\" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and compromise an organization's cloud environment.\nAccording to Palo Alto Networks Unit 42, the issue relates to how the Vertex AI permission model can be misused",
+    "analysis": {
+      "issue": "Unit 42 found excessive P4SA permissions in Vertex AI, enabling credential theft and cloud data exposure, increasing breach risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority",
+    "link": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
+    "published": "Tue, 31 Mar 2026 17:20:00 +0530",
+    "summary": "The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack, speed of exploitation, and speed of change across modern environments.\nThis is the defining challenge of the new era of digital warfare: the weaponization of Artificial Intelligence. Threat actors",
+    "analysis": {
+      "issue": "AI weaponizes the kill chain across hours or days, forcing continuous exposure and agentic defense to reduce exploitation risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
+    "link": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
+    "published": "Tue, 31 Mar 2026 17:16:00 +0530",
+    "summary": "Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCross RAT.\n\"The operation covers VPN clients, encrypted messengers, video conferencing tools, cryptocurrency trackers, and e-commerce applications, with eleven confirmed delivery domains impersonating",
+    "analysis": {
+      "issue": "AtlasCross RAT spreads via 11 fake domains registered October 27, 2025, enabling encrypted C2 control and persistence",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
     "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
     "published": "Tue, 31 Mar 2026 11:38:00 +0530",
-    "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency.\nVersions 1.14.1 and 0.30.4 of Axios have been found to inject \"plain-crypto-js\" version 4.2.1 as a fake dependency.\nAccording to StepSecurity, the two versions were published using the compromised npm credentials of the primary Axios",
+    "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency that delivers a trojan capable of targeting Windows, macOS, and Linux systems.\nVersions 1.14.1 and 0.30.4 of Axios have been found to inject \"plain-crypto-js\" version 4.2.1 as a fake dependency.\nAccording to StepSecurity, the two",
     "analysis": {
       "issue": "4 injected malicious plain-crypto-js@4",
       "solution": null,
@@ -129,31 +184,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
-    "link": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html",
-    "published": "Mon, 30 Mar 2026 12:30:00 +0530",
-    "summary": "Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a \"complex and well-resourced operation.\"\nThe campaigns have led to the deployment of various malware families, including HIUPAN (aka USBFect, MISTCLOAK, or U2DiskWatch), PUBLOAD, EggStremeFuel (aka RawCookie), EggStremeLoader (aka Gorem RAT), MASOL",
+    "source": "Bleeping Computer",
+    "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
+    "published": "Tue, 31 Mar 2026 08:04:15 -0400",
+    "summary": "​Microsoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in. [...]",
     "analysis": {
-      "issue": "Three China-linked clusters targeted a Southeast Asian government in 2025, deploying multiple malware families to secure persistent access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack",
-    "link": "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html",
-    "published": "Sat, 28 Mar 2026 21:10:00 +0530",
-    "summary": "Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos and other documents to the internet.\nHandala Hack Team, which carried out the breach, said on its website that Patel \"will now find his name among the list of successfully hacked victims.\" In a statement",
-    "analysis": {
-      "issue": "Iran-linked Handala Hack breached FBI Director’s email amid MOIS domain seizures, escalating destructive cyber ops",
+      "issue": "​Microsoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -161,26 +198,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
-    "link": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
-    "published": "Sat, 28 Mar 2026 14:41:00 +0530",
-    "summary": "A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr.\nThe vulnerability, CVE-2026-3055 (CVSS score: 9.3), refers to a case of insufficient input validation leading to memory overread, which an attacker could exploit to leak potentially sensitive information.\nPer",
-    "analysis": {
-      "issue": "CVE-2026-3055 targets Citrix NetScaler with active reconnaissance, risking data leaks on SAML IDP setups",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-3055"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -354,24 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft pulls KB5079391 Windows update over install issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/",
-    "published": "Mon, 30 Mar 2026 05:38:45 -0400",
-    "summary": "Microsoft has pulled a buggy Windows 11 non-security preview update to investigate a known issue that triggers 0x80073712 errors during installation. [...]",
-    "analysis": {
-      "issue": "Microsoft has pulled a buggy Windows 11 non-security preview update to investigate a known issue that triggers 0x80073712 errors during installation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -441,14 +440,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26127",
-        "CVE-2026-24289",
-        "CVE-2026-26113",
-        "CVE-2026-24294",
+        "CVE-2026-25187",
         "CVE-2026-21262",
-        "CVE-2026-24291",
+        "CVE-2026-24294",
         "CVE-2026-26110",
-        "CVE-2026-25187"
+        "CVE-2026-24289",
+        "CVE-2026-26127",
+        "CVE-2026-26113",
+        "CVE-2026-24291"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -545,16 +544,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21509",
-        "CVE-2026-21516",
-        "CVE-2026-21256",
-        "CVE-2026-21510",
-        "CVE-2026-21514",
-        "CVE-2026-21519",
+        "CVE-2026-21525",
         "CVE-2026-21513",
-        "CVE-2026-21533",
+        "CVE-2026-21509",
         "CVE-2026-21523",
-        "CVE-2026-21525"
+        "CVE-2026-21510",
+        "CVE-2026-21533",
+        "CVE-2026-21519",
+        "CVE-2026-21514",
+        "CVE-2026-21516",
+        "CVE-2026-21256"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -581,6 +580,41 @@
         "DDoS"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "CrewAI Vulnerabilities Expose Devices to Hacking",
+    "link": "https://www.securityweek.com/crewai-vulnerabilities-expose-devices-to-hacking/",
+    "published": "Tue, 31 Mar 2026 13:37:30 +0000",
+    "summary": "<p>Attackers can exploit the bugs through prompt injection, chaining them together to escape the sandbox and execute arbitrary code.</p>\n<p>The post <a href=\"https://www.securityweek.com/crewai-vulnerabilities-expose-devices-to-hacking/\">CrewAI Vulnerabilities Expose Devices to Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption",
+    "link": "https://www.securityweek.com/google-slashes-quantum-resource-requirements-for-breaking-cryptocurrency-encryption/",
+    "published": "Tue, 31 Mar 2026 11:51:43 +0000",
+    "summary": "<p>Google researchers have shown that breaking the encryption of Bitcoin and Ethereum requires 20x fewer qubits. </p>\n<p>The post <a href=\"https://www.securityweek.com/google-slashes-quantum-resource-requirements-for-breaking-cryptocurrency-encryption/\">Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Exploitation of Critical Fortinet FortiClient EMS Flaw Begins",
+    "link": "https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/",
+    "published": "Tue, 31 Mar 2026 11:39:45 +0000",
+    "summary": "<p>The SQL injection vulnerability allows unauthenticated attackers to execute arbitrary code remotely, via crafted HTTP requests.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/\">Exploitation of Critical Fortinet FortiClient EMS Flaw Begins</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs",
+    "link": "https://www.securityweek.com/strongswan-flaw-allows-unauthenticated-attackers-to-crash-vpns/",
+    "published": "Tue, 31 Mar 2026 10:21:05 +0000",
+    "summary": "<p>Remotely exploitable, the integer underflow vulnerability impacts StrongSwan releases spanning 15 years.</p>\n<p>The post <a href=\"https://www.securityweek.com/strongswan-flaw-allows-unauthenticated-attackers-to-crash-vpns/\">StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Lloyds Data Security Incident Impacts 450,000 Individuals",
+    "link": "https://www.securityweek.com/lloyds-data-security-incident-impacts-450000-individuals/",
+    "published": "Tue, 31 Mar 2026 10:07:40 +0000",
+    "summary": "<p>A faulty software update led to the exposure of mobile banking users’ transactions to other users of the application.</p>\n<p>The post <a href=\"https://www.securityweek.com/lloyds-data-security-incident-impacts-450000-individuals/\">Lloyds Data Security Incident Impacts 450,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -618,39 +652,23 @@
     "summary": "<p>The state-sponsored group’s campaign has targeted government, higher education, financial, and legal entities, as well as think tanks.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-apt-star-blizzard-adopts-darksword-ios-exploit-kit/\">Russian APT Star Blizzard Adopts DarkSword iOS Exploit Kit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "European Commission Reports Cyber Intrusion and Data Theft",
-    "link": "https://www.securityweek.com/european-commission-reports-cyber-intrusion-and-data-theft/",
-    "published": "Mon, 30 Mar 2026 11:29:45 +0000",
-    "summary": "<p>The ShinyHunters hacker group claimed to have stolen over 350GB of information from European Commission cloud systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/european-commission-reports-cyber-intrusion-and-data-theft/\">European Commission Reports Cyber Intrusion and Data Theft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare",
-    "link": "https://www.securityweek.com/hacked-hospitals-hidden-spyware-iran-conflict-shows-how-digital-fight-is-ingrained-in-warfare/",
-    "published": "Mon, 30 Mar 2026 11:09:49 +0000",
-    "summary": "<p>Iran-linked hacking groups are turning to high-volume, low-impact cyberattacks, and AI is providing a boost.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacked-hospitals-hidden-spyware-iran-conflict-shows-how-digital-fight-is-ingrained-in-warfare/\">Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Telnyx Targeted in Growing TeamPCP Supply Chain Attack",
-    "link": "https://www.securityweek.com/telnyx-targeted-in-growing-teampcp-supply-chain-attack/",
-    "published": "Mon, 30 Mar 2026 10:53:46 +0000",
-    "summary": "<p>Two malicious versions of the popular SDK were uploaded to the PyPI registry, targeting Windows, macOS, and Linux.</p>\n<p>The post <a href=\"https://www.securityweek.com/telnyx-targeted-in-growing-teampcp-supply-chain-attack/\">Telnyx Targeted in Growing TeamPCP Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Exploitation of Fresh Citrix NetScaler Vulnerability Begins",
-    "link": "https://www.securityweek.com/exploitation-of-fresh-citrix-netscaler-vulnerability-begins/",
-    "published": "Mon, 30 Mar 2026 09:24:10 +0000",
-    "summary": "<p>The critical-severity flaw leaks application memory and can be exploited to obtain authenticated administrative session IDs.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-of-fresh-citrix-netscaler-vulnerability-begins/\">Exploitation of Fresh Citrix NetScaler Vulnerability Begins</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers",
-    "link": "https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/",
-    "published": "Mon, 30 Mar 2026 08:01:43 +0000",
-    "summary": "<p>The agency said Iranian hackers targeted the director’s personal email account and noted that the compromised information is old.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/\">FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "Ransomware in 2025: Blending in is the strategy",
+    "link": "https://blog.talosintelligence.com/ransomware-in-2025-blending-in-is-the-strategy/",
+    "published": "Tue, 31 Mar 2026 10:00:02 GMT",
+    "summary": "A summary of the top ransomware trends from the Talos 2025 Year in Review, with a focus on identity, attacker tactics, and practical defenses.",
+    "analysis": {
+      "issue": "Ransomware attacks aren’t smash-and-grab anymore",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Phishing"
+      ]
+    }
   },
   {
     "source": "Talos Blog",
@@ -817,27 +835,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "DirectX, OpenFOAM, Libbiosig vulnerabilities",
-    "link": "https://blog.talosintelligence.com/directx-openfoam-libbiosig-vulnerabilities/",
-    "published": "Wed, 11 Mar 2026 20:26:57 GMT",
-    "summary": "<p>Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed vulnerabilities in the BioSig Project Libbiosig library and OpenCFD OpenFOAM, as well as an unpatched vulnerability in Microsoft DirectX.</p><p>The vulnerabilities mentioned in this blog post have been patched by their respective vendors, all in adherence to<a href=\"https://sec.cloudapps.cisco.com/security/center/resources/vendor_vulnerability_policy.html\"><u> Cisco&#x2019;s</u></a></p>",
-    "analysis": {
-      "issue": "Cisco Talos’ Vulnerability Discovery & Research team recently disclosed vulnerabilities in the BioSig Project Libbiosig library and OpenCFD OpenFOAM, as well as an unpatched vulnerability in Microsoft DirectX",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-68623"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
       ]
     }
   },
