@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-01 13:49:49 UTC
+**Last Updated:** 2026-04-01 17:29:17 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Block the Prompt, Not the Work: The End of "Doctor No"](https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html)
+### 1. [Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass](https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 01 Apr 2026 19:40:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Block the Prompt, Not the Work: The End of "Doctor No"](https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 01 Apr 2026 18:16:00 +0530  
@@ -13,21 +22,12 @@
 
 ---
 
-### 2. [Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures](https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html)
+### 3. [Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures](https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 01 Apr 2026 18:06:00 +0530  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 3. [Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass](https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 01 Apr 2026 17:19:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -96,7 +96,16 @@
 
 ---
 
-### 11. [FBI warns against using Chinese mobile apps due to privacy risks](https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/)
+### 11. [Routine Access Is Powering Modern Intrusions, a New Threat Report Finds](https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 01 Apr 2026 10:05:15 -0400  
+**Severity:** High  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [FBI warns against using Chinese mobile apps due to privacy risks](https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Apr 2026 07:39:10 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [Google fixes fourth Chrome zero-day exploited in attacks in 2026](https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/)
+### 13. [Google fixes fourth Chrome zero-day exploited in attacks in 2026](https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Apr 2026 06:25:36 -0400  
@@ -115,7 +124,7 @@
 
 ---
 
-### 13. [Google Drive ransomware detection now on by default for paying users](https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/)
+### 14. [Google Drive ransomware detection now on by default for paying users](https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Apr 2026 02:35:34 -0400  
@@ -124,7 +133,7 @@
 
 ---
 
-### 14. [New Windows 11 emergency update fixes preview update install issues](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/)
+### 15. [New Windows 11 emergency update fixes preview update install issues](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Apr 2026 01:33:43 -0400  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [Claude Code source code accidentally leaked in NPM package](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/)
+### 16. [Claude Code source code accidentally leaked in NPM package](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 31 Mar 2026 20:32:25 -0400  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Google now allows you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/)
+### 17. [Google now allows you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 31 Mar 2026 19:13:56 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [Proton launches new "Meet" privacy-focused conferencing platform](https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/)
+### 18. [Proton launches new "Meet" privacy-focused conferencing platform](https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 31 Mar 2026 18:42:07 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [GIGABYTE Control Center vulnerable to arbitrary file write flaw](https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/)
+### 19. [GIGABYTE Control Center vulnerable to arbitrary file write flaw](https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 31 Mar 2026 18:28:02 -0400  
@@ -170,21 +179,12 @@
 
 ---
 
-### 19. [Claude AI finds Vim, Emacs RCE bugs that trigger on file open](https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/)
+### 20. [Claude AI finds Vim, Emacs RCE bugs that trigger on file open](https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 31 Mar 2026 17:45:14 -0400  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 20. [Cisco source code stolen in Trivy-linked dev environment breach](https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 31 Mar 2026 13:53:04 -0400  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 
@@ -220,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-24294, CVE-2026-25187, CVE-2026-21262, CVE-2026-26127, CVE-2026-24291, CVE-2026-24289, CVE-2026-26110  
+**CVEs:** CVE-2026-26113, CVE-2026-24294, CVE-2026-26127, CVE-2026-26110, CVE-2026-24289, CVE-2026-24291, CVE-2026-25187, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -266,7 +266,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21513, CVE-2026-21533, CVE-2026-21256, CVE-2026-21514, CVE-2026-21523, CVE-2026-21519, CVE-2026-21525, CVE-2026-21509, CVE-2026-21516  
+**CVEs:** CVE-2026-21514, CVE-2026-21513, CVE-2026-21516, CVE-2026-21256, CVE-2026-21519, CVE-2026-21523, CVE-2026-21533, CVE-2026-21525, CVE-2026-21510, CVE-2026-21509  
 **Categories:** Vulnerability  
 
 ---
@@ -280,73 +280,73 @@
 
 ---
 
-### 31. [US Charges Uranium Crypto Exchange Hacker](https://www.securityweek.com/us-charges-uranium-crypto-exchange-hacker/)
+### 31. [Depthfirst Raises $80 Million in Series B Funding](https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/)
+
+**Source:** Security Week  
+**Published:** Wed, 01 Apr 2026 16:47:45 +0000  
+
+---
+
+### 32. [Toy Giant Hasbro Hit by Cyberattack](https://www.securityweek.com/toy-giant-hasbro-hit-by-cyberattack/)
+
+**Source:** Security Week  
+**Published:** Wed, 01 Apr 2026 15:35:47 +0000  
+
+---
+
+### 33. [New DeepLoad Malware Dropped in ClickFix Attacks](https://www.securityweek.com/new-deepload-malware-dropped-in-clickfix-attacks/)
+
+**Source:** Security Week  
+**Published:** Wed, 01 Apr 2026 15:04:43 +0000  
+
+---
+
+### 34. [Exploited Zero-Day Among 21 Vulnerabilities Patched in Chrome](https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/)
+
+**Source:** Security Week  
+**Published:** Wed, 01 Apr 2026 14:36:39 +0000  
+
+---
+
+### 35. [FBI Warns of Data Security Risks From China-Made Mobile Apps](https://www.securityweek.com/fbi-warns-of-data-security-risks-from-china-made-mobile-apps/)
+
+**Source:** Security Week  
+**Published:** Wed, 01 Apr 2026 13:54:24 +0000  
+
+---
+
+### 36. [US Charges Uranium Crypto Exchange Hacker](https://www.securityweek.com/us-charges-uranium-crypto-exchange-hacker/)
 
 **Source:** Security Week  
 **Published:** Wed, 01 Apr 2026 13:30:19 +0000  
 
 ---
 
-### 32. [Webinar Today: Agentic AI vs. Identity’s Last Mile Problem](https://www.securityweek.com/webinar-today-agentic-ai-vs-identitys-last-mile-problem/)
+### 37. [Webinar Today: Agentic AI vs. Identity’s Last Mile Problem](https://www.securityweek.com/webinar-today-agentic-ai-vs-identitys-last-mile-problem/)
 
 **Source:** Security Week  
 **Published:** Wed, 01 Apr 2026 13:14:47 +0000  
 
 ---
 
-### 33. [Axios NPM Package Breached in North Korean Supply Chain Attack](https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/)
+### 38. [Axios NPM Package Breached in North Korean Supply Chain Attack](https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Wed, 01 Apr 2026 08:45:47 +0000  
 
 ---
 
-### 34. [Google Addresses Vertex Security Issues After Researchers Weaponize AI Agents](https://www.securityweek.com/google-addresses-vertex-security-issues-after-researchers-weaponize-ai-agent/)
+### 39. [Google Addresses Vertex Security Issues After Researchers Weaponize AI Agents](https://www.securityweek.com/google-addresses-vertex-security-issues-after-researchers-weaponize-ai-agent/)
 
 **Source:** Security Week  
 **Published:** Wed, 01 Apr 2026 07:43:16 +0000  
 
 ---
 
-### 35. [Censys Raises $70 Million for Internet Intelligence Platform](https://www.securityweek.com/censys-raises-70-million-for-internet-intelligence-platform/)
+### 40. [Censys Raises $70 Million for Internet Intelligence Platform](https://www.securityweek.com/censys-raises-70-million-for-internet-intelligence-platform/)
 
 **Source:** Security Week  
 **Published:** Tue, 31 Mar 2026 15:59:49 +0000  
-
----
-
-### 36. [The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust](https://www.securityweek.com/the-next-cybersecurity-crisis-isnt-breaches-its-data-you-cant-trust/)
-
-**Source:** Security Week  
-**Published:** Tue, 31 Mar 2026 15:35:33 +0000  
-
----
-
-### 37. [Stolen Logins Are Fueling Everything From Ransomware to Nation-State Cyberattacks](https://www.securityweek.com/stolen-logins-are-fueling-everything-from-ransomware-to-nation-state-cyberattacks/)
-
-**Source:** Security Week  
-**Published:** Tue, 31 Mar 2026 15:04:58 +0000  
-
----
-
-### 38. [Venom Stealer Raises Stakes With Continuous Credential Harvesting](https://www.securityweek.com/venom-stealer-raises-stakes-with-continuous-credential-harvesting/)
-
-**Source:** Security Week  
-**Published:** Tue, 31 Mar 2026 14:51:59 +0000  
-
----
-
-### 39. [TeamPCP Moves From OSS to AWS Environments](https://www.securityweek.com/teampcp-moves-from-oss-to-aws-environments/)
-
-**Source:** Security Week  
-**Published:** Tue, 31 Mar 2026 13:53:43 +0000  
-
----
-
-### 40. [CrewAI Vulnerabilities Expose Devices to Hacking](https://www.securityweek.com/crewai-vulnerabilities-expose-devices-to-hacking/)
-
-**Source:** Security Week  
-**Published:** Tue, 31 Mar 2026 13:37:30 +0000  
 
 ---
 
@@ -611,7 +611,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -626,7 +626,16 @@
 
 ---
 
-### 71. [Why we&#8217;re still not doing April Fools&#8217; Day](https://www.malwarebytes.com/blog/scams/2026/04/why-were-still-not-doing-april-fools-day)
+### 71. [WhatsApp on Windows users targeted in new campaign, warns Microsoft](https://www.malwarebytes.com/blog/news/2026/04/whatsapp-on-windows-users-targeted-in-new-campaign-warns-microsoft)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 01 Apr 2026 14:27:39 GMT  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 72. [Why we&#8217;re still not doing April Fools&#8217; Day](https://www.malwarebytes.com/blog/scams/2026/04/why-were-still-not-doing-april-fools-day)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 01 Apr 2026 13:00:00 GMT  
@@ -635,7 +644,7 @@
 
 ---
 
-### 72. [Asking AI for personal advice is a bad idea, Stanford study shows](https://www.malwarebytes.com/blog/ai/2026/03/asking-ai-for-personal-advice-is-a-bad-idea-stanford-study-shows)
+### 73. [Asking AI for personal advice is a bad idea, Stanford study shows](https://www.malwarebytes.com/blog/ai/2026/03/asking-ai-for-personal-advice-is-a-bad-idea-stanford-study-shows)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 31 Mar 2026 19:40:23 GMT  
@@ -644,7 +653,7 @@
 
 ---
 
-### 73. [Axios supply chain attack chops away at npm trust](https://www.malwarebytes.com/blog/news/2026/03/axios-supply-chain-attack-chops-away-at-npm-trust)
+### 74. [Axios supply chain attack chops away at npm trust](https://www.malwarebytes.com/blog/news/2026/03/axios-supply-chain-attack-chops-away-at-npm-trust)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 31 Mar 2026 14:53:15 GMT  
@@ -653,7 +662,7 @@
 
 ---
 
-### 74. [New macOS security feature will alert users about possible ClickFix attacks](https://www.malwarebytes.com/blog/news/2026/03/new-macos-security-feature-will-alert-users-about-possible-clickfix-attacks)
+### 75. [New macOS security feature will alert users about possible ClickFix attacks](https://www.malwarebytes.com/blog/news/2026/03/new-macos-security-feature-will-alert-users-about-possible-clickfix-attacks)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 30 Mar 2026 14:26:40 GMT  
@@ -662,7 +671,7 @@
 
 ---
 
-### 75. [A week in security (March 23 &#8211; March 29)](https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-march-23-march-29)
+### 76. [A week in security (March 23 &#8211; March 29)](https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-march-23-march-29)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 30 Mar 2026 07:01:00 GMT  
@@ -671,7 +680,7 @@
 
 ---
 
-### 76. [Criminals are renting virtual phones to bypass bank security](https://www.malwarebytes.com/blog/news/2026/03/criminals-are-renting-virtual-phones-to-bypass-bank-security)
+### 77. [Criminals are renting virtual phones to bypass bank security](https://www.malwarebytes.com/blog/news/2026/03/criminals-are-renting-virtual-phones-to-bypass-bank-security)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 27 Mar 2026 13:34:44 GMT  
@@ -680,7 +689,7 @@
 
 ---
 
-### 77. [Bogus Avast website fakes virus scan, installs Venom Stealer instead](https://www.malwarebytes.com/blog/threat-intel/2026/03/bogus-avast-website-fakes-virus-scan-installs-venom-stealer-instead)
+### 78. [Bogus Avast website fakes virus scan, installs Venom Stealer instead](https://www.malwarebytes.com/blog/threat-intel/2026/03/bogus-avast-website-fakes-virus-scan-installs-venom-stealer-instead)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 27 Mar 2026 10:49:31 GMT  
@@ -689,7 +698,7 @@
 
 ---
 
-### 78. [Infiniti Stealer: a new macOS infostealer using ClickFix and Python/Nuitka](https://www.malwarebytes.com/blog/threat-intel/2026/03/infiniti-stealer-a-new-macos-infostealer-using-clickfix-and-python-nuitka)
+### 79. [Infiniti Stealer: a new macOS infostealer using ClickFix and Python/Nuitka](https://www.malwarebytes.com/blog/threat-intel/2026/03/infiniti-stealer-a-new-macos-infostealer-using-clickfix-and-python-nuitka)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 26 Mar 2026 17:39:01 GMT  
@@ -698,21 +707,12 @@
 
 ---
 
-### 79. [GlassWorm attack installs fake browser extension for surveillance](https://www.malwarebytes.com/blog/news/2026/03/glassworm-attack-installs-fake-browser-extension-for-surveillance)
+### 80. [GlassWorm attack installs fake browser extension for surveillance](https://www.malwarebytes.com/blog/news/2026/03/glassworm-attack-installs-fake-browser-extension-for-surveillance)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 26 Mar 2026 13:00:39 GMT  
 **Severity:** Low  
 **Categories:** Malware, Supply Chain  
-
----
-
-### 80. [Landmark verdicts put Meta’s “addiction machine” platforms on trial](https://www.malwarebytes.com/blog/news/2026/03/landmark-verdicts-put-metas-addiction-machine-platforms-on-trial)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 26 Mar 2026 10:43:01 GMT  
-**Severity:** High  
-**Categories:** Vulnerability  
 
 ---
 

@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
+    "link": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
+    "published": "Wed, 01 Apr 2026 19:40:00 +0530",
+    "summary": "Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files.\nThe activity, beginning in late February 2026, leverages these scripts to initiate a multi-stage infection chain for establishing persistence and enabling remote access. It's currently not known what lures the threat actors use to trick users into",
+    "analysis": {
+      "issue": "WhatsApp VBS campaign began February 2026, abusing AWS and UAC bypass to gain persistent remote access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
     "link": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html",
     "published": "Wed, 01 Apr 2026 18:16:00 +0530",
@@ -32,24 +50,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
-    "link": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
-    "published": "Wed, 01 Apr 2026 17:19:00 +0530",
-    "summary": "Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files.\nThe activity, beginning in late February 2026, leverages these scripts to initiate a multi-stage infection chain for establishing persistence and enabling remote access. It's currently not known what lures the threat actors use to trick users into",
-    "analysis": {
-      "issue": "WhatsApp VBS campaign began February 2026, abusing AWS and UAC bypass to gain persistent remote access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -184,6 +184,24 @@
       "threat_categories": [
         "Vulnerability",
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Routine Access Is Powering Modern Intrusions, a New Threat Report Finds",
+    "link": "https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/",
+    "published": "Wed, 01 Apr 2026 10:05:15 -0400",
+    "summary": "Modern intrusions increasingly start with valid credentials and routine access, not exploits. Blackpoint Cyber's upcoming threat report shows how VPN abuse, RMM tools, and social engineering drive most incidents. [...]",
+    "analysis": {
+      "issue": "Remote access and trusted administrative tools play a central role in how organizations operate today",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -356,24 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Cisco source code stolen in Trivy-linked dev environment breach",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/",
-    "published": "Tue, 31 Mar 2026 13:53:04 -0400",
-    "summary": "Cisco has suffered a cyberattack after threat actors used stolen credentials from the recent Trivy supply chain attack to breach its internal development environment and steal source code belonging to the company and its customers. [...]",
-    "analysis": {
-      "issue": "Cisco has suffered a cyberattack after threat actors used stolen credentials from the recent Trivy supply chain attack to breach its internal development environment and steal source code belonging to the company and its customers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -445,12 +445,12 @@
       "cves": [
         "CVE-2026-26113",
         "CVE-2026-24294",
-        "CVE-2026-25187",
-        "CVE-2026-21262",
         "CVE-2026-26127",
-        "CVE-2026-24291",
+        "CVE-2026-26110",
         "CVE-2026-24289",
-        "CVE-2026-26110"
+        "CVE-2026-24291",
+        "CVE-2026-25187",
+        "CVE-2026-21262"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -547,16 +547,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21510",
-        "CVE-2026-21513",
-        "CVE-2026-21533",
-        "CVE-2026-21256",
         "CVE-2026-21514",
-        "CVE-2026-21523",
+        "CVE-2026-21513",
+        "CVE-2026-21516",
+        "CVE-2026-21256",
         "CVE-2026-21519",
+        "CVE-2026-21523",
+        "CVE-2026-21533",
         "CVE-2026-21525",
-        "CVE-2026-21509",
-        "CVE-2026-21516"
+        "CVE-2026-21510",
+        "CVE-2026-21509"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -583,6 +583,41 @@
         "DDoS"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Depthfirst Raises $80 Million in Series B Funding",
+    "link": "https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/",
+    "published": "Wed, 01 Apr 2026 16:47:45 +0000",
+    "summary": "<p>The startup will expand its AI research team, train additional security models, and scale enterprise adoption.</p>\n<p>The post <a href=\"https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/\">Depthfirst Raises $80 Million in Series B Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Toy Giant Hasbro Hit by Cyberattack",
+    "link": "https://www.securityweek.com/toy-giant-hasbro-hit-by-cyberattack/",
+    "published": "Wed, 01 Apr 2026 15:35:47 +0000",
+    "summary": "<p>The company is investigating the full scope of the incident, including whether any files have been compromised.</p>\n<p>The post <a href=\"https://www.securityweek.com/toy-giant-hasbro-hit-by-cyberattack/\">Toy Giant Hasbro Hit by Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "New DeepLoad Malware Dropped in ClickFix Attacks",
+    "link": "https://www.securityweek.com/new-deepload-malware-dropped-in-clickfix-attacks/",
+    "published": "Wed, 01 Apr 2026 15:04:43 +0000",
+    "summary": "<p>The malware steals credentials, installs a malicious browser extension, and can spread via USB drives.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-deepload-malware-dropped-in-clickfix-attacks/\">New DeepLoad Malware Dropped in ClickFix Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Exploited Zero-Day Among 21 Vulnerabilities Patched in Chrome",
+    "link": "https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/",
+    "published": "Wed, 01 Apr 2026 14:36:39 +0000",
+    "summary": "<p>Google has announced fixes for CVE-2026-5281, a zero-day affecting Chrome’s Dawn component. </p>\n<p>The post <a href=\"https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/\">Exploited Zero-Day Among 21 Vulnerabilities Patched in Chrome</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "FBI Warns of Data Security Risks From China-Made Mobile Apps",
+    "link": "https://www.securityweek.com/fbi-warns-of-data-security-risks-from-china-made-mobile-apps/",
+    "published": "Wed, 01 Apr 2026 13:54:24 +0000",
+    "summary": "<p>The agency has not named the problematic foreign-made applications, but TikTok and Temu come to mind.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-warns-of-data-security-risks-from-china-made-mobile-apps/\">FBI Warns of Data Security Risks From China-Made Mobile Apps</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -618,41 +653,6 @@
     "link": "https://www.securityweek.com/censys-raises-70-million-for-internet-intelligence-platform/",
     "published": "Tue, 31 Mar 2026 15:59:49 +0000",
     "summary": "<p>The latest funding round brings the total venture capital investment in Censys to $149 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/censys-raises-70-million-for-internet-intelligence-platform/\">Censys Raises $70 Million for Internet Intelligence Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust",
-    "link": "https://www.securityweek.com/the-next-cybersecurity-crisis-isnt-breaches-its-data-you-cant-trust/",
-    "published": "Tue, 31 Mar 2026 15:35:33 +0000",
-    "summary": "<p>Data integrity shouldn’t be seen only through the prism of a technical concern but also as a leadership issue. </p>\n<p>The post <a href=\"https://www.securityweek.com/the-next-cybersecurity-crisis-isnt-breaches-its-data-you-cant-trust/\">The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Stolen Logins Are Fueling Everything From Ransomware to Nation-State Cyberattacks",
-    "link": "https://www.securityweek.com/stolen-logins-are-fueling-everything-from-ransomware-to-nation-state-cyberattacks/",
-    "published": "Tue, 31 Mar 2026 15:04:58 +0000",
-    "summary": "<p>Report shows how industrialized credential theft underpins ransomware, SaaS breaches, and geopolitical attacks, shifting security focus from prevention to detecting misuse of legitimate access.</p>\n<p>The post <a href=\"https://www.securityweek.com/stolen-logins-are-fueling-everything-from-ransomware-to-nation-state-cyberattacks/\">Stolen Logins Are Fueling Everything From Ransomware to Nation-State Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Venom Stealer Raises Stakes With Continuous Credential Harvesting",
-    "link": "https://www.securityweek.com/venom-stealer-raises-stakes-with-continuous-credential-harvesting/",
-    "published": "Tue, 31 Mar 2026 14:51:59 +0000",
-    "summary": "<p>Licensed malware with built-in persistence and automation enables attackers to continuously siphon credentials, session data, and cryptocurrency assets.</p>\n<p>The post <a href=\"https://www.securityweek.com/venom-stealer-raises-stakes-with-continuous-credential-harvesting/\">Venom Stealer Raises Stakes With Continuous Credential Harvesting</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "TeamPCP Moves From OSS to AWS Environments",
-    "link": "https://www.securityweek.com/teampcp-moves-from-oss-to-aws-environments/",
-    "published": "Tue, 31 Mar 2026 13:53:43 +0000",
-    "summary": "<p>After validating stolen credentials using TruffleHog, the hacking group started AWS services enumeration and lateral movement activities.</p>\n<p>The post <a href=\"https://www.securityweek.com/teampcp-moves-from-oss-to-aws-environments/\">TeamPCP Moves From OSS to AWS Environments</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "CrewAI Vulnerabilities Expose Devices to Hacking",
-    "link": "https://www.securityweek.com/crewai-vulnerabilities-expose-devices-to-hacking/",
-    "published": "Tue, 31 Mar 2026 13:37:30 +0000",
-    "summary": "<p>Attackers can exploit the bugs through prompt injection, chaining them together to escape the sandbox and execute arbitrary code.</p>\n<p>The post <a href=\"https://www.securityweek.com/crewai-vulnerabilities-expose-devices-to-hacking/\">CrewAI Vulnerabilities Expose Devices to Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -1190,8 +1190,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1216,6 +1216,25 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "WhatsApp on Windows users targeted in new campaign, warns Microsoft",
+    "link": "https://www.malwarebytes.com/blog/news/2026/04/whatsapp-on-windows-users-targeted-in-new-campaign-warns-microsoft",
+    "published": "Wed, 01 Apr 2026 14:27:39 GMT",
+    "summary": "Microsoft warns WhatsApp on Windows users about an ongoing campaign that tries to gain permanent access to your machine",
+    "analysis": {
+      "issue": "Microsoft researchers found a campaign that abuses WhatsApp attachments to sneak a script onto Windows machines which will lead to the attacker gaining remote control",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -1384,24 +1403,6 @@
       "threat_categories": [
         "Malware",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Landmark verdicts put Meta’s “addiction machine” platforms on trial",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/landmark-verdicts-put-metas-addiction-machine-platforms-on-trial",
-    "published": "Thu, 26 Mar 2026 10:43:01 GMT",
-    "summary": "Courts are starting to question how platforms are built, not just what’s posted.",
-    "analysis": {
-      "issue": "Meta faced two major legal setbacks this week as courts in New Mexico and California both found the company liable for harm to children",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
