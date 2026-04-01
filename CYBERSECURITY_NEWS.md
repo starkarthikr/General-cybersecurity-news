@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-01 03:50:37 UTC
+**Last Updated:** 2026-04-01 09:46:12 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Android Developer Verification Rollout Begins Ahead of September Enforcement](https://thehackernews.com/2026/03/android-developer-verification-rollout.html)
+### 1. [Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069](https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 01 Apr 2026 13:14:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 2. [Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms](https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 01 Apr 2026 11:42:00 +0530  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
+
+---
+
+### 3. [Android Developer Verification Rollout Begins Ahead of September Enforcement](https://thehackernews.com/2026/03/android-developer-verification-rollout.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 31 Mar 2026 23:58:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks](https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html)
+### 4. [TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks](https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 31 Mar 2026 21:33:00 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts](https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html)
+### 5. [Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts](https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 31 Mar 2026 18:39:00 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority](https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html)
+### 6. [The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority](https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 31 Mar 2026 17:20:00 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains](https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html)
+### 7. [Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains](https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 31 Mar 2026 17:16:00 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account](https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html)
+### 8. [Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account](https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 31 Mar 2026 11:38:00 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability](https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html)
+### 9. [OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability](https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 30 Mar 2026 23:35:00 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials](https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html)
+### 10. [DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials](https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 30 Mar 2026 21:17:00 +0530  
@@ -77,25 +95,25 @@
 
 ---
 
-### 9. [⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More](https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html)
+### 11. [Google Drive ransomware detection now on by default for paying users](https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 30 Mar 2026 19:26:00 +0530  
-**Severity:** Critical  
-**Categories:** Vulnerability, APT  
+**Source:** Bleeping Computer  
+**Published:** Wed, 01 Apr 2026 02:35:34 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
 
 ---
 
-### 10. [3 SOC Process Fixes That Unlock Tier 1 Productivity](https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html)
+### 12. [New Windows 11 emergency update fixes preview update install issues](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 30 Mar 2026 18:30:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 01 Apr 2026 01:33:43 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [Claude Code source code accidentally leaked in NPM package](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/)
+### 13. [Claude Code source code accidentally leaked in NPM package](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 31 Mar 2026 20:32:25 -0400  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [Google now allows you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/)
+### 14. [Google now allows you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 31 Mar 2026 19:13:56 -0400  
@@ -113,7 +131,7 @@
 
 ---
 
-### 13. [Proton launches new "Meet" privacy-focused conferencing platform](https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/)
+### 15. [Proton launches new "Meet" privacy-focused conferencing platform](https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 31 Mar 2026 18:42:07 -0400  
@@ -122,7 +140,7 @@
 
 ---
 
-### 14. [GIGABYTE Control Center vulnerable to arbitrary file write flaw](https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/)
+### 16. [GIGABYTE Control Center vulnerable to arbitrary file write flaw](https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 31 Mar 2026 18:28:02 -0400  
@@ -132,7 +150,7 @@
 
 ---
 
-### 15. [Claude AI finds Vim, Emacs RCE bugs that trigger on file open](https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/)
+### 17. [Claude AI finds Vim, Emacs RCE bugs that trigger on file open](https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 31 Mar 2026 17:45:14 -0400  
@@ -141,7 +159,7 @@
 
 ---
 
-### 16. [Cisco source code stolen in Trivy-linked dev environment breach](https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/)
+### 18. [Cisco source code stolen in Trivy-linked dev environment breach](https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 31 Mar 2026 13:53:04 -0400  
@@ -150,7 +168,7 @@
 
 ---
 
-### 17. [How to Categorize AI Agents and Prioritize Risk](https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/)
+### 19. [How to Categorize AI Agents and Prioritize Risk](https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 31 Mar 2026 10:00:10 -0400  
@@ -159,30 +177,12 @@
 
 ---
 
-### 18. [Hackers compromise Axios npm package to drop cross-platform malware](https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/)
+### 20. [Hackers compromise Axios npm package to drop cross-platform malware](https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 31 Mar 2026 09:53:43 -0400  
 **Severity:** Low  
 **Categories:** Malware, Supply Chain  
-
----
-
-### 19. [Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 31 Mar 2026 08:04:15 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Hacker charged with stealing $53 million from Uranium crypto exchange](https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 31 Mar 2026 05:15:45 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -218,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26110, CVE-2026-21262, CVE-2026-26127, CVE-2026-24289, CVE-2026-24294, CVE-2026-24291, CVE-2026-25187, CVE-2026-26113  
+**CVEs:** CVE-2026-24291, CVE-2026-26127, CVE-2026-26110, CVE-2026-21262, CVE-2026-24289, CVE-2026-24294, CVE-2026-25187, CVE-2026-26113  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -264,7 +264,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21514, CVE-2026-21523, CVE-2026-21513, CVE-2026-21519, CVE-2026-21525, CVE-2026-21256, CVE-2026-21509, CVE-2026-21533, CVE-2026-21510, CVE-2026-21516  
+**CVEs:** CVE-2026-21510, CVE-2026-21256, CVE-2026-21516, CVE-2026-21533, CVE-2026-21513, CVE-2026-21509, CVE-2026-21514, CVE-2026-21519, CVE-2026-21525, CVE-2026-21523  
 **Categories:** Vulnerability  
 
 ---
@@ -278,73 +278,73 @@
 
 ---
 
-### 31. [Censys Raises $70 Million for Internet Intelligence Platform](https://www.securityweek.com/censys-raises-70-million-for-internet-intelligence-platform/)
+### 31. [Axios NPM Package Breached in North Korean Supply Chain Attack](https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/)
+
+**Source:** Security Week  
+**Published:** Wed, 01 Apr 2026 08:45:47 +0000  
+
+---
+
+### 32. [Google Addresses Vertex Security Issues After Researchers Weaponize AI Agents](https://www.securityweek.com/google-addresses-vertex-security-issues-after-researchers-weaponize-ai-agent/)
+
+**Source:** Security Week  
+**Published:** Wed, 01 Apr 2026 07:43:16 +0000  
+
+---
+
+### 33. [Censys Raises $70 Million for Internet Intelligence Platform](https://www.securityweek.com/censys-raises-70-million-for-internet-intelligence-platform/)
 
 **Source:** Security Week  
 **Published:** Tue, 31 Mar 2026 15:59:49 +0000  
 
 ---
 
-### 32. [The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust](https://www.securityweek.com/the-next-cybersecurity-crisis-isnt-breaches-its-data-you-cant-trust/)
+### 34. [The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust](https://www.securityweek.com/the-next-cybersecurity-crisis-isnt-breaches-its-data-you-cant-trust/)
 
 **Source:** Security Week  
 **Published:** Tue, 31 Mar 2026 15:35:33 +0000  
 
 ---
 
-### 33. [Stolen Logins Are Fueling Everything From Ransomware to Nation-State Cyberattacks](https://www.securityweek.com/stolen-logins-are-fueling-everything-from-ransomware-to-nation-state-cyberattacks/)
+### 35. [Stolen Logins Are Fueling Everything From Ransomware to Nation-State Cyberattacks](https://www.securityweek.com/stolen-logins-are-fueling-everything-from-ransomware-to-nation-state-cyberattacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 31 Mar 2026 15:04:58 +0000  
 
 ---
 
-### 34. [Venom Stealer Raises Stakes With Continuous Credential Harvesting](https://www.securityweek.com/venom-stealer-raises-stakes-with-continuous-credential-harvesting/)
+### 36. [Venom Stealer Raises Stakes With Continuous Credential Harvesting](https://www.securityweek.com/venom-stealer-raises-stakes-with-continuous-credential-harvesting/)
 
 **Source:** Security Week  
 **Published:** Tue, 31 Mar 2026 14:51:59 +0000  
 
 ---
 
-### 35. [TeamPCP Moves From OSS to AWS Environments](https://www.securityweek.com/teampcp-moves-from-oss-to-aws-environments/)
+### 37. [TeamPCP Moves From OSS to AWS Environments](https://www.securityweek.com/teampcp-moves-from-oss-to-aws-environments/)
 
 **Source:** Security Week  
 **Published:** Tue, 31 Mar 2026 13:53:43 +0000  
 
 ---
 
-### 36. [CrewAI Vulnerabilities Expose Devices to Hacking](https://www.securityweek.com/crewai-vulnerabilities-expose-devices-to-hacking/)
+### 38. [CrewAI Vulnerabilities Expose Devices to Hacking](https://www.securityweek.com/crewai-vulnerabilities-expose-devices-to-hacking/)
 
 **Source:** Security Week  
 **Published:** Tue, 31 Mar 2026 13:37:30 +0000  
 
 ---
 
-### 37. [Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption](https://www.securityweek.com/google-slashes-quantum-resource-requirements-for-breaking-cryptocurrency-encryption/)
+### 39. [Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption](https://www.securityweek.com/google-slashes-quantum-resource-requirements-for-breaking-cryptocurrency-encryption/)
 
 **Source:** Security Week  
 **Published:** Tue, 31 Mar 2026 11:51:43 +0000  
 
 ---
 
-### 38. [Exploitation of Critical Fortinet FortiClient EMS Flaw Begins](https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/)
+### 40. [Exploitation of Critical Fortinet FortiClient EMS Flaw Begins](https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/)
 
 **Source:** Security Week  
 **Published:** Tue, 31 Mar 2026 11:39:45 +0000  
-
----
-
-### 39. [StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs](https://www.securityweek.com/strongswan-flaw-allows-unauthenticated-attackers-to-crash-vpns/)
-
-**Source:** Security Week  
-**Published:** Tue, 31 Mar 2026 10:21:05 +0000  
-
----
-
-### 40. [Lloyds Data Security Incident Impacts 450,000 Individuals](https://www.securityweek.com/lloyds-data-security-incident-impacts-450000-individuals/)
-
-**Source:** Security Week  
-**Published:** Tue, 31 Mar 2026 10:07:40 +0000  
 
 ---
 
@@ -714,7 +714,17 @@
 
 ---
 
-### 81. [How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem](https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/)
+### 81. [Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse](https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Mar 31, 2026 00:00:00-0500  
+**Severity:** Low  
+**CVEs:** CVE-2026-20929  
+**Categories:** Vulnerability  
+
+---
+
+### 82. [How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem](https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 25, 2026 00:00:00-0500  
@@ -723,7 +733,7 @@
 
 ---
 
-### 82. [Falcon Data Security Secures Data Wherever It Lives and Moves](https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/)
+### 83. [Falcon Data Security Secures Data Wherever It Lives and Moves](https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 24, 2026 00:00:00-0500  
@@ -732,7 +742,7 @@
 
 ---
 
-### 83. [CrowdStrike Services and Agentic MDR Put the Agentic SOC in Reach](https://www.crowdstrike.com/en-us/blog/crowdstrike-services-and-agentic-mdr-put-the-agentic-soc-in-reach/)
+### 84. [CrowdStrike Services and Agentic MDR Put the Agentic SOC in Reach](https://www.crowdstrike.com/en-us/blog/crowdstrike-services-and-agentic-mdr-put-the-agentic-soc-in-reach/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 24, 2026 00:00:00-0500  
@@ -741,7 +751,7 @@
 
 ---
 
-### 84. [CrowdStrike Advances CNAPP with Industry-First Adversary-Informed Risk Prioritization](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-cnapp-with-industry-first-adversary-informed-risk-prioritization/)
+### 85. [CrowdStrike Advances CNAPP with Industry-First Adversary-Informed Risk Prioritization](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-cnapp-with-industry-first-adversary-informed-risk-prioritization/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 24, 2026 00:00:00-0500  
@@ -750,7 +760,7 @@
 
 ---
 
-### 85. [CrowdStrike Flex for Services Expands Access to Elite Security Expertise](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/)
+### 86. [CrowdStrike Flex for Services Expands Access to Elite Security Expertise](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 24, 2026 00:00:00-0500  
@@ -759,7 +769,7 @@
 
 ---
 
-### 86. [Falcon Next-Gen SIEM Supports Third-Party EDR Tools, Starting with Microsoft Defender](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-supports-third-party-edr-tools-starting-with-microsoft-defender/)
+### 87. [Falcon Next-Gen SIEM Supports Third-Party EDR Tools, Starting with Microsoft Defender](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-supports-third-party-edr-tools-starting-with-microsoft-defender/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 23, 2026 00:00:00-0500  
@@ -768,7 +778,7 @@
 
 ---
 
-### 87. [New CrowdStrike Innovations Secure AI Agents and Govern Shadow AI Across Endpoints, SaaS, and Cloud](https://www.crowdstrike.com/en-us/blog/new-crowdstrike-innovations-secure-ai-agents-govern-shadow-ai/)
+### 88. [New CrowdStrike Innovations Secure AI Agents and Govern Shadow AI Across Endpoints, SaaS, and Cloud](https://www.crowdstrike.com/en-us/blog/new-crowdstrike-innovations-secure-ai-agents-govern-shadow-ai/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 23, 2026 00:00:00-0500  
@@ -777,7 +787,7 @@
 
 ---
 
-### 88. [Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown](https://www.crowdstrike.com/en-us/blog/tycoon2fa-phishing-as-a-service-platform-persists-following-takedown/)
+### 89. [Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown](https://www.crowdstrike.com/en-us/blog/tycoon2fa-phishing-as-a-service-platform-persists-following-takedown/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 20, 2026 00:00:00-0500  
@@ -786,21 +796,12 @@
 
 ---
 
-### 89. [From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise](https://www.crowdstrike.com/en-us/blog/from-scanner-to-stealer-inside-the-trivy-action-supply-chain-compromise/)
+### 90. [From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise](https://www.crowdstrike.com/en-us/blog/from-scanner-to-stealer-inside-the-trivy-action-supply-chain-compromise/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 20, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** Supply Chain  
-
----
-
-### 90. [Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails](https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Mar 19, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 

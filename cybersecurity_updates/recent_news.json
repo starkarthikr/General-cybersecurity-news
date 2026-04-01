@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
+    "link": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
+    "published": "Wed, 01 Apr 2026 13:14:00 +0530",
+    "summary": "Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069.\n\"We have attributed the attack to a suspected North Korean threat actor we track as UNC1069,\" John Hultquist, chief analyst at Google Threat Intelligence Group (GTIG), told The Hacker News in a statement.\n\"North Korean",
+    "analysis": {
+      "issue": "Google links Axios npm supply chain attack to UNC1069 after trojanized versions 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
+    "link": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
+    "published": "Wed, 01 Apr 2026 11:42:00 +0530",
+    "summary": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error.\n\"No sensitive customer data or credentials were involved or exposed,\" an Anthropic spokesperson said in a statement shared with CNBC News. \"This was a release packaging issue caused by human error, not a security",
+    "analysis": {
+      "issue": "88 leak exposed 512,000 lines via npm error, fueling supply chain risks and typosquatting attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
     "link": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html",
     "published": "Tue, 31 Mar 2026 23:58:00 +0530",
@@ -150,32 +188,32 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More",
-    "link": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html",
-    "published": "Mon, 30 Mar 2026 19:26:00 +0530",
-    "summary": "Some weeks are loud. This one was quieter but not in a good way. Long-running operations are finally hitting courtrooms, old attack methods are showing up in new places, and research that stopped being theoretical right around the time defenders stopped paying attention.\nThere's a bit of everything this week. Persistence plays, legal wins, influence ops, and at least one thing that looks boring",
+    "source": "Bleeping Computer",
+    "title": "Google Drive ransomware detection now on by default for paying users",
+    "link": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
+    "published": "Wed, 01 Apr 2026 02:35:34 -0400",
+    "summary": "Google announced that the AI-powered Google Drive ransomware detection feature has reached general availability and is now enabled by default for all paying users. [...]",
     "analysis": {
-      "issue": "Active exploits, nation-state campaigns, fresh arrests, and critical CVEs — this week's cybersecurity recap has it all",
+      "issue": "Google announced that the AI-powered Google Drive ransomware detection feature has reached general availability and is now enabled by default for all paying users",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "APT"
+        "Ransomware",
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "3 SOC Process Fixes That Unlock Tier 1 Productivity",
-    "link": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html",
-    "published": "Mon, 30 Mar 2026 18:30:00 +0530",
-    "summary": "What is really slowing Tier 1 down: the threat itself or the process around it? In many SOCs, the biggest delays do not come from the threat alone. They come from fragmented workflows, manual triage steps, and limited visibility early in the investigation. Fixing those process gaps can help Tier 1 move faster, reduce unnecessary escalations, and improve how the entire SOC responds under pressure",
+    "source": "Bleeping Computer",
+    "title": "New Windows 11 emergency update fixes preview update install issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/",
+    "published": "Wed, 01 Apr 2026 01:33:43 -0400",
+    "summary": "Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installation issues. [...]",
     "analysis": {
-      "issue": "Behavior-first triage with unified cross-platform analysis cuts workload 20% and MTTR by 21 minutes, accelerating SOC response",
+      "issue": "Microsoft released an out-of-band update to fix the March 2026 non-security preview update, which was pulled over the weekend due to installation issues",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -335,42 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
-    "published": "Tue, 31 Mar 2026 08:04:15 -0400",
-    "summary": "​Microsoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in. [...]",
-    "analysis": {
-      "issue": "​Microsoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hacker charged with stealing $53 million from Uranium crypto exchange",
-    "link": "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/",
-    "published": "Tue, 31 Mar 2026 05:15:45 -0400",
-    "summary": "U.S. prosecutors have charged a Maryland man with stealing more than $53 million after hacking the Uranium Finance crypto exchange twice and laundering the proceeds through a cryptocurrency mixer. [...]",
-    "analysis": {
-      "issue": "prosecutors have charged a Maryland man with stealing more than $53 million after hacking the Uranium Finance crypto exchange twice and laundering the proceeds through a cryptocurrency mixer",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -440,12 +442,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-24291",
+        "CVE-2026-26127",
         "CVE-2026-26110",
         "CVE-2026-21262",
-        "CVE-2026-26127",
         "CVE-2026-24289",
         "CVE-2026-24294",
-        "CVE-2026-24291",
         "CVE-2026-25187",
         "CVE-2026-26113"
       ],
@@ -544,16 +546,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21514",
-        "CVE-2026-21523",
+        "CVE-2026-21510",
+        "CVE-2026-21256",
+        "CVE-2026-21516",
+        "CVE-2026-21533",
         "CVE-2026-21513",
+        "CVE-2026-21509",
+        "CVE-2026-21514",
         "CVE-2026-21519",
         "CVE-2026-21525",
-        "CVE-2026-21256",
-        "CVE-2026-21509",
-        "CVE-2026-21533",
-        "CVE-2026-21510",
-        "CVE-2026-21516"
+        "CVE-2026-21523"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -580,6 +582,20 @@
         "DDoS"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Axios NPM Package Breached in North Korean Supply Chain Attack",
+    "link": "https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/",
+    "published": "Wed, 01 Apr 2026 08:45:47 +0000",
+    "summary": "<p>A long-lived NPM access token was used to bypass the GitHub Actions OIDC-based CI/CD publishing workflow and push backdoored package versions.</p>\n<p>The post <a href=\"https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/\">Axios NPM Package Breached in North Korean Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Addresses Vertex Security Issues After Researchers Weaponize AI Agents",
+    "link": "https://www.securityweek.com/google-addresses-vertex-security-issues-after-researchers-weaponize-ai-agent/",
+    "published": "Wed, 01 Apr 2026 07:43:16 +0000",
+    "summary": "<p>Palo Alto Networks has disclosed the details of its analysis of Google Cloud Platform’s Vertex AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-addresses-vertex-security-issues-after-researchers-weaponize-ai-agent/\">Google Addresses Vertex Security Issues After Researchers Weaponize AI Agents</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -636,20 +652,6 @@
     "link": "https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/",
     "published": "Tue, 31 Mar 2026 11:39:45 +0000",
     "summary": "<p>The SQL injection vulnerability allows unauthenticated attackers to execute arbitrary code remotely, via crafted HTTP requests.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/\">Exploitation of Critical Fortinet FortiClient EMS Flaw Begins</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs",
-    "link": "https://www.securityweek.com/strongswan-flaw-allows-unauthenticated-attackers-to-crash-vpns/",
-    "published": "Tue, 31 Mar 2026 10:21:05 +0000",
-    "summary": "<p>Remotely exploitable, the integer underflow vulnerability impacts StrongSwan releases spanning 15 years.</p>\n<p>The post <a href=\"https://www.securityweek.com/strongswan-flaw-allows-unauthenticated-attackers-to-crash-vpns/\">StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Lloyds Data Security Incident Impacts 450,000 Individuals",
-    "link": "https://www.securityweek.com/lloyds-data-security-incident-impacts-450000-individuals/",
-    "published": "Tue, 31 Mar 2026 10:07:40 +0000",
-    "summary": "<p>A faulty software update led to the exposure of mobile banking users’ transactions to other users of the application.</p>\n<p>The post <a href=\"https://www.securityweek.com/lloyds-data-security-incident-impacts-450000-individuals/\">Lloyds Data Security Incident Impacts 450,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -1403,6 +1405,26 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse",
+    "link": "https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/",
+    "published": "Mar 31, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn how to detect CVE-2026-20929, a Kerberos relay vulnerability using DNS CNAME abuse, with CrowdStrike Falcon to identify AD CS certificate-based attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-20929"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem",
     "link": "https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/",
     "published": "Mar 25, 2026 00:00:00-0500",
@@ -1560,24 +1582,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails",
-    "link": "https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/",
-    "published": "Mar 19, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike Falcon AI Detection and Response (AIDR) now supports NeMo Guardrails for enterprise-grade agentic AI protection",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   }
