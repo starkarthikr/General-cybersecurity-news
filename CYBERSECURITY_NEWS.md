@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-03-31 17:31:39 UTC
+**Last Updated:** 2026-04-01 03:23:15 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks](https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html)
+### 1. [Android Developer Verification Rollout Begins Ahead of September Enforcement](https://thehackernews.com/2026/03/android-developer-verification-rollout.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 31 Mar 2026 23:58:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks](https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 31 Mar 2026 21:33:00 +0530  
@@ -14,7 +23,7 @@
 
 ---
 
-### 2. [Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts](https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html)
+### 3. [Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts](https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 31 Mar 2026 18:39:00 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority](https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html)
+### 4. [The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority](https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 31 Mar 2026 17:20:00 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains](https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html)
+### 5. [Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains](https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 31 Mar 2026 17:16:00 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account](https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html)
+### 6. [Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account](https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 31 Mar 2026 11:38:00 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability](https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html)
+### 7. [OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability](https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 30 Mar 2026 23:35:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials](https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html)
+### 8. [DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials](https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 30 Mar 2026 21:17:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More](https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html)
+### 9. [⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More](https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 30 Mar 2026 19:26:00 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [3 SOC Process Fixes That Unlock Tier 1 Productivity](https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html)
+### 10. [3 SOC Process Fixes That Unlock Tier 1 Productivity](https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 30 Mar 2026 18:30:00 +0530  
@@ -86,16 +95,62 @@
 
 ---
 
-### 10. [Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels](https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html)
+### 11. [Claude Code source code accidentally leaked in NPM package](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 30 Mar 2026 17:48:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 31 Mar 2026 20:32:25 -0400  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 12. [Google now allows you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 31 Mar 2026 19:13:56 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [How to Categorize AI Agents and Prioritize Risk](https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/)
+### 13. [Proton launches new "Meet" privacy-focused conferencing platform](https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 31 Mar 2026 18:42:07 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 14. [GIGABYTE Control Center vulnerable to arbitrary file write flaw](https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 31 Mar 2026 18:28:02 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-4415  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 15. [Claude AI finds Vim, Emacs RCE bugs that trigger on file open](https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 31 Mar 2026 17:45:14 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 16. [Cisco source code stolen in Trivy-linked dev environment breach](https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 31 Mar 2026 13:53:04 -0400  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 17. [How to Categorize AI Agents and Prioritize Risk](https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 31 Mar 2026 10:00:10 -0400  
@@ -104,7 +159,7 @@
 
 ---
 
-### 12. [Hackers compromise Axios npm package to drop cross-platform malware](https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/)
+### 18. [Hackers compromise Axios npm package to drop cross-platform malware](https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 31 Mar 2026 09:53:43 -0400  
@@ -113,7 +168,7 @@
 
 ---
 
-### 13. [Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/)
+### 19. [Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 31 Mar 2026 08:04:15 -0400  
@@ -122,68 +177,12 @@
 
 ---
 
-### 14. [Hacker charged with stealing $53 million from Uranium crypto exchange](https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/)
+### 20. [Hacker charged with stealing $53 million from Uranium crypto exchange](https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 31 Mar 2026 05:15:45 -0400  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 15. [Dutch Finance Ministry takes treasury banking portal offline after breach](https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 31 Mar 2026 03:52:15 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 16. [CISA orders feds to patch actively exploited Citrix flaw by Thursday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 31 Mar 2026 03:05:25 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2026-3055  
-**Categories:** Vulnerability  
-
----
-
-### 17. [Healthcare tech firm CareCloud says hackers stole patient data](https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 30 Mar 2026 17:44:31 -0400  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 18. [New RoadK1ll WebSocket implant used to pivot on breached networks](https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 30 Mar 2026 16:49:22 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 19. [Critical Citrix NetScaler memory flaw actively exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 30 Mar 2026 14:28:37 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-4368, CVE-2026-3055  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Apple adds macOS Terminal warning to block ClickFix attacks](https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 30 Mar 2026 10:32:34 -0400  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -219,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24291, CVE-2026-21262, CVE-2026-26110, CVE-2026-25187, CVE-2026-26127, CVE-2026-24294, CVE-2026-24289, CVE-2026-26113  
+**CVEs:** CVE-2026-24291, CVE-2026-21262, CVE-2026-25187, CVE-2026-26113, CVE-2026-24289, CVE-2026-26110, CVE-2026-26127, CVE-2026-24294  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -265,7 +264,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21516, CVE-2026-21519, CVE-2026-21525, CVE-2026-21509, CVE-2026-21523, CVE-2026-21256, CVE-2026-21510, CVE-2026-21514, CVE-2026-21533, CVE-2026-21513  
+**CVEs:** CVE-2026-21513, CVE-2026-21519, CVE-2026-21525, CVE-2026-21514, CVE-2026-21523, CVE-2026-21510, CVE-2026-21509, CVE-2026-21256, CVE-2026-21533, CVE-2026-21516  
 **Categories:** Vulnerability  
 
 ---
@@ -610,7 +609,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -625,7 +624,16 @@
 
 ---
 
-### 71. [Axios supply chain attack chops away at npm trust](https://www.malwarebytes.com/blog/news/2026/03/axios-supply-chain-attack-chops-away-at-npm-trust)
+### 71. [Asking AI for personal advice is a bad idea, Stanford study shows](https://www.malwarebytes.com/blog/ai/2026/03/asking-ai-for-personal-advice-is-a-bad-idea-stanford-study-shows)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 31 Mar 2026 19:40:23 GMT  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 72. [Axios supply chain attack chops away at npm trust](https://www.malwarebytes.com/blog/news/2026/03/axios-supply-chain-attack-chops-away-at-npm-trust)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 31 Mar 2026 14:53:15 GMT  
@@ -634,7 +642,7 @@
 
 ---
 
-### 72. [New macOS security feature will alert users about possible ClickFix attacks](https://www.malwarebytes.com/blog/news/2026/03/new-macos-security-feature-will-alert-users-about-possible-clickfix-attacks)
+### 73. [New macOS security feature will alert users about possible ClickFix attacks](https://www.malwarebytes.com/blog/news/2026/03/new-macos-security-feature-will-alert-users-about-possible-clickfix-attacks)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 30 Mar 2026 14:26:40 GMT  
@@ -643,7 +651,7 @@
 
 ---
 
-### 73. [A week in security (March 23 &#8211; March 29)](https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-march-23-march-29)
+### 74. [A week in security (March 23 &#8211; March 29)](https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-march-23-march-29)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 30 Mar 2026 07:01:00 GMT  
@@ -652,7 +660,7 @@
 
 ---
 
-### 74. [Criminals are renting virtual phones to bypass bank security](https://www.malwarebytes.com/blog/news/2026/03/criminals-are-renting-virtual-phones-to-bypass-bank-security)
+### 75. [Criminals are renting virtual phones to bypass bank security](https://www.malwarebytes.com/blog/news/2026/03/criminals-are-renting-virtual-phones-to-bypass-bank-security)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 27 Mar 2026 13:34:44 GMT  
@@ -661,7 +669,7 @@
 
 ---
 
-### 75. [Bogus Avast website fakes virus scan, installs Venom Stealer instead](https://www.malwarebytes.com/blog/threat-intel/2026/03/bogus-avast-website-fakes-virus-scan-installs-venom-stealer-instead)
+### 76. [Bogus Avast website fakes virus scan, installs Venom Stealer instead](https://www.malwarebytes.com/blog/threat-intel/2026/03/bogus-avast-website-fakes-virus-scan-installs-venom-stealer-instead)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 27 Mar 2026 10:49:31 GMT  
@@ -670,7 +678,7 @@
 
 ---
 
-### 76. [Infiniti Stealer: a new macOS infostealer using ClickFix and Python/Nuitka](https://www.malwarebytes.com/blog/threat-intel/2026/03/infiniti-stealer-a-new-macos-infostealer-using-clickfix-and-python-nuitka)
+### 77. [Infiniti Stealer: a new macOS infostealer using ClickFix and Python/Nuitka](https://www.malwarebytes.com/blog/threat-intel/2026/03/infiniti-stealer-a-new-macos-infostealer-using-clickfix-and-python-nuitka)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 26 Mar 2026 17:39:01 GMT  
@@ -679,7 +687,7 @@
 
 ---
 
-### 77. [GlassWorm attack installs fake browser extension for surveillance](https://www.malwarebytes.com/blog/news/2026/03/glassworm-attack-installs-fake-browser-extension-for-surveillance)
+### 78. [GlassWorm attack installs fake browser extension for surveillance](https://www.malwarebytes.com/blog/news/2026/03/glassworm-attack-installs-fake-browser-extension-for-surveillance)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 26 Mar 2026 13:00:39 GMT  
@@ -688,7 +696,7 @@
 
 ---
 
-### 78. [Landmark verdicts put Meta’s “addiction machine” platforms on trial](https://www.malwarebytes.com/blog/news/2026/03/landmark-verdicts-put-metas-addiction-machine-platforms-on-trial)
+### 79. [Landmark verdicts put Meta’s “addiction machine” platforms on trial](https://www.malwarebytes.com/blog/news/2026/03/landmark-verdicts-put-metas-addiction-machine-platforms-on-trial)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 26 Mar 2026 10:43:01 GMT  
@@ -697,21 +705,12 @@
 
 ---
 
-### 79. [Hackers claim to have accessed data tied to millions of crime tipsters](https://www.malwarebytes.com/blog/news/2026/03/hackers-claim-to-have-accessed-data-tied-to-millions-of-crime-tipsters)
+### 80. [Hackers claim to have accessed data tied to millions of crime tipsters](https://www.malwarebytes.com/blog/news/2026/03/hackers-claim-to-have-accessed-data-tied-to-millions-of-crime-tipsters)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 25 Mar 2026 16:19:00 GMT  
 **Severity:** Low  
 **Categories:** DDoS  
-
----
-
-### 80. [New FCC router ban could leave home networks less secure](https://www.malwarebytes.com/blog/news/2026/03/new-fcc-router-ban-could-leave-home-networks-less-secure)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 25 Mar 2026 14:40:03 GMT  
-**Severity:** Critical  
-**Categories:** Malware  
 
 ---
 

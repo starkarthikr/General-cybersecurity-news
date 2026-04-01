@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
+    "link": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html",
+    "published": "Tue, 31 Mar 2026 23:58:00 +0530",
+    "summary": "Google on Monday said it's officially rolling out Android developer verification to all developers to combat the problem of bad actors distributing harmful apps while \"hiding behind anonymity.\"\nThe development comes ahead of a planned verification mandate that goes into effect in Brazil, Indonesia, Singapore, and Thailand this September, before it expands globally next year.\nAs part of this",
+    "analysis": {
+      "issue": "Google expands Android developer verification globally after September rollout, adding authentication and delays to sideloading to deter malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
     "link": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html",
     "published": "Tue, 31 Mar 2026 21:33:00 +0530",
@@ -169,13 +187,31 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
-    "link": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
-    "published": "Mon, 30 Mar 2026 17:48:00 +0530",
-    "summary": "Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that's distributed via malicious Windows shortcut (LNK) files that are disguised as private key folders.\nThe CTRL toolkit, according to Censys, is custom-built using .NET and includes various executables\" to facilitate credential phishing, keylogging, Remote Desktop Protocol (RDP) hijacking, and reverse tunneling",
+    "source": "Bleeping Computer",
+    "title": "Claude Code source code accidentally leaked in NPM package",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
+    "published": "Tue, 31 Mar 2026 20:32:25 -0400",
+    "summary": "Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. [...]",
     "analysis": {
-      "issue": "Russian CTRL toolkit spread via malicious LNK files in February 2026, routing C2 through FRP-tunneled RDP to evade detection",
+      "issue": "Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Google now allows you to change your @gmail.com address",
+    "link": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/",
+    "published": "Tue, 31 Mar 2026 19:13:56 -0400",
+    "summary": "Google is rolling out a new feature in the U.S. that allows users to change their @gmail address or create a new alias. [...]",
+    "analysis": {
+      "issue": "Google is rolling out a new feature that allows users in the U",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -183,6 +219,81 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Proton launches new \"Meet\" privacy-focused conferencing platform",
+    "link": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
+    "published": "Tue, 31 Mar 2026 18:42:07 -0400",
+    "summary": "Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams. [...]",
+    "analysis": {
+      "issue": "Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "GIGABYTE Control Center vulnerable to arbitrary file write flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/",
+    "published": "Tue, 31 Mar 2026 18:28:02 -0400",
+    "summary": "The GIGABYTE Control Center is vulnerable to an arbitrary file-write flaw that could allow a remote, unauthenticated attacker to access files on vulnerable hosts. [...]",
+    "analysis": {
+      "issue": "The GIGABYTE Control Center is vulnerable to an arbitrary file-write flaw that could allow a remote, unauthenticated attacker to access files on vulnerable hosts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-4415"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
+    "link": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
+    "published": "Tue, 31 Mar 2026 17:45:14 -0400",
+    "summary": "Vulnerabilities in the Vim and GNU Emacs text editors, discovered using simple prompts with the Claude assistant, allow remote code execution simply by opening a file. [...]",
+    "analysis": {
+      "issue": "Vulnerabilities in the Vim and GNU Emacs text editors, discovered using simple prompts with the Claude assistant, allow remote code execution simply by opening a file",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Cisco source code stolen in Trivy-linked dev environment breach",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/",
+    "published": "Tue, 31 Mar 2026 13:53:04 -0400",
+    "summary": "Cisco has suffered a cyberattack after threat actors used stolen credentials from the recent Trivy supply chain attack to breach its internal development environment and steal source code belonging to the company and its customers. [...]",
+    "analysis": {
+      "issue": "Cisco has suffered a cyberattack after threat actors used stolen credentials from the recent Trivy supply chain attack to breach its internal development environment and steal source code belonging to the company and its customers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
       ]
     }
   },
@@ -260,119 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Dutch Finance Ministry takes treasury banking portal offline after breach",
-    "link": "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/",
-    "published": "Tue, 31 Mar 2026 03:52:15 -0400",
-    "summary": "The Dutch Ministry of Finance took some of its systems offline, including the digital portal for treasury banking, while investigating a cyberattack detected two weeks ago. [...]",
-    "analysis": {
-      "issue": "The Dutch Ministry of Finance took some of its systems offline, including the digital portal for treasury banking, while investigating a cyberattack detected two weeks ago",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA orders feds to patch actively exploited Citrix flaw by Thursday",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
-    "published": "Tue, 31 Mar 2026 03:05:25 -0400",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their Citrix NetScaler appliances against an actively exploited vulnerability by Thursday. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their Citrix NetScaler appliances against an actively exploited vulnerability by Thursday",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-3055"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Healthcare tech firm CareCloud says hackers stole patient data",
-    "link": "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/",
-    "published": "Mon, 30 Mar 2026 17:44:31 -0400",
-    "summary": "Healthcare IT firm CareCloud has disclosed a data breach incident that exposed sensitive data and caused a network disruption lasting approximately eight hours. [...]",
-    "analysis": {
-      "issue": "Healthcare IT firm CareCloud has disclosed a data breach incident that exposed sensitive data and caused a network disruption lasting approximately eight hours",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New RoadK1ll WebSocket implant used to pivot on breached networks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/",
-    "published": "Mon, 30 Mar 2026 16:49:22 -0400",
-    "summary": "A newly identified malicious implant named RoadK1ll is enabling threat actors to quietly move from a compromised host to other systems on the network. [...]",
-    "analysis": {
-      "issue": "A newly identified malicious implant named RoadK1ll is enabling threat actors to quietly move from a compromised host to other systems on the network",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical Citrix NetScaler memory flaw actively exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/",
-    "published": "Mon, 30 Mar 2026 14:28:37 -0400",
-    "summary": "Hackers are exploiting a critical severity vulnerability, tracked as CVE-2026-3055, in Citrix  NetScaler ADC and NetScaler Gateway appliances to obtain sensitive data. [...]",
-    "analysis": {
-      "issue": "Hackers are exploiting a critical severity vulnerability, tracked as CVE-2026-3055, in Citrix  NetScaler ADC and NetScaler Gateway appliances to obtain sensitive data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-4368",
-        "CVE-2026-3055"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Apple adds macOS Terminal warning to block ClickFix attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/",
-    "published": "Mon, 30 Mar 2026 10:32:34 -0400",
-    "summary": "Apple has introduced a security feature in macOS Tahoe 26.4 that blocks pasting and executing potentially harmful commands in Terminal and alerts users to possible risks. [...]",
-    "analysis": {
-      "issue": "Apple has introduced a security feature in macOS Tahoe 26",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -444,12 +442,12 @@
       "cves": [
         "CVE-2026-24291",
         "CVE-2026-21262",
-        "CVE-2026-26110",
         "CVE-2026-25187",
-        "CVE-2026-26127",
-        "CVE-2026-24294",
+        "CVE-2026-26113",
         "CVE-2026-24289",
-        "CVE-2026-26113"
+        "CVE-2026-26110",
+        "CVE-2026-26127",
+        "CVE-2026-24294"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -546,16 +544,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21516",
+        "CVE-2026-21513",
         "CVE-2026-21519",
         "CVE-2026-21525",
-        "CVE-2026-21509",
-        "CVE-2026-21523",
-        "CVE-2026-21256",
-        "CVE-2026-21510",
         "CVE-2026-21514",
+        "CVE-2026-21523",
+        "CVE-2026-21510",
+        "CVE-2026-21509",
+        "CVE-2026-21256",
         "CVE-2026-21533",
-        "CVE-2026-21513"
+        "CVE-2026-21516"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1189,8 +1187,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1215,6 +1213,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Asking AI for personal advice is a bad idea, Stanford study shows",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/03/asking-ai-for-personal-advice-is-a-bad-idea-stanford-study-shows",
+    "published": "Tue, 31 Mar 2026 19:40:23 GMT",
+    "summary": "AI chatbots, including ChatGPT, Claude, and Gemini, were all too willing to validate and hype up their users, a new Stanford study showed.",
+    "analysis": {
+      "issue": "Stanford computer scientists just proved what therapists already suspected: AI chatbots will agree with almost anything you say to keep you happy",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1382,24 +1398,6 @@
       "cves": [],
       "threat_categories": [
         "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "New FCC router ban could leave home networks less secure",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/new-fcc-router-ban-could-leave-home-networks-less-secure",
-    "published": "Wed, 25 Mar 2026 14:40:03 GMT",
-    "summary": "The FCC announced a ban on routers made outside the US, but it could backfire. Here’s the real risk, and what you can do about it.",
-    "analysis": {
-      "issue": "On Monday, the Federal Communications Commission (FCC) updated its list of insecure equipment, outlining its reasons for adding all consumer-grade routers made outside the US",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
