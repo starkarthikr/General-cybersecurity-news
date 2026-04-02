@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-02 02:49:11 UTC
+**Last Updated:** 2026-04-02 03:32:14 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -110,7 +110,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Apr 2026 17:50:49 -0400  
 **Severity:** High  
-**CVEs:** CVE-2025-43529, CVE-2025-14174, CVE-2026-20700, CVE-2025-43520, CVE-2025-43510, CVE-2025-31277  
+**CVEs:** CVE-2025-14174, CVE-2025-43510, CVE-2026-20700, CVE-2025-31277, CVE-2025-43520, CVE-2025-43529  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -221,7 +221,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26110, CVE-2026-26127, CVE-2026-26113, CVE-2026-24294, CVE-2026-25187, CVE-2026-24291, CVE-2026-24289, CVE-2026-21262  
+**CVEs:** CVE-2026-24289, CVE-2026-25187, CVE-2026-24294, CVE-2026-21262, CVE-2026-26113, CVE-2026-26110, CVE-2026-24291, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -267,7 +267,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21525, CVE-2026-21533, CVE-2026-21516, CVE-2026-21256, CVE-2026-21509, CVE-2026-21523, CVE-2026-21519, CVE-2026-21513, CVE-2026-21510, CVE-2026-21514  
+**CVEs:** CVE-2026-21523, CVE-2026-21533, CVE-2026-21509, CVE-2026-21514, CVE-2026-21519, CVE-2026-21525, CVE-2026-21510, CVE-2026-21256, CVE-2026-21513, CVE-2026-21516  
 **Categories:** Vulnerability  
 
 ---
