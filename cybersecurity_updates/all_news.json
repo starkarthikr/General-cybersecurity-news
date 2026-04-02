@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
+    "link": "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html",
+    "published": "Thu, 02 Apr 2026 17:12:00 +0530",
+    "summary": "A&nbsp;financially motivated operation&nbsp;codenamed REF1695&nbsp;has been&nbsp;observed leveraging fake installers to deploy remote access trojans (RATs) and cryptocurrency miners since November&nbsp;2023.\n\"Beyond cryptomining, the threat actor monetizes infections through CPA (Cost Per Action) fraud, directing victims to content locker pages under the guise of software registration,\" Elastic",
+    "analysis": {
+      "issue": "REF1695 spreads RATs and miners since Nov 2023 via ISO lures, earning 27",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "The State of Trusted Open Source Report",
+    "link": "https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html",
+    "published": "Thu, 02 Apr 2026 17:00:00 +0530",
+    "summary": "In December&nbsp;2025, we shared the first-ever The State of Trusted Open&nbsp;Source report, featuring insights from our product data and customer base on open source consumption across our catalog of container image projects, versions, images, language libraries, and builds. These&nbsp;insights shed light on what teams pull, deploy, and maintain day to day, alongside the vulnerabilities and",
+    "analysis": {
+      "issue": "AI-driven development increased CVEs by 145% from Dec 2025–Feb 2026, accelerating remediation and reshaping software supply chain security",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action",
+    "link": "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html",
+    "published": "Thu, 02 Apr 2026 15:21:00 +0530",
+    "summary": "Meta-owned messaging platform WhatsApp said it alerted about 200 users who were tricked into installing a bogus version of its iOS app that was infected with&nbsp;spyware.\nAccording to reports from Italian&nbsp;newspaper La Repubblica and news&nbsp;agency ANSA, the vast majority of the targets are located in Italy. It's assessed that the threat actors behind the activity used social engineering",
+    "analysis": {
+      "issue": "WhatsApp alerted 200 users in Italy to spyware iOS app, highlighting Europe’s expanding surveillance crisis",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit",
     "link": "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html",
     "published": "Thu, 02 Apr 2026 12:39:00 +0530",
@@ -129,58 +183,23 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
-    "link": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
-    "published": "Wed, 01 Apr 2026 13:14:00 +0530",
-    "summary": "Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069.\n\"We have attributed the attack to a suspected North Korean threat actor we track as UNC1069,\" John Hultquist, chief analyst at Google Threat Intelligence Group (GTIG), told The Hacker News in a statement.\n\"North Korean",
+    "source": "Bleeping Computer",
+    "title": "Critical Cisco IMC auth bypass gives attackers Admin access",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/",
+    "published": "Thu, 02 Apr 2026 07:01:14 -0400",
+    "summary": "Cisco has patched several critical and high-severity vulnerabilities, including an Integrated Management Controller (IMC) authentication bypass that enables attackers to gain Admin access. [...]",
     "analysis": {
-      "issue": "Google links Axios npm supply chain attack to UNC1069 after trojanized versions 1",
+      "issue": "Cisco has released security updates to address several critical and high-severity vulnerabilities, including an Integrated Management Controller (IMC) authentication bypass that allows attackers to gain Admin access",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20093",
+        "CVE-2026-20160"
+      ],
       "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
-    "link": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
-    "published": "Wed, 01 Apr 2026 11:42:00 +0530",
-    "summary": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error.\n\"No sensitive customer data or credentials were involved or exposed,\" an Anthropic spokesperson said in a statement shared with CNBC News. \"This was a release packaging issue caused by human error, not a security",
-    "analysis": {
-      "issue": "88 leak exposed 512,000 lines via npm error, fueling supply chain risks and typosquatting attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
-    "link": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html",
-    "published": "Tue, 31 Mar 2026 23:58:00 +0530",
-    "summary": "Google on Monday said it's officially rolling out Android developer verification to all developers to combat the problem of bad actors distributing harmful apps while \"hiding behind anonymity.\"\nThe development comes ahead of a planned verification mandate that goes into effect in Brazil, Indonesia, Singapore, and Thailand this September, before it expands globally next year.\nAs part of this",
-    "analysis": {
-      "issue": "Google expands Android developer verification globally after September rollout, adding authentication and delays to sideloading to deter malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
+        "Vulnerability"
       ]
     }
   },
@@ -253,12 +272,12 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20700",
-        "CVE-2025-14174",
         "CVE-2025-43529",
+        "CVE-2025-43520",
         "CVE-2025-43510",
+        "CVE-2025-14174",
         "CVE-2025-31277",
-        "CVE-2025-43520"
+        "CVE-2026-20700"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -360,26 +379,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Google fixes fourth Chrome zero-day exploited in attacks in 2026",
-    "link": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/",
-    "published": "Wed, 01 Apr 2026 06:25:36 -0400",
-    "summary": "Google has fixed the fourth Chrome vulnerability exploited in zero-day attacks since the start of the year. [...]",
-    "analysis": {
-      "issue": "Google released emergency updates to fix another Chrome zero-day vulnerability exploited in attacks, marking the fourth such security flaw patched since the start of the year",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-5281"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -449,14 +448,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26127",
-        "CVE-2026-25187",
-        "CVE-2026-24289",
-        "CVE-2026-21262",
         "CVE-2026-26113",
-        "CVE-2026-24294",
         "CVE-2026-24291",
-        "CVE-2026-26110"
+        "CVE-2026-24289",
+        "CVE-2026-26127",
+        "CVE-2026-24294",
+        "CVE-2026-21262",
+        "CVE-2026-26110",
+        "CVE-2026-25187"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -553,15 +552,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21516",
+        "CVE-2026-21509",
+        "CVE-2026-21513",
         "CVE-2026-21523",
+        "CVE-2026-21510",
+        "CVE-2026-21516",
+        "CVE-2026-21533",
         "CVE-2026-21525",
         "CVE-2026-21514",
-        "CVE-2026-21510",
         "CVE-2026-21256",
-        "CVE-2026-21533",
-        "CVE-2026-21513",
-        "CVE-2026-21509",
         "CVE-2026-21519"
       ],
       "threat_categories": [
@@ -589,6 +588,34 @@
         "DDoS"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cisco Patches Critical and High-Severity Vulnerabilities",
+    "link": "https://www.securityweek.com/cisco-patches-critical-and-high-severity-vulnerabilities/",
+    "published": "Thu, 02 Apr 2026 12:34:10 +0000",
+    "summary": "<p>The bugs could lead to authentication bypass, remote code execution, information disclosure, and privilege escalation.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-critical-and-high-severity-vulnerabilities/\">Cisco Patches Critical and High-Severity Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "250,000 Affected by Data Breach at Nacogdoches Memorial Hospital",
+    "link": "https://www.securityweek.com/250000-affected-by-data-breach-at-nacogdoches-memorial-hospital/",
+    "published": "Thu, 02 Apr 2026 11:57:17 +0000",
+    "summary": "<p>In January 2026, a threat actor hacked the hospital’s internal network and stole personal and health information.</p>\n<p>The post <a href=\"https://www.securityweek.com/250000-affected-by-data-breach-at-nacogdoches-memorial-hospital/\">250,000 Affected by Data Breach at Nacogdoches Memorial Hospital</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Mercor Hit by LiteLLM Supply Chain Attack",
+    "link": "https://www.securityweek.com/mercor-hit-by-litellm-supply-chain-attack/",
+    "published": "Thu, 02 Apr 2026 10:42:05 +0000",
+    "summary": "<p>The AI recruiting firm is investigating the incident as Lapsus$ claimed the theft of 4TB of Mercor data.</p>\n<p>The post <a href=\"https://www.securityweek.com/mercor-hit-by-litellm-supply-chain-attack/\">Mercor Hit by LiteLLM Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Sophisticated CrystalX RAT Emerges",
+    "link": "https://www.securityweek.com/sophisticated-crystalx-rat-emerges/",
+    "published": "Thu, 02 Apr 2026 09:51:07 +0000",
+    "summary": "<p>The malware can spy on victims, steal their information, and make configuration changes on devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/sophisticated-crystalx-rat-emerges/\">Sophisticated CrystalX RAT Emerges</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -633,32 +660,99 @@
     "summary": "<p>Google has announced fixes for CVE-2026-5281, a zero-day affecting Chrome’s Dawn component. </p>\n<p>The post <a href=\"https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/\">Exploited Zero-Day Among 21 Vulnerabilities Patched in Chrome</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "FBI Warns of Data Security Risks From China-Made Mobile Apps",
-    "link": "https://www.securityweek.com/fbi-warns-of-data-security-risks-from-china-made-mobile-apps/",
-    "published": "Wed, 01 Apr 2026 13:54:24 +0000",
-    "summary": "<p>The agency has not named the problematic foreign-made applications, but TikTok and Temu come to mind.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-warns-of-data-security-risks-from-china-made-mobile-apps/\">FBI Warns of Data Security Risks From China-Made Mobile Apps</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "[Video] The TTP Ep 21: When Attackers Become Trusted Users",
+    "link": "https://blog.talosintelligence.com/video-the-ttp-ep-21-when-attackers-become-trusted-users/",
+    "published": "Thu, 02 Apr 2026 13:06:45 GMT",
+    "summary": "An episode of the Talos Threat Perspective on the 2025 Year in Review trends. We explore how identity is being used to gain, extend, and maintain access inside environments.",
+    "analysis": {
+      "issue": "In this episode of the Talos Threat Perspective, we explore how identity is being used to gain, extend, and maintain access inside environments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
   },
   {
-    "source": "Security Week",
-    "title": "US Charges Uranium Crypto Exchange Hacker",
-    "link": "https://www.securityweek.com/us-charges-uranium-crypto-exchange-hacker/",
-    "published": "Wed, 01 Apr 2026 13:30:19 +0000",
-    "summary": "<p>Jonathan Spalletta exploited smart contract vulnerabilities to steal approximately $55 million in cryptocurrency and cause Uranium to shut down.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-charges-uranium-crypto-exchange-hacker/\">US Charges Uranium Crypto Exchange Hacker</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "UAT-10608: Inside a large-scale automated credential harvesting operation targeting web applications",
+    "link": "https://blog.talosintelligence.com/uat-10608-inside-a-large-scale-automated-credential-harvesting-operation-targeting-web-applications/",
+    "published": "Thu, 02 Apr 2026 10:00:57 GMT",
+    "summary": "Talos is disclosing a large-scale automated credential harvesting campaign carried out by a threat cluster we currently track as UAT-10608. The campaign is primarily leveraging a collection framework dubbed “NEXUS Listener.”",
+    "analysis": {
+      "issue": "Talos is disclosing a large-scale automated credential harvesting campaign carried out by a threat cluster we currently track as UAT-10608",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-55182"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
-    "source": "Security Week",
-    "title": "Webinar Today: Agentic AI vs. Identity’s Last Mile Problem",
-    "link": "https://www.securityweek.com/webinar-today-agentic-ai-vs-identitys-last-mile-problem/",
-    "published": "Wed, 01 Apr 2026 13:14:47 +0000",
-    "summary": "<p>Join the webcast as we explore what Agentic AI can and cannot solve today, and real world breach scenarios linked to disconnected applications.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-agentic-ai-vs-identitys-last-mile-problem/\">Webinar Today: Agentic AI vs. Identity’s Last Mile Problem</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "Qilin EDR killer infection chain",
+    "link": "https://blog.talosintelligence.com/qilin-edr-killer/",
+    "published": "Thu, 02 Apr 2026 10:00:56 GMT",
+    "summary": "This blog provides an in-depth analysis of the malicious “msimg32.dll” used in Qilin ransomware attacks, which is a multi-stage infection chain targeting EDR systems.",
+    "analysis": {
+      "issue": "This blog post provides an in-depth technical analysis of the malicious dynamic-link library (DLL) “msimg32",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
   },
   {
-    "source": "Security Week",
-    "title": "Axios NPM Package Breached in North Korean Supply Chain Attack",
-    "link": "https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/",
-    "published": "Wed, 01 Apr 2026 08:45:47 +0000",
-    "summary": "<p>A long-lived NPM access token was used to bypass the GitHub Actions OIDC-based CI/CD publishing workflow and push backdoored package versions.</p>\n<p>The post <a href=\"https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/\">Axios NPM Package Breached in North Korean Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "Inside the Talos 2025 Year in Review: A discussion on what the data means for defenders",
+    "link": "https://blog.talosintelligence.com/inside-the-talos-2025-year-in-review-a-discussion-on-what-the-data-means-for-defenders/",
+    "published": "Thu, 02 Apr 2026 10:00:49 GMT",
+    "summary": "A conversation between Cisco Talos and Cisco Security leaders on the 2025 threat landscape, from identity attacks and legacy vulnerabilities to AI-driven threats, and what defenders should prioritize now.",
+    "analysis": {
+      "issue": "Every year, the Cisco Talos Year in Review captures the patterns shaping the threat landscape",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
+    "title": "An overview of ransomware threats in Japan in 2025 and early detection insights from Qilin cases",
+    "link": "https://blog.talosintelligence.com/an-overview-of-ransomware-threats-in-japan-in-2025-and-early-detection-insights-from-qilin-cases/",
+    "published": "Thu, 02 Apr 2026 10:00:13 GMT",
+    "summary": "There were 134 ransomware incidents reported in Japan in 2025, representing a 17.5% year-over-year increase from 2024.",
+    "analysis": {
+      "issue": "In 2025, the number of ransomware incidents increased compared to 2024",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
   },
   {
     "source": "Talos Blog",
@@ -744,99 +838,6 @@
     "summary": "The Beers with Talos team unpack the biggest cybersecurity threats of 2025, from React2Shell to ransomware and identity abuse, and what it all means for defenders going forward.",
     "analysis": {
       "issue": "The Beers with Talos B team (that’s Hazel, Bill, Joe and Dave) break down (sometimes in the literal sense) the 2025 Talos Year in Review which is available now",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "2025 Talos Year in Review: Speed, scale, and staying power",
-    "link": "https://blog.talosintelligence.com/2025-talos-year-in-review-speed-scale-and-staying-power/",
-    "published": "Mon, 23 Mar 2026 12:01:24 GMT",
-    "summary": "The 2025 Talos Year in Review is available now. Understand evolving adversary playbooks and how to strengthen your organization’s defenses.",
-    "analysis": {
-      "issue": "The 2025 Talos Year in Review is now available to view online",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "You have to invite them in",
-    "link": "https://blog.talosintelligence.com/you-have-to-invite-them-in/",
-    "published": "Thu, 19 Mar 2026 18:00:34 GMT",
-    "summary": "While a garlic and wooden stakes keep the vampires at bay in movies, they won’t save your network once an attacker has been \"invited in.\" Discover why identity is the new frontier of cyber horror in this week’s edition.",
-    "analysis": {
-      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Everyday tools, extraordinary crimes: the ransomware exfiltration playbook",
-    "link": "https://blog.talosintelligence.com/everyday-tools-extraordinary-crimes-the-ransomware-exfiltration-playbook/",
-    "published": "Thu, 19 Mar 2026 10:00:38 GMT",
-    "summary": "Attackers use trusted tools for data theft, making traditional detection unreliable. The Exfiltration Framework enables defenders to spot exfiltration by focusing on behavioral signals across endpoints, networks, and cloud environments rather than static tool indicators.",
-    "analysis": {
-      "issue": "As defenders have improved their ability to detect malicious code, attackers have adapted by reducing their reliance on bespoke implants",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Transparent COM instrumentation for malware analysis",
-    "link": "https://blog.talosintelligence.com/transparent-com-instrumentation-for-malware-analysis/",
-    "published": "Wed, 18 Mar 2026 10:00:44 GMT",
-    "summary": "In this article, Cisco Talos presents DispatchLogger, a new open-source tool that delivers high visibility into late-bound IDispatch COM object interactions via transparent proxy interception.",
-    "analysis": {
-      "issue": "Malware type  Binding type  Est",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "This one’s for you, Mom",
-    "link": "https://blog.talosintelligence.com/this-ones-for-you-mom/",
-    "published": "Thu, 12 Mar 2026 18:00:01 GMT",
-    "summary": "This week, Joe talks about allyship and how being aware of an issue is the first step in helping to fix it.",
-    "analysis": {
-      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1226,6 +1227,26 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Malwarebytes Privacy VPN receives full third-party audit",
+    "link": "https://www.malwarebytes.com/blog/product/2026/04/vpnsoftwareaudit",
+    "published": "Thu, 02 Apr 2026 13:00:00 GMT",
+    "summary": "We commissioned a third-party audit for the infrastructure behind our VPNs. Here are the results.",
+    "analysis": {
+      "issue": "For the careful VPN customer today, so much depends upon a privacy promise, made, too often, by a company without proof",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Wikipedia&#8217;s AI agent row likely just the beginning of the bot-ocalypse",
     "link": "https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse",
     "published": "Wed, 01 Apr 2026 21:49:55 GMT",
@@ -1387,26 +1408,6 @@
       "threat_categories": [
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Infiniti Stealer: a new macOS infostealer using ClickFix and Python/Nuitka",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/infiniti-stealer-a-new-macos-infostealer-using-clickfix-and-python-nuitka",
-    "published": "Thu, 26 Mar 2026 17:39:01 GMT",
-    "summary": "A new macOS infostealer, NukeChain (now Infiniti Stealer), uses fake CAPTCHA pages to trick users into running malicious commands.",
-    "analysis": {
-      "issue": "A previously undocumented macOS infostealer has surfaced during our routine threat hunting",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
       ]
     }
   },
