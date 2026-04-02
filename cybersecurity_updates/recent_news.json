@@ -1,6 +1,46 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
+    "link": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html",
+    "published": "Thu, 02 Apr 2026 20:51:00 +0530",
+    "summary": "Cisco&nbsp;has released updates to address a critical security flaw in the Integrated Management Controller (IMC) that, if successfully exploited, could allow an unauthenticated, remote attacker to bypass authentication and gain access to the system with elevated privileges.\nThe&nbsp;vulnerability, tracked as CVE-2026-20093, carries a CVSS score of 9.8&nbsp;out of a maximum of&nbsp;10.0.\n\"This",
+    "analysis": {
+      "issue": "8 CVSS flaws (CVE-2026-20093, CVE-2026-20160), preventing authentication bypass and root access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-20160",
+        "CVE-2026-20093"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
+    "link": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html",
+    "published": "Thu, 02 Apr 2026 18:15:00 +0530",
+    "summary": "The&nbsp;latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No&nbsp;corporate fluff or boring lectures here, just a quick and honest look at the messy reality of keeping systems safe this&nbsp;week.\nThings&nbsp;are moving fast. The&nbsp;list includes researchers chaining small bugs together to create massive backdoors, old software flaws",
+    "analysis": {
+      "issue": "Cybersecurity roundup: ShareFile RCE, Android rootkit, ImageMagick 0-days, XLoader, phishing, and supply chain threats",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
     "link": "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html",
     "published": "Thu, 02 Apr 2026 17:12:00 +0530",
@@ -145,33 +185,74 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released",
-    "link": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
-    "published": "Wed, 01 Apr 2026 17:12:00 +0530",
-    "summary": "Google on Thursday released security updates for its Chrome web browser to address 21 vulnerabilities, including a zero-day flaw that it said has been exploited in the wild.\nThe high-severity vulnerability, CVE-2026-5281 (CVSS score: N/A), concerns a use-after-free bug in Dawn, an open-source and cross-platform implementation of the WebGPU standard.\n\"Use-after-free in Dawn in Google Chrome prior",
+    "source": "Bleeping Computer",
+    "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions",
+    "link": "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/",
+    "published": "Thu, 02 Apr 2026 11:21:02 -0400",
+    "summary": "Researchers warn that residential proxies used to route malicious traffic are a big problem for IP reputation systems, as there is no clear distinction between attackers and legitimate users. [...]",
     "analysis": {
-      "issue": "Chrome patches 21 flaws including exploited CVE-2026-5281 in Dawn, marking fourth zero-day fixed in 2026, reducing active attack risk",
+      "issue": "Researchers warn that residential proxies used to route malicious traffic are a big problem for IP reputation systems, as there is no clear distinction between attackers and legitimate users",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-5281"
-      ],
+      "severity": "Low",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)",
-    "link": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html",
-    "published": "Wed, 01 Apr 2026 16:28:00 +0530",
-    "summary": "For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what’s next.\nThreat actors now use malware less frequently in favor of what’s already inside your environment, including abusing trusted tools, native binaries, and legitimate admin utilities to move laterally, escalate privileges, and persist without raising alarms. Most",
+    "source": "Bleeping Computer",
+    "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
+    "link": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
+    "published": "Thu, 02 Apr 2026 10:01:11 -0400",
+    "summary": "Threat actors are exploiting vacant homes as \"drop addresses\" to intercept mail and enable fraud. Flare shows how postal services and fake identities are abused to turn mail into a fraud vector. [...]",
     "analysis": {
-      "issue": "84% of attacks abuse legitimate tools across 700,000 incidents, expanding internal attack surfaces and evading detection defenses",
+      "issue": "Fraud operations have expanded beyond traditional hacking techniques to include methods that exploit legitimate services and real-world infrastructure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
+    "published": "Thu, 02 Apr 2026 09:33:11 -0400",
+    "summary": "Two vulnerabilities in Progress ShareFile, an enterprise-grade secure file transfer solution, can be chained to enable unauthenticated file exfiltration from affected environments. [...]",
+    "analysis": {
+      "issue": "Two vulnerabilities in Progress ShareFile, an enterprise-grade secure file transfer solution, can be chained to enable unauthenticated file exfiltration from affected environments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-2699",
+        "CVE-2026-2701"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Medtech giant Stryker fully operational after data-wiping attack",
+    "link": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/",
+    "published": "Thu, 02 Apr 2026 09:28:39 -0400",
+    "summary": "Stryker Corporation, one of the world's leading medical technology companies, says it's fully operational three weeks after many of its systems were wiped out in a cyberattack claimed by the Iranian-linked Handala hacktivist group. [...]",
+    "analysis": {
+      "issue": "Stryker Corporation, one of the world's leading medical technology companies, says it's fully operational three weeks after many of its systems were wiped out in a cyberattack claimed by the Iranian-linked Handala hacktivist group",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -195,8 +276,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20093",
-        "CVE-2026-20160"
+        "CVE-2026-20160",
+        "CVE-2026-20093"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -272,9 +353,9 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-43529",
         "CVE-2025-43520",
         "CVE-2025-43510",
+        "CVE-2025-43529",
         "CVE-2025-14174",
         "CVE-2025-31277",
         "CVE-2026-20700"
@@ -302,79 +383,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
-    "published": "Wed, 01 Apr 2026 15:42:25 -0400",
-    "summary": "A new malicious kit called EvilTokens integrates device code phishing capabilities, allowing attackers to hijack Microsoft accounts and provide advanced features for business email compromise attacks. [...]",
-    "analysis": {
-      "issue": "A new malicious kit called EvilTokens integrates device code phishing capabilities, allowing attackers to hijack Microsoft accounts and provide advanced features for business email compromise attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "'NoVoice' Android malware on Google Play infected 2.3 million devices",
-    "link": "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/",
-    "published": "Wed, 01 Apr 2026 14:07:21 -0400",
-    "summary": "A new Android malware named NoVoice was found on Google Play, hidden in more than 50 apps that were downloaded at least 2.3 million times. [...]",
-    "analysis": {
-      "issue": "A new Android malware named NoVoice was found on Google Play, hidden in more than 50 apps that were downloaded at least 2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Routine Access Is Powering Modern Intrusions, a New Threat Report Finds",
-    "link": "https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/",
-    "published": "Wed, 01 Apr 2026 10:05:15 -0400",
-    "summary": "Modern intrusions increasingly start with valid credentials and routine access, not exploits. Blackpoint Cyber's upcoming threat report shows how VPN abuse, RMM tools, and social engineering drive most incidents. [...]",
-    "analysis": {
-      "issue": "Remote access and trusted administrative tools play a central role in how organizations operate today",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI warns against using Chinese mobile apps due to privacy risks",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/",
-    "published": "Wed, 01 Apr 2026 07:39:10 -0400",
-    "summary": "The U.S. Federal Bureau of Investigation (FBI) warned Americans against using foreign-developed mobile applications, particularly those created by Chinese developers. [...]",
-    "analysis": {
-      "issue": "Federal Bureau of Investigation (FBI) warned Americans against using foreign-developed mobile applications, particularly those created by Chinese developers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -449,13 +457,13 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-26113",
-        "CVE-2026-24291",
-        "CVE-2026-24289",
         "CVE-2026-26127",
         "CVE-2026-24294",
+        "CVE-2026-24291",
+        "CVE-2026-25187",
         "CVE-2026-21262",
-        "CVE-2026-26110",
-        "CVE-2026-25187"
+        "CVE-2026-24289",
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -552,16 +560,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21509",
-        "CVE-2026-21513",
         "CVE-2026-21523",
+        "CVE-2026-21533",
+        "CVE-2026-21256",
         "CVE-2026-21510",
         "CVE-2026-21516",
-        "CVE-2026-21533",
-        "CVE-2026-21525",
         "CVE-2026-21514",
-        "CVE-2026-21256",
-        "CVE-2026-21519"
+        "CVE-2026-21525",
+        "CVE-2026-21509",
+        "CVE-2026-21519",
+        "CVE-2026-21513"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -588,6 +596,20 @@
         "DDoS"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Apple Rolls Out DarkSword Exploit Protection to More Devices",
+    "link": "https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/",
+    "published": "Thu, 02 Apr 2026 16:18:07 +0000",
+    "summary": "<p>The DarkSword exploit kit has been used by both state-sponsored hackers and commercial spyware vendors.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/\">Apple Rolls Out DarkSword Exploit Protection to More Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Cybersecurity M&A Roundup: 38 Deals Announced in March 2026",
+    "link": "https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/",
+    "published": "Thu, 02 Apr 2026 14:30:00 +0000",
+    "summary": "<p>Significant cybersecurity M&#038;A deals announced by Airbus, Cellebrite, Databricks, Quantum eMotion, Rapid7, and OpenAI.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/\">Cybersecurity M&#038;A Roundup: 38 Deals Announced in March 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -644,20 +666,6 @@
     "link": "https://www.securityweek.com/toy-giant-hasbro-hit-by-cyberattack/",
     "published": "Wed, 01 Apr 2026 15:35:47 +0000",
     "summary": "<p>The company is investigating the full scope of the incident, including whether any files have been compromised.</p>\n<p>The post <a href=\"https://www.securityweek.com/toy-giant-hasbro-hit-by-cyberattack/\">Toy Giant Hasbro Hit by Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "New DeepLoad Malware Dropped in ClickFix Attacks",
-    "link": "https://www.securityweek.com/new-deepload-malware-dropped-in-clickfix-attacks/",
-    "published": "Wed, 01 Apr 2026 15:04:43 +0000",
-    "summary": "<p>The malware steals credentials, installs a malicious browser extension, and can spread via USB drives.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-deepload-malware-dropped-in-clickfix-attacks/\">New DeepLoad Malware Dropped in ClickFix Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Exploited Zero-Day Among 21 Vulnerabilities Patched in Chrome",
-    "link": "https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/",
-    "published": "Wed, 01 Apr 2026 14:36:39 +0000",
-    "summary": "<p>Google has announced fixes for CVE-2026-5281, a zero-day affecting Chrome’s Dawn component. </p>\n<p>The post <a href=\"https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/\">Exploited Zero-Day Among 21 Vulnerabilities Patched in Chrome</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -850,6 +858,24 @@
   },
   {
     "source": "Recorded Future",
+    "title": "Latin America and the Caribbean Cybercrime Landscape",
+    "link": "https://www.recordedfuture.com/research/latin-america-and-the-caribbean-cybercrime-landscape",
+    "published": "Thu, 02 Apr 2026 00:00:00 GMT",
+    "summary": "This report provides an overview of trends and developments in the cybercriminal ecosystem of Latin America and the Caribbean (LAC) in 2025.",
+    "analysis": {
+      "issue": "This report provides an overview of trends and developments in the cybercriminal ecosystem of Latin America and the Caribbean (LAC) in 2025",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "Industrialization of the Fraud Ecosystem Blog",
     "link": "https://www.recordedfuture.com/blog/industrialization-of-the-fraud-ecosystem-blog",
     "published": "Wed, 01 Apr 2026 00:00:00 GMT",
@@ -1007,25 +1033,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "January 2026 CVE Landscape: 23 Critical Vulnerabilities Mark 5% Increase, APT28 Exploits Microsoft Office Zero-Day",
-    "link": "https://www.recordedfuture.com/blog/january-2026-cve-landscape",
-    "published": "Tue, 24 Feb 2026 00:00:00 GMT",
-    "summary": "January 2026 saw 23 actively exploited CVEs, including APT28’s Microsoft Office zero-day and critical auth bypass flaws impacting enterprise systems.",
-    "analysis": {
-      "issue": "January 2026 saw 23 actively exploited CVEs, including APT28’s Microsoft Office zero-day and critical auth bypass flaws impacting enterprise systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
       ]
     }
   },
@@ -1196,8 +1203,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1221,6 +1228,25 @@
         "CVE-2022-2856"
       ],
       "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Apple expands “DarkSword” patches to iOS 18.7.7",
+    "link": "https://www.malwarebytes.com/blog/news/2026/04/apple-expands-darksword-patches-to-ios-18-7-7",
+    "published": "Thu, 02 Apr 2026 14:13:44 GMT",
+    "summary": "Apple has quietly expanded patches against the vulnerabilities in the DarkSword exploit kit to include iOS and iPadOS 18.7.7",
+    "analysis": {
+      "issue": "Apple widened its latest iOS 18 security update to cover far more iPhones and iPads, specifically to stop real‑world DarkSword attacks that can compromise a device from a single website visit",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
         "Vulnerability"
       ]
     }
@@ -1389,25 +1415,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Bogus Avast website fakes virus scan, installs Venom Stealer instead",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/03/bogus-avast-website-fakes-virus-scan-installs-venom-stealer-instead",
-    "published": "Fri, 27 Mar 2026 10:49:31 GMT",
-    "summary": "A fake Avast scan tells you your PC is infected, then installs the malware that steals passwords, session data and crypto wallets.",
-    "analysis": {
-      "issue": "A fake website impersonating Avast antivirus is tricking people into infecting their own computers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
