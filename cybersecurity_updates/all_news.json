@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
+    "link": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html",
+    "published": "Wed, 01 Apr 2026 21:40:00 +0530",
+    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administration tool known as AGEWHEEZE.\nAs part of the attacks, the threat actors, tracked as UAC-0255, sent emails on March 26 and 27, 2026, posing as CERT-UA to distribute a password-protected ZIP archive",
+    "analysis": {
+      "issue": "CERT-UA impersonation on March 26–27, 2026 spread AGEWHEEZE malware, infecting few devices despite 1M phishing emails",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
     "link": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
     "published": "Wed, 01 Apr 2026 19:40:00 +0530",
@@ -169,21 +188,103 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
-    "link": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
-    "published": "Tue, 31 Mar 2026 18:39:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed a security \"blind spot\" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and compromise an organization's cloud environment.\nAccording to Palo Alto Networks Unit 42, the issue relates to how the Vertex AI permission model can be misused",
+    "source": "Bleeping Computer",
+    "title": "New CrystalRAT malware adds RAT, stealer and prankware features",
+    "link": "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/",
+    "published": "Wed, 01 Apr 2026 19:17:09 -0400",
+    "summary": "A new malware-as-a-service called CrystalRAT is being promoted on Telegram, offering remote access, data theft, keylogging, and clipboard hijacking capabilities. [...]",
     "analysis": {
-      "issue": "Unit 42 found excessive P4SA permissions in Vertex AI, enabling credential theft and cloud data exposure, increasing breach risk",
+      "issue": "A new malware-as-a-service called CrystalRAT is being promoted on Telegram, offering remote access, data theft, keylogging, and clipboard hijacking capabilities",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/",
+    "published": "Wed, 01 Apr 2026 17:50:49 -0400",
+    "summary": "Apple has now made it possible for more iPhones still running iOS 18 to receive security updates that protect against the actively exploited DarkSword exploit kit. [...]",
+    "analysis": {
+      "issue": "Apple has now made it possible for more iPhones still running iOS 18 to receive security updates that protect against the actively exploited DarkSword exploit kit",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2025-43529",
+        "CVE-2025-14174",
+        "CVE-2026-20700",
+        "CVE-2025-43520",
+        "CVE-2025-43510",
+        "CVE-2025-31277"
+      ],
+      "threat_categories": [
         "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers exploit TrueConf zero-day to push malicious software updates",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/",
+    "published": "Wed, 01 Apr 2026 17:35:47 -0400",
+    "summary": "Hackers have targeted TrueConf conference servers in attacks that exploit a zero-day vulnerability, allowing them to execute arbitrary files on all connected endpoints. [...]",
+    "analysis": {
+      "issue": "Hackers have targeted TrueConf conference servers in attacks that exploit a zero-day vulnerability, allowing them to execute arbitrary files on all connected endpoints",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-3502"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
+    "published": "Wed, 01 Apr 2026 15:42:25 -0400",
+    "summary": "A new malicious kit called EvilTokens integrates device code phishing capabilities, allowing attackers to hijack Microsoft accounts and provide advanced features for business email compromise attacks. [...]",
+    "analysis": {
+      "issue": "A new malicious kit called EvilTokens integrates device code phishing capabilities, allowing attackers to hijack Microsoft accounts and provide advanced features for business email compromise attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "'NoVoice' Android malware on Google Play infected 2.3 million devices",
+    "link": "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/",
+    "published": "Wed, 01 Apr 2026 14:07:21 -0400",
+    "summary": "A new Android malware named NoVoice was found on Google Play, hidden in more than 50 apps that were downloaded at least 2.3 million times. [...]",
+    "analysis": {
+      "issue": "A new Android malware named NoVoice was found on Google Play, hidden in more than 50 apps that were downloaded at least 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -281,99 +382,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Claude Code source code accidentally leaked in NPM package",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
-    "published": "Tue, 31 Mar 2026 20:32:25 -0400",
-    "summary": "Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. [...]",
-    "analysis": {
-      "issue": "Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google now allows you to change your @gmail.com address",
-    "link": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/",
-    "published": "Tue, 31 Mar 2026 19:13:56 -0400",
-    "summary": "Google is rolling out a new feature in the U.S. that allows users to change their @gmail address or create a new alias. [...]",
-    "analysis": {
-      "issue": "Google is rolling out a new feature that allows users in the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Proton launches new \"Meet\" privacy-focused conferencing platform",
-    "link": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
-    "published": "Tue, 31 Mar 2026 18:42:07 -0400",
-    "summary": "Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams. [...]",
-    "analysis": {
-      "issue": "Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "GIGABYTE Control Center vulnerable to arbitrary file write flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/",
-    "published": "Tue, 31 Mar 2026 18:28:02 -0400",
-    "summary": "The GIGABYTE Control Center is vulnerable to an arbitrary file-write flaw that could allow a remote, unauthenticated attacker to access files on vulnerable hosts. [...]",
-    "analysis": {
-      "issue": "The GIGABYTE Control Center is vulnerable to an arbitrary file-write flaw that could allow a remote, unauthenticated attacker to access files on vulnerable hosts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-4415"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
-    "link": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
-    "published": "Tue, 31 Mar 2026 17:45:14 -0400",
-    "summary": "Vulnerabilities in the Vim and GNU Emacs text editors, discovered using simple prompts with the Claude assistant, allow remote code execution simply by opening a file. [...]",
-    "analysis": {
-      "issue": "Vulnerabilities in the Vim and GNU Emacs text editors, discovered using simple prompts with the Claude assistant, allow remote code execution simply by opening a file",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -443,13 +451,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-26110",
+        "CVE-2026-26127",
         "CVE-2026-26113",
         "CVE-2026-24294",
-        "CVE-2026-26127",
-        "CVE-2026-26110",
-        "CVE-2026-24289",
-        "CVE-2026-24291",
         "CVE-2026-25187",
+        "CVE-2026-24291",
+        "CVE-2026-24289",
         "CVE-2026-21262"
       ],
       "threat_categories": [
@@ -547,16 +555,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21514",
-        "CVE-2026-21513",
+        "CVE-2026-21525",
+        "CVE-2026-21533",
         "CVE-2026-21516",
         "CVE-2026-21256",
-        "CVE-2026-21519",
+        "CVE-2026-21509",
         "CVE-2026-21523",
-        "CVE-2026-21533",
-        "CVE-2026-21525",
+        "CVE-2026-21519",
+        "CVE-2026-21513",
         "CVE-2026-21510",
-        "CVE-2026-21509"
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -843,6 +851,42 @@
   },
   {
     "source": "Recorded Future",
+    "title": "Industrialization of the Fraud Ecosystem Blog",
+    "link": "https://www.recordedfuture.com/blog/industrialization-of-the-fraud-ecosystem-blog",
+    "published": "Wed, 01 Apr 2026 00:00:00 GMT",
+    "summary": "Payment fraud has industrialized, and that's a defensive advantage. Learn how standardized attack infrastructure creates detectable patterns that financial institutions can act on before losses occur.",
+    "analysis": {
+      "issue": "Payment fraud has industrialized, and that's a defensive advantage",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "The Shift: An Era of Quantum Geopolitics",
+    "link": "https://www.recordedfuture.com/blog/the-shift-an-era-of-quantum-geopolitics",
+    "published": "Wed, 01 Apr 2026 00:00:00 GMT",
+    "summary": "The expanding conflict around Iran signals a deeper shift. We have entered an era of quantum geopolitics, where the old rules of the international order no longer apply",
+    "analysis": {
+      "issue": "The expanding conflict around Iran signals a deeper shift",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "ClickFix Campaigns Targeting Windows and macOS",
     "link": "https://www.recordedfuture.com/research/clickfix-campaigns-targeting-windows-and-macos",
     "published": "Wed, 25 Mar 2026 00:00:00 GMT",
@@ -983,43 +1027,6 @@
       "threat_categories": [
         "Vulnerability",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Preparing for Russia’s New Generation Warfare in Europe",
-    "link": "https://www.recordedfuture.com/research/preparing-for-russias-new-generation-warfare-in-europe",
-    "published": "Tue, 24 Feb 2026 00:00:00 GMT",
-    "summary": "Russia is escalating its hybrid warfare against NATO into a coordinated, full-scale campaign blending cyber attacks, sabotage, and influence operations. Read the full report to understand what New Generation Warfare means for your organization.",
-    "analysis": {
-      "issue": "Russia is escalating its hybrid warfare against NATO into a coordinated, full-scale campaign blending cyber attacks, sabotage, and influence operations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "2025 Cloud Threat Hunting and Defense Landscape",
-    "link": "https://www.recordedfuture.com/research/2025-cloud-threat-hunting-defense-landscape",
-    "published": "Thu, 19 Feb 2026 00:00:00 GMT",
-    "summary": "Threat actors are doubling down on cloud infrastructure — exploiting misconfigurations, abusing native services, and pivoting through hybrid environments to maximize impact. See how attack patterns are evolving across exploitation, ransomware, credential abuse, and AI service targeting in this latest cloud threat roundup.",
-    "analysis": {
-      "issue": "Threat actors are doubling down on cloud infrastructure — exploiting misconfigurations, abusing native services, and pivoting through hybrid environments to maximize impact",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
       ]
     }
   },
@@ -1190,8 +1197,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1216,6 +1223,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Wikipedia&#8217;s AI agent row likely just the beginning of the bot-ocalypse",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse",
+    "published": "Wed, 01 Apr 2026 21:49:55 GMT",
+    "summary": "An AI agent was banned from editing Wikipedia pages... and that's when things got weird, with the agent publishing its complaints publicly.",
+    "analysis": {
+      "issue": "The Internet is filled with people who insist on being right",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1384,25 +1409,6 @@
         "Vulnerability",
         "Malware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "GlassWorm attack installs fake browser extension for surveillance",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/glassworm-attack-installs-fake-browser-extension-for-surveillance",
-    "published": "Thu, 26 Mar 2026 13:00:39 GMT",
-    "summary": "It hides inside developer tools, then monitors activity and steals data, turning a single infection into a wider risk across the supply chain.",
-    "analysis": {
-      "issue": "GlassWorm hides inside developer tools",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
       ]
     }
   },
