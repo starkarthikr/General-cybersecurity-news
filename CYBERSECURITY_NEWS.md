@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-03 03:34:27 UTC
+**Last Updated:** 2026-04-03 09:29:37 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials](https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html)
+### 1. [New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images](https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 03 Apr 2026 14:40:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK](https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 03 Apr 2026 14:05:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials](https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 01:00:00 +0530  
@@ -14,7 +32,7 @@
 
 ---
 
-### 2. [Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise](https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html)
+### 4. [Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise](https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 20:51:00 +0530  
@@ -24,7 +42,7 @@
 
 ---
 
-### 3. [ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html)
+### 5. [ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 18:15:00 +0530  
@@ -33,7 +51,7 @@
 
 ---
 
-### 4. [Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners](https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html)
+### 6. [Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners](https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 17:12:00 +0530  
@@ -42,7 +60,7 @@
 
 ---
 
-### 5. [The State of Trusted Open Source Report](https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html)
+### 7. [The State of Trusted Open Source Report](https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 17:00:00 +0530  
@@ -51,7 +69,7 @@
 
 ---
 
-### 6. [WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action](https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html)
+### 8. [WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action](https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 15:21:00 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit](https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html)
+### 9. [Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit](https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 12:39:00 +0530  
@@ -69,7 +87,7 @@
 
 ---
 
-### 8. [CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails](https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html)
+### 10. [CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails](https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 01 Apr 2026 21:40:00 +0530  
@@ -78,25 +96,34 @@
 
 ---
 
-### 9. [Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass](https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html)
+### 11. [Man admits to locking thousands of Windows devices in extortion plot](https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 01 Apr 2026 19:40:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 03 Apr 2026 05:04:54 -0400  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** Ransomware  
 
 ---
 
-### 10. [Block the Prompt, Not the Work: The End of "Doctor No"](https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html)
+### 12. [Microsoft now force upgrades unmanaged Windows 11 24H2 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 01 Apr 2026 18:16:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 03 Apr 2026 03:55:40 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [Claude Code leak used to push infostealer malware on GitHub](https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/)
+### 13. [CERT-EU: European Commission hack exposes data of 30 EU entities](https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 03 Apr 2026 02:33:34 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 14. [Claude Code leak used to push infostealer malware on GitHub](https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 16:30:55 -0400  
@@ -105,7 +132,7 @@
 
 ---
 
-### 12. [Drift loses $280 million as hackers seize Security Council powers](https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/)
+### 15. [Drift loses $280 million North Korean hackers seize Security Council powers](https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 15:03:39 -0400  
@@ -114,7 +141,7 @@
 
 ---
 
-### 13. [Residential proxies evaded IP reputation checks in 78% of 4B sessions](https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/)
+### 16. [Residential proxies evaded IP reputation checks in 78% of 4B sessions](https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 11:21:02 -0400  
@@ -123,7 +150,7 @@
 
 ---
 
-### 14. [Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime](https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/)
+### 17. [Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime](https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 10:01:11 -0400  
@@ -132,17 +159,17 @@
 
 ---
 
-### 15. [New Progress ShareFile flaws can be chained in pre-auth RCE attacks](https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/)
+### 18. [New Progress ShareFile flaws can be chained in pre-auth RCE attacks](https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 09:33:11 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-2699, CVE-2026-2701  
+**CVEs:** CVE-2026-2701, CVE-2026-2699  
 **Categories:** Ransomware, Vulnerability, Supply Chain  
 
 ---
 
-### 16. [Medtech giant Stryker fully operational after data-wiping attack](https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/)
+### 19. [Medtech giant Stryker fully operational after data-wiping attack](https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 09:28:39 -0400  
@@ -151,41 +178,13 @@
 
 ---
 
-### 17. [Critical Cisco IMC auth bypass gives attackers Admin access](https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/)
+### 20. [Critical Cisco IMC auth bypass gives attackers Admin access](https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 07:01:14 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-20160, CVE-2026-20093  
 **Categories:** Vulnerability  
-
----
-
-### 18. [Microsoft links Classic Outlook issue to email delivery problems](https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 02 Apr 2026 05:12:12 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks](https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 02 Apr 2026 04:25:50 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2025-53521  
-**Categories:** Vulnerability  
-
----
-
-### 20. [New CrystalRAT malware adds RAT, stealer and prankware features](https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 01 Apr 2026 19:17:09 -0400  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -221,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-26110, CVE-2026-24294, CVE-2026-21262, CVE-2026-26113, CVE-2026-24291, CVE-2026-24289, CVE-2026-26127  
+**CVEs:** CVE-2026-24294, CVE-2026-24289, CVE-2026-24291, CVE-2026-26113, CVE-2026-21262, CVE-2026-26110, CVE-2026-25187, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -267,7 +266,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21516, CVE-2026-21519, CVE-2026-21510, CVE-2026-21256, CVE-2026-21513, CVE-2026-21533, CVE-2026-21514, CVE-2026-21509, CVE-2026-21523, CVE-2026-21525  
+**CVEs:** CVE-2026-21533, CVE-2026-21510, CVE-2026-21513, CVE-2026-21516, CVE-2026-21523, CVE-2026-21525, CVE-2026-21519, CVE-2026-21514, CVE-2026-21509, CVE-2026-21256  
 **Categories:** Vulnerability  
 
 ---
@@ -613,7 +612,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
