@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-03 09:29:37 UTC
+**Last Updated:** 2026-04-03 13:16:49 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images](https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html)
+### 1. [UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 03 Apr 2026 16:34:00 +0530  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 2. [Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 03 Apr 2026 16:30:00 +0530  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 3. [New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images](https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 14:40:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK](https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html)
+### 4. [Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK](https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 14:05:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials](https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html)
+### 5. [Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials](https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 01:00:00 +0530  
@@ -32,17 +50,17 @@
 
 ---
 
-### 4. [Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise](https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html)
+### 6. [Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise](https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 20:51:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2026-20160, CVE-2026-20093  
+**CVEs:** CVE-2026-20093, CVE-2026-20160  
 **Categories:** Vulnerability  
 
 ---
 
-### 5. [ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html)
+### 7. [ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 18:15:00 +0530  
@@ -51,7 +69,7 @@
 
 ---
 
-### 6. [Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners](https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html)
+### 8. [Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners](https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 17:12:00 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [The State of Trusted Open Source Report](https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html)
+### 9. [The State of Trusted Open Source Report](https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 17:00:00 +0530  
@@ -69,7 +87,7 @@
 
 ---
 
-### 8. [WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action](https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html)
+### 10. [WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action](https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 15:21:00 +0530  
@@ -78,25 +96,16 @@
 
 ---
 
-### 9. [Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit](https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html)
+### 11. [Microsoft still working to fix Exchange Online mailbox access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 02 Apr 2026 12:39:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 10. [CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails](https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 01 Apr 2026 21:40:00 +0530  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
+**Source:** Bleeping Computer  
+**Published:** Fri, 03 Apr 2026 07:25:20 -0400  
+**Severity:** Critical  
+**Categories:** General Security  
 
 ---
 
-### 11. [Man admits to locking thousands of Windows devices in extortion plot](https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/)
+### 12. [Man admits to locking thousands of Windows devices in extortion plot](https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 05:04:54 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [Microsoft now force upgrades unmanaged Windows 11 24H2 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/)
+### 13. [Microsoft now force upgrades unmanaged Windows 11 24H2 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 03:55:40 -0400  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [CERT-EU: European Commission hack exposes data of 30 EU entities](https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/)
+### 14. [CERT-EU: European Commission hack exposes data of 30 EU entities](https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 02:33:34 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Claude Code leak used to push infostealer malware on GitHub](https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/)
+### 15. [Claude Code leak used to push infostealer malware on GitHub](https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 16:30:55 -0400  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Drift loses $280 million North Korean hackers seize Security Council powers](https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/)
+### 16. [Drift loses $280 million North Korean hackers seize Security Council powers](https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 15:03:39 -0400  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [Residential proxies evaded IP reputation checks in 78% of 4B sessions](https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/)
+### 17. [Residential proxies evaded IP reputation checks in 78% of 4B sessions](https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 11:21:02 -0400  
@@ -150,7 +159,7 @@
 
 ---
 
-### 17. [Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime](https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/)
+### 18. [Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime](https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 10:01:11 -0400  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [New Progress ShareFile flaws can be chained in pre-auth RCE attacks](https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/)
+### 19. [New Progress ShareFile flaws can be chained in pre-auth RCE attacks](https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 09:33:11 -0400  
@@ -169,22 +178,12 @@
 
 ---
 
-### 19. [Medtech giant Stryker fully operational after data-wiping attack](https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/)
+### 20. [Medtech giant Stryker fully operational after data-wiping attack](https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 09:28:39 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [Critical Cisco IMC auth bypass gives attackers Admin access](https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 02 Apr 2026 07:01:14 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-20160, CVE-2026-20093  
-**Categories:** Vulnerability  
 
 ---
 
@@ -220,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24294, CVE-2026-24289, CVE-2026-24291, CVE-2026-26113, CVE-2026-21262, CVE-2026-26110, CVE-2026-25187, CVE-2026-26127  
+**CVEs:** CVE-2026-24289, CVE-2026-25187, CVE-2026-26110, CVE-2026-24294, CVE-2026-24291, CVE-2026-26113, CVE-2026-26127, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -266,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21533, CVE-2026-21510, CVE-2026-21513, CVE-2026-21516, CVE-2026-21523, CVE-2026-21525, CVE-2026-21519, CVE-2026-21514, CVE-2026-21509, CVE-2026-21256  
+**CVEs:** CVE-2026-21513, CVE-2026-21509, CVE-2026-21256, CVE-2026-21519, CVE-2026-21525, CVE-2026-21514, CVE-2026-21533, CVE-2026-21510, CVE-2026-21516, CVE-2026-21523  
 **Categories:** Vulnerability  
 
 ---
@@ -280,73 +279,73 @@
 
 ---
 
-### 31. [Critical Vulnerability in Claude Code Emerges Days After Source Leak](https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/)
+### 31. [TrueConf Zero-Day Exploited in Asian Government Attacks](https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/)
+
+**Source:** Security Week  
+**Published:** Fri, 03 Apr 2026 12:47:16 +0000  
+
+---
+
+### 32. [In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware](https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/)
+
+**Source:** Security Week  
+**Published:** Fri, 03 Apr 2026 12:30:53 +0000  
+
+---
+
+### 33. [Critical ShareFile Flaws Lead to Unauthenticated RCE](https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/)
+
+**Source:** Security Week  
+**Published:** Fri, 03 Apr 2026 12:12:22 +0000  
+
+---
+
+### 34. [Mobile Attack Surface Expands as Enterprises Lose Control](https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/)
+
+**Source:** Security Week  
+**Published:** Fri, 03 Apr 2026 11:00:00 +0000  
+
+---
+
+### 35. [React2Shell Exploited in Large-Scale Credential Harvesting Campaign](https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/)
+
+**Source:** Security Week  
+**Published:** Fri, 03 Apr 2026 10:55:13 +0000  
+
+---
+
+### 36. [T-Mobile Sets the Record Straight on Latest Data Breach Filing](https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/)
+
+**Source:** Security Week  
+**Published:** Fri, 03 Apr 2026 10:30:00 +0000  
+
+---
+
+### 37. [North Korean Hackers Drain $285 Million From Drift in 10 Seconds](https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/)
+
+**Source:** Security Week  
+**Published:** Fri, 03 Apr 2026 09:46:06 +0000  
+
+---
+
+### 38. [Critical Vulnerability in Claude Code Emerges Days After Source Leak](https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Apr 2026 18:00:55 +0000  
 
 ---
 
-### 32. [Apple Rolls Out DarkSword Exploit Protection to More Devices](https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/)
+### 39. [Apple Rolls Out DarkSword Exploit Protection to More Devices](https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Apr 2026 16:18:07 +0000  
 
 ---
 
-### 33. [Cybersecurity M&A Roundup: 38 Deals Announced in March 2026](https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/)
+### 40. [Cybersecurity M&A Roundup: 38 Deals Announced in March 2026](https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Apr 2026 14:30:00 +0000  
-
----
-
-### 34. [Cisco Patches Critical and High-Severity Vulnerabilities](https://www.securityweek.com/cisco-patches-critical-and-high-severity-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Thu, 02 Apr 2026 12:34:10 +0000  
-
----
-
-### 35. [250,000 Affected by Data Breach at Nacogdoches Memorial Hospital](https://www.securityweek.com/250000-affected-by-data-breach-at-nacogdoches-memorial-hospital/)
-
-**Source:** Security Week  
-**Published:** Thu, 02 Apr 2026 11:57:17 +0000  
-
----
-
-### 36. [Mercor Hit by LiteLLM Supply Chain Attack](https://www.securityweek.com/mercor-hit-by-litellm-supply-chain-attack/)
-
-**Source:** Security Week  
-**Published:** Thu, 02 Apr 2026 10:42:05 +0000  
-
----
-
-### 37. [Sophisticated CrystalX RAT Emerges](https://www.securityweek.com/sophisticated-crystalx-rat-emerges/)
-
-**Source:** Security Week  
-**Published:** Thu, 02 Apr 2026 09:51:07 +0000  
-
----
-
-### 38. [Variance Raises $21.5M for Compliance Investigation Platform Powered by AI Agents](https://www.securityweek.com/variance-raises-21-5m-for-compliance-investigation-platform-powered-by-ai-agents/)
-
-**Source:** Security Week  
-**Published:** Thu, 02 Apr 2026 08:01:49 +0000  
-
----
-
-### 39. [Linx Security Raises $50 Million for Identity Security and Governance](https://www.securityweek.com/linx-security-raises-50-million-for-identity-security-and-governance/)
-
-**Source:** Security Week  
-**Published:** Thu, 02 Apr 2026 04:04:19 +0000  
-
----
-
-### 40. [Depthfirst Raises $80 Million in Series B Funding](https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/)
-
-**Source:** Security Week  
-**Published:** Wed, 01 Apr 2026 16:47:45 +0000  
 
 ---
 
@@ -612,7 +611,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
