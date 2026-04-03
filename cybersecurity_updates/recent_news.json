@@ -1,6 +1,27 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
+    "link": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
+    "published": "Fri, 03 Apr 2026 01:00:00 +0530",
+    "summary": "A&nbsp;large-scale credential harvesting operation&nbsp;has been&nbsp;observed exploiting the React2Shell vulnerability as an initial infection vector to steal database credentials, SSH private keys, Amazon Web Services (AWS) secrets, shell command history, Stripe API keys, and GitHub tokens at&nbsp;scale.\nCisco&nbsp;Talos has attributed the operation to a threat cluster it tracks&nbsp;as",
+    "analysis": {
+      "issue": "766 hosts breached via CVE-2025-55182 in Next",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-55182"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
     "link": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html",
     "published": "Thu, 02 Apr 2026 20:51:00 +0530",
@@ -167,20 +188,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
-    "link": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html",
-    "published": "Wed, 01 Apr 2026 18:06:00 +0530",
-    "summary": "A multi-pronged phishing campaign is targeting Spanish-speaking users in organizations across Latin America and Europe to deliver Windows banking trojans like Casbaneiro (aka Metamorfo) via another malware called Horabot.\nThe activity has been attributed to a Brazilian cybercrime threat actor tracked as Augmented Marauder and Water Saci. The e-crime group was first documented by Trend Micro in",
+    "source": "Bleeping Computer",
+    "title": "Claude Code leak used to push infostealer malware on GitHub",
+    "link": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
+    "published": "Thu, 02 Apr 2026 16:30:55 -0400",
+    "summary": "Threat actors are exploiting the recent Claude Code source code leak by using fake GitHub repositories to deliver Vidar information-stealing malware. [...]",
     "analysis": {
-      "issue": "Augmented Marauder targets Latin America and Europe since 2020, using dynamic PDF phishing to spread Casbaneiro via Horabot",
+      "issue": "Threat actors are exploiting the recent Claude Code source code leak by using fake GitHub repositories to deliver Vidar information-stealing malware",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Phishing"
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Drift loses $280 million as hackers seize Security Council powers",
+    "link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/",
+    "published": "Thu, 02 Apr 2026 15:03:39 -0400",
+    "summary": "The Drift Protocol lost at least $280 million after a threat actor took control of its Security Council administrative powers in a planned, sophisticated operation. [...]",
+    "analysis": {
+      "issue": "The Drift Protocol lost at least $280 million after a threat actor took control of its Security Council administrative powers in a planned, sophisticated operation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -341,52 +381,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/",
-    "published": "Wed, 01 Apr 2026 17:50:49 -0400",
-    "summary": "Apple has now made it possible for more iPhones still running iOS 18 to receive security updates that protect against the actively exploited DarkSword exploit kit. [...]",
-    "analysis": {
-      "issue": "Apple has now made it possible for more iPhones still running iOS 18 to receive security updates that protect against the actively exploited DarkSword exploit kit",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2025-43520",
-        "CVE-2025-43510",
-        "CVE-2025-43529",
-        "CVE-2025-14174",
-        "CVE-2025-31277",
-        "CVE-2026-20700"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit TrueConf zero-day to push malicious software updates",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/",
-    "published": "Wed, 01 Apr 2026 17:35:47 -0400",
-    "summary": "Hackers have targeted TrueConf conference servers in attacks that exploit a zero-day vulnerability, allowing them to execute arbitrary files on all connected endpoints. [...]",
-    "analysis": {
-      "issue": "Hackers have targeted TrueConf conference servers in attacks that exploit a zero-day vulnerability, allowing them to execute arbitrary files on all connected endpoints",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-3502"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -456,14 +450,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26113",
-        "CVE-2026-26127",
         "CVE-2026-24294",
-        "CVE-2026-24291",
-        "CVE-2026-25187",
+        "CVE-2026-26127",
         "CVE-2026-21262",
+        "CVE-2026-24291",
         "CVE-2026-24289",
-        "CVE-2026-26110"
+        "CVE-2026-26110",
+        "CVE-2026-26113",
+        "CVE-2026-25187"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -560,16 +554,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21523",
-        "CVE-2026-21533",
-        "CVE-2026-21256",
-        "CVE-2026-21510",
-        "CVE-2026-21516",
-        "CVE-2026-21514",
-        "CVE-2026-21525",
         "CVE-2026-21509",
+        "CVE-2026-21516",
+        "CVE-2026-21523",
+        "CVE-2026-21514",
+        "CVE-2026-21533",
+        "CVE-2026-21525",
         "CVE-2026-21519",
-        "CVE-2026-21513"
+        "CVE-2026-21513",
+        "CVE-2026-21256",
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -596,6 +590,13 @@
         "DDoS"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical Vulnerability in Claude Code Emerges Days After Source Leak",
+    "link": "https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/",
+    "published": "Thu, 02 Apr 2026 18:00:55 +0000",
+    "summary": "<p>Within days of each other, Anthropic first leaked the source code to Claude Code, and then a critical vulnerability was found by Adversa AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/\">Critical Vulnerability in Claude Code Emerges Days After Source Leak</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -661,11 +662,22 @@
     "summary": "<p>The startup will expand its AI research team, train additional security models, and scale enterprise adoption.</p>\n<p>The post <a href=\"https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/\">Depthfirst Raises $80 Million in Series B Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "Toy Giant Hasbro Hit by Cyberattack",
-    "link": "https://www.securityweek.com/toy-giant-hasbro-hit-by-cyberattack/",
-    "published": "Wed, 01 Apr 2026 15:35:47 +0000",
-    "summary": "<p>The company is investigating the full scope of the incident, including whether any files have been compromised.</p>\n<p>The post <a href=\"https://www.securityweek.com/toy-giant-hasbro-hit-by-cyberattack/\">Toy Giant Hasbro Hit by Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "The democratisation of business email compromise fraud",
+    "link": "https://blog.talosintelligence.com/the-democratisation-of-business-email-compromise-fraud/",
+    "published": "Thu, 02 Apr 2026 18:00:20 GMT",
+    "summary": "This week, Martin tells the story of a crime he encountered and how it shows that the threat landscape is changing.",
+    "analysis": {
+      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "Talos Blog",
@@ -835,24 +847,6 @@
       "cves": [],
       "threat_categories": [
         "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Beers with Talos breaks down the 2025 Talos Year in Review",
-    "link": "https://blog.talosintelligence.com/beers-with-talos-breaks-down-the-2025-talos-year-in-review/",
-    "published": "Mon, 23 Mar 2026 12:55:29 GMT",
-    "summary": "The Beers with Talos team unpack the biggest cybersecurity threats of 2025, from React2Shell to ransomware and identity abuse, and what it all means for defenders going forward.",
-    "analysis": {
-      "issue": "The Beers with Talos B team (that’s Hazel, Bill, Joe and Dave) break down (sometimes in the literal sense) the 2025 Talos Year in Review which is available now",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },

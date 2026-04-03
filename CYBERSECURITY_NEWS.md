@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-02 17:24:38 UTC
+**Last Updated:** 2026-04-03 02:51:36 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise](https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html)
+### 1. [Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials](https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 03 Apr 2026 01:00:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2025-55182  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 2. [Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise](https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 20:51:00 +0530  
@@ -14,7 +24,7 @@
 
 ---
 
-### 2. [ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html)
+### 3. [ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 18:15:00 +0530  
@@ -23,7 +33,7 @@
 
 ---
 
-### 3. [Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners](https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html)
+### 4. [Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners](https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 17:12:00 +0530  
@@ -32,7 +42,7 @@
 
 ---
 
-### 4. [The State of Trusted Open Source Report](https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html)
+### 5. [The State of Trusted Open Source Report](https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 17:00:00 +0530  
@@ -41,7 +51,7 @@
 
 ---
 
-### 5. [WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action](https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html)
+### 6. [WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action](https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 15:21:00 +0530  
@@ -50,7 +60,7 @@
 
 ---
 
-### 6. [Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit](https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html)
+### 7. [Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit](https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 12:39:00 +0530  
@@ -59,7 +69,7 @@
 
 ---
 
-### 7. [CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails](https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html)
+### 8. [CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails](https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 01 Apr 2026 21:40:00 +0530  
@@ -68,7 +78,7 @@
 
 ---
 
-### 8. [Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass](https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html)
+### 9. [Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass](https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 01 Apr 2026 19:40:00 +0530  
@@ -77,7 +87,7 @@
 
 ---
 
-### 9. [Block the Prompt, Not the Work: The End of "Doctor No"](https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html)
+### 10. [Block the Prompt, Not the Work: The End of "Doctor No"](https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 01 Apr 2026 18:16:00 +0530  
@@ -86,16 +96,25 @@
 
 ---
 
-### 10. [Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures](https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html)
+### 11. [Claude Code leak used to push infostealer malware on GitHub](https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 01 Apr 2026 18:06:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 02 Apr 2026 16:30:55 -0400  
 **Severity:** Low  
-**Categories:** Phishing  
+**Categories:** Vulnerability, Malware  
 
 ---
 
-### 11. [Residential proxies evaded IP reputation checks in 78% of 4B sessions](https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/)
+### 12. [Drift loses $280 million as hackers seize Security Council powers](https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 02 Apr 2026 15:03:39 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [Residential proxies evaded IP reputation checks in 78% of 4B sessions](https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 11:21:02 -0400  
@@ -104,7 +123,7 @@
 
 ---
 
-### 12. [Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime](https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/)
+### 14. [Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime](https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 10:01:11 -0400  
@@ -113,7 +132,7 @@
 
 ---
 
-### 13. [New Progress ShareFile flaws can be chained in pre-auth RCE attacks](https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/)
+### 15. [New Progress ShareFile flaws can be chained in pre-auth RCE attacks](https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 09:33:11 -0400  
@@ -123,7 +142,7 @@
 
 ---
 
-### 14. [Medtech giant Stryker fully operational after data-wiping attack](https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/)
+### 16. [Medtech giant Stryker fully operational after data-wiping attack](https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 09:28:39 -0400  
@@ -132,7 +151,7 @@
 
 ---
 
-### 15. [Critical Cisco IMC auth bypass gives attackers Admin access](https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/)
+### 17. [Critical Cisco IMC auth bypass gives attackers Admin access](https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 07:01:14 -0400  
@@ -142,7 +161,7 @@
 
 ---
 
-### 16. [Microsoft links Classic Outlook issue to email delivery problems](https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/)
+### 18. [Microsoft links Classic Outlook issue to email delivery problems](https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 05:12:12 -0400  
@@ -151,7 +170,7 @@
 
 ---
 
-### 17. [Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks](https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/)
+### 19. [Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks](https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 04:25:50 -0400  
@@ -161,32 +180,12 @@
 
 ---
 
-### 18. [New CrystalRAT malware adds RAT, stealer and prankware features](https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/)
+### 20. [New CrystalRAT malware adds RAT, stealer and prankware features](https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 01 Apr 2026 19:17:09 -0400  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 19. [Apple expands iOS 18 updates to more iPhones to block DarkSword attacks](https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 01 Apr 2026 17:50:49 -0400  
-**Severity:** High  
-**CVEs:** CVE-2025-43520, CVE-2025-43510, CVE-2025-43529, CVE-2025-14174, CVE-2025-31277, CVE-2026-20700  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 20. [Hackers exploit TrueConf zero-day to push malicious software updates](https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 01 Apr 2026 17:35:47 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-3502  
-**Categories:** Vulnerability  
 
 ---
 
@@ -222,7 +221,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-26127, CVE-2026-24294, CVE-2026-24291, CVE-2026-25187, CVE-2026-21262, CVE-2026-24289, CVE-2026-26110  
+**CVEs:** CVE-2026-24294, CVE-2026-26127, CVE-2026-21262, CVE-2026-24291, CVE-2026-24289, CVE-2026-26110, CVE-2026-26113, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -268,7 +267,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21523, CVE-2026-21533, CVE-2026-21256, CVE-2026-21510, CVE-2026-21516, CVE-2026-21514, CVE-2026-21525, CVE-2026-21509, CVE-2026-21519, CVE-2026-21513  
+**CVEs:** CVE-2026-21509, CVE-2026-21516, CVE-2026-21523, CVE-2026-21514, CVE-2026-21533, CVE-2026-21525, CVE-2026-21519, CVE-2026-21513, CVE-2026-21256, CVE-2026-21510  
 **Categories:** Vulnerability  
 
 ---
@@ -282,77 +281,86 @@
 
 ---
 
-### 31. [Apple Rolls Out DarkSword Exploit Protection to More Devices](https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/)
+### 31. [Critical Vulnerability in Claude Code Emerges Days After Source Leak](https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/)
+
+**Source:** Security Week  
+**Published:** Thu, 02 Apr 2026 18:00:55 +0000  
+
+---
+
+### 32. [Apple Rolls Out DarkSword Exploit Protection to More Devices](https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Apr 2026 16:18:07 +0000  
 
 ---
 
-### 32. [Cybersecurity M&A Roundup: 38 Deals Announced in March 2026](https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/)
+### 33. [Cybersecurity M&A Roundup: 38 Deals Announced in March 2026](https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Apr 2026 14:30:00 +0000  
 
 ---
 
-### 33. [Cisco Patches Critical and High-Severity Vulnerabilities](https://www.securityweek.com/cisco-patches-critical-and-high-severity-vulnerabilities/)
+### 34. [Cisco Patches Critical and High-Severity Vulnerabilities](https://www.securityweek.com/cisco-patches-critical-and-high-severity-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Apr 2026 12:34:10 +0000  
 
 ---
 
-### 34. [250,000 Affected by Data Breach at Nacogdoches Memorial Hospital](https://www.securityweek.com/250000-affected-by-data-breach-at-nacogdoches-memorial-hospital/)
+### 35. [250,000 Affected by Data Breach at Nacogdoches Memorial Hospital](https://www.securityweek.com/250000-affected-by-data-breach-at-nacogdoches-memorial-hospital/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Apr 2026 11:57:17 +0000  
 
 ---
 
-### 35. [Mercor Hit by LiteLLM Supply Chain Attack](https://www.securityweek.com/mercor-hit-by-litellm-supply-chain-attack/)
+### 36. [Mercor Hit by LiteLLM Supply Chain Attack](https://www.securityweek.com/mercor-hit-by-litellm-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Apr 2026 10:42:05 +0000  
 
 ---
 
-### 36. [Sophisticated CrystalX RAT Emerges](https://www.securityweek.com/sophisticated-crystalx-rat-emerges/)
+### 37. [Sophisticated CrystalX RAT Emerges](https://www.securityweek.com/sophisticated-crystalx-rat-emerges/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Apr 2026 09:51:07 +0000  
 
 ---
 
-### 37. [Variance Raises $21.5M for Compliance Investigation Platform Powered by AI Agents](https://www.securityweek.com/variance-raises-21-5m-for-compliance-investigation-platform-powered-by-ai-agents/)
+### 38. [Variance Raises $21.5M for Compliance Investigation Platform Powered by AI Agents](https://www.securityweek.com/variance-raises-21-5m-for-compliance-investigation-platform-powered-by-ai-agents/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Apr 2026 08:01:49 +0000  
 
 ---
 
-### 38. [Linx Security Raises $50 Million for Identity Security and Governance](https://www.securityweek.com/linx-security-raises-50-million-for-identity-security-and-governance/)
+### 39. [Linx Security Raises $50 Million for Identity Security and Governance](https://www.securityweek.com/linx-security-raises-50-million-for-identity-security-and-governance/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Apr 2026 04:04:19 +0000  
 
 ---
 
-### 39. [Depthfirst Raises $80 Million in Series B Funding](https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/)
+### 40. [Depthfirst Raises $80 Million in Series B Funding](https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/)
 
 **Source:** Security Week  
 **Published:** Wed, 01 Apr 2026 16:47:45 +0000  
 
 ---
 
-### 40. [Toy Giant Hasbro Hit by Cyberattack](https://www.securityweek.com/toy-giant-hasbro-hit-by-cyberattack/)
+### 41. [The democratisation of business email compromise fraud](https://blog.talosintelligence.com/the-democratisation-of-business-email-compromise-fraud/)
 
-**Source:** Security Week  
-**Published:** Wed, 01 Apr 2026 15:35:47 +0000  
+**Source:** Talos Blog  
+**Published:** Thu, 02 Apr 2026 18:00:20 GMT  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
-### 41. [[Video] The TTP Ep 21: When Attackers Become Trusted Users](https://blog.talosintelligence.com/video-the-ttp-ep-21-when-attackers-become-trusted-users/)
+### 42. [[Video] The TTP Ep 21: When Attackers Become Trusted Users](https://blog.talosintelligence.com/video-the-ttp-ep-21-when-attackers-become-trusted-users/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Apr 2026 13:06:45 GMT  
@@ -361,7 +369,7 @@
 
 ---
 
-### 42. [UAT-10608: Inside a large-scale automated credential harvesting operation targeting web applications](https://blog.talosintelligence.com/uat-10608-inside-a-large-scale-automated-credential-harvesting-operation-targeting-web-applications/)
+### 43. [UAT-10608: Inside a large-scale automated credential harvesting operation targeting web applications](https://blog.talosintelligence.com/uat-10608-inside-a-large-scale-automated-credential-harvesting-operation-targeting-web-applications/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Apr 2026 10:00:57 GMT  
@@ -371,7 +379,7 @@
 
 ---
 
-### 43. [Qilin EDR killer infection chain](https://blog.talosintelligence.com/qilin-edr-killer/)
+### 44. [Qilin EDR killer infection chain](https://blog.talosintelligence.com/qilin-edr-killer/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Apr 2026 10:00:56 GMT  
@@ -380,7 +388,7 @@
 
 ---
 
-### 44. [Inside the Talos 2025 Year in Review: A discussion on what the data means for defenders](https://blog.talosintelligence.com/inside-the-talos-2025-year-in-review-a-discussion-on-what-the-data-means-for-defenders/)
+### 45. [Inside the Talos 2025 Year in Review: A discussion on what the data means for defenders](https://blog.talosintelligence.com/inside-the-talos-2025-year-in-review-a-discussion-on-what-the-data-means-for-defenders/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Apr 2026 10:00:49 GMT  
@@ -389,7 +397,7 @@
 
 ---
 
-### 45. [An overview of ransomware threats in Japan in 2025 and early detection insights from Qilin cases](https://blog.talosintelligence.com/an-overview-of-ransomware-threats-in-japan-in-2025-and-early-detection-insights-from-qilin-cases/)
+### 46. [An overview of ransomware threats in Japan in 2025 and early detection insights from Qilin cases](https://blog.talosintelligence.com/an-overview-of-ransomware-threats-in-japan-in-2025-and-early-detection-insights-from-qilin-cases/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Apr 2026 10:00:13 GMT  
@@ -398,7 +406,7 @@
 
 ---
 
-### 46. [Ransomware in 2025: Blending in is the strategy](https://blog.talosintelligence.com/ransomware-in-2025-blending-in-is-the-strategy/)
+### 47. [Ransomware in 2025: Blending in is the strategy](https://blog.talosintelligence.com/ransomware-in-2025-blending-in-is-the-strategy/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 31 Mar 2026 10:00:02 GMT  
@@ -407,7 +415,7 @@
 
 ---
 
-### 47. [TP-Link, Canva, HikVision vulnerabilities](https://blog.talosintelligence.com/tp-link-canva-hikvision-vulnerabilities/)
+### 48. [TP-Link, Canva, HikVision vulnerabilities](https://blog.talosintelligence.com/tp-link-canva-hikvision-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 26 Mar 2026 18:34:26 GMT  
@@ -417,7 +425,7 @@
 
 ---
 
-### 48. [A puppet made me cry and all I got was this t-shirt](https://blog.talosintelligence.com/a-puppet-made-me-cry-and-all-i-got-was-this-t-shirt/)
+### 49. [A puppet made me cry and all I got was this t-shirt](https://blog.talosintelligence.com/a-puppet-made-me-cry-and-all-i-got-was-this-t-shirt/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 26 Mar 2026 18:00:44 GMT  
@@ -426,21 +434,12 @@
 
 ---
 
-### 49. [Talos Takes: 2025 insights from Talos and Splunk](https://blog.talosintelligence.com/cybersecuritys-double-header-2025-insights-from-talos-and-splunk/)
+### 50. [Talos Takes: 2025 insights from Talos and Splunk](https://blog.talosintelligence.com/cybersecuritys-double-header-2025-insights-from-talos-and-splunk/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 26 Mar 2026 12:48:18 GMT  
 **Severity:** Critical  
 **Categories:** Ransomware  
-
----
-
-### 50. [Beers with Talos breaks down the 2025 Talos Year in Review](https://blog.talosintelligence.com/beers-with-talos-breaks-down-the-2025-talos-year-in-review/)
-
-**Source:** Talos Blog  
-**Published:** Mon, 23 Mar 2026 12:55:29 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
