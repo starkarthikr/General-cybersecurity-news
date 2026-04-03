@@ -105,8 +105,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-20093",
-        "CVE-2026-20160"
+        "CVE-2026-20160",
+        "CVE-2026-20093"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -183,6 +183,43 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Die Linke German political party confirms data stolen by Qilin ransomware",
+    "link": "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/",
+    "published": "Fri, 03 Apr 2026 12:36:44 -0400",
+    "summary": "The Qilin ransomware group has claimed responsibility for an attack against Die Linke ('The Left'), forcing an IT systems outage at the political party, and threatening sensitive data leak. [...]",
+    "analysis": {
+      "issue": "The Qilin ransomware group has stolen data from Die Linke, a German democratic socialist political party, and is threatening to leak it",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Evolution of Ransomware: Multi-Extortion Ransomware Attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/",
+    "published": "Fri, 03 Apr 2026 10:05:15 -0400",
+    "summary": "Multi-extortion ransomware relies on stolen data to pressure victims with public leaks. Penta Security explains how its D.AMO platform keeps exfiltrated files encrypted and useless to attackers. [...]",
+    "analysis": {
+      "issue": "In February 2026, the University of Mississippi Medical Center (UMMC) fell victim to a ransomware attack",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
       ]
     }
   },
@@ -334,47 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
-    "published": "Thu, 02 Apr 2026 09:33:11 -0400",
-    "summary": "Two vulnerabilities in Progress ShareFile, an enterprise-grade secure file transfer solution, can be chained to enable unauthenticated file exfiltration from affected environments. [...]",
-    "analysis": {
-      "issue": "Two vulnerabilities in Progress ShareFile, an enterprise-grade secure file transfer solution, can be chained to enable unauthenticated file exfiltration from affected environments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-2701",
-        "CVE-2026-2699"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Medtech giant Stryker fully operational after data-wiping attack",
-    "link": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/",
-    "published": "Thu, 02 Apr 2026 09:28:39 -0400",
-    "summary": "Stryker Corporation, one of the world's leading medical technology companies, says it's fully operational three weeks after many of its systems were wiped out in a cyberattack claimed by the Iranian-linked Handala hacktivist group. [...]",
-    "analysis": {
-      "issue": "Stryker Corporation, one of the world's leading medical technology companies, says it's fully operational three weeks after many of its systems were wiped out in a cyberattack claimed by the Iranian-linked Handala hacktivist group",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -444,14 +440,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24289",
-        "CVE-2026-25187",
+        "CVE-2026-26127",
+        "CVE-2026-21262",
+        "CVE-2026-26113",
         "CVE-2026-26110",
         "CVE-2026-24294",
         "CVE-2026-24291",
-        "CVE-2026-26113",
-        "CVE-2026-26127",
-        "CVE-2026-21262"
+        "CVE-2026-25187",
+        "CVE-2026-24289"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -548,16 +544,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21514",
+        "CVE-2026-21519",
         "CVE-2026-21513",
         "CVE-2026-21509",
-        "CVE-2026-21256",
-        "CVE-2026-21519",
-        "CVE-2026-21525",
-        "CVE-2026-21514",
-        "CVE-2026-21533",
-        "CVE-2026-21510",
         "CVE-2026-21516",
-        "CVE-2026-21523"
+        "CVE-2026-21533",
+        "CVE-2026-21523",
+        "CVE-2026-21510",
+        "CVE-2026-21256",
+        "CVE-2026-21525"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -654,6 +650,25 @@
     "link": "https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/",
     "published": "Thu, 02 Apr 2026 14:30:00 +0000",
     "summary": "<p>Significant cybersecurity M&#038;A deals announced by Airbus, Cellebrite, Databricks, Quantum eMotion, Rapid7, and OpenAI.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/\">Cybersecurity M&#038;A Roundup: 38 Deals Announced in March 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Talos Blog",
+    "title": "Axois NPM Supply Chain Incident",
+    "link": "https://blog.talosintelligence.com/axois-npm-supply-chain-incident/",
+    "published": "Fri, 03 Apr 2026 17:00:22 GMT",
+    "summary": "Overview of the recent Axios NPM supply chain incident including details of the payloads delivered from actor-controlled infrastructure.",
+    "analysis": {
+      "issue": "Cisco Talos is actively investigating the March 31, 2026 supply chain attack on the official Axios node package manager (npm) package during which two malicious versions (v1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
   },
   {
     "source": "Talos Blog",
@@ -823,24 +838,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Talos Takes: 2025 insights from Talos and Splunk",
-    "link": "https://blog.talosintelligence.com/cybersecuritys-double-header-2025-insights-from-talos-and-splunk/",
-    "published": "Thu, 26 Mar 2026 12:48:18 GMT",
-    "summary": "This episode of Talos Takes breaks down the 2025 Year in Review as well as Splunk's Top 50 Cybersecurity Threats report.",
-    "analysis": {
-      "issue": "In this episode of Talos Takes, Amy is joined by William Largent (Cisco Talos) and Lou Stella (Splunk) for a \"double-header\" discussion",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
       ]
     }
   },
@@ -1222,6 +1219,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Blocking children from social media is a badly executed good idea",
+    "link": "https://www.malwarebytes.com/blog/news/2026/04/blocking-children-from-social-media-is-a-badly-executed-good-idea",
+    "published": "Fri, 03 Apr 2026 14:37:52 GMT",
+    "summary": "Governments are each inventing their own flavor of an age based ban for social media. Is the cure worse than the disease?",
+    "analysis": {
+      "issue": "While we can probably all agree that there is more than enough proof that social media is bad for the mental health of our children, the methods we are trying to block or ban them seem to do more harm than good",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Apple expands “DarkSword” patches to iOS 18.7.7",
     "link": "https://www.malwarebytes.com/blog/news/2026/04/apple-expands-darksword-patches-to-ios-18-7-7",
     "published": "Thu, 02 Apr 2026 14:13:44 GMT",
@@ -1385,24 +1400,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Criminals are renting virtual phones to bypass bank security",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/criminals-are-renting-virtual-phones-to-bypass-bank-security",
-    "published": "Fri, 27 Mar 2026 13:34:44 GMT",
-    "summary": "Not a real phone, but good enough to fool your bank. Researchers warn criminals are using virtual devices to bypass fraud checks.",
-    "analysis": {
-      "issue": "Researchers at Group-IB warn about criminals using virtual Android devices to bypass modern security solutions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
