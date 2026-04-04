@@ -32,7 +32,7 @@ jobs:
         run: python scripts/parse_cybersec_feeds.py
       
       - name: Commit and push updates
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: '📰 Update Dark Reading news - automated'
           file_pattern: 'cybersecurity_updates/ CYBERSECURITY_NEWS.md'
