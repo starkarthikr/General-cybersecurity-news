@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-04 09:06:28 UTC
+**Last Updated:** 2026-04-04 13:08:57 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -73,7 +73,7 @@
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 20:51:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2026-20093, CVE-2026-20160  
+**CVEs:** CVE-2026-20160, CVE-2026-20093  
 **Categories:** Vulnerability  
 
 ---
@@ -218,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-26113, CVE-2026-26127, CVE-2026-24294, CVE-2026-26110, CVE-2026-24289, CVE-2026-24291, CVE-2026-25187  
+**CVEs:** CVE-2026-26127, CVE-2026-25187, CVE-2026-24294, CVE-2026-21262, CVE-2026-24291, CVE-2026-26110, CVE-2026-24289, CVE-2026-26113  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -264,7 +264,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21519, CVE-2026-21525, CVE-2026-21509, CVE-2026-21516, CVE-2026-21523, CVE-2026-21256, CVE-2026-21514, CVE-2026-21510, CVE-2026-21533, CVE-2026-21513  
+**CVEs:** CVE-2026-21525, CVE-2026-21256, CVE-2026-21516, CVE-2026-21523, CVE-2026-21519, CVE-2026-21510, CVE-2026-21514, CVE-2026-21533, CVE-2026-21513, CVE-2026-21509  
 **Categories:** Vulnerability  
 
 ---
@@ -278,73 +278,73 @@
 
 ---
 
-### 31. [TrueConf Zero-Day Exploited in Asian Government Attacks](https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/)
+### 31. [European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack](https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/)
+
+**Source:** Security Week  
+**Published:** Sat, 04 Apr 2026 10:31:00 +0000  
+
+---
+
+### 32. [TrueConf Zero-Day Exploited in Asian Government Attacks](https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 12:47:16 +0000  
 
 ---
 
-### 32. [In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware](https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/)
+### 33. [In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware](https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 12:30:53 +0000  
 
 ---
 
-### 33. [Critical ShareFile Flaws Lead to Unauthenticated RCE](https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/)
+### 34. [Critical ShareFile Flaws Lead to Unauthenticated RCE](https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 12:12:22 +0000  
 
 ---
 
-### 34. [Mobile Attack Surface Expands as Enterprises Lose Control](https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/)
+### 35. [Mobile Attack Surface Expands as Enterprises Lose Control](https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 11:00:00 +0000  
 
 ---
 
-### 35. [React2Shell Exploited in Large-Scale Credential Harvesting Campaign](https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/)
+### 36. [React2Shell Exploited in Large-Scale Credential Harvesting Campaign](https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 10:55:13 +0000  
 
 ---
 
-### 36. [T-Mobile Sets the Record Straight on Latest Data Breach Filing](https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/)
+### 37. [T-Mobile Sets the Record Straight on Latest Data Breach Filing](https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 10:30:00 +0000  
 
 ---
 
-### 37. [North Korean Hackers Drain $285 Million From Drift in 10 Seconds](https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/)
+### 38. [North Korean Hackers Drain $285 Million From Drift in 10 Seconds](https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 09:46:06 +0000  
 
 ---
 
-### 38. [Critical Vulnerability in Claude Code Emerges Days After Source Leak](https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/)
+### 39. [Critical Vulnerability in Claude Code Emerges Days After Source Leak](https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Apr 2026 18:00:55 +0000  
 
 ---
 
-### 39. [Apple Rolls Out DarkSword Exploit Protection to More Devices](https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/)
+### 40. [Apple Rolls Out DarkSword Exploit Protection to More Devices](https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Apr 2026 16:18:07 +0000  
-
----
-
-### 40. [Cybersecurity M&A Roundup: 38 Deals Announced in March 2026](https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/)
-
-**Source:** Security Week  
-**Published:** Thu, 02 Apr 2026 14:30:00 +0000  
 
 ---
 

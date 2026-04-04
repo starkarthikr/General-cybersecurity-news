@@ -141,8 +141,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-20093",
-        "CVE-2026-20160"
+        "CVE-2026-20160",
+        "CVE-2026-20093"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -439,14 +439,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21262",
-        "CVE-2026-26113",
         "CVE-2026-26127",
+        "CVE-2026-25187",
         "CVE-2026-24294",
+        "CVE-2026-21262",
+        "CVE-2026-24291",
         "CVE-2026-26110",
         "CVE-2026-24289",
-        "CVE-2026-24291",
-        "CVE-2026-25187"
+        "CVE-2026-26113"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -543,16 +543,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21519",
         "CVE-2026-21525",
-        "CVE-2026-21509",
+        "CVE-2026-21256",
         "CVE-2026-21516",
         "CVE-2026-21523",
-        "CVE-2026-21256",
-        "CVE-2026-21514",
+        "CVE-2026-21519",
         "CVE-2026-21510",
+        "CVE-2026-21514",
         "CVE-2026-21533",
-        "CVE-2026-21513"
+        "CVE-2026-21513",
+        "CVE-2026-21509"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -579,6 +579,13 @@
         "DDoS"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack",
+    "link": "https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/",
+    "published": "Sat, 04 Apr 2026 10:31:00 +0000",
+    "summary": "<p>Hackers stole over 300GB of data from the Commission’s AWS environment, including personal information.</p>\n<p>The post <a href=\"https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/\">European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -642,13 +649,6 @@
     "link": "https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/",
     "published": "Thu, 02 Apr 2026 16:18:07 +0000",
     "summary": "<p>The DarkSword exploit kit has been used by both state-sponsored hackers and commercial spyware vendors.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/\">Apple Rolls Out DarkSword Exploit Protection to More Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Cybersecurity M&A Roundup: 38 Deals Announced in March 2026",
-    "link": "https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/",
-    "published": "Thu, 02 Apr 2026 14:30:00 +0000",
-    "summary": "<p>Significant cybersecurity M&#038;A deals announced by Airbus, Cellebrite, Databricks, Quantum eMotion, Rapid7, and OpenAI.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/\">Cybersecurity M&#038;A Roundup: 38 Deals Announced in March 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
