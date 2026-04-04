@@ -94,18 +94,7 @@
     "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK",
     "link": "https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html",
     "published": "Fri, 03 Apr 2026 14:05:00 +0530",
-    "summary": "Solana-based decentralized exchange Drift has confirmed that attackers drained about $285 million from the platform during a security incident that took place on April 1,&nbsp;2026.\n\"Earlier today, a malicious actor gained unauthorized access to Drift Protocol through a novel attack involving durable nonces, resulting in a rapid takeover of Drift’s Security Council administrative powers,\" the&",
-    "analysis": {
-      "issue": "Drift lost $285M on April 1, 2026 after nonce-based social engineering enabled admin takeover, exposing DPRK-linked crypto theft patterns",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "summary": "Solana-based decentralized exchange Drift has confirmed that attackers drained about $285 million from the platform during a security incident that took place on April 1,&nbsp;2026.\n\"Earlier today, a malicious actor gained unauthorized access to Drift Protocol through a novel attack involving durable nonces, resulting in a rapid takeover of Drift’s Security Council administrative powers,\" the&"
   },
   {
     "source": "The Hacker News",
@@ -141,8 +130,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-20160",
-        "CVE-2026-20093"
+        "CVE-2026-20093",
+        "CVE-2026-20160"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -188,8 +177,27 @@
   },
   {
     "source": "Bleeping Computer",
-    "title": "LinkedIn secretely scans for 6,000+ Chrome extensions, collects data",
-    "link": "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/",
+    "title": "Device code phishing attacks surge 37x as new kits spread online",
+    "link": "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/",
+    "published": "Sat, 04 Apr 2026 10:17:38 -0400",
+    "summary": "Device code phishing attacks that abuse the OAuth 2.0 Device Authorization Grant flow to hijack accounts have surged more than 37 times this year. [...]",
+    "analysis": {
+      "issue": "Device code phishing attacks that abuse the OAuth 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data",
+    "link": "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/",
     "published": "Fri, 03 Apr 2026 16:40:22 -0400",
     "summary": "A new report dubbed \"BrowserGate\" warns that Microsoft's LinkedIn is using hidden JavaScript scripts on its website to scan visitors' browsers for installed extensions and collect device data. [...]",
     "analysis": {
@@ -352,24 +360,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Drift loses $280 million as North Korean hackers seize Security Council powers",
-    "link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/",
-    "published": "Thu, 02 Apr 2026 15:03:39 -0400",
-    "summary": "The Drift Protocol lost at least $280 million after a threat actor took control of its Security Council administrative powers in a planned, sophisticated operation. [...]",
-    "analysis": {
-      "issue": "Update: Revised story and title based on new information linking the attack with North Korean hackers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -439,14 +429,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26127",
-        "CVE-2026-25187",
-        "CVE-2026-24294",
-        "CVE-2026-21262",
-        "CVE-2026-24291",
-        "CVE-2026-26110",
         "CVE-2026-24289",
-        "CVE-2026-26113"
+        "CVE-2026-26127",
+        "CVE-2026-26113",
+        "CVE-2026-21262",
+        "CVE-2026-26110",
+        "CVE-2026-24294",
+        "CVE-2026-24291",
+        "CVE-2026-25187"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -543,16 +533,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21525",
-        "CVE-2026-21256",
-        "CVE-2026-21516",
-        "CVE-2026-21523",
+        "CVE-2026-21533",
         "CVE-2026-21519",
+        "CVE-2026-21523",
         "CVE-2026-21510",
         "CVE-2026-21514",
-        "CVE-2026-21533",
         "CVE-2026-21513",
-        "CVE-2026-21509"
+        "CVE-2026-21516",
+        "CVE-2026-21509",
+        "CVE-2026-21525",
+        "CVE-2026-21256"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1189,8 +1179,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

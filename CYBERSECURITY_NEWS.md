@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-04 13:08:57 UTC
+**Last Updated:** 2026-04-04 17:02:46 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -53,8 +53,6 @@
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 14:05:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -73,7 +71,7 @@
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 20:51:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2026-20160, CVE-2026-20093  
+**CVEs:** CVE-2026-20093, CVE-2026-20160  
 **Categories:** Vulnerability  
 
 ---
@@ -96,7 +94,16 @@
 
 ---
 
-### 11. [LinkedIn secretely scans for 6,000+ Chrome extensions, collects data](https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/)
+### 11. [Device code phishing attacks surge 37x as new kits spread online](https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 04 Apr 2026 10:17:38 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 12. [LinkedIn secretly scans for 6,000+ Chrome extensions, collects data](https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 16:40:22 -0400  
@@ -105,7 +112,7 @@
 
 ---
 
-### 12. [Hims & Hers warns of data breach after Zendesk support ticket breach](https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/)
+### 13. [Hims & Hers warns of data breach after Zendesk support ticket breach](https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 13:41:11 -0400  
@@ -114,7 +121,7 @@
 
 ---
 
-### 13. [Die Linke German political party confirms data stolen by Qilin ransomware](https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/)
+### 14. [Die Linke German political party confirms data stolen by Qilin ransomware](https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 12:36:44 -0400  
@@ -123,7 +130,7 @@
 
 ---
 
-### 14. [Evolution of Ransomware: Multi-Extortion Ransomware Attacks](https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/)
+### 15. [Evolution of Ransomware: Multi-Extortion Ransomware Attacks](https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 10:05:15 -0400  
@@ -132,7 +139,7 @@
 
 ---
 
-### 15. [Microsoft still working to fix Exchange Online mailbox access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/)
+### 16. [Microsoft still working to fix Exchange Online mailbox access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 07:25:20 -0400  
@@ -141,7 +148,7 @@
 
 ---
 
-### 16. [Man admits to locking thousands of Windows devices in extortion plot](https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/)
+### 17. [Man admits to locking thousands of Windows devices in extortion plot](https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 05:04:54 -0400  
@@ -150,7 +157,7 @@
 
 ---
 
-### 17. [Microsoft now force upgrades unmanaged Windows 11 24H2 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/)
+### 18. [Microsoft now force upgrades unmanaged Windows 11 24H2 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 03:55:40 -0400  
@@ -159,7 +166,7 @@
 
 ---
 
-### 18. [CERT-EU: European Commission hack exposes data of 30 EU entities](https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/)
+### 19. [CERT-EU: European Commission hack exposes data of 30 EU entities](https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 02:33:34 -0400  
@@ -168,21 +175,12 @@
 
 ---
 
-### 19. [Claude Code leak used to push infostealer malware on GitHub](https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/)
+### 20. [Claude Code leak used to push infostealer malware on GitHub](https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 16:30:55 -0400  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 20. [Drift loses $280 million as North Korean hackers seize Security Council powers](https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 02 Apr 2026 15:03:39 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -218,7 +216,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26127, CVE-2026-25187, CVE-2026-24294, CVE-2026-21262, CVE-2026-24291, CVE-2026-26110, CVE-2026-24289, CVE-2026-26113  
+**CVEs:** CVE-2026-24289, CVE-2026-26127, CVE-2026-26113, CVE-2026-21262, CVE-2026-26110, CVE-2026-24294, CVE-2026-24291, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -264,7 +262,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21525, CVE-2026-21256, CVE-2026-21516, CVE-2026-21523, CVE-2026-21519, CVE-2026-21510, CVE-2026-21514, CVE-2026-21533, CVE-2026-21513, CVE-2026-21509  
+**CVEs:** CVE-2026-21533, CVE-2026-21519, CVE-2026-21523, CVE-2026-21510, CVE-2026-21514, CVE-2026-21513, CVE-2026-21516, CVE-2026-21509, CVE-2026-21525, CVE-2026-21256  
 **Categories:** Vulnerability  
 
 ---
@@ -610,7 +608,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
