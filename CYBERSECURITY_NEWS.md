@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-03 17:04:11 UTC
+**Last Updated:** 2026-04-04 02:42:03 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html)
+### 1. [China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 03 Apr 2026 23:04:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 2. [Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers](https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 03 Apr 2026 21:02:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 16:34:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html)
+### 4. [Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 16:30:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images](https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html)
+### 5. [New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images](https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 14:40:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK](https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html)
+### 6. [Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK](https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 14:05:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials](https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html)
+### 7. [Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials](https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 01:00:00 +0530  
@@ -50,17 +68,17 @@
 
 ---
 
-### 6. [Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise](https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html)
+### 8. [Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise](https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 20:51:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2026-20160, CVE-2026-20093  
+**CVEs:** CVE-2026-20093, CVE-2026-20160  
 **Categories:** Vulnerability  
 
 ---
 
-### 7. [ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html)
+### 9. [ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 18:15:00 +0530  
@@ -69,7 +87,7 @@
 
 ---
 
-### 8. [Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners](https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html)
+### 10. [Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners](https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 17:12:00 +0530  
@@ -78,25 +96,25 @@
 
 ---
 
-### 9. [The State of Trusted Open Source Report](https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html)
+### 11. [LinkedIn secretely scans for 6,000+ Chrome extensions, collects data](https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 02 Apr 2026 17:00:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 03 Apr 2026 16:40:22 -0400  
 **Severity:** Low  
 **Categories:** Supply Chain  
 
 ---
 
-### 10. [WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action](https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html)
+### 12. [Hims & Hers warns of data breach after Zendesk support ticket breach](https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 02 Apr 2026 15:21:00 +0530  
-**Severity:** High  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Fri, 03 Apr 2026 13:41:11 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
 
 ---
 
-### 11. [Die Linke German political party confirms data stolen by Qilin ransomware](https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/)
+### 13. [Die Linke German political party confirms data stolen by Qilin ransomware](https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 12:36:44 -0400  
@@ -105,7 +123,7 @@
 
 ---
 
-### 12. [Evolution of Ransomware: Multi-Extortion Ransomware Attacks](https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/)
+### 14. [Evolution of Ransomware: Multi-Extortion Ransomware Attacks](https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 10:05:15 -0400  
@@ -114,7 +132,7 @@
 
 ---
 
-### 13. [Microsoft still working to fix Exchange Online mailbox access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/)
+### 15. [Microsoft still working to fix Exchange Online mailbox access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 07:25:20 -0400  
@@ -123,7 +141,7 @@
 
 ---
 
-### 14. [Man admits to locking thousands of Windows devices in extortion plot](https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/)
+### 16. [Man admits to locking thousands of Windows devices in extortion plot](https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 05:04:54 -0400  
@@ -132,7 +150,7 @@
 
 ---
 
-### 15. [Microsoft now force upgrades unmanaged Windows 11 24H2 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/)
+### 17. [Microsoft now force upgrades unmanaged Windows 11 24H2 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 03:55:40 -0400  
@@ -141,7 +159,7 @@
 
 ---
 
-### 16. [CERT-EU: European Commission hack exposes data of 30 EU entities](https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/)
+### 18. [CERT-EU: European Commission hack exposes data of 30 EU entities](https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 02:33:34 -0400  
@@ -150,7 +168,7 @@
 
 ---
 
-### 17. [Claude Code leak used to push infostealer malware on GitHub](https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/)
+### 19. [Claude Code leak used to push infostealer malware on GitHub](https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 16:30:55 -0400  
@@ -159,30 +177,12 @@
 
 ---
 
-### 18. [Drift loses $280 million North Korean hackers seize Security Council powers](https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/)
+### 20. [Drift loses $280 million as North Korean hackers seize Security Council powers](https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 02 Apr 2026 15:03:39 -0400  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 19. [Residential proxies evaded IP reputation checks in 78% of 4B sessions](https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 02 Apr 2026 11:21:02 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime](https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 02 Apr 2026 10:01:11 -0400  
-**Severity:** High  
-**Categories:** Vulnerability, Malware, Phishing  
 
 ---
 
@@ -218,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26127, CVE-2026-21262, CVE-2026-26113, CVE-2026-26110, CVE-2026-24294, CVE-2026-24291, CVE-2026-25187, CVE-2026-24289  
+**CVEs:** CVE-2026-26127, CVE-2026-26110, CVE-2026-24289, CVE-2026-24291, CVE-2026-24294, CVE-2026-21262, CVE-2026-26113, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -264,7 +264,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21514, CVE-2026-21519, CVE-2026-21513, CVE-2026-21509, CVE-2026-21516, CVE-2026-21533, CVE-2026-21523, CVE-2026-21510, CVE-2026-21256, CVE-2026-21525  
+**CVEs:** CVE-2026-21519, CVE-2026-21533, CVE-2026-21509, CVE-2026-21516, CVE-2026-21256, CVE-2026-21525, CVE-2026-21513, CVE-2026-21510, CVE-2026-21523, CVE-2026-21514  
 **Categories:** Vulnerability  
 
 ---
@@ -348,7 +348,16 @@
 
 ---
 
-### 41. [Axois NPM Supply Chain Incident](https://blog.talosintelligence.com/axois-npm-supply-chain-incident/)
+### 41. [Do not get high(jacked) off your own supply (chain)](https://blog.talosintelligence.com/protecting-supply-chain-2026/)
+
+**Source:** Talos Blog  
+**Published:** Fri, 03 Apr 2026 17:31:42 GMT  
+**Severity:** High  
+**Categories:** Ransomware, Vulnerability, Supply Chain  
+
+---
+
+### 42. [Axios NPM supply chain incident](https://blog.talosintelligence.com/axois-npm-supply-chain-incident/)
 
 **Source:** Talos Blog  
 **Published:** Fri, 03 Apr 2026 17:00:22 GMT  
@@ -357,7 +366,7 @@
 
 ---
 
-### 42. [The democratisation of business email compromise fraud](https://blog.talosintelligence.com/the-democratisation-of-business-email-compromise-fraud/)
+### 43. [The democratisation of business email compromise fraud](https://blog.talosintelligence.com/the-democratisation-of-business-email-compromise-fraud/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Apr 2026 18:00:20 GMT  
@@ -366,7 +375,7 @@
 
 ---
 
-### 43. [[Video] The TTP Ep 21: When Attackers Become Trusted Users](https://blog.talosintelligence.com/video-the-ttp-ep-21-when-attackers-become-trusted-users/)
+### 44. [[Video] The TTP Ep 21: When Attackers Become Trusted Users](https://blog.talosintelligence.com/video-the-ttp-ep-21-when-attackers-become-trusted-users/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Apr 2026 13:06:45 GMT  
@@ -375,7 +384,7 @@
 
 ---
 
-### 44. [UAT-10608: Inside a large-scale automated credential harvesting operation targeting web applications](https://blog.talosintelligence.com/uat-10608-inside-a-large-scale-automated-credential-harvesting-operation-targeting-web-applications/)
+### 45. [UAT-10608: Inside a large-scale automated credential harvesting operation targeting web applications](https://blog.talosintelligence.com/uat-10608-inside-a-large-scale-automated-credential-harvesting-operation-targeting-web-applications/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Apr 2026 10:00:57 GMT  
@@ -385,7 +394,7 @@
 
 ---
 
-### 45. [Qilin EDR killer infection chain](https://blog.talosintelligence.com/qilin-edr-killer/)
+### 46. [Qilin EDR killer infection chain](https://blog.talosintelligence.com/qilin-edr-killer/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Apr 2026 10:00:56 GMT  
@@ -394,7 +403,7 @@
 
 ---
 
-### 46. [Inside the Talos 2025 Year in Review: A discussion on what the data means for defenders](https://blog.talosintelligence.com/inside-the-talos-2025-year-in-review-a-discussion-on-what-the-data-means-for-defenders/)
+### 47. [Inside the Talos 2025 Year in Review: A discussion on what the data means for defenders](https://blog.talosintelligence.com/inside-the-talos-2025-year-in-review-a-discussion-on-what-the-data-means-for-defenders/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Apr 2026 10:00:49 GMT  
@@ -403,7 +412,7 @@
 
 ---
 
-### 47. [An overview of ransomware threats in Japan in 2025 and early detection insights from Qilin cases](https://blog.talosintelligence.com/an-overview-of-ransomware-threats-in-japan-in-2025-and-early-detection-insights-from-qilin-cases/)
+### 48. [An overview of ransomware threats in Japan in 2025 and early detection insights from Qilin cases](https://blog.talosintelligence.com/an-overview-of-ransomware-threats-in-japan-in-2025-and-early-detection-insights-from-qilin-cases/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Apr 2026 10:00:13 GMT  
@@ -412,7 +421,7 @@
 
 ---
 
-### 48. [Ransomware in 2025: Blending in is the strategy](https://blog.talosintelligence.com/ransomware-in-2025-blending-in-is-the-strategy/)
+### 49. [Ransomware in 2025: Blending in is the strategy](https://blog.talosintelligence.com/ransomware-in-2025-blending-in-is-the-strategy/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 31 Mar 2026 10:00:02 GMT  
@@ -421,7 +430,7 @@
 
 ---
 
-### 49. [TP-Link, Canva, HikVision vulnerabilities](https://blog.talosintelligence.com/tp-link-canva-hikvision-vulnerabilities/)
+### 50. [TP-Link, Canva, HikVision vulnerabilities](https://blog.talosintelligence.com/tp-link-canva-hikvision-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 26 Mar 2026 18:34:26 GMT  
@@ -431,16 +440,16 @@
 
 ---
 
-### 50. [A puppet made me cry and all I got was this t-shirt](https://blog.talosintelligence.com/a-puppet-made-me-cry-and-all-i-got-was-this-t-shirt/)
+### 51. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
 
-**Source:** Talos Blog  
-**Published:** Thu, 26 Mar 2026 18:00:44 GMT  
-**Severity:** Critical  
-**Categories:** APT  
+**Source:** Recorded Future  
+**Published:** Fri, 03 Apr 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
-### 51. [Latin America and the Caribbean Cybercrime Landscape](https://www.recordedfuture.com/research/latin-america-and-the-caribbean-cybercrime-landscape)
+### 52. [Latin America and the Caribbean Cybercrime Landscape](https://www.recordedfuture.com/research/latin-america-and-the-caribbean-cybercrime-landscape)
 
 **Source:** Recorded Future  
 **Published:** Thu, 02 Apr 2026 00:00:00 GMT  
@@ -449,7 +458,7 @@
 
 ---
 
-### 52. [Industrialization of the Fraud Ecosystem Blog](https://www.recordedfuture.com/blog/industrialization-of-the-fraud-ecosystem-blog)
+### 53. [Industrialization of the Fraud Ecosystem Blog](https://www.recordedfuture.com/blog/industrialization-of-the-fraud-ecosystem-blog)
 
 **Source:** Recorded Future  
 **Published:** Wed, 01 Apr 2026 00:00:00 GMT  
@@ -458,7 +467,7 @@
 
 ---
 
-### 53. [The Shift: An Era of Quantum Geopolitics](https://www.recordedfuture.com/blog/the-shift-an-era-of-quantum-geopolitics)
+### 54. [The Shift: An Era of Quantum Geopolitics](https://www.recordedfuture.com/blog/the-shift-an-era-of-quantum-geopolitics)
 
 **Source:** Recorded Future  
 **Published:** Wed, 01 Apr 2026 00:00:00 GMT  
@@ -467,21 +476,12 @@
 
 ---
 
-### 54. [ClickFix Campaigns Targeting Windows and macOS](https://www.recordedfuture.com/research/clickfix-campaigns-targeting-windows-and-macos)
+### 55. [ClickFix Campaigns Targeting Windows and macOS](https://www.recordedfuture.com/research/clickfix-campaigns-targeting-windows-and-macos)
 
 **Source:** Recorded Future  
 **Published:** Wed, 25 Mar 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 55. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
-
-**Source:** Recorded Future  
-**Published:** Fri, 20 Mar 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -625,7 +625,16 @@
 
 ---
 
-### 71. [Blocking children from social media is a badly executed good idea](https://www.malwarebytes.com/blog/news/2026/04/blocking-children-from-social-media-is-a-badly-executed-good-idea)
+### 71. [That dream job offer from Coca-Cola or Ferrari? It’s a trap for your passwords](https://www.malwarebytes.com/blog/threat-intel/2026/04/that-dream-job-offer-from-coca-cola-or-ferrari-its-a-trap-for-your-passwords)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 03 Apr 2026 23:13:58 GMT  
+**Severity:** High  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 72. [Blocking children from social media is a badly executed good idea](https://www.malwarebytes.com/blog/news/2026/04/blocking-children-from-social-media-is-a-badly-executed-good-idea)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 03 Apr 2026 14:37:52 GMT  
@@ -634,7 +643,7 @@
 
 ---
 
-### 72. [Apple expands “DarkSword” patches to iOS 18.7.7](https://www.malwarebytes.com/blog/news/2026/04/apple-expands-darksword-patches-to-ios-18-7-7)
+### 73. [Apple expands “DarkSword” patches to iOS 18.7.7](https://www.malwarebytes.com/blog/news/2026/04/apple-expands-darksword-patches-to-ios-18-7-7)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 02 Apr 2026 14:13:44 GMT  
@@ -643,7 +652,7 @@
 
 ---
 
-### 73. [Malwarebytes Privacy VPN receives full third-party audit](https://www.malwarebytes.com/blog/product/2026/04/vpnsoftwareaudit)
+### 74. [Malwarebytes Privacy VPN receives full third-party audit](https://www.malwarebytes.com/blog/product/2026/04/vpnsoftwareaudit)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 02 Apr 2026 13:00:00 GMT  
@@ -652,7 +661,7 @@
 
 ---
 
-### 74. [Wikipedia&#8217;s AI agent row likely just the beginning of the bot-ocalypse](https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse)
+### 75. [Wikipedia&#8217;s AI agent row likely just the beginning of the bot-ocalypse](https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 01 Apr 2026 21:49:55 GMT  
@@ -661,7 +670,7 @@
 
 ---
 
-### 75. [WhatsApp on Windows users targeted in new campaign, warns Microsoft](https://www.malwarebytes.com/blog/news/2026/04/whatsapp-on-windows-users-targeted-in-new-campaign-warns-microsoft)
+### 76. [WhatsApp on Windows users targeted in new campaign, warns Microsoft](https://www.malwarebytes.com/blog/news/2026/04/whatsapp-on-windows-users-targeted-in-new-campaign-warns-microsoft)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 01 Apr 2026 14:27:39 GMT  
@@ -670,7 +679,7 @@
 
 ---
 
-### 76. [Why we&#8217;re still not doing April Fools&#8217; Day](https://www.malwarebytes.com/blog/scams/2026/04/why-were-still-not-doing-april-fools-day)
+### 77. [Why we&#8217;re still not doing April Fools&#8217; Day](https://www.malwarebytes.com/blog/scams/2026/04/why-were-still-not-doing-april-fools-day)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 01 Apr 2026 13:00:00 GMT  
@@ -679,7 +688,7 @@
 
 ---
 
-### 77. [Asking AI for personal advice is a bad idea, Stanford study shows](https://www.malwarebytes.com/blog/ai/2026/03/asking-ai-for-personal-advice-is-a-bad-idea-stanford-study-shows)
+### 78. [Asking AI for personal advice is a bad idea, Stanford study shows](https://www.malwarebytes.com/blog/ai/2026/03/asking-ai-for-personal-advice-is-a-bad-idea-stanford-study-shows)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 31 Mar 2026 19:40:23 GMT  
@@ -688,7 +697,7 @@
 
 ---
 
-### 78. [Axios supply chain attack chops away at npm trust](https://www.malwarebytes.com/blog/news/2026/03/axios-supply-chain-attack-chops-away-at-npm-trust)
+### 79. [Axios supply chain attack chops away at npm trust](https://www.malwarebytes.com/blog/news/2026/03/axios-supply-chain-attack-chops-away-at-npm-trust)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 31 Mar 2026 14:53:15 GMT  
@@ -697,19 +706,10 @@
 
 ---
 
-### 79. [New macOS security feature will alert users about possible ClickFix attacks](https://www.malwarebytes.com/blog/news/2026/03/new-macos-security-feature-will-alert-users-about-possible-clickfix-attacks)
+### 80. [New macOS security feature will alert users about possible ClickFix attacks](https://www.malwarebytes.com/blog/news/2026/03/new-macos-security-feature-will-alert-users-about-possible-clickfix-attacks)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 30 Mar 2026 14:26:40 GMT  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 80. [A week in security (March 23 &#8211; March 29)](https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-march-23-march-29)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 30 Mar 2026 07:01:00 GMT  
 **Severity:** Low  
 **Categories:** Malware  
 

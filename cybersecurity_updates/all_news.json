@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
+    "link": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html",
+    "published": "Fri, 03 Apr 2026 23:04:00 +0530",
+    "summary": "A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025,&nbsp;following a two-year&nbsp;period of minimal targeting in the&nbsp;region.\nThe campaign has been attributed&nbsp;to TA416, a cluster of activity that overlaps with DarkPeony, RedDelta, Red Lich, SmugX, UNC6384, and Vertigo&nbsp;Panda.\n\"This TA416 activity included multiple",
+    "analysis": {
+      "issue": "TA416 targeted European governments from mid-2025 using PlugX and OAuth abuse, enabling cyber espionage against EU and NATO entities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers",
+    "link": "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html",
+    "published": "Fri, 03 Apr 2026 21:02:00 +0530",
+    "summary": "Threat&nbsp;actors are increasingly using HTTP cookies as a control channel for PHP-based web shells on Linux servers and to achieve remote code execution, according to findings from the Microsoft Defender Security Research&nbsp;Team.\n\"Instead of exposing command execution through URL parameters or request bodies, these web shells rely on threat actor-supplied cookie values to gate execution,",
+    "analysis": {
+      "issue": "Cookie-gated PHP web shells enable persistent Linux RCE via cron-based re-creation, reducing detection in routine traffic logs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
     "link": "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html",
     "published": "Fri, 03 Apr 2026 16:34:00 +0530",
@@ -105,8 +141,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-20160",
-        "CVE-2026-20093"
+        "CVE-2026-20093",
+        "CVE-2026-20160"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -151,13 +187,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "The State of Trusted Open Source Report",
-    "link": "https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html",
-    "published": "Thu, 02 Apr 2026 17:00:00 +0530",
-    "summary": "In December&nbsp;2025, we shared the first-ever The State of Trusted Open&nbsp;Source report, featuring insights from our product data and customer base on open source consumption across our catalog of container image projects, versions, images, language libraries, and builds. These&nbsp;insights shed light on what teams pull, deploy, and maintain day to day, alongside the vulnerabilities and",
+    "source": "Bleeping Computer",
+    "title": "LinkedIn secretely scans for 6,000+ Chrome extensions, collects data",
+    "link": "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/",
+    "published": "Fri, 03 Apr 2026 16:40:22 -0400",
+    "summary": "A new report dubbed \"BrowserGate\" warns that Microsoft's LinkedIn is using hidden JavaScript scripts on its website to scan visitors' browsers for installed extensions and collect device data. [...]",
     "analysis": {
-      "issue": "AI-driven development increased CVEs by 145% from Dec 2025–Feb 2026, accelerating remediation and reshaping software supply chain security",
+      "issue": "A new report dubbed \"BrowserGate\" warns that Microsoft's LinkedIn is using hidden JavaScript scripts on its website to scan visitors' browsers for installed extensions and collect device data",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -169,20 +205,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action",
-    "link": "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html",
-    "published": "Thu, 02 Apr 2026 15:21:00 +0530",
-    "summary": "Meta-owned messaging platform WhatsApp said it alerted about 200 users who were tricked into installing a bogus version of its iOS app that was infected with&nbsp;spyware.\nAccording to reports from Italian&nbsp;newspaper La Repubblica and news&nbsp;agency ANSA, the vast majority of the targets are located in Italy. It's assessed that the threat actors behind the activity used social engineering",
+    "source": "Bleeping Computer",
+    "title": "Hims & Hers warns of data breach after Zendesk support ticket breach",
+    "link": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
+    "published": "Fri, 03 Apr 2026 13:41:11 -0400",
+    "summary": "Telehealth giant Hims & Hers Health is warning that it suffered a data breach after support tickets were stolen from a third-party customer service platform. [...]",
     "analysis": {
-      "issue": "WhatsApp alerted 200 users in Italy to spyware iOS app, highlighting Europe’s expanding surveillance crisis",
+      "issue": "Telehealth giant Hims & Hers Health is warning that it suffered a data breach after support tickets were stolen from a third-party customer service platform",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach",
+        "Supply Chain"
       ]
     }
   },
@@ -316,7 +353,7 @@
   },
   {
     "source": "Bleeping Computer",
-    "title": "Drift loses $280 million North Korean hackers seize Security Council powers",
+    "title": "Drift loses $280 million as North Korean hackers seize Security Council powers",
     "link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/",
     "published": "Thu, 02 Apr 2026 15:03:39 -0400",
     "summary": "The Drift Protocol lost at least $280 million after a threat actor took control of its Security Council administrative powers in a planned, sophisticated operation. [...]",
@@ -329,44 +366,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions",
-    "link": "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/",
-    "published": "Thu, 02 Apr 2026 11:21:02 -0400",
-    "summary": "Researchers warn that residential proxies used to route malicious traffic are a big problem for IP reputation systems, as there is no clear distinction between attackers and legitimate users. [...]",
-    "analysis": {
-      "issue": "Researchers warn that residential proxies used to route malicious traffic are a big problem for IP reputation systems, as there is no clear distinction between attackers and legitimate users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
-    "link": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
-    "published": "Thu, 02 Apr 2026 10:01:11 -0400",
-    "summary": "Threat actors are exploiting vacant homes as \"drop addresses\" to intercept mail and enable fraud. Flare shows how postal services and fake identities are abused to turn mail into a fraud vector. [...]",
-    "analysis": {
-      "issue": "Fraud operations have expanded beyond traditional hacking techniques to include methods that exploit legitimate services and real-world infrastructure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -441,13 +440,13 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-26127",
+        "CVE-2026-26110",
+        "CVE-2026-24289",
+        "CVE-2026-24291",
+        "CVE-2026-24294",
         "CVE-2026-21262",
         "CVE-2026-26113",
-        "CVE-2026-26110",
-        "CVE-2026-24294",
-        "CVE-2026-24291",
-        "CVE-2026-25187",
-        "CVE-2026-24289"
+        "CVE-2026-25187"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -544,16 +543,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21514",
         "CVE-2026-21519",
-        "CVE-2026-21513",
+        "CVE-2026-21533",
         "CVE-2026-21509",
         "CVE-2026-21516",
-        "CVE-2026-21533",
-        "CVE-2026-21523",
-        "CVE-2026-21510",
         "CVE-2026-21256",
-        "CVE-2026-21525"
+        "CVE-2026-21525",
+        "CVE-2026-21513",
+        "CVE-2026-21510",
+        "CVE-2026-21523",
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -653,7 +652,27 @@
   },
   {
     "source": "Talos Blog",
-    "title": "Axois NPM Supply Chain Incident",
+    "title": "Do not get high(jacked) off your own supply (chain)",
+    "link": "https://blog.talosintelligence.com/protecting-supply-chain-2026/",
+    "published": "Fri, 03 Apr 2026 17:31:42 GMT",
+    "summary": "In the span of just a few weeks, we have observed a dizzying array of major supply chain attacks. If we are all building on such shaky foundation, what can we do to keep safe?",
+    "analysis": {
+      "issue": "In the span of just a few weeks, we have observed a dizzying array of major supply chain attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
+    "title": "Axios NPM supply chain incident",
     "link": "https://blog.talosintelligence.com/axois-npm-supply-chain-incident/",
     "published": "Fri, 03 Apr 2026 17:00:22 GMT",
     "summary": "Overview of the recent Axios NPM supply chain incident including details of the payloads delivered from actor-controlled infrastructure.",
@@ -824,20 +843,20 @@
     }
   },
   {
-    "source": "Talos Blog",
-    "title": "A puppet made me cry and all I got was this t-shirt",
-    "link": "https://blog.talosintelligence.com/a-puppet-made-me-cry-and-all-i-got-was-this-t-shirt/",
-    "published": "Thu, 26 Mar 2026 18:00:44 GMT",
-    "summary": "In this week's newsletter, Amy draws parallels between the collaborative themes of \"Project Hail Mary\" and the massive team effort behind the newly released Talos Year in Review report.",
+    "source": "Recorded Future",
+    "title": "The Iran War: What You Need to Know",
+    "link": "https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know",
+    "published": "Fri, 03 Apr 2026 00:00:00 GMT",
+    "summary": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios.",
     "analysis": {
-      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
+      "issue": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "APT"
+        "General Security"
       ]
     }
   },
@@ -910,24 +929,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "The Iran War: What You Need to Know",
-    "link": "https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know",
-    "published": "Fri, 20 Mar 2026 00:00:00 GMT",
-    "summary": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios.",
-    "analysis": {
-      "issue": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1219,6 +1220,25 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "That dream job offer from Coca-Cola or Ferrari? It’s a trap for your passwords",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/04/that-dream-job-offer-from-coca-cola-or-ferrari-its-a-trap-for-your-passwords",
+    "published": "Fri, 03 Apr 2026 23:13:58 GMT",
+    "summary": "We uncovered two job scams posing as legitimate offers from Coca-Cola and Ferrari that could pry into Google and Facebook accounts.",
+    "analysis": {
+      "issue": "As layoffs surge and job seekers flood the market, phishing campaigns impersonating major brands, including Coca-Cola and Ferrari, are ramping up—and they’re more sophisticated than ever",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Blocking children from social media is a badly executed good idea",
     "link": "https://www.malwarebytes.com/blog/news/2026/04/blocking-children-from-social-media-is-a-badly-executed-good-idea",
     "published": "Fri, 03 Apr 2026 14:37:52 GMT",
@@ -1375,24 +1395,6 @@
     "summary": "Apple introduced an extra layer of protection against ClickFix attacks, only for macOS Tahoe 26.4 and later",
     "analysis": {
       "issue": "Rumor has it that Apple deployed a new security feature in the fight against ClickFix",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (March 23 &#8211; March 29)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-march-23-march-29",
-    "published": "Mon, 30 Mar 2026 07:01:00 GMT",
-    "summary": "A list of topics we covered in the week of March 23 to March 29 of 2026",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
       "solution": null,
       "cause": null,
       "timeline": null,
