@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-05 03:43:21 UTC
+**Last Updated:** 2026-04-05 09:08:08 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html)
+### 1. [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 05 Apr 2026 10:37:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS](https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 05 Apr 2026 10:02:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-35616  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 23:04:00 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers](https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html)
+### 4. [Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers](https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 21:02:00 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html)
+### 5. [UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 16:34:00 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html)
+### 6. [Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 16:30:00 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images](https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html)
+### 7. [New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images](https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 14:40:00 +0530  
@@ -49,7 +68,7 @@
 
 ---
 
-### 6. [Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK](https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html)
+### 8. [Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK](https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 14:05:00 +0530  
@@ -58,7 +77,7 @@
 
 ---
 
-### 7. [Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials](https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html)
+### 9. [Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials](https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 01:00:00 +0530  
@@ -68,31 +87,13 @@
 
 ---
 
-### 8. [Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise](https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html)
+### 10. [Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise](https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 20:51:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2026-20160, CVE-2026-20093  
+**CVEs:** CVE-2026-20093, CVE-2026-20160  
 **Categories:** Vulnerability  
-
----
-
-### 9. [ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 02 Apr 2026 18:15:00 +0530  
-**Severity:** Low  
-**Categories:** Phishing, Supply Chain  
-
----
-
-### 10. [Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners](https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 02 Apr 2026 17:12:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -218,7 +219,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26110, CVE-2026-21262, CVE-2026-24289, CVE-2026-24291, CVE-2026-24294, CVE-2026-26127, CVE-2026-25187, CVE-2026-26113  
+**CVEs:** CVE-2026-26113, CVE-2026-24294, CVE-2026-24291, CVE-2026-26127, CVE-2026-26110, CVE-2026-21262, CVE-2026-25187, CVE-2026-24289  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -264,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21523, CVE-2026-21514, CVE-2026-21525, CVE-2026-21516, CVE-2026-21519, CVE-2026-21513, CVE-2026-21509, CVE-2026-21533, CVE-2026-21256  
+**CVEs:** CVE-2026-21510, CVE-2026-21509, CVE-2026-21523, CVE-2026-21533, CVE-2026-21514, CVE-2026-21525, CVE-2026-21516, CVE-2026-21256, CVE-2026-21513, CVE-2026-21519  
 **Categories:** Vulnerability  
 
 ---

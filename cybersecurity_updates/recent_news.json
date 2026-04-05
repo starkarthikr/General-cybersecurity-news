@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
+    "link": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
+    "published": "Sun, 05 Apr 2026 10:37:00 +0530",
+    "summary": "Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different payloads to facilitate Redis and PostgreSQL exploitation, deploy reverse shells, harvest credentials, and drop a persistent&nbsp;implant.\n\"Every package contains three files (package.json, index.js, postinstall.js), has no description, repository,",
+    "analysis": {
+      "issue": "36 npm packages disguised as Strapi plugins exploit Redis and PostgreSQL via postinstall scripts, enabling persistent access and data theft",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
+    "link": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html",
+    "published": "Sun, 05 Apr 2026 10:02:00 +0530",
+    "summary": "Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the&nbsp;wild.\nThe&nbsp;vulnerability, tracked&nbsp;as CVE-2026-35616 (CVSS score: 9.1), has been described as a pre-authentication API access bypass leading to privilege escalation.\n\"An improper access control vulnerability [CWE-284] in FortiClient EMS may allow an",
+    "analysis": {
+      "issue": "1) exploited since March 31, 2026, affects FortiClient EMS 7",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-35616"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
     "link": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html",
     "published": "Fri, 03 Apr 2026 23:04:00 +0530",
@@ -141,48 +179,11 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-20160",
-        "CVE-2026-20093"
+        "CVE-2026-20093",
+        "CVE-2026-20160"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
-    "link": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html",
-    "published": "Thu, 02 Apr 2026 18:15:00 +0530",
-    "summary": "The&nbsp;latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No&nbsp;corporate fluff or boring lectures here, just a quick and honest look at the messy reality of keeping systems safe this&nbsp;week.\nThings&nbsp;are moving fast. The&nbsp;list includes researchers chaining small bugs together to create massive backdoors, old software flaws",
-    "analysis": {
-      "issue": "Cybersecurity roundup: ShareFile RCE, Android rootkit, ImageMagick 0-days, XLoader, phishing, and supply chain threats",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
-    "link": "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html",
-    "published": "Thu, 02 Apr 2026 17:12:00 +0530",
-    "summary": "A&nbsp;financially motivated operation&nbsp;codenamed REF1695&nbsp;has been&nbsp;observed leveraging fake installers to deploy remote access trojans (RATs) and cryptocurrency miners since November&nbsp;2023.\n\"Beyond cryptomining, the threat actor monetizes infections through CPA (Cost Per Action) fraud, directing victims to content locker pages under the guise of software registration,\" Elastic",
-    "analysis": {
-      "issue": "REF1695 spreads RATs and miners since Nov 2023 via ISO lures, earning 27",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -440,14 +441,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-26113",
+        "CVE-2026-24294",
+        "CVE-2026-24291",
+        "CVE-2026-26127",
         "CVE-2026-26110",
         "CVE-2026-21262",
-        "CVE-2026-24289",
-        "CVE-2026-24291",
-        "CVE-2026-24294",
-        "CVE-2026-26127",
         "CVE-2026-25187",
-        "CVE-2026-26113"
+        "CVE-2026-24289"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -545,15 +546,15 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-21510",
+        "CVE-2026-21509",
         "CVE-2026-21523",
+        "CVE-2026-21533",
         "CVE-2026-21514",
         "CVE-2026-21525",
         "CVE-2026-21516",
-        "CVE-2026-21519",
+        "CVE-2026-21256",
         "CVE-2026-21513",
-        "CVE-2026-21509",
-        "CVE-2026-21533",
-        "CVE-2026-21256"
+        "CVE-2026-21519"
       ],
       "threat_categories": [
         "Vulnerability"
