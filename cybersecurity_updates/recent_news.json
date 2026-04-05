@@ -94,7 +94,18 @@
     "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK",
     "link": "https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html",
     "published": "Fri, 03 Apr 2026 14:05:00 +0530",
-    "summary": "Solana-based decentralized exchange Drift has confirmed that attackers drained about $285 million from the platform during a security incident that took place on April 1,&nbsp;2026.\n\"Earlier today, a malicious actor gained unauthorized access to Drift Protocol through a novel attack involving durable nonces, resulting in a rapid takeover of Drift’s Security Council administrative powers,\" the&"
+    "summary": "Solana-based decentralized exchange Drift has confirmed that attackers drained about $285 million from the platform during a security incident that took place on April 1,&nbsp;2026.\n\"Earlier today, a malicious actor gained unauthorized access to Drift Protocol through a novel attack involving durable nonces, resulting in a rapid takeover of Drift’s Security Council administrative powers,\" the&",
+    "analysis": {
+      "issue": "Drift lost $285M on April 1, 2026 after nonce-based social engineering enabled admin takeover, exposing DPRK-linked crypto theft patterns",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "The Hacker News",
@@ -130,8 +141,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-20093",
-        "CVE-2026-20160"
+        "CVE-2026-20160",
+        "CVE-2026-20093"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -172,6 +183,25 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Axios npm hack used fake Teams error fix to hijack maintainer account",
+    "link": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
+    "published": "Sat, 04 Apr 2026 16:30:42 -0400",
+    "summary": "The maintainers of the popular Axios HTTP client have published a detailed post-mortem describing how one of its developers was targeted by a social engineering campaign believed to have been conducted by North Korean threat actors. [...]",
+    "analysis": {
+      "issue": "The maintainers of the popular Axios HTTP client have published a detailed post-mortem describing how one of its developers was targeted by a social engineering campaign linked to North Korean hackers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
       ]
     }
   },
@@ -341,25 +371,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Claude Code leak used to push infostealer malware on GitHub",
-    "link": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
-    "published": "Thu, 02 Apr 2026 16:30:55 -0400",
-    "summary": "Threat actors are exploiting the recent Claude Code source code leak by using fake GitHub repositories to deliver Vidar information-stealing malware. [...]",
-    "analysis": {
-      "issue": "Threat actors are exploiting the recent Claude Code source code leak by using fake GitHub repositories to deliver Vidar information-stealing malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -430,13 +441,13 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-24289",
-        "CVE-2026-26127",
-        "CVE-2026-26113",
-        "CVE-2026-21262",
-        "CVE-2026-26110",
         "CVE-2026-24294",
+        "CVE-2026-26110",
+        "CVE-2026-21262",
+        "CVE-2026-25187",
+        "CVE-2026-26113",
         "CVE-2026-24291",
-        "CVE-2026-25187"
+        "CVE-2026-26127"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -533,16 +544,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21533",
-        "CVE-2026-21519",
-        "CVE-2026-21523",
-        "CVE-2026-21510",
-        "CVE-2026-21514",
         "CVE-2026-21513",
         "CVE-2026-21516",
-        "CVE-2026-21509",
+        "CVE-2026-21256",
+        "CVE-2026-21533",
         "CVE-2026-21525",
-        "CVE-2026-21256"
+        "CVE-2026-21509",
+        "CVE-2026-21519",
+        "CVE-2026-21514",
+        "CVE-2026-21523",
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability"
