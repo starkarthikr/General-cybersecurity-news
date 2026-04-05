@@ -179,11 +179,32 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-20093",
-        "CVE-2026-20160"
+        "CVE-2026-20160",
+        "CVE-2026-20093"
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers exploit React2Shell in automated credential theft campaign",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
+    "published": "Sun, 05 Apr 2026 10:17:23 -0400",
+    "summary": "Hackers are running a large-scale campaign to steal credentials in an automated way after exploiting React2Shell (CVE-2025-55182) in vulnerable Next.js apps. [...]",
+    "analysis": {
+      "issue": "Hackers are running a large-scale campaign to steal credentials in an automated way after exploiting React2Shell (CVE-2025-55182) in vulnerable Next",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-55182"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
       ]
     }
   },
@@ -354,24 +375,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CERT-EU: European Commission hack exposes data of 30 EU entities",
-    "link": "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/",
-    "published": "Fri, 03 Apr 2026 02:33:34 -0400",
-    "summary": "The European Union's Cybersecurity Service (CERT-EU) has attributed the European Commission cloud hack to the TeamPCP threat group, saying the resulting breach exposed the data of at least 29 other Union entities. [...]",
-    "analysis": {
-      "issue": "The European Union's Cybersecurity Service (CERT-EU) has attributed the European Commission cloud hack to the TeamPCP threat group, saying the resulting breach exposed the data of at least 29 other Union entities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -441,14 +444,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24291",
-        "CVE-2026-26113",
         "CVE-2026-26127",
-        "CVE-2026-21262",
+        "CVE-2026-24294",
         "CVE-2026-26110",
+        "CVE-2026-26113",
         "CVE-2026-24289",
         "CVE-2026-25187",
-        "CVE-2026-24294"
+        "CVE-2026-21262",
+        "CVE-2026-24291"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -545,15 +548,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21510",
-        "CVE-2026-21513",
-        "CVE-2026-21514",
         "CVE-2026-21525",
-        "CVE-2026-21516",
-        "CVE-2026-21523",
+        "CVE-2026-21510",
         "CVE-2026-21509",
-        "CVE-2026-21533",
+        "CVE-2026-21516",
+        "CVE-2026-21514",
         "CVE-2026-21519",
+        "CVE-2026-21533",
+        "CVE-2026-21523",
+        "CVE-2026-21513",
         "CVE-2026-21256"
       ],
       "threat_categories": [
@@ -1191,8 +1194,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

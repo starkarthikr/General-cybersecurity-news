@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-05 13:10:55 UTC
+**Last Updated:** 2026-04-05 17:02:48 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -92,12 +92,22 @@
 **Source:** The Hacker News  
 **Published:** Thu, 02 Apr 2026 20:51:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2026-20093, CVE-2026-20160  
+**CVEs:** CVE-2026-20160, CVE-2026-20093  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [Axios npm hack used fake Teams error fix to hijack maintainer account](https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/)
+### 11. [Hackers exploit React2Shell in automated credential theft campaign](https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 05 Apr 2026 10:17:23 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2025-55182  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 12. [Axios npm hack used fake Teams error fix to hijack maintainer account](https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 04 Apr 2026 16:30:42 -0400  
@@ -106,7 +116,7 @@
 
 ---
 
-### 12. [Device code phishing attacks surge 37x as new kits spread online](https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/)
+### 13. [Device code phishing attacks surge 37x as new kits spread online](https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 04 Apr 2026 10:17:38 -0400  
@@ -115,7 +125,7 @@
 
 ---
 
-### 13. [LinkedIn secretly scans for 6,000+ Chrome extensions, collects data](https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/)
+### 14. [LinkedIn secretly scans for 6,000+ Chrome extensions, collects data](https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 16:40:22 -0400  
@@ -124,7 +134,7 @@
 
 ---
 
-### 14. [Hims & Hers warns of data breach after Zendesk support ticket breach](https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/)
+### 15. [Hims & Hers warns of data breach after Zendesk support ticket breach](https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 13:41:11 -0400  
@@ -133,7 +143,7 @@
 
 ---
 
-### 15. [Die Linke German political party confirms data stolen by Qilin ransomware](https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/)
+### 16. [Die Linke German political party confirms data stolen by Qilin ransomware](https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 12:36:44 -0400  
@@ -142,7 +152,7 @@
 
 ---
 
-### 16. [Evolution of Ransomware: Multi-Extortion Ransomware Attacks](https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/)
+### 17. [Evolution of Ransomware: Multi-Extortion Ransomware Attacks](https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 10:05:15 -0400  
@@ -151,7 +161,7 @@
 
 ---
 
-### 17. [Microsoft still working to fix Exchange Online mailbox access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/)
+### 18. [Microsoft still working to fix Exchange Online mailbox access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 07:25:20 -0400  
@@ -160,7 +170,7 @@
 
 ---
 
-### 18. [Man admits to locking thousands of Windows devices in extortion plot](https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/)
+### 19. [Man admits to locking thousands of Windows devices in extortion plot](https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 05:04:54 -0400  
@@ -169,21 +179,12 @@
 
 ---
 
-### 19. [Microsoft now force upgrades unmanaged Windows 11 24H2 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/)
+### 20. [Microsoft now force upgrades unmanaged Windows 11 24H2 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 03:55:40 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [CERT-EU: European Commission hack exposes data of 30 EU entities](https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 03 Apr 2026 02:33:34 -0400  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -219,7 +220,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24291, CVE-2026-26113, CVE-2026-26127, CVE-2026-21262, CVE-2026-26110, CVE-2026-24289, CVE-2026-25187, CVE-2026-24294  
+**CVEs:** CVE-2026-26127, CVE-2026-24294, CVE-2026-26110, CVE-2026-26113, CVE-2026-24289, CVE-2026-25187, CVE-2026-21262, CVE-2026-24291  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -265,7 +266,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21513, CVE-2026-21514, CVE-2026-21525, CVE-2026-21516, CVE-2026-21523, CVE-2026-21509, CVE-2026-21533, CVE-2026-21519, CVE-2026-21256  
+**CVEs:** CVE-2026-21525, CVE-2026-21510, CVE-2026-21509, CVE-2026-21516, CVE-2026-21514, CVE-2026-21519, CVE-2026-21533, CVE-2026-21523, CVE-2026-21513, CVE-2026-21256  
 **Categories:** Vulnerability  
 
 ---
@@ -611,7 +612,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
