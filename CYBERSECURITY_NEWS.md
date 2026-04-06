@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-06 13:23:15 UTC
+**Last Updated:** 2026-04-06 17:24:40 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers](https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html)
+### 1. [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 06 Apr 2026 21:54:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 2. [Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps](https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 06 Apr 2026 18:30:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More](https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 06 Apr 2026 18:16:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 4. [How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers](https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Apr 2026 17:15:00 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools](https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html)
+### 5. [Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools](https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Apr 2026 15:37:00 +0530  
@@ -22,7 +49,7 @@
 
 ---
 
-### 3. [BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
+### 6. [BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Apr 2026 12:29:00 +0530  
@@ -31,7 +58,7 @@
 
 ---
 
-### 4. [$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation](https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html)
+### 7. [$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation](https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 05 Apr 2026 23:55:00 +0530  
@@ -40,7 +67,7 @@
 
 ---
 
-### 5. [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
+### 8. [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 05 Apr 2026 10:37:00 +0530  
@@ -49,7 +76,7 @@
 
 ---
 
-### 6. [Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS](https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html)
+### 9. [Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS](https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 05 Apr 2026 10:02:00 +0530  
@@ -59,7 +86,7 @@
 
 ---
 
-### 7. [China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html)
+### 10. [China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 23:04:00 +0530  
@@ -68,34 +95,45 @@
 
 ---
 
-### 8. [Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers](https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html)
+### 11. [Microsoft links Medusa ransomware affiliate to zero-day attacks](https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 03 Apr 2026 21:02:00 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Mon, 06 Apr 2026 12:56:01 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-23760, CVE-2025-10035  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 12. [Drift $280M crypto theft linked to 6-month in-person operation](https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 06 Apr 2026 12:35:03 -0400  
+**Severity:** High  
 **Categories:** General Security  
 
 ---
 
-### 9. [UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html)
+### 13. [CISA orders feds to patch exploited Fortinet EMS flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 03 Apr 2026 16:34:00 +0530  
-**Severity:** Low  
-**Categories:** Supply Chain  
-
----
-
-### 10. [Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 03 Apr 2026 16:30:00 +0530  
-**Severity:** Low  
-**Categories:** Supply Chain  
+**Source:** Bleeping Computer  
+**Published:** Mon, 06 Apr 2026 12:02:14 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-35616  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [Traffic violation scams switch to QR codes in new phishing texts](https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/)
+### 14. [Why Simple Breach Monitoring is No Longer Enough](https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 06 Apr 2026 10:02:12 -0400  
+**Severity:** Critical  
+**Categories:** Data Breach  
+
+---
+
+### 15. [Traffic violation scams switch to QR codes in new phishing texts](https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 05 Apr 2026 15:44:10 -0400  
@@ -104,7 +142,7 @@
 
 ---
 
-### 12. [New FortiClient EMS flaw exploited in attacks, emergency patch released](https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/)
+### 16. [New FortiClient EMS flaw exploited in attacks, emergency patch released](https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 05 Apr 2026 14:45:17 -0400  
@@ -114,7 +152,7 @@
 
 ---
 
-### 13. [Hackers exploit React2Shell in automated credential theft campaign](https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/)
+### 17. [Hackers exploit React2Shell in automated credential theft campaign](https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 05 Apr 2026 10:17:23 -0400  
@@ -124,7 +162,7 @@
 
 ---
 
-### 14. [Axios npm hack used fake Teams error fix to hijack maintainer account](https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/)
+### 18. [Axios npm hack used fake Teams error fix to hijack maintainer account](https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 04 Apr 2026 16:30:42 -0400  
@@ -133,7 +171,7 @@
 
 ---
 
-### 15. [Device code phishing attacks surge 37x as new kits spread online](https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/)
+### 19. [Device code phishing attacks surge 37x as new kits spread online](https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 04 Apr 2026 10:17:38 -0400  
@@ -142,48 +180,12 @@
 
 ---
 
-### 16. [LinkedIn secretly scans for 6,000+ Chrome extensions, collects data](https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/)
+### 20. [LinkedIn secretly scans for 6,000+ Chrome extensions, collects data](https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 03 Apr 2026 16:40:22 -0400  
 **Severity:** Low  
 **Categories:** Supply Chain  
-
----
-
-### 17. [Hims & Hers warns of data breach after Zendesk support ticket breach](https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 03 Apr 2026 13:41:11 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
-
----
-
-### 18. [Die Linke German political party confirms data stolen by Qilin ransomware](https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 03 Apr 2026 12:36:44 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 19. [Evolution of Ransomware: Multi-Extortion Ransomware Attacks](https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 03 Apr 2026 10:05:15 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 20. [Microsoft still working to fix Exchange Online mailbox access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 03 Apr 2026 07:25:20 -0400  
-**Severity:** Critical  
-**Categories:** General Security  
 
 ---
 
@@ -228,7 +230,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24289, CVE-2026-26110, CVE-2026-24291, CVE-2026-25187, CVE-2026-24294, CVE-2026-26127, CVE-2026-21262, CVE-2026-26113  
+**CVEs:** CVE-2026-25187, CVE-2026-24294, CVE-2026-24291, CVE-2026-26127, CVE-2026-26110, CVE-2026-26113, CVE-2026-24289, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -274,78 +276,78 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21523, CVE-2026-21509, CVE-2026-21516, CVE-2026-21513, CVE-2026-21519, CVE-2026-21533, CVE-2026-21510, CVE-2026-21256, CVE-2026-21525, CVE-2026-21514  
+**CVEs:** CVE-2026-21513, CVE-2026-21509, CVE-2026-21256, CVE-2026-21525, CVE-2026-21519, CVE-2026-21533, CVE-2026-21523, CVE-2026-21516, CVE-2026-21510, CVE-2026-21514  
 **Categories:** Vulnerability  
 
 ---
 
-### 31. [Guardarian Users Targeted With Malicious Strapi NPM Packages](https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/)
+### 31. [Google DeepMind Researchers Map Web Attacks Against AI Agents](https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/)
+
+**Source:** Security Week  
+**Published:** Mon, 06 Apr 2026 15:32:54 +0000  
+
+---
+
+### 32. [Guardarian Users Targeted With Malicious Strapi NPM Packages](https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/)
 
 **Source:** Security Week  
 **Published:** Mon, 06 Apr 2026 11:40:56 +0000  
 
 ---
 
-### 32. [North Korean Hackers Target High-Profile Node.js Maintainers](https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/)
+### 33. [North Korean Hackers Target High-Profile Node.js Maintainers](https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/)
 
 **Source:** Security Week  
 **Published:** Mon, 06 Apr 2026 11:02:36 +0000  
 
 ---
 
-### 33. [Fortinet Rushes Emergency Fixes for Exploited Zero-Day](https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/)
+### 34. [Fortinet Rushes Emergency Fixes for Exploited Zero-Day](https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/)
 
 **Source:** Security Week  
 **Published:** Mon, 06 Apr 2026 09:37:28 +0000  
 
 ---
 
-### 34. [European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack](https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/)
+### 35. [European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack](https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Sat, 04 Apr 2026 10:31:00 +0000  
 
 ---
 
-### 35. [TrueConf Zero-Day Exploited in Asian Government Attacks](https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/)
+### 36. [TrueConf Zero-Day Exploited in Asian Government Attacks](https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 12:47:16 +0000  
 
 ---
 
-### 36. [In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware](https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/)
+### 37. [In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware](https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 12:30:53 +0000  
 
 ---
 
-### 37. [Critical ShareFile Flaws Lead to Unauthenticated RCE](https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/)
+### 38. [Critical ShareFile Flaws Lead to Unauthenticated RCE](https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 12:12:22 +0000  
 
 ---
 
-### 38. [Mobile Attack Surface Expands as Enterprises Lose Control](https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/)
+### 39. [Mobile Attack Surface Expands as Enterprises Lose Control](https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 11:00:00 +0000  
 
 ---
 
-### 39. [React2Shell Exploited in Large-Scale Credential Harvesting Campaign](https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/)
+### 40. [React2Shell Exploited in Large-Scale Credential Harvesting Campaign](https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 10:55:13 +0000  
-
----
-
-### 40. [T-Mobile Sets the Record Straight on Latest Data Breach Filing](https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/)
-
-**Source:** Security Week  
-**Published:** Fri, 03 Apr 2026 10:30:00 +0000  
 
 ---
 
@@ -450,7 +452,16 @@
 
 ---
 
-### 52. [Latin America and the Caribbean Cybercrime Landscape](https://www.recordedfuture.com/research/latin-america-and-the-caribbean-cybercrime-landscape)
+### 52. [Day in the Life: Product Manager at Recorded Future](https://www.recordedfuture.com/blog/kyle-kohler-product-manager)
+
+**Source:** Recorded Future  
+**Published:** Fri, 03 Apr 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 53. [Latin America and the Caribbean Cybercrime Landscape](https://www.recordedfuture.com/research/latin-america-and-the-caribbean-cybercrime-landscape)
 
 **Source:** Recorded Future  
 **Published:** Thu, 02 Apr 2026 00:00:00 GMT  
@@ -459,7 +470,7 @@
 
 ---
 
-### 53. [Industrialization of the Fraud Ecosystem Blog](https://www.recordedfuture.com/blog/industrialization-of-the-fraud-ecosystem-blog)
+### 54. [Industrialization of the Fraud Ecosystem Blog](https://www.recordedfuture.com/blog/industrialization-of-the-fraud-ecosystem-blog)
 
 **Source:** Recorded Future  
 **Published:** Wed, 01 Apr 2026 00:00:00 GMT  
@@ -468,7 +479,7 @@
 
 ---
 
-### 54. [The Shift: An Era of Quantum Geopolitics](https://www.recordedfuture.com/blog/the-shift-an-era-of-quantum-geopolitics)
+### 55. [The Shift: An Era of Quantum Geopolitics](https://www.recordedfuture.com/blog/the-shift-an-era-of-quantum-geopolitics)
 
 **Source:** Recorded Future  
 **Published:** Wed, 01 Apr 2026 00:00:00 GMT  
@@ -477,7 +488,7 @@
 
 ---
 
-### 55. [ClickFix Campaigns Targeting Windows and macOS](https://www.recordedfuture.com/research/clickfix-campaigns-targeting-windows-and-macos)
+### 56. [ClickFix Campaigns Targeting Windows and macOS](https://www.recordedfuture.com/research/clickfix-campaigns-targeting-windows-and-macos)
 
 **Source:** Recorded Future  
 **Published:** Wed, 25 Mar 2026 00:00:00 GMT  
@@ -486,7 +497,7 @@
 
 ---
 
-### 56. [2025 Year in Review: Malicious, Infrastructure](https://www.recordedfuture.com/research/2025-year-in-review-malicious-infrastructure)
+### 57. [2025 Year in Review: Malicious, Infrastructure](https://www.recordedfuture.com/research/2025-year-in-review-malicious-infrastructure)
 
 **Source:** Recorded Future  
 **Published:** Thu, 19 Mar 2026 00:00:00 GMT  
@@ -495,7 +506,7 @@
 
 ---
 
-### 57. [2025 Identity Threat Landscape Report: Inside the Infostealer Economy: Credential Threats in 2025](https://www.recordedfuture.com/blog/identity-trend-report-march-blog)
+### 58. [2025 Identity Threat Landscape Report: Inside the Infostealer Economy: Credential Threats in 2025](https://www.recordedfuture.com/blog/identity-trend-report-march-blog)
 
 **Source:** Recorded Future  
 **Published:** Mon, 16 Mar 2026 00:00:00 GMT  
@@ -504,7 +515,7 @@
 
 ---
 
-### 58. [February 2026 CVE Landscape: 13 Critical Vulnerabilities Mark 43% Drop from January](https://www.recordedfuture.com/blog/february-2026-cve-landscape)
+### 59. [February 2026 CVE Landscape: 13 Critical Vulnerabilities Mark 43% Drop from January](https://www.recordedfuture.com/blog/february-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Thu, 12 Mar 2026 00:00:00 GMT  
@@ -513,21 +524,12 @@
 
 ---
 
-### 59. [Latin America's Cybersecurity Turning Point: From Reactive Defense to Threat Intelligence](https://www.recordedfuture.com/blog/latin-america-cybersecurity-turning-point)
+### 60. [Latin America's Cybersecurity Turning Point: From Reactive Defense to Threat Intelligence](https://www.recordedfuture.com/blog/latin-america-cybersecurity-turning-point)
 
 **Source:** Recorded Future  
 **Published:** Tue, 03 Mar 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** Ransomware  
-
----
-
-### 60. [Recorded Future Expands Coverage of Scams and Financial Fraud with Money Mule Intelligence from CYBERA](https://www.recordedfuture.com/blog/recorded-future-money-mule-intelligence-cybera)
-
-**Source:** Recorded Future  
-**Published:** Thu, 26 Feb 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
