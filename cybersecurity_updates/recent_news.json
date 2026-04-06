@@ -1,10 +1,46 @@
 [
   {
     "source": "The Hacker News",
+    "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers",
+    "link": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html",
+    "published": "Mon, 06 Apr 2026 17:15:00 +0530",
+    "summary": "The&nbsp;most active piece of enterprise infrastructure in the company is the developer workstation. That&nbsp;laptop is where credentials are created, tested, cached, copied, and reused across services, bots, build tools, and now local AI&nbsp;agents.\nIn&nbsp;March 2026, the TeamPCP threat&nbsp;actor proved just how&nbsp;valuable developer&nbsp;machines are. Their&nbsp;supply chain attack on",
+    "analysis": {
+      "issue": "8 supply chain attack exposed 33,185 secrets across 6,943 machines, leaving 3,760 valid credentials active",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
+    "link": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html",
+    "published": "Mon, 06 Apr 2026 15:37:00 +0530",
+    "summary": "Threat actors associated&nbsp;with Qilin&nbsp;and Warlock ransomware operations&nbsp;have been&nbsp;observed using the bring your own vulnerable driver&nbsp;(BYOVD) technique to silence security tools running on compromised hosts, according to findings from Cisco Talos and Trend&nbsp;Micro.\nQilin attacks analyzed by Talos&nbsp;have been&nbsp;found to deploy a malicious DLL named \"msimg32.dll,\"",
+    "analysis": {
+      "issue": "Qilin disables 300+ EDR drivers using BYOVD in 2025 attacks, delaying encryption six days, increasing breach impact",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
     "link": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
     "published": "Mon, 06 Apr 2026 12:29:00 +0530",
-    "summary": "Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identity of the main threat actors associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation.\nThe threat actor, who went by the alias UNKN, functioned as a representative of the group, advertising the ransomware in June 2019 on the XSS cybercrime forum. He&nbsp;",
+    "summary": "Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identities of two of the key figures associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation.\nOne of the threat actors, who went by the alias UNKN, functioned as a representative of the group, advertising the ransomware in June 2019 on the XSS cybercrime forum",
     "analysis": {
       "issue": "BKA identified REvil leaders tied to 130 German attacks causing €35",
       "solution": null,
@@ -78,7 +114,18 @@
     "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
     "link": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html",
     "published": "Fri, 03 Apr 2026 23:04:00 +0530",
-    "summary": "A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025,&nbsp;following a two-year&nbsp;period of minimal targeting in the&nbsp;region.\nThe campaign has been attributed&nbsp;to TA416, a cluster of activity that overlaps with DarkPeony, RedDelta, Red Lich, SmugX, UNC6384, and Vertigo&nbsp;Panda.\n\"This TA416 activity included multiple"
+    "summary": "A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025,&nbsp;following a two-year&nbsp;period of minimal targeting in the&nbsp;region.\nThe campaign has been attributed&nbsp;to TA416, a cluster of activity that overlaps with DarkPeony, RedDelta, Red Lich, SmugX, UNC6384, and Vertigo&nbsp;Panda.\n\"This TA416 activity included multiple",
+    "analysis": {
+      "issue": "TA416 targeted European governments from mid-2025 using PlugX and OAuth abuse, enabling cyber espionage against EU and NATO entities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
   },
   {
     "source": "The Hacker News",
@@ -131,42 +178,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
-    "link": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html",
-    "published": "Fri, 03 Apr 2026 14:40:00 +0530",
-    "summary": "Cybersecurity researchers&nbsp;have discovered a new version of&nbsp;the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the&nbsp;trojan was discovered targeting both the mobile operating&nbsp;systems.\nThe&nbsp;malware&nbsp;has&nbsp;been found to conceal itself within seemingly benign apps, such as enterprise messengers and food delivery services, while",
-    "analysis": {
-      "issue": "SparkCat resurfaces in three app store apps, scanning crypto wallet images via OCR, increasing global risk",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK",
-    "link": "https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html",
-    "published": "Fri, 03 Apr 2026 14:05:00 +0530",
-    "summary": "Solana-based decentralized exchange Drift has confirmed that attackers drained about $285 million from the platform during a security incident that took place on April 1,&nbsp;2026.\n\"Earlier today, a malicious actor gained unauthorized access to Drift Protocol through a novel attack involving durable nonces, resulting in a rapid takeover of Drift’s Security Council administrative powers,\" the&",
-    "analysis": {
-      "issue": "Drift lost $285M on April 1, 2026 after nonce-based social engineering enabled admin takeover, exposing DPRK-linked crypto theft patterns",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -448,13 +459,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21262",
         "CVE-2026-24289",
-        "CVE-2026-24291",
         "CVE-2026-26110",
-        "CVE-2026-26127",
+        "CVE-2026-24291",
         "CVE-2026-25187",
         "CVE-2026-24294",
+        "CVE-2026-26127",
+        "CVE-2026-21262",
         "CVE-2026-26113"
       ],
       "threat_categories": [
@@ -552,21 +563,35 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21525",
-        "CVE-2026-21256",
         "CVE-2026-21523",
-        "CVE-2026-21510",
-        "CVE-2026-21514",
+        "CVE-2026-21509",
         "CVE-2026-21516",
+        "CVE-2026-21513",
         "CVE-2026-21519",
         "CVE-2026-21533",
-        "CVE-2026-21513",
-        "CVE-2026-21509"
+        "CVE-2026-21510",
+        "CVE-2026-21256",
+        "CVE-2026-21525",
+        "CVE-2026-21514"
       ],
       "threat_categories": [
         "Vulnerability"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Guardarian Users Targeted With Malicious Strapi NPM Packages",
+    "link": "https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/",
+    "published": "Mon, 06 Apr 2026 11:40:56 +0000",
+    "summary": "<p>Hackers published 36 NPM packages posing as Strapi plugins to execute shells, escape containers, and harvest credentials.</p>\n<p>The post <a href=\"https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/\">Guardarian Users Targeted With Malicious Strapi NPM Packages</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "North Korean Hackers Target High-Profile Node.js Maintainers",
+    "link": "https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/",
+    "published": "Mon, 06 Apr 2026 11:02:36 +0000",
+    "summary": "<p>The threat actor behind the Axios supply chain attack has been aiming at other maintainers in its social engineering campaign.</p>\n<p>The post <a href=\"https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/\">North Korean Hackers Target High-Profile Node.js Maintainers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -623,20 +648,6 @@
     "link": "https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/",
     "published": "Fri, 03 Apr 2026 10:30:00 +0000",
     "summary": "<p>The cybersecurity incident involved an insider and had a limited impact, the telecoms giant told SecurityWeek.</p>\n<p>The post <a href=\"https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/\">T-Mobile Sets the Record Straight on Latest Data Breach Filing</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "North Korean Hackers Drain $285 Million From Drift in 10 Seconds",
-    "link": "https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/",
-    "published": "Fri, 03 Apr 2026 09:46:06 +0000",
-    "summary": "<p>The attackers prepared infrastructure and multiple nonce-based transactions, took over an admin key, and drained five vaults.</p>\n<p>The post <a href=\"https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/\">North Korean Hackers Drain $285 Million From Drift in 10 Seconds</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical Vulnerability in Claude Code Emerges Days After Source Leak",
-    "link": "https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/",
-    "published": "Thu, 02 Apr 2026 18:00:55 +0000",
-    "summary": "<p>Within days of each other, Anthropic first leaked the source code to Claude Code, and then a critical vulnerability was found by Adversa AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/\">Critical Vulnerability in Claude Code Emerges Days After Source Leak</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",

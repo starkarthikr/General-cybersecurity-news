@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-06 09:47:59 UTC
+**Last Updated:** 2026-04-06 13:23:15 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
+### 1. [How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers](https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 06 Apr 2026 17:15:00 +0530  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 2. [Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools](https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 06 Apr 2026 15:37:00 +0530  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 3. [BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Apr 2026 12:29:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation](https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html)
+### 4. [$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation](https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 05 Apr 2026 23:55:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
+### 5. [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 05 Apr 2026 10:37:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS](https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html)
+### 6. [Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS](https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 05 Apr 2026 10:02:00 +0530  
@@ -41,14 +59,16 @@
 
 ---
 
-### 5. [China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html)
+### 7. [China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 23:04:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
 
 ---
 
-### 6. [Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers](https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html)
+### 8. [Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers](https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 21:02:00 +0530  
@@ -57,7 +77,7 @@
 
 ---
 
-### 7. [UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html)
+### 9. [UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 16:34:00 +0530  
@@ -66,30 +86,12 @@
 
 ---
 
-### 8. [Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html)
+### 10. [Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 16:30:00 +0530  
 **Severity:** Low  
 **Categories:** Supply Chain  
-
----
-
-### 9. [New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images](https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 03 Apr 2026 14:40:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK](https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 03 Apr 2026 14:05:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -226,7 +228,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-24289, CVE-2026-24291, CVE-2026-26110, CVE-2026-26127, CVE-2026-25187, CVE-2026-24294, CVE-2026-26113  
+**CVEs:** CVE-2026-24289, CVE-2026-26110, CVE-2026-24291, CVE-2026-25187, CVE-2026-24294, CVE-2026-26127, CVE-2026-21262, CVE-2026-26113  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -272,78 +274,78 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21525, CVE-2026-21256, CVE-2026-21523, CVE-2026-21510, CVE-2026-21514, CVE-2026-21516, CVE-2026-21519, CVE-2026-21533, CVE-2026-21513, CVE-2026-21509  
+**CVEs:** CVE-2026-21523, CVE-2026-21509, CVE-2026-21516, CVE-2026-21513, CVE-2026-21519, CVE-2026-21533, CVE-2026-21510, CVE-2026-21256, CVE-2026-21525, CVE-2026-21514  
 **Categories:** Vulnerability  
 
 ---
 
-### 31. [Fortinet Rushes Emergency Fixes for Exploited Zero-Day](https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/)
+### 31. [Guardarian Users Targeted With Malicious Strapi NPM Packages](https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/)
+
+**Source:** Security Week  
+**Published:** Mon, 06 Apr 2026 11:40:56 +0000  
+
+---
+
+### 32. [North Korean Hackers Target High-Profile Node.js Maintainers](https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/)
+
+**Source:** Security Week  
+**Published:** Mon, 06 Apr 2026 11:02:36 +0000  
+
+---
+
+### 33. [Fortinet Rushes Emergency Fixes for Exploited Zero-Day](https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/)
 
 **Source:** Security Week  
 **Published:** Mon, 06 Apr 2026 09:37:28 +0000  
 
 ---
 
-### 32. [European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack](https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/)
+### 34. [European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack](https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Sat, 04 Apr 2026 10:31:00 +0000  
 
 ---
 
-### 33. [TrueConf Zero-Day Exploited in Asian Government Attacks](https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/)
+### 35. [TrueConf Zero-Day Exploited in Asian Government Attacks](https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 12:47:16 +0000  
 
 ---
 
-### 34. [In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware](https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/)
+### 36. [In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware](https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 12:30:53 +0000  
 
 ---
 
-### 35. [Critical ShareFile Flaws Lead to Unauthenticated RCE](https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/)
+### 37. [Critical ShareFile Flaws Lead to Unauthenticated RCE](https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 12:12:22 +0000  
 
 ---
 
-### 36. [Mobile Attack Surface Expands as Enterprises Lose Control](https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/)
+### 38. [Mobile Attack Surface Expands as Enterprises Lose Control](https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 11:00:00 +0000  
 
 ---
 
-### 37. [React2Shell Exploited in Large-Scale Credential Harvesting Campaign](https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/)
+### 39. [React2Shell Exploited in Large-Scale Credential Harvesting Campaign](https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 10:55:13 +0000  
 
 ---
 
-### 38. [T-Mobile Sets the Record Straight on Latest Data Breach Filing](https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/)
+### 40. [T-Mobile Sets the Record Straight on Latest Data Breach Filing](https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 10:30:00 +0000  
-
----
-
-### 39. [North Korean Hackers Drain $285 Million From Drift in 10 Seconds](https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/)
-
-**Source:** Security Week  
-**Published:** Fri, 03 Apr 2026 09:46:06 +0000  
-
----
-
-### 40. [Critical Vulnerability in Claude Code Emerges Days After Source Leak](https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/)
-
-**Source:** Security Week  
-**Published:** Thu, 02 Apr 2026 18:00:55 +0000  
 
 ---
 
