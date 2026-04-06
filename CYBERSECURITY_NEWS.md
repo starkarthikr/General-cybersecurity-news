@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-06 03:46:44 UTC
+**Last Updated:** 2026-04-06 09:47:59 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation](https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html)
+### 1. [BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 06 Apr 2026 12:29:00 +0530  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 2. [$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation](https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 05 Apr 2026 23:55:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
+### 3. [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 05 Apr 2026 10:37:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS](https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html)
+### 4. [Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS](https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 05 Apr 2026 10:02:00 +0530  
@@ -32,16 +41,14 @@
 
 ---
 
-### 4. [China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html)
+### 5. [China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 23:04:00 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 
-### 5. [Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers](https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html)
+### 6. [Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers](https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 21:02:00 +0530  
@@ -50,7 +57,7 @@
 
 ---
 
-### 6. [UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html)
+### 7. [UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 16:34:00 +0530  
@@ -59,7 +66,7 @@
 
 ---
 
-### 7. [Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html)
+### 8. [Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 16:30:00 +0530  
@@ -68,7 +75,7 @@
 
 ---
 
-### 8. [New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images](https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html)
+### 9. [New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images](https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 14:40:00 +0530  
@@ -77,22 +84,12 @@
 
 ---
 
-### 9. [Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK](https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html)
+### 10. [Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK](https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 03 Apr 2026 14:05:00 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 10. [Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials](https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 03 Apr 2026 01:00:00 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2025-55182  
-**Categories:** Vulnerability, Phishing  
 
 ---
 
@@ -229,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24294, CVE-2026-25187, CVE-2026-24291, CVE-2026-21262, CVE-2026-26110, CVE-2026-26113, CVE-2026-24289, CVE-2026-26127  
+**CVEs:** CVE-2026-21262, CVE-2026-24289, CVE-2026-24291, CVE-2026-26110, CVE-2026-26127, CVE-2026-25187, CVE-2026-24294, CVE-2026-26113  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -275,78 +272,78 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21516, CVE-2026-21525, CVE-2026-21510, CVE-2026-21256, CVE-2026-21519, CVE-2026-21514, CVE-2026-21513, CVE-2026-21533, CVE-2026-21523, CVE-2026-21509  
+**CVEs:** CVE-2026-21525, CVE-2026-21256, CVE-2026-21523, CVE-2026-21510, CVE-2026-21514, CVE-2026-21516, CVE-2026-21519, CVE-2026-21533, CVE-2026-21513, CVE-2026-21509  
 **Categories:** Vulnerability  
 
 ---
 
-### 31. [European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack](https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/)
+### 31. [Fortinet Rushes Emergency Fixes for Exploited Zero-Day](https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/)
+
+**Source:** Security Week  
+**Published:** Mon, 06 Apr 2026 09:37:28 +0000  
+
+---
+
+### 32. [European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack](https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Sat, 04 Apr 2026 10:31:00 +0000  
 
 ---
 
-### 32. [TrueConf Zero-Day Exploited in Asian Government Attacks](https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/)
+### 33. [TrueConf Zero-Day Exploited in Asian Government Attacks](https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 12:47:16 +0000  
 
 ---
 
-### 33. [In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware](https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/)
+### 34. [In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware](https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 12:30:53 +0000  
 
 ---
 
-### 34. [Critical ShareFile Flaws Lead to Unauthenticated RCE](https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/)
+### 35. [Critical ShareFile Flaws Lead to Unauthenticated RCE](https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 12:12:22 +0000  
 
 ---
 
-### 35. [Mobile Attack Surface Expands as Enterprises Lose Control](https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/)
+### 36. [Mobile Attack Surface Expands as Enterprises Lose Control](https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 11:00:00 +0000  
 
 ---
 
-### 36. [React2Shell Exploited in Large-Scale Credential Harvesting Campaign](https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/)
+### 37. [React2Shell Exploited in Large-Scale Credential Harvesting Campaign](https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 10:55:13 +0000  
 
 ---
 
-### 37. [T-Mobile Sets the Record Straight on Latest Data Breach Filing](https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/)
+### 38. [T-Mobile Sets the Record Straight on Latest Data Breach Filing](https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 10:30:00 +0000  
 
 ---
 
-### 38. [North Korean Hackers Drain $285 Million From Drift in 10 Seconds](https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/)
+### 39. [North Korean Hackers Drain $285 Million From Drift in 10 Seconds](https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 09:46:06 +0000  
 
 ---
 
-### 39. [Critical Vulnerability in Claude Code Emerges Days After Source Leak](https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/)
+### 40. [Critical Vulnerability in Claude Code Emerges Days After Source Leak](https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/)
 
 **Source:** Security Week  
 **Published:** Thu, 02 Apr 2026 18:00:55 +0000  
-
----
-
-### 40. [Apple Rolls Out DarkSword Exploit Protection to More Devices](https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/)
-
-**Source:** Security Week  
-**Published:** Thu, 02 Apr 2026 16:18:07 +0000  
 
 ---
 
@@ -627,7 +624,16 @@
 
 ---
 
-### 71. [Killer robots are here. Now what? (Lock and Code S07E07)](https://www.malwarebytes.com/blog/podcast/2026/04/killer-robots-are-here-now-what-lock-and-code-s07e07)
+### 71. [A week in security (March 30 &#8211; April 5)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-march-30-april-5-2)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 06 Apr 2026 07:01:00 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 72. [Killer robots are here. Now what? (Lock and Code S07E07)](https://www.malwarebytes.com/blog/podcast/2026/04/killer-robots-are-here-now-what-lock-and-code-s07e07)
 
 **Source:** Malwarebytes  
 **Published:** Sun, 05 Apr 2026 23:10:20 GMT  
@@ -636,7 +642,7 @@
 
 ---
 
-### 72. [That dream job offer from Coca-Cola or Ferrari? It’s a trap for your passwords](https://www.malwarebytes.com/blog/threat-intel/2026/04/that-dream-job-offer-from-coca-cola-or-ferrari-its-a-trap-for-your-passwords)
+### 73. [That dream job offer from Coca-Cola or Ferrari? It’s a trap for your passwords](https://www.malwarebytes.com/blog/threat-intel/2026/04/that-dream-job-offer-from-coca-cola-or-ferrari-its-a-trap-for-your-passwords)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 03 Apr 2026 23:13:58 GMT  
@@ -645,7 +651,7 @@
 
 ---
 
-### 73. [Blocking children from social media is a badly executed good idea](https://www.malwarebytes.com/blog/news/2026/04/blocking-children-from-social-media-is-a-badly-executed-good-idea)
+### 74. [Blocking children from social media is a badly executed good idea](https://www.malwarebytes.com/blog/news/2026/04/blocking-children-from-social-media-is-a-badly-executed-good-idea)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 03 Apr 2026 14:37:52 GMT  
@@ -654,7 +660,7 @@
 
 ---
 
-### 74. [Apple expands “DarkSword” patches to iOS 18.7.7](https://www.malwarebytes.com/blog/news/2026/04/apple-expands-darksword-patches-to-ios-18-7-7)
+### 75. [Apple expands “DarkSword” patches to iOS 18.7.7](https://www.malwarebytes.com/blog/news/2026/04/apple-expands-darksword-patches-to-ios-18-7-7)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 02 Apr 2026 14:13:44 GMT  
@@ -663,7 +669,7 @@
 
 ---
 
-### 75. [Malwarebytes Privacy VPN receives full third-party audit](https://www.malwarebytes.com/blog/product/2026/04/vpnsoftwareaudit)
+### 76. [Malwarebytes Privacy VPN receives full third-party audit](https://www.malwarebytes.com/blog/product/2026/04/vpnsoftwareaudit)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 02 Apr 2026 13:00:00 GMT  
@@ -672,7 +678,7 @@
 
 ---
 
-### 76. [Wikipedia&#8217;s AI agent row likely just the beginning of the bot-ocalypse](https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse)
+### 77. [Wikipedia&#8217;s AI agent row likely just the beginning of the bot-ocalypse](https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 01 Apr 2026 21:49:55 GMT  
@@ -681,7 +687,7 @@
 
 ---
 
-### 77. [WhatsApp on Windows users targeted in new campaign, warns Microsoft](https://www.malwarebytes.com/blog/news/2026/04/whatsapp-on-windows-users-targeted-in-new-campaign-warns-microsoft)
+### 78. [WhatsApp on Windows users targeted in new campaign, warns Microsoft](https://www.malwarebytes.com/blog/news/2026/04/whatsapp-on-windows-users-targeted-in-new-campaign-warns-microsoft)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 01 Apr 2026 14:27:39 GMT  
@@ -690,7 +696,7 @@
 
 ---
 
-### 78. [Why we&#8217;re still not doing April Fools&#8217; Day](https://www.malwarebytes.com/blog/scams/2026/04/why-were-still-not-doing-april-fools-day)
+### 79. [Why we&#8217;re still not doing April Fools&#8217; Day](https://www.malwarebytes.com/blog/scams/2026/04/why-were-still-not-doing-april-fools-day)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 01 Apr 2026 13:00:00 GMT  
@@ -699,21 +705,12 @@
 
 ---
 
-### 79. [Asking AI for personal advice is a bad idea, Stanford study shows](https://www.malwarebytes.com/blog/ai/2026/03/asking-ai-for-personal-advice-is-a-bad-idea-stanford-study-shows)
+### 80. [Asking AI for personal advice is a bad idea, Stanford study shows](https://www.malwarebytes.com/blog/ai/2026/03/asking-ai-for-personal-advice-is-a-bad-idea-stanford-study-shows)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 31 Mar 2026 19:40:23 GMT  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 80. [Axios supply chain attack chops away at npm trust](https://www.malwarebytes.com/blog/news/2026/03/axios-supply-chain-attack-chops-away-at-npm-trust)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 31 Mar 2026 14:53:15 GMT  
-**Severity:** Low  
-**Categories:** Malware, Supply Chain  
 
 ---
 
