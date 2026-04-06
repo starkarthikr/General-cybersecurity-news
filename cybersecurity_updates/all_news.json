@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
+    "link": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
+    "published": "Sun, 05 Apr 2026 23:55:00 +0530",
+    "summary": "Drift&nbsp;has revealed that the April 1, 2026, attack that led to&nbsp;the theft of $285&nbsp;million was the culmination of a months-long targeted and meticulously planned social engineering operation undertaken by the Democratic People's Republic of Korea (DPRK) that began in the fall of&nbsp;2025.\nThe&nbsp;Solana-based decentralized exchange described it as \"an attack six months in the",
+    "analysis": {
+      "issue": "$285M stolen after six-month DPRK social engineering campaign began fall 2025, exposing Drift’s contributors and cloud assets",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
     "link": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
     "published": "Sun, 05 Apr 2026 10:37:00 +0530",
@@ -167,20 +185,37 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
-    "link": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html",
-    "published": "Thu, 02 Apr 2026 20:51:00 +0530",
-    "summary": "Cisco&nbsp;has released updates to address a critical security flaw in the Integrated Management Controller (IMC) that, if successfully exploited, could allow an unauthenticated, remote attacker to bypass authentication and gain access to the system with elevated privileges.\nThe&nbsp;vulnerability, tracked as CVE-2026-20093, carries a CVSS score of 9.8&nbsp;out of a maximum of&nbsp;10.0.\n\"This",
+    "source": "Bleeping Computer",
+    "title": "Traffic violation scams switch to QR codes in new phishing texts",
+    "link": "https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/",
+    "published": "Sun, 05 Apr 2026 15:44:10 -0400",
+    "summary": "Scammers are sending fake \"Notice of Default\" traffic violation text messages impersonating state courts across the U.S., pressuring recipients to scan a QR code that leads to a phishing site demanding a $6.99 payment while stealing personal and financial information. [...]",
     "analysis": {
-      "issue": "8 CVSS flaws (CVE-2026-20093, CVE-2026-20160), preventing authentication bypass and root access",
+      "issue": "Scammers are sending fake \"Notice of Default\" traffic violation text messages impersonating state courts across the U",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New FortiClient EMS flaw exploited in attacks, emergency patch released",
+    "link": "https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/",
+    "published": "Sun, 05 Apr 2026 14:45:17 -0400",
+    "summary": "Fortinet has released an emergency weekend security update for a new critical FortiClient Enterprise Management Server (EMS) vulnerability that is actively exploited in attacks. [...]",
+    "analysis": {
+      "issue": "Fortinet has released an emergency weekend security update for a new critical FortiClient Enterprise Management Server (EMS) vulnerability that is actively exploited in attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-20160",
-        "CVE-2026-20093"
+        "CVE-2026-35616"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -339,38 +374,21 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Man admits to locking thousands of Windows devices in extortion plot",
-    "link": "https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/",
-    "published": "Fri, 03 Apr 2026 05:04:54 -0400",
-    "summary": "A former core infrastructure engineer has pleaded guilty to locking Windows admins out of 254 servers as part of a failed extortion plot targeting his employer, an industrial company headquartered in Somerset County, New Jersey. [...]",
+    "source": "Krebs On Security",
+    "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
+    "link": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+    "published": "Mon, 06 Apr 2026 02:07:17 +0000",
+    "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.",
     "analysis": {
-      "issue": "A former core infrastructure engineer has pleaded guilty to locking Windows admins out of 254 servers as part of a failed extortion plot targeting his employer, an industrial company headquartered in Somerset County, New Jersey",
+      "issue": "An elusive hacker who went by the handle “UNKN” and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft now force upgrades unmanaged Windows 11 24H2 PCs",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/",
-    "published": "Fri, 03 Apr 2026 03:55:40 -0400",
-    "summary": "Starting this week, Microsoft has begun force-upgrading unmanaged devices running Windows 11 24H2 Home and Pro editions to Windows 11 25H2. [...]",
-    "analysis": {
-      "issue": "Starting this week, Microsoft has begun force-upgrading unmanaged devices running Windows 11 24H2 Home and Pro editions to Windows 11 25H2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Ransomware",
+        "Malware"
       ]
     }
   },
@@ -444,14 +462,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26127",
-        "CVE-2026-24294",
         "CVE-2026-26110",
-        "CVE-2026-26113",
         "CVE-2026-24289",
-        "CVE-2026-25187",
         "CVE-2026-21262",
-        "CVE-2026-24291"
+        "CVE-2026-24291",
+        "CVE-2026-25187",
+        "CVE-2026-24294",
+        "CVE-2026-26113",
+        "CVE-2026-26127"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -548,40 +566,19 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21525",
         "CVE-2026-21510",
-        "CVE-2026-21509",
-        "CVE-2026-21516",
-        "CVE-2026-21514",
-        "CVE-2026-21519",
         "CVE-2026-21533",
-        "CVE-2026-21523",
+        "CVE-2026-21519",
         "CVE-2026-21513",
+        "CVE-2026-21516",
+        "CVE-2026-21523",
+        "CVE-2026-21509",
+        "CVE-2026-21514",
+        "CVE-2026-21525",
         "CVE-2026-21256"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Krebs On Security",
-    "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-    "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-    "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-    "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
-    "analysis": {
-      "issue": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifyi",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing",
-        "APT",
-        "DDoS"
       ]
     }
   },
@@ -1225,6 +1222,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Killer robots are here. Now what? (Lock and Code S07E07)",
+    "link": "https://www.malwarebytes.com/blog/podcast/2026/04/killer-robots-are-here-now-what-lock-and-code-s07e07",
+    "published": "Sun, 05 Apr 2026 23:10:20 GMT",
+    "summary": "This week on the Lock and Code podcast, we speak with Peter Asaro about killer robots, how to stop them, and their obvious consequences.",
+    "analysis": {
+      "issue": "Big news: Lock and Code is nominated for a Webby Award",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "That dream job offer from Coca-Cola or Ferrari? It’s a trap for your passwords",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/04/that-dream-job-offer-from-coca-cola-or-ferrari-its-a-trap-for-your-passwords",
     "published": "Fri, 03 Apr 2026 23:13:58 GMT",
@@ -1389,24 +1404,6 @@
       "threat_categories": [
         "Malware",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "New macOS security feature will alert users about possible ClickFix attacks",
-    "link": "https://www.malwarebytes.com/blog/news/2026/03/new-macos-security-feature-will-alert-users-about-possible-clickfix-attacks",
-    "published": "Mon, 30 Mar 2026 14:26:40 GMT",
-    "summary": "Apple introduced an extra layer of protection against ClickFix attacks, only for macOS Tahoe 26.4 and later",
-    "analysis": {
-      "issue": "Rumor has it that Apple deployed a new security feature in the fight against ClickFix",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
