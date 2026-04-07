@@ -1,10 +1,46 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-07 09:44:09 UTC
+**Last Updated:** 2026-04-07 13:43:59 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware](https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html)
+### 1. [Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign](https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 07 Apr 2026 18:16:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 2. [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 07 Apr 2026 17:47:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [The Hidden Cost of Recurring Credential Incidents](https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 07 Apr 2026 17:00:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips](https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 07 Apr 2026 14:08:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware](https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 12:05:00 +0530  
@@ -13,7 +49,7 @@
 
 ---
 
-### 2. [Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed](https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html)
+### 6. [Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed](https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 11:26:00 +0530  
@@ -23,16 +59,14 @@
 
 ---
 
-### 3. [Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations](https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html)
+### 7. [Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations](https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 00:07:00 +0530  
-**Severity:** Low  
-**Categories:** Ransomware  
 
 ---
 
-### 4. [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html)
+### 8. [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Apr 2026 21:54:00 +0530  
@@ -41,7 +75,7 @@
 
 ---
 
-### 5. [Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps](https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html)
+### 9. [Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps](https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Apr 2026 18:30:00 +0530  
@@ -50,48 +84,12 @@
 
 ---
 
-### 6. [⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More](https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html)
+### 10. [⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More](https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Apr 2026 18:16:00 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability, Phishing  
-
----
-
-### 7. [How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers](https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 06 Apr 2026 17:15:00 +0530  
-**Severity:** Low  
-**Categories:** Supply Chain  
-
----
-
-### 8. [Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools](https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 06 Apr 2026 15:37:00 +0530  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 9. [BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 06 Apr 2026 12:29:00 +0530  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 10. [$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation](https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html)
-
-**Source:** The Hacker News  
-**Published:** Sun, 05 Apr 2026 23:55:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -145,7 +143,7 @@
 **Source:** Bleeping Computer  
 **Published:** Mon, 06 Apr 2026 12:56:01 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2025-10035, CVE-2026-23760  
+**CVEs:** CVE-2026-23760, CVE-2025-10035  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -228,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24289, CVE-2026-26110, CVE-2026-25187, CVE-2026-26127, CVE-2026-21262, CVE-2026-24291, CVE-2026-26113, CVE-2026-24294  
+**CVEs:** CVE-2026-24291, CVE-2026-26127, CVE-2026-24294, CVE-2026-26110, CVE-2026-25187, CVE-2026-26113, CVE-2026-21262, CVE-2026-24289  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -274,82 +272,109 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21525, CVE-2026-21514, CVE-2026-21513, CVE-2026-21519, CVE-2026-21510, CVE-2026-21533, CVE-2026-21256, CVE-2026-21516, CVE-2026-21523, CVE-2026-21509  
+**CVEs:** CVE-2026-21256, CVE-2026-21533, CVE-2026-21514, CVE-2026-21519, CVE-2026-21523, CVE-2026-21510, CVE-2026-21513, CVE-2026-21516, CVE-2026-21525, CVE-2026-21509  
 **Categories:** Vulnerability  
 
 ---
 
-### 31. [German Police Unmask REvil Ransomware Leader](https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/)
+### 31. [Webinar Today: Why Automated Pentesting Alone Is Not Enough](https://www.securityweek.com/webinar-today-why-automated-pentesting-alone-is-not-enough/)
+
+**Source:** Security Week  
+**Published:** Tue, 07 Apr 2026 13:19:29 +0000  
+
+---
+
+### 32. [GPUBreach: Root Shell Access Achieved via GPU Rowhammer Attack](https://www.securityweek.com/gpubreach-root-shell-access-achieved-via-gpu-rowhammer-attack/)
+
+**Source:** Security Week  
+**Published:** Tue, 07 Apr 2026 11:31:38 +0000  
+
+---
+
+### 33. [Medusa Ransomware Fast to Exploit Vulnerabilities, Breached Systems](https://www.securityweek.com/medusa-ransomware-fast-to-exploit-vulnerabilities-breached-systems/)
+
+**Source:** Security Week  
+**Published:** Tue, 07 Apr 2026 10:52:33 +0000  
+
+---
+
+### 34. [German Police Unmask REvil Ransomware Leader](https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 09:24:40 +0000  
 
 ---
 
-### 32. [White House Seeks to Slash CISA Funding by $707 Million](https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/)
+### 35. [White House Seeks to Slash CISA Funding by $707 Million](https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 08:29:41 +0000  
 
 ---
 
-### 33. [Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack](https://www.securityweek.com/wynn-resorts-says-21000-employees-affected-by-shinyhunters-hack/)
+### 36. [Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack](https://www.securityweek.com/wynn-resorts-says-21000-employees-affected-by-shinyhunters-hack/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 06:05:54 +0000  
 
 ---
 
-### 34. [Google DeepMind Researchers Map Web Attacks Against AI Agents](https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/)
+### 37. [Google DeepMind Researchers Map Web Attacks Against AI Agents](https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/)
 
 **Source:** Security Week  
 **Published:** Mon, 06 Apr 2026 15:32:54 +0000  
 
 ---
 
-### 35. [Guardarian Users Targeted With Malicious Strapi NPM Packages](https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/)
+### 38. [Guardarian Users Targeted With Malicious Strapi NPM Packages](https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/)
 
 **Source:** Security Week  
 **Published:** Mon, 06 Apr 2026 11:40:56 +0000  
 
 ---
 
-### 36. [North Korean Hackers Target High-Profile Node.js Maintainers](https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/)
+### 39. [North Korean Hackers Target High-Profile Node.js Maintainers](https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/)
 
 **Source:** Security Week  
 **Published:** Mon, 06 Apr 2026 11:02:36 +0000  
 
 ---
 
-### 37. [Fortinet Rushes Emergency Fixes for Exploited Zero-Day](https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/)
+### 40. [Fortinet Rushes Emergency Fixes for Exploited Zero-Day](https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/)
 
 **Source:** Security Week  
 **Published:** Mon, 06 Apr 2026 09:37:28 +0000  
 
 ---
 
-### 38. [European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack](https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/)
+### 41. [Talos Takes: 2025's ransomware trends and zombie vulnerabilities](https://blog.talosintelligence.com/talos-takes-2025s-ransomware-trends-and-zombie-vulnerabilities/)
 
-**Source:** Security Week  
-**Published:** Sat, 04 Apr 2026 10:31:00 +0000  
-
----
-
-### 39. [TrueConf Zero-Day Exploited in Asian Government Attacks](https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/)
-
-**Source:** Security Week  
-**Published:** Fri, 03 Apr 2026 12:47:16 +0000  
+**Source:** Talos Blog  
+**Published:** Tue, 07 Apr 2026 12:03:13 GMT  
+**Severity:** Low  
+**Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 40. [In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware](https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/)
+### 42. [The Trojan horse of cybercrime: Weaponizing SaaS notification pipelines](https://blog.talosintelligence.com/weaponizing-saas-notification-pipelines/)
 
-**Source:** Security Week  
-**Published:** Fri, 03 Apr 2026 12:30:53 +0000  
+**Source:** Talos Blog  
+**Published:** Tue, 07 Apr 2026 10:00:35 GMT  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware, Phishing  
 
 ---
 
-### 41. [Do not get high(jacked) off your own supply (chain)](https://blog.talosintelligence.com/protecting-supply-chain-2026/)
+### 43. [Year in Review: Vulnerabilities old and new and something React2](https://blog.talosintelligence.com/year-in-review-vulnerabilities-old-and-new-and-something-react2/)
+
+**Source:** Talos Blog  
+**Published:** Tue, 07 Apr 2026 10:00:11 GMT  
+**Severity:** High  
+**Categories:** Vulnerability  
+
+---
+
+### 44. [Do not get high(jacked) off your own supply (chain)](https://blog.talosintelligence.com/protecting-supply-chain-2026/)
 
 **Source:** Talos Blog  
 **Published:** Fri, 03 Apr 2026 17:31:42 GMT  
@@ -358,7 +383,7 @@
 
 ---
 
-### 42. [Axios NPM supply chain incident](https://blog.talosintelligence.com/axois-npm-supply-chain-incident/)
+### 45. [Axios NPM supply chain incident](https://blog.talosintelligence.com/axois-npm-supply-chain-incident/)
 
 **Source:** Talos Blog  
 **Published:** Fri, 03 Apr 2026 17:00:22 GMT  
@@ -367,7 +392,7 @@
 
 ---
 
-### 43. [The democratisation of business email compromise fraud](https://blog.talosintelligence.com/the-democratisation-of-business-email-compromise-fraud/)
+### 46. [The democratisation of business email compromise fraud](https://blog.talosintelligence.com/the-democratisation-of-business-email-compromise-fraud/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Apr 2026 18:00:20 GMT  
@@ -376,7 +401,7 @@
 
 ---
 
-### 44. [[Video] The TTP Ep 21: When Attackers Become Trusted Users](https://blog.talosintelligence.com/video-the-ttp-ep-21-when-attackers-become-trusted-users/)
+### 47. [[Video] The TTP Ep 21: When Attackers Become Trusted Users](https://blog.talosintelligence.com/video-the-ttp-ep-21-when-attackers-become-trusted-users/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Apr 2026 13:06:45 GMT  
@@ -385,7 +410,7 @@
 
 ---
 
-### 45. [UAT-10608: Inside a large-scale automated credential harvesting operation targeting web applications](https://blog.talosintelligence.com/uat-10608-inside-a-large-scale-automated-credential-harvesting-operation-targeting-web-applications/)
+### 48. [UAT-10608: Inside a large-scale automated credential harvesting operation targeting web applications](https://blog.talosintelligence.com/uat-10608-inside-a-large-scale-automated-credential-harvesting-operation-targeting-web-applications/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Apr 2026 10:00:57 GMT  
@@ -395,7 +420,7 @@
 
 ---
 
-### 46. [Qilin EDR killer infection chain](https://blog.talosintelligence.com/qilin-edr-killer/)
+### 49. [Qilin EDR killer infection chain](https://blog.talosintelligence.com/qilin-edr-killer/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Apr 2026 10:00:56 GMT  
@@ -404,40 +429,12 @@
 
 ---
 
-### 47. [Inside the Talos 2025 Year in Review: A discussion on what the data means for defenders](https://blog.talosintelligence.com/inside-the-talos-2025-year-in-review-a-discussion-on-what-the-data-means-for-defenders/)
+### 50. [Inside the Talos 2025 Year in Review: A discussion on what the data means for defenders](https://blog.talosintelligence.com/inside-the-talos-2025-year-in-review-a-discussion-on-what-the-data-means-for-defenders/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Apr 2026 10:00:49 GMT  
 **Severity:** Critical  
 **Categories:** Vulnerability, APT  
-
----
-
-### 48. [An overview of ransomware threats in Japan in 2025 and early detection insights from Qilin cases](https://blog.talosintelligence.com/an-overview-of-ransomware-threats-in-japan-in-2025-and-early-detection-insights-from-qilin-cases/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 02 Apr 2026 10:00:13 GMT  
-**Severity:** High  
-**Categories:** Ransomware  
-
----
-
-### 49. [Ransomware in 2025: Blending in is the strategy](https://blog.talosintelligence.com/ransomware-in-2025-blending-in-is-the-strategy/)
-
-**Source:** Talos Blog  
-**Published:** Tue, 31 Mar 2026 10:00:02 GMT  
-**Severity:** Low  
-**Categories:** Ransomware, Phishing  
-
----
-
-### 50. [TP-Link, Canva, HikVision vulnerabilities](https://blog.talosintelligence.com/tp-link-canva-hikvision-vulnerabilities/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 26 Mar 2026 18:34:26 GMT  
-**Severity:** Low  
-**CVEs:** CVE-2025-66342  
-**Categories:** Vulnerability, Supply Chain  
 
 ---
 
@@ -611,7 +608,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -626,7 +623,25 @@
 
 ---
 
-### 71. [A week in security (March 30 &#8211; April 5)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-march-30-april-5-2)
+### 71. [Traffic violation scams swap links for QR codes to steal your card details](https://www.malwarebytes.com/blog/news/2026/04/traffic-violation-scams-swap-links-for-qr-codes-to-steal-your-card-details)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 07 Apr 2026 11:57:37 GMT  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 72. [Support platform breach exposes Hims &amp; Hers customer data](https://www.malwarebytes.com/blog/data-breaches/2026/04/support-platform-breach-exposes-hims-hers-customer-data)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 07 Apr 2026 10:45:50 GMT  
+**Severity:** Low  
+**Categories:** Phishing, Supply Chain  
+
+---
+
+### 73. [A week in security (March 30 &#8211; April 5)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-march-30-april-5-2)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 06 Apr 2026 07:01:00 GMT  
@@ -635,7 +650,7 @@
 
 ---
 
-### 72. [Killer robots are here. Now what? (Lock and Code S07E07)](https://www.malwarebytes.com/blog/podcast/2026/04/killer-robots-are-here-now-what-lock-and-code-s07e07)
+### 74. [Killer robots are here. Now what? (Lock and Code S07E07)](https://www.malwarebytes.com/blog/podcast/2026/04/killer-robots-are-here-now-what-lock-and-code-s07e07)
 
 **Source:** Malwarebytes  
 **Published:** Sun, 05 Apr 2026 23:10:20 GMT  
@@ -644,7 +659,7 @@
 
 ---
 
-### 73. [That dream job offer from Coca-Cola or Ferrari? It’s a trap for your passwords](https://www.malwarebytes.com/blog/threat-intel/2026/04/that-dream-job-offer-from-coca-cola-or-ferrari-its-a-trap-for-your-passwords)
+### 75. [That dream job offer from Coca-Cola or Ferrari? It’s a trap for your passwords](https://www.malwarebytes.com/blog/threat-intel/2026/04/that-dream-job-offer-from-coca-cola-or-ferrari-its-a-trap-for-your-passwords)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 03 Apr 2026 23:13:58 GMT  
@@ -653,7 +668,7 @@
 
 ---
 
-### 74. [Blocking children from social media is a badly executed good idea](https://www.malwarebytes.com/blog/news/2026/04/blocking-children-from-social-media-is-a-badly-executed-good-idea)
+### 76. [Blocking children from social media is a badly executed good idea](https://www.malwarebytes.com/blog/news/2026/04/blocking-children-from-social-media-is-a-badly-executed-good-idea)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 03 Apr 2026 14:37:52 GMT  
@@ -662,7 +677,7 @@
 
 ---
 
-### 75. [Apple expands “DarkSword” patches to iOS 18.7.7](https://www.malwarebytes.com/blog/news/2026/04/apple-expands-darksword-patches-to-ios-18-7-7)
+### 77. [Apple expands “DarkSword” patches to iOS 18.7.7](https://www.malwarebytes.com/blog/news/2026/04/apple-expands-darksword-patches-to-ios-18-7-7)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 02 Apr 2026 14:13:44 GMT  
@@ -671,7 +686,7 @@
 
 ---
 
-### 76. [Malwarebytes Privacy VPN receives full third-party audit](https://www.malwarebytes.com/blog/product/2026/04/vpnsoftwareaudit)
+### 78. [Malwarebytes Privacy VPN receives full third-party audit](https://www.malwarebytes.com/blog/product/2026/04/vpnsoftwareaudit)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 02 Apr 2026 13:00:00 GMT  
@@ -680,7 +695,7 @@
 
 ---
 
-### 77. [Wikipedia&#8217;s AI agent row likely just the beginning of the bot-ocalypse](https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse)
+### 79. [Wikipedia&#8217;s AI agent row likely just the beginning of the bot-ocalypse](https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 01 Apr 2026 21:49:55 GMT  
@@ -689,30 +704,12 @@
 
 ---
 
-### 78. [WhatsApp on Windows users targeted in new campaign, warns Microsoft](https://www.malwarebytes.com/blog/news/2026/04/whatsapp-on-windows-users-targeted-in-new-campaign-warns-microsoft)
+### 80. [WhatsApp on Windows users targeted in new campaign, warns Microsoft](https://www.malwarebytes.com/blog/news/2026/04/whatsapp-on-windows-users-targeted-in-new-campaign-warns-microsoft)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 01 Apr 2026 14:27:39 GMT  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 79. [Why we&#8217;re still not doing April Fools&#8217; Day](https://www.malwarebytes.com/blog/scams/2026/04/why-were-still-not-doing-april-fools-day)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 01 Apr 2026 13:00:00 GMT  
-**Severity:** Low  
-**Categories:** Phishing, APT  
-
----
-
-### 80. [Asking AI for personal advice is a bad idea, Stanford study shows](https://www.malwarebytes.com/blog/ai/2026/03/asking-ai-for-personal-advice-is-a-bad-idea-stanford-study-shows)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 31 Mar 2026 19:40:23 GMT  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 

@@ -1,6 +1,79 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
+    "link": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
+    "published": "Tue, 07 Apr 2026 18:16:00 +0530",
+    "summary": "An active campaign has been observed targeting internet-exposed instances running ComfyUI, a popular stable diffusion platform, to enlist them into a cryptocurrency mining and proxy&nbsp;botnet.\n\"A purpose-built Python scanner continuously sweeps major cloud IP ranges for vulnerable targets, automatically installing malicious nodes&nbsp;via ComfyUI-Manager if no exploitable node is already",
+    "analysis": {
+      "issue": "Over 1,000 exposed ComfyUI instances exploited via unauthenticated code execution, enabling Monero mining and botnet expansion",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
+    "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
+    "published": "Tue, 07 Apr 2026 17:47:00 +0530",
+    "summary": "In&nbsp;the rapid evolution of&nbsp;the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security&nbsp;leaders: Identity programs are maturing, yet the risk is actually increasing.\nAccording to new research from&nbsp;the Ponemon&nbsp;Institute, hundreds of applications within the typical enterprise remain disconnected from centralized identity systems.&nbsp;These&nbsp;\"dark",
+    "analysis": {
+      "issue": "Hundreds of disconnected apps persist in 2026 enterprises, Ponemon finds, enabling AI agents to amplify credential risks and expand attack surfaces",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "The Hidden Cost of Recurring Credential Incidents",
+    "link": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html",
+    "published": "Tue, 07 Apr 2026 17:00:00 +0530",
+    "summary": "When talking about credential security, the focus usually lands on breach prevention. This&nbsp;makes sense&nbsp;when IBM’s 2025 Cost of a Data Breach&nbsp;Report puts the average cost of a breach at $4.4&nbsp;million. Avoiding even one major incident is enough to justify most security investments, but that headline figure obscures the more persistent problems caused by recurring credential",
+    "analysis": {
+      "issue": "Recurring credential incidents drive operational costs as password resets make up 30% of helpdesk tickets, impacting productivity and security",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
+    "link": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html",
+    "published": "Tue, 07 Apr 2026 14:08:00 +0530",
+    "summary": "New academic research has identified multiple RowHammer attacks against high-performance graphics processing units (GPUs) that could be exploited to escalate privileges and, in some cases, even take full control of a&nbsp;host.\nThe efforts have been&nbsp;codenamed GPUBreach, GDDRHammer,&nbsp;and GeForge.\nGPUBreach goes a step further&nbsp;than GPUHammer, demonstrating for the first time that",
+    "analysis": {
+      "issue": "GPUBreach achieves full CPU privilege escalation via GDDR6 RowHammer in July 2025 research, threatening cloud AI systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
     "link": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html",
     "published": "Tue, 07 Apr 2026 12:05:00 +0530",
@@ -43,18 +116,7 @@
     "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
     "link": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
     "published": "Tue, 07 Apr 2026 00:07:00 +0530",
-    "summary": "An&nbsp;Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E. amid&nbsp;ongoing conflict in the Middle&nbsp;East.\nThe&nbsp;activity, assessed to be ongoing, was carried out in three distinct attack waves that took place on March 3, March 13, and March 23, 2026, per Check&nbsp;Point.\n\"The campaign is primarily",
-    "analysis": {
-      "issue": "Iran-linked attacks hit 300+ Israeli M365 orgs in March 2026, reviving ransomware campaigns and escalating regional cyber risks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
+    "summary": "An&nbsp;Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E. amid&nbsp;ongoing conflict in the Middle&nbsp;East.\nThe&nbsp;activity, assessed to be ongoing, was carried out in three distinct attack waves that took place on March 3, March 13, and March 23, 2026, per Check&nbsp;Point.\n\"The campaign is primarily"
   },
   {
     "source": "The Hacker News",
@@ -108,78 +170,6 @@
       "threat_categories": [
         "Vulnerability",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers",
-    "link": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html",
-    "published": "Mon, 06 Apr 2026 17:15:00 +0530",
-    "summary": "The&nbsp;most active piece of enterprise infrastructure in the company is the developer workstation. That&nbsp;laptop is where credentials are created, tested, cached, copied, and reused across services, bots, build tools, and now local AI&nbsp;agents.\nIn&nbsp;March 2026, the TeamPCP threat&nbsp;actor proved just how&nbsp;valuable developer&nbsp;machines are. Their&nbsp;supply chain attack on",
-    "analysis": {
-      "issue": "8 supply chain attack exposed 33,185 secrets across 6,943 machines, leaving 3,760 valid credentials active",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
-    "link": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html",
-    "published": "Mon, 06 Apr 2026 15:37:00 +0530",
-    "summary": "Threat actors associated&nbsp;with Qilin&nbsp;and Warlock ransomware operations&nbsp;have been&nbsp;observed using the bring your own vulnerable driver&nbsp;(BYOVD) technique to silence security tools running on compromised hosts, according to findings from Cisco Talos and Trend&nbsp;Micro.\nQilin attacks analyzed by Talos&nbsp;have been&nbsp;found to deploy a malicious DLL named \"msimg32.dll,\"",
-    "analysis": {
-      "issue": "Qilin disables 300+ EDR drivers using BYOVD in 2025 attacks, delaying encryption six days, increasing breach impact",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
-    "link": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
-    "published": "Mon, 06 Apr 2026 12:29:00 +0530",
-    "summary": "Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identities of two of the key figures associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation.\nOne of the threat actors, who went by the alias UNKN, functioned as a representative of the group, advertising the ransomware in June 2019 on the XSS cybercrime forum",
-    "analysis": {
-      "issue": "BKA identified REvil leaders tied to 130 German attacks causing €35",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
-    "link": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
-    "published": "Sun, 05 Apr 2026 23:55:00 +0530",
-    "summary": "Drift&nbsp;has revealed that the April 1, 2026, attack that led to&nbsp;the theft of $285&nbsp;million was the culmination of a months-long targeted and meticulously planned social engineering operation undertaken by the Democratic People's Republic of Korea (DPRK) that began in the fall of&nbsp;2025.\nThe&nbsp;Solana-based decentralized exchange described it as \"an attack six months in the",
-    "analysis": {
-      "issue": "$285M stolen after six-month DPRK social engineering campaign began fall 2025, exposing Drift’s contributors and cloud assets",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -286,8 +276,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-10035",
-        "CVE-2026-23760"
+        "CVE-2026-23760",
+        "CVE-2025-10035"
       ],
       "threat_categories": [
         "Ransomware",
@@ -458,14 +448,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24289",
+        "CVE-2026-24291",
+        "CVE-2026-26127",
+        "CVE-2026-24294",
         "CVE-2026-26110",
         "CVE-2026-25187",
-        "CVE-2026-26127",
-        "CVE-2026-21262",
-        "CVE-2026-24291",
         "CVE-2026-26113",
-        "CVE-2026-24294"
+        "CVE-2026-21262",
+        "CVE-2026-24289"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -562,21 +552,42 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21525",
-        "CVE-2026-21514",
-        "CVE-2026-21513",
-        "CVE-2026-21519",
-        "CVE-2026-21510",
-        "CVE-2026-21533",
         "CVE-2026-21256",
-        "CVE-2026-21516",
+        "CVE-2026-21533",
+        "CVE-2026-21514",
+        "CVE-2026-21519",
         "CVE-2026-21523",
+        "CVE-2026-21510",
+        "CVE-2026-21513",
+        "CVE-2026-21516",
+        "CVE-2026-21525",
         "CVE-2026-21509"
       ],
       "threat_categories": [
         "Vulnerability"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Webinar Today: Why Automated Pentesting Alone Is Not Enough",
+    "link": "https://www.securityweek.com/webinar-today-why-automated-pentesting-alone-is-not-enough/",
+    "published": "Tue, 07 Apr 2026 13:19:29 +0000",
+    "summary": "<p>Join the live diagnostic session to expose hidden coverage gaps and shift from flawed tool-level evaluations to a comprehensive, program-level validation discipline.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-why-automated-pentesting-alone-is-not-enough/\">Webinar Today: Why Automated Pentesting Alone Is Not Enough</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "GPUBreach: Root Shell Access Achieved via GPU Rowhammer Attack",
+    "link": "https://www.securityweek.com/gpubreach-root-shell-access-achieved-via-gpu-rowhammer-attack/",
+    "published": "Tue, 07 Apr 2026 11:31:38 +0000",
+    "summary": "<p>Researchers have demonstrated that GPU Rowhammer attacks can be used to escalate privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/gpubreach-root-shell-access-achieved-via-gpu-rowhammer-attack/\">GPUBreach: Root Shell Access Achieved via GPU Rowhammer Attack </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Medusa Ransomware Fast to Exploit Vulnerabilities, Breached Systems",
+    "link": "https://www.securityweek.com/medusa-ransomware-fast-to-exploit-vulnerabilities-breached-systems/",
+    "published": "Tue, 07 Apr 2026 10:52:33 +0000",
+    "summary": "<p>The group is using zero-days, quickly weaponizes fresh bugs, and exfiltrates and encrypts data within days of initial access.</p>\n<p>The post <a href=\"https://www.securityweek.com/medusa-ransomware-fast-to-exploit-vulnerabilities-breached-systems/\">Medusa Ransomware Fast to Exploit Vulnerabilities, Breached Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -628,25 +639,61 @@
     "summary": "<p>The improper access control bug in FortiClient EMS allows unauthenticated attackers to execute arbitrary code remotely.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/\">Fortinet Rushes Emergency Fixes for Exploited Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack",
-    "link": "https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/",
-    "published": "Sat, 04 Apr 2026 10:31:00 +0000",
-    "summary": "<p>Hackers stole over 300GB of data from the Commission’s AWS environment, including personal information.</p>\n<p>The post <a href=\"https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/\">European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "Talos Takes: 2025's ransomware trends and zombie vulnerabilities",
+    "link": "https://blog.talosintelligence.com/talos-takes-2025s-ransomware-trends-and-zombie-vulnerabilities/",
+    "published": "Tue, 07 Apr 2026 12:03:13 GMT",
+    "summary": "In this episode of Talos Takes, Amy and Pierre Cadieux unpack the ransomware and vulnerability trends that defined 2025.",
+    "analysis": {
+      "issue": "Join Amy and Pierre Cadieux as they unpack the ransomware and vulnerability trends that defined 2025",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
   },
   {
-    "source": "Security Week",
-    "title": "TrueConf Zero-Day Exploited in Asian Government Attacks",
-    "link": "https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/",
-    "published": "Fri, 03 Apr 2026 12:47:16 +0000",
-    "summary": "<p>A Chinese threat actor exploited the video conferencing platform to perform reconnaissance, escalate privileges, and execute additional payloads.</p>\n<p>The post <a href=\"https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/\">TrueConf Zero-Day Exploited in Asian Government Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "The Trojan horse of cybercrime: Weaponizing SaaS notification pipelines",
+    "link": "https://blog.talosintelligence.com/weaponizing-saas-notification-pipelines/",
+    "published": "Tue, 07 Apr 2026 10:00:35 GMT",
+    "summary": "Cisco Talos has recently observed an increase in activity that is leveraging notification pipelines in popular collaboration platforms to deliver spam and phishing emails.",
+    "analysis": {
+      "issue": "By Diana Brown Recent telemetry indicates an increase in threat actors leveraging the automated notification infrastructure of legitimate Software-as-a-Service (SaaS) platforms to facilitate social engineering campaigns",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing"
+      ]
+    }
   },
   {
-    "source": "Security Week",
-    "title": "In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware",
-    "link": "https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/",
-    "published": "Fri, 03 Apr 2026 12:30:53 +0000",
-    "summary": "<p>Other noteworthy stories that might have slipped under the radar: Symantec vulnerability, anti-ClickFix mechanism added to macOS, FBI hack classified as major incident.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/\">In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "Year in Review: Vulnerabilities old and new and something React2",
+    "link": "https://blog.talosintelligence.com/year-in-review-vulnerabilities-old-and-new-and-something-react2/",
+    "published": "Tue, 07 Apr 2026 10:00:11 GMT",
+    "summary": "The year was characterized by an unending beat-down on infrastructure that relied on older enmeshed dependencies (e.g., Log4j and PHPUnit), while React2Shell rocketed to the highest percentage of attacks for the entire year within the last three weeks of 2025.",
+    "analysis": {
+      "issue": "Speed and age shouldn’t be allowed to pair up, but that is the theme of the Talos 2025 Year in Review vulnerability findings",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Talos Blog",
@@ -779,64 +826,6 @@
       "threat_categories": [
         "Vulnerability",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "An overview of ransomware threats in Japan in 2025 and early detection insights from Qilin cases",
-    "link": "https://blog.talosintelligence.com/an-overview-of-ransomware-threats-in-japan-in-2025-and-early-detection-insights-from-qilin-cases/",
-    "published": "Thu, 02 Apr 2026 10:00:13 GMT",
-    "summary": "There were 134 ransomware incidents reported in Japan in 2025, representing a 17.5% year-over-year increase from 2024.",
-    "analysis": {
-      "issue": "In 2025, the number of ransomware incidents increased compared to 2024",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Ransomware in 2025: Blending in is the strategy",
-    "link": "https://blog.talosintelligence.com/ransomware-in-2025-blending-in-is-the-strategy/",
-    "published": "Tue, 31 Mar 2026 10:00:02 GMT",
-    "summary": "A summary of the top ransomware trends from the Talos 2025 Year in Review, with a focus on identity, attacker tactics, and practical defenses.",
-    "analysis": {
-      "issue": "Ransomware attacks aren’t smash-and-grab anymore",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "TP-Link, Canva, HikVision vulnerabilities",
-    "link": "https://blog.talosintelligence.com/tp-link-canva-hikvision-vulnerabilities/",
-    "published": "Thu, 26 Mar 2026 18:34:26 GMT",
-    "summary": "<p>Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed a vulnerability in HikVision, as well as 10 in TP-Link, and 19 in Canva.</p><p>The vulnerabilities mentioned in this blog post have been patched by their respective vendors, all in adherence to<a href=\"https://sec.cloudapps.cisco.com/security/center/resources/vendor_vulnerability_policy.html\"><u> Cisco&#x2019;s third-party vulnerability disclosure policy</u></a>.</p><p>For</p>",
-    "analysis": {
-      "issue": "Cisco Talos’ Vulnerability Discovery & Research team recently disclosed a vulnerability in HikVision, as well as 10 in TP-Link, and 19 in Canva",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-66342"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
       ]
     }
   },
@@ -1187,8 +1176,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1213,6 +1202,43 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Traffic violation scams swap links for QR codes to steal your card details",
+    "link": "https://www.malwarebytes.com/blog/news/2026/04/traffic-violation-scams-swap-links-for-qr-codes-to-steal-your-card-details",
+    "published": "Tue, 07 Apr 2026 11:57:37 GMT",
+    "summary": "Phishers are using QR codes on official-looking notices to level up their traffic and toll scams.",
+    "analysis": {
+      "issue": "As soon as people start to get to grips with a certain type of scam, criminals deploy new tactics to keep stealing money",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Support platform breach exposes Hims &amp; Hers customer data",
+    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/04/support-platform-breach-exposes-hims-hers-customer-data",
+    "published": "Tue, 07 Apr 2026 10:45:50 GMT",
+    "summary": "Healthcare companies handle some of the most personal data imaginable, and that makes them a magnet for hackers.",
+    "analysis": {
+      "issue": "Healthcare companies handle some of the most personal data imaginable",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
+        "Supply Chain"
       ]
     }
   },
@@ -1362,43 +1388,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Why we&#8217;re still not doing April Fools&#8217; Day",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/04/why-were-still-not-doing-april-fools-day",
-    "published": "Wed, 01 Apr 2026 13:00:00 GMT",
-    "summary": "Scams are so convincing that two in three people can't tell them from the real thing. It's why we're not adding to the noise for April Fools.",
-    "analysis": {
-      "issue": "People lost an estimated $442 billion to scams last year worldwide, according to the Global Anti-Scam Alliance",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Asking AI for personal advice is a bad idea, Stanford study shows",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/03/asking-ai-for-personal-advice-is-a-bad-idea-stanford-study-shows",
-    "published": "Tue, 31 Mar 2026 19:40:23 GMT",
-    "summary": "AI chatbots, including ChatGPT, Claude, and Gemini, were all too willing to validate and hype up their users, a new Stanford study showed.",
-    "analysis": {
-      "issue": "Stanford computer scientists just proved what therapists already suspected: AI chatbots will agree with almost anything you say to keep you happy",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
