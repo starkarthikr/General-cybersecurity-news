@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-07 13:43:59 UTC
+**Last Updated:** 2026-04-07 17:33:08 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign](https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html)
+### 1. [Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access](https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 07 Apr 2026 20:45:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-34040  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign](https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 18:16:00 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html)
+### 3. [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 17:47:00 +0530  
@@ -22,7 +32,7 @@
 
 ---
 
-### 3. [The Hidden Cost of Recurring Credential Incidents](https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html)
+### 4. [The Hidden Cost of Recurring Credential Incidents](https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 17:00:00 +0530  
@@ -31,7 +41,7 @@
 
 ---
 
-### 4. [New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips](https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html)
+### 5. [New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips](https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 14:08:00 +0530  
@@ -40,7 +50,7 @@
 
 ---
 
-### 5. [China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware](https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html)
+### 6. [China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware](https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 12:05:00 +0530  
@@ -49,7 +59,7 @@
 
 ---
 
-### 6. [Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed](https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html)
+### 7. [Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed](https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 11:26:00 +0530  
@@ -59,14 +69,16 @@
 
 ---
 
-### 7. [Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations](https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html)
+### 8. [Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations](https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 00:07:00 +0530  
+**Severity:** Low  
+**Categories:** Ransomware  
 
 ---
 
-### 8. [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html)
+### 9. [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Apr 2026 21:54:00 +0530  
@@ -75,7 +87,7 @@
 
 ---
 
-### 9. [Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps](https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html)
+### 10. [Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps](https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Apr 2026 18:30:00 +0530  
@@ -84,16 +96,35 @@
 
 ---
 
-### 10. [⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More](https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html)
+### 11. [Max severity Flowise RCE vulnerability now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 06 Apr 2026 18:16:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 07 Apr 2026 13:02:05 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability, Phishing  
+**CVEs:** CVE-2025-59528  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [German authorities identify REvil and GandCrab ransomware bosses](https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/)
+### 12. [Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins](https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 07 Apr 2026 11:51:22 -0400  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 13. [Why Your Automated Pentesting Tool Just Hit a Wall](https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 07 Apr 2026 10:01:11 -0400  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 14. [German authorities identify REvil and GandCrab ransomware bosses](https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 06 Apr 2026 19:54:04 -0400  
@@ -102,7 +133,7 @@
 
 ---
 
-### 12. [New GPUBreach attack enables system takeover via GPU rowhammer](https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/)
+### 15. [New GPUBreach attack enables system takeover via GPU rowhammer](https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 06 Apr 2026 17:44:15 -0400  
@@ -111,7 +142,7 @@
 
 ---
 
-### 13. [Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit](https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/)
+### 16. [Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit](https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 06 Apr 2026 15:19:27 -0400  
@@ -120,7 +151,7 @@
 
 ---
 
-### 14. [Microsoft fixes Classic Outlook bug causing email delivery issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/)
+### 17. [Microsoft fixes Classic Outlook bug causing email delivery issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 06 Apr 2026 15:19:24 -0400  
@@ -129,7 +160,7 @@
 
 ---
 
-### 15. [Microsoft removes Support and Recovery Assistant from Windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/)
+### 18. [Microsoft removes Support and Recovery Assistant from Windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 06 Apr 2026 13:45:57 -0400  
@@ -138,7 +169,7 @@
 
 ---
 
-### 16. [Microsoft links Medusa ransomware affiliate to zero-day attacks](https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/)
+### 19. [Microsoft links Medusa ransomware affiliate to zero-day attacks](https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 06 Apr 2026 12:56:01 -0400  
@@ -148,7 +179,7 @@
 
 ---
 
-### 17. [Drift $280M crypto theft linked to 6-month in-person operation](https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/)
+### 20. [Drift $280M crypto theft linked to 6-month in-person operation](https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 06 Apr 2026 12:35:03 -0400  
@@ -157,35 +188,16 @@
 
 ---
 
-### 18. [CISA orders feds to patch exploited Fortinet EMS flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/)
+### 21. [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/)
 
-**Source:** Bleeping Computer  
-**Published:** Mon, 06 Apr 2026 12:02:14 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-35616  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Why Simple Breach Monitoring is No Longer Enough](https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 06 Apr 2026 10:02:12 -0400  
-**Severity:** Critical  
-**Categories:** Data Breach  
+**Source:** Krebs On Security  
+**Published:** Tue, 07 Apr 2026 17:02:44 +0000  
+**Severity:** Low  
+**Categories:** Malware, APT, Supply Chain  
 
 ---
 
-### 20. [Traffic violation scams switch to QR codes in new phishing texts](https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 05 Apr 2026 15:44:10 -0400  
-**Severity:** High  
-**Categories:** Phishing  
-
----
-
-### 21. [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
+### 22. [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 06 Apr 2026 02:07:17 +0000  
@@ -194,7 +206,7 @@
 
 ---
 
-### 22. [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/)
+### 23. [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 23 Mar 2026 15:43:04 +0000  
@@ -203,7 +215,7 @@
 
 ---
 
-### 23. [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/)
+### 24. [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 20 Mar 2026 00:49:19 +0000  
@@ -212,7 +224,7 @@
 
 ---
 
-### 24. [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
+### 25. [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 16:20:13 +0000  
@@ -221,17 +233,17 @@
 
 ---
 
-### 25. [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/)
+### 26. [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24291, CVE-2026-26127, CVE-2026-24294, CVE-2026-26110, CVE-2026-25187, CVE-2026-26113, CVE-2026-21262, CVE-2026-24289  
+**CVEs:** CVE-2026-26113, CVE-2026-24294, CVE-2026-24291, CVE-2026-26127, CVE-2026-24289, CVE-2026-25187, CVE-2026-21262, CVE-2026-26110  
 **Categories:** Vulnerability, DDoS  
 
 ---
 
-### 26. [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
+### 27. [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
 
 **Source:** Krebs On Security  
 **Published:** Sun, 08 Mar 2026 23:35:42 +0000  
@@ -240,7 +252,7 @@
 
 ---
 
-### 27. [Who is the Kimwolf Botmaster “Dort”?](https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/)
+### 28. [Who is the Kimwolf Botmaster “Dort”?](https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/)
 
 **Source:** Krebs On Security  
 **Published:** Sat, 28 Feb 2026 12:01:57 +0000  
@@ -249,7 +261,7 @@
 
 ---
 
-### 28. [‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA](https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/)
+### 29. [‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA](https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 20 Feb 2026 20:00:30 +0000  
@@ -258,7 +270,7 @@
 
 ---
 
-### 29. [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
+### 30. [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Feb 2026 16:08:11 +0000  
@@ -267,83 +279,73 @@
 
 ---
 
-### 30. [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
+### 31. [The New Rules of Engagement: Matching Agentic Attack Speed](https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/)
 
-**Source:** Krebs On Security  
-**Published:** Tue, 10 Feb 2026 21:49:53 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-21256, CVE-2026-21533, CVE-2026-21514, CVE-2026-21519, CVE-2026-21523, CVE-2026-21510, CVE-2026-21513, CVE-2026-21516, CVE-2026-21525, CVE-2026-21509  
-**Categories:** Vulnerability  
+**Source:** Security Week  
+**Published:** Tue, 07 Apr 2026 16:40:52 +0000  
 
 ---
 
-### 31. [Webinar Today: Why Automated Pentesting Alone Is Not Enough](https://www.securityweek.com/webinar-today-why-automated-pentesting-alone-is-not-enough/)
+### 32. [Trent AI Emerges From Stealth With $13 Million in Funding](https://www.securityweek.com/trent-ai-emerges-from-stealth-with-13-million-in-funding/)
+
+**Source:** Security Week  
+**Published:** Tue, 07 Apr 2026 16:34:26 +0000  
+
+---
+
+### 33. [Critical Flowise Vulnerability in Attacker Crosshairs](https://www.securityweek.com/critical-flowise-vulnerability-in-attacker-crosshairs/)
+
+**Source:** Security Week  
+**Published:** Tue, 07 Apr 2026 15:34:51 +0000  
+
+---
+
+### 34. [Severe StrongBox Vulnerability Patched in Android](https://www.securityweek.com/severe-strongbox-vulnerability-patched-in-android/)
+
+**Source:** Security Week  
+**Published:** Tue, 07 Apr 2026 14:23:51 +0000  
+
+---
+
+### 35. [GrafanaGhost: Attackers Can Abuse Grafana to Leak Enterprise Data](https://www.securityweek.com/grafanaghost-attackers-can-abuse-grafana-to-leak-enterprise-data/)
+
+**Source:** Security Week  
+**Published:** Tue, 07 Apr 2026 13:58:45 +0000  
+
+---
+
+### 36. [Webinar Today: Why Automated Pentesting Alone Is Not Enough](https://www.securityweek.com/webinar-today-why-automated-pentesting-alone-is-not-enough/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 13:19:29 +0000  
 
 ---
 
-### 32. [GPUBreach: Root Shell Access Achieved via GPU Rowhammer Attack](https://www.securityweek.com/gpubreach-root-shell-access-achieved-via-gpu-rowhammer-attack/)
+### 37. [GPUBreach: Root Shell Access Achieved via GPU Rowhammer Attack](https://www.securityweek.com/gpubreach-root-shell-access-achieved-via-gpu-rowhammer-attack/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 11:31:38 +0000  
 
 ---
 
-### 33. [Medusa Ransomware Fast to Exploit Vulnerabilities, Breached Systems](https://www.securityweek.com/medusa-ransomware-fast-to-exploit-vulnerabilities-breached-systems/)
+### 38. [Medusa Ransomware Fast to Exploit Vulnerabilities, Breached Systems](https://www.securityweek.com/medusa-ransomware-fast-to-exploit-vulnerabilities-breached-systems/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 10:52:33 +0000  
 
 ---
 
-### 34. [German Police Unmask REvil Ransomware Leader](https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/)
+### 39. [German Police Unmask REvil Ransomware Leader](https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 09:24:40 +0000  
 
 ---
 
-### 35. [White House Seeks to Slash CISA Funding by $707 Million](https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/)
+### 40. [White House Seeks to Slash CISA Funding by $707 Million](https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 08:29:41 +0000  
-
----
-
-### 36. [Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack](https://www.securityweek.com/wynn-resorts-says-21000-employees-affected-by-shinyhunters-hack/)
-
-**Source:** Security Week  
-**Published:** Tue, 07 Apr 2026 06:05:54 +0000  
-
----
-
-### 37. [Google DeepMind Researchers Map Web Attacks Against AI Agents](https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/)
-
-**Source:** Security Week  
-**Published:** Mon, 06 Apr 2026 15:32:54 +0000  
-
----
-
-### 38. [Guardarian Users Targeted With Malicious Strapi NPM Packages](https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/)
-
-**Source:** Security Week  
-**Published:** Mon, 06 Apr 2026 11:40:56 +0000  
-
----
-
-### 39. [North Korean Hackers Target High-Profile Node.js Maintainers](https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/)
-
-**Source:** Security Week  
-**Published:** Mon, 06 Apr 2026 11:02:36 +0000  
-
----
-
-### 40. [Fortinet Rushes Emergency Fixes for Exploited Zero-Day](https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/)
-
-**Source:** Security Week  
-**Published:** Mon, 06 Apr 2026 09:37:28 +0000  
 
 ---
 
@@ -608,7 +610,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
