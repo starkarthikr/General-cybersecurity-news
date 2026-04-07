@@ -1,6 +1,45 @@
 [
   {
     "source": "The Hacker News",
+    "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
+    "link": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html",
+    "published": "Tue, 07 Apr 2026 12:05:00 +0530",
+    "summary": "A&nbsp;China-based threat actor known for deploying Medusa ransomware has been linked to the weaponization of a combination of zero-day and N-day vulnerabilities to orchestrate \"high-velocity\" attacks and break into susceptible internet-facing&nbsp;systems.\n\"The threat actor's high operational tempo and proficiency in identifying exposed perimeter assets have proven successful, with recent",
+    "analysis": {
+      "issue": "Storm-1175 exploits 16+ CVEs since 2023, including zero-days, enabling rapid Medusa ransomware attacks within 24 hours",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed",
+    "link": "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html",
+    "published": "Tue, 07 Apr 2026 11:26:00 +0530",
+    "summary": "Threat actors are exploiting a maximum-severity security flaw in Flowise, an open-source artificial intelligence (AI) platform, according to new findings from VulnCheck.\nThe vulnerability in question&nbsp;is CVE-2025-59528 (CVSS score: 10.0), a code injection vulnerability that could result in remote code execution.\n\"The CustomMCP node allows users to input configuration settings for connecting",
+    "analysis": {
+      "issue": "CVE-2025-59528 exploited in Flowise for over six months across 12,000+ exposed instances, enabling full system compromise",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-59528"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
     "link": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
     "published": "Tue, 07 Apr 2026 00:07:00 +0530",
@@ -145,46 +184,8 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
-    "link": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
-    "published": "Sun, 05 Apr 2026 10:37:00 +0530",
-    "summary": "Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different payloads to facilitate Redis and PostgreSQL exploitation, deploy reverse shells, harvest credentials, and drop a persistent&nbsp;implant.\n\"Every package contains three files (package.json, index.js, postinstall.js), has no description, repository,",
-    "analysis": {
-      "issue": "36 npm packages disguised as Strapi plugins exploit Redis and PostgreSQL via postinstall scripts, enabling persistent access and data theft",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
-    "link": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html",
-    "published": "Sun, 05 Apr 2026 10:02:00 +0530",
-    "summary": "Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the&nbsp;wild.\nThe&nbsp;vulnerability, tracked&nbsp;as CVE-2026-35616 (CVSS score: 9.1), has been described as a pre-authentication API access bypass leading to privilege escalation.\n\"An improper access control vulnerability [CWE-284] in FortiClient EMS may allow an",
-    "analysis": {
-      "issue": "1) exploited since March 31, 2026, affects FortiClient EMS 7",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-35616"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
-    "title": "German authorities identify REvil and GangCrab ransomware bosses",
+    "title": "German authorities identify REvil and GandCrab ransomware bosses",
     "link": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
     "published": "Mon, 06 Apr 2026 19:54:04 -0400",
     "summary": "The Federal Police in Germany (BKA) has identified two Russian nationals as the leaders of GandCrab and REvil ransomware operations between 2019 and 2021. [...]",
@@ -457,14 +458,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26127",
         "CVE-2026-24289",
-        "CVE-2026-24294",
+        "CVE-2026-26110",
+        "CVE-2026-25187",
+        "CVE-2026-26127",
         "CVE-2026-21262",
         "CVE-2026-24291",
         "CVE-2026-26113",
-        "CVE-2026-26110",
-        "CVE-2026-25187"
+        "CVE-2026-24294"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -561,21 +562,42 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21256",
-        "CVE-2026-21533",
-        "CVE-2026-21509",
-        "CVE-2026-21516",
-        "CVE-2026-21510",
-        "CVE-2026-21523",
         "CVE-2026-21525",
+        "CVE-2026-21514",
         "CVE-2026-21513",
         "CVE-2026-21519",
-        "CVE-2026-21514"
+        "CVE-2026-21510",
+        "CVE-2026-21533",
+        "CVE-2026-21256",
+        "CVE-2026-21516",
+        "CVE-2026-21523",
+        "CVE-2026-21509"
       ],
       "threat_categories": [
         "Vulnerability"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "German Police Unmask REvil Ransomware Leader",
+    "link": "https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/",
+    "published": "Tue, 07 Apr 2026 09:24:40 +0000",
+    "summary": "<p>Shchukin is accused of extorting more than $2 million as the head of the GandCrab and REvil ransomware operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/\">German Police Unmask REvil Ransomware Leader</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "White House Seeks to Slash CISA Funding by $707 Million",
+    "link": "https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/",
+    "published": "Tue, 07 Apr 2026 08:29:41 +0000",
+    "summary": "<p>The Trump administration says the FY2027 budget refocuses CISA on its core mission: protecting federal agencies and critical infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/\">White House Seeks to Slash CISA Funding by $707 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack",
+    "link": "https://www.securityweek.com/wynn-resorts-says-21000-employees-affected-by-shinyhunters-hack/",
+    "published": "Tue, 07 Apr 2026 06:05:54 +0000",
+    "summary": "<p>The high-end casino and hotel operator has likely paid a ransom to avoid a data leak.</p>\n<p>The post <a href=\"https://www.securityweek.com/wynn-resorts-says-21000-employees-affected-by-shinyhunters-hack/\">Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -625,27 +647,6 @@
     "link": "https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/",
     "published": "Fri, 03 Apr 2026 12:30:53 +0000",
     "summary": "<p>Other noteworthy stories that might have slipped under the radar: Symantec vulnerability, anti-ClickFix mechanism added to macOS, FBI hack classified as major incident.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/\">In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical ShareFile Flaws Lead to Unauthenticated RCE",
-    "link": "https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/",
-    "published": "Fri, 03 Apr 2026 12:12:22 +0000",
-    "summary": "<p>The vulnerabilities can be chained together to bypass authentication and upload arbitrary files to the server.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/\">Critical ShareFile Flaws Lead to Unauthenticated RCE</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Mobile Attack Surface Expands as Enterprises Lose Control",
-    "link": "https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/",
-    "published": "Fri, 03 Apr 2026 11:00:00 +0000",
-    "summary": "<p>Shadow AI embedded in everyday apps, combined with outdated mobile devices and zero-click exploits, is creating a new and largely unseen mobile risk.</p>\n<p>The post <a href=\"https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/\">Mobile Attack Surface Expands as Enterprises Lose Control</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "React2Shell Exploited in Large-Scale Credential Harvesting Campaign",
-    "link": "https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/",
-    "published": "Fri, 03 Apr 2026 10:55:13 +0000",
-    "summary": "<p>Using automated scanning and the Nexus Listener collection framework, the hackers compromised over 750 systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/\">React2Shell Exploited in Large-Scale Credential Harvesting Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -1403,6 +1404,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "How CrowdStrike is Accelerating Exposure Evaluation as Adversaries Gain Speed",
+    "link": "https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/",
+    "published": "Apr 06, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn how CrowdStrike enables continuous exposure evaluation to identify vulnerabilities in real time, prioritize risks, and respond faster than modern threats",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "STARDUST CHOLLIMA Likely Compromises Axios npm Package",
     "link": "https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/",
     "published": "Apr 01, 2026 00:00:00-0500",
@@ -1562,24 +1581,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "New CrowdStrike Innovations Secure AI Agents and Govern Shadow AI Across Endpoints, SaaS, and Cloud",
-    "link": "https://www.crowdstrike.com/en-us/blog/new-crowdstrike-innovations-secure-ai-agents-govern-shadow-ai/",
-    "published": "Mar 23, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn how Falcon platform innovations enable organizations to confidently and securely accelerate AI development and adoption",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   }

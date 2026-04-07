@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-07 03:37:59 UTC
+**Last Updated:** 2026-04-07 09:44:09 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations](https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html)
+### 1. [China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware](https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 07 Apr 2026 12:05:00 +0530  
+**Severity:** Critical  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 2. [Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed](https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 07 Apr 2026 11:26:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2025-59528  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations](https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 00:07:00 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html)
+### 4. [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Apr 2026 21:54:00 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps](https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html)
+### 5. [Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps](https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Apr 2026 18:30:00 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More](https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html)
+### 6. [⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More](https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Apr 2026 18:16:00 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers](https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html)
+### 7. [How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers](https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Apr 2026 17:15:00 +0530  
@@ -49,7 +68,7 @@
 
 ---
 
-### 6. [Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools](https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html)
+### 8. [Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools](https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Apr 2026 15:37:00 +0530  
@@ -58,7 +77,7 @@
 
 ---
 
-### 7. [BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
+### 9. [BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 06 Apr 2026 12:29:00 +0530  
@@ -67,7 +86,7 @@
 
 ---
 
-### 8. [$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation](https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html)
+### 10. [$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation](https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 05 Apr 2026 23:55:00 +0530  
@@ -76,26 +95,7 @@
 
 ---
 
-### 9. [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
-
-**Source:** The Hacker News  
-**Published:** Sun, 05 Apr 2026 10:37:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS](https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html)
-
-**Source:** The Hacker News  
-**Published:** Sun, 05 Apr 2026 10:02:00 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-35616  
-**Categories:** Vulnerability  
-
----
-
-### 11. [German authorities identify REvil and GangCrab ransomware bosses](https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/)
+### 11. [German authorities identify REvil and GandCrab ransomware bosses](https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 06 Apr 2026 19:54:04 -0400  
@@ -228,7 +228,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26127, CVE-2026-24289, CVE-2026-24294, CVE-2026-21262, CVE-2026-24291, CVE-2026-26113, CVE-2026-26110, CVE-2026-25187  
+**CVEs:** CVE-2026-24289, CVE-2026-26110, CVE-2026-25187, CVE-2026-26127, CVE-2026-21262, CVE-2026-24291, CVE-2026-26113, CVE-2026-24294  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -274,78 +274,78 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 10 Feb 2026 21:49:53 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21256, CVE-2026-21533, CVE-2026-21509, CVE-2026-21516, CVE-2026-21510, CVE-2026-21523, CVE-2026-21525, CVE-2026-21513, CVE-2026-21519, CVE-2026-21514  
+**CVEs:** CVE-2026-21525, CVE-2026-21514, CVE-2026-21513, CVE-2026-21519, CVE-2026-21510, CVE-2026-21533, CVE-2026-21256, CVE-2026-21516, CVE-2026-21523, CVE-2026-21509  
 **Categories:** Vulnerability  
 
 ---
 
-### 31. [Google DeepMind Researchers Map Web Attacks Against AI Agents](https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/)
+### 31. [German Police Unmask REvil Ransomware Leader](https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/)
+
+**Source:** Security Week  
+**Published:** Tue, 07 Apr 2026 09:24:40 +0000  
+
+---
+
+### 32. [White House Seeks to Slash CISA Funding by $707 Million](https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/)
+
+**Source:** Security Week  
+**Published:** Tue, 07 Apr 2026 08:29:41 +0000  
+
+---
+
+### 33. [Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack](https://www.securityweek.com/wynn-resorts-says-21000-employees-affected-by-shinyhunters-hack/)
+
+**Source:** Security Week  
+**Published:** Tue, 07 Apr 2026 06:05:54 +0000  
+
+---
+
+### 34. [Google DeepMind Researchers Map Web Attacks Against AI Agents](https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/)
 
 **Source:** Security Week  
 **Published:** Mon, 06 Apr 2026 15:32:54 +0000  
 
 ---
 
-### 32. [Guardarian Users Targeted With Malicious Strapi NPM Packages](https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/)
+### 35. [Guardarian Users Targeted With Malicious Strapi NPM Packages](https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/)
 
 **Source:** Security Week  
 **Published:** Mon, 06 Apr 2026 11:40:56 +0000  
 
 ---
 
-### 33. [North Korean Hackers Target High-Profile Node.js Maintainers](https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/)
+### 36. [North Korean Hackers Target High-Profile Node.js Maintainers](https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/)
 
 **Source:** Security Week  
 **Published:** Mon, 06 Apr 2026 11:02:36 +0000  
 
 ---
 
-### 34. [Fortinet Rushes Emergency Fixes for Exploited Zero-Day](https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/)
+### 37. [Fortinet Rushes Emergency Fixes for Exploited Zero-Day](https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/)
 
 **Source:** Security Week  
 **Published:** Mon, 06 Apr 2026 09:37:28 +0000  
 
 ---
 
-### 35. [European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack](https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/)
+### 38. [European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack](https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Sat, 04 Apr 2026 10:31:00 +0000  
 
 ---
 
-### 36. [TrueConf Zero-Day Exploited in Asian Government Attacks](https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/)
+### 39. [TrueConf Zero-Day Exploited in Asian Government Attacks](https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 12:47:16 +0000  
 
 ---
 
-### 37. [In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware](https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/)
+### 40. [In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware](https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/)
 
 **Source:** Security Week  
 **Published:** Fri, 03 Apr 2026 12:30:53 +0000  
-
----
-
-### 38. [Critical ShareFile Flaws Lead to Unauthenticated RCE](https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/)
-
-**Source:** Security Week  
-**Published:** Fri, 03 Apr 2026 12:12:22 +0000  
-
----
-
-### 39. [Mobile Attack Surface Expands as Enterprises Lose Control](https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/)
-
-**Source:** Security Week  
-**Published:** Fri, 03 Apr 2026 11:00:00 +0000  
-
----
-
-### 40. [React2Shell Exploited in Large-Scale Credential Harvesting Campaign](https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/)
-
-**Source:** Security Week  
-**Published:** Fri, 03 Apr 2026 10:55:13 +0000  
 
 ---
 
@@ -716,7 +716,16 @@
 
 ---
 
-### 81. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
+### 81. [How CrowdStrike is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Apr 06, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 01, 2026 00:00:00-0500  
@@ -725,7 +734,7 @@
 
 ---
 
-### 82. [Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management](https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/)
+### 83. [Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management](https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 01, 2026 00:00:00-0500  
@@ -734,7 +743,7 @@
 
 ---
 
-### 83. [Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse](https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/)
+### 84. [Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse](https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 31, 2026 00:00:00-0500  
@@ -744,7 +753,7 @@
 
 ---
 
-### 84. [How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem](https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/)
+### 85. [How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem](https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 25, 2026 00:00:00-0500  
@@ -753,7 +762,7 @@
 
 ---
 
-### 85. [CrowdStrike Flex for Services Expands Access to Elite Security Expertise](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/)
+### 86. [CrowdStrike Flex for Services Expands Access to Elite Security Expertise](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 24, 2026 00:00:00-0500  
@@ -762,7 +771,7 @@
 
 ---
 
-### 86. [Falcon Data Security Secures Data Wherever It Lives and Moves](https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/)
+### 87. [Falcon Data Security Secures Data Wherever It Lives and Moves](https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 24, 2026 00:00:00-0500  
@@ -771,7 +780,7 @@
 
 ---
 
-### 87. [CrowdStrike Advances CNAPP with Industry-First Adversary-Informed Risk Prioritization](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-cnapp-with-industry-first-adversary-informed-risk-prioritization/)
+### 88. [CrowdStrike Advances CNAPP with Industry-First Adversary-Informed Risk Prioritization](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-cnapp-with-industry-first-adversary-informed-risk-prioritization/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 24, 2026 00:00:00-0500  
@@ -780,7 +789,7 @@
 
 ---
 
-### 88. [CrowdStrike Services and Agentic MDR Put the Agentic SOC in Reach](https://www.crowdstrike.com/en-us/blog/crowdstrike-services-and-agentic-mdr-put-the-agentic-soc-in-reach/)
+### 89. [CrowdStrike Services and Agentic MDR Put the Agentic SOC in Reach](https://www.crowdstrike.com/en-us/blog/crowdstrike-services-and-agentic-mdr-put-the-agentic-soc-in-reach/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 24, 2026 00:00:00-0500  
@@ -789,21 +798,12 @@
 
 ---
 
-### 89. [Falcon Next-Gen SIEM Supports Third-Party EDR Tools, Starting with Microsoft Defender](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-supports-third-party-edr-tools-starting-with-microsoft-defender/)
+### 90. [Falcon Next-Gen SIEM Supports Third-Party EDR Tools, Starting with Microsoft Defender](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-supports-third-party-edr-tools-starting-with-microsoft-defender/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 23, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** Supply Chain  
-
----
-
-### 90. [New CrowdStrike Innovations Secure AI Agents and Govern Shadow AI Across Endpoints, SaaS, and Cloud](https://www.crowdstrike.com/en-us/blog/new-crowdstrike-innovations-secure-ai-agents-govern-shadow-ai/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Mar 23, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
