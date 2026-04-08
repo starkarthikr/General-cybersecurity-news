@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
+    "link": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
+    "published": "Tue, 07 Apr 2026 22:18:00 +0530",
+    "summary": "The Russia-linked threat actor known&nbsp;as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to turn them into malicious infrastructure under their control as part of a cyber espionage campaign since at least May&nbsp;2025.\nThe large-scale exploitation campaign has&nbsp;been codenamed&nbsp;",
+    "analysis": {
+      "issue": "APT28 exploits SOHO routers for global DNS hijacking and adversary-in-the-middle attacks, enabling credential theft and espionage",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
+    "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
+    "published": "Tue, 07 Apr 2026 21:59:00 +0530",
+    "summary": "In&nbsp;the rapid evolution of&nbsp;the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security&nbsp;leaders: Identity programs are maturing, yet the risk is actually increasing.\nAccording to new research from&nbsp;the Ponemon&nbsp;Institute, hundreds of applications within the typical enterprise remain disconnected from centralized identity systems.&nbsp;These&nbsp;\"dark",
+    "analysis": {
+      "issue": "Hundreds of disconnected apps persist in 2026 enterprises, Ponemon finds, enabling AI agents to amplify credential risks and expand attack surfaces",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
     "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
     "published": "Tue, 07 Apr 2026 20:45:00 +0530",
@@ -35,24 +73,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
-    "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
-    "published": "Tue, 07 Apr 2026 17:47:00 +0530",
-    "summary": "In&nbsp;the rapid evolution of&nbsp;the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security&nbsp;leaders: Identity programs are maturing, yet the risk is actually increasing.\nAccording to new research from&nbsp;the Ponemon&nbsp;Institute, hundreds of applications within the typical enterprise remain disconnected from centralized identity systems.&nbsp;These&nbsp;\"dark",
-    "analysis": {
-      "issue": "Hundreds of disconnected apps persist in 2026 enterprises, Ponemon finds, enabling AI agents to amplify credential risks and expand attack surfaces",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -168,20 +188,80 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps",
-    "link": "https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html",
-    "published": "Mon, 06 Apr 2026 18:30:00 +0530",
-    "summary": "Your attack surface no&nbsp;longer lives&nbsp;on one operating system, and neither do the campaigns targeting&nbsp;it. In enterprise environments, attackers move across Windows endpoints, executive MacBooks, Linux infrastructure, and mobile devices, taking advantage of the fact that many SOC&nbsp;workflows are still fragmented by&nbsp;platform.&nbsp;\nFor security leaders, this creates&nbsp;a",
+    "source": "Bleeping Computer",
+    "title": "Hackers exploit critical flaw in Ninja Forms WordPress plugin",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/",
+    "published": "Tue, 07 Apr 2026 18:03:01 -0400",
+    "summary": "A critical vulnerability in the Ninja Forms File Uploads premium add-on for WordPress allows uploading arbitrary files without authentication, which can lead to remote code execution. [...]",
     "analysis": {
-      "issue": "RUN cuts MTTR by 21 minutes per case, reducing escalations and breach exposure in multi-OS attacks",
+      "issue": "A critical vulnerability in the Ninja Forms File Uploads premium add-on for WordPress allows uploading arbitrary files without authentication, which can lead to remote code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-0740"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "FBI: Americans lost a record $21 billion to cybercrime last year",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/",
+    "published": "Tue, 07 Apr 2026 16:41:52 -0400",
+    "summary": "U.S. victims lost nearly $21 billion to cyber-enabled crimes last year, driven primarily by investment scams, business email compromise, tech support fraud, and data breaches, the Federal Bureau of Investigation says. [...]",
+    "analysis": {
+      "issue": "victims lost nearly $21 billion to cyber-enabled crimes last year, driven primarily by investment scams, business email compromise, tech support fraud, and data breaches, the Federal Bureau of Investigation says",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Ransomware",
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Snowflake customers hit in data theft attacks after SaaS integrator breach",
+    "link": "https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/",
+    "published": "Tue, 07 Apr 2026 15:39:18 -0400",
+    "summary": "Over a dozen companies have suffered data theft attacks after a SaaS integration provider was breached and authentication tokens stolen. [...]",
+    "analysis": {
+      "issue": "Over a dozen companies have suffered data theft attacks after a SaaS integration provider was breached and authentication tokens stolen",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "US warns of Iranian hackers targeting critical infrastructure",
+    "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/",
+    "published": "Tue, 07 Apr 2026 14:02:26 -0400",
+    "summary": "Iranian-linked hackers are targeting Internet-exposed Rockwell/Allen-Bradley programmable logic controllers (PLCs) on the networks of U.S. critical infrastructure organizations. [...]",
+    "analysis": {
+      "issue": "Iranian-linked hackers are targeting Internet-exposed Rockwell/Allen-Bradley programmable logic controllers (PLCs) on the networks of U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
       ]
     }
   },
@@ -296,82 +376,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes Classic Outlook bug causing email delivery issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/",
-    "published": "Mon, 06 Apr 2026 15:19:24 -0400",
-    "summary": "Microsoft has resolved a known issue that was preventing some Classic Outlook users from sending emails via Outlook.com. [...]",
-    "analysis": {
-      "issue": "Microsoft has resolved a known issue that was preventing some Classic Outlook users from sending emails via Outlook",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft removes Support and Recovery Assistant from Windows",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/",
-    "published": "Mon, 06 Apr 2026 13:45:57 -0400",
-    "summary": "Microsoft has deprecated and removed the Support and Recovery Assistant (SaRA) command-line utility from all in-support versions of Windows updates starting March 10. [...]",
-    "analysis": {
-      "issue": "Microsoft has deprecated and removed the Support and Recovery Assistant (SaRA) command-line utility from all in-support versions of Windows updates starting March 10",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft links Medusa ransomware affiliate to zero-day attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/",
-    "published": "Mon, 06 Apr 2026 12:56:01 -0400",
-    "summary": "Microsoft says that Storm-1175, a China-based financially motivated cybercriminal group known for deploying Medusa ransomware payloads, has been deploying n-day and zero-day exploits in high-velocity attacks. [...]",
-    "analysis": {
-      "issue": "Microsoft says that Storm-1175, a China-based financially motivated cybercriminal group known for deploying Medusa ransomware payloads, has been deploying n-day and zero-day exploits in high-velocity attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-23760",
-        "CVE-2025-10035"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Drift $280M crypto theft linked to 6-month in-person operation",
-    "link": "https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/",
-    "published": "Mon, 06 Apr 2026 12:35:03 -0400",
-    "summary": "The Drift Protocol says that the $280+ million hack it suffered last week was the result of a long-term, carefully planned operation that included building \"a functioning operational presence inside the Drift ecosystem.\" [...]",
-    "analysis": {
-      "issue": "The Drift Protocol says that the $280+ million hack it suffered last week was the result of a long-term, carefully planned operation that included building \"a functioning operational presence inside the Drift ecosystem",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
     "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
@@ -480,14 +484,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26113",
-        "CVE-2026-24294",
-        "CVE-2026-24291",
-        "CVE-2026-26127",
-        "CVE-2026-24289",
         "CVE-2026-25187",
+        "CVE-2026-26110",
+        "CVE-2026-26113",
+        "CVE-2026-24289",
+        "CVE-2026-24294",
+        "CVE-2026-26127",
         "CVE-2026-21262",
-        "CVE-2026-26110"
+        "CVE-2026-24291"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -573,6 +577,13 @@
   },
   {
     "source": "Security Week",
+    "title": "Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks",
+    "link": "https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/",
+    "published": "Tue, 07 Apr 2026 18:39:56 +0000",
+    "summary": "<p>New AI model drives Project Glasswing, a effort to secure critical software before advanced capabilities fall into the wrong hands.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/\">Anthropic Unveils ‘Claude Mythos’ &#8211; A Cybersecurity Breakthrough That Could Also Supercharge Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "The New Rules of Engagement: Matching Agentic Attack Speed",
     "link": "https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/",
     "published": "Tue, 07 Apr 2026 16:40:52 +0000",
@@ -633,13 +644,6 @@
     "link": "https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/",
     "published": "Tue, 07 Apr 2026 09:24:40 +0000",
     "summary": "<p>Shchukin is accused of extorting more than $2 million as the head of the GandCrab and REvil ransomware operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/\">German Police Unmask REvil Ransomware Leader</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "White House Seeks to Slash CISA Funding by $707 Million",
-    "link": "https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/",
-    "published": "Tue, 07 Apr 2026 08:29:41 +0000",
-    "summary": "<p>The Trump administration says the FY2027 budget refocuses CISA on its core mission: protecting federal agencies and critical infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/\">White House Seeks to Slash CISA Funding by $707 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -1179,8 +1183,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
