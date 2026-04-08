@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
+    "link": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
+    "published": "Wed, 08 Apr 2026 13:17:00 +0530",
+    "summary": "The North Korea-linked persistent campaign known&nbsp;as Contagious&nbsp;Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems.\n\"The threat actor's packages were designed to impersonate legitimate developer tooling [...], while quietly functioning as malware loaders, extending Contagious Interview’s established playbook into a coordinated",
+    "analysis": {
+      "issue": "Over 1,700 malicious packages since Jan 2025 fuel cross-ecosystem supply chain attacks, enabling espionage and financial theft",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
+    "link": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html",
+    "published": "Wed, 08 Apr 2026 09:53:00 +0530",
+    "summary": "Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including programmable logic controllers (PLCs), cybersecurity and intelligence&nbsp;agencies warned&nbsp;Tuesday.\n\"These attacks have led to diminished PLC functionality, manipulation of display data and, in some cases, operational disruption and financial",
+    "analysis": {
+      "issue": "PLCs using Dropbear and SSH access, disrupting OT systems across sectors and escalating cyber conflict",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
     "link": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
     "published": "Tue, 07 Apr 2026 22:18:00 +0530",
@@ -152,38 +188,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
-    "link": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
-    "published": "Tue, 07 Apr 2026 00:07:00 +0530",
-    "summary": "An&nbsp;Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E. amid&nbsp;ongoing conflict in the Middle&nbsp;East.\nThe&nbsp;activity, assessed to be ongoing, was carried out in three distinct attack waves that took place on March 3, March 13, and March 23, 2026, per Check&nbsp;Point.\n\"The campaign is primarily",
+    "source": "Bleeping Computer",
+    "title": "Microsoft rolls out fix for broken Windows Start Menu search",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/",
+    "published": "Wed, 08 Apr 2026 03:00:55 -0400",
+    "summary": "Microsoft has pushed a server-side fix for a known issue that broke the Windows Start Menu search feature on some Windows 11 23H2 devices. [...]",
     "analysis": {
-      "issue": "Iran-linked attacks hit 300+ Israeli M365 orgs in March 2026, reviving ransomware campaigns and escalating regional cyber risks",
+      "issue": "Microsoft has pushed a server-side fix for a known issue that broke the Windows Start Menu search feature on some Windows 11 23H2 devices",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea",
-    "link": "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html",
-    "published": "Mon, 06 Apr 2026 21:54:00 +0530",
-    "summary": "Threat&nbsp;actors likely associated with the Democratic People's Republic of Korea (DPRK) have been observed using GitHub as command-and-control (C2) infrastructure in multi-stage attacks targeting organizations in South&nbsp;Korea.\nThe&nbsp;attack chain,&nbsp;per Fortinet FortiGuard&nbsp;Labs, involves obfuscated Windows shortcut (LNK) files acting as the starting point to drop a decoy PDF",
-    "analysis": {
-      "issue": "DPRK-linked actors use GitHub C2 and LNK phishing in South Korea, enabling persistent PowerShell control and data exfiltration",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
+        "General Security"
       ]
     }
   },
@@ -358,24 +376,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit",
-    "link": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/",
-    "published": "Mon, 06 Apr 2026 15:19:27 -0400",
-    "summary": "Exploit code has been released for an unpatched Windows privilege escalation flaw reported privately to Microsoft, allowing attackers to gain SYSTEM or elevated administrator permissions. [...]",
-    "analysis": {
-      "issue": "Exploit code has been released for an unpatched Windows privilege escalation flaw reported privately to Microsoft, allowing attackers to gain SYSTEM or elevated administrator permissions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
     "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
@@ -484,14 +484,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26110",
-        "CVE-2026-21262",
-        "CVE-2026-24289",
-        "CVE-2026-26127",
-        "CVE-2026-25187",
         "CVE-2026-26113",
+        "CVE-2026-26110",
+        "CVE-2026-24294",
+        "CVE-2026-24289",
         "CVE-2026-24291",
-        "CVE-2026-24294"
+        "CVE-2026-21262",
+        "CVE-2026-26127",
+        "CVE-2026-25187"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1400,6 +1400,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/",
+    "published": "Apr 07, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "CrowdStrike is a founding member of Anthropic’s security coalition for the Mythos frontier model, securing AI where it executes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "How CrowdStrike is Accelerating Exposure Evaluation as Adversaries Gain Speed",
     "link": "https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/",
     "published": "Apr 06, 2026 00:00:00-0500",
@@ -1559,24 +1577,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Falcon Next-Gen SIEM Supports Third-Party EDR Tools, Starting with Microsoft Defender",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-supports-third-party-edr-tools-starting-with-microsoft-defender/",
-    "published": "Mar 23, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Falcon Next-Gen SIEM is expanding to support third-party EDR solutions, starting with Microsoft Defender",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   }

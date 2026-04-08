@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-08 03:39:30 UTC
+**Last Updated:** 2026-04-08 09:44:44 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign](https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html)
+### 1. [N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust](https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 08 Apr 2026 13:17:00 +0530  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 2. [Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs](https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 08 Apr 2026 09:53:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign](https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 22:18:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html)
+### 4. [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 21:59:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access](https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html)
+### 5. [Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access](https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 20:45:00 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign](https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html)
+### 6. [Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign](https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 18:16:00 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [The Hidden Cost of Recurring Credential Incidents](https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html)
+### 7. [The Hidden Cost of Recurring Credential Incidents](https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 17:00:00 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips](https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html)
+### 8. [New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips](https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 14:08:00 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware](https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html)
+### 9. [China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware](https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 12:05:00 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed](https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html)
+### 10. [Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed](https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 11:26:00 +0530  
@@ -78,25 +96,16 @@
 
 ---
 
-### 9. [Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations](https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html)
+### 11. [Microsoft rolls out fix for broken Windows Start Menu search](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 07 Apr 2026 00:07:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 08 Apr 2026 03:00:55 -0400  
 **Severity:** Low  
-**Categories:** Ransomware  
+**Categories:** General Security  
 
 ---
 
-### 10. [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 06 Apr 2026 21:54:00 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 11. [Hackers exploit critical flaw in Ninja Forms WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/)
+### 12. [Hackers exploit critical flaw in Ninja Forms WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Apr 2026 18:03:01 -0400  
@@ -106,7 +115,7 @@
 
 ---
 
-### 12. [FBI: Americans lost a record $21 billion to cybercrime last year](https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/)
+### 13. [FBI: Americans lost a record $21 billion to cybercrime last year](https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Apr 2026 16:41:52 -0400  
@@ -115,7 +124,7 @@
 
 ---
 
-### 13. [Snowflake customers hit in data theft attacks after SaaS integrator breach](https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/)
+### 14. [Snowflake customers hit in data theft attacks after SaaS integrator breach](https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Apr 2026 15:39:18 -0400  
@@ -124,7 +133,7 @@
 
 ---
 
-### 14. [US warns of Iranian hackers targeting critical infrastructure](https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/)
+### 15. [US warns of Iranian hackers targeting critical infrastructure](https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Apr 2026 14:02:26 -0400  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [Max severity Flowise RCE vulnerability now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/)
+### 16. [Max severity Flowise RCE vulnerability now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Apr 2026 13:02:05 -0400  
@@ -143,7 +152,7 @@
 
 ---
 
-### 16. [Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins](https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/)
+### 17. [Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins](https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Apr 2026 11:51:22 -0400  
@@ -152,7 +161,7 @@
 
 ---
 
-### 17. [Why Your Automated Pentesting Tool Just Hit a Wall](https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/)
+### 18. [Why Your Automated Pentesting Tool Just Hit a Wall](https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Apr 2026 10:01:11 -0400  
@@ -161,7 +170,7 @@
 
 ---
 
-### 18. [German authorities identify REvil and GandCrab ransomware bosses](https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/)
+### 19. [German authorities identify REvil and GandCrab ransomware bosses](https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 06 Apr 2026 19:54:04 -0400  
@@ -170,20 +179,11 @@
 
 ---
 
-### 19. [New GPUBreach attack enables system takeover via GPU rowhammer](https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/)
+### 20. [New GPUBreach attack enables system takeover via GPU rowhammer](https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 06 Apr 2026 17:44:15 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit](https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 06 Apr 2026 15:19:27 -0400  
-**Severity:** Critical  
 **Categories:** Vulnerability  
 
 ---
@@ -238,7 +238,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26110, CVE-2026-21262, CVE-2026-24289, CVE-2026-26127, CVE-2026-25187, CVE-2026-26113, CVE-2026-24291, CVE-2026-24294  
+**CVEs:** CVE-2026-26113, CVE-2026-26110, CVE-2026-24294, CVE-2026-24289, CVE-2026-24291, CVE-2026-21262, CVE-2026-26127, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -715,7 +715,16 @@
 
 ---
 
-### 81. [How CrowdStrike is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
+### 81. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Apr 07, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [How CrowdStrike is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 06, 2026 00:00:00-0500  
@@ -724,7 +733,7 @@
 
 ---
 
-### 82. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
+### 83. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 01, 2026 00:00:00-0500  
@@ -733,7 +742,7 @@
 
 ---
 
-### 83. [Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management](https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/)
+### 84. [Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management](https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 01, 2026 00:00:00-0500  
@@ -742,7 +751,7 @@
 
 ---
 
-### 84. [Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse](https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/)
+### 85. [Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse](https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 31, 2026 00:00:00-0500  
@@ -752,7 +761,7 @@
 
 ---
 
-### 85. [How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem](https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/)
+### 86. [How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem](https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 25, 2026 00:00:00-0500  
@@ -761,7 +770,7 @@
 
 ---
 
-### 86. [CrowdStrike Flex for Services Expands Access to Elite Security Expertise](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/)
+### 87. [CrowdStrike Flex for Services Expands Access to Elite Security Expertise](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 24, 2026 00:00:00-0500  
@@ -770,7 +779,7 @@
 
 ---
 
-### 87. [Falcon Data Security Secures Data Wherever It Lives and Moves](https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/)
+### 88. [Falcon Data Security Secures Data Wherever It Lives and Moves](https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 24, 2026 00:00:00-0500  
@@ -779,7 +788,7 @@
 
 ---
 
-### 88. [CrowdStrike Advances CNAPP with Industry-First Adversary-Informed Risk Prioritization](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-cnapp-with-industry-first-adversary-informed-risk-prioritization/)
+### 89. [CrowdStrike Advances CNAPP with Industry-First Adversary-Informed Risk Prioritization](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-cnapp-with-industry-first-adversary-informed-risk-prioritization/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 24, 2026 00:00:00-0500  
@@ -788,21 +797,12 @@
 
 ---
 
-### 89. [CrowdStrike Services and Agentic MDR Put the Agentic SOC in Reach](https://www.crowdstrike.com/en-us/blog/crowdstrike-services-and-agentic-mdr-put-the-agentic-soc-in-reach/)
+### 90. [CrowdStrike Services and Agentic MDR Put the Agentic SOC in Reach](https://www.crowdstrike.com/en-us/blog/crowdstrike-services-and-agentic-mdr-put-the-agentic-soc-in-reach/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 24, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 90. [Falcon Next-Gen SIEM Supports Third-Party EDR Tools, Starting with Microsoft Defender](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-supports-third-party-edr-tools-starting-with-microsoft-defender/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Mar 23, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 
