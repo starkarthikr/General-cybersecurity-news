@@ -484,14 +484,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-25187",
         "CVE-2026-26110",
-        "CVE-2026-26113",
-        "CVE-2026-24289",
-        "CVE-2026-24294",
-        "CVE-2026-26127",
         "CVE-2026-21262",
-        "CVE-2026-24291"
+        "CVE-2026-24289",
+        "CVE-2026-26127",
+        "CVE-2026-25187",
+        "CVE-2026-26113",
+        "CVE-2026-24291",
+        "CVE-2026-24294"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -577,6 +577,13 @@
   },
   {
     "source": "Security Week",
+    "title": "Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks",
+    "link": "https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/",
+    "published": "Wed, 08 Apr 2026 02:57:56 +0000",
+    "summary": "<p>Federal agencies warn attackers are manipulating PLC and SCADA systems across multiple sectors, triggering operational disruptions and raising concerns over broader OT targeting.</p>\n<p>The post <a href=\"https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/\">Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks",
     "link": "https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/",
     "published": "Tue, 07 Apr 2026 18:39:56 +0000",
@@ -637,13 +644,6 @@
     "link": "https://www.securityweek.com/medusa-ransomware-fast-to-exploit-vulnerabilities-breached-systems/",
     "published": "Tue, 07 Apr 2026 10:52:33 +0000",
     "summary": "<p>The group is using zero-days, quickly weaponizes fresh bugs, and exfiltrates and encrypts data within days of initial access.</p>\n<p>The post <a href=\"https://www.securityweek.com/medusa-ransomware-fast-to-exploit-vulnerabilities-breached-systems/\">Medusa Ransomware Fast to Exploit Vulnerabilities, Breached Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "German Police Unmask REvil Ransomware Leader",
-    "link": "https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/",
-    "published": "Tue, 07 Apr 2026 09:24:40 +0000",
-    "summary": "<p>Shchukin is accused of extorting more than $2 million as the head of the GandCrab and REvil ransomware operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/\">German Police Unmask REvil Ransomware Leader</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -1183,8 +1183,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

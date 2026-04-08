@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-08 02:55:48 UTC
+**Last Updated:** 2026-04-08 03:39:30 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -238,7 +238,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-26110, CVE-2026-26113, CVE-2026-24289, CVE-2026-24294, CVE-2026-26127, CVE-2026-21262, CVE-2026-24291  
+**CVEs:** CVE-2026-26110, CVE-2026-21262, CVE-2026-24289, CVE-2026-26127, CVE-2026-25187, CVE-2026-26113, CVE-2026-24291, CVE-2026-24294  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,73 +279,73 @@
 
 ---
 
-### 31. [Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks](https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/)
+### 31. [Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks](https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/)
+
+**Source:** Security Week  
+**Published:** Wed, 08 Apr 2026 02:57:56 +0000  
+
+---
+
+### 32. [Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks](https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 18:39:56 +0000  
 
 ---
 
-### 32. [The New Rules of Engagement: Matching Agentic Attack Speed](https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/)
+### 33. [The New Rules of Engagement: Matching Agentic Attack Speed](https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 16:40:52 +0000  
 
 ---
 
-### 33. [Trent AI Emerges From Stealth With $13 Million in Funding](https://www.securityweek.com/trent-ai-emerges-from-stealth-with-13-million-in-funding/)
+### 34. [Trent AI Emerges From Stealth With $13 Million in Funding](https://www.securityweek.com/trent-ai-emerges-from-stealth-with-13-million-in-funding/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 16:34:26 +0000  
 
 ---
 
-### 34. [Critical Flowise Vulnerability in Attacker Crosshairs](https://www.securityweek.com/critical-flowise-vulnerability-in-attacker-crosshairs/)
+### 35. [Critical Flowise Vulnerability in Attacker Crosshairs](https://www.securityweek.com/critical-flowise-vulnerability-in-attacker-crosshairs/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 15:34:51 +0000  
 
 ---
 
-### 35. [Severe StrongBox Vulnerability Patched in Android](https://www.securityweek.com/severe-strongbox-vulnerability-patched-in-android/)
+### 36. [Severe StrongBox Vulnerability Patched in Android](https://www.securityweek.com/severe-strongbox-vulnerability-patched-in-android/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 14:23:51 +0000  
 
 ---
 
-### 36. [GrafanaGhost: Attackers Can Abuse Grafana to Leak Enterprise Data](https://www.securityweek.com/grafanaghost-attackers-can-abuse-grafana-to-leak-enterprise-data/)
+### 37. [GrafanaGhost: Attackers Can Abuse Grafana to Leak Enterprise Data](https://www.securityweek.com/grafanaghost-attackers-can-abuse-grafana-to-leak-enterprise-data/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 13:58:45 +0000  
 
 ---
 
-### 37. [Webinar Today: Why Automated Pentesting Alone Is Not Enough](https://www.securityweek.com/webinar-today-why-automated-pentesting-alone-is-not-enough/)
+### 38. [Webinar Today: Why Automated Pentesting Alone Is Not Enough](https://www.securityweek.com/webinar-today-why-automated-pentesting-alone-is-not-enough/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 13:19:29 +0000  
 
 ---
 
-### 38. [GPUBreach: Root Shell Access Achieved via GPU Rowhammer Attack](https://www.securityweek.com/gpubreach-root-shell-access-achieved-via-gpu-rowhammer-attack/)
+### 39. [GPUBreach: Root Shell Access Achieved via GPU Rowhammer Attack](https://www.securityweek.com/gpubreach-root-shell-access-achieved-via-gpu-rowhammer-attack/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 11:31:38 +0000  
 
 ---
 
-### 39. [Medusa Ransomware Fast to Exploit Vulnerabilities, Breached Systems](https://www.securityweek.com/medusa-ransomware-fast-to-exploit-vulnerabilities-breached-systems/)
+### 40. [Medusa Ransomware Fast to Exploit Vulnerabilities, Breached Systems](https://www.securityweek.com/medusa-ransomware-fast-to-exploit-vulnerabilities-breached-systems/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 10:52:33 +0000  
-
----
-
-### 40. [German Police Unmask REvil Ransomware Leader](https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/)
-
-**Source:** Security Week  
-**Published:** Tue, 07 Apr 2026 09:24:40 +0000  
 
 ---
 
@@ -610,7 +610,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
