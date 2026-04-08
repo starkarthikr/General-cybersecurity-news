@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-08 13:46:18 UTC
+**Last Updated:** 2026-04-08 17:40:21 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html)
+### 1. [Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices](https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 08 Apr 2026 22:00:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, DDoS  
+
+---
+
+### 2. [APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies](https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 08 Apr 2026 19:20:00 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware, APT, Supply Chain  
+
+---
+
+### 3. [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 17:00:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems](https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html)
+### 4. [Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems](https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 14:46:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust](https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html)
+### 5. [N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust](https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 13:17:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs](https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html)
+### 6. [Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs](https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 09:53:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign](https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html)
+### 7. [Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign](https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 22:18:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html)
+### 8. [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 21:59:00 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access](https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html)
+### 9. [Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access](https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 20:45:00 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign](https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html)
+### 10. [Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign](https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 18:16:00 +0530  
@@ -77,25 +95,26 @@
 
 ---
 
-### 9. [The Hidden Cost of Recurring Credential Incidents](https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html)
+### 11. [13-year-old bug in ActiveMQ lets hackers remotely execute commands](https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 07 Apr 2026 17:00:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 08 Apr 2026 13:26:40 -0400  
+**Severity:** High  
+**CVEs:** CVE-2026-34197  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Is a $30,000 GPU Good at Password Cracking?](https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 08 Apr 2026 10:00:10 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 10. [New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips](https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 07 Apr 2026 14:08:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Microsoft rolls out fix for broken Windows Start Menu search](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/)
+### 13. [Microsoft rolls out fix for broken Windows Start Menu search](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Apr 2026 03:00:55 -0400  
@@ -104,7 +123,7 @@
 
 ---
 
-### 12. [Hackers exploit critical flaw in Ninja Forms WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/)
+### 14. [Hackers exploit critical flaw in Ninja Forms WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Apr 2026 18:03:01 -0400  
@@ -114,7 +133,7 @@
 
 ---
 
-### 13. [FBI: Americans lost a record $21 billion to cybercrime last year](https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/)
+### 15. [FBI: Americans lost a record $21 billion to cybercrime last year](https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Apr 2026 16:41:52 -0400  
@@ -123,7 +142,7 @@
 
 ---
 
-### 14. [Snowflake customers hit in data theft attacks after SaaS integrator breach](https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/)
+### 16. [Snowflake customers hit in data theft attacks after SaaS integrator breach](https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Apr 2026 15:39:18 -0400  
@@ -132,7 +151,7 @@
 
 ---
 
-### 15. [US warns of Iranian hackers targeting critical infrastructure](https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/)
+### 17. [US warns of Iranian hackers targeting critical infrastructure](https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Apr 2026 14:02:26 -0400  
@@ -141,7 +160,7 @@
 
 ---
 
-### 16. [Max severity Flowise RCE vulnerability now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/)
+### 18. [Max severity Flowise RCE vulnerability now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Apr 2026 13:02:05 -0400  
@@ -151,7 +170,7 @@
 
 ---
 
-### 17. [Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins](https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/)
+### 19. [Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins](https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Apr 2026 11:51:22 -0400  
@@ -160,30 +179,12 @@
 
 ---
 
-### 18. [Why Your Automated Pentesting Tool Just Hit a Wall](https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/)
+### 20. [Why Your Automated Pentesting Tool Just Hit a Wall](https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Apr 2026 10:01:11 -0400  
 **Severity:** Critical  
 **Categories:** General Security  
-
----
-
-### 19. [German authorities identify REvil and GandCrab ransomware bosses](https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 06 Apr 2026 19:54:04 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 20. [New GPUBreach attack enables system takeover via GPU rowhammer](https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 06 Apr 2026 17:44:15 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -237,7 +238,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24289, CVE-2026-25187, CVE-2026-26127, CVE-2026-24291, CVE-2026-24294, CVE-2026-26113, CVE-2026-21262, CVE-2026-26110  
+**CVEs:** CVE-2026-24291, CVE-2026-21262, CVE-2026-26127, CVE-2026-26113, CVE-2026-24294, CVE-2026-25187, CVE-2026-26110, CVE-2026-24289  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -278,73 +279,73 @@
 
 ---
 
-### 31. [FBI: Cybercrime Losses Neared $21 Billion in 2025](https://www.securityweek.com/fbi-cybercrime-losses-neared-21-billion-in-2025/)
+### 31. [Data Leakage Vulnerability Patched in OpenSSL](https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/)
+
+**Source:** Security Week  
+**Published:** Wed, 08 Apr 2026 15:37:48 +0000  
+
+---
+
+### 32. [RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years](https://www.securityweek.com/rce-bug-lurked-in-apache-activemq-classic-for-13-years/)
+
+**Source:** Security Week  
+**Published:** Wed, 08 Apr 2026 14:30:27 +0000  
+
+---
+
+### 33. [FBI: Cybercrime Losses Neared $21 Billion in 2025](https://www.securityweek.com/fbi-cybercrime-losses-neared-21-billion-in-2025/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Apr 2026 13:32:53 +0000  
 
 ---
 
-### 32. [Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption](https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/)
+### 34. [Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption](https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Apr 2026 12:31:39 +0000  
 
 ---
 
-### 33. [Evasive Masjesu DDoS Botnet Targets IoT Devices](https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/)
+### 35. [Evasive Masjesu DDoS Botnet Targets IoT Devices](https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Apr 2026 11:49:44 +0000  
 
 ---
 
-### 34. [Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover](https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/)
+### 36. [Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover](https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Apr 2026 11:20:23 +0000  
 
 ---
 
-### 35. [US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking](https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/)
+### 37. [US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking](https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Apr 2026 10:54:14 +0000  
 
 ---
 
-### 36. [Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks](https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/)
+### 38. [Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks](https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Apr 2026 02:57:56 +0000  
 
 ---
 
-### 37. [Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks](https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/)
+### 39. [Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks](https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 18:39:56 +0000  
 
 ---
 
-### 38. [The New Rules of Engagement: Matching Agentic Attack Speed](https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/)
+### 40. [The New Rules of Engagement: Matching Agentic Attack Speed](https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 16:40:52 +0000  
-
----
-
-### 39. [Trent AI Emerges From Stealth With $13 Million in Funding](https://www.securityweek.com/trent-ai-emerges-from-stealth-with-13-million-in-funding/)
-
-**Source:** Security Week  
-**Published:** Tue, 07 Apr 2026 16:34:26 +0000  
-
----
-
-### 40. [Critical Flowise Vulnerability in Attacker Crosshairs](https://www.securityweek.com/critical-flowise-vulnerability-in-attacker-crosshairs/)
-
-**Source:** Security Week  
-**Published:** Tue, 07 Apr 2026 15:34:51 +0000  
 
 ---
 
@@ -439,7 +440,16 @@
 
 ---
 
-### 51. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+### 51. [Understanding and Anticipating Venezuelan Government Actions](https://www.recordedfuture.com/research/understanding-and-anticipating-venezuelan-government-actions)
+
+**Source:** Recorded Future  
+**Published:** Wed, 08 Apr 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 52. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
 
 **Source:** Recorded Future  
 **Published:** Fri, 03 Apr 2026 00:00:00 GMT  
@@ -448,7 +458,7 @@
 
 ---
 
-### 52. [Day in the Life: Product Manager at Recorded Future](https://www.recordedfuture.com/blog/kyle-kohler-product-manager)
+### 53. [Day in the Life: Product Manager at Recorded Future](https://www.recordedfuture.com/blog/kyle-kohler-product-manager)
 
 **Source:** Recorded Future  
 **Published:** Fri, 03 Apr 2026 00:00:00 GMT  
@@ -457,7 +467,7 @@
 
 ---
 
-### 53. [Latin America and the Caribbean Cybercrime Landscape](https://www.recordedfuture.com/research/latin-america-and-the-caribbean-cybercrime-landscape)
+### 54. [Latin America and the Caribbean Cybercrime Landscape](https://www.recordedfuture.com/research/latin-america-and-the-caribbean-cybercrime-landscape)
 
 **Source:** Recorded Future  
 **Published:** Thu, 02 Apr 2026 00:00:00 GMT  
@@ -466,7 +476,7 @@
 
 ---
 
-### 54. [Industrialization of the Fraud Ecosystem Blog](https://www.recordedfuture.com/blog/industrialization-of-the-fraud-ecosystem-blog)
+### 55. [Industrialization of the Fraud Ecosystem Blog](https://www.recordedfuture.com/blog/industrialization-of-the-fraud-ecosystem-blog)
 
 **Source:** Recorded Future  
 **Published:** Wed, 01 Apr 2026 00:00:00 GMT  
@@ -475,7 +485,7 @@
 
 ---
 
-### 55. [The Shift: An Era of Quantum Geopolitics](https://www.recordedfuture.com/blog/the-shift-an-era-of-quantum-geopolitics)
+### 56. [The Shift: An Era of Quantum Geopolitics](https://www.recordedfuture.com/blog/the-shift-an-era-of-quantum-geopolitics)
 
 **Source:** Recorded Future  
 **Published:** Wed, 01 Apr 2026 00:00:00 GMT  
@@ -484,7 +494,7 @@
 
 ---
 
-### 56. [ClickFix Campaigns Targeting Windows and macOS](https://www.recordedfuture.com/research/clickfix-campaigns-targeting-windows-and-macos)
+### 57. [ClickFix Campaigns Targeting Windows and macOS](https://www.recordedfuture.com/research/clickfix-campaigns-targeting-windows-and-macos)
 
 **Source:** Recorded Future  
 **Published:** Wed, 25 Mar 2026 00:00:00 GMT  
@@ -493,7 +503,7 @@
 
 ---
 
-### 57. [2025 Year in Review: Malicious, Infrastructure](https://www.recordedfuture.com/research/2025-year-in-review-malicious-infrastructure)
+### 58. [2025 Year in Review: Malicious, Infrastructure](https://www.recordedfuture.com/research/2025-year-in-review-malicious-infrastructure)
 
 **Source:** Recorded Future  
 **Published:** Thu, 19 Mar 2026 00:00:00 GMT  
@@ -502,7 +512,7 @@
 
 ---
 
-### 58. [2025 Identity Threat Landscape Report: Inside the Infostealer Economy: Credential Threats in 2025](https://www.recordedfuture.com/blog/identity-trend-report-march-blog)
+### 59. [2025 Identity Threat Landscape Report: Inside the Infostealer Economy: Credential Threats in 2025](https://www.recordedfuture.com/blog/identity-trend-report-march-blog)
 
 **Source:** Recorded Future  
 **Published:** Mon, 16 Mar 2026 00:00:00 GMT  
@@ -511,21 +521,12 @@
 
 ---
 
-### 59. [February 2026 CVE Landscape: 13 Critical Vulnerabilities Mark 43% Drop from January](https://www.recordedfuture.com/blog/february-2026-cve-landscape)
+### 60. [February 2026 CVE Landscape: 13 Critical Vulnerabilities Mark 43% Drop from January](https://www.recordedfuture.com/blog/february-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Thu, 12 Mar 2026 00:00:00 GMT  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 60. [Latin America's Cybersecurity Turning Point: From Reactive Defense to Threat Intelligence](https://www.recordedfuture.com/blog/latin-america-cybersecurity-turning-point)
-
-**Source:** Recorded Future  
-**Published:** Tue, 03 Mar 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** Ransomware  
 
 ---
 
@@ -624,7 +625,16 @@
 
 ---
 
-### 71. [Russian hacking group targets home and small office routers to spy on users](https://www.malwarebytes.com/blog/news/2026/04/russian-state-sponsored-hackers-hijack-home-and-small-office-routers-for-espionage)
+### 71. [Your extensions leak clues about you, so we made sure Browser Guard doesn&#8217;t](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/04/your-extensions-leak-clues-about-you-so-we-made-sure-browser-guard-doesnt)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 08 Apr 2026 14:33:18 GMT  
+**Severity:** High  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 72. [Russian hacking group targets home and small office routers to spy on users](https://www.malwarebytes.com/blog/news/2026/04/russian-state-sponsored-hackers-hijack-home-and-small-office-routers-for-espionage)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 08 Apr 2026 13:31:25 GMT  
@@ -633,7 +643,7 @@
 
 ---
 
-### 72. [Timeshare owners warned to watch out for cartel-linked scams](https://www.malwarebytes.com/blog/scams/2026/04/timeshare-owners-warned-to-watch-out-for-cartel-linked-scams)
+### 73. [Timeshare owners warned to watch out for cartel-linked scams](https://www.malwarebytes.com/blog/scams/2026/04/timeshare-owners-warned-to-watch-out-for-cartel-linked-scams)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 08 Apr 2026 10:25:08 GMT  
@@ -642,7 +652,7 @@
 
 ---
 
-### 73. [Traffic violation scams swap links for QR codes to steal your card details](https://www.malwarebytes.com/blog/news/2026/04/traffic-violation-scams-swap-links-for-qr-codes-to-steal-your-card-details)
+### 74. [Traffic violation scams swap links for QR codes to steal your card details](https://www.malwarebytes.com/blog/news/2026/04/traffic-violation-scams-swap-links-for-qr-codes-to-steal-your-card-details)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 07 Apr 2026 11:57:37 GMT  
@@ -651,7 +661,7 @@
 
 ---
 
-### 74. [Support platform breach exposes Hims &amp; Hers customer data](https://www.malwarebytes.com/blog/data-breaches/2026/04/support-platform-breach-exposes-hims-hers-customer-data)
+### 75. [Support platform breach exposes Hims &amp; Hers customer data](https://www.malwarebytes.com/blog/data-breaches/2026/04/support-platform-breach-exposes-hims-hers-customer-data)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 07 Apr 2026 10:45:50 GMT  
@@ -660,7 +670,7 @@
 
 ---
 
-### 75. [A week in security (March 30 &#8211; April 5)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-march-30-april-5-2)
+### 76. [A week in security (March 30 &#8211; April 5)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-march-30-april-5-2)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 06 Apr 2026 07:01:00 GMT  
@@ -669,7 +679,7 @@
 
 ---
 
-### 76. [Killer robots are here. Now what? (Lock and Code S07E07)](https://www.malwarebytes.com/blog/podcast/2026/04/killer-robots-are-here-now-what-lock-and-code-s07e07)
+### 77. [Killer robots are here. Now what? (Lock and Code S07E07)](https://www.malwarebytes.com/blog/podcast/2026/04/killer-robots-are-here-now-what-lock-and-code-s07e07)
 
 **Source:** Malwarebytes  
 **Published:** Sun, 05 Apr 2026 23:10:20 GMT  
@@ -678,7 +688,7 @@
 
 ---
 
-### 77. [That dream job offer from Coca-Cola or Ferrari? It’s a trap for your passwords](https://www.malwarebytes.com/blog/threat-intel/2026/04/that-dream-job-offer-from-coca-cola-or-ferrari-its-a-trap-for-your-passwords)
+### 78. [That dream job offer from Coca-Cola or Ferrari? It’s a trap for your passwords](https://www.malwarebytes.com/blog/threat-intel/2026/04/that-dream-job-offer-from-coca-cola-or-ferrari-its-a-trap-for-your-passwords)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 03 Apr 2026 23:13:58 GMT  
@@ -687,7 +697,7 @@
 
 ---
 
-### 78. [Blocking children from social media is a badly executed good idea](https://www.malwarebytes.com/blog/news/2026/04/blocking-children-from-social-media-is-a-badly-executed-good-idea)
+### 79. [Blocking children from social media is a badly executed good idea](https://www.malwarebytes.com/blog/news/2026/04/blocking-children-from-social-media-is-a-badly-executed-good-idea)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 03 Apr 2026 14:37:52 GMT  
@@ -696,21 +706,12 @@
 
 ---
 
-### 79. [Apple expands “DarkSword” patches to iOS 18.7.7](https://www.malwarebytes.com/blog/news/2026/04/apple-expands-darksword-patches-to-ios-18-7-7)
+### 80. [Apple expands “DarkSword” patches to iOS 18.7.7](https://www.malwarebytes.com/blog/news/2026/04/apple-expands-darksword-patches-to-ios-18-7-7)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 02 Apr 2026 14:13:44 GMT  
 **Severity:** Low  
 **Categories:** Data Breach, Vulnerability  
-
----
-
-### 80. [Malwarebytes Privacy VPN receives full third-party audit](https://www.malwarebytes.com/blog/product/2026/04/vpnsoftwareaudit)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 02 Apr 2026 13:00:00 GMT  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware, Supply Chain  
 
 ---
 
