@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-09 02:50:22 UTC
+**Last Updated:** 2026-04-09 03:35:24 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -127,7 +127,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Apr 2026 14:15:27 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-1281, CVE-2026-1340  
+**CVEs:** CVE-2026-1340, CVE-2026-1281  
 **Categories:** Vulnerability  
 
 ---
@@ -238,7 +238,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24291, CVE-2026-26110, CVE-2026-26127, CVE-2026-24294, CVE-2026-26113, CVE-2026-21262, CVE-2026-24289, CVE-2026-25187  
+**CVEs:** CVE-2026-25187, CVE-2026-26113, CVE-2026-21262, CVE-2026-26110, CVE-2026-24289, CVE-2026-24294, CVE-2026-26127, CVE-2026-24291  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -718,16 +718,16 @@
 ### 81. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
 
 **Source:** Crowdstrike Blog  
-**Published:** Apr 07, 2026 00:00:00-0500  
+**Published:** Apr 06, 2026 00:00:00-0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 82. [How CrowdStrike is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
+### 82. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
 
 **Source:** Crowdstrike Blog  
-**Published:** Apr 06, 2026 00:00:00-0500  
+**Published:** Apr 05, 2026 00:00:00-0700  
 **Severity:** Low  
 **Categories:** General Security  
 
