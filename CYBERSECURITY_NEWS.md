@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-09 03:35:24 UTC
+**Last Updated:** 2026-04-09 09:49:39 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,34 @@
 
 ---
 
-### 11. [Hackers use pixel-large SVG trick to hide credit card stealer](https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/)
+### 11. [Hackers exploiting Acrobat Reader zero-day flaw since December](https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 09 Apr 2026 05:22:35 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot](https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 09 Apr 2026 03:44:55 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 09 Apr 2026 02:46:26 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [Hackers use pixel-large SVG trick to hide credit card stealer](https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Apr 2026 18:34:26 -0400  
@@ -104,7 +131,7 @@
 
 ---
 
-### 12. [Google: New UNC6783 hackers steal corporate Zendesk support tickets](https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/)
+### 15. [Google: New UNC6783 hackers steal corporate Zendesk support tickets](https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Apr 2026 17:46:27 -0400  
@@ -113,7 +140,7 @@
 
 ---
 
-### 13. [New macOS stealer campaign uses Script Editor in ClickFix attack](https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/)
+### 16. [New macOS stealer campaign uses Script Editor in ClickFix attack](https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Apr 2026 14:55:43 -0400  
@@ -122,17 +149,17 @@
 
 ---
 
-### 14. [CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/)
+### 17. [CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Apr 2026 14:15:27 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-1340, CVE-2026-1281  
+**CVEs:** CVE-2026-1281, CVE-2026-1340  
 **Categories:** Vulnerability  
 
 ---
 
-### 15. [13-year-old bug in ActiveMQ lets hackers remotely execute commands](https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/)
+### 18. [13-year-old bug in ActiveMQ lets hackers remotely execute commands](https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Apr 2026 13:26:40 -0400  
@@ -142,7 +169,7 @@
 
 ---
 
-### 16. [Is a $30,000 GPU Good at Password Cracking?](https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/)
+### 19. [Is a $30,000 GPU Good at Password Cracking?](https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Apr 2026 10:00:10 -0400  
@@ -151,40 +178,12 @@
 
 ---
 
-### 17. [Microsoft rolls out fix for broken Windows Start Menu search](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/)
+### 20. [Microsoft rolls out fix for broken Windows Start Menu search](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Apr 2026 03:00:55 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 18. [Hackers exploit critical flaw in Ninja Forms WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 07 Apr 2026 18:03:01 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-0740  
-**Categories:** Vulnerability  
-
----
-
-### 19. [FBI: Americans lost a record $21 billion to cybercrime last year](https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 07 Apr 2026 16:41:52 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, Phishing  
-
----
-
-### 20. [Snowflake customers hit in data theft attacks after SaaS integrator breach](https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 07 Apr 2026 15:39:18 -0400  
-**Severity:** High  
-**Categories:** Vulnerability, Supply Chain  
 
 ---
 
@@ -238,7 +237,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-26113, CVE-2026-21262, CVE-2026-26110, CVE-2026-24289, CVE-2026-24294, CVE-2026-26127, CVE-2026-24291  
+**CVEs:** CVE-2026-26127, CVE-2026-25187, CVE-2026-21262, CVE-2026-24291, CVE-2026-26113, CVE-2026-24289, CVE-2026-24294, CVE-2026-26110  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,73 +278,73 @@
 
 ---
 
-### 31. [Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long](https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/)
+### 31. [Google Warns of New Campaign Targeting BPOs to Steal Corporate Data](https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/)
+
+**Source:** Security Week  
+**Published:** Thu, 09 Apr 2026 09:44:56 +0000  
+
+---
+
+### 32. [Adobe Reader Zero-Day Exploited for Months: Researcher](https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/)
+
+**Source:** Security Week  
+**Published:** Thu, 09 Apr 2026 08:44:51 +0000  
+
+---
+
+### 33. [300,000 People Impacted by Eurail Data Breach](https://www.securityweek.com/300000-people-impacted-by-eurail-data-breach/)
+
+**Source:** Security Week  
+**Published:** Thu, 09 Apr 2026 08:28:05 +0000  
+
+---
+
+### 34. [$3.6 Million Stolen in Bitcoin Depot Hack](https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/)
+
+**Source:** Security Week  
+**Published:** Thu, 09 Apr 2026 06:41:40 +0000  
+
+---
+
+### 35. [Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long](https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/)
 
 **Source:** Security Week  
 **Published:** Thu, 09 Apr 2026 01:22:35 +0000  
 
 ---
 
-### 32. [Data Leakage Vulnerability Patched in OpenSSL](https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/)
+### 36. [Data Leakage Vulnerability Patched in OpenSSL](https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Apr 2026 15:37:48 +0000  
 
 ---
 
-### 33. [RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years](https://www.securityweek.com/rce-bug-lurked-in-apache-activemq-classic-for-13-years/)
+### 37. [RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years](https://www.securityweek.com/rce-bug-lurked-in-apache-activemq-classic-for-13-years/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Apr 2026 14:30:27 +0000  
 
 ---
 
-### 34. [FBI: Cybercrime Losses Neared $21 Billion in 2025](https://www.securityweek.com/fbi-cybercrime-losses-neared-21-billion-in-2025/)
+### 38. [FBI: Cybercrime Losses Neared $21 Billion in 2025](https://www.securityweek.com/fbi-cybercrime-losses-neared-21-billion-in-2025/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Apr 2026 13:32:53 +0000  
 
 ---
 
-### 35. [Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption](https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/)
+### 39. [Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption](https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Apr 2026 12:31:39 +0000  
 
 ---
 
-### 36. [Evasive Masjesu DDoS Botnet Targets IoT Devices](https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/)
+### 40. [Evasive Masjesu DDoS Botnet Targets IoT Devices](https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Apr 2026 11:49:44 +0000  
-
----
-
-### 37. [Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover](https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/)
-
-**Source:** Security Week  
-**Published:** Wed, 08 Apr 2026 11:20:23 +0000  
-
----
-
-### 38. [US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking](https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/)
-
-**Source:** Security Week  
-**Published:** Wed, 08 Apr 2026 10:54:14 +0000  
-
----
-
-### 39. [Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks](https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/)
-
-**Source:** Security Week  
-**Published:** Wed, 08 Apr 2026 02:57:56 +0000  
-
----
-
-### 40. [Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks](https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/)
-
-**Source:** Security Week  
-**Published:** Tue, 07 Apr 2026 18:39:56 +0000  
 
 ---
 
@@ -625,7 +624,16 @@
 
 ---
 
-### 71. [Your extensions leak clues about you, so we made sure Browser Guard doesn&#8217;t](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/04/your-extensions-leak-clues-about-you-so-we-made-sure-browser-guard-doesnt)
+### 71. [This fake Windows support website delivers password-stealing malware](https://www.malwarebytes.com/blog/scams/2026/04/this-fake-windows-support-website-delivers-password-stealing-malware)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 09 Apr 2026 09:40:52 GMT  
+**Severity:** High  
+**Categories:** Data Breach, Malware, Phishing  
+
+---
+
+### 72. [Your extensions leak clues about you, so we made sure Browser Guard doesn&#8217;t](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/04/your-extensions-leak-clues-about-you-so-we-made-sure-browser-guard-doesnt)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 08 Apr 2026 14:33:18 GMT  
@@ -634,7 +642,7 @@
 
 ---
 
-### 72. [Russian hacking group targets home and small office routers to spy on users](https://www.malwarebytes.com/blog/news/2026/04/russian-state-sponsored-hackers-hijack-home-and-small-office-routers-for-espionage)
+### 73. [Russian hacking group targets home and small office routers to spy on users](https://www.malwarebytes.com/blog/news/2026/04/russian-state-sponsored-hackers-hijack-home-and-small-office-routers-for-espionage)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 08 Apr 2026 13:31:25 GMT  
@@ -643,7 +651,7 @@
 
 ---
 
-### 73. [Timeshare owners warned to watch out for cartel-linked scams](https://www.malwarebytes.com/blog/scams/2026/04/timeshare-owners-warned-to-watch-out-for-cartel-linked-scams)
+### 74. [Timeshare owners warned to watch out for cartel-linked scams](https://www.malwarebytes.com/blog/scams/2026/04/timeshare-owners-warned-to-watch-out-for-cartel-linked-scams)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 08 Apr 2026 10:25:08 GMT  
@@ -652,7 +660,7 @@
 
 ---
 
-### 74. [Traffic violation scams swap links for QR codes to steal your card details](https://www.malwarebytes.com/blog/news/2026/04/traffic-violation-scams-swap-links-for-qr-codes-to-steal-your-card-details)
+### 75. [Traffic violation scams swap links for QR codes to steal your card details](https://www.malwarebytes.com/blog/news/2026/04/traffic-violation-scams-swap-links-for-qr-codes-to-steal-your-card-details)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 07 Apr 2026 11:57:37 GMT  
@@ -661,7 +669,7 @@
 
 ---
 
-### 75. [Support platform breach exposes Hims &amp; Hers customer data](https://www.malwarebytes.com/blog/data-breaches/2026/04/support-platform-breach-exposes-hims-hers-customer-data)
+### 76. [Support platform breach exposes Hims &amp; Hers customer data](https://www.malwarebytes.com/blog/data-breaches/2026/04/support-platform-breach-exposes-hims-hers-customer-data)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 07 Apr 2026 10:45:50 GMT  
@@ -670,7 +678,7 @@
 
 ---
 
-### 76. [A week in security (March 30 &#8211; April 5)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-march-30-april-5-2)
+### 77. [A week in security (March 30 &#8211; April 5)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-march-30-april-5-2)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 06 Apr 2026 07:01:00 GMT  
@@ -679,7 +687,7 @@
 
 ---
 
-### 77. [Killer robots are here. Now what? (Lock and Code S07E07)](https://www.malwarebytes.com/blog/podcast/2026/04/killer-robots-are-here-now-what-lock-and-code-s07e07)
+### 78. [Killer robots are here. Now what? (Lock and Code S07E07)](https://www.malwarebytes.com/blog/podcast/2026/04/killer-robots-are-here-now-what-lock-and-code-s07e07)
 
 **Source:** Malwarebytes  
 **Published:** Sun, 05 Apr 2026 23:10:20 GMT  
@@ -688,7 +696,7 @@
 
 ---
 
-### 78. [That dream job offer from Coca-Cola or Ferrari? It’s a trap for your passwords](https://www.malwarebytes.com/blog/threat-intel/2026/04/that-dream-job-offer-from-coca-cola-or-ferrari-its-a-trap-for-your-passwords)
+### 79. [That dream job offer from Coca-Cola or Ferrari? It’s a trap for your passwords](https://www.malwarebytes.com/blog/threat-intel/2026/04/that-dream-job-offer-from-coca-cola-or-ferrari-its-a-trap-for-your-passwords)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 03 Apr 2026 23:13:58 GMT  
@@ -697,21 +705,12 @@
 
 ---
 
-### 79. [Blocking children from social media is a badly executed good idea](https://www.malwarebytes.com/blog/news/2026/04/blocking-children-from-social-media-is-a-badly-executed-good-idea)
+### 80. [Blocking children from social media is a badly executed good idea](https://www.malwarebytes.com/blog/news/2026/04/blocking-children-from-social-media-is-a-badly-executed-good-idea)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 03 Apr 2026 14:37:52 GMT  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 80. [Apple expands “DarkSword” patches to iOS 18.7.7](https://www.malwarebytes.com/blog/news/2026/04/apple-expands-darksword-patches-to-ios-18-7-7)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 02 Apr 2026 14:13:44 GMT  
-**Severity:** Low  
-**Categories:** Data Breach, Vulnerability  
 
 ---
 

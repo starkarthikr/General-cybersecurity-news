@@ -189,6 +189,60 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Hackers exploiting Acrobat Reader zero-day flaw since December",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/",
+    "published": "Thu, 09 Apr 2026 05:22:35 -0400",
+    "summary": "Attackers have been exploiting a zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December. [...]",
+    "analysis": {
+      "issue": "Attackers have been exploiting a zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot",
+    "link": "https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/",
+    "published": "Thu, 09 Apr 2026 03:44:55 -0400",
+    "summary": "Bitcoin Depot, which operates one of the largest Bitcoin ATM networks, says attackers stole $3.665 million worth of Bitcoin from its crypto wallets after breaching its systems last month. [...]",
+    "analysis": {
+      "issue": "Bitcoin Depot, which operates one of the largest Bitcoin ATM networks, says attackers stole $3",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft suspends dev accounts for high-profile open source projects",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
+    "published": "Thu, 09 Apr 2026 02:46:26 -0400",
+    "summary": "Microsoft has suspended developer accounts used to maintain multiple high-profile open-source projects without proper notification and no way to quickly reinstate them, effectively blocking them from publishing new software builds and security patches for Windows users. [...]",
+    "analysis": {
+      "issue": "Microsoft has suspended developer accounts used to maintain multiple high-profile open-source projects without proper notification and no way to quickly reinstate them, effectively blocking them from publishing new software builds and security patche",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Hackers use pixel-large SVG trick to hide credit card stealer",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
     "published": "Wed, 08 Apr 2026 18:34:26 -0400",
@@ -255,8 +309,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-1340",
-        "CVE-2026-1281"
+        "CVE-2026-1281",
+        "CVE-2026-1340"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -316,65 +370,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit critical flaw in Ninja Forms WordPress plugin",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/",
-    "published": "Tue, 07 Apr 2026 18:03:01 -0400",
-    "summary": "A critical vulnerability in the Ninja Forms File Uploads premium add-on for WordPress allows uploading arbitrary files without authentication, which can lead to remote code execution. [...]",
-    "analysis": {
-      "issue": "A critical vulnerability in the Ninja Forms File Uploads premium add-on for WordPress allows uploading arbitrary files without authentication, which can lead to remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-0740"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI: Americans lost a record $21 billion to cybercrime last year",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/",
-    "published": "Tue, 07 Apr 2026 16:41:52 -0400",
-    "summary": "U.S. victims lost nearly $21 billion to cyber-enabled crimes last year, driven primarily by investment scams, business email compromise, tech support fraud, and data breaches, the Federal Bureau of Investigation says. [...]",
-    "analysis": {
-      "issue": "victims lost nearly $21 billion to cyber-enabled crimes last year, driven primarily by investment scams, business email compromise, tech support fraud, and data breaches, the Federal Bureau of Investigation says",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Snowflake customers hit in data theft attacks after SaaS integrator breach",
-    "link": "https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/",
-    "published": "Tue, 07 Apr 2026 15:39:18 -0400",
-    "summary": "Over a dozen companies have suffered data theft attacks after a SaaS integration provider was breached and authentication tokens stolen. [...]",
-    "analysis": {
-      "issue": "Over a dozen companies have suffered data theft attacks after a SaaS integration provider was breached and authentication tokens stolen",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
       ]
     }
   },
@@ -487,14 +482,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-26127",
         "CVE-2026-25187",
-        "CVE-2026-26113",
         "CVE-2026-21262",
-        "CVE-2026-26110",
+        "CVE-2026-24291",
+        "CVE-2026-26113",
         "CVE-2026-24289",
         "CVE-2026-24294",
-        "CVE-2026-26127",
-        "CVE-2026-24291"
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -580,6 +575,34 @@
   },
   {
     "source": "Security Week",
+    "title": "Google Warns of New Campaign Targeting BPOs to Steal Corporate Data",
+    "link": "https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/",
+    "published": "Thu, 09 Apr 2026 09:44:56 +0000",
+    "summary": "<p>Tracked as UNC6783, the threat actor is likely linked to Mr. Raccoon, the hacker behind the alleged theft of Adobe data from a BPO.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/\">Google Warns of New Campaign Targeting BPOs to Steal Corporate Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Adobe Reader Zero-Day Exploited for Months: Researcher",
+    "link": "https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/",
+    "published": "Thu, 09 Apr 2026 08:44:51 +0000",
+    "summary": "<p>Reputable researcher Haifei Li has come across what appears to be a PDF designed to exploit an unpatched vulnerability.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/\">Adobe Reader Zero-Day Exploited for Months: Researcher</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "300,000 People Impacted by Eurail Data Breach",
+    "link": "https://www.securityweek.com/300000-people-impacted-by-eurail-data-breach/",
+    "published": "Thu, 09 Apr 2026 08:28:05 +0000",
+    "summary": "<p>In December 2025, hackers stole names and passport numbers from the European travel company’s network.</p>\n<p>The post <a href=\"https://www.securityweek.com/300000-people-impacted-by-eurail-data-breach/\">300,000 People Impacted by Eurail Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "$3.6 Million Stolen in Bitcoin Depot Hack",
+    "link": "https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/",
+    "published": "Thu, 09 Apr 2026 06:41:40 +0000",
+    "summary": "<p>A hacker transferred more than 50 bitcoin from the Bitcoin ATM operator’s wallets after stealing credentials. </p>\n<p>The post <a href=\"https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/\">$3.6 Million Stolen in Bitcoin Depot Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long",
     "link": "https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/",
     "published": "Thu, 09 Apr 2026 01:22:35 +0000",
@@ -619,34 +642,6 @@
     "link": "https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/",
     "published": "Wed, 08 Apr 2026 11:49:44 +0000",
     "summary": "<p>Focused on persistence, the botnet does not engage in widespread infection and avoids blacklisted IPs and critical infrastructure entities.</p>\n<p>The post <a href=\"https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/\">Evasive Masjesu DDoS Botnet Targets IoT Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover",
-    "link": "https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/",
-    "published": "Wed, 08 Apr 2026 11:20:23 +0000",
-    "summary": "<p>The vulnerability allows hackers to upload arbitrary files to a site’s server and achieve remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/\">Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking",
-    "link": "https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/",
-    "published": "Wed, 08 Apr 2026 10:54:14 +0000",
-    "summary": "<p>The APT28 threat group exploited vulnerable TP-Link and MikroTik routers to conduct adversary-in-the-middle (AitM) attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/\">US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks",
-    "link": "https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/",
-    "published": "Wed, 08 Apr 2026 02:57:56 +0000",
-    "summary": "<p>Federal agencies warn attackers are manipulating PLC and SCADA systems across multiple sectors, triggering operational disruptions and raising concerns over broader OT targeting.</p>\n<p>The post <a href=\"https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/\">Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks",
-    "link": "https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/",
-    "published": "Tue, 07 Apr 2026 18:39:56 +0000",
-    "summary": "<p>New AI model drives Project Glasswing, a effort to secure critical software before advanced capabilities fall into the wrong hands.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/\">Anthropic Unveils ‘Claude Mythos’ &#8211; A Cybersecurity Breakthrough That Could Also Supercharge Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -1217,6 +1212,26 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "This fake Windows support website delivers password-stealing malware",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/04/this-fake-windows-support-website-delivers-password-stealing-malware",
+    "published": "Thu, 09 Apr 2026 09:40:52 GMT",
+    "summary": "A convincing Microsoft lookalike tricks users into downloading malware that steals passwords, payments, and account access.",
+    "analysis": {
+      "issue": "A fake Microsoft support website is tricking people into downloading what looks like a normal Windows update",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Your extensions leak clues about you, so we made sure Browser Guard doesn&#8217;t",
     "link": "https://www.malwarebytes.com/blog/inside-malwarebytes/2026/04/your-extensions-leak-clues-about-you-so-we-made-sure-browser-guard-doesnt",
     "published": "Wed, 08 Apr 2026 14:33:18 GMT",
@@ -1379,25 +1394,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Apple expands “DarkSword” patches to iOS 18.7.7",
-    "link": "https://www.malwarebytes.com/blog/news/2026/04/apple-expands-darksword-patches-to-ios-18-7-7",
-    "published": "Thu, 02 Apr 2026 14:13:44 GMT",
-    "summary": "Apple has quietly expanded patches against the vulnerabilities in the DarkSword exploit kit to include iOS and iPadOS 18.7.7",
-    "analysis": {
-      "issue": "Apple widened its latest iOS 18 security update to cover far more iPhones and iPads, specifically to stop real‑world DarkSword attacks that can compromise a device from a single website visit",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
       ]
     }
   },
