@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-08 17:40:21 UTC
+**Last Updated:** 2026-04-09 02:50:22 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices](https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html)
+### 1. [New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy](https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 08 Apr 2026 23:21:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices](https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 22:00:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies](https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html)
+### 3. [APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies](https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 19:20:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html)
+### 4. [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 17:00:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems](https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html)
+### 5. [Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems](https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 14:46:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust](https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html)
+### 6. [N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust](https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 13:17:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs](https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html)
+### 7. [Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs](https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 09:53:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign](https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html)
+### 8. [Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign](https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 22:18:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html)
+### 9. [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 21:59:00 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access](https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html)
+### 10. [Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access](https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 07 Apr 2026 20:45:00 +0530  
@@ -86,16 +95,44 @@
 
 ---
 
-### 10. [Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign](https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html)
+### 11. [Hackers use pixel-large SVG trick to hide credit card stealer](https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 07 Apr 2026 18:16:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 08 Apr 2026 18:34:26 -0400  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 11. [13-year-old bug in ActiveMQ lets hackers remotely execute commands](https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/)
+### 12. [Google: New UNC6783 hackers steal corporate Zendesk support tickets](https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 08 Apr 2026 17:46:27 -0400  
+**Severity:** High  
+**Categories:** Phishing  
+
+---
+
+### 13. [New macOS stealer campaign uses Script Editor in ClickFix attack](https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 08 Apr 2026 14:55:43 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 14. [CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 08 Apr 2026 14:15:27 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-1281, CVE-2026-1340  
+**Categories:** Vulnerability  
+
+---
+
+### 15. [13-year-old bug in ActiveMQ lets hackers remotely execute commands](https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Apr 2026 13:26:40 -0400  
@@ -105,7 +142,7 @@
 
 ---
 
-### 12. [Is a $30,000 GPU Good at Password Cracking?](https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/)
+### 16. [Is a $30,000 GPU Good at Password Cracking?](https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Apr 2026 10:00:10 -0400  
@@ -114,7 +151,7 @@
 
 ---
 
-### 13. [Microsoft rolls out fix for broken Windows Start Menu search](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/)
+### 17. [Microsoft rolls out fix for broken Windows Start Menu search](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Apr 2026 03:00:55 -0400  
@@ -123,7 +160,7 @@
 
 ---
 
-### 14. [Hackers exploit critical flaw in Ninja Forms WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/)
+### 18. [Hackers exploit critical flaw in Ninja Forms WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Apr 2026 18:03:01 -0400  
@@ -133,7 +170,7 @@
 
 ---
 
-### 15. [FBI: Americans lost a record $21 billion to cybercrime last year](https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/)
+### 19. [FBI: Americans lost a record $21 billion to cybercrime last year](https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Apr 2026 16:41:52 -0400  
@@ -142,49 +179,12 @@
 
 ---
 
-### 16. [Snowflake customers hit in data theft attacks after SaaS integrator breach](https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/)
+### 20. [Snowflake customers hit in data theft attacks after SaaS integrator breach](https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 07 Apr 2026 15:39:18 -0400  
 **Severity:** High  
 **Categories:** Vulnerability, Supply Chain  
-
----
-
-### 17. [US warns of Iranian hackers targeting critical infrastructure](https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 07 Apr 2026 14:02:26 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability, APT  
-
----
-
-### 18. [Max severity Flowise RCE vulnerability now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 07 Apr 2026 13:02:05 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2025-59528  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins](https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 07 Apr 2026 11:51:22 -0400  
-**Severity:** Low  
-**Categories:** APT  
-
----
-
-### 20. [Why Your Automated Pentesting Tool Just Hit a Wall](https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 07 Apr 2026 10:01:11 -0400  
-**Severity:** Critical  
-**Categories:** General Security  
 
 ---
 
@@ -238,7 +238,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24291, CVE-2026-21262, CVE-2026-26127, CVE-2026-26113, CVE-2026-24294, CVE-2026-25187, CVE-2026-26110, CVE-2026-24289  
+**CVEs:** CVE-2026-24291, CVE-2026-26110, CVE-2026-26127, CVE-2026-24294, CVE-2026-26113, CVE-2026-21262, CVE-2026-24289, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,73 +279,73 @@
 
 ---
 
-### 31. [Data Leakage Vulnerability Patched in OpenSSL](https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/)
+### 31. [Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long](https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/)
+
+**Source:** Security Week  
+**Published:** Thu, 09 Apr 2026 01:22:35 +0000  
+
+---
+
+### 32. [Data Leakage Vulnerability Patched in OpenSSL](https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Apr 2026 15:37:48 +0000  
 
 ---
 
-### 32. [RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years](https://www.securityweek.com/rce-bug-lurked-in-apache-activemq-classic-for-13-years/)
+### 33. [RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years](https://www.securityweek.com/rce-bug-lurked-in-apache-activemq-classic-for-13-years/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Apr 2026 14:30:27 +0000  
 
 ---
 
-### 33. [FBI: Cybercrime Losses Neared $21 Billion in 2025](https://www.securityweek.com/fbi-cybercrime-losses-neared-21-billion-in-2025/)
+### 34. [FBI: Cybercrime Losses Neared $21 Billion in 2025](https://www.securityweek.com/fbi-cybercrime-losses-neared-21-billion-in-2025/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Apr 2026 13:32:53 +0000  
 
 ---
 
-### 34. [Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption](https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/)
+### 35. [Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption](https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Apr 2026 12:31:39 +0000  
 
 ---
 
-### 35. [Evasive Masjesu DDoS Botnet Targets IoT Devices](https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/)
+### 36. [Evasive Masjesu DDoS Botnet Targets IoT Devices](https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Apr 2026 11:49:44 +0000  
 
 ---
 
-### 36. [Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover](https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/)
+### 37. [Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover](https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Apr 2026 11:20:23 +0000  
 
 ---
 
-### 37. [US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking](https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/)
+### 38. [US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking](https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Apr 2026 10:54:14 +0000  
 
 ---
 
-### 38. [Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks](https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/)
+### 39. [Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks](https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 08 Apr 2026 02:57:56 +0000  
 
 ---
 
-### 39. [Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks](https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/)
+### 40. [Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks](https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 07 Apr 2026 18:39:56 +0000  
-
----
-
-### 40. [The New Rules of Engagement: Matching Agentic Attack Speed](https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/)
-
-**Source:** Security Week  
-**Published:** Tue, 07 Apr 2026 16:40:52 +0000  
 
 ---
 
@@ -610,7 +610,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
