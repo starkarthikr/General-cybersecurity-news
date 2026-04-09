@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-09 13:57:29 UTC
+**Last Updated:** 2026-04-09 17:37:13 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html)
+### 1. [UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns](https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 09 Apr 2026 21:53:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 2. [ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 18:27:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [The Hidden Security Risks of Shadow AI in Enterprises](https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html)
+### 3. [The Hidden Security Risks of Shadow AI in Enterprises](https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 17:01:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025](https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html)
+### 4. [Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025](https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 16:45:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region](https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html)
+### 5. [Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region](https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 16:10:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy](https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html)
+### 6. [New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy](https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 23:21:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices](https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html)
+### 7. [Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices](https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 22:00:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies](https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html)
+### 8. [APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies](https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 19:20:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html)
+### 9. [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 17:00:00 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems](https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html)
+### 10. [Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems](https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 14:46:00 +0530  
@@ -85,16 +94,25 @@
 
 ---
 
-### 10. [N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust](https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html)
+### 11. [Smart Slider updates hijacked to push malicious WordPress, Joomla versions](https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 08 Apr 2026 13:17:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 09 Apr 2026 12:15:26 -0400  
 **Severity:** Low  
-**Categories:** Supply Chain  
+**Categories:** Malware, Phishing  
 
 ---
 
-### 11. [Webinar: From noise to signal - What threat actors are targeting next](https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/)
+### 12. [When attackers already have the keys, MFA is just another door to open](https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 09 Apr 2026 10:02:12 -0400  
+**Severity:** Critical  
+**Categories:** Data Breach, Vulnerability  
+
+---
+
+### 13. [Webinar: From noise to signal - What threat actors are targeting next](https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Apr 2026 08:20:28 -0400  
@@ -103,7 +121,7 @@
 
 ---
 
-### 12. [Eurail says December data breach impacts 300,000 individuals](https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/)
+### 14. [Eurail says December data breach impacts 300,000 individuals](https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Apr 2026 06:31:54 -0400  
@@ -112,7 +130,7 @@
 
 ---
 
-### 13. [Hackers exploiting Acrobat Reader zero-day flaw since December](https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/)
+### 15. [Hackers exploiting Acrobat Reader zero-day flaw since December](https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Apr 2026 05:22:35 -0400  
@@ -121,7 +139,7 @@
 
 ---
 
-### 14. [Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot](https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/)
+### 16. [Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot](https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Apr 2026 03:44:55 -0400  
@@ -130,7 +148,7 @@
 
 ---
 
-### 15. [Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)
+### 17. [Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Apr 2026 02:46:26 -0400  
@@ -139,7 +157,7 @@
 
 ---
 
-### 16. [Hackers use pixel-large SVG trick to hide credit card stealer](https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/)
+### 18. [Hackers use pixel-large SVG trick to hide credit card stealer](https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Apr 2026 18:34:26 -0400  
@@ -148,7 +166,7 @@
 
 ---
 
-### 17. [Google: New UNC6783 hackers steal corporate Zendesk support tickets](https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/)
+### 19. [Google: New UNC6783 hackers steal corporate Zendesk support tickets](https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Apr 2026 17:46:27 -0400  
@@ -157,32 +175,12 @@
 
 ---
 
-### 18. [New macOS stealer campaign uses Script Editor in ClickFix attack](https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/)
+### 20. [New macOS stealer campaign uses Script Editor in ClickFix attack](https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 08 Apr 2026 14:55:43 -0400  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 19. [CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 08 Apr 2026 14:15:27 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-1281, CVE-2026-1340  
-**Categories:** Vulnerability  
-
----
-
-### 20. [13-year-old bug in ActiveMQ lets hackers remotely execute commands](https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 08 Apr 2026 13:26:40 -0400  
-**Severity:** High  
-**CVEs:** CVE-2026-34197  
-**Categories:** Vulnerability  
 
 ---
 
@@ -236,7 +234,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26110, CVE-2026-24294, CVE-2026-26113, CVE-2026-25187, CVE-2026-21262, CVE-2026-26127, CVE-2026-24289, CVE-2026-24291  
+**CVEs:** CVE-2026-26113, CVE-2026-24291, CVE-2026-24294, CVE-2026-25187, CVE-2026-24289, CVE-2026-26127, CVE-2026-21262, CVE-2026-26110  
 **Categories:** Vulnerability, DDoS  
 
 ---
