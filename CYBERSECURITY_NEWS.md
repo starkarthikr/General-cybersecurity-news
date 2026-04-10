@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-09 17:37:13 UTC
+**Last Updated:** 2026-04-10 03:21:31 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns](https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html)
+### 1. [EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallets](https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 09 Apr 2026 22:56:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns](https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 21:53:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html)
+### 3. [ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 18:27:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [The Hidden Security Risks of Shadow AI in Enterprises](https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html)
+### 4. [The Hidden Security Risks of Shadow AI in Enterprises](https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 17:01:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025](https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html)
+### 5. [Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025](https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 16:45:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region](https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html)
+### 6. [Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region](https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 16:10:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy](https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html)
+### 7. [New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy](https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 23:21:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices](https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html)
+### 8. [Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices](https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 22:00:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies](https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html)
+### 9. [APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies](https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 19:20:00 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html)
+### 10. [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 17:00:00 +0530  
@@ -85,16 +94,43 @@
 
 ---
 
-### 10. [Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems](https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html)
+### 11. [New ‘LucidRook’ malware used in targeted attacks on NGOs, universities](https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 08 Apr 2026 14:46:00 +0530  
-**Severity:** Critical  
-**Categories:** Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Thu, 09 Apr 2026 18:04:31 -0400  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
 
 ---
 
-### 11. [Smart Slider updates hijacked to push malicious WordPress, Joomla versions](https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/)
+### 12. [New VENOM phishing attacks steal senior executives' Microsoft logins](https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 09 Apr 2026 17:37:04 -0400  
+**Severity:** High  
+**Categories:** Phishing  
+
+---
+
+### 13. [Healthcare IT solutions provider ChipSoft hit by ransomware attack](https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 09 Apr 2026 15:46:44 -0400  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 14. [Google Chrome adds infostealer protection against session cookie theft](https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 09 Apr 2026 14:33:29 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 15. [Smart Slider updates hijacked to push malicious WordPress, Joomla versions](https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Apr 2026 12:15:26 -0400  
@@ -103,7 +139,7 @@
 
 ---
 
-### 12. [When attackers already have the keys, MFA is just another door to open](https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/)
+### 16. [When attackers already have the keys, MFA is just another door to open](https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Apr 2026 10:02:12 -0400  
@@ -112,7 +148,7 @@
 
 ---
 
-### 13. [Webinar: From noise to signal - What threat actors are targeting next](https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/)
+### 17. [Webinar: From noise to signal - What threat actors are targeting next](https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Apr 2026 08:20:28 -0400  
@@ -121,7 +157,7 @@
 
 ---
 
-### 14. [Eurail says December data breach impacts 300,000 individuals](https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/)
+### 18. [Eurail says December data breach impacts 300,000 individuals](https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Apr 2026 06:31:54 -0400  
@@ -130,7 +166,7 @@
 
 ---
 
-### 15. [Hackers exploiting Acrobat Reader zero-day flaw since December](https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/)
+### 19. [Hackers exploiting Acrobat Reader zero-day flaw since December](https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Apr 2026 05:22:35 -0400  
@@ -139,48 +175,12 @@
 
 ---
 
-### 16. [Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot](https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/)
+### 20. [Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot](https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Apr 2026 03:44:55 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 17. [Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 09 Apr 2026 02:46:26 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 18. [Hackers use pixel-large SVG trick to hide credit card stealer](https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 08 Apr 2026 18:34:26 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 19. [Google: New UNC6783 hackers steal corporate Zendesk support tickets](https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 08 Apr 2026 17:46:27 -0400  
-**Severity:** High  
-**Categories:** Phishing  
-
----
-
-### 20. [New macOS stealer campaign uses Script Editor in ClickFix attack](https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 08 Apr 2026 14:55:43 -0400  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -234,7 +234,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-24291, CVE-2026-24294, CVE-2026-25187, CVE-2026-24289, CVE-2026-26127, CVE-2026-21262, CVE-2026-26110  
+**CVEs:** CVE-2026-26110, CVE-2026-26113, CVE-2026-24294, CVE-2026-21262, CVE-2026-24289, CVE-2026-26127, CVE-2026-24291, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -345,7 +345,16 @@
 
 ---
 
-### 41. [From the field to the report and back again: How incident responders can use the Year in Review](https://blog.talosintelligence.com/from-the-field-to-the-report-and-back-again-how-incident-responders-can-use-the-year-in-review/)
+### 41. [The threat hunter’s gambit](https://blog.talosintelligence.com/the-threat-hunters-gambit/)
+
+**Source:** Talos Blog  
+**Published:** Thu, 09 Apr 2026 18:00:20 GMT  
+**Severity:** Critical  
+**Categories:** Vulnerability, APT, Supply Chain  
+
+---
+
+### 42. [From the field to the report and back again: How incident responders can use the Year in Review](https://blog.talosintelligence.com/from-the-field-to-the-report-and-back-again-how-incident-responders-can-use-the-year-in-review/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 09 Apr 2026 10:00:03 GMT  
@@ -354,7 +363,7 @@
 
 ---
 
-### 42. [New Lua-based malware “LucidRook” observed in targeted attacks against Taiwanese organizations](https://blog.talosintelligence.com/new-lua-based-malware-lucidrook/)
+### 43. [New Lua-based malware “LucidRook” observed in targeted attacks against Taiwanese organizations](https://blog.talosintelligence.com/new-lua-based-malware-lucidrook/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 08 Apr 2026 10:00:55 GMT  
@@ -363,7 +372,7 @@
 
 ---
 
-### 43. [Talos Takes: 2025's ransomware trends and zombie vulnerabilities](https://blog.talosintelligence.com/talos-takes-2025s-ransomware-trends-and-zombie-vulnerabilities/)
+### 44. [Talos Takes: 2025's ransomware trends and zombie vulnerabilities](https://blog.talosintelligence.com/talos-takes-2025s-ransomware-trends-and-zombie-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 07 Apr 2026 12:03:13 GMT  
@@ -372,7 +381,7 @@
 
 ---
 
-### 44. [The Trojan horse of cybercrime: Weaponizing SaaS notification pipelines](https://blog.talosintelligence.com/weaponizing-saas-notification-pipelines/)
+### 45. [The Trojan horse of cybercrime: Weaponizing SaaS notification pipelines](https://blog.talosintelligence.com/weaponizing-saas-notification-pipelines/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 07 Apr 2026 10:00:35 GMT  
@@ -381,7 +390,7 @@
 
 ---
 
-### 45. [Year in Review: Vulnerabilities old and new and something React2](https://blog.talosintelligence.com/year-in-review-vulnerabilities-old-and-new-and-something-react2/)
+### 46. [Year in Review: Vulnerabilities old and new and something React2](https://blog.talosintelligence.com/year-in-review-vulnerabilities-old-and-new-and-something-react2/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 07 Apr 2026 10:00:11 GMT  
@@ -390,7 +399,7 @@
 
 ---
 
-### 46. [Do not get high(jacked) off your own supply (chain)](https://blog.talosintelligence.com/protecting-supply-chain-2026/)
+### 47. [Do not get high(jacked) off your own supply (chain)](https://blog.talosintelligence.com/protecting-supply-chain-2026/)
 
 **Source:** Talos Blog  
 **Published:** Fri, 03 Apr 2026 17:31:42 GMT  
@@ -399,7 +408,7 @@
 
 ---
 
-### 47. [Axios NPM supply chain incident](https://blog.talosintelligence.com/axois-npm-supply-chain-incident/)
+### 48. [Axios NPM supply chain incident](https://blog.talosintelligence.com/axois-npm-supply-chain-incident/)
 
 **Source:** Talos Blog  
 **Published:** Fri, 03 Apr 2026 17:00:22 GMT  
@@ -408,7 +417,7 @@
 
 ---
 
-### 48. [The democratisation of business email compromise fraud](https://blog.talosintelligence.com/the-democratisation-of-business-email-compromise-fraud/)
+### 49. [The democratisation of business email compromise fraud](https://blog.talosintelligence.com/the-democratisation-of-business-email-compromise-fraud/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Apr 2026 18:00:20 GMT  
@@ -417,22 +426,12 @@
 
 ---
 
-### 49. [[Video] The TTP Ep 21: When Attackers Become Trusted Users](https://blog.talosintelligence.com/video-the-ttp-ep-21-when-attackers-become-trusted-users/)
+### 50. [[Video] The TTP Ep 21: When Attackers Become Trusted Users](https://blog.talosintelligence.com/video-the-ttp-ep-21-when-attackers-become-trusted-users/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 02 Apr 2026 13:06:45 GMT  
 **Severity:** High  
 **Categories:** Vulnerability, Phishing  
-
----
-
-### 50. [UAT-10608: Inside a large-scale automated credential harvesting operation targeting web applications](https://blog.talosintelligence.com/uat-10608-inside-a-large-scale-automated-credential-harvesting-operation-targeting-web-applications/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 02 Apr 2026 10:00:57 GMT  
-**Severity:** Low  
-**CVEs:** CVE-2025-55182  
-**Categories:** Vulnerability  
 
 ---
 
@@ -481,7 +480,14 @@
 
 ---
 
-### 56. [Industrialization of the Fraud Ecosystem Blog](https://www.recordedfuture.com/blog/industrialization-of-the-fraud-ecosystem-blog)
+### 56. [Panorama del cibercrimen en América Latina y el Caribe](https://www.recordedfuture.com/research/latin-america-and-the-caribbean-cybercrime-landscape-pt)
+
+**Source:** Recorded Future  
+**Published:** Thu, 02 Apr 2026 00:00:00 GMT  
+
+---
+
+### 57. [Industrialization of the Fraud Ecosystem Blog](https://www.recordedfuture.com/blog/industrialization-of-the-fraud-ecosystem-blog)
 
 **Source:** Recorded Future  
 **Published:** Wed, 01 Apr 2026 00:00:00 GMT  
@@ -490,7 +496,7 @@
 
 ---
 
-### 57. [The Shift: An Era of Quantum Geopolitics](https://www.recordedfuture.com/blog/the-shift-an-era-of-quantum-geopolitics)
+### 58. [The Shift: An Era of Quantum Geopolitics](https://www.recordedfuture.com/blog/the-shift-an-era-of-quantum-geopolitics)
 
 **Source:** Recorded Future  
 **Published:** Wed, 01 Apr 2026 00:00:00 GMT  
@@ -499,7 +505,7 @@
 
 ---
 
-### 58. [ClickFix Campaigns Targeting Windows and macOS](https://www.recordedfuture.com/research/clickfix-campaigns-targeting-windows-and-macos)
+### 59. [ClickFix Campaigns Targeting Windows and macOS](https://www.recordedfuture.com/research/clickfix-campaigns-targeting-windows-and-macos)
 
 **Source:** Recorded Future  
 **Published:** Wed, 25 Mar 2026 00:00:00 GMT  
@@ -508,21 +514,12 @@
 
 ---
 
-### 59. [2025 Year in Review: Malicious, Infrastructure](https://www.recordedfuture.com/research/2025-year-in-review-malicious-infrastructure)
+### 60. [2025 Year in Review: Malicious, Infrastructure](https://www.recordedfuture.com/research/2025-year-in-review-malicious-infrastructure)
 
 **Source:** Recorded Future  
 **Published:** Thu, 19 Mar 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 60. [2025 Identity Threat Landscape Report: Inside the Infostealer Economy: Credential Threats in 2025](https://www.recordedfuture.com/blog/identity-trend-report-march-blog)
-
-**Source:** Recorded Future  
-**Published:** Mon, 16 Mar 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
