@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
+    "link": "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html",
+    "published": "Fri, 10 Apr 2026 16:30:00 +0530",
+    "summary": "While&nbsp;much of the discussion on AI security centers around protecting&nbsp;‘shadow’ AI and GenAI consumption, there's a wide-open&nbsp;window nobody's guarding: AI browser extensions.&nbsp;\nA&nbsp;new report from LayerX&nbsp;exposes just how deep this blind spot goes, and why AI extensions may be the most dangerous AI threat surface in your network&nbsp;that isn't&nbsp;on anyone's&nbsp;",
+    "analysis": {
+      "issue": "AI browser extensions increase enterprise risk with 60% higher vulnerabilities, bypassing DLP controls and exposing sensitive data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows",
     "link": "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html",
     "published": "Fri, 10 Apr 2026 13:28:00 +0530",
@@ -14,6 +32,27 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
+    "link": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html",
+    "published": "Fri, 10 Apr 2026 13:07:00 +0530",
+    "summary": "A critical security vulnerability&nbsp;in Marimo, an open-source Python notebook for data science and analysis, has been exploited within 10 hours of public disclosure, according&nbsp;to findings from&nbsp;Sysdig.\nThe vulnerability in question&nbsp;is CVE-2026-39987 (CVSS score: 9.3), a pre-authenticated remote code execution vulnerability impacting all versions of Marimo prior to and including",
+    "analysis": {
+      "issue": "Marimo CVE-2026-39987 exploited within 10 hours of disclosure, enabling unauthenticated RCE and credential theft, emphasizing urgent patching needs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-39987"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
       ]
     }
   },
@@ -145,39 +184,58 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
-    "link": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
-    "published": "Wed, 08 Apr 2026 23:21:00 +0530",
-    "summary": "Cybersecurity researchers have flagged a new variant&nbsp;ofmalware&nbsp;called Chaosthat'scapable of&nbsp;hitting misconfigured cloud deployments, marking an expansion of the botnet's targeting infrastructure.\n\"Chaos malware is increasingly targeting misconfigured cloud deployments, expanding beyond its traditional focus on routers and edge devices,\"&nbsp;Darktrace said in a new&nbsp;report.",
+    "source": "Bleeping Computer",
+    "title": "Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor",
+    "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
+    "published": "Fri, 10 Apr 2026 09:12:42 -0400",
+    "summary": "Hackers gained access to an API for the CPUID project and changed the download links on the official website to serve malicious executables for the popular CPU-Z and HWMonitor tools. [...]",
     "analysis": {
-      "issue": "Chaos malware targets misconfigured cloud deployments, detected by Darktrace in 2025, expanding botnet monetization via proxy services",
+      "issue": "Hackers gained access to an API for the CPUID project and changed the download links on the official website to serve malicious executables for the popular CPU-Z and HWMonitor tools",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Malware",
+        "Supply Chain"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices",
-    "link": "https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html",
-    "published": "Wed, 08 Apr 2026 22:00:00 +0530",
-    "summary": "Cybersecurity researchers have lifted the curtain on a stealthy botnet that's designed for distributed denial-of-service (DDoS)&nbsp;attacks.\nCalled Masjesu, the botnet has been advertised via Telegram as a DDoS-for-hire service since it first surfaced in 2023. It's capable of targeting a wide range of IoT devices, such as routers and gateways, spanning multiple architectures.\n\"Built for",
+    "source": "Bleeping Computer",
+    "title": "Microsoft: Canadian employees targeted in payroll pirate attacks",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
+    "published": "Fri, 10 Apr 2026 07:56:14 -0400",
+    "summary": "A financially motivated threat actor tracked as Storm-2755 is stealing Canadian employees' salary payments after hijacking their accounts in payroll pirate attacks. [...]",
     "analysis": {
-      "issue": "Masjesu botnet drives global DDoS attacks since 2023, with nearly 50% traffic from Vietnam, threatening enterprises and IoT devices",
+      "issue": "A financially motivated threat actor tracked as Storm-2755 is stealing Canadian employees' salary payments after hijacking their accounts in payroll pirate attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "DDoS"
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Google rolls out Gmail end-to-end encryption on mobile devices",
+    "link": "https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/",
+    "published": "Fri, 10 Apr 2026 06:44:08 -0400",
+    "summary": "Google says Gmail end-to-end encryption (E2EE) is now available on all Android and iOS devices, allowing enterprise users to read and compose emails without additional tools. [...]",
+    "analysis": {
+      "issue": "Google says Gmail end-to-end encryption (E2EE) is now available on all Android and iOS devices, allowing enterprise users to read and compose emails without additional tools",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -311,60 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Eurail says December data breach impacts 300,000 individuals",
-    "link": "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/",
-    "published": "Thu, 09 Apr 2026 06:31:54 -0400",
-    "summary": "Eurail B.V., a European travel operator that provides digital passes covering 33 national railways, says attackers stole the personal information of over 300,000 individuals in a December 2025 data breach. [...]",
-    "analysis": {
-      "issue": ", a European travel operator that provides digital passes covering 33 national railways, says attackers stole the personal information of over 300,000 individuals in a December 2025 data breach",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploiting Acrobat Reader zero-day flaw since December",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/",
-    "published": "Thu, 09 Apr 2026 05:22:35 -0400",
-    "summary": "Attackers have been exploiting a zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December. [...]",
-    "analysis": {
-      "issue": "Attackers have been exploiting a zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot",
-    "link": "https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/",
-    "published": "Thu, 09 Apr 2026 03:44:55 -0400",
-    "summary": "Bitcoin Depot, which operates one of the largest Bitcoin ATM networks, says attackers stole $3.665 million worth of Bitcoin from its crypto wallets after breaching its systems last month. [...]",
-    "analysis": {
-      "issue": "Bitcoin Depot, which operates one of the largest Bitcoin ATM networks, says attackers stole $3",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
     "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
@@ -473,14 +477,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21262",
-        "CVE-2026-24289",
-        "CVE-2026-26110",
-        "CVE-2026-26113",
-        "CVE-2026-24291",
         "CVE-2026-24294",
+        "CVE-2026-24289",
+        "CVE-2026-25187",
+        "CVE-2026-24291",
+        "CVE-2026-26113",
+        "CVE-2026-21262",
         "CVE-2026-26127",
-        "CVE-2026-25187"
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -566,6 +570,34 @@
   },
   {
     "source": "Security Week",
+    "title": "Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday",
+    "link": "https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/",
+    "published": "Fri, 10 Apr 2026 12:41:08 +0000",
+    "summary": "<p>The US government has warned that Iran-linked hackers are manipulating PLCs and SCADA systems to cause disruption.</p>\n<p>The post <a href=\"https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/\">Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Orthanc DICOM Vulnerabilities Lead to Crashes, RCE",
+    "link": "https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/",
+    "published": "Fri, 10 Apr 2026 11:53:45 +0000",
+    "summary": "<p>Attackers could exploit these vulnerabilities in denial-of-service, information disclosure, and arbitrary code execution attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/\">Orthanc DICOM Vulnerabilities Lead to Crashes, RCE</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000",
+    "link": "https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/",
+    "published": "Fri, 10 Apr 2026 10:44:45 +0000",
+    "summary": "<p>The critical vulnerabilities affect Chrome’s WebML component and they have been reported by anonymous researchers.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/\">Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "MITRE Releases Fight Fraud Framework",
+    "link": "https://www.securityweek.com/mitre-releases-fight-fraud-framework/",
+    "published": "Fri, 10 Apr 2026 09:51:03 +0000",
+    "summary": "<p>The document provides a behavior-based model of the tactics and techniques employed by fraudsters.</p>\n<p>The post <a href=\"https://www.securityweek.com/mitre-releases-fight-fraud-framework/\">MITRE Releases Fight Fraud Framework</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Critical Marimo Flaw Exploited Hours After Public Disclosure",
     "link": "https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/",
     "published": "Fri, 10 Apr 2026 09:12:48 +0000",
@@ -605,34 +637,6 @@
     "link": "https://www.securityweek.com/google-api-keys-in-android-apps-expose-gemini-endpoints-to-unauthorized-access/",
     "published": "Thu, 09 Apr 2026 12:26:50 +0000",
     "summary": "<p>Dozens of such keys can be extracted from apps’ decompiled code to gain access to all Gemini endpoints.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-api-keys-in-android-apps-expose-gemini-endpoints-to-unauthorized-access/\">Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities",
-    "link": "https://www.securityweek.com/palo-alto-networks-sonicwall-patch-high-severity-vulnerabilities/",
-    "published": "Thu, 09 Apr 2026 11:58:52 +0000",
-    "summary": "<p>The bugs could allow attackers to modify protected resources and escalate their privileges to administrator.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-sonicwall-patch-high-severity-vulnerabilities/\">Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "The Hidden ROI of Visibility: Better Decisions, Better Behavior, Better Security",
-    "link": "https://www.securityweek.com/the-hidden-roi-of-visibility-better-decisions-better-behavior-better-security/",
-    "published": "Thu, 09 Apr 2026 11:00:00 +0000",
-    "summary": "<p>Beyond monitoring and compliance, visibility acts as a powerful deterrent, shaping user behavior, improving collaboration, and enabling more accurate, data-driven security decisions.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-hidden-roi-of-visibility-better-decisions-better-behavior-better-security/\">The Hidden ROI of Visibility: Better Decisions, Better Behavior, Better Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Google Warns of New Campaign Targeting BPOs to Steal Corporate Data",
-    "link": "https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/",
-    "published": "Thu, 09 Apr 2026 09:44:56 +0000",
-    "summary": "<p>Tracked as UNC6783, the threat actor is likely linked to Mr. Raccoon, the hacker behind the alleged theft of Adobe data from a BPO.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/\">Google Warns of New Campaign Targeting BPOs to Steal Corporate Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Adobe Reader Zero-Day Exploited for Months: Researcher",
-    "link": "https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/",
-    "published": "Thu, 09 Apr 2026 08:44:51 +0000",
-    "summary": "<p>Reputable researcher Haifei Li has come across what appears to be a PDF designed to exploit an unpatched vulnerability.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/\">Adobe Reader Zero-Day Exploited for Months: Researcher</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -1213,7 +1217,7 @@
     "title": "NSFW app leak exposes 70,000 prompts linked to individual users",
     "link": "https://www.malwarebytes.com/blog/news/2026/04/nsfw-app-leak-exposes-70000-prompts-linked-to-individual-users",
     "published": "Thu, 09 Apr 2026 11:02:51 GMT",
-    "summary": "MyLovely.AI leaked personal data, explicit prompts, and images of over 100,000 users, exposing many to sextortion and doxxing.",
+    "summary": "MyLovelyAI leaked personal data, explicit prompts, and images of over 100,000 users, exposing many to sextortion and doxxing.",
     "analysis": {
       "issue": "AI, an AI “artwork” generation platform, has reportedly been compromised, affecting 106,362 registered users",
       "solution": null,
