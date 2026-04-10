@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-10 03:47:14 UTC
+**Last Updated:** 2026-04-10 09:46:28 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallets](https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html)
+### 1. [Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows](https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 10 Apr 2026 13:28:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers](https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 10 Apr 2026 11:58:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs](https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 22:56:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns](https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html)
+### 4. [UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns](https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 21:53:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html)
+### 5. [ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 18:27:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [The Hidden Security Risks of Shadow AI in Enterprises](https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html)
+### 6. [The Hidden Security Risks of Shadow AI in Enterprises](https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 17:01:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025](https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html)
+### 7. [Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025](https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 16:45:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region](https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html)
+### 8. [Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region](https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 16:10:00 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy](https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html)
+### 9. [New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy](https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 23:21:00 +0530  
@@ -67,30 +85,12 @@
 
 ---
 
-### 8. [Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices](https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html)
+### 10. [Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices](https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 08 Apr 2026 22:00:00 +0530  
 **Severity:** Low  
 **Categories:** Malware, DDoS  
-
----
-
-### 9. [APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies](https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 08 Apr 2026 19:20:00 +0530  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware, APT, Supply Chain  
-
----
-
-### 10. [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 08 Apr 2026 17:00:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -234,7 +234,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-24291, CVE-2026-24294, CVE-2026-26113, CVE-2026-24289, CVE-2026-21262, CVE-2026-26110, CVE-2026-26127  
+**CVEs:** CVE-2026-21262, CVE-2026-24289, CVE-2026-26110, CVE-2026-26113, CVE-2026-24291, CVE-2026-24294, CVE-2026-26127, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -275,73 +275,73 @@
 
 ---
 
-### 31. [Apple Intelligence AI Guardrails Bypassed in New Attack](https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/)
+### 31. [Critical Marimo Flaw Exploited Hours After Public Disclosure](https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/)
+
+**Source:** Security Week  
+**Published:** Fri, 10 Apr 2026 09:12:48 +0000  
+
+---
+
+### 32. [Google Rolls Out Cookie Theft Protections in Chrome](https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/)
+
+**Source:** Security Week  
+**Published:** Fri, 10 Apr 2026 07:50:00 +0000  
+
+---
+
+### 33. [Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users](https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/)
+
+**Source:** Security Week  
+**Published:** Fri, 10 Apr 2026 07:33:16 +0000  
+
+---
+
+### 34. [Apple Intelligence AI Guardrails Bypassed in New Attack](https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/)
 
 **Source:** Security Week  
 **Published:** Thu, 09 Apr 2026 13:43:07 +0000  
 
 ---
 
-### 32. [Can we Trust AI? No – But Eventually We Must](https://www.securityweek.com/can-we-trust-ai-no-but-eventually-we-must/)
+### 35. [Can We Trust AI? No – But Eventually We Must](https://www.securityweek.com/can-we-trust-ai-no-but-eventually-we-must/)
 
 **Source:** Security Week  
 **Published:** Thu, 09 Apr 2026 13:30:00 +0000  
 
 ---
 
-### 33. [Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access](https://www.securityweek.com/google-api-keys-in-android-apps-expose-gemini-endpoints-to-unauthorized-access/)
+### 36. [Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access](https://www.securityweek.com/google-api-keys-in-android-apps-expose-gemini-endpoints-to-unauthorized-access/)
 
 **Source:** Security Week  
 **Published:** Thu, 09 Apr 2026 12:26:50 +0000  
 
 ---
 
-### 34. [Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities](https://www.securityweek.com/palo-alto-networks-sonicwall-patch-high-severity-vulnerabilities/)
+### 37. [Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities](https://www.securityweek.com/palo-alto-networks-sonicwall-patch-high-severity-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 09 Apr 2026 11:58:52 +0000  
 
 ---
 
-### 35. [The Hidden ROI of Visibility: Better Decisions, Better Behavior, Better Security](https://www.securityweek.com/the-hidden-roi-of-visibility-better-decisions-better-behavior-better-security/)
+### 38. [The Hidden ROI of Visibility: Better Decisions, Better Behavior, Better Security](https://www.securityweek.com/the-hidden-roi-of-visibility-better-decisions-better-behavior-better-security/)
 
 **Source:** Security Week  
 **Published:** Thu, 09 Apr 2026 11:00:00 +0000  
 
 ---
 
-### 36. [Google Warns of New Campaign Targeting BPOs to Steal Corporate Data](https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/)
+### 39. [Google Warns of New Campaign Targeting BPOs to Steal Corporate Data](https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/)
 
 **Source:** Security Week  
 **Published:** Thu, 09 Apr 2026 09:44:56 +0000  
 
 ---
 
-### 37. [Adobe Reader Zero-Day Exploited for Months: Researcher](https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/)
+### 40. [Adobe Reader Zero-Day Exploited for Months: Researcher](https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/)
 
 **Source:** Security Week  
 **Published:** Thu, 09 Apr 2026 08:44:51 +0000  
-
----
-
-### 38. [300,000 People Impacted by Eurail Data Breach](https://www.securityweek.com/300000-people-impacted-by-eurail-data-breach/)
-
-**Source:** Security Week  
-**Published:** Thu, 09 Apr 2026 08:28:05 +0000  
-
----
-
-### 39. [$3.6 Million Stolen in Bitcoin Depot Hack](https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/)
-
-**Source:** Security Week  
-**Published:** Thu, 09 Apr 2026 06:41:40 +0000  
-
----
-
-### 40. [Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long](https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/)
-
-**Source:** Security Week  
-**Published:** Thu, 09 Apr 2026 01:22:35 +0000  
 
 ---
 
