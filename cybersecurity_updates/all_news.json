@@ -262,7 +262,7 @@
     "published": "Fri, 10 Apr 2026 07:56:14 -0400",
     "summary": "A financially motivated threat actor tracked as Storm-2755 is stealing Canadian employees' salary payments after hijacking their accounts in payroll pirate attacks. [...]",
     "analysis": {
-      "issue": "A financially motivated threat actor tracked as Storm-2755 is stealing Canadian employees' salary payments after hijacking their accounts in payroll pirate attacks",
+      "issue": "A financially motivated threat actor tracked as Storm-2755 is stealing Canadian employees' salary payments after hijacking their accounts in payroll redirection (also known as payroll pirate) attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -474,14 +474,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26110",
-        "CVE-2026-25187",
-        "CVE-2026-26113",
-        "CVE-2026-24289",
         "CVE-2026-26127",
-        "CVE-2026-24291",
+        "CVE-2026-26110",
+        "CVE-2026-26113",
         "CVE-2026-24294",
-        "CVE-2026-21262"
+        "CVE-2026-24289",
+        "CVE-2026-24291",
+        "CVE-2026-21262",
+        "CVE-2026-25187"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1161,8 +1161,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
