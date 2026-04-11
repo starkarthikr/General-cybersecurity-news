@@ -185,6 +185,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Over 20,000 crypto fraud victims identified in international crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/",
+    "published": "Sat, 11 Apr 2026 10:20:40 -0400",
+    "summary": "An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. [...]",
+    "analysis": {
+      "issue": "An international law enforcement action led by the U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "ChatGPT rolls out new $100 Pro subscription to challenge Claude",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/",
     "published": "Fri, 10 Apr 2026 22:08:16 -0400",
@@ -348,24 +366,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Google Chrome adds infostealer protection against session cookie theft",
-    "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/",
-    "published": "Thu, 09 Apr 2026 14:33:29 -0400",
-    "summary": "Google has rolled out Device Bound Session Credentials (DBSC) protection in Chrome 146 for Windows, designed to block info-stealing malware from harvesting session cookies. [...]",
-    "analysis": {
-      "issue": "Google has rolled out Device Bound Session Credentials (DBSC) protection in Chrome 146 for Windows, designed to block info-stealing malware from harvesting session cookies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
     "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
@@ -474,14 +474,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26127",
+        "CVE-2026-25187",
+        "CVE-2026-21262",
         "CVE-2026-26110",
-        "CVE-2026-26113",
         "CVE-2026-24294",
         "CVE-2026-24289",
+        "CVE-2026-26127",
         "CVE-2026-24291",
-        "CVE-2026-21262",
-        "CVE-2026-25187"
+        "CVE-2026-26113"
       ],
       "threat_categories": [
         "Vulnerability",
