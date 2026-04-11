@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-11 02:46:54 UTC
+**Last Updated:** 2026-04-11 03:25:28 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -235,7 +235,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24291, CVE-2026-21262, CVE-2026-24289, CVE-2026-26113, CVE-2026-25187, CVE-2026-26110, CVE-2026-24294, CVE-2026-26127  
+**CVEs:** CVE-2026-25187, CVE-2026-24294, CVE-2026-21262, CVE-2026-26113, CVE-2026-24289, CVE-2026-26127, CVE-2026-24291, CVE-2026-26110  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -604,7 +604,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
