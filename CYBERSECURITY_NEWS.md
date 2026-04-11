@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-10 17:25:15 UTC
+**Last Updated:** 2026-04-11 02:46:54 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -90,10 +90,21 @@
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 16:45:00 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [Nearly 4,000 US industrial devices exposed to Iranian cyberattacks](https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/)
+### 11. [ChatGPT rolls out new $100 Pro subscription to challenge Claude](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 10 Apr 2026 22:08:16 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 12. [Nearly 4,000 US industrial devices exposed to Iranian cyberattacks](https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Apr 2026 11:52:45 -0400  
@@ -102,7 +113,7 @@
 
 ---
 
-### 12. [Analysis of one billion CISA KEV remediation records exposes limits of human-scale security](https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/)
+### 13. [Analysis of one billion CISA KEV remediation records exposes limits of human-scale security](https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Apr 2026 10:01:11 -0400  
@@ -111,7 +122,7 @@
 
 ---
 
-### 13. [CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads](https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/)
+### 14. [CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads](https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Apr 2026 09:12:42 -0400  
@@ -120,7 +131,7 @@
 
 ---
 
-### 14. [Microsoft: Canadian employees targeted in payroll pirate attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/)
+### 15. [Microsoft: Canadian employees targeted in payroll pirate attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Apr 2026 07:56:14 -0400  
@@ -129,7 +140,7 @@
 
 ---
 
-### 15. [Google rolls out Gmail end-to-end encryption on mobile devices](https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/)
+### 16. [Google rolls out Gmail end-to-end encryption on mobile devices](https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Apr 2026 06:44:08 -0400  
@@ -138,7 +149,7 @@
 
 ---
 
-### 16. [New ‘LucidRook’ malware used in targeted attacks on NGOs, universities](https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/)
+### 17. [New ‘LucidRook’ malware used in targeted attacks on NGOs, universities](https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Apr 2026 18:04:31 -0400  
@@ -147,7 +158,7 @@
 
 ---
 
-### 17. [New VENOM phishing attacks steal senior executives' Microsoft logins](https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/)
+### 18. [New VENOM phishing attacks steal senior executives' Microsoft logins](https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Apr 2026 17:37:04 -0400  
@@ -156,7 +167,7 @@
 
 ---
 
-### 18. [Healthcare IT solutions provider ChipSoft hit by ransomware attack](https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/)
+### 19. [Healthcare IT solutions provider ChipSoft hit by ransomware attack](https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Apr 2026 15:46:44 -0400  
@@ -165,21 +176,12 @@
 
 ---
 
-### 19. [Google Chrome adds infostealer protection against session cookie theft](https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/)
+### 20. [Google Chrome adds infostealer protection against session cookie theft](https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 09 Apr 2026 14:33:29 -0400  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 20. [Smart Slider updates hijacked to push malicious WordPress, Joomla versions](https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 09 Apr 2026 12:15:26 -0400  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
 
 ---
 
@@ -233,7 +235,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26110, CVE-2026-25187, CVE-2026-26127, CVE-2026-21262, CVE-2026-24294, CVE-2026-24289, CVE-2026-26113, CVE-2026-24291  
+**CVEs:** CVE-2026-24291, CVE-2026-21262, CVE-2026-24289, CVE-2026-26113, CVE-2026-25187, CVE-2026-26110, CVE-2026-24294, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -602,7 +604,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

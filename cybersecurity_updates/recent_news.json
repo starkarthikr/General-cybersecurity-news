@@ -170,7 +170,36 @@
     "title": "Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025",
     "link": "https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html",
     "published": "Thu, 09 Apr 2026 16:45:00 +0530",
-    "summary": "Threat actors have been exploiting a previously unknown zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December&nbsp;2025.\nThe finding, detailed by EXPMON's Haifei Li, has&nbsp;been described as a highly-sophisticated PDF exploit.&nbsp;The artifact (\"Invoice540.pdf\") first appeared on the VirusTotal platform on November 28, 2025.&nbsp;A second&nbsp;"
+    "summary": "Threat actors have been exploiting a previously unknown zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December&nbsp;2025.\nThe finding, detailed by EXPMON's Haifei Li, has&nbsp;been described as a highly-sophisticated PDF exploit.&nbsp;The artifact (\"Invoice540.pdf\") first appeared on the VirusTotal platform on November 28, 2025.&nbsp;A second&nbsp;",
+    "analysis": {
+      "issue": "Adobe Reader zero-day exploited since Dec 2025 via malicious PDFs, enabling data theft and potential RCE, prompting urgent security vigilance",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "ChatGPT rolls out new $100 Pro subscription to challenge Claude",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/",
+    "published": "Fri, 10 Apr 2026 22:08:16 -0400",
+    "summary": "OpenAI has rolled out a new Pro subscription that costs $100 and is in line with Claude's pricing, which also has a $100 subscription, in addition to the $200 Max monthly plan. [...]",
+    "analysis": {
+      "issue": "OpenAI has rolled out a new Pro subscription that costs $100 and is in line with Claude's pricing, which also has a $100 subscription, in addition to the $200 Max monthly plan",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "Bleeping Computer",
@@ -337,25 +366,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Smart Slider updates hijacked to push malicious WordPress, Joomla versions",
-    "link": "https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/",
-    "published": "Thu, 09 Apr 2026 12:15:26 -0400",
-    "summary": "Hackers hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla, and pushed a malicious version with multiple backdoors. [...]",
-    "analysis": {
-      "issue": "Hackers hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla, and pushed a malicious version with multiple backdoors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
     "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
@@ -464,14 +474,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26110",
-        "CVE-2026-25187",
-        "CVE-2026-26127",
+        "CVE-2026-24291",
         "CVE-2026-21262",
-        "CVE-2026-24294",
         "CVE-2026-24289",
         "CVE-2026-26113",
-        "CVE-2026-24291"
+        "CVE-2026-25187",
+        "CVE-2026-26110",
+        "CVE-2026-24294",
+        "CVE-2026-26127"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1151,8 +1161,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
