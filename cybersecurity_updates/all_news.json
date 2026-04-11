@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data",
+    "link": "https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html",
+    "published": "Sat, 11 Apr 2026 11:32:00 +0530",
+    "summary": "Hungarian domestic intelligence, the national police in El Salvador, and several U.S. law&nbsp;enforcement and police departments have been attributed to the use of an advertising-based global geolocation surveillance system called&nbsp;Webloc.\nThe tool was developed by Israeli company Cobwebs Technologies and is now sold by its successor Penlink after&nbsp;the two firms merged in July&nbsp;2023",
+    "analysis": {
+      "issue": "Webloc surveils up to 500M devices using ad data; global law enforcement adoption raises warrantless tracking concerns",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
     "link": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html",
     "published": "Fri, 10 Apr 2026 18:53:00 +0530",
@@ -162,24 +180,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025",
-    "link": "https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html",
-    "published": "Thu, 09 Apr 2026 16:45:00 +0530",
-    "summary": "Threat actors have been exploiting a previously unknown zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December&nbsp;2025.\nThe finding, detailed by EXPMON's Haifei Li, has&nbsp;been described as a highly-sophisticated PDF exploit.&nbsp;The artifact (\"Invoice540.pdf\") first appeared on the VirusTotal platform on November 28, 2025.&nbsp;A second&nbsp;",
-    "analysis": {
-      "issue": "Adobe Reader zero-day exploited since Dec 2025 via malicious PDFs, enabling data theft and potential RCE, prompting urgent security vigilance",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -474,14 +474,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-26110",
         "CVE-2026-25187",
-        "CVE-2026-24294",
-        "CVE-2026-21262",
         "CVE-2026-26113",
         "CVE-2026-24289",
         "CVE-2026-26127",
         "CVE-2026-24291",
-        "CVE-2026-26110"
+        "CVE-2026-24294",
+        "CVE-2026-21262"
       ],
       "threat_categories": [
         "Vulnerability",

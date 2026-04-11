@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-11 03:25:28 UTC
+**Last Updated:** 2026-04-11 09:08:33 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs](https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html)
+### 1. [Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data](https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 11 Apr 2026 11:32:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs](https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Apr 2026 18:53:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Browser Extensions Are the New AI Consumption Channel That No One Is Talking About](https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html)
+### 3. [Browser Extensions Are the New AI Consumption Channel That No One Is Talking About](https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Apr 2026 16:30:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows](https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html)
+### 4. [Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows](https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Apr 2026 13:28:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure](https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html)
+### 5. [Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure](https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Apr 2026 13:07:00 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers](https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html)
+### 6. [Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers](https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Apr 2026 11:58:00 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs](https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html)
+### 7. [EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs](https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 22:56:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns](https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html)
+### 8. [UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns](https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 21:53:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html)
+### 9. [ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 18:27:00 +0530  
@@ -77,21 +86,12 @@
 
 ---
 
-### 9. [The Hidden Security Risks of Shadow AI in Enterprises](https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html)
+### 10. [The Hidden Security Risks of Shadow AI in Enterprises](https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 17:01:00 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 10. [Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025](https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 09 Apr 2026 16:45:00 +0530  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -235,7 +235,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-24294, CVE-2026-21262, CVE-2026-26113, CVE-2026-24289, CVE-2026-26127, CVE-2026-24291, CVE-2026-26110  
+**CVEs:** CVE-2026-26110, CVE-2026-25187, CVE-2026-26113, CVE-2026-24289, CVE-2026-26127, CVE-2026-24291, CVE-2026-24294, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
