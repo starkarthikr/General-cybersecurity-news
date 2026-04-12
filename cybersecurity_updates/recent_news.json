@@ -468,28 +468,7 @@
     "title": "Microsoft Patch Tuesday, March 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
     "published": "Wed, 11 Mar 2026 00:32:51 +0000",
-    "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.",
-    "analysis": {
-      "issue": "today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-24294",
-        "CVE-2026-26113",
-        "CVE-2026-26110",
-        "CVE-2026-25187",
-        "CVE-2026-24289",
-        "CVE-2026-24291",
-        "CVE-2026-26127",
-        "CVE-2026-21262"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "DDoS"
-      ]
-    }
+    "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday."
   },
   {
     "source": "Krebs On Security",
