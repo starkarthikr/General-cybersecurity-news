@@ -187,6 +187,26 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Critical Marimo pre-auth RCE flaw now under active exploitation",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/",
+    "published": "Sun, 12 Apr 2026 10:20:31 -0400",
+    "summary": "A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]",
+    "analysis": {
+      "issue": "Hackers started exploiting a critical vulnerability in the Marimo open-source reactive Python notebook platform just 10 hours after its public disclosure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-39987"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Over 20,000 crypto fraud victims identified in international crackdown",
     "link": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/",
     "published": "Sat, 11 Apr 2026 10:20:40 -0400",
@@ -350,24 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack",
-    "link": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/",
-    "published": "Thu, 09 Apr 2026 15:46:44 -0400",
-    "summary": "Dutch healthcare software vendor ChipSoft has been impacted by a ransomware attack that forced the company to take offline its website and digital services for patients and healthcare providers. [...]",
-    "analysis": {
-      "issue": "Dutch healthcare software vendor ChipSoft has been impacted by a ransomware attack that forced the company to take offline its website and digital services for patients and healthcare providers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
     "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
@@ -468,7 +470,28 @@
     "title": "Microsoft Patch Tuesday, March 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
     "published": "Wed, 11 Mar 2026 00:32:51 +0000",
-    "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday."
+    "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.",
+    "analysis": {
+      "issue": "today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-21262",
+        "CVE-2026-24294",
+        "CVE-2026-26110",
+        "CVE-2026-26113",
+        "CVE-2026-24289",
+        "CVE-2026-24291",
+        "CVE-2026-26127",
+        "CVE-2026-25187"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "DDoS"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -493,21 +516,7 @@
     "title": "Who is the Kimwolf Botmaster “Dort”?",
     "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
     "published": "Sat, 28 Feb 2026 12:01:57 +0000",
-    "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.",
-    "analysis": {
-      "issue": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to build Kimwolf, the world’s largest and most disruptive botnet",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT",
-        "DDoS"
-      ]
-    }
+    "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information."
   },
   {
     "source": "Krebs On Security",
@@ -1142,8 +1151,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
