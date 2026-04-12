@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-12 03:51:20 UTC
+**Last Updated:** 2026-04-12 09:12:40 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data](https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html)
+### 1. [CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads](https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 12 Apr 2026 11:24:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 12 Apr 2026 09:55:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-34621  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data](https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 11 Apr 2026 11:32:00 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs](https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html)
+### 4. [GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs](https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Apr 2026 18:53:00 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [Browser Extensions Are the New AI Consumption Channel That No One Is Talking About](https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html)
+### 5. [Browser Extensions Are the New AI Consumption Channel That No One Is Talking About](https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Apr 2026 16:30:00 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows](https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html)
+### 6. [Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows](https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Apr 2026 13:28:00 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure](https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html)
+### 7. [Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure](https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Apr 2026 13:07:00 +0530  
@@ -50,7 +69,7 @@
 
 ---
 
-### 6. [Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers](https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html)
+### 8. [Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers](https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Apr 2026 11:58:00 +0530  
@@ -59,7 +78,7 @@
 
 ---
 
-### 7. [EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs](https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html)
+### 9. [EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs](https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 22:56:00 +0530  
@@ -68,30 +87,12 @@
 
 ---
 
-### 8. [UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns](https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html)
+### 10. [UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns](https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 09 Apr 2026 21:53:00 +0530  
 **Severity:** Low  
 **Categories:** Malware, Phishing  
-
----
-
-### 9. [ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 09 Apr 2026 18:27:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 10. [The Hidden Security Risks of Shadow AI in Enterprises](https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 09 Apr 2026 17:01:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -235,7 +236,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-26113, CVE-2026-24289, CVE-2026-25187, CVE-2026-26127, CVE-2026-24294, CVE-2026-24291, CVE-2026-26110  
+**CVEs:** CVE-2026-24294, CVE-2026-26113, CVE-2026-26110, CVE-2026-25187, CVE-2026-24289, CVE-2026-24291, CVE-2026-26127, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -276,73 +277,73 @@
 
 ---
 
-### 31. [In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack](https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/)
+### 31. [Adobe Patches Reader Zero-Day Exploited for Months](https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/)
+
+**Source:** Security Week  
+**Published:** Sun, 12 Apr 2026 07:45:26 +0000  
+
+---
+
+### 32. [In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack](https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Apr 2026 14:44:53 +0000  
 
 ---
 
-### 32. [Juniper Networks Patches Dozens of Junos OS Vulnerabilities](https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/)
+### 33. [Juniper Networks Patches Dozens of Junos OS Vulnerabilities](https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Apr 2026 13:44:17 +0000  
 
 ---
 
-### 33. [Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday](https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/)
+### 34. [Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday](https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Apr 2026 12:41:08 +0000  
 
 ---
 
-### 34. [Orthanc DICOM Vulnerabilities Lead to Crashes, RCE](https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/)
+### 35. [Orthanc DICOM Vulnerabilities Lead to Crashes, RCE](https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Apr 2026 11:53:45 +0000  
 
 ---
 
-### 35. [Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000](https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/)
+### 36. [Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000](https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Apr 2026 10:44:45 +0000  
 
 ---
 
-### 36. [MITRE Releases Fight Fraud Framework](https://www.securityweek.com/mitre-releases-fight-fraud-framework/)
+### 37. [MITRE Releases Fight Fraud Framework](https://www.securityweek.com/mitre-releases-fight-fraud-framework/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Apr 2026 09:51:03 +0000  
 
 ---
 
-### 37. [Critical Marimo Flaw Exploited Hours After Public Disclosure](https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/)
+### 38. [Critical Marimo Flaw Exploited Hours After Public Disclosure](https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Apr 2026 09:12:48 +0000  
 
 ---
 
-### 38. [Google Rolls Out Cookie Theft Protections in Chrome](https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/)
+### 39. [Google Rolls Out Cookie Theft Protections in Chrome](https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Apr 2026 07:50:00 +0000  
 
 ---
 
-### 39. [Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users](https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/)
+### 40. [Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users](https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Apr 2026 07:33:16 +0000  
-
----
-
-### 40. [Apple Intelligence AI Guardrails Bypassed in New Attack](https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/)
-
-**Source:** Security Week  
-**Published:** Thu, 09 Apr 2026 13:43:07 +0000  
 
 ---
 
@@ -604,7 +605,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

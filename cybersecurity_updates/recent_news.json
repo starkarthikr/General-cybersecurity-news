@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
+    "link": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
+    "published": "Sun, 12 Apr 2026 11:24:00 +0530",
+    "summary": "Unknown threat actors compromised CPUID (\"cpuid[.]com\"), a website&nbsp;that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to serve malicious executables for the software and deploy a remote access trojan called STX&nbsp;RAT.\nThe incident lasted from approximately April 9, 15:00 UTC, to about April 10, 10:00&nbsp;UTC, with",
+    "analysis": {
+      "issue": "CPUID breach served STX RAT via trojanized CPU-Z downloads on April 9–10, impacting 150+ victims and multiple industries",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621",
+    "link": "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html",
+    "published": "Sun, 12 Apr 2026 09:55:00 +0530",
+    "summary": "Adobe has released emergency updates to fix a critical security flaw in Acrobat Reader that&nbsp;has come under active exploitation in the&nbsp;wild.\nThe vulnerability, assigned the CVE identifier CVE-2026-34621, carries a CVSS score of 8.6 out of 10.0. Successful exploitation of the flaw could allow an attacker to run malicious code on affected installations.\nIt&nbsp;has been&nbsp;described as",
+    "analysis": {
+      "issue": "Adobe patches CVE-2026-34621 after active exploitation since Dec 2025, preventing remote code execution via malicious PDFs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-34621"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data",
     "link": "https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html",
     "published": "Sat, 11 Apr 2026 11:32:00 +0530",
@@ -144,42 +182,6 @@
       "threat_categories": [
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories",
-    "link": "https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html",
-    "published": "Thu, 09 Apr 2026 18:27:00 +0530",
-    "summary": "Thursday. Another week, another batch of things that probably should've been caught sooner but&nbsp;weren't.\nThis&nbsp;one's got some range — old vulnerabilities getting new life, a few \"why was that even possible\" moments, attackers leaning on platforms and tools you'd normally trust without thinking twice. Quiet&nbsp;escalations more than loud zero-days, but the kind that matter more in",
-    "analysis": {
-      "issue": "This week in cybersecurity: botnets, RCE flaws, AI-driven attacks, stealers, and more",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "The Hidden Security Risks of Shadow AI in Enterprises",
-    "link": "https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html",
-    "published": "Thu, 09 Apr 2026 17:01:00 +0530",
-    "summary": "As&nbsp;AI tools become more accessible, employees are adopting them without formal approval from IT and security teams. While&nbsp;these tools may boost productivity, automate tasks, or fill gaps in existing workflows, they also operate outside the visibility of security teams, bypassing controls and creating new blind spots in what is known as shadow AI. While&nbsp;similar to the phenomenon of",
-    "analysis": {
-      "issue": "Employees are using unapproved AI tools",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -474,14 +476,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21262",
-        "CVE-2026-26113",
-        "CVE-2026-24289",
-        "CVE-2026-25187",
-        "CVE-2026-26127",
         "CVE-2026-24294",
+        "CVE-2026-26113",
+        "CVE-2026-26110",
+        "CVE-2026-25187",
+        "CVE-2026-24289",
         "CVE-2026-24291",
-        "CVE-2026-26110"
+        "CVE-2026-26127",
+        "CVE-2026-21262"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -567,6 +569,13 @@
   },
   {
     "source": "Security Week",
+    "title": "Adobe Patches Reader Zero-Day Exploited for Months",
+    "link": "https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/",
+    "published": "Sun, 12 Apr 2026 07:45:26 +0000",
+    "summary": "<p>The vulnerability is tracked as CVE-2026-34621 and Adobe has confirmed that it can be exploited for arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/\">Adobe Patches Reader Zero-Day Exploited for Months</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack",
     "link": "https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/",
     "published": "Fri, 10 Apr 2026 14:44:53 +0000",
@@ -627,13 +636,6 @@
     "link": "https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/",
     "published": "Fri, 10 Apr 2026 07:33:16 +0000",
     "summary": "<p>The security hole affected an EngageLab SDK and it was reported by Microsoft to the vendor one year ago.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/\">Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Apple Intelligence AI Guardrails Bypassed in New Attack",
-    "link": "https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/",
-    "published": "Thu, 09 Apr 2026 13:43:07 +0000",
-    "summary": "<p>RSAC researchers hacked Apple Intelligence using the Neural Exect method and Unicode manipulation.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/\">Apple Intelligence AI Guardrails Bypassed in New Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -1161,8 +1163,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
