@@ -1,10 +1,46 @@
 [
   {
     "source": "The Hacker News",
+    "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
+    "link": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
+    "published": "Mon, 13 Apr 2026 20:16:00 +0530",
+    "summary": "The U.S. Federal Bureau of Investigation (FBI), in partnership with the Indonesian National Police, has dismantled the infrastructure associated with a global phishing operation that leveraged an off-the-shelf toolkit&nbsp;called W3LL to steal thousands of victims' account credentials and attempt more than $20 million in&nbsp;fraud.\nIn tandem, authorities detained the alleged developer, who has&",
+    "analysis": {
+      "issue": "FBI dismantles W3LL phishing network targeting 17,000 victims; crackdown disrupts $20M fraud scheme",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
+    "link": "https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html",
+    "published": "Mon, 13 Apr 2026 18:31:00 +0530",
+    "summary": "Monday&nbsp;is back, and the weekend’s backlog of chaos is officially hitting the fan. We&nbsp;are tracking a critical zero-day that has been quietly living in your PDFs for months, plus some aggressive state-sponsored meddling in infrastructure that is finally coming to light. It&nbsp;is one of those mornings where the gap between a quiet shift and a full-blown incident response is basically",
+    "analysis": {
+      "issue": "Stay ahead of the logs with our Monday Recap",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
     "link": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
     "published": "Mon, 13 Apr 2026 17:11:00 +0530",
-    "summary": "Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo&nbsp;Alto Networks' Wendi&nbsp;Whitmorewarned that similar capabilities are weeks or months from proliferation. CrowdStrike's 2026 Global Threat Report puts average eCrime breakout time at 29 minutes. Mandiant's M-Trends 2026",
+    "summary": "Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo&nbsp;Alto Networks' Wendi&nbsp;Whitmore warned that similar capabilities are weeks or months from proliferation. CrowdStrike's 2026 Global Threat Report puts average eCrime breakout time at 29 minutes. Mandiant's M-Trends",
     "analysis": {
       "issue": "AI-driven attacks exploiting zero-days and 29-minute breakout times expose SOC investigation gaps, accelerating the shift to automated response",
       "solution": null,
@@ -147,40 +183,57 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows",
-    "link": "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html",
-    "published": "Fri, 10 Apr 2026 13:28:00 +0530",
-    "summary": "Google has&nbsp;made Device Bound Session Credentials&nbsp;(DBSC) generally available to all Windows users of its Chrome web browser, months after&nbsp;it began&nbsp;testing the security feature in open&nbsp;beta.\nThe public availability is currently limited to Windows users on Chrome 146, with macOS expansion planned in an upcoming Chrome&nbsp;release.\n\"This project represents a significant",
+    "source": "Bleeping Computer",
+    "title": "New Booking.com data breach forces reservation PIN resets",
+    "link": "https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/",
+    "published": "Mon, 13 Apr 2026 13:30:10 -0400",
+    "summary": "Booking.com has confirmed via a statement to BleepingComputer that it has detected unauthorized access to its systems that has exposed sensitive reservation and user data. [...]",
     "analysis": {
-      "issue": "Google releases DBSC in Chrome 146 for Windows, binding cookies to devices to reduce session theft and prevent unauthorized access",
+      "issue": "com has confirmed in a statement to BleepingComputer that hackers accessed some users' data from booking information associated with their reservations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/",
+    "published": "Mon, 13 Apr 2026 11:37:05 -0400",
+    "summary": "Adobe has released an emergency security update for Acrobat Reader to fix a vulnerability, tracked as CVE-2026-34621, that has been exploited in zero-day attacks since at least December. [...]",
+    "analysis": {
+      "issue": "Adobe has released an emergency security update for Acrobat Reader to fix a vulnerability, tracked as CVE-2026-34621, that has been exploited in zero-day attacks since at least December",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-34621"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "The silent “Storm”: New infostealer hijacks sessions, decrypts server-side",
+    "link": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/",
+    "published": "Mon, 13 Apr 2026 10:05:15 -0400",
+    "summary": "New \"Storm\" infostealer skips local decryption, sending browser data to attacker servers. Varonis shows how server-side decryption enables session hijacking, bypassing passwords and MFA. [...]",
+    "analysis": {
+      "issue": "A new infostealer called Storm appeared on underground cybercrime networks in early 2026, representing a shift in how credential theft is developing",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
-    "link": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html",
-    "published": "Fri, 10 Apr 2026 13:07:00 +0530",
-    "summary": "A critical security vulnerability&nbsp;in Marimo, an open-source Python notebook for data science and analysis, has been exploited within 10 hours of public disclosure, according&nbsp;to findings from&nbsp;Sysdig.\nThe vulnerability in question&nbsp;is CVE-2026-39987 (CVSS score: 9.3), a pre-authenticated remote code execution vulnerability impacting all versions of Marimo prior to and including",
-    "analysis": {
-      "issue": "Marimo CVE-2026-39987 exploited within 10 hours of disclosure, enabling unauthenticated RCE and credential theft, emphasizing urgent patching needs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-39987"
-      ],
-      "threat_categories": [
-        "Vulnerability",
         "Phishing"
       ]
     }
@@ -315,61 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Google rolls out Gmail end-to-end encryption on mobile devices",
-    "link": "https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/",
-    "published": "Fri, 10 Apr 2026 06:44:08 -0400",
-    "summary": "Google says Gmail end-to-end encryption (E2EE) is now available on all Android and iOS devices, allowing enterprise users to read and compose emails without additional tools. [...]",
-    "analysis": {
-      "issue": "Google says Gmail end-to-end encryption (E2EE) is now available on all Android and iOS devices, allowing enterprise users to read and compose emails without additional tools",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New ‘LucidRook’ malware used in targeted attacks on NGOs, universities",
-    "link": "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/",
-    "published": "Thu, 09 Apr 2026 18:04:31 -0400",
-    "summary": "A new Lua-based malware, called LucidRook, is being used in spear-phishing campaigns targeting non-governmental organizations and universities in Taiwan. [...]",
-    "analysis": {
-      "issue": "A new Lua-based malware, called LucidRook, is being used in spear-phishing campaigns targeting non-governmental organizations and universities in Taiwan",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New VENOM phishing attacks steal senior executives' Microsoft logins",
-    "link": "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/",
-    "published": "Thu, 09 Apr 2026 17:37:04 -0400",
-    "summary": "Threat actors using a previously undocumented phishing-as-a-service (PhaaS) platform called \"VENOM\" are targeting credentials of C-suite executives across multiple industries. [...]",
-    "analysis": {
-      "issue": "Threat actors using a previously undocumented phishing-as-a-service (PhaaS) platform called “VENOM” are targeting credentials of C-suite executives across multiple industries",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
     "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
@@ -479,13 +477,13 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-25187",
-        "CVE-2026-21262",
         "CVE-2026-24291",
-        "CVE-2026-26110",
+        "CVE-2026-26127",
         "CVE-2026-26113",
         "CVE-2026-24289",
-        "CVE-2026-26127",
-        "CVE-2026-24294"
+        "CVE-2026-24294",
+        "CVE-2026-21262",
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -571,6 +569,20 @@
   },
   {
     "source": "Security Week",
+    "title": "Booking.com Says Hackers Accessed User Information",
+    "link": "https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/",
+    "published": "Mon, 13 Apr 2026 14:25:07 +0000",
+    "summary": "<p>The online travel platform has not said how many customers’ booking information was exposed, but said the issue has been contained. </p>\n<p>The post <a href=\"https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/\">Booking.com Says Hackers Accessed User Information</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings",
+    "link": "https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/",
+    "published": "Mon, 13 Apr 2026 14:00:00 +0000",
+    "summary": "<p>Claims that “Microsoft is running one of the largest corporate espionage operations in modern history” face scrutiny as researchers analyze LinkedIn’s browser extension probing</p>\n<p>The post <a href=\"https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/\">BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack",
     "link": "https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/",
     "published": "Mon, 13 Apr 2026 12:34:06 +0000",
@@ -624,20 +636,6 @@
     "link": "https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/",
     "published": "Fri, 10 Apr 2026 13:44:17 +0000",
     "summary": "<p>A critical-severity flaw could be exploited remotely, without authentication, to take over a vulnerable device.</p>\n<p>The post <a href=\"https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/\">Juniper Networks Patches Dozens of Junos OS Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday",
-    "link": "https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/",
-    "published": "Fri, 10 Apr 2026 12:41:08 +0000",
-    "summary": "<p>The US government has warned that Iran-linked hackers are manipulating PLCs and SCADA systems to cause disruption.</p>\n<p>The post <a href=\"https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/\">Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Orthanc DICOM Vulnerabilities Lead to Crashes, RCE",
-    "link": "https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/",
-    "published": "Fri, 10 Apr 2026 11:53:45 +0000",
-    "summary": "<p>Attackers could exploit these vulnerabilities in denial-of-service, information disclosure, and arbitrary code execution attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/\">Orthanc DICOM Vulnerabilities Lead to Crashes, RCE</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -831,6 +829,43 @@
   },
   {
     "source": "Recorded Future",
+    "title": "March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day",
+    "link": "https://www.recordedfuture.com/blog/march-2026-cve-landscape",
+    "published": "Mon, 13 Apr 2026 00:00:00 GMT",
+    "summary": "March 2026 saw a 139% increase in high-impact vulnerabilities, with Recorded Future's Insikt Group® identifying 31 vulnerabilities requiring immediate remediation, up from 13 in February 2026.",
+    "analysis": {
+      "issue": "March 2026 saw a 139% increase in high-impact vulnerabilities, with Recorded Future's Insikt Group® identifying 31 vulnerabilities requiring immediate remediation, up from 13 in February 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "VIP Credential Monitoring Blog",
+    "link": "https://www.recordedfuture.com/blog/vip-credential-monitoring-blog",
+    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "summary": "Executives and high-privilege users are prime targets for credential theft — and standard monitoring often misses them. Learn how VIP Credential Monitoring in Recorded Future Identity Intelligence protects your most sensitive accounts across work and personal email, and why detection speed is the difference between a resolved alert and a major incident.",
+    "analysis": {
+      "issue": "Executives and high-privilege users are prime targets for credential theft — and standard monitoring often misses them",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "Third-Party Risk Is an Intelligence Operation. It's Time We Treated It Like One.",
     "link": "https://www.recordedfuture.com/blog/recorded-future-sees-its-inclusion-in-the-2026-forrester-wave",
     "published": "Thu, 09 Apr 2026 00:00:00 GMT",
@@ -921,13 +956,6 @@
   },
   {
     "source": "Recorded Future",
-    "title": "Panorama del cibercrimen en América Latina y el Caribe",
-    "link": "https://www.recordedfuture.com/research/latin-america-and-the-caribbean-cybercrime-landscape-pt",
-    "published": "Thu, 02 Apr 2026 00:00:00 GMT",
-    "summary": "Este informe ofrece una visión general de las tendencias y novedades en el ecosistema cibercriminal de América Latina y el Caribe (ALC) en 2025"
-  },
-  {
-    "source": "Recorded Future",
     "title": "Industrialization of the Fraud Ecosystem Blog",
     "link": "https://www.recordedfuture.com/blog/industrialization-of-the-fraud-ecosystem-blog",
     "published": "Wed, 01 Apr 2026 00:00:00 GMT",
@@ -977,24 +1005,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "2025 Year in Review: Malicious, Infrastructure",
-    "link": "https://www.recordedfuture.com/research/2025-year-in-review-malicious-infrastructure",
-    "published": "Thu, 19 Mar 2026 00:00:00 GMT",
-    "summary": "Explore Insikt Group’s 2025 Malicious Infrastructure Report. Gain insights into Cobalt Strike, Vidar infostealers, and AI-driven threats to secure your 2026 strategy.",
-    "analysis": {
-      "issue": "Explore Insikt Group’s 2025 Malicious Infrastructure Report",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },

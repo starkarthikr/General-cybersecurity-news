@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-13 13:54:26 UTC
+**Last Updated:** 2026-04-13 17:38:56 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Your MTTD Looks Great. Your Post-Alert Gap Doesn't](https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html)
+### 1. [FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts](https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 13 Apr 2026 20:16:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 2. [⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More](https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 13 Apr 2026 18:31:00 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Your MTTD Looks Great. Your Post-Alert Gap Doesn't](https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 13 Apr 2026 17:11:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware](https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html)
+### 4. [North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware](https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 13 Apr 2026 14:45:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident](https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html)
+### 5. [OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident](https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 13 Apr 2026 12:20:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads](https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html)
+### 6. [CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads](https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 12 Apr 2026 11:24:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html)
+### 7. [Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 12 Apr 2026 09:55:00 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data](https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html)
+### 8. [Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data](https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 11 Apr 2026 11:32:00 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs](https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html)
+### 9. [GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs](https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Apr 2026 18:53:00 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [Browser Extensions Are the New AI Consumption Channel That No One Is Talking About](https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html)
+### 10. [Browser Extensions Are the New AI Consumption Channel That No One Is Talking About](https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Apr 2026 16:30:00 +0530  
@@ -77,26 +95,35 @@
 
 ---
 
-### 9. [Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows](https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html)
+### 11. [New Booking.com data breach forces reservation PIN resets](https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 10 Apr 2026 13:28:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure](https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 10 Apr 2026 13:07:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 13 Apr 2026 13:30:10 -0400  
 **Severity:** High  
-**CVEs:** CVE-2026-39987  
-**Categories:** Vulnerability, Phishing  
+**Categories:** Data Breach  
 
 ---
 
-### 11. [Critical Marimo pre-auth RCE flaw now under active exploitation](https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/)
+### 12. [Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw](https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 13 Apr 2026 11:37:05 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-34621  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [The silent “Storm”: New infostealer hijacks sessions, decrypts server-side](https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 13 Apr 2026 10:05:15 -0400  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 14. [Critical Marimo pre-auth RCE flaw now under active exploitation](https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 12 Apr 2026 10:20:31 -0400  
@@ -106,7 +133,7 @@
 
 ---
 
-### 12. [Over 20,000 crypto fraud victims identified in international crackdown](https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/)
+### 15. [Over 20,000 crypto fraud victims identified in international crackdown](https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 11 Apr 2026 10:20:40 -0400  
@@ -115,7 +142,7 @@
 
 ---
 
-### 13. [ChatGPT rolls out new $100 Pro subscription to challenge Claude](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/)
+### 16. [ChatGPT rolls out new $100 Pro subscription to challenge Claude](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Apr 2026 22:08:16 -0400  
@@ -124,7 +151,7 @@
 
 ---
 
-### 14. [Nearly 4,000 US industrial devices exposed to Iranian cyberattacks](https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/)
+### 17. [Nearly 4,000 US industrial devices exposed to Iranian cyberattacks](https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Apr 2026 11:52:45 -0400  
@@ -133,7 +160,7 @@
 
 ---
 
-### 15. [Analysis of one billion CISA KEV remediation records exposes limits of human-scale security](https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/)
+### 18. [Analysis of one billion CISA KEV remediation records exposes limits of human-scale security](https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Apr 2026 10:01:11 -0400  
@@ -142,7 +169,7 @@
 
 ---
 
-### 16. [CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads](https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/)
+### 19. [CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads](https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Apr 2026 09:12:42 -0400  
@@ -151,39 +178,12 @@
 
 ---
 
-### 17. [Microsoft: Canadian employees targeted in payroll pirate attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/)
+### 20. [Microsoft: Canadian employees targeted in payroll pirate attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 10 Apr 2026 07:56:14 -0400  
 **Severity:** Low  
 **Categories:** Phishing, APT  
-
----
-
-### 18. [Google rolls out Gmail end-to-end encryption on mobile devices](https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 10 Apr 2026 06:44:08 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 19. [New ‘LucidRook’ malware used in targeted attacks on NGOs, universities](https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 09 Apr 2026 18:04:31 -0400  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
-
----
-
-### 20. [New VENOM phishing attacks steal senior executives' Microsoft logins](https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 09 Apr 2026 17:37:04 -0400  
-**Severity:** High  
-**Categories:** Phishing  
 
 ---
 
@@ -237,7 +237,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-21262, CVE-2026-24291, CVE-2026-26110, CVE-2026-26113, CVE-2026-24289, CVE-2026-26127, CVE-2026-24294  
+**CVEs:** CVE-2026-25187, CVE-2026-24291, CVE-2026-26127, CVE-2026-26113, CVE-2026-24289, CVE-2026-24294, CVE-2026-21262, CVE-2026-26110  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -278,73 +278,73 @@
 
 ---
 
-### 31. [OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack](https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/)
+### 31. [Booking.com Says Hackers Accessed User Information](https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/)
+
+**Source:** Security Week  
+**Published:** Mon, 13 Apr 2026 14:25:07 +0000  
+
+---
+
+### 32. [BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings](https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/)
+
+**Source:** Security Week  
+**Published:** Mon, 13 Apr 2026 14:00:00 +0000  
+
+---
+
+### 33. [OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack](https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/)
 
 **Source:** Security Week  
 **Published:** Mon, 13 Apr 2026 12:34:06 +0000  
 
 ---
 
-### 32. [International Operation Targets Multimillion-Dollar Crypto Theft Schemes](https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/)
+### 34. [International Operation Targets Multimillion-Dollar Crypto Theft Schemes](https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/)
 
 **Source:** Security Week  
 **Published:** Mon, 13 Apr 2026 11:34:35 +0000  
 
 ---
 
-### 33. [CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads](https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/)
+### 35. [CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads](https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/)
 
 **Source:** Security Week  
 **Published:** Mon, 13 Apr 2026 10:52:57 +0000  
 
 ---
 
-### 34. [Fake Claude Website Distributes PlugX RAT](https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/)
+### 36. [Fake Claude Website Distributes PlugX RAT](https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/)
 
 **Source:** Security Week  
 **Published:** Mon, 13 Apr 2026 09:52:50 +0000  
 
 ---
 
-### 35. [Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users](https://www.securityweek.com/gmail-brings-end-to-end-encryption-to-android-and-ios-for-enterprise-users/)
+### 37. [Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users](https://www.securityweek.com/gmail-brings-end-to-end-encryption-to-android-and-ios-for-enterprise-users/)
 
 **Source:** Security Week  
 **Published:** Mon, 13 Apr 2026 08:31:33 +0000  
 
 ---
 
-### 36. [Adobe Patches Reader Zero-Day Exploited for Months](https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/)
+### 38. [Adobe Patches Reader Zero-Day Exploited for Months](https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/)
 
 **Source:** Security Week  
 **Published:** Sun, 12 Apr 2026 07:45:26 +0000  
 
 ---
 
-### 37. [In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack](https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/)
+### 39. [In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack](https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Apr 2026 14:44:53 +0000  
 
 ---
 
-### 38. [Juniper Networks Patches Dozens of Junos OS Vulnerabilities](https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/)
+### 40. [Juniper Networks Patches Dozens of Junos OS Vulnerabilities](https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Apr 2026 13:44:17 +0000  
-
----
-
-### 39. [Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday](https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/)
-
-**Source:** Security Week  
-**Published:** Fri, 10 Apr 2026 12:41:08 +0000  
-
----
-
-### 40. [Orthanc DICOM Vulnerabilities Lead to Crashes, RCE](https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/)
-
-**Source:** Security Week  
-**Published:** Fri, 10 Apr 2026 11:53:45 +0000  
 
 ---
 
@@ -438,7 +438,25 @@
 
 ---
 
-### 51. [Third-Party Risk Is an Intelligence Operation. It's Time We Treated It Like One.](https://www.recordedfuture.com/blog/recorded-future-sees-its-inclusion-in-the-2026-forrester-wave)
+### 51. [March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day](https://www.recordedfuture.com/blog/march-2026-cve-landscape)
+
+**Source:** Recorded Future  
+**Published:** Mon, 13 Apr 2026 00:00:00 GMT  
+**Severity:** High  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 52. [VIP Credential Monitoring Blog](https://www.recordedfuture.com/blog/vip-credential-monitoring-blog)
+
+**Source:** Recorded Future  
+**Published:** Fri, 10 Apr 2026 00:00:00 GMT  
+**Severity:** High  
+**Categories:** Phishing  
+
+---
+
+### 53. [Third-Party Risk Is an Intelligence Operation. It's Time We Treated It Like One.](https://www.recordedfuture.com/blog/recorded-future-sees-its-inclusion-in-the-2026-forrester-wave)
 
 **Source:** Recorded Future  
 **Published:** Thu, 09 Apr 2026 00:00:00 GMT  
@@ -447,7 +465,7 @@
 
 ---
 
-### 52. [Understanding and Anticipating Venezuelan Government Actions](https://www.recordedfuture.com/research/understanding-and-anticipating-venezuelan-government-actions)
+### 54. [Understanding and Anticipating Venezuelan Government Actions](https://www.recordedfuture.com/research/understanding-and-anticipating-venezuelan-government-actions)
 
 **Source:** Recorded Future  
 **Published:** Wed, 08 Apr 2026 00:00:00 GMT  
@@ -456,7 +474,7 @@
 
 ---
 
-### 53. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+### 55. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
 
 **Source:** Recorded Future  
 **Published:** Fri, 03 Apr 2026 00:00:00 GMT  
@@ -465,7 +483,7 @@
 
 ---
 
-### 54. [Day in the Life: Product Manager at Recorded Future](https://www.recordedfuture.com/blog/kyle-kohler-product-manager)
+### 56. [Day in the Life: Product Manager at Recorded Future](https://www.recordedfuture.com/blog/kyle-kohler-product-manager)
 
 **Source:** Recorded Future  
 **Published:** Fri, 03 Apr 2026 00:00:00 GMT  
@@ -474,7 +492,7 @@
 
 ---
 
-### 55. [Latin America and the Caribbean Cybercrime Landscape](https://www.recordedfuture.com/research/latin-america-and-the-caribbean-cybercrime-landscape)
+### 57. [Latin America and the Caribbean Cybercrime Landscape](https://www.recordedfuture.com/research/latin-america-and-the-caribbean-cybercrime-landscape)
 
 **Source:** Recorded Future  
 **Published:** Thu, 02 Apr 2026 00:00:00 GMT  
@@ -483,14 +501,7 @@
 
 ---
 
-### 56. [Panorama del cibercrimen en América Latina y el Caribe](https://www.recordedfuture.com/research/latin-america-and-the-caribbean-cybercrime-landscape-pt)
-
-**Source:** Recorded Future  
-**Published:** Thu, 02 Apr 2026 00:00:00 GMT  
-
----
-
-### 57. [Industrialization of the Fraud Ecosystem Blog](https://www.recordedfuture.com/blog/industrialization-of-the-fraud-ecosystem-blog)
+### 58. [Industrialization of the Fraud Ecosystem Blog](https://www.recordedfuture.com/blog/industrialization-of-the-fraud-ecosystem-blog)
 
 **Source:** Recorded Future  
 **Published:** Wed, 01 Apr 2026 00:00:00 GMT  
@@ -499,7 +510,7 @@
 
 ---
 
-### 58. [The Shift: An Era of Quantum Geopolitics](https://www.recordedfuture.com/blog/the-shift-an-era-of-quantum-geopolitics)
+### 59. [The Shift: An Era of Quantum Geopolitics](https://www.recordedfuture.com/blog/the-shift-an-era-of-quantum-geopolitics)
 
 **Source:** Recorded Future  
 **Published:** Wed, 01 Apr 2026 00:00:00 GMT  
@@ -508,21 +519,12 @@
 
 ---
 
-### 59. [ClickFix Campaigns Targeting Windows and macOS](https://www.recordedfuture.com/research/clickfix-campaigns-targeting-windows-and-macos)
+### 60. [ClickFix Campaigns Targeting Windows and macOS](https://www.recordedfuture.com/research/clickfix-campaigns-targeting-windows-and-macos)
 
 **Source:** Recorded Future  
 **Published:** Wed, 25 Mar 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 60. [2025 Year in Review: Malicious, Infrastructure](https://www.recordedfuture.com/research/2025-year-in-review-malicious-infrastructure)
-
-**Source:** Recorded Future  
-**Published:** Thu, 19 Mar 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
