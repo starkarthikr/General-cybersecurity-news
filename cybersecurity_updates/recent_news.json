@@ -479,13 +479,13 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-21262",
-        "CVE-2026-24294",
         "CVE-2026-26110",
-        "CVE-2026-26113",
-        "CVE-2026-24289",
         "CVE-2026-24291",
+        "CVE-2026-24289",
+        "CVE-2026-25187",
+        "CVE-2026-24294",
         "CVE-2026-26127",
-        "CVE-2026-25187"
+        "CVE-2026-26113"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -516,7 +516,21 @@
     "title": "Who is the Kimwolf Botmaster “Dort”?",
     "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
     "published": "Sat, 28 Feb 2026 12:01:57 +0000",
-    "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information."
+    "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.",
+    "analysis": {
+      "issue": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to build Kimwolf, the world’s largest and most disruptive botnet",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT",
+        "DDoS"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
