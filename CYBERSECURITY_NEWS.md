@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-13 10:14:19 UTC
+**Last Updated:** 2026-04-13 13:54:26 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident](https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html)
+### 1. [Your MTTD Looks Great. Your Post-Alert Gap Doesn't](https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 13 Apr 2026 17:11:00 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware](https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 13 Apr 2026 14:45:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, APT  
+
+---
+
+### 3. [OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident](https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 13 Apr 2026 12:20:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads](https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html)
+### 4. [CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads](https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 12 Apr 2026 11:24:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html)
+### 5. [Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 12 Apr 2026 09:55:00 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data](https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html)
+### 6. [Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data](https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 11 Apr 2026 11:32:00 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs](https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html)
+### 7. [GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs](https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Apr 2026 18:53:00 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Browser Extensions Are the New AI Consumption Channel That No One Is Talking About](https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html)
+### 8. [Browser Extensions Are the New AI Consumption Channel That No One Is Talking About](https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Apr 2026 16:30:00 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows](https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html)
+### 9. [Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows](https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Apr 2026 13:28:00 +0530  
@@ -68,31 +86,13 @@
 
 ---
 
-### 8. [Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure](https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html)
+### 10. [Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure](https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Apr 2026 13:07:00 +0530  
 **Severity:** High  
 **CVEs:** CVE-2026-39987  
 **Categories:** Vulnerability, Phishing  
-
----
-
-### 9. [Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers](https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 10 Apr 2026 11:58:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 10. [EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs](https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 09 Apr 2026 22:56:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -237,7 +237,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-24289, CVE-2026-21262, CVE-2026-26127, CVE-2026-26110, CVE-2026-25187, CVE-2026-24294, CVE-2026-24291  
+**CVEs:** CVE-2026-25187, CVE-2026-21262, CVE-2026-24291, CVE-2026-26110, CVE-2026-26113, CVE-2026-24289, CVE-2026-26127, CVE-2026-24294  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -278,73 +278,73 @@
 
 ---
 
-### 31. [Fake Claude Website Distributes PlugX RAT](https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/)
+### 31. [OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack](https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/)
+
+**Source:** Security Week  
+**Published:** Mon, 13 Apr 2026 12:34:06 +0000  
+
+---
+
+### 32. [International Operation Targets Multimillion-Dollar Crypto Theft Schemes](https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/)
+
+**Source:** Security Week  
+**Published:** Mon, 13 Apr 2026 11:34:35 +0000  
+
+---
+
+### 33. [CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads](https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/)
+
+**Source:** Security Week  
+**Published:** Mon, 13 Apr 2026 10:52:57 +0000  
+
+---
+
+### 34. [Fake Claude Website Distributes PlugX RAT](https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/)
 
 **Source:** Security Week  
 **Published:** Mon, 13 Apr 2026 09:52:50 +0000  
 
 ---
 
-### 32. [Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users](https://www.securityweek.com/gmail-brings-end-to-end-encryption-to-android-and-ios-for-enterprise-users/)
+### 35. [Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users](https://www.securityweek.com/gmail-brings-end-to-end-encryption-to-android-and-ios-for-enterprise-users/)
 
 **Source:** Security Week  
 **Published:** Mon, 13 Apr 2026 08:31:33 +0000  
 
 ---
 
-### 33. [Adobe Patches Reader Zero-Day Exploited for Months](https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/)
+### 36. [Adobe Patches Reader Zero-Day Exploited for Months](https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/)
 
 **Source:** Security Week  
 **Published:** Sun, 12 Apr 2026 07:45:26 +0000  
 
 ---
 
-### 34. [In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack](https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/)
+### 37. [In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack](https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Apr 2026 14:44:53 +0000  
 
 ---
 
-### 35. [Juniper Networks Patches Dozens of Junos OS Vulnerabilities](https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/)
+### 38. [Juniper Networks Patches Dozens of Junos OS Vulnerabilities](https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Apr 2026 13:44:17 +0000  
 
 ---
 
-### 36. [Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday](https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/)
+### 39. [Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday](https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Apr 2026 12:41:08 +0000  
 
 ---
 
-### 37. [Orthanc DICOM Vulnerabilities Lead to Crashes, RCE](https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/)
+### 40. [Orthanc DICOM Vulnerabilities Lead to Crashes, RCE](https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/)
 
 **Source:** Security Week  
 **Published:** Fri, 10 Apr 2026 11:53:45 +0000  
-
----
-
-### 38. [Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000](https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/)
-
-**Source:** Security Week  
-**Published:** Fri, 10 Apr 2026 10:44:45 +0000  
-
----
-
-### 39. [MITRE Releases Fight Fraud Framework](https://www.securityweek.com/mitre-releases-fight-fraud-framework/)
-
-**Source:** Security Week  
-**Published:** Fri, 10 Apr 2026 09:51:03 +0000  
-
----
-
-### 40. [Critical Marimo Flaw Exploited Hours After Public Disclosure](https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/)
-
-**Source:** Security Week  
-**Published:** Fri, 10 Apr 2026 09:12:48 +0000  
 
 ---
 
@@ -621,7 +621,17 @@
 
 ---
 
-### 71. [A week in security (April 6 &#8211; April 12)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-6-april-12)
+### 71. [Simply opening a PDF could trigger this Adobe Reader zero-day](https://www.malwarebytes.com/blog/news/2026/04/simply-opening-a-pdf-could-trigger-this-adobe-reader-zero-day)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 13 Apr 2026 11:38:36 GMT  
+**Severity:** Low  
+**CVEs:** CVE-2026-34621  
+**Categories:** Vulnerability  
+
+---
+
+### 72. [A week in security (April 6 &#8211; April 12)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-6-april-12)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 13 Apr 2026 07:02:00 GMT  
@@ -630,7 +640,7 @@
 
 ---
 
-### 72. [Fake Claude site installs malware that gives attackers access to your computer](https://www.malwarebytes.com/blog/scams/2026/04/fake-claude-site-installs-malware-that-gives-attackers-access-to-your-computer)
+### 73. [Fake Claude site installs malware that gives attackers access to your computer](https://www.malwarebytes.com/blog/scams/2026/04/fake-claude-site-installs-malware-that-gives-attackers-access-to-your-computer)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 10 Apr 2026 16:16:26 GMT  
@@ -639,7 +649,7 @@
 
 ---
 
-### 73. [ClickFix finds a new way to infect Macs](https://www.malwarebytes.com/blog/news/2026/04/clickfix-finds-new-way-to-infect-macs)
+### 74. [ClickFix finds a new way to infect Macs](https://www.malwarebytes.com/blog/news/2026/04/clickfix-finds-new-way-to-infect-macs)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 10 Apr 2026 15:02:18 GMT  
@@ -648,7 +658,7 @@
 
 ---
 
-### 74. [Scammers pose as Amazon support to steal your account](https://www.malwarebytes.com/blog/news/2026/04/scammers-pose-as-amazon-support-to-steal-your-account)
+### 75. [Scammers pose as Amazon support to steal your account](https://www.malwarebytes.com/blog/news/2026/04/scammers-pose-as-amazon-support-to-steal-your-account)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 09 Apr 2026 13:05:44 GMT  
@@ -657,7 +667,7 @@
 
 ---
 
-### 75. [NSFW app leak exposes 70,000 prompts linked to individual users](https://www.malwarebytes.com/blog/news/2026/04/nsfw-app-leak-exposes-70000-prompts-linked-to-individual-users)
+### 76. [NSFW app leak exposes 70,000 prompts linked to individual users](https://www.malwarebytes.com/blog/news/2026/04/nsfw-app-leak-exposes-70000-prompts-linked-to-individual-users)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 09 Apr 2026 11:02:51 GMT  
@@ -666,7 +676,7 @@
 
 ---
 
-### 76. [30,000 private Facebook images allegedly downloaded by Meta employee](https://www.malwarebytes.com/blog/data-breaches/2026/04/30000-private-facebook-images-allegedly-downloaded-by-meta-employee)
+### 77. [30,000 private Facebook images allegedly downloaded by Meta employee](https://www.malwarebytes.com/blog/data-breaches/2026/04/30000-private-facebook-images-allegedly-downloaded-by-meta-employee)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 09 Apr 2026 10:07:37 GMT  
@@ -675,7 +685,7 @@
 
 ---
 
-### 77. [This fake Windows support website delivers password-stealing malware](https://www.malwarebytes.com/blog/scams/2026/04/this-fake-windows-support-website-delivers-password-stealing-malware)
+### 78. [This fake Windows support website delivers password-stealing malware](https://www.malwarebytes.com/blog/scams/2026/04/this-fake-windows-support-website-delivers-password-stealing-malware)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 09 Apr 2026 09:40:52 GMT  
@@ -684,7 +694,7 @@
 
 ---
 
-### 78. [Your extensions leak clues about you, so we made sure Browser Guard doesn&#8217;t](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/04/your-extensions-leak-clues-about-you-so-we-made-sure-browser-guard-doesnt)
+### 79. [Your extensions leak clues about you, so we made sure Browser Guard doesn&#8217;t](https://www.malwarebytes.com/blog/inside-malwarebytes/2026/04/your-extensions-leak-clues-about-you-so-we-made-sure-browser-guard-doesnt)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 08 Apr 2026 14:33:18 GMT  
@@ -693,21 +703,12 @@
 
 ---
 
-### 79. [Russian hacking group targets home and small office routers to spy on users](https://www.malwarebytes.com/blog/news/2026/04/russian-state-sponsored-hackers-hijack-home-and-small-office-routers-for-espionage)
+### 80. [Russian hacking group targets home and small office routers to spy on users](https://www.malwarebytes.com/blog/news/2026/04/russian-state-sponsored-hackers-hijack-home-and-small-office-routers-for-espionage)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 08 Apr 2026 13:31:25 GMT  
 **Severity:** Critical  
 **Categories:** Vulnerability, Phishing, APT  
-
----
-
-### 80. [Timeshare owners warned to watch out for cartel-linked scams](https://www.malwarebytes.com/blog/scams/2026/04/timeshare-owners-warned-to-watch-out-for-cartel-linked-scams)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 08 Apr 2026 10:25:08 GMT  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 

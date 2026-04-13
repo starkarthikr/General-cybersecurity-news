@@ -1,10 +1,47 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
+    "link": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
+    "published": "Mon, 13 Apr 2026 17:11:00 +0530",
+    "summary": "Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo&nbsp;Alto Networks' Wendi&nbsp;Whitmorewarned that similar capabilities are weeks or months from proliferation. CrowdStrike's 2026 Global Threat Report puts average eCrime breakout time at 29 minutes. Mandiant's M-Trends 2026",
+    "analysis": {
+      "issue": "AI-driven attacks exploiting zero-days and 29-minute breakout times expose SOC investigation gaps, accelerating the shift to automated response",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
+    "link": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
+    "published": "Mon, 13 Apr 2026 14:45:00 +0530",
+    "summary": "The North Korean hacking group tracked&nbsp;as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which threat actors approached targets on Facebook and added them as friends on the social media platform, turning the trust-building exercise into a delivery channel for a remote access trojan&nbsp;called RokRAT.\n\"The threat actor used two Facebook",
+    "analysis": {
+      "issue": "APT37 spreads RokRAT via Facebook and trojanized PDFelement accounts created Nov 10, 2025, enabling espionage and data theft",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
     "link": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
     "published": "Mon, 13 Apr 2026 12:20:00 +0530",
-    "summary": "OpenAI&nbsp;revealed a GitHub Actions workflow used to sign its macOS apps, which downloaded the malicious Axios library on March 31, but noted that no user data or&nbsp;internal system&nbsp;was compromised.\n\"Out of an abundance of caution, we are taking steps to protect the process that certifies our macOS applications are legitimate OpenAI apps,\"&nbsp;OpenAI said in a post last week. \"We found",
+    "summary": "OpenAI revealed a GitHub Actions workflow used to sign its macOS apps led to the download of the malicious Axios library on March 31, but noted that no user data or internal system was compromised.\n\"Out of an abundance of caution, we are taking steps to protect the process that certifies our macOS applications are legitimate OpenAI apps,\"&nbsp;OpenAI said in a post last week. \"We found no",
     "analysis": {
       "issue": "OpenAI revoked its macOS signing certificate after a malicious Axios dependency incident on March 31, 2026, preventing potential software misuse",
       "solution": null,
@@ -145,42 +182,6 @@
       "threat_categories": [
         "Vulnerability",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers",
-    "link": "https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html",
-    "published": "Fri, 10 Apr 2026 11:58:00 +0530",
-    "summary": "Unknown threat actors have hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla to push a poisoned version containing a backdoor.\nThe incident impacts Smart Slider 3 Pro version 3.5.1.35 for WordPress, per WordPress security company Patchstack. Smart Slider 3 is a popular WordPress slider plugin with more than 800,000 active installations across its free and Pro",
-    "analysis": {
-      "issue": "Backdoored Smart Slider 3 Pro v3",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs",
-    "link": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html",
-    "published": "Thu, 09 Apr 2026 22:56:00 +0530",
-    "summary": "Details have emerged about a now-patched security vulnerability in a widely used third-party Android software development kit&nbsp;(SDK) called&nbsp;EngageLab&nbsp;SDK that could have put millions of cryptocurrency wallet users at&nbsp;risk.\n\"This flaw allows apps on the same device to bypass Android security sandbox and gain unauthorized access to private&nbsp;data,\" the Microsoft Defender",
-    "analysis": {
-      "issue": "EngageLab SDK flaw exposed 50M+ Android installs after April 2025 disclosure, risking crypto wallet data until November 2025 patch",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -477,14 +478,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-25187",
+        "CVE-2026-21262",
+        "CVE-2026-24291",
+        "CVE-2026-26110",
         "CVE-2026-26113",
         "CVE-2026-24289",
-        "CVE-2026-21262",
         "CVE-2026-26127",
-        "CVE-2026-26110",
-        "CVE-2026-25187",
-        "CVE-2026-24294",
-        "CVE-2026-24291"
+        "CVE-2026-24294"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -570,6 +571,27 @@
   },
   {
     "source": "Security Week",
+    "title": "OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack",
+    "link": "https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/",
+    "published": "Mon, 13 Apr 2026 12:34:06 +0000",
+    "summary": "<p>The AI giant is taking action after determining that a macOS code signing certificate may have been compromised.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/\">OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "International Operation Targets Multimillion-Dollar Crypto Theft Schemes",
+    "link": "https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/",
+    "published": "Mon, 13 Apr 2026 11:34:35 +0000",
+    "summary": "<p>Law enforcement in the US, UK and Canada identified more than $45 million in cryptocurrency and froze $12 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/\">International Operation Targets Multimillion-Dollar Crypto Theft Schemes</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads",
+    "link": "https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/",
+    "published": "Mon, 13 Apr 2026 10:52:57 +0000",
+    "summary": "<p>Download links were replaced by a Russian-speaking threat actor to distribute a recently emerged malware named STX RAT.</p>\n<p>The post <a href=\"https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/\">CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Fake Claude Website Distributes PlugX RAT",
     "link": "https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/",
     "published": "Mon, 13 Apr 2026 09:52:50 +0000",
@@ -616,27 +638,6 @@
     "link": "https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/",
     "published": "Fri, 10 Apr 2026 11:53:45 +0000",
     "summary": "<p>Attackers could exploit these vulnerabilities in denial-of-service, information disclosure, and arbitrary code execution attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/\">Orthanc DICOM Vulnerabilities Lead to Crashes, RCE</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000",
-    "link": "https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/",
-    "published": "Fri, 10 Apr 2026 10:44:45 +0000",
-    "summary": "<p>The critical vulnerabilities affect Chrome’s WebML component and they have been reported by anonymous researchers.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/\">Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "MITRE Releases Fight Fraud Framework",
-    "link": "https://www.securityweek.com/mitre-releases-fight-fraud-framework/",
-    "published": "Fri, 10 Apr 2026 09:51:03 +0000",
-    "summary": "<p>The document provides a behavior-based model of the tactics and techniques employed by fraudsters.</p>\n<p>The post <a href=\"https://www.securityweek.com/mitre-releases-fight-fraud-framework/\">MITRE Releases Fight Fraud Framework</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical Marimo Flaw Exploited Hours After Public Disclosure",
-    "link": "https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/",
-    "published": "Fri, 10 Apr 2026 09:12:48 +0000",
-    "summary": "<p>Within nine hours, a hacker built an exploit from the unauthenticated bug’s advisory and started using it in the wild.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/\">Critical Marimo Flaw Exploited Hours After Public Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -1195,6 +1196,26 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Simply opening a PDF could trigger this Adobe Reader zero-day",
+    "link": "https://www.malwarebytes.com/blog/news/2026/04/simply-opening-a-pdf-could-trigger-this-adobe-reader-zero-day",
+    "published": "Mon, 13 Apr 2026 11:38:36 GMT",
+    "summary": "Even though it’s patched, Adobe confirmed it was exploited in the wild, so updating is urgent, not optional.",
+    "analysis": {
+      "issue": "Opening the wrong PDF in Adobe Reader was enough to let criminals quietly spy on your computer and unleash more attacks, even though everything looked normal",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-34621"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "A week in security (April 6 &#8211; April 12)",
     "link": "https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-6-april-12",
     "published": "Mon, 13 Apr 2026 07:02:00 GMT",
@@ -1358,24 +1379,6 @@
         "Vulnerability",
         "Phishing",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Timeshare owners warned to watch out for cartel-linked scams",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/04/timeshare-owners-warned-to-watch-out-for-cartel-linked-scams",
-    "published": "Wed, 08 Apr 2026 10:25:08 GMT",
-    "summary": "Authorities warn that Mexican drug cartels are targeting timeshare owners with advance-fee fraud. Here’s what to watch for.",
-    "analysis": {
-      "issue": "If you own a timeshare and have been searching for a way out, you need to know who may be targeting you",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
