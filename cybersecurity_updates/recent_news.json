@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
+    "link": "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html",
+    "published": "Tue, 14 Apr 2026 15:50:00 +0530",
+    "summary": "A nascent Android remote access trojan&nbsp;called Mirax has been observed actively targeting Spanish-speaking countries, with campaigns reaching more than 220,000 accounts on Facebook, Instagram, Messenger, and Threads through advertisements on&nbsp;Meta.\n\"Mirax integrates advanced Remote Access Trojan (RAT) capabilities, allowing threat actors to fully interact with compromised devices in real",
+    "analysis": {
+      "issue": "Mirax Android RAT spreads via Meta ads reaching 220,000 accounts, enabling proxy abuse and fraud operations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)",
+    "link": "https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html",
+    "published": "Tue, 14 Apr 2026 15:30:00 +0530",
+    "summary": "OX Security recently analyzed 216 million security findings across 250 organizations over a 90-day period. The&nbsp;primary takeaway: while raw alert volume grew by 52% year-over-year, prioritized critical risk grew by nearly&nbsp;400%.\nThe surge in AI-assisted development is creating a \"velocity&nbsp;gap\" where the density of high-impact vulnerabilities&nbsp;is scaling faster&nbsp;than",
+    "analysis": {
+      "issue": "Critical risk surged nearly 400% as AI-driven development increased vulnerabilities across 250 organizations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users",
     "link": "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html",
     "published": "Tue, 14 Apr 2026 14:05:00 +0530",
@@ -144,42 +180,6 @@
       "threat_categories": [
         "Malware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
-    "link": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
-    "published": "Mon, 13 Apr 2026 12:20:00 +0530",
-    "summary": "OpenAI revealed a GitHub Actions workflow used to sign its macOS apps led to the download of the malicious Axios library on March 31, but noted that no user data or internal system was compromised.\n\"Out of an abundance of caution, we are taking steps to protect the process that certifies our macOS applications are legitimate OpenAI apps,\"&nbsp;OpenAI said in a post last week. \"We found no",
-    "analysis": {
-      "issue": "OpenAI revoked its macOS signing certificate after a malicious Axios dependency incident on March 31, 2026, preventing potential software misuse",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
-    "link": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
-    "published": "Sun, 12 Apr 2026 11:24:00 +0530",
-    "summary": "Unknown threat actors compromised CPUID (\"cpuid[.]com\"), a website&nbsp;that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to serve malicious executables for the software and deploy a remote access trojan called STX&nbsp;RAT.\nThe incident lasted from approximately April 9, 15:00 UTC, to about April 10, 10:00&nbsp;UTC, with",
-    "analysis": {
-      "issue": "CPUID breach served STX RAT via trojanized CPU-Z downloads on April 9–10, impacting 150+ victims and multiple industries",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -359,7 +359,18 @@
     "title": "Over 20,000 crypto fraud victims identified in international crackdown",
     "link": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/",
     "published": "Sat, 11 Apr 2026 10:20:40 -0400",
-    "summary": "An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. [...]"
+    "summary": "An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. [...]",
+    "analysis": {
+      "issue": "An international law enforcement action led by the U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -470,14 +481,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-25187",
         "CVE-2026-26110",
+        "CVE-2026-25187",
+        "CVE-2026-26127",
+        "CVE-2026-21262",
         "CVE-2026-24291",
         "CVE-2026-24294",
-        "CVE-2026-26127",
         "CVE-2026-26113",
-        "CVE-2026-24289",
-        "CVE-2026-21262"
+        "CVE-2026-24289"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -563,6 +574,41 @@
   },
   {
     "source": "Security Week",
+    "title": "‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats",
+    "link": "https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/",
+    "published": "Tue, 14 Apr 2026 12:53:55 +0000",
+    "summary": "<p>CISOs face a shrinking window to prepare as AI models like Mythos collapse the gap between vulnerability discovery and exploitation, driving a new era of high-velocity cyberattacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/\">‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members",
+    "link": "https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/",
+    "published": "Tue, 14 Apr 2026 12:43:30 +0000",
+    "summary": "<p>Basic-Fit has reported that hackers have stolen names, dates of birth, and even bank account details. </p>\n<p>The post <a href=\"https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/\">Europe&#8217;s Largest Gym Chain Says Data Breach Impacts 1 Million Members</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "SAP Patches Critical ABAP Vulnerability",
+    "link": "https://www.securityweek.com/sap-patches-critical-abap-vulnerability/",
+    "published": "Tue, 14 Apr 2026 11:21:12 +0000",
+    "summary": "<p>The company has released 19 new security notes addressing flaws in over a dozen enterprise products.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-patches-critical-abap-vulnerability/\">SAP Patches Critical ABAP Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Triad Nexus Evades Sanctions to Fuel Cybercrime",
+    "link": "https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/",
+    "published": "Tue, 14 Apr 2026 10:53:32 +0000",
+    "summary": "<p>The sprawling cybercrime operation abuses major providers to prevent takedowns and distance itself from sanctions.</p>\n<p>The post <a href=\"https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/\">Triad Nexus Evades Sanctions to Fuel Cybercrime</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Adds Rust DNS Parser to Pixel Phones for Better Security",
+    "link": "https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/",
+    "published": "Tue, 14 Apr 2026 10:21:33 +0000",
+    "summary": "<p>The parser is meant to mitigate the entire class of memory safety bugs in the low-level environment.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/\">Google Adds Rust DNS Parser to Pixel Phones for Better Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Nightclub Giant RCI Hospitality Reports Data Breach",
     "link": "https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/",
     "published": "Tue, 14 Apr 2026 09:35:06 +0000",
@@ -597,39 +643,23 @@
     "summary": "<p>The AI giant is taking action after determining that a macOS code signing certificate may have been compromised.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/\">OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "International Operation Targets Multimillion-Dollar Crypto Theft Schemes",
-    "link": "https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/",
-    "published": "Mon, 13 Apr 2026 11:34:35 +0000",
-    "summary": "<p>Law enforcement in the US, UK and Canada identified more than $45 million in cryptocurrency and froze $12 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/\">International Operation Targets Multimillion-Dollar Crypto Theft Schemes</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads",
-    "link": "https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/",
-    "published": "Mon, 13 Apr 2026 10:52:57 +0000",
-    "summary": "<p>Download links were replaced by a Russian-speaking threat actor to distribute a recently emerged malware named STX RAT.</p>\n<p>The post <a href=\"https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/\">CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Fake Claude Website Distributes PlugX RAT",
-    "link": "https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/",
-    "published": "Mon, 13 Apr 2026 09:52:50 +0000",
-    "summary": "<p>The malware mimics the legitimate Anthropic installation, relies on DLL sideloading, and cleans up after itself.</p>\n<p>The post <a href=\"https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/\">Fake Claude Website Distributes PlugX RAT</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users",
-    "link": "https://www.securityweek.com/gmail-brings-end-to-end-encryption-to-android-and-ios-for-enterprise-users/",
-    "published": "Mon, 13 Apr 2026 08:31:33 +0000",
-    "summary": "<p>The feature allows enterprise users to compose and read end-to-end encrypted messages natively on their mobile devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/gmail-brings-end-to-end-encryption-to-android-and-ios-for-enterprise-users/\">Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Adobe Patches Reader Zero-Day Exploited for Months",
-    "link": "https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/",
-    "published": "Sun, 12 Apr 2026 07:45:26 +0000",
-    "summary": "<p>The vulnerability is tracked as CVE-2026-34621 and Adobe has confirmed that it can be exploited for arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/\">Adobe Patches Reader Zero-Day Exploited for Months</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "State-sponsored threats: Different objectives, similar access paths",
+    "link": "https://blog.talosintelligence.com/state-sponsored-threats-different-objectives-similar-access-paths/",
+    "published": "Tue, 14 Apr 2026 13:49:46 GMT",
+    "summary": "A look at 2025 state-sponsored threats, exploring how actors linked to China, Russia, North Korea, and Iran use vulnerabilities, identity, and trusted access paths to achieve their goals.",
+    "analysis": {
+      "issue": "Across the Talos 2025 Year in Review, state-sponsored threat activity from China, Russia, North Korea, and Iran all had varying motivations, such as espionage, disruption, financial gain, and geopolitical influence",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
   },
   {
     "source": "Talos Blog",
@@ -800,24 +830,6 @@
       "threat_categories": [
         "Malware",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "The democratisation of business email compromise fraud",
-    "link": "https://blog.talosintelligence.com/the-democratisation-of-business-email-compromise-fraud/",
-    "published": "Thu, 02 Apr 2026 18:00:20 GMT",
-    "summary": "This week, Martin tells the story of a crime he encountered and how it shows that the threat landscape is changing.",
-    "analysis": {
-      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1169,8 +1181,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1195,6 +1207,25 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Omnistealer uses the blockchain to steal everything it can",
+    "link": "https://www.malwarebytes.com/blog/news/2026/04/omnistealer-uses-the-blockchain-to-steal-everything-it-can",
+    "published": "Tue, 14 Apr 2026 11:52:15 GMT",
+    "summary": "This malware is coming for your password managers, saved logins, cloud storage, crypto wallets, and just about anything else it can reach.",
+    "analysis": {
+      "issue": "A new infostealer dubbed Omnistealer is turning the blockchain into a permanent malware hosting platform, which is bad news for both companies and everyday users",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
       ]
     }
   },
@@ -1362,25 +1393,6 @@
         "Data Breach",
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Your extensions leak clues about you, so we made sure Browser Guard doesn&#8217;t",
-    "link": "https://www.malwarebytes.com/blog/inside-malwarebytes/2026/04/your-extensions-leak-clues-about-you-so-we-made-sure-browser-guard-doesnt",
-    "published": "Wed, 08 Apr 2026 14:33:18 GMT",
-    "summary": "Your browser extensions can be used to build a profile of you for advertisers and scammers. We're making sure our Browser Guard extension stays private.",
-    "analysis": {
-      "issue": "Did you know you can be profiled based on the browser extensions you use",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
