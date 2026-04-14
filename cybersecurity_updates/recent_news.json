@@ -1,6 +1,63 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released",
+    "link": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
+    "published": "Tue, 14 Apr 2026 21:27:00 +0530",
+    "summary": "Two high-severity security vulnerabilities&nbsp;have been disclosed in Composer, a package&nbsp;manager for&nbsp;PHP, that, if successfully exploited, could result in arbitrary command execution.\nThe vulnerabilities&nbsp;have been&nbsp;described as command injection flaws affecting the Perforce VCS (version control software) driver. Details of the two flaws are below&nbsp;-\n\nCVE-2026-40176 (CVSS",
+    "analysis": {
+      "issue": "Two Composer flaws (CVE-2026-40176, CVE-2026-40261) allow command execution via Perforce configurations, prompting urgent updates",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-40176",
+        "CVE-2026-40261"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security",
+    "link": "https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html",
+    "published": "Tue, 14 Apr 2026 20:26:00 +0530",
+    "summary": "Google has announced the integration of a Rust-based Domain Name System (DNS) parser into the modem firmware as part of its ongoing efforts to beef up the security of Pixel devices and push memory-safe code at a more foundational&nbsp;level.\n\"The new Rust-based DNS parser significantly reduces our security risk by mitigating an entire class of vulnerabilities in a risky area, while also laying",
+    "analysis": {
+      "issue": "Google adds a Rust-based DNS parser to Pixel 10 modem firmware, reducing memory vulnerabilities and strengthening defenses against baseband exploits",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud",
+    "link": "https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html",
+    "published": "Tue, 14 Apr 2026 20:00:00 +0530",
+    "summary": "Cybersecurity researchers have unmasked a novel ad fraud scheme that has been found to leverage search engine poisoning (SEO) techniques and artificial intelligence (AI)-generated content to push deceptive news stories into&nbsp;Google's Discover&nbsp;feed and trick users into enabling persistent browser notifications that lead to scareware and financial&nbsp;scams.\nThe campaign, which has been",
+    "analysis": {
+      "issue": "Pushpaganda exploits Google Discover using AI-generated content, driving scams and ad fraud globally, prompting Google to deploy a security fix",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
     "link": "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html",
     "published": "Tue, 14 Apr 2026 15:50:00 +0530",
@@ -40,7 +97,7 @@
     "title": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users",
     "link": "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html",
     "published": "Tue, 14 Apr 2026 14:05:00 +0530",
-    "summary": "Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure with the goal of collecting user data and enabling browser-level abuse by injecting ads and arbitrary JavaScript code into every web page&nbsp;visited.\nAccording to Socket, the extensions are published",
+    "summary": "Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure with the goal of collecting user data and enabling browser-level abuse by injecting ads and arbitrary JavaScript code into every web page&nbsp;visited.\nAccording to Socket, the extensions (complete list",
     "analysis": {
       "issue": "108 Chrome extensions routed stolen Google and Telegram data to shared C2 infrastructure, impacting 20,000 users",
       "solution": null,
@@ -78,7 +135,7 @@
     "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
     "link": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
     "published": "Tue, 14 Apr 2026 11:09:00 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe list of vulnerabilities is as follows -\n\nCVE-2026-21643 (CVSS score: 9.1) -  An SQL injection vulnerability in  Fortinet FortiClient EMS that could allow an unauthenticated attacker to",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on&nbsp;Monday added half a dozen security flaws to its Known Exploited Vulnerabilities&nbsp;(KEV) catalog, citing evidence of active exploitation.\nThe list of vulnerabilities is as follows&nbsp;-\n\nCVE-2026-21643 (CVSS score: 9.1) -&nbsp; An SQL injection vulnerability in&nbsp; Fortinet FortiClient EMS that could allow an",
     "analysis": {
       "issue": "CISA adds six exploited vulnerabilities, including Fortinet and Exchange flaws, requiring FCEB patching by April 27, 2026",
       "solution": null,
@@ -129,57 +186,75 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
-    "link": "https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html",
-    "published": "Mon, 13 Apr 2026 18:31:00 +0530",
-    "summary": "Monday&nbsp;is back, and the weekend’s backlog of chaos is officially hitting the fan. We&nbsp;are tracking a critical zero-day that has been quietly living in your PDFs for months, plus some aggressive state-sponsored meddling in infrastructure that is finally coming to light. It&nbsp;is one of those mornings where the gap between a quiet shift and a full-blown incident response is basically",
+    "source": "Bleeping Computer",
+    "title": "Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/",
+    "published": "Tue, 14 Apr 2026 13:41:13 -0400",
+    "summary": "Today is Microsoft's April 2026 Patch Tuesday with security updates for 167 flaws, including 2 zero-day vulnerabilities. [...]",
     "analysis": {
-      "issue": "Stay ahead of the logs with our Monday Recap",
+      "issue": "Today is Microsoft's April 2026 Patch Tuesday with security updates for 167 flaws, including 2 zero-day vulnerabilities",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Vulnerability",
+        "DDoS"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
-    "link": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
-    "published": "Mon, 13 Apr 2026 17:11:00 +0530",
-    "summary": "Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo&nbsp;Alto Networks' Wendi&nbsp;Whitmore warned that similar capabilities are weeks or months from proliferation. CrowdStrike's 2026 Global Threat Report puts average eCrime breakout time at 29 minutes. Mandiant's M-Trends",
+    "source": "Bleeping Computer",
+    "title": "Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/",
+    "published": "Tue, 14 Apr 2026 12:37:01 -0400",
+    "summary": "A malicious Ledger Live app for macOS available from Apple's App Store has drained approximately $9.5 million in cryptocurrency from 50 victims in just a few days this month. [...]",
     "analysis": {
-      "issue": "AI-driven attacks exploiting zero-days and 29-minute breakout times expose SOC investigation gaps, accelerating the shift to automated response",
+      "issue": "A malicious Ledger Live app for macOS available from Apple’s App Store has drained approximately $9",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
-    "link": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
-    "published": "Mon, 13 Apr 2026 14:45:00 +0530",
-    "summary": "The North Korean hacking group tracked&nbsp;as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which threat actors approached targets on Facebook and added them as friends on the social media platform, turning the trust-building exercise into a delivery channel for a remote access trojan&nbsp;called RokRAT.\n\"The threat actor used two Facebook",
+    "source": "Bleeping Computer",
+    "title": "Microsoft rolls out fast-track to reinstate Windows hardware dev accounts",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/",
+    "published": "Tue, 14 Apr 2026 11:53:50 -0400",
+    "summary": "Microsoft has rolled out a fast-track process to help developers regain access to accounts recently suspended from its Windows Hardware Program, following widespread complaints that they were locked out without warning. [...]",
     "analysis": {
-      "issue": "APT37 spreads RokRAT via Facebook and trojanized PDFelement accounts created Nov 10, 2025, enabling espionage and data theft",
+      "issue": "Microsoft has rolled out a fast-track process to help developers regain access to accounts recently suspended from its Windows Hardware Program, following widespread complaints that they were locked out without warning",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "5 Ways Zero Trust Maximizes Identity Security",
+    "link": "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/",
+    "published": "Tue, 14 Apr 2026 10:02:12 -0400",
+    "summary": "Stolen credentials remain a top breach vector, often leading to unchecked privilege escalation. Specops explains how identity-first Zero Trust limits access, enforces device trust, and blocks lateral movement. [...]",
+    "analysis": {
+      "issue": "Stolen credentials accounted for 22% of known initial access vectors in 2025",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "APT"
+        "General Security"
       ]
     }
   },
@@ -297,82 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/",
-    "published": "Mon, 13 Apr 2026 11:37:05 -0400",
-    "summary": "Adobe has released an emergency security update for Acrobat Reader to fix a vulnerability, tracked as CVE-2026-34621, that has been exploited in zero-day attacks since at least December. [...]",
-    "analysis": {
-      "issue": "Adobe has released an emergency security update for Acrobat Reader to fix a vulnerability, tracked as CVE-2026-34621, that has been exploited in zero-day attacks since at least December",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-34621"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "The silent “Storm”: New infostealer hijacks sessions, decrypts server-side",
-    "link": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/",
-    "published": "Mon, 13 Apr 2026 10:05:15 -0400",
-    "summary": "New \"Storm\" infostealer skips local decryption, sending browser data to attacker servers. Varonis shows how server-side decryption enables session hijacking, bypassing passwords and MFA. [...]",
-    "analysis": {
-      "issue": "A new infostealer called Storm appeared on underground cybercrime networks in early 2026, representing a shift in how credential theft is developing",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical Marimo pre-auth RCE flaw now under active exploitation",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/",
-    "published": "Sun, 12 Apr 2026 10:20:31 -0400",
-    "summary": "A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]",
-    "analysis": {
-      "issue": "Hackers started exploiting a critical vulnerability in the Marimo open-source reactive Python notebook platform just 10 hours after its public disclosure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-39987"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Over 20,000 crypto fraud victims identified in international crackdown",
-    "link": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/",
-    "published": "Sat, 11 Apr 2026 10:20:40 -0400",
-    "summary": "An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. [...]",
-    "analysis": {
-      "issue": "An international law enforcement action led by the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
     "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
@@ -481,14 +480,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26110",
-        "CVE-2026-25187",
+        "CVE-2026-24289",
         "CVE-2026-26127",
+        "CVE-2026-26110",
+        "CVE-2026-26113",
         "CVE-2026-21262",
         "CVE-2026-24291",
-        "CVE-2026-24294",
-        "CVE-2026-26113",
-        "CVE-2026-24289"
+        "CVE-2026-25187",
+        "CVE-2026-24294"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -574,6 +573,13 @@
   },
   {
     "source": "Security Week",
+    "title": "Adobe Patches 55 Vulnerabilities Across 11 Products",
+    "link": "https://www.securityweek.com/adobe-patches-55-vulnerabilities-across-11-products/",
+    "published": "Tue, 14 Apr 2026 16:48:03 +0000",
+    "summary": "<p>Critical ColdFusion vulnerabilities are the most at risk of being exploited in attacks, according to the software giant.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-55-vulnerabilities-across-11-products/\">Adobe Patches 55 Vulnerabilities Across 11 Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats",
     "link": "https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/",
     "published": "Tue, 14 Apr 2026 12:53:55 +0000",
@@ -634,13 +640,6 @@
     "link": "https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/",
     "published": "Mon, 13 Apr 2026 14:00:00 +0000",
     "summary": "<p>Claims that “Microsoft is running one of the largest corporate espionage operations in modern history” face scrutiny as researchers analyze LinkedIn’s browser extension probing</p>\n<p>The post <a href=\"https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/\">BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack",
-    "link": "https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/",
-    "published": "Mon, 13 Apr 2026 12:34:06 +0000",
-    "summary": "<p>The AI giant is taking action after determining that a macOS code signing certificate may have been compromised.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/\">OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",

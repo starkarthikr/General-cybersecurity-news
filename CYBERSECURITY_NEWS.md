@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-14 13:59:18 UTC
+**Last Updated:** 2026-04-14 17:43:25 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads](https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html)
+### 1. [New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released](https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 14 Apr 2026 21:27:00 +0530  
+**Severity:** High  
+**CVEs:** CVE-2026-40176, CVE-2026-40261  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security](https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 14 Apr 2026 20:26:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud](https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 14 Apr 2026 20:00:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads](https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 14 Apr 2026 15:50:00 +0530  
@@ -13,7 +41,7 @@
 
 ---
 
-### 2. [Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)](https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html)
+### 5. [Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)](https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 14 Apr 2026 15:30:00 +0530  
@@ -22,7 +50,7 @@
 
 ---
 
-### 3. [108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users](https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html)
+### 6. [108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users](https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 14 Apr 2026 14:05:00 +0530  
@@ -31,7 +59,7 @@
 
 ---
 
-### 4. [ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers](https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html)
+### 7. [ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers](https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 14 Apr 2026 11:20:00 +0530  
@@ -41,7 +69,7 @@
 
 ---
 
-### 5. [CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software](https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html)
+### 8. [CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software](https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 14 Apr 2026 11:09:00 +0530  
@@ -50,7 +78,7 @@
 
 ---
 
-### 6. [JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025](https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html)
+### 9. [JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025](https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 13 Apr 2026 22:45:00 +0530  
@@ -59,7 +87,7 @@
 
 ---
 
-### 7. [FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts](https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html)
+### 10. [FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts](https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 13 Apr 2026 20:16:00 +0530  
@@ -68,34 +96,43 @@
 
 ---
 
-### 8. [⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More](https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html)
+### 11. [Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 13 Apr 2026 18:31:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 14 Apr 2026 13:41:13 -0400  
 **Severity:** Critical  
-**Categories:** Vulnerability  
+**Categories:** Vulnerability, DDoS  
 
 ---
 
-### 9. [Your MTTD Looks Great. Your Post-Alert Gap Doesn't](https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html)
+### 12. [Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto](https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 13 Apr 2026 17:11:00 +0530  
-**Severity:** Critical  
-**Categories:** Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Tue, 14 Apr 2026 12:37:01 -0400  
+**Severity:** High  
+**Categories:** General Security  
 
 ---
 
-### 10. [North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware](https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html)
+### 13. [Microsoft rolls out fast-track to reinstate Windows hardware dev accounts](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 13 Apr 2026 14:45:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 14 Apr 2026 11:53:50 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 14. [5 Ways Zero Trust Maximizes Identity Security](https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 14 Apr 2026 10:02:12 -0400  
 **Severity:** Low  
-**Categories:** Malware, APT  
+**Categories:** General Security  
 
 ---
 
-### 11. [European Gym giant Basic-Fit data breach affects 1 million members](https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/)
+### 15. [European Gym giant Basic-Fit data breach affects 1 million members](https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Apr 2026 17:50:01 -0400  
@@ -104,7 +141,7 @@
 
 ---
 
-### 12. [Stolen Rockstar Games analytics data leaked by extortion gang](https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/)
+### 16. [Stolen Rockstar Games analytics data leaked by extortion gang](https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Apr 2026 16:08:10 -0400  
@@ -113,7 +150,7 @@
 
 ---
 
-### 13. [Critical flaw in wolfSSL library enables forged certificate use](https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/)
+### 17. [Critical flaw in wolfSSL library enables forged certificate use](https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Apr 2026 15:56:03 -0400  
@@ -123,7 +160,7 @@
 
 ---
 
-### 14. [FBI takedown of W3LL phishing service leads to developer arrest](https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/)
+### 18. [FBI takedown of W3LL phishing service leads to developer arrest](https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Apr 2026 14:55:50 -0400  
@@ -132,7 +169,7 @@
 
 ---
 
-### 15. [OpenAI rotates macOS certs after Axios attack hit code-signing workflow](https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/)
+### 19. [OpenAI rotates macOS certs after Axios attack hit code-signing workflow](https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Apr 2026 13:39:10 -0400  
@@ -141,50 +178,12 @@
 
 ---
 
-### 16. [New Booking.com data breach forces reservation PIN resets](https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/)
+### 20. [New Booking.com data breach forces reservation PIN resets](https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Apr 2026 13:30:10 -0400  
 **Severity:** High  
 **Categories:** Data Breach  
-
----
-
-### 17. [Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw](https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 13 Apr 2026 11:37:05 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-34621  
-**Categories:** Vulnerability  
-
----
-
-### 18. [The silent “Storm”: New infostealer hijacks sessions, decrypts server-side](https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 13 Apr 2026 10:05:15 -0400  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 19. [Critical Marimo pre-auth RCE flaw now under active exploitation](https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 12 Apr 2026 10:20:31 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-39987  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Over 20,000 crypto fraud victims identified in international crackdown](https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 11 Apr 2026 10:20:40 -0400  
-**Severity:** Low  
-**Categories:** Phishing  
 
 ---
 
@@ -238,7 +237,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26110, CVE-2026-25187, CVE-2026-26127, CVE-2026-21262, CVE-2026-24291, CVE-2026-24294, CVE-2026-26113, CVE-2026-24289  
+**CVEs:** CVE-2026-24289, CVE-2026-26127, CVE-2026-26110, CVE-2026-26113, CVE-2026-21262, CVE-2026-24291, CVE-2026-25187, CVE-2026-24294  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,73 +278,73 @@
 
 ---
 
-### 31. [‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats](https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/)
+### 31. [Adobe Patches 55 Vulnerabilities Across 11 Products](https://www.securityweek.com/adobe-patches-55-vulnerabilities-across-11-products/)
+
+**Source:** Security Week  
+**Published:** Tue, 14 Apr 2026 16:48:03 +0000  
+
+---
+
+### 32. [‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats](https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Apr 2026 12:53:55 +0000  
 
 ---
 
-### 32. [Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members](https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/)
+### 33. [Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members](https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Apr 2026 12:43:30 +0000  
 
 ---
 
-### 33. [SAP Patches Critical ABAP Vulnerability](https://www.securityweek.com/sap-patches-critical-abap-vulnerability/)
+### 34. [SAP Patches Critical ABAP Vulnerability](https://www.securityweek.com/sap-patches-critical-abap-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Apr 2026 11:21:12 +0000  
 
 ---
 
-### 34. [Triad Nexus Evades Sanctions to Fuel Cybercrime](https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/)
+### 35. [Triad Nexus Evades Sanctions to Fuel Cybercrime](https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Apr 2026 10:53:32 +0000  
 
 ---
 
-### 35. [Google Adds Rust DNS Parser to Pixel Phones for Better Security](https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/)
+### 36. [Google Adds Rust DNS Parser to Pixel Phones for Better Security](https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Apr 2026 10:21:33 +0000  
 
 ---
 
-### 36. [Nightclub Giant RCI Hospitality Reports Data Breach](https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/)
+### 37. [Nightclub Giant RCI Hospitality Reports Data Breach](https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Apr 2026 09:35:06 +0000  
 
 ---
 
-### 37. [Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities](https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/)
+### 38. [Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities](https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Apr 2026 08:57:18 +0000  
 
 ---
 
-### 38. [Booking.com Says Hackers Accessed User Information](https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/)
+### 39. [Booking.com Says Hackers Accessed User Information](https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/)
 
 **Source:** Security Week  
 **Published:** Mon, 13 Apr 2026 14:25:07 +0000  
 
 ---
 
-### 39. [BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings](https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/)
+### 40. [BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings](https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/)
 
 **Source:** Security Week  
 **Published:** Mon, 13 Apr 2026 14:00:00 +0000  
-
----
-
-### 40. [OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack](https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/)
-
-**Source:** Security Week  
-**Published:** Mon, 13 Apr 2026 12:34:06 +0000  
 
 ---
 
