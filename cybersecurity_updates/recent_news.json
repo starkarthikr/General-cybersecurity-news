@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
+    "link": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html",
+    "published": "Mon, 13 Apr 2026 22:45:00 +0530",
+    "summary": "Banks and financial institutions in Latin American countries like Brazil and Mexico have continued to be the target of a malware family called JanelaRAT.\nA modified version of BX RAT, JanelaRAT is known to steal financial and cryptocurrency data associated with specific financial entities, as well as track mouse inputs, log keystrokes, take screenshots, and collect system metadata.\n\"One of the",
+    "analysis": {
+      "issue": "JanelaRAT hits Latin American banks with 14,739 attacks in Brazil in 2025, enabling credential theft and financial espionage",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
     "link": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
     "published": "Mon, 13 Apr 2026 20:16:00 +0530",
@@ -165,20 +184,97 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
-    "link": "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html",
-    "published": "Fri, 10 Apr 2026 16:30:00 +0530",
-    "summary": "While&nbsp;much of the discussion on AI security centers around protecting&nbsp;‘shadow’ AI and GenAI consumption, there's a wide-open&nbsp;window nobody's guarding: AI browser extensions.&nbsp;\nA&nbsp;new report from LayerX&nbsp;exposes just how deep this blind spot goes, and why AI extensions may be the most dangerous AI threat surface in your network&nbsp;that isn't&nbsp;on anyone's&nbsp;",
+    "source": "Bleeping Computer",
+    "title": "European Gym giant Basic-Fit data breach affects 1 million members",
+    "link": "https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/",
+    "published": "Mon, 13 Apr 2026 17:50:01 -0400",
+    "summary": "Dutch fitness giant Basic-Fit announced that hackers breached its systems and gained access to information belonging to a million of its customers. [...]",
     "analysis": {
-      "issue": "AI browser extensions increase enterprise risk with 60% higher vulnerabilities, bypassing DLP controls and exposing sensitive data",
+      "issue": "Dutch fitness giant Basic-Fit announced that hackers breached its systems and gained access to information belonging to a million of its customers",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Stolen Rockstar Games analytics data leaked by extortion gang",
+    "link": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/",
+    "published": "Mon, 13 Apr 2026 16:08:10 -0400",
+    "summary": "Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site. [...]",
+    "analysis": {
+      "issue": "Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Critical flaw in wolfSSL library enables forged certificate use",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
+    "published": "Mon, 13 Apr 2026 15:56:03 -0400",
+    "summary": "A critical vulnerability in the wolfSSL SSL/TLS library can weaken security via improper verification of the hash algorithm or its size when checking Elliptic Curve Digital Signature Algorithm (ECDSA) signatures. [...]",
+    "analysis": {
+      "issue": "A critical vulnerability in the wolfSSL SSL/TLS library can weaken security via improper verification of the hash algorithm or its size when checking Elliptic Curve Digital Signature Algorithm (ECDSA) signatures",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-5194"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "FBI takedown of W3LL phishing service leads to developer arrest",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
+    "published": "Mon, 13 Apr 2026 14:55:50 -0400",
+    "summary": "The FBI Atlanta Field Office and Indonesian authorities have dismantled the \"W3LL\" global phishing platform, seizing infrastructure and arresting the alleged developer in what is described as the first coordinated enforcement action between the United States and Indonesia targeting a phishing kit developer. [...]",
+    "analysis": {
+      "issue": "The FBI Atlanta Field Office and Indonesian authorities have dismantled the \"W3LL\" global phishing platform, seizing infrastructure and arresting the alleged developer in what is described as the first coordinated enforcement action between the Unite",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
+    "link": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
+    "published": "Mon, 13 Apr 2026 13:39:10 -0400",
+    "summary": "OpenAI is rotating potentially exposed macOS code-signing certificates after a GitHub Actions workflow executed a malicious Axios package during a recent supply chain attack. [...]",
+    "analysis": {
+      "issue": "OpenAI is rotating potentially exposed macOS code-signing certificates after a GitHub Actions workflow executed a malicious Axios package during a recent supply chain attack",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
       ]
     }
   },
@@ -273,97 +369,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ChatGPT rolls out new $100 Pro subscription to challenge Claude",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/",
-    "published": "Fri, 10 Apr 2026 22:08:16 -0400",
-    "summary": "OpenAI has rolled out a new Pro subscription that costs $100 and is in line with Claude's pricing, which also has a $100 subscription, in addition to the $200 Max monthly plan. [...]",
-    "analysis": {
-      "issue": "OpenAI has rolled out a new Pro subscription that costs $100 and is in line with Claude's pricing, which also has a $100 subscription, in addition to the $200 Max monthly plan",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
-    "link": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
-    "published": "Fri, 10 Apr 2026 11:52:45 -0400",
-    "summary": "The attack surface targeted by Iranian-linked hackers in cyberattacks against U.S. critical infrastructure networks includes thousands of Internet-exposed programmable logic controllers (PLCs) manufactured by Rockwell Automation. [...]",
-    "analysis": {
-      "issue": "The attack surface targeted by Iranian-linked hackers in cyberattacks against U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
-    "link": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
-    "published": "Fri, 10 Apr 2026 10:01:11 -0400",
-    "summary": "Analysis of 1 billion CISA KEV remediation records reveal a breaking point for human-scale security. Qualys shows most critical flaws are exploited before defenders can patch them. [...]",
-    "analysis": {
-      "issue": "Author: Saeed Abbasi, Senior Manager, Threat Research Unit, Qualys With Time-to-Exploit now at negative seven days and autonomous AI agents accelerating threats, the data no longer supports incremental improvement",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
-    "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
-    "published": "Fri, 10 Apr 2026 09:12:42 -0400",
-    "summary": "Hackers gained access to an API for the CPUID project and changed the download links on the official website to serve malicious executables for the popular CPU-Z and HWMonitor tools. [...]",
-    "analysis": {
-      "issue": "Hackers gained access to an API for the CPUID project and changed the download links on the official website to serve malicious executables for the popular CPU-Z and HWMonitor tools",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Canadian employees targeted in payroll pirate attacks",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
-    "published": "Fri, 10 Apr 2026 07:56:14 -0400",
-    "summary": "A financially motivated threat actor tracked as Storm-2755 is stealing Canadian employees' salary payments after hijacking their accounts in payroll pirate attacks. [...]",
-    "analysis": {
-      "issue": "A financially motivated threat actor tracked as Storm-2755 is stealing Canadian employees' salary payments after hijacking their accounts in payroll redirection (also known as payroll pirate) attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "APT"
       ]
     }
   },
@@ -476,14 +481,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-25187",
+        "CVE-2026-26110",
         "CVE-2026-24291",
-        "CVE-2026-26127",
         "CVE-2026-26113",
-        "CVE-2026-24289",
         "CVE-2026-24294",
-        "CVE-2026-21262",
-        "CVE-2026-26110"
+        "CVE-2026-24289",
+        "CVE-2026-26127",
+        "CVE-2026-25187",
+        "CVE-2026-21262"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -848,6 +853,24 @@
   },
   {
     "source": "Recorded Future",
+    "title": "The Iran War: What You Need to Know",
+    "link": "https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know",
+    "published": "Mon, 13 Apr 2026 00:00:00 GMT",
+    "summary": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios.",
+    "analysis": {
+      "issue": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "VIP Credential Monitoring Blog",
     "link": "https://www.recordedfuture.com/blog/vip-credential-monitoring-blog",
     "published": "Fri, 10 Apr 2026 00:00:00 GMT",
@@ -897,24 +920,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "The Iran War: What You Need to Know",
-    "link": "https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know",
-    "published": "Fri, 03 Apr 2026 00:00:00 GMT",
-    "summary": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios.",
-    "analysis": {
-      "issue": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1175,8 +1180,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

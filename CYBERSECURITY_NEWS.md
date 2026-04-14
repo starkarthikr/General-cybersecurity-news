@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-13 17:38:56 UTC
+**Last Updated:** 2026-04-14 03:21:56 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts](https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html)
+### 1. [JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025](https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 13 Apr 2026 22:45:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 2. [FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts](https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 13 Apr 2026 20:16:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More](https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html)
+### 3. [⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More](https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 13 Apr 2026 18:31:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Your MTTD Looks Great. Your Post-Alert Gap Doesn't](https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html)
+### 4. [Your MTTD Looks Great. Your Post-Alert Gap Doesn't](https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 13 Apr 2026 17:11:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware](https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html)
+### 5. [North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware](https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 13 Apr 2026 14:45:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident](https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html)
+### 6. [OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident](https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 13 Apr 2026 12:20:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads](https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html)
+### 7. [CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads](https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 12 Apr 2026 11:24:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html)
+### 8. [Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 12 Apr 2026 09:55:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data](https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html)
+### 9. [Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data](https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 11 Apr 2026 11:32:00 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs](https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html)
+### 10. [GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs](https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 10 Apr 2026 18:53:00 +0530  
@@ -86,16 +95,53 @@
 
 ---
 
-### 10. [Browser Extensions Are the New AI Consumption Channel That No One Is Talking About](https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html)
+### 11. [European Gym giant Basic-Fit data breach affects 1 million members](https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 10 Apr 2026 16:30:00 +0530  
-**Severity:** High  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Mon, 13 Apr 2026 17:50:01 -0400  
+**Severity:** Low  
+**Categories:** Data Breach  
 
 ---
 
-### 11. [New Booking.com data breach forces reservation PIN resets](https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/)
+### 12. [Stolen Rockstar Games analytics data leaked by extortion gang](https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 13 Apr 2026 16:08:10 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
+
+---
+
+### 13. [Critical flaw in wolfSSL library enables forged certificate use](https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 13 Apr 2026 15:56:03 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-5194  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [FBI takedown of W3LL phishing service leads to developer arrest](https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 13 Apr 2026 14:55:50 -0400  
+**Severity:** Low  
+**Categories:** Phishing, APT  
+
+---
+
+### 15. [OpenAI rotates macOS certs after Axios attack hit code-signing workflow](https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 13 Apr 2026 13:39:10 -0400  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 16. [New Booking.com data breach forces reservation PIN resets](https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Apr 2026 13:30:10 -0400  
@@ -104,7 +150,7 @@
 
 ---
 
-### 12. [Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw](https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/)
+### 17. [Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw](https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Apr 2026 11:37:05 -0400  
@@ -114,7 +160,7 @@
 
 ---
 
-### 13. [The silent “Storm”: New infostealer hijacks sessions, decrypts server-side](https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/)
+### 18. [The silent “Storm”: New infostealer hijacks sessions, decrypts server-side](https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 13 Apr 2026 10:05:15 -0400  
@@ -123,7 +169,7 @@
 
 ---
 
-### 14. [Critical Marimo pre-auth RCE flaw now under active exploitation](https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/)
+### 19. [Critical Marimo pre-auth RCE flaw now under active exploitation](https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 12 Apr 2026 10:20:31 -0400  
@@ -133,57 +179,12 @@
 
 ---
 
-### 15. [Over 20,000 crypto fraud victims identified in international crackdown](https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/)
+### 20. [Over 20,000 crypto fraud victims identified in international crackdown](https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 11 Apr 2026 10:20:40 -0400  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 16. [ChatGPT rolls out new $100 Pro subscription to challenge Claude](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 10 Apr 2026 22:08:16 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 17. [Nearly 4,000 US industrial devices exposed to Iranian cyberattacks](https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 10 Apr 2026 11:52:45 -0400  
-**Severity:** Critical  
-**Categories:** APT  
-
----
-
-### 18. [Analysis of one billion CISA KEV remediation records exposes limits of human-scale security](https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 10 Apr 2026 10:01:11 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 19. [CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads](https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 10 Apr 2026 09:12:42 -0400  
-**Severity:** High  
-**Categories:** Malware  
-
----
-
-### 20. [Microsoft: Canadian employees targeted in payroll pirate attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 10 Apr 2026 07:56:14 -0400  
-**Severity:** Low  
-**Categories:** Phishing, APT  
 
 ---
 
@@ -237,7 +238,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-24291, CVE-2026-26127, CVE-2026-26113, CVE-2026-24289, CVE-2026-24294, CVE-2026-21262, CVE-2026-26110  
+**CVEs:** CVE-2026-26110, CVE-2026-24291, CVE-2026-26113, CVE-2026-24294, CVE-2026-24289, CVE-2026-26127, CVE-2026-25187, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -447,7 +448,16 @@
 
 ---
 
-### 52. [VIP Credential Monitoring Blog](https://www.recordedfuture.com/blog/vip-credential-monitoring-blog)
+### 52. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+
+**Source:** Recorded Future  
+**Published:** Mon, 13 Apr 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 53. [VIP Credential Monitoring Blog](https://www.recordedfuture.com/blog/vip-credential-monitoring-blog)
 
 **Source:** Recorded Future  
 **Published:** Fri, 10 Apr 2026 00:00:00 GMT  
@@ -456,7 +466,7 @@
 
 ---
 
-### 53. [Third-Party Risk Is an Intelligence Operation. It's Time We Treated It Like One.](https://www.recordedfuture.com/blog/recorded-future-sees-its-inclusion-in-the-2026-forrester-wave)
+### 54. [Third-Party Risk Is an Intelligence Operation. It's Time We Treated It Like One.](https://www.recordedfuture.com/blog/recorded-future-sees-its-inclusion-in-the-2026-forrester-wave)
 
 **Source:** Recorded Future  
 **Published:** Thu, 09 Apr 2026 00:00:00 GMT  
@@ -465,21 +475,12 @@
 
 ---
 
-### 54. [Understanding and Anticipating Venezuelan Government Actions](https://www.recordedfuture.com/research/understanding-and-anticipating-venezuelan-government-actions)
+### 55. [Understanding and Anticipating Venezuelan Government Actions](https://www.recordedfuture.com/research/understanding-and-anticipating-venezuelan-government-actions)
 
 **Source:** Recorded Future  
 **Published:** Wed, 08 Apr 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** APT  
-
----
-
-### 55. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
-
-**Source:** Recorded Future  
-**Published:** Fri, 03 Apr 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -608,7 +609,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
