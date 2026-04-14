@@ -1,6 +1,62 @@
 [
   {
     "source": "The Hacker News",
+    "title": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users",
+    "link": "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html",
+    "published": "Tue, 14 Apr 2026 14:05:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure with the goal of collecting user data and enabling browser-level abuse by injecting ads and arbitrary JavaScript code into every web page&nbsp;visited.\nAccording to Socket, the extensions are published",
+    "analysis": {
+      "issue": "108 Chrome extensions routed stolen Google and Telegram data to shared C2 infrastructure, impacting 20,000 users",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers",
+    "link": "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html",
+    "published": "Tue, 14 Apr 2026 11:20:00 +0530",
+    "summary": "A critical security vulnerability&nbsp;impacting ShowDoc, a document management and collaboration service popular in China, has come under active exploitation in the&nbsp;wild.\nThe vulnerability in question&nbsp;is CVE-2025-0520 (aka CNVD-2020-26585), which carries a CVSS score of 9.4&nbsp;out of&nbsp;10.0.\nIt relates to a case of unrestricted file upload that stems from improper validation of",
+    "analysis": {
+      "issue": "ShowDoc CVE-2025-0520 exploited due to unpatched versions before 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-0520"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
+    "link": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
+    "published": "Tue, 14 Apr 2026 11:09:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe list of vulnerabilities is as follows -\n\nCVE-2026-21643 (CVSS score: 9.1) -  An SQL injection vulnerability in  Fortinet FortiClient EMS that could allow an unauthenticated attacker to",
+    "analysis": {
+      "issue": "CISA adds six exploited vulnerabilities, including Fortinet and Exchange flaws, requiring FCEB patching by April 27, 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
     "link": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html",
     "published": "Mon, 13 Apr 2026 22:45:00 +0530",
@@ -124,62 +180,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621",
-    "link": "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html",
-    "published": "Sun, 12 Apr 2026 09:55:00 +0530",
-    "summary": "Adobe has released emergency updates to fix a critical security flaw in Acrobat Reader that&nbsp;has come under active exploitation in the&nbsp;wild.\nThe vulnerability, assigned the CVE identifier CVE-2026-34621, carries a CVSS score of 8.6 out of 10.0. Successful exploitation of the flaw could allow an attacker to run malicious code on affected installations.\nIt&nbsp;has been&nbsp;described as",
-    "analysis": {
-      "issue": "Adobe patches CVE-2026-34621 after active exploitation since Dec 2025, preventing remote code execution via malicious PDFs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-34621"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data",
-    "link": "https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html",
-    "published": "Sat, 11 Apr 2026 11:32:00 +0530",
-    "summary": "Hungarian domestic intelligence, the national police in El Salvador, and several U.S. law&nbsp;enforcement and police departments have been attributed to the use of an advertising-based global geolocation surveillance system called&nbsp;Webloc.\nThe tool was developed by Israeli company Cobwebs Technologies and is now sold by its successor Penlink after&nbsp;the two firms merged in July&nbsp;2023",
-    "analysis": {
-      "issue": "Webloc surveils up to 500M devices using ad data; global law enforcement adoption raises warrantless tracking concerns",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
-    "link": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html",
-    "published": "Fri, 10 Apr 2026 18:53:00 +0530",
-    "summary": "Cybersecurity researchers have flagged yet another evolution of the&nbsp;ongoing GlassWorm campaign, which employs a new Zig dropper that's designed to stealthily infect all integrated development environments (IDEs) on a developer's&nbsp;machine.\nThe technique has been discovered in an Open VSX extension named&nbsp;\"specstudio.code-wakatime-activity-tracker,\" which masquerades as WakaTime, a",
-    "analysis": {
-      "issue": "GlassWorm uses a fake WakaTime VS Code extension to infect IDEs, deploy RATs, and steal data, prompting urgent credential rotation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -359,18 +359,7 @@
     "title": "Over 20,000 crypto fraud victims identified in international crackdown",
     "link": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/",
     "published": "Sat, 11 Apr 2026 10:20:40 -0400",
-    "summary": "An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. [...]",
-    "analysis": {
-      "issue": "An international law enforcement action led by the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
+    "summary": "An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. [...]"
   },
   {
     "source": "Krebs On Security",
@@ -481,14 +470,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26110",
-        "CVE-2026-21262",
-        "CVE-2026-26127",
-        "CVE-2026-24289",
-        "CVE-2026-24294",
-        "CVE-2026-26113",
         "CVE-2026-25187",
-        "CVE-2026-24291"
+        "CVE-2026-26110",
+        "CVE-2026-24291",
+        "CVE-2026-24294",
+        "CVE-2026-26127",
+        "CVE-2026-26113",
+        "CVE-2026-24289",
+        "CVE-2026-21262"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -574,6 +563,20 @@
   },
   {
     "source": "Security Week",
+    "title": "Nightclub Giant RCI Hospitality Reports Data Breach",
+    "link": "https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/",
+    "published": "Tue, 14 Apr 2026 09:35:06 +0000",
+    "summary": "<p>The company said in an SEC filing that an IDOR vulnerability affecting RCI Internet Services exposed contractor data.</p>\n<p>The post <a href=\"https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/\">Nightclub Giant RCI Hospitality Reports Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities",
+    "link": "https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/",
+    "published": "Tue, 14 Apr 2026 08:57:18 +0000",
+    "summary": "<p>The security defects allow attackers to escalate privileges and execute arbitrary code remotely.</p>\n<p>The post <a href=\"https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/\">Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Booking.com Says Hackers Accessed User Information",
     "link": "https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/",
     "published": "Mon, 13 Apr 2026 14:25:07 +0000",
@@ -627,20 +630,6 @@
     "link": "https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/",
     "published": "Sun, 12 Apr 2026 07:45:26 +0000",
     "summary": "<p>The vulnerability is tracked as CVE-2026-34621 and Adobe has confirmed that it can be exploited for arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/\">Adobe Patches Reader Zero-Day Exploited for Months</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack",
-    "link": "https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/",
-    "published": "Fri, 10 Apr 2026 14:44:53 +0000",
-    "summary": "<p>Other noteworthy stories that might have slipped under the radar: Jones Day hacked, Internet Bug Bounty program paused due to AI, new Mac stealer malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/\">In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Juniper Networks Patches Dozens of Junos OS Vulnerabilities",
-    "link": "https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/",
-    "published": "Fri, 10 Apr 2026 13:44:17 +0000",
-    "summary": "<p>A critical-severity flaw could be exploited remotely, without authentication, to take over a vulnerable device.</p>\n<p>The post <a href=\"https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/\">Juniper Networks Patches Dozens of Junos OS Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -1211,6 +1200,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "ChatGPT under scrutiny as Florida investigates campus shooting",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/04/chatgpt-under-scrutiny-as-florida-investigates-campus-shooting",
+    "published": "Tue, 14 Apr 2026 09:45:35 GMT",
+    "summary": "New cases and research suggest AI chatbots don’t always shut down dangerous conversations.",
+    "analysis": {
+      "issue": "On April 9, Florida Attorney General James Uthmeier announced that his office is investigating OpenAI over the role ChatGPT might have played in a deadly shooting at Florida State University, saying: “Subpoenas are coming",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Simply opening a PDF could trigger this Adobe Reader zero-day",
     "link": "https://www.malwarebytes.com/blog/news/2026/04/simply-opening-a-pdf-could-trigger-this-adobe-reader-zero-day",
     "published": "Mon, 13 Apr 2026 11:38:36 GMT",
@@ -1374,26 +1381,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Russian hacking group targets home and small office routers to spy on users",
-    "link": "https://www.malwarebytes.com/blog/news/2026/04/russian-state-sponsored-hackers-hijack-home-and-small-office-routers-for-espionage",
-    "published": "Wed, 08 Apr 2026 13:31:25 GMT",
-    "summary": "The FBI, NCSC, and Microsoft warn of an ongoing Russian campaign hijacking DNS settings on home and small office routers to spy on users.",
-    "analysis": {
-      "issue": "British security officials found that a group linked to the Russian military is spying on users of compromised Small Office/Home Office (SOHO) routers in a broad cyber espionage campaign",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing",
-        "APT"
       ]
     }
   },
