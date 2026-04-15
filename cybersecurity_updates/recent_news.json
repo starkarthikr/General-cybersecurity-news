@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
+    "link": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html",
+    "published": "Wed, 15 Apr 2026 22:39:00 +0530",
+    "summary": "Threat actors&nbsp;have been&nbsp;observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophisticated phishing campaigns and deliver malicious payloads or fingerprint devices by sending automated&nbsp;emails.\n\"By leveraging trusted infrastructure, these attackers bypass traditional security filters, turning productivity tools into delivery",
+    "analysis": {
+      "issue": "n8n webhooks abused since October 2025, with phishing volume up 686%, enabling malware delivery and device tracking",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
     "link": "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html",
     "published": "Wed, 15 Apr 2026 18:26:00 +0530",
@@ -169,20 +188,58 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)",
-    "link": "https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html",
-    "published": "Tue, 14 Apr 2026 15:30:00 +0530",
-    "summary": "OX Security recently analyzed 216 million security findings across 250 organizations over a 90-day period. The&nbsp;primary takeaway: while raw alert volume grew by 52% year-over-year, prioritized critical risk grew by nearly&nbsp;400%.\nThe surge in AI-assisted development is creating a \"velocity&nbsp;gap\" where the density of high-impact vulnerabilities&nbsp;is scaling faster&nbsp;than",
+    "source": "Bleeping Computer",
+    "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
+    "published": "Wed, 15 Apr 2026 12:20:21 -0400",
+    "summary": "Microsoft has awarded $2.3 million to security researchers after receiving nearly 700 submissions during this year's Zero Day Quest hacking contest. [...]",
     "analysis": {
-      "issue": "Critical risk surged nearly 400% as AI-driven development increased vulnerabilities across 250 organizations",
+      "issue": "3 million to security researchers after receiving nearly 700 submissions during this year's Zero Day Quest hacking contest",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA flags Windows Task Host vulnerability as exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
+    "published": "Wed, 15 Apr 2026 10:51:05 -0400",
+    "summary": "CISA warned U.S. government agencies to secure their systems against a Windows Task Host privilege escalation vulnerability that could allow attackers to gain SYSTEM privileges. [...]",
+    "analysis": {
+      "issue": "government agencies to secure their systems against a Windows Task Host privilege escalation vulnerability that could allow attackers to gain SYSTEM privileges",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-60710"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Rolling Networks: Securing the Transportation Sector",
+    "link": "https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/",
+    "published": "Wed, 15 Apr 2026 10:00:10 -0400",
+    "summary": "Modern trucks are rolling networks packed with sensors, connectivity, and attack surfaces, creating new cyber risks. NMFTA's Cybersecurity Conference brings industry leaders together to tackle emerging threats in transportation. [...]",
+    "analysis": {
+      "issue": "Author: Ben Wilkens, cybersecurity principal engineer, NMFTA\r\nWhen they see an 80,000-pound vehicle rolling down the highway at 65 miles per hour, the first thing most people think about is not cybersecurity",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
       ]
     }
   },
@@ -313,61 +370,6 @@
         "Ransomware",
         "Data Breach",
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 cumulative updates KB5083769 & KB5082052 released",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/",
-    "published": "Tue, 14 Apr 2026 13:46:31 -0400",
-    "summary": "Microsoft has released Windows 11 KB5083769 and KB5082052 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-    "analysis": {
-      "issue": "Microsoft has released Windows 11 KB5083769 and KB5082052 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/",
-    "published": "Tue, 14 Apr 2026 13:41:13 -0400",
-    "summary": "Today is Microsoft's April 2026 Patch Tuesday with security updates for 167 flaws, including 2 zero-day vulnerabilities. [...]",
-    "analysis": {
-      "issue": "Today is Microsoft's April 2026 Patch Tuesday with security updates for 167 flaws, including 2 zero-day vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/",
-    "published": "Tue, 14 Apr 2026 12:37:01 -0400",
-    "summary": "A malicious Ledger Live app for macOS available from Apple's App Store has drained approximately $9.5 million in cryptocurrency from 50 victims in just a few days this month. [...]",
-    "analysis": {
-      "issue": "A malicious Ledger Live app for macOS available from Apple’s App Store has drained approximately $9",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -503,14 +505,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24289",
         "CVE-2026-26113",
-        "CVE-2026-24291",
-        "CVE-2026-21262",
+        "CVE-2026-24289",
         "CVE-2026-26127",
-        "CVE-2026-26110",
+        "CVE-2026-25187",
         "CVE-2026-24294",
-        "CVE-2026-25187"
+        "CVE-2026-21262",
+        "CVE-2026-24291",
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -577,6 +579,27 @@
   },
   {
     "source": "Security Week",
+    "title": "Sweden Blames Pro-Russian Group for Cyberattack Last Year on Its Energy Infrastructure",
+    "link": "https://www.securityweek.com/sweden-blames-pro-russian-group-for-cyberattack-last-year-on-its-energy-infrastructure/",
+    "published": "Wed, 15 Apr 2026 16:46:48 +0000",
+    "summary": "<p>In what was Sweden’s first public mention of the attack, the country’s minister for civil defense said it targeted a heating plant in western Sweden.</p>\n<p>The post <a href=\"https://www.securityweek.com/sweden-blames-pro-russian-group-for-cyberattack-last-year-on-its-energy-infrastructure/\">Sweden Blames Pro-Russian Group for Cyberattack Last Year on Its Energy Infrastructure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Exploited Vulnerability Exposes Nginx Servers to Hacking",
+    "link": "https://www.securityweek.com/exploited-vulnerability-exposes-nginx-servers-to-hacking/",
+    "published": "Wed, 15 Apr 2026 14:45:58 +0000",
+    "summary": "<p>Hackers are exploiting CVE-2026-33032, a critical remote takeover vulnerability in the Nginx UI management tool. </p>\n<p>The post <a href=\"https://www.securityweek.com/exploited-vulnerability-exposes-nginx-servers-to-hacking/\">Exploited Vulnerability Exposes Nginx Servers to Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Capsule Security Emerges From Stealth With $7 Million in Funding",
+    "link": "https://www.securityweek.com/capsule-security-emerges-from-stealth-with-7-million-in-funding/",
+    "published": "Wed, 15 Apr 2026 13:56:50 +0000",
+    "summary": "<p>The Israeli startup aims to secure AI agents at runtime, continuously monitoring their behavior to prevent unsafe actions.</p>\n<p>The post <a href=\"https://www.securityweek.com/capsule-security-emerges-from-stealth-with-7-million-in-funding/\">Capsule Security Emerges From Stealth With $7 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "‘By Design’ Flaw in MCP Could Enable Widespread AI Supply Chain Attacks",
     "link": "https://www.securityweek.com/by-design-flaw-in-mcp-could-enable-widespread-ai-supply-chain-attacks/",
     "published": "Wed, 15 Apr 2026 13:34:48 +0000",
@@ -625,27 +648,6 @@
     "summary": "<p>Congress is set to take up the reauthorization of a divisive program that lets U.S. spy agencies pore over foreigners’ calls, texts and emails.</p>\n<p>The post <a href=\"https://www.securityweek.com/trump-urges-extending-foreign-surveillance-program-as-some-lawmakers-push-for-us-privacy-protections/\">Trump Urges Extending Foreign Surveillance Program as Some Lawmakers Push for US Privacy Protections</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "Fortinet Patches Critical FortiSandbox Vulnerabilities",
-    "link": "https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/",
-    "published": "Wed, 15 Apr 2026 09:37:24 +0000",
-    "summary": "<p>The flaws could allow attackers to bypass authentication or execute arbitrary code or commands via HTTP requests.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/\">Fortinet Patches Critical FortiSandbox Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories",
-    "link": "https://www.securityweek.com/ics-patch-tuesday-8-industrial-giants-publish-new-security-advisories/",
-    "published": "Wed, 15 Apr 2026 07:14:08 +0000",
-    "summary": "<p>Siemens, Schneider Electric, Aveva, Rockwell Automation, ABB, Phoenix Contact, Mitsubishi Electric, and Moxa patched vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/ics-patch-tuesday-8-industrial-giants-publish-new-security-advisories/\">ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities",
-    "link": "https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/",
-    "published": "Tue, 14 Apr 2026 18:14:37 +0000",
-    "summary": "<p>Experts say this is the second-largest Microsoft Patch Tuesday ever based on CVE count.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/\">Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
     "source": "Talos Blog",
     "title": "The n8n n8mare: How threat actors are misusing AI workflow automation",
     "link": "https://blog.talosintelligence.com/the-n8n-n8mare/",
@@ -678,12 +680,12 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-33115",
-        "CVE-2026-32190",
         "CVE-2026-33114",
         "CVE-2026-33826",
-        "CVE-2026-23666",
+        "CVE-2026-32157",
         "CVE-2026-33824",
-        "CVE-2026-32157"
+        "CVE-2026-32190",
+        "CVE-2026-23666"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -845,6 +847,25 @@
   },
   {
     "source": "Recorded Future",
+    "title": "Your Supply Chain Breach Is Someone Else's Payday",
+    "link": "https://www.recordedfuture.com/blog/your-supply-chain-breach-is-someone-else-payday",
+    "published": "Wed, 15 Apr 2026 00:00:00 GMT",
+    "summary": "A supply chain attack by TeamPCP compromised trusted software tools to harvest credentials at scale, enabling payroll fraud, logistics theft, and ransomware extortion.",
+    "analysis": {
+      "issue": "A supply chain attack by TeamPCP compromised trusted software tools to harvest credentials at scale, enabling payroll fraud, logistics theft, and ransomware extortion",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "Iran War: Future Scenario and Business Improvements",
     "link": "https://www.recordedfuture.com/research/iran-war-future-scenario-and-business-improvements",
     "published": "Tue, 14 Apr 2026 00:00:00 GMT",
@@ -996,24 +1017,6 @@
     "summary": "This report provides an overview of trends and developments in the cybercriminal ecosystem of Latin America and the Caribbean (LAC) in 2025.",
     "analysis": {
       "issue": "This report provides an overview of trends and developments in the cybercriminal ecosystem of Latin America and the Caribbean (LAC) in 2025",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Industrialization of the Fraud Ecosystem Blog",
-    "link": "https://www.recordedfuture.com/blog/industrialization-of-the-fraud-ecosystem-blog",
-    "published": "Wed, 01 Apr 2026 00:00:00 GMT",
-    "summary": "Payment fraud has industrialized, and that's a defensive advantage. Learn how standardized attack infrastructure creates detectable patterns that financial institutions can act on before losses occur.",
-    "analysis": {
-      "issue": "Payment fraud has industrialized, and that's a defensive advantage",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1191,8 +1194,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
