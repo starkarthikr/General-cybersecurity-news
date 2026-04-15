@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-15 09:56:41 UTC
+**Last Updated:** 2026-04-15 13:52:57 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities](https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html)
+### 1. [Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover](https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 15 Apr 2026 18:26:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-33032  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More](https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 15 Apr 2026 18:07:00 +0530  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 3. [Deterministic + Agentic AI: The Architecture Exposure Validation Requires](https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 15 Apr 2026 17:00:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities](https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 15 Apr 2026 14:10:00 +0530  
@@ -14,7 +42,7 @@
 
 ---
 
-### 2. [OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams](https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html)
+### 5. [OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams](https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 15 Apr 2026 10:00:00 +0530  
@@ -23,7 +51,7 @@
 
 ---
 
-### 3. [New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released](https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html)
+### 6. [New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released](https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 14 Apr 2026 21:27:00 +0530  
@@ -33,7 +61,7 @@
 
 ---
 
-### 4. [Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security](https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html)
+### 7. [Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security](https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 14 Apr 2026 20:26:00 +0530  
@@ -42,7 +70,7 @@
 
 ---
 
-### 5. [AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud](https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html)
+### 8. [AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud](https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 14 Apr 2026 20:00:00 +0530  
@@ -51,7 +79,7 @@
 
 ---
 
-### 6. [Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads](https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html)
+### 9. [Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads](https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 14 Apr 2026 15:50:00 +0530  
@@ -60,7 +88,7 @@
 
 ---
 
-### 7. [Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)](https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html)
+### 10. [Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)](https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 14 Apr 2026 15:30:00 +0530  
@@ -69,35 +97,25 @@
 
 ---
 
-### 8. [108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users](https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html)
+### 11. [Microsoft: April updates trigger BitLocker key prompts on some servers](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 14 Apr 2026 14:05:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 15 Apr 2026 07:41:35 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 9. [ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers](https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html)
+### 12. [Microsoft fixes bug behind Windows Server 2025 automatic upgrades](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 14 Apr 2026 11:20:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 15 Apr 2026 06:24:53 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2025-0520  
-**Categories:** Vulnerability  
+**Categories:** Supply Chain  
 
 ---
 
-### 10. [CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software](https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 14 Apr 2026 11:09:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 11. [Microsoft adds Windows protections for malicious Remote Desktop files](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/)
+### 13. [Microsoft adds Windows protections for malicious Remote Desktop files](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Apr 2026 18:23:33 -0400  
@@ -106,7 +124,7 @@
 
 ---
 
-### 12. [Crypto-exchange Kraken extorted by hackers after insider breach](https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/)
+### 14. [Crypto-exchange Kraken extorted by hackers after insider breach](https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Apr 2026 17:58:31 -0400  
@@ -115,7 +133,7 @@
 
 ---
 
-### 13. [Over 100 Chrome Web Store extensions steal user accounts, data](https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/)
+### 15. [Over 100 Chrome Web Store extensions steal user accounts, data](https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Apr 2026 16:33:00 -0400  
@@ -124,7 +142,7 @@
 
 ---
 
-### 14. [Microsoft releases Windows 10 KB5082200 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/)
+### 16. [Microsoft releases Windows 10 KB5082200 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Apr 2026 14:09:39 -0400  
@@ -133,7 +151,7 @@
 
 ---
 
-### 15. [McGraw-Hill confirms data breach following extortion threat](https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/)
+### 17. [McGraw-Hill confirms data breach following extortion threat](https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Apr 2026 14:07:07 -0400  
@@ -142,7 +160,7 @@
 
 ---
 
-### 16. [Windows 11 cumulative updates KB5083769 & KB5082052 released](https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/)
+### 18. [Windows 11 cumulative updates KB5083769 & KB5082052 released](https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Apr 2026 13:46:31 -0400  
@@ -151,7 +169,7 @@
 
 ---
 
-### 17. [Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/)
+### 19. [Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Apr 2026 13:41:13 -0400  
@@ -160,29 +178,11 @@
 
 ---
 
-### 18. [Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto](https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/)
+### 20. [Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto](https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Apr 2026 12:37:01 -0400  
 **Severity:** High  
-**Categories:** General Security  
-
----
-
-### 19. [Microsoft rolls out fast-track to reinstate Windows hardware dev accounts](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 14 Apr 2026 11:53:50 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 20. [5 Ways Zero Trust Maximizes Identity Security](https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 14 Apr 2026 10:02:12 -0400  
-**Severity:** Low  
 **Categories:** General Security  
 
 ---
@@ -192,7 +192,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
+**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -247,7 +247,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24294, CVE-2026-26110, CVE-2026-25187, CVE-2026-24289, CVE-2026-21262, CVE-2026-26127, CVE-2026-26113, CVE-2026-24291  
+**CVEs:** CVE-2026-24289, CVE-2026-26113, CVE-2026-24291, CVE-2026-21262, CVE-2026-26127, CVE-2026-26110, CVE-2026-24294, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,87 +279,96 @@
 
 ---
 
-### 31. [Fortinet Patches Critical FortiSandbox Vulnerabilities](https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/)
+### 31. [‘By Design’ Flaw in MCP Could Enable Widespread AI Supply Chain Attacks](https://www.securityweek.com/by-design-flaw-in-mcp-could-enable-widespread-ai-supply-chain-attacks/)
+
+**Source:** Security Week  
+**Published:** Wed, 15 Apr 2026 13:34:48 +0000  
+
+---
+
+### 32. [100 Chrome Extensions Steal User Data, Create Backdoor](https://www.securityweek.com/100-chrome-extensions-steal-user-data-open-backdoor/)
+
+**Source:** Security Week  
+**Published:** Wed, 15 Apr 2026 13:24:13 +0000  
+
+---
+
+### 33. [CISO Conversations: Ross McKerchar, CISO at Sophos](https://www.securityweek.com/ciso-conversations-ross-mckerchar-ciso-at-sophos/)
+
+**Source:** Security Week  
+**Published:** Wed, 15 Apr 2026 13:00:00 +0000  
+
+---
+
+### 34. [Mirax RAT Targeting Android Users in Europe](https://www.securityweek.com/mirax-rat-targeting-android-users-in-europe/)
+
+**Source:** Security Week  
+**Published:** Wed, 15 Apr 2026 12:10:08 +0000  
+
+---
+
+### 35. [Two Vulnerabilities Patched in Ivanti Neurons for ITSM](https://www.securityweek.com/two-vulnerabilities-patched-in-ivanti-neurons-for-itsm/)
+
+**Source:** Security Week  
+**Published:** Wed, 15 Apr 2026 11:38:21 +0000  
+
+---
+
+### 36. [$10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT and Gov Networks](https://www.securityweek.com/10-domain-could-have-handed-hackers-25k-endpoints-including-in-ot-and-gov-networks/)
+
+**Source:** Security Week  
+**Published:** Wed, 15 Apr 2026 10:58:12 +0000  
+
+---
+
+### 37. [Trump Urges Extending Foreign Surveillance Program as Some Lawmakers Push for US Privacy Protections](https://www.securityweek.com/trump-urges-extending-foreign-surveillance-program-as-some-lawmakers-push-for-us-privacy-protections/)
+
+**Source:** Security Week  
+**Published:** Wed, 15 Apr 2026 10:25:56 +0000  
+
+---
+
+### 38. [Fortinet Patches Critical FortiSandbox Vulnerabilities](https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Wed, 15 Apr 2026 09:37:24 +0000  
 
 ---
 
-### 32. [ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories](https://www.securityweek.com/ics-patch-tuesday-8-industrial-giants-publish-new-security-advisories/)
+### 39. [ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories](https://www.securityweek.com/ics-patch-tuesday-8-industrial-giants-publish-new-security-advisories/)
 
 **Source:** Security Week  
 **Published:** Wed, 15 Apr 2026 07:14:08 +0000  
 
 ---
 
-### 33. [Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities](https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/)
+### 40. [Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities](https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Apr 2026 18:14:37 +0000  
 
 ---
 
-### 34. [Adobe Patches 55 Vulnerabilities Across 11 Products](https://www.securityweek.com/adobe-patches-55-vulnerabilities-across-11-products/)
+### 41. [The n8n n8mare: How threat actors are misusing AI workflow automation](https://blog.talosintelligence.com/the-n8n-n8mare/)
 
-**Source:** Security Week  
-**Published:** Tue, 14 Apr 2026 16:48:03 +0000  
-
----
-
-### 35. [‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats](https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/)
-
-**Source:** Security Week  
-**Published:** Tue, 14 Apr 2026 12:53:55 +0000  
+**Source:** Talos Blog  
+**Published:** Wed, 15 Apr 2026 10:00:52 GMT  
+**Severity:** High  
+**Categories:** Malware, Phishing  
 
 ---
 
-### 36. [Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members](https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/)
-
-**Source:** Security Week  
-**Published:** Tue, 14 Apr 2026 12:43:30 +0000  
-
----
-
-### 37. [SAP Patches Critical ABAP Vulnerability](https://www.securityweek.com/sap-patches-critical-abap-vulnerability/)
-
-**Source:** Security Week  
-**Published:** Tue, 14 Apr 2026 11:21:12 +0000  
-
----
-
-### 38. [Triad Nexus Evades Sanctions to Fuel Cybercrime](https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/)
-
-**Source:** Security Week  
-**Published:** Tue, 14 Apr 2026 10:53:32 +0000  
-
----
-
-### 39. [Google Adds Rust DNS Parser to Pixel Phones for Better Security](https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/)
-
-**Source:** Security Week  
-**Published:** Tue, 14 Apr 2026 10:21:33 +0000  
-
----
-
-### 40. [Nightclub Giant RCI Hospitality Reports Data Breach](https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/)
-
-**Source:** Security Week  
-**Published:** Tue, 14 Apr 2026 09:35:06 +0000  
-
----
-
-### 41. [Microsoft Patch Tuesday for April 2026 - Snort Rule and Prominent Vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-april-2026/)
+### 42. [Microsoft Patch Tuesday for April 2026 - Snort Rule and Prominent Vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-april-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 20:27:56 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33826, CVE-2026-23666, CVE-2026-32157, CVE-2026-33824, CVE-2026-32190, CVE-2026-33114, CVE-2026-33115  
+**CVEs:** CVE-2026-33115, CVE-2026-32190, CVE-2026-33114, CVE-2026-33826, CVE-2026-23666, CVE-2026-33824, CVE-2026-32157  
 **Categories:** Vulnerability, DDoS  
 
 ---
 
-### 42. [State-sponsored threats: Different objectives, similar access paths](https://blog.talosintelligence.com/state-sponsored-threats-different-objectives-similar-access-paths/)
+### 43. [State-sponsored threats: Different objectives, similar access paths](https://blog.talosintelligence.com/state-sponsored-threats-different-objectives-similar-access-paths/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 13:49:46 GMT  
@@ -368,7 +377,7 @@
 
 ---
 
-### 43. [[Video] The TTP Ep. 22: The Collapse of the Patch Window](https://blog.talosintelligence.com/video-the-ttp-ep-22-the-collapse-of-the-patch-window/)
+### 44. [[Video] The TTP Ep. 22: The Collapse of the Patch Window](https://blog.talosintelligence.com/video-the-ttp-ep-22-the-collapse-of-the-patch-window/)
 
 **Source:** Talos Blog  
 **Published:** Fri, 10 Apr 2026 15:29:39 GMT  
@@ -377,7 +386,7 @@
 
 ---
 
-### 44. [The threat hunter’s gambit](https://blog.talosintelligence.com/the-threat-hunters-gambit/)
+### 45. [The threat hunter’s gambit](https://blog.talosintelligence.com/the-threat-hunters-gambit/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 09 Apr 2026 18:00:20 GMT  
@@ -386,7 +395,7 @@
 
 ---
 
-### 45. [From the field to the report and back again: How incident responders can use the Year in Review](https://blog.talosintelligence.com/from-the-field-to-the-report-and-back-again-how-incident-responders-can-use-the-year-in-review/)
+### 46. [From the field to the report and back again: How incident responders can use the Year in Review](https://blog.talosintelligence.com/from-the-field-to-the-report-and-back-again-how-incident-responders-can-use-the-year-in-review/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 09 Apr 2026 10:00:03 GMT  
@@ -395,7 +404,7 @@
 
 ---
 
-### 46. [New Lua-based malware “LucidRook” observed in targeted attacks against Taiwanese organizations](https://blog.talosintelligence.com/new-lua-based-malware-lucidrook/)
+### 47. [New Lua-based malware “LucidRook” observed in targeted attacks against Taiwanese organizations](https://blog.talosintelligence.com/new-lua-based-malware-lucidrook/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 08 Apr 2026 10:00:55 GMT  
@@ -404,7 +413,7 @@
 
 ---
 
-### 47. [Talos Takes: 2025's ransomware trends and zombie vulnerabilities](https://blog.talosintelligence.com/talos-takes-2025s-ransomware-trends-and-zombie-vulnerabilities/)
+### 48. [Talos Takes: 2025's ransomware trends and zombie vulnerabilities](https://blog.talosintelligence.com/talos-takes-2025s-ransomware-trends-and-zombie-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 07 Apr 2026 12:03:13 GMT  
@@ -413,7 +422,7 @@
 
 ---
 
-### 48. [The Trojan horse of cybercrime: Weaponizing SaaS notification pipelines](https://blog.talosintelligence.com/weaponizing-saas-notification-pipelines/)
+### 49. [The Trojan horse of cybercrime: Weaponizing SaaS notification pipelines](https://blog.talosintelligence.com/weaponizing-saas-notification-pipelines/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 07 Apr 2026 10:00:35 GMT  
@@ -422,21 +431,12 @@
 
 ---
 
-### 49. [Year in Review: Vulnerabilities old and new and something React2](https://blog.talosintelligence.com/year-in-review-vulnerabilities-old-and-new-and-something-react2/)
+### 50. [Year in Review: Vulnerabilities old and new and something React2](https://blog.talosintelligence.com/year-in-review-vulnerabilities-old-and-new-and-something-react2/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 07 Apr 2026 10:00:11 GMT  
 **Severity:** High  
 **Categories:** Vulnerability  
-
----
-
-### 50. [Do not get high(jacked) off your own supply (chain)](https://blog.talosintelligence.com/protecting-supply-chain-2026/)
-
-**Source:** Talos Blog  
-**Published:** Fri, 03 Apr 2026 17:31:42 GMT  
-**Severity:** High  
-**Categories:** Ransomware, Vulnerability, Supply Chain  
 
 ---
 
@@ -625,7 +625,35 @@
 
 ---
 
-### 71. [Credit Resources Vault: Why this credit email set off our scam alarms](https://www.malwarebytes.com/blog/news/2026/04/credit-resources-vault-why-this-credit-email-set-off-our-scam-alarms)
+### 71. [Fake YouTube copyright notices can steal your Google login](https://www.malwarebytes.com/blog/threat-intel/2026/04/fake-youtube-copyright-notices-can-steal-your-google-login)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 15 Apr 2026 13:21:25 GMT  
+**Severity:** Low  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 72. [From fake Proton VPN sites to gaming mods, this Windows infostealer is everywhere](https://www.malwarebytes.com/blog/threat-intel/2026/04/from-fake-proton-vpn-sites-to-gaming-mods-this-windows-infostealer-is-everywhere)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 15 Apr 2026 10:37:33 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 73. [April Patch Tuesday fixes two zero-days, including one under active attack](https://www.malwarebytes.com/blog/news/2026/04/april-patch-tuesday-fixes-two-zero-days-including-one-under-active-attack)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 15 Apr 2026 09:57:15 GMT  
+**Severity:** Critical  
+**CVEs:** CVE-2026-32201, CVE-2026-33825  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 74. [Credit Resources Vault: Why this credit email set off our scam alarms](https://www.malwarebytes.com/blog/news/2026/04/credit-resources-vault-why-this-credit-email-set-off-our-scam-alarms)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 15 Apr 2026 09:08:47 GMT  
@@ -634,7 +662,7 @@
 
 ---
 
-### 72. [Omnistealer uses the blockchain to steal everything it can](https://www.malwarebytes.com/blog/news/2026/04/omnistealer-uses-the-blockchain-to-steal-everything-it-can)
+### 75. [Omnistealer uses the blockchain to steal everything it can](https://www.malwarebytes.com/blog/news/2026/04/omnistealer-uses-the-blockchain-to-steal-everything-it-can)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 14 Apr 2026 11:52:15 GMT  
@@ -643,7 +671,7 @@
 
 ---
 
-### 73. [ChatGPT under scrutiny as Florida investigates campus shooting](https://www.malwarebytes.com/blog/ai/2026/04/chatgpt-under-scrutiny-as-florida-investigates-campus-shooting)
+### 76. [ChatGPT under scrutiny as Florida investigates campus shooting](https://www.malwarebytes.com/blog/ai/2026/04/chatgpt-under-scrutiny-as-florida-investigates-campus-shooting)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 14 Apr 2026 09:45:35 GMT  
@@ -652,7 +680,7 @@
 
 ---
 
-### 74. [Simply opening a PDF could trigger this Adobe Reader zero-day](https://www.malwarebytes.com/blog/news/2026/04/simply-opening-a-pdf-could-trigger-this-adobe-reader-zero-day)
+### 77. [Simply opening a PDF could trigger this Adobe Reader zero-day](https://www.malwarebytes.com/blog/news/2026/04/simply-opening-a-pdf-could-trigger-this-adobe-reader-zero-day)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 13 Apr 2026 11:38:36 GMT  
@@ -662,7 +690,7 @@
 
 ---
 
-### 75. [A week in security (April 6 &#8211; April 12)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-6-april-12)
+### 78. [A week in security (April 6 &#8211; April 12)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-6-april-12)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 13 Apr 2026 07:02:00 GMT  
@@ -671,7 +699,7 @@
 
 ---
 
-### 76. [Fake Claude site installs malware that gives attackers access to your computer](https://www.malwarebytes.com/blog/scams/2026/04/fake-claude-site-installs-malware-that-gives-attackers-access-to-your-computer)
+### 79. [Fake Claude site installs malware that gives attackers access to your computer](https://www.malwarebytes.com/blog/scams/2026/04/fake-claude-site-installs-malware-that-gives-attackers-access-to-your-computer)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 10 Apr 2026 16:16:26 GMT  
@@ -680,39 +708,12 @@
 
 ---
 
-### 77. [ClickFix finds a new way to infect Macs](https://www.malwarebytes.com/blog/news/2026/04/clickfix-finds-new-way-to-infect-macs)
+### 80. [ClickFix finds a new way to infect Macs](https://www.malwarebytes.com/blog/news/2026/04/clickfix-finds-new-way-to-infect-macs)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 10 Apr 2026 15:02:18 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 78. [Scammers pose as Amazon support to steal your account](https://www.malwarebytes.com/blog/news/2026/04/scammers-pose-as-amazon-support-to-steal-your-account)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 09 Apr 2026 13:05:44 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 79. [NSFW app leak exposes 70,000 prompts linked to individual users](https://www.malwarebytes.com/blog/news/2026/04/nsfw-app-leak-exposes-70000-prompts-linked-to-individual-users)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 09 Apr 2026 11:02:51 GMT  
-**Severity:** High  
-**Categories:** Data Breach  
-
----
-
-### 80. [30,000 private Facebook images allegedly downloaded by Meta employee](https://www.malwarebytes.com/blog/data-breaches/2026/04/30000-private-facebook-images-allegedly-downloaded-by-meta-employee)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 09 Apr 2026 10:07:37 GMT  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
 
 ---
 
