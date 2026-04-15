@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-14 17:43:25 UTC
+**Last Updated:** 2026-04-15 03:19:52 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,61 @@
 
 ---
 
-### 11. [Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/)
+### 11. [Microsoft adds Windows protections for malicious Remote Desktop files](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 14 Apr 2026 18:23:33 -0400  
+**Severity:** Low  
+**Categories:** Phishing, APT  
+
+---
+
+### 12. [Crypto-exchange Kraken extorted by hackers after insider breach](https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 14 Apr 2026 17:58:31 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [Over 100 Chrome Web Store extensions steal user accounts, data](https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 14 Apr 2026 16:33:00 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 14. [Microsoft releases Windows 10 KB5082200 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 14 Apr 2026 14:09:39 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 15. [McGraw-Hill confirms data breach following extortion threat](https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 14 Apr 2026 14:07:07 -0400  
+**Severity:** High  
+**Categories:** Ransomware, Data Breach, Vulnerability  
+
+---
+
+### 16. [Windows 11 cumulative updates KB5083769 & KB5082052 released](https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 14 Apr 2026 13:46:31 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 17. [Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Apr 2026 13:41:13 -0400  
@@ -105,7 +159,7 @@
 
 ---
 
-### 12. [Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto](https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/)
+### 18. [Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto](https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Apr 2026 12:37:01 -0400  
@@ -114,7 +168,7 @@
 
 ---
 
-### 13. [Microsoft rolls out fast-track to reinstate Windows hardware dev accounts](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/)
+### 19. [Microsoft rolls out fast-track to reinstate Windows hardware dev accounts](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Apr 2026 11:53:50 -0400  
@@ -123,7 +177,7 @@
 
 ---
 
-### 14. [5 Ways Zero Trust Maximizes Identity Security](https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/)
+### 20. [5 Ways Zero Trust Maximizes Identity Security](https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Apr 2026 10:02:12 -0400  
@@ -132,62 +186,17 @@
 
 ---
 
-### 15. [European Gym giant Basic-Fit data breach affects 1 million members](https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/)
+### 21. [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
 
-**Source:** Bleeping Computer  
-**Published:** Mon, 13 Apr 2026 17:50:01 -0400  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 16. [Stolen Rockstar Games analytics data leaked by extortion gang](https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 13 Apr 2026 16:08:10 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
-
----
-
-### 17. [Critical flaw in wolfSSL library enables forged certificate use](https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 13 Apr 2026 15:56:03 -0400  
+**Source:** Krebs On Security  
+**Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-5194  
-**Categories:** Vulnerability  
+**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
+**Categories:** Vulnerability, Phishing  
 
 ---
 
-### 18. [FBI takedown of W3LL phishing service leads to developer arrest](https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 13 Apr 2026 14:55:50 -0400  
-**Severity:** Low  
-**Categories:** Phishing, APT  
-
----
-
-### 19. [OpenAI rotates macOS certs after Axios attack hit code-signing workflow](https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 13 Apr 2026 13:39:10 -0400  
-**Severity:** Low  
-**Categories:** Malware, Supply Chain  
-
----
-
-### 20. [New Booking.com data breach forces reservation PIN resets](https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 13 Apr 2026 13:30:10 -0400  
-**Severity:** High  
-**Categories:** Data Breach  
-
----
-
-### 21. [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/)
+### 22. [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 07 Apr 2026 17:02:44 +0000  
@@ -196,7 +205,7 @@
 
 ---
 
-### 22. [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
+### 23. [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 06 Apr 2026 02:07:17 +0000  
@@ -205,7 +214,7 @@
 
 ---
 
-### 23. [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/)
+### 24. [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 23 Mar 2026 15:43:04 +0000  
@@ -214,7 +223,7 @@
 
 ---
 
-### 24. [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/)
+### 25. [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 20 Mar 2026 00:49:19 +0000  
@@ -223,7 +232,7 @@
 
 ---
 
-### 25. [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
+### 26. [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 16:20:13 +0000  
@@ -232,17 +241,17 @@
 
 ---
 
-### 26. [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/)
+### 27. [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24289, CVE-2026-26127, CVE-2026-26110, CVE-2026-26113, CVE-2026-21262, CVE-2026-24291, CVE-2026-25187, CVE-2026-24294  
+**CVEs:** CVE-2026-26110, CVE-2026-26127, CVE-2026-21262, CVE-2026-24294, CVE-2026-24289, CVE-2026-24291, CVE-2026-26113, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
 
-### 27. [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
+### 28. [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
 
 **Source:** Krebs On Security  
 **Published:** Sun, 08 Mar 2026 23:35:42 +0000  
@@ -251,7 +260,7 @@
 
 ---
 
-### 28. [Who is the Kimwolf Botmaster “Dort”?](https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/)
+### 29. [Who is the Kimwolf Botmaster “Dort”?](https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/)
 
 **Source:** Krebs On Security  
 **Published:** Sat, 28 Feb 2026 12:01:57 +0000  
@@ -260,7 +269,7 @@
 
 ---
 
-### 29. [‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA](https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/)
+### 30. [‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA](https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 20 Feb 2026 20:00:30 +0000  
@@ -269,86 +278,87 @@
 
 ---
 
-### 30. [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
+### 31. [Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities](https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/)
 
-**Source:** Krebs On Security  
-**Published:** Wed, 11 Feb 2026 16:08:11 +0000  
-**Severity:** Low  
-**Categories:** Malware, DDoS  
+**Source:** Security Week  
+**Published:** Tue, 14 Apr 2026 18:14:37 +0000  
 
 ---
 
-### 31. [Adobe Patches 55 Vulnerabilities Across 11 Products](https://www.securityweek.com/adobe-patches-55-vulnerabilities-across-11-products/)
+### 32. [Adobe Patches 55 Vulnerabilities Across 11 Products](https://www.securityweek.com/adobe-patches-55-vulnerabilities-across-11-products/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Apr 2026 16:48:03 +0000  
 
 ---
 
-### 32. [‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats](https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/)
+### 33. [‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats](https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Apr 2026 12:53:55 +0000  
 
 ---
 
-### 33. [Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members](https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/)
+### 34. [Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members](https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Apr 2026 12:43:30 +0000  
 
 ---
 
-### 34. [SAP Patches Critical ABAP Vulnerability](https://www.securityweek.com/sap-patches-critical-abap-vulnerability/)
+### 35. [SAP Patches Critical ABAP Vulnerability](https://www.securityweek.com/sap-patches-critical-abap-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Apr 2026 11:21:12 +0000  
 
 ---
 
-### 35. [Triad Nexus Evades Sanctions to Fuel Cybercrime](https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/)
+### 36. [Triad Nexus Evades Sanctions to Fuel Cybercrime](https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Apr 2026 10:53:32 +0000  
 
 ---
 
-### 36. [Google Adds Rust DNS Parser to Pixel Phones for Better Security](https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/)
+### 37. [Google Adds Rust DNS Parser to Pixel Phones for Better Security](https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Apr 2026 10:21:33 +0000  
 
 ---
 
-### 37. [Nightclub Giant RCI Hospitality Reports Data Breach](https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/)
+### 38. [Nightclub Giant RCI Hospitality Reports Data Breach](https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Apr 2026 09:35:06 +0000  
 
 ---
 
-### 38. [Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities](https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/)
+### 39. [Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities](https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Tue, 14 Apr 2026 08:57:18 +0000  
 
 ---
 
-### 39. [Booking.com Says Hackers Accessed User Information](https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/)
+### 40. [Booking.com Says Hackers Accessed User Information](https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/)
 
 **Source:** Security Week  
 **Published:** Mon, 13 Apr 2026 14:25:07 +0000  
 
 ---
 
-### 40. [BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings](https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/)
+### 41. [Microsoft Patch Tuesday for April 2026 - Snort Rule and Prominent Vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-april-2026/)
 
-**Source:** Security Week  
-**Published:** Mon, 13 Apr 2026 14:00:00 +0000  
+**Source:** Talos Blog  
+**Published:** Tue, 14 Apr 2026 20:27:56 GMT  
+**Severity:** Critical  
+**CVEs:** CVE-2026-33824, CVE-2026-32190, CVE-2026-33114, CVE-2026-33826, CVE-2026-23666, CVE-2026-33115, CVE-2026-32157  
+**Categories:** Vulnerability, DDoS  
 
 ---
 
-### 41. [State-sponsored threats: Different objectives, similar access paths](https://blog.talosintelligence.com/state-sponsored-threats-different-objectives-similar-access-paths/)
+### 42. [State-sponsored threats: Different objectives, similar access paths](https://blog.talosintelligence.com/state-sponsored-threats-different-objectives-similar-access-paths/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 13:49:46 GMT  
@@ -357,7 +367,7 @@
 
 ---
 
-### 42. [[Video] The TTP Ep. 22: The Collapse of the Patch Window](https://blog.talosintelligence.com/video-the-ttp-ep-22-the-collapse-of-the-patch-window/)
+### 43. [[Video] The TTP Ep. 22: The Collapse of the Patch Window](https://blog.talosintelligence.com/video-the-ttp-ep-22-the-collapse-of-the-patch-window/)
 
 **Source:** Talos Blog  
 **Published:** Fri, 10 Apr 2026 15:29:39 GMT  
@@ -366,7 +376,7 @@
 
 ---
 
-### 43. [The threat hunter’s gambit](https://blog.talosintelligence.com/the-threat-hunters-gambit/)
+### 44. [The threat hunter’s gambit](https://blog.talosintelligence.com/the-threat-hunters-gambit/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 09 Apr 2026 18:00:20 GMT  
@@ -375,7 +385,7 @@
 
 ---
 
-### 44. [From the field to the report and back again: How incident responders can use the Year in Review](https://blog.talosintelligence.com/from-the-field-to-the-report-and-back-again-how-incident-responders-can-use-the-year-in-review/)
+### 45. [From the field to the report and back again: How incident responders can use the Year in Review](https://blog.talosintelligence.com/from-the-field-to-the-report-and-back-again-how-incident-responders-can-use-the-year-in-review/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 09 Apr 2026 10:00:03 GMT  
@@ -384,7 +394,7 @@
 
 ---
 
-### 45. [New Lua-based malware “LucidRook” observed in targeted attacks against Taiwanese organizations](https://blog.talosintelligence.com/new-lua-based-malware-lucidrook/)
+### 46. [New Lua-based malware “LucidRook” observed in targeted attacks against Taiwanese organizations](https://blog.talosintelligence.com/new-lua-based-malware-lucidrook/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 08 Apr 2026 10:00:55 GMT  
@@ -393,7 +403,7 @@
 
 ---
 
-### 46. [Talos Takes: 2025's ransomware trends and zombie vulnerabilities](https://blog.talosintelligence.com/talos-takes-2025s-ransomware-trends-and-zombie-vulnerabilities/)
+### 47. [Talos Takes: 2025's ransomware trends and zombie vulnerabilities](https://blog.talosintelligence.com/talos-takes-2025s-ransomware-trends-and-zombie-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 07 Apr 2026 12:03:13 GMT  
@@ -402,7 +412,7 @@
 
 ---
 
-### 47. [The Trojan horse of cybercrime: Weaponizing SaaS notification pipelines](https://blog.talosintelligence.com/weaponizing-saas-notification-pipelines/)
+### 48. [The Trojan horse of cybercrime: Weaponizing SaaS notification pipelines](https://blog.talosintelligence.com/weaponizing-saas-notification-pipelines/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 07 Apr 2026 10:00:35 GMT  
@@ -411,7 +421,7 @@
 
 ---
 
-### 48. [Year in Review: Vulnerabilities old and new and something React2](https://blog.talosintelligence.com/year-in-review-vulnerabilities-old-and-new-and-something-react2/)
+### 49. [Year in Review: Vulnerabilities old and new and something React2](https://blog.talosintelligence.com/year-in-review-vulnerabilities-old-and-new-and-something-react2/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 07 Apr 2026 10:00:11 GMT  
@@ -420,7 +430,7 @@
 
 ---
 
-### 49. [Do not get high(jacked) off your own supply (chain)](https://blog.talosintelligence.com/protecting-supply-chain-2026/)
+### 50. [Do not get high(jacked) off your own supply (chain)](https://blog.talosintelligence.com/protecting-supply-chain-2026/)
 
 **Source:** Talos Blog  
 **Published:** Fri, 03 Apr 2026 17:31:42 GMT  
@@ -429,16 +439,25 @@
 
 ---
 
-### 50. [Axios NPM supply chain incident](https://blog.talosintelligence.com/axois-npm-supply-chain-incident/)
+### 51. [Iran War: Future Scenario and Business Improvements](https://www.recordedfuture.com/research/iran-war-future-scenario-and-business-improvements)
 
-**Source:** Talos Blog  
-**Published:** Fri, 03 Apr 2026 17:00:22 GMT  
-**Severity:** High  
-**Categories:** Malware, Supply Chain  
+**Source:** Recorded Future  
+**Published:** Tue, 14 Apr 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
-### 51. [March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day](https://www.recordedfuture.com/blog/march-2026-cve-landscape)
+### 52. [A New Way to Buy Recorded Future: Solutions and Packages Built for the 2026 Threat Landscape](https://www.recordedfuture.com/blog/recorded-future-solutions-packages)
+
+**Source:** Recorded Future  
+**Published:** Tue, 14 Apr 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 53. [March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day](https://www.recordedfuture.com/blog/march-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Mon, 13 Apr 2026 00:00:00 GMT  
@@ -447,7 +466,7 @@
 
 ---
 
-### 52. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+### 54. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
 
 **Source:** Recorded Future  
 **Published:** Mon, 13 Apr 2026 00:00:00 GMT  
@@ -456,7 +475,7 @@
 
 ---
 
-### 53. [VIP Credential Monitoring Blog](https://www.recordedfuture.com/blog/vip-credential-monitoring-blog)
+### 55. [VIP Credential Monitoring Blog](https://www.recordedfuture.com/blog/vip-credential-monitoring-blog)
 
 **Source:** Recorded Future  
 **Published:** Fri, 10 Apr 2026 00:00:00 GMT  
@@ -465,7 +484,7 @@
 
 ---
 
-### 54. [Third-Party Risk Is an Intelligence Operation. It's Time We Treated It Like One.](https://www.recordedfuture.com/blog/recorded-future-sees-its-inclusion-in-the-2026-forrester-wave)
+### 56. [Third-Party Risk Is an Intelligence Operation. It's Time We Treated It Like One.](https://www.recordedfuture.com/blog/recorded-future-sees-its-inclusion-in-the-2026-forrester-wave)
 
 **Source:** Recorded Future  
 **Published:** Thu, 09 Apr 2026 00:00:00 GMT  
@@ -474,7 +493,7 @@
 
 ---
 
-### 55. [Understanding and Anticipating Venezuelan Government Actions](https://www.recordedfuture.com/research/understanding-and-anticipating-venezuelan-government-actions)
+### 57. [Understanding and Anticipating Venezuelan Government Actions](https://www.recordedfuture.com/research/understanding-and-anticipating-venezuelan-government-actions)
 
 **Source:** Recorded Future  
 **Published:** Wed, 08 Apr 2026 00:00:00 GMT  
@@ -483,7 +502,7 @@
 
 ---
 
-### 56. [Day in the Life: Product Manager at Recorded Future](https://www.recordedfuture.com/blog/kyle-kohler-product-manager)
+### 58. [Day in the Life: Product Manager at Recorded Future](https://www.recordedfuture.com/blog/kyle-kohler-product-manager)
 
 **Source:** Recorded Future  
 **Published:** Fri, 03 Apr 2026 00:00:00 GMT  
@@ -492,7 +511,7 @@
 
 ---
 
-### 57. [Latin America and the Caribbean Cybercrime Landscape](https://www.recordedfuture.com/research/latin-america-and-the-caribbean-cybercrime-landscape)
+### 59. [Latin America and the Caribbean Cybercrime Landscape](https://www.recordedfuture.com/research/latin-america-and-the-caribbean-cybercrime-landscape)
 
 **Source:** Recorded Future  
 **Published:** Thu, 02 Apr 2026 00:00:00 GMT  
@@ -501,30 +520,12 @@
 
 ---
 
-### 58. [Industrialization of the Fraud Ecosystem Blog](https://www.recordedfuture.com/blog/industrialization-of-the-fraud-ecosystem-blog)
+### 60. [Industrialization of the Fraud Ecosystem Blog](https://www.recordedfuture.com/blog/industrialization-of-the-fraud-ecosystem-blog)
 
 **Source:** Recorded Future  
 **Published:** Wed, 01 Apr 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 59. [The Shift: An Era of Quantum Geopolitics](https://www.recordedfuture.com/blog/the-shift-an-era-of-quantum-geopolitics)
-
-**Source:** Recorded Future  
-**Published:** Wed, 01 Apr 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 60. [ClickFix Campaigns Targeting Windows and macOS](https://www.recordedfuture.com/research/clickfix-campaigns-targeting-windows-and-macos)
-
-**Source:** Recorded Future  
-**Published:** Wed, 25 Mar 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
