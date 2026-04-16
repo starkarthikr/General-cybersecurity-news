@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-16 14:01:23 UTC
+**Last Updated:** 2026-04-16 17:52:28 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,17 +95,54 @@
 
 ---
 
-### 11. [Cisco says critical Webex Services flaw requires customer action](https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/)
+### 11. [Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face](https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 16 Apr 2026 12:58:06 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-39987  
+**Categories:** Vulnerability, Malware, Phishing  
+
+---
+
+### 12. [Google expands Gemini AI use to fight malicious ads on its platform](https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 16 Apr 2026 11:24:14 -0400  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 13. [New ATHR vishing platform uses AI voice agents for automated attacks](https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 16 Apr 2026 10:09:11 -0400  
+**Severity:** High  
+**Categories:** Phishing  
+
+---
+
+### 14. [Most "AI SOCs" Are Just Faster Triage. That's Not Enough.](https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 16 Apr 2026 10:02:12 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 15. [Cisco says critical Webex Services flaw requires customer action](https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Apr 2026 08:01:42 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20184, CVE-2026-20186, CVE-2026-20180, CVE-2026-20147  
+**CVEs:** CVE-2026-20147, CVE-2026-20186, CVE-2026-20184, CVE-2026-20180  
 **Categories:** Vulnerability  
 
 ---
 
-### 12. [Data breach at edtech giant McGraw Hill affects 13.5 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/)
+### 16. [Data breach at edtech giant McGraw Hill affects 13.5 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Apr 2026 06:35:09 -0400  
@@ -114,7 +151,7 @@
 
 ---
 
-### 13. [US nationals behind DPRK IT worker 'laptop farm' sent to prison](https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/)
+### 17. [US nationals behind DPRK IT worker 'laptop farm' sent to prison](https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Apr 2026 04:32:13 -0400  
@@ -123,7 +160,7 @@
 
 ---
 
-### 14. [Microsoft: April Windows Server 2025 update may fail to install](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/)
+### 18. [Microsoft: April Windows Server 2025 update may fail to install](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Apr 2026 03:37:44 -0400  
@@ -132,7 +169,7 @@
 
 ---
 
-### 15. [Critical Nginx UI auth bypass flaw now actively exploited in the wild](https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/)
+### 19. [Critical Nginx UI auth bypass flaw now actively exploited in the wild](https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 15 Apr 2026 18:35:09 -0400  
@@ -142,7 +179,7 @@
 
 ---
 
-### 16. [New AgingFly malware used in attacks on Ukraine govt, hospitals](https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/)
+### 20. [New AgingFly malware used in attacks on Ukraine govt, hospitals](https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 15 Apr 2026 17:57:17 -0400  
@@ -151,49 +188,12 @@
 
 ---
 
-### 17. [WordPress plugin suite hacked to push malware to thousands of sites](https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 15 Apr 2026 16:33:50 -0400  
-**Severity:** Low  
-**Categories:** Malware, Supply Chain  
-
----
-
-### 18. [Signed software abused to deploy antivirus-killing scripts](https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 15 Apr 2026 13:59:30 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 19. [Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest](https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 15 Apr 2026 12:20:21 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 20. [CISA flags Windows Task Host vulnerability as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 15 Apr 2026 10:51:05 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2025-60710  
-**Categories:** Vulnerability  
-
----
-
 ### 21. [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -248,7 +248,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24289, CVE-2026-26127, CVE-2026-24294, CVE-2026-26113, CVE-2026-21262, CVE-2026-26110, CVE-2026-25187, CVE-2026-24291  
+**CVEs:** CVE-2026-24294, CVE-2026-21262, CVE-2026-26110, CVE-2026-24291, CVE-2026-24289, CVE-2026-25187, CVE-2026-26127, CVE-2026-26113  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -280,73 +280,73 @@
 
 ---
 
-### 31. [Data Breach at Tennessee Hospital Affects 337,000](https://www.securityweek.com/data-breach-at-tennessee-hospital-affects-337000/)
+### 31. [Government Can’t Win the Cyber War Without the Private Sector](https://www.securityweek.com/government-cant-win-the-cyber-war-without-the-private-sector/)
+
+**Source:** Security Week  
+**Published:** Thu, 16 Apr 2026 17:00:00 +0000  
+
+---
+
+### 32. [OpenAI Widens Access to Cybersecurity Model After Anthropic’s Mythos Reveal](https://www.securityweek.com/openai-widens-access-to-cybersecurity-model-after-anthropics-mythos-reveal/)
+
+**Source:** Security Week  
+**Published:** Thu, 16 Apr 2026 14:27:06 +0000  
+
+---
+
+### 33. [Data Breach at Tennessee Hospital Affects 337,000](https://www.securityweek.com/data-breach-at-tennessee-hospital-affects-337000/)
 
 **Source:** Security Week  
 **Published:** Thu, 16 Apr 2026 12:40:36 +0000  
 
 ---
 
-### 32. [Artemis Emerges From Stealth With $70 Million in Funding](https://www.securityweek.com/artemis-emerges-from-stealth-with-70-million/)
+### 34. [Artemis Emerges From Stealth With $70 Million in Funding](https://www.securityweek.com/artemis-emerges-from-stealth-with-70-million/)
 
 **Source:** Security Week  
 **Published:** Thu, 16 Apr 2026 12:22:02 +0000  
 
 ---
 
-### 33. [Splunk Enterprise Update Patches Code Execution Vulnerability](https://www.securityweek.com/splunk-enterprise-update-patches-code-execution-vulnerability/)
+### 35. [Splunk Enterprise Update Patches Code Execution Vulnerability](https://www.securityweek.com/splunk-enterprise-update-patches-code-execution-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Thu, 16 Apr 2026 11:51:39 +0000  
 
 ---
 
-### 34. [Microsoft Paid Out $2.3 Million at Zero Day Quest 2026 Hacking Contest](https://www.securityweek.com/microsoft-paid-out-2-3-million-at-zero-day-quest-2026-hacking-contest/)
+### 36. [Microsoft Paid Out $2.3 Million at Zero Day Quest 2026 Hacking Contest](https://www.securityweek.com/microsoft-paid-out-2-3-million-at-zero-day-quest-2026-hacking-contest/)
 
 **Source:** Security Week  
 **Published:** Thu, 16 Apr 2026 11:21:27 +0000  
 
 ---
 
-### 35. [NIST Prioritizes NVD Enrichment for CVEs in CISA KEV, Critical Software](https://www.securityweek.com/nist-prioritizes-nvd-enrichment-for-cves-in-cisa-kev-critical-software/)
+### 37. [NIST Prioritizes NVD Enrichment for CVEs in CISA KEV, Critical Software](https://www.securityweek.com/nist-prioritizes-nvd-enrichment-for-cves-in-cisa-kev-critical-software/)
 
 **Source:** Security Week  
 **Published:** Thu, 16 Apr 2026 10:47:14 +0000  
 
 ---
 
-### 36. [Cisco Patches Critical Vulnerabilities in Webex, ISE](https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-webex-ise/)
+### 38. [Cisco Patches Critical Vulnerabilities in Webex, ISE](https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-webex-ise/)
 
 **Source:** Security Week  
 **Published:** Thu, 16 Apr 2026 10:04:31 +0000  
 
 ---
 
-### 37. [Ransomware Hits Automotive Data Expert Autovista](https://www.securityweek.com/ransomware-hits-automotive-data-expert-autovista/)
+### 39. [Ransomware Hits Automotive Data Expert Autovista](https://www.securityweek.com/ransomware-hits-automotive-data-expert-autovista/)
 
 **Source:** Security Week  
 **Published:** Thu, 16 Apr 2026 09:30:16 +0000  
 
 ---
 
-### 38. [Claude Code, Gemini CLI, GitHub Copilot Agents Vulnerable to Prompt Injection via Comments](https://www.securityweek.com/claude-code-gemini-cli-github-copilot-agents-vulnerable-to-prompt-injection-via-comments/)
+### 40. [Claude Code, Gemini CLI, GitHub Copilot Agents Vulnerable to Prompt Injection via Comments](https://www.securityweek.com/claude-code-gemini-cli-github-copilot-agents-vulnerable-to-prompt-injection-via-comments/)
 
 **Source:** Security Week  
 **Published:** Thu, 16 Apr 2026 08:33:54 +0000  
-
----
-
-### 39. [Sweden Blames Pro-Russian Group for Cyberattack Last Year on Its Energy Infrastructure](https://www.securityweek.com/sweden-blames-pro-russian-group-for-cyberattack-last-year-on-its-energy-infrastructure/)
-
-**Source:** Security Week  
-**Published:** Wed, 15 Apr 2026 16:46:48 +0000  
-
----
-
-### 40. [Exploited Vulnerability Exposes Nginx Servers to Hacking](https://www.securityweek.com/exploited-vulnerability-exposes-nginx-servers-to-hacking/)
-
-**Source:** Security Week  
-**Published:** Wed, 15 Apr 2026 14:45:58 +0000  
 
 ---
 
@@ -382,7 +382,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 20:27:56 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33826, CVE-2026-32157, CVE-2026-32190, CVE-2026-23666, CVE-2026-33115, CVE-2026-33824, CVE-2026-33114  
+**CVEs:** CVE-2026-33115, CVE-2026-33114, CVE-2026-32190, CVE-2026-32157, CVE-2026-23666, CVE-2026-33824, CVE-2026-33826  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -694,7 +694,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 15 Apr 2026 09:57:15 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-33825  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -717,7 +717,16 @@
 
 ---
 
-### 81. [April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/)
+### 81. [Frontier AI for Defenders: CrowdStrike and OpenAI TAC](https://www.crowdstrike.com/en-us/blog/frontier-ai-for-defenders-crowdstrike-and-openai-tac/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Apr 16, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 14, 2026 00:00:00-0500  
@@ -726,7 +735,7 @@
 
 ---
 
-### 82. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
+### 83. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 06, 2026 00:00:00-0400  
@@ -735,7 +744,7 @@
 
 ---
 
-### 83. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
+### 84. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 05, 2026 00:00:00-0700  
@@ -744,7 +753,7 @@
 
 ---
 
-### 84. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
+### 85. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 01, 2026 00:00:00-0500  
@@ -753,7 +762,7 @@
 
 ---
 
-### 85. [Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management](https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/)
+### 86. [Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management](https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 01, 2026 00:00:00-0500  
@@ -762,7 +771,7 @@
 
 ---
 
-### 86. [Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse](https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/)
+### 87. [Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse](https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 31, 2026 00:00:00-0500  
@@ -772,7 +781,7 @@
 
 ---
 
-### 87. [How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem](https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/)
+### 88. [How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem](https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 25, 2026 00:00:00-0500  
@@ -781,7 +790,7 @@
 
 ---
 
-### 88. [CrowdStrike Flex for Services Expands Access to Elite Security Expertise](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/)
+### 89. [CrowdStrike Flex for Services Expands Access to Elite Security Expertise](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 24, 2026 00:00:00-0500  
@@ -790,16 +799,7 @@
 
 ---
 
-### 89. [Falcon Data Security Secures Data Wherever It Lives and Moves](https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Mar 24, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [CrowdStrike Advances CNAPP with Industry-First Adversary-Informed Risk Prioritization](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-cnapp-with-industry-first-adversary-informed-risk-prioritization/)
+### 90. [Falcon Data Security Secures Data Wherever It Lives and Moves](https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 24, 2026 00:00:00-0500  
