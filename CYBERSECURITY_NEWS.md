@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-15 17:39:37 UTC
+**Last Updated:** 2026-04-16 03:28:10 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -97,7 +97,44 @@
 
 ---
 
-### 11. [Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest](https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/)
+### 11. [Critical Nginx UI auth bypass flaw now actively exploited in the wild](https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 15 Apr 2026 18:35:09 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-33032  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [New AgingFly malware used in attacks on Ukraine govt, hospitals](https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 15 Apr 2026 17:57:17 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 13. [WordPress plugin suite hacked to push malware to thousands of sites](https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 15 Apr 2026 16:33:50 -0400  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 14. [Signed software abused to deploy antivirus-killing scripts](https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 15 Apr 2026 13:59:30 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 15. [Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest](https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 15 Apr 2026 12:20:21 -0400  
@@ -106,7 +143,7 @@
 
 ---
 
-### 12. [CISA flags Windows Task Host vulnerability as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/)
+### 16. [CISA flags Windows Task Host vulnerability as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 15 Apr 2026 10:51:05 -0400  
@@ -116,7 +153,7 @@
 
 ---
 
-### 13. [Rolling Networks: Securing the Transportation Sector](https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/)
+### 17. [Rolling Networks: Securing the Transportation Sector](https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 15 Apr 2026 10:00:10 -0400  
@@ -125,7 +162,7 @@
 
 ---
 
-### 14. [Microsoft: April updates trigger BitLocker key prompts on some servers](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/)
+### 18. [Microsoft: April updates trigger BitLocker key prompts on some servers](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 15 Apr 2026 07:41:35 -0400  
@@ -134,7 +171,7 @@
 
 ---
 
-### 15. [Microsoft fixes bug behind Windows Server 2025 automatic upgrades](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/)
+### 19. [Microsoft fixes bug behind Windows Server 2025 automatic upgrades](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 15 Apr 2026 06:24:53 -0400  
@@ -143,7 +180,7 @@
 
 ---
 
-### 16. [Microsoft adds Windows protections for malicious Remote Desktop files](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/)
+### 20. [Microsoft adds Windows protections for malicious Remote Desktop files](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 14 Apr 2026 18:23:33 -0400  
@@ -152,48 +189,12 @@
 
 ---
 
-### 17. [Crypto-exchange Kraken extorted by hackers after insider breach](https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 14 Apr 2026 17:58:31 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 18. [Over 100 Chrome Web Store extensions steal user accounts, data](https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 14 Apr 2026 16:33:00 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 19. [Microsoft releases Windows 10 KB5082200 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 14 Apr 2026 14:09:39 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability, Phishing  
-
----
-
-### 20. [McGraw-Hill confirms data breach following extortion threat](https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 14 Apr 2026 14:07:07 -0400  
-**Severity:** High  
-**Categories:** Ransomware, Data Breach, Vulnerability  
-
----
-
 ### 21. [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -248,7 +249,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-24289, CVE-2026-26127, CVE-2026-25187, CVE-2026-24294, CVE-2026-21262, CVE-2026-24291, CVE-2026-26110  
+**CVEs:** CVE-2026-26127, CVE-2026-26110, CVE-2026-24289, CVE-2026-26113, CVE-2026-24294, CVE-2026-25187, CVE-2026-21262, CVE-2026-24291  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -364,7 +365,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 20:27:56 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33115, CVE-2026-33114, CVE-2026-33826, CVE-2026-32157, CVE-2026-33824, CVE-2026-32190, CVE-2026-23666  
+**CVEs:** CVE-2026-32157, CVE-2026-33115, CVE-2026-33114, CVE-2026-33826, CVE-2026-23666, CVE-2026-32190, CVE-2026-33824  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -450,7 +451,16 @@
 
 ---
 
-### 52. [Iran War: Future Scenario and Business Improvements](https://www.recordedfuture.com/research/iran-war-future-scenario-and-business-improvements)
+### 52. [4 Essential Integration Workflows for Operationalizing Threat Intelligence Recorded Future](https://www.recordedfuture.com/blog/4-essential-integration-workflows-for-operationalizing-threat-intelligence)
+
+**Source:** Recorded Future  
+**Published:** Wed, 15 Apr 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 53. [Iran War: Future Scenario and Business Implications](https://www.recordedfuture.com/research/iran-war-future-scenario-and-business-improvements)
 
 **Source:** Recorded Future  
 **Published:** Tue, 14 Apr 2026 00:00:00 GMT  
@@ -459,7 +469,7 @@
 
 ---
 
-### 53. [A New Way to Buy Recorded Future: Solutions and Packages Built for the 2026 Threat Landscape](https://www.recordedfuture.com/blog/recorded-future-solutions-packages)
+### 54. [A New Way to Buy Recorded Future: Solutions and Packages Built for the 2026 Threat Landscape](https://www.recordedfuture.com/blog/recorded-future-solutions-packages)
 
 **Source:** Recorded Future  
 **Published:** Tue, 14 Apr 2026 00:00:00 GMT  
@@ -468,7 +478,7 @@
 
 ---
 
-### 54. [March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day](https://www.recordedfuture.com/blog/march-2026-cve-landscape)
+### 55. [March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day](https://www.recordedfuture.com/blog/march-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Mon, 13 Apr 2026 00:00:00 GMT  
@@ -477,7 +487,7 @@
 
 ---
 
-### 55. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+### 56. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
 
 **Source:** Recorded Future  
 **Published:** Mon, 13 Apr 2026 00:00:00 GMT  
@@ -486,7 +496,7 @@
 
 ---
 
-### 56. [VIP Credential Monitoring Blog](https://www.recordedfuture.com/blog/vip-credential-monitoring-blog)
+### 57. [VIP Credential Monitoring Blog](https://www.recordedfuture.com/blog/vip-credential-monitoring-blog)
 
 **Source:** Recorded Future  
 **Published:** Fri, 10 Apr 2026 00:00:00 GMT  
@@ -495,7 +505,7 @@
 
 ---
 
-### 57. [Third-Party Risk Is an Intelligence Operation. It's Time We Treated It Like One.](https://www.recordedfuture.com/blog/recorded-future-sees-its-inclusion-in-the-2026-forrester-wave)
+### 58. [Third-Party Risk Is an Intelligence Operation. It's Time We Treated It Like One.](https://www.recordedfuture.com/blog/recorded-future-sees-its-inclusion-in-the-2026-forrester-wave)
 
 **Source:** Recorded Future  
 **Published:** Thu, 09 Apr 2026 00:00:00 GMT  
@@ -504,7 +514,7 @@
 
 ---
 
-### 58. [Understanding and Anticipating Venezuelan Government Actions](https://www.recordedfuture.com/research/understanding-and-anticipating-venezuelan-government-actions)
+### 59. [Understanding and Anticipating Venezuelan Government Actions](https://www.recordedfuture.com/research/understanding-and-anticipating-venezuelan-government-actions)
 
 **Source:** Recorded Future  
 **Published:** Wed, 08 Apr 2026 00:00:00 GMT  
@@ -513,19 +523,10 @@
 
 ---
 
-### 59. [Day in the Life: Product Manager at Recorded Future](https://www.recordedfuture.com/blog/kyle-kohler-product-manager)
+### 60. [Day in the Life: Product Manager at Recorded Future](https://www.recordedfuture.com/blog/kyle-kohler-product-manager)
 
 **Source:** Recorded Future  
 **Published:** Fri, 03 Apr 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 60. [Latin America and the Caribbean Cybercrime Landscape](https://www.recordedfuture.com/research/latin-america-and-the-caribbean-cybercrime-landscape)
-
-**Source:** Recorded Future  
-**Published:** Thu, 02 Apr 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -626,7 +627,16 @@
 
 ---
 
-### 71. [Fake YouTube copyright notices can steal your Google login](https://www.malwarebytes.com/blog/threat-intel/2026/04/fake-youtube-copyright-notices-can-steal-your-google-login)
+### 71. [AI clickbait can turn your notifications into a scam feed](https://www.malwarebytes.com/blog/news/2026/04/ai-clickbait-can-turn-your-notifications-into-a-scam-feed)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 15 Apr 2026 17:43:40 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [Fake YouTube copyright notices can steal your Google login](https://www.malwarebytes.com/blog/threat-intel/2026/04/fake-youtube-copyright-notices-can-steal-your-google-login)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 15 Apr 2026 13:21:25 GMT  
@@ -635,7 +645,7 @@
 
 ---
 
-### 72. [From fake Proton VPN sites to gaming mods, this Windows infostealer is everywhere](https://www.malwarebytes.com/blog/threat-intel/2026/04/from-fake-proton-vpn-sites-to-gaming-mods-this-windows-infostealer-is-everywhere)
+### 73. [From fake Proton VPN sites to gaming mods, this Windows infostealer is everywhere](https://www.malwarebytes.com/blog/threat-intel/2026/04/from-fake-proton-vpn-sites-to-gaming-mods-this-windows-infostealer-is-everywhere)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 15 Apr 2026 10:37:33 GMT  
@@ -644,17 +654,17 @@
 
 ---
 
-### 73. [April Patch Tuesday fixes two zero-days, including one under active attack](https://www.malwarebytes.com/blog/news/2026/04/april-patch-tuesday-fixes-two-zero-days-including-one-under-active-attack)
+### 74. [April Patch Tuesday fixes two zero-days, including one under active attack](https://www.malwarebytes.com/blog/news/2026/04/april-patch-tuesday-fixes-two-zero-days-including-one-under-active-attack)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 15 Apr 2026 09:57:15 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 74. [Credit Resources Vault: Why this credit email set off our scam alarms](https://www.malwarebytes.com/blog/news/2026/04/credit-resources-vault-why-this-credit-email-set-off-our-scam-alarms)
+### 75. [Credit Resources Vault: Why this credit email set off our scam alarms](https://www.malwarebytes.com/blog/news/2026/04/credit-resources-vault-why-this-credit-email-set-off-our-scam-alarms)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 15 Apr 2026 09:08:47 GMT  
@@ -663,7 +673,7 @@
 
 ---
 
-### 75. [Omnistealer uses the blockchain to steal everything it can](https://www.malwarebytes.com/blog/news/2026/04/omnistealer-uses-the-blockchain-to-steal-everything-it-can)
+### 76. [Omnistealer uses the blockchain to steal everything it can](https://www.malwarebytes.com/blog/news/2026/04/omnistealer-uses-the-blockchain-to-steal-everything-it-can)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 14 Apr 2026 11:52:15 GMT  
@@ -672,7 +682,7 @@
 
 ---
 
-### 76. [ChatGPT under scrutiny as Florida investigates campus shooting](https://www.malwarebytes.com/blog/ai/2026/04/chatgpt-under-scrutiny-as-florida-investigates-campus-shooting)
+### 77. [ChatGPT under scrutiny as Florida investigates campus shooting](https://www.malwarebytes.com/blog/ai/2026/04/chatgpt-under-scrutiny-as-florida-investigates-campus-shooting)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 14 Apr 2026 09:45:35 GMT  
@@ -681,7 +691,7 @@
 
 ---
 
-### 77. [Simply opening a PDF could trigger this Adobe Reader zero-day](https://www.malwarebytes.com/blog/news/2026/04/simply-opening-a-pdf-could-trigger-this-adobe-reader-zero-day)
+### 78. [Simply opening a PDF could trigger this Adobe Reader zero-day](https://www.malwarebytes.com/blog/news/2026/04/simply-opening-a-pdf-could-trigger-this-adobe-reader-zero-day)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 13 Apr 2026 11:38:36 GMT  
@@ -691,7 +701,7 @@
 
 ---
 
-### 78. [A week in security (April 6 &#8211; April 12)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-6-april-12)
+### 79. [A week in security (April 6 &#8211; April 12)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-6-april-12)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 13 Apr 2026 07:02:00 GMT  
@@ -700,19 +710,10 @@
 
 ---
 
-### 79. [Fake Claude site installs malware that gives attackers access to your computer](https://www.malwarebytes.com/blog/scams/2026/04/fake-claude-site-installs-malware-that-gives-attackers-access-to-your-computer)
+### 80. [Fake Claude site installs malware that gives attackers access to your computer](https://www.malwarebytes.com/blog/scams/2026/04/fake-claude-site-installs-malware-that-gives-attackers-access-to-your-computer)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 10 Apr 2026 16:16:26 GMT  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 80. [ClickFix finds a new way to infect Macs](https://www.malwarebytes.com/blog/news/2026/04/clickfix-finds-new-way-to-infect-macs)
-
-**Source:** Malwarebytes  
-**Published:** Fri, 10 Apr 2026 15:02:18 GMT  
 **Severity:** Low  
 **Categories:** Malware  
 

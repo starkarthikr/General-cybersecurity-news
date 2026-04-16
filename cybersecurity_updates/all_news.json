@@ -189,6 +189,82 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
+    "published": "Wed, 15 Apr 2026 18:35:09 -0400",
+    "summary": "A critical vulnerability in Nginx UI with Model Context Protocol (MCP) support is now being exploited in the wild for full server takeover without authentication. [...]",
+    "analysis": {
+      "issue": "A critical vulnerability in Nginx UI with Model Context Protocol (MCP) support is now being exploited in the wild for full server takeover without authentication",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-33032"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New AgingFly malware used in attacks on Ukraine govt, hospitals",
+    "link": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
+    "published": "Wed, 15 Apr 2026 17:57:17 -0400",
+    "summary": "A new malware family named 'AgingFly' has been identified in attacks against local governments and hospitals that steal authentication data from Chromium-based browsers and WhatsApp messenger. [...]",
+    "analysis": {
+      "issue": "A new malware family named ‘AgingFly’ has been identified in attacks against local governments and hospitals that steal authentication data from Chromium-based browsers and WhatsApp messenger",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "WordPress plugin suite hacked to push malware to thousands of sites",
+    "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/",
+    "published": "Wed, 15 Apr 2026 16:33:50 -0400",
+    "summary": "More than 30 WordPress plugins in the EssentialPlugin package have been compromised with malicious code that allows unauthorized access to websites running them. [...]",
+    "analysis": {
+      "issue": "More than 30 WordPress plugins in the EssentialPlugin package have been compromised with malicious code that allows unauthorized access to websites running them",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Signed software abused to deploy antivirus-killing scripts",
+    "link": "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/",
+    "published": "Wed, 15 Apr 2026 13:59:30 -0400",
+    "summary": "A digitally signed adware tool has deployed payloads running with SYSTEM privileges that disabled antivirus protections on thousands of endpoints, some in the educational, utilities, government, and healthcare sectors. [...]",
+    "analysis": {
+      "issue": "A digitally signed adware tool has deployed payloads running with SYSTEM privileges that disabled antivirus protections on thousands of endpoints, some in the educational, utilities, government, and healthcare sectors",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
     "published": "Wed, 15 Apr 2026 12:20:21 -0400",
@@ -299,81 +375,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Crypto-exchange Kraken extorted by hackers after insider breach",
-    "link": "https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/",
-    "published": "Tue, 14 Apr 2026 17:58:31 -0400",
-    "summary": "The Kraken cryptocurrency exchange announced that a cybercrime group is trying to extort the company by threatening to release videos showing internal systems that host client data. [...]",
-    "analysis": {
-      "issue": "The Kraken cryptocurrency exchange announced that a cybercrime group is trying to extort the company by threatening to release videos showing internal systems that host client data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Over 100 Chrome Web Store extensions steal user accounts, data",
-    "link": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
-    "published": "Tue, 14 Apr 2026 16:33:00 -0400",
-    "summary": "More than 100 malicious extensions in the official Chrome Web Store are attempting to steal Google OAuth2 Bearer tokens, deploy backdoors, and carry out ad fraud. [...]",
-    "analysis": {
-      "issue": "More than 100 malicious extensions in the official Chrome Web Store are attempting to steal Google OAuth2 Bearer tokens, deploy backdoors, and carry out ad fraud",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft releases Windows 10 KB5082200 extended security update",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/",
-    "published": "Tue, 14 Apr 2026 14:09:39 -0400",
-    "summary": "Microsoft has released the Windows 10 KB5082200 extended security update to fix the April 2026 Patch Tuesday vulnerabilities, including 2 zero-days. [...]",
-    "analysis": {
-      "issue": "Microsoft has released the Windows 10 KB5082200 extended security update to fix the April 2026 Patch Tuesday vulnerabilities, including 2 zero-days",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "McGraw-Hill confirms data breach following extortion threat",
-    "link": "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/",
-    "published": "Tue, 14 Apr 2026 14:07:07 -0400",
-    "summary": "Education company McGraw-Hill has confirmed in a statement to BleepingComputer that hackers exploited a Salesforce misconfiguration and accessed its internal data. [...]",
-    "analysis": {
-      "issue": "Education company McGraw-Hill has confirmed in a statement to BleepingComputer that hackers exploited a Salesforce misconfiguration and accessed its internal data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, April 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
@@ -386,9 +387,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
+        "CVE-2026-33825",
         "CVE-2026-32201",
-        "CVE-2026-33825"
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -505,14 +506,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26113",
-        "CVE-2026-24289",
         "CVE-2026-26127",
-        "CVE-2026-25187",
+        "CVE-2026-26110",
+        "CVE-2026-24289",
+        "CVE-2026-26113",
         "CVE-2026-24294",
+        "CVE-2026-25187",
         "CVE-2026-21262",
-        "CVE-2026-24291",
-        "CVE-2026-26110"
+        "CVE-2026-24291"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -679,13 +680,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-32157",
         "CVE-2026-33115",
         "CVE-2026-33114",
         "CVE-2026-33826",
-        "CVE-2026-32157",
-        "CVE-2026-33824",
+        "CVE-2026-23666",
         "CVE-2026-32190",
-        "CVE-2026-23666"
+        "CVE-2026-33824"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -866,7 +867,25 @@
   },
   {
     "source": "Recorded Future",
-    "title": "Iran War: Future Scenario and Business Improvements",
+    "title": "4 Essential Integration Workflows for Operationalizing Threat Intelligence Recorded Future",
+    "link": "https://www.recordedfuture.com/blog/4-essential-integration-workflows-for-operationalizing-threat-intelligence",
+    "published": "Wed, 15 Apr 2026 00:00:00 GMT",
+    "summary": "Learn how to integrate threat intelligence into your existing security stack with Recorded Future. Explore four stages of cyber maturity, four key integration workflows, and practical steps to move your program from reactive to autonomous.",
+    "analysis": {
+      "issue": "Learn how to integrate threat intelligence into your existing security stack with Recorded Future",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Iran War: Future Scenario and Business Implications",
     "link": "https://www.recordedfuture.com/research/iran-war-future-scenario-and-business-improvements",
     "published": "Tue, 14 Apr 2026 00:00:00 GMT",
     "summary": "Iran War: Future Scenarios and Business Implications",
@@ -999,24 +1018,6 @@
     "summary": "VentureFizz interviews Senior Product Manager Kyle Kohler on his role at Recorded Future",
     "analysis": {
       "issue": "VentureFizz interviews Senior Product Manager Kyle Kohler on his role at Recorded Future",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Latin America and the Caribbean Cybercrime Landscape",
-    "link": "https://www.recordedfuture.com/research/latin-america-and-the-caribbean-cybercrime-landscape",
-    "published": "Thu, 02 Apr 2026 00:00:00 GMT",
-    "summary": "This report provides an overview of trends and developments in the cybercriminal ecosystem of Latin America and the Caribbean (LAC) in 2025.",
-    "analysis": {
-      "issue": "This report provides an overview of trends and developments in the cybercriminal ecosystem of Latin America and the Caribbean (LAC) in 2025",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1225,6 +1226,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "AI clickbait can turn your notifications into a scam feed",
+    "link": "https://www.malwarebytes.com/blog/news/2026/04/ai-clickbait-can-turn-your-notifications-into-a-scam-feed",
+    "published": "Wed, 15 Apr 2026 17:43:40 GMT",
+    "summary": "A new AI-driven campaign known as Pushpaganda is using clickbait to turn your browser notifications into a stream of scams and fake alerts.",
+    "analysis": {
+      "issue": "Pushpaganda is the name researchers have given to an AI-assisted ad fraud, social engineering, and scareware operation targeting mobile users",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Fake YouTube copyright notices can steal your Google login",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/04/fake-youtube-copyright-notices-can-steal-your-google-login",
     "published": "Wed, 15 Apr 2026 13:21:25 GMT",
@@ -1273,8 +1292,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
-        "CVE-2026-33825"
+        "CVE-2026-33825",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1385,24 +1404,6 @@
     "summary": "We found a convincing fake site that installs a trojanized Claude app while quietly deploying PlugX malware.",
     "analysis": {
       "issue": "Claude’s rapid growth—nearly 290 million web visits per month—has made it an attractive target for attackers, and this campaign shows how easy it is to fall for a fake site",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "ClickFix finds a new way to infect Macs",
-    "link": "https://www.malwarebytes.com/blog/news/2026/04/clickfix-finds-new-way-to-infect-macs",
-    "published": "Fri, 10 Apr 2026 15:02:18 GMT",
-    "summary": "ClickFix campaigns have found a way around macOS Tahoe's warnings against pasting commands in the Terminal. They're using Script Editor instead.",
-    "analysis": {
-      "issue": "ClickFix campaigns are looking for alternatives now that many Mac users have been made aware of the dangers of pasting certain commands into Terminal",
       "solution": null,
       "cause": null,
       "timeline": null,
