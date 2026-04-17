@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
+    "link": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html",
+    "published": "Fri, 17 Apr 2026 12:44:00 +0530",
+    "summary": "The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVEs) listed in its National Vulnerability Database (NVD), stating it will only enrich those that fulfil certain conditions owing to an explosion in CVE submissions.\n\"CVEs that do not meet those criteria will still be listed in the NVD but will not",
+    "analysis": {
+      "issue": "NIST limits CVE enrichment after 263% surge since 2020, prioritizing KEV and federal software, shifting thousands to “Not Scheduled",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
+    "link": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
+    "published": "Fri, 17 Apr 2026 11:16:00 +0530",
+    "summary": "An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than 75,000 cybercriminals.\nThe ongoing effort, dubbed Operation PowerOFF, disrupted access to the DDoS-for-hire services, took down the technical infrastructure supporting them, and obtained access to",
+    "analysis": {
+      "issue": "53 DDoS domains seized in Operation PowerOFF across 21 countries, exposing 3 million accounts and disrupting 75,000 users' attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
     "link": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
     "published": "Fri, 17 Apr 2026 08:52:00 +0530",
@@ -149,40 +185,76 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
-    "link": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html",
-    "published": "Wed, 15 Apr 2026 22:39:00 +0530",
-    "summary": "Threat actors&nbsp;have been&nbsp;observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophisticated phishing campaigns and deliver malicious payloads or fingerprint devices by sending automated&nbsp;emails.\n\"By leveraging trusted infrastructure, these attackers bypass traditional security filters, turning productivity tools into delivery",
+    "source": "Bleeping Computer",
+    "title": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
+    "published": "Fri, 17 Apr 2026 05:30:15 -0400",
+    "summary": "CISA warned that attackers are now exploiting a high-severity Apache ActiveMQ vulnerability, which was patched earlier this month after going undetected for 13 years. [...]",
     "analysis": {
-      "issue": "n8n webhooks abused since October 2025, with phishing volume up 686%, enabling malware delivery and device tracking",
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) warned on Thursday that a high-severity Apache ActiveMQ vulnerability patched earlier this month is now actively exploited in attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-34197"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft: Some Windows servers enter reboot loops after April patches",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
+    "published": "Fri, 17 Apr 2026 03:59:47 -0400",
+    "summary": "Microsoft warns that some Windows domain controllers are entering restart loops after installing the April 2026 security updates. [...]",
+    "analysis": {
+      "issue": "Microsoft has confirmed that some Windows domain controllers are entering restart loops due to Local Security Authority Subsystem Service (LSASS) crashes after installing the April 2026 security updates",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "Phishing"
+        "General Security"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
-    "link": "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html",
-    "published": "Wed, 15 Apr 2026 18:26:00 +0530",
-    "summary": "A recently disclosed critical security flaw impacting nginx-ui, an open-source, web-based Nginx management tool, has come under active exploitation in the&nbsp;wild.\nThe vulnerability in question is CVE-2026-33032 (CVSS score: 9.8), an authentication bypass vulnerability that enables threat actors to seize control of the Nginx service. It&nbsp;has been codenamed MCPwn by Pluto&nbsp;Security.\n\"",
+    "source": "Bleeping Computer",
+    "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/",
+    "published": "Fri, 17 Apr 2026 03:10:32 -0400",
+    "summary": "23-year-old Kamerin Stokes of Memphis, Tennessee, was sentenced to 30 months in prison for selling access to tens of thousands of hacked DraftKings accounts. [...]",
     "analysis": {
-      "issue": "CVE-2026-33032 exposes nginx-ui to unauthenticated takeover via MCP endpoint, impacting 2,600+ instances with active exploitation",
+      "issue": "23-year-old Kamerin Stokes of Memphis, Tennessee, was sentenced to 30 months in prison for selling access to tens of thousands of hacked DraftKings accounts",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-33032"
-      ],
+      "cves": [],
       "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Recently leaked Windows zero-days now exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/",
+    "published": "Fri, 17 Apr 2026 02:14:52 -0400",
+    "summary": "Threat actors are exploiting three recently disclosed Windows security vulnerabilities in attacks aimed at gaining SYSTEM or elevated administrator permissions. [...]",
+    "analysis": {
+      "issue": "Threat actors are exploiting three recently disclosed Windows security vulnerabilities in attacks aimed at gaining SYSTEM or elevated administrator permissions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
         "Vulnerability"
       ]
     }
@@ -301,86 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Most \"AI SOCs\" Are Just Faster Triage. That's Not Enough.",
-    "link": "https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/",
-    "published": "Thu, 16 Apr 2026 10:02:12 -0400",
-    "summary": "AI-powered SOC tools promise automation, but most only speed up triage instead of reducing real workload. Tines shows how real gains come from end-to-end workflows that execute actions across systems, not just summarize alerts. [...]",
-    "analysis": {
-      "issue": "The \"AI SOC\" is having a moment",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Cisco says critical Webex Services flaw requires customer action",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/",
-    "published": "Thu, 16 Apr 2026 08:01:42 -0400",
-    "summary": "Cisco has released security updates to patch four critical vulnerabilities, including a fixed improper certificate validation flaw in the company's cloud-based Webex Services platform that requires further customer action. [...]",
-    "analysis": {
-      "issue": "Cisco has released security updates to patch four critical vulnerabilities, including a fixed improper certificate validation flaw in the company's cloud-based Webex Services platform that requires further customer action",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20186",
-        "CVE-2026-20147",
-        "CVE-2026-20184",
-        "CVE-2026-20180"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Data breach at edtech giant McGraw Hill affects 13.5 million accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/",
-    "published": "Thu, 16 Apr 2026 06:35:09 -0400",
-    "summary": "The ShinyHunters extortion group has leaked data from 13.5 million McGraw Hill user accounts, stolen after breaching the company's Salesforce environment earlier this month. [...]",
-    "analysis": {
-      "issue": "The ShinyHunters extortion group has leaked data from 13",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US nationals behind DPRK IT worker 'laptop farm' sent to prison",
-    "link": "https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/",
-    "published": "Thu, 16 Apr 2026 04:32:13 -0400",
-    "summary": "Two U.S. nationals have been sent to prison for helping North Korean remote information technology (IT) workers to pose as U.S. residents and get hired by over 100 companies across the country, including many Fortune 500 firms. [...]",
-    "analysis": {
-      "issue": "nationals have been sent to prison for helping North Korean remote information technology (IT) workers to pose as U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, April 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
@@ -393,9 +385,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
         "CVE-2026-34621",
-        "CVE-2026-32201"
+        "CVE-2026-32201",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -513,13 +505,13 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-26110",
+        "CVE-2026-24289",
         "CVE-2026-25187",
         "CVE-2026-21262",
         "CVE-2026-24294",
         "CVE-2026-26127",
-        "CVE-2026-24291",
         "CVE-2026-26113",
-        "CVE-2026-24289"
+        "CVE-2026-24291"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -586,6 +578,41 @@
   },
   {
     "source": "Security Week",
+    "title": "Recent Apache ActiveMQ Vulnerability Exploited in the Wild",
+    "link": "https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/",
+    "published": "Fri, 17 Apr 2026 09:50:22 +0000",
+    "summary": "<p>The remote code execution vulnerability tracked as CVE-2026-34197 came to light in early April.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/\">Recent Apache ActiveMQ Vulnerability Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Two North Korean IT Worker Scheme Facilitators Jailed in the US",
+    "link": "https://www.securityweek.com/two-north-korean-it-worker-scheme-facilitators-jailed-in-the-us/",
+    "published": "Fri, 17 Apr 2026 09:21:02 +0000",
+    "summary": "<p>Kejia Wang and Zhenxing Wang compromised the identities of dozens of US persons to help land jobs at over 100 companies.</p>\n<p>The post <a href=\"https://www.securityweek.com/two-north-korean-it-worker-scheme-facilitators-jailed-in-the-us/\">Two North Korean IT Worker Scheme Facilitators Jailed in the US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "ZionSiphon Malware Targets ICS in Water Facilities",
+    "link": "https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/",
+    "published": "Fri, 17 Apr 2026 08:30:00 +0000",
+    "summary": "<p>The malware is configured to operate on systems associated with Israeli water treatment and desalination plants.</p>\n<p>The post <a href=\"https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/\">ZionSiphon Malware Targets ICS in Water Facilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Cursor AI Vulnerability Exposed Developer Devices",
+    "link": "https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/",
+    "published": "Fri, 17 Apr 2026 07:29:16 +0000",
+    "summary": "<p>An indirect prompt injection could be chained with a sandbox bypass and Cursor’s remote tunnel feature for shell access to machines.</p>\n<p>The post <a href=\"https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/\">Cursor AI Vulnerability Exposed Developer Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "53 DDoS Domains Taken Down by Law Enforcement",
+    "link": "https://www.securityweek.com/53-ddos-domains-taken-down-by-law-enforcement/",
+    "published": "Fri, 17 Apr 2026 06:40:21 +0000",
+    "summary": "<p>Authorities in 21 countries participated in a coordinated action against DDoS-for-hire services.</p>\n<p>The post <a href=\"https://www.securityweek.com/53-ddos-domains-taken-down-by-law-enforcement/\">53 DDoS Domains Taken Down by Law Enforcement</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Government Can’t Win the Cyber War Without the Private Sector",
     "link": "https://www.securityweek.com/government-cant-win-the-cyber-war-without-the-private-sector/",
     "published": "Thu, 16 Apr 2026 17:00:00 +0000",
@@ -618,41 +645,6 @@
     "link": "https://www.securityweek.com/splunk-enterprise-update-patches-code-execution-vulnerability/",
     "published": "Thu, 16 Apr 2026 11:51:39 +0000",
     "summary": "<p>The flaw allows low-privileged users to upload files to a temporary directory to achieve remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/splunk-enterprise-update-patches-code-execution-vulnerability/\">Splunk Enterprise Update Patches Code Execution Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft Paid Out $2.3 Million at Zero Day Quest 2026 Hacking Contest",
-    "link": "https://www.securityweek.com/microsoft-paid-out-2-3-million-at-zero-day-quest-2026-hacking-contest/",
-    "published": "Thu, 16 Apr 2026 11:21:27 +0000",
-    "summary": "<p>Researchers found more than 80 high-impact cloud and AI vulnerabilities during the event, which had a $5 million prize pool.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-paid-out-2-3-million-at-zero-day-quest-2026-hacking-contest/\">Microsoft Paid Out $2.3 Million at Zero Day Quest 2026 Hacking Contest</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "NIST Prioritizes NVD Enrichment for CVEs in CISA KEV, Critical Software",
-    "link": "https://www.securityweek.com/nist-prioritizes-nvd-enrichment-for-cves-in-cisa-kev-critical-software/",
-    "published": "Thu, 16 Apr 2026 10:47:14 +0000",
-    "summary": "<p>To optimize management of CVE volume, entries that do not meet specific criteria will not be automatically enriched.</p>\n<p>The post <a href=\"https://www.securityweek.com/nist-prioritizes-nvd-enrichment-for-cves-in-cisa-kev-critical-software/\">NIST Prioritizes NVD Enrichment for CVEs in CISA KEV, Critical Software</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco Patches Critical Vulnerabilities in Webex, ISE",
-    "link": "https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-webex-ise/",
-    "published": "Thu, 16 Apr 2026 10:04:31 +0000",
-    "summary": "<p>The flaws can be exploited remotely to impersonate users or execute arbitrary commands on the underlying OS.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-webex-ise/\">Cisco Patches Critical Vulnerabilities in Webex, ISE</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Ransomware Hits Automotive Data Expert Autovista",
-    "link": "https://www.securityweek.com/ransomware-hits-automotive-data-expert-autovista/",
-    "published": "Thu, 16 Apr 2026 09:30:16 +0000",
-    "summary": "<p>The automotive analysis and data company is working with external experts to investigate the attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/ransomware-hits-automotive-data-expert-autovista/\">Ransomware Hits Automotive Data Expert Autovista</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Claude Code, Gemini CLI, GitHub Copilot Agents Vulnerable to Prompt Injection via Comments",
-    "link": "https://www.securityweek.com/claude-code-gemini-cli-github-copilot-agents-vulnerable-to-prompt-injection-via-comments/",
-    "published": "Thu, 16 Apr 2026 08:33:54 +0000",
-    "summary": "<p>A researcher has disclosed the details of the AI attack method he has named ‘Comment and Control’.</p>\n<p>The post <a href=\"https://www.securityweek.com/claude-code-gemini-cli-github-copilot-agents-vulnerable-to-prompt-injection-via-comments/\">Claude Code, Gemini CLI, GitHub Copilot Agents Vulnerable to Prompt Injection via Comments</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -764,12 +756,12 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-33114",
-        "CVE-2026-33115",
-        "CVE-2026-33826",
-        "CVE-2026-23666",
         "CVE-2026-32190",
         "CVE-2026-33824",
-        "CVE-2026-32157"
+        "CVE-2026-33115",
+        "CVE-2026-32157",
+        "CVE-2026-23666",
+        "CVE-2026-33826"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1222,6 +1214,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "“Your shipment has arrived” email hides remote access software",
+    "link": "https://www.malwarebytes.com/blog/news/2026/04/your-shipment-has-arrived-email-hides-remote-access-software",
+    "published": "Fri, 17 Apr 2026 07:40:03 GMT",
+    "summary": "This DHL-themed email tries to get recipients to install remote access software attackers can use to deploy further malware, including ransomware.",
+    "analysis": {
+      "issue": "An attachment in an email impersonating DHL about a shipment contains a link to a preconfigured SimpleHelp remote access tool—an ideal starting point for attackers to explore a network, steal data, and drop additional malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Browser Guard gets even better with Access Control",
     "link": "https://www.malwarebytes.com/blog/product/2026/04/browser-guard-gets-even-better-with-access-control",
     "published": "Thu, 16 Apr 2026 12:40:00 GMT",
@@ -1363,8 +1373,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
-        "CVE-2026-32201"
+        "CVE-2026-32201",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1389,25 +1399,6 @@
         "Data Breach",
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Omnistealer uses the blockchain to steal everything it can",
-    "link": "https://www.malwarebytes.com/blog/news/2026/04/omnistealer-uses-the-blockchain-to-steal-everything-it-can",
-    "published": "Tue, 14 Apr 2026 11:52:15 GMT",
-    "summary": "This malware is coming for your password managers, saved logins, cloud storage, crypto wallets, and just about anything else it can reach.",
-    "analysis": {
-      "issue": "A new infostealer dubbed Omnistealer is turning the blockchain into a permanent malware hosting platform, which is bad news for both companies and everyday users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
       ]
     }
   },
