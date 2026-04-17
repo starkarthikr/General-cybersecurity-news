@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-17 09:54:57 UTC
+**Last Updated:** 2026-04-17 13:44:13 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions](https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html)
+### 1. [Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul](https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 17 Apr 2026 16:17:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions](https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Apr 2026 12:44:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts](https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html)
+### 3. [Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts](https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Apr 2026 11:16:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation](https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html)
+### 4. [Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation](https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Apr 2026 08:52:00 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic](https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html)
+### 5. [Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic](https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Apr 2026 23:22:00 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html)
+### 6. [ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Apr 2026 18:35:00 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
+### 7. [[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Apr 2026 17:25:00 +0530  
@@ -59,19 +68,10 @@
 
 ---
 
-### 7. [Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution](https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html)
+### 8. [Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution](https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Apr 2026 16:57:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 8. [Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu](https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 16 Apr 2026 16:00:00 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -95,7 +95,16 @@
 
 ---
 
-### 11. [CISA flags Apache ActiveMQ flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/)
+### 11. [Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 17 Apr 2026 08:20:28 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Vulnerability, Phishing, APT  
+
+---
+
+### 12. [CISA flags Apache ActiveMQ flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 05:30:15 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [Microsoft: Some Windows servers enter reboot loops after April patches](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/)
+### 13. [Microsoft: Some Windows servers enter reboot loops after April patches](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 03:59:47 -0400  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [Man gets 30 months for selling thousands of hacked DraftKings accounts](https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/)
+### 14. [Man gets 30 months for selling thousands of hacked DraftKings accounts](https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 03:10:32 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Recently leaked Windows zero-days now exploited in attacks](https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/)
+### 15. [Recently leaked Windows zero-days now exploited in attacks](https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 02:14:52 -0400  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Operation PowerOFF identifies 75k DDoS users, takes down 53 domains](https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/)
+### 16. [Operation PowerOFF identifies 75k DDoS users, takes down 53 domains](https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Apr 2026 18:26:34 -0400  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [ZionSiphon malware designed to sabotage water treatment systems](https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/)
+### 17. [ZionSiphon malware designed to sabotage water treatment systems](https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Apr 2026 18:04:53 -0400  
@@ -150,7 +159,7 @@
 
 ---
 
-### 17. [New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/)
+### 18. [New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Apr 2026 16:19:31 -0400  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face](https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/)
+### 19. [Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face](https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Apr 2026 12:58:06 -0400  
@@ -169,21 +178,12 @@
 
 ---
 
-### 19. [Google expands Gemini AI use to fight malicious ads on its platform](https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/)
+### 20. [Google expands Gemini AI use to fight malicious ads on its platform](https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Apr 2026 11:24:14 -0400  
 **Severity:** Low  
 **Categories:** Malware, Phishing  
-
----
-
-### 20. [New ATHR vishing platform uses AI voice agents for automated attacks](https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 16 Apr 2026 10:09:11 -0400  
-**Severity:** High  
-**Categories:** Phishing  
 
 ---
 
@@ -247,7 +247,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26110, CVE-2026-24289, CVE-2026-25187, CVE-2026-21262, CVE-2026-24294, CVE-2026-26127, CVE-2026-26113, CVE-2026-24291  
+**CVEs:** CVE-2026-21262, CVE-2026-26110, CVE-2026-24289, CVE-2026-26113, CVE-2026-26127, CVE-2026-24294, CVE-2026-24291, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,73 +279,73 @@
 
 ---
 
-### 31. [Recent Apache ActiveMQ Vulnerability Exploited in the Wild](https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/)
+### 31. [In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested](https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/)
+
+**Source:** Security Week  
+**Published:** Fri, 17 Apr 2026 12:00:00 +0000  
+
+---
+
+### 32. [Another DraftKings Hacker Sentenced to Prison](https://www.securityweek.com/another-draftkings-hacker-sentenced-to-prison/)
+
+**Source:** Security Week  
+**Published:** Fri, 17 Apr 2026 10:45:13 +0000  
+
+---
+
+### 33. [Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of ‘Destruction’ Followed](https://www.securityweek.com/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/)
+
+**Source:** Security Week  
+**Published:** Fri, 17 Apr 2026 10:15:00 +0000  
+
+---
+
+### 34. [Recent Apache ActiveMQ Vulnerability Exploited in the Wild](https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 09:50:22 +0000  
 
 ---
 
-### 32. [Two North Korean IT Worker Scheme Facilitators Jailed in the US](https://www.securityweek.com/two-north-korean-it-worker-scheme-facilitators-jailed-in-the-us/)
+### 35. [Two North Korean IT Worker Scheme Facilitators Jailed in the US](https://www.securityweek.com/two-north-korean-it-worker-scheme-facilitators-jailed-in-the-us/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 09:21:02 +0000  
 
 ---
 
-### 33. [ZionSiphon Malware Targets ICS in Water Facilities](https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/)
+### 36. [ZionSiphon Malware Targets ICS in Water Facilities](https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 08:30:00 +0000  
 
 ---
 
-### 34. [Cursor AI Vulnerability Exposed Developer Devices](https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/)
+### 37. [Cursor AI Vulnerability Exposed Developer Devices](https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 07:29:16 +0000  
 
 ---
 
-### 35. [53 DDoS Domains Taken Down by Law Enforcement](https://www.securityweek.com/53-ddos-domains-taken-down-by-law-enforcement/)
+### 38. [53 DDoS Domains Taken Down by Law Enforcement](https://www.securityweek.com/53-ddos-domains-taken-down-by-law-enforcement/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 06:40:21 +0000  
 
 ---
 
-### 36. [Government Can’t Win the Cyber War Without the Private Sector](https://www.securityweek.com/government-cant-win-the-cyber-war-without-the-private-sector/)
+### 39. [Government Can’t Win the Cyber War Without the Private Sector](https://www.securityweek.com/government-cant-win-the-cyber-war-without-the-private-sector/)
 
 **Source:** Security Week  
 **Published:** Thu, 16 Apr 2026 17:00:00 +0000  
 
 ---
 
-### 37. [OpenAI Widens Access to Cybersecurity Model After Anthropic’s Mythos Reveal](https://www.securityweek.com/openai-widens-access-to-cybersecurity-model-after-anthropics-mythos-reveal/)
+### 40. [OpenAI Widens Access to Cybersecurity Model After Anthropic’s Mythos Reveal](https://www.securityweek.com/openai-widens-access-to-cybersecurity-model-after-anthropics-mythos-reveal/)
 
 **Source:** Security Week  
 **Published:** Thu, 16 Apr 2026 14:27:06 +0000  
-
----
-
-### 38. [Data Breach at Tennessee Hospital Affects 337,000](https://www.securityweek.com/data-breach-at-tennessee-hospital-affects-337000/)
-
-**Source:** Security Week  
-**Published:** Thu, 16 Apr 2026 12:40:36 +0000  
-
----
-
-### 39. [Artemis Emerges From Stealth With $70 Million in Funding](https://www.securityweek.com/artemis-emerges-from-stealth-with-70-million/)
-
-**Source:** Security Week  
-**Published:** Thu, 16 Apr 2026 12:22:02 +0000  
-
----
-
-### 40. [Splunk Enterprise Update Patches Code Execution Vulnerability](https://www.securityweek.com/splunk-enterprise-update-patches-code-execution-vulnerability/)
-
-**Source:** Security Week  
-**Published:** Thu, 16 Apr 2026 11:51:39 +0000  
 
 ---
 
@@ -400,7 +400,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 20:27:56 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33114, CVE-2026-32190, CVE-2026-33824, CVE-2026-33115, CVE-2026-32157, CVE-2026-23666, CVE-2026-33826  
+**CVEs:** CVE-2026-32157, CVE-2026-23666, CVE-2026-33114, CVE-2026-33115, CVE-2026-32190, CVE-2026-33824, CVE-2026-33826  
 **Categories:** Vulnerability, DDoS  
 
 ---

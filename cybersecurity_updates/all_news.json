@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul",
+    "link": "https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html",
+    "published": "Fri, 17 Apr 2026 16:17:00 +0530",
+    "summary": "Google this week announced a new set of Play policy updates to strengthen user privacy and protect businesses against fraud, even as it revealed it blocked or removed over 8.3 billion ads globally and suspended 24.9 million accounts in 2025.\nThe new policy updates relate to contact and location permissions in Android, allowing third-party apps to access the contact lists and a user's location in",
+    "analysis": {
+      "issue": "9M accounts in 2025 as Android 17 tightened contact and location access, reducing fraud and abuse",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
     "link": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html",
     "published": "Fri, 17 Apr 2026 12:44:00 +0530",
@@ -132,24 +150,6 @@
   },
   {
     "source": "The Hacker News",
-    "title": "Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu",
-    "link": "https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html",
-    "published": "Thu, 16 Apr 2026 16:00:00 +0530",
-    "summary": "A&nbsp;bank approved a Taboola pixel. That&nbsp;pixel quietly redirected logged-in users to a Temu tracking endpoint. This&nbsp;occurred without the bank’s knowledge, without user consent, and without a single security control registering a violation.\n\nRead the full technical breakdown in the Security Intelligence&nbsp;Brief.&nbsp;Download now&nbsp;→\nThe \"First-Hop Bias\" Blind&nbsp;Spot\nMost&",
-    "analysis": {
-      "issue": "Taboola pixel redirected logged-in banking users to Temu in February 2026 audit, exposing GDPR and PCI DSS risks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
     "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
     "link": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
     "published": "Thu, 16 Apr 2026 15:50:00 +0530",
@@ -181,6 +181,27 @@
       "cves": [],
       "threat_categories": [
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/",
+    "published": "Fri, 17 Apr 2026 08:20:28 -0400",
+    "summary": "Cyberattacks are evolving faster than many MSP and corporate defenses can keep up, with phishing driving much of today's cybercrime. Join our upcoming webinar to learn how to combine security and recovery strategies to reduce risk and maintain business continuity. [...]",
+    "analysis": {
+      "issue": "Cyberattacks are evolving faster than many MSP and corporate defenses can keep up, with phishing now one of the primary drivers of modern cybercrime",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Phishing",
+        "APT"
       ]
     }
   },
@@ -355,24 +376,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New ATHR vishing platform uses AI voice agents for automated attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/",
-    "published": "Thu, 16 Apr 2026 10:09:11 -0400",
-    "summary": "A new cybercrime platform called ATHR can harvest credentials via fully automated voice phishing attacks that use both human operators and AI agents for the social engineering phase. [...]",
-    "analysis": {
-      "issue": "A new cybercrime platform called ATHR can harvest credentials via fully automated voice phishing attacks that use both human operators and AI agents for the social engineering phase",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, April 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
@@ -504,14 +507,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21262",
         "CVE-2026-26110",
         "CVE-2026-24289",
-        "CVE-2026-25187",
-        "CVE-2026-21262",
-        "CVE-2026-24294",
-        "CVE-2026-26127",
         "CVE-2026-26113",
-        "CVE-2026-24291"
+        "CVE-2026-26127",
+        "CVE-2026-24294",
+        "CVE-2026-24291",
+        "CVE-2026-25187"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -578,6 +581,27 @@
   },
   {
     "source": "Security Week",
+    "title": "In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested",
+    "link": "https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/",
+    "published": "Fri, 17 Apr 2026 12:00:00 +0000",
+    "summary": "<p>Other noteworthy stories that might have slipped under the radar: ShinyHunters targets Rockstar Games, ShowDoc vulnerability exploited in the wild, and EPA to boost cybersecurity budget to $19 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/\">In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Another DraftKings Hacker Sentenced to Prison",
+    "link": "https://www.securityweek.com/another-draftkings-hacker-sentenced-to-prison/",
+    "published": "Fri, 17 Apr 2026 10:45:13 +0000",
+    "summary": "<p>Kamerin Stokes sold stolen credentials through an online marketplace even after pleading guilty to his role in the DraftKings attack. </p>\n<p>The post <a href=\"https://www.securityweek.com/another-draftkings-hacker-sentenced-to-prison/\">Another DraftKings Hacker Sentenced to Prison</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of ‘Destruction’ Followed",
+    "link": "https://www.securityweek.com/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/",
+    "published": "Fri, 17 Apr 2026 10:15:00 +0000",
+    "summary": "<p>Thursday’s discussion comes as leaders on Capitol Hill grapple with the dizzying pace of global developments in which technology plays a central role.</p>\n<p>The post <a href=\"https://www.securityweek.com/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/\">Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of ‘Destruction’ Followed</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Recent Apache ActiveMQ Vulnerability Exploited in the Wild",
     "link": "https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/",
     "published": "Fri, 17 Apr 2026 09:50:22 +0000",
@@ -624,27 +648,6 @@
     "link": "https://www.securityweek.com/openai-widens-access-to-cybersecurity-model-after-anthropics-mythos-reveal/",
     "published": "Thu, 16 Apr 2026 14:27:06 +0000",
     "summary": "<p>GPT‑5.4‑Cyber is a model fine-tuned for defenders, lowering boundaries for legitimate cybersecurity work.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-widens-access-to-cybersecurity-model-after-anthropics-mythos-reveal/\">OpenAI Widens Access to Cybersecurity Model After Anthropic&#8217;s Mythos Reveal</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Data Breach at Tennessee Hospital Affects 337,000",
-    "link": "https://www.securityweek.com/data-breach-at-tennessee-hospital-affects-337000/",
-    "published": "Thu, 16 Apr 2026 12:40:36 +0000",
-    "summary": "<p>Cookeville Regional Medical Center was targeted last year by the Rhysida ransomware group, which stole 500GB of data.</p>\n<p>The post <a href=\"https://www.securityweek.com/data-breach-at-tennessee-hospital-affects-337000/\">Data Breach at Tennessee Hospital Affects 337,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Artemis Emerges From Stealth With $70 Million in Funding",
-    "link": "https://www.securityweek.com/artemis-emerges-from-stealth-with-70-million/",
-    "published": "Thu, 16 Apr 2026 12:22:02 +0000",
-    "summary": "<p>The startup is leveraging AI to prevent AI-powered attacks across applications, users, machines, and cloud workloads.</p>\n<p>The post <a href=\"https://www.securityweek.com/artemis-emerges-from-stealth-with-70-million/\">Artemis Emerges From Stealth With $70 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Splunk Enterprise Update Patches Code Execution Vulnerability",
-    "link": "https://www.securityweek.com/splunk-enterprise-update-patches-code-execution-vulnerability/",
-    "published": "Thu, 16 Apr 2026 11:51:39 +0000",
-    "summary": "<p>The flaw allows low-privileged users to upload files to a temporary directory to achieve remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/splunk-enterprise-update-patches-code-execution-vulnerability/\">Splunk Enterprise Update Patches Code Execution Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -755,12 +758,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33114",
-        "CVE-2026-32190",
-        "CVE-2026-33824",
-        "CVE-2026-33115",
         "CVE-2026-32157",
         "CVE-2026-23666",
+        "CVE-2026-33114",
+        "CVE-2026-33115",
+        "CVE-2026-32190",
+        "CVE-2026-33824",
         "CVE-2026-33826"
       ],
       "threat_categories": [
