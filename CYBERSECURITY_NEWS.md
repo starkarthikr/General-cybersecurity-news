@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-17 03:23:03 UTC
+**Last Updated:** 2026-04-17 03:51:15 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic](https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html)
+### 1. [Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation](https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 17 Apr 2026 08:52:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-34197  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic](https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Apr 2026 23:22:00 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html)
+### 3. [ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Apr 2026 18:35:00 +0530  
@@ -22,7 +32,7 @@
 
 ---
 
-### 3. [[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
+### 4. [[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Apr 2026 17:25:00 +0530  
@@ -31,7 +41,7 @@
 
 ---
 
-### 4. [Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution](https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html)
+### 5. [Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution](https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Apr 2026 16:57:00 +0530  
@@ -40,7 +50,7 @@
 
 ---
 
-### 5. [Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu](https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html)
+### 6. [Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu](https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Apr 2026 16:00:00 +0530  
@@ -49,7 +59,7 @@
 
 ---
 
-### 6. [Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks](https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html)
+### 7. [Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks](https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Apr 2026 15:50:00 +0530  
@@ -58,7 +68,7 @@
 
 ---
 
-### 7. [UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign](https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html)
+### 8. [UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign](https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Apr 2026 11:50:00 +0530  
@@ -67,7 +77,7 @@
 
 ---
 
-### 8. [n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails](https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html)
+### 9. [n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails](https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 15 Apr 2026 22:39:00 +0530  
@@ -76,22 +86,13 @@
 
 ---
 
-### 9. [Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover](https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html)
+### 10. [Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover](https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 15 Apr 2026 18:26:00 +0530  
 **Severity:** Low  
 **CVEs:** CVE-2026-33032  
 **Categories:** Vulnerability  
-
----
-
-### 10. [April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More](https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 15 Apr 2026 18:07:00 +0530  
-**Severity:** Critical  
-**Categories:** General Security  
 
 ---
 
@@ -164,7 +165,7 @@
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Apr 2026 08:01:42 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20184, CVE-2026-20180, CVE-2026-20186, CVE-2026-20147  
+**CVEs:** CVE-2026-20186, CVE-2026-20147, CVE-2026-20184, CVE-2026-20180  
 **Categories:** Vulnerability  
 
 ---
@@ -192,7 +193,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
+**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -247,7 +248,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24294, CVE-2026-24291, CVE-2026-25187, CVE-2026-26127, CVE-2026-26110, CVE-2026-24289, CVE-2026-26113, CVE-2026-21262  
+**CVEs:** CVE-2026-26110, CVE-2026-25187, CVE-2026-21262, CVE-2026-24294, CVE-2026-26127, CVE-2026-24291, CVE-2026-26113, CVE-2026-24289  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -400,7 +401,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 20:27:56 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32157, CVE-2026-23666, CVE-2026-32190, CVE-2026-33114, CVE-2026-33115, CVE-2026-33826, CVE-2026-33824  
+**CVEs:** CVE-2026-33114, CVE-2026-33115, CVE-2026-33826, CVE-2026-23666, CVE-2026-32190, CVE-2026-33824, CVE-2026-32157  
 **Categories:** Vulnerability, DDoS  
 
 ---

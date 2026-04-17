@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
+    "link": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
+    "published": "Fri, 17 Apr 2026 08:52:00 +0530",
+    "summary": "A recently disclosed high-severity security flaw in Apache ActiveMQ&nbsp;Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security Agency&nbsp;(CISA).\nTo that end, the agency&nbsp;has added the vulnerability, tracked&nbsp;as CVE-2026-34197 (CVSS score: 8.8), to its Known Exploited Vulnerabilities&nbsp;(KEV) catalog, requiring Federal Civilian",
+    "analysis": {
+      "issue": "CVE-2026-34197 exploited in Apache ActiveMQ; CISA KEV listing sets April 30, 2026 patch deadline, increasing enterprise RCE risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-34197"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
     "link": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html",
     "published": "Thu, 16 Apr 2026 23:22:00 +0530",
@@ -168,24 +188,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More",
-    "link": "https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html",
-    "published": "Wed, 15 Apr 2026 18:07:00 +0530",
-    "summary": "A number&nbsp;of critical vulnerabilities impacting products from Adobe, Fortinet, Microsoft, and SAP have taken center stage in April's Patch Tuesday&nbsp;releases.\nTopping the list is an SQL injection vulnerability impacting SAP Business Planning and Consolidation and SAP Business Warehouse&nbsp;(CVE-2026-27681, CVSS score: 9.9) that could result in the execution of arbitrary database&nbsp;",
-    "analysis": {
-      "issue": "Critical SAP, Adobe, Fortinet, and Microsoft flaws disclosed in April Patch Tuesday, enabling RCE and data theft risks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains",
     "link": "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/",
@@ -329,10 +331,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20184",
-        "CVE-2026-20180",
         "CVE-2026-20186",
-        "CVE-2026-20147"
+        "CVE-2026-20147",
+        "CVE-2026-20184",
+        "CVE-2026-20180"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -392,8 +394,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-33825",
-        "CVE-2026-32201",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -510,14 +512,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24294",
-        "CVE-2026-24291",
-        "CVE-2026-25187",
-        "CVE-2026-26127",
         "CVE-2026-26110",
-        "CVE-2026-24289",
+        "CVE-2026-25187",
+        "CVE-2026-21262",
+        "CVE-2026-24294",
+        "CVE-2026-26127",
+        "CVE-2026-24291",
         "CVE-2026-26113",
-        "CVE-2026-21262"
+        "CVE-2026-24289"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -761,13 +763,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32157",
-        "CVE-2026-23666",
-        "CVE-2026-32190",
         "CVE-2026-33114",
         "CVE-2026-33115",
         "CVE-2026-33826",
-        "CVE-2026-33824"
+        "CVE-2026-23666",
+        "CVE-2026-32190",
+        "CVE-2026-33824",
+        "CVE-2026-32157"
       ],
       "threat_categories": [
         "Vulnerability",
