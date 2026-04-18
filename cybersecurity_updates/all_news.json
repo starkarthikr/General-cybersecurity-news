@@ -1,6 +1,65 @@
 [
   {
     "source": "The Hacker News",
+    "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
+    "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
+    "published": "Sat, 18 Apr 2026 13:37:00 +0530",
+    "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching.\nFor every employee in your org, there are 40 to 50 automated credentials: service accounts, API tokens, AI agent connections,&nbsp;and OAuth grants. When&nbsp;projects end or employees leave, most",
+    "analysis": {
+      "issue": "Compromised service accounts caused 68% of 2024 cloud breaches, enabling 200-day dwell times and lateral movement across environments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims",
+    "link": "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html",
+    "published": "Sat, 18 Apr 2026 13:29:00 +0530",
+    "summary": "Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blamed Western intelligence agencies for a $13.74 million hack.\nThe exchange said it fell victim to what it described as a large-scale cyber attack that bore hallmarks of foreign intelligence agency involvement. This attack led to the theft of over 1",
+    "analysis": {
+      "issue": "74M stolen from Grinex on April 15, 2026 after sanctions, disrupting Russia-linked evasion networks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
+    "link": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html",
+    "published": "Sat, 18 Apr 2026 11:31:00 +0530",
+    "summary": "Threat actors are exploiting security flaws in TBK DVR and end‑of‑life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devices, according to findings from Fortinet FortiGuard Labs and Palo Alto Networks Unit 42.\nThe attack targeting TBK DVR devices has been found to exploit CVE-2024-3721 (CVSS score: 6.3), a medium-severity command injection vulnerability affecting",
+    "analysis": {
+      "issue": "CVE-2024-3721 and CVE-2023-33538 exploited in TBK DVRs and EoL TP-Link routers, enabling Mirai variants and DDoS risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2024-3721",
+        "CVE-2023-33538"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
     "link": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
     "published": "Fri, 17 Apr 2026 18:51:00 +0530",
@@ -127,60 +186,6 @@
         "Ransomware",
         "Vulnerability",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
-    "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
-    "published": "Thu, 16 Apr 2026 17:25:00 +0530",
-    "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching.\nFor every employee in your org, there are 40 to 50 automated credentials: service accounts, API tokens, AI agent connections,&nbsp;andOAuth grants. When&nbsp;projects end or employees leave, most",
-    "analysis": {
-      "issue": "Compromised service accounts caused 68% of 2024 cloud breaches, enabling 200-day dwell times and lateral movement across environments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
-    "link": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html",
-    "published": "Thu, 16 Apr 2026 16:57:00 +0530",
-    "summary": "Cisco has announced patches to address four critical security flaws impacting Identity Services and Webex Services that could result in arbitrary code execution and allow an attacker to impersonate any user within the&nbsp;service.\nThe details of the vulnerabilities are below&nbsp;-\n\nCVE-2026-20184 (CVSS score: 9.8) - An improper certificate validation in the integration of single sign-on (SSO)",
-    "analysis": {
-      "issue": "Cisco patches four CVEs up to CVSS 9",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
-    "link": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
-    "published": "Thu, 16 Apr 2026 15:50:00 +0530",
-    "summary": "A \"novel\" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote access trojan called PHANTOMPULSE in attacks targeting individuals in the financial and cryptocurrency&nbsp;sectors.\nDubbed REF6598 by Elastic Security Labs, the activity has been found to leverage",
-    "analysis": {
-      "issue": "PHANTOMPULSE spreads via Obsidian plugin abuse in REF6598 campaign, targeting finance and crypto users, bypassing AV controls",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -386,9 +391,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
+        "CVE-2026-34621",
         "CVE-2026-32201",
-        "CVE-2026-34621"
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -505,14 +510,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26127",
-        "CVE-2026-21262",
-        "CVE-2026-24294",
+        "CVE-2026-26113",
         "CVE-2026-24289",
-        "CVE-2026-24291",
         "CVE-2026-25187",
         "CVE-2026-26110",
-        "CVE-2026-26113"
+        "CVE-2026-24291",
+        "CVE-2026-26127",
+        "CVE-2026-21262",
+        "CVE-2026-24294"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -756,13 +761,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33115",
-        "CVE-2026-33826",
-        "CVE-2026-32157",
         "CVE-2026-23666",
-        "CVE-2026-33114",
+        "CVE-2026-32157",
+        "CVE-2026-33824",
         "CVE-2026-32190",
-        "CVE-2026-33824"
+        "CVE-2026-33826",
+        "CVE-2026-33114",
+        "CVE-2026-33115"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1195,8 +1200,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1403,8 +1408,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
-        "CVE-2026-32201"
+        "CVE-2026-32201",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",

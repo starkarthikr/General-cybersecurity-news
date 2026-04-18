@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-18 03:36:34 UTC
+**Last Updated:** 2026-04-18 09:12:44 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched](https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html)
+### 1. [[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 18 Apr 2026 13:37:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims](https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 18 Apr 2026 13:29:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet](https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 18 Apr 2026 11:31:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2024-3721, CVE-2023-33538  
+**Categories:** Vulnerability, Malware, DDoS  
+
+---
+
+### 4. [Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched](https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Apr 2026 18:51:00 +0530  
@@ -13,7 +41,7 @@
 
 ---
 
-### 2. [Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul](https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html)
+### 5. [Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul](https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Apr 2026 16:17:00 +0530  
@@ -22,7 +50,7 @@
 
 ---
 
-### 3. [NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions](https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html)
+### 6. [NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions](https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Apr 2026 12:44:00 +0530  
@@ -31,7 +59,7 @@
 
 ---
 
-### 4. [Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts](https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html)
+### 7. [Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts](https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Apr 2026 11:16:00 +0530  
@@ -40,7 +68,7 @@
 
 ---
 
-### 5. [Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation](https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html)
+### 8. [Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation](https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Apr 2026 08:52:00 +0530  
@@ -50,7 +78,7 @@
 
 ---
 
-### 6. [Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic](https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html)
+### 9. [Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic](https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Apr 2026 23:22:00 +0530  
@@ -59,39 +87,12 @@
 
 ---
 
-### 7. [ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html)
+### 10. [ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 16 Apr 2026 18:35:00 +0530  
 **Severity:** Critical  
 **Categories:** Ransomware, Vulnerability, Supply Chain  
-
----
-
-### 8. [[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 16 Apr 2026 17:25:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution](https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 16 Apr 2026 16:57:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks](https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 16 Apr 2026 15:50:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -191,7 +192,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
+**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -246,7 +247,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26127, CVE-2026-21262, CVE-2026-24294, CVE-2026-24289, CVE-2026-24291, CVE-2026-25187, CVE-2026-26110, CVE-2026-26113  
+**CVEs:** CVE-2026-26113, CVE-2026-24289, CVE-2026-25187, CVE-2026-26110, CVE-2026-24291, CVE-2026-26127, CVE-2026-21262, CVE-2026-24294  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -399,7 +400,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 20:27:56 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33115, CVE-2026-33826, CVE-2026-32157, CVE-2026-23666, CVE-2026-33114, CVE-2026-32190, CVE-2026-33824  
+**CVEs:** CVE-2026-23666, CVE-2026-32157, CVE-2026-33824, CVE-2026-32190, CVE-2026-33826, CVE-2026-33114, CVE-2026-33115  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -610,7 +611,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -711,7 +712,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 15 Apr 2026 09:57:15 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-33825  
 **Categories:** Vulnerability, Malware  
 
 ---
