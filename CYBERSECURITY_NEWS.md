@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-18 09:12:44 UTC
+**Last Updated:** 2026-04-18 13:14:44 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -27,7 +27,7 @@
 **Source:** The Hacker News  
 **Published:** Sat, 18 Apr 2026 11:31:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2024-3721, CVE-2023-33538  
+**CVEs:** CVE-2023-33538, CVE-2024-3721  
 **Categories:** Vulnerability, Malware, DDoS  
 
 ---
@@ -247,7 +247,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-24289, CVE-2026-25187, CVE-2026-26110, CVE-2026-24291, CVE-2026-26127, CVE-2026-21262, CVE-2026-24294  
+**CVEs:** CVE-2026-26113, CVE-2026-26127, CVE-2026-26110, CVE-2026-25187, CVE-2026-24291, CVE-2026-24294, CVE-2026-21262, CVE-2026-24289  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,73 +279,73 @@
 
 ---
 
-### 31. [White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology](https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/)
+### 31. [Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks](https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/)
+
+**Source:** Security Week  
+**Published:** Sat, 18 Apr 2026 10:30:00 +0000  
+
+---
+
+### 32. [White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology](https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 19:00:00 +0000  
 
 ---
 
-### 32. [CoChat Launches AI Collaboration Platform to Combat Shadow AI](https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/)
+### 33. [CoChat Launches AI Collaboration Platform to Combat Shadow AI](https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 15:00:00 +0000  
 
 ---
 
-### 33. [In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested](https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/)
+### 34. [In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested](https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 12:00:00 +0000  
 
 ---
 
-### 34. [Another DraftKings Hacker Sentenced to Prison](https://www.securityweek.com/another-draftkings-hacker-sentenced-to-prison/)
+### 35. [Another DraftKings Hacker Sentenced to Prison](https://www.securityweek.com/another-draftkings-hacker-sentenced-to-prison/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 10:45:13 +0000  
 
 ---
 
-### 35. [Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of ‘Destruction’ Followed](https://www.securityweek.com/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/)
+### 36. [Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of ‘Destruction’ Followed](https://www.securityweek.com/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 10:15:00 +0000  
 
 ---
 
-### 36. [Recent Apache ActiveMQ Vulnerability Exploited in the Wild](https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/)
+### 37. [Recent Apache ActiveMQ Vulnerability Exploited in the Wild](https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 09:50:22 +0000  
 
 ---
 
-### 37. [Two North Korean IT Worker Scheme Facilitators Jailed in the US](https://www.securityweek.com/two-north-korean-it-worker-scheme-facilitators-jailed-in-the-us/)
+### 38. [Two North Korean IT Worker Scheme Facilitators Jailed in the US](https://www.securityweek.com/two-north-korean-it-worker-scheme-facilitators-jailed-in-the-us/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 09:21:02 +0000  
 
 ---
 
-### 38. [ZionSiphon Malware Targets ICS in Water Facilities](https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/)
+### 39. [ZionSiphon Malware Targets ICS in Water Facilities](https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 08:30:00 +0000  
 
 ---
 
-### 39. [Cursor AI Vulnerability Exposed Developer Devices](https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/)
+### 40. [Cursor AI Vulnerability Exposed Developer Devices](https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 07:29:16 +0000  
-
----
-
-### 40. [53 DDoS Domains Taken Down by Law Enforcement](https://www.securityweek.com/53-ddos-domains-taken-down-by-law-enforcement/)
-
-**Source:** Security Week  
-**Published:** Fri, 17 Apr 2026 06:40:21 +0000  
 
 ---
 
@@ -400,7 +400,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 20:27:56 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-23666, CVE-2026-32157, CVE-2026-33824, CVE-2026-32190, CVE-2026-33826, CVE-2026-33114, CVE-2026-33115  
+**CVEs:** CVE-2026-32190, CVE-2026-33826, CVE-2026-33824, CVE-2026-33114, CVE-2026-33115, CVE-2026-32157, CVE-2026-23666  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -611,7 +611,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
