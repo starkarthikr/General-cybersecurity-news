@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-17 17:14:17 UTC
+**Last Updated:** 2026-04-18 02:54:53 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,16 @@
 
 ---
 
-### 11. [Grinex exchange blames "Western intelligence" for $13.7M crypto hack](https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/)
+### 11. [Payouts King ransomware uses QEMU VMs to bypass endpoint security](https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 17 Apr 2026 15:10:19 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Vulnerability, Malware, Phishing  
+
+---
+
+### 12. [Grinex exchange blames "Western intelligence" for $13.7M crypto hack](https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 11:08:53 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops](https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/)
+### 13. [Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops](https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 10:01:11 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/)
+### 14. [Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 08:20:28 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [CISA flags Apache ActiveMQ flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/)
+### 15. [CISA flags Apache ActiveMQ flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 05:30:15 -0400  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Microsoft: Some Windows servers enter reboot loops after April patches](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/)
+### 16. [Microsoft: Some Windows servers enter reboot loops after April patches](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 03:59:47 -0400  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [Man gets 30 months for selling thousands of hacked DraftKings accounts](https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/)
+### 17. [Man gets 30 months for selling thousands of hacked DraftKings accounts](https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 03:10:32 -0400  
@@ -150,7 +159,7 @@
 
 ---
 
-### 17. [Recently leaked Windows zero-days now exploited in attacks](https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/)
+### 18. [Recently leaked Windows zero-days now exploited in attacks](https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 02:14:52 -0400  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [Operation PowerOFF identifies 75k DDoS users, takes down 53 domains](https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/)
+### 19. [Operation PowerOFF identifies 75k DDoS users, takes down 53 domains](https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Apr 2026 18:26:34 -0400  
@@ -168,7 +177,7 @@
 
 ---
 
-### 19. [ZionSiphon malware designed to sabotage water treatment systems](https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/)
+### 20. [ZionSiphon malware designed to sabotage water treatment systems](https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 16 Apr 2026 18:04:53 -0400  
@@ -177,21 +186,12 @@
 
 ---
 
-### 20. [New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 16 Apr 2026 16:19:31 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
 ### 21. [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -246,7 +246,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26127, CVE-2026-26113, CVE-2026-26110, CVE-2026-24289, CVE-2026-21262, CVE-2026-25187, CVE-2026-24294, CVE-2026-24291  
+**CVEs:** CVE-2026-26110, CVE-2026-24291, CVE-2026-26127, CVE-2026-24289, CVE-2026-21262, CVE-2026-26113, CVE-2026-24294, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -278,73 +278,73 @@
 
 ---
 
-### 31. [CoChat Launches AI Collaboration Platform to Combat Shadow AI](https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/)
+### 31. [White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology](https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/)
+
+**Source:** Security Week  
+**Published:** Fri, 17 Apr 2026 19:00:00 +0000  
+
+---
+
+### 32. [CoChat Launches AI Collaboration Platform to Combat Shadow AI](https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 15:00:00 +0000  
 
 ---
 
-### 32. [In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested](https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/)
+### 33. [In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested](https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 12:00:00 +0000  
 
 ---
 
-### 33. [Another DraftKings Hacker Sentenced to Prison](https://www.securityweek.com/another-draftkings-hacker-sentenced-to-prison/)
+### 34. [Another DraftKings Hacker Sentenced to Prison](https://www.securityweek.com/another-draftkings-hacker-sentenced-to-prison/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 10:45:13 +0000  
 
 ---
 
-### 34. [Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of ‘Destruction’ Followed](https://www.securityweek.com/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/)
+### 35. [Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of ‘Destruction’ Followed](https://www.securityweek.com/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 10:15:00 +0000  
 
 ---
 
-### 35. [Recent Apache ActiveMQ Vulnerability Exploited in the Wild](https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/)
+### 36. [Recent Apache ActiveMQ Vulnerability Exploited in the Wild](https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 09:50:22 +0000  
 
 ---
 
-### 36. [Two North Korean IT Worker Scheme Facilitators Jailed in the US](https://www.securityweek.com/two-north-korean-it-worker-scheme-facilitators-jailed-in-the-us/)
+### 37. [Two North Korean IT Worker Scheme Facilitators Jailed in the US](https://www.securityweek.com/two-north-korean-it-worker-scheme-facilitators-jailed-in-the-us/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 09:21:02 +0000  
 
 ---
 
-### 37. [ZionSiphon Malware Targets ICS in Water Facilities](https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/)
+### 38. [ZionSiphon Malware Targets ICS in Water Facilities](https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 08:30:00 +0000  
 
 ---
 
-### 38. [Cursor AI Vulnerability Exposed Developer Devices](https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/)
+### 39. [Cursor AI Vulnerability Exposed Developer Devices](https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 07:29:16 +0000  
 
 ---
 
-### 39. [53 DDoS Domains Taken Down by Law Enforcement](https://www.securityweek.com/53-ddos-domains-taken-down-by-law-enforcement/)
+### 40. [53 DDoS Domains Taken Down by Law Enforcement](https://www.securityweek.com/53-ddos-domains-taken-down-by-law-enforcement/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 06:40:21 +0000  
-
----
-
-### 40. [Government Can’t Win the Cyber War Without the Private Sector](https://www.securityweek.com/government-cant-win-the-cyber-war-without-the-private-sector/)
-
-**Source:** Security Week  
-**Published:** Thu, 16 Apr 2026 17:00:00 +0000  
 
 ---
 
@@ -399,7 +399,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 20:27:56 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-23666, CVE-2026-32190, CVE-2026-33824, CVE-2026-33826, CVE-2026-32157, CVE-2026-33114, CVE-2026-33115  
+**CVEs:** CVE-2026-32157, CVE-2026-23666, CVE-2026-33824, CVE-2026-33115, CVE-2026-32190, CVE-2026-33826, CVE-2026-33114  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -440,7 +440,25 @@
 
 ---
 
-### 51. [From Bazooka to Fake Nikes](https://www.recordedfuture.com/blog/from-bazooka-to-fake-nikes)
+### 51. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+
+**Source:** Recorded Future  
+**Published:** Fri, 17 Apr 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [4 Essential Integration Workflows for Operationalizing Threat Intelligence Recorded Future](https://www.recordedfuture.com/blog/4-essential-integration-workflows-for-operationalizing-threat-intelligence)
+
+**Source:** Recorded Future  
+**Published:** Fri, 17 Apr 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 53. [From Bazooka to Fake Nikes](https://www.recordedfuture.com/blog/from-bazooka-to-fake-nikes)
 
 **Source:** Recorded Future  
 **Published:** Thu, 16 Apr 2026 00:00:00 GMT  
@@ -449,7 +467,7 @@
 
 ---
 
-### 52. [Your Supply Chain Breach Is Someone Else's Payday](https://www.recordedfuture.com/blog/your-supply-chain-breach-is-someone-else-payday)
+### 54. [Your Supply Chain Breach Is Someone Else's Payday](https://www.recordedfuture.com/blog/your-supply-chain-breach-is-someone-else-payday)
 
 **Source:** Recorded Future  
 **Published:** Wed, 15 Apr 2026 00:00:00 GMT  
@@ -458,14 +476,7 @@
 
 ---
 
-### 53. [4 Essential Integration Workflows for Operationalizing Threat Intelligence Recorded Future](https://www.recordedfuture.com/blog/4-essential-integration-workflows-for-operationalizing-threat-intelligence)
-
-**Source:** Recorded Future  
-**Published:** Wed, 15 Apr 2026 00:00:00 GMT  
-
----
-
-### 54. [Iran War: Future Scenario and Business Implications](https://www.recordedfuture.com/research/iran-war-future-scenarios)
+### 55. [Iran War: Future Scenario and Business Implications](https://www.recordedfuture.com/research/iran-war-future-scenarios)
 
 **Source:** Recorded Future  
 **Published:** Tue, 14 Apr 2026 00:00:00 GMT  
@@ -474,7 +485,7 @@
 
 ---
 
-### 55. [A New Way to Buy Recorded Future: Solutions and Packages Built for the 2026 Threat Landscape](https://www.recordedfuture.com/blog/recorded-future-solutions-packages)
+### 56. [A New Way to Buy Recorded Future: Solutions and Packages Built for the 2026 Threat Landscape](https://www.recordedfuture.com/blog/recorded-future-solutions-packages)
 
 **Source:** Recorded Future  
 **Published:** Tue, 14 Apr 2026 00:00:00 GMT  
@@ -483,21 +494,12 @@
 
 ---
 
-### 56. [March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day](https://www.recordedfuture.com/blog/march-2026-cve-landscape)
+### 57. [March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day](https://www.recordedfuture.com/blog/march-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Mon, 13 Apr 2026 00:00:00 GMT  
 **Severity:** High  
 **Categories:** Ransomware, Vulnerability  
-
----
-
-### 57. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
-
-**Source:** Recorded Future  
-**Published:** Mon, 13 Apr 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -608,7 +610,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -709,7 +711,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 15 Apr 2026 09:57:15 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Malware  
 
 ---
