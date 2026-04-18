@@ -48,8 +48,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2023-33538",
-        "CVE-2024-3721"
+        "CVE-2024-3721",
+        "CVE-2023-33538"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -191,6 +191,60 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Critical flaw in Protobuf library enables JavaScript code execution",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
+    "published": "Sat, 18 Apr 2026 11:09:44 -0400",
+    "summary": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. [...]",
+    "analysis": {
+      "issue": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft Teams right-click paste broken by Edge update bug",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
+    "published": "Sat, 18 Apr 2026 10:11:21 -0400",
+    "summary": "Microsoft is warning that a recent Microsoft Edge browser update introduced a bug that breaks right-click paste in chats in the Microsoft Teams desktop client. [...]",
+    "analysis": {
+      "issue": "Microsoft is warning that a recent Microsoft Edge browser update introduced a bug that breaks right-click paste in chats in the Microsoft Teams desktop client",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support",
+    "link": "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/",
+    "published": "Sat, 18 Apr 2026 09:45:54 -0400",
+    "summary": "NAKIVO Inc. announced the general availability of NAKIVO Backup & Replication v11.2, focused on fast, reliable, and proactive data protection. [...]",
+    "analysis": {
+      "issue": "The new release adds automated replication, support for newer VMware vSphere and Proxmox versions, and modern authentication for faster, safer recovery",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Payouts King ransomware uses QEMU VMs to bypass endpoint security",
     "link": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
     "published": "Fri, 17 Apr 2026 15:10:19 -0400",
@@ -320,61 +374,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Recently leaked Windows zero-days now exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/",
-    "published": "Fri, 17 Apr 2026 02:14:52 -0400",
-    "summary": "Threat actors are exploiting three recently disclosed Windows security vulnerabilities in attacks aimed at gaining SYSTEM or elevated administrator permissions. [...]",
-    "analysis": {
-      "issue": "Threat actors are exploiting three recently disclosed Windows security vulnerabilities in attacks aimed at gaining SYSTEM or elevated administrator permissions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains",
-    "link": "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/",
-    "published": "Thu, 16 Apr 2026 18:26:34 -0400",
-    "summary": "The latest wave of \"Operation PowerOFF,\" on April 13, 2026, targeted the distributed denial-of-service (DDoS) ecosystem and its users across 21 countries. [...]",
-    "analysis": {
-      "issue": "More than 75,000 individuals using distributed denial-of-service (DDoS) platforms for disruptive attacks have been warned through emails and letters during the latest phase of the Operation PowerOFF international law enforcement action",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ZionSiphon malware designed to sabotage water treatment systems",
-    "link": "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/",
-    "published": "Thu, 16 Apr 2026 18:04:53 -0400",
-    "summary": "A new malware called ZionSiphon, specifically designed for operational technology, is targeting water treatment and desalination environments to sabotage their operations. [...]",
-    "analysis": {
-      "issue": "A new malware called ZionSiphon, specifically designed for operational technology, is targeting water treatment and desalination environments to sabotage their operations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -510,14 +509,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26113",
-        "CVE-2026-26127",
         "CVE-2026-26110",
-        "CVE-2026-25187",
-        "CVE-2026-24291",
-        "CVE-2026-24294",
+        "CVE-2026-26113",
         "CVE-2026-21262",
-        "CVE-2026-24289"
+        "CVE-2026-26127",
+        "CVE-2026-24291",
+        "CVE-2026-25187",
+        "CVE-2026-24289",
+        "CVE-2026-24294"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -761,13 +760,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32190",
-        "CVE-2026-33826",
-        "CVE-2026-33824",
-        "CVE-2026-33114",
-        "CVE-2026-33115",
         "CVE-2026-32157",
-        "CVE-2026-23666"
+        "CVE-2026-33824",
+        "CVE-2026-23666",
+        "CVE-2026-33826",
+        "CVE-2026-33115",
+        "CVE-2026-33114",
+        "CVE-2026-32190"
       ],
       "threat_categories": [
         "Vulnerability",

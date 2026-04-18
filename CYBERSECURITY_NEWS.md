@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-18 13:14:44 UTC
+**Last Updated:** 2026-04-18 17:06:15 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -27,7 +27,7 @@
 **Source:** The Hacker News  
 **Published:** Sat, 18 Apr 2026 11:31:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2023-33538, CVE-2024-3721  
+**CVEs:** CVE-2024-3721, CVE-2023-33538  
 **Categories:** Vulnerability, Malware, DDoS  
 
 ---
@@ -96,7 +96,34 @@
 
 ---
 
-### 11. [Payouts King ransomware uses QEMU VMs to bypass endpoint security](https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/)
+### 11. [Critical flaw in Protobuf library enables JavaScript code execution](https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 18 Apr 2026 11:09:44 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Microsoft Teams right-click paste broken by Edge update bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 18 Apr 2026 10:11:21 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support](https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 18 Apr 2026 09:45:54 -0400  
+**Severity:** Critical  
+**Categories:** Ransomware  
+
+---
+
+### 14. [Payouts King ransomware uses QEMU VMs to bypass endpoint security](https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 15:10:19 -0400  
@@ -105,7 +132,7 @@
 
 ---
 
-### 12. [Grinex exchange blames "Western intelligence" for $13.7M crypto hack](https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/)
+### 15. [Grinex exchange blames "Western intelligence" for $13.7M crypto hack](https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 11:08:53 -0400  
@@ -114,7 +141,7 @@
 
 ---
 
-### 13. [Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops](https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/)
+### 16. [Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops](https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 10:01:11 -0400  
@@ -123,7 +150,7 @@
 
 ---
 
-### 14. [Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/)
+### 17. [Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 08:20:28 -0400  
@@ -132,7 +159,7 @@
 
 ---
 
-### 15. [CISA flags Apache ActiveMQ flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/)
+### 18. [CISA flags Apache ActiveMQ flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 05:30:15 -0400  
@@ -142,7 +169,7 @@
 
 ---
 
-### 16. [Microsoft: Some Windows servers enter reboot loops after April patches](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/)
+### 19. [Microsoft: Some Windows servers enter reboot loops after April patches](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 03:59:47 -0400  
@@ -151,39 +178,12 @@
 
 ---
 
-### 17. [Man gets 30 months for selling thousands of hacked DraftKings accounts](https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/)
+### 20. [Man gets 30 months for selling thousands of hacked DraftKings accounts](https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 03:10:32 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 18. [Recently leaked Windows zero-days now exploited in attacks](https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 17 Apr 2026 02:14:52 -0400  
-**Severity:** Critical  
-**Categories:** Data Breach, Vulnerability  
-
----
-
-### 19. [Operation PowerOFF identifies 75k DDoS users, takes down 53 domains](https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 16 Apr 2026 18:26:34 -0400  
-**Severity:** High  
-**Categories:** DDoS  
-
----
-
-### 20. [ZionSiphon malware designed to sabotage water treatment systems](https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 16 Apr 2026 18:04:53 -0400  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -247,7 +247,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-26127, CVE-2026-26110, CVE-2026-25187, CVE-2026-24291, CVE-2026-24294, CVE-2026-21262, CVE-2026-24289  
+**CVEs:** CVE-2026-26110, CVE-2026-26113, CVE-2026-21262, CVE-2026-26127, CVE-2026-24291, CVE-2026-25187, CVE-2026-24289, CVE-2026-24294  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -400,7 +400,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 20:27:56 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32190, CVE-2026-33826, CVE-2026-33824, CVE-2026-33114, CVE-2026-33115, CVE-2026-32157, CVE-2026-23666  
+**CVEs:** CVE-2026-32157, CVE-2026-33824, CVE-2026-23666, CVE-2026-33826, CVE-2026-33115, CVE-2026-33114, CVE-2026-32190  
 **Categories:** Vulnerability, DDoS  
 
 ---
