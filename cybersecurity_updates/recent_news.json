@@ -48,8 +48,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2024-3721",
-        "CVE-2023-33538"
+        "CVE-2023-33538",
+        "CVE-2024-3721"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -186,6 +186,24 @@
         "Ransomware",
         "Vulnerability",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Vercel confirms breach as hackers claim to be selling stolen data",
+    "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+    "published": "Sun, 19 Apr 2026 13:32:45 -0400",
+    "summary": "Cloud development platform Vercel has disclosed a security incident after threat actors claimed to have breached its systems and are attempting to sell stolen data. [...]",
+    "analysis": {
+      "issue": "Update 4/19/26: Added additional information from Vercel that was disclosed after publishing",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -358,26 +376,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
-    "published": "Fri, 17 Apr 2026 05:30:15 -0400",
-    "summary": "CISA warned that attackers are now exploiting a high-severity Apache ActiveMQ vulnerability, which was patched earlier this month after going undetected for 13 years. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) warned on Thursday that a high-severity Apache ActiveMQ vulnerability patched earlier this month is now actively exploited in attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-34197"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, April 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
@@ -390,9 +388,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
+        "CVE-2026-34621",
         "CVE-2026-32201",
-        "CVE-2026-34621"
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -509,14 +507,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-24291",
         "CVE-2026-25187",
+        "CVE-2026-26113",
+        "CVE-2026-21262",
+        "CVE-2026-26127",
         "CVE-2026-26110",
         "CVE-2026-24294",
-        "CVE-2026-26113",
-        "CVE-2026-24291",
-        "CVE-2026-24289",
-        "CVE-2026-26127",
-        "CVE-2026-21262"
+        "CVE-2026-24289"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -760,13 +758,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32157",
-        "CVE-2026-33115",
-        "CVE-2026-33114",
         "CVE-2026-32190",
-        "CVE-2026-33826",
+        "CVE-2026-33114",
+        "CVE-2026-32157",
+        "CVE-2026-23666",
+        "CVE-2026-33115",
         "CVE-2026-33824",
-        "CVE-2026-23666"
+        "CVE-2026-33826"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1407,8 +1405,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
-        "CVE-2026-32201"
+        "CVE-2026-32201",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",

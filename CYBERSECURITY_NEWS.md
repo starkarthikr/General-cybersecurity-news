@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-19 17:06:20 UTC
+**Last Updated:** 2026-04-20 03:32:48 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -27,7 +27,7 @@
 **Source:** The Hacker News  
 **Published:** Sat, 18 Apr 2026 11:31:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2024-3721, CVE-2023-33538  
+**CVEs:** CVE-2023-33538, CVE-2024-3721  
 **Categories:** Vulnerability, Malware, DDoS  
 
 ---
@@ -96,7 +96,16 @@
 
 ---
 
-### 11. [Apple account change alerts abused to send phishing emails](https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/)
+### 11. [Vercel confirms breach as hackers claim to be selling stolen data](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 19 Apr 2026 13:32:45 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Apple account change alerts abused to send phishing emails](https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 19 Apr 2026 12:03:01 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [NIST to stop rating non-priority flaws due to volume increase](https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/)
+### 13. [NIST to stop rating non-priority flaws due to volume increase](https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 19 Apr 2026 10:17:43 -0400  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [Critical flaw in Protobuf library enables JavaScript code execution](https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/)
+### 14. [Critical flaw in Protobuf library enables JavaScript code execution](https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 18 Apr 2026 11:09:44 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Microsoft Teams right-click paste broken by Edge update bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/)
+### 15. [Microsoft Teams right-click paste broken by Edge update bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 18 Apr 2026 10:11:21 -0400  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support](https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/)
+### 16. [NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support](https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 18 Apr 2026 09:45:54 -0400  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [Payouts King ransomware uses QEMU VMs to bypass endpoint security](https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/)
+### 17. [Payouts King ransomware uses QEMU VMs to bypass endpoint security](https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 15:10:19 -0400  
@@ -150,7 +159,7 @@
 
 ---
 
-### 17. [Grinex exchange blames "Western intelligence" for $13.7M crypto hack](https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/)
+### 18. [Grinex exchange blames "Western intelligence" for $13.7M crypto hack](https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 11:08:53 -0400  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops](https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/)
+### 19. [Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops](https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 10:01:11 -0400  
@@ -168,7 +177,7 @@
 
 ---
 
-### 19. [Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/)
+### 20. [Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 17 Apr 2026 08:20:28 -0400  
@@ -177,22 +186,12 @@
 
 ---
 
-### 20. [CISA flags Apache ActiveMQ flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 17 Apr 2026 05:30:15 -0400  
-**Severity:** High  
-**CVEs:** CVE-2026-34197  
-**Categories:** Vulnerability  
-
----
-
 ### 21. [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
+**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -247,7 +246,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-26110, CVE-2026-24294, CVE-2026-26113, CVE-2026-24291, CVE-2026-24289, CVE-2026-26127, CVE-2026-21262  
+**CVEs:** CVE-2026-24291, CVE-2026-25187, CVE-2026-26113, CVE-2026-21262, CVE-2026-26127, CVE-2026-26110, CVE-2026-24294, CVE-2026-24289  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -400,7 +399,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 20:27:56 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32157, CVE-2026-33115, CVE-2026-33114, CVE-2026-32190, CVE-2026-33826, CVE-2026-33824, CVE-2026-23666  
+**CVEs:** CVE-2026-32190, CVE-2026-33114, CVE-2026-32157, CVE-2026-23666, CVE-2026-33115, CVE-2026-33824, CVE-2026-33826  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -712,7 +711,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 15 Apr 2026 09:57:15 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-33825  
 **Categories:** Vulnerability, Malware  
 
 ---
