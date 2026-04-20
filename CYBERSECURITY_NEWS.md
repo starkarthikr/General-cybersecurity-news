@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-20 03:32:48 UTC
+**Last Updated:** 2026-04-20 03:57:58 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -27,7 +27,7 @@
 **Source:** The Hacker News  
 **Published:** Sat, 18 Apr 2026 11:31:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2023-33538, CVE-2024-3721  
+**CVEs:** CVE-2024-3721, CVE-2023-33538  
 **Categories:** Vulnerability, Malware, DDoS  
 
 ---
@@ -191,7 +191,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -246,7 +246,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24291, CVE-2026-25187, CVE-2026-26113, CVE-2026-21262, CVE-2026-26127, CVE-2026-26110, CVE-2026-24294, CVE-2026-24289  
+**CVEs:** CVE-2026-26110, CVE-2026-26113, CVE-2026-24294, CVE-2026-26127, CVE-2026-21262, CVE-2026-24289, CVE-2026-25187, CVE-2026-24291  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -399,7 +399,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 20:27:56 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32190, CVE-2026-33114, CVE-2026-32157, CVE-2026-23666, CVE-2026-33115, CVE-2026-33824, CVE-2026-33826  
+**CVEs:** CVE-2026-33115, CVE-2026-23666, CVE-2026-32157, CVE-2026-32190, CVE-2026-33824, CVE-2026-33826, CVE-2026-33114  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -610,7 +610,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -711,7 +711,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 15 Apr 2026 09:57:15 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Malware  
 
 ---
