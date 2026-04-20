@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-20 10:15:46 UTC
+**Last Updated:** 2026-04-20 13:57:30 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems](https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html)
+### 1. [Why Most AI Deployments Stall After the Demo](https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 20 Apr 2026 17:00:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain](https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 20 Apr 2026 16:12:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 3. [Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems](https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Apr 2026 13:04:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials](https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html)
+### 4. [Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials](https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Apr 2026 09:05:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
+### 5. [[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 18 Apr 2026 13:37:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims](https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html)
+### 6. [$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims](https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 18 Apr 2026 13:29:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet](https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html)
+### 7. [Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet](https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 18 Apr 2026 11:31:00 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched](https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html)
+### 8. [Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched](https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Apr 2026 18:51:00 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul](https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html)
+### 9. [Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul](https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Apr 2026 16:17:00 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions](https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html)
+### 10. [NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions](https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Apr 2026 12:44:00 +0530  
@@ -77,26 +95,25 @@
 
 ---
 
-### 9. [Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts](https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html)
+### 11. [British Scattered Spider hacker pleads guilty to crypto theft charges](https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 17 Apr 2026 11:16:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 20 Apr 2026 09:33:42 -0400  
 **Severity:** Low  
-**Categories:** DDoS  
+**Categories:** Phishing  
 
 ---
 
-### 10. [Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation](https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html)
+### 12. [Microsoft tests Windows Explorer speed, performance improvements](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 17 Apr 2026 08:52:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 20 Apr 2026 08:04:02 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-34197  
-**Categories:** Vulnerability  
+**Categories:** General Security  
 
 ---
 
-### 11. [Microsoft pulls service update causing Teams launch failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/)
+### 13. [Microsoft pulls service update causing Teams launch failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 20 Apr 2026 05:40:20 -0400  
@@ -105,7 +122,7 @@
 
 ---
 
-### 12. [Microsoft releases emergency updates to fix Windows Server issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/)
+### 14. [Microsoft releases emergency updates to fix Windows Server issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 20 Apr 2026 04:30:56 -0400  
@@ -114,7 +131,7 @@
 
 ---
 
-### 13. [Vercel confirms breach as hackers claim to be selling stolen data](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
+### 15. [Vercel confirms breach as hackers claim to be selling stolen data](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 19 Apr 2026 13:32:45 -0400  
@@ -123,7 +140,7 @@
 
 ---
 
-### 14. [Apple account change alerts abused to send phishing emails](https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/)
+### 16. [Apple account change alerts abused to send phishing emails](https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 19 Apr 2026 12:03:01 -0400  
@@ -132,7 +149,7 @@
 
 ---
 
-### 15. [NIST to stop rating non-priority flaws due to volume increase](https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/)
+### 17. [NIST to stop rating non-priority flaws due to volume increase](https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 19 Apr 2026 10:17:43 -0400  
@@ -141,7 +158,7 @@
 
 ---
 
-### 16. [Critical flaw in Protobuf library enables JavaScript code execution](https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/)
+### 18. [Critical flaw in Protobuf library enables JavaScript code execution](https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 18 Apr 2026 11:09:44 -0400  
@@ -150,7 +167,7 @@
 
 ---
 
-### 17. [Microsoft Teams right-click paste broken by Edge update bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/)
+### 19. [Microsoft Teams right-click paste broken by Edge update bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 18 Apr 2026 10:11:21 -0400  
@@ -159,7 +176,7 @@
 
 ---
 
-### 18. [NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support](https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/)
+### 20. [NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support](https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 18 Apr 2026 09:45:54 -0400  
@@ -168,30 +185,12 @@
 
 ---
 
-### 19. [Payouts King ransomware uses QEMU VMs to bypass endpoint security](https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 17 Apr 2026 15:10:19 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability, Malware, Phishing  
-
----
-
-### 20. [Grinex exchange blames "Western intelligence" for $13.7M crypto hack](https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 17 Apr 2026 11:08:53 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
 ### 21. [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
+**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -246,7 +245,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26110, CVE-2026-25187, CVE-2026-26113, CVE-2026-21262, CVE-2026-24291, CVE-2026-24294, CVE-2026-26127, CVE-2026-24289  
+**CVEs:** CVE-2026-21262, CVE-2026-24291, CVE-2026-26110, CVE-2026-24294, CVE-2026-26113, CVE-2026-24289, CVE-2026-25187, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -278,73 +277,73 @@
 
 ---
 
-### 31. [Half of the 6 Million Internet-Facing FTP Servers Lack Encryption](https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/)
+### 31. [British Scattered Spider Hacker Pleads Guilty in the US](https://www.securityweek.com/british-scattered-spider-hacker-pleads-guilty-in-the-us/)
+
+**Source:** Security Week  
+**Published:** Mon, 20 Apr 2026 12:21:16 +0000  
+
+---
+
+### 32. [Hackers Abuse QEMU for Defense Evasion](https://www.securityweek.com/hackers-abuse-qemu-for-defense-evasion/)
+
+**Source:** Security Week  
+**Published:** Mon, 20 Apr 2026 11:35:29 +0000  
+
+---
+
+### 33. [Bluesky Disrupted by Sophisticated DDoS Attack](https://www.securityweek.com/bluesky-disrupted-by-sophisticated-ddos-attack/)
+
+**Source:** Security Week  
+**Published:** Mon, 20 Apr 2026 11:06:59 +0000  
+
+---
+
+### 34. [Senate Extends Surveillance Powers Until April 30 After Chaotic Votes in House](https://www.securityweek.com/senate-extends-surveillance-powers-until-april-30-after-chaotic-votes-in-house/)
+
+**Source:** Security Week  
+**Published:** Mon, 20 Apr 2026 10:32:13 +0000  
+
+---
+
+### 35. [Half of the 6 Million Internet-Facing FTP Servers Lack Encryption](https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/)
 
 **Source:** Security Week  
 **Published:** Mon, 20 Apr 2026 09:41:04 +0000  
 
 ---
 
-### 32. [Next.js Creator Vercel Hacked](https://www.securityweek.com/next-js-creator-vercel-hacked/)
+### 36. [Next.js Creator Vercel Hacked](https://www.securityweek.com/next-js-creator-vercel-hacked/)
 
 **Source:** Security Week  
 **Published:** Mon, 20 Apr 2026 08:30:13 +0000  
 
 ---
 
-### 33. [Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers](https://www.securityweek.com/hackers-fail-to-exploit-flaw-in-discontinued-tp-link-routers/)
+### 37. [Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers](https://www.securityweek.com/hackers-fail-to-exploit-flaw-in-discontinued-tp-link-routers/)
 
 **Source:** Security Week  
 **Published:** Mon, 20 Apr 2026 07:50:01 +0000  
 
 ---
 
-### 34. [Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks](https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/)
+### 38. [Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks](https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Sat, 18 Apr 2026 10:30:00 +0000  
 
 ---
 
-### 35. [White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology](https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/)
+### 39. [White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology](https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 19:00:00 +0000  
 
 ---
 
-### 36. [CoChat Launches AI Collaboration Platform to Combat Shadow AI](https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/)
+### 40. [CoChat Launches AI Collaboration Platform to Combat Shadow AI](https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 15:00:00 +0000  
-
----
-
-### 37. [In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested](https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/)
-
-**Source:** Security Week  
-**Published:** Fri, 17 Apr 2026 12:00:00 +0000  
-
----
-
-### 38. [Another DraftKings Hacker Sentenced to Prison](https://www.securityweek.com/another-draftkings-hacker-sentenced-to-prison/)
-
-**Source:** Security Week  
-**Published:** Fri, 17 Apr 2026 10:45:13 +0000  
-
----
-
-### 39. [Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of ‘Destruction’ Followed](https://www.securityweek.com/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/)
-
-**Source:** Security Week  
-**Published:** Fri, 17 Apr 2026 10:15:00 +0000  
-
----
-
-### 40. [Recent Apache ActiveMQ Vulnerability Exploited in the Wild](https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/)
-
-**Source:** Security Week  
-**Published:** Fri, 17 Apr 2026 09:50:22 +0000  
 
 ---
 
@@ -399,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 20:27:56 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32157, CVE-2026-33826, CVE-2026-33824, CVE-2026-33114, CVE-2026-33115, CVE-2026-23666, CVE-2026-32190  
+**CVEs:** CVE-2026-33824, CVE-2026-33826, CVE-2026-23666, CVE-2026-32157, CVE-2026-33115, CVE-2026-33114, CVE-2026-32190  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -610,7 +609,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
