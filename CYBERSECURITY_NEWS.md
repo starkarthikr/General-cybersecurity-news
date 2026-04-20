@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-20 13:57:30 UTC
+**Last Updated:** 2026-04-20 17:35:53 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Why Most AI Deployments Stall After the Demo](https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html)
+### 1. [⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More](https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 20 Apr 2026 19:11:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Why Most AI Deployments Stall After the Demo](https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Apr 2026 17:00:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain](https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html)
+### 3. [Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain](https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Apr 2026 16:12:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems](https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html)
+### 4. [Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems](https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Apr 2026 13:04:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials](https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html)
+### 5. [Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials](https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Apr 2026 09:05:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
+### 6. [[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 18 Apr 2026 13:37:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims](https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html)
+### 7. [$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims](https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 18 Apr 2026 13:29:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet](https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html)
+### 8. [Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet](https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 18 Apr 2026 11:31:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched](https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html)
+### 9. [Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched](https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Apr 2026 18:51:00 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul](https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html)
+### 10. [Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul](https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 17 Apr 2026 16:17:00 +0530  
@@ -86,16 +95,25 @@
 
 ---
 
-### 10. [NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions](https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html)
+### 11. [Microsoft: Teams increasingly abused in helpdesk impersonation attacks](https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 17 Apr 2026 12:44:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 20 Apr 2026 11:11:24 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** General Security  
 
 ---
 
-### 11. [British Scattered Spider hacker pleads guilty to crypto theft charges](https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/)
+### 12. [The backup myth that is putting businesses at risk](https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 20 Apr 2026 10:01:11 -0400  
+**Severity:** Critical  
+**Categories:** Ransomware  
+
+---
+
+### 13. [British Scattered Spider hacker pleads guilty to crypto theft charges](https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 20 Apr 2026 09:33:42 -0400  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [Microsoft tests Windows Explorer speed, performance improvements](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/)
+### 14. [Microsoft tests Windows Explorer speed, performance improvements](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 20 Apr 2026 08:04:02 -0400  
@@ -113,7 +131,7 @@
 
 ---
 
-### 13. [Microsoft pulls service update causing Teams launch failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/)
+### 15. [Microsoft pulls service update causing Teams launch failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 20 Apr 2026 05:40:20 -0400  
@@ -122,7 +140,7 @@
 
 ---
 
-### 14. [Microsoft releases emergency updates to fix Windows Server issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/)
+### 16. [Microsoft releases emergency updates to fix Windows Server issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 20 Apr 2026 04:30:56 -0400  
@@ -131,7 +149,7 @@
 
 ---
 
-### 15. [Vercel confirms breach as hackers claim to be selling stolen data](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
+### 17. [Vercel confirms breach as hackers claim to be selling stolen data](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 19 Apr 2026 13:32:45 -0400  
@@ -140,7 +158,7 @@
 
 ---
 
-### 16. [Apple account change alerts abused to send phishing emails](https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/)
+### 18. [Apple account change alerts abused to send phishing emails](https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 19 Apr 2026 12:03:01 -0400  
@@ -149,7 +167,7 @@
 
 ---
 
-### 17. [NIST to stop rating non-priority flaws due to volume increase](https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/)
+### 19. [NIST to stop rating non-priority flaws due to volume increase](https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 19 Apr 2026 10:17:43 -0400  
@@ -158,7 +176,7 @@
 
 ---
 
-### 18. [Critical flaw in Protobuf library enables JavaScript code execution](https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/)
+### 20. [Critical flaw in Protobuf library enables JavaScript code execution](https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 18 Apr 2026 11:09:44 -0400  
@@ -167,30 +185,12 @@
 
 ---
 
-### 19. [Microsoft Teams right-click paste broken by Edge update bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 18 Apr 2026 10:11:21 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support](https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 18 Apr 2026 09:45:54 -0400  
-**Severity:** Critical  
-**Categories:** Ransomware  
-
----
-
 ### 21. [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -245,7 +245,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-24291, CVE-2026-26110, CVE-2026-24294, CVE-2026-26113, CVE-2026-24289, CVE-2026-25187, CVE-2026-26127  
+**CVEs:** CVE-2026-25187, CVE-2026-24289, CVE-2026-24294, CVE-2026-26110, CVE-2026-21262, CVE-2026-24291, CVE-2026-26113, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -277,73 +277,73 @@
 
 ---
 
-### 31. [British Scattered Spider Hacker Pleads Guilty in the US](https://www.securityweek.com/british-scattered-spider-hacker-pleads-guilty-in-the-us/)
+### 31. [Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking](https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/)
+
+**Source:** Security Week  
+**Published:** Mon, 20 Apr 2026 15:42:22 +0000  
+
+---
+
+### 32. [British Scattered Spider Hacker Pleads Guilty in the US](https://www.securityweek.com/british-scattered-spider-hacker-pleads-guilty-in-the-us/)
 
 **Source:** Security Week  
 **Published:** Mon, 20 Apr 2026 12:21:16 +0000  
 
 ---
 
-### 32. [Hackers Abuse QEMU for Defense Evasion](https://www.securityweek.com/hackers-abuse-qemu-for-defense-evasion/)
+### 33. [Hackers Abuse QEMU for Defense Evasion](https://www.securityweek.com/hackers-abuse-qemu-for-defense-evasion/)
 
 **Source:** Security Week  
 **Published:** Mon, 20 Apr 2026 11:35:29 +0000  
 
 ---
 
-### 33. [Bluesky Disrupted by Sophisticated DDoS Attack](https://www.securityweek.com/bluesky-disrupted-by-sophisticated-ddos-attack/)
+### 34. [Bluesky Disrupted by Sophisticated DDoS Attack](https://www.securityweek.com/bluesky-disrupted-by-sophisticated-ddos-attack/)
 
 **Source:** Security Week  
 **Published:** Mon, 20 Apr 2026 11:06:59 +0000  
 
 ---
 
-### 34. [Senate Extends Surveillance Powers Until April 30 After Chaotic Votes in House](https://www.securityweek.com/senate-extends-surveillance-powers-until-april-30-after-chaotic-votes-in-house/)
+### 35. [Senate Extends Surveillance Powers Until April 30 After Chaotic Votes in House](https://www.securityweek.com/senate-extends-surveillance-powers-until-april-30-after-chaotic-votes-in-house/)
 
 **Source:** Security Week  
 **Published:** Mon, 20 Apr 2026 10:32:13 +0000  
 
 ---
 
-### 35. [Half of the 6 Million Internet-Facing FTP Servers Lack Encryption](https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/)
+### 36. [Half of the 6 Million Internet-Facing FTP Servers Lack Encryption](https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/)
 
 **Source:** Security Week  
 **Published:** Mon, 20 Apr 2026 09:41:04 +0000  
 
 ---
 
-### 36. [Next.js Creator Vercel Hacked](https://www.securityweek.com/next-js-creator-vercel-hacked/)
+### 37. [Next.js Creator Vercel Hacked](https://www.securityweek.com/next-js-creator-vercel-hacked/)
 
 **Source:** Security Week  
 **Published:** Mon, 20 Apr 2026 08:30:13 +0000  
 
 ---
 
-### 37. [Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers](https://www.securityweek.com/hackers-fail-to-exploit-flaw-in-discontinued-tp-link-routers/)
+### 38. [Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers](https://www.securityweek.com/hackers-fail-to-exploit-flaw-in-discontinued-tp-link-routers/)
 
 **Source:** Security Week  
 **Published:** Mon, 20 Apr 2026 07:50:01 +0000  
 
 ---
 
-### 38. [Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks](https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/)
+### 39. [Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks](https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Sat, 18 Apr 2026 10:30:00 +0000  
 
 ---
 
-### 39. [White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology](https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/)
+### 40. [White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology](https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/)
 
 **Source:** Security Week  
 **Published:** Fri, 17 Apr 2026 19:00:00 +0000  
-
----
-
-### 40. [CoChat Launches AI Collaboration Platform to Combat Shadow AI](https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/)
-
-**Source:** Security Week  
-**Published:** Fri, 17 Apr 2026 15:00:00 +0000  
 
 ---
 
@@ -398,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 20:27:56 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33824, CVE-2026-33826, CVE-2026-23666, CVE-2026-32157, CVE-2026-33115, CVE-2026-33114, CVE-2026-32190  
+**CVEs:** CVE-2026-23666, CVE-2026-33115, CVE-2026-32190, CVE-2026-33824, CVE-2026-32157, CVE-2026-33826, CVE-2026-33114  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -624,7 +624,25 @@
 
 ---
 
-### 71. [A week in security (April 13 &#8211; April 19)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-13-april-19)
+### 71. [Big Tech can stop scams. They just don&#8217;t (Lock and Code S07E08)](https://www.malwarebytes.com/blog/podcast/2026/04/big-tech-can-stop-scams-they-just-dont-lock-and-code-s07e08)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 20 Apr 2026 14:16:12 GMT  
+**Severity:** High  
+**Categories:** Malware, Phishing  
+
+---
+
+### 72. [Mythos: An AI tool too powerful for public release](https://www.malwarebytes.com/blog/news/2026/04/mythos-an-ai-tool-too-powerful-for-public-release)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 20 Apr 2026 13:54:02 GMT  
+**Severity:** High  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 73. [A week in security (April 13 &#8211; April 19)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-13-april-19)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 20 Apr 2026 07:02:00 GMT  
@@ -633,7 +651,7 @@
 
 ---
 
-### 72. [This old-school scam is still working](https://www.malwarebytes.com/blog/news/2026/04/this-old-school-scam-is-still-working)
+### 74. [This old-school scam is still working](https://www.malwarebytes.com/blog/news/2026/04/this-old-school-scam-is-still-working)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 17 Apr 2026 14:34:17 GMT  
@@ -642,7 +660,7 @@
 
 ---
 
-### 73. [“Your shipment has arrived” email hides remote access software](https://www.malwarebytes.com/blog/news/2026/04/your-shipment-has-arrived-email-hides-remote-access-software)
+### 75. [“Your shipment has arrived” email hides remote access software](https://www.malwarebytes.com/blog/news/2026/04/your-shipment-has-arrived-email-hides-remote-access-software)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 17 Apr 2026 07:40:03 GMT  
@@ -651,7 +669,7 @@
 
 ---
 
-### 74. [Browser Guard gets even better with Access Control](https://www.malwarebytes.com/blog/product/2026/04/browser-guard-gets-even-better-with-access-control)
+### 76. [Browser Guard gets even better with Access Control](https://www.malwarebytes.com/blog/product/2026/04/browser-guard-gets-even-better-with-access-control)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 16 Apr 2026 12:40:00 GMT  
@@ -660,7 +678,7 @@
 
 ---
 
-### 75. [“iCloud storage is full” scam is back, and now it wants your payment details](https://www.malwarebytes.com/blog/news/2026/04/icloud-storage-is-full-scam-is-back-and-now-it-wants-your-payment-details)
+### 77. [“iCloud storage is full” scam is back, and now it wants your payment details](https://www.malwarebytes.com/blog/news/2026/04/icloud-storage-is-full-scam-is-back-and-now-it-wants-your-payment-details)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 16 Apr 2026 12:33:11 GMT  
@@ -669,7 +687,7 @@
 
 ---
 
-### 76. [A fake Slack download is giving attackers a hidden desktop on your machine](https://www.malwarebytes.com/blog/threat-intel/2026/04/a-fake-slack-download-is-giving-attackers-a-hidden-desktop-on-your-machine)
+### 78. [A fake Slack download is giving attackers a hidden desktop on your machine](https://www.malwarebytes.com/blog/threat-intel/2026/04/a-fake-slack-download-is-giving-attackers-a-hidden-desktop-on-your-machine)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 16 Apr 2026 09:26:45 GMT  
@@ -678,7 +696,7 @@
 
 ---
 
-### 77. [Booking.com breach gives scammers what they need to target guests](https://www.malwarebytes.com/blog/data-breaches/2026/04/booking-com-breach-gives-scammers-what-they-need-to-target-guests)
+### 79. [Booking.com breach gives scammers what they need to target guests](https://www.malwarebytes.com/blog/data-breaches/2026/04/booking-com-breach-gives-scammers-what-they-need-to-target-guests)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 16 Apr 2026 08:02:06 GMT  
@@ -687,7 +705,7 @@
 
 ---
 
-### 78. [AI clickbait can turn your notifications into a scam feed](https://www.malwarebytes.com/blog/news/2026/04/ai-clickbait-can-turn-your-notifications-into-a-scam-feed)
+### 80. [AI clickbait can turn your notifications into a scam feed](https://www.malwarebytes.com/blog/news/2026/04/ai-clickbait-can-turn-your-notifications-into-a-scam-feed)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 15 Apr 2026 17:43:40 GMT  
@@ -696,25 +714,16 @@
 
 ---
 
-### 79. [Fake YouTube copyright notices can steal your Google login](https://www.malwarebytes.com/blog/threat-intel/2026/04/fake-youtube-copyright-notices-can-steal-your-google-login)
+### 81. [Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.](https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/)
 
-**Source:** Malwarebytes  
-**Published:** Wed, 15 Apr 2026 13:21:25 GMT  
+**Source:** Crowdstrike Blog  
+**Published:** Apr 20, 2026 00:00:00-0700  
 **Severity:** Low  
-**Categories:** Vulnerability, Phishing  
+**Categories:** Vulnerability  
 
 ---
 
-### 80. [From fake Proton VPN sites to gaming mods, this Windows infostealer is everywhere](https://www.malwarebytes.com/blog/threat-intel/2026/04/from-fake-proton-vpn-sites-to-gaming-mods-this-windows-infostealer-is-everywhere)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 15 Apr 2026 10:37:33 GMT  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 81. [Frontier AI for Defenders: CrowdStrike and OpenAI TAC](https://www.crowdstrike.com/en-us/blog/frontier-ai-for-defenders-crowdstrike-and-openai-tac/)
+### 82. [Frontier AI for Defenders: CrowdStrike and OpenAI TAC](https://www.crowdstrike.com/en-us/blog/frontier-ai-for-defenders-crowdstrike-and-openai-tac/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 16, 2026 00:00:00-0500  
@@ -723,7 +732,7 @@
 
 ---
 
-### 82. [April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/)
+### 83. [April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 14, 2026 00:00:00-0500  
@@ -732,7 +741,7 @@
 
 ---
 
-### 83. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
+### 84. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 06, 2026 00:00:00-0400  
@@ -741,7 +750,7 @@
 
 ---
 
-### 84. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
+### 85. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 05, 2026 00:00:00-0700  
@@ -750,7 +759,7 @@
 
 ---
 
-### 85. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
+### 86. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 01, 2026 00:00:00-0500  
@@ -759,7 +768,7 @@
 
 ---
 
-### 86. [Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management](https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/)
+### 87. [Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management](https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 01, 2026 00:00:00-0500  
@@ -768,7 +777,7 @@
 
 ---
 
-### 87. [Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse](https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/)
+### 88. [Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse](https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 31, 2026 00:00:00-0500  
@@ -778,7 +787,7 @@
 
 ---
 
-### 88. [How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem](https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/)
+### 89. [How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem](https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 25, 2026 00:00:00-0500  
@@ -787,16 +796,7 @@
 
 ---
 
-### 89. [CrowdStrike Flex for Services Expands Access to Elite Security Expertise](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Mar 24, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [Falcon Data Security Secures Data Wherever It Lives and Moves](https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/)
+### 90. [CrowdStrike Flex for Services Expands Access to Elite Security Expertise](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 24, 2026 00:00:00-0500  

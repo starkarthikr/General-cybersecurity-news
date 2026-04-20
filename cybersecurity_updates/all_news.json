@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
+    "link": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
+    "published": "Mon, 20 Apr 2026 19:11:00 +0530",
+    "summary": "Monday’s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser extensions act normally while pulling data and running code. Even update channels are used to push payloads. It’s not breaking systems—it’s bending trust.\nThere’s also a shift in how attacks run.",
+    "analysis": {
+      "issue": "Monday cybersecurity recap on evolving threats, trusted tool abuse, stealthy in-memory attacks, and shifting access patterns",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Why Most AI Deployments Stall After the Demo",
     "link": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
     "published": "Mon, 20 Apr 2026 17:00:00 +0530",
@@ -168,20 +186,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
-    "link": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html",
-    "published": "Fri, 17 Apr 2026 12:44:00 +0530",
-    "summary": "The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVEs) listed in its National Vulnerability Database (NVD), stating it will only enrich those that fulfil certain conditions owing to an explosion in CVE submissions.\n\"CVEs that do not meet those criteria will still be listed in the NVD but will not",
+    "source": "Bleeping Computer",
+    "title": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/",
+    "published": "Mon, 20 Apr 2026 11:11:24 -0400",
+    "summary": "Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks. [...]",
     "analysis": {
-      "issue": "NIST limits CVE enrichment after 263% surge since 2020, prioritizing KEV and federal software, shifting thousands to “Not Scheduled",
+      "issue": "Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "The backup myth that is putting businesses at risk",
+    "link": "https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/",
+    "published": "Mon, 20 Apr 2026 10:01:11 -0400",
+    "summary": "Backups protect data, but don't keep your business running during downtime. Datto shows why BCDR is essential to keep operations running during ransomware and outages. [...]",
+    "analysis": {
+      "issue": "Ransomware and other cyberthreats often dominate conversations about data loss, but they are not the only risks businesses face",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
       ]
     }
   },
@@ -330,42 +366,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Teams right-click paste broken by Edge update bug",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
-    "published": "Sat, 18 Apr 2026 10:11:21 -0400",
-    "summary": "Microsoft is warning that a recent Microsoft Edge browser update introduced a bug that breaks right-click paste in chats in the Microsoft Teams desktop client. [...]",
-    "analysis": {
-      "issue": "Microsoft is warning that a recent Microsoft Edge browser update introduced a bug that breaks right-click paste in chats in the Microsoft Teams desktop client",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support",
-    "link": "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/",
-    "published": "Sat, 18 Apr 2026 09:45:54 -0400",
-    "summary": "NAKIVO Inc. announced the general availability of NAKIVO Backup & Replication v11.2, focused on fast, reliable, and proactive data protection. [...]",
-    "analysis": {
-      "issue": "The new release adds automated replication, support for newer VMware vSphere and Proxmox versions, and modern authentication for faster, safer recovery",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, April 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
@@ -379,8 +379,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-34621",
-        "CVE-2026-32201",
-        "CVE-2026-33825"
+        "CVE-2026-33825",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -497,13 +497,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-25187",
+        "CVE-2026-24289",
+        "CVE-2026-24294",
+        "CVE-2026-26110",
         "CVE-2026-21262",
         "CVE-2026-24291",
-        "CVE-2026-26110",
-        "CVE-2026-24294",
         "CVE-2026-26113",
-        "CVE-2026-24289",
-        "CVE-2026-25187",
         "CVE-2026-26127"
       ],
       "threat_categories": [
@@ -571,6 +571,13 @@
   },
   {
     "source": "Security Week",
+    "title": "Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking",
+    "link": "https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/",
+    "published": "Mon, 20 Apr 2026 15:42:22 +0000",
+    "summary": "<p>Forescout researchers discovered 20 new vulnerabilities in Lantronix and Silex products and described theoretical attack scenarios.</p>\n<p>The post <a href=\"https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/\">Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "British Scattered Spider Hacker Pleads Guilty in the US",
     "link": "https://www.securityweek.com/british-scattered-spider-hacker-pleads-guilty-in-the-us/",
     "published": "Mon, 20 Apr 2026 12:21:16 +0000",
@@ -631,13 +638,6 @@
     "link": "https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/",
     "published": "Fri, 17 Apr 2026 19:00:00 +0000",
     "summary": "<p>A White House official said the administration is engaging with advanced AI labs about their models and the security of software.</p>\n<p>The post <a href=\"https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/\">White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "CoChat Launches AI Collaboration Platform to Combat Shadow AI",
-    "link": "https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/",
-    "published": "Fri, 17 Apr 2026 15:00:00 +0000",
-    "summary": "<p>CoChat is fundamentally an AI collaboration platform designed for teamwork and to bring visibility and governance into enterprise AI shadows.</p>\n<p>The post <a href=\"https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/\">CoChat Launches AI Collaboration Platform to Combat Shadow AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -748,13 +748,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33824",
-        "CVE-2026-33826",
         "CVE-2026-23666",
-        "CVE-2026-32157",
         "CVE-2026-33115",
-        "CVE-2026-33114",
-        "CVE-2026-32190"
+        "CVE-2026-32190",
+        "CVE-2026-33824",
+        "CVE-2026-32157",
+        "CVE-2026-33826",
+        "CVE-2026-33114"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1218,6 +1218,44 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Big Tech can stop scams. They just don&#8217;t (Lock and Code S07E08)",
+    "link": "https://www.malwarebytes.com/blog/podcast/2026/04/big-tech-can-stop-scams-they-just-dont-lock-and-code-s07e08",
+    "published": "Mon, 20 Apr 2026 14:16:12 GMT",
+    "summary": "This week on the Lock and Code podcast, we speak with Marti DeLiema about what really works in protecting older adults from financial scams.",
+    "analysis": {
+      "issue": "This week on the Lock and Code podcast… A dreadful thing happens far too often whenever an older adult falls for a scam: They get blamed for it",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Mythos: An AI tool too powerful for public release",
+    "link": "https://www.malwarebytes.com/blog/news/2026/04/mythos-an-ai-tool-too-powerful-for-public-release",
+    "published": "Mon, 20 Apr 2026 13:54:02 GMT",
+    "summary": "Anthropic is keeping Mythos out of public hands, with limited access for select organizations over fears it could be misused.",
+    "analysis": {
+      "issue": "Anthropic’s most capable model to date, Claude Mythos Preview  (aka Mythos), has been described as a “step change” in AI performance, especially on cybersecurity tasks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "A week in security (April 13 &#8211; April 19)",
     "link": "https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-13-april-19",
     "published": "Mon, 20 Apr 2026 07:02:00 GMT",
@@ -1364,39 +1402,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Fake YouTube copyright notices can steal your Google login",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/04/fake-youtube-copyright-notices-can-steal-your-google-login",
-    "published": "Wed, 15 Apr 2026 13:21:25 GMT",
-    "summary": "This convincing copyright scam is targeting YouTube creators. Attackers can take over your channel, plus your entire Google account.",
+    "source": "Crowdstrike Blog",
+    "title": "Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.",
+    "link": "https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/",
+    "published": "Apr 20, 2026 00:00:00-0700",
+    "summary": "",
     "analysis": {
-      "issue": "A convincing phishing campaign is going after YouTube creators, and if it works, attackers don’t just steal your Google login",
+      "issue": "CrowdStrike can help organizations respond to accelerating threats in the era of frontier AI",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "From fake Proton VPN sites to gaming mods, this Windows infostealer is everywhere",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/04/from-fake-proton-vpn-sites-to-gaming-mods-this-windows-infostealer-is-everywhere",
-    "published": "Wed, 15 Apr 2026 10:37:33 GMT",
-    "summary": "Hiding in imposter sites, GitHub downloads, and YouTube links, this infostealer is designed to hijack accounts and drain cryptocurrency wallets.",
-    "analysis": {
-      "issue": "We’ve uncovered multiple campaigns distributing an infostealer we track as NWHStealer, using everything from fake VPN downloads to hardware utilities and gaming mods",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
+        "Vulnerability"
       ]
     }
   },
@@ -1554,24 +1573,6 @@
     "summary": "",
     "analysis": {
       "issue": "CrowdStrike Flex for Services applies the successful Falcon Flex approach to expert-led cybersecurity services",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Falcon Data Security Secures Data Wherever It Lives and Moves",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/",
-    "published": "Mar 24, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Falcon Data Security helps organizations understand what data is sensitive, see how it moves in real time, and stop data theft",
       "solution": null,
       "cause": null,
       "timeline": null,
