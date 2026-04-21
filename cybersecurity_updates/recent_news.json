@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
+    "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
+    "published": "Mon, 20 Apr 2026 22:44:00 +0530",
+    "summary": "A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems.\nThe vulnerability, tracked as CVE-2026-5760, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of command injection leading to the execution of arbitrary code.\nSGLang is a high-performance, open-source serving",
+    "analysis": {
+      "issue": "8) exposes SGLang via /v1/rerank endpoint, enabling RCE through malicious GGUF models, risking server compromise",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-5760"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
     "link": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
     "published": "Mon, 20 Apr 2026 19:11:00 +0530",
@@ -139,8 +159,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2023-33538",
-        "CVE-2024-3721"
+        "CVE-2024-3721",
+        "CVE-2023-33538"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -168,20 +188,78 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul",
-    "link": "https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html",
-    "published": "Fri, 17 Apr 2026 16:17:00 +0530",
-    "summary": "Google this week announced a new set of Play policy updates to strengthen user privacy and protect businesses against fraud, even as it revealed it blocked or removed over 8.3 billion ads globally and suspended 24.9 million accounts in 2025.\nThe new policy updates relate to contact and location permissions in Android, allowing third-party apps to access the contact lists and a user's location in",
+    "source": "Bleeping Computer",
+    "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers",
+    "link": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
+    "published": "Mon, 20 Apr 2026 18:23:52 -0400",
+    "summary": "State-sponsored North Korean hackers are likely behind the $290 million crypto-heist that impacted the KelpDAO DeFi project on Saturday. [...]",
     "analysis": {
-      "issue": "9M accounts in 2025 as Android 17 tightened contact and location access, reducing fraud and abuse",
+      "issue": "State-sponsored North Korean hackers are likely behind the $290 million crypto-heist that impacted the KelpDAO DeFi project on Saturday",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "China's Apple App Store infiltrated by crypto-stealing wallet apps",
+    "link": "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/",
+    "published": "Mon, 20 Apr 2026 17:52:54 -0400",
+    "summary": "A set of 26 malicious apps on Apple App Store impersonate popular wallets, such as Metamask, Coinbase, Trust Wallet, and OneKey, to steal recovery or seed phrases and drain them of cryptocurrency assets. [...]",
+    "analysis": {
+      "issue": "A set of 26 malicious apps on Apple App Store impersonate popular wallets, such as Metamask, Coinbase, Trust Wallet, and OneKey, to steal recovery or seed phrases and drain them of cryptocurrency assets",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "The Gentlemen ransomware now uses SystemBC for bot-powered attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/",
+    "published": "Mon, 20 Apr 2026 16:02:37 -0400",
+    "summary": "A SystemBC proxy malware botnet of more than 1,570 hosts, believed to be corporate victims, has been discovered following an investigation into a Gentlemen ransomware attack carried out by a gang affiliate. [...]",
+    "analysis": {
+      "issue": "A SystemBC proxy malware botnet of more than 1,570 hosts, believed to be corporate victims, has been discovered following an investigation into a Gentlemen ransomware attack carried out by a gang affiliate",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Seiko USA website defaced as hacker claims customer data theft",
+    "link": "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/",
+    "published": "Mon, 20 Apr 2026 14:22:31 -0400",
+    "summary": "The Seiko USA website was defaced over the weekend, displaying a message from attackers claiming they stole its Shopify customer database and threatening to leak it unless a ransom is paid. [...]",
+    "analysis": {
+      "issue": "The Seiko USA website was defaced over the weekend, displaying a message from attackers claiming they stole its Shopify customer database and threatening to leak it unless a ransom is paid",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
       ]
     }
   },
@@ -294,78 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Vercel confirms breach as hackers claim to be selling stolen data",
-    "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-    "published": "Sun, 19 Apr 2026 13:32:45 -0400",
-    "summary": "Cloud development platform Vercel has disclosed a security incident after threat actors claimed to have breached its systems and are attempting to sell stolen data. [...]",
-    "analysis": {
-      "issue": "Update 4/19/26: Added additional information from Vercel that was disclosed after publishing",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Apple account change alerts abused to send phishing emails",
-    "link": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
-    "published": "Sun, 19 Apr 2026 12:03:01 -0400",
-    "summary": "Apple account change notifications are being abused to send fake iPhone purchase phishing scams within legitimate emails sent from Apple's servers, increasing legitimacy and potentially allowing them to bypass spam filters. [...]",
-    "analysis": {
-      "issue": "Apple account change notifications are being abused to send fake iPhone purchase phishing scams within legitimate emails sent from Apple's servers, increasing legitimacy and potentially allowing them to bypass spam filters",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "NIST to stop rating non-priority flaws due to volume increase",
-    "link": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
-    "published": "Sun, 19 Apr 2026 10:17:43 -0400",
-    "summary": "The National Institute of Standards and Technology will stop assigning severity scores to lower-priority vulnerabilities due to the growing workload from rising submission volumes. [...]",
-    "analysis": {
-      "issue": "The National Institute of Standards and Technology will stop assigning severity scores to lower-priority vulnerabilities due to the growing workload from rising submission volumes",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical flaw in Protobuf library enables JavaScript code execution",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
-    "published": "Sat, 18 Apr 2026 11:09:44 -0400",
-    "summary": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. [...]",
-    "analysis": {
-      "issue": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, April 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
@@ -378,9 +384,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
         "CVE-2026-33825",
-        "CVE-2026-32201"
+        "CVE-2026-32201",
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -498,13 +504,13 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-25187",
-        "CVE-2026-24289",
-        "CVE-2026-24294",
-        "CVE-2026-26110",
         "CVE-2026-21262",
+        "CVE-2026-26110",
         "CVE-2026-24291",
         "CVE-2026-26113",
-        "CVE-2026-26127"
+        "CVE-2026-24289",
+        "CVE-2026-26127",
+        "CVE-2026-24294"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -748,13 +754,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-23666",
+        "CVE-2026-33114",
         "CVE-2026-33115",
-        "CVE-2026-32190",
         "CVE-2026-33824",
-        "CVE-2026-32157",
         "CVE-2026-33826",
-        "CVE-2026-33114"
+        "CVE-2026-32157",
+        "CVE-2026-23666",
+        "CVE-2026-32190"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1187,8 +1193,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
