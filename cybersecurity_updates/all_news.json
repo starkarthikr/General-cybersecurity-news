@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters",
+    "link": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html",
+    "published": "Tue, 21 Apr 2026 21:16:00 +0530",
+    "summary": "Cybersecurity researchers have identified 22 new vulnerabilities in popular models of serial-to-IP converters from Lantronix and Silex that could be exploited to hijack susceptible devices and tamper with data exchanged by them.\nThe vulnerabilities have been collectively codenamed BRIDGE:BREAK by Forescout Research Vedere Labs, which identified nearly 20,000 Serial-to-Ethernet converters exposed",
+    "analysis": {
+      "issue": "22 BRIDGE:BREAK flaws in Lantronix and Silex converters expose nearly 20,000 devices online, enabling takeover and data tampering",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023",
+    "link": "https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html",
+    "published": "Tue, 21 Apr 2026 20:01:00 +0530",
+    "summary": "A third individual who was employed as a ransomware negotiator has pleaded guilty to conducting ransomware attacks against U.S. companies in 2023.\nAngelo Martino, 41, of Land O'Lakes, Florida, teamed up with the operators of the BlackCat ransomware starting in April 2023 to assist the e-crime gang in extracting higher amounts as ransoms.\n\"Working as a negotiator on behalf of five different",
+    "analysis": {
+      "issue": "Ransomware negotiator pleads guilty to aiding BlackCat in 2023; leaked victim data enabled $1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
     "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html",
     "published": "Tue, 21 Apr 2026 18:30:00 +0530",
@@ -148,39 +185,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
-    "link": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
-    "published": "Mon, 20 Apr 2026 16:12:00 +0530",
-    "summary": "Cybersecurity researchers have discovered a critical \"by design\" weakness in the Model Context Protocol's (MCP) architecture that could pave the way for remote code execution and have a cascading effect on the artificial intelligence (AI) supply chain.\n\"This flaw enables Arbitrary Command Execution (RCE) on any system running a vulnerable MCP implementation, granting attackers direct access to",
+    "source": "Bleeping Computer",
+    "title": "Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction",
+    "link": "https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/",
+    "published": "Tue, 21 Apr 2026 10:02:12 -0400",
+    "summary": "Fraud prevention and user experience don't have to be a tradeoff. IPQS shows how combining identity, device, and network signals stops fraud without adding friction. [...]",
     "analysis": {
-      "issue": "MCP design flaw enables RCE across 7,000+ servers and 150M downloads, impacting AI SDKs and supply chains",
+      "issue": "Fraud prevention and user experience have long been treated as opposing forces: tighten security, and you risk alienating legitimate customers; loosen it, and you open the door to account takeovers, synthetic identities, and payment fraud",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
-    "link": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
-    "published": "Mon, 20 Apr 2026 13:04:00 +0530",
-    "summary": "Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems.\nThe malware has been codenamed ZionSiphon by Darktrace, highlighting its ability to set up persistence, tamper with local configuration files, and scan for operational technology (OT)-relevant services on the local subnet.",
-    "analysis": {
-      "issue": "ZionSiphon detected June 29, 2025 targets Israeli water OT systems, escalating geopolitical cyber risk",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
+        "APT"
       ]
     }
   },
@@ -215,8 +233,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-20133",
         "CVE-2026-20128",
+        "CVE-2026-20133",
         "CVE-2026-20122"
       ],
       "threat_categories": [
@@ -358,20 +376,21 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/",
-    "published": "Mon, 20 Apr 2026 11:11:24 -0400",
-    "summary": "Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks. [...]",
+    "source": "Krebs On Security",
+    "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
+    "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
+    "published": "Tue, 21 Apr 2026 14:53:59 +0000",
+    "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan admitted his role in a series of text-message phishing attacks in the summer of 2022 that allowed the group to hack into at least a dozen major technology companies and steal tens of millions of dollars worth of cryptocurrency from investors.",
     "analysis": {
-      "issue": "Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks",
+      "issue": "A 24-year-old British national and senior member of the cybercrime group “Scattered Spider” has pleaded guilty to wire fraud conspiracy and aggravated identity theft",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Ransomware",
+        "Phishing"
       ]
     }
   },
@@ -388,9 +407,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-33825",
         "CVE-2026-34621",
-        "CVE-2026-32201",
-        "CVE-2026-33825"
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -507,14 +526,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21262",
-        "CVE-2026-24289",
-        "CVE-2026-25187",
-        "CVE-2026-26127",
-        "CVE-2026-24291",
         "CVE-2026-26113",
+        "CVE-2026-24291",
+        "CVE-2026-26110",
+        "CVE-2026-24289",
         "CVE-2026-24294",
-        "CVE-2026-26110"
+        "CVE-2026-21262",
+        "CVE-2026-26127",
+        "CVE-2026-25187"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -562,22 +581,18 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-    "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
-    "published": "Fri, 20 Feb 2026 20:00:30 +0000",
-    "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.",
-    "analysis": {
-      "issue": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
+    "source": "Security Week",
+    "title": "Third US Security Expert Admits Helping Ransomware Gang",
+    "link": "https://www.securityweek.com/third-us-security-expert-admits-helping-ransomware-gang/",
+    "published": "Tue, 21 Apr 2026 14:44:24 +0000",
+    "summary": "<p>Angelo Martino of Florida has pleaded guilty to collaborating with the BlackCat cybercrime group while working as a ransomware negotiator.</p>\n<p>The post <a href=\"https://www.securityweek.com/third-us-security-expert-admits-helping-ransomware-gang/\">Third US Security Expert Admits Helping Ransomware Gang</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Dozens of Malicious Crypto Apps Land in Apple App Store",
+    "link": "https://www.securityweek.com/dozens-of-malicious-crypto-apps-land-in-apple-app-store/",
+    "published": "Tue, 21 Apr 2026 14:05:01 +0000",
+    "summary": "<p>Masquerading as popular cryptocurrency wallets, the apps can hijack recovery phrases and private keys.</p>\n<p>The post <a href=\"https://www.securityweek.com/dozens-of-malicious-crypto-apps-land-in-apple-app-store/\">Dozens of Malicious Crypto Apps Land in Apple App Store</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -634,20 +649,6 @@
     "link": "https://www.securityweek.com/hackers-abuse-qemu-for-defense-evasion/",
     "published": "Mon, 20 Apr 2026 11:35:29 +0000",
     "summary": "<p>The machine emulator has been abused in at least two different campaigns distributing ransomware and remote access tools.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-abuse-qemu-for-defense-evasion/\">Hackers Abuse QEMU for Defense Evasion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Bluesky Disrupted by Sophisticated DDoS Attack",
-    "link": "https://www.securityweek.com/bluesky-disrupted-by-sophisticated-ddos-attack/",
-    "published": "Mon, 20 Apr 2026 11:06:59 +0000",
-    "summary": "<p>A pro-Iran hacker group has taken credit for the attack on Bluesky, which appears to have lasted 24 hours. </p>\n<p>The post <a href=\"https://www.securityweek.com/bluesky-disrupted-by-sophisticated-ddos-attack/\">Bluesky Disrupted by Sophisticated DDoS Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Senate Extends Surveillance Powers Until April 30 After Chaotic Votes in House",
-    "link": "https://www.securityweek.com/senate-extends-surveillance-powers-until-april-30-after-chaotic-votes-in-house/",
-    "published": "Mon, 20 Apr 2026 10:32:13 +0000",
-    "summary": "<p>The Senate approved a short-term renewal until April 30 of a controversial surveillance program used by U.S. spy agencies.</p>\n<p>The post <a href=\"https://www.securityweek.com/senate-extends-surveillance-powers-until-april-30-after-chaotic-votes-in-house/\">Senate Extends Surveillance Powers Until April 30 After Chaotic Votes in House</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -814,13 +815,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-23666",
         "CVE-2026-32157",
-        "CVE-2026-33826",
-        "CVE-2026-33114",
-        "CVE-2026-33115",
+        "CVE-2026-23666",
         "CVE-2026-32190",
-        "CVE-2026-33824"
+        "CVE-2026-33114",
+        "CVE-2026-33826",
+        "CVE-2026-33824",
+        "CVE-2026-33115"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1196,8 +1197,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1222,6 +1223,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Fake Google Antigravity downloads are stealing accounts in minutes",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/04/fake-google-antigravity-downloads-are-stealing-accounts-in-minutes",
+    "published": "Tue, 21 Apr 2026 14:04:51 GMT",
+    "summary": "Another AI launch, another trap. A trojanized Google Antigravity installer runs like normal, but secretly hands over your accounts to the attackers.",
+    "analysis": {
+      "issue": "Somebody went looking for Google’s new Antigravity coding tool this week, clicked download, ran the installer, and got exactly what they thought they were getting",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1390,21 +1409,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "A fake Slack download is giving attackers a hidden desktop on your machine",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/04/a-fake-slack-download-is-giving-attackers-a-hidden-desktop-on-your-machine",
-    "published": "Thu, 16 Apr 2026 09:26:45 GMT",
-    "summary": "This trojanized Slack installer looks normal, but quietly gives attackers an invisible desktop to access your accounts and data. We take a deep dive into the attack.",
+    "source": "Crowdstrike Blog",
+    "title": "Introducing the CrowdStrike Shadow AI Visibility Service",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-shadow-AI-visibility-service/",
+    "published": "Apr 21, 2026 00:00:00-0400",
+    "summary": "",
     "analysis": {
-      "issue": "A trojanized Slack download from a typosquatting website is giving attackers something most users wouldn’t even know to look for: a hidden desktop running on their machine",
+      "issue": "CrowdStrike’s new service gives organizations visibility to discover, govern, and secure AI adoption in their environment",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -1562,24 +1580,6 @@
     "summary": "",
     "analysis": {
       "issue": "Charlotte AI underpins a security-first ecosystem for building and orchestrating agents across the SOC",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Flex for Services Expands Access to Elite Security Expertise",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/",
-    "published": "Mar 24, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike Flex for Services applies the successful Falcon Flex approach to expert-led cybersecurity services",
       "solution": null,
       "cause": null,
       "timeline": null,
