@@ -1,6 +1,80 @@
 [
   {
     "source": "The Hacker News",
+    "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
+    "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html",
+    "published": "Tue, 21 Apr 2026 18:30:00 +0530",
+    "summary": "Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of potential data exfiltration, service disruption, regulatory exposure, and brand damage.&nbsp;\nThe root cause of slow MTTR is almost never \"not enough analysts.\" It is almost always the same structural problem: threat intelligence that exists",
+    "analysis": {
+      "issue": "Integrated threat intelligence reduces MTTR using data from 15,000 organizations and 600,000 analysts, limiting dwell time and business risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
+    "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+    "published": "Tue, 21 Apr 2026 18:15:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family called&nbsp;NGate&nbsp;that has been found to abuse a legitimate application called&nbsp;HandyPay instead of NFCGate.\n\"The threat actors took the app, which is used to relay NFC data, and patched it with malicious code that appears to have been AI-generated,\" ESET security researcher Lukáš Štefanko said in a",
+    "analysis": {
+      "issue": "NGate abuses HandyPay in Brazil since Nov 2025, stealing NFC data and PINs to enable ATM fraud and unauthorized payments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
+    "link": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
+    "published": "Tue, 21 Apr 2026 17:00:00 +0530",
+    "summary": "The cybersecurity industry has spent the last several years chasing sophisticated threats like zero-days, supply chain compromises, and AI-generated exploits. However, the most reliable entry point for attackers still hasn't changed: stolen credentials.\nIdentity-based attacks remain a dominant initial access vector in breaches today. Attackers obtain valid credentials through credential stuffing",
+    "analysis": {
+      "issue": "Stolen credentials remain top breach vector as AI speeds phishing and testing, increasing ransomware and persistence risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution",
+    "link": "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html",
+    "published": "Tue, 21 Apr 2026 15:52:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a vulnerability in Google's agentic integrated development environment (IDE), Antigravity, that could be exploited to achieve code execution.\nThe flaw, since patched, combines Antigravity's permitted file-creation capabilities with an insufficient input sanitization in Antigravity's native file-searching tool, find_by_name, to bypass the program's Strict",
+    "analysis": {
+      "issue": "Antigravity Strict Mode bypass disclosed Jan 7, 2026, patched Feb 28, enables arbitrary code execution via fd -X flag",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
     "link": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
     "published": "Tue, 21 Apr 2026 11:53:00 +0530",
@@ -111,13 +185,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
-    "link": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
-    "published": "Mon, 20 Apr 2026 09:05:00 +0530",
-    "summary": "Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems.\nThe incident stemmed from the compromise of Context.ai, a third-party artificial intelligence (AI) tool, that was used by an employee at the company.\n\"The attacker used that access to take over the employee's Vercel Google Workspace account,",
+    "source": "Bleeping Computer",
+    "title": "UK probes Telegram, teen chat sites over CSAM sharing concerns",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/",
+    "published": "Tue, 21 Apr 2026 09:49:10 -0400",
+    "summary": "Ofcom, the United Kingdom's independent communications regulator, has launched an investigation into Telegram based on evidence suggesting it's being used to share child sexual abuse material (CSAM). [...]",
     "analysis": {
-      "issue": "ai breach enabled Google Workspace takeover at Vercel, exposing limited customer credentials and prompting $2M data sale claim",
+      "issue": "Ofcom, the United Kingdom's independent communications regulator, has launched an investigation into Telegram based on evidence suggesting it's being used to share child sexual abuse material (CSAM)",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -129,61 +203,62 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
-    "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
-    "published": "Sat, 18 Apr 2026 13:37:00 +0530",
-    "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching.\nFor every employee in your org, there are 40 to 50 automated credentials: service accounts, API tokens, AI agent connections,&nbsp;and OAuth grants. When&nbsp;projects end or employees leave, most",
+    "source": "Bleeping Computer",
+    "title": "CISA flags new SD-WAN flaw as actively exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
+    "published": "Tue, 21 Apr 2026 08:30:50 -0400",
+    "summary": "​CISA has given U.S. government agencies four days to secure their systems against another Catalyst SD-WAN Manager vulnerability it flagged as actively exploited in attacks. [...]",
     "analysis": {
-      "issue": "Compromised service accounts caused 68% of 2024 cloud breaches, enabling 200-day dwell times and lateral movement across environments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims",
-    "link": "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html",
-    "published": "Sat, 18 Apr 2026 13:29:00 +0530",
-    "summary": "Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blamed Western intelligence agencies for a $13.74 million hack.\nThe exchange said it fell victim to what it described as a large-scale cyber attack that bore hallmarks of foreign intelligence agency involvement. This attack led to the theft of over 1",
-    "analysis": {
-      "issue": "74M stolen from Grinex on April 15, 2026 after sanctions, disrupting Russia-linked evasion networks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
-    "link": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html",
-    "published": "Sat, 18 Apr 2026 11:31:00 +0530",
-    "summary": "Threat actors are exploiting security flaws in TBK DVR and end‑of‑life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devices, according to findings from Fortinet FortiGuard Labs and Palo Alto Networks Unit 42.\nThe attack targeting TBK DVR devices has been found to exploit CVE-2024-3721 (CVSS score: 6.3), a medium-severity command injection vulnerability affecting",
-    "analysis": {
-      "issue": "CVE-2024-3721 and CVE-2023-33538 exploited in TBK DVRs and EoL TP-Link routers, enabling Mirai variants and DDoS risk",
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) has given government agencies four days to secure their systems against another Catalyst SD-WAN Manager vulnerability it flagged as actively exploited in attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2023-33538",
-        "CVE-2024-3721"
+        "CVE-2026-20133",
+        "CVE-2026-20128",
+        "CVE-2026-20122"
       ],
       "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "DDoS"
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
+    "link": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
+    "published": "Tue, 21 Apr 2026 07:17:51 -0400",
+    "summary": "Nonprofit security organization Shadowserver found that over 6,400 Apache ActiveMQ servers exposed online are vulnerable to ongoing attacks exploiting a high-severity code injection vulnerability. [...]",
+    "analysis": {
+      "issue": "Nonprofit security organization Shadowserver found that over 6,400 Apache ActiveMQ servers exposed online are vulnerable to ongoing attacks exploiting a high-severity code injection vulnerability",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-34197"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Former ransomware negotiator pleads guilty to BlackCat attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
+    "published": "Tue, 21 Apr 2026 06:12:21 -0400",
+    "summary": "41-year-old Angelo Martino, a former employee of cybersecurity incident response company DigitalMint, has pleaded guilty to targeting U.S. companies in BlackCat (ALPHV) ransomware attacks in 2023. [...]",
+    "analysis": {
+      "issue": "41-year-old Angelo Martino, a former employee of cybersecurity incident response company DigitalMint, has pleaded guilty to targeting U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
       ]
     }
   },
@@ -301,78 +376,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "The backup myth that is putting businesses at risk",
-    "link": "https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/",
-    "published": "Mon, 20 Apr 2026 10:01:11 -0400",
-    "summary": "Backups protect data, but don't keep your business running during downtime. Datto shows why BCDR is essential to keep operations running during ransomware and outages. [...]",
-    "analysis": {
-      "issue": "Ransomware and other cyberthreats often dominate conversations about data loss, but they are not the only risks businesses face",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "British Scattered Spider hacker pleads guilty to crypto theft charges",
-    "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/",
-    "published": "Mon, 20 Apr 2026 09:33:42 -0400",
-    "summary": "A British man, believed to be the leader of the Scattered Spider cybercrime collective, has pleaded guilty in the United States to charges of wire fraud and aggravated identity theft. [...]",
-    "analysis": {
-      "issue": "A British man, believed to be the leader of the Scattered Spider cybercrime collective, has pleaded guilty in the United States to charges of wire fraud and aggravated identity theft",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft tests Windows Explorer speed, performance improvements",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/",
-    "published": "Mon, 20 Apr 2026 08:04:02 -0400",
-    "summary": "Microsoft is rolling out multiple File Explorer changes to Windows 11 users in the Insider program, including improvements to launch speed and performance. [...]",
-    "analysis": {
-      "issue": "Microsoft is rolling out multiple File Explorer changes to Windows 11 users in the Insider program, including improvements to launch speed and performance",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft pulls service update causing Teams launch failures",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
-    "published": "Mon, 20 Apr 2026 05:40:20 -0400",
-    "summary": "Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client. [...]",
-    "analysis": {
-      "issue": "Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, April 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
@@ -386,8 +389,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-34621",
-        "CVE-2026-33825",
-        "CVE-2026-32201"
+        "CVE-2026-32201",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -504,14 +507,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21262",
         "CVE-2026-24289",
         "CVE-2026-25187",
-        "CVE-2026-21262",
+        "CVE-2026-26127",
         "CVE-2026-24291",
         "CVE-2026-26113",
         "CVE-2026-24294",
-        "CVE-2026-26110",
-        "CVE-2026-26127"
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -578,6 +581,41 @@
   },
   {
     "source": "Security Week",
+    "title": "Unsecured Perforce Servers Expose Sensitive Data From Major Orgs",
+    "link": "https://www.securityweek.com/unsecured-perforce-servers-expose-sensitive-data-from-major-orgs/",
+    "published": "Tue, 21 Apr 2026 12:37:49 +0000",
+    "summary": "<p>Things are improving, but a researcher has still identified over 1,500 Perforce P4 instances allowing attackers to read files on the server.</p>\n<p>The post <a href=\"https://www.securityweek.com/unsecured-perforce-servers-expose-sensitive-data-from-major-orgs/\">Unsecured Perforce Servers Expose Sensitive Data From Major Orgs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Progress Patches Multiple Vulnerabilities in MOVEit WAF, LoadMaster",
+    "link": "https://www.securityweek.com/progress-patches-multiple-vulnerabilities-in-moveit-waf-loadmaster/",
+    "published": "Tue, 21 Apr 2026 12:14:26 +0000",
+    "summary": "<p>The security defects could be exploited for remote code execution, OS command injection, and WAF detection bypass.</p>\n<p>The post <a href=\"https://www.securityweek.com/progress-patches-multiple-vulnerabilities-in-moveit-waf-loadmaster/\">Progress Patches Multiple Vulnerabilities in MOVEit WAF, LoadMaster</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Organizations Warned of Exploited Cisco, Kentico, Zimbra Vulnerabilities",
+    "link": "https://www.securityweek.com/organizations-warned-of-exploited-cisco-kentico-zimbra-vulnerabilities/",
+    "published": "Tue, 21 Apr 2026 11:19:45 +0000",
+    "summary": "<p>CISA expanded the KEV catalog with eight flaws, but five of them have been flagged as exploited before.</p>\n<p>The post <a href=\"https://www.securityweek.com/organizations-warned-of-exploited-cisco-kentico-zimbra-vulnerabilities/\">Organizations Warned of Exploited Cisco, Kentico, Zimbra Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Data Breaches at Healthcare Organizations in Illinois and Texas Affect 600,000",
+    "link": "https://www.securityweek.com/data-breaches-at-healthcare-organizations-in-illinois-and-texas-affect-600000/",
+    "published": "Tue, 21 Apr 2026 11:02:29 +0000",
+    "summary": "<p>Data breaches were disclosed by Southern Illinois Dermatology, Saint Anthony Hospital, and North Texas Behavioral Health Authority.</p>\n<p>The post <a href=\"https://www.securityweek.com/data-breaches-at-healthcare-organizations-in-illinois-and-texas-affect-600000/\">Data Breaches at Healthcare Organizations in Illinois and Texas Affect 600,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "$290 Million Kelp DAO Crypto Heist Blamed on North Korea",
+    "link": "https://www.securityweek.com/290-million-kelp-dao-crypto-heist-blamed-on-north-korea/",
+    "published": "Tue, 21 Apr 2026 10:02:09 +0000",
+    "summary": "<p>The hackers targeted LayerZero’s DVN, compromising certain RPCs and DDoSing others to trigger failover to the poisoned infrastructure.  </p>\n<p>The post <a href=\"https://www.securityweek.com/290-million-kelp-dao-crypto-heist-blamed-on-north-korea/\">$290 Million Kelp DAO Crypto Heist Blamed on North Korea</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking",
     "link": "https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/",
     "published": "Mon, 20 Apr 2026 15:42:22 +0000",
@@ -612,39 +650,60 @@
     "summary": "<p>The Senate approved a short-term renewal until April 30 of a controversial surveillance program used by U.S. spy agencies.</p>\n<p>The post <a href=\"https://www.securityweek.com/senate-extends-surveillance-powers-until-april-30-after-chaotic-votes-in-house/\">Senate Extends Surveillance Powers Until April 30 After Chaotic Votes in House</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "Half of the 6 Million Internet-Facing FTP Servers Lack Encryption",
-    "link": "https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/",
-    "published": "Mon, 20 Apr 2026 09:41:04 +0000",
-    "summary": "<p>The continued use of the half-century-old protocol exposes enterprises and end users to various types of attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/\">Half of the 6 Million Internet-Facing FTP Servers Lack Encryption</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "[Podcast] It's not you, it's your printer: State-sponsored and phishing threats in 2025",
+    "link": "https://blog.talosintelligence.com/podcast-its-not-you-its-your-printer-state-sponsored-and-phishing-threats-in-2025/",
+    "published": "Tue, 21 Apr 2026 12:29:49 GMT",
+    "summary": "In this episode of Talos Takes, Amy and Martin Lee unpack state-sponsored and phishing trends from the 2025 Talos Year in Review.",
+    "analysis": {
+      "issue": "In this episode, we unpack state-sponsored and phishing trends from the 2025 Talos Year in Review",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
   },
   {
-    "source": "Security Week",
-    "title": "Next.js Creator Vercel Hacked",
-    "link": "https://www.securityweek.com/next-js-creator-vercel-hacked/",
-    "published": "Mon, 20 Apr 2026 08:30:13 +0000",
-    "summary": "<p>Vercel confirmed suffering a breach after a hacker claiming to be part of ShinyHunters offered to sell stolen data for $2 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/next-js-creator-vercel-hacked/\">Next.js Creator Vercel Hacked</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "Phishing and MFA exploitation: Targeting the keys to the kingdom",
+    "link": "https://blog.talosintelligence.com/phishing-and-mfa-exploitation-targeting-the-keys-to-the-kingdom/",
+    "published": "Tue, 21 Apr 2026 12:00:08 GMT",
+    "summary": "In 2025, attackers increasingly targeted weaknesses in multi-factor authentication (MFA) workflows, and phishing attacks leveraged valid, compromised credentials to launch lures from trusted accounts. The trends focused entirely on trust, or the lack thereof, in everyday business operations.",
+    "analysis": {
+      "issue": "In 2025, attackers increasingly targeted weaknesses in multi-factor authentication (MFA) workflows, and phishing attacks leveraged valid, compromised credentials to launch lures from trusted accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
   },
   {
-    "source": "Security Week",
-    "title": "Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers",
-    "link": "https://www.securityweek.com/hackers-fail-to-exploit-flaw-in-discontinued-tp-link-routers/",
-    "published": "Mon, 20 Apr 2026 07:50:01 +0000",
-    "summary": "<p>In-the-wild exploitation has been ongoing for a year, but no successful payload execution has been observed.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-fail-to-exploit-flaw-in-discontinued-tp-link-routers/\">Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks",
-    "link": "https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/",
-    "published": "Sat, 18 Apr 2026 10:30:00 +0000",
-    "summary": "<p>Threat actors are reusing Tycoon 2FA tools across other phishing kits following the platform’s disruption.</p>\n<p>The post <a href=\"https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/\">Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology",
-    "link": "https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/",
-    "published": "Fri, 17 Apr 2026 19:00:00 +0000",
-    "summary": "<p>A White House official said the administration is engaging with advanced AI labs about their models and the security of software.</p>\n<p>The post <a href=\"https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/\">White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "Bad Apples: Weaponizing native macOS primitives for movement and execution",
+    "link": "https://blog.talosintelligence.com/bad-apples-weaponizing-native-macos-primitives-for-movement-and-execution/",
+    "published": "Tue, 21 Apr 2026 10:00:29 GMT",
+    "summary": "Cisco Talos documents several macOS living-off-the-land (LOTL) techniques, demonstrating that native pathways for movement and execution remain accessible to those who understand the underlying architecture.",
+    "analysis": {
+      "issue": "As macOS adoption in the enterprise reaches record highs, with over 45 percent of organizations now utilizing the platform, the traditional \"security through obscurity\" narrative surrounding the OS has been rendered obsolete",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
   },
   {
     "source": "Talos Blog",
@@ -755,13 +814,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32157",
-        "CVE-2026-33115",
-        "CVE-2026-33824",
-        "CVE-2026-33826",
         "CVE-2026-23666",
+        "CVE-2026-32157",
+        "CVE-2026-33826",
         "CVE-2026-33114",
-        "CVE-2026-32190"
+        "CVE-2026-33115",
+        "CVE-2026-32190",
+        "CVE-2026-33824"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -785,63 +844,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "[Video] The TTP Ep. 22: The Collapse of the Patch Window",
-    "link": "https://blog.talosintelligence.com/video-the-ttp-ep-22-the-collapse-of-the-patch-window/",
-    "published": "Fri, 10 Apr 2026 15:29:39 GMT",
-    "summary": "In this episode of The Talos Threat Perspective, we discuss how vulnerability exploitation is accelerating, and why attacker speed, AI, and exposed systems are affecting the patch window.",
-    "analysis": {
-      "issue": "One of the clearest trends in the 2025 Talos Year in Review is just how quickly vulnerabilities are now being turned into working exploits",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "The threat hunter’s gambit",
-    "link": "https://blog.talosintelligence.com/the-threat-hunters-gambit/",
-    "published": "Thu, 09 Apr 2026 18:00:20 GMT",
-    "summary": "Bill discusses why obsessing over strategy games is actually a secret weapon to outsmart threat actors.",
-    "analysis": {
-      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "From the field to the report and back again: How incident responders can use the Year in Review",
-    "link": "https://blog.talosintelligence.com/from-the-field-to-the-report-and-back-again-how-incident-responders-can-use-the-year-in-review/",
-    "published": "Thu, 09 Apr 2026 10:00:03 GMT",
-    "summary": "The Year in Review distills Talos IR's observations into structured intelligence, but defenders should also be feeding this report back into their own preparation cycles. Here's how.",
-    "analysis": {
-      "issue": "Every year, Cisco Talos publishes Year in Review, a comprehensive look at the previous year’s threat landscape",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
       ]
     }
   },
@@ -1194,8 +1196,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1220,6 +1222,42 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Real Apple notifications are being used to drive tech support scams",
+    "link": "https://www.malwarebytes.com/blog/news/2026/04/real-apple-notifications-are-being-used-to-drive-tech-support-scams",
+    "published": "Tue, 21 Apr 2026 12:59:31 GMT",
+    "summary": "Scammers have found a way to abuse legitimate Apple notification emails to trick people into calling fake tech support numbers.",
+    "analysis": {
+      "issue": "Scammers have found a way to abuse legitimate Apple account notification emails to trick targets into calling fake tech support numbers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Android 17 ends all-or-nothing access to your contacts",
+    "link": "https://www.malwarebytes.com/blog/mobile/2026/04/android-17-ends-all-or-nothing-access-to-your-contacts",
+    "published": "Tue, 21 Apr 2026 10:12:27 GMT",
+    "summary": "Apps have been taking your whole contact list for years. Android 17 finally makes them ask for less.",
+    "analysis": {
+      "issue": "Some of the apps on your phone want your contacts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1367,44 +1405,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Booking.com breach gives scammers what they need to target guests",
-    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/04/booking-com-breach-gives-scammers-what-they-need-to-target-guests",
-    "published": "Thu, 16 Apr 2026 08:02:06 GMT",
-    "summary": "Guest reservation data stolen from the booking giant can be used by scammers to impersonate hotels to steal payment and personal info.",
-    "analysis": {
-      "issue": "Travel companies love telling you your data is safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "AI clickbait can turn your notifications into a scam feed",
-    "link": "https://www.malwarebytes.com/blog/news/2026/04/ai-clickbait-can-turn-your-notifications-into-a-scam-feed",
-    "published": "Wed, 15 Apr 2026 17:43:40 GMT",
-    "summary": "A new AI-driven campaign known as Pushpaganda is using clickbait to turn your browser notifications into a stream of scams and fake alerts.",
-    "analysis": {
-      "issue": "Pushpaganda is the name researchers have given to an AI-assisted ad fraud, social engineering, and scareware operation targeting mobile users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
