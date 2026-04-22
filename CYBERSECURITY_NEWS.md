@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-22 03:22:51 UTC
+**Last Updated:** 2026-04-22 03:47:30 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -201,7 +201,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -256,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-26113, CVE-2026-26127, CVE-2026-24291, CVE-2026-26110, CVE-2026-24289, CVE-2026-24294, CVE-2026-25187  
+**CVEs:** CVE-2026-24289, CVE-2026-25187, CVE-2026-26127, CVE-2026-26113, CVE-2026-26110, CVE-2026-24291, CVE-2026-21262, CVE-2026-24294  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -427,7 +427,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 20:27:56 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33115, CVE-2026-33824, CVE-2026-32190, CVE-2026-33826, CVE-2026-33114, CVE-2026-32157, CVE-2026-23666  
+**CVEs:** CVE-2026-33114, CVE-2026-32190, CVE-2026-23666, CVE-2026-33826, CVE-2026-32157, CVE-2026-33824, CVE-2026-33115  
 **Categories:** Vulnerability, DDoS  
 
 ---
