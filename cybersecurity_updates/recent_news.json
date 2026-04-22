@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
+    "link": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
+    "published": "Wed, 22 Apr 2026 13:28:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector.\n\"The backdoor communicates with a dynamic DNS-based command-and-control server over HTTPS and supports remote shell access, file operations, and session management, indicating a continued espionage-focused capability set rather than",
+    "analysis": {
+      "issue": "Updated LOTUSLITE targets India banking sector via CHM and DLL side-loading, expanding espionage campaign to South Korea and U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
+    "link": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html",
+    "published": "Wed, 22 Apr 2026 12:46:00 +0530",
+    "summary": "A critical security vulnerability has been disclosed in a Python-based sandbox called Terrarium that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2026-5752, is rated 9.3 on the CVSS scoring system.\n\"Sandbox escape vulnerability in Terrarium allows arbitrary code execution with root privileges on a host process via JavaScript prototype chain traversal,\" according to",
+    "analysis": {
+      "issue": "3 flaw in Terrarium enables root code execution via Pyodide prototype traversal, risking container escape",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-5752"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
     "link": "https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html",
     "published": "Tue, 21 Apr 2026 23:48:00 +0530",
@@ -147,19 +185,19 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
-    "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
-    "published": "Mon, 20 Apr 2026 22:44:00 +0530",
-    "summary": "A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems.\nThe vulnerability, tracked as CVE-2026-5760, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of command injection leading to the execution of arbitrary code.\nSGLang is a high-performance, open-source serving",
+    "source": "Bleeping Computer",
+    "title": "Microsoft releases emergency patches for critical ASP.NET flaw",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/",
+    "published": "Wed, 22 Apr 2026 04:08:16 -0400",
+    "summary": "Microsoft has released out-of-band (OOB) security updates to patch a critical ASP.NET Core privilege escalation vulnerability. [...]",
     "analysis": {
-      "issue": "8) exposes SGLang via /v1/rerank endpoint, enabling RCE through malicious GGUF models, risking server compromise",
+      "issue": "Microsoft has released out-of-band (OOB) security updates to patch a critical ASP",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-5760"
+        "CVE-2026-40372"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -167,20 +205,22 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
-    "link": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
-    "published": "Mon, 20 Apr 2026 19:11:00 +0530",
-    "summary": "Monday’s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser extensions act normally while pulling data and running code. Even update channels are used to push payloads. It’s not breaking systems—it’s bending trust.\nThere’s also a shift in how attacks run.",
+    "source": "Bleeping Computer",
+    "title": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/",
+    "published": "Wed, 22 Apr 2026 02:53:02 -0400",
+    "summary": "Over 1,300 Microsoft SharePoint servers exposed online remain unpatched against a spoofing vulnerability that was exploited as a zero-day and is still being abused in ongoing attacks. [...]",
     "analysis": {
-      "issue": "Monday cybersecurity recap on evolving threats, trusted tool abuse, stealthy in-memory attacks, and shifting access patterns",
+      "issue": "Over 1,300 Microsoft SharePoint servers exposed online remain unpatched against a spoofing vulnerability that was exploited as a zero-day and is still being abused in ongoing attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-32201"
+      ],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
@@ -271,9 +311,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-20133",
+        "CVE-2026-20128",
         "CVE-2026-20122",
-        "CVE-2026-20128"
+        "CVE-2026-20133"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -334,43 +374,6 @@
       "threat_categories": [
         "Malware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers",
-    "link": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
-    "published": "Mon, 20 Apr 2026 18:23:52 -0400",
-    "summary": "State-sponsored North Korean hackers are likely behind the $290 million crypto-heist that impacted the KelpDAO DeFi project on Saturday. [...]",
-    "analysis": {
-      "issue": "State-sponsored North Korean hackers are likely behind the $290 million crypto-heist that impacted the KelpDAO DeFi project on Saturday",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "China's Apple App Store infiltrated by crypto-stealing wallet apps",
-    "link": "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/",
-    "published": "Mon, 20 Apr 2026 17:52:54 -0400",
-    "summary": "A set of 26 malicious apps on Apple App Store impersonate popular wallets, such as Metamask, Coinbase, Trust Wallet, and OneKey, to steal recovery or seed phrases and drain them of cryptocurrency assets. [...]",
-    "analysis": {
-      "issue": "A set of 26 malicious apps on Apple App Store impersonate popular wallets, such as Metamask, Coinbase, Trust Wallet, and OneKey, to steal recovery or seed phrases and drain them of cryptocurrency assets",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -526,12 +529,12 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-24289",
-        "CVE-2026-25187",
-        "CVE-2026-26127",
-        "CVE-2026-26113",
         "CVE-2026-26110",
+        "CVE-2026-25187",
         "CVE-2026-24291",
         "CVE-2026-21262",
+        "CVE-2026-26113",
+        "CVE-2026-26127",
         "CVE-2026-24294"
       ],
       "threat_categories": [
@@ -578,6 +581,20 @@
         "DDoS"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Antigravity in Crosshairs of Security Researchers, Cybercriminals",
+    "link": "https://www.securityweek.com/google-antigravity-in-crosshairs-of-security-researchers-cybercriminals/",
+    "published": "Wed, 22 Apr 2026 09:53:05 +0000",
+    "summary": "<p>Researchers discovered a remote code execution vulnerability and cybercriminals are using its reputation to deliver malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-antigravity-in-crosshairs-of-security-researchers-cybercriminals/\">Google Antigravity in Crosshairs of Security Researchers, Cybercriminals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Oracle Patches 450 Vulnerabilities With April 2026 CPU",
+    "link": "https://www.securityweek.com/oracle-patches-450-vulnerabilities-with-april-2026-cpu/",
+    "published": "Wed, 22 Apr 2026 08:41:10 +0000",
+    "summary": "<p>The company released 481 new security patches across 28 product families, including over 300 fixes for remotely exploitable, unauthenticated flaws.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-patches-450-vulnerabilities-with-april-2026-cpu/\">Oracle Patches 450 Vulnerabilities With April 2026 CPU</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -634,20 +651,6 @@
     "link": "https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/",
     "published": "Mon, 20 Apr 2026 15:42:22 +0000",
     "summary": "<p>Forescout researchers discovered 20 new vulnerabilities in Lantronix and Silex products and described theoretical attack scenarios.</p>\n<p>The post <a href=\"https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/\">Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "British Scattered Spider Hacker Pleads Guilty in the US",
-    "link": "https://www.securityweek.com/british-scattered-spider-hacker-pleads-guilty-in-the-us/",
-    "published": "Mon, 20 Apr 2026 12:21:16 +0000",
-    "summary": "<p>Tyler Buchanan admitted in court to hacking into various companies, defrauding them, and stealing cryptocurrency from multiple individuals.</p>\n<p>The post <a href=\"https://www.securityweek.com/british-scattered-spider-hacker-pleads-guilty-in-the-us/\">British Scattered Spider Hacker Pleads Guilty in the US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Hackers Abuse QEMU for Defense Evasion",
-    "link": "https://www.securityweek.com/hackers-abuse-qemu-for-defense-evasion/",
-    "published": "Mon, 20 Apr 2026 11:35:29 +0000",
-    "summary": "<p>The machine emulator has been abused in at least two different campaigns distributing ransomware and remote access tools.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-abuse-qemu-for-defense-evasion/\">Hackers Abuse QEMU for Defense Evasion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -815,12 +818,12 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-33114",
-        "CVE-2026-32190",
-        "CVE-2026-23666",
         "CVE-2026-33826",
+        "CVE-2026-23666",
         "CVE-2026-32157",
-        "CVE-2026-33824",
-        "CVE-2026-33115"
+        "CVE-2026-32190",
+        "CVE-2026-33115",
+        "CVE-2026-33824"
       ],
       "threat_categories": [
         "Vulnerability",

@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-22 03:47:30 UTC
+**Last Updated:** 2026-04-22 10:00:17 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation](https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html)
+### 1. [Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles](https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 22 Apr 2026 13:28:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape](https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 22 Apr 2026 12:46:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-5752  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation](https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Apr 2026 23:48:00 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters](https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html)
+### 4. [22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters](https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Apr 2026 21:16:00 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023](https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html)
+### 5. [Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023](https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Apr 2026 20:01:00 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time](https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html)
+### 6. [5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time](https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Apr 2026 18:30:00 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs](https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html)
+### 7. [NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs](https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Apr 2026 18:15:00 +0530  
@@ -49,7 +68,7 @@
 
 ---
 
-### 6. [No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks](https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html)
+### 8. [No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks](https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Apr 2026 17:00:00 +0530  
@@ -58,7 +77,7 @@
 
 ---
 
-### 7. [Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution](https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html)
+### 9. [Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution](https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Apr 2026 15:52:00 +0530  
@@ -67,7 +86,7 @@
 
 ---
 
-### 8. [CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines](https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html)
+### 10. [CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines](https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Apr 2026 11:53:00 +0530  
@@ -76,26 +95,27 @@
 
 ---
 
-### 9. [SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files](https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html)
+### 11. [Microsoft releases emergency patches for critical ASP.NET flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 20 Apr 2026 22:44:00 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-5760  
+**Source:** Bleeping Computer  
+**Published:** Wed, 22 Apr 2026 04:08:16 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-40372  
 **Categories:** Vulnerability  
 
 ---
 
-### 10. [⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More](https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html)
+### 12. [Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks](https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 20 Apr 2026 19:11:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Wed, 22 Apr 2026 02:53:02 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-32201  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [French govt agency confirms breach as hacker offers to sell data](https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/)
+### 13. [French govt agency confirms breach as hacker offers to sell data](https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Apr 2026 17:46:04 -0400  
@@ -104,7 +124,7 @@
 
 ---
 
-### 12. [New Lotus data wiper used against Venezuelan energy, utility firms](https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/)
+### 14. [New Lotus data wiper used against Venezuelan energy, utility firms](https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Apr 2026 14:38:40 -0400  
@@ -113,7 +133,7 @@
 
 ---
 
-### 13. [Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction](https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/)
+### 15. [Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction](https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Apr 2026 10:02:12 -0400  
@@ -122,7 +142,7 @@
 
 ---
 
-### 14. [UK probes Telegram, teen chat sites over CSAM sharing concerns](https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/)
+### 16. [UK probes Telegram, teen chat sites over CSAM sharing concerns](https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Apr 2026 09:49:10 -0400  
@@ -131,17 +151,17 @@
 
 ---
 
-### 15. [CISA flags new SD-WAN flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/)
+### 17. [CISA flags new SD-WAN flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Apr 2026 08:30:50 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-20133, CVE-2026-20122, CVE-2026-20128  
+**CVEs:** CVE-2026-20128, CVE-2026-20122, CVE-2026-20133  
 **Categories:** Vulnerability  
 
 ---
 
-### 16. [Actively exploited Apache ActiveMQ flaw impacts 6,400 servers](https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/)
+### 18. [Actively exploited Apache ActiveMQ flaw impacts 6,400 servers](https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Apr 2026 07:17:51 -0400  
@@ -151,7 +171,7 @@
 
 ---
 
-### 17. [Former ransomware negotiator pleads guilty to BlackCat attacks](https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/)
+### 19. [Former ransomware negotiator pleads guilty to BlackCat attacks](https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Apr 2026 06:12:21 -0400  
@@ -160,30 +180,12 @@
 
 ---
 
-### 18. [NGate Android malware uses HandyPay NFC app to steal card data](https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/)
+### 20. [NGate Android malware uses HandyPay NFC app to steal card data](https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Apr 2026 05:00:00 -0400  
 **Severity:** Low  
 **Categories:** Malware, APT  
-
----
-
-### 19. [KelpDAO suffers $290 million heist tied to Lazarus hackers](https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 20 Apr 2026 18:23:52 -0400  
-**Severity:** Low  
-**Categories:** APT  
-
----
-
-### 20. [China's Apple App Store infiltrated by crypto-stealing wallet apps](https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 20 Apr 2026 17:52:54 -0400  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
 
 ---
 
@@ -256,7 +258,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24289, CVE-2026-25187, CVE-2026-26127, CVE-2026-26113, CVE-2026-26110, CVE-2026-24291, CVE-2026-21262, CVE-2026-24294  
+**CVEs:** CVE-2026-24289, CVE-2026-26110, CVE-2026-25187, CVE-2026-24291, CVE-2026-21262, CVE-2026-26113, CVE-2026-26127, CVE-2026-24294  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,73 +281,73 @@
 
 ---
 
-### 31. [Third US Security Expert Admits Helping Ransomware Gang](https://www.securityweek.com/third-us-security-expert-admits-helping-ransomware-gang/)
+### 31. [Google Antigravity in Crosshairs of Security Researchers, Cybercriminals](https://www.securityweek.com/google-antigravity-in-crosshairs-of-security-researchers-cybercriminals/)
+
+**Source:** Security Week  
+**Published:** Wed, 22 Apr 2026 09:53:05 +0000  
+
+---
+
+### 32. [Oracle Patches 450 Vulnerabilities With April 2026 CPU](https://www.securityweek.com/oracle-patches-450-vulnerabilities-with-april-2026-cpu/)
+
+**Source:** Security Week  
+**Published:** Wed, 22 Apr 2026 08:41:10 +0000  
+
+---
+
+### 33. [Third US Security Expert Admits Helping Ransomware Gang](https://www.securityweek.com/third-us-security-expert-admits-helping-ransomware-gang/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Apr 2026 14:44:24 +0000  
 
 ---
 
-### 32. [Dozens of Malicious Crypto Apps Land in Apple App Store](https://www.securityweek.com/dozens-of-malicious-crypto-apps-land-in-apple-app-store/)
+### 34. [Dozens of Malicious Crypto Apps Land in Apple App Store](https://www.securityweek.com/dozens-of-malicious-crypto-apps-land-in-apple-app-store/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Apr 2026 14:05:01 +0000  
 
 ---
 
-### 33. [Unsecured Perforce Servers Expose Sensitive Data From Major Orgs](https://www.securityweek.com/unsecured-perforce-servers-expose-sensitive-data-from-major-orgs/)
+### 35. [Unsecured Perforce Servers Expose Sensitive Data From Major Orgs](https://www.securityweek.com/unsecured-perforce-servers-expose-sensitive-data-from-major-orgs/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Apr 2026 12:37:49 +0000  
 
 ---
 
-### 34. [Progress Patches Multiple Vulnerabilities in MOVEit WAF, LoadMaster](https://www.securityweek.com/progress-patches-multiple-vulnerabilities-in-moveit-waf-loadmaster/)
+### 36. [Progress Patches Multiple Vulnerabilities in MOVEit WAF, LoadMaster](https://www.securityweek.com/progress-patches-multiple-vulnerabilities-in-moveit-waf-loadmaster/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Apr 2026 12:14:26 +0000  
 
 ---
 
-### 35. [Organizations Warned of Exploited Cisco, Kentico, Zimbra Vulnerabilities](https://www.securityweek.com/organizations-warned-of-exploited-cisco-kentico-zimbra-vulnerabilities/)
+### 37. [Organizations Warned of Exploited Cisco, Kentico, Zimbra Vulnerabilities](https://www.securityweek.com/organizations-warned-of-exploited-cisco-kentico-zimbra-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Apr 2026 11:19:45 +0000  
 
 ---
 
-### 36. [Data Breaches at Healthcare Organizations in Illinois and Texas Affect 600,000](https://www.securityweek.com/data-breaches-at-healthcare-organizations-in-illinois-and-texas-affect-600000/)
+### 38. [Data Breaches at Healthcare Organizations in Illinois and Texas Affect 600,000](https://www.securityweek.com/data-breaches-at-healthcare-organizations-in-illinois-and-texas-affect-600000/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Apr 2026 11:02:29 +0000  
 
 ---
 
-### 37. [$290 Million Kelp DAO Crypto Heist Blamed on North Korea](https://www.securityweek.com/290-million-kelp-dao-crypto-heist-blamed-on-north-korea/)
+### 39. [$290 Million Kelp DAO Crypto Heist Blamed on North Korea](https://www.securityweek.com/290-million-kelp-dao-crypto-heist-blamed-on-north-korea/)
 
 **Source:** Security Week  
 **Published:** Tue, 21 Apr 2026 10:02:09 +0000  
 
 ---
 
-### 38. [Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking](https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/)
+### 40. [Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking](https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/)
 
 **Source:** Security Week  
 **Published:** Mon, 20 Apr 2026 15:42:22 +0000  
-
----
-
-### 39. [British Scattered Spider Hacker Pleads Guilty in the US](https://www.securityweek.com/british-scattered-spider-hacker-pleads-guilty-in-the-us/)
-
-**Source:** Security Week  
-**Published:** Mon, 20 Apr 2026 12:21:16 +0000  
-
----
-
-### 40. [Hackers Abuse QEMU for Defense Evasion](https://www.securityweek.com/hackers-abuse-qemu-for-defense-evasion/)
-
-**Source:** Security Week  
-**Published:** Mon, 20 Apr 2026 11:35:29 +0000  
 
 ---
 
@@ -427,7 +429,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 20:27:56 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33114, CVE-2026-32190, CVE-2026-23666, CVE-2026-33826, CVE-2026-32157, CVE-2026-33824, CVE-2026-33115  
+**CVEs:** CVE-2026-33114, CVE-2026-33826, CVE-2026-23666, CVE-2026-32157, CVE-2026-32190, CVE-2026-33115, CVE-2026-33824  
 **Categories:** Vulnerability, DDoS  
 
 ---
