@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
+    "link": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html",
+    "published": "Wed, 22 Apr 2026 20:58:00 +0530",
+    "summary": "The threat actor known as Harvester has been attributed to a new Linux version of its GoGra backdoor deployed as part of attacks likely targeting entities in South Asia.\n\"The malware uses the legitimate Microsoft Graph API and Outlook mailboxes as a covert command-and-control (C2) channel, allowing it to bypass traditional perimeter network defenses,\" the Symantec and Carbon Black Threat Hunter",
+    "analysis": {
+      "issue": "Harvester deploys Linux GoGra via Microsoft Graph API in South Asia, targeting India and Afghanistan since 2021, enabling covert espionage",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
     "link": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
     "published": "Wed, 22 Apr 2026 16:25:00 +0530",
@@ -168,20 +186,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
-    "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
-    "published": "Tue, 21 Apr 2026 18:15:00 +0530",
-    "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family called&nbsp;NGate&nbsp;that has been found to abuse a legitimate application called&nbsp;HandyPay instead of NFCGate.\n\"The threat actors took the app, which is used to relay NFC data, and patched it with malicious code that appears to have been AI-generated,\" ESET security researcher Lukáš Štefanko said in a",
+    "source": "Bleeping Computer",
+    "title": "Spain dismantles major $4.7M manga piracy platform, arrests four",
+    "link": "https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/",
+    "published": "Wed, 22 Apr 2026 11:06:34 -0400",
+    "summary": "The Spanish police have dismantled the largest Spanish-language manga piracy platform, operating since 2014, with millions of monthly users from around the globe. [...]",
     "analysis": {
-      "issue": "NGate abuses HandyPay in Brazil since Nov 2025, stealing NFC data and PINs to enable ATM fraud and unauthorized payments",
+      "issue": "The Spanish police have dismantled what they claim is the largest Spanish-language manga piracy platform, operating since 2014 and serving millions of monthly users worldwide",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process",
+    "link": "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/",
+    "published": "Wed, 22 Apr 2026 10:01:11 -0400",
+    "summary": "Fraud operations now operate like call centers, complete with hiring, training, and performance tracking. Flare reveals how cybercriminals manage \"Caller-as-a-Service\" operations like a professional sales team. [...]",
+    "analysis": {
+      "issue": "Fraudulent phone calls have become a daily reality for millions of people worldwide",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
       ]
     }
   },
@@ -303,9 +340,9 @@
     "title": "French govt agency confirms breach as hacker offers to sell data",
     "link": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
     "published": "Tue, 21 Apr 2026 17:46:04 -0400",
-    "summary": "France Titres, the government agency in France for issuing and managince administrative documents has disclosed a data breach after a threat actor claimed the attack and stealing citizen data. [...]",
+    "summary": "France Titres, the government agency in France for issuing and managing administrative documents has disclosed a data breach after a threat actor claimed the attack and stealing citizen data. [...]",
     "analysis": {
-      "issue": "France Titres, the government agency in France for issuing and managince administrative documents has disclosed a data breach after a threat actor claimed the attack and stealing citizen data",
+      "issue": "France Titres, the government agency in France for issuing and managing administrative documents has disclosed a data breach after a threat actor claimed the attack and stealing citizen data",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -333,42 +370,6 @@
       "threat_categories": [
         "Malware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction",
-    "link": "https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/",
-    "published": "Tue, 21 Apr 2026 10:02:12 -0400",
-    "summary": "Fraud prevention and user experience don't have to be a tradeoff. IPQS shows how combining identity, device, and network signals stops fraud without adding friction. [...]",
-    "analysis": {
-      "issue": "Fraud prevention and user experience have long been treated as opposing forces: tighten security, and you risk alienating legitimate customers; loosen it, and you open the door to account takeovers, synthetic identities, and payment fraud",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "UK probes Telegram, teen chat sites over CSAM sharing concerns",
-    "link": "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/",
-    "published": "Tue, 21 Apr 2026 09:49:10 -0400",
-    "summary": "Ofcom, the United Kingdom's independent communications regulator, has launched an investigation into Telegram based on evidence suggesting it's being used to share child sexual abuse material (CSAM). [...]",
-    "analysis": {
-      "issue": "Ofcom, the United Kingdom's independent communications regulator, has launched an investigation into Telegram based on evidence suggesting it's being used to share child sexual abuse material (CSAM)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -404,9 +405,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
+        "CVE-2026-34621",
         "CVE-2026-32201",
-        "CVE-2026-34621"
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -523,11 +524,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26113",
+        "CVE-2026-25187",
         "CVE-2026-24294",
         "CVE-2026-24289",
-        "CVE-2026-25187",
         "CVE-2026-21262",
+        "CVE-2026-26113",
         "CVE-2026-26127",
         "CVE-2026-26110",
         "CVE-2026-24291"
@@ -576,6 +577,13 @@
         "DDoS"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "After Bluesky, Mastodon Targeted in DDoS Attack",
+    "link": "https://www.securityweek.com/after-bluesky-mastodon-targeted-in-ddos-attack/",
+    "published": "Wed, 22 Apr 2026 14:26:00 +0000",
+    "summary": "<p>The DDoS attack caused a major outage, but Mastodon mitigated it within a few hours.</p>\n<p>The post <a href=\"https://www.securityweek.com/after-bluesky-mastodon-targeted-in-ddos-attack/\">After Bluesky, Mastodon Targeted in DDoS Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -639,13 +647,6 @@
     "link": "https://www.securityweek.com/third-us-security-expert-admits-helping-ransomware-gang/",
     "published": "Tue, 21 Apr 2026 14:44:24 +0000",
     "summary": "<p>Angelo Martino of Florida has pleaded guilty to collaborating with the BlackCat cybercrime group while working as a ransomware negotiator.</p>\n<p>The post <a href=\"https://www.securityweek.com/third-us-security-expert-admits-helping-ransomware-gang/\">Third US Security Expert Admits Helping Ransomware Gang</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Dozens of Malicious Crypto Apps Land in Apple App Store",
-    "link": "https://www.securityweek.com/dozens-of-malicious-crypto-apps-land-in-apple-app-store/",
-    "published": "Tue, 21 Apr 2026 14:05:01 +0000",
-    "summary": "<p>Masquerading as popular cryptocurrency wallets, the apps can hijack recovery phrases and private keys.</p>\n<p>The post <a href=\"https://www.securityweek.com/dozens-of-malicious-crypto-apps-land-in-apple-app-store/\">Dozens of Malicious Crypto Apps Land in Apple App Store</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -835,17 +836,35 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33826",
         "CVE-2026-33115",
         "CVE-2026-33824",
         "CVE-2026-33114",
-        "CVE-2026-32190",
         "CVE-2026-32157",
-        "CVE-2026-23666"
+        "CVE-2026-23666",
+        "CVE-2026-32190",
+        "CVE-2026-33826"
       ],
       "threat_categories": [
         "Vulnerability",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "AI Hype vs. Reality: Is AI Really Rewriting the Vulnerability Equation?",
+    "link": "https://www.recordedfuture.com/blog/ai-hype-vs-reality",
+    "published": "Wed, 22 Apr 2026 00:00:00 GMT",
+    "summary": "AI vulnerability research and discovery capabilities are improving, but they have not changed the fundamentals of vulnerability management.",
+    "analysis": {
+      "issue": "AI vulnerability research and discovery capabilities are improving, but they have not changed the fundamentals of vulnerability management",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -1010,24 +1029,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Third-Party Risk Is an Intelligence Operation. It's Time We Treated It Like One.",
-    "link": "https://www.recordedfuture.com/blog/recorded-future-sees-its-inclusion-in-the-2026-forrester-wave",
-    "published": "Thu, 09 Apr 2026 00:00:00 GMT",
-    "summary": "Recorded Future sees its inclusion in the 2026 Forrester Wave™ for Cybersecurity Risk Ratings Platforms as a reflection of a broader truth: the era of ratings-only vendor risk management is over.",
-    "analysis": {
-      "issue": "Recorded Future sees its inclusion in the 2026 Forrester Wave™ for Cybersecurity Risk Ratings Platforms as a reflection of a broader truth: the era of ratings-only vendor risk management is over",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   },
