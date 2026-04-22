@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-21 17:34:25 UTC
+**Last Updated:** 2026-04-22 03:22:51 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters](https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html)
+### 1. [SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation](https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 21 Apr 2026 23:48:00 +0530  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 2. [22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters](https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Apr 2026 21:16:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023](https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html)
+### 3. [Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023](https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Apr 2026 20:01:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time](https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html)
+### 4. [5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time](https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Apr 2026 18:30:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs](https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html)
+### 5. [NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs](https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Apr 2026 18:15:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks](https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html)
+### 6. [No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks](https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Apr 2026 17:00:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution](https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html)
+### 7. [Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution](https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Apr 2026 15:52:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines](https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html)
+### 8. [CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines](https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Apr 2026 11:53:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files](https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html)
+### 9. [SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files](https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Apr 2026 22:44:00 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More](https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html)
+### 10. [⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More](https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 20 Apr 2026 19:11:00 +0530  
@@ -86,16 +95,25 @@
 
 ---
 
-### 10. [Why Most AI Deployments Stall After the Demo](https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html)
+### 11. [French govt agency confirms breach as hacker offers to sell data](https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 20 Apr 2026 17:00:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 21 Apr 2026 17:46:04 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Data Breach, Phishing  
 
 ---
 
-### 11. [Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction](https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/)
+### 12. [New Lotus data wiper used against Venezuelan energy, utility firms](https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 21 Apr 2026 14:38:40 -0400  
+**Severity:** Low  
+**Categories:** Malware, APT  
+
+---
+
+### 13. [Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction](https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Apr 2026 10:02:12 -0400  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [UK probes Telegram, teen chat sites over CSAM sharing concerns](https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/)
+### 14. [UK probes Telegram, teen chat sites over CSAM sharing concerns](https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Apr 2026 09:49:10 -0400  
@@ -113,17 +131,17 @@
 
 ---
 
-### 13. [CISA flags new SD-WAN flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/)
+### 15. [CISA flags new SD-WAN flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Apr 2026 08:30:50 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-20128, CVE-2026-20133, CVE-2026-20122  
+**CVEs:** CVE-2026-20133, CVE-2026-20122, CVE-2026-20128  
 **Categories:** Vulnerability  
 
 ---
 
-### 14. [Actively exploited Apache ActiveMQ flaw impacts 6,400 servers](https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/)
+### 16. [Actively exploited Apache ActiveMQ flaw impacts 6,400 servers](https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Apr 2026 07:17:51 -0400  
@@ -133,7 +151,7 @@
 
 ---
 
-### 15. [Former ransomware negotiator pleads guilty to BlackCat attacks](https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/)
+### 17. [Former ransomware negotiator pleads guilty to BlackCat attacks](https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Apr 2026 06:12:21 -0400  
@@ -142,7 +160,7 @@
 
 ---
 
-### 16. [NGate Android malware uses HandyPay NFC app to steal card data](https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/)
+### 18. [NGate Android malware uses HandyPay NFC app to steal card data](https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 21 Apr 2026 05:00:00 -0400  
@@ -151,7 +169,7 @@
 
 ---
 
-### 17. [KelpDAO suffers $290 million heist tied to Lazarus hackers](https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/)
+### 19. [KelpDAO suffers $290 million heist tied to Lazarus hackers](https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 20 Apr 2026 18:23:52 -0400  
@@ -160,30 +178,12 @@
 
 ---
 
-### 18. [China's Apple App Store infiltrated by crypto-stealing wallet apps](https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/)
+### 20. [China's Apple App Store infiltrated by crypto-stealing wallet apps](https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 20 Apr 2026 17:52:54 -0400  
 **Severity:** Low  
 **Categories:** Malware, Phishing  
-
----
-
-### 19. [The Gentlemen ransomware now uses SystemBC for bot-powered attacks](https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 20 Apr 2026 16:02:37 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Malware, APT  
-
----
-
-### 20. [Seiko USA website defaced as hacker claims customer data theft](https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 20 Apr 2026 14:22:31 -0400  
-**Severity:** High  
-**Categories:** Ransomware, Data Breach  
 
 ---
 
@@ -201,7 +201,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -256,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-24291, CVE-2026-26110, CVE-2026-24289, CVE-2026-24294, CVE-2026-21262, CVE-2026-26127, CVE-2026-25187  
+**CVEs:** CVE-2026-21262, CVE-2026-26113, CVE-2026-26127, CVE-2026-24291, CVE-2026-26110, CVE-2026-24289, CVE-2026-24294, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -427,7 +427,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 20:27:56 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32157, CVE-2026-23666, CVE-2026-32190, CVE-2026-33114, CVE-2026-33826, CVE-2026-33824, CVE-2026-33115  
+**CVEs:** CVE-2026-33115, CVE-2026-33824, CVE-2026-32190, CVE-2026-33826, CVE-2026-33114, CVE-2026-32157, CVE-2026-23666  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -441,7 +441,16 @@
 
 ---
 
-### 51. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+### 51. [Emerging Enterprise Security Risks of AI](https://www.recordedfuture.com/research/emerging-enterprise-security-risks-of-ai)
+
+**Source:** Recorded Future  
+**Published:** Tue, 21 Apr 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
 
 **Source:** Recorded Future  
 **Published:** Fri, 17 Apr 2026 00:00:00 GMT  
@@ -450,7 +459,7 @@
 
 ---
 
-### 52. [4 Essential Integration Workflows for Operationalizing Threat Intelligence Recorded Future](https://www.recordedfuture.com/blog/4-essential-integration-workflows-for-operationalizing-threat-intelligence)
+### 53. [4 Essential Integration Workflows for Operationalizing Threat Intelligence Recorded Future](https://www.recordedfuture.com/blog/4-essential-integration-workflows-for-operationalizing-threat-intelligence)
 
 **Source:** Recorded Future  
 **Published:** Fri, 17 Apr 2026 00:00:00 GMT  
@@ -459,7 +468,7 @@
 
 ---
 
-### 53. [From Bazooka to Fake Nikes](https://www.recordedfuture.com/blog/from-bazooka-to-fake-nikes)
+### 54. [From Bazooka to Fake Nikes](https://www.recordedfuture.com/blog/from-bazooka-to-fake-nikes)
 
 **Source:** Recorded Future  
 **Published:** Thu, 16 Apr 2026 00:00:00 GMT  
@@ -468,7 +477,7 @@
 
 ---
 
-### 54. [Your Supply Chain Breach Is Someone Else's Payday](https://www.recordedfuture.com/blog/your-supply-chain-breach-is-someone-else-payday)
+### 55. [Your Supply Chain Breach Is Someone Else's Payday](https://www.recordedfuture.com/blog/your-supply-chain-breach-is-someone-else-payday)
 
 **Source:** Recorded Future  
 **Published:** Wed, 15 Apr 2026 00:00:00 GMT  
@@ -477,7 +486,7 @@
 
 ---
 
-### 55. [Iran War: Future Scenario and Business Implications](https://www.recordedfuture.com/research/iran-war-future-scenarios)
+### 56. [Iran War: Future Scenario and Business Implications](https://www.recordedfuture.com/research/iran-war-future-scenarios)
 
 **Source:** Recorded Future  
 **Published:** Tue, 14 Apr 2026 00:00:00 GMT  
@@ -486,7 +495,7 @@
 
 ---
 
-### 56. [A New Way to Buy Recorded Future: Solutions and Packages Built for the 2026 Threat Landscape](https://www.recordedfuture.com/blog/recorded-future-solutions-packages)
+### 57. [A New Way to Buy Recorded Future: Solutions and Packages Built for the 2026 Threat Landscape](https://www.recordedfuture.com/blog/recorded-future-solutions-packages)
 
 **Source:** Recorded Future  
 **Published:** Tue, 14 Apr 2026 00:00:00 GMT  
@@ -495,7 +504,7 @@
 
 ---
 
-### 57. [March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day](https://www.recordedfuture.com/blog/march-2026-cve-landscape)
+### 58. [March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day](https://www.recordedfuture.com/blog/march-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Mon, 13 Apr 2026 00:00:00 GMT  
@@ -504,7 +513,7 @@
 
 ---
 
-### 58. [VIP Credential Monitoring Blog](https://www.recordedfuture.com/blog/vip-credential-monitoring-blog)
+### 59. [VIP Credential Monitoring Blog](https://www.recordedfuture.com/blog/vip-credential-monitoring-blog)
 
 **Source:** Recorded Future  
 **Published:** Fri, 10 Apr 2026 00:00:00 GMT  
@@ -513,21 +522,12 @@
 
 ---
 
-### 59. [Third-Party Risk Is an Intelligence Operation. It's Time We Treated It Like One.](https://www.recordedfuture.com/blog/recorded-future-sees-its-inclusion-in-the-2026-forrester-wave)
+### 60. [Third-Party Risk Is an Intelligence Operation. It's Time We Treated It Like One.](https://www.recordedfuture.com/blog/recorded-future-sees-its-inclusion-in-the-2026-forrester-wave)
 
 **Source:** Recorded Future  
 **Published:** Thu, 09 Apr 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** Supply Chain  
-
----
-
-### 60. [Understanding and Anticipating Venezuelan Government Actions](https://www.recordedfuture.com/research/understanding-and-anticipating-venezuelan-government-actions)
-
-**Source:** Recorded Future  
-**Published:** Wed, 08 Apr 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** APT  
 
 ---
 
@@ -611,7 +611,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -716,7 +716,16 @@
 
 ---
 
-### 81. [Introducing the CrowdStrike Shadow AI Visibility Service](https://www.crowdstrike.com/en-us/blog/crowdstrike-shadow-AI-visibility-service/)
+### 81. [CrowdStrike Falcon Platform Achieves 441% ROI in Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-achieves-441-percent-roi-in-three-years/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Apr 21, 2026 00:00:00-0700  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [Introducing the CrowdStrike Shadow AI Visibility Service](https://www.crowdstrike.com/en-us/blog/crowdstrike-shadow-AI-visibility-service/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 21, 2026 00:00:00-0400  
@@ -725,7 +734,7 @@
 
 ---
 
-### 82. [Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.](https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/)
+### 83. [Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.](https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 20, 2026 00:00:00-0700  
@@ -734,7 +743,7 @@
 
 ---
 
-### 83. [Frontier AI for Defenders: CrowdStrike and OpenAI TAC](https://www.crowdstrike.com/en-us/blog/frontier-ai-for-defenders-crowdstrike-and-openai-tac/)
+### 84. [Frontier AI for Defenders: CrowdStrike and OpenAI TAC](https://www.crowdstrike.com/en-us/blog/frontier-ai-for-defenders-crowdstrike-and-openai-tac/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 16, 2026 00:00:00-0500  
@@ -743,7 +752,7 @@
 
 ---
 
-### 84. [April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/)
+### 85. [April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 14, 2026 00:00:00-0500  
@@ -752,7 +761,7 @@
 
 ---
 
-### 85. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
+### 86. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 06, 2026 00:00:00-0400  
@@ -761,7 +770,7 @@
 
 ---
 
-### 86. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
+### 87. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 05, 2026 00:00:00-0700  
@@ -770,7 +779,7 @@
 
 ---
 
-### 87. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
+### 88. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 01, 2026 00:00:00-0500  
@@ -779,7 +788,7 @@
 
 ---
 
-### 88. [Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management](https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/)
+### 89. [Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management](https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 01, 2026 00:00:00-0500  
@@ -788,22 +797,13 @@
 
 ---
 
-### 89. [Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse](https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/)
+### 90. [Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse](https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Mar 31, 2026 00:00:00-0500  
 **Severity:** Low  
 **CVEs:** CVE-2026-20929  
 **Categories:** Vulnerability  
-
----
-
-### 90. [How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem](https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Mar 25, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
