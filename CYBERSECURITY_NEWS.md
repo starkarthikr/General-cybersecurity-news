@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-23 03:54:33 UTC
+**Last Updated:** 2026-04-23 10:05:57 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain](https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html)
+### 1. [China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors](https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 23 Apr 2026 14:34:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Vercel Finds More Compromised Accounts in Context.ai-Linked Breach](https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 23 Apr 2026 14:10:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [Apple Patches iOS Flaw That Stored Deleted Signal Notifications in FBI Forensic Case](https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 23 Apr 2026 13:36:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-28950  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain](https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Apr 2026 23:25:00 +0530  
@@ -13,7 +41,7 @@
 
 ---
 
-### 2. [Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens](https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html)
+### 5. [Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens](https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Apr 2026 23:03:00 +0530  
@@ -22,7 +50,7 @@
 
 ---
 
-### 3. [Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API](https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html)
+### 6. [Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API](https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Apr 2026 20:58:00 +0530  
@@ -31,7 +59,7 @@
 
 ---
 
-### 4. [Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack](https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html)
+### 7. [Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack](https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Apr 2026 16:25:00 +0530  
@@ -40,7 +68,7 @@
 
 ---
 
-### 5. [Toxic Combinations: When Cross-App Permissions Stack into Risk](https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html)
+### 8. [Toxic Combinations: When Cross-App Permissions Stack into Risk](https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Apr 2026 16:11:36 +0530  
@@ -49,7 +77,7 @@
 
 ---
 
-### 6. [Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug](https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html)
+### 9. [Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug](https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Apr 2026 14:59:00 +0530  
@@ -59,7 +87,7 @@
 
 ---
 
-### 7. [Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles](https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html)
+### 10. [Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles](https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Apr 2026 13:28:00 +0530  
@@ -68,35 +96,7 @@
 
 ---
 
-### 8. [Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape](https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 22 Apr 2026 12:46:00 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-5752  
-**Categories:** Vulnerability  
-
----
-
-### 9. [SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation](https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 21 Apr 2026 23:48:00 +0530  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 10. [22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters](https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 21 Apr 2026 21:16:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Apple fixes iOS bug that retained deleted notification data](https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/)
+### 11. [Apple fixes bug that let the FBI recover deleted Signal messages](https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Apr 2026 16:58:58 -0400  
@@ -203,7 +203,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -258,7 +258,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24294, CVE-2026-26110, CVE-2026-24289, CVE-2026-21262, CVE-2026-24291, CVE-2026-26113, CVE-2026-26127, CVE-2026-25187  
+**CVEs:** CVE-2026-26113, CVE-2026-26110, CVE-2026-24294, CVE-2026-26127, CVE-2026-24291, CVE-2026-24289, CVE-2026-25187, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -281,73 +281,73 @@
 
 ---
 
-### 31. [After Bluesky, Mastodon Targeted in DDoS Attack](https://www.securityweek.com/after-bluesky-mastodon-targeted-in-ddos-attack/)
+### 31. [Apple Patches iOS Flaw Allowing Recovery of Deleted Chats](https://www.securityweek.com/apple-patches-ios-flaw-allowing-recovery-of-deleted-chats/)
+
+**Source:** Security Week  
+**Published:** Thu, 23 Apr 2026 08:50:19 +0000  
+
+---
+
+### 32. [Recent Microsoft Defender Vulnerability Exploited as Zero-Day](https://www.securityweek.com/recent-microsoft-defender-vulnerability-exploited-as-zero-day/)
+
+**Source:** Security Week  
+**Published:** Thu, 23 Apr 2026 08:00:36 +0000  
+
+---
+
+### 33. [After Bluesky, Mastodon Targeted in DDoS Attack](https://www.securityweek.com/after-bluesky-mastodon-targeted-in-ddos-attack/)
 
 **Source:** Security Week  
 **Published:** Wed, 22 Apr 2026 14:26:00 +0000  
 
 ---
 
-### 32. [Most Serious Cyberattacks Against the UK Now From Russia, Iran and China, Cyber Chief Says](https://www.securityweek.com/most-serious-cyberattacks-against-the-uk-now-from-russia-iran-and-china-cyber-chief-says/)
+### 34. [Most Serious Cyberattacks Against the UK Now From Russia, Iran and China, Cyber Chief Says](https://www.securityweek.com/most-serious-cyberattacks-against-the-uk-now-from-russia-iran-and-china-cyber-chief-says/)
 
 **Source:** Security Week  
 **Published:** Wed, 22 Apr 2026 12:57:01 +0000  
 
 ---
 
-### 33. [New Wiper Malware Targeted Venezuelan Energy Sector Prior to US Intervention](https://www.securityweek.com/new-wiper-malware-targeted-venezuelan-energy-sector-prior-to-us-intervention/)
+### 35. [New Wiper Malware Targeted Venezuelan Energy Sector Prior to US Intervention](https://www.securityweek.com/new-wiper-malware-targeted-venezuelan-energy-sector-prior-to-us-intervention/)
 
 **Source:** Security Week  
 **Published:** Wed, 22 Apr 2026 12:10:28 +0000  
 
 ---
 
-### 34. [Mirai Botnet Targets Flaw in Discontinued D-Link Routers](https://www.securityweek.com/mirai-botnet-targets-flaw-in-discontinued-d-link-routers/)
+### 36. [Mirai Botnet Targets Flaw in Discontinued D-Link Routers](https://www.securityweek.com/mirai-botnet-targets-flaw-in-discontinued-d-link-routers/)
 
 **Source:** Security Week  
 **Published:** Wed, 22 Apr 2026 11:44:07 +0000  
 
 ---
 
-### 35. [Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data](https://www.securityweek.com/are-sboms-failing-supply-chain-attacks-rise-as-security-teams-struggle-with-sbom-data/)
+### 37. [Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data](https://www.securityweek.com/are-sboms-failing-supply-chain-attacks-rise-as-security-teams-struggle-with-sbom-data/)
 
 **Source:** Security Week  
 **Published:** Wed, 22 Apr 2026 11:30:00 +0000  
 
 ---
 
-### 36. [Claude Mythos Finds 271 Firefox Vulnerabilities](https://www.securityweek.com/claude-mythos-finds-271-firefox-vulnerabilities/)
+### 38. [Claude Mythos Finds 271 Firefox Vulnerabilities](https://www.securityweek.com/claude-mythos-finds-271-firefox-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Wed, 22 Apr 2026 11:27:46 +0000  
 
 ---
 
-### 37. [North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks](https://www.securityweek.com/north-korean-hackers-use-applescript-clickfix-in-fresh-macos-attacks/)
+### 39. [North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks](https://www.securityweek.com/north-korean-hackers-use-applescript-clickfix-in-fresh-macos-attacks/)
 
 **Source:** Security Week  
 **Published:** Wed, 22 Apr 2026 10:49:52 +0000  
 
 ---
 
-### 38. [Google Antigravity in Crosshairs of Security Researchers, Cybercriminals](https://www.securityweek.com/google-antigravity-in-crosshairs-of-security-researchers-cybercriminals/)
+### 40. [Google Antigravity in Crosshairs of Security Researchers, Cybercriminals](https://www.securityweek.com/google-antigravity-in-crosshairs-of-security-researchers-cybercriminals/)
 
 **Source:** Security Week  
 **Published:** Wed, 22 Apr 2026 09:53:05 +0000  
-
----
-
-### 39. [Oracle Patches 450 Vulnerabilities With April 2026 CPU](https://www.securityweek.com/oracle-patches-450-vulnerabilities-with-april-2026-cpu/)
-
-**Source:** Security Week  
-**Published:** Wed, 22 Apr 2026 08:41:10 +0000  
-
----
-
-### 40. [Third US Security Expert Admits Helping Ransomware Gang](https://www.securityweek.com/third-us-security-expert-admits-helping-ransomware-gang/)
-
-**Source:** Security Week  
-**Published:** Tue, 21 Apr 2026 14:44:24 +0000  
 
 ---
 
@@ -438,7 +438,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 20:27:56 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32157, CVE-2026-33826, CVE-2026-33115, CVE-2026-23666, CVE-2026-33824, CVE-2026-33114, CVE-2026-32190  
+**CVEs:** CVE-2026-33826, CVE-2026-32157, CVE-2026-33114, CVE-2026-23666, CVE-2026-33115, CVE-2026-33824, CVE-2026-32190  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -628,7 +628,16 @@
 
 ---
 
-### 71. [Malicious trading website drops malware that hands your browser to attackers](https://www.malwarebytes.com/blog/threat-intel/2026/04/malicious-trading-website-drop-malware-that-hands-over-your-browser-to-attackers)
+### 71. [Roblox clamps down on chats and age checks as legal pressure builds](https://www.malwarebytes.com/blog/news/2026/04/roblox-clamps-down-on-chats-and-age-checks-as-legal-pressure-builds)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 23 Apr 2026 07:57:37 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [Malicious trading website drops malware that hands your browser to attackers](https://www.malwarebytes.com/blog/threat-intel/2026/04/malicious-trading-website-drop-malware-that-hands-over-your-browser-to-attackers)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 22 Apr 2026 12:30:02 GMT  
@@ -637,7 +646,7 @@
 
 ---
 
-### 72. [Researcher claims Claude Desktop installs “spyware” on macOS](https://www.malwarebytes.com/blog/news/2026/04/researcher-claims-claude-desktop-installs-spyware-on-macos)
+### 73. [Researcher claims Claude Desktop installs “spyware” on macOS](https://www.malwarebytes.com/blog/news/2026/04/researcher-claims-claude-desktop-installs-spyware-on-macos)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 22 Apr 2026 11:53:11 GMT  
@@ -646,7 +655,7 @@
 
 ---
 
-### 73. [Fake Google Antigravity downloads are stealing accounts in minutes](https://www.malwarebytes.com/blog/threat-intel/2026/04/fake-google-antigravity-downloads-are-stealing-accounts-in-minutes)
+### 74. [Fake Google Antigravity downloads are stealing accounts in minutes](https://www.malwarebytes.com/blog/threat-intel/2026/04/fake-google-antigravity-downloads-are-stealing-accounts-in-minutes)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 21 Apr 2026 14:04:51 GMT  
@@ -655,7 +664,7 @@
 
 ---
 
-### 74. [Real Apple notifications are being used to drive tech support scams](https://www.malwarebytes.com/blog/news/2026/04/real-apple-notifications-are-being-used-to-drive-tech-support-scams)
+### 75. [Real Apple notifications are being used to drive tech support scams](https://www.malwarebytes.com/blog/news/2026/04/real-apple-notifications-are-being-used-to-drive-tech-support-scams)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 21 Apr 2026 12:59:31 GMT  
@@ -664,7 +673,7 @@
 
 ---
 
-### 75. [Android 17 ends all-or-nothing access to your contacts](https://www.malwarebytes.com/blog/mobile/2026/04/android-17-ends-all-or-nothing-access-to-your-contacts)
+### 76. [Android 17 ends all-or-nothing access to your contacts](https://www.malwarebytes.com/blog/mobile/2026/04/android-17-ends-all-or-nothing-access-to-your-contacts)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 21 Apr 2026 10:12:27 GMT  
@@ -673,7 +682,7 @@
 
 ---
 
-### 76. [Big Tech can stop scams. They just don&#8217;t (Lock and Code S07E08)](https://www.malwarebytes.com/blog/podcast/2026/04/big-tech-can-stop-scams-they-just-dont-lock-and-code-s07e08)
+### 77. [Big Tech can stop scams. They just don&#8217;t (Lock and Code S07E08)](https://www.malwarebytes.com/blog/podcast/2026/04/big-tech-can-stop-scams-they-just-dont-lock-and-code-s07e08)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 20 Apr 2026 14:16:12 GMT  
@@ -682,7 +691,7 @@
 
 ---
 
-### 77. [Mythos: An AI tool too powerful for public release](https://www.malwarebytes.com/blog/news/2026/04/mythos-an-ai-tool-too-powerful-for-public-release)
+### 78. [Mythos: An AI tool too powerful for public release](https://www.malwarebytes.com/blog/news/2026/04/mythos-an-ai-tool-too-powerful-for-public-release)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 20 Apr 2026 13:54:02 GMT  
@@ -691,7 +700,7 @@
 
 ---
 
-### 78. [A week in security (April 13 &#8211; April 19)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-13-april-19)
+### 79. [A week in security (April 13 &#8211; April 19)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-13-april-19)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 20 Apr 2026 07:02:00 GMT  
@@ -700,7 +709,7 @@
 
 ---
 
-### 79. [This old-school scam is still working](https://www.malwarebytes.com/blog/news/2026/04/this-old-school-scam-is-still-working)
+### 80. [This old-school scam is still working](https://www.malwarebytes.com/blog/news/2026/04/this-old-school-scam-is-still-working)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 17 Apr 2026 14:34:17 GMT  
@@ -709,16 +718,25 @@
 
 ---
 
-### 80. [“Your shipment has arrived” email hides remote access software](https://www.malwarebytes.com/blog/news/2026/04/your-shipment-has-arrived-email-hides-remote-access-software)
+### 81. [CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/)
 
-**Source:** Malwarebytes  
-**Published:** Fri, 17 Apr 2026 07:40:03 GMT  
+**Source:** Crowdstrike Blog  
+**Published:** Apr 22, 2026 00:00:00-0500  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** General Security  
 
 ---
 
-### 81. [CrowdStrike Falcon Platform Achieves 441% ROI in Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-achieves-441-percent-roi-in-three-years/)
+### 82. [CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-cloud-security-delivers-264-percent-roi-through-unified-cloud-protection/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Apr 22, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 83. [CrowdStrike Falcon Platform Achieves 441% ROI in Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-achieves-441-percent-roi-in-three-years/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 21, 2026 00:00:00-0700  
@@ -727,7 +745,7 @@
 
 ---
 
-### 82. [Introducing the CrowdStrike Shadow AI Visibility Service](https://www.crowdstrike.com/en-us/blog/crowdstrike-shadow-AI-visibility-service/)
+### 84. [Introducing the CrowdStrike Shadow AI Visibility Service](https://www.crowdstrike.com/en-us/blog/crowdstrike-shadow-AI-visibility-service/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 21, 2026 00:00:00-0400  
@@ -736,7 +754,7 @@
 
 ---
 
-### 83. [Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.](https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/)
+### 85. [Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.](https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 20, 2026 00:00:00-0700  
@@ -745,7 +763,7 @@
 
 ---
 
-### 84. [Frontier AI for Defenders: CrowdStrike and OpenAI TAC](https://www.crowdstrike.com/en-us/blog/frontier-ai-for-defenders-crowdstrike-and-openai-tac/)
+### 86. [Frontier AI for Defenders: CrowdStrike and OpenAI TAC](https://www.crowdstrike.com/en-us/blog/frontier-ai-for-defenders-crowdstrike-and-openai-tac/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 16, 2026 00:00:00-0500  
@@ -754,7 +772,7 @@
 
 ---
 
-### 85. [April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/)
+### 87. [April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 14, 2026 00:00:00-0500  
@@ -763,7 +781,7 @@
 
 ---
 
-### 86. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
+### 88. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 06, 2026 00:00:00-0400  
@@ -772,7 +790,7 @@
 
 ---
 
-### 87. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
+### 89. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 05, 2026 00:00:00-0700  
@@ -781,31 +799,12 @@
 
 ---
 
-### 88. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
+### 90. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 01, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 89. [Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management](https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Apr 01, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse](https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Mar 31, 2026 00:00:00-0500  
-**Severity:** Low  
-**CVEs:** CVE-2026-20929  
-**Categories:** Vulnerability  
 
 ---
 

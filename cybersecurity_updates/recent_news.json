@@ -1,6 +1,62 @@
 [
   {
     "source": "The Hacker News",
+    "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
+    "link": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
+    "published": "Thu, 23 Apr 2026 14:34:00 +0530",
+    "summary": "Mongolian governmental institutions have emerged as the target of a previously undocumented China-aligned advanced persistent threat (APT) group tracked as GopherWhisper.\n\"The group wields a wide array of tools mostly written in Go, using injectors and loaders to deploy and execute various backdoors in its arsenal,\" Slovakian cybersecurity company ESET said in a report shared with The Hacker",
+    "analysis": {
+      "issue": "GopherWhisper infected 12 Mongolian government systems in January 2025, abusing Slack and Discord for C2, exposing wider espionage risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Vercel Finds More Compromised Accounts in Context.ai-Linked Breach",
+    "link": "https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html",
+    "published": "Thu, 23 Apr 2026 14:10:00 +0530",
+    "summary": "Vercel on Wednesday revealed that it has identified an additional set of customer accounts that were compromised as part of a security incident that enabled unauthorized access to its internal systems.\nThe company said it made the discovery after expanding its investigation to include an extra set of compromise indicators, alongside a review of requests to the Vercel network and environment",
+    "analysis": {
+      "issue": "Vercel uncovered additional compromised accounts after expanding its probe into a Context",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Apple Patches iOS Flaw That Stored Deleted Signal Notifications in FBI Forensic Case",
+    "link": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
+    "published": "Thu, 23 Apr 2026 13:36:00 +0530",
+    "summary": "Apple has rolled out a software fix for iOS and iPadOS to address a Notification Services flaw that stored notifications marked for deletion on the device.\nThe vulnerability, tracked as CVE-2026-28950 (CVSS score: N/A), has been described as a logging issue that has been addressed with improved data redaction.\n\"Notifications marked for deletion could be unexpectedly retained on the device,\"",
+    "analysis": {
+      "issue": "Apple fixes CVE-2026-28950 in iOS 26",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-28950"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
     "link": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
     "published": "Wed, 22 Apr 2026 23:25:00 +0530",
@@ -129,69 +185,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
-    "link": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html",
-    "published": "Wed, 22 Apr 2026 12:46:00 +0530",
-    "summary": "A critical security vulnerability has been disclosed in a Python-based sandbox called Terrarium that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2026-5752, is rated 9.3 on the CVSS scoring system.\n\"Sandbox escape vulnerability in Terrarium allows arbitrary code execution with root privileges on a host process via JavaScript prototype chain traversal,\" according to",
-    "analysis": {
-      "issue": "3 flaw in Terrarium enables root code execution via Pyodide prototype traversal, risking container escape",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-5752"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
-    "link": "https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html",
-    "published": "Tue, 21 Apr 2026 23:48:00 +0530",
-    "summary": "Threat actors associated with The Gentlemen ransomware‑as‑a‑service (RaaS) operation have been observed attempting to deploy a known proxy malware called SystemBC.\nAccording to new research published by Check Point, the command-and-control (C2 or C&amp;C) server linked to SystemBC has led to the discovery of a botnet of more than 1,570 victims.\n\"SystemBC establishes SOCKS5 network tunnels within",
-    "analysis": {
-      "issue": "SystemBC C2 exposed 1,570+ victims tied to The Gentlemen since July 2025, revealing expanding ransomware scale",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters",
-    "link": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html",
-    "published": "Tue, 21 Apr 2026 21:16:00 +0530",
-    "summary": "Cybersecurity researchers have identified 22 new vulnerabilities in popular models of serial-to-IP converters from Lantronix and Silex that could be exploited to hijack susceptible devices and tamper with data exchanged by them.\nThe vulnerabilities have been collectively codenamed BRIDGE:BREAK by Forescout Research Vedere Labs, which identified nearly 20,000 Serial-to-Ethernet converters exposed",
-    "analysis": {
-      "issue": "22 BRIDGE:BREAK flaws in Lantronix and Silex converters expose nearly 20,000 devices online, enabling takeover and data tampering",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
-    "title": "Apple fixes iOS bug that retained deleted notification data",
+    "title": "Apple fixes bug that let the FBI recover deleted Signal messages",
     "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
     "published": "Wed, 22 Apr 2026 16:58:58 -0400",
     "summary": "Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device. [...]",
     "analysis": {
-      "issue": "Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device",
+      "issue": "Article updated with statement from Signal thanking Apple for addressing the vulnerability",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -405,8 +405,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
         "CVE-2026-34621",
+        "CVE-2026-33825",
         "CVE-2026-32201"
       ],
       "threat_categories": [
@@ -524,14 +524,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24294",
-        "CVE-2026-26110",
-        "CVE-2026-24289",
-        "CVE-2026-21262",
-        "CVE-2026-24291",
         "CVE-2026-26113",
+        "CVE-2026-26110",
+        "CVE-2026-24294",
         "CVE-2026-26127",
-        "CVE-2026-25187"
+        "CVE-2026-24291",
+        "CVE-2026-24289",
+        "CVE-2026-25187",
+        "CVE-2026-21262"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -577,6 +577,20 @@
         "DDoS"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Apple Patches iOS Flaw Allowing Recovery of Deleted Chats",
+    "link": "https://www.securityweek.com/apple-patches-ios-flaw-allowing-recovery-of-deleted-chats/",
+    "published": "Thu, 23 Apr 2026 08:50:19 +0000",
+    "summary": "<p>Apple rolled out the security patches for dozens of iPhone and iPad models and generations.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-patches-ios-flaw-allowing-recovery-of-deleted-chats/\">Apple Patches iOS Flaw Allowing Recovery of Deleted Chats</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Recent Microsoft Defender Vulnerability Exploited as Zero-Day",
+    "link": "https://www.securityweek.com/recent-microsoft-defender-vulnerability-exploited-as-zero-day/",
+    "published": "Thu, 23 Apr 2026 08:00:36 +0000",
+    "summary": "<p>The flaw allows attackers to access the SAM database, extract NTLM hashes, and gain System privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-microsoft-defender-vulnerability-exploited-as-zero-day/\">Recent Microsoft Defender Vulnerability Exploited as Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -633,20 +647,6 @@
     "link": "https://www.securityweek.com/google-antigravity-in-crosshairs-of-security-researchers-cybercriminals/",
     "published": "Wed, 22 Apr 2026 09:53:05 +0000",
     "summary": "<p>Researchers discovered a remote code execution vulnerability and cybercriminals are using its reputation to deliver malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-antigravity-in-crosshairs-of-security-researchers-cybercriminals/\">Google Antigravity in Crosshairs of Security Researchers, Cybercriminals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Oracle Patches 450 Vulnerabilities With April 2026 CPU",
-    "link": "https://www.securityweek.com/oracle-patches-450-vulnerabilities-with-april-2026-cpu/",
-    "published": "Wed, 22 Apr 2026 08:41:10 +0000",
-    "summary": "<p>The company released 481 new security patches across 28 product families, including over 300 fixes for remotely exploitable, unauthenticated flaws.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-patches-450-vulnerabilities-with-april-2026-cpu/\">Oracle Patches 450 Vulnerabilities With April 2026 CPU</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Third US Security Expert Admits Helping Ransomware Gang",
-    "link": "https://www.securityweek.com/third-us-security-expert-admits-helping-ransomware-gang/",
-    "published": "Tue, 21 Apr 2026 14:44:24 +0000",
-    "summary": "<p>Angelo Martino of Florida has pleaded guilty to collaborating with the BlackCat cybercrime group while working as a ransomware negotiator.</p>\n<p>The post <a href=\"https://www.securityweek.com/third-us-security-expert-admits-helping-ransomware-gang/\">Third US Security Expert Admits Helping Ransomware Gang</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -836,12 +836,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32157",
         "CVE-2026-33826",
-        "CVE-2026-33115",
-        "CVE-2026-23666",
-        "CVE-2026-33824",
+        "CVE-2026-32157",
         "CVE-2026-33114",
+        "CVE-2026-23666",
+        "CVE-2026-33115",
+        "CVE-2026-33824",
         "CVE-2026-32190"
       ],
       "threat_categories": [
@@ -1230,6 +1230,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Roblox clamps down on chats and age checks as legal pressure builds",
+    "link": "https://www.malwarebytes.com/blog/news/2026/04/roblox-clamps-down-on-chats-and-age-checks-as-legal-pressure-builds",
+    "published": "Thu, 23 Apr 2026 07:57:37 GMT",
+    "summary": "Roblox is paying millions to settle child safety claims while rolling out strict age checks and chat limits that could reshape how kids use the platform.",
+    "analysis": {
+      "issue": "Roblox has long faced criticism over child safety on its platform",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Malicious trading website drops malware that hands your browser to attackers",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/04/malicious-trading-website-drop-malware-that-hands-over-your-browser-to-attackers",
     "published": "Wed, 22 Apr 2026 12:30:02 GMT",
@@ -1394,20 +1412,38 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "“Your shipment has arrived” email hides remote access software",
-    "link": "https://www.malwarebytes.com/blog/news/2026/04/your-shipment-has-arrived-email-hides-remote-access-software",
-    "published": "Fri, 17 Apr 2026 07:40:03 GMT",
-    "summary": "This DHL-themed email tries to get recipients to install remote access software attackers can use to deploy further malware, including ransomware.",
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/",
+    "published": "Apr 22, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "An attachment in an email impersonating DHL about a shipment contains a link to a preconfigured SimpleHelp remote access tool—an ideal starting point for attackers to explore a network, steal data, and drop additional malware",
+      "issue": "CrowdStrike expands cloud runtime security leadership and enables defenders to stop cloud breaches in seconds",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-cloud-security-delivers-264-percent-roi-through-unified-cloud-protection/",
+    "published": "Apr 22, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "A Forrester TEI study revealed measurable benefits of unifying CSPM and runtime protection with CrowdStrike",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1552,44 +1588,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/",
-    "published": "Apr 01, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Falcon for IT brings precision and control with the Windows Secure Boot Certificate Lifecycle Management content pack",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse",
-    "link": "https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/",
-    "published": "Mar 31, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn how to detect CVE-2026-20929, a Kerberos relay vulnerability using DNS CNAME abuse, with CrowdStrike Falcon to identify AD CS certificate-based attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-20929"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   }
