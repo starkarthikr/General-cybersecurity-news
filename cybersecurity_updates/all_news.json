@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
+    "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
+    "published": "Thu, 23 Apr 2026 17:33:00 +0530",
+    "summary": "Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly.\nWell, that world is already here.\nThanks to AI, attackers are now launching automated, large-scale exploits faster than ever before. The time you have to fix a vulnerability before it gets attacked is shrinking to zero. We call this the Collapsing Exploit Window, and it means your",
+    "analysis": {
+      "issue": "AI-driven attacks collapse exploit windows, widening the patch gap and forcing faster vulnerability prioritization strategies",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
+    "link": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
+    "published": "Thu, 23 Apr 2026 17:00:00 +0530",
+    "summary": "Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the company has given access to Apple, Microsoft, Google, Amazon, and a coalition of others to find and patch bugs before adversaries can.\nMythos Preview, the model that led to Project Glasswing, found",
+    "analysis": {
+      "issue": "Mythos found decades-old vulnerabilities, yet fewer than 1% were patched, exposing a remediation gap",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
     "link": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
     "published": "Thu, 23 Apr 2026 14:34:00 +0530",
@@ -37,7 +73,7 @@
   },
   {
     "source": "The Hacker News",
-    "title": "Apple Patches iOS Flaw That Stored Deleted Signal Notifications in FBI Forensic Case",
+    "title": "Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages",
     "link": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
     "published": "Thu, 23 Apr 2026 13:36:00 +0530",
     "summary": "Apple has rolled out a software fix for iOS and iPadOS to address a Notification Services flaw that stored notifications marked for deletion on the device.\nThe vulnerability, tracked as CVE-2026-28950 (CVSS score: N/A), has been described as a logging issue that has been addressed with improved data redaction.\n\"Notifications marked for deletion could be unexpectedly retained on the device,\"",
@@ -147,33 +183,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
-    "link": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
-    "published": "Wed, 22 Apr 2026 14:59:00 +0530",
-    "summary": "Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges.\nThe vulnerability, tracked as CVE-2026-40372, carries a CVSS score of 9.1 out of 10.0. It's rated Important in severity. An anonymous researcher has been credited with discovering and reporting the flaw.\n\"Improper verification of cryptographic",
+    "source": "Bleeping Computer",
+    "title": "Microsoft: Some Teams users can’t join meetings after Edge update",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/",
+    "published": "Thu, 23 Apr 2026 09:18:10 -0400",
+    "summary": "Microsoft confirmed that a recent Microsoft Edge browser update introduced a bug that prevents Windows users from joining Teams meetings. [...]",
     "analysis": {
-      "issue": "1 due to cryptographic flaw in ASP",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-40372"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
-    "link": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
-    "published": "Wed, 22 Apr 2026 13:28:00 +0530",
-    "summary": "Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector.\n\"The backdoor communicates with a dynamic DNS-based command-and-control server over HTTPS and supports remote shell access, file operations, and session management, indicating a continued espionage-focused capability set rather than",
-    "analysis": {
-      "issue": "Updated LOTUSLITE targets India banking sector via CHM and DLL side-loading, expanding espionage campaign to South Korea and U",
+      "issue": "Microsoft confirmed that a recent Microsoft Edge browser update introduced a bug that prevents Windows users from joining Teams meetings",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -181,6 +197,64 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "UK warns of Chinese hackers using proxy networks to evade detection",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
+    "published": "Thu, 23 Apr 2026 08:28:39 -0400",
+    "summary": "The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices to evade detection and disguise their malicious activity. [...]",
+    "analysis": {
+      "issue": "The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices to evade detection and disguise their malicious ac",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New GopherWhisper APT group abuses Outlook, Slack, Discord for comms",
+    "link": "https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/",
+    "published": "Thu, 23 Apr 2026 08:06:18 -0400",
+    "summary": "A previously undocumented state-backed threat actor named GopherWhisper is using a Go-based custom toolkit and legitimate services like Microsoft 365 Outlook, Slack, and Discord in attacks against government entities. [...]",
+    "analysis": {
+      "issue": "A previously undocumented state-backed threat actor named GopherWhisper is using a Go-based custom toolkit and legitimate services like Microsoft 365 Outlook, Slack, and Discord in attacks against government entities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
+    "published": "Thu, 23 Apr 2026 07:05:57 -0400",
+    "summary": "CISA has ordered U.S. federal agencies to patch a Microsoft Defender privilege escalation flaw (dubbed BlueHammer) that has been exploited in zero-day attacks. [...]",
+    "analysis": {
+      "issue": "government agencies two weeks to secure their Windows systems against a Microsoft Defender privilege escalation vulnerability that has been exploited in zero-day attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-33825"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -300,80 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Teams to get efficiency mode on PCs with limited resources",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/",
-    "published": "Wed, 22 Apr 2026 08:24:38 -0400",
-    "summary": "Microsoft is preparing to roll out a new Efficiency Mode for Microsoft Teams for systems with limited CPU and memory resources to improve app responsiveness. [...]",
-    "analysis": {
-      "issue": "Microsoft is preparing to roll out a new Efficiency Mode for Microsoft Teams for systems with limited CPU and memory resources to improve app responsiveness",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft traces Universal Print issues to Graph API code change",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/",
-    "published": "Wed, 22 Apr 2026 06:15:09 -0400",
-    "summary": "Microsoft says that an ongoing Universal Print sharing issue that prevents users from creating some printer shares is due to a Microsoft Graph API code change. [...]",
-    "analysis": {
-      "issue": "Microsoft says that an ongoing Universal Print sharing issue that prevents users from creating some printer shares is due to a Microsoft Graph API code change",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New GoGra malware for Linux uses Microsoft Graph API for comms",
-    "link": "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/",
-    "published": "Wed, 22 Apr 2026 06:00:00 -0400",
-    "summary": "A Linux variant of the GoGra backdoor uses legitimate Microsoft infrastructure, relying on an Outlook inbox for stealthy payload delivery. [...]",
-    "analysis": {
-      "issue": "A Linux variant of the GoGra backdoor uses legitimate Microsoft infrastructure, relying on an Outlook inbox for stealthy payload delivery",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft releases emergency patches for critical ASP.NET flaw",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/",
-    "published": "Wed, 22 Apr 2026 04:08:16 -0400",
-    "summary": "Microsoft has released out-of-band (OOB) security updates to patch a critical ASP.NET Core privilege escalation vulnerability. [...]",
-    "analysis": {
-      "issue": "Microsoft has released out-of-band (OOB) security updates to patch a critical ASP",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-40372"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
     "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
@@ -405,9 +405,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-32201",
         "CVE-2026-34621",
-        "CVE-2026-33825",
-        "CVE-2026-32201"
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -524,14 +524,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-24289",
+        "CVE-2026-24294",
         "CVE-2026-26113",
         "CVE-2026-26110",
-        "CVE-2026-24294",
         "CVE-2026-26127",
         "CVE-2026-24291",
-        "CVE-2026-24289",
-        "CVE-2026-25187",
-        "CVE-2026-21262"
+        "CVE-2026-21262",
+        "CVE-2026-25187"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -580,6 +580,41 @@
   },
   {
     "source": "Security Week",
+    "title": "Chinese Cybersecurity Firm’s AI Hacking Claims Draw Comparisons to Claude Mythos",
+    "link": "https://www.securityweek.com/chinese-cybersecurity-firms-ai-hacking-claims-draw-comparisons-to-claude-mythos/",
+    "published": "Thu, 23 Apr 2026 12:36:45 +0000",
+    "summary": "<p>360 Digital Security Group claims to have uncovered 1,000 vulnerabilities using AI, including at the Tianfu Cup hacking contest.</p>\n<p>The post <a href=\"https://www.securityweek.com/chinese-cybersecurity-firms-ai-hacking-claims-draw-comparisons-to-claude-mythos/\">Chinese Cybersecurity Firm&#8217;s AI Hacking Claims Draw Comparisons to Claude Mythos</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Rilian Raises $17.5 Million for AI-Native Security Orchestration",
+    "link": "https://www.securityweek.com/rilian-raises-17-5-million-for-ai-native-security-orchestration/",
+    "published": "Thu, 23 Apr 2026 11:45:30 +0000",
+    "summary": "<p>The company will hire new talent and expand operations across the US and other allied countries.</p>\n<p>The post <a href=\"https://www.securityweek.com/rilian-raises-17-5-million-for-ai-native-security-orchestration/\">Rilian Raises $17.5 Million for AI-Native Security Orchestration</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface",
+    "link": "https://www.securityweek.com/the-behavioral-shift-why-trusted-relationships-are-the-newest-attack-surface/",
+    "published": "Thu, 23 Apr 2026 11:06:44 +0000",
+    "summary": "<p>New analysis from Abnormal AI reveals how attackers have abandoned technical exploits to weaponize routine workflows and internal trust.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-behavioral-shift-why-trusted-relationships-are-the-newest-attack-surface/\">The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "Luxury Cosmetics Giant Rituals Discloses Data Breach",
+    "link": "https://www.securityweek.com/luxury-cosmetics-giant-rituals-discloses-data-breach/",
+    "published": "Thu, 23 Apr 2026 11:04:51 +0000",
+    "summary": "<p>The company is notifying My Rituals members that hackers downloaded part of their data, including names and addresses.</p>\n<p>The post <a href=\"https://www.securityweek.com/luxury-cosmetics-giant-rituals-discloses-data-breach/\">Luxury Cosmetics Giant Rituals Discloses Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
+    "title": "AI Can Autonomously Hack Cloud Systems With Minimal Oversight: Researchers",
+    "link": "https://www.securityweek.com/ai-can-autonomously-hack-cloud-systems-with-minimal-oversight-researchers/",
+    "published": "Thu, 23 Apr 2026 10:09:40 +0000",
+    "summary": "<p>Palo Alto Networks has developed Zealot, a multi-agent penetration testing PoC capable of reconnaissance, exploitation, and exfiltration. </p>\n<p>The post <a href=\"https://www.securityweek.com/ai-can-autonomously-hack-cloud-systems-with-minimal-oversight-researchers/\">AI Can Autonomously Hack Cloud Systems With Minimal Oversight: Researchers </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+  },
+  {
+    "source": "Security Week",
     "title": "Apple Patches iOS Flaw Allowing Recovery of Deleted Chats",
     "link": "https://www.securityweek.com/apple-patches-ios-flaw-allowing-recovery-of-deleted-chats/",
     "published": "Thu, 23 Apr 2026 08:50:19 +0000",
@@ -612,41 +647,6 @@
     "link": "https://www.securityweek.com/new-wiper-malware-targeted-venezuelan-energy-sector-prior-to-us-intervention/",
     "published": "Wed, 22 Apr 2026 12:10:28 +0000",
     "summary": "<p>Dubbed Lotus Wiper, the malware targets recovery mechanisms, overwrites drives, and systematically deletes files.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-wiper-malware-targeted-venezuelan-energy-sector-prior-to-us-intervention/\">New Wiper Malware Targeted Venezuelan Energy Sector Prior to US Intervention </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Mirai Botnet Targets Flaw in Discontinued D-Link Routers",
-    "link": "https://www.securityweek.com/mirai-botnet-targets-flaw-in-discontinued-d-link-routers/",
-    "published": "Wed, 22 Apr 2026 11:44:07 +0000",
-    "summary": "<p>The exploitation of the command injection vulnerability started one year after public disclosure and PoC exploit code publication.</p>\n<p>The post <a href=\"https://www.securityweek.com/mirai-botnet-targets-flaw-in-discontinued-d-link-routers/\">Mirai Botnet Targets Flaw in Discontinued D-Link Routers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data",
-    "link": "https://www.securityweek.com/are-sboms-failing-supply-chain-attacks-rise-as-security-teams-struggle-with-sbom-data/",
-    "published": "Wed, 22 Apr 2026 11:30:00 +0000",
-    "summary": "<p>Researcher says the missing piece is a governance-driven intelligence layer that turns SBOM and VEX data into explainable security decisions.</p>\n<p>The post <a href=\"https://www.securityweek.com/are-sboms-failing-supply-chain-attacks-rise-as-security-teams-struggle-with-sbom-data/\">Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Claude Mythos Finds 271 Firefox Vulnerabilities",
-    "link": "https://www.securityweek.com/claude-mythos-finds-271-firefox-vulnerabilities/",
-    "published": "Wed, 22 Apr 2026 11:27:46 +0000",
-    "summary": "<p>All the flaws could have also been found by an elite human researcher, according to Mozilla.</p>\n<p>The post <a href=\"https://www.securityweek.com/claude-mythos-finds-271-firefox-vulnerabilities/\">Claude Mythos Finds 271 Firefox Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks",
-    "link": "https://www.securityweek.com/north-korean-hackers-use-applescript-clickfix-in-fresh-macos-attacks/",
-    "published": "Wed, 22 Apr 2026 10:49:52 +0000",
-    "summary": "<p>The campaigns focus on financial organizations, including cryptocurrency, venture capital, and blockchain entities.</p>\n<p>The post <a href=\"https://www.securityweek.com/north-korean-hackers-use-applescript-clickfix-in-fresh-macos-attacks/\">North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
-  },
-  {
-    "source": "Security Week",
-    "title": "Google Antigravity in Crosshairs of Security Researchers, Cybercriminals",
-    "link": "https://www.securityweek.com/google-antigravity-in-crosshairs-of-security-researchers-cybercriminals/",
-    "published": "Wed, 22 Apr 2026 09:53:05 +0000",
-    "summary": "<p>Researchers discovered a remote code execution vulnerability and cybercriminals are using its reputation to deliver malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-antigravity-in-crosshairs-of-security-researchers-cybercriminals/\">Google Antigravity in Crosshairs of Security Researchers, Cybercriminals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Talos Blog",
@@ -836,13 +836,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33826",
         "CVE-2026-32157",
-        "CVE-2026-33114",
+        "CVE-2026-33826",
+        "CVE-2026-33824",
         "CVE-2026-23666",
         "CVE-2026-33115",
-        "CVE-2026-33824",
-        "CVE-2026-32190"
+        "CVE-2026-32190",
+        "CVE-2026-33114"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1199,8 +1199,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1222,6 +1222,26 @@
       "severity": "Critical",
       "cves": [
         "CVE-2022-2856"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Apple fixes iOS bug that kept deleted notifications, including chat previews",
+    "link": "https://www.malwarebytes.com/blog/news/2026/04/apple-fixes-ios-bug-that-kept-deleted-notifications-including-chat-previews",
+    "published": "Thu, 23 Apr 2026 10:27:32 GMT",
+    "summary": "A vulnerability in iPhones and iPads allowed law enforcement to recover deleted notifications, including Signal message previews.",
+    "analysis": {
+      "issue": "Apple has released a software update that deals with an issue that could allow deleted notifications to be retrieved",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-28950"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1383,24 +1403,6 @@
     "summary": "A list of topics we covered in the week of April 13 to April 19 of 2026",
     "analysis": {
       "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "This old-school scam is still working",
-    "link": "https://www.malwarebytes.com/blog/news/2026/04/this-old-school-scam-is-still-working",
-    "published": "Fri, 17 Apr 2026 14:34:17 GMT",
-    "summary": "We sent Tess to investigate a classic Nigerian advance-fee scam with a new twist. Sadly, these old scams are still in play because they work.",
-    "analysis": {
-      "issue": "When we read about this new malware tactic, or that novel social engineering approach, it’s easy to forget that there are scammers out there making a living from ancient methods",
       "solution": null,
       "cause": null,
       "timeline": null,
