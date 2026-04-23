@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+    "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
+    "published": "Thu, 23 Apr 2026 19:12:00 +0530",
+    "summary": "Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from JFrog and Socket.\n\"The affected package version appears to be @bitwarden/cli@2026.4.0, and the malicious code was published in 'bw1.js,' a file included in the package contents,\" the application security company said.\n\"The attack appears to have leveraged",
+    "analysis": {
+      "issue": "0 was compromised via GitHub Actions in Checkmarx campaign, exposing secrets and distributing malicious npm code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
+    "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
+    "published": "Thu, 23 Apr 2026 18:47:00 +0530",
+    "summary": "You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes. Same bugs. Same mistakes.\nThe supply chain is messy. Packages you did not check are stealing data, adding backdoors, and spreading. Attacking the systems behind apps is easier than breaking the apps themselves. The exploits are simple but still work",
+    "analysis": {
+      "issue": "ThreatsDay Bulletin: active exploits, supply chain attacks, AI abuse, and stealth data risks observed this week",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
     "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
     "published": "Thu, 23 Apr 2026 17:33:00 +0530",
@@ -146,39 +183,59 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
-    "link": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
-    "published": "Wed, 22 Apr 2026 16:25:00 +0530",
-    "summary": "Cybersecurity researchers have discovered a previously undocumented data wiper that has been used in attacks targeting Venezuela at the end of last year and the start of 2026.\nDubbed Lotus Wiper, the novel file wiper has been used in a destructive campaign targeting the energy and utilities sector in Venezuela, per findings from Kaspersky.\n\"Two batch scripts are responsible for initiating the",
+    "source": "Bleeping Computer",
+    "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
+    "link": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
+    "published": "Thu, 23 Apr 2026 12:05:12 -0400",
+    "summary": "Hackers have compromised Docker images, VSCode and Open VSX extensions for the Checkmarx KICS analysis tool to harvest sensitive data from developer environments. [...]",
     "analysis": {
-      "issue": "Lotus Wiper hit Venezuela’s energy sector in late 2025, exploiting pre-Windows 10 1803 systems, wiping drives and crippling operations",
+      "issue": "Hackers have compromised Docker images, VSCode and Open VSX extensions for the Checkmarx KICS analysis tool to harvest sensitive data from developer environments",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Malware"
+        "Malware",
+        "Phishing"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Toxic Combinations: When Cross-App Permissions Stack into Risk",
-    "link": "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html",
-    "published": "Wed, 22 Apr 2026 16:11:36 +0530",
-    "summary": "On January 31, 2026, researchers disclosed that Moltbook, a social network built for AI agents, had left its database wide open, exposing 35,000 email addresses and 1.5 million agent API tokens across 770,000 active agents.\nThe more worrying part sat inside the private messages. Some of those conversations held plaintext third-party credentials, including OpenAI API keys shared between agents,",
+    "source": "Bleeping Computer",
+    "title": "Cosmetics giant Rituals discloses data breach affecting customers",
+    "link": "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/",
+    "published": "Thu, 23 Apr 2026 10:16:21 -0400",
+    "summary": "Dutch cosmetics giant Rituals disclosed a data breach after attackers stole the personal information of an undisclosed number of customers from its \"My Rituals\" membership database. [...]",
     "analysis": {
-      "issue": "Toxic combinations form when AI agents, integrations, or OAuth grants\nbridge SaaS apps into trust relationships no single admin authorized",
+      "issue": "Dutch cosmetics giant Rituals disclosed a data breach after attackers stole the personal information of an undisclosed number of customers from its \"My Rituals\" membership database",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Regular Password Resets Aren’t as Safe as You Think",
+    "link": "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/",
+    "published": "Thu, 23 Apr 2026 10:10:20 -0400",
+    "summary": "Password resets are one of the easiest ways for attackers to bypass security controls. Specops Software shows how helpdesk social engineering turns a seemingly legitimate reset request into full account compromise. [...]",
+    "analysis": {
+      "issue": "Research from Forrester estimates that every password reset costs around $70",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -318,62 +375,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Spain dismantles major $4.7M manga piracy platform, arrests four",
-    "link": "https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/",
-    "published": "Wed, 22 Apr 2026 11:06:34 -0400",
-    "summary": "The Spanish police have dismantled the largest Spanish-language manga piracy platform, operating since 2014, with millions of monthly users from around the globe. [...]",
-    "analysis": {
-      "issue": "The Spanish police have dismantled what they claim is the largest Spanish-language manga piracy platform, operating since 2014 and serving millions of monthly users worldwide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process",
-    "link": "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/",
-    "published": "Wed, 22 Apr 2026 10:01:11 -0400",
-    "summary": "Fraud operations now operate like call centers, complete with hiring, training, and performance tracking. Flare reveals how cybercriminals manage \"Caller-as-a-Service\" operations like a professional sales team. [...]",
-    "analysis": {
-      "issue": "Fraudulent phone calls have become a daily reality for millions of people worldwide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New npm supply-chain attack self-spreads to steal auth tokens",
-    "link": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
-    "published": "Wed, 22 Apr 2026 08:57:42 -0400",
-    "summary": "A new supply chain attack targeting the Node Package Manager (npm) ecosystem is stealing developer credentials and attempting to spread through packages published from compromised accounts. [...]",
-    "analysis": {
-      "issue": "A new supply chain attack targeting the Node Package Manager (npm) ecosystem is stealing developer credentials and attempting to spread through packages published from compromised accounts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
     "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
@@ -405,8 +406,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-34621",
+        "CVE-2026-32201",
         "CVE-2026-33825"
       ],
       "threat_categories": [
@@ -525,13 +526,13 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-24289",
-        "CVE-2026-24294",
         "CVE-2026-26113",
-        "CVE-2026-26110",
-        "CVE-2026-26127",
+        "CVE-2026-24294",
         "CVE-2026-24291",
+        "CVE-2026-26127",
+        "CVE-2026-25187",
         "CVE-2026-21262",
-        "CVE-2026-25187"
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -577,6 +578,13 @@
         "DDoS"
       ]
     }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cloudsmith Raises $72 Million in Series C Funding",
+    "link": "https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/",
+    "published": "Thu, 23 Apr 2026 15:03:59 +0000",
+    "summary": "<p>The company will use the investment to accelerate product development and grow go-to-market efforts.</p>\n<p>The post <a href=\"https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/\">Cloudsmith Raises $72 Million in Series C Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
     "source": "Security Week",
@@ -642,11 +650,26 @@
     "summary": "<p>British businesses need to prepare themselves to defend against cyberattacks because the U.K. could be targeted “at scale,” if it became involved in an international conflict.</p>\n<p>The post <a href=\"https://www.securityweek.com/most-serious-cyberattacks-against-the-uk-now-from-russia-iran-and-china-cyber-chief-says/\">Most Serious Cyberattacks Against the UK Now From Russia, Iran and China, Cyber Chief Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
   },
   {
-    "source": "Security Week",
-    "title": "New Wiper Malware Targeted Venezuelan Energy Sector Prior to US Intervention",
-    "link": "https://www.securityweek.com/new-wiper-malware-targeted-venezuelan-energy-sector-prior-to-us-intervention/",
-    "published": "Wed, 22 Apr 2026 12:10:28 +0000",
-    "summary": "<p>Dubbed Lotus Wiper, the malware targets recovery mechanisms, overwrites drives, and systematically deletes files.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-wiper-malware-targeted-venezuelan-energy-sector-prior-to-us-intervention/\">New Wiper Malware Targeted Venezuelan Energy Sector Prior to US Intervention </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>"
+    "source": "Talos Blog",
+    "title": "UAT-4356's Targeting of Cisco Firepower Devices",
+    "link": "https://blog.talosintelligence.com/uat-4356-firestarter/",
+    "published": "Thu, 23 Apr 2026 15:10:57 GMT",
+    "summary": "Cisco Talos is aware of UAT-4356's continued active targeting of Cisco Firepower devices’ Firepower eXtensible Operating System (FXOS). UAT-4356 exploited n-day vulnerabilities (CVE-2025-20333 and CVE-2025-20362) to gain unauthorized access to vulnerable devices.",
+    "analysis": {
+      "issue": "Cisco Talos is aware of UAT-4356's continued active targeting of Cisco Firepower devices’ Firepower eXtensible Operating System (FXOS)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-20333",
+        "CVE-2025-20362"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
   },
   {
     "source": "Talos Blog",
@@ -824,29 +847,38 @@
     }
   },
   {
-    "source": "Talos Blog",
-    "title": "Microsoft Patch Tuesday for April 2026 - Snort Rule and Prominent Vulnerabilities",
-    "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-april-2026/",
-    "published": "Tue, 14 Apr 2026 20:27:56 GMT",
-    "summary": "Overview of patch tuesday release from Microsoft for April 2026.",
+    "source": "Recorded Future",
+    "title": "Critical minerals and cyber operations",
+    "link": "https://www.recordedfuture.com/research/critical-minerals-and-cyber-operations",
+    "published": "Thu, 23 Apr 2026 00:00:00 GMT",
+    "summary": "Learn how critical minerals and rare earth elements (REEs) are evolving from commodities into strategic flashpoints. Explore the geopolitical risks of China’s refining dominance, the race for resources in the Arctic and space, and the rising threat of state-sponsored cyber operations targeting the global mining sector.",
     "analysis": {
-      "issue": "Microsoft has released its monthly security update for April 2026, which includes 165 vulnerabilities affecting a wide range of products, including eight Microsoft marked as “critical",
+      "issue": "Learn how critical minerals and rare earth elements (REEs) are evolving from commodities into strategic flashpoints",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [
-        "CVE-2026-32157",
-        "CVE-2026-33826",
-        "CVE-2026-33824",
-        "CVE-2026-23666",
-        "CVE-2026-33115",
-        "CVE-2026-32190",
-        "CVE-2026-33114"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "DDoS"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Today, trust is the superpower that makes innovation possible",
+    "link": "https://www.recordedfuture.com/blog/trust-is-a-superpower",
+    "published": "Thu, 23 Apr 2026 00:00:00 GMT",
+    "summary": "How better intelligence and collaboration can unlock new opportunities for growth and greater financial health for more people.",
+    "analysis": {
+      "issue": "How better intelligence and collaboration can unlock new opportunities for growth and greater financial health for more people",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -992,43 +1024,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "A New Way to Buy Recorded Future: Solutions and Packages Built for the 2026 Threat Landscape",
-    "link": "https://www.recordedfuture.com/blog/recorded-future-solutions-packages",
-    "published": "Tue, 14 Apr 2026 00:00:00 GMT",
-    "summary": "Recorded Future is rolling out new pricing and packaging that bundles its intelligence capabilities into four solutions and three tiered plans, with unlimited users and integrations included.",
-    "analysis": {
-      "issue": "Recorded Future is rolling out new pricing and packaging that bundles its intelligence capabilities into four solutions and three tiered plans, with unlimited users and integrations included",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day",
-    "link": "https://www.recordedfuture.com/blog/march-2026-cve-landscape",
-    "published": "Mon, 13 Apr 2026 00:00:00 GMT",
-    "summary": "March 2026 saw a 139% increase in high-impact vulnerabilities, with Recorded Future's Insikt Group® identifying 31 vulnerabilities requiring immediate remediation, up from 13 in February 2026.",
-    "analysis": {
-      "issue": "March 2026 saw a 139% increase in high-impact vulnerabilities, with Recorded Future's Insikt Group® identifying 31 vulnerabilities requiring immediate remediation, up from 13 in February 2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
       ]
     }
   },
@@ -1230,6 +1225,25 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "How cyberattacks on companies affect everyone",
+    "link": "https://www.malwarebytes.com/blog/privacy/2026/04/how-cyberattacks-on-companies-affect-everyone",
+    "published": "Thu, 23 Apr 2026 15:34:09 GMT",
+    "summary": "We look at how cybercrime targeting companies affects all of us, especially their customers.",
+    "analysis": {
+      "issue": "If you use the internet, you’ve likely been affected by cybercrime in some way",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Apple fixes iOS bug that kept deleted notifications, including chat previews",
     "link": "https://www.malwarebytes.com/blog/news/2026/04/apple-fixes-ios-bug-that-kept-deleted-notifications-including-chat-previews",
     "published": "Thu, 23 Apr 2026 10:27:32 GMT",
@@ -1392,24 +1406,6 @@
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (April 13 &#8211; April 19)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-13-april-19",
-    "published": "Mon, 20 Apr 2026 07:02:00 GMT",
-    "summary": "A list of topics we covered in the week of April 13 to April 19 of 2026",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
