@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-22 17:33:03 UTC
+**Last Updated:** 2026-04-23 03:26:24 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API](https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html)
+### 1. [Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain](https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 22 Apr 2026 23:25:00 +0530  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 2. [Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens](https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 22 Apr 2026 23:03:00 +0530  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 3. [Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API](https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Apr 2026 20:58:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack](https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html)
+### 4. [Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack](https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Apr 2026 16:25:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Toxic Combinations: When Cross-App Permissions Stack into Risk](https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html)
+### 5. [Toxic Combinations: When Cross-App Permissions Stack into Risk](https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Apr 2026 16:11:36 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug](https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html)
+### 6. [Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug](https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Apr 2026 14:59:00 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles](https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html)
+### 7. [Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles](https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Apr 2026 13:28:00 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape](https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html)
+### 8. [Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape](https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Apr 2026 12:46:00 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation](https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html)
+### 9. [SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation](https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Apr 2026 23:48:00 +0530  
@@ -69,7 +87,7 @@
 
 ---
 
-### 8. [22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters](https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html)
+### 10. [22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters](https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 21 Apr 2026 21:16:00 +0530  
@@ -78,25 +96,36 @@
 
 ---
 
-### 9. [Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023](https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html)
+### 11. [Apple fixes iOS bug that retained deleted notification data](https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 21 Apr 2026 20:01:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 22 Apr 2026 16:58:58 -0400  
 **Severity:** Low  
-**Categories:** Ransomware, Data Breach  
+**CVEs:** CVE-2026-28950  
+**Categories:** Vulnerability  
 
 ---
 
-### 10. [5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time](https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html)
+### 12. [New Mirai campaign exploits RCE flaw in EoL D-Link routers](https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 21 Apr 2026 18:30:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Wed, 22 Apr 2026 16:04:46 -0400  
+**Severity:** High  
+**CVEs:** CVE-2025-29635  
+**Categories:** Vulnerability, Malware  
 
 ---
 
-### 11. [Spain dismantles major $4.7M manga piracy platform, arrests four](https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/)
+### 13. [Kyber ransomware gang toys with post-quantum encryption on Windows](https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 22 Apr 2026 14:52:29 -0400  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 14. [Spain dismantles major $4.7M manga piracy platform, arrests four](https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Apr 2026 11:06:34 -0400  
@@ -105,7 +134,7 @@
 
 ---
 
-### 12. [Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process](https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/)
+### 15. [Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process](https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Apr 2026 10:01:11 -0400  
@@ -114,7 +143,7 @@
 
 ---
 
-### 13. [New npm supply-chain attack self-spreads to steal auth tokens](https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/)
+### 16. [New npm supply-chain attack self-spreads to steal auth tokens](https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Apr 2026 08:57:42 -0400  
@@ -123,7 +152,7 @@
 
 ---
 
-### 14. [Microsoft Teams to get efficiency mode on PCs with limited resources](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/)
+### 17. [Microsoft Teams to get efficiency mode on PCs with limited resources](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Apr 2026 08:24:38 -0400  
@@ -132,7 +161,7 @@
 
 ---
 
-### 15. [Microsoft traces Universal Print issues to Graph API code change](https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/)
+### 18. [Microsoft traces Universal Print issues to Graph API code change](https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Apr 2026 06:15:09 -0400  
@@ -141,7 +170,7 @@
 
 ---
 
-### 16. [New GoGra malware for Linux uses Microsoft Graph API for comms](https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/)
+### 19. [New GoGra malware for Linux uses Microsoft Graph API for comms](https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Apr 2026 06:00:00 -0400  
@@ -150,41 +179,13 @@
 
 ---
 
-### 17. [Microsoft releases emergency patches for critical ASP.NET flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/)
+### 20. [Microsoft releases emergency patches for critical ASP.NET flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 22 Apr 2026 04:08:16 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-40372  
 **Categories:** Vulnerability  
-
----
-
-### 18. [Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks](https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 22 Apr 2026 02:53:02 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-32201  
-**Categories:** Vulnerability  
-
----
-
-### 19. [French govt agency confirms breach as hacker offers to sell data](https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 21 Apr 2026 17:46:04 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Phishing  
-
----
-
-### 20. [New Lotus data wiper used against Venezuelan energy, utility firms](https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 21 Apr 2026 14:38:40 -0400  
-**Severity:** Low  
-**Categories:** Malware, APT  
 
 ---
 
@@ -202,7 +203,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -257,7 +258,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-24294, CVE-2026-24289, CVE-2026-21262, CVE-2026-26113, CVE-2026-26127, CVE-2026-26110, CVE-2026-24291  
+**CVEs:** CVE-2026-21262, CVE-2026-24291, CVE-2026-24289, CVE-2026-26113, CVE-2026-26110, CVE-2026-24294, CVE-2026-25187, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -437,12 +438,21 @@
 **Source:** Talos Blog  
 **Published:** Tue, 14 Apr 2026 20:27:56 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33115, CVE-2026-33824, CVE-2026-33114, CVE-2026-32157, CVE-2026-23666, CVE-2026-32190, CVE-2026-33826  
+**CVEs:** CVE-2026-23666, CVE-2026-33826, CVE-2026-32190, CVE-2026-33824, CVE-2026-32157, CVE-2026-33114, CVE-2026-33115  
 **Categories:** Vulnerability, DDoS  
 
 ---
 
-### 51. [AI Hype vs. Reality: Is AI Really Rewriting the Vulnerability Equation?](https://www.recordedfuture.com/blog/ai-hype-vs-reality)
+### 51. [Evolution of Chinese-Language Guarantee Telegram Marketplaces](https://www.recordedfuture.com/research/evolution-of-the-chinese-language)
+
+**Source:** Recorded Future  
+**Published:** Wed, 22 Apr 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [AI Hype vs. Reality: Is AI Really Rewriting the Vulnerability Equation?](https://www.recordedfuture.com/blog/ai-hype-vs-reality)
 
 **Source:** Recorded Future  
 **Published:** Wed, 22 Apr 2026 00:00:00 GMT  
@@ -451,7 +461,7 @@
 
 ---
 
-### 52. [Emerging Enterprise Security Risks of AI](https://www.recordedfuture.com/research/emerging-enterprise-security-risks-of-ai)
+### 53. [Emerging Enterprise Security Risks of AI](https://www.recordedfuture.com/research/emerging-enterprise-security-risks-of-ai)
 
 **Source:** Recorded Future  
 **Published:** Tue, 21 Apr 2026 00:00:00 GMT  
@@ -460,7 +470,7 @@
 
 ---
 
-### 53. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+### 54. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
 
 **Source:** Recorded Future  
 **Published:** Fri, 17 Apr 2026 00:00:00 GMT  
@@ -469,7 +479,7 @@
 
 ---
 
-### 54. [4 Essential Integration Workflows for Operationalizing Threat Intelligence Recorded Future](https://www.recordedfuture.com/blog/4-essential-integration-workflows-for-operationalizing-threat-intelligence)
+### 55. [4 Essential Integration Workflows for Operationalizing Threat Intelligence Recorded Future](https://www.recordedfuture.com/blog/4-essential-integration-workflows-for-operationalizing-threat-intelligence)
 
 **Source:** Recorded Future  
 **Published:** Fri, 17 Apr 2026 00:00:00 GMT  
@@ -478,7 +488,7 @@
 
 ---
 
-### 55. [From Bazooka to Fake Nikes](https://www.recordedfuture.com/blog/from-bazooka-to-fake-nikes)
+### 56. [From Bazooka to Fake Nikes](https://www.recordedfuture.com/blog/from-bazooka-to-fake-nikes)
 
 **Source:** Recorded Future  
 **Published:** Thu, 16 Apr 2026 00:00:00 GMT  
@@ -487,7 +497,7 @@
 
 ---
 
-### 56. [Your Supply Chain Breach Is Someone Else's Payday](https://www.recordedfuture.com/blog/your-supply-chain-breach-is-someone-else-payday)
+### 57. [Your Supply Chain Breach Is Someone Else's Payday](https://www.recordedfuture.com/blog/your-supply-chain-breach-is-someone-else-payday)
 
 **Source:** Recorded Future  
 **Published:** Wed, 15 Apr 2026 00:00:00 GMT  
@@ -496,7 +506,7 @@
 
 ---
 
-### 57. [Iran War: Future Scenario and Business Implications](https://www.recordedfuture.com/research/iran-war-future-scenarios)
+### 58. [Iran War: Future Scenario and Business Implications](https://www.recordedfuture.com/research/iran-war-future-scenarios)
 
 **Source:** Recorded Future  
 **Published:** Tue, 14 Apr 2026 00:00:00 GMT  
@@ -505,7 +515,7 @@
 
 ---
 
-### 58. [A New Way to Buy Recorded Future: Solutions and Packages Built for the 2026 Threat Landscape](https://www.recordedfuture.com/blog/recorded-future-solutions-packages)
+### 59. [A New Way to Buy Recorded Future: Solutions and Packages Built for the 2026 Threat Landscape](https://www.recordedfuture.com/blog/recorded-future-solutions-packages)
 
 **Source:** Recorded Future  
 **Published:** Tue, 14 Apr 2026 00:00:00 GMT  
@@ -514,21 +524,12 @@
 
 ---
 
-### 59. [March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day](https://www.recordedfuture.com/blog/march-2026-cve-landscape)
+### 60. [March 2026 CVE Landscape: 31 High-Impact Vulnerabilities Identified, Interlock Ransomware Group Exploits Cisco FMC Zero-Day](https://www.recordedfuture.com/blog/march-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Mon, 13 Apr 2026 00:00:00 GMT  
 **Severity:** High  
 **Categories:** Ransomware, Vulnerability  
-
----
-
-### 60. [VIP Credential Monitoring Blog](https://www.recordedfuture.com/blog/vip-credential-monitoring-blog)
-
-**Source:** Recorded Future  
-**Published:** Fri, 10 Apr 2026 00:00:00 GMT  
-**Severity:** High  
-**Categories:** Phishing  
 
 ---
 
