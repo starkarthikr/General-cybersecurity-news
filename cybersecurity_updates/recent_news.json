@@ -1,10 +1,50 @@
 [
   {
     "source": "The Hacker News",
-    "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
+    "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
+    "link": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html",
+    "published": "Fri, 24 Apr 2026 14:59:00 +0530",
+    "summary": "Chinese-speaking individuals are the target of a new campaign that uses a trojanized version of SumatraPDF reader to deploy the AdaptixC2 Beacon post-exploitation agent and ultimately facilitate the abuse of Microsoft Visual Studio Code (VS Code) tunnels for remote access.\nZscaler ThreatLabz, which discovered the campaign last month, has attributed it with high confidence to Tropic Trooper (aka",
+    "analysis": {
+      "issue": "Tropic Trooper used trojanized SumatraPDF and GitHub C2 in 2024 to deploy AdaptixC2, enabling covert VS Code tunnel access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
+    "link": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
+    "published": "Fri, 24 Apr 2026 12:54:00 +0530",
+    "summary": "A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving LLMs, has come under active exploitation in the wild less than 13 hours after its public disclosure.\nThe vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relates to a Server-Side Request Forgery (SSRF) vulnerability that could be exploited to access sensitive data.\n\"A server-side",
+    "analysis": {
+      "issue": "CVE-2026-33626 exploited within 13 hours of disclosure, enabling SSRF-based cloud credential theft and internal scanning",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-33626"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware",
     "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
     "published": "Thu, 23 Apr 2026 23:46:00 +0530",
-    "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts.\n\"As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT helpdesk employees, convincing their victim to accept a Microsoft Teams chat invitation from an account",
+    "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts.\n\"As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT help desk employees, convincing their victim to accept a Microsoft Teams chat invitation from an account",
     "analysis": {
       "issue": "UNC6692 targeted 77% senior employees between March 1–April 1, 2026, via Teams impersonation, enabling malware, data theft",
       "solution": null,
@@ -143,42 +183,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
-    "link": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
-    "published": "Wed, 22 Apr 2026 23:25:00 +0530",
-    "summary": "Cybersecurity researchers have warned of malicious images pushed to the official \"checkmarx/kics\" Docker Hub repository.\nIn an alert published today, software supply chain security company Socket revealed that unknown threat actors managed to have overwritten existing tags, including v2.1.20 and alpine, while also introducing a new v2.1.21 tag that does not correspond to an official release. The",
-    "analysis": {
-      "issue": "Malicious KICS Docker tags and VS Code versions 1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens",
-    "link": "https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html",
-    "published": "Wed, 22 Apr 2026 23:03:00 +0530",
-    "summary": "Cybersecurity researchers have flagged a fresh set of packages that have been compromised by bad actors to deliver a self-propagating worm that spreads through stolen developer npm tokens.\nThe supply chain worm has been detected by both Socket and StepSecurity, with the companies tracking the activity under the name CanisterSprawl owing to the use of an ICP canister to exfiltrate the stolen data",
-    "analysis": {
-      "issue": "Self-propagating npm worm steals tokens via postinstall hooks, impacting six packages and expanding supply chain attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   },
@@ -404,8 +408,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-34621",
+        "CVE-2026-32201",
         "CVE-2026-33825"
       ],
       "threat_categories": [
@@ -523,14 +527,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-26110",
+        "CVE-2026-26127",
+        "CVE-2026-25187",
         "CVE-2026-24289",
         "CVE-2026-24294",
-        "CVE-2026-26127",
-        "CVE-2026-24291",
-        "CVE-2026-26110",
         "CVE-2026-21262",
-        "CVE-2026-25187",
-        "CVE-2026-26113"
+        "CVE-2026-26113",
+        "CVE-2026-24291"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -574,6 +578,66 @@
         "Malware",
         "APT",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Vulnerabilities Patched in CrowdStrike, Tenable Products",
+    "link": "https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/",
+    "published": "Fri, 24 Apr 2026 09:49:27 +0000",
+    "summary": "<p>CrowdStrike has fixed a critical LogScale vulnerability, while Tenable addressed a high-severity Nessus flaw.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/\">Vulnerabilities Patched in CrowdStrike, Tenable Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CrowdStrike has fixed a critical LogScale vulnerability, while Tenable addressed a high-severity Nessus flaw",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-33694",
+        "CVE-2026-40050"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Bitwarden NPM Package Hit in Supply Chain Attack",
+    "link": "https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/",
+    "published": "Fri, 24 Apr 2026 08:07:02 +0000",
+    "summary": "<p>Tied to a fresh Checkmarx supply chain attack claimed by TeamPCP, the incident references the Shai-Hulud worm.</p>\n<p>The post <a href=\"https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/\">Bitwarden NPM Package Hit in Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Tied to a fresh Checkmarx supply chain attack claimed by TeamPCP, the incident references the Shai-Hulud worm",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Copperhelm Raises $7 Million for Agentic Cloud Security Platform",
+    "link": "https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/",
+    "published": "Fri, 24 Apr 2026 07:31:09 +0000",
+    "summary": "<p>The Israel-based company, which just emerged from stealth mode, was founded by cloud and security experts from RSA, McAfee, and Unity.</p>\n<p>The post <a href=\"https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/\">Copperhelm Raises $7 Million for Agentic Cloud Security Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Israel-based company, which just emerged from stealth mode, was founded by cloud and security experts from RSA, McAfee, and Unity",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -712,64 +776,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Recent Microsoft Defender Vulnerability Exploited as Zero-Day",
-    "link": "https://www.securityweek.com/recent-microsoft-defender-vulnerability-exploited-as-zero-day/",
-    "published": "Thu, 23 Apr 2026 08:00:36 +0000",
-    "summary": "<p>The flaw allows attackers to access the SAM database, extract NTLM hashes, and gain System privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-microsoft-defender-vulnerability-exploited-as-zero-day/\">Recent Microsoft Defender Vulnerability Exploited as Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The flaw allows attackers to access the SAM database, extract NTLM hashes, and gain System privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-33825"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "After Bluesky, Mastodon Targeted in DDoS Attack",
-    "link": "https://www.securityweek.com/after-bluesky-mastodon-targeted-in-ddos-attack/",
-    "published": "Wed, 22 Apr 2026 14:26:00 +0000",
-    "summary": "<p>The DDoS attack caused a major outage, but Mastodon mitigated it within a few hours.</p>\n<p>The post <a href=\"https://www.securityweek.com/after-bluesky-mastodon-targeted-in-ddos-attack/\">After Bluesky, Mastodon Targeted in DDoS Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The DDoS attack caused a major outage, but Mastodon mitigated it within a few hours",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Most Serious Cyberattacks Against the UK Now From Russia, Iran and China, Cyber Chief Says",
-    "link": "https://www.securityweek.com/most-serious-cyberattacks-against-the-uk-now-from-russia-iran-and-china-cyber-chief-says/",
-    "published": "Wed, 22 Apr 2026 12:57:01 +0000",
-    "summary": "<p>British businesses need to prepare themselves to defend against cyberattacks because the U.K. could be targeted “at scale,” if it became involved in an international conflict.</p>\n<p>The post <a href=\"https://www.securityweek.com/most-serious-cyberattacks-against-the-uk-now-from-russia-iran-and-china-cyber-chief-says/\">Most Serious Cyberattacks Against the UK Now From Russia, Iran and China, Cyber Chief Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "British businesses need to prepare themselves to defend against cyberattacks because the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "It pays to be a forever student",
     "link": "https://blog.talosintelligence.com/it-pays-to-be-a-forever-student/",
@@ -801,8 +807,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20362",
-        "CVE-2025-20333"
+        "CVE-2025-20333",
+        "CVE-2025-20362"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1314,8 +1320,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

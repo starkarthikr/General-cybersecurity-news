@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-24 03:58:09 UTC
+**Last Updated:** 2026-04-24 10:05:17 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
+### 1. [Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2](https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 24 Apr 2026 14:59:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, APT  
+
+---
+
+### 2. [LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure](https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 24 Apr 2026 12:54:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-33626  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 3. [UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 23:46:00 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
+### 4. [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 19:12:00 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories](https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html)
+### 5. [ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories](https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 18:47:00 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed](https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html)
+### 6. [[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed](https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 17:33:00 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?](https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html)
+### 7. [Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?](https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 17:00:00 +0530  
@@ -49,7 +68,7 @@
 
 ---
 
-### 6. [China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors](https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html)
+### 8. [China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors](https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 14:34:00 +0530  
@@ -58,7 +77,7 @@
 
 ---
 
-### 7. [Vercel Finds More Compromised Accounts in Context.ai-Linked Breach](https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html)
+### 9. [Vercel Finds More Compromised Accounts in Context.ai-Linked Breach](https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 14:10:00 +0530  
@@ -67,31 +86,13 @@
 
 ---
 
-### 8. [Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages](https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html)
+### 10. [Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages](https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 13:36:00 +0530  
 **Severity:** Low  
 **CVEs:** CVE-2026-28950  
 **Categories:** Vulnerability  
-
----
-
-### 9. [Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain](https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 22 Apr 2026 23:25:00 +0530  
-**Severity:** Low  
-**Categories:** Supply Chain  
-
----
-
-### 10. [Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens](https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 22 Apr 2026 23:03:00 +0530  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 
@@ -201,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
+**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -256,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24289, CVE-2026-24294, CVE-2026-26127, CVE-2026-24291, CVE-2026-26110, CVE-2026-21262, CVE-2026-25187, CVE-2026-26113  
+**CVEs:** CVE-2026-26110, CVE-2026-26127, CVE-2026-25187, CVE-2026-24289, CVE-2026-24294, CVE-2026-21262, CVE-2026-26113, CVE-2026-24291  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,7 +280,35 @@
 
 ---
 
-### 31. [Cloudsmith Raises $72 Million in Series C Funding](https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/)
+### 31. [Vulnerabilities Patched in CrowdStrike, Tenable Products](https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/)
+
+**Source:** Security Week  
+**Published:** Fri, 24 Apr 2026 09:49:27 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-33694, CVE-2026-40050  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [Bitwarden NPM Package Hit in Supply Chain Attack](https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/)
+
+**Source:** Security Week  
+**Published:** Fri, 24 Apr 2026 08:07:02 +0000  
+**Severity:** Low  
+**Categories:** Data Breach, Vulnerability, Malware, Supply Chain  
+
+---
+
+### 33. [Copperhelm Raises $7 Million for Agentic Cloud Security Platform](https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/)
+
+**Source:** Security Week  
+**Published:** Fri, 24 Apr 2026 07:31:09 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 34. [Cloudsmith Raises $72 Million in Series C Funding](https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/)
 
 **Source:** Security Week  
 **Published:** Thu, 23 Apr 2026 15:03:59 +0000  
@@ -288,7 +317,7 @@
 
 ---
 
-### 32. [Chinese Cybersecurity Firm’s AI Hacking Claims Draw Comparisons to Claude Mythos](https://www.securityweek.com/chinese-cybersecurity-firms-ai-hacking-claims-draw-comparisons-to-claude-mythos/)
+### 35. [Chinese Cybersecurity Firm’s AI Hacking Claims Draw Comparisons to Claude Mythos](https://www.securityweek.com/chinese-cybersecurity-firms-ai-hacking-claims-draw-comparisons-to-claude-mythos/)
 
 **Source:** Security Week  
 **Published:** Thu, 23 Apr 2026 12:36:45 +0000  
@@ -298,7 +327,7 @@
 
 ---
 
-### 33. [Rilian Raises $17.5 Million for AI-Native Security Orchestration](https://www.securityweek.com/rilian-raises-17-5-million-for-ai-native-security-orchestration/)
+### 36. [Rilian Raises $17.5 Million for AI-Native Security Orchestration](https://www.securityweek.com/rilian-raises-17-5-million-for-ai-native-security-orchestration/)
 
 **Source:** Security Week  
 **Published:** Thu, 23 Apr 2026 11:45:30 +0000  
@@ -307,7 +336,7 @@
 
 ---
 
-### 34. [The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface](https://www.securityweek.com/the-behavioral-shift-why-trusted-relationships-are-the-newest-attack-surface/)
+### 37. [The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface](https://www.securityweek.com/the-behavioral-shift-why-trusted-relationships-are-the-newest-attack-surface/)
 
 **Source:** Security Week  
 **Published:** Thu, 23 Apr 2026 11:06:44 +0000  
@@ -316,7 +345,7 @@
 
 ---
 
-### 35. [Luxury Cosmetics Giant Rituals Discloses Data Breach](https://www.securityweek.com/luxury-cosmetics-giant-rituals-discloses-data-breach/)
+### 38. [Luxury Cosmetics Giant Rituals Discloses Data Breach](https://www.securityweek.com/luxury-cosmetics-giant-rituals-discloses-data-breach/)
 
 **Source:** Security Week  
 **Published:** Thu, 23 Apr 2026 11:04:51 +0000  
@@ -325,7 +354,7 @@
 
 ---
 
-### 36. [AI Can Autonomously Hack Cloud Systems With Minimal Oversight: Researchers](https://www.securityweek.com/ai-can-autonomously-hack-cloud-systems-with-minimal-oversight-researchers/)
+### 39. [AI Can Autonomously Hack Cloud Systems With Minimal Oversight: Researchers](https://www.securityweek.com/ai-can-autonomously-hack-cloud-systems-with-minimal-oversight-researchers/)
 
 **Source:** Security Week  
 **Published:** Thu, 23 Apr 2026 10:09:40 +0000  
@@ -334,41 +363,13 @@
 
 ---
 
-### 37. [Apple Patches iOS Flaw Allowing Recovery of Deleted Chats](https://www.securityweek.com/apple-patches-ios-flaw-allowing-recovery-of-deleted-chats/)
+### 40. [Apple Patches iOS Flaw Allowing Recovery of Deleted Chats](https://www.securityweek.com/apple-patches-ios-flaw-allowing-recovery-of-deleted-chats/)
 
 **Source:** Security Week  
 **Published:** Thu, 23 Apr 2026 08:50:19 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-28950  
 **Categories:** Vulnerability  
-
----
-
-### 38. [Recent Microsoft Defender Vulnerability Exploited as Zero-Day](https://www.securityweek.com/recent-microsoft-defender-vulnerability-exploited-as-zero-day/)
-
-**Source:** Security Week  
-**Published:** Thu, 23 Apr 2026 08:00:36 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-33825  
-**Categories:** Vulnerability  
-
----
-
-### 39. [After Bluesky, Mastodon Targeted in DDoS Attack](https://www.securityweek.com/after-bluesky-mastodon-targeted-in-ddos-attack/)
-
-**Source:** Security Week  
-**Published:** Wed, 22 Apr 2026 14:26:00 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, DDoS  
-
----
-
-### 40. [Most Serious Cyberattacks Against the UK Now From Russia, Iran and China, Cyber Chief Says](https://www.securityweek.com/most-serious-cyberattacks-against-the-uk-now-from-russia-iran-and-china-cyber-chief-says/)
-
-**Source:** Security Week  
-**Published:** Wed, 22 Apr 2026 12:57:01 +0000  
-**Severity:** Critical  
-**Categories:** Ransomware, Vulnerability  
 
 ---
 
@@ -386,7 +387,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20362, CVE-2025-20333  
+**CVEs:** CVE-2025-20333, CVE-2025-20362  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -634,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
