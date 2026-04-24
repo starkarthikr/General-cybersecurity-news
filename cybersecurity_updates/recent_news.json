@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
+    "link": "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html",
+    "published": "Fri, 24 Apr 2026 17:19:00 +0530",
+    "summary": "The AI Agent Authority Gap - From Ungoverned to Delegation\nAs discussed in our previous article, AI agents are exposing a structural gap in enterprise security, but the problem is often framed too narrowly.\nThe issue is not simply that agents are new actors. It is that agents are delegated actors. They do not emerge with independent authority. They are triggered, invoked, provisioned, or",
+    "analysis": {
+      "issue": "AI agents inherit hidden authority from fragmented identities, creating a delegation gap that demands real-time governance",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases",
+    "link": "https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html",
+    "published": "Fri, 24 Apr 2026 17:18:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a set of malicious apps on the Apple App Store that impersonate popular cryptocurrency wallets in an attempt to steal recovery phrases and private keys since at least fall 2025.\n\"Once launched, these apps redirect users to browser pages designed to look similar to the App Store and distribute trojanized versions of legitimate wallets,\" Kaspersky",
+    "analysis": {
+      "issue": "26 FakeWallet apps since fall 2025 hijack crypto recovery phrases via Apple App Store China accounts, enabling wallet theft",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
     "link": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html",
     "published": "Fri, 24 Apr 2026 14:59:00 +0530",
@@ -62,7 +98,7 @@
     "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
     "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
     "published": "Thu, 23 Apr 2026 19:12:00 +0530",
-    "summary": "Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from JFrog and Socket.\n\"The affected package version appears to be @bitwarden/cli@2026.4.0, and the malicious code was published in 'bw1.js,' a file included in the package contents,\" the application security company said.\n\"The attack appears to have leveraged",
+    "summary": "Bitwarden CLI, the command-line interface for the password manager Bitwarden, has reportedly been compromised as part of a newly discovered and ongoing Checkmarx supply chain campaign, according to findings from JFrog and Socket.\n\"The affected package version appears to be @bitwarden/cli@2026.4.0, and the malicious code was published in 'bw1.js,' a file included in the package contents,\" the",
     "analysis": {
       "issue": "0 was compromised via GitHub Actions in Checkmarx campaign, exposing secrets and distributing malicious npm code",
       "solution": null,
@@ -149,40 +185,40 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Vercel Finds More Compromised Accounts in Context.ai-Linked Breach",
-    "link": "https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html",
-    "published": "Thu, 23 Apr 2026 14:10:00 +0530",
-    "summary": "Vercel on Wednesday revealed that it has identified an additional set of customer accounts that were compromised as part of a security incident that enabled unauthorized access to its internal systems.\nThe company said it made the discovery after expanding its investigation to include an extra set of compromise indicators, alongside a review of requests to the Vercel network and environment",
+    "source": "Bleeping Computer",
+    "title": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/",
+    "published": "Fri, 24 Apr 2026 09:35:33 -0400",
+    "summary": "Over 10,000 Zimbra Collaboration Suite (ZCS) instances exposed online are vulnerable to ongoing attacks exploiting a cross-site scripting (XSS) security flaw. [...]",
     "analysis": {
-      "issue": "Vercel uncovered additional compromised accounts after expanding its probe into a Context",
+      "issue": "Over 10,000 Zimbra Collaboration Suite (ZCS) instances exposed online are vulnerable to ongoing attacks exploiting a cross-site scripting (XSS) security flaw, according to nonprofit security organization Shadowserver",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-48700"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft now lets admins uninstall Copilot on enterprise devices",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/",
+    "published": "Fri, 24 Apr 2026 07:38:00 -0400",
+    "summary": "Microsoft says IT administrators can now uninstall the AI-powered Copilot digital assistant from enterprise devices using a new policy setting, which has become broadly available after the April 2026 Patch Tuesday. [...]",
+    "analysis": {
+      "issue": "Microsoft says IT administrators can now uninstall the AI-powered Copilot digital assistant from enterprise devices using a new policy setting, which has become broadly available after the April 2026 Patch Tuesday",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages",
-    "link": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
-    "published": "Thu, 23 Apr 2026 13:36:00 +0530",
-    "summary": "Apple has rolled out a software fix for iOS and iPadOS to address a Notification Services flaw that stored notifications marked for deletion on the device.\nThe vulnerability, tracked as CVE-2026-28950 (CVSS score: N/A), has been described as a logging issue that has been addressed with improved data redaction.\n\"Notifications marked for deletion could be unexpectedly retained on the device,\"",
-    "analysis": {
-      "issue": "Apple fixes CVE-2026-28950 in iOS 26",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-28950"
-      ],
-      "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -338,45 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New GopherWhisper APT group abuses Outlook, Slack, Discord for comms",
-    "link": "https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/",
-    "published": "Thu, 23 Apr 2026 08:06:18 -0400",
-    "summary": "A previously undocumented state-backed threat actor named GopherWhisper is using a Go-based custom toolkit and legitimate services like Microsoft 365 Outlook, Slack, and Discord in attacks against government entities. [...]",
-    "analysis": {
-      "issue": "A previously undocumented state-backed threat actor named GopherWhisper is using a Go-based custom toolkit and legitimate services like Microsoft 365 Outlook, Slack, and Discord in attacks against government entities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
-    "published": "Thu, 23 Apr 2026 07:05:57 -0400",
-    "summary": "CISA has ordered U.S. federal agencies to patch a Microsoft Defender privilege escalation flaw (dubbed BlueHammer) that has been exploited in zero-day attacks. [...]",
-    "analysis": {
-      "issue": "government agencies two weeks to secure their Windows systems against a Microsoft Defender privilege escalation vulnerability that has been exploited in zero-day attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-33825"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
     "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
@@ -409,8 +406,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-34621",
-        "CVE-2026-32201",
-        "CVE-2026-33825"
+        "CVE-2026-33825",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -527,14 +524,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26110",
-        "CVE-2026-26127",
-        "CVE-2026-25187",
+        "CVE-2026-26113",
         "CVE-2026-24289",
         "CVE-2026-24294",
+        "CVE-2026-25187",
         "CVE-2026-21262",
-        "CVE-2026-26113",
-        "CVE-2026-24291"
+        "CVE-2026-24291",
+        "CVE-2026-26110",
+        "CVE-2026-26127"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -583,6 +580,84 @@
   },
   {
     "source": "Security Week",
+    "title": "Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents",
+    "link": "https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/",
+    "published": "Fri, 24 Apr 2026 12:34:53 +0000",
+    "summary": "<p>From autonomous code generation to decision-making systems that initiate actions without human intervention, the industry is entering a new phase. </p>\n<p>The post <a href=\"https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/\">Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "From autonomous code generation to decision-making systems that initiate actions without human intervention, the industry is entering a new phase",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise",
+    "link": "https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/",
+    "published": "Fri, 24 Apr 2026 12:32:08 +0000",
+    "summary": "<p>Locked Shields has grown significantly over the past 16 years, with only four nations participating in the first edition.</p>\n<p>The post <a href=\"https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/\">Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World&#8217;s Biggest Exercise</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Locked Shields has grown significantly over the past 16 years, with only four nations participating in the first edition",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "US Federal Agency’s Cisco Firewall Infected With ‘Firestarter’ Backdoor",
+    "link": "https://www.securityweek.com/us-federal-agencys-cisco-firewall-infected-with-firestarter-backdoor/",
+    "published": "Fri, 24 Apr 2026 11:26:09 +0000",
+    "summary": "<p>The malware provides remote access and control of infected devices and maintains post-patching persistence.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-federal-agencys-cisco-firewall-infected-with-firestarter-backdoor/\">US Federal Agency&#8217;s Cisco Firewall Infected With &#8216;Firestarter&#8217; Backdoor</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The malware provides remote access and control of infected devices and maintains post-patching persistence",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-20333",
+        "CVE-2025-20362"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Trump Administration Vows Crackdown on Chinese Companies ‘Exploiting’ AI Models Made in US",
+    "link": "https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/",
+    "published": "Fri, 24 Apr 2026 11:13:55 +0000",
+    "summary": "<p>The Trump administration is vowing to crack down on foreign tech companies’ exploitation of U.S. artificial intelligence models.</p>\n<p>The post <a href=\"https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/\">Trump Administration Vows Crackdown on Chinese Companies &#8216;Exploiting&#8217; AI Models Made in US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Trump administration is vowing to crack down on foreign tech companies’ exploitation of U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Vulnerabilities Patched in CrowdStrike, Tenable Products",
     "link": "https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/",
     "published": "Fri, 24 Apr 2026 09:49:27 +0000",
@@ -594,8 +669,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33694",
-        "CVE-2026-40050"
+        "CVE-2026-40050",
+        "CVE-2026-33694"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -695,83 +770,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface",
-    "link": "https://www.securityweek.com/the-behavioral-shift-why-trusted-relationships-are-the-newest-attack-surface/",
-    "published": "Thu, 23 Apr 2026 11:06:44 +0000",
-    "summary": "<p>New analysis from Abnormal AI reveals how attackers have abandoned technical exploits to weaponize routine workflows and internal trust.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-behavioral-shift-why-trusted-relationships-are-the-newest-attack-surface/\">The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "New analysis from Abnormal AI reveals how attackers have abandoned technical exploits to weaponize routine workflows and internal trust",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Luxury Cosmetics Giant Rituals Discloses Data Breach",
-    "link": "https://www.securityweek.com/luxury-cosmetics-giant-rituals-discloses-data-breach/",
-    "published": "Thu, 23 Apr 2026 11:04:51 +0000",
-    "summary": "<p>The company is notifying My Rituals members that hackers downloaded part of their data, including names and addresses.</p>\n<p>The post <a href=\"https://www.securityweek.com/luxury-cosmetics-giant-rituals-discloses-data-breach/\">Luxury Cosmetics Giant Rituals Discloses Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company is notifying My Rituals members that hackers downloaded part of their data, including names and addresses",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "AI Can Autonomously Hack Cloud Systems With Minimal Oversight: Researchers",
-    "link": "https://www.securityweek.com/ai-can-autonomously-hack-cloud-systems-with-minimal-oversight-researchers/",
-    "published": "Thu, 23 Apr 2026 10:09:40 +0000",
-    "summary": "<p>Palo Alto Networks has developed Zealot, a multi-agent penetration testing PoC capable of reconnaissance, exploitation, and exfiltration. </p>\n<p>The post <a href=\"https://www.securityweek.com/ai-can-autonomously-hack-cloud-systems-with-minimal-oversight-researchers/\">AI Can Autonomously Hack Cloud Systems With Minimal Oversight: Researchers </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Palo Alto Networks has developed Zealot, a multi-agent penetration testing PoC capable of reconnaissance, exploitation, and exfiltration",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Apple Patches iOS Flaw Allowing Recovery of Deleted Chats",
-    "link": "https://www.securityweek.com/apple-patches-ios-flaw-allowing-recovery-of-deleted-chats/",
-    "published": "Thu, 23 Apr 2026 08:50:19 +0000",
-    "summary": "<p>Apple rolled out the security patches for dozens of iPhone and iPad models and generations.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-patches-ios-flaw-allowing-recovery-of-deleted-chats/\">Apple Patches iOS Flaw Allowing Recovery of Deleted Chats</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Apple rolled out the security patches for dozens of iPhone and iPad models and generations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-28950"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1320,8 +1318,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1346,6 +1344,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Medical data of 500,000 UK volunteers listed for sale on Alibaba",
+    "link": "https://www.malwarebytes.com/blog/news/2026/04/medical-data-of-500000-uk-volunteers-listed-for-sale-on-alibaba",
+    "published": "Fri, 24 Apr 2026 12:32:20 GMT",
+    "summary": "Despite strict access controls, medical data from half a million UK Biobank volunteers ended up listed for sale on Alibaba.",
+    "analysis": {
+      "issue": "Half a million Britons signed up to help cure cancer",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1513,25 +1529,6 @@
       "threat_categories": [
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Mythos: An AI tool too powerful for public release",
-    "link": "https://www.malwarebytes.com/blog/news/2026/04/mythos-an-ai-tool-too-powerful-for-public-release",
-    "published": "Mon, 20 Apr 2026 13:54:02 GMT",
-    "summary": "Anthropic is keeping Mythos out of public hands, with limited access for select organizations over fears it could be misused.",
-    "analysis": {
-      "issue": "Anthropic’s most capable model to date, Claude Mythos Preview  (aka Mythos), has been described as a “step change” in AI performance, especially on cybersecurity tasks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
       ]
     }
   },
