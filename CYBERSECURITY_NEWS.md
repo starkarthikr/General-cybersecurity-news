@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-24 13:50:48 UTC
+**Last Updated:** 2026-04-24 17:30:26 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine](https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html)
+### 1. [FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 24 Apr 2026 22:36:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2025-20333  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 2. [NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 24 Apr 2026 19:43:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 3. [Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine](https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 17:19:00 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases](https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html)
+### 4. [26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases](https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 17:18:00 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2](https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html)
+### 5. [Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2](https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 14:59:00 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure](https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html)
+### 6. [LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure](https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 12:54:00 +0530  
@@ -41,7 +60,7 @@
 
 ---
 
-### 5. [UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
+### 7. [UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 23:46:00 +0530  
@@ -50,7 +69,7 @@
 
 ---
 
-### 6. [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
+### 8. [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 19:12:00 +0530  
@@ -59,7 +78,7 @@
 
 ---
 
-### 7. [ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories](https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html)
+### 9. [ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories](https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 18:47:00 +0530  
@@ -68,7 +87,7 @@
 
 ---
 
-### 8. [[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed](https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html)
+### 10. [[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed](https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 17:33:00 +0530  
@@ -77,25 +96,26 @@
 
 ---
 
-### 9. [Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?](https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html)
+### 11. [New ‘Pack2TheRoot’ flaw gives hackers root Linux access](https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 23 Apr 2026 17:00:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors](https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 23 Apr 2026 14:34:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
+**Source:** Bleeping Computer  
+**Published:** Fri, 24 Apr 2026 13:28:46 -0400  
+**Severity:** Medium  
+**CVEs:** CVE-2026-41651  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks](https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/)
+### 12. [DORA and operational resilience: Credential management as a financial risk control](https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 24 Apr 2026 10:10:20 -0400  
+**Severity:** Critical  
+**Categories:** Data Breach  
+
+---
+
+### 13. [Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks](https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Apr 2026 09:35:33 -0400  
@@ -105,7 +125,7 @@
 
 ---
 
-### 12. [Microsoft now lets admins uninstall Copilot on enterprise devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/)
+### 14. [Microsoft now lets admins uninstall Copilot on enterprise devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Apr 2026 07:38:00 -0400  
@@ -114,7 +134,7 @@
 
 ---
 
-### 13. [Hackers exploit file upload bug in Breeze Cache WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/)
+### 15. [Hackers exploit file upload bug in Breeze Cache WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Apr 2026 17:33:45 -0400  
@@ -124,7 +144,7 @@
 
 ---
 
-### 14. [Bitwarden CLI npm package compromised to steal developer credentials](https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/)
+### 16. [Bitwarden CLI npm package compromised to steal developer credentials](https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Apr 2026 15:21:01 -0400  
@@ -133,7 +153,7 @@
 
 ---
 
-### 15. [Trigona ransomware attacks use custom exfiltration tool to steal data](https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/)
+### 17. [Trigona ransomware attacks use custom exfiltration tool to steal data](https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Apr 2026 14:59:39 -0400  
@@ -142,7 +162,7 @@
 
 ---
 
-### 16. [New Checkmarx supply-chain breach affects KICS analysis tool](https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/)
+### 18. [New Checkmarx supply-chain breach affects KICS analysis tool](https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Apr 2026 12:05:12 -0400  
@@ -151,7 +171,7 @@
 
 ---
 
-### 17. [Cosmetics giant Rituals discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/)
+### 19. [Cosmetics giant Rituals discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Apr 2026 10:16:21 -0400  
@@ -160,30 +180,12 @@
 
 ---
 
-### 18. [Regular Password Resets Aren’t as Safe as You Think](https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/)
+### 20. [Regular Password Resets Aren’t as Safe as You Think](https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Apr 2026 10:10:20 -0400  
 **Severity:** Low  
 **Categories:** Ransomware, Vulnerability, Supply Chain  
-
----
-
-### 19. [Microsoft: Some Teams users can’t join meetings after Edge update](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 23 Apr 2026 09:18:10 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [UK warns of Chinese hackers using proxy networks to evade detection](https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 23 Apr 2026 08:28:39 -0400  
-**Severity:** High  
-**Categories:** Malware, APT  
 
 ---
 
@@ -201,7 +203,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -256,7 +258,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-24289, CVE-2026-24294, CVE-2026-25187, CVE-2026-21262, CVE-2026-24291, CVE-2026-26110, CVE-2026-26127  
+**CVEs:** CVE-2026-24289, CVE-2026-24291, CVE-2026-24294, CVE-2026-25187, CVE-2026-26113, CVE-2026-26110, CVE-2026-21262, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,7 +281,25 @@
 
 ---
 
-### 31. [Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents](https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/)
+### 31. [Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions](https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/)
+
+**Source:** Security Week  
+**Published:** Fri, 24 Apr 2026 14:57:18 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Vulnerability, Malware, APT  
+
+---
+
+### 32. [In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device](https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/)
+
+**Source:** Security Week  
+**Published:** Fri, 24 Apr 2026 14:31:51 +0000  
+**Severity:** Critical  
+**Categories:** Data Breach, Vulnerability, Malware, Supply Chain  
+
+---
+
+### 33. [Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents](https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 12:34:53 +0000  
@@ -288,7 +308,7 @@
 
 ---
 
-### 32. [Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise](https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/)
+### 34. [Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise](https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 12:32:08 +0000  
@@ -297,17 +317,17 @@
 
 ---
 
-### 33. [US Federal Agency’s Cisco Firewall Infected With ‘Firestarter’ Backdoor](https://www.securityweek.com/us-federal-agencys-cisco-firewall-infected-with-firestarter-backdoor/)
+### 35. [US Federal Agency’s Cisco Firewall Infected With ‘Firestarter’ Backdoor](https://www.securityweek.com/us-federal-agencys-cisco-firewall-infected-with-firestarter-backdoor/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 11:26:09 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-20333, CVE-2025-20362  
+**CVEs:** CVE-2025-20362, CVE-2025-20333  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
 
-### 34. [Trump Administration Vows Crackdown on Chinese Companies ‘Exploiting’ AI Models Made in US](https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/)
+### 36. [Trump Administration Vows Crackdown on Chinese Companies ‘Exploiting’ AI Models Made in US](https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 11:13:55 +0000  
@@ -316,7 +336,7 @@
 
 ---
 
-### 35. [Vulnerabilities Patched in CrowdStrike, Tenable Products](https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/)
+### 37. [Vulnerabilities Patched in CrowdStrike, Tenable Products](https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 09:49:27 +0000  
@@ -326,7 +346,7 @@
 
 ---
 
-### 36. [Bitwarden NPM Package Hit in Supply Chain Attack](https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/)
+### 38. [Bitwarden NPM Package Hit in Supply Chain Attack](https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 08:07:02 +0000  
@@ -335,7 +355,7 @@
 
 ---
 
-### 37. [Copperhelm Raises $7 Million for Agentic Cloud Security Platform](https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/)
+### 39. [Copperhelm Raises $7 Million for Agentic Cloud Security Platform](https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 07:31:09 +0000  
@@ -344,31 +364,12 @@
 
 ---
 
-### 38. [Cloudsmith Raises $72 Million in Series C Funding](https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/)
+### 40. [Cloudsmith Raises $72 Million in Series C Funding](https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/)
 
 **Source:** Security Week  
 **Published:** Thu, 23 Apr 2026 15:03:59 +0000  
 **Severity:** Low  
 **Categories:** Supply Chain  
-
----
-
-### 39. [Chinese Cybersecurity Firm’s AI Hacking Claims Draw Comparisons to Claude Mythos](https://www.securityweek.com/chinese-cybersecurity-firms-ai-hacking-claims-draw-comparisons-to-claude-mythos/)
-
-**Source:** Security Week  
-**Published:** Thu, 23 Apr 2026 12:36:45 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-32190, CVE-2026-24293  
-**Categories:** Vulnerability  
-
----
-
-### 40. [Rilian Raises $17.5 Million for AI-Native Security Orchestration](https://www.securityweek.com/rilian-raises-17-5-million-for-ai-native-security-orchestration/)
-
-**Source:** Security Week  
-**Published:** Thu, 23 Apr 2026 11:45:30 +0000  
-**Severity:** Critical  
-**Categories:** APT  
 
 ---
 
@@ -386,7 +387,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20333, CVE-2025-20362  
+**CVEs:** CVE-2025-20362, CVE-2025-20333  
 **Categories:** Vulnerability, Malware  
 
 ---
