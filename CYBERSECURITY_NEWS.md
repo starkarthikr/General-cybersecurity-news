@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-23 17:53:27 UTC
+**Last Updated:** 2026-04-24 03:28:26 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
+### 1. [UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 23 Apr 2026 23:46:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 19:12:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories](https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html)
+### 3. [ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories](https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 18:47:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed](https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html)
+### 4. [[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed](https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 17:33:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?](https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html)
+### 5. [Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?](https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 17:00:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors](https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html)
+### 6. [China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors](https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 14:34:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Vercel Finds More Compromised Accounts in Context.ai-Linked Breach](https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html)
+### 7. [Vercel Finds More Compromised Accounts in Context.ai-Linked Breach](https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 14:10:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages](https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html)
+### 8. [Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages](https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 13:36:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain](https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html)
+### 9. [Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain](https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Apr 2026 23:25:00 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens](https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html)
+### 10. [Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens](https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 22 Apr 2026 23:03:00 +0530  
@@ -86,16 +95,35 @@
 
 ---
 
-### 10. [Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API](https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html)
+### 11. [Hackers exploit file upload bug in Breeze Cache WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 22 Apr 2026 20:58:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
+**Source:** Bleeping Computer  
+**Published:** Thu, 23 Apr 2026 17:33:45 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-3844  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [New Checkmarx supply-chain breach affects KICS analysis tool](https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/)
+### 12. [Bitwarden CLI npm package compromised to steal developer credentials](https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 23 Apr 2026 15:21:01 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [Trigona ransomware attacks use custom exfiltration tool to steal data](https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 23 Apr 2026 14:59:39 -0400  
+**Severity:** Critical  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 14. [New Checkmarx supply-chain breach affects KICS analysis tool](https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Apr 2026 12:05:12 -0400  
@@ -104,7 +132,7 @@
 
 ---
 
-### 12. [Cosmetics giant Rituals discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/)
+### 15. [Cosmetics giant Rituals discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Apr 2026 10:16:21 -0400  
@@ -113,7 +141,7 @@
 
 ---
 
-### 13. [Regular Password Resets Aren’t as Safe as You Think](https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/)
+### 16. [Regular Password Resets Aren’t as Safe as You Think](https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Apr 2026 10:10:20 -0400  
@@ -122,7 +150,7 @@
 
 ---
 
-### 14. [Microsoft: Some Teams users can’t join meetings after Edge update](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/)
+### 17. [Microsoft: Some Teams users can’t join meetings after Edge update](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Apr 2026 09:18:10 -0400  
@@ -131,7 +159,7 @@
 
 ---
 
-### 15. [UK warns of Chinese hackers using proxy networks to evade detection](https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/)
+### 18. [UK warns of Chinese hackers using proxy networks to evade detection](https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Apr 2026 08:28:39 -0400  
@@ -140,7 +168,7 @@
 
 ---
 
-### 16. [New GopherWhisper APT group abuses Outlook, Slack, Discord for comms](https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/)
+### 19. [New GopherWhisper APT group abuses Outlook, Slack, Discord for comms](https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Apr 2026 08:06:18 -0400  
@@ -149,42 +177,13 @@
 
 ---
 
-### 17. [CISA orders feds to patch BlueHammer flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/)
+### 20. [CISA orders feds to patch BlueHammer flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Apr 2026 07:05:57 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-33825  
 **Categories:** Vulnerability  
-
----
-
-### 18. [Apple fixes bug that let the FBI recover deleted Signal messages](https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 22 Apr 2026 16:58:58 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2026-28950  
-**Categories:** Vulnerability  
-
----
-
-### 19. [New Mirai campaign exploits RCE flaw in EoL D-Link routers](https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 22 Apr 2026 16:04:46 -0400  
-**Severity:** High  
-**CVEs:** CVE-2025-29635  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 20. [Kyber ransomware gang toys with post-quantum encryption on Windows](https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 22 Apr 2026 14:52:29 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
 
 ---
 
@@ -202,7 +201,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -257,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24289, CVE-2026-26113, CVE-2026-24294, CVE-2026-24291, CVE-2026-26127, CVE-2026-25187, CVE-2026-21262, CVE-2026-26110  
+**CVEs:** CVE-2026-25187, CVE-2026-26110, CVE-2026-21262, CVE-2026-26113, CVE-2026-26127, CVE-2026-24289, CVE-2026-24294, CVE-2026-24291  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -284,6 +283,8 @@
 
 **Source:** Security Week  
 **Published:** Thu, 23 Apr 2026 15:03:59 +0000  
+**Severity:** Low  
+**Categories:** Supply Chain  
 
 ---
 
@@ -291,6 +292,9 @@
 
 **Source:** Security Week  
 **Published:** Thu, 23 Apr 2026 12:36:45 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-24293, CVE-2026-32190  
+**Categories:** Vulnerability  
 
 ---
 
@@ -298,6 +302,8 @@
 
 **Source:** Security Week  
 **Published:** Thu, 23 Apr 2026 11:45:30 +0000  
+**Severity:** Critical  
+**Categories:** APT  
 
 ---
 
@@ -305,6 +311,8 @@
 
 **Source:** Security Week  
 **Published:** Thu, 23 Apr 2026 11:06:44 +0000  
+**Severity:** High  
+**Categories:** Vulnerability, Phishing  
 
 ---
 
@@ -312,6 +320,8 @@
 
 **Source:** Security Week  
 **Published:** Thu, 23 Apr 2026 11:04:51 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach, Phishing  
 
 ---
 
@@ -319,6 +329,8 @@
 
 **Source:** Security Week  
 **Published:** Thu, 23 Apr 2026 10:09:40 +0000  
+**Severity:** High  
+**Categories:** Vulnerability  
 
 ---
 
@@ -326,6 +338,9 @@
 
 **Source:** Security Week  
 **Published:** Thu, 23 Apr 2026 08:50:19 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-28950  
+**Categories:** Vulnerability  
 
 ---
 
@@ -333,6 +348,9 @@
 
 **Source:** Security Week  
 **Published:** Thu, 23 Apr 2026 08:00:36 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-33825  
+**Categories:** Vulnerability  
 
 ---
 
@@ -340,6 +358,8 @@
 
 **Source:** Security Week  
 **Published:** Wed, 22 Apr 2026 14:26:00 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, DDoS  
 
 ---
 
@@ -347,10 +367,21 @@
 
 **Source:** Security Week  
 **Published:** Wed, 22 Apr 2026 12:57:01 +0000  
+**Severity:** Critical  
+**Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 41. [UAT-4356's Targeting of Cisco Firepower Devices](https://blog.talosintelligence.com/uat-4356-firestarter/)
+### 41. [It pays to be a forever student](https://blog.talosintelligence.com/it-pays-to-be-a-forever-student/)
+
+**Source:** Talos Blog  
+**Published:** Thu, 23 Apr 2026 18:00:22 GMT  
+**Severity:** High  
+**Categories:** Ransomware, Phishing  
+
+---
+
+### 42. [UAT-4356's Targeting of Cisco Firepower Devices](https://blog.talosintelligence.com/uat-4356-firestarter/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
@@ -360,7 +391,7 @@
 
 ---
 
-### 42. [IR Trends Q1 2026: Phishing reemerges as top initial access vector, as attacks targeting public administration persist](https://blog.talosintelligence.com/ir-trends-q1-2026/)
+### 43. [IR Trends Q1 2026: Phishing reemerges as top initial access vector, as attacks targeting public administration persist](https://blog.talosintelligence.com/ir-trends-q1-2026/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 22 Apr 2026 10:00:34 GMT  
@@ -369,7 +400,7 @@
 
 ---
 
-### 43. [[Podcast] It's not you, it's your printer: State-sponsored and phishing threats in 2025](https://blog.talosintelligence.com/podcast-its-not-you-its-your-printer-state-sponsored-and-phishing-threats-in-2025/)
+### 44. [[Podcast] It's not you, it's your printer: State-sponsored and phishing threats in 2025](https://blog.talosintelligence.com/podcast-its-not-you-its-your-printer-state-sponsored-and-phishing-threats-in-2025/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 21 Apr 2026 12:29:49 GMT  
@@ -378,7 +409,7 @@
 
 ---
 
-### 44. [Phishing and MFA exploitation: Targeting the keys to the kingdom](https://blog.talosintelligence.com/phishing-and-mfa-exploitation-targeting-the-keys-to-the-kingdom/)
+### 45. [Phishing and MFA exploitation: Targeting the keys to the kingdom](https://blog.talosintelligence.com/phishing-and-mfa-exploitation-targeting-the-keys-to-the-kingdom/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 21 Apr 2026 12:00:08 GMT  
@@ -387,7 +418,7 @@
 
 ---
 
-### 45. [Bad Apples: Weaponizing native macOS primitives for movement and execution](https://blog.talosintelligence.com/bad-apples-weaponizing-native-macos-primitives-for-movement-and-execution/)
+### 46. [Bad Apples: Weaponizing native macOS primitives for movement and execution](https://blog.talosintelligence.com/bad-apples-weaponizing-native-macos-primitives-for-movement-and-execution/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 21 Apr 2026 10:00:29 GMT  
@@ -396,7 +427,7 @@
 
 ---
 
-### 46. [Foxit, LibRaw vulnerabilities](https://blog.talosintelligence.com/foxit-libraw-vulnerabilities/)
+### 47. [Foxit, LibRaw vulnerabilities](https://blog.talosintelligence.com/foxit-libraw-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 16 Apr 2026 19:00:24 GMT  
@@ -406,7 +437,7 @@
 
 ---
 
-### 47. [The Q1 vulnerability pulse](https://blog.talosintelligence.com/the-q1-vulnerability-pulse/)
+### 48. [The Q1 vulnerability pulse](https://blog.talosintelligence.com/the-q1-vulnerability-pulse/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 16 Apr 2026 18:00:31 GMT  
@@ -415,7 +446,7 @@
 
 ---
 
-### 48. [PowMix botnet targets Czech workforce](https://blog.talosintelligence.com/powmix-botnet-targets-czech-workforce/)
+### 49. [PowMix botnet targets Czech workforce](https://blog.talosintelligence.com/powmix-botnet-targets-czech-workforce/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 16 Apr 2026 10:00:33 GMT  
@@ -424,21 +455,12 @@
 
 ---
 
-### 49. [More than pretty pictures: Wendy Bishop on visual storytelling in tech](https://blog.talosintelligence.com/more-than-pretty-pictures-wendy-bishop-on-visual-storytelling-in-tech/)
+### 50. [More than pretty pictures: Wendy Bishop on visual storytelling in tech](https://blog.talosintelligence.com/more-than-pretty-pictures-wendy-bishop-on-visual-storytelling-in-tech/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 16 Apr 2026 10:00:28 GMT  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 50. [The n8n n8mare: How threat actors are misusing AI workflow automation](https://blog.talosintelligence.com/the-n8n-n8mare/)
-
-**Source:** Talos Blog  
-**Published:** Wed, 15 Apr 2026 10:00:52 GMT  
-**Severity:** High  
-**Categories:** Malware, Phishing  
 
 ---
 
@@ -612,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
