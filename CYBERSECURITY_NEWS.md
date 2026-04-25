@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-25 03:40:14 UTC
+**Last Updated:** 2026-04-25 09:28:49 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html)
+### 1. [Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 25 Apr 2026 14:56:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 25 Apr 2026 10:38:00 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Vulnerability, Malware  
+
+---
+
+### 3. [FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 22:36:00 +0530  
@@ -14,7 +32,7 @@
 
 ---
 
-### 2. [NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html)
+### 4. [NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 19:43:00 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine](https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html)
+### 5. [Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine](https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 17:19:00 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases](https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html)
+### 6. [26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases](https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 17:18:00 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2](https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html)
+### 7. [Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2](https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 14:59:00 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure](https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html)
+### 8. [LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure](https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 12:54:00 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
+### 9. [UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 23:46:00 +0530  
@@ -69,30 +87,12 @@
 
 ---
 
-### 8. [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
+### 10. [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 19:12:00 +0530  
 **Severity:** Low  
 **Categories:** Supply Chain  
-
----
-
-### 9. [ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories](https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 23 Apr 2026 18:47:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 10. [[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed](https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 23 Apr 2026 17:33:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -110,7 +110,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Apr 2026 16:34:08 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2025-20362, CVE-2025-20333  
+**CVEs:** CVE-2025-20333, CVE-2025-20362  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
@@ -204,7 +204,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
+**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -259,7 +259,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-24289, CVE-2026-24291, CVE-2026-26127, CVE-2026-26110, CVE-2026-24294, CVE-2026-26113, CVE-2026-21262  
+**CVEs:** CVE-2026-24291, CVE-2026-24294, CVE-2026-26127, CVE-2026-26110, CVE-2026-25187, CVE-2026-26113, CVE-2026-24289, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -323,7 +323,7 @@
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 11:26:09 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-20362, CVE-2025-20333  
+**CVEs:** CVE-2025-20333, CVE-2025-20362  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
@@ -388,7 +388,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20362, CVE-2025-20333  
+**CVEs:** CVE-2025-20333, CVE-2025-20362  
 **Categories:** Vulnerability, Malware  
 
 ---

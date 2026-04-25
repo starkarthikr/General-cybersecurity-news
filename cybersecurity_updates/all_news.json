@@ -1,10 +1,48 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software",
+    "link": "https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html",
+    "published": "Sat, 25 Apr 2026 14:56:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a new Lua-based malware created years before the notorious Stuxnet worm that aimed to sabotage Iran's nuclear program by destroying uranium enrichment centrifuges.\nAccording to a new report published by SentinelOne, the previously undocumented cyber sabotage framework dates back to 2005, primarily targeting high-precision calculation software to tamper",
+    "analysis": {
+      "issue": "Fast16 malware from 2005 predates Stuxnet by five years, targeting engineering software to sabotage calculations and reshape cyberwar history",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline",
+    "link": "https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html",
+    "published": "Sat, 25 Apr 2026 10:38:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four vulnerabilities impacting SimpleHelp, Samsung MagicINFO 9 Server, and D-Link DIR-823X series routers to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe list of vulnerabilities is below -\n\nCVE-2024-57726 (CVSS score: 9.9) - A missing authorization vulnerability in",
+    "analysis": {
+      "issue": "CISA adds 4 exploited CVEs including CVSS 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
     "link": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
     "published": "Fri, 24 Apr 2026 22:36:00 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency's Cisco Firepower device running Adaptive Security Appliance (ASA) software was compromised in September 2025 with malware called FIRESTARTER.\nFIRESTARTER, per CISA and the U.K.'s National Cyber Security Centre (NCSC), is assessed to be a backdoor designed for remote access and",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency's Cisco Firepower device running Adaptive Security Appliance (ASA) software was compromised in September 2025 with a new malware called FIRESTARTER.\nFIRESTARTER, per CISA and the U.K.'s National Cyber Security Centre (NCSC), is assessed to be a backdoor designed for remote access",
     "analysis": {
       "issue": "FIRESTARTER backdoor hit Cisco ASA in Sept 2025, persists after patching CVE-2025-20333, risking continued federal network access",
       "solution": null,
@@ -151,43 +189,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
-    "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
-    "published": "Thu, 23 Apr 2026 18:47:00 +0530",
-    "summary": "You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes. Same bugs. Same mistakes.\nThe supply chain is messy. Packages you did not check are stealing data, adding backdoors, and spreading. Attacking the systems behind apps is easier than breaking the apps themselves. The exploits are simple but still work",
-    "analysis": {
-      "issue": "ThreatsDay Bulletin: active exploits, supply chain attacks, AI abuse, and stealth data risks observed this week",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
-    "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
-    "published": "Thu, 23 Apr 2026 17:33:00 +0530",
-    "summary": "Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly.\nWell, that world is already here.\nThanks to AI, attackers are now launching automated, large-scale exploits faster than ever before. The time you have to fix a vulnerability before it gets attacked is shrinking to zero. We call this the Collapsing Exploit Window, and it means your",
-    "analysis": {
-      "issue": "AI-driven attacks collapse exploit windows, widening the patch gap and forcing faster vulnerability prioritization strategies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "ADT confirms data breach after ShinyHunters leak threat",
     "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
@@ -219,8 +220,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20362",
-        "CVE-2025-20333"
+        "CVE-2025-20333",
+        "CVE-2025-20362"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -414,8 +415,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-33825",
-        "CVE-2026-32201",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -532,13 +533,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-25187",
-        "CVE-2026-24289",
         "CVE-2026-24291",
+        "CVE-2026-24294",
         "CVE-2026-26127",
         "CVE-2026-26110",
-        "CVE-2026-24294",
+        "CVE-2026-25187",
         "CVE-2026-26113",
+        "CVE-2026-24289",
         "CVE-2026-21262"
       ],
       "threat_categories": [
@@ -678,8 +679,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-20362",
-        "CVE-2025-20333"
+        "CVE-2025-20333",
+        "CVE-2025-20362"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -816,8 +817,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20362",
-        "CVE-2025-20333"
+        "CVE-2025-20333",
+        "CVE-2025-20362"
       ],
       "threat_categories": [
         "Vulnerability",
