@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-25 09:28:49 UTC
+**Last Updated:** 2026-04-25 13:18:14 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -110,7 +110,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Apr 2026 16:34:08 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2025-20333, CVE-2025-20362  
+**CVEs:** CVE-2025-20362, CVE-2025-20333  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
@@ -204,7 +204,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -259,7 +259,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24291, CVE-2026-24294, CVE-2026-26127, CVE-2026-26110, CVE-2026-25187, CVE-2026-26113, CVE-2026-24289, CVE-2026-21262  
+**CVEs:** CVE-2026-24291, CVE-2026-24289, CVE-2026-26113, CVE-2026-26110, CVE-2026-24294, CVE-2026-26127, CVE-2026-25187, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -282,7 +282,16 @@
 
 ---
 
-### 31. [Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions](https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/)
+### 31. [China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks](https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/)
+
+**Source:** Security Week  
+**Published:** Sat, 25 Apr 2026 10:50:00 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware, APT  
+
+---
+
+### 32. [Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions](https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 14:57:18 +0000  
@@ -291,7 +300,7 @@
 
 ---
 
-### 32. [In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device](https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/)
+### 33. [In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device](https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 14:31:51 +0000  
@@ -300,7 +309,7 @@
 
 ---
 
-### 33. [Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents](https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/)
+### 34. [Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents](https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 12:34:53 +0000  
@@ -309,7 +318,7 @@
 
 ---
 
-### 34. [Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise](https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/)
+### 35. [Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise](https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 12:32:08 +0000  
@@ -318,17 +327,17 @@
 
 ---
 
-### 35. [US Federal Agency’s Cisco Firewall Infected With ‘Firestarter’ Backdoor](https://www.securityweek.com/us-federal-agencys-cisco-firewall-infected-with-firestarter-backdoor/)
+### 36. [US Federal Agency’s Cisco Firewall Infected With ‘Firestarter’ Backdoor](https://www.securityweek.com/us-federal-agencys-cisco-firewall-infected-with-firestarter-backdoor/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 11:26:09 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-20333, CVE-2025-20362  
+**CVEs:** CVE-2025-20362, CVE-2025-20333  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
 
-### 36. [Trump Administration Vows Crackdown on Chinese Companies ‘Exploiting’ AI Models Made in US](https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/)
+### 37. [Trump Administration Vows Crackdown on Chinese Companies ‘Exploiting’ AI Models Made in US](https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 11:13:55 +0000  
@@ -337,7 +346,7 @@
 
 ---
 
-### 37. [Vulnerabilities Patched in CrowdStrike, Tenable Products](https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/)
+### 38. [Vulnerabilities Patched in CrowdStrike, Tenable Products](https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 09:49:27 +0000  
@@ -347,7 +356,7 @@
 
 ---
 
-### 38. [Bitwarden NPM Package Hit in Supply Chain Attack](https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/)
+### 39. [Bitwarden NPM Package Hit in Supply Chain Attack](https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 08:07:02 +0000  
@@ -356,21 +365,12 @@
 
 ---
 
-### 39. [Copperhelm Raises $7 Million for Agentic Cloud Security Platform](https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/)
+### 40. [Copperhelm Raises $7 Million for Agentic Cloud Security Platform](https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 07:31:09 +0000  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 40. [Cloudsmith Raises $72 Million in Series C Funding](https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/)
-
-**Source:** Security Week  
-**Published:** Thu, 23 Apr 2026 15:03:59 +0000  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 
@@ -388,7 +388,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20333, CVE-2025-20362  
+**CVEs:** CVE-2025-20362, CVE-2025-20333  
 **Categories:** Vulnerability, Malware  
 
 ---
