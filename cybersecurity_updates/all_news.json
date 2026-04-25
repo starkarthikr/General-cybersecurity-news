@@ -189,6 +189,104 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "ADT confirms data breach after ShinyHunters leak threat",
+    "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
+    "published": "Fri, 24 Apr 2026 18:53:14 -0400",
+    "summary": "Home security giant ADT has confirmed a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
+    "analysis": {
+      "issue": "Home security giant ADT has confirmed a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Firestarter malware survives Cisco firewall updates, security patches",
+    "link": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
+    "published": "Fri, 24 Apr 2026 16:34:08 -0400",
+    "summary": "Cybersecurity agencies in the U.S. and U.K. are warning about a custom malware called Firestarter persisting on Cisco Firepower and Secure Firewall devices running Adaptive Security Appliance (ASA) or Firepower Threat Defense (FTD) software. [...]",
+    "analysis": {
+      "issue": "Cybersecurity agencies in the U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-20333",
+        "CVE-2025-20362"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Windows Update gets new controls to reduce forced restarts",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/",
+    "published": "Fri, 24 Apr 2026 16:08:26 -0400",
+    "summary": "Microsoft is rolling out Windows Update improvements that give users more control over how updates are installed while reducing disruption from frequent or poorly timed restarts. [...]",
+    "analysis": {
+      "issue": "Microsoft is rolling out Windows Update improvements that give users more control over how updates are installed while reducing disruption from frequent or poorly timed restarts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New BlackFile extortion group linked to surge of vishing attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
+    "published": "Fri, 24 Apr 2026 14:26:27 -0400",
+    "summary": "A new financially motivated hacking group tracked as BlackFile has been linked to a wave of data theft and extortion attacks against retail and hospitality organizations since February 2026. [...]",
+    "analysis": {
+      "issue": "A new financially motivated hacking group tracked as BlackFile has been linked to a wave of data theft and extortion attacks against retail and hospitality organizations since February 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Medium",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft to roll out Entra passkeys on Windows in late April",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/",
+    "published": "Fri, 24 Apr 2026 14:13:55 -0400",
+    "summary": "Microsoft will roll out passkey support for phishing-resistant passwordless authentication to Microsoft Entra‑protected resources from Windows devices starting late April. [...]",
+    "analysis": {
+      "issue": "Microsoft will roll out passkey support for phishing-resistant passwordless authentication to Microsoft Entra‑protected resources from Windows devices starting late April",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New ‘Pack2TheRoot’ flaw gives hackers root Linux access",
     "link": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/",
     "published": "Fri, 24 Apr 2026 13:28:46 -0400",
@@ -198,7 +296,7 @@
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Medium",
+      "severity": "High",
       "cves": [
         "CVE-2026-41651"
       ],
@@ -284,100 +382,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Bitwarden CLI npm package compromised to steal developer credentials",
-    "link": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
-    "published": "Thu, 23 Apr 2026 15:21:01 -0400",
-    "summary": "The Bitwarden CLI was briefly compromised after attackers uploaded a malicious @bitwarden/cli package to npm containing a credential-stealing payload capable of spreading to other projects. [...]",
-    "analysis": {
-      "issue": "Updated with further information from Bitwarden",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
-    "link": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
-    "published": "Thu, 23 Apr 2026 14:59:39 -0400",
-    "summary": "Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently. [...]",
-    "analysis": {
-      "issue": "Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
-    "link": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
-    "published": "Thu, 23 Apr 2026 12:05:12 -0400",
-    "summary": "Hackers have compromised Docker images, VSCode and Open VSX extensions for the Checkmarx KICS analysis tool to harvest sensitive data from developer environments. [...]",
-    "analysis": {
-      "issue": "Hackers have compromised Docker images, VSCode and Open VSX extensions for the Checkmarx KICS analysis tool to harvest sensitive data from developer environments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Cosmetics giant Rituals discloses data breach affecting customers",
-    "link": "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/",
-    "published": "Thu, 23 Apr 2026 10:16:21 -0400",
-    "summary": "Dutch cosmetics giant Rituals disclosed a data breach after attackers stole the personal information of an undisclosed number of customers from its \"My Rituals\" membership database. [...]",
-    "analysis": {
-      "issue": "Dutch cosmetics giant Rituals disclosed a data breach after attackers stole the personal information of an undisclosed number of customers from its \"My Rituals\" membership database",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Regular Password Resets Aren’t as Safe as You Think",
-    "link": "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/",
-    "published": "Thu, 23 Apr 2026 10:10:20 -0400",
-    "summary": "Password resets are one of the easiest ways for attackers to bypass security controls. Specops Software shows how helpdesk social engineering turns a seemingly legitimate reset request into full account compromise. [...]",
-    "analysis": {
-      "issue": "Research from Forrester estimates that every password reset costs around $70",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
     "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
@@ -409,8 +413,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-34621",
+        "CVE-2026-32201",
         "CVE-2026-33825"
       ],
       "threat_categories": [
@@ -528,14 +532,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24289",
-        "CVE-2026-24291",
-        "CVE-2026-24294",
-        "CVE-2026-25187",
         "CVE-2026-26113",
         "CVE-2026-26110",
-        "CVE-2026-21262",
-        "CVE-2026-26127"
+        "CVE-2026-24291",
+        "CVE-2026-25187",
+        "CVE-2026-24289",
+        "CVE-2026-26127",
+        "CVE-2026-24294",
+        "CVE-2026-21262"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -674,8 +678,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-20362",
-        "CVE-2025-20333"
+        "CVE-2025-20333",
+        "CVE-2025-20362"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -812,8 +816,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20362",
-        "CVE-2025-20333"
+        "CVE-2025-20333",
+        "CVE-2025-20362"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -979,6 +983,42 @@
   },
   {
     "source": "Recorded Future",
+    "title": "From Overwhelmed to Autonomous: Rethinking Threat Intelligence in 2026",
+    "link": "https://www.recordedfuture.com/blog/rethinking-threat-intelligence-in-2026",
+    "published": "Fri, 24 Apr 2026 00:00:00 GMT",
+    "summary": "For most security teams today, volume and access to intelligence isn’t the problem. It’s the speed at which they can turn that intelligence into action. .",
+    "analysis": {
+      "issue": "For most security teams today, volume and access to intelligence isn’t the problem",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "The Iran War: What You Need to Know",
+    "link": "https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know",
+    "published": "Fri, 24 Apr 2026 00:00:00 GMT",
+    "summary": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios.",
+    "analysis": {
+      "issue": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "Critical minerals and cyber operations",
     "link": "https://www.recordedfuture.com/research/critical-minerals-and-cyber-operations",
     "published": "Thu, 23 Apr 2026 00:00:00 GMT",
@@ -1069,24 +1109,6 @@
   },
   {
     "source": "Recorded Future",
-    "title": "The Iran War: What You Need to Know",
-    "link": "https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know",
-    "published": "Fri, 17 Apr 2026 00:00:00 GMT",
-    "summary": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios.",
-    "analysis": {
-      "issue": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
     "title": "4 Essential Integration Workflows for Operationalizing Threat Intelligence Recorded Future",
     "link": "https://www.recordedfuture.com/blog/4-essential-integration-workflows-for-operationalizing-threat-intelligence",
     "published": "Fri, 17 Apr 2026 00:00:00 GMT",
@@ -1137,24 +1159,6 @@
       "threat_categories": [
         "Ransomware",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Iran War: Future Scenario and Business Implications",
-    "link": "https://www.recordedfuture.com/research/iran-war-future-scenarios",
-    "published": "Tue, 14 Apr 2026 00:00:00 GMT",
-    "summary": "Iran War: Future Scenarios and Business Implications",
-    "analysis": {
-      "issue": "Iran War: Future Scenarios and Business Implications",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1325,8 +1329,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

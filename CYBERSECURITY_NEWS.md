@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-24 17:30:26 UTC
+**Last Updated:** 2026-04-25 02:56:08 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,17 +96,63 @@
 
 ---
 
-### 11. [New ‘Pack2TheRoot’ flaw gives hackers root Linux access](https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/)
+### 11. [ADT confirms data breach after ShinyHunters leak threat](https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 24 Apr 2026 18:53:14 -0400  
+**Severity:** Critical  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 12. [Firestarter malware survives Cisco firewall updates, security patches](https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 24 Apr 2026 16:34:08 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2025-20333, CVE-2025-20362  
+**Categories:** Vulnerability, Malware, APT  
+
+---
+
+### 13. [Windows Update gets new controls to reduce forced restarts](https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 24 Apr 2026 16:08:26 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 14. [New BlackFile extortion group linked to surge of vishing attacks](https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 24 Apr 2026 14:26:27 -0400  
+**Severity:** Medium  
+**Categories:** Ransomware, Vulnerability, Phishing  
+
+---
+
+### 15. [Microsoft to roll out Entra passkeys on Windows in late April](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 24 Apr 2026 14:13:55 -0400  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 16. [New ‘Pack2TheRoot’ flaw gives hackers root Linux access](https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Apr 2026 13:28:46 -0400  
-**Severity:** Medium  
+**Severity:** High  
 **CVEs:** CVE-2026-41651  
 **Categories:** Vulnerability  
 
 ---
 
-### 12. [DORA and operational resilience: Credential management as a financial risk control](https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/)
+### 17. [DORA and operational resilience: Credential management as a financial risk control](https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Apr 2026 10:10:20 -0400  
@@ -115,7 +161,7 @@
 
 ---
 
-### 13. [Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks](https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/)
+### 18. [Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks](https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Apr 2026 09:35:33 -0400  
@@ -125,7 +171,7 @@
 
 ---
 
-### 14. [Microsoft now lets admins uninstall Copilot on enterprise devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/)
+### 19. [Microsoft now lets admins uninstall Copilot on enterprise devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Apr 2026 07:38:00 -0400  
@@ -134,58 +180,13 @@
 
 ---
 
-### 15. [Hackers exploit file upload bug in Breeze Cache WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/)
+### 20. [Hackers exploit file upload bug in Breeze Cache WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 23 Apr 2026 17:33:45 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-3844  
 **Categories:** Vulnerability  
-
----
-
-### 16. [Bitwarden CLI npm package compromised to steal developer credentials](https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 23 Apr 2026 15:21:01 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 17. [Trigona ransomware attacks use custom exfiltration tool to steal data](https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 23 Apr 2026 14:59:39 -0400  
-**Severity:** Critical  
-**Categories:** Ransomware, Malware  
-
----
-
-### 18. [New Checkmarx supply-chain breach affects KICS analysis tool](https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 23 Apr 2026 12:05:12 -0400  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
-
----
-
-### 19. [Cosmetics giant Rituals discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 23 Apr 2026 10:16:21 -0400  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 20. [Regular Password Resets Aren’t as Safe as You Think](https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 23 Apr 2026 10:10:20 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability, Supply Chain  
 
 ---
 
@@ -203,7 +204,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
+**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -258,7 +259,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24289, CVE-2026-24291, CVE-2026-24294, CVE-2026-25187, CVE-2026-26113, CVE-2026-26110, CVE-2026-21262, CVE-2026-26127  
+**CVEs:** CVE-2026-26113, CVE-2026-26110, CVE-2026-24291, CVE-2026-25187, CVE-2026-24289, CVE-2026-26127, CVE-2026-24294, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -322,7 +323,7 @@
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 11:26:09 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-20362, CVE-2025-20333  
+**CVEs:** CVE-2025-20333, CVE-2025-20362  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
@@ -387,7 +388,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20362, CVE-2025-20333  
+**CVEs:** CVE-2025-20333, CVE-2025-20362  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -465,7 +466,25 @@
 
 ---
 
-### 51. [Critical minerals and cyber operations](https://www.recordedfuture.com/research/critical-minerals-and-cyber-operations)
+### 51. [From Overwhelmed to Autonomous: Rethinking Threat Intelligence in 2026](https://www.recordedfuture.com/blog/rethinking-threat-intelligence-in-2026)
+
+**Source:** Recorded Future  
+**Published:** Fri, 24 Apr 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+
+**Source:** Recorded Future  
+**Published:** Fri, 24 Apr 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 53. [Critical minerals and cyber operations](https://www.recordedfuture.com/research/critical-minerals-and-cyber-operations)
 
 **Source:** Recorded Future  
 **Published:** Thu, 23 Apr 2026 00:00:00 GMT  
@@ -474,7 +493,7 @@
 
 ---
 
-### 52. [Today, trust is the superpower that makes innovation possible](https://www.recordedfuture.com/blog/trust-is-a-superpower)
+### 54. [Today, trust is the superpower that makes innovation possible](https://www.recordedfuture.com/blog/trust-is-a-superpower)
 
 **Source:** Recorded Future  
 **Published:** Thu, 23 Apr 2026 00:00:00 GMT  
@@ -483,7 +502,7 @@
 
 ---
 
-### 53. [Evolution of Chinese-Language Guarantee Telegram Marketplaces](https://www.recordedfuture.com/research/evolution-of-the-chinese-language)
+### 55. [Evolution of Chinese-Language Guarantee Telegram Marketplaces](https://www.recordedfuture.com/research/evolution-of-the-chinese-language)
 
 **Source:** Recorded Future  
 **Published:** Wed, 22 Apr 2026 00:00:00 GMT  
@@ -492,7 +511,7 @@
 
 ---
 
-### 54. [AI Hype vs. Reality: Is AI Really Rewriting the Vulnerability Equation?](https://www.recordedfuture.com/blog/ai-hype-vs-reality)
+### 56. [AI Hype vs. Reality: Is AI Really Rewriting the Vulnerability Equation?](https://www.recordedfuture.com/blog/ai-hype-vs-reality)
 
 **Source:** Recorded Future  
 **Published:** Wed, 22 Apr 2026 00:00:00 GMT  
@@ -501,7 +520,7 @@
 
 ---
 
-### 55. [Emerging Enterprise Security Risks of AI](https://www.recordedfuture.com/research/emerging-enterprise-security-risks-of-ai)
+### 57. [Emerging Enterprise Security Risks of AI](https://www.recordedfuture.com/research/emerging-enterprise-security-risks-of-ai)
 
 **Source:** Recorded Future  
 **Published:** Tue, 21 Apr 2026 00:00:00 GMT  
@@ -510,7 +529,7 @@
 
 ---
 
-### 56. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+### 58. [4 Essential Integration Workflows for Operationalizing Threat Intelligence Recorded Future](https://www.recordedfuture.com/blog/4-essential-integration-workflows-for-operationalizing-threat-intelligence)
 
 **Source:** Recorded Future  
 **Published:** Fri, 17 Apr 2026 00:00:00 GMT  
@@ -519,16 +538,7 @@
 
 ---
 
-### 57. [4 Essential Integration Workflows for Operationalizing Threat Intelligence Recorded Future](https://www.recordedfuture.com/blog/4-essential-integration-workflows-for-operationalizing-threat-intelligence)
-
-**Source:** Recorded Future  
-**Published:** Fri, 17 Apr 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 58. [From Bazooka to Fake Nikes](https://www.recordedfuture.com/blog/from-bazooka-to-fake-nikes)
+### 59. [From Bazooka to Fake Nikes](https://www.recordedfuture.com/blog/from-bazooka-to-fake-nikes)
 
 **Source:** Recorded Future  
 **Published:** Thu, 16 Apr 2026 00:00:00 GMT  
@@ -537,21 +547,12 @@
 
 ---
 
-### 59. [Your Supply Chain Breach Is Someone Else's Payday](https://www.recordedfuture.com/blog/your-supply-chain-breach-is-someone-else-payday)
+### 60. [Your Supply Chain Breach Is Someone Else's Payday](https://www.recordedfuture.com/blog/your-supply-chain-breach-is-someone-else-payday)
 
 **Source:** Recorded Future  
 **Published:** Wed, 15 Apr 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** Ransomware, Supply Chain  
-
----
-
-### 60. [Iran War: Future Scenario and Business Implications](https://www.recordedfuture.com/research/iran-war-future-scenarios)
-
-**Source:** Recorded Future  
-**Published:** Tue, 14 Apr 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -635,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
