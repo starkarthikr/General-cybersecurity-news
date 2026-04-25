@@ -190,6 +190,43 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft rolls out revamped Windows Insider Program",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
+    "published": "Sat, 25 Apr 2026 13:07:13 -0400",
+    "summary": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability concerns affecting Windows 11. [...]",
+    "analysis": {
+      "issue": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address reliability concerns in Windows 11",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Threat actor uses Microsoft Teams to deploy new “Snow” malware",
+    "link": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
+    "published": "Sat, 25 Apr 2026 11:07:44 -0400",
+    "summary": "A threat group tracked as UNC6692 uses social engineering to deploy a new, custom malware suite named 'Snow' which includes a browser extension, a tunneler, and a backdoor. [...]",
+    "analysis": {
+      "issue": "A threat group tracked as UNC6692 uses social engineering to deploy a new, custom malware suite named “Snow,” which includes a browser extension, a tunneler, and a backdoor",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "ADT confirms data breach after ShinyHunters leak threat",
     "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
     "published": "Fri, 24 Apr 2026 18:53:14 -0400",
@@ -220,8 +257,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20362",
-        "CVE-2025-20333"
+        "CVE-2025-20333",
+        "CVE-2025-20362"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -345,44 +382,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft now lets admins uninstall Copilot on enterprise devices",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/",
-    "published": "Fri, 24 Apr 2026 07:38:00 -0400",
-    "summary": "Microsoft says IT administrators can now uninstall the AI-powered Copilot digital assistant from enterprise devices using a new policy setting, which has become broadly available after the April 2026 Patch Tuesday. [...]",
-    "analysis": {
-      "issue": "Microsoft says IT administrators can now uninstall the AI-powered Copilot digital assistant from enterprise devices using a new policy setting, which has become broadly available after the April 2026 Patch Tuesday",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
-    "published": "Thu, 23 Apr 2026 17:33:45 -0400",
-    "summary": "Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]",
-    "analysis": {
-      "issue": "Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-3844"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
     "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
@@ -414,9 +413,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-33825",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -533,14 +532,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24291",
-        "CVE-2026-24289",
-        "CVE-2026-26113",
-        "CVE-2026-26110",
         "CVE-2026-24294",
+        "CVE-2026-26110",
+        "CVE-2026-21262",
         "CVE-2026-26127",
+        "CVE-2026-24291",
         "CVE-2026-25187",
-        "CVE-2026-21262"
+        "CVE-2026-26113",
+        "CVE-2026-24289"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -699,8 +698,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-20362",
-        "CVE-2025-20333"
+        "CVE-2025-20333",
+        "CVE-2025-20362"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -819,8 +818,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20362",
-        "CVE-2025-20333"
+        "CVE-2025-20333",
+        "CVE-2025-20362"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1332,8 +1331,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
