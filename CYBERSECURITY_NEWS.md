@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-26 13:19:16 UTC
+**Last Updated:** 2026-04-26 17:09:58 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,16 @@
 
 ---
 
-### 11. [Microsoft rolls out revamped Windows Insider Program](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/)
+### 11. [American utility firm Itron discloses breach of internal IT network](https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 26 Apr 2026 10:22:34 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Microsoft rolls out revamped Windows Insider Program](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 25 Apr 2026 13:07:13 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [Threat actor uses Microsoft Teams to deploy new “Snow” malware](https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/)
+### 13. [Threat actor uses Microsoft Teams to deploy new “Snow” malware](https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 25 Apr 2026 11:07:44 -0400  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [ADT confirms data breach after ShinyHunters leak threat](https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/)
+### 14. [ADT confirms data breach after ShinyHunters leak threat](https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Apr 2026 18:53:14 -0400  
@@ -123,17 +132,17 @@
 
 ---
 
-### 14. [Firestarter malware survives Cisco firewall updates, security patches](https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/)
+### 15. [Firestarter malware survives Cisco firewall updates, security patches](https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Apr 2026 16:34:08 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2025-20362, CVE-2025-20333  
+**CVEs:** CVE-2025-20333, CVE-2025-20362  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
 
-### 15. [Windows Update gets new controls to reduce forced restarts](https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/)
+### 16. [Windows Update gets new controls to reduce forced restarts](https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Apr 2026 16:08:26 -0400  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [New BlackFile extortion group linked to surge of vishing attacks](https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/)
+### 17. [New BlackFile extortion group linked to surge of vishing attacks](https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Apr 2026 14:26:27 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [Microsoft to roll out Entra passkeys on Windows in late April](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/)
+### 18. [Microsoft to roll out Entra passkeys on Windows in late April](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Apr 2026 14:13:55 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [New ‘Pack2TheRoot’ flaw gives hackers root Linux access](https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/)
+### 19. [New ‘Pack2TheRoot’ flaw gives hackers root Linux access](https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Apr 2026 13:28:46 -0400  
@@ -170,22 +179,12 @@
 
 ---
 
-### 19. [DORA and operational resilience: Credential management as a financial risk control](https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/)
+### 20. [DORA and operational resilience: Credential management as a financial risk control](https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Apr 2026 10:10:20 -0400  
 **Severity:** Critical  
 **Categories:** Data Breach  
-
----
-
-### 20. [Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks](https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 24 Apr 2026 09:35:33 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2025-48700  
-**Categories:** Vulnerability  
 
 ---
 
@@ -203,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -258,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26127, CVE-2026-24289, CVE-2026-25187, CVE-2026-24291, CVE-2026-26110, CVE-2026-26113, CVE-2026-21262, CVE-2026-24294  
+**CVEs:** CVE-2026-25187, CVE-2026-21262, CVE-2026-26113, CVE-2026-26127, CVE-2026-26110, CVE-2026-24289, CVE-2026-24294, CVE-2026-24291  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -331,7 +330,7 @@
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 11:26:09 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-20362, CVE-2025-20333  
+**CVEs:** CVE-2025-20333, CVE-2025-20362  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
@@ -350,7 +349,7 @@
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 09:49:27 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33694, CVE-2026-40050  
+**CVEs:** CVE-2026-40050, CVE-2026-33694  
 **Categories:** Vulnerability  
 
 ---
@@ -387,7 +386,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20362, CVE-2025-20333  
+**CVEs:** CVE-2025-20333, CVE-2025-20362  
 **Categories:** Vulnerability, Malware  
 
 ---
