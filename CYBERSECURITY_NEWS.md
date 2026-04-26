@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-26 04:02:24 UTC
+**Last Updated:** 2026-04-26 09:30:46 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -128,7 +128,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Apr 2026 16:34:08 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2025-20333, CVE-2025-20362  
+**CVEs:** CVE-2025-20362, CVE-2025-20333  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
@@ -203,7 +203,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -258,7 +258,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-26127, CVE-2026-24289, CVE-2026-21262, CVE-2026-24291, CVE-2026-24294, CVE-2026-25187, CVE-2026-26110  
+**CVEs:** CVE-2026-21262, CVE-2026-24294, CVE-2026-25187, CVE-2026-26110, CVE-2026-24291, CVE-2026-26113, CVE-2026-24289, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -331,7 +331,7 @@
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 11:26:09 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-20333, CVE-2025-20362  
+**CVEs:** CVE-2025-20362, CVE-2025-20333  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
@@ -350,7 +350,7 @@
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 09:49:27 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-40050, CVE-2026-33694  
+**CVEs:** CVE-2026-33694, CVE-2026-40050  
 **Categories:** Vulnerability  
 
 ---
@@ -387,7 +387,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20333, CVE-2025-20362  
+**CVEs:** CVE-2025-20362, CVE-2025-20333  
 **Categories:** Vulnerability, Malware  
 
 ---
