@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-27 10:32:00 UTC
+**Last Updated:** 2026-04-27 14:09:25 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud](https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html)
+### 1. [Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side](https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 27 Apr 2026 17:28:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks](https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 27 Apr 2026 17:24:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware](https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 27 Apr 2026 16:53:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 4. [Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud](https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Apr 2026 12:03:00 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html)
+### 5. [Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 25 Apr 2026 14:56:00 +0530  
@@ -22,7 +49,7 @@
 
 ---
 
-### 3. [CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html)
+### 6. [CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 25 Apr 2026 10:38:00 +0530  
@@ -31,7 +58,7 @@
 
 ---
 
-### 4. [FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html)
+### 7. [FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 22:36:00 +0530  
@@ -41,7 +68,7 @@
 
 ---
 
-### 5. [NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html)
+### 8. [NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 19:43:00 +0530  
@@ -50,7 +77,7 @@
 
 ---
 
-### 6. [Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine](https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html)
+### 9. [Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine](https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 17:19:00 +0530  
@@ -59,7 +86,7 @@
 
 ---
 
-### 7. [26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases](https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html)
+### 10. [26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases](https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 17:18:00 +0530  
@@ -68,35 +95,43 @@
 
 ---
 
-### 8. [Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2](https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html)
+### 11. [Medtronic confirms breach after hackers claim 9 million records theft](https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 24 Apr 2026 14:59:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 27 Apr 2026 09:50:42 -0400  
 **Severity:** Low  
-**Categories:** Malware, APT  
+**Categories:** General Security  
 
 ---
 
-### 9. [LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure](https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html)
+### 12. [Money launderer linked to $230M crypto heist gets 70 months in prison](https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 24 Apr 2026 12:54:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 27 Apr 2026 09:01:38 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-33626  
-**Categories:** Vulnerability, Phishing  
+**Categories:** General Security  
 
 ---
 
-### 10. [UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
+### 13. [Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know](https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 23 Apr 2026 23:46:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 27 Apr 2026 09:00:09 -0400  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** APT  
 
 ---
 
-### 11. [American utility firm Itron discloses breach of internal IT network](https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/)
+### 14. [Microsoft says Outlook.com outage is causing sign‑in failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 27 Apr 2026 08:03:46 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 15. [American utility firm Itron discloses breach of internal IT network](https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 26 Apr 2026 10:22:34 -0400  
@@ -105,7 +140,7 @@
 
 ---
 
-### 12. [Microsoft rolls out revamped Windows Insider Program](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/)
+### 16. [Microsoft rolls out revamped Windows Insider Program](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 25 Apr 2026 13:07:13 -0400  
@@ -114,7 +149,7 @@
 
 ---
 
-### 13. [Threat actor uses Microsoft Teams to deploy new “Snow” malware](https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/)
+### 17. [Threat actor uses Microsoft Teams to deploy new “Snow” malware](https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 25 Apr 2026 11:07:44 -0400  
@@ -123,7 +158,7 @@
 
 ---
 
-### 14. [ADT confirms data breach after ShinyHunters leak threat](https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/)
+### 18. [ADT confirms data breach after ShinyHunters leak threat](https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Apr 2026 18:53:14 -0400  
@@ -132,59 +167,22 @@
 
 ---
 
-### 15. [Firestarter malware survives Cisco firewall updates, security patches](https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/)
+### 19. [Firestarter malware survives Cisco firewall updates, security patches](https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Apr 2026 16:34:08 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2025-20362, CVE-2025-20333  
+**CVEs:** CVE-2025-20333, CVE-2025-20362  
 **Categories:** Vulnerability, Malware, APT  
 
 ---
 
-### 16. [Windows Update gets new controls to reduce forced restarts](https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/)
+### 20. [Windows Update gets new controls to reduce forced restarts](https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 24 Apr 2026 16:08:26 -0400  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 17. [New BlackFile extortion group linked to surge of vishing attacks](https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 24 Apr 2026 14:26:27 -0400  
-**Severity:** Medium  
-**Categories:** Ransomware, Vulnerability, Phishing  
-
----
-
-### 18. [Microsoft to roll out Entra passkeys on Windows in late April](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 24 Apr 2026 14:13:55 -0400  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 19. [New ‘Pack2TheRoot’ flaw gives hackers root Linux access](https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 24 Apr 2026 13:28:46 -0400  
-**Severity:** High  
-**CVEs:** CVE-2026-41651  
-**Categories:** Vulnerability  
-
----
-
-### 20. [DORA and operational resilience: Credential management as a financial risk control](https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 24 Apr 2026 10:10:20 -0400  
-**Severity:** Critical  
-**Categories:** Data Breach  
 
 ---
 
@@ -257,7 +255,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-24291, CVE-2026-26110, CVE-2026-26127, CVE-2026-24289, CVE-2026-21262, CVE-2026-24294, CVE-2026-25187  
+**CVEs:** CVE-2026-26113, CVE-2026-21262, CVE-2026-26127, CVE-2026-24291, CVE-2026-25187, CVE-2026-26110, CVE-2026-24289, CVE-2026-24294  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -280,7 +278,54 @@
 
 ---
 
-### 31. [Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access](https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/)
+### 31. [Incomplete Windows Patch Opens Door to Zero-Click Attacks](https://www.securityweek.com/incomplete-windows-patch-opens-door-to-zero-click-attacks/)
+
+**Source:** Security Week  
+**Published:** Mon, 27 Apr 2026 13:09:27 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-21510, CVE-2026-21513, CVE-2026-32202  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 32. [OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years](https://www.securityweek.com/openssh-flaw-allowing-full-root-shell-access-lurked-for-15-years/)
+
+**Source:** Security Week  
+**Published:** Mon, 27 Apr 2026 12:29:18 +0000  
+**Severity:** High  
+**CVEs:** CVE-2026-35414  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [Malicious AI Prompt Injection Attacks Increasing, but Sophistication Still Low: Google](https://www.securityweek.com/malicious-ai-prompt-injection-attacks-increasing-but-sophistication-still-low-google/)
+
+**Source:** Security Week  
+**Published:** Mon, 27 Apr 2026 12:08:19 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 34. [Energy and Water Management Firm Itron Hacked](https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/)
+
+**Source:** Security Week  
+**Published:** Mon, 27 Apr 2026 11:18:59 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 35. [UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Malware](https://www.securityweek.com/unc6692-uses-email-bombing-social-engineering-to-deploy-snow-malware/)
+
+**Source:** Security Week  
+**Published:** Mon, 27 Apr 2026 10:44:55 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware, Phishing, APT  
+
+---
+
+### 36. [Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access](https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Apr 2026 10:10:14 +0000  
@@ -290,7 +335,7 @@
 
 ---
 
-### 32. [US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator](https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/)
+### 37. [US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator](https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Apr 2026 09:39:33 +0000  
@@ -299,7 +344,7 @@
 
 ---
 
-### 33. [Firefox Vulnerability Allows Tor User Fingerprinting](https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/)
+### 38. [Firefox Vulnerability Allows Tor User Fingerprinting](https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Apr 2026 08:39:28 +0000  
@@ -309,7 +354,7 @@
 
 ---
 
-### 34. [China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks](https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/)
+### 39. [China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks](https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/)
 
 **Source:** Security Week  
 **Published:** Sat, 25 Apr 2026 10:50:00 +0000  
@@ -318,58 +363,12 @@
 
 ---
 
-### 35. [Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions](https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/)
+### 40. [Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions](https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 14:57:18 +0000  
 **Severity:** High  
 **Categories:** Ransomware, Vulnerability, Malware, APT  
-
----
-
-### 36. [In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device](https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/)
-
-**Source:** Security Week  
-**Published:** Fri, 24 Apr 2026 14:31:51 +0000  
-**Severity:** Critical  
-**Categories:** Data Breach, Vulnerability, Malware, Supply Chain  
-
----
-
-### 37. [Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents](https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/)
-
-**Source:** Security Week  
-**Published:** Fri, 24 Apr 2026 12:34:53 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, APT  
-
----
-
-### 38. [Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise](https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/)
-
-**Source:** Security Week  
-**Published:** Fri, 24 Apr 2026 12:32:08 +0000  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 39. [US Federal Agency’s Cisco Firewall Infected With ‘Firestarter’ Backdoor](https://www.securityweek.com/us-federal-agencys-cisco-firewall-infected-with-firestarter-backdoor/)
-
-**Source:** Security Week  
-**Published:** Fri, 24 Apr 2026 11:26:09 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2025-20362, CVE-2025-20333  
-**Categories:** Vulnerability, Malware, APT  
-
----
-
-### 40. [Trump Administration Vows Crackdown on Chinese Companies ‘Exploiting’ AI Models Made in US](https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/)
-
-**Source:** Security Week  
-**Published:** Fri, 24 Apr 2026 11:13:55 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -387,7 +386,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20362, CVE-2025-20333  
+**CVEs:** CVE-2025-20333, CVE-2025-20362  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -741,7 +740,16 @@
 
 ---
 
-### 81. [CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/)
+### 81. [CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Apr 27, 2026 00:00:00-0700  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 22, 2026 00:00:00-0500  
@@ -750,7 +758,7 @@
 
 ---
 
-### 82. [CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-cloud-security-delivers-264-percent-roi-through-unified-cloud-protection/)
+### 83. [CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-cloud-security-delivers-264-percent-roi-through-unified-cloud-protection/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 22, 2026 00:00:00-0500  
@@ -759,7 +767,7 @@
 
 ---
 
-### 83. [CrowdStrike Falcon Platform Achieves 441% ROI in Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-achieves-441-percent-roi-in-three-years/)
+### 84. [CrowdStrike Falcon Platform Achieves 441% ROI in Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-achieves-441-percent-roi-in-three-years/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 21, 2026 00:00:00-0700  
@@ -768,7 +776,7 @@
 
 ---
 
-### 84. [Introducing the CrowdStrike Shadow AI Visibility Service](https://www.crowdstrike.com/en-us/blog/crowdstrike-shadow-AI-visibility-service/)
+### 85. [Introducing the CrowdStrike Shadow AI Visibility Service](https://www.crowdstrike.com/en-us/blog/crowdstrike-shadow-AI-visibility-service/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 21, 2026 00:00:00-0400  
@@ -777,7 +785,7 @@
 
 ---
 
-### 85. [Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.](https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/)
+### 86. [Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.](https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 20, 2026 00:00:00-0700  
@@ -786,7 +794,7 @@
 
 ---
 
-### 86. [Frontier AI for Defenders: CrowdStrike and OpenAI TAC](https://www.crowdstrike.com/en-us/blog/frontier-ai-for-defenders-crowdstrike-and-openai-tac/)
+### 87. [Frontier AI for Defenders: CrowdStrike and OpenAI TAC](https://www.crowdstrike.com/en-us/blog/frontier-ai-for-defenders-crowdstrike-and-openai-tac/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 16, 2026 00:00:00-0500  
@@ -795,7 +803,7 @@
 
 ---
 
-### 87. [April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/)
+### 88. [April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 14, 2026 00:00:00-0500  
@@ -804,7 +812,7 @@
 
 ---
 
-### 88. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
+### 89. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 06, 2026 00:00:00-0400  
@@ -813,19 +821,10 @@
 
 ---
 
-### 89. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
+### 90. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 05, 2026 00:00:00-0700  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Apr 01, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
 
