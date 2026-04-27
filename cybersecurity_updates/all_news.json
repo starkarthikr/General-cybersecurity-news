@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
+    "link": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
+    "published": "Mon, 27 Apr 2026 19:49:00 +0530",
+    "summary": "Checkmarx has disclosed that its ongoing investigation tied to the supply chain security incident has revealed that a cybercriminal group published data related to the company on the dark web.\n\"Based on current evidence, we believe this data originated from Checkmarx's GitHub repository, and that access to that repository was facilitated through the initial supply chain attack of March 23, 2026,",
+    "analysis": {
+      "issue": "Checkmarx data surfaced after March 23, 2026 supply chain attack, prompting repository lockdown and investigation, raising exposure concerns",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
+    "link": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html",
+    "published": "Mon, 27 Apr 2026 19:00:00 +0530",
+    "summary": "Everything is dumb again. This week feels broken in a very familiar way. Old tricks are back. New tools are doing shady crap. Supply chains got hit. Fake help desks worked. Weird research showed how easy some attacks still are.\nMost of it feels like stuff we should have fixed years ago. Bad extensions. Stolen creds. Remote tools are getting abused. Malware hides in places people trust. Same",
+    "analysis": {
+      "issue": "This week’s ThreatsDay covers supply chain attacks, fake help desks, wiper malware, AI prompt traps, RMM abuse, phishing kits, and more",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
     "link": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html",
     "published": "Mon, 27 Apr 2026 17:28:00 +0530",
@@ -150,38 +188,74 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
-    "link": "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html",
-    "published": "Fri, 24 Apr 2026 17:19:00 +0530",
-    "summary": "The AI Agent Authority Gap - From Ungoverned to Delegation\nAs discussed in our previous article, AI agents are exposing a structural gap in enterprise security, but the problem is often framed too narrowly.\nThe issue is not simply that agents are new actors. It is that agents are delegated actors. They do not emerge with independent authority. They are triggered, invoked, provisioned, or",
+    "source": "Bleeping Computer",
+    "title": "FTC: Americans lost over $2.1 billion to social media scams in 2025",
+    "link": "https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/",
+    "published": "Mon, 27 Apr 2026 12:27:53 -0400",
+    "summary": "The U.S. Federal Trade Commission (FTC) warned of a massive increase in losses from social media scams since 2020, exceeding $2.1 billion in 2025. [...]",
     "analysis": {
-      "issue": "AI agents inherit hidden authority from fragmented identities, creating a delegation gap that demands real-time governance",
+      "issue": "Federal Trade Commission (FTC) warned of a massive increase in losses from social media scams since 2020, exceeding $2",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases",
-    "link": "https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html",
-    "published": "Fri, 24 Apr 2026 17:18:00 +0530",
-    "summary": "Cybersecurity researchers have discovered a set of malicious apps on the Apple App Store that impersonate popular cryptocurrency wallets in an attempt to steal recovery phrases and private keys since at least fall 2025.\n\"Once launched, these apps redirect users to browser pages designed to look similar to the App Store and distribute trojanized versions of legitimate wallets,\" Kaspersky",
+    "source": "Bleeping Computer",
+    "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
+    "link": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
+    "published": "Mon, 27 Apr 2026 11:17:37 -0400",
+    "summary": "An attacker pushed a malicious version of the popular elementary-data package Python Package Index (PyPI) to steal sensitive developer data and cryptocurrency wallets. [...]",
     "analysis": {
-      "issue": "26 FakeWallet apps since fall 2025 hijack crypto recovery phrases via Apple App Store China accounts, enabling wallet theft",
+      "issue": "An attacker pushed a malicious version of the popular elementary-data package Python Package Index (PyPI) to steal sensitive developer data and cryptocurrency wallets",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Home security giant ADT data breach affects 5.5 million people",
+    "link": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
+    "published": "Mon, 27 Apr 2026 10:43:11 -0400",
+    "summary": "The ShinyHunters extortion group stole the personal information of 5.5 million individuals after breaching the systems of home security giant ADT earlier this month, according to data breach notification service Have I Been Pwned. [...]",
+    "analysis": {
+      "issue": "The ShinyHunters extortion group stole the personal information of 5",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Webinar: Spotting cyberattacks before they begin",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/",
+    "published": "Mon, 27 Apr 2026 10:25:35 -0400",
+    "summary": "On Thursday, April 30 at 2:00 PM ET, BleepingComputer will host a live webinar with threat intelligence company Flare and threat intelligence researcher Tammy Harper, exploring how security teams can identify early warning signs of attacks before they escalate into incidents. [...]",
+    "analysis": {
+      "issue": "Many cyberattacks don’t start with exploitation, they start with signals that are commonly overlooked",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -287,85 +361,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Threat actor uses Microsoft Teams to deploy new “Snow” malware",
-    "link": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
-    "published": "Sat, 25 Apr 2026 11:07:44 -0400",
-    "summary": "A threat group tracked as UNC6692 uses social engineering to deploy a new, custom malware suite named 'Snow' which includes a browser extension, a tunneler, and a backdoor. [...]",
-    "analysis": {
-      "issue": "A threat group tracked as UNC6692 uses social engineering to deploy a new, custom malware suite named “Snow,” which includes a browser extension, a tunneler, and a backdoor",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ADT confirms data breach after ShinyHunters leak threat",
-    "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
-    "published": "Fri, 24 Apr 2026 18:53:14 -0400",
-    "summary": "Home security giant ADT has confirmed a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
-    "analysis": {
-      "issue": "Home security giant ADT has confirmed a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Firestarter malware survives Cisco firewall updates, security patches",
-    "link": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
-    "published": "Fri, 24 Apr 2026 16:34:08 -0400",
-    "summary": "Cybersecurity agencies in the U.S. and U.K. are warning about a custom malware called Firestarter persisting on Cisco Firepower and Secure Firewall devices running Adaptive Security Appliance (ASA) or Firepower Threat Defense (FTD) software. [...]",
-    "analysis": {
-      "issue": "Cybersecurity agencies in the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-20333",
-        "CVE-2025-20362"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows Update gets new controls to reduce forced restarts",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/",
-    "published": "Fri, 24 Apr 2026 16:08:26 -0400",
-    "summary": "Microsoft is rolling out Windows Update improvements that give users more control over how updates are installed while reducing disruption from frequent or poorly timed restarts. [...]",
-    "analysis": {
-      "issue": "Microsoft is rolling out Windows Update improvements that give users more control over how updates are installed while reducing disruption from frequent or poorly timed restarts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -525,12 +520,12 @@
       "cves": [
         "CVE-2026-26113",
         "CVE-2026-21262",
-        "CVE-2026-26127",
-        "CVE-2026-24291",
         "CVE-2026-25187",
         "CVE-2026-26110",
+        "CVE-2026-24294",
+        "CVE-2026-26127",
         "CVE-2026-24289",
-        "CVE-2026-24294"
+        "CVE-2026-24291"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -590,9 +585,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-32202",
         "CVE-2026-21510",
-        "CVE-2026-21513",
-        "CVE-2026-32202"
+        "CVE-2026-21513"
       ],
       "threat_categories": [
         "Vulnerability",

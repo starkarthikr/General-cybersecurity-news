@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-27 14:09:25 UTC
+**Last Updated:** 2026-04-27 17:49:18 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side](https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html)
+### 1. [Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack](https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 27 Apr 2026 19:49:00 +0530  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 2. [⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More](https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 27 Apr 2026 19:00:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing, Supply Chain  
+
+---
+
+### 3. [Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side](https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Apr 2026 17:28:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks](https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html)
+### 4. [PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks](https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Apr 2026 17:24:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware](https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html)
+### 5. [Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware](https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Apr 2026 16:53:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud](https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html)
+### 6. [Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud](https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Apr 2026 12:03:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html)
+### 7. [Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 25 Apr 2026 14:56:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html)
+### 8. [CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 25 Apr 2026 10:38:00 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html)
+### 9. [FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 22:36:00 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html)
+### 10. [NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 19:43:00 +0530  
@@ -77,25 +95,43 @@
 
 ---
 
-### 9. [Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine](https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html)
+### 11. [FTC: Americans lost over $2.1 billion to social media scams in 2025](https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 24 Apr 2026 17:19:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 27 Apr 2026 12:27:53 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Vulnerability  
 
 ---
 
-### 10. [26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases](https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html)
+### 12. [PyPI package with 1.1M monthly downloads hacked to push infostealer](https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 24 Apr 2026 17:18:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 27 Apr 2026 11:17:37 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [Medtronic confirms breach after hackers claim 9 million records theft](https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/)
+### 13. [Home security giant ADT data breach affects 5.5 million people](https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 27 Apr 2026 10:43:11 -0400  
+**Severity:** Critical  
+**Categories:** Data Breach  
+
+---
+
+### 14. [Webinar: Spotting cyberattacks before they begin](https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 27 Apr 2026 10:25:35 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 15. [Medtronic confirms breach after hackers claim 9 million records theft](https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 09:50:42 -0400  
@@ -104,7 +140,7 @@
 
 ---
 
-### 12. [Money launderer linked to $230M crypto heist gets 70 months in prison](https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/)
+### 16. [Money launderer linked to $230M crypto heist gets 70 months in prison](https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 09:01:38 -0400  
@@ -113,7 +149,7 @@
 
 ---
 
-### 13. [Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know](https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/)
+### 17. [Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know](https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 09:00:09 -0400  
@@ -122,7 +158,7 @@
 
 ---
 
-### 14. [Microsoft says Outlook.com outage is causing sign‑in failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/)
+### 18. [Microsoft says Outlook.com outage is causing sign‑in failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 08:03:46 -0400  
@@ -131,7 +167,7 @@
 
 ---
 
-### 15. [American utility firm Itron discloses breach of internal IT network](https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/)
+### 19. [American utility firm Itron discloses breach of internal IT network](https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 26 Apr 2026 10:22:34 -0400  
@@ -140,48 +176,11 @@
 
 ---
 
-### 16. [Microsoft rolls out revamped Windows Insider Program](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/)
+### 20. [Microsoft rolls out revamped Windows Insider Program](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 25 Apr 2026 13:07:13 -0400  
 **Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 17. [Threat actor uses Microsoft Teams to deploy new “Snow” malware](https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 25 Apr 2026 11:07:44 -0400  
-**Severity:** High  
-**Categories:** Malware, Phishing  
-
----
-
-### 18. [ADT confirms data breach after ShinyHunters leak threat](https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 24 Apr 2026 18:53:14 -0400  
-**Severity:** Critical  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 19. [Firestarter malware survives Cisco firewall updates, security patches](https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 24 Apr 2026 16:34:08 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2025-20333, CVE-2025-20362  
-**Categories:** Vulnerability, Malware, APT  
-
----
-
-### 20. [Windows Update gets new controls to reduce forced restarts](https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 24 Apr 2026 16:08:26 -0400  
-**Severity:** High  
 **Categories:** General Security  
 
 ---
@@ -255,7 +254,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-21262, CVE-2026-26127, CVE-2026-24291, CVE-2026-25187, CVE-2026-26110, CVE-2026-24289, CVE-2026-24294  
+**CVEs:** CVE-2026-26113, CVE-2026-21262, CVE-2026-25187, CVE-2026-26110, CVE-2026-24294, CVE-2026-26127, CVE-2026-24289, CVE-2026-24291  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -283,7 +282,7 @@
 **Source:** Security Week  
 **Published:** Mon, 27 Apr 2026 13:09:27 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21510, CVE-2026-21513, CVE-2026-32202  
+**CVEs:** CVE-2026-32202, CVE-2026-21510, CVE-2026-21513  
 **Categories:** Vulnerability, APT  
 
 ---
