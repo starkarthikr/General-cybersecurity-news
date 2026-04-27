@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-27 04:07:25 UTC
+**Last Updated:** 2026-04-27 10:32:00 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html)
+### 1. [Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud](https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 27 Apr 2026 12:03:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 2. [Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 25 Apr 2026 14:56:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html)
+### 3. [CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 25 Apr 2026 10:38:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html)
+### 4. [FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 22:36:00 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html)
+### 5. [NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 19:43:00 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine](https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html)
+### 6. [Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine](https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 17:19:00 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases](https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html)
+### 7. [26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases](https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 17:18:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2](https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html)
+### 8. [Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2](https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 14:59:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure](https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html)
+### 9. [LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure](https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 24 Apr 2026 12:54:00 +0530  
@@ -78,21 +87,12 @@
 
 ---
 
-### 9. [UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
+### 10. [UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 23 Apr 2026 23:46:00 +0530  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 10. [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 23 Apr 2026 19:12:00 +0530  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 
@@ -202,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -257,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-24289, CVE-2026-21262, CVE-2026-24294, CVE-2026-24291, CVE-2026-26127, CVE-2026-26113, CVE-2026-26110  
+**CVEs:** CVE-2026-26113, CVE-2026-24291, CVE-2026-26110, CVE-2026-26127, CVE-2026-24289, CVE-2026-21262, CVE-2026-24294, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -280,7 +280,36 @@
 
 ---
 
-### 31. [China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks](https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/)
+### 31. [Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access](https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/)
+
+**Source:** Security Week  
+**Published:** Mon, 27 Apr 2026 10:10:14 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-41651  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 32. [US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator](https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/)
+
+**Source:** Security Week  
+**Published:** Mon, 27 Apr 2026 09:39:33 +0000  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 33. [Firefox Vulnerability Allows Tor User Fingerprinting](https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/)
+
+**Source:** Security Week  
+**Published:** Mon, 27 Apr 2026 08:39:28 +0000  
+**Severity:** High  
+**CVEs:** CVE-2026-6770  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 34. [China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks](https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/)
 
 **Source:** Security Week  
 **Published:** Sat, 25 Apr 2026 10:50:00 +0000  
@@ -289,7 +318,7 @@
 
 ---
 
-### 32. [Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions](https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/)
+### 35. [Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions](https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 14:57:18 +0000  
@@ -298,7 +327,7 @@
 
 ---
 
-### 33. [In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device](https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/)
+### 36. [In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device](https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 14:31:51 +0000  
@@ -307,7 +336,7 @@
 
 ---
 
-### 34. [Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents](https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/)
+### 37. [Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents](https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 12:34:53 +0000  
@@ -316,7 +345,7 @@
 
 ---
 
-### 35. [Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise](https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/)
+### 38. [Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise](https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 12:32:08 +0000  
@@ -325,7 +354,7 @@
 
 ---
 
-### 36. [US Federal Agency’s Cisco Firewall Infected With ‘Firestarter’ Backdoor](https://www.securityweek.com/us-federal-agencys-cisco-firewall-infected-with-firestarter-backdoor/)
+### 39. [US Federal Agency’s Cisco Firewall Infected With ‘Firestarter’ Backdoor](https://www.securityweek.com/us-federal-agencys-cisco-firewall-infected-with-firestarter-backdoor/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 11:26:09 +0000  
@@ -335,40 +364,12 @@
 
 ---
 
-### 37. [Trump Administration Vows Crackdown on Chinese Companies ‘Exploiting’ AI Models Made in US](https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/)
+### 40. [Trump Administration Vows Crackdown on Chinese Companies ‘Exploiting’ AI Models Made in US](https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/)
 
 **Source:** Security Week  
 **Published:** Fri, 24 Apr 2026 11:13:55 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 38. [Vulnerabilities Patched in CrowdStrike, Tenable Products](https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/)
-
-**Source:** Security Week  
-**Published:** Fri, 24 Apr 2026 09:49:27 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-40050, CVE-2026-33694  
-**Categories:** Vulnerability  
-
----
-
-### 39. [Bitwarden NPM Package Hit in Supply Chain Attack](https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/)
-
-**Source:** Security Week  
-**Published:** Fri, 24 Apr 2026 08:07:02 +0000  
-**Severity:** Low  
-**Categories:** Data Breach, Vulnerability, Malware, Supply Chain  
-
----
-
-### 40. [Copperhelm Raises $7 Million for Agentic Cloud Security Platform](https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/)
-
-**Source:** Security Week  
-**Published:** Fri, 24 Apr 2026 07:31:09 +0000  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -649,7 +650,16 @@
 
 ---
 
-### 71. [Medical data of 500,000 UK volunteers listed for sale on Alibaba](https://www.malwarebytes.com/blog/news/2026/04/medical-data-of-500000-uk-volunteers-listed-for-sale-on-alibaba)
+### 71. [A week in security (April 20 &#8211; April 26)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-20-april-26)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 27 Apr 2026 07:02:00 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 72. [Medical data of 500,000 UK volunteers listed for sale on Alibaba](https://www.malwarebytes.com/blog/news/2026/04/medical-data-of-500000-uk-volunteers-listed-for-sale-on-alibaba)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 24 Apr 2026 12:32:20 GMT  
@@ -658,7 +668,7 @@
 
 ---
 
-### 72. [How cyberattacks on companies affect everyone](https://www.malwarebytes.com/blog/privacy/2026/04/how-cyberattacks-on-companies-affect-everyone)
+### 73. [How cyberattacks on companies affect everyone](https://www.malwarebytes.com/blog/privacy/2026/04/how-cyberattacks-on-companies-affect-everyone)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 23 Apr 2026 15:34:09 GMT  
@@ -667,7 +677,7 @@
 
 ---
 
-### 73. [Apple fixes iOS bug that kept deleted notifications, including chat previews](https://www.malwarebytes.com/blog/news/2026/04/apple-fixes-ios-bug-that-kept-deleted-notifications-including-chat-previews)
+### 74. [Apple fixes iOS bug that kept deleted notifications, including chat previews](https://www.malwarebytes.com/blog/news/2026/04/apple-fixes-ios-bug-that-kept-deleted-notifications-including-chat-previews)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 23 Apr 2026 10:27:32 GMT  
@@ -677,7 +687,7 @@
 
 ---
 
-### 74. [Roblox clamps down on chats and age checks as legal pressure builds](https://www.malwarebytes.com/blog/news/2026/04/roblox-clamps-down-on-chats-and-age-checks-as-legal-pressure-builds)
+### 75. [Roblox clamps down on chats and age checks as legal pressure builds](https://www.malwarebytes.com/blog/news/2026/04/roblox-clamps-down-on-chats-and-age-checks-as-legal-pressure-builds)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 23 Apr 2026 07:57:37 GMT  
@@ -686,7 +696,7 @@
 
 ---
 
-### 75. [Malicious trading website drops malware that hands your browser to attackers](https://www.malwarebytes.com/blog/threat-intel/2026/04/malicious-trading-website-drop-malware-that-hands-over-your-browser-to-attackers)
+### 76. [Malicious trading website drops malware that hands your browser to attackers](https://www.malwarebytes.com/blog/threat-intel/2026/04/malicious-trading-website-drop-malware-that-hands-over-your-browser-to-attackers)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 22 Apr 2026 12:30:02 GMT  
@@ -695,7 +705,7 @@
 
 ---
 
-### 76. [Researcher claims Claude Desktop installs “spyware” on macOS](https://www.malwarebytes.com/blog/news/2026/04/researcher-claims-claude-desktop-installs-spyware-on-macos)
+### 77. [Researcher claims Claude Desktop installs “spyware” on macOS](https://www.malwarebytes.com/blog/news/2026/04/researcher-claims-claude-desktop-installs-spyware-on-macos)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 22 Apr 2026 11:53:11 GMT  
@@ -704,7 +714,7 @@
 
 ---
 
-### 77. [Fake Google Antigravity downloads are stealing accounts in minutes](https://www.malwarebytes.com/blog/threat-intel/2026/04/fake-google-antigravity-downloads-are-stealing-accounts-in-minutes)
+### 78. [Fake Google Antigravity downloads are stealing accounts in minutes](https://www.malwarebytes.com/blog/threat-intel/2026/04/fake-google-antigravity-downloads-are-stealing-accounts-in-minutes)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 21 Apr 2026 14:04:51 GMT  
@@ -713,7 +723,7 @@
 
 ---
 
-### 78. [Real Apple notifications are being used to drive tech support scams](https://www.malwarebytes.com/blog/news/2026/04/real-apple-notifications-are-being-used-to-drive-tech-support-scams)
+### 79. [Real Apple notifications are being used to drive tech support scams](https://www.malwarebytes.com/blog/news/2026/04/real-apple-notifications-are-being-used-to-drive-tech-support-scams)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 21 Apr 2026 12:59:31 GMT  
@@ -722,21 +732,12 @@
 
 ---
 
-### 79. [Android 17 ends all-or-nothing access to your contacts](https://www.malwarebytes.com/blog/mobile/2026/04/android-17-ends-all-or-nothing-access-to-your-contacts)
+### 80. [Android 17 ends all-or-nothing access to your contacts](https://www.malwarebytes.com/blog/mobile/2026/04/android-17-ends-all-or-nothing-access-to-your-contacts)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 21 Apr 2026 10:12:27 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 80. [Big Tech can stop scams. They just don&#8217;t (Lock and Code S07E08)](https://www.malwarebytes.com/blog/podcast/2026/04/big-tech-can-stop-scams-they-just-dont-lock-and-code-s07e08)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 20 Apr 2026 14:16:12 GMT  
-**Severity:** High  
-**Categories:** Malware, Phishing  
 
 ---
 

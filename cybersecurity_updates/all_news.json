@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
+    "link": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html",
+    "published": "Mon, 27 Apr 2026 12:03:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a telecommunications fraud campaign that uses fake CAPTCHA verification tricks to dupe unsuspecting users into sending international text messages that incur charges on their mobile bills, generating illicit revenue for the threat actors who lease the phone numbers.\nAccording to a new report published by Infoblox, the operation is believed to",
+    "analysis": {
+      "issue": "Fake CAPTCHA IRSF scam sends up to 60 SMS messages since June 2020, exploiting 17 countries and costing victims $30 per attack",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software",
     "link": "https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html",
     "published": "Sat, 25 Apr 2026 14:56:00 +0530",
@@ -136,7 +155,7 @@
     "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
     "link": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
     "published": "Fri, 24 Apr 2026 12:54:00 +0530",
-    "summary": "A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving LLMs, has come under active exploitation in the wild less than 13 hours after its public disclosure.\nThe vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relates to a Server-Side Request Forgery (SSRF) vulnerability that could be exploited to access sensitive data.\n\"A server-side",
+    "summary": "A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving large language models (LLMs), has come under active exploitation in the wild less than 13 hours after its public disclosure.\nThe vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relates to a Server-Side Request Forgery (SSRF) vulnerability that could be exploited to access",
     "analysis": {
       "issue": "CVE-2026-33626 exploited within 13 hours of disclosure, enabling SSRF-based cloud credential theft and internal scanning",
       "solution": null,
@@ -167,24 +186,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
-    "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
-    "published": "Thu, 23 Apr 2026 19:12:00 +0530",
-    "summary": "Bitwarden CLI, the command-line interface for the password manager Bitwarden, has reportedly been compromised as part of a newly discovered and ongoing Checkmarx supply chain campaign, according to findings from JFrog and Socket.\n\"The affected package version appears to be @bitwarden/cli@2026.4.0, and the malicious code was published in 'bw1.js,' a file included in the package contents,\" the",
-    "analysis": {
-      "issue": "0 was compromised via GitHub Actions in Checkmarx campaign, exposing secrets and distributing malicious npm code",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   },
@@ -411,9 +412,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-33825",
         "CVE-2026-34621",
-        "CVE-2026-32201",
-        "CVE-2026-33825"
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -530,14 +531,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-25187",
+        "CVE-2026-26113",
+        "CVE-2026-24291",
+        "CVE-2026-26110",
+        "CVE-2026-26127",
         "CVE-2026-24289",
         "CVE-2026-21262",
         "CVE-2026-24294",
-        "CVE-2026-24291",
-        "CVE-2026-26127",
-        "CVE-2026-26113",
-        "CVE-2026-26110"
+        "CVE-2026-25187"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -581,6 +582,66 @@
         "Malware",
         "APT",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access",
+    "link": "https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/",
+    "published": "Mon, 27 Apr 2026 10:10:14 +0000",
+    "summary": "<p>A race condition in PackageKit allows unprivileged users to escalate privileges when installing packages.</p>\n<p>The post <a href=\"https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/\">Easily Exploitable &#8216;Pack2TheRoot&#8217; Linux Vulnerability Leads to Root Access</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A race condition in PackageKit allows unprivileged users to escalate privileges when installing packages",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-41651"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator",
+    "link": "https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/",
+    "published": "Mon, 27 Apr 2026 09:39:33 +0000",
+    "summary": "<p>U.S. officials have announced a sweeping crackdown on Southeast Asian cyberscam operations as part of what U.S. Attorney Jeanine Pirro characterized Friday as a “new theater of war” launched by the Trump administration against Chinese transnational organized crime. The crackdown, led by a U.S. government Scam Center Strike Force, includes the Treasury Department’s sanctioning of [&#8230;]</p>\n<p>The post <a href=\"https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/\">US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "By Flipboard Reddit Whatsapp Whatsapp Email U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Firefox Vulnerability Allows Tor User Fingerprinting",
+    "link": "https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/",
+    "published": "Mon, 27 Apr 2026 08:39:28 +0000",
+    "summary": "<p>The vulnerability is tracked as CVE-2026-6770 and it has been patched with the release of Firefox 150 and Tor 15.0.10.</p>\n<p>The post <a href=\"https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/\">Firefox Vulnerability Allows Tor User Fingerprinting</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The vulnerability is tracked as CVE-2026-6770 and it has been patched with the release of Firefox 150 and Tor 15",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-6770"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -721,66 +782,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Vulnerabilities Patched in CrowdStrike, Tenable Products",
-    "link": "https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/",
-    "published": "Fri, 24 Apr 2026 09:49:27 +0000",
-    "summary": "<p>CrowdStrike has fixed a critical LogScale vulnerability, while Tenable addressed a high-severity Nessus flaw.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/\">Vulnerabilities Patched in CrowdStrike, Tenable Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CrowdStrike has fixed a critical LogScale vulnerability, while Tenable addressed a high-severity Nessus flaw",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-40050",
-        "CVE-2026-33694"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Bitwarden NPM Package Hit in Supply Chain Attack",
-    "link": "https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/",
-    "published": "Fri, 24 Apr 2026 08:07:02 +0000",
-    "summary": "<p>Tied to a fresh Checkmarx supply chain attack claimed by TeamPCP, the incident references the Shai-Hulud worm.</p>\n<p>The post <a href=\"https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/\">Bitwarden NPM Package Hit in Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Tied to a fresh Checkmarx supply chain attack claimed by TeamPCP, the incident references the Shai-Hulud worm",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Copperhelm Raises $7 Million for Agentic Cloud Security Platform",
-    "link": "https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/",
-    "published": "Fri, 24 Apr 2026 07:31:09 +0000",
-    "summary": "<p>The Israel-based company, which just emerged from stealth mode, was founded by cloud and security experts from RSA, McAfee, and Unity.</p>\n<p>The post <a href=\"https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/\">Copperhelm Raises $7 Million for Agentic Cloud Security Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The Israel-based company, which just emerged from stealth mode, was founded by cloud and security experts from RSA, McAfee, and Unity",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1360,6 +1361,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "A week in security (April 20 &#8211; April 26)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-20-april-26",
+    "published": "Mon, 27 Apr 2026 07:02:00 GMT",
+    "summary": "A list of topics we covered in the week of April 20 to April 26 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Medical data of 500,000 UK volunteers listed for sale on Alibaba",
     "link": "https://www.malwarebytes.com/blog/news/2026/04/medical-data-of-500000-uk-volunteers-listed-for-sale-on-alibaba",
     "published": "Fri, 24 Apr 2026 12:32:20 GMT",
@@ -1521,25 +1540,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Big Tech can stop scams. They just don&#8217;t (Lock and Code S07E08)",
-    "link": "https://www.malwarebytes.com/blog/podcast/2026/04/big-tech-can-stop-scams-they-just-dont-lock-and-code-s07e08",
-    "published": "Mon, 20 Apr 2026 14:16:12 GMT",
-    "summary": "This week on the Lock and Code podcast, we speak with Marti DeLiema about what really works in protecting older adults from financial scams.",
-    "analysis": {
-      "issue": "This week on the Lock and Code podcast… A dreadful thing happens far too often whenever an older adult falls for a scam: They get blamed for it",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
