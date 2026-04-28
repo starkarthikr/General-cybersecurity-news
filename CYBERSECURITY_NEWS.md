@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-28 14:27:23 UTC
+**Last Updated:** 2026-04-28 18:05:27 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About](https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html)
+### 1. [Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign](https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 28 Apr 2026 23:09:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi](https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 28 Apr 2026 19:31:00 +0530  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 3. [Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About](https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Apr 2026 17:28:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE](https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html)
+### 4. [Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE](https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Apr 2026 16:48:00 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [After Mythos: New Playbooks For a Zero-Window Era](https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html)
+### 5. [After Mythos: New Playbooks For a Zero-Window Era](https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Apr 2026 16:00:00 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks](https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html)
+### 6. [Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks](https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Apr 2026 13:27:00 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover](https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html)
+### 7. [Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover](https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Apr 2026 12:07:00 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202](https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html)
+### 8. [Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202](https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Apr 2026 11:20:00 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack](https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html)
+### 9. [Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack](https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Apr 2026 19:49:00 +0530  
@@ -69,7 +87,7 @@
 
 ---
 
-### 8. [⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More](https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html)
+### 10. [⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More](https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Apr 2026 19:00:00 +0530  
@@ -78,25 +96,25 @@
 
 ---
 
-### 9. [Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side](https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html)
+### 11. [US reportedly charges Scattered Spider hacker arrested in Finland](https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 27 Apr 2026 17:28:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 28 Apr 2026 11:39:52 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** Ransomware  
 
 ---
 
-### 10. [PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks](https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html)
+### 12. [Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data](https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 27 Apr 2026 17:24:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 28 Apr 2026 10:50:40 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** Data Breach, Supply Chain  
 
 ---
 
-### 11. [Microsoft to deprecate legacy TLS in Exchange Online starting July](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/)
+### 13. [Microsoft to deprecate legacy TLS in Exchange Online starting July](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Apr 2026 09:18:36 -0400  
@@ -105,7 +123,7 @@
 
 ---
 
-### 12. [Inside an OPSEC Playbook: How Threat Actors Evade Detection](https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/)
+### 14. [Inside an OPSEC Playbook: How Threat Actors Evade Detection](https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Apr 2026 08:50:58 -0400  
@@ -114,7 +132,7 @@
 
 ---
 
-### 13. [Microsoft: New Remote Desktop warnings may display incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/)
+### 15. [Microsoft: New Remote Desktop warnings may display incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Apr 2026 05:51:26 -0400  
@@ -123,7 +141,7 @@
 
 ---
 
-### 14. [Microsoft asks iPhone users to reauthenticate after Outlook outage](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/)
+### 16. [Microsoft asks iPhone users to reauthenticate after Outlook outage](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Apr 2026 04:37:12 -0400  
@@ -132,7 +150,7 @@
 
 ---
 
-### 15. [Robinhood account creation flaw abused to send phishing emails](https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/)
+### 17. [Robinhood account creation flaw abused to send phishing emails](https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 19:11:01 -0400  
@@ -141,7 +159,7 @@
 
 ---
 
-### 16. [GlassWorm malware attacks return via 73 OpenVSX "sleeper" extensions](https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/)
+### 18. [GlassWorm malware attacks return via 73 OpenVSX "sleeper" extensions](https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 17:41:01 -0400  
@@ -150,7 +168,7 @@
 
 ---
 
-### 17. [Canada arrests three for operating “SMS blaster” device in Toronto](https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/)
+### 19. [Canada arrests three for operating “SMS blaster” device in Toronto](https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 16:00:31 -0400  
@@ -159,30 +177,12 @@
 
 ---
 
-### 18. [Alleged Silk Typhoon hacker extradited to US for cyberespionage](https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/)
+### 20. [Alleged Silk Typhoon hacker extradited to US for cyberespionage](https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 15:56:03 -0400  
 **Severity:** Critical  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 19. [FTC: Americans lost over $2.1 billion to social media scams in 2025](https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 27 Apr 2026 12:27:53 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 20. [PyPI package with 1.1M monthly downloads hacked to push infostealer](https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 27 Apr 2026 11:17:37 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -255,7 +255,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26127, CVE-2026-25187, CVE-2026-26110, CVE-2026-24294, CVE-2026-26113, CVE-2026-21262, CVE-2026-24289, CVE-2026-24291  
+**CVEs:** CVE-2026-24294, CVE-2026-26113, CVE-2026-26110, CVE-2026-24291, CVE-2026-24289, CVE-2026-25187, CVE-2026-21262, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -278,7 +278,43 @@
 
 ---
 
-### 31. [Alleged Chinese State Hacker Extradited to US](https://www.securityweek.com/alleged-chinese-state-hacker-extradited-to-us/)
+### 31. [Vimeo Confirms User and Customer Data Breach](https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/)
+
+**Source:** Security Week  
+**Published:** Tue, 28 Apr 2026 17:11:55 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach, Supply Chain  
+
+---
+
+### 32. [The Mythos Moment: Enterprises Must Fight Agents with Agents](https://www.securityweek.com/the-mythos-moment-enterprises-must-fight-agents-with-agents/)
+
+**Source:** Security Week  
+**Published:** Tue, 28 Apr 2026 15:45:00 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 33. [Webinar Today: A Step-by-Step Approach to AI Governance](https://www.securityweek.com/webinar-today-a-step-by-step-approach-to-ai-governance/)
+
+**Source:** Security Week  
+**Published:** Tue, 28 Apr 2026 15:29:45 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 34. [Robinhood Vulnerability Exploited for Phishing Attacks](https://www.securityweek.com/robinhood-vulnerability-exploited-for-phishing-attacks/)
+
+**Source:** Security Week  
+**Published:** Tue, 28 Apr 2026 14:49:51 +0000  
+**Severity:** High  
+**Categories:** Data Breach, Vulnerability, Phishing  
+
+---
+
+### 35. [Alleged Chinese State Hacker Extradited to US](https://www.securityweek.com/alleged-chinese-state-hacker-extradited-to-us/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Apr 2026 13:36:12 +0000  
@@ -287,7 +323,7 @@
 
 ---
 
-### 32. [Dozens of Open VSX Extension Clones Linked to GlassWorm Malware](https://www.securityweek.com/dozens-of-open-vsx-extension-clones-linked-to-glassworm-malware/)
+### 36. [Dozens of Open VSX Extension Clones Linked to GlassWorm Malware](https://www.securityweek.com/dozens-of-open-vsx-extension-clones-linked-to-glassworm-malware/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Apr 2026 12:40:24 +0000  
@@ -296,7 +332,7 @@
 
 ---
 
-### 33. [Sevii Launches Cyber Swarm Defense to Make Agentic AI Security Costs Predictable](https://www.securityweek.com/sevii-launches-cyber-swarm-defense-to-make-agentic-ai-security-costs-predictable/)
+### 37. [Sevii Launches Cyber Swarm Defense to Make Agentic AI Security Costs Predictable](https://www.securityweek.com/sevii-launches-cyber-swarm-defense-to-make-agentic-ai-security-costs-predictable/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Apr 2026 12:00:00 +0000  
@@ -305,7 +341,7 @@
 
 ---
 
-### 34. [Electric Motorcycles and Scooters Face Hacking Risks to Security and Rider Safety](https://www.securityweek.com/electric-motorcycles-and-scooters-face-hacking-risks-to-security-and-rider-safety/)
+### 38. [Electric Motorcycles and Scooters Face Hacking Risks to Security and Rider Safety](https://www.securityweek.com/electric-motorcycles-and-scooters-face-hacking-risks-to-security-and-rider-safety/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Apr 2026 11:57:20 +0000  
@@ -315,7 +351,7 @@
 
 ---
 
-### 35. [No Patch for New PhantomRPC Privilege Escalation Technique in Windows](https://www.securityweek.com/no-patch-for-new-phantomrpc-privilege-escalation-technique-in-windows/)
+### 39. [No Patch for New PhantomRPC Privilege Escalation Technique in Windows](https://www.securityweek.com/no-patch-for-new-phantomrpc-privilege-escalation-technique-in-windows/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Apr 2026 11:31:02 +0000  
@@ -324,50 +360,12 @@
 
 ---
 
-### 36. [Germany Suspects Russia Is Behind Signal Phishing That Targeted Top Officials](https://www.securityweek.com/germany-suspects-russia-is-behind-signal-phishing-that-targeted-top-officials/)
+### 40. [Germany Suspects Russia Is Behind Signal Phishing That Targeted Top Officials](https://www.securityweek.com/germany-suspects-russia-is-behind-signal-phishing-that-targeted-top-officials/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Apr 2026 10:54:57 +0000  
 **Severity:** High  
 **Categories:** Vulnerability, Malware, Phishing, APT  
-
----
-
-### 37. [Spectrum Security Emerges From Stealth Mode With $19 Million](https://www.securityweek.com/spectrum-security-emerges-from-stealth-mode-with-19-million/)
-
-**Source:** Security Week  
-**Published:** Tue, 28 Apr 2026 08:25:41 +0000  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 38. [Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak](https://www.securityweek.com/medtronic-hack-confirmed-after-shinyhunters-threatens-data-leak/)
-
-**Source:** Security Week  
-**Published:** Tue, 28 Apr 2026 06:35:19 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 39. [Incomplete Windows Patch Opens Door to Zero-Click Attacks](https://www.securityweek.com/incomplete-windows-patch-opens-door-to-zero-click-attacks/)
-
-**Source:** Security Week  
-**Published:** Mon, 27 Apr 2026 13:09:27 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-32202, CVE-2026-21513, CVE-2026-21510  
-**Categories:** Vulnerability, APT  
-
----
-
-### 40. [OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years](https://www.securityweek.com/openssh-flaw-allowing-full-root-shell-access-lurked-for-15-years/)
-
-**Source:** Security Week  
-**Published:** Mon, 27 Apr 2026 12:29:18 +0000  
-**Severity:** High  
-**CVEs:** CVE-2026-35414  
-**Categories:** Vulnerability  
 
 ---
 
@@ -633,7 +631,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
