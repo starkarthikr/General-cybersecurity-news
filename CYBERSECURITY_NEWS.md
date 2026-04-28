@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-27 17:49:18 UTC
+**Last Updated:** 2026-04-28 03:43:57 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,43 @@
 
 ---
 
-### 11. [FTC: Americans lost over $2.1 billion to social media scams in 2025](https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/)
+### 11. [Robinhood account creation flaw abused to send phishing emails](https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 27 Apr 2026 19:11:01 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 12. [GlassWorm malware attacks return via 73 OpenVSX "sleeper" extensions](https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 27 Apr 2026 17:41:01 -0400  
+**Severity:** High  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 13. [Canada arrests three for operating “SMS blaster” device in Toronto](https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 27 Apr 2026 16:00:31 -0400  
+**Severity:** Low  
+**Categories:** Phishing, APT  
+
+---
+
+### 14. [Alleged Silk Typhoon hacker extradited to US for cyberespionage](https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 27 Apr 2026 15:56:03 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 15. [FTC: Americans lost over $2.1 billion to social media scams in 2025](https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 12:27:53 -0400  
@@ -104,7 +140,7 @@
 
 ---
 
-### 12. [PyPI package with 1.1M monthly downloads hacked to push infostealer](https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/)
+### 16. [PyPI package with 1.1M monthly downloads hacked to push infostealer](https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 11:17:37 -0400  
@@ -113,7 +149,7 @@
 
 ---
 
-### 13. [Home security giant ADT data breach affects 5.5 million people](https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/)
+### 17. [Home security giant ADT data breach affects 5.5 million people](https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 10:43:11 -0400  
@@ -122,7 +158,7 @@
 
 ---
 
-### 14. [Webinar: Spotting cyberattacks before they begin](https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/)
+### 18. [Webinar: Spotting cyberattacks before they begin](https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 10:25:35 -0400  
@@ -131,7 +167,7 @@
 
 ---
 
-### 15. [Medtronic confirms breach after hackers claim 9 million records theft](https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/)
+### 19. [Medtronic confirms breach after hackers claim 9 million records theft](https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 09:50:42 -0400  
@@ -140,46 +176,10 @@
 
 ---
 
-### 16. [Money launderer linked to $230M crypto heist gets 70 months in prison](https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/)
+### 20. [Money launderer linked to $230M crypto heist gets 70 months in prison](https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 09:01:38 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 17. [Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know](https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 27 Apr 2026 09:00:09 -0400  
-**Severity:** Low  
-**Categories:** APT  
-
----
-
-### 18. [Microsoft says Outlook.com outage is causing sign‑in failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 27 Apr 2026 08:03:46 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [American utility firm Itron discloses breach of internal IT network](https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 26 Apr 2026 10:22:34 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Microsoft rolls out revamped Windows Insider Program](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 25 Apr 2026 13:07:13 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -199,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -254,7 +254,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-21262, CVE-2026-25187, CVE-2026-26110, CVE-2026-24294, CVE-2026-26127, CVE-2026-24289, CVE-2026-24291  
+**CVEs:** CVE-2026-24291, CVE-2026-21262, CVE-2026-26113, CVE-2026-24289, CVE-2026-24294, CVE-2026-26110, CVE-2026-25187, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -282,7 +282,7 @@
 **Source:** Security Week  
 **Published:** Mon, 27 Apr 2026 13:09:27 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32202, CVE-2026-21510, CVE-2026-21513  
+**CVEs:** CVE-2026-21513, CVE-2026-32202, CVE-2026-21510  
 **Categories:** Vulnerability, APT  
 
 ---
