@@ -1,6 +1,62 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
+    "link": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
+    "published": "Tue, 28 Apr 2026 17:28:00 +0530",
+    "summary": "Every security program is betting on the same assumption: once a system is connected, the problem is solved. Open a ticket, stand up a gateway, push the data through. Done.\nThat assumption is wrong. It is also a major reason Zero Trust programs stall.\nNew research my team just published puts numbers on it. The Cyber360: Defending the Digital Battlespace report, based on a survey of 500 security",
+    "analysis": {
+      "issue": "84% of leaders say cross-network data sharing raises risk in 2026, as 53% rely on manual transfers, widening Zero Trust gaps",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
+    "link": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html",
+    "published": "Tue, 28 Apr 2026 16:48:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a critical security flaw impacting LeRobot, Hugging Face's open-source robotics platform with nearly 24,000 GitHub stars, that could be exploited to achieve remote code execution.\nThe vulnerability in question is CVE-2026-25874 (CVSS score: 9.3), which has been described as a case of untrusted data deserialization stemming from the use of the",
+    "analysis": {
+      "issue": "3 allows unauthenticated RCE via pickle over gRPC, risking AI systems and sensitive data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-25874"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "After Mythos: New Playbooks For a Zero-Window Era",
+    "link": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html",
+    "published": "Tue, 28 Apr 2026 16:00:00 +0530",
+    "summary": "When patching isn’t fast enough, NDR helps contain the next era of threats.\nIf you’ve been tracking advancements in AI, you know the exploit window, the short buffer that organizations relied on to patch and protect after a vulnerability disclosure, is closing fast.\nAnthropic’s new model, Claude Mythos, and its Project Glasswing, showed that finding exploitable vulnerabilities and subtle cracks",
+    "analysis": {
+      "issue": "AI models like Claude Mythos find vulnerabilities in minutes, collapsing patch windows and forcing assume-breach defenses to contain threats",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
     "link": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
     "published": "Tue, 28 Apr 2026 13:27:00 +0530",
@@ -130,57 +186,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
-    "link": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
-    "published": "Mon, 27 Apr 2026 16:53:00 +0530",
-    "summary": "Cybersecurity researchers have flagged dozens of Microsoft Visual Studio Code (VS Code) extensions on the Open VSX repository that are linked to a persistent information-stealing campaign dubbed GlassWorm.\nThe cluster of 73 extensions has been identified as cloned versions of their legitimate counterparts. Of these, six have been confirmed to be malicious, with the remaining acting as seemingly",
+    "source": "Bleeping Computer",
+    "title": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
+    "published": "Tue, 28 Apr 2026 09:18:36 -0400",
+    "summary": "Microsoft says it will start blocking legacy TLS connections for POP and IMAP email clients in Exchange Online starting in July 2026. [...]",
     "analysis": {
-      "issue": "73 cloned VS Code extensions since Dec 21, 2025 fuel GlassWorm v2, installing cross-IDE malware and stealing credentials",
+      "issue": "Microsoft says it will start blocking legacy TLS connections for POP and IMAP email clients in Exchange Online starting in July 2026",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "General Security"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
-    "link": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html",
-    "published": "Mon, 27 Apr 2026 12:03:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a telecommunications fraud campaign that uses fake CAPTCHA verification tricks to dupe unsuspecting users into sending international text messages that incur charges on their mobile bills, generating illicit revenue for the threat actors who lease the phone numbers.\nAccording to a new report published by Infoblox, the operation is believed to",
+    "source": "Bleeping Computer",
+    "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection",
+    "link": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
+    "published": "Tue, 28 Apr 2026 08:50:58 -0400",
+    "summary": "Threat actors are now publishing structured OPSEC playbooks to stay undetected. Flare reveals how these guides outline layered infrastructure, identity separation, and long-term evasion strategies. [...]",
     "analysis": {
-      "issue": "Fake CAPTCHA IRSF scam sends up to 60 SMS messages since June 2020, exploiting 17 countries and costing victims $30 per attack",
+      "issue": "When cybercrime operations are disrupted, the cause is typically not due to sophisticated detection, but rather basic operational mistakes such as identity reuse, weak infrastructure separation, or overlooked metadata",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software",
-    "link": "https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html",
-    "published": "Sat, 25 Apr 2026 14:56:00 +0530",
-    "summary": "Cybersecurity researchers have discovered a new Lua-based malware created years before the notorious Stuxnet worm that aimed to sabotage Iran's nuclear program by destroying uranium enrichment centrifuges.\nAccording to a new report published by SentinelOne, the previously undocumented cyber sabotage framework dates back to 2005, primarily targeting high-precision calculation software to tamper",
-    "analysis": {
-      "issue": "Fast16 malware from 2005 predates Stuxnet by five years, targeting engineering software to sabotage calculations and reshape cyberwar history",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -333,42 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Home security giant ADT data breach affects 5.5 million people",
-    "link": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
-    "published": "Mon, 27 Apr 2026 10:43:11 -0400",
-    "summary": "The ShinyHunters extortion group stole the personal information of 5.5 million individuals after breaching the systems of home security giant ADT earlier this month, according to data breach notification service Have I Been Pwned. [...]",
-    "analysis": {
-      "issue": "The ShinyHunters extortion group stole the personal information of 5",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Webinar: Spotting cyberattacks before they begin",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/",
-    "published": "Mon, 27 Apr 2026 10:25:35 -0400",
-    "summary": "On Thursday, April 30 at 2:00 PM ET, BleepingComputer will host a live webinar with threat intelligence company Flare and threat intelligence researcher Tammy Harper, exploring how security teams can identify early warning signs of attacks before they escalate into incidents. [...]",
-    "analysis": {
-      "issue": "Many cyberattacks don’t start with exploitation, they start with signals that are commonly overlooked",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
     "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
@@ -400,9 +401,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
         "CVE-2026-33825",
-        "CVE-2026-32201"
+        "CVE-2026-32201",
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -519,14 +520,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26113",
-        "CVE-2026-24289",
+        "CVE-2026-26127",
+        "CVE-2026-25187",
         "CVE-2026-26110",
         "CVE-2026-24294",
-        "CVE-2026-24291",
-        "CVE-2026-26127",
+        "CVE-2026-26113",
         "CVE-2026-21262",
-        "CVE-2026-25187"
+        "CVE-2026-24289",
+        "CVE-2026-24291"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -570,6 +571,124 @@
         "Malware",
         "APT",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Alleged Chinese State Hacker Extradited to US",
+    "link": "https://www.securityweek.com/alleged-chinese-state-hacker-extradited-to-us/",
+    "published": "Tue, 28 Apr 2026 13:36:12 +0000",
+    "summary": "<p>A member of Silk Typhoon, Xu Zewei is accused of launching cyberattacks against universities in the US.</p>\n<p>The post <a href=\"https://www.securityweek.com/alleged-chinese-state-hacker-extradited-to-us/\">Alleged Chinese State Hacker Extradited to US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A member of Silk Typhoon, Xu Zewei is accused of launching cyberattacks against universities in the US",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Dozens of Open VSX Extension Clones Linked to GlassWorm Malware",
+    "link": "https://www.securityweek.com/dozens-of-open-vsx-extension-clones-linked-to-glassworm-malware/",
+    "published": "Tue, 28 Apr 2026 12:40:24 +0000",
+    "summary": "<p>Over 70 cloned Open VSX extensions are likely sleeper extensions designed to distribute malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/dozens-of-open-vsx-extension-clones-linked-to-glassworm-malware/\">Dozens of Open VSX Extension Clones Linked to GlassWorm Malware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Over 70 cloned Open VSX extensions are likely sleeper extensions designed to distribute malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Sevii Launches Cyber Swarm Defense to Make Agentic AI Security Costs Predictable",
+    "link": "https://www.securityweek.com/sevii-launches-cyber-swarm-defense-to-make-agentic-ai-security-costs-predictable/",
+    "published": "Tue, 28 Apr 2026 12:00:00 +0000",
+    "summary": "<p>Agentic AI can be expensive to use, causing further and unpredictable pressure on tight budgets.</p>\n<p>The post <a href=\"https://www.securityweek.com/sevii-launches-cyber-swarm-defense-to-make-agentic-ai-security-costs-predictable/\">Sevii Launches Cyber Swarm Defense to Make Agentic AI Security Costs Predictable</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Agentic AI can be expensive to use, causing further and unpredictable pressure on tight budgets",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Electric Motorcycles and Scooters Face Hacking Risks to Security and Rider Safety",
+    "link": "https://www.securityweek.com/electric-motorcycles-and-scooters-face-hacking-risks-to-security-and-rider-safety/",
+    "published": "Tue, 28 Apr 2026 11:57:20 +0000",
+    "summary": "<p>Vulnerabilities in Zero Motorcycles electric motorcycles and Yadea electric scooters can pose physical security and safety risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/electric-motorcycles-and-scooters-face-hacking-risks-to-security-and-rider-safety/\">Electric Motorcycles and Scooters Face Hacking Risks to Security and Rider Safety</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Vulnerabilities in Zero Motorcycles electric motorcycles and Yadea electric scooters can pose physical security and safety risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-1354",
+        "CVE-2025-70994"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "No Patch for New PhantomRPC Privilege Escalation Technique in Windows",
+    "link": "https://www.securityweek.com/no-patch-for-new-phantomrpc-privilege-escalation-technique-in-windows/",
+    "published": "Tue, 28 Apr 2026 11:31:02 +0000",
+    "summary": "<p>A fake RPC server can be used to listen for RPC requests and impersonate the target service to elevate privileges to System.</p>\n<p>The post <a href=\"https://www.securityweek.com/no-patch-for-new-phantomrpc-privilege-escalation-technique-in-windows/\">No Patch for New PhantomRPC Privilege Escalation Technique in Windows</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A fake RPC server can be used to listen for RPC requests and impersonate the target service to elevate privileges to System",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Germany Suspects Russia Is Behind Signal Phishing That Targeted Top Officials",
+    "link": "https://www.securityweek.com/germany-suspects-russia-is-behind-signal-phishing-that-targeted-top-officials/",
+    "published": "Tue, 28 Apr 2026 10:54:57 +0000",
+    "summary": "<p>Federal prosecutors have been conducting a preliminary investigation since mid-February 2026 into alleged cyberattacks on Signal accounts.</p>\n<p>The post <a href=\"https://www.securityweek.com/germany-suspects-russia-is-behind-signal-phishing-that-targeted-top-officials/\">Germany Suspects Russia Is Behind Signal Phishing That Targeted Top Officials</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Federal prosecutors have been conducting a preliminary investigation since mid-February 2026 into alleged cyberattacks on Signal accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT"
       ]
     }
   },
@@ -624,8 +743,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-32202",
-        "CVE-2026-21510",
-        "CVE-2026-21513"
+        "CVE-2026-21513",
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -654,120 +773,21 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Malicious AI Prompt Injection Attacks Increasing, but Sophistication Still Low: Google",
-    "link": "https://www.securityweek.com/malicious-ai-prompt-injection-attacks-increasing-but-sophistication-still-low-google/",
-    "published": "Mon, 27 Apr 2026 12:08:19 +0000",
-    "summary": "<p>The tech giant found that many indirect prompt injection attempts are harmless, but some malicious exploits have also been identified.</p>\n<p>The post <a href=\"https://www.securityweek.com/malicious-ai-prompt-injection-attacks-increasing-but-sophistication-still-low-google/\">Malicious AI Prompt Injection Attacks Increasing, but Sophistication Still Low: Google</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Five defender priorities from the Talos Year in Review",
+    "link": "https://blog.talosintelligence.com/five-defender-priorities-from-the-talos-year-in-review/",
+    "published": "Tue, 28 Apr 2026 13:23:20 GMT",
+    "summary": "With attackers moving faster than ever, it’s easy to feel overwhelmed. This blog breaks down five practical priorities from the Cisco Talos 2025 Year in Review to help defenders focus and prioritize, amidst all the noise.",
     "analysis": {
-      "issue": "The tech giant found that many indirect prompt injection attempts are harmless, but some malicious exploits have also been identified",
+      "issue": "A familiar theme in security right now is that the barrier to entry for attackers is at an all-time low",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Energy and Water Management Firm Itron Hacked",
-    "link": "https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/",
-    "published": "Mon, 27 Apr 2026 11:18:59 +0000",
-    "summary": "<p>Itron, which serves utilities and cities around the world, discovered unauthorized access to its systems on April 13.</p>\n<p>The post <a href=\"https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/\">Energy and Water Management Firm Itron Hacked</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Itron, which serves utilities and cities around the world, discovered unauthorized access to its systems on April 13",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Malware",
-    "link": "https://www.securityweek.com/unc6692-uses-email-bombing-social-engineering-to-deploy-snow-malware/",
-    "published": "Mon, 27 Apr 2026 10:44:55 +0000",
-    "summary": "<p>The threat actor infected victims with the Snow malware family – Snowbelt, Snowglaze, and Snowbasin – for persistent access.</p>\n<p>The post <a href=\"https://www.securityweek.com/unc6692-uses-email-bombing-social-engineering-to-deploy-snow-malware/\">UNC6692 Uses Email Bombing, Social Engineering to Deploy &#8216;Snow&#8217; Malware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The threat actor infected victims with the Snow malware family – Snowbelt, Snowglaze, and Snowbasin – for persistent access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "Vulnerability",
-        "Malware",
-        "Phishing",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access",
-    "link": "https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/",
-    "published": "Mon, 27 Apr 2026 10:10:14 +0000",
-    "summary": "<p>A race condition in PackageKit allows unprivileged users to escalate privileges when installing packages.</p>\n<p>The post <a href=\"https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/\">Easily Exploitable &#8216;Pack2TheRoot&#8217; Linux Vulnerability Leads to Root Access</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A race condition in PackageKit allows unprivileged users to escalate privileges when installing packages",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-41651"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator",
-    "link": "https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/",
-    "published": "Mon, 27 Apr 2026 09:39:33 +0000",
-    "summary": "<p>US conducts sweeping crackdown on Southeast Asian cyberscam operations as part of what officials say is a “new theater of war”.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/\">US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "US conducts sweeping crackdown on Southeast Asian cyberscam operations as part of what officials say is a “new theater of war”",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Firefox Vulnerability Allows Tor User Fingerprinting",
-    "link": "https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/",
-    "published": "Mon, 27 Apr 2026 08:39:28 +0000",
-    "summary": "<p>The vulnerability is tracked as CVE-2026-6770 and it has been patched with the release of Firefox 150 and Tor 15.0.10.</p>\n<p>The post <a href=\"https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/\">Firefox Vulnerability Allows Tor User Fingerprinting</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The vulnerability is tracked as CVE-2026-6770 and it has been patched with the release of Firefox 150 and Tor 15",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-6770"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -951,20 +971,21 @@
     }
   },
   {
-    "source": "Talos Blog",
-    "title": "More than pretty pictures: Wendy Bishop on visual storytelling in tech",
-    "link": "https://blog.talosintelligence.com/more-than-pretty-pictures-wendy-bishop-on-visual-storytelling-in-tech/",
-    "published": "Thu, 16 Apr 2026 10:00:28 GMT",
-    "summary": "Wendy shares the unique challenges and rewards of bridging the gap between artistic expression and highly technical research.",
+    "source": "Recorded Future",
+    "title": "Lazarus Doesn't Need AGI",
+    "link": "https://www.recordedfuture.com/blog/lazarus-does-not-need-agi",
+    "published": "Tue, 28 Apr 2026 00:00:00 GMT",
+    "summary": "Explore the 2026 Claude Mythos breach, supply chain risks, and the $2B+ crypto theft pipeline.",
     "analysis": {
-      "issue": "In this episode of Humans of Talos, Amy sits down with Wendy Bishop, Head of Creative, to explore the vital role of design in the world of cybersecurity",
+      "issue": "Explore the 2026 Claude Mythos breach, supply chain risks, and the $2B+ crypto theft pipeline",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "APT",
+        "Supply Chain"
       ]
     }
   },
@@ -1127,25 +1148,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Your Supply Chain Breach Is Someone Else's Payday",
-    "link": "https://www.recordedfuture.com/blog/your-supply-chain-breach-is-someone-else-payday",
-    "published": "Wed, 15 Apr 2026 00:00:00 GMT",
-    "summary": "A supply chain attack by TeamPCP compromised trusted software tools to harvest credentials at scale, enabling payroll fraud, logistics theft, and ransomware extortion.",
-    "analysis": {
-      "issue": "A supply chain attack by TeamPCP compromised trusted software tools to harvest credentials at scale, enabling payroll fraud, logistics theft, and ransomware extortion",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Supply Chain"
       ]
     }
   },
@@ -1316,8 +1318,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1342,6 +1344,26 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Fake CAPTCHA scam turns a quick click into a costly phone bill",
+    "link": "https://www.malwarebytes.com/blog/news/2026/04/fake-captcha-scam-turns-a-quick-click-into-a-costly-phone-bill",
+    "published": "Tue, 28 Apr 2026 10:46:01 GMT",
+    "summary": "Scammers are using fake CAPTCHA pages to rack up international SMS charges on victims’ phone bills, and then take a cut.",
+    "analysis": {
+      "issue": "Researchers have documented a long‑running campaign that uses fake CAPTCHA pages to trick mobile users into sending dozens of international SMS messages in the background",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
       ]
     }
   },
@@ -1509,24 +1531,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Real Apple notifications are being used to drive tech support scams",
-    "link": "https://www.malwarebytes.com/blog/news/2026/04/real-apple-notifications-are-being-used-to-drive-tech-support-scams",
-    "published": "Tue, 21 Apr 2026 12:59:31 GMT",
-    "summary": "Scammers have found a way to abuse legitimate Apple notification emails to trick people into calling fake tech support numbers.",
-    "analysis": {
-      "issue": "Scammers have found a way to abuse legitimate Apple account notification emails to trick targets into calling fake tech support numbers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
