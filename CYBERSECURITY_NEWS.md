@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-28 04:13:07 UTC
+**Last Updated:** 2026-04-28 10:31:37 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack](https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html)
+### 1. [Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks](https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 28 Apr 2026 13:27:00 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover](https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 28 Apr 2026 12:07:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202](https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 28 Apr 2026 11:20:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-32202  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack](https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Apr 2026 19:49:00 +0530  
@@ -13,7 +41,7 @@
 
 ---
 
-### 2. [⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More](https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html)
+### 5. [⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More](https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Apr 2026 19:00:00 +0530  
@@ -22,7 +50,7 @@
 
 ---
 
-### 3. [Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side](https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html)
+### 6. [Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side](https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Apr 2026 17:28:00 +0530  
@@ -31,7 +59,7 @@
 
 ---
 
-### 4. [PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks](https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html)
+### 7. [PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks](https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Apr 2026 17:24:00 +0530  
@@ -40,7 +68,7 @@
 
 ---
 
-### 5. [Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware](https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html)
+### 8. [Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware](https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Apr 2026 16:53:00 +0530  
@@ -49,7 +77,7 @@
 
 ---
 
-### 6. [Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud](https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html)
+### 9. [Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud](https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 27 Apr 2026 12:03:00 +0530  
@@ -58,7 +86,7 @@
 
 ---
 
-### 7. [Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html)
+### 10. [Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 25 Apr 2026 14:56:00 +0530  
@@ -67,35 +95,25 @@
 
 ---
 
-### 8. [CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html)
+### 11. [Microsoft: New Remote Desktop warnings may display incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 25 Apr 2026 10:38:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 28 Apr 2026 05:51:26 -0400  
 **Severity:** Low  
-**Categories:** Ransomware, Vulnerability, Malware  
+**Categories:** General Security  
 
 ---
 
-### 9. [FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html)
+### 12. [Microsoft asks iPhone users to reauthenticate after Outlook outage](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 24 Apr 2026 22:36:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 28 Apr 2026 04:37:12 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2025-20333  
-**Categories:** Vulnerability, Malware  
+**Categories:** General Security  
 
 ---
 
-### 10. [NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 24 Apr 2026 19:43:00 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 11. [Robinhood account creation flaw abused to send phishing emails](https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/)
+### 13. [Robinhood account creation flaw abused to send phishing emails](https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 19:11:01 -0400  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [GlassWorm malware attacks return via 73 OpenVSX "sleeper" extensions](https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/)
+### 14. [GlassWorm malware attacks return via 73 OpenVSX "sleeper" extensions](https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 17:41:01 -0400  
@@ -113,7 +131,7 @@
 
 ---
 
-### 13. [Canada arrests three for operating “SMS blaster” device in Toronto](https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/)
+### 15. [Canada arrests three for operating “SMS blaster” device in Toronto](https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 16:00:31 -0400  
@@ -122,7 +140,7 @@
 
 ---
 
-### 14. [Alleged Silk Typhoon hacker extradited to US for cyberespionage](https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/)
+### 16. [Alleged Silk Typhoon hacker extradited to US for cyberespionage](https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 15:56:03 -0400  
@@ -131,7 +149,7 @@
 
 ---
 
-### 15. [FTC: Americans lost over $2.1 billion to social media scams in 2025](https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/)
+### 17. [FTC: Americans lost over $2.1 billion to social media scams in 2025](https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 12:27:53 -0400  
@@ -140,7 +158,7 @@
 
 ---
 
-### 16. [PyPI package with 1.1M monthly downloads hacked to push infostealer](https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/)
+### 18. [PyPI package with 1.1M monthly downloads hacked to push infostealer](https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 11:17:37 -0400  
@@ -149,7 +167,7 @@
 
 ---
 
-### 17. [Home security giant ADT data breach affects 5.5 million people](https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/)
+### 19. [Home security giant ADT data breach affects 5.5 million people](https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 10:43:11 -0400  
@@ -158,30 +176,12 @@
 
 ---
 
-### 18. [Webinar: Spotting cyberattacks before they begin](https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/)
+### 20. [Webinar: Spotting cyberattacks before they begin](https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 27 Apr 2026 10:25:35 -0400  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 19. [Medtronic confirms breach after hackers claim 9 million records theft](https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 27 Apr 2026 09:50:42 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Money launderer linked to $230M crypto heist gets 70 months in prison](https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 27 Apr 2026 09:01:38 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -199,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -254,7 +254,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26127, CVE-2026-26113, CVE-2026-24289, CVE-2026-21262, CVE-2026-25187, CVE-2026-26110, CVE-2026-24291, CVE-2026-24294  
+**CVEs:** CVE-2026-26113, CVE-2026-24289, CVE-2026-26110, CVE-2026-24294, CVE-2026-24291, CVE-2026-26127, CVE-2026-21262, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -277,17 +277,35 @@
 
 ---
 
-### 31. [Incomplete Windows Patch Opens Door to Zero-Click Attacks](https://www.securityweek.com/incomplete-windows-patch-opens-door-to-zero-click-attacks/)
+### 31. [Spectrum Security Emerges From Stealth Mode With $19 Million](https://www.securityweek.com/spectrum-security-emerges-from-stealth-mode-with-19-million/)
+
+**Source:** Security Week  
+**Published:** Tue, 28 Apr 2026 08:25:41 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 32. [Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak](https://www.securityweek.com/medtronic-hack-confirmed-after-shinyhunters-threatens-data-leak/)
+
+**Source:** Security Week  
+**Published:** Tue, 28 Apr 2026 06:35:19 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 33. [Incomplete Windows Patch Opens Door to Zero-Click Attacks](https://www.securityweek.com/incomplete-windows-patch-opens-door-to-zero-click-attacks/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Apr 2026 13:09:27 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21513, CVE-2026-21510, CVE-2026-32202  
+**CVEs:** CVE-2026-32202, CVE-2026-21510, CVE-2026-21513  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 32. [OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years](https://www.securityweek.com/openssh-flaw-allowing-full-root-shell-access-lurked-for-15-years/)
+### 34. [OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years](https://www.securityweek.com/openssh-flaw-allowing-full-root-shell-access-lurked-for-15-years/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Apr 2026 12:29:18 +0000  
@@ -297,7 +315,7 @@
 
 ---
 
-### 33. [Malicious AI Prompt Injection Attacks Increasing, but Sophistication Still Low: Google](https://www.securityweek.com/malicious-ai-prompt-injection-attacks-increasing-but-sophistication-still-low-google/)
+### 35. [Malicious AI Prompt Injection Attacks Increasing, but Sophistication Still Low: Google](https://www.securityweek.com/malicious-ai-prompt-injection-attacks-increasing-but-sophistication-still-low-google/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Apr 2026 12:08:19 +0000  
@@ -306,7 +324,7 @@
 
 ---
 
-### 34. [Energy and Water Management Firm Itron Hacked](https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/)
+### 36. [Energy and Water Management Firm Itron Hacked](https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Apr 2026 11:18:59 +0000  
@@ -315,7 +333,7 @@
 
 ---
 
-### 35. [UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Malware](https://www.securityweek.com/unc6692-uses-email-bombing-social-engineering-to-deploy-snow-malware/)
+### 37. [UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Malware](https://www.securityweek.com/unc6692-uses-email-bombing-social-engineering-to-deploy-snow-malware/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Apr 2026 10:44:55 +0000  
@@ -324,7 +342,7 @@
 
 ---
 
-### 36. [Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access](https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/)
+### 38. [Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access](https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Apr 2026 10:10:14 +0000  
@@ -334,7 +352,7 @@
 
 ---
 
-### 37. [US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator](https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/)
+### 39. [US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator](https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Apr 2026 09:39:33 +0000  
@@ -343,31 +361,13 @@
 
 ---
 
-### 38. [Firefox Vulnerability Allows Tor User Fingerprinting](https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/)
+### 40. [Firefox Vulnerability Allows Tor User Fingerprinting](https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/)
 
 **Source:** Security Week  
 **Published:** Mon, 27 Apr 2026 08:39:28 +0000  
 **Severity:** High  
 **CVEs:** CVE-2026-6770  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 39. [China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks](https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/)
-
-**Source:** Security Week  
-**Published:** Sat, 25 Apr 2026 10:50:00 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware, APT  
-
----
-
-### 40. [Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions](https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/)
-
-**Source:** Security Week  
-**Published:** Fri, 24 Apr 2026 14:57:18 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Vulnerability, Malware, APT  
 
 ---
 
@@ -633,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -648,7 +648,16 @@
 
 ---
 
-### 71. [A week in security (April 20 &#8211; April 26)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-20-april-26)
+### 71. [Chinese engineer stole US military and NASA software for years](https://www.malwarebytes.com/blog/news/2026/04/chinese-engineer-stole-us-military-and-nasa-software-for-years)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 28 Apr 2026 09:21:11 GMT  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 72. [A week in security (April 20 &#8211; April 26)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-20-april-26)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 27 Apr 2026 07:02:00 GMT  
@@ -657,7 +666,7 @@
 
 ---
 
-### 72. [Medical data of 500,000 UK volunteers listed for sale on Alibaba](https://www.malwarebytes.com/blog/news/2026/04/medical-data-of-500000-uk-volunteers-listed-for-sale-on-alibaba)
+### 73. [Medical data of 500,000 UK volunteers listed for sale on Alibaba](https://www.malwarebytes.com/blog/news/2026/04/medical-data-of-500000-uk-volunteers-listed-for-sale-on-alibaba)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 24 Apr 2026 12:32:20 GMT  
@@ -666,7 +675,7 @@
 
 ---
 
-### 73. [How cyberattacks on companies affect everyone](https://www.malwarebytes.com/blog/privacy/2026/04/how-cyberattacks-on-companies-affect-everyone)
+### 74. [How cyberattacks on companies affect everyone](https://www.malwarebytes.com/blog/privacy/2026/04/how-cyberattacks-on-companies-affect-everyone)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 23 Apr 2026 15:34:09 GMT  
@@ -675,7 +684,7 @@
 
 ---
 
-### 74. [Apple fixes iOS bug that kept deleted notifications, including chat previews](https://www.malwarebytes.com/blog/news/2026/04/apple-fixes-ios-bug-that-kept-deleted-notifications-including-chat-previews)
+### 75. [Apple fixes iOS bug that kept deleted notifications, including chat previews](https://www.malwarebytes.com/blog/news/2026/04/apple-fixes-ios-bug-that-kept-deleted-notifications-including-chat-previews)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 23 Apr 2026 10:27:32 GMT  
@@ -685,7 +694,7 @@
 
 ---
 
-### 75. [Roblox clamps down on chats and age checks as legal pressure builds](https://www.malwarebytes.com/blog/news/2026/04/roblox-clamps-down-on-chats-and-age-checks-as-legal-pressure-builds)
+### 76. [Roblox clamps down on chats and age checks as legal pressure builds](https://www.malwarebytes.com/blog/news/2026/04/roblox-clamps-down-on-chats-and-age-checks-as-legal-pressure-builds)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 23 Apr 2026 07:57:37 GMT  
@@ -694,7 +703,7 @@
 
 ---
 
-### 76. [Malicious trading website drops malware that hands your browser to attackers](https://www.malwarebytes.com/blog/threat-intel/2026/04/malicious-trading-website-drop-malware-that-hands-over-your-browser-to-attackers)
+### 77. [Malicious trading website drops malware that hands your browser to attackers](https://www.malwarebytes.com/blog/threat-intel/2026/04/malicious-trading-website-drop-malware-that-hands-over-your-browser-to-attackers)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 22 Apr 2026 12:30:02 GMT  
@@ -703,7 +712,7 @@
 
 ---
 
-### 77. [Researcher claims Claude Desktop installs “spyware” on macOS](https://www.malwarebytes.com/blog/news/2026/04/researcher-claims-claude-desktop-installs-spyware-on-macos)
+### 78. [Researcher claims Claude Desktop installs “spyware” on macOS](https://www.malwarebytes.com/blog/news/2026/04/researcher-claims-claude-desktop-installs-spyware-on-macos)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 22 Apr 2026 11:53:11 GMT  
@@ -712,7 +721,7 @@
 
 ---
 
-### 78. [Fake Google Antigravity downloads are stealing accounts in minutes](https://www.malwarebytes.com/blog/threat-intel/2026/04/fake-google-antigravity-downloads-are-stealing-accounts-in-minutes)
+### 79. [Fake Google Antigravity downloads are stealing accounts in minutes](https://www.malwarebytes.com/blog/threat-intel/2026/04/fake-google-antigravity-downloads-are-stealing-accounts-in-minutes)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 21 Apr 2026 14:04:51 GMT  
@@ -721,21 +730,12 @@
 
 ---
 
-### 79. [Real Apple notifications are being used to drive tech support scams](https://www.malwarebytes.com/blog/news/2026/04/real-apple-notifications-are-being-used-to-drive-tech-support-scams)
+### 80. [Real Apple notifications are being used to drive tech support scams](https://www.malwarebytes.com/blog/news/2026/04/real-apple-notifications-are-being-used-to-drive-tech-support-scams)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 21 Apr 2026 12:59:31 GMT  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 80. [Android 17 ends all-or-nothing access to your contacts](https://www.malwarebytes.com/blog/mobile/2026/04/android-17-ends-all-or-nothing-access-to-your-contacts)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 21 Apr 2026 10:12:27 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 

@@ -1,6 +1,62 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
+    "link": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
+    "published": "Tue, 28 Apr 2026 13:27:00 +0530",
+    "summary": "A Chinese national accused of being a member of the Silk Typhoon hacking group has been extradited to the U.S. from Italy.&nbsp;\nXu Zewei, 34, was arrested in July 2025 by Italian authorities for his alleged links to the Chinese state-sponsored threat group and for orchestrating cyber attacks against American organizations and government agencies between February 2020 and June 2021, including",
+    "analysis": {
+      "issue": "Chinese hacker extradited after 2020–2021 Exchange zero-day attacks on U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+    "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
+    "published": "Tue, 28 Apr 2026 12:07:00 +0530",
+    "summary": "An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfort.\nAgent ID Administrator is a privileged built-in role introduced by Microsoft as part of its agent identity platform to handle all aspects of an AI agent's identity lifecycle operations in a",
+    "analysis": {
+      "issue": "Agent ID Administrator enabled service principal takeover before April 9, 2026 patch, exposing privilege escalation risk in Entra ID tenants",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+    "link": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+    "published": "Tue, 28 Apr 2026 11:20:00 +0530",
+    "summary": "Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild.\nThe vulnerability in question is CVE-2026-32202 (CVSS score: 4.3), a spoofing vulnerability that could allow an attacker to access sensitive information. It was addressed as part of its Patch Tuesday update for this",
+    "analysis": {
+      "issue": "CVE-2026-32202 actively exploited after April 27 advisory fix, exposing NTLMv2 hashes via zero-click SMB authentication",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-32202"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
     "link": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
     "published": "Mon, 27 Apr 2026 19:49:00 +0530",
@@ -129,61 +185,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline",
-    "link": "https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html",
-    "published": "Sat, 25 Apr 2026 10:38:00 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four vulnerabilities impacting SimpleHelp, Samsung MagicINFO 9 Server, and D-Link DIR-823X series routers to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe list of vulnerabilities is below -\n\nCVE-2024-57726 (CVSS score: 9.9) - A missing authorization vulnerability in",
+    "source": "Bleeping Computer",
+    "title": "Microsoft: New Remote Desktop warnings may display incorrectly",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
+    "published": "Tue, 28 Apr 2026 05:51:26 -0400",
+    "summary": "Microsoft has confirmed a new issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
     "analysis": {
-      "issue": "CISA adds 4 exploited CVEs including CVSS 9",
+      "issue": "Microsoft has confirmed a new issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
+        "General Security"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
-    "link": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
-    "published": "Fri, 24 Apr 2026 22:36:00 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency's Cisco Firepower device running Adaptive Security Appliance (ASA) software was compromised in September 2025 with a new malware called FIRESTARTER.\nFIRESTARTER, per CISA and the U.K.'s National Cyber Security Centre (NCSC), is assessed to be a backdoor designed for remote access",
+    "source": "Bleeping Computer",
+    "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
+    "published": "Tue, 28 Apr 2026 04:37:12 -0400",
+    "summary": "After addressing a widespread outage that affected Outlook.com users worldwide on Monday, Microsoft has asked iPhone users to re-enter their credentials to regain access to their Outlook and Hotmail accounts via the default Mail app. [...]",
     "analysis": {
-      "issue": "FIRESTARTER backdoor hit Cisco ASA in Sept 2025, persists after patching CVE-2025-20333, risking continued federal network access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-20333"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
-    "link": "https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html",
-    "published": "Fri, 24 Apr 2026 19:43:00 +0530",
-    "summary": "The Office of Inspector General (OIG) of the U.S. National Aeronautics and Space Administration (NASA) has revealed how a Chinese national posed as a U.S. researcher as part of a spear-phishing campaign to obtain sensitive information from the space agency, as well as from government entities, universities, and private companies, in violation of export control laws.\n\"For years, NASA employees",
-    "analysis": {
-      "issue": "NASA OIG exposed a 2017–2021 spear-phishing campaign by Song Wu, leading to DOJ charges and export control violations",
+      "issue": "After addressing a widespread outage that affected Outlook",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Phishing"
+        "General Security"
       ]
     }
   },
@@ -336,42 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Medtronic confirms breach after hackers claim 9 million records theft",
-    "link": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/",
-    "published": "Mon, 27 Apr 2026 09:50:42 -0400",
-    "summary": "Medical device giant Medtronic disclosed last week that hackers breached its network and accessed data in \"certain corporate IT systems.\" [...]",
-    "analysis": {
-      "issue": "Medical device giant Medtronic disclosed last week that hackers breached its network and accessed data in “certain corporate IT systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Money launderer linked to $230M crypto heist gets 70 months in prison",
-    "link": "https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/",
-    "published": "Mon, 27 Apr 2026 09:01:38 -0400",
-    "summary": "​22-year-old Evan Tangeman of Newport Beach, California, was sentenced to 70 months in prison for laundering funds stolen in a massive $230 million cryptocurrency heist. [...]",
-    "analysis": {
-      "issue": "​22-year-old Evan Tangeman of Newport Beach, California, was sentenced to 70 months in prison for laundering funds stolen in a massive $230 million cryptocurrency heist",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
     "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
@@ -403,8 +400,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
         "CVE-2026-34621",
+        "CVE-2026-33825",
         "CVE-2026-32201"
       ],
       "threat_categories": [
@@ -522,14 +519,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26127",
         "CVE-2026-26113",
         "CVE-2026-24289",
-        "CVE-2026-21262",
-        "CVE-2026-25187",
         "CVE-2026-26110",
+        "CVE-2026-24294",
         "CVE-2026-24291",
-        "CVE-2026-24294"
+        "CVE-2026-26127",
+        "CVE-2026-21262",
+        "CVE-2026-25187"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -578,6 +575,43 @@
   },
   {
     "source": "Security Week",
+    "title": "Spectrum Security Emerges From Stealth Mode With $19 Million",
+    "link": "https://www.securityweek.com/spectrum-security-emerges-from-stealth-mode-with-19-million/",
+    "published": "Tue, 28 Apr 2026 08:25:41 +0000",
+    "summary": "<p>The threat detection startup will invest in accelerating its engineering and go-to-market efforts.</p>\n<p>The post <a href=\"https://www.securityweek.com/spectrum-security-emerges-from-stealth-mode-with-19-million/\">Spectrum Security Emerges From Stealth Mode With $19 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The threat detection startup will invest in accelerating its engineering and go-to-market efforts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak",
+    "link": "https://www.securityweek.com/medtronic-hack-confirmed-after-shinyhunters-threatens-data-leak/",
+    "published": "Tue, 28 Apr 2026 06:35:19 +0000",
+    "summary": "<p>The ShinyHunters cybercrime group claimed to have stolen 9 million records containing personal information from Medtronic.</p>\n<p>The post <a href=\"https://www.securityweek.com/medtronic-hack-confirmed-after-shinyhunters-threatens-data-leak/\">Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The ShinyHunters cybercrime group claimed to have stolen 9 million records containing personal information from Medtronic",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Incomplete Windows Patch Opens Door to Zero-Click Attacks",
     "link": "https://www.securityweek.com/incomplete-windows-patch-opens-door-to-zero-click-attacks/",
     "published": "Mon, 27 Apr 2026 13:09:27 +0000",
@@ -589,9 +623,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21513",
+        "CVE-2026-32202",
         "CVE-2026-21510",
-        "CVE-2026-32202"
+        "CVE-2026-21513"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -734,47 +768,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks",
-    "link": "https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/",
-    "published": "Sat, 25 Apr 2026 10:50:00 +0000",
-    "summary": "<p>Dubbed GopherWhisper, the group relies on multiple Go-based backdoors alongside custom loaders and injectors.</p>\n<p>The post <a href=\"https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/\">China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Dubbed GopherWhisper, the group relies on multiple Go-based backdoors alongside custom loaders and injectors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions",
-    "link": "https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/",
-    "published": "Fri, 24 Apr 2026 14:57:18 +0000",
-    "summary": "<p>It targeted high-precision calculation software to tamper with results and packed a self-propagation mechanism.</p>\n<p>The post <a href=\"https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/\">Pre-Stuxnet Sabotage Malware &#8216;Fast16&#8217; Linked to US-Iran Cyber Tensions</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "It targeted high-precision calculation software to tamper with results and packed a self-propagation mechanism",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware",
-        "APT"
       ]
     }
   },
@@ -1323,8 +1316,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1349,6 +1342,25 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Chinese engineer stole US military and NASA software for years",
+    "link": "https://www.malwarebytes.com/blog/news/2026/04/chinese-engineer-stole-us-military-and-nasa-software-for-years",
+    "published": "Tue, 28 Apr 2026 09:21:11 GMT",
+    "summary": "He created Gmail accounts, impersonated real US researchers, and convinced NASA, the military, and universities to hand over sensitive code.",
+    "analysis": {
+      "issue": "International espionage isn’t always about sophisticated malware and zero-day bugs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -1515,24 +1527,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Android 17 ends all-or-nothing access to your contacts",
-    "link": "https://www.malwarebytes.com/blog/mobile/2026/04/android-17-ends-all-or-nothing-access-to-your-contacts",
-    "published": "Tue, 21 Apr 2026 10:12:27 GMT",
-    "summary": "Apps have been taking your whole contact list for years. Android 17 finally makes them ask for less.",
-    "analysis": {
-      "issue": "Some of the apps on your phone want your contacts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
