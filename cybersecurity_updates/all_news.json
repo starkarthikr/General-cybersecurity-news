@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
+    "link": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
+    "published": "Wed, 29 Apr 2026 21:56:00 +0530",
+    "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware.\nAccording to reports from Aikido Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz, the campaign – calling itself the mini Shai-Hulud – has affected the following packages associated with SAP's JavaScript and cloud application",
+    "analysis": {
+      "issue": "SAP npm packages poisoned on April 29, 2026 + AES-256-GCM encrypted credential theft + AI coding tools abused for spread",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs",
+    "link": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
+    "published": "Wed, 29 Apr 2026 20:13:00 +0530",
+    "summary": "Cybersecurity researchers have discovered malicious code in an npm package after a malicious package as a dependency to the project by Anthropic's Claude Opus large language model (LLM).\nThe package in question is \"@validate-sdk/v2,\" which is listed on npm as a utility software development kit (SDK) for hashing, validation, encoding/decoding, and secure random generation. However, its real",
+    "analysis": {
+      "issue": "Claude Opus commit added malicious npm dependency in Feb 2026, enabling crypto theft and persistent RAT access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
     "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
     "published": "Wed, 29 Apr 2026 17:32:00 +0530",
@@ -148,40 +185,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
-    "link": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
-    "published": "Tue, 28 Apr 2026 17:28:00 +0530",
-    "summary": "Every security program is betting on the same assumption: once a system is connected, the problem is solved. Open a ticket, stand up a gateway, push the data through. Done.\nThat assumption is wrong. It is also a major reason Zero Trust programs stall.\nNew research my team just published puts numbers on it. The Cyber360: Defending the Digital Battlespace report, based on a survey of 500 security",
+    "source": "Bleeping Computer",
+    "title": "cPanel, WHM emergency update fixes critical auth bypass bug",
+    "link": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
+    "published": "Wed, 29 Apr 2026 11:51:44 -0400",
+    "summary": "A critical vulnerability affecting all but the latest versions of cPanel and the WebHost Manager (WHM) dashboard could be exploited to obtain access to the control panel without authentication. [...]",
     "analysis": {
-      "issue": "84% of leaders say cross-network data sharing raises risk in 2026, as 53% rely on manual transfers, widening Zero Trust gaps",
+      "issue": "A critical vulnerability affecting all but the latest versions of cPanel and the WebHost Manager (WHM) dashboard could be exploited to obtain access to the control panel without authentication",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "European police dismantles €50 million crypto investment fraud ring",
+    "link": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/",
+    "published": "Wed, 29 Apr 2026 10:27:36 -0400",
+    "summary": "Austrian and Albanian authorities dismantled a criminal ring accused of running a large-scale cryptocurrency investment fraud operation that caused estimated losses of over €50 million ($58.5 million) to victims worldwide. [...]",
+    "analysis": {
+      "issue": "Austrian and Albanian authorities dismantled a criminal ring accused of running a large-scale cryptocurrency investment fraud operation that caused estimated losses of over €50 million ($58",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
-    "link": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html",
-    "published": "Tue, 28 Apr 2026 16:48:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a critical security flaw impacting LeRobot, Hugging Face's open-source robotics platform with nearly 24,000 GitHub stars, that could be exploited to achieve remote code execution.\nThe vulnerability in question is CVE-2026-25874 (CVSS score: 9.3), which has been described as a case of untrusted data deserialization stemming from the use of the",
-    "analysis": {
-      "issue": "3 allows unauthenticated RCE via pickle over gRPC, risking AI systems and sensitive data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-25874"
-      ],
-      "threat_categories": [
-        "Vulnerability"
+        "APT"
       ]
     }
   },
@@ -236,9 +271,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-3220",
         "CVE-2026-21513",
         "CVE-2026-32202",
+        "CVE-2026-3220",
         "CVE-2026-21510"
       ],
       "threat_categories": [
@@ -341,43 +376,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data",
-    "link": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
-    "published": "Tue, 28 Apr 2026 10:50:40 -0400",
-    "summary": "Application security company Checkmarx has confirmed that the LAPSUS$ threat group leaked data stolen from its private GitHub repository. [...]",
-    "analysis": {
-      "issue": "Application security company Checkmarx has confirmed that the LAPSUS$ threat group leaked data stolen from its private GitHub repository",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
-    "published": "Tue, 28 Apr 2026 09:18:36 -0400",
-    "summary": "Microsoft says it will start blocking legacy TLS connections for POP and IMAP email clients in Exchange Online starting in July 2026. [...]",
-    "analysis": {
-      "issue": "Microsoft says it will start blocking legacy TLS connections for POP and IMAP email clients in Exchange Online starting in July 2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
     "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
@@ -409,8 +407,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
         "CVE-2026-34621",
+        "CVE-2026-33825",
         "CVE-2026-32201"
       ],
       "threat_categories": [
@@ -530,12 +528,12 @@
       "cves": [
         "CVE-2026-25187",
         "CVE-2026-26110",
-        "CVE-2026-26113",
-        "CVE-2026-24289",
-        "CVE-2026-21262",
-        "CVE-2026-26127",
+        "CVE-2026-24291",
         "CVE-2026-24294",
-        "CVE-2026-24291"
+        "CVE-2026-21262",
+        "CVE-2026-24289",
+        "CVE-2026-26113",
+        "CVE-2026-26127"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -674,8 +672,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-24487",
-        "CVE-2026-23627",
-        "CVE-2026-24908"
+        "CVE-2026-24908",
+        "CVE-2026-23627"
       ],
       "threat_categories": [
         "Data Breach",
@@ -696,14 +694,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-7322",
         "CVE-2026-7361",
-        "CVE-2026-7320",
         "CVE-2026-7363",
         "CVE-2026-7343",
+        "CVE-2026-7320",
+        "CVE-2026-7323",
+        "CVE-2026-7322",
         "CVE-2026-7344",
-        "CVE-2026-7324",
-        "CVE-2026-7323"
+        "CVE-2026-7324"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -860,8 +858,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20333",
-        "CVE-2025-20362"
+        "CVE-2025-20362",
+        "CVE-2025-20333"
       ],
       "threat_categories": [
         "Vulnerability",

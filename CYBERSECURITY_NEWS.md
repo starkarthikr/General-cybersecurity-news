@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-29 14:13:15 UTC
+**Last Updated:** 2026-04-29 17:57:17 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html)
+### 1. [SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 29 Apr 2026 21:56:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing, Supply Chain  
+
+---
+
+### 2. [New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs](https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 29 Apr 2026 20:13:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 17:32:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)](https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html)
+### 4. [What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)](https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 17:00:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately](https://thehackernews.com/2026/04/critical-cpanel-authentication.html)
+### 5. [Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately](https://thehackernews.com/2026/04/critical-cpanel-authentication.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 15:07:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV](https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html)
+### 6. [CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV](https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 14:16:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure](https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html)
+### 7. [LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure](https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 11:04:00 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push](https://thehackernews.com/2026/04/researchers-discover-critical-github.html)
+### 8. [Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push](https://thehackernews.com/2026/04/researchers-discover-critical-github.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Apr 2026 23:49:00 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign](https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html)
+### 9. [Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign](https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Apr 2026 23:09:00 +0530  
@@ -69,7 +87,7 @@
 
 ---
 
-### 8. [VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi](https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html)
+### 10. [VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi](https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Apr 2026 19:31:00 +0530  
@@ -78,26 +96,25 @@
 
 ---
 
-### 9. [Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About](https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html)
+### 11. [cPanel, WHM emergency update fixes critical auth bypass bug](https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 28 Apr 2026 17:28:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE](https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 28 Apr 2026 16:48:00 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-25874  
+**Source:** Bleeping Computer  
+**Published:** Wed, 29 Apr 2026 11:51:44 -0400  
+**Severity:** Critical  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [Learning from the Vercel breach: Shadow AI & OAuth sprawl](https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/)
+### 12. [European police dismantles €50 million crypto investment fraud ring](https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 29 Apr 2026 10:27:36 -0400  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 13. [Learning from the Vercel breach: Shadow AI & OAuth sprawl](https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Apr 2026 09:05:14 -0400  
@@ -106,7 +123,7 @@
 
 ---
 
-### 12. [GitHub fixes RCE flaw that gave access to millions of private repos](https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/)
+### 14. [GitHub fixes RCE flaw that gave access to millions of private repos](https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Apr 2026 08:41:17 -0400  
@@ -116,17 +133,17 @@
 
 ---
 
-### 13. [CISA orders feds to patch Windows flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/)
+### 15. [CISA orders feds to patch Windows flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Apr 2026 06:29:31 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-3220, CVE-2026-21513, CVE-2026-32202, CVE-2026-21510  
+**CVEs:** CVE-2026-21513, CVE-2026-32202, CVE-2026-3220, CVE-2026-21510  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 14. [Microsoft says backend change broke Teams Free chat and calls](https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/)
+### 16. [Microsoft says backend change broke Teams Free chat and calls](https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Apr 2026 04:38:07 -0400  
@@ -135,7 +152,7 @@
 
 ---
 
-### 15. [Broken VECT 2.0 ransomware acts as a data wiper for large files](https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/)
+### 17. [Broken VECT 2.0 ransomware acts as a data wiper for large files](https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Apr 2026 17:25:57 -0400  
@@ -144,7 +161,7 @@
 
 ---
 
-### 16. [Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/)
+### 18. [Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Apr 2026 17:07:23 -0400  
@@ -154,7 +171,7 @@
 
 ---
 
-### 17. [Video service Vimeo confirms Anodot breach exposed user data](https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/)
+### 19. [Video service Vimeo confirms Anodot breach exposed user data](https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Apr 2026 15:04:22 -0400  
@@ -163,30 +180,12 @@
 
 ---
 
-### 18. [US reportedly charges Scattered Spider hacker arrested in Finland](https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/)
+### 20. [US reportedly charges Scattered Spider hacker arrested in Finland](https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Apr 2026 11:39:52 -0400  
 **Severity:** Low  
 **Categories:** Ransomware  
-
----
-
-### 19. [Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data](https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 28 Apr 2026 10:50:40 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
-
----
-
-### 20. [Microsoft to deprecate legacy TLS in Exchange Online starting July](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 28 Apr 2026 09:18:36 -0400  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -204,7 +203,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -259,7 +258,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-26110, CVE-2026-26113, CVE-2026-24289, CVE-2026-21262, CVE-2026-26127, CVE-2026-24294, CVE-2026-24291  
+**CVEs:** CVE-2026-25187, CVE-2026-26110, CVE-2026-24291, CVE-2026-24294, CVE-2026-21262, CVE-2026-24289, CVE-2026-26113, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -324,7 +323,7 @@
 **Source:** Security Week  
 **Published:** Wed, 29 Apr 2026 09:54:17 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24487, CVE-2026-23627, CVE-2026-24908  
+**CVEs:** CVE-2026-24487, CVE-2026-24908, CVE-2026-23627  
 **Categories:** Data Breach, Vulnerability  
 
 ---
@@ -334,7 +333,7 @@
 **Source:** Security Week  
 **Published:** Wed, 29 Apr 2026 09:24:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-7322, CVE-2026-7361, CVE-2026-7320, CVE-2026-7363, CVE-2026-7343, CVE-2026-7344, CVE-2026-7324, CVE-2026-7323  
+**CVEs:** CVE-2026-7361, CVE-2026-7363, CVE-2026-7343, CVE-2026-7320, CVE-2026-7323, CVE-2026-7322, CVE-2026-7344, CVE-2026-7324  
 **Categories:** Vulnerability  
 
 ---
@@ -408,7 +407,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20333, CVE-2025-20362  
+**CVEs:** CVE-2025-20362, CVE-2025-20333  
 **Categories:** Vulnerability, Malware  
 
 ---
