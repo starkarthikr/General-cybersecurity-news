@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-29 04:09:27 UTC
+**Last Updated:** 2026-04-29 10:25:34 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push](https://thehackernews.com/2026/04/researchers-discover-critical-github.html)
+### 1. [CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV](https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 29 Apr 2026 14:16:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure](https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 29 Apr 2026 11:04:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-42208  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push](https://thehackernews.com/2026/04/researchers-discover-critical-github.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Apr 2026 23:49:00 +0530  
@@ -14,7 +33,7 @@
 
 ---
 
-### 2. [Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign](https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html)
+### 4. [Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign](https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Apr 2026 23:09:00 +0530  
@@ -23,7 +42,7 @@
 
 ---
 
-### 3. [VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi](https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html)
+### 5. [VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi](https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Apr 2026 19:31:00 +0530  
@@ -32,7 +51,7 @@
 
 ---
 
-### 4. [Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About](https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html)
+### 6. [Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About](https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Apr 2026 17:28:00 +0530  
@@ -41,7 +60,7 @@
 
 ---
 
-### 5. [Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE](https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html)
+### 7. [Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE](https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Apr 2026 16:48:00 +0530  
@@ -51,7 +70,7 @@
 
 ---
 
-### 6. [After Mythos: New Playbooks For a Zero-Window Era](https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html)
+### 8. [After Mythos: New Playbooks For a Zero-Window Era](https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Apr 2026 16:00:00 +0530  
@@ -60,7 +79,7 @@
 
 ---
 
-### 7. [Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks](https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html)
+### 9. [Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks](https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Apr 2026 13:27:00 +0530  
@@ -69,7 +88,7 @@
 
 ---
 
-### 8. [Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover](https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html)
+### 10. [Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover](https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Apr 2026 12:07:00 +0530  
@@ -78,26 +97,16 @@
 
 ---
 
-### 9. [Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202](https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html)
+### 11. [Microsoft says backend change broke Teams Free chat and calls](https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 28 Apr 2026 11:20:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 29 Apr 2026 04:38:07 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-32202  
-**Categories:** Vulnerability  
+**Categories:** General Security  
 
 ---
 
-### 10. [Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack](https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 27 Apr 2026 19:49:00 +0530  
-**Severity:** Low  
-**Categories:** Supply Chain  
-
----
-
-### 11. [Broken VECT 2.0 ransomware acts as a data wiper for large files](https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/)
+### 12. [Broken VECT 2.0 ransomware acts as a data wiper for large files](https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Apr 2026 17:25:57 -0400  
@@ -106,7 +115,7 @@
 
 ---
 
-### 12. [Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/)
+### 13. [Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Apr 2026 17:07:23 -0400  
@@ -116,7 +125,7 @@
 
 ---
 
-### 13. [Video service Vimeo confirms Anodot breach exposed user data](https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/)
+### 14. [Video service Vimeo confirms Anodot breach exposed user data](https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Apr 2026 15:04:22 -0400  
@@ -125,7 +134,7 @@
 
 ---
 
-### 14. [US reportedly charges Scattered Spider hacker arrested in Finland](https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/)
+### 15. [US reportedly charges Scattered Spider hacker arrested in Finland](https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Apr 2026 11:39:52 -0400  
@@ -134,7 +143,7 @@
 
 ---
 
-### 15. [Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data](https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/)
+### 16. [Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data](https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Apr 2026 10:50:40 -0400  
@@ -143,7 +152,7 @@
 
 ---
 
-### 16. [Microsoft to deprecate legacy TLS in Exchange Online starting July](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/)
+### 17. [Microsoft to deprecate legacy TLS in Exchange Online starting July](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Apr 2026 09:18:36 -0400  
@@ -152,7 +161,7 @@
 
 ---
 
-### 17. [Inside an OPSEC Playbook: How Threat Actors Evade Detection](https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/)
+### 18. [Inside an OPSEC Playbook: How Threat Actors Evade Detection](https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Apr 2026 08:50:58 -0400  
@@ -161,7 +170,7 @@
 
 ---
 
-### 18. [Microsoft: New Remote Desktop warnings may display incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/)
+### 19. [Microsoft: New Remote Desktop warnings may display incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Apr 2026 05:51:26 -0400  
@@ -170,21 +179,12 @@
 
 ---
 
-### 19. [Microsoft asks iPhone users to reauthenticate after Outlook outage](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/)
+### 20. [Microsoft asks iPhone users to reauthenticate after Outlook outage](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 28 Apr 2026 04:37:12 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [Robinhood account creation flaw abused to send phishing emails](https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 27 Apr 2026 19:11:01 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Phishing  
 
 ---
 
@@ -257,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-26113, CVE-2026-24289, CVE-2026-26110, CVE-2026-26127, CVE-2026-24291, CVE-2026-24294, CVE-2026-25187  
+**CVEs:** CVE-2026-25187, CVE-2026-24289, CVE-2026-26127, CVE-2026-26110, CVE-2026-24291, CVE-2026-24294, CVE-2026-26113, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -280,7 +280,37 @@
 
 ---
 
-### 31. [Cyber Insurance Data Gives CISOs New Ammo for Budget Talks](https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/)
+### 31. [38 Vulnerabilities Found in OpenEMR Medical Software](https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/)
+
+**Source:** Security Week  
+**Published:** Wed, 29 Apr 2026 09:54:17 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-24908, CVE-2026-24487, CVE-2026-23627  
+**Categories:** Data Breach, Vulnerability  
+
+---
+
+### 32. [Chrome 147, Firefox 150 Security Updates Rolling Out](https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/)
+
+**Source:** Security Week  
+**Published:** Wed, 29 Apr 2026 09:24:29 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-7322, CVE-2026-7323, CVE-2026-7361, CVE-2026-7363, CVE-2026-7344, CVE-2026-7324, CVE-2026-7320, CVE-2026-7343  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [Critical GitHub Vulnerability Exposed Millions of Repositories](https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/)
+
+**Source:** Security Week  
+**Published:** Wed, 29 Apr 2026 06:27:49 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-3854  
+**Categories:** Vulnerability  
+
+---
+
+### 34. [Cyber Insurance Data Gives CISOs New Ammo for Budget Talks](https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Apr 2026 18:32:11 +0000  
@@ -289,7 +319,7 @@
 
 ---
 
-### 32. [Vimeo Confirms User and Customer Data Breach](https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/)
+### 35. [Vimeo Confirms User and Customer Data Breach](https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Apr 2026 17:11:55 +0000  
@@ -298,7 +328,7 @@
 
 ---
 
-### 33. [The Mythos Moment: Enterprises Must Fight Agents with Agents](https://www.securityweek.com/the-mythos-moment-enterprises-must-fight-agents-with-agents/)
+### 36. [The Mythos Moment: Enterprises Must Fight Agents with Agents](https://www.securityweek.com/the-mythos-moment-enterprises-must-fight-agents-with-agents/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Apr 2026 15:45:00 +0000  
@@ -307,7 +337,7 @@
 
 ---
 
-### 34. [Webinar Today: A Step-by-Step Approach to AI Governance](https://www.securityweek.com/webinar-today-a-step-by-step-approach-to-ai-governance/)
+### 37. [Webinar Today: A Step-by-Step Approach to AI Governance](https://www.securityweek.com/webinar-today-a-step-by-step-approach-to-ai-governance/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Apr 2026 15:29:45 +0000  
@@ -316,7 +346,7 @@
 
 ---
 
-### 35. [Robinhood Vulnerability Exploited for Phishing Attacks](https://www.securityweek.com/robinhood-vulnerability-exploited-for-phishing-attacks/)
+### 38. [Robinhood Vulnerability Exploited for Phishing Attacks](https://www.securityweek.com/robinhood-vulnerability-exploited-for-phishing-attacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Apr 2026 14:49:51 +0000  
@@ -325,7 +355,7 @@
 
 ---
 
-### 36. [Alleged Chinese State Hacker Extradited to US](https://www.securityweek.com/alleged-chinese-state-hacker-extradited-to-us/)
+### 39. [Alleged Chinese State Hacker Extradited to US](https://www.securityweek.com/alleged-chinese-state-hacker-extradited-to-us/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Apr 2026 13:36:12 +0000  
@@ -334,7 +364,7 @@
 
 ---
 
-### 37. [Dozens of Open VSX Extension Clones Linked to GlassWorm Malware](https://www.securityweek.com/dozens-of-open-vsx-extension-clones-linked-to-glassworm-malware/)
+### 40. [Dozens of Open VSX Extension Clones Linked to GlassWorm Malware](https://www.securityweek.com/dozens-of-open-vsx-extension-clones-linked-to-glassworm-malware/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Apr 2026 12:40:24 +0000  
@@ -343,35 +373,16 @@
 
 ---
 
-### 38. [Sevii Launches Cyber Swarm Defense to Make Agentic AI Security Costs Predictable](https://www.securityweek.com/sevii-launches-cyber-swarm-defense-to-make-agentic-ai-security-costs-predictable/)
+### 41. [AI-powered honeypots: Turning the tables on malicious AI agents](https://blog.talosintelligence.com/ai-powered-honeypots-turning-the-tables-on-malicious-ai-agents/)
 
-**Source:** Security Week  
-**Published:** Tue, 28 Apr 2026 12:00:00 +0000  
-**Severity:** Critical  
-**Categories:** APT  
-
----
-
-### 39. [Electric Motorcycles and Scooters Face Hacking Risks to Security and Rider Safety](https://www.securityweek.com/electric-motorcycles-and-scooters-face-hacking-risks-to-security-and-rider-safety/)
-
-**Source:** Security Week  
-**Published:** Tue, 28 Apr 2026 11:57:20 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2025-70994, CVE-2026-1354  
+**Source:** Talos Blog  
+**Published:** Wed, 29 Apr 2026 10:00:42 GMT  
+**Severity:** Low  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 40. [No Patch for New PhantomRPC Privilege Escalation Technique in Windows](https://www.securityweek.com/no-patch-for-new-phantomrpc-privilege-escalation-technique-in-windows/)
-
-**Source:** Security Week  
-**Published:** Tue, 28 Apr 2026 11:31:02 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 41. [Five defender priorities from the Talos Year in Review](https://blog.talosintelligence.com/five-defender-priorities-from-the-talos-year-in-review/)
+### 42. [Five defender priorities from the Talos Year in Review](https://blog.talosintelligence.com/five-defender-priorities-from-the-talos-year-in-review/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 28 Apr 2026 13:23:20 GMT  
@@ -380,7 +391,7 @@
 
 ---
 
-### 42. [It pays to be a forever student](https://blog.talosintelligence.com/it-pays-to-be-a-forever-student/)
+### 43. [It pays to be a forever student](https://blog.talosintelligence.com/it-pays-to-be-a-forever-student/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 18:00:22 GMT  
@@ -389,17 +400,17 @@
 
 ---
 
-### 43. [UAT-4356's Targeting of Cisco Firepower Devices](https://blog.talosintelligence.com/uat-4356-firestarter/)
+### 44. [UAT-4356's Targeting of Cisco Firepower Devices](https://blog.talosintelligence.com/uat-4356-firestarter/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20333, CVE-2025-20362  
+**CVEs:** CVE-2025-20362, CVE-2025-20333  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 44. [IR Trends Q1 2026: Phishing reemerges as top initial access vector, as attacks targeting public administration persist](https://blog.talosintelligence.com/ir-trends-q1-2026/)
+### 45. [IR Trends Q1 2026: Phishing reemerges as top initial access vector, as attacks targeting public administration persist](https://blog.talosintelligence.com/ir-trends-q1-2026/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 22 Apr 2026 10:00:34 GMT  
@@ -408,7 +419,7 @@
 
 ---
 
-### 45. [[Podcast] It's not you, it's your printer: State-sponsored and phishing threats in 2025](https://blog.talosintelligence.com/podcast-its-not-you-its-your-printer-state-sponsored-and-phishing-threats-in-2025/)
+### 46. [[Podcast] It's not you, it's your printer: State-sponsored and phishing threats in 2025](https://blog.talosintelligence.com/podcast-its-not-you-its-your-printer-state-sponsored-and-phishing-threats-in-2025/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 21 Apr 2026 12:29:49 GMT  
@@ -417,7 +428,7 @@
 
 ---
 
-### 46. [Phishing and MFA exploitation: Targeting the keys to the kingdom](https://blog.talosintelligence.com/phishing-and-mfa-exploitation-targeting-the-keys-to-the-kingdom/)
+### 47. [Phishing and MFA exploitation: Targeting the keys to the kingdom](https://blog.talosintelligence.com/phishing-and-mfa-exploitation-targeting-the-keys-to-the-kingdom/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 21 Apr 2026 12:00:08 GMT  
@@ -426,7 +437,7 @@
 
 ---
 
-### 47. [Bad Apples: Weaponizing native macOS primitives for movement and execution](https://blog.talosintelligence.com/bad-apples-weaponizing-native-macos-primitives-for-movement-and-execution/)
+### 48. [Bad Apples: Weaponizing native macOS primitives for movement and execution](https://blog.talosintelligence.com/bad-apples-weaponizing-native-macos-primitives-for-movement-and-execution/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 21 Apr 2026 10:00:29 GMT  
@@ -435,7 +446,7 @@
 
 ---
 
-### 48. [Foxit, LibRaw vulnerabilities](https://blog.talosintelligence.com/foxit-libraw-vulnerabilities/)
+### 49. [Foxit, LibRaw vulnerabilities](https://blog.talosintelligence.com/foxit-libraw-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 16 Apr 2026 19:00:24 GMT  
@@ -445,21 +456,12 @@
 
 ---
 
-### 49. [The Q1 vulnerability pulse](https://blog.talosintelligence.com/the-q1-vulnerability-pulse/)
+### 50. [The Q1 vulnerability pulse](https://blog.talosintelligence.com/the-q1-vulnerability-pulse/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 16 Apr 2026 18:00:31 GMT  
 **Severity:** High  
 **Categories:** Vulnerability, Supply Chain  
-
----
-
-### 50. [PowMix botnet targets Czech workforce](https://blog.talosintelligence.com/powmix-botnet-targets-czech-workforce/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 16 Apr 2026 10:00:33 GMT  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
 
 ---
 
@@ -633,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+    "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+    "published": "Wed, 29 Apr 2026 14:16:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerabilities are listed below -\n\nCVE-2024-1708 (CVSS score: 8.4) - A path traversal vulnerability in&nbsp; ConnectWise ScreenConnect",
+    "analysis": {
+      "issue": "CISA added two actively exploited CVEs to KEV after confirmed attacks, mandating FCEB patching by May 12, 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
+    "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
+    "published": "Wed, 29 Apr 2026 11:04:00 +0530",
+    "summary": "In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation in the wild within 36 hours of the bug becoming public knowledge.\nThe vulnerability, tracked as CVE-2026-42208 (CVSS score: 9.3), is an SQL injection that could be exploited to modify the underlying",
+    "analysis": {
+      "issue": "CVE-2026-42208 exploited within 36 hours of disclosure, exposing LiteLLM credentials, risking cloud account compromise",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-42208"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
     "link": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
     "published": "Tue, 28 Apr 2026 23:49:00 +0530",
@@ -148,40 +186,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
-    "link": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
-    "published": "Tue, 28 Apr 2026 11:20:00 +0530",
-    "summary": "Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild.\nThe vulnerability in question is CVE-2026-32202 (CVSS score: 4.3), a spoofing vulnerability that could allow an attacker to access sensitive information. It was addressed as part of its Patch Tuesday update for this",
+    "source": "Bleeping Computer",
+    "title": "Microsoft says backend change broke Teams Free chat and calls",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
+    "published": "Wed, 29 Apr 2026 04:38:07 -0400",
+    "summary": "Microsoft is working to resolve a known issue that prevents some Microsoft Teams Free users from chatting and calling others. [...]",
     "analysis": {
-      "issue": "CVE-2026-32202 actively exploited after April 27 advisory fix, exposing NTLMv2 hashes via zero-click SMB authentication",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-32202"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
-    "link": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
-    "published": "Mon, 27 Apr 2026 19:49:00 +0530",
-    "summary": "Checkmarx has disclosed that its ongoing investigation tied to the supply chain security incident has revealed that a cybercriminal group published data related to the company on the dark web.\n\"Based on current evidence, we believe this data originated from Checkmarx's GitHub repository, and that access to that repository was facilitated through the initial supply chain attack of March 23, 2026,",
-    "analysis": {
-      "issue": "Checkmarx data surfaced after March 23, 2026 supply chain attack, prompting repository lockdown and investigation, raising exposure concerns",
+      "issue": "Microsoft is working to resolve a known issue that prevents some Microsoft Teams Free users from chatting and calling others",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Supply Chain"
+        "General Security"
       ]
     }
   },
@@ -352,25 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Robinhood account creation flaw abused to send phishing emails",
-    "link": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
-    "published": "Mon, 27 Apr 2026 19:11:01 -0400",
-    "summary": "Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspicious activity. [...]",
-    "analysis": {
-      "issue": "Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspicious activity",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
     "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
@@ -521,14 +520,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21262",
-        "CVE-2026-26113",
+        "CVE-2026-25187",
         "CVE-2026-24289",
-        "CVE-2026-26110",
         "CVE-2026-26127",
+        "CVE-2026-26110",
         "CVE-2026-24291",
         "CVE-2026-24294",
-        "CVE-2026-25187"
+        "CVE-2026-26113",
+        "CVE-2026-21262"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -572,6 +571,76 @@
         "Malware",
         "APT",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "38 Vulnerabilities Found in OpenEMR Medical Software",
+    "link": "https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/",
+    "published": "Wed, 29 Apr 2026 09:54:17 +0000",
+    "summary": "<p>Some of the vulnerabilities discovered by Aisle can be exploited to access and alter sensitive patient information.</p>\n<p>The post <a href=\"https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/\">38 Vulnerabilities Found in OpenEMR Medical Software</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Some of the vulnerabilities discovered by Aisle can be exploited to access and alter sensitive patient information",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-24908",
+        "CVE-2026-24487",
+        "CVE-2026-23627"
+      ],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Chrome 147, Firefox 150 Security Updates Rolling Out",
+    "link": "https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/",
+    "published": "Wed, 29 Apr 2026 09:24:29 +0000",
+    "summary": "<p>The browser refreshes resolve critical and high-severity vulnerabilities that could lead to arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/\">Chrome 147, Firefox 150 Security Updates Rolling Out</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The browser refreshes resolve critical and high-severity vulnerabilities that could lead to arbitrary code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-7322",
+        "CVE-2026-7323",
+        "CVE-2026-7361",
+        "CVE-2026-7363",
+        "CVE-2026-7344",
+        "CVE-2026-7324",
+        "CVE-2026-7320",
+        "CVE-2026-7343"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical GitHub Vulnerability Exposed Millions of Repositories",
+    "link": "https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/",
+    "published": "Wed, 29 Apr 2026 06:27:49 +0000",
+    "summary": "<p>The remote code execution flaw CVE-2026-3854 was found to impact GitHub.com and GitHub Enterprise Server.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/\">Critical GitHub Vulnerability Exposed Millions of Repositories</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The remote code execution flaw CVE-2026-3854 was found to impact GitHub",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-3854"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -713,60 +782,21 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Sevii Launches Cyber Swarm Defense to Make Agentic AI Security Costs Predictable",
-    "link": "https://www.securityweek.com/sevii-launches-cyber-swarm-defense-to-make-agentic-ai-security-costs-predictable/",
-    "published": "Tue, 28 Apr 2026 12:00:00 +0000",
-    "summary": "<p>Agentic AI can be expensive to use, causing further and unpredictable pressure on tight budgets.</p>\n<p>The post <a href=\"https://www.securityweek.com/sevii-launches-cyber-swarm-defense-to-make-agentic-ai-security-costs-predictable/\">Sevii Launches Cyber Swarm Defense to Make Agentic AI Security Costs Predictable</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "AI-powered honeypots: Turning the tables on malicious AI agents",
+    "link": "https://blog.talosintelligence.com/ai-powered-honeypots-turning-the-tables-on-malicious-ai-agents/",
+    "published": "Wed, 29 Apr 2026 10:00:42 GMT",
+    "summary": "Just as AI brings time-saving advantages to our lives, it brings similar advantages to threat actors. We can take the advantage back. This blog shows how generative AI can be used to rapidly deploy adaptive honeypot systems.",
     "analysis": {
-      "issue": "Agentic AI can be expensive to use, causing further and unpredictable pressure on tight budgets",
+      "issue": "Just as AI brings time-saving advantages to our lives, it brings similar advantages to threat actors",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Electric Motorcycles and Scooters Face Hacking Risks to Security and Rider Safety",
-    "link": "https://www.securityweek.com/electric-motorcycles-and-scooters-face-hacking-risks-to-security-and-rider-safety/",
-    "published": "Tue, 28 Apr 2026 11:57:20 +0000",
-    "summary": "<p>Vulnerabilities in Zero Motorcycles electric motorcycles and Yadea electric scooters can pose physical security and safety risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/electric-motorcycles-and-scooters-face-hacking-risks-to-security-and-rider-safety/\">Electric Motorcycles and Scooters Face Hacking Risks to Security and Rider Safety</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Vulnerabilities in Zero Motorcycles electric motorcycles and Yadea electric scooters can pose physical security and safety risks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-70994",
-        "CVE-2026-1354"
-      ],
       "threat_categories": [
         "Vulnerability",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "No Patch for New PhantomRPC Privilege Escalation Technique in Windows",
-    "link": "https://www.securityweek.com/no-patch-for-new-phantomrpc-privilege-escalation-technique-in-windows/",
-    "published": "Tue, 28 Apr 2026 11:31:02 +0000",
-    "summary": "<p>A fake RPC server can be used to listen for RPC requests and impersonate the target service to elevate privileges to System.</p>\n<p>The post <a href=\"https://www.securityweek.com/no-patch-for-new-phantomrpc-privilege-escalation-technique-in-windows/\">No Patch for New PhantomRPC Privilege Escalation Technique in Windows</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A fake RPC server can be used to listen for RPC requests and impersonate the target service to elevate privileges to System",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -821,8 +851,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20333",
-        "CVE-2025-20362"
+        "CVE-2025-20362",
+        "CVE-2025-20333"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -946,25 +976,6 @@
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "PowMix botnet targets Czech workforce",
-    "link": "https://blog.talosintelligence.com/powmix-botnet-targets-czech-workforce/",
-    "published": "Thu, 16 Apr 2026 10:00:33 GMT",
-    "summary": "Cisco Talos discovered an ongoing malicious campaign, operating since at least December 2025, affecting a broader workforce in the Czech Republic with a previously undocumented botnet we call “PowMix.”",
-    "analysis": {
-      "issue": "Talos observed that an attacker targeted Czech organizations across various levels, based on the contents of the lure documents used by the attacker in the current campaign",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -1316,8 +1327,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
