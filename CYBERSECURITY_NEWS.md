@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-30 04:11:24 UTC
+**Last Updated:** 2026-04-30 10:25:15 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html)
+### 1. [New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions](https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 30 Apr 2026 14:54:00 +0530  
+**Severity:** High  
+**CVEs:** CVE-2026-31431  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution](https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 30 Apr 2026 12:37:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 21:56:00 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs](https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html)
+### 4. [New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs](https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 20:13:00 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html)
+### 5. [Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 17:32:00 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)](https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html)
+### 6. [What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)](https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 17:00:00 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately](https://thehackernews.com/2026/04/critical-cpanel-authentication.html)
+### 7. [Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately](https://thehackernews.com/2026/04/critical-cpanel-authentication.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 15:07:00 +0530  
@@ -49,7 +68,7 @@
 
 ---
 
-### 6. [CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV](https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html)
+### 8. [CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV](https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 14:16:00 +0530  
@@ -58,7 +77,7 @@
 
 ---
 
-### 7. [LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure](https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html)
+### 9. [LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure](https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 11:04:00 +0530  
@@ -68,31 +87,13 @@
 
 ---
 
-### 8. [Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push](https://thehackernews.com/2026/04/researchers-discover-critical-github.html)
+### 10. [Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push](https://thehackernews.com/2026/04/researchers-discover-critical-github.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 28 Apr 2026 23:49:00 +0530  
 **Severity:** Low  
 **CVEs:** CVE-2026-3854  
 **Categories:** Vulnerability  
-
----
-
-### 9. [Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign](https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 28 Apr 2026 23:09:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi](https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 28 Apr 2026 19:31:00 +0530  
-**Severity:** Low  
-**Categories:** Ransomware  
 
 ---
 
@@ -175,7 +176,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Apr 2026 06:29:31 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-3220, CVE-2026-21513, CVE-2026-21510, CVE-2026-32202  
+**CVEs:** CVE-2026-32202, CVE-2026-3220, CVE-2026-21513, CVE-2026-21510  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -203,7 +204,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
+**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -258,7 +259,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24291, CVE-2026-26110, CVE-2026-25187, CVE-2026-24289, CVE-2026-24294, CVE-2026-26113, CVE-2026-26127, CVE-2026-21262  
+**CVEs:** CVE-2026-26127, CVE-2026-25187, CVE-2026-26110, CVE-2026-24291, CVE-2026-24289, CVE-2026-24294, CVE-2026-26113, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -281,7 +282,26 @@
 
 ---
 
-### 31. [Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure](https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/)
+### 31. [‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover](https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/)
+
+**Source:** Security Week  
+**Published:** Thu, 30 Apr 2026 10:06:00 +0000  
+**Severity:** High  
+**CVEs:** CVE-2026-31431  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [Sandhills Medical Says Ransomware Breach Affects 170,000](https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/)
+
+**Source:** Security Week  
+**Published:** Thu, 30 Apr 2026 08:35:59 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 33. [Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure](https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/)
 
 **Source:** Security Week  
 **Published:** Wed, 29 Apr 2026 13:04:05 +0000  
@@ -291,7 +311,7 @@
 
 ---
 
-### 32. [Hundreds of Internet-Facing VNC Servers Expose ICS/OT](https://www.securityweek.com/hundreds-of-internet-facing-vnc-servers-expose-ics-ot/)
+### 34. [Hundreds of Internet-Facing VNC Servers Expose ICS/OT](https://www.securityweek.com/hundreds-of-internet-facing-vnc-servers-expose-ics-ot/)
 
 **Source:** Security Week  
 **Published:** Wed, 29 Apr 2026 12:03:40 +0000  
@@ -300,7 +320,7 @@
 
 ---
 
-### 33. [Checkmarx Confirms Data Stolen in Supply Chain Attack](https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/)
+### 35. [Checkmarx Confirms Data Stolen in Supply Chain Attack](https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Wed, 29 Apr 2026 11:03:03 +0000  
@@ -309,7 +329,7 @@
 
 ---
 
-### 34. [Iranian Cyber Group Handala Targets US Troops in Bahrain](https://www.securityweek.com/iranian-cyber-group-handala-targets-us-troops-in-bahrain/)
+### 36. [Iranian Cyber Group Handala Targets US Troops in Bahrain](https://www.securityweek.com/iranian-cyber-group-handala-targets-us-troops-in-bahrain/)
 
 **Source:** Security Week  
 **Published:** Wed, 29 Apr 2026 10:35:36 +0000  
@@ -318,27 +338,27 @@
 
 ---
 
-### 35. [38 Vulnerabilities Found in OpenEMR Medical Software](https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/)
+### 37. [38 Vulnerabilities Found in OpenEMR Medical Software](https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/)
 
 **Source:** Security Week  
 **Published:** Wed, 29 Apr 2026 09:54:17 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24908, CVE-2026-23627, CVE-2026-24487  
+**CVEs:** CVE-2026-23627, CVE-2026-24908, CVE-2026-24487  
 **Categories:** Data Breach, Vulnerability  
 
 ---
 
-### 36. [Chrome 147, Firefox 150 Security Updates Rolling Out](https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/)
+### 38. [Chrome 147, Firefox 150 Security Updates Rolling Out](https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/)
 
 **Source:** Security Week  
 **Published:** Wed, 29 Apr 2026 09:24:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-7324, CVE-2026-7363, CVE-2026-7343, CVE-2026-7323, CVE-2026-7320, CVE-2026-7361, CVE-2026-7344, CVE-2026-7322  
+**CVEs:** CVE-2026-7361, CVE-2026-7320, CVE-2026-7344, CVE-2026-7323, CVE-2026-7363, CVE-2026-7343, CVE-2026-7322, CVE-2026-7324  
 **Categories:** Vulnerability  
 
 ---
 
-### 37. [Critical GitHub Vulnerability Exposed Millions of Repositories](https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/)
+### 39. [Critical GitHub Vulnerability Exposed Millions of Repositories](https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/)
 
 **Source:** Security Week  
 **Published:** Wed, 29 Apr 2026 06:27:49 +0000  
@@ -348,30 +368,12 @@
 
 ---
 
-### 38. [Cyber Insurance Data Gives CISOs New Ammo for Budget Talks](https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/)
+### 40. [Cyber Insurance Data Gives CISOs New Ammo for Budget Talks](https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/)
 
 **Source:** Security Week  
 **Published:** Tue, 28 Apr 2026 18:32:11 +0000  
 **Severity:** Critical  
 **Categories:** Ransomware, Vulnerability, Malware, Phishing  
-
----
-
-### 39. [Vimeo Confirms User and Customer Data Breach](https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/)
-
-**Source:** Security Week  
-**Published:** Tue, 28 Apr 2026 17:11:55 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, Supply Chain  
-
----
-
-### 40. [The Mythos Moment: Enterprises Must Fight Agents with Agents](https://www.securityweek.com/the-mythos-moment-enterprises-must-fight-agents-with-agents/)
-
-**Source:** Security Week  
-**Published:** Tue, 28 Apr 2026 15:45:00 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, APT  
 
 ---
 

@@ -1,10 +1,48 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
+    "link": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
+    "published": "Thu, 30 Apr 2026 14:54:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root.\nThe high-severity vulnerability tracked as CVE-2026-31431 (CVSS score: 7.8) has been codenamed Copy Fail by Xint.io and Theori.\n\"An unprivileged local user can write four controlled bytes into the page cache of any readable file on a Linux",
+    "analysis": {
+      "issue": "8 flaw since 2017 enables root via 732-byte exploit, impacting major Linux distributions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-31431"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
+    "link": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
+    "published": "Thu, 30 Apr 2026 12:37:00 +0530",
+    "summary": "Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have allowed attackers to execute arbitrary commands on host systems.\n\"The vulnerability allowed an unprivileged external attacker to force their own malicious content to load as Gemini configuration,\"",
+    "analysis": {
+      "issue": "1 enabled RCE in CI workflows, forcing Google to mandate explicit workspace trust",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
     "link": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
     "published": "Wed, 29 Apr 2026 21:56:00 +0530",
-    "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware.\nAccording to reports from Aikido Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz, the campaign – calling itself the mini Shai-Hulud – has affected the following packages associated with SAP's JavaScript and cloud application",
+    "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware.\nAccording to reports from Aikido Security, Onapsis, OX Security,&nbsp;SafeDep, Socket, StepSecurity, and Google-owned Wiz, the campaign – calling itself the mini Shai-Hulud – has affected the following packages associated with SAP's",
     "analysis": {
       "issue": "SAP npm packages poisoned on April 29, 2026 + AES-256-GCM encrypted credential theft + AI coding tools abused for spread",
       "solution": null,
@@ -77,7 +115,7 @@
     "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
     "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
     "published": "Wed, 29 Apr 2026 15:07:00 +0530",
-    "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software.\nThe problem affects all currently supported versions, according to an alert released by cPanel on Tuesday. The issue has been addressed in the following versions -\n\n11.110.0.97\n11.118.0.63\n11.126.0.54\n11.132.0.29",
+    "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software.\nThe problem affects all currently supported versions of cPanel and WebHost Manager (WHM), according to an alert published by WebPros on Tuesday. It does not have an official identifier. The issue has been addressed in",
     "analysis": {
       "issue": "cPanel patches authentication flaw across supported versions, prompting Namecheap port blocks and temporary access limits",
       "solution": null,
@@ -145,42 +183,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
-    "link": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
-    "published": "Tue, 28 Apr 2026 23:09:00 +0530",
-    "summary": "A cybercrime group of Brazilian origin has resurfaced after more than three years to orchestrate a campaign that targets Minecraft players with a new stealer called LofyStealer (aka GrabBot).\n\"The malware disguises itself as a Minecraft hack called 'Slinky,'\" Brazil-based cybersecurity company ZenoX said in a technical report. \"It uses the official game icon to induce voluntary execution,",
-    "analysis": {
-      "issue": "LofyGang resurfaces with LofyStealer disguised as Minecraft hack, exfiltrating IBANs and passwords to 24",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
-    "link": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html",
-    "published": "Tue, 28 Apr 2026 19:31:00 +0530",
-    "summary": "Threat hunters are warning that the cybercriminal operation known as VECT 2.0 acts more like a wiper than a ransomware due to a critical flaw in its encryption implementation across Windows, Linux, and ESXi variants that renders recovery impossible even for the threat actors.\nThe fact that VECT's locker permanently destroys large files rather than encrypting them means even victims who opt to",
-    "analysis": {
-      "issue": "0 destroys files over 131KB due to nonce flaw, launched December 2025, making ransom payments useless",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
       ]
     }
   },
@@ -346,10 +348,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-32202",
         "CVE-2026-3220",
         "CVE-2026-21513",
-        "CVE-2026-21510",
-        "CVE-2026-32202"
+        "CVE-2026-21510"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -407,9 +409,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
+        "CVE-2026-34621",
         "CVE-2026-32201",
-        "CVE-2026-34621"
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -526,13 +528,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24291",
-        "CVE-2026-26110",
+        "CVE-2026-26127",
         "CVE-2026-25187",
+        "CVE-2026-26110",
+        "CVE-2026-24291",
         "CVE-2026-24289",
         "CVE-2026-24294",
         "CVE-2026-26113",
-        "CVE-2026-26127",
         "CVE-2026-21262"
       ],
       "threat_categories": [
@@ -577,6 +579,45 @@
         "Malware",
         "APT",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover",
+    "link": "https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/",
+    "published": "Thu, 30 Apr 2026 10:06:00 +0000",
+    "summary": "<p>Affecting the kernel’s authencesn cryptographic template, the vulnerability was introduced in 2017 and impacts all distributions.</p>\n<p>The post <a href=\"https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/\">&#8216;Copy Fail&#8217; Logic Flaw in Linux Kernel Enables System Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Affecting the kernel’s authencesn cryptographic template, the vulnerability was introduced in 2017 and impacts all distributions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-31431"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Sandhills Medical Says Ransomware Breach Affects 170,000",
+    "link": "https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/",
+    "published": "Thu, 30 Apr 2026 08:35:59 +0000",
+    "summary": "<p>It took the healthcare organization nearly one year to publicly disclose a data breach after it was targeted by Inc Ransom.</p>\n<p>The post <a href=\"https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/\">Sandhills Medical Says Ransomware Breach Affects 170,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "It took the healthcare organization nearly one year to publicly disclose a data breach after it was targeted by Inc Ransom",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
       ]
     }
   },
@@ -671,8 +712,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24908",
         "CVE-2026-23627",
+        "CVE-2026-24908",
         "CVE-2026-24487"
       ],
       "threat_categories": [
@@ -694,14 +735,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-7324",
+        "CVE-2026-7361",
+        "CVE-2026-7320",
+        "CVE-2026-7344",
+        "CVE-2026-7323",
         "CVE-2026-7363",
         "CVE-2026-7343",
-        "CVE-2026-7323",
-        "CVE-2026-7320",
-        "CVE-2026-7361",
-        "CVE-2026-7344",
-        "CVE-2026-7322"
+        "CVE-2026-7322",
+        "CVE-2026-7324"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -746,45 +787,6 @@
         "Vulnerability",
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Vimeo Confirms User and Customer Data Breach",
-    "link": "https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/",
-    "published": "Tue, 28 Apr 2026 17:11:55 +0000",
-    "summary": "<p>The ShinyHunters group is threatening to leak stolen files unless Vimeo agrees to pay a ransom.</p>\n<p>The post <a href=\"https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/\">Vimeo Confirms User and Customer Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The ShinyHunters group is threatening to leak stolen files unless Vimeo agrees to pay a ransom",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "The Mythos Moment: Enterprises Must Fight Agents with Agents",
-    "link": "https://www.securityweek.com/the-mythos-moment-enterprises-must-fight-agents-with-agents/",
-    "published": "Tue, 28 Apr 2026 15:45:00 +0000",
-    "summary": "<p>Only with the right platform and an agentic, AI-driven defense, will enterprises be able to protect themselves in the agentic era.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-mythos-moment-enterprises-must-fight-agents-with-agents/\">The Mythos Moment: Enterprises Must Fight Agents with Agents</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Only with the right platform and an agentic, AI-driven defense, will enterprises be able to protect themselves in the agentic era",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
       ]
     }
   },
