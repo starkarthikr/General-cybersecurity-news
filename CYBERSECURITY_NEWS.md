@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-30 03:42:45 UTC
+**Last Updated:** 2026-04-30 04:11:24 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -175,7 +175,7 @@
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Apr 2026 06:29:31 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32202, CVE-2026-21513, CVE-2026-3220, CVE-2026-21510  
+**CVEs:** CVE-2026-3220, CVE-2026-21513, CVE-2026-21510, CVE-2026-32202  
 **Categories:** Vulnerability, APT  
 
 ---
@@ -203,7 +203,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -258,7 +258,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-26113, CVE-2026-24291, CVE-2026-24289, CVE-2026-26127, CVE-2026-26110, CVE-2026-24294, CVE-2026-21262  
+**CVEs:** CVE-2026-24291, CVE-2026-26110, CVE-2026-25187, CVE-2026-24289, CVE-2026-24294, CVE-2026-26113, CVE-2026-26127, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -323,7 +323,7 @@
 **Source:** Security Week  
 **Published:** Wed, 29 Apr 2026 09:54:17 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24487, CVE-2026-23627, CVE-2026-24908  
+**CVEs:** CVE-2026-24908, CVE-2026-23627, CVE-2026-24487  
 **Categories:** Data Breach, Vulnerability  
 
 ---
@@ -333,7 +333,7 @@
 **Source:** Security Week  
 **Published:** Wed, 29 Apr 2026 09:24:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-7324, CVE-2026-7322, CVE-2026-7363, CVE-2026-7361, CVE-2026-7320, CVE-2026-7344, CVE-2026-7343, CVE-2026-7323  
+**CVEs:** CVE-2026-7324, CVE-2026-7363, CVE-2026-7343, CVE-2026-7323, CVE-2026-7320, CVE-2026-7361, CVE-2026-7344, CVE-2026-7322  
 **Categories:** Vulnerability  
 
 ---
@@ -637,7 +637,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
