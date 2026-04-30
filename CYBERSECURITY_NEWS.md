@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-29 17:57:17 UTC
+**Last Updated:** 2026-04-30 03:42:45 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,16 +96,53 @@
 
 ---
 
-### 11. [cPanel, WHM emergency update fixes critical auth bypass bug](https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/)
+### 11. [Official SAP npm packages compromised to steal credentials](https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/)
 
 **Source:** Bleeping Computer  
-**Published:** Wed, 29 Apr 2026 11:51:44 -0400  
-**Severity:** Critical  
+**Published:** Wed, 29 Apr 2026 18:43:44 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 12. [Popular WordPress redirect plugin hid dormant backdoor for years](https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 29 Apr 2026 18:13:15 -0400  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 13. [Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining](https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 29 Apr 2026 16:50:35 -0400  
+**Severity:** Low  
 **Categories:** Vulnerability  
 
 ---
 
-### 12. [European police dismantles €50 million crypto investment fraud ring](https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/)
+### 14. [Hackers arrested for hijacking and selling 610,000 Roblox accounts](https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 29 Apr 2026 14:32:15 -0400  
+**Severity:** High  
+**Categories:** APT  
+
+---
+
+### 15. [cPanel, WHM emergency update fixes critical auth bypass bug](https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 29 Apr 2026 11:51:44 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-41940  
+**Categories:** Vulnerability  
+
+---
+
+### 16. [European police dismantles €50 million crypto investment fraud ring](https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Apr 2026 10:27:36 -0400  
@@ -114,7 +151,7 @@
 
 ---
 
-### 13. [Learning from the Vercel breach: Shadow AI & OAuth sprawl](https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/)
+### 17. [Learning from the Vercel breach: Shadow AI & OAuth sprawl](https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Apr 2026 09:05:14 -0400  
@@ -123,7 +160,7 @@
 
 ---
 
-### 14. [GitHub fixes RCE flaw that gave access to millions of private repos](https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/)
+### 18. [GitHub fixes RCE flaw that gave access to millions of private repos](https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Apr 2026 08:41:17 -0400  
@@ -133,59 +170,22 @@
 
 ---
 
-### 15. [CISA orders feds to patch Windows flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/)
+### 19. [CISA orders feds to patch Windows flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Apr 2026 06:29:31 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21513, CVE-2026-32202, CVE-2026-3220, CVE-2026-21510  
+**CVEs:** CVE-2026-32202, CVE-2026-21513, CVE-2026-3220, CVE-2026-21510  
 **Categories:** Vulnerability, APT  
 
 ---
 
-### 16. [Microsoft says backend change broke Teams Free chat and calls](https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/)
+### 20. [Microsoft says backend change broke Teams Free chat and calls](https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Apr 2026 04:38:07 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 17. [Broken VECT 2.0 ransomware acts as a data wiper for large files](https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 28 Apr 2026 17:25:57 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability  
-
----
-
-### 18. [Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 28 Apr 2026 17:07:23 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-42208  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Video service Vimeo confirms Anodot breach exposed user data](https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 28 Apr 2026 15:04:22 -0400  
-**Severity:** High  
-**Categories:** Ransomware  
-
----
-
-### 20. [US reportedly charges Scattered Spider hacker arrested in Finland](https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 28 Apr 2026 11:39:52 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
 
 ---
 
@@ -203,7 +203,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
+**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -258,7 +258,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-26110, CVE-2026-24291, CVE-2026-24294, CVE-2026-21262, CVE-2026-24289, CVE-2026-26113, CVE-2026-26127  
+**CVEs:** CVE-2026-25187, CVE-2026-26113, CVE-2026-24291, CVE-2026-24289, CVE-2026-26127, CVE-2026-26110, CVE-2026-24294, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -323,7 +323,7 @@
 **Source:** Security Week  
 **Published:** Wed, 29 Apr 2026 09:54:17 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24487, CVE-2026-24908, CVE-2026-23627  
+**CVEs:** CVE-2026-24487, CVE-2026-23627, CVE-2026-24908  
 **Categories:** Data Breach, Vulnerability  
 
 ---
@@ -333,7 +333,7 @@
 **Source:** Security Week  
 **Published:** Wed, 29 Apr 2026 09:24:29 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-7361, CVE-2026-7363, CVE-2026-7343, CVE-2026-7320, CVE-2026-7323, CVE-2026-7322, CVE-2026-7344, CVE-2026-7324  
+**CVEs:** CVE-2026-7324, CVE-2026-7322, CVE-2026-7363, CVE-2026-7361, CVE-2026-7320, CVE-2026-7344, CVE-2026-7343, CVE-2026-7323  
 **Categories:** Vulnerability  
 
 ---
@@ -407,7 +407,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20362, CVE-2025-20333  
+**CVEs:** CVE-2025-20333, CVE-2025-20362  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -652,7 +652,16 @@
 
 ---
 
-### 71. [Microsoft won&#8217;t patch PhantomRPC: Feature or bug?](https://www.malwarebytes.com/blog/news/2026/04/microsoft-wont-patch-phantomrpc-feature-or-bug)
+### 71. [Researchers built a chatbot that only knows the world before 1931](https://www.malwarebytes.com/blog/ai/2026/04/researchers-built-a-chatbot-that-only-knows-the-world-before-1931)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 29 Apr 2026 20:58:30 GMT  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 72. [Microsoft won&#8217;t patch PhantomRPC: Feature or bug?](https://www.malwarebytes.com/blog/news/2026/04/microsoft-wont-patch-phantomrpc-feature-or-bug)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 29 Apr 2026 13:27:32 GMT  
@@ -661,7 +670,7 @@
 
 ---
 
-### 72. [Scam-checking just got a lot easier: Malwarebytes is now in Claude](https://www.malwarebytes.com/blog/product/2026/04/scam-checking-just-got-a-lot-easier-malwarebytes-is-now-in-claude)
+### 73. [Scam-checking just got a lot easier: Malwarebytes is now in Claude](https://www.malwarebytes.com/blog/product/2026/04/scam-checking-just-got-a-lot-easier-malwarebytes-is-now-in-claude)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 29 Apr 2026 10:52:29 GMT  
@@ -670,7 +679,7 @@
 
 ---
 
-### 73. [Fake CAPTCHA scam turns a quick click into a costly phone bill](https://www.malwarebytes.com/blog/news/2026/04/fake-captcha-scam-turns-a-quick-click-into-a-costly-phone-bill)
+### 74. [Fake CAPTCHA scam turns a quick click into a costly phone bill](https://www.malwarebytes.com/blog/news/2026/04/fake-captcha-scam-turns-a-quick-click-into-a-costly-phone-bill)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 28 Apr 2026 10:46:01 GMT  
@@ -679,7 +688,7 @@
 
 ---
 
-### 74. [Chinese engineer stole US military and NASA software for years](https://www.malwarebytes.com/blog/news/2026/04/chinese-engineer-stole-us-military-and-nasa-software-for-years)
+### 75. [Chinese engineer stole US military and NASA software for years](https://www.malwarebytes.com/blog/news/2026/04/chinese-engineer-stole-us-military-and-nasa-software-for-years)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 28 Apr 2026 09:21:11 GMT  
@@ -688,7 +697,7 @@
 
 ---
 
-### 75. [A week in security (April 20 &#8211; April 26)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-20-april-26)
+### 76. [A week in security (April 20 &#8211; April 26)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-20-april-26)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 27 Apr 2026 07:02:00 GMT  
@@ -697,7 +706,7 @@
 
 ---
 
-### 76. [Medical data of 500,000 UK volunteers listed for sale on Alibaba](https://www.malwarebytes.com/blog/news/2026/04/medical-data-of-500000-uk-volunteers-listed-for-sale-on-alibaba)
+### 77. [Medical data of 500,000 UK volunteers listed for sale on Alibaba](https://www.malwarebytes.com/blog/news/2026/04/medical-data-of-500000-uk-volunteers-listed-for-sale-on-alibaba)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 24 Apr 2026 12:32:20 GMT  
@@ -706,7 +715,7 @@
 
 ---
 
-### 77. [How cyberattacks on companies affect everyone](https://www.malwarebytes.com/blog/privacy/2026/04/how-cyberattacks-on-companies-affect-everyone)
+### 78. [How cyberattacks on companies affect everyone](https://www.malwarebytes.com/blog/privacy/2026/04/how-cyberattacks-on-companies-affect-everyone)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 23 Apr 2026 15:34:09 GMT  
@@ -715,7 +724,7 @@
 
 ---
 
-### 78. [Apple fixes iOS bug that kept deleted notifications, including chat previews](https://www.malwarebytes.com/blog/news/2026/04/apple-fixes-ios-bug-that-kept-deleted-notifications-including-chat-previews)
+### 79. [Apple fixes iOS bug that kept deleted notifications, including chat previews](https://www.malwarebytes.com/blog/news/2026/04/apple-fixes-ios-bug-that-kept-deleted-notifications-including-chat-previews)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 23 Apr 2026 10:27:32 GMT  
@@ -725,21 +734,12 @@
 
 ---
 
-### 79. [Roblox clamps down on chats and age checks as legal pressure builds](https://www.malwarebytes.com/blog/news/2026/04/roblox-clamps-down-on-chats-and-age-checks-as-legal-pressure-builds)
+### 80. [Roblox clamps down on chats and age checks as legal pressure builds](https://www.malwarebytes.com/blog/news/2026/04/roblox-clamps-down-on-chats-and-age-checks-as-legal-pressure-builds)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 23 Apr 2026 07:57:37 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 80. [Malicious trading website drops malware that hands your browser to attackers](https://www.malwarebytes.com/blog/threat-intel/2026/04/malicious-trading-website-drop-malware-that-hands-over-your-browser-to-attackers)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 22 Apr 2026 12:30:02 GMT  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
 
 ---
 
