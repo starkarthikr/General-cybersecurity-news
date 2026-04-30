@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-30 10:25:15 UTC
+**Last Updated:** 2026-04-30 14:11:04 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions](https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html)
+### 1. [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 30 Apr 2026 19:25:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing, Supply Chain  
+
+---
+
+### 2. [New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 30 Apr 2026 18:06:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades](https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 30 Apr 2026 17:00:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions](https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Apr 2026 14:54:00 +0530  
@@ -14,7 +41,7 @@
 
 ---
 
-### 2. [Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution](https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html)
+### 5. [Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution](https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Apr 2026 12:37:00 +0530  
@@ -23,7 +50,7 @@
 
 ---
 
-### 3. [SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html)
+### 6. [SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 21:56:00 +0530  
@@ -32,7 +59,7 @@
 
 ---
 
-### 4. [New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs](https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html)
+### 7. [New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs](https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 20:13:00 +0530  
@@ -41,7 +68,7 @@
 
 ---
 
-### 5. [Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html)
+### 8. [Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 17:32:00 +0530  
@@ -50,7 +77,7 @@
 
 ---
 
-### 6. [What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)](https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html)
+### 9. [What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)](https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 17:00:00 +0530  
@@ -59,7 +86,7 @@
 
 ---
 
-### 7. [Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately](https://thehackernews.com/2026/04/critical-cpanel-authentication.html)
+### 10. [Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately](https://thehackernews.com/2026/04/critical-cpanel-authentication.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 15:07:00 +0530  
@@ -68,36 +95,45 @@
 
 ---
 
-### 8. [CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV](https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html)
+### 11. [What Happens in the First 24 Hours After a New Asset Goes Live](https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 29 Apr 2026 14:16:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 30 Apr 2026 10:02:12 -0400  
 **Severity:** Low  
 **Categories:** Vulnerability  
 
 ---
 
-### 9. [LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure](https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html)
+### 12. [New Linux ‘Copy Fail’ flaw gives hackers root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 29 Apr 2026 11:04:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 30 Apr 2026 09:54:47 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-42208  
+**CVEs:** CVE-2026-31431  
 **Categories:** Vulnerability  
 
 ---
 
-### 10. [Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push](https://thehackernews.com/2026/04/researchers-discover-critical-github.html)
+### 13. [Critical cPanel and WHM bug exploited as a zero-day, PoC now available](https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 28 Apr 2026 23:49:00 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-3854  
+**Source:** Bleeping Computer  
+**Published:** Thu, 30 Apr 2026 07:40:31 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-41940  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [Official SAP npm packages compromised to steal credentials](https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/)
+### 14. [Police dismantles 9 crypto scam centers, arrests 276 suspects](https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 30 Apr 2026 07:21:02 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 15. [Official SAP npm packages compromised to steal credentials](https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Apr 2026 18:43:44 -0400  
@@ -106,7 +142,7 @@
 
 ---
 
-### 12. [Popular WordPress redirect plugin hid dormant backdoor for years](https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/)
+### 16. [Popular WordPress redirect plugin hid dormant backdoor for years](https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Apr 2026 18:13:15 -0400  
@@ -115,7 +151,7 @@
 
 ---
 
-### 13. [Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining](https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/)
+### 17. [Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining](https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Apr 2026 16:50:35 -0400  
@@ -124,7 +160,7 @@
 
 ---
 
-### 14. [Hackers arrested for hijacking and selling 610,000 Roblox accounts](https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/)
+### 18. [Hackers arrested for hijacking and selling 610,000 Roblox accounts](https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Apr 2026 14:32:15 -0400  
@@ -133,7 +169,7 @@
 
 ---
 
-### 15. [cPanel, WHM emergency update fixes critical auth bypass bug](https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/)
+### 19. [cPanel, WHM emergency update fixes critical auth bypass bug](https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Apr 2026 11:51:44 -0400  
@@ -143,50 +179,12 @@
 
 ---
 
-### 16. [European police dismantles €50 million crypto investment fraud ring](https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/)
+### 20. [European police dismantles €50 million crypto investment fraud ring](https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Apr 2026 10:27:36 -0400  
 **Severity:** Low  
 **Categories:** APT  
-
----
-
-### 17. [Learning from the Vercel breach: Shadow AI & OAuth sprawl](https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 29 Apr 2026 09:05:14 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 18. [GitHub fixes RCE flaw that gave access to millions of private repos](https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 29 Apr 2026 08:41:17 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-3854  
-**Categories:** Vulnerability  
-
----
-
-### 19. [CISA orders feds to patch Windows flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 29 Apr 2026 06:29:31 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-32202, CVE-2026-3220, CVE-2026-21513, CVE-2026-21510  
-**Categories:** Vulnerability, APT  
-
----
-
-### 20. [Microsoft says backend change broke Teams Free chat and calls](https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 29 Apr 2026 04:38:07 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -259,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26127, CVE-2026-25187, CVE-2026-26110, CVE-2026-24291, CVE-2026-24289, CVE-2026-24294, CVE-2026-26113, CVE-2026-21262  
+**CVEs:** CVE-2026-21262, CVE-2026-24294, CVE-2026-26127, CVE-2026-26113, CVE-2026-24291, CVE-2026-24289, CVE-2026-25187, CVE-2026-26110  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -282,7 +280,36 @@
 
 ---
 
-### 31. [‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover](https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/)
+### 31. [Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks](https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/)
+
+**Source:** Security Week  
+**Published:** Thu, 30 Apr 2026 12:34:05 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 32. [EnOcean SmartServer Flaws Expose Buildings to Remote Hacking](https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/)
+
+**Source:** Security Week  
+**Published:** Thu, 30 Apr 2026 11:57:31 +0000  
+**Severity:** Low  
+**CVEs:** CVE-2026-22885, CVE-2026-20761  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 33. [Critical cPanel & WHM Vulnerability Exploited as Zero-Day for Months](https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/)
+
+**Source:** Security Week  
+**Published:** Thu, 30 Apr 2026 11:10:30 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-41940  
+**Categories:** Vulnerability  
+
+---
+
+### 34. [‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover](https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Apr 2026 10:06:00 +0000  
@@ -292,7 +319,7 @@
 
 ---
 
-### 32. [Sandhills Medical Says Ransomware Breach Affects 170,000](https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/)
+### 35. [Sandhills Medical Says Ransomware Breach Affects 170,000](https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Apr 2026 08:35:59 +0000  
@@ -301,7 +328,7 @@
 
 ---
 
-### 33. [Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure](https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/)
+### 36. [Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure](https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/)
 
 **Source:** Security Week  
 **Published:** Wed, 29 Apr 2026 13:04:05 +0000  
@@ -311,7 +338,7 @@
 
 ---
 
-### 34. [Hundreds of Internet-Facing VNC Servers Expose ICS/OT](https://www.securityweek.com/hundreds-of-internet-facing-vnc-servers-expose-ics-ot/)
+### 37. [Hundreds of Internet-Facing VNC Servers Expose ICS/OT](https://www.securityweek.com/hundreds-of-internet-facing-vnc-servers-expose-ics-ot/)
 
 **Source:** Security Week  
 **Published:** Wed, 29 Apr 2026 12:03:40 +0000  
@@ -320,7 +347,7 @@
 
 ---
 
-### 35. [Checkmarx Confirms Data Stolen in Supply Chain Attack](https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/)
+### 38. [Checkmarx Confirms Data Stolen in Supply Chain Attack](https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Wed, 29 Apr 2026 11:03:03 +0000  
@@ -329,7 +356,7 @@
 
 ---
 
-### 36. [Iranian Cyber Group Handala Targets US Troops in Bahrain](https://www.securityweek.com/iranian-cyber-group-handala-targets-us-troops-in-bahrain/)
+### 39. [Iranian Cyber Group Handala Targets US Troops in Bahrain](https://www.securityweek.com/iranian-cyber-group-handala-targets-us-troops-in-bahrain/)
 
 **Source:** Security Week  
 **Published:** Wed, 29 Apr 2026 10:35:36 +0000  
@@ -338,42 +365,13 @@
 
 ---
 
-### 37. [38 Vulnerabilities Found in OpenEMR Medical Software](https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/)
+### 40. [38 Vulnerabilities Found in OpenEMR Medical Software](https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/)
 
 **Source:** Security Week  
 **Published:** Wed, 29 Apr 2026 09:54:17 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-23627, CVE-2026-24908, CVE-2026-24487  
+**CVEs:** CVE-2026-24487, CVE-2026-23627, CVE-2026-24908  
 **Categories:** Data Breach, Vulnerability  
-
----
-
-### 38. [Chrome 147, Firefox 150 Security Updates Rolling Out](https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/)
-
-**Source:** Security Week  
-**Published:** Wed, 29 Apr 2026 09:24:29 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-7361, CVE-2026-7320, CVE-2026-7344, CVE-2026-7323, CVE-2026-7363, CVE-2026-7343, CVE-2026-7322, CVE-2026-7324  
-**Categories:** Vulnerability  
-
----
-
-### 39. [Critical GitHub Vulnerability Exposed Millions of Repositories](https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/)
-
-**Source:** Security Week  
-**Published:** Wed, 29 Apr 2026 06:27:49 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-3854  
-**Categories:** Vulnerability  
-
----
-
-### 40. [Cyber Insurance Data Gives CISOs New Ammo for Budget Talks](https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/)
-
-**Source:** Security Week  
-**Published:** Tue, 28 Apr 2026 18:32:11 +0000  
-**Severity:** Critical  
-**Categories:** Ransomware, Vulnerability, Malware, Phishing  
 
 ---
 
@@ -409,7 +407,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20333, CVE-2025-20362  
+**CVEs:** CVE-2025-20362, CVE-2025-20333  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -469,7 +467,25 @@
 
 ---
 
-### 51. [The Money Mule Solution: What Every Scam Has in Common](https://www.recordedfuture.com/blog/money-mule-solution)
+### 51. [Risk Scenarios for the US’s Strategic Pivot](https://www.recordedfuture.com/research/us-strategic-pivot)
+
+**Source:** Recorded Future  
+**Published:** Thu, 30 Apr 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [Building with AI: Here's What No Briefing Will Tell You](https://www.recordedfuture.com/blog/building-with-ai)
+
+**Source:** Recorded Future  
+**Published:** Thu, 30 Apr 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 53. [The Money Mule Solution: What Every Scam Has in Common](https://www.recordedfuture.com/blog/money-mule-solution)
 
 **Source:** Recorded Future  
 **Published:** Tue, 28 Apr 2026 00:00:00 GMT  
@@ -478,7 +494,7 @@
 
 ---
 
-### 52. [Lazarus Doesn't Need AGI](https://www.recordedfuture.com/blog/lazarus-does-not-need-agi)
+### 54. [Lazarus Doesn't Need AGI](https://www.recordedfuture.com/blog/lazarus-does-not-need-agi)
 
 **Source:** Recorded Future  
 **Published:** Tue, 28 Apr 2026 00:00:00 GMT  
@@ -487,7 +503,7 @@
 
 ---
 
-### 53. [From Overwhelmed to Autonomous: Rethinking Threat Intelligence in 2026](https://www.recordedfuture.com/blog/rethinking-threat-intelligence-in-2026)
+### 55. [From Overwhelmed to Autonomous: Rethinking Threat Intelligence in 2026](https://www.recordedfuture.com/blog/rethinking-threat-intelligence-in-2026)
 
 **Source:** Recorded Future  
 **Published:** Fri, 24 Apr 2026 00:00:00 GMT  
@@ -496,7 +512,7 @@
 
 ---
 
-### 54. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+### 56. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
 
 **Source:** Recorded Future  
 **Published:** Fri, 24 Apr 2026 00:00:00 GMT  
@@ -505,7 +521,7 @@
 
 ---
 
-### 55. [Critical minerals and cyber operations](https://www.recordedfuture.com/research/critical-minerals-and-cyber-operations)
+### 57. [Critical minerals and cyber operations](https://www.recordedfuture.com/research/critical-minerals-and-cyber-operations)
 
 **Source:** Recorded Future  
 **Published:** Thu, 23 Apr 2026 00:00:00 GMT  
@@ -514,7 +530,7 @@
 
 ---
 
-### 56. [Today, trust is the superpower that makes innovation possible](https://www.recordedfuture.com/blog/trust-is-a-superpower)
+### 58. [Today, trust is the superpower that makes innovation possible](https://www.recordedfuture.com/blog/trust-is-a-superpower)
 
 **Source:** Recorded Future  
 **Published:** Thu, 23 Apr 2026 00:00:00 GMT  
@@ -523,7 +539,7 @@
 
 ---
 
-### 57. [Evolution of Chinese-Language Guarantee Telegram Marketplaces](https://www.recordedfuture.com/research/evolution-of-the-chinese-language)
+### 59. [Evolution of Chinese-Language Guarantee Telegram Marketplaces](https://www.recordedfuture.com/research/evolution-of-the-chinese-language)
 
 **Source:** Recorded Future  
 **Published:** Wed, 22 Apr 2026 00:00:00 GMT  
@@ -532,30 +548,12 @@
 
 ---
 
-### 58. [AI Hype vs. Reality: Is AI Really Rewriting the Vulnerability Equation?](https://www.recordedfuture.com/blog/ai-hype-vs-reality)
+### 60. [AI Hype vs. Reality: Is AI Really Rewriting the Vulnerability Equation?](https://www.recordedfuture.com/blog/ai-hype-vs-reality)
 
 **Source:** Recorded Future  
 **Published:** Wed, 22 Apr 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 59. [Emerging Enterprise Security Risks of AI](https://www.recordedfuture.com/research/emerging-enterprise-security-risks-of-ai)
-
-**Source:** Recorded Future  
-**Published:** Tue, 21 Apr 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 60. [4 Essential Integration Workflows for Operationalizing Threat Intelligence Recorded Future](https://www.recordedfuture.com/blog/4-essential-integration-workflows-for-operationalizing-threat-intelligence)
-
-**Source:** Recorded Future  
-**Published:** Fri, 17 Apr 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -639,7 +637,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

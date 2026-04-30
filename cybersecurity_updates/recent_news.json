@@ -1,6 +1,61 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
+    "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
+    "published": "Thu, 30 Apr 2026 19:25:00 +0530",
+    "summary": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into their private files during a simple install. It is definitely a busy time to be online.\nSecurity is always a moving target. Millions of servers are currently sitting online without any passwords, and",
+    "analysis": {
+      "issue": "Latest ThreatsDay: SMS blasters, npm supply chain hits, and unpatched Windows flaws",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
+    "link": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
+    "published": "Thu, 30 Apr 2026 18:06:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of sensitive information from compromised hosts.\n\"The intrusion chain begins with execution of a batch script ('install_obf.bat') that disables Windows security controls, dynamically extracts an",
+    "analysis": {
+      "issue": "DEEP#DOOR embeds a Python RAT in a dropper script, using bore[",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
+    "link": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
+    "published": "Thu, 30 Apr 2026 17:00:00 +0530",
+    "summary": "Intro\nA sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional accounts of enterprise administrators, DevOps engineers, and security analysts by impersonating administrative utilities they rely on for daily operations. By integrating&nbsp;Search Engine Order (SEO)",
+    "analysis": {
+      "issue": "44 GitHub facades and Ethereum smart contracts power a March 2026 admin-targeted campaign, enabling resilient C2 rotation and enterprise compromise",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
     "link": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
     "published": "Thu, 30 Apr 2026 14:54:00 +0530",
@@ -129,13 +184,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
-    "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
-    "published": "Wed, 29 Apr 2026 14:16:00 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerabilities are listed below -\n\nCVE-2024-1708 (CVSS score: 8.4) - A path traversal vulnerability in&nbsp; ConnectWise ScreenConnect",
+    "source": "Bleeping Computer",
+    "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
+    "link": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
+    "published": "Thu, 30 Apr 2026 10:02:12 -0400",
+    "summary": "When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise in under 24 hours. [...]",
     "analysis": {
-      "issue": "CISA added two actively exploited CVEs to KEV after confirmed attacks, mandating FCEB patching by May 12, 2026",
+      "issue": "A technical look at the first 24 hours: how quickly attackers enumerate and target newly exposed assets Written by Topher Lyons – Sprocket Security The moment a new asset gets a public IP address, a clock starts",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -147,19 +202,19 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
-    "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
-    "published": "Wed, 29 Apr 2026 11:04:00 +0530",
-    "summary": "In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation in the wild within 36 hours of the bug becoming public knowledge.\nThe vulnerability, tracked as CVE-2026-42208 (CVSS score: 9.3), is an SQL injection that could be exploited to modify the underlying",
+    "source": "Bleeping Computer",
+    "title": "New Linux ‘Copy Fail’ flaw gives hackers root on major distros",
+    "link": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
+    "published": "Thu, 30 Apr 2026 09:54:47 -0400",
+    "summary": "An exploit has been published for a local privilege escalation vulnerability dubbed \"Copy Fail\" that impacts Linux kernels released since 2017, allowing an unprivileged local attacker to gain root permissions. [...]",
     "analysis": {
-      "issue": "CVE-2026-42208 exploited within 36 hours of disclosure, exposing LiteLLM credentials, risking cloud account compromise",
+      "issue": "An exploit has been published for a local privilege escalation vulnerability dubbed “Copy Fail” that impacts Linux kernels released since 2017, allowing an unprivileged local attacker to gain root permissions",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-42208"
+        "CVE-2026-31431"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -167,22 +222,40 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
-    "link": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
-    "published": "Tue, 28 Apr 2026 23:49:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code execution with a single \"git push\" command.\nThe flaw, tracked as CVE-2026-3854 (CVSS score: 8.7), is a case of command injection that could allow an attacker with push access to a repository to achieve",
+    "source": "Bleeping Computer",
+    "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
+    "published": "Thu, 30 Apr 2026 07:40:31 -0400",
+    "summary": "The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February. [...]",
     "analysis": {
-      "issue": "7) enabled GitHub RCE via git push, risking cross-tenant access to millions of repositories",
+      "issue": "The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-41940"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Police dismantles 9 crypto scam centers, arrests 276 suspects",
+    "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/",
+    "published": "Thu, 30 Apr 2026 07:21:02 -0400",
+    "summary": "A joint international operation involving U.S. and Chinese authorities arrested at least 276 suspects and shut down nine cryptocurrency investment fraud centers. [...]",
+    "analysis": {
+      "issue": "A joint international operation involving U",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-3854"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -294,86 +367,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Learning from the Vercel breach: Shadow AI & OAuth sprawl",
-    "link": "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/",
-    "published": "Wed, 29 Apr 2026 09:05:14 -0400",
-    "summary": "A single third-party OAuth integration can become a direct path into your environment. Push explains how the Vercel breach shows a compromised OAuth app can lead to widespread impact across downstream customers. [...]",
-    "analysis": {
-      "issue": "Most organizations are rightly nervous about employees adopting unapproved AI tools",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "GitHub fixes RCE flaw that gave access to millions of private repos",
-    "link": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
-    "published": "Wed, 29 Apr 2026 08:41:17 -0400",
-    "summary": "In early March, GitHub patched a critical remote code execution vulnerability (CVE-2026-3854) that could have allowed attackers to access millions of private repositories. [...]",
-    "analysis": {
-      "issue": "In early March, GitHub patched a critical remote code execution vulnerability (CVE-2026-3854) that could have allowed attackers to access millions of private repositories",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-3854"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
-    "published": "Wed, 29 Apr 2026 06:29:31 -0400",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their Windows systems against a vulnerability exploited in zero-day attacks. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their Windows systems against a vulnerability exploited in zero-day attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-32202",
-        "CVE-2026-3220",
-        "CVE-2026-21513",
-        "CVE-2026-21510"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft says backend change broke Teams Free chat and calls",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
-    "published": "Wed, 29 Apr 2026 04:38:07 -0400",
-    "summary": "Microsoft is working to resolve a known issue that prevents some Microsoft Teams Free users from chatting and calling others. [...]",
-    "analysis": {
-      "issue": "Microsoft is working to resolve a known issue that prevents some Microsoft Teams Free users from chatting and calling others",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -528,14 +521,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-21262",
+        "CVE-2026-24294",
         "CVE-2026-26127",
-        "CVE-2026-25187",
-        "CVE-2026-26110",
+        "CVE-2026-26113",
         "CVE-2026-24291",
         "CVE-2026-24289",
-        "CVE-2026-24294",
-        "CVE-2026-26113",
-        "CVE-2026-21262"
+        "CVE-2026-25187",
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -579,6 +572,67 @@
         "Malware",
         "APT",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks",
+    "link": "https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/",
+    "published": "Thu, 30 Apr 2026 12:34:05 +0000",
+    "summary": "<p>An attacker could have planted a malicious configuration to execute commands outside the sandbox.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/\">Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "An attacker could have planted a malicious configuration to execute commands outside the sandbox",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "EnOcean SmartServer Flaws Expose Buildings to Remote Hacking",
+    "link": "https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/",
+    "published": "Thu, 30 Apr 2026 11:57:31 +0000",
+    "summary": "<p>Claroty researchers discovered two vulnerabilities that can be exploited for security bypass and remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/\">EnOcean SmartServer Flaws Expose Buildings to Remote Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Claroty researchers discovered two vulnerabilities that can be exploited for security bypass and remote code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-22885",
+        "CVE-2026-20761"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical cPanel & WHM Vulnerability Exploited as Zero-Day for Months",
+    "link": "https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/",
+    "published": "Thu, 30 Apr 2026 11:10:30 +0000",
+    "summary": "<p>The authentication bypass flaw allows attackers to gain administrative access to vulnerable servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/\">Critical cPanel &#038; WHM Vulnerability Exploited as Zero-Day for Months</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The authentication bypass flaw allows attackers to gain administrative access to vulnerable servers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-41940"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -712,81 +766,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-24487",
         "CVE-2026-23627",
-        "CVE-2026-24908",
-        "CVE-2026-24487"
+        "CVE-2026-24908"
       ],
       "threat_categories": [
         "Data Breach",
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chrome 147, Firefox 150 Security Updates Rolling Out",
-    "link": "https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/",
-    "published": "Wed, 29 Apr 2026 09:24:29 +0000",
-    "summary": "<p>The browser refreshes resolve critical and high-severity vulnerabilities that could lead to arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/\">Chrome 147, Firefox 150 Security Updates Rolling Out</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The browser refreshes resolve critical and high-severity vulnerabilities that could lead to arbitrary code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-7361",
-        "CVE-2026-7320",
-        "CVE-2026-7344",
-        "CVE-2026-7323",
-        "CVE-2026-7363",
-        "CVE-2026-7343",
-        "CVE-2026-7322",
-        "CVE-2026-7324"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical GitHub Vulnerability Exposed Millions of Repositories",
-    "link": "https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/",
-    "published": "Wed, 29 Apr 2026 06:27:49 +0000",
-    "summary": "<p>The remote code execution flaw CVE-2026-3854 was found to impact GitHub.com and GitHub Enterprise Server.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/\">Critical GitHub Vulnerability Exposed Millions of Repositories</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The remote code execution flaw CVE-2026-3854 was found to impact GitHub",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-3854"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cyber Insurance Data Gives CISOs New Ammo for Budget Talks",
-    "link": "https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/",
-    "published": "Tue, 28 Apr 2026 18:32:11 +0000",
-    "summary": "<p>Boards may ignore alerts, but they listen to losses: new data from Resilience links security gaps directly to financial impact.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/\">Cyber Insurance Data Gives CISOs New Ammo for Budget Talks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Boards may ignore alerts, but they listen to losses: new data from Resilience links security gaps directly to financial impact",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -860,8 +846,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20333",
-        "CVE-2025-20362"
+        "CVE-2025-20362",
+        "CVE-2025-20333"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -985,6 +971,42 @@
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Risk Scenarios for the US’s Strategic Pivot",
+    "link": "https://www.recordedfuture.com/research/us-strategic-pivot",
+    "published": "Thu, 30 Apr 2026 00:00:00 GMT",
+    "summary": "The United States (US) is shifting toward a more force-driven security strategy primarily relying on military operations and economic pressure to counter transnational criminal organizations and limit Chinese, Russian, and Iranian influence in the Western Hemisphere.",
+    "analysis": {
+      "issue": "The United States (US) is shifting toward a more force-driven security strategy primarily relying on military operations and economic pressure to counter transnational criminal organizations and limit Chinese, Russian, and Iranian influence in the We",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Building with AI: Here's What No Briefing Will Tell You",
+    "link": "https://www.recordedfuture.com/blog/building-with-ai",
+    "published": "Thu, 30 Apr 2026 00:00:00 GMT",
+    "summary": "What building with AI for three months revealed about four leadership blind spots executives can't afford to ignore: the comprehension gap, eroding competitive moats, deployment complexity, and what \"senior\" really means now.",
+    "analysis": {
+      "issue": "What building with AI for three months revealed about four leadership blind spots executives can't afford to ignore: the comprehension gap, eroding competitive moats, deployment complexity, and what \"senior\" really means now",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1130,42 +1152,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Emerging Enterprise Security Risks of AI",
-    "link": "https://www.recordedfuture.com/research/emerging-enterprise-security-risks-of-ai",
-    "published": "Tue, 21 Apr 2026 00:00:00 GMT",
-    "summary": "Agentic AI adoption is accelerating rapidly as enterprise software and applications increasingly incorporate task-specific AI agents, enabling autonomous execution of complex tasks at machine speed.",
-    "analysis": {
-      "issue": "Agentic AI adoption is accelerating rapidly as enterprise software and applications increasingly incorporate task-specific AI agents, enabling autonomous execution of complex tasks at machine speed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "4 Essential Integration Workflows for Operationalizing Threat Intelligence Recorded Future",
-    "link": "https://www.recordedfuture.com/blog/4-essential-integration-workflows-for-operationalizing-threat-intelligence",
-    "published": "Fri, 17 Apr 2026 00:00:00 GMT",
-    "summary": "Learn how to integrate threat intelligence into your existing security stack with Recorded Future. Explore four stages of cyber maturity, four key integration workflows, and practical steps to move your program from reactive to autonomous.",
-    "analysis": {
-      "issue": "Learn how to integrate threat intelligence into your existing security stack with Recorded Future",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1336,8 +1322,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
