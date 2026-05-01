@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
+    "link": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
+    "published": "Fri, 01 May 2026 19:56:00 +0530",
+    "summary": "Cybersecurity researchers are warning of two cybercrime groups that are carrying out \"rapid, high-impact attacks\" operating almost within the confines of SaaS environments, while leaving minimal traces of their actions.\nThe clusters, Cordial Spider (aka BlackFile, CL-CRI-1116, O-UNC-045, and UNC6671) and Snarky Spider (aka O-UNC-025 and UNC6661), have been attributed to high-speed data theft and",
+    "analysis": {
+      "issue": "Two groups exploit SaaS via vishing since Oct 2025, stealing credentials to access multiple apps, enabling rapid data theft and extortion",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists",
+    "link": "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html",
+    "published": "Fri, 01 May 2026 19:32:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new China-aligned espionage campaign targeting government and defense sectors across South, East, and Southeast Asia, along with one European government belonging to NATO.\nTrend Micro has attributed the activity to a threat activity cluster it tracks under the temporary designation SHADOW-EARTH-053. The adversarial collective is assessed to",
+    "analysis": {
+      "issue": "China-linked hackers exploit Exchange flaws since Dec 2024 across 8 countries, enabling espionage and credential theft operations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
     "link": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
     "published": "Fri, 01 May 2026 16:00:00 +0530",
@@ -149,13 +186,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
-    "link": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
-    "published": "Thu, 30 Apr 2026 12:37:00 +0530",
-    "summary": "Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have allowed attackers to execute arbitrary commands on host systems.\n\"The vulnerability allowed an unprivileged external attacker to force their own malicious content to load as Gemini configuration,\"",
+    "source": "Bleeping Computer",
+    "title": "Story retracted",
+    "link": "https://www.bleepingcomputer.com/news/security/story-retracted/",
+    "published": "Fri, 01 May 2026 12:26:28 -0400",
+    "summary": "BleepingComputer initially published a story about a new data breach at Instructure. Shortly after publication, we determined that the information was incorrect and primarily based on outdated details from a prior incident. The article has been retracted, and we regret the error. [...]"
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
+    "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
+    "published": "Fri, 01 May 2026 10:02:12 -0400",
+    "summary": "Raw threat intel isn't enough without real-world context. Criminal IP has partnered with Securonix to integrate exposure-based intelligence into ThreatQ, automating analysis and speeding up investigations. [...]",
     "analysis": {
-      "issue": "1 enabled RCE in CI workflows, forcing Google to mandate explicit workspace trust",
+      "issue": "Criminal IP partners with Securonix to integrate Criminal IP’s Threat Intelligence into ThreatQ, allowing organizations to incorporate external IP intelligence into their existing workflows, helping security teams accelerate analysis and response wit",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -163,25 +207,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
-    "link": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
-    "published": "Wed, 29 Apr 2026 21:56:00 +0530",
-    "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware.\nAccording to reports from Aikido Security, Onapsis, OX Security,&nbsp;SafeDep, Socket, StepSecurity, and Google-owned Wiz, the campaign –&nbsp;calling itself the Mini&nbsp;Shai-Hulud – has affected the following packages associated with",
-    "analysis": {
-      "issue": "SAP npm packages poisoned on April 29, 2026 + AES-256-GCM encrypted credential theft + AI coding tools abused for spread",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "Supply Chain"
       ]
     }
   },
@@ -331,44 +356,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
-    "link": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
-    "published": "Thu, 30 Apr 2026 10:02:12 -0400",
-    "summary": "When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise in under 24 hours. [...]",
-    "analysis": {
-      "issue": "A technical look at the first 24 hours: how quickly attackers enumerate and target newly exposed assets Written by Topher Lyons – Sprocket Security The moment a new asset gets a public IP address, a clock starts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Linux ‘Copy Fail’ flaw gives hackers root on major distros",
-    "link": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
-    "published": "Thu, 30 Apr 2026 09:54:47 -0400",
-    "summary": "An exploit has been published for a local privilege escalation vulnerability dubbed \"Copy Fail\" that impacts Linux kernels released since 2017, allowing an unprivileged local attacker to gain root permissions. [...]",
-    "analysis": {
-      "issue": "An exploit has been published for a local privilege escalation vulnerability dubbed “Copy Fail” that impacts Linux kernels released since 2017, allowing an unprivileged local attacker to gain root permissions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-31431"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
     "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
@@ -420,8 +407,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-33825",
-        "CVE-2026-34621",
-        "CVE-2026-32201"
+        "CVE-2026-32201",
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -538,14 +525,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-25187",
-        "CVE-2026-24294",
-        "CVE-2026-26113",
+        "CVE-2026-24289",
         "CVE-2026-26110",
+        "CVE-2026-25187",
         "CVE-2026-21262",
         "CVE-2026-24291",
-        "CVE-2026-24289",
-        "CVE-2026-26127"
+        "CVE-2026-24294",
+        "CVE-2026-26127",
+        "CVE-2026-26113"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -568,6 +555,50 @@
       "cves": [],
       "threat_categories": [
         "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability",
+    "link": "https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/",
+    "published": "Fri, 01 May 2026 15:01:27 +0000",
+    "summary": "<p>Other noteworthy stories that might have slipped under the radar: OFAC hits Iranian central bank crypto reserves, ADT data leak, CISA guidance for zero trust in OT.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/\">In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Other noteworthy stories that might have slipped under the radar: OFAC hits Iranian central bank crypto reserves, ADT data leak, CISA guidance for zero trust in OT",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-3965",
+        "CVE-2026-26268",
+        "CVE-2026-4047"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge",
+    "link": "https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/",
+    "published": "Fri, 01 May 2026 14:26:14 +0000",
+    "summary": "<p>The maximum reward for a zero-click Pixel Titan M exploit with persistence has increased to $1.5 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/\">Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The maximum reward for a zero-click Pixel Titan M exploit with persistence has increased to $1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -728,48 +759,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "SonicWall Urges Immediate Patching of Firewall Vulnerabilities",
-    "link": "https://www.securityweek.com/sonicwall-urges-immediate-patching-of-firewall-vulnerabilities/",
-    "published": "Thu, 30 Apr 2026 14:52:20 +0000",
-    "summary": "<p>The bugs could be exploited to bypass security controls, access restricted services, and crash firewalls.</p>\n<p>The post <a href=\"https://www.securityweek.com/sonicwall-urges-immediate-patching-of-firewall-vulnerabilities/\">SonicWall Urges Immediate Patching of Firewall Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The bugs could be exploited to bypass security controls, access restricted services, and crash firewalls",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-0206",
-        "CVE-2026-0205",
-        "CVE-2026-0204"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "SAP NPM Packages Targeted in Supply Chain Attack",
-    "link": "https://www.securityweek.com/sap-npm-packages-targeted-in-supply-chain-attack/",
-    "published": "Thu, 30 Apr 2026 14:27:36 +0000",
-    "summary": "<p>The Mini Shai-Hulud attack introduced a preinstall hook to fetch and execute a Bun binary and bypass security monitoring.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-npm-packages-targeted-in-supply-chain-attack/\">SAP NPM Packages Targeted in Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The Mini Shai-Hulud attack introduced a preinstall hook to fetch and execute a Bun binary and bypass security monitoring",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Great responsibility, without great power",
     "link": "https://blog.talosintelligence.com/great-responsibility-without-great-power/",
@@ -857,8 +846,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20362",
-        "CVE-2025-20333"
+        "CVE-2025-20333",
+        "CVE-2025-20362"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -968,6 +957,24 @@
   },
   {
     "source": "Recorded Future",
+    "title": "The Iran War: What You Need to Know",
+    "link": "https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know",
+    "published": "Fri, 01 May 2026 00:00:00 GMT",
+    "summary": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios.",
+    "analysis": {
+      "issue": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "Risk Scenarios for the US’s Strategic Pivot",
     "link": "https://www.recordedfuture.com/research/us-strategic-pivot",
     "published": "Thu, 30 Apr 2026 00:00:00 GMT",
@@ -1047,24 +1054,6 @@
     "summary": "For most security teams today, volume and access to intelligence isn’t the problem. It’s the speed at which they can turn that intelligence into action. .",
     "analysis": {
       "issue": "For most security teams today, volume and access to intelligence isn’t the problem",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "The Iran War: What You Need to Know",
-    "link": "https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know",
-    "published": "Fri, 24 Apr 2026 00:00:00 GMT",
-    "summary": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios.",
-    "analysis": {
-      "issue": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1314,8 +1303,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
