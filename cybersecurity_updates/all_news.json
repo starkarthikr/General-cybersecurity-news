@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
+    "link": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
+    "published": "Fri, 01 May 2026 15:13:00 +0530",
+    "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence.\nThe activity has been attributed to the GitHub account \"BufferZoneCorp,\" which has published a set of repositories that are associated with malicious Ruby gems and Go modules. As of",
+    "analysis": {
+      "issue": "Sleeper packages in Ruby and Go steal credentials and alter CI workflows, leading to persistent access and data exfiltration",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
     "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
     "published": "Thu, 30 Apr 2026 22:01:00 +0530",
@@ -167,20 +186,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
-    "link": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
-    "published": "Wed, 29 Apr 2026 17:00:00 +0530",
-    "summary": "Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green. Then someone in a leadership meeting asks: \"So, are we actually safer now?\"\nCrickets.\nThe room goes quiet because an honest answer requires context – which is something that patch counts and CVSS scores were never designed to provide. Exposure",
+    "source": "Bleeping Computer",
+    "title": "Windows 11 KB5083631 update released with 34 changes and fixes",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/",
+    "published": "Fri, 01 May 2026 06:00:53 -0400",
+    "summary": "Microsoft has released the KB5083631 optional cumulative update for Windows 11, which includes 34 changes, such as a new Xbox mode for Windows PCs, enhanced security and performance for batch files, and performance improvements for launching startup apps. [...]",
     "analysis": {
-      "issue": "Integrated exposure platforms validate exploitability, correlate paths, and reduce priorities to 2%, improving enterprise risk reduction",
+      "issue": "Microsoft has released the KB5083631 optional cumulative update for Windows 11, which includes 34 changes, such as a new Xbox mode for Windows PCs, enhanced security and performance for batch files, and performance improvements for launching startup ",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
+    "published": "Fri, 01 May 2026 03:47:11 -0400",
+    "summary": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint were sentenced to four years in prison each for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
+    "analysis": {
+      "issue": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint were sentenced to four years in prison each for targeting U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
       ]
     }
   },
@@ -333,43 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Official SAP npm packages compromised to steal credentials",
-    "link": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
-    "published": "Wed, 29 Apr 2026 18:43:44 -0400",
-    "summary": "Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems. [...]",
-    "analysis": {
-      "issue": "Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
-    "link": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
-    "published": "Wed, 29 Apr 2026 18:13:15 -0400",
-    "summary": "The Quick Page/Post Redirect plugin, installed on more than 70,000 WordPress sites, had a backdoor added five years ago that allows injecting arbitrary code into users' sites. [...]",
-    "analysis": {
-      "issue": "The Quick Page/Post Redirect plugin, installed on more than 70,000 WordPress sites, had a backdoor added five years ago that allows injecting arbitrary code into users’ sites",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
     "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
@@ -420,9 +420,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-33825",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -539,13 +539,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24294",
-        "CVE-2026-26113",
         "CVE-2026-26110",
-        "CVE-2026-21262",
-        "CVE-2026-25187",
         "CVE-2026-24291",
         "CVE-2026-24289",
+        "CVE-2026-21262",
+        "CVE-2026-24294",
+        "CVE-2026-25187",
+        "CVE-2026-26113",
         "CVE-2026-26127"
       ],
       "threat_categories": [
@@ -569,6 +569,64 @@
       "cves": [],
       "threat_categories": [
         "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Hugging Face, ClawHub Abused for Malware Distribution",
+    "link": "https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/",
+    "published": "Fri, 01 May 2026 08:41:57 +0000",
+    "summary": "<p>Threat actors are relying on social engineering to lure users into downloading files containing malicious instructions.</p>\n<p>The post <a href=\"https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/\">Hugging Face, ClawHub Abused for Malware Distribution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Threat actors are relying on social engineering to lure users into downloading files containing malicious instructions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "FBI Warns of Surge in Hacker-Enabled Cargo Theft",
+    "link": "https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/",
+    "published": "Fri, 01 May 2026 08:11:20 +0000",
+    "summary": "<p>A new alert from the FBI says criminal enterprises are hacking both brokers and carriers to steal cargo for resale.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/\">FBI Warns of Surge in Hacker-Enabled Cargo Theft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A new alert from the FBI says criminal enterprises are hacking both brokers and carriers to steal cargo for resale",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom",
+    "link": "https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/",
+    "published": "Fri, 01 May 2026 07:33:40 +0000",
+    "summary": "<p>The compromised Lightning and Intercom packages have a combined monthly download count of nearly 10 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/\">1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The compromised Lightning and Intercom packages have a combined monthly download count of nearly 10 million",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
       ]
     }
   },
@@ -627,8 +685,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-0204",
-        "CVE-2026-0205",
-        "CVE-2026-0206"
+        "CVE-2026-0206",
+        "CVE-2026-0205"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -710,65 +768,6 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-41940"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover",
-    "link": "https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/",
-    "published": "Thu, 30 Apr 2026 10:06:00 +0000",
-    "summary": "<p>Affecting the kernel’s authencesn cryptographic template, the vulnerability was introduced in 2017 and impacts all distributions.</p>\n<p>The post <a href=\"https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/\">&#8216;Copy Fail&#8217; Logic Flaw in Linux Kernel Enables System Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Affecting the kernel’s authencesn cryptographic template, the vulnerability was introduced in 2017 and impacts all distributions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-31431"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Sandhills Medical Says Ransomware Breach Affects 170,000",
-    "link": "https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/",
-    "published": "Thu, 30 Apr 2026 08:35:59 +0000",
-    "summary": "<p>It took the healthcare organization nearly one year to publicly disclose a data breach after it was targeted by Inc Ransom.</p>\n<p>The post <a href=\"https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/\">Sandhills Medical Says Ransomware Breach Affects 170,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "It took the healthcare organization nearly one year to publicly disclose a data breach after it was targeted by Inc Ransom",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure",
-    "link": "https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/",
-    "published": "Wed, 29 Apr 2026 13:04:05 +0000",
-    "summary": "<p>The vulnerability allows attackers to read data from a LiteLLM proxy’s database and potentially modify it.</p>\n<p>The post <a href=\"https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/\">Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The vulnerability allows attackers to read data from a LiteLLM proxy’s database and potentially modify it",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-42208"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -863,8 +862,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20362",
-        "CVE-2025-20333"
+        "CVE-2025-20333",
+        "CVE-2025-20362"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1320,8 +1319,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1535,6 +1534,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield",
+    "link": "https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/",
+    "published": "Apr 30, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn how CrowdStrike Falcon Shield identifies and disrupts SaaS-centric attacks that bypass endpoint visibility",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "CrowdStrike Expands ChatGPT Enterprise Integration with Enhanced Audit Logging and Activity Monitoring",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-chatgpt-enterprise-integration/",
     "published": "Apr 28, 2026 00:00:00-0700",
@@ -1692,24 +1709,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/",
-    "published": "Apr 06, 2026 00:00:00-0400",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike is a founding member of Anthropic’s security coalition for the Mythos frontier model, securing AI where it executes",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   }

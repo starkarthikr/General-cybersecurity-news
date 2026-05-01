@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-01 04:35:46 UTC
+**Last Updated:** 2026-05-01 10:05:41 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
+### 1. [Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft](https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 01 May 2026 15:13:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 2. [PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Apr 2026 22:01:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
+### 3. [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Apr 2026 19:25:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html)
+### 4. [New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Apr 2026 18:06:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades](https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html)
+### 5. [EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades](https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Apr 2026 17:00:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions](https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html)
+### 6. [New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions](https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Apr 2026 14:54:00 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution](https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html)
+### 7. [Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution](https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Apr 2026 12:37:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html)
+### 8. [SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 21:56:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs](https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html)
+### 9. [New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs](https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 20:13:00 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html)
+### 10. [Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 29 Apr 2026 17:32:00 +0530  
@@ -86,16 +95,25 @@
 
 ---
 
-### 10. [What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)](https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html)
+### 11. [Windows 11 KB5083631 update released with 34 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 29 Apr 2026 17:00:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 01 May 2026 06:00:53 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** APT  
 
 ---
 
-### 11. [New Bluekit phishing service includes an AI assistant, 40 templates](https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/)
+### 12. [US ransomware negotiators get 4 years in prison over BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 01 May 2026 03:47:11 -0400  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 13. [New Bluekit phishing service includes an AI assistant, 40 templates](https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Apr 2026 14:58:50 -0400  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [Romanian leader of online swatting ring gets 4 years in prison](https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/)
+### 14. [Romanian leader of online swatting ring gets 4 years in prison](https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Apr 2026 13:45:12 -0400  
@@ -113,7 +131,7 @@
 
 ---
 
-### 13. [FBI links cybercriminals to sharp surge in cargo theft attacks](https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/)
+### 15. [FBI links cybercriminals to sharp surge in cargo theft attacks](https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Apr 2026 12:32:18 -0400  
@@ -122,7 +140,7 @@
 
 ---
 
-### 14. [April KB5083769 Windows 11 update causes backup software failures](https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/)
+### 16. [April KB5083769 Windows 11 update causes backup software failures](https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Apr 2026 11:23:03 -0400  
@@ -131,7 +149,7 @@
 
 ---
 
-### 15. [What Happens in the First 24 Hours After a New Asset Goes Live](https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/)
+### 17. [What Happens in the First 24 Hours After a New Asset Goes Live](https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Apr 2026 10:02:12 -0400  
@@ -140,7 +158,7 @@
 
 ---
 
-### 16. [New Linux ‘Copy Fail’ flaw gives hackers root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/)
+### 18. [New Linux ‘Copy Fail’ flaw gives hackers root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Apr 2026 09:54:47 -0400  
@@ -150,7 +168,7 @@
 
 ---
 
-### 17. [Critical cPanel and WHM bug exploited as a zero-day, PoC now available](https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/)
+### 19. [Critical cPanel and WHM bug exploited as a zero-day, PoC now available](https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Apr 2026 07:40:31 -0400  
@@ -160,30 +178,12 @@
 
 ---
 
-### 18. [Police dismantles 9 crypto scam centers, arrests 276 suspects](https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/)
+### 20. [Police dismantles 9 crypto scam centers, arrests 276 suspects](https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Apr 2026 07:21:02 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 19. [Official SAP npm packages compromised to steal credentials](https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 29 Apr 2026 18:43:44 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 20. [Popular WordPress redirect plugin hid dormant backdoor for years](https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 29 Apr 2026 18:13:15 -0400  
-**Severity:** Low  
-**Categories:** Malware, Supply Chain  
 
 ---
 
@@ -210,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
+**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -265,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24294, CVE-2026-26113, CVE-2026-26110, CVE-2026-21262, CVE-2026-25187, CVE-2026-24291, CVE-2026-24289, CVE-2026-26127  
+**CVEs:** CVE-2026-26110, CVE-2026-24291, CVE-2026-24289, CVE-2026-21262, CVE-2026-24294, CVE-2026-25187, CVE-2026-26113, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,7 +279,34 @@
 
 ---
 
-### 31. [Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge](https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/)
+### 31. [Hugging Face, ClawHub Abused for Malware Distribution](https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/)
+
+**Source:** Security Week  
+**Published:** Fri, 01 May 2026 08:41:57 +0000  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 32. [FBI Warns of Surge in Hacker-Enabled Cargo Theft](https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/)
+
+**Source:** Security Week  
+**Published:** Fri, 01 May 2026 08:11:20 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Malware, Phishing  
+
+---
+
+### 33. [1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom](https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/)
+
+**Source:** Security Week  
+**Published:** Fri, 01 May 2026 07:33:40 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware, Supply Chain  
+
+---
+
+### 34. [Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge](https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Apr 2026 18:57:55 +0000  
@@ -288,7 +315,7 @@
 
 ---
 
-### 32. [AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours](https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/)
+### 35. [AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours](https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Apr 2026 18:54:15 +0000  
@@ -297,17 +324,17 @@
 
 ---
 
-### 33. [SonicWall Urges Immediate Patching of Firewall Vulnerabilities](https://www.securityweek.com/sonicwall-urges-immediate-patching-of-firewall-vulnerabilities/)
+### 36. [SonicWall Urges Immediate Patching of Firewall Vulnerabilities](https://www.securityweek.com/sonicwall-urges-immediate-patching-of-firewall-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Apr 2026 14:52:20 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-0204, CVE-2026-0205, CVE-2026-0206  
+**CVEs:** CVE-2026-0204, CVE-2026-0206, CVE-2026-0205  
 **Categories:** Vulnerability, Phishing  
 
 ---
 
-### 34. [SAP NPM Packages Targeted in Supply Chain Attack](https://www.securityweek.com/sap-npm-packages-targeted-in-supply-chain-attack/)
+### 37. [SAP NPM Packages Targeted in Supply Chain Attack](https://www.securityweek.com/sap-npm-packages-targeted-in-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Apr 2026 14:27:36 +0000  
@@ -316,7 +343,7 @@
 
 ---
 
-### 35. [Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks](https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/)
+### 38. [Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks](https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Apr 2026 12:34:05 +0000  
@@ -325,7 +352,7 @@
 
 ---
 
-### 36. [EnOcean SmartServer Flaws Expose Buildings to Remote Hacking](https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/)
+### 39. [EnOcean SmartServer Flaws Expose Buildings to Remote Hacking](https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Apr 2026 11:57:31 +0000  
@@ -335,41 +362,12 @@
 
 ---
 
-### 37. [Critical cPanel & WHM Vulnerability Exploited as Zero-Day for Months](https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/)
+### 40. [Critical cPanel & WHM Vulnerability Exploited as Zero-Day for Months](https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Apr 2026 11:10:30 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-41940  
-**Categories:** Vulnerability  
-
----
-
-### 38. [‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover](https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/)
-
-**Source:** Security Week  
-**Published:** Thu, 30 Apr 2026 10:06:00 +0000  
-**Severity:** High  
-**CVEs:** CVE-2026-31431  
-**Categories:** Vulnerability  
-
----
-
-### 39. [Sandhills Medical Says Ransomware Breach Affects 170,000](https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/)
-
-**Source:** Security Week  
-**Published:** Thu, 30 Apr 2026 08:35:59 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 40. [Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure](https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/)
-
-**Source:** Security Week  
-**Published:** Wed, 29 Apr 2026 13:04:05 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-42208  
 **Categories:** Vulnerability  
 
 ---
@@ -415,7 +413,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20362, CVE-2025-20333  
+**CVEs:** CVE-2025-20333, CVE-2025-20362  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -636,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -741,7 +739,16 @@
 
 ---
 
-### 81. [CrowdStrike Expands ChatGPT Enterprise Integration with Enhanced Audit Logging and Activity Monitoring](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-chatgpt-enterprise-integration/)
+### 81. [Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield](https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Apr 30, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [CrowdStrike Expands ChatGPT Enterprise Integration with Enhanced Audit Logging and Activity Monitoring](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-chatgpt-enterprise-integration/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 28, 2026 00:00:00-0700  
@@ -750,7 +757,7 @@
 
 ---
 
-### 82. [CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/)
+### 83. [CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 27, 2026 00:00:00-0700  
@@ -759,7 +766,7 @@
 
 ---
 
-### 83. [CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/)
+### 84. [CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 22, 2026 00:00:00-0500  
@@ -768,7 +775,7 @@
 
 ---
 
-### 84. [CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-cloud-security-delivers-264-percent-roi-through-unified-cloud-protection/)
+### 85. [CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-cloud-security-delivers-264-percent-roi-through-unified-cloud-protection/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 22, 2026 00:00:00-0500  
@@ -777,7 +784,7 @@
 
 ---
 
-### 85. [CrowdStrike Falcon Platform Achieves 441% ROI in Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-achieves-441-percent-roi-in-three-years/)
+### 86. [CrowdStrike Falcon Platform Achieves 441% ROI in Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-achieves-441-percent-roi-in-three-years/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 21, 2026 00:00:00-0700  
@@ -786,7 +793,7 @@
 
 ---
 
-### 86. [Introducing the CrowdStrike Shadow AI Visibility Service](https://www.crowdstrike.com/en-us/blog/crowdstrike-shadow-AI-visibility-service/)
+### 87. [Introducing the CrowdStrike Shadow AI Visibility Service](https://www.crowdstrike.com/en-us/blog/crowdstrike-shadow-AI-visibility-service/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 21, 2026 00:00:00-0400  
@@ -795,7 +802,7 @@
 
 ---
 
-### 87. [Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.](https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/)
+### 88. [Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.](https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 20, 2026 00:00:00-0700  
@@ -804,7 +811,7 @@
 
 ---
 
-### 88. [Frontier AI for Defenders: CrowdStrike and OpenAI TAC](https://www.crowdstrike.com/en-us/blog/frontier-ai-for-defenders-crowdstrike-and-openai-tac/)
+### 89. [Frontier AI for Defenders: CrowdStrike and OpenAI TAC](https://www.crowdstrike.com/en-us/blog/frontier-ai-for-defenders-crowdstrike-and-openai-tac/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 16, 2026 00:00:00-0500  
@@ -813,21 +820,12 @@
 
 ---
 
-### 89. [April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/)
+### 90. [April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 14, 2026 00:00:00-0500  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 90. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Apr 06, 2026 00:00:00-0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
