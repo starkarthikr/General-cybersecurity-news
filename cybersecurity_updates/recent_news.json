@@ -1,10 +1,10 @@
 [
   {
     "source": "The Hacker News",
-    "title": "PyTorch Lightning Compromised in PyPI Supply Chain Attack to Steal Credentials",
+    "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
     "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
     "published": "Thu, 30 Apr 2026 22:01:00 +0530",
-    "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft.\nAccording to Aikido Security, Socket, and StepSecurity, the two malicious versions are versions 2.6.2 and 2.6.3, both of which were published on April 30, 2026. The campaign is assessed to be an extension of the",
+    "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft.\nAccording to Aikido Security, OX Security, Socket, and StepSecurity, the two malicious versions are versions 2.6.2 and 2.6.3, both of which were published on April 30, 2026. The campaign is assessed to be an",
     "analysis": {
       "issue": "3 released April 30 enable credential theft via hidden payload, leading to PyPI quarantine and forced remediation",
       "solution": null,
@@ -186,6 +186,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
+    "link": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
+    "published": "Thu, 30 Apr 2026 14:58:50 -0400",
+    "summary": "A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign drafts. [...]",
+    "analysis": {
+      "issue": "A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign drafts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Romanian leader of online swatting ring gets 4 years in prison",
     "link": "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/",
     "published": "Thu, 30 Apr 2026 13:45:12 -0400",
@@ -352,24 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
-    "published": "Wed, 29 Apr 2026 16:50:35 -0400",
-    "summary": "Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers. [...]",
-    "analysis": {
-      "issue": "Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
     "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
@@ -420,9 +420,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-34621",
-        "CVE-2026-33825"
+        "CVE-2026-33825",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -541,11 +541,11 @@
       "cves": [
         "CVE-2026-26127",
         "CVE-2026-26113",
-        "CVE-2026-24294",
-        "CVE-2026-24289",
-        "CVE-2026-26110",
-        "CVE-2026-24291",
         "CVE-2026-25187",
+        "CVE-2026-26110",
+        "CVE-2026-24289",
+        "CVE-2026-24294",
+        "CVE-2026-24291",
         "CVE-2026-21262"
       ],
       "threat_categories": [
@@ -574,6 +574,47 @@
   },
   {
     "source": "Security Week",
+    "title": "Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge",
+    "link": "https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/",
+    "published": "Thu, 30 Apr 2026 18:57:55 +0000",
+    "summary": "<p>With Mythos signaling a new era of near-instant exploitation, Anthropic positions Claude Security to help defenders keep pace.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/\">Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "With Mythos signaling a new era of near-instant exploitation, Anthropic positions Claude Security to help defenders keep pace",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours",
+    "link": "https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/",
+    "published": "Thu, 30 Apr 2026 18:54:15 +0000",
+    "summary": "<p>Industrialized cybercrime delivers attacks with greater scale, speed and success. Defenders must match this with use of AI and automation.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/\">AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Industrialized cybercrime delivers attacks with greater scale, speed and success",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "SonicWall Urges Immediate Patching of Firewall Vulnerabilities",
     "link": "https://www.securityweek.com/sonicwall-urges-immediate-patching-of-firewall-vulnerabilities/",
     "published": "Thu, 30 Apr 2026 14:52:20 +0000",
@@ -585,9 +626,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-0205",
+        "CVE-2026-0204",
         "CVE-2026-0206",
-        "CVE-2026-0204"
+        "CVE-2026-0205"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -646,8 +687,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-22885",
-        "CVE-2026-20761"
+        "CVE-2026-20761",
+        "CVE-2026-22885"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -735,42 +776,20 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Hundreds of Internet-Facing VNC Servers Expose ICS/OT",
-    "link": "https://www.securityweek.com/hundreds-of-internet-facing-vnc-servers-expose-ics-ot/",
-    "published": "Wed, 29 Apr 2026 12:03:40 +0000",
-    "summary": "<p>Forescout has identified tens of thousands of exposed RDP and VNC servers that can be mapped to specific industries.</p>\n<p>The post <a href=\"https://www.securityweek.com/hundreds-of-internet-facing-vnc-servers-expose-ics-ot/\">Hundreds of Internet-Facing VNC Servers Expose ICS/OT</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Great responsibility, without great power",
+    "link": "https://blog.talosintelligence.com/great-responsibility-without-great-power/",
+    "published": "Thu, 30 Apr 2026 18:00:07 GMT",
+    "summary": "In this week’s newsletter, Hazel uses International Superhero Day as a springboard to explore why empathy — rather than just technical prowess — is the most essential, underrated superpower for navigating the human side of cybersecurity.",
     "analysis": {
-      "issue": "Forescout has identified tens of thousands of exposed RDP and VNC servers that can be mapped to specific industries",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Checkmarx Confirms Data Stolen in Supply Chain Attack",
-    "link": "https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/",
-    "published": "Wed, 29 Apr 2026 11:03:03 +0000",
-    "summary": "<p>The hackers exfiltrated the data from Checkmarx’s GitHub environment on March 30, a week after publishing malicious code.</p>\n<p>The post <a href=\"https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/\">Checkmarx Confirms Data Stolen in Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The hackers exfiltrated the data from Checkmarx’s GitHub environment on March 30, a week after publishing malicious code",
+      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Data Breach",
-        "Malware",
-        "Supply Chain"
+        "General Security"
       ]
     }
   },
@@ -947,25 +966,6 @@
       "cves": [
         "CVE-2026-3779"
       ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "The Q1 vulnerability pulse",
-    "link": "https://blog.talosintelligence.com/the-q1-vulnerability-pulse/",
-    "published": "Thu, 16 Apr 2026 18:00:31 GMT",
-    "summary": "Thor provides an overview of the Q1 2026 vulnerability statistics, highlighting key trends in legacy CVEs and the evolving impact of AI on the threat landscape.",
-    "analysis": {
-      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
@@ -1320,8 +1320,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1346,6 +1346,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "More PayPal emails hijacked to deliver tech support scams",
+    "link": "https://www.malwarebytes.com/blog/news/2026/04/more-paypal-emails-hijacked-to-deliver-tech-support-scams",
+    "published": "Thu, 30 Apr 2026 19:29:36 GMT",
+    "summary": "We investigate how scammers are abusing PayPal’s systems to push victims into calling fake support numbers.",
+    "analysis": {
+      "issue": "Scammers have found another way to get deceptive messages delivered through PayPal’s legitimate services",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1512,26 +1530,6 @@
       "threat_categories": [
         "Ransomware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Apple fixes iOS bug that kept deleted notifications, including chat previews",
-    "link": "https://www.malwarebytes.com/blog/news/2026/04/apple-fixes-ios-bug-that-kept-deleted-notifications-including-chat-previews",
-    "published": "Thu, 23 Apr 2026 10:27:32 GMT",
-    "summary": "A vulnerability in iPhones and iPads allowed law enforcement to recover deleted notifications, including Signal message previews.",
-    "analysis": {
-      "issue": "Apple has released a software update that deals with an issue that could allow deleted notifications to be retrieved",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-28950"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },

@@ -1,10 +1,10 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-04-30 17:50:45 UTC
+**Last Updated:** 2026-05-01 03:55:21 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [PyTorch Lightning Compromised in PyPI Supply Chain Attack to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
+### 1. [PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Apr 2026 22:01:00 +0530  
@@ -95,7 +95,16 @@
 
 ---
 
-### 11. [Romanian leader of online swatting ring gets 4 years in prison](https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/)
+### 11. [New Bluekit phishing service includes an AI assistant, 40 templates](https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 30 Apr 2026 14:58:50 -0400  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 12. [Romanian leader of online swatting ring gets 4 years in prison](https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Apr 2026 13:45:12 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [FBI links cybercriminals to sharp surge in cargo theft attacks](https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/)
+### 13. [FBI links cybercriminals to sharp surge in cargo theft attacks](https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Apr 2026 12:32:18 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [April KB5083769 Windows 11 update causes backup software failures](https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/)
+### 14. [April KB5083769 Windows 11 update causes backup software failures](https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Apr 2026 11:23:03 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [What Happens in the First 24 Hours After a New Asset Goes Live](https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/)
+### 15. [What Happens in the First 24 Hours After a New Asset Goes Live](https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Apr 2026 10:02:12 -0400  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [New Linux ‘Copy Fail’ flaw gives hackers root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/)
+### 16. [New Linux ‘Copy Fail’ flaw gives hackers root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Apr 2026 09:54:47 -0400  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [Critical cPanel and WHM bug exploited as a zero-day, PoC now available](https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/)
+### 17. [Critical cPanel and WHM bug exploited as a zero-day, PoC now available](https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Apr 2026 07:40:31 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [Police dismantles 9 crypto scam centers, arrests 276 suspects](https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/)
+### 18. [Police dismantles 9 crypto scam centers, arrests 276 suspects](https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Apr 2026 07:21:02 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [Official SAP npm packages compromised to steal credentials](https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/)
+### 19. [Official SAP npm packages compromised to steal credentials](https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Apr 2026 18:43:44 -0400  
@@ -169,21 +178,12 @@
 
 ---
 
-### 19. [Popular WordPress redirect plugin hid dormant backdoor for years](https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/)
+### 20. [Popular WordPress redirect plugin hid dormant backdoor for years](https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 29 Apr 2026 18:13:15 -0400  
 **Severity:** Low  
 **Categories:** Malware, Supply Chain  
-
----
-
-### 20. [Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining](https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 29 Apr 2026 16:50:35 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -210,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -265,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26127, CVE-2026-26113, CVE-2026-24294, CVE-2026-24289, CVE-2026-26110, CVE-2026-24291, CVE-2026-25187, CVE-2026-21262  
+**CVEs:** CVE-2026-26127, CVE-2026-26113, CVE-2026-25187, CVE-2026-26110, CVE-2026-24289, CVE-2026-24294, CVE-2026-24291, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,17 +279,35 @@
 
 ---
 
-### 31. [SonicWall Urges Immediate Patching of Firewall Vulnerabilities](https://www.securityweek.com/sonicwall-urges-immediate-patching-of-firewall-vulnerabilities/)
+### 31. [Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge](https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/)
+
+**Source:** Security Week  
+**Published:** Thu, 30 Apr 2026 18:57:55 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours](https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/)
+
+**Source:** Security Week  
+**Published:** Thu, 30 Apr 2026 18:54:15 +0000  
+**Severity:** Critical  
+**Categories:** Ransomware, Vulnerability, Malware, Phishing, APT, Supply Chain  
+
+---
+
+### 33. [SonicWall Urges Immediate Patching of Firewall Vulnerabilities](https://www.securityweek.com/sonicwall-urges-immediate-patching-of-firewall-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Apr 2026 14:52:20 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-0205, CVE-2026-0206, CVE-2026-0204  
+**CVEs:** CVE-2026-0204, CVE-2026-0206, CVE-2026-0205  
 **Categories:** Vulnerability, Phishing  
 
 ---
 
-### 32. [SAP NPM Packages Targeted in Supply Chain Attack](https://www.securityweek.com/sap-npm-packages-targeted-in-supply-chain-attack/)
+### 34. [SAP NPM Packages Targeted in Supply Chain Attack](https://www.securityweek.com/sap-npm-packages-targeted-in-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Apr 2026 14:27:36 +0000  
@@ -298,7 +316,7 @@
 
 ---
 
-### 33. [Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks](https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/)
+### 35. [Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks](https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Apr 2026 12:34:05 +0000  
@@ -307,17 +325,17 @@
 
 ---
 
-### 34. [EnOcean SmartServer Flaws Expose Buildings to Remote Hacking](https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/)
+### 36. [EnOcean SmartServer Flaws Expose Buildings to Remote Hacking](https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Apr 2026 11:57:31 +0000  
 **Severity:** Low  
-**CVEs:** CVE-2026-22885, CVE-2026-20761  
+**CVEs:** CVE-2026-20761, CVE-2026-22885  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 35. [Critical cPanel & WHM Vulnerability Exploited as Zero-Day for Months](https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/)
+### 37. [Critical cPanel & WHM Vulnerability Exploited as Zero-Day for Months](https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Apr 2026 11:10:30 +0000  
@@ -327,7 +345,7 @@
 
 ---
 
-### 36. [‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover](https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/)
+### 38. [‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover](https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Apr 2026 10:06:00 +0000  
@@ -337,7 +355,7 @@
 
 ---
 
-### 37. [Sandhills Medical Says Ransomware Breach Affects 170,000](https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/)
+### 39. [Sandhills Medical Says Ransomware Breach Affects 170,000](https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Apr 2026 08:35:59 +0000  
@@ -346,7 +364,7 @@
 
 ---
 
-### 38. [Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure](https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/)
+### 40. [Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure](https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/)
 
 **Source:** Security Week  
 **Published:** Wed, 29 Apr 2026 13:04:05 +0000  
@@ -356,25 +374,16 @@
 
 ---
 
-### 39. [Hundreds of Internet-Facing VNC Servers Expose ICS/OT](https://www.securityweek.com/hundreds-of-internet-facing-vnc-servers-expose-ics-ot/)
+### 41. [Great responsibility, without great power](https://blog.talosintelligence.com/great-responsibility-without-great-power/)
 
-**Source:** Security Week  
-**Published:** Wed, 29 Apr 2026 12:03:40 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Vulnerability, Malware  
-
----
-
-### 40. [Checkmarx Confirms Data Stolen in Supply Chain Attack](https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/)
-
-**Source:** Security Week  
-**Published:** Wed, 29 Apr 2026 11:03:03 +0000  
+**Source:** Talos Blog  
+**Published:** Thu, 30 Apr 2026 18:00:07 GMT  
 **Severity:** Low  
-**Categories:** Data Breach, Malware, Supply Chain  
+**Categories:** General Security  
 
 ---
 
-### 41. [AI-powered honeypots: Turning the tables on malicious AI agents](https://blog.talosintelligence.com/ai-powered-honeypots-turning-the-tables-on-malicious-ai-agents/)
+### 42. [AI-powered honeypots: Turning the tables on malicious AI agents](https://blog.talosintelligence.com/ai-powered-honeypots-turning-the-tables-on-malicious-ai-agents/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 29 Apr 2026 10:00:42 GMT  
@@ -383,7 +392,7 @@
 
 ---
 
-### 42. [Five defender priorities from the Talos Year in Review](https://blog.talosintelligence.com/five-defender-priorities-from-the-talos-year-in-review/)
+### 43. [Five defender priorities from the Talos Year in Review](https://blog.talosintelligence.com/five-defender-priorities-from-the-talos-year-in-review/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 28 Apr 2026 13:23:20 GMT  
@@ -392,7 +401,7 @@
 
 ---
 
-### 43. [It pays to be a forever student](https://blog.talosintelligence.com/it-pays-to-be-a-forever-student/)
+### 44. [It pays to be a forever student](https://blog.talosintelligence.com/it-pays-to-be-a-forever-student/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 18:00:22 GMT  
@@ -401,7 +410,7 @@
 
 ---
 
-### 44. [UAT-4356's Targeting of Cisco Firepower Devices](https://blog.talosintelligence.com/uat-4356-firestarter/)
+### 45. [UAT-4356's Targeting of Cisco Firepower Devices](https://blog.talosintelligence.com/uat-4356-firestarter/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
@@ -411,7 +420,7 @@
 
 ---
 
-### 45. [IR Trends Q1 2026: Phishing reemerges as top initial access vector, as attacks targeting public administration persist](https://blog.talosintelligence.com/ir-trends-q1-2026/)
+### 46. [IR Trends Q1 2026: Phishing reemerges as top initial access vector, as attacks targeting public administration persist](https://blog.talosintelligence.com/ir-trends-q1-2026/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 22 Apr 2026 10:00:34 GMT  
@@ -420,7 +429,7 @@
 
 ---
 
-### 46. [[Podcast] It's not you, it's your printer: State-sponsored and phishing threats in 2025](https://blog.talosintelligence.com/podcast-its-not-you-its-your-printer-state-sponsored-and-phishing-threats-in-2025/)
+### 47. [[Podcast] It's not you, it's your printer: State-sponsored and phishing threats in 2025](https://blog.talosintelligence.com/podcast-its-not-you-its-your-printer-state-sponsored-and-phishing-threats-in-2025/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 21 Apr 2026 12:29:49 GMT  
@@ -429,7 +438,7 @@
 
 ---
 
-### 47. [Phishing and MFA exploitation: Targeting the keys to the kingdom](https://blog.talosintelligence.com/phishing-and-mfa-exploitation-targeting-the-keys-to-the-kingdom/)
+### 48. [Phishing and MFA exploitation: Targeting the keys to the kingdom](https://blog.talosintelligence.com/phishing-and-mfa-exploitation-targeting-the-keys-to-the-kingdom/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 21 Apr 2026 12:00:08 GMT  
@@ -438,7 +447,7 @@
 
 ---
 
-### 48. [Bad Apples: Weaponizing native macOS primitives for movement and execution](https://blog.talosintelligence.com/bad-apples-weaponizing-native-macos-primitives-for-movement-and-execution/)
+### 49. [Bad Apples: Weaponizing native macOS primitives for movement and execution](https://blog.talosintelligence.com/bad-apples-weaponizing-native-macos-primitives-for-movement-and-execution/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 21 Apr 2026 10:00:29 GMT  
@@ -447,21 +456,12 @@
 
 ---
 
-### 49. [Foxit, LibRaw vulnerabilities](https://blog.talosintelligence.com/foxit-libraw-vulnerabilities/)
+### 50. [Foxit, LibRaw vulnerabilities](https://blog.talosintelligence.com/foxit-libraw-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 16 Apr 2026 19:00:24 GMT  
 **Severity:** Low  
 **CVEs:** CVE-2026-3779  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 50. [The Q1 vulnerability pulse](https://blog.talosintelligence.com/the-q1-vulnerability-pulse/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 16 Apr 2026 18:00:31 GMT  
-**Severity:** High  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -636,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -651,7 +651,16 @@
 
 ---
 
-### 71. [Hackers stole hundreds of thousands of Roblox accounts: Here’s what to do](https://www.malwarebytes.com/blog/news/2026/04/hackers-stole-hundreds-of-thousands-of-roblox-accounts-heres-what-to-do)
+### 71. [More PayPal emails hijacked to deliver tech support scams](https://www.malwarebytes.com/blog/news/2026/04/more-paypal-emails-hijacked-to-deliver-tech-support-scams)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 30 Apr 2026 19:29:36 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 72. [Hackers stole hundreds of thousands of Roblox accounts: Here’s what to do](https://www.malwarebytes.com/blog/news/2026/04/hackers-stole-hundreds-of-thousands-of-roblox-accounts-heres-what-to-do)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 30 Apr 2026 15:48:50 GMT  
@@ -660,7 +669,7 @@
 
 ---
 
-### 72. [Researchers built a chatbot that only knows the world before 1931](https://www.malwarebytes.com/blog/ai/2026/04/researchers-built-a-chatbot-that-only-knows-the-world-before-1931)
+### 73. [Researchers built a chatbot that only knows the world before 1931](https://www.malwarebytes.com/blog/ai/2026/04/researchers-built-a-chatbot-that-only-knows-the-world-before-1931)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 29 Apr 2026 20:58:30 GMT  
@@ -669,7 +678,7 @@
 
 ---
 
-### 73. [Microsoft won&#8217;t patch PhantomRPC: Feature or bug?](https://www.malwarebytes.com/blog/news/2026/04/microsoft-wont-patch-phantomrpc-feature-or-bug)
+### 74. [Microsoft won&#8217;t patch PhantomRPC: Feature or bug?](https://www.malwarebytes.com/blog/news/2026/04/microsoft-wont-patch-phantomrpc-feature-or-bug)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 29 Apr 2026 13:27:32 GMT  
@@ -678,7 +687,7 @@
 
 ---
 
-### 74. [Scam-checking just got a lot easier: Malwarebytes is now in Claude](https://www.malwarebytes.com/blog/product/2026/04/scam-checking-just-got-a-lot-easier-malwarebytes-is-now-in-claude)
+### 75. [Scam-checking just got a lot easier: Malwarebytes is now in Claude](https://www.malwarebytes.com/blog/product/2026/04/scam-checking-just-got-a-lot-easier-malwarebytes-is-now-in-claude)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 29 Apr 2026 10:52:29 GMT  
@@ -687,7 +696,7 @@
 
 ---
 
-### 75. [Fake CAPTCHA scam turns a quick click into a costly phone bill](https://www.malwarebytes.com/blog/news/2026/04/fake-captcha-scam-turns-a-quick-click-into-a-costly-phone-bill)
+### 76. [Fake CAPTCHA scam turns a quick click into a costly phone bill](https://www.malwarebytes.com/blog/news/2026/04/fake-captcha-scam-turns-a-quick-click-into-a-costly-phone-bill)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 28 Apr 2026 10:46:01 GMT  
@@ -696,7 +705,7 @@
 
 ---
 
-### 76. [Chinese engineer stole US military and NASA software for years](https://www.malwarebytes.com/blog/news/2026/04/chinese-engineer-stole-us-military-and-nasa-software-for-years)
+### 77. [Chinese engineer stole US military and NASA software for years](https://www.malwarebytes.com/blog/news/2026/04/chinese-engineer-stole-us-military-and-nasa-software-for-years)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 28 Apr 2026 09:21:11 GMT  
@@ -705,7 +714,7 @@
 
 ---
 
-### 77. [A week in security (April 20 &#8211; April 26)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-20-april-26)
+### 78. [A week in security (April 20 &#8211; April 26)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-20-april-26)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 27 Apr 2026 07:02:00 GMT  
@@ -714,7 +723,7 @@
 
 ---
 
-### 78. [Medical data of 500,000 UK volunteers listed for sale on Alibaba](https://www.malwarebytes.com/blog/news/2026/04/medical-data-of-500000-uk-volunteers-listed-for-sale-on-alibaba)
+### 79. [Medical data of 500,000 UK volunteers listed for sale on Alibaba](https://www.malwarebytes.com/blog/news/2026/04/medical-data-of-500000-uk-volunteers-listed-for-sale-on-alibaba)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 24 Apr 2026 12:32:20 GMT  
@@ -723,22 +732,12 @@
 
 ---
 
-### 79. [How cyberattacks on companies affect everyone](https://www.malwarebytes.com/blog/privacy/2026/04/how-cyberattacks-on-companies-affect-everyone)
+### 80. [How cyberattacks on companies affect everyone](https://www.malwarebytes.com/blog/privacy/2026/04/how-cyberattacks-on-companies-affect-everyone)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 23 Apr 2026 15:34:09 GMT  
 **Severity:** High  
 **Categories:** Ransomware, Phishing  
-
----
-
-### 80. [Apple fixes iOS bug that kept deleted notifications, including chat previews](https://www.malwarebytes.com/blog/news/2026/04/apple-fixes-ios-bug-that-kept-deleted-notifications-including-chat-previews)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 23 Apr 2026 10:27:32 GMT  
-**Severity:** Low  
-**CVEs:** CVE-2026-28950  
-**Categories:** Vulnerability  
 
 ---
 
