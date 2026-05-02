@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
+    "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
+    "published": "Sat, 02 May 2026 12:11:00 +0530",
+    "summary": "Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a \"portion\" of its source code.\nIt said it \"recently identified\" the compromise of its source code repository and that it began working with \"leading forensic experts\" to resolve the matter immediately. It also said it has notified law enforcement of the matter.\nTrellix did not disclose the",
+    "analysis": {
+      "issue": "Trellix reports source code breach with partial repository access, no exploitation found, raising security concerns",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
     "link": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
     "published": "Fri, 01 May 2026 23:39:00 +0530",
@@ -163,24 +181,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
-    "link": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
-    "published": "Thu, 30 Apr 2026 17:00:00 +0530",
-    "summary": "Intro\nA sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional accounts of enterprise administrators, DevOps engineers, and security analysts by impersonating administrative utilities they rely on for daily operations. By integrating&nbsp;Search Engine Order (SEO)",
-    "analysis": {
-      "issue": "44 GitHub facades and Ethereum smart contracts power a March 2026 admin-targeted campaign, enabling resilient C2 rotation and enterprise compromise",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -405,9 +405,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
         "CVE-2026-33825",
-        "CVE-2026-32201"
+        "CVE-2026-32201",
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -524,14 +524,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26110",
-        "CVE-2026-24294",
-        "CVE-2026-25187",
         "CVE-2026-21262",
+        "CVE-2026-24294",
         "CVE-2026-26113",
-        "CVE-2026-26127",
         "CVE-2026-24291",
-        "CVE-2026-24289"
+        "CVE-2026-24289",
+        "CVE-2026-26110",
+        "CVE-2026-25187",
+        "CVE-2026-26127"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -571,8 +571,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-4047",
-        "CVE-2026-26268",
-        "CVE-2026-3965"
+        "CVE-2026-3965",
+        "CVE-2026-26268"
       ],
       "threat_categories": [
         "Ransomware",
@@ -1518,6 +1518,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Tune In: The Future of AI-Powered Vulnerability Discovery",
+    "link": "https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/",
+    "published": "May 01, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "This episode of the Adversary Universe podcast explores how AI is accelerating vulnerability research and its implications",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield",
     "link": "https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/",
     "published": "Apr 30, 2026 00:00:00-0500",
@@ -1675,24 +1693,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs",
-    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/",
-    "published": "Apr 14, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Microsoft's April 2026 Patch Tuesday addresses 164 CVEs, featuring 8 Critical vulnerabilities, one exploited zero-day, and one disclosed zero-day",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   }
