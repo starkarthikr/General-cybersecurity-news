@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-02 09:41:52 UTC
+**Last Updated:** 2026-05-02 13:24:41 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -205,7 +205,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -260,7 +260,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-24294, CVE-2026-26113, CVE-2026-24291, CVE-2026-24289, CVE-2026-26110, CVE-2026-25187, CVE-2026-26127  
+**CVEs:** CVE-2026-24294, CVE-2026-24291, CVE-2026-25187, CVE-2026-24289, CVE-2026-26127, CVE-2026-26113, CVE-2026-21262, CVE-2026-26110  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -274,7 +274,16 @@
 
 ---
 
-### 31. [In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability](https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/)
+### 31. [New Bluekit Phishing Kit Features AI Assistant](https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/)
+
+**Source:** Security Week  
+**Published:** Sat, 02 May 2026 10:50:00 +0000  
+**Severity:** Low  
+**Categories:** Phishing, APT  
+
+---
+
+### 32. [In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability](https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 15:01:27 +0000  
@@ -284,7 +293,7 @@
 
 ---
 
-### 32. [Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge](https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/)
+### 33. [Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge](https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 14:26:14 +0000  
@@ -293,7 +302,7 @@
 
 ---
 
-### 33. [Two US Security Experts Sentenced to Prison for Helping Ransomware Gang](https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/)
+### 34. [Two US Security Experts Sentenced to Prison for Helping Ransomware Gang](https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 11:37:03 +0000  
@@ -302,7 +311,7 @@
 
 ---
 
-### 34. [Sophisticated Deep#Door Backdoor Enables Espionage, Disruption](https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/)
+### 35. [Sophisticated Deep#Door Backdoor Enables Espionage, Disruption](https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 11:08:50 +0000  
@@ -311,7 +320,7 @@
 
 ---
 
-### 35. [Cisco Releases Open Source Tool for AI Model Provenance](https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/)
+### 36. [Cisco Releases Open Source Tool for AI Model Provenance](https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 10:18:39 +0000  
@@ -320,7 +329,7 @@
 
 ---
 
-### 36. [Hugging Face, ClawHub Abused for Malware Distribution](https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/)
+### 37. [Hugging Face, ClawHub Abused for Malware Distribution](https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 08:41:57 +0000  
@@ -329,7 +338,7 @@
 
 ---
 
-### 37. [FBI Warns of Surge in Hacker-Enabled Cargo Theft](https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/)
+### 38. [FBI Warns of Surge in Hacker-Enabled Cargo Theft](https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 08:11:20 +0000  
@@ -338,7 +347,7 @@
 
 ---
 
-### 38. [1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom](https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/)
+### 39. [1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom](https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 07:33:40 +0000  
@@ -347,21 +356,12 @@
 
 ---
 
-### 39. [Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge](https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/)
+### 40. [Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge](https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/)
 
 **Source:** Security Week  
 **Published:** Thu, 30 Apr 2026 18:57:55 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 40. [AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours](https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/)
-
-**Source:** Security Week  
-**Published:** Thu, 30 Apr 2026 18:54:15 +0000  
-**Severity:** Critical  
-**Categories:** Ransomware, Vulnerability, Malware, Phishing, APT, Supply Chain  
 
 ---
 
@@ -627,7 +627,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

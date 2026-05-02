@@ -405,9 +405,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-34621",
         "CVE-2026-33825",
-        "CVE-2026-32201",
-        "CVE-2026-34621"
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -524,14 +524,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-21262",
         "CVE-2026-24294",
-        "CVE-2026-26113",
         "CVE-2026-24291",
-        "CVE-2026-24289",
-        "CVE-2026-26110",
         "CVE-2026-25187",
-        "CVE-2026-26127"
+        "CVE-2026-24289",
+        "CVE-2026-26127",
+        "CVE-2026-26113",
+        "CVE-2026-21262",
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -553,6 +553,25 @@
       "severity": "Low",
       "cves": [],
       "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "New Bluekit Phishing Kit Features AI Assistant",
+    "link": "https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/",
+    "published": "Sat, 02 May 2026 10:50:00 +0000",
+    "summary": "<p>Still under development, Bluekit provides users with automated domain registration and an AI Assistant.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/\">New Bluekit Phishing Kit Features AI Assistant</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Still under development, Bluekit provides users with automated domain registration and an AI Assistant",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
         "APT"
       ]
     }
@@ -731,29 +750,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours",
-    "link": "https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/",
-    "published": "Thu, 30 Apr 2026 18:54:15 +0000",
-    "summary": "<p>Industrialized cybercrime delivers attacks with greater scale, speed and success. Defenders must match this with use of AI and automation.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/\">AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Industrialized cybercrime delivers attacks with greater scale, speed and success",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "APT",
-        "Supply Chain"
       ]
     }
   },
@@ -1302,8 +1298,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
