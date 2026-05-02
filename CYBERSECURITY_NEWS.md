@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-01 17:32:58 UTC
+**Last Updated:** 2026-05-02 03:29:03 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html)
+### 1. [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 01 May 2026 23:39:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 2. [Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 01 May 2026 19:56:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists](https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html)
+### 3. [China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists](https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 01 May 2026 19:32:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Top Five Sales Challenges Costing MSPs Cybersecurity Revenue](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html)
+### 4. [Top Five Sales Challenges Costing MSPs Cybersecurity Revenue](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 01 May 2026 16:00:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks](https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html)
+### 5. [Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks](https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 01 May 2026 15:26:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft](https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html)
+### 6. [Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft](https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 01 May 2026 15:13:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
+### 7. [PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Apr 2026 22:01:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
+### 8. [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Apr 2026 19:25:00 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html)
+### 9. [New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Apr 2026 18:06:00 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades](https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html)
+### 10. [EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades](https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Apr 2026 17:00:00 +0530  
@@ -85,24 +94,41 @@
 
 ---
 
-### 10. [New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions](https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html)
+### 11. [Microsoft tests modern Windows Run, says it's faster than legacy dialog](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 30 Apr 2026 14:54:00 +0530  
-**Severity:** High  
-**CVEs:** CVE-2026-31431  
-**Categories:** Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Fri, 01 May 2026 20:18:05 -0400  
+**Severity:** Low  
+**Categories:** General Security  
 
 ---
 
-### 11. [Story retracted](https://www.bleepingcomputer.com/news/security/story-retracted/)
+### 12. [Edu tech firm Instructure discloses cyber incident, probes impact](https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 01 May 2026 19:43:35 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 13. [15-year-old detained over French govt agency data breach](https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 01 May 2026 13:52:06 -0400  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 14. [Story retracted](https://www.bleepingcomputer.com/news/security/story-retracted/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 01 May 2026 12:26:28 -0400  
 
 ---
 
-### 12. [Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations](https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/)
+### 15. [Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations](https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 01 May 2026 10:02:12 -0400  
@@ -111,7 +137,7 @@
 
 ---
 
-### 13. [Microsoft fixes Remote Desktop warnings displaying incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/)
+### 16. [Microsoft fixes Remote Desktop warnings displaying incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 01 May 2026 08:46:48 -0400  
@@ -120,7 +146,7 @@
 
 ---
 
-### 14. [Microsoft now lets admins choose pre-installed Store apps to uninstall](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/)
+### 17. [Microsoft now lets admins choose pre-installed Store apps to uninstall](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 01 May 2026 07:10:07 -0400  
@@ -129,7 +155,7 @@
 
 ---
 
-### 15. [Windows 11 KB5083631 update released with 34 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/)
+### 18. [Windows 11 KB5083631 update released with 34 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 01 May 2026 06:00:53 -0400  
@@ -138,7 +164,7 @@
 
 ---
 
-### 16. [US ransomware negotiators get 4 years in prison over BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/)
+### 19. [US ransomware negotiators get 4 years in prison over BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 01 May 2026 03:47:11 -0400  
@@ -147,39 +173,12 @@
 
 ---
 
-### 17. [New Bluekit phishing service includes an AI assistant, 40 templates](https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/)
+### 20. [New Bluekit phishing service includes an AI assistant, 40 templates](https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 30 Apr 2026 14:58:50 -0400  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 18. [Romanian leader of online swatting ring gets 4 years in prison](https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 30 Apr 2026 13:45:12 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [FBI links cybercriminals to sharp surge in cargo theft attacks](https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 30 Apr 2026 12:32:18 -0400  
-**Severity:** High  
-**Categories:** Phishing  
-
----
-
-### 20. [April KB5083769 Windows 11 update causes backup software failures](https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 30 Apr 2026 11:23:03 -0400  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 
@@ -206,7 +205,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
+**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -261,7 +260,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24289, CVE-2026-26110, CVE-2026-25187, CVE-2026-21262, CVE-2026-24291, CVE-2026-24294, CVE-2026-26127, CVE-2026-26113  
+**CVEs:** CVE-2026-25187, CVE-2026-24294, CVE-2026-21262, CVE-2026-26110, CVE-2026-26127, CVE-2026-24291, CVE-2026-24289, CVE-2026-26113  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -280,7 +279,7 @@
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 15:01:27 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-3965, CVE-2026-26268, CVE-2026-4047  
+**CVEs:** CVE-2026-4047, CVE-2026-26268, CVE-2026-3965  
 **Categories:** Ransomware, Data Breach, Vulnerability, Malware, APT  
 
 ---
@@ -407,7 +406,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20333, CVE-2025-20362  
+**CVEs:** CVE-2025-20362, CVE-2025-20333  
 **Categories:** Vulnerability, Malware  
 
 ---

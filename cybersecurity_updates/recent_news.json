@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
+    "link": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
+    "published": "Fri, 01 May 2026 23:39:00 +0530",
+    "summary": "A newly discovered Vietnamese-linked operation has been observed using a Google AppSheet as a \"phishing relay\" to distribute phishing emails with an aim to compromise Facebook accounts.\nThe activity has been codenamed AccountDumpling by Guardio, with the scheme selling the stolen accounts back through an illicit storefront run by the threat actors. In all, roughly 30,000 Facebook accounts are",
+    "analysis": {
+      "issue": "30,000 Facebook accounts hacked via AppSheet phishing emails, exploiting Meta lures, leading to large-scale account theft and resale",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
     "link": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
     "published": "Fri, 01 May 2026 19:56:00 +0530",
@@ -166,22 +185,56 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
-    "link": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
-    "published": "Thu, 30 Apr 2026 14:54:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root.\nThe high-severity vulnerability tracked as CVE-2026-31431 (CVSS score: 7.8) has been codenamed Copy Fail by Xint.io and Theori.\n\"An unprivileged local user can write four controlled bytes into the page cache of any readable file on a Linux",
+    "source": "Bleeping Computer",
+    "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
+    "published": "Fri, 01 May 2026 20:18:05 -0400",
+    "summary": "Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build. [...]",
     "analysis": {
-      "issue": "8 flaw since 2017 enables root via 732-byte exploit, impacting major Linux distributions",
+      "issue": "Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build 26300",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
+    "link": "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/",
+    "published": "Fri, 01 May 2026 19:43:35 -0400",
+    "summary": "Instructure, the company behind the widely used Canvas learning platform, has disclosed that it recently suffered a cybersecurity incident and is now investigating its impact. [...]",
+    "analysis": {
+      "issue": "Instructure, the company behind the widely used Canvas learning platform, has disclosed that it recently suffered a cybersecurity incident and is now investigating its impact",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "High",
-      "cves": [
-        "CVE-2026-31431"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "15-year-old detained over French govt agency data breach",
+    "link": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
+    "published": "Fri, 01 May 2026 13:52:06 -0400",
+    "summary": "French authorities have detained a 15-year-old suspected of selling data stolen in a cyberattack on France Titres (ANTS), the country's agency for issuing and managing administrative documents. [...]",
+    "analysis": {
+      "issue": "French authorities have detained a 15-year-old suspected of selling data stolen in a cyberattack on France Titres (ANTS), the country’s agency for issuing and managing administrative documents",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
       ]
     }
   },
@@ -302,60 +355,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Romanian leader of online swatting ring gets 4 years in prison",
-    "link": "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/",
-    "published": "Thu, 30 Apr 2026 13:45:12 -0400",
-    "summary": "A Romanian national who led an online swatting ring that targeted more than 75 public officials, multiple journalists, and four religious institutions was sentenced to 4 years in federal prison. [...]",
-    "analysis": {
-      "issue": "A Romanian national who led an online swatting ring that targeted more than 75 public officials, multiple journalists, and four religious institutions was sentenced to 4 years in federal prison",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI links cybercriminals to sharp surge in cargo theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
-    "published": "Thu, 30 Apr 2026 12:32:18 -0400",
-    "summary": "The U.S. Federal Bureau of Investigation (FBI) warned the transportation and logistics industry of a sharp rise in cyber-enabled cargo theft, with estimated losses in the United States and Canada reaching nearly $725 million in 2025. [...]",
-    "analysis": {
-      "issue": "Federal Bureau of Investigation (FBI) warned the transportation and logistics industry of a sharp rise in cyber-enabled cargo theft, with estimated losses in the United States and Canada reaching nearly $725 million in 2025",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "April KB5083769 Windows 11 update causes backup software failures",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
-    "published": "Thu, 30 Apr 2026 11:23:03 -0400",
-    "summary": "The April 2026 KB5083769 security update breaks third-party backup applications from multiple vendors on systems running Windows 11 24H2 and 25H2. [...]",
-    "analysis": {
-      "issue": "The April 2026 KB5083769 security update breaks third-party backup applications from multiple vendors on systems running Windows 11 24H2 and 25H2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
     "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
@@ -406,8 +405,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
         "CVE-2026-32201",
+        "CVE-2026-33825",
         "CVE-2026-34621"
       ],
       "threat_categories": [
@@ -525,13 +524,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24289",
-        "CVE-2026-26110",
         "CVE-2026-25187",
-        "CVE-2026-21262",
-        "CVE-2026-24291",
         "CVE-2026-24294",
+        "CVE-2026-21262",
+        "CVE-2026-26110",
         "CVE-2026-26127",
+        "CVE-2026-24291",
+        "CVE-2026-24289",
         "CVE-2026-26113"
       ],
       "threat_categories": [
@@ -571,9 +570,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-3965",
+        "CVE-2026-4047",
         "CVE-2026-26268",
-        "CVE-2026-4047"
+        "CVE-2026-3965"
       ],
       "threat_categories": [
         "Ransomware",
@@ -846,8 +845,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20333",
-        "CVE-2025-20362"
+        "CVE-2025-20362",
+        "CVE-2025-20333"
       ],
       "threat_categories": [
         "Vulnerability",
