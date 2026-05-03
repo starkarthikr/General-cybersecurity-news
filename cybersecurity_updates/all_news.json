@@ -186,6 +186,27 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
+    "published": "Sat, 02 May 2026 17:54:00 -0400",
+    "summary": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks. [...]",
+    "analysis": {
+      "issue": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-41940"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
     "link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
     "published": "Sat, 02 May 2026 10:32:25 -0400",
@@ -337,24 +358,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
-    "published": "Fri, 01 May 2026 03:47:11 -0400",
-    "summary": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint were sentenced to four years in prison each for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
-    "analysis": {
-      "issue": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint were sentenced to four years in prison each for targeting U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
     "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
@@ -405,9 +408,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-33825",
         "CVE-2026-34621",
-        "CVE-2026-32201",
-        "CVE-2026-33825"
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -524,14 +527,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26110",
-        "CVE-2026-21262",
         "CVE-2026-26127",
-        "CVE-2026-24289",
-        "CVE-2026-24294",
+        "CVE-2026-26113",
         "CVE-2026-25187",
+        "CVE-2026-24294",
         "CVE-2026-24291",
-        "CVE-2026-26113"
+        "CVE-2026-21262",
+        "CVE-2026-26110",
+        "CVE-2026-24289"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -589,9 +592,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-3965",
         "CVE-2026-4047",
-        "CVE-2026-26268",
-        "CVE-2026-3965"
+        "CVE-2026-26268"
       ],
       "threat_categories": [
         "Ransomware",
@@ -841,8 +844,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20362",
-        "CVE-2025-20333"
+        "CVE-2025-20333",
+        "CVE-2025-20362"
       ],
       "threat_categories": [
         "Vulnerability",
