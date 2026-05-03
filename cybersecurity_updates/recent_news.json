@@ -410,9 +410,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
         "CVE-2026-32201",
-        "CVE-2026-33825"
+        "CVE-2026-33825",
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -529,14 +529,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26110",
+        "CVE-2026-25187",
         "CVE-2026-26113",
-        "CVE-2026-24289",
-        "CVE-2026-26127",
         "CVE-2026-24291",
-        "CVE-2026-21262",
+        "CVE-2026-26127",
         "CVE-2026-24294",
-        "CVE-2026-25187"
+        "CVE-2026-26110",
+        "CVE-2026-21262",
+        "CVE-2026-24289"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -594,9 +594,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-3965",
+        "CVE-2026-26268",
         "CVE-2026-4047",
-        "CVE-2026-26268"
+        "CVE-2026-3965"
       ],
       "threat_categories": [
         "Ransomware",
@@ -1303,8 +1303,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1329,6 +1329,25 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "3 easy-to-miss cybersecurity risks for small businesses",
+    "link": "https://www.malwarebytes.com/blog/how-to/2026/05/3-easy-to-miss-cybersecurity-risks-for-small-businesses",
+    "published": "Sun, 03 May 2026 10:33:26 GMT",
+    "summary": "Small business owners should be sure to fix these three non-technical risks that  require little cybersecurity expertise.",
+    "analysis": {
+      "issue": "There’s a lot to security that isn’t necessarily “cyber",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -1496,24 +1515,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Medical data of 500,000 UK volunteers listed for sale on Alibaba",
-    "link": "https://www.malwarebytes.com/blog/news/2026/04/medical-data-of-500000-uk-volunteers-listed-for-sale-on-alibaba",
-    "published": "Fri, 24 Apr 2026 12:32:20 GMT",
-    "summary": "Despite strict access controls, medical data from half a million UK Biobank volunteers ended up listed for sale on Alibaba.",
-    "analysis": {
-      "issue": "Half a million Britons signed up to help cure cancer",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
