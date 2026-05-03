@@ -188,6 +188,25 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
+    "link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
+    "published": "Sun, 03 May 2026 10:11:21 -0400",
+    "summary": "Cybersecurity researchers have uncovered a large-scale fraud operation that uses Telegram's Mini App feature to run crypto scams, impersonate well-known brands, and distribute Android malware. [...]",
+    "analysis": {
+      "issue": "Cybersecurity researchers have uncovered a large-scale fraud operation that uses Telegram’s Mini App feature to run crypto scams, impersonate well-known brands, and distribute Android malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
     "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
     "published": "Sat, 02 May 2026 17:54:00 -0400",
@@ -342,24 +361,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 KB5083631 update released with 34 changes and fixes",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/",
-    "published": "Fri, 01 May 2026 06:00:53 -0400",
-    "summary": "Microsoft has released the KB5083631 optional cumulative update for Windows 11, which includes 34 changes, such as a new Xbox mode for Windows PCs, enhanced security and performance for batch files, and performance improvements for launching startup apps. [...]",
-    "analysis": {
-      "issue": "Microsoft has released the KB5083631 optional cumulative update for Windows 11, which includes 34 changes, such as a new Xbox mode for Windows PCs, enhanced security and performance for batch files, and performance improvements for launching startup ",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
     "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
@@ -410,9 +411,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-33825",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -529,14 +530,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-25187",
-        "CVE-2026-26113",
+        "CVE-2026-24289",
         "CVE-2026-24291",
-        "CVE-2026-26127",
         "CVE-2026-24294",
-        "CVE-2026-26110",
+        "CVE-2026-26127",
         "CVE-2026-21262",
-        "CVE-2026-24289"
+        "CVE-2026-26113",
+        "CVE-2026-26110",
+        "CVE-2026-25187"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -559,6 +560,24 @@
       "cves": [],
       "threat_categories": [
         "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems",
+    "link": "https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/",
+    "published": "Sun, 03 May 2026 16:21:36 +0000",
+    "summary": "<p>Google, Microsoft, Amazon Web Services, Nvidia, OpenAI, Reflection and SpaceX will provide resources to help augment warfighter decision-making in complex operational environments,” the Defense Department said.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/\">US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Google, Microsoft, Amazon Web Services, Nvidia, OpenAI, Reflection and SpaceX will provide resources to help augment warfighter decision-making in complex operational environments,” the Defense Department said",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
       ]
     }
   },
@@ -594,9 +613,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26268",
+        "CVE-2026-3965",
         "CVE-2026-4047",
-        "CVE-2026-3965"
+        "CVE-2026-26268"
       ],
       "threat_categories": [
         "Ransomware",
@@ -737,24 +756,6 @@
         "Vulnerability",
         "Malware",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge",
-    "link": "https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/",
-    "published": "Thu, 30 Apr 2026 18:57:55 +0000",
-    "summary": "<p>With Mythos signaling a new era of near-instant exploitation, Anthropic positions Claude Security to help defenders keep pace.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/\">Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "With Mythos signaling a new era of near-instant exploitation, Anthropic positions Claude Security to help defenders keep pace",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },

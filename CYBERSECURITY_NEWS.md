@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-03 13:24:22 UTC
+**Last Updated:** 2026-05-03 17:24:56 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,16 @@
 
 ---
 
-### 11. [Critrical cPanel flaw mass-exploited in "Sorry" ransomware attacks](https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/)
+### 11. [Telegram Mini Apps abused for crypto scams, Android malware delivery](https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 03 May 2026 10:11:21 -0400  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 12. [Critrical cPanel flaw mass-exploited in "Sorry" ransomware attacks](https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 02 May 2026 17:54:00 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [ConsentFix v3 attacks target Azure with automated OAuth abuse](https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/)
+### 13. [ConsentFix v3 attacks target Azure with automated OAuth abuse](https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 02 May 2026 10:32:25 -0400  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [Microsoft tests modern Windows Run, says it's faster than legacy dialog](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/)
+### 14. [Microsoft tests modern Windows Run, says it's faster than legacy dialog](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 01 May 2026 20:18:05 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Edu tech firm Instructure discloses cyber incident, probes impact](https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/)
+### 15. [Edu tech firm Instructure discloses cyber incident, probes impact](https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 01 May 2026 19:43:35 -0400  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [15-year-old detained over French govt agency data breach](https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/)
+### 16. [15-year-old detained over French govt agency data breach](https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 01 May 2026 13:52:06 -0400  
@@ -141,14 +150,14 @@
 
 ---
 
-### 16. [Story retracted](https://www.bleepingcomputer.com/news/security/story-retracted/)
+### 17. [Story retracted](https://www.bleepingcomputer.com/news/security/story-retracted/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 01 May 2026 12:26:28 -0400  
 
 ---
 
-### 17. [Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations](https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/)
+### 18. [Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations](https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 01 May 2026 10:02:12 -0400  
@@ -157,7 +166,7 @@
 
 ---
 
-### 18. [Microsoft fixes Remote Desktop warnings displaying incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/)
+### 19. [Microsoft fixes Remote Desktop warnings displaying incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 01 May 2026 08:46:48 -0400  
@@ -166,21 +175,12 @@
 
 ---
 
-### 19. [Microsoft now lets admins choose pre-installed Store apps to uninstall](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/)
+### 20. [Microsoft now lets admins choose pre-installed Store apps to uninstall](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 01 May 2026 07:10:07 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [Windows 11 KB5083631 update released with 34 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 01 May 2026 06:00:53 -0400  
-**Severity:** Low  
-**Categories:** APT  
 
 ---
 
@@ -207,7 +207,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
+**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -262,7 +262,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-26113, CVE-2026-24291, CVE-2026-26127, CVE-2026-24294, CVE-2026-26110, CVE-2026-21262, CVE-2026-24289  
+**CVEs:** CVE-2026-24289, CVE-2026-24291, CVE-2026-24294, CVE-2026-26127, CVE-2026-21262, CVE-2026-26113, CVE-2026-26110, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -276,7 +276,16 @@
 
 ---
 
-### 31. [New Bluekit Phishing Kit Features AI Assistant](https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/)
+### 31. [US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems](https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/)
+
+**Source:** Security Week  
+**Published:** Sun, 03 May 2026 16:21:36 +0000  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 32. [New Bluekit Phishing Kit Features AI Assistant](https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/)
 
 **Source:** Security Week  
 **Published:** Sat, 02 May 2026 10:50:00 +0000  
@@ -285,17 +294,17 @@
 
 ---
 
-### 32. [In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability](https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/)
+### 33. [In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability](https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 15:01:27 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26268, CVE-2026-4047, CVE-2026-3965  
+**CVEs:** CVE-2026-3965, CVE-2026-4047, CVE-2026-26268  
 **Categories:** Ransomware, Data Breach, Vulnerability, Malware, APT  
 
 ---
 
-### 33. [Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge](https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/)
+### 34. [Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge](https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 14:26:14 +0000  
@@ -304,7 +313,7 @@
 
 ---
 
-### 34. [Two US Security Experts Sentenced to Prison for Helping Ransomware Gang](https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/)
+### 35. [Two US Security Experts Sentenced to Prison for Helping Ransomware Gang](https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 11:37:03 +0000  
@@ -313,7 +322,7 @@
 
 ---
 
-### 35. [Sophisticated Deep#Door Backdoor Enables Espionage, Disruption](https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/)
+### 36. [Sophisticated Deep#Door Backdoor Enables Espionage, Disruption](https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 11:08:50 +0000  
@@ -322,7 +331,7 @@
 
 ---
 
-### 36. [Cisco Releases Open Source Tool for AI Model Provenance](https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/)
+### 37. [Cisco Releases Open Source Tool for AI Model Provenance](https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 10:18:39 +0000  
@@ -331,7 +340,7 @@
 
 ---
 
-### 37. [Hugging Face, ClawHub Abused for Malware Distribution](https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/)
+### 38. [Hugging Face, ClawHub Abused for Malware Distribution](https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 08:41:57 +0000  
@@ -340,7 +349,7 @@
 
 ---
 
-### 38. [FBI Warns of Surge in Hacker-Enabled Cargo Theft](https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/)
+### 39. [FBI Warns of Surge in Hacker-Enabled Cargo Theft](https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 08:11:20 +0000  
@@ -349,21 +358,12 @@
 
 ---
 
-### 39. [1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom](https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/)
+### 40. [1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom](https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 07:33:40 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability, Malware, Supply Chain  
-
----
-
-### 40. [Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge](https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/)
-
-**Source:** Security Week  
-**Published:** Thu, 30 Apr 2026 18:57:55 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
