@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
+    "link": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
+    "published": "Sun, 03 May 2026 11:56:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe vulnerability, tracked as CVE-2026-31431 (CVSS score: 7.8), is a case of local privilege escalation (LPE) flaw that could allow an",
+    "analysis": {
+      "issue": "CVE-2026-31431 exploited in Linux since 2017, enabling root access via simple PoC, increasing container and cloud risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-31431"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
     "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
     "published": "Sat, 02 May 2026 12:11:00 +0530",
@@ -163,24 +183,6 @@
       "threat_categories": [
         "Phishing",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
-    "link": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
-    "published": "Thu, 30 Apr 2026 18:06:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of sensitive information from compromised hosts.\n\"The intrusion chain begins with execution of a batch script ('install_obf.bat') that disables Windows security controls, dynamically extracts an",
-    "analysis": {
-      "issue": "DEEP#DOOR embeds a Python RAT in a dropper script, using bore[",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -408,9 +410,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-34621",
         "CVE-2026-32201",
-        "CVE-2026-33825",
-        "CVE-2026-34621"
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -527,14 +529,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24291",
         "CVE-2026-26110",
         "CVE-2026-26113",
+        "CVE-2026-24289",
         "CVE-2026-26127",
-        "CVE-2026-24294",
+        "CVE-2026-24291",
         "CVE-2026-21262",
-        "CVE-2026-25187",
-        "CVE-2026-24289"
+        "CVE-2026-24294",
+        "CVE-2026-25187"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1301,8 +1303,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

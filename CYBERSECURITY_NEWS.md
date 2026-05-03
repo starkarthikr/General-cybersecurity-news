@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-03 04:27:51 UTC
+**Last Updated:** 2026-05-03 09:48:45 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html)
+### 1. [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 03 May 2026 11:56:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-31431  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 02 May 2026 12:11:00 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html)
+### 3. [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 01 May 2026 23:39:00 +0530  
@@ -22,7 +32,7 @@
 
 ---
 
-### 3. [Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html)
+### 4. [Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 01 May 2026 19:56:00 +0530  
@@ -31,7 +41,7 @@
 
 ---
 
-### 4. [China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists](https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html)
+### 5. [China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists](https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 01 May 2026 19:32:00 +0530  
@@ -40,7 +50,7 @@
 
 ---
 
-### 5. [Top Five Sales Challenges Costing MSPs Cybersecurity Revenue](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html)
+### 6. [Top Five Sales Challenges Costing MSPs Cybersecurity Revenue](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 01 May 2026 16:00:00 +0530  
@@ -49,7 +59,7 @@
 
 ---
 
-### 6. [Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks](https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html)
+### 7. [Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks](https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 01 May 2026 15:26:00 +0530  
@@ -58,7 +68,7 @@
 
 ---
 
-### 7. [Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft](https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html)
+### 8. [Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft](https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 01 May 2026 15:13:00 +0530  
@@ -67,7 +77,7 @@
 
 ---
 
-### 8. [PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
+### 9. [PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Apr 2026 22:01:00 +0530  
@@ -76,21 +86,12 @@
 
 ---
 
-### 9. [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
+### 10. [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 30 Apr 2026 19:25:00 +0530  
 **Severity:** Low  
 **Categories:** Phishing, Supply Chain  
-
----
-
-### 10. [New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 30 Apr 2026 18:06:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -206,7 +207,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
+**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -261,7 +262,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24291, CVE-2026-26110, CVE-2026-26113, CVE-2026-26127, CVE-2026-24294, CVE-2026-21262, CVE-2026-25187, CVE-2026-24289  
+**CVEs:** CVE-2026-26110, CVE-2026-26113, CVE-2026-24289, CVE-2026-26127, CVE-2026-24291, CVE-2026-21262, CVE-2026-24294, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -628,7 +629,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
