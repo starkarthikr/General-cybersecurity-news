@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "2026: The Year of AI-Assisted Attacks",
+    "link": "https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html",
+    "published": "Mon, 04 May 2026 17:28:00 +0530",
+    "summary": "On December 4, 2025, a 17-year-old was arrested in Osaka under Japan’s Unauthorized Access Prohibition Act. The young man had run malicious code to extract the personal data of over 7 million users of Kaikatsu Club, Japan's largest internet cafe chain. When asked, the young man shared his motivation for the hack: he wanted to buy Pokémon cards.\nIn a sense, this is a fairly conventional story.",
+    "analysis": {
+      "issue": "AI lowers attack barriers in 2025, enabling 7M-user breach and faster exploits, increasing scale and impact of cyber threats",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia",
+    "link": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html",
+    "published": "Mon, 04 May 2026 17:27:00 +0530",
+    "summary": "The China-based cybercrime group known as Silver Fox has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor.\nThe activity involved using phishing emails that mimic correspondence from the Income Tax Department of India in December 2025, followed by a similar campaign aimed at Russian entities.\n\"Both waves followed a nearly identical",
+    "analysis": {
+      "issue": "Silver Fox spreads ABCDoor via 1,600 phishing emails in 2026 targeting India and Russia, enabling data theft and remote control",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
     "link": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html",
     "published": "Mon, 04 May 2026 14:57:00 +0530",
@@ -151,39 +188,102 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
-    "link": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
-    "published": "Fri, 01 May 2026 15:26:00 +0530",
-    "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks in 2023.\nRyan Goldberg, 40, of Georgia, and Kevin Martin, 36, of Texas, were accused of deploying the ransomware against multiple victims located throughout the U.S. between April and December 2023.",
+    "source": "Bleeping Computer",
+    "title": "They don’t hack, they borrow: How fraudsters target credit unions",
+    "link": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
+    "published": "Mon, 04 May 2026 09:42:51 -0400",
+    "summary": "Fraudsters aren't hacking credit unions, they are exploiting normal business processes. Flare reveals how structured loan fraud methods use stolen identities to pass verification and secure funds. [...]",
     "analysis": {
-      "issue": "Two cybersecurity experts got 4-year sentences after enabling 2023 BlackCat attacks, exposing insider abuse and $1",
+      "issue": "Threat actors across underground forums and chat groups are increasingly crafting structured fraud methods aimed at exploiting weaknesses in work processes of financial institutions",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Ransomware"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
-    "link": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
-    "published": "Fri, 01 May 2026 15:13:00 +0530",
-    "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence.\nThe activity has been attributed to the GitHub account \"BufferZoneCorp,\" which has published a set of repositories that are associated with malicious Ruby gems and Go modules. As of",
+    "source": "Bleeping Computer",
+    "title": "Progress warns of critical MOVEit Automation auth bypass flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
+    "published": "Mon, 04 May 2026 08:18:57 -0400",
+    "summary": "Progress Software warned customers to patch a critical authentication bypass vulnerability in its MOVEit Automation enterprise-grade managed file transfer (MFT) application. [...]",
     "analysis": {
-      "issue": "Sleeper packages in Ruby and Go steal credentials and alter CI workflows, leading to persistent access and data exfiltration",
+      "issue": "Progress Software warned customers to patch a critical authentication bypass vulnerability in its MOVEit Automation enterprise-grade managed file transfer (MFT) application",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-4670",
+        "CVE-2026-5174"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Webinar: Why MSPs must rethink security and backup strategies",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/",
+    "published": "Mon, 04 May 2026 08:16:24 -0400",
+    "summary": "Security breaches don't just test your defenses—they test your recovery. Join Kaseya in our upcoming webinar to learn how MSPs strengthen resilience with SaaS backups and BCDR to stay operational after attacks. [...]",
+    "analysis": {
+      "issue": "Cyberattacks are evolving faster than most managed service providers (MSPs) can keep up with, with phishing now acting as the primary entry point for many compromises",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
+        "Ransomware",
         "Vulnerability",
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA says ‘Copy Fail’ flaw now exploited to root Linux systems",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
+    "published": "Mon, 04 May 2026 07:28:15 -0400",
+    "summary": "CISA has warned that threat actors have started exploiting the \"Copy Fail\" Linux security vulnerability in the wild, one day after Theori researchers disclosed it and shared a proof-of-concept (PoC) exploit. [...]",
+    "analysis": {
+      "issue": "CISA has warned that threat actors have started exploiting the \"Copy Fail\" Linux security vulnerability in the wild, one day after Theori researchers disclosed it and shared a proof-of-concept (PoC) exploit",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-31431"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft confirms April Windows updates cause backup failures",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
+    "published": "Mon, 04 May 2026 06:40:11 -0400",
+    "summary": "Microsoft has confirmed that the April 2026 security updates are causing failures in third-party backup applications using the psmounterex.sys driver. [...]",
+    "analysis": {
+      "issue": "Microsoft has confirmed that the April 2026 security updates are causing failures in third-party backup applications using the psmounterex",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2023-43896"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -279,85 +379,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
-    "published": "Fri, 01 May 2026 20:18:05 -0400",
-    "summary": "Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build. [...]",
-    "analysis": {
-      "issue": "Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build 26300",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
-    "link": "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/",
-    "published": "Fri, 01 May 2026 19:43:35 -0400",
-    "summary": "Instructure, the company behind the widely used Canvas learning platform, has disclosed that it recently suffered a cybersecurity incident and is now investigating its impact. [...]",
-    "analysis": {
-      "issue": "Instructure, the company behind the widely used Canvas learning platform, has disclosed that it recently suffered a cybersecurity incident and is now investigating its impact",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "15-year-old detained over French govt agency data breach",
-    "link": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
-    "published": "Fri, 01 May 2026 13:52:06 -0400",
-    "summary": "French authorities have detained a 15-year-old suspected of selling data stolen in a cyberattack on France Titres (ANTS), the country's agency for issuing and managing administrative documents. [...]",
-    "analysis": {
-      "issue": "French authorities have detained a 15-year-old suspected of selling data stolen in a cyberattack on France Titres (ANTS), the country’s agency for issuing and managing administrative documents",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Story retracted",
-    "link": "https://www.bleepingcomputer.com/news/security/story-retracted/",
-    "published": "Fri, 01 May 2026 12:26:28 -0400",
-    "summary": "BleepingComputer initially published a story about a new data breach at Instructure. Shortly after publication, we determined that the information was incorrect and primarily based on outdated details from a prior incident. The article has been retracted, and we regret the error. [...]"
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
-    "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
-    "published": "Fri, 01 May 2026 10:02:12 -0400",
-    "summary": "Raw threat intel isn't enough without real-world context. Criminal IP has partnered with Securonix to integrate exposure-based intelligence into ThreatQ, automating analysis and speeding up investigations. [...]",
-    "analysis": {
-      "issue": "Criminal IP partners with Securonix to integrate Criminal IP’s Threat Intelligence into ThreatQ, allowing organizations to incorporate external IP intelligence into their existing workflows, helping security teams accelerate analysis and response wit",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -531,12 +552,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24291",
-        "CVE-2026-26127",
-        "CVE-2026-26113",
-        "CVE-2026-26110",
         "CVE-2026-24289",
+        "CVE-2026-26110",
+        "CVE-2026-26127",
+        "CVE-2026-24291",
         "CVE-2026-21262",
+        "CVE-2026-26113",
         "CVE-2026-25187",
         "CVE-2026-24294"
       ],
@@ -561,6 +582,65 @@
       "cves": [],
       "threat_categories": [
         "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cybersecurity M&A Roundup: 33 Deals Announced in April 2026",
+    "link": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/",
+    "published": "Mon, 04 May 2026 13:02:28 +0000",
+    "summary": "<p>Significant cybersecurity M&#038;A deals announced by Airbus, Cyera, Fortra, Palo Alto Networks, Silverfort, and Socket.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/\">Cybersecurity M&#038;A Roundup: 33 Deals Announced in April 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Significant cybersecurity M&A deals announced by Airbus, Cyera, Fortra, Palo Alto Networks, Silverfort, and Socket",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "DigiCert Revokes Certificates After Support Portal Hack",
+    "link": "https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/",
+    "published": "Mon, 04 May 2026 12:46:53 +0000",
+    "summary": "<p>Hackers delivered malware via a customer chat channel, infected an analyst’s system, and accessed the internal support portal.</p>\n<p>The post <a href=\"https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/\">DigiCert Revokes Certificates After Support Portal Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers delivered malware via a customer chat channel, infected an analyst’s system, and accessed the internal support portal",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Exploitation of ‘Copy Fail’ Linux Vulnerability Begins",
+    "link": "https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/",
+    "published": "Mon, 04 May 2026 10:42:33 +0000",
+    "summary": "<p>CISA has added the bug to its KEV list, and Microsoft has observed limited exploitation, mainly associated with PoC testing.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/\">Exploitation of &#8216;Copy Fail&#8217; Linux Vulnerability Begins</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CISA has added the bug to its KEV list, and Microsoft has observed limited exploitation, mainly associated with PoC testing",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-31431"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -674,9 +754,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-4047",
         "CVE-2026-26268",
-        "CVE-2026-3965"
+        "CVE-2026-3965",
+        "CVE-2026-4047"
       ],
       "threat_categories": [
         "Ransomware",
@@ -702,63 +782,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Two US Security Experts Sentenced to Prison for Helping Ransomware Gang",
-    "link": "https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/",
-    "published": "Fri, 01 May 2026 11:37:03 +0000",
-    "summary": "<p>Ryan Goldberg of Georgia and Kevin Martin of Texas were each sentenced to four years in prison. </p>\n<p>The post <a href=\"https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/\">Two US Security Experts Sentenced to Prison for Helping Ransomware Gang</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Ryan Goldberg of Georgia and Kevin Martin of Texas were each sentenced to four years in prison",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Sophisticated Deep#Door Backdoor Enables Espionage, Disruption",
-    "link": "https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/",
-    "published": "Fri, 01 May 2026 11:08:50 +0000",
-    "summary": "<p>The stealthy Python-based backdoor framework deploys a persistent Windows implant likely designed for espionage.</p>\n<p>The post <a href=\"https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/\">Sophisticated Deep#Door Backdoor Enables Espionage, Disruption</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The stealthy Python-based backdoor framework deploys a persistent Windows implant likely designed for espionage",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco Releases Open Source Tool for AI Model Provenance",
-    "link": "https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/",
-    "published": "Fri, 01 May 2026 10:18:39 +0000",
-    "summary": "<p>The new kit aims to address risks related to poisoned models, regulatory issues, supply chain integrity, and incident response.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/\">Cisco Releases Open Source Tool for AI Model Provenance </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The new kit aims to address risks related to poisoned models, regulatory issues, supply chain integrity, and incident response",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
       ]
     }
   },
@@ -850,8 +873,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20362",
-        "CVE-2025-20333"
+        "CVE-2025-20333",
+        "CVE-2025-20362"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1338,6 +1361,43 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Thousands of Facebook accounts stolen by phishing emails sent through Google",
+    "link": "https://www.malwarebytes.com/blog/news/2026/05/thousands-of-facebook-accounts-stolen-by-phishing-emails-sent-through-google",
+    "published": "Mon, 04 May 2026 11:41:04 GMT",
+    "summary": "In an ongoing operation, hackers are hijacking Facebook accounts using Google AppSheet to send phishing emails that pass security checks.",
+    "analysis": {
+      "issue": "Researchers have uncovered a long-running phishing operation that abuses trusted Google services to hijack tens of thousands of Facebook accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "The 2026 World Cup scam economy is already running before the first whistle",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/05/the-2026-world-cup-scam-economy-is-already-running-before-the-first-whistle",
+    "published": "Mon, 04 May 2026 11:10:38 GMT",
+    "summary": "A four-part scam economy is already forming around the 2026 World Cup, using the tournament’s brand to sell everything from fake visas to worthless tokens.",
+    "analysis": {
+      "issue": "The FIFA World Cup 2026 is scheduled to begin June 11 across the US, Canada, and Mexico",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "A week in security (April 27 &#8211; May 3)",
     "link": "https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-april-27-may-3-3",
     "published": "Mon, 04 May 2026 07:01:00 GMT",
@@ -1479,45 +1539,6 @@
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Fake CAPTCHA scam turns a quick click into a costly phone bill",
-    "link": "https://www.malwarebytes.com/blog/news/2026/04/fake-captcha-scam-turns-a-quick-click-into-a-costly-phone-bill",
-    "published": "Tue, 28 Apr 2026 10:46:01 GMT",
-    "summary": "Scammers are using fake CAPTCHA pages to rack up international SMS charges on victims’ phone bills, and then take a cut.",
-    "analysis": {
-      "issue": "Researchers have documented a long‑running campaign that uses fake CAPTCHA pages to trick mobile users into sending dozens of international SMS messages in the background",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Chinese engineer stole US military and NASA software for years",
-    "link": "https://www.malwarebytes.com/blog/news/2026/04/chinese-engineer-stole-us-military-and-nasa-software-for-years",
-    "published": "Tue, 28 Apr 2026 09:21:11 GMT",
-    "summary": "He created Gmail accounts, impersonated real US researchers, and convinced NASA, the military, and universities to hand over sensitive code.",
-    "analysis": {
-      "issue": "International espionage isn’t always about sophisticated malware and zero-day bugs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
         "Malware"
       ]
     }
