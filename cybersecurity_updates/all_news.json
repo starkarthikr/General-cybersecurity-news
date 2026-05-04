@@ -1,6 +1,45 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
+    "link": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html",
+    "published": "Mon, 04 May 2026 14:57:00 +0530",
+    "summary": "A previously unknown threat actor has been observed targeting government and military entities in Southeast Asia, alongside a smaller cluster of managed service providers (MSPs) and hosting providers in the Philippines, Laos, Canada, South Africa, and the U.S., by exploiting the recently disclosed vulnerability in cPanel.\nThe activity, detected by Ctrl-Alt-Intel on May 2, 2026, involves the",
+    "analysis": {
+      "issue": "cPanel CVE-2026-41940 exploited within 24 hours, enabling 44,000 IP attacks and data breaches across global networks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-41940"
+      ],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M",
+    "link": "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html",
+    "published": "Mon, 04 May 2026 11:29:00 +0530",
+    "summary": "A coordinated international operation involving U.S. and Chinese authorities has arrested at least 276 suspects and shut down nine scam centers used for cryptocurrency investment fraud schemes targeting Americans, resulting in millions of dollars in losses.\nThe crackdown was led by the Dubai Police, under the United Arab Emirates (UAE) Ministry of Interior, in partnership with the U.S. Federal",
+    "analysis": {
+      "issue": "Global crackdown arrests 276 suspects in crypto scams, saving $562M via FBI alerts, disrupting fraud networks targeting thousands",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
     "link": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
     "published": "Sun, 03 May 2026 11:56:00 +0530",
@@ -145,44 +184,6 @@
       "threat_categories": [
         "Vulnerability",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
-    "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
-    "published": "Thu, 30 Apr 2026 22:01:00 +0530",
-    "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft.\nAccording to Aikido Security, OX Security, Socket, and StepSecurity, the two malicious versions are versions 2.6.2 and 2.6.3, both of which were published on April 30, 2026. The campaign is assessed to be an",
-    "analysis": {
-      "issue": "3 released April 30 enable credential theft via hidden payload, leading to PyPI quarantine and forced remediation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
-    "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
-    "published": "Thu, 30 Apr 2026 19:25:00 +0530",
-    "summary": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into their private files during a simple install. It is definitely a busy time to be online.\nSecurity is always a moving target. Millions of servers are currently sitting online without any passwords, and",
-    "analysis": {
-      "issue": "Latest ThreatsDay: SMS blasters, npm supply chain hits, and unpatched Windows flaws",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "Supply Chain"
       ]
     }
   },
@@ -411,8 +412,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
         "CVE-2026-32201",
+        "CVE-2026-34621",
         "CVE-2026-33825"
       ],
       "threat_categories": [
@@ -530,14 +531,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-24291",
+        "CVE-2026-26127",
         "CVE-2026-26113",
-        "CVE-2026-21262",
         "CVE-2026-26110",
         "CVE-2026-24289",
-        "CVE-2026-26127",
-        "CVE-2026-24294",
-        "CVE-2026-24291",
-        "CVE-2026-25187"
+        "CVE-2026-21262",
+        "CVE-2026-25187",
+        "CVE-2026-24294"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -560,6 +561,66 @@
       "cves": [],
       "threat_categories": [
         "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenAI Rolls Out Advanced Security for ChatGPT Accounts",
+    "link": "https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/",
+    "published": "Mon, 04 May 2026 09:29:30 +0000",
+    "summary": "<p>Advanced Account Security provides stronger login methods, more secure account recovery, shorter sessions, and training exclusion.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/\">OpenAI Rolls Out Advanced Security for ChatGPT Accounts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Advanced Account Security provides stronger login methods, more secure account recovery, shorter sessions, and training exclusion",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Over 40,000 Servers Compromised in Ongoing cPanel Exploitation",
+    "link": "https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/",
+    "published": "Mon, 04 May 2026 08:25:04 +0000",
+    "summary": "<p>The attacks likely target CVE-2026-41940, a recently patched zero-day leading to administrative access.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/\">Over 40,000 Servers Compromised in Ongoing cPanel Exploitation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The attacks likely target CVE-2026-41940, a recently patched zero-day leading to administrative access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-41940"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats",
+    "link": "https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/",
+    "published": "Mon, 04 May 2026 07:02:51 +0000",
+    "summary": "<p>Hackers disrupted services and stole names, email addresses, student ID numbers, and user messages.</p>\n<p>The post <a href=\"https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/\">Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers disrupted services and stole names, email addresses, student ID numbers, and user messages",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Supply Chain"
       ]
     }
   },
@@ -613,9 +674,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-3965",
+        "CVE-2026-4047",
         "CVE-2026-26268",
-        "CVE-2026-4047"
+        "CVE-2026-3965"
       ],
       "threat_categories": [
         "Ransomware",
@@ -693,64 +754,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Hugging Face, ClawHub Abused for Malware Distribution",
-    "link": "https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/",
-    "published": "Fri, 01 May 2026 08:41:57 +0000",
-    "summary": "<p>Threat actors are relying on social engineering to lure users into downloading files containing malicious instructions.</p>\n<p>The post <a href=\"https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/\">Hugging Face, ClawHub Abused for Malware Distribution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Threat actors are relying on social engineering to lure users into downloading files containing malicious instructions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "FBI Warns of Surge in Hacker-Enabled Cargo Theft",
-    "link": "https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/",
-    "published": "Fri, 01 May 2026 08:11:20 +0000",
-    "summary": "<p>A new alert from the FBI says criminal enterprises are hacking both brokers and carriers to steal cargo for resale.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/\">FBI Warns of Surge in Hacker-Enabled Cargo Theft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A new alert from the FBI says criminal enterprises are hacking both brokers and carriers to steal cargo for resale",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom",
-    "link": "https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/",
-    "published": "Fri, 01 May 2026 07:33:40 +0000",
-    "summary": "<p>The compromised Lightning and Intercom packages have a combined monthly download count of nearly 10 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/\">1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The compromised Lightning and Intercom packages have a combined monthly download count of nearly 10 million",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "Vulnerability",
@@ -1335,6 +1338,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "A week in security (April 27 &#8211; May 3)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-april-27-may-3-3",
+    "published": "Mon, 04 May 2026 07:01:00 GMT",
+    "summary": "A list of topics we covered in the week of April 27 to May 3 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "3 easy-to-miss cybersecurity risks for small businesses",
     "link": "https://www.malwarebytes.com/blog/how-to/2026/05/3-easy-to-miss-cybersecurity-risks-for-small-businesses",
     "published": "Sun, 03 May 2026 10:33:26 GMT",
@@ -1497,24 +1518,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (April 20 &#8211; April 26)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-20-april-26",
-    "published": "Mon, 27 Apr 2026 07:02:00 GMT",
-    "summary": "A list of topics we covered in the week of April 20 to April 26 of 2026",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
         "Malware"
       ]
     }

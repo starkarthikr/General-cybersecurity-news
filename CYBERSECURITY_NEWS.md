@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-04 04:27:51 UTC
+**Last Updated:** 2026-05-04 10:32:24 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html)
+### 1. [Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks](https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 04 May 2026 14:57:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-41940  
+**Categories:** Data Breach, Vulnerability  
+
+---
+
+### 2. [Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M](https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 04 May 2026 11:29:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 03 May 2026 11:56:00 +0530  
@@ -14,7 +33,7 @@
 
 ---
 
-### 2. [Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html)
+### 4. [Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 02 May 2026 12:11:00 +0530  
@@ -23,7 +42,7 @@
 
 ---
 
-### 3. [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html)
+### 5. [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 01 May 2026 23:39:00 +0530  
@@ -32,7 +51,7 @@
 
 ---
 
-### 4. [Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html)
+### 6. [Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 01 May 2026 19:56:00 +0530  
@@ -41,7 +60,7 @@
 
 ---
 
-### 5. [China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists](https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html)
+### 7. [China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists](https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 01 May 2026 19:32:00 +0530  
@@ -50,7 +69,7 @@
 
 ---
 
-### 6. [Top Five Sales Challenges Costing MSPs Cybersecurity Revenue](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html)
+### 8. [Top Five Sales Challenges Costing MSPs Cybersecurity Revenue](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 01 May 2026 16:00:00 +0530  
@@ -59,7 +78,7 @@
 
 ---
 
-### 7. [Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks](https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html)
+### 9. [Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks](https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 01 May 2026 15:26:00 +0530  
@@ -68,30 +87,12 @@
 
 ---
 
-### 8. [Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft](https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html)
+### 10. [Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft](https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 01 May 2026 15:13:00 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability, Phishing  
-
----
-
-### 9. [PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 30 Apr 2026 22:01:00 +0530  
-**Severity:** Low  
-**Categories:** Phishing, Supply Chain  
-
----
-
-### 10. [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 30 Apr 2026 19:25:00 +0530  
-**Severity:** Low  
-**Categories:** Phishing, Supply Chain  
 
 ---
 
@@ -207,7 +208,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -262,7 +263,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-21262, CVE-2026-26110, CVE-2026-24289, CVE-2026-26127, CVE-2026-24294, CVE-2026-24291, CVE-2026-25187  
+**CVEs:** CVE-2026-24291, CVE-2026-26127, CVE-2026-26113, CVE-2026-26110, CVE-2026-24289, CVE-2026-21262, CVE-2026-25187, CVE-2026-24294  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -276,7 +277,35 @@
 
 ---
 
-### 31. [US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems](https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/)
+### 31. [OpenAI Rolls Out Advanced Security for ChatGPT Accounts](https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/)
+
+**Source:** Security Week  
+**Published:** Mon, 04 May 2026 09:29:30 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 32. [Over 40,000 Servers Compromised in Ongoing cPanel Exploitation](https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/)
+
+**Source:** Security Week  
+**Published:** Mon, 04 May 2026 08:25:04 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-41940  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 33. [Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats](https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/)
+
+**Source:** Security Week  
+**Published:** Mon, 04 May 2026 07:02:51 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach, Supply Chain  
+
+---
+
+### 34. [US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems](https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/)
 
 **Source:** Security Week  
 **Published:** Sun, 03 May 2026 16:21:36 +0000  
@@ -285,7 +314,7 @@
 
 ---
 
-### 32. [New Bluekit Phishing Kit Features AI Assistant](https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/)
+### 35. [New Bluekit Phishing Kit Features AI Assistant](https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/)
 
 **Source:** Security Week  
 **Published:** Sat, 02 May 2026 10:50:00 +0000  
@@ -294,17 +323,17 @@
 
 ---
 
-### 33. [In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability](https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/)
+### 36. [In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability](https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 15:01:27 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-3965, CVE-2026-26268, CVE-2026-4047  
+**CVEs:** CVE-2026-4047, CVE-2026-26268, CVE-2026-3965  
 **Categories:** Ransomware, Data Breach, Vulnerability, Malware, APT  
 
 ---
 
-### 34. [Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge](https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/)
+### 37. [Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge](https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 14:26:14 +0000  
@@ -313,7 +342,7 @@
 
 ---
 
-### 35. [Two US Security Experts Sentenced to Prison for Helping Ransomware Gang](https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/)
+### 38. [Two US Security Experts Sentenced to Prison for Helping Ransomware Gang](https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 11:37:03 +0000  
@@ -322,7 +351,7 @@
 
 ---
 
-### 36. [Sophisticated Deep#Door Backdoor Enables Espionage, Disruption](https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/)
+### 39. [Sophisticated Deep#Door Backdoor Enables Espionage, Disruption](https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 11:08:50 +0000  
@@ -331,38 +360,11 @@
 
 ---
 
-### 37. [Cisco Releases Open Source Tool for AI Model Provenance](https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/)
+### 40. [Cisco Releases Open Source Tool for AI Model Provenance](https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/)
 
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 10:18:39 +0000  
 **Severity:** Low  
-**Categories:** Vulnerability, Malware, Supply Chain  
-
----
-
-### 38. [Hugging Face, ClawHub Abused for Malware Distribution](https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/)
-
-**Source:** Security Week  
-**Published:** Fri, 01 May 2026 08:41:57 +0000  
-**Severity:** High  
-**Categories:** Malware  
-
----
-
-### 39. [FBI Warns of Surge in Hacker-Enabled Cargo Theft](https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/)
-
-**Source:** Security Week  
-**Published:** Fri, 01 May 2026 08:11:20 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Malware, Phishing  
-
----
-
-### 40. [1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom](https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/)
-
-**Source:** Security Week  
-**Published:** Fri, 01 May 2026 07:33:40 +0000  
-**Severity:** Critical  
 **Categories:** Vulnerability, Malware, Supply Chain  
 
 ---
@@ -644,7 +646,16 @@
 
 ---
 
-### 71. [3 easy-to-miss cybersecurity risks for small businesses](https://www.malwarebytes.com/blog/how-to/2026/05/3-easy-to-miss-cybersecurity-risks-for-small-businesses)
+### 71. [A week in security (April 27 &#8211; May 3)](https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-april-27-may-3-3)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 04 May 2026 07:01:00 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 72. [3 easy-to-miss cybersecurity risks for small businesses](https://www.malwarebytes.com/blog/how-to/2026/05/3-easy-to-miss-cybersecurity-risks-for-small-businesses)
 
 **Source:** Malwarebytes  
 **Published:** Sun, 03 May 2026 10:33:26 GMT  
@@ -653,7 +664,7 @@
 
 ---
 
-### 72. [Actively exploited cPanel bug exposes millions of websites to takeover](https://www.malwarebytes.com/blog/news/2026/05/actively-exploited-cpanel-bug-exposes-millions-of-websites-to-takeover)
+### 73. [Actively exploited cPanel bug exposes millions of websites to takeover](https://www.malwarebytes.com/blog/news/2026/05/actively-exploited-cpanel-bug-exposes-millions-of-websites-to-takeover)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 01 May 2026 10:48:19 GMT  
@@ -663,7 +674,7 @@
 
 ---
 
-### 73. [More PayPal emails hijacked to deliver tech support scams](https://www.malwarebytes.com/blog/news/2026/04/more-paypal-emails-hijacked-to-deliver-tech-support-scams)
+### 74. [More PayPal emails hijacked to deliver tech support scams](https://www.malwarebytes.com/blog/news/2026/04/more-paypal-emails-hijacked-to-deliver-tech-support-scams)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 30 Apr 2026 19:29:36 GMT  
@@ -672,7 +683,7 @@
 
 ---
 
-### 74. [Hackers stole hundreds of thousands of Roblox accounts: Here’s what to do](https://www.malwarebytes.com/blog/news/2026/04/hackers-stole-hundreds-of-thousands-of-roblox-accounts-heres-what-to-do)
+### 75. [Hackers stole hundreds of thousands of Roblox accounts: Here’s what to do](https://www.malwarebytes.com/blog/news/2026/04/hackers-stole-hundreds-of-thousands-of-roblox-accounts-heres-what-to-do)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 30 Apr 2026 15:48:50 GMT  
@@ -681,7 +692,7 @@
 
 ---
 
-### 75. [Researchers built a chatbot that only knows the world before 1931](https://www.malwarebytes.com/blog/ai/2026/04/researchers-built-a-chatbot-that-only-knows-the-world-before-1931)
+### 76. [Researchers built a chatbot that only knows the world before 1931](https://www.malwarebytes.com/blog/ai/2026/04/researchers-built-a-chatbot-that-only-knows-the-world-before-1931)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 29 Apr 2026 20:58:30 GMT  
@@ -690,7 +701,7 @@
 
 ---
 
-### 76. [Microsoft won&#8217;t patch PhantomRPC: Feature or bug?](https://www.malwarebytes.com/blog/news/2026/04/microsoft-wont-patch-phantomrpc-feature-or-bug)
+### 77. [Microsoft won&#8217;t patch PhantomRPC: Feature or bug?](https://www.malwarebytes.com/blog/news/2026/04/microsoft-wont-patch-phantomrpc-feature-or-bug)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 29 Apr 2026 13:27:32 GMT  
@@ -699,7 +710,7 @@
 
 ---
 
-### 77. [Scam-checking just got a lot easier: Malwarebytes is now in Claude](https://www.malwarebytes.com/blog/product/2026/04/scam-checking-just-got-a-lot-easier-malwarebytes-is-now-in-claude)
+### 78. [Scam-checking just got a lot easier: Malwarebytes is now in Claude](https://www.malwarebytes.com/blog/product/2026/04/scam-checking-just-got-a-lot-easier-malwarebytes-is-now-in-claude)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 29 Apr 2026 10:52:29 GMT  
@@ -708,7 +719,7 @@
 
 ---
 
-### 78. [Fake CAPTCHA scam turns a quick click into a costly phone bill](https://www.malwarebytes.com/blog/news/2026/04/fake-captcha-scam-turns-a-quick-click-into-a-costly-phone-bill)
+### 79. [Fake CAPTCHA scam turns a quick click into a costly phone bill](https://www.malwarebytes.com/blog/news/2026/04/fake-captcha-scam-turns-a-quick-click-into-a-costly-phone-bill)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 28 Apr 2026 10:46:01 GMT  
@@ -717,21 +728,12 @@
 
 ---
 
-### 79. [Chinese engineer stole US military and NASA software for years](https://www.malwarebytes.com/blog/news/2026/04/chinese-engineer-stole-us-military-and-nasa-software-for-years)
+### 80. [Chinese engineer stole US military and NASA software for years](https://www.malwarebytes.com/blog/news/2026/04/chinese-engineer-stole-us-military-and-nasa-software-for-years)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 28 Apr 2026 09:21:11 GMT  
 **Severity:** Critical  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 80. [A week in security (April 20 &#8211; April 26)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-20-april-26)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 27 Apr 2026 07:02:00 GMT  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
