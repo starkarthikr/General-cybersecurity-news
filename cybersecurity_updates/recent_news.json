@@ -1,6 +1,47 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
+    "link": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
+    "published": "Mon, 04 May 2026 22:04:00 +0530",
+    "summary": "Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass.\nMOVEit Automation (formerly Central) is a secure, server-based managed file transfer (MFT) solution used to schedule and automate file movement workflows in enterprise environments without requiring any custom scripts.&nbsp;\nThe",
+    "analysis": {
+      "issue": "MOVEit Automation flaws (CVE-2026-4670, CVE-2026-5174) enable bypass and escalation, risking enterprise data exposure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-5174",
+        "CVE-2026-4670"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
+    "link": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
+    "published": "Mon, 04 May 2026 19:53:00 +0530",
+    "summary": "This week, the shadows moved faster than the patches.\nWhile most teams were still triaging last month’s alerts, attackers had already turned control panels into kill switches, kernels into open doors, and open-source pipelines into silent delivery systems.\nThe game has shifted from breach to occupation. They’re living inside SaaS sessions, pushing code with trusted commits, and scaling",
+    "analysis": {
+      "issue": "Weekly cybersecurity news: Critical cPanel flaw under attack, Copy Fail Linux privilege escalation, TeamPCP supply chain campaign, GitHub RCE & major",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "2026: The Year of AI-Assisted Attacks",
     "link": "https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html",
     "published": "Mon, 04 May 2026 17:28:00 +0530",
@@ -151,39 +192,40 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists",
-    "link": "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html",
-    "published": "Fri, 01 May 2026 19:32:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new China-aligned espionage campaign targeting government and defense sectors across South, East, and Southeast Asia, along with one European government belonging to NATO.\nTrend Micro has attributed the activity to a threat activity cluster it tracks under the temporary designation SHADOW-EARTH-053. The adversarial collective is assessed to",
+    "source": "Bleeping Computer",
+    "title": "Backdoored PyTorch Lightning package drops credential stealer",
+    "link": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
+    "published": "Mon, 04 May 2026 13:15:27 -0400",
+    "summary": "A malicious version of the PyTorch Lightning package published on the Python Package Index (PyPI) delivers a credential-stealing payload targeting browsers, environment files, and cloud services. [...]",
     "analysis": {
-      "issue": "China-linked hackers exploit Exchange flaws since Dec 2024 across 8 countries, enabling espionage and credential theft operations",
+      "issue": "A malicious version of the PyTorch Lightning package published on the Python Package Index (PyPI) delivers a credential-stealing payload targeting browsers, environment files, and cloud services",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Phishing"
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
-    "link": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
-    "published": "Fri, 01 May 2026 16:00:00 +0530",
-    "summary": "The managed security services market is projected to grow from $38.31 billion in 2025 to $69.16 billion by 2030[1], with cybersecurity being the fastest-growing sector[2]. Despite this opportunity, many MSPs leave revenue on the table because their go-to-market strategy fails to connect technical expertise with business needs.\nThis execution gap is where most deals stall. MSPs often focus on",
+    "source": "Bleeping Computer",
+    "title": "Trellix discloses data breach after source code repository hack",
+    "link": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
+    "published": "Mon, 04 May 2026 12:25:07 -0400",
+    "summary": "Cybersecurity firm Trellix disclosed a data breach after attackers gained access to \"a portion\" of its source code repository. [...]",
     "analysis": {
-      "issue": "MSP sales gaps persist as 77% report low urgency and 66% SMBs cite cost, delaying cybersecurity adoption and revenue growth",
+      "issue": "Cybersecurity firm Trellix disclosed a data breach after attackers gained access to \"a portion\" of its source code repository",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability"
       ]
     }
   },
@@ -218,8 +260,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-4670",
-        "CVE-2026-5174"
+        "CVE-2026-5174",
+        "CVE-2026-4670"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -344,45 +386,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
-    "published": "Sat, 02 May 2026 17:54:00 -0400",
-    "summary": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks. [...]",
-    "analysis": {
-      "issue": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-41940"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
-    "link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
-    "published": "Sat, 02 May 2026 10:32:25 -0400",
-    "summary": "A new attack type, dubbed ConsentFix v3, has been circulating on hacker forums, building on the previous technique by adding automation and scaling potential. [...]",
-    "analysis": {
-      "issue": "A new attack type, dubbed ConsentFix v3, has been circulating on hacker forums as an improved technique that automates attacks against Microsoft Azure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
     "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
@@ -433,9 +436,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-34621",
-        "CVE-2026-33825"
+        "CVE-2026-33825",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -552,14 +555,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24289",
         "CVE-2026-26110",
-        "CVE-2026-26127",
         "CVE-2026-24291",
-        "CVE-2026-21262",
         "CVE-2026-26113",
         "CVE-2026-25187",
-        "CVE-2026-24294"
+        "CVE-2026-26127",
+        "CVE-2026-24289",
+        "CVE-2026-24294",
+        "CVE-2026-21262"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -582,6 +585,27 @@
       "cves": [],
       "threat_categories": [
         "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Trellix Source Code Repository Breached",
+    "link": "https://www.securityweek.com/trellix-source-code-repository-breached/",
+    "published": "Mon, 04 May 2026 17:23:54 +0000",
+    "summary": "<p>The cybersecurity firm’s investigation has not found any impact on its source code release or distribution process. </p>\n<p>The post <a href=\"https://www.securityweek.com/trellix-source-code-repository-breached/\">Trellix Source Code Repository Breached</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The cybersecurity firm’s investigation has not found any impact on its source code release or distribution process",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
       ]
     }
   },
@@ -755,8 +779,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-26268",
-        "CVE-2026-3965",
-        "CVE-2026-4047"
+        "CVE-2026-4047",
+        "CVE-2026-3965"
       ],
       "threat_categories": [
         "Ransomware",
@@ -764,24 +788,6 @@
         "Vulnerability",
         "Malware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge",
-    "link": "https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/",
-    "published": "Fri, 01 May 2026 14:26:14 +0000",
-    "summary": "<p>The maximum reward for a zero-click Pixel Titan M exploit with persistence has increased to $1.5 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/\">Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The maximum reward for a zero-click Pixel Titan M exploit with persistence has increased to $1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -873,8 +879,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20333",
-        "CVE-2025-20362"
+        "CVE-2025-20362",
+        "CVE-2025-20333"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1361,6 +1367,25 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Cyberattacks are raising your prices (Lock and Code S07E09)",
+    "link": "https://www.malwarebytes.com/blog/podcast/2026/05/cyberattacks-are-raising-your-prices-lock-and-code-s07e09",
+    "published": "Mon, 04 May 2026 14:59:06 GMT",
+    "summary": "This week on the Lock and Code podcast, we speak with Eva Velasquez about small business cyberattacks and the \"cyber tax\" coming for us all.",
+    "analysis": {
+      "issue": "This week on the Lock and Code podcast… Your prices could be going up because of a little something that one group has started calling the “cyber tax",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Medium",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Thousands of Facebook accounts stolen by phishing emails sent through Google",
     "link": "https://www.malwarebytes.com/blog/news/2026/05/thousands-of-facebook-accounts-stolen-by-phishing-emails-sent-through-google",
     "published": "Mon, 04 May 2026 11:41:04 GMT",
@@ -1526,20 +1551,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Scam-checking just got a lot easier: Malwarebytes is now in Claude",
-    "link": "https://www.malwarebytes.com/blog/product/2026/04/scam-checking-just-got-a-lot-easier-malwarebytes-is-now-in-claude",
-    "published": "Wed, 29 Apr 2026 10:52:29 GMT",
-    "summary": "We're in Claude! Now everyone can use our threat intel to check suspicious links, phone numbers, or email addresses. We're committed to helping you spot scams.",
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/",
+    "published": "May 04, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "For years, Malwarebytes has protected people by going where they are, and where people are today is increasingly within AI tools",
+      "issue": "Learn common patterns and issues driving cyber risk based on a large sample of CrowdStrike Technical Risk Assessments",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -1702,24 +1727,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Frontier AI for Defenders: CrowdStrike and OpenAI TAC",
-    "link": "https://www.crowdstrike.com/en-us/blog/frontier-ai-for-defenders-crowdstrike-and-openai-tac/",
-    "published": "Apr 16, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike was selected for OpenAI's Trusted Access for Cyber (TAC) program with GPT-5",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   }
