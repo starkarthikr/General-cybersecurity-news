@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-03 17:24:56 UTC
+**Last Updated:** 2026-05-04 03:47:17 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,25 @@
 
 ---
 
-### 11. [Telegram Mini Apps abused for crypto scams, Android malware delivery](https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/)
+### 11. [Instructure confirms data breach, ShinyHunters claims attack](https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 03 May 2026 18:16:27 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
+
+---
+
+### 12. [Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha](https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 03 May 2026 14:11:25 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [Telegram Mini Apps abused for crypto scams, Android malware delivery](https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 03 May 2026 10:11:21 -0400  
@@ -104,7 +122,7 @@
 
 ---
 
-### 12. [Critrical cPanel flaw mass-exploited in "Sorry" ransomware attacks](https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/)
+### 14. [Critrical cPanel flaw mass-exploited in "Sorry" ransomware attacks](https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 02 May 2026 17:54:00 -0400  
@@ -114,7 +132,7 @@
 
 ---
 
-### 13. [ConsentFix v3 attacks target Azure with automated OAuth abuse](https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/)
+### 15. [ConsentFix v3 attacks target Azure with automated OAuth abuse](https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 02 May 2026 10:32:25 -0400  
@@ -123,7 +141,7 @@
 
 ---
 
-### 14. [Microsoft tests modern Windows Run, says it's faster than legacy dialog](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/)
+### 16. [Microsoft tests modern Windows Run, says it's faster than legacy dialog](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 01 May 2026 20:18:05 -0400  
@@ -132,7 +150,7 @@
 
 ---
 
-### 15. [Edu tech firm Instructure discloses cyber incident, probes impact](https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/)
+### 17. [Edu tech firm Instructure discloses cyber incident, probes impact](https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 01 May 2026 19:43:35 -0400  
@@ -141,7 +159,7 @@
 
 ---
 
-### 16. [15-year-old detained over French govt agency data breach](https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/)
+### 18. [15-year-old detained over French govt agency data breach](https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 01 May 2026 13:52:06 -0400  
@@ -150,35 +168,17 @@
 
 ---
 
-### 17. [Story retracted](https://www.bleepingcomputer.com/news/security/story-retracted/)
+### 19. [Story retracted](https://www.bleepingcomputer.com/news/security/story-retracted/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 01 May 2026 12:26:28 -0400  
 
 ---
 
-### 18. [Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations](https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/)
+### 20. [Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations](https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 01 May 2026 10:02:12 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Microsoft fixes Remote Desktop warnings displaying incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 01 May 2026 08:46:48 -0400  
-**Severity:** Low  
-**Categories:** Phishing, APT  
-
----
-
-### 20. [Microsoft now lets admins choose pre-installed Store apps to uninstall](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 01 May 2026 07:10:07 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -262,7 +262,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24289, CVE-2026-24291, CVE-2026-24294, CVE-2026-26127, CVE-2026-21262, CVE-2026-26113, CVE-2026-26110, CVE-2026-25187  
+**CVEs:** CVE-2026-24291, CVE-2026-26110, CVE-2026-21262, CVE-2026-24289, CVE-2026-24294, CVE-2026-26113, CVE-2026-25187, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -299,7 +299,7 @@
 **Source:** Security Week  
 **Published:** Fri, 01 May 2026 15:01:27 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-3965, CVE-2026-4047, CVE-2026-26268  
+**CVEs:** CVE-2026-3965, CVE-2026-26268, CVE-2026-4047  
 **Categories:** Ransomware, Data Breach, Vulnerability, Malware, APT  
 
 ---
@@ -408,7 +408,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20333, CVE-2025-20362  
+**CVEs:** CVE-2025-20362, CVE-2025-20333  
 **Categories:** Vulnerability, Malware  
 
 ---

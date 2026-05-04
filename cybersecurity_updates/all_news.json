@@ -188,6 +188,43 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Instructure confirms data breach, ShinyHunters claims attack",
+    "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
+    "published": "Sun, 03 May 2026 18:16:27 -0400",
+    "summary": "Educational tech giant Instructure has confirmed that data was stolen in a cyberattack, with the ShinyHunters extortion gang claiming responsibility. [...]",
+    "analysis": {
+      "issue": "Educational tech giant Instructure has confirmed that data was stolen in a cyberattack, with the ShinyHunters extortion gang claiming responsibility",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
+    "published": "Sun, 03 May 2026 14:11:25 -0400",
+    "summary": "Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, and in some cases, removing certificates from Windows. [...]",
+    "analysis": {
+      "issue": "Update: Added Microsoft's statement to the end of the first section of this article",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
     "link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
     "published": "Sun, 03 May 2026 10:11:21 -0400",
@@ -313,43 +350,6 @@
     "summary": "Raw threat intel isn't enough without real-world context. Criminal IP has partnered with Securonix to integrate exposure-based intelligence into ThreatQ, automating analysis and speeding up investigations. [...]",
     "analysis": {
       "issue": "Criminal IP partners with Securonix to integrate Criminal IP’s Threat Intelligence into ThreatQ, allowing organizations to incorporate external IP intelligence into their existing workflows, helping security teams accelerate analysis and response wit",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
-    "published": "Fri, 01 May 2026 08:46:48 -0400",
-    "summary": "Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
-    "analysis": {
-      "issue": "Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
-    "published": "Fri, 01 May 2026 07:10:07 -0400",
-    "summary": "Microsoft has updated a Windows 11 in-box app removal policy introduced in October to include a dynamic list that lets IT admins choose which preinstalled Store apps to uninstall. [...]",
-    "analysis": {
-      "issue": "Microsoft has updated a Windows 11 in-box app removal policy introduced in October to include a dynamic list that lets IT admins choose which preinstalled Store apps to uninstall",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -530,14 +530,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24289",
         "CVE-2026-24291",
-        "CVE-2026-24294",
-        "CVE-2026-26127",
-        "CVE-2026-21262",
-        "CVE-2026-26113",
         "CVE-2026-26110",
-        "CVE-2026-25187"
+        "CVE-2026-21262",
+        "CVE-2026-24289",
+        "CVE-2026-24294",
+        "CVE-2026-26113",
+        "CVE-2026-25187",
+        "CVE-2026-26127"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -614,8 +614,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-3965",
-        "CVE-2026-4047",
-        "CVE-2026-26268"
+        "CVE-2026-26268",
+        "CVE-2026-4047"
       ],
       "threat_categories": [
         "Ransomware",
@@ -847,8 +847,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20333",
-        "CVE-2025-20362"
+        "CVE-2025-20362",
+        "CVE-2025-20333"
       ],
       "threat_categories": [
         "Vulnerability",
