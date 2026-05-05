@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-05 03:56:53 UTC
+**Last Updated:** 2026-05-05 10:17:54 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools](https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html)
+### 1. [ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows](https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 05 May 2026 14:37:00 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API](https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 05 May 2026 13:07:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-22679  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries](https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 05 May 2026 12:05:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 4. [Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools](https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 04 May 2026 23:36:00 +0530  
@@ -13,17 +41,17 @@
 
 ---
 
-### 2. [Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass](https://thehackernews.com/2026/05/progress-patches-critical-moveit.html)
+### 5. [Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass](https://thehackernews.com/2026/05/progress-patches-critical-moveit.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 04 May 2026 22:04:00 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2026-5174, CVE-2026-4670  
+**CVEs:** CVE-2026-4670, CVE-2026-5174  
 **Categories:** Vulnerability  
 
 ---
 
-### 3. [⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More](https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html)
+### 6. [⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More](https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 04 May 2026 19:53:00 +0530  
@@ -32,7 +60,7 @@
 
 ---
 
-### 4. [2026: The Year of AI-Assisted Attacks](https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html)
+### 7. [2026: The Year of AI-Assisted Attacks](https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 04 May 2026 17:28:00 +0530  
@@ -41,7 +69,7 @@
 
 ---
 
-### 5. [Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia](https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html)
+### 8. [Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia](https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 04 May 2026 17:27:00 +0530  
@@ -50,7 +78,7 @@
 
 ---
 
-### 6. [Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks](https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html)
+### 9. [Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks](https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 04 May 2026 14:57:00 +0530  
@@ -60,7 +88,7 @@
 
 ---
 
-### 7. [Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M](https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html)
+### 10. [Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M](https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 04 May 2026 11:29:00 +0530  
@@ -69,35 +97,34 @@
 
 ---
 
-### 8. [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html)
+### 11. [Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison](https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/)
 
-**Source:** The Hacker News  
-**Published:** Sun, 03 May 2026 11:56:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 05 May 2026 06:13:17 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-31431  
-**Categories:** Vulnerability  
+**Categories:** Ransomware  
 
 ---
 
-### 9. [Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html)
+### 12. [CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs](https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 02 May 2026 12:11:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 05 May 2026 06:03:52 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** Malware  
 
 ---
 
-### 10. [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html)
+### 13. [ScarCruft hackers push BirdCall Android malware via game platform](https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 01 May 2026 23:39:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 05 May 2026 05:04:13 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability, Phishing  
+**Categories:** Malware, APT  
 
 ---
 
-### 11. [Weaver E-cology critical bug exploited in attacks since March](https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/)
+### 14. [Weaver E-cology critical bug exploited in attacks since March](https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 04 May 2026 18:12:57 -0400  
@@ -107,7 +134,7 @@
 
 ---
 
-### 12. [Amazon SES increasingly abused in phishing to evade detection](https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/)
+### 15. [Amazon SES increasingly abused in phishing to evade detection](https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 04 May 2026 16:03:28 -0400  
@@ -116,7 +143,7 @@
 
 ---
 
-### 13. [Backdoored PyTorch Lightning package drops credential stealer](https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/)
+### 16. [Backdoored PyTorch Lightning package drops credential stealer](https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 04 May 2026 13:15:27 -0400  
@@ -125,7 +152,7 @@
 
 ---
 
-### 14. [Trellix discloses data breach after source code repository hack](https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/)
+### 17. [Trellix discloses data breach after source code repository hack](https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 04 May 2026 12:25:07 -0400  
@@ -134,7 +161,7 @@
 
 ---
 
-### 15. [They don’t hack, they borrow: How fraudsters target credit unions](https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/)
+### 18. [They don’t hack, they borrow: How fraudsters target credit unions](https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 04 May 2026 09:42:51 -0400  
@@ -143,51 +170,22 @@
 
 ---
 
-### 16. [Progress warns of critical MOVEit Automation auth bypass flaw](https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/)
+### 19. [Progress warns of critical MOVEit Automation auth bypass flaw](https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 04 May 2026 08:18:57 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-5174, CVE-2026-4670  
+**CVEs:** CVE-2026-4670, CVE-2026-5174  
 **Categories:** Vulnerability  
 
 ---
 
-### 17. [Webinar: Why MSPs must rethink security and backup strategies](https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/)
+### 20. [Webinar: Why MSPs must rethink security and backup strategies](https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 04 May 2026 08:16:24 -0400  
 **Severity:** Critical  
 **Categories:** Ransomware, Vulnerability, Phishing  
-
----
-
-### 18. [CISA says ‘Copy Fail’ flaw now exploited to root Linux systems](https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 04 May 2026 07:28:15 -0400  
-**Severity:** High  
-**CVEs:** CVE-2026-31431  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Microsoft confirms April Windows updates cause backup failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 04 May 2026 06:40:11 -0400  
-**Severity:** High  
-**CVEs:** CVE-2023-43896  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 20. [Instructure confirms data breach, ShinyHunters claims attack](https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 03 May 2026 18:16:27 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
 
 ---
 
@@ -214,7 +212,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -250,6 +248,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Fri, 20 Mar 2026 00:49:19 +0000  
+**Severity:** High  
+**Categories:** Malware, DDoS  
 
 ---
 
@@ -266,6 +266,9 @@
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-24291, CVE-2026-24289, CVE-2026-26127, CVE-2026-25187, CVE-2026-26110, CVE-2026-21262, CVE-2026-24294, CVE-2026-26113  
+**Categories:** Vulnerability, DDoS  
 
 ---
 
@@ -273,10 +276,32 @@
 
 **Source:** Krebs On Security  
 **Published:** Sun, 08 Mar 2026 23:35:42 +0000  
+**Severity:** Low  
+**Categories:** APT  
 
 ---
 
-### 31. [Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks](https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/)
+### 31. [MetInfo, Weaver E-cology Vulnerabilities in Attackers’ Crosshairs](https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/)
+
+**Source:** Security Week  
+**Published:** Tue, 05 May 2026 09:27:14 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-29014, CVE-2026-22679  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities](https://www.securityweek.com/whatsapp-discloses-file-spoofing-arbitrary-url-scheme-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Tue, 05 May 2026 09:01:14 +0000  
+**Severity:** Medium  
+**CVEs:** CVE-2026-23863, CVE-2026-23866  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 33. [Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks](https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/)
 
 **Source:** Security Week  
 **Published:** Mon, 04 May 2026 19:00:26 +0000  
@@ -285,7 +310,7 @@
 
 ---
 
-### 32. [Trellix Source Code Repository Breached](https://www.securityweek.com/trellix-source-code-repository-breached/)
+### 34. [Trellix Source Code Repository Breached](https://www.securityweek.com/trellix-source-code-repository-breached/)
 
 **Source:** Security Week  
 **Published:** Mon, 04 May 2026 17:23:54 +0000  
@@ -294,7 +319,7 @@
 
 ---
 
-### 33. [Cybersecurity M&A Roundup: 33 Deals Announced in April 2026](https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/)
+### 35. [Cybersecurity M&A Roundup: 33 Deals Announced in April 2026](https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/)
 
 **Source:** Security Week  
 **Published:** Mon, 04 May 2026 13:02:28 +0000  
@@ -303,7 +328,7 @@
 
 ---
 
-### 34. [DigiCert Revokes Certificates After Support Portal Hack](https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/)
+### 36. [DigiCert Revokes Certificates After Support Portal Hack](https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/)
 
 **Source:** Security Week  
 **Published:** Mon, 04 May 2026 12:46:53 +0000  
@@ -312,7 +337,7 @@
 
 ---
 
-### 35. [Exploitation of ‘Copy Fail’ Linux Vulnerability Begins](https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/)
+### 37. [Exploitation of ‘Copy Fail’ Linux Vulnerability Begins](https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/)
 
 **Source:** Security Week  
 **Published:** Mon, 04 May 2026 10:42:33 +0000  
@@ -322,7 +347,7 @@
 
 ---
 
-### 36. [OpenAI Rolls Out Advanced Security for ChatGPT Accounts](https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/)
+### 38. [OpenAI Rolls Out Advanced Security for ChatGPT Accounts](https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/)
 
 **Source:** Security Week  
 **Published:** Mon, 04 May 2026 09:29:30 +0000  
@@ -331,7 +356,7 @@
 
 ---
 
-### 37. [Over 40,000 Servers Compromised in Ongoing cPanel Exploitation](https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/)
+### 39. [Over 40,000 Servers Compromised in Ongoing cPanel Exploitation](https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/)
 
 **Source:** Security Week  
 **Published:** Mon, 04 May 2026 08:25:04 +0000  
@@ -341,7 +366,7 @@
 
 ---
 
-### 38. [Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats](https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/)
+### 40. [Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats](https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/)
 
 **Source:** Security Week  
 **Published:** Mon, 04 May 2026 07:02:51 +0000  
@@ -350,25 +375,25 @@
 
 ---
 
-### 39. [US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems](https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/)
+### 41. [UAT-8302 and its box full of malware](https://blog.talosintelligence.com/uat-8302/)
 
-**Source:** Security Week  
-**Published:** Sun, 03 May 2026 16:21:36 +0000  
-**Severity:** Low  
-**Categories:** Supply Chain  
-
----
-
-### 40. [New Bluekit Phishing Kit Features AI Assistant](https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/)
-
-**Source:** Security Week  
-**Published:** Sat, 02 May 2026 10:50:00 +0000  
-**Severity:** Low  
-**Categories:** Phishing, APT  
+**Source:** Talos Blog  
+**Published:** Tue, 05 May 2026 10:00:30 GMT  
+**Severity:** High  
+**Categories:** Malware, APT, Supply Chain  
 
 ---
 
-### 41. [Great responsibility, without great power](https://blog.talosintelligence.com/great-responsibility-without-great-power/)
+### 42. [CloudZ RAT potentially steals OTP messages using Pheno plugin](https://blog.talosintelligence.com/cloudz-pheno-infostealer/)
+
+**Source:** Talos Blog  
+**Published:** Tue, 05 May 2026 10:00:18 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 43. [Great responsibility, without great power](https://blog.talosintelligence.com/great-responsibility-without-great-power/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 30 Apr 2026 18:00:07 GMT  
@@ -377,7 +402,7 @@
 
 ---
 
-### 42. [AI-powered honeypots: Turning the tables on malicious AI agents](https://blog.talosintelligence.com/ai-powered-honeypots-turning-the-tables-on-malicious-ai-agents/)
+### 44. [AI-powered honeypots: Turning the tables on malicious AI agents](https://blog.talosintelligence.com/ai-powered-honeypots-turning-the-tables-on-malicious-ai-agents/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 29 Apr 2026 10:00:42 GMT  
@@ -386,7 +411,7 @@
 
 ---
 
-### 43. [Five defender priorities from the Talos Year in Review](https://blog.talosintelligence.com/five-defender-priorities-from-the-talos-year-in-review/)
+### 45. [Five defender priorities from the Talos Year in Review](https://blog.talosintelligence.com/five-defender-priorities-from-the-talos-year-in-review/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 28 Apr 2026 13:23:20 GMT  
@@ -395,7 +420,7 @@
 
 ---
 
-### 44. [It pays to be a forever student](https://blog.talosintelligence.com/it-pays-to-be-a-forever-student/)
+### 46. [It pays to be a forever student](https://blog.talosintelligence.com/it-pays-to-be-a-forever-student/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 18:00:22 GMT  
@@ -404,7 +429,7 @@
 
 ---
 
-### 45. [UAT-4356's Targeting of Cisco Firepower Devices](https://blog.talosintelligence.com/uat-4356-firestarter/)
+### 47. [UAT-4356's Targeting of Cisco Firepower Devices](https://blog.talosintelligence.com/uat-4356-firestarter/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
@@ -414,7 +439,7 @@
 
 ---
 
-### 46. [IR Trends Q1 2026: Phishing reemerges as top initial access vector, as attacks targeting public administration persist](https://blog.talosintelligence.com/ir-trends-q1-2026/)
+### 48. [IR Trends Q1 2026: Phishing reemerges as top initial access vector, as attacks targeting public administration persist](https://blog.talosintelligence.com/ir-trends-q1-2026/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 22 Apr 2026 10:00:34 GMT  
@@ -423,7 +448,7 @@
 
 ---
 
-### 47. [[Podcast] It's not you, it's your printer: State-sponsored and phishing threats in 2025](https://blog.talosintelligence.com/podcast-its-not-you-its-your-printer-state-sponsored-and-phishing-threats-in-2025/)
+### 49. [[Podcast] It's not you, it's your printer: State-sponsored and phishing threats in 2025](https://blog.talosintelligence.com/podcast-its-not-you-its-your-printer-state-sponsored-and-phishing-threats-in-2025/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 21 Apr 2026 12:29:49 GMT  
@@ -432,31 +457,12 @@
 
 ---
 
-### 48. [Phishing and MFA exploitation: Targeting the keys to the kingdom](https://blog.talosintelligence.com/phishing-and-mfa-exploitation-targeting-the-keys-to-the-kingdom/)
+### 50. [Phishing and MFA exploitation: Targeting the keys to the kingdom](https://blog.talosintelligence.com/phishing-and-mfa-exploitation-targeting-the-keys-to-the-kingdom/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 21 Apr 2026 12:00:08 GMT  
 **Severity:** High  
 **Categories:** Vulnerability, Phishing  
-
----
-
-### 49. [Bad Apples: Weaponizing native macOS primitives for movement and execution](https://blog.talosintelligence.com/bad-apples-weaponizing-native-macos-primitives-for-movement-and-execution/)
-
-**Source:** Talos Blog  
-**Published:** Tue, 21 Apr 2026 10:00:29 GMT  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 50. [Foxit, LibRaw vulnerabilities](https://blog.talosintelligence.com/foxit-libraw-vulnerabilities/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 16 Apr 2026 19:00:24 GMT  
-**Severity:** Low  
-**CVEs:** CVE-2026-3779  
-**Categories:** Vulnerability, Supply Chain  
 
 ---
 
