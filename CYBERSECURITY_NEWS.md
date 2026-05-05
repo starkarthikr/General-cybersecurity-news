@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-04 18:01:20 UTC
+**Last Updated:** 2026-05-05 03:30:44 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass](https://thehackernews.com/2026/05/progress-patches-critical-moveit.html)
+### 1. [Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools](https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 04 May 2026 23:36:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 2. [Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass](https://thehackernews.com/2026/05/progress-patches-critical-moveit.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 04 May 2026 22:04:00 +0530  
@@ -14,7 +23,7 @@
 
 ---
 
-### 2. [⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More](https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html)
+### 3. [⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More](https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 04 May 2026 19:53:00 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [2026: The Year of AI-Assisted Attacks](https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html)
+### 4. [2026: The Year of AI-Assisted Attacks](https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 04 May 2026 17:28:00 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia](https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html)
+### 5. [Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia](https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 04 May 2026 17:27:00 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks](https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html)
+### 6. [Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks](https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 04 May 2026 14:57:00 +0530  
@@ -51,7 +60,7 @@
 
 ---
 
-### 6. [Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M](https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html)
+### 7. [Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M](https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 04 May 2026 11:29:00 +0530  
@@ -60,7 +69,7 @@
 
 ---
 
-### 7. [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html)
+### 8. [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 03 May 2026 11:56:00 +0530  
@@ -70,7 +79,7 @@
 
 ---
 
-### 8. [Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html)
+### 9. [Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 02 May 2026 12:11:00 +0530  
@@ -79,7 +88,7 @@
 
 ---
 
-### 9. [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html)
+### 10. [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 01 May 2026 23:39:00 +0530  
@@ -88,16 +97,26 @@
 
 ---
 
-### 10. [Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html)
+### 11. [Weaver E-cology critical bug exploited in attacks since March](https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 01 May 2026 19:56:00 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Mon, 04 May 2026 18:12:57 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-22679  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [Backdoored PyTorch Lightning package drops credential stealer](https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/)
+### 12. [Amazon SES increasingly abused in phishing to evade detection](https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 04 May 2026 16:03:28 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Phishing  
+
+---
+
+### 13. [Backdoored PyTorch Lightning package drops credential stealer](https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 04 May 2026 13:15:27 -0400  
@@ -106,7 +125,7 @@
 
 ---
 
-### 12. [Trellix discloses data breach after source code repository hack](https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/)
+### 14. [Trellix discloses data breach after source code repository hack](https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 04 May 2026 12:25:07 -0400  
@@ -115,7 +134,7 @@
 
 ---
 
-### 13. [They don’t hack, they borrow: How fraudsters target credit unions](https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/)
+### 15. [They don’t hack, they borrow: How fraudsters target credit unions](https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 04 May 2026 09:42:51 -0400  
@@ -124,7 +143,7 @@
 
 ---
 
-### 14. [Progress warns of critical MOVEit Automation auth bypass flaw](https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/)
+### 16. [Progress warns of critical MOVEit Automation auth bypass flaw](https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 04 May 2026 08:18:57 -0400  
@@ -134,7 +153,7 @@
 
 ---
 
-### 15. [Webinar: Why MSPs must rethink security and backup strategies](https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/)
+### 17. [Webinar: Why MSPs must rethink security and backup strategies](https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 04 May 2026 08:16:24 -0400  
@@ -143,7 +162,7 @@
 
 ---
 
-### 16. [CISA says ‘Copy Fail’ flaw now exploited to root Linux systems](https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/)
+### 18. [CISA says ‘Copy Fail’ flaw now exploited to root Linux systems](https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 04 May 2026 07:28:15 -0400  
@@ -153,7 +172,7 @@
 
 ---
 
-### 17. [Microsoft confirms April Windows updates cause backup failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/)
+### 19. [Microsoft confirms April Windows updates cause backup failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 04 May 2026 06:40:11 -0400  
@@ -163,30 +182,12 @@
 
 ---
 
-### 18. [Instructure confirms data breach, ShinyHunters claims attack](https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/)
+### 20. [Instructure confirms data breach, ShinyHunters claims attack](https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 03 May 2026 18:16:27 -0400  
 **Severity:** Low  
 **Categories:** Data Breach, Supply Chain  
-
----
-
-### 19. [Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha](https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 03 May 2026 14:11:25 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 20. [Telegram Mini Apps abused for crypto scams, Android malware delivery](https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 03 May 2026 10:11:21 -0400  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
 
 ---
 
@@ -213,7 +214,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -268,7 +269,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26110, CVE-2026-24291, CVE-2026-26113, CVE-2026-25187, CVE-2026-26127, CVE-2026-24289, CVE-2026-24294, CVE-2026-21262  
+**CVEs:** CVE-2026-24291, CVE-2026-21262, CVE-2026-25187, CVE-2026-26127, CVE-2026-26110, CVE-2026-24294, CVE-2026-24289, CVE-2026-26113  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -282,7 +283,16 @@
 
 ---
 
-### 31. [Trellix Source Code Repository Breached](https://www.securityweek.com/trellix-source-code-repository-breached/)
+### 31. [Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks](https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/)
+
+**Source:** Security Week  
+**Published:** Mon, 04 May 2026 19:00:26 +0000  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 32. [Trellix Source Code Repository Breached](https://www.securityweek.com/trellix-source-code-repository-breached/)
 
 **Source:** Security Week  
 **Published:** Mon, 04 May 2026 17:23:54 +0000  
@@ -291,7 +301,7 @@
 
 ---
 
-### 32. [Cybersecurity M&A Roundup: 33 Deals Announced in April 2026](https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/)
+### 33. [Cybersecurity M&A Roundup: 33 Deals Announced in April 2026](https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/)
 
 **Source:** Security Week  
 **Published:** Mon, 04 May 2026 13:02:28 +0000  
@@ -300,7 +310,7 @@
 
 ---
 
-### 33. [DigiCert Revokes Certificates After Support Portal Hack](https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/)
+### 34. [DigiCert Revokes Certificates After Support Portal Hack](https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/)
 
 **Source:** Security Week  
 **Published:** Mon, 04 May 2026 12:46:53 +0000  
@@ -309,7 +319,7 @@
 
 ---
 
-### 34. [Exploitation of ‘Copy Fail’ Linux Vulnerability Begins](https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/)
+### 35. [Exploitation of ‘Copy Fail’ Linux Vulnerability Begins](https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/)
 
 **Source:** Security Week  
 **Published:** Mon, 04 May 2026 10:42:33 +0000  
@@ -319,7 +329,7 @@
 
 ---
 
-### 35. [OpenAI Rolls Out Advanced Security for ChatGPT Accounts](https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/)
+### 36. [OpenAI Rolls Out Advanced Security for ChatGPT Accounts](https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/)
 
 **Source:** Security Week  
 **Published:** Mon, 04 May 2026 09:29:30 +0000  
@@ -328,7 +338,7 @@
 
 ---
 
-### 36. [Over 40,000 Servers Compromised in Ongoing cPanel Exploitation](https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/)
+### 37. [Over 40,000 Servers Compromised in Ongoing cPanel Exploitation](https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/)
 
 **Source:** Security Week  
 **Published:** Mon, 04 May 2026 08:25:04 +0000  
@@ -338,7 +348,7 @@
 
 ---
 
-### 37. [Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats](https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/)
+### 38. [Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats](https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/)
 
 **Source:** Security Week  
 **Published:** Mon, 04 May 2026 07:02:51 +0000  
@@ -347,7 +357,7 @@
 
 ---
 
-### 38. [US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems](https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/)
+### 39. [US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems](https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/)
 
 **Source:** Security Week  
 **Published:** Sun, 03 May 2026 16:21:36 +0000  
@@ -356,22 +366,12 @@
 
 ---
 
-### 39. [New Bluekit Phishing Kit Features AI Assistant](https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/)
+### 40. [New Bluekit Phishing Kit Features AI Assistant](https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/)
 
 **Source:** Security Week  
 **Published:** Sat, 02 May 2026 10:50:00 +0000  
 **Severity:** Low  
 **Categories:** Phishing, APT  
-
----
-
-### 40. [In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability](https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/)
-
-**Source:** Security Week  
-**Published:** Fri, 01 May 2026 15:01:27 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-26268, CVE-2026-4047, CVE-2026-3965  
-**Categories:** Ransomware, Data Breach, Vulnerability, Malware, APT  
 
 ---
 
@@ -416,7 +416,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20362, CVE-2025-20333  
+**CVEs:** CVE-2025-20333, CVE-2025-20362  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -467,7 +467,16 @@
 
 ---
 
-### 51. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+### 51. [Working in London at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-for-recorded-future-london)
+
+**Source:** Recorded Future  
+**Published:** Mon, 04 May 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
 
 **Source:** Recorded Future  
 **Published:** Fri, 01 May 2026 00:00:00 GMT  
@@ -476,7 +485,7 @@
 
 ---
 
-### 52. [Risk Scenarios for the US’s Strategic Pivot](https://www.recordedfuture.com/research/us-strategic-pivot)
+### 53. [Risk Scenarios for the US’s Strategic Pivot](https://www.recordedfuture.com/research/us-strategic-pivot)
 
 **Source:** Recorded Future  
 **Published:** Thu, 30 Apr 2026 00:00:00 GMT  
@@ -485,7 +494,7 @@
 
 ---
 
-### 53. [Building with AI: Here's What No Briefing Will Tell You](https://www.recordedfuture.com/blog/building-with-ai)
+### 54. [Building with AI: Here's What No Briefing Will Tell You](https://www.recordedfuture.com/blog/building-with-ai)
 
 **Source:** Recorded Future  
 **Published:** Thu, 30 Apr 2026 00:00:00 GMT  
@@ -494,7 +503,7 @@
 
 ---
 
-### 54. [The Money Mule Solution: What Every Scam Has in Common](https://www.recordedfuture.com/blog/money-mule-solution)
+### 55. [The Money Mule Solution: What Every Scam Has in Common](https://www.recordedfuture.com/blog/money-mule-solution)
 
 **Source:** Recorded Future  
 **Published:** Tue, 28 Apr 2026 00:00:00 GMT  
@@ -503,7 +512,7 @@
 
 ---
 
-### 55. [Lazarus Doesn't Need AGI](https://www.recordedfuture.com/blog/lazarus-does-not-need-agi)
+### 56. [Lazarus Doesn't Need AGI](https://www.recordedfuture.com/blog/lazarus-does-not-need-agi)
 
 **Source:** Recorded Future  
 **Published:** Tue, 28 Apr 2026 00:00:00 GMT  
@@ -512,7 +521,7 @@
 
 ---
 
-### 56. [From Overwhelmed to Autonomous: Rethinking Threat Intelligence in 2026](https://www.recordedfuture.com/blog/rethinking-threat-intelligence-in-2026)
+### 57. [From Overwhelmed to Autonomous: Rethinking Threat Intelligence in 2026](https://www.recordedfuture.com/blog/rethinking-threat-intelligence-in-2026)
 
 **Source:** Recorded Future  
 **Published:** Fri, 24 Apr 2026 00:00:00 GMT  
@@ -521,7 +530,7 @@
 
 ---
 
-### 57. [Critical minerals and cyber operations](https://www.recordedfuture.com/research/critical-minerals-and-cyber-operations)
+### 58. [Critical minerals and cyber operations](https://www.recordedfuture.com/research/critical-minerals-and-cyber-operations)
 
 **Source:** Recorded Future  
 **Published:** Thu, 23 Apr 2026 00:00:00 GMT  
@@ -530,7 +539,7 @@
 
 ---
 
-### 58. [Today, trust is the superpower that makes innovation possible](https://www.recordedfuture.com/blog/trust-is-a-superpower)
+### 59. [Today, trust is the superpower that makes innovation possible](https://www.recordedfuture.com/blog/trust-is-a-superpower)
 
 **Source:** Recorded Future  
 **Published:** Thu, 23 Apr 2026 00:00:00 GMT  
@@ -539,21 +548,12 @@
 
 ---
 
-### 59. [Evolution of Chinese-Language Guarantee Telegram Marketplaces](https://www.recordedfuture.com/research/evolution-of-the-chinese-language)
+### 60. [Evolution of Chinese-Language Guarantee Telegram Marketplaces](https://www.recordedfuture.com/research/evolution-of-the-chinese-language)
 
 **Source:** Recorded Future  
 **Published:** Wed, 22 Apr 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 60. [AI Hype vs. Reality: Is AI Really Rewriting the Vulnerability Equation?](https://www.recordedfuture.com/blog/ai-hype-vs-reality)
-
-**Source:** Recorded Future  
-**Published:** Wed, 22 Apr 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -637,7 +637,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

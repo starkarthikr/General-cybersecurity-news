@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
+    "link": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
+    "published": "Mon, 04 May 2026 23:36:00 +0530",
+    "summary": "An active phishing campaign has been observed targeting multiple vectors since at least April 2025, with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to compromised hosts.\nThe activity, codenamed VENOMOUS#HELPER, has impacted over 80 organizations, most of which are in the U.S., according to Securonix. It shares overlaps with clusters",
+    "analysis": {
+      "issue": "VENOMOUS#HELPER phishing campaign active since April 2025 has impacted 80+ organizations, mainly in the U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
     "link": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
     "published": "Mon, 04 May 2026 22:04:00 +0530",
@@ -174,20 +192,41 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
-    "link": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
-    "published": "Fri, 01 May 2026 19:56:00 +0530",
-    "summary": "Cybersecurity researchers are warning of two cybercrime groups that are carrying out \"rapid, high-impact attacks\" operating almost within the confines of SaaS environments, while leaving minimal traces of their actions.\nThe clusters, Cordial Spider (aka BlackFile, CL-CRI-1116, O-UNC-045, and UNC6671) and Snarky Spider (aka O-UNC-025 and UNC6661), have been attributed to high-speed data theft and",
+    "source": "Bleeping Computer",
+    "title": "Weaver E-cology critical bug exploited in attacks since March",
+    "link": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
+    "published": "Mon, 04 May 2026 18:12:57 -0400",
+    "summary": "Hackers have been exploiting a critical vulnerability (CVE-2026-22679) in the Weaver E-cology office automation since mid-March to run discovery commands. [...]",
     "analysis": {
-      "issue": "Two groups exploit SaaS via vishing since Oct 2025, stealing credentials to access multiple apps, enabling rapid data theft and extortion",
+      "issue": "Hackers have been exploiting a critical vulnerability (CVE-2026-22679) in the Weaver E-cology office automation since mid-March to run discovery commands",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-22679"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Amazon SES increasingly abused in phishing to evade detection",
+    "link": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
+    "published": "Mon, 04 May 2026 16:03:28 -0400",
+    "summary": "The Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective. [...]",
+    "analysis": {
+      "issue": "The Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Data Breach",
+        "Phishing"
       ]
     }
   },
@@ -349,43 +388,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
-    "published": "Sun, 03 May 2026 14:11:25 -0400",
-    "summary": "Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, and in some cases, removing certificates from Windows. [...]",
-    "analysis": {
-      "issue": "Update: Added Microsoft's statement to the end of the first section of this article",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
-    "link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
-    "published": "Sun, 03 May 2026 10:11:21 -0400",
-    "summary": "Cybersecurity researchers have uncovered a large-scale fraud operation that uses Telegram's Mini App feature to run crypto scams, impersonate well-known brands, and distribute Android malware. [...]",
-    "analysis": {
-      "issue": "Cybersecurity researchers have uncovered a large-scale fraud operation that uses Telegram’s Mini App feature to run crypto scams, impersonate well-known brands, and distribute Android malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
     "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
@@ -436,9 +438,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
+        "CVE-2026-32201",
         "CVE-2026-33825",
-        "CVE-2026-32201"
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -555,14 +557,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26110",
         "CVE-2026-24291",
-        "CVE-2026-26113",
+        "CVE-2026-21262",
         "CVE-2026-25187",
         "CVE-2026-26127",
-        "CVE-2026-24289",
+        "CVE-2026-26110",
         "CVE-2026-24294",
-        "CVE-2026-21262"
+        "CVE-2026-24289",
+        "CVE-2026-26113"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -585,6 +587,24 @@
       "cves": [],
       "threat_categories": [
         "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks",
+    "link": "https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/",
+    "published": "Mon, 04 May 2026 19:00:26 +0000",
+    "summary": "<p>The acquisition strengthens Cisco’s push into identity-centric security for AI and machine access.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/\">Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The acquisition strengthens Cisco’s push into identity-centric security for AI and machine access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -766,32 +786,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability",
-    "link": "https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/",
-    "published": "Fri, 01 May 2026 15:01:27 +0000",
-    "summary": "<p>Other noteworthy stories that might have slipped under the radar: OFAC hits Iranian central bank crypto reserves, ADT data leak, CISA guidance for zero trust in OT.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/\">In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Other noteworthy stories that might have slipped under the radar: OFAC hits Iranian central bank crypto reserves, ADT data leak, CISA guidance for zero trust in OT",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-26268",
-        "CVE-2026-4047",
-        "CVE-2026-3965"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Great responsibility, without great power",
     "link": "https://blog.talosintelligence.com/great-responsibility-without-great-power/",
@@ -879,8 +873,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20362",
-        "CVE-2025-20333"
+        "CVE-2025-20333",
+        "CVE-2025-20362"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -985,6 +979,24 @@
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Working in London at the World’s Largest Intelligence Company",
+    "link": "https://www.recordedfuture.com/blog/working-for-recorded-future-london",
+    "published": "Mon, 04 May 2026 00:00:00 GMT",
+    "summary": "See what it is like to work at the Recorded Future London office.",
+    "analysis": {
+      "issue": "See what it is like to work at the Recorded Future London office",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1148,24 +1160,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "AI Hype vs. Reality: Is AI Really Rewriting the Vulnerability Equation?",
-    "link": "https://www.recordedfuture.com/blog/ai-hype-vs-reality",
-    "published": "Wed, 22 Apr 2026 00:00:00 GMT",
-    "summary": "AI vulnerability research and discovery capabilities are improving, but they have not changed the fundamentals of vulnerability management.",
-    "analysis": {
-      "issue": "AI vulnerability research and discovery capabilities are improving, but they have not changed the fundamentals of vulnerability management",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1336,8 +1330,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
