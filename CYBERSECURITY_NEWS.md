@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-05 17:59:20 UTC
+**Last Updated:** 2026-05-06 03:42:34 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -97,7 +97,34 @@
 
 ---
 
-### 11. [Student hacked Taiwan high-speed rail to trigger emergency brakes](https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/)
+### 11. [New stealthy Quasar Linux malware targets software developers](https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 05 May 2026 18:01:39 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 12. [Instructure hacker claims data theft from 8,800 schools, universities](https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 05 May 2026 17:20:23 -0400  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 13. [DAEMON Tools trojanized in supply-chain attack to deploy backdoor](https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 05 May 2026 15:21:18 -0400  
+**Severity:** High  
+**Categories:** Malware  
+
+---
+
+### 14. [Student hacked Taiwan high-speed rail to trigger emergency brakes](https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 13:34:09 -0400  
@@ -106,7 +133,7 @@
 
 ---
 
-### 12. [FTC to ban data broker Kochava from selling Americans’ location data](https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/)
+### 15. [FTC to ban data broker Kochava from selling Americans’ location data](https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 10:39:53 -0400  
@@ -115,7 +142,7 @@
 
 ---
 
-### 13. [The EOL Blind Spot in Your CVE Feed: What SCA Tools Don't Check.](https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/)
+### 16. [The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss](https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 10:00:10 -0400  
@@ -124,7 +151,7 @@
 
 ---
 
-### 14. [Vimeo data breach exposes personal information of 119,000 people](https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/)
+### 17. [Vimeo data breach exposes personal information of 119,000 people](https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 09:03:46 -0400  
@@ -133,7 +160,7 @@
 
 ---
 
-### 15. [Google now offers up to $1.5 million for some Android exploits](https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/)
+### 18. [Google now offers up to $1.5 million for some Android exploits](https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 07:24:48 -0400  
@@ -142,7 +169,7 @@
 
 ---
 
-### 16. [Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison](https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/)
+### 19. [Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison](https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 06:13:17 -0400  
@@ -151,40 +178,12 @@
 
 ---
 
-### 17. [CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs](https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/)
+### 20. [CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs](https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 06:03:52 -0400  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 18. [ScarCruft hackers push BirdCall Android malware via game platform](https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 05 May 2026 05:04:13 -0400  
-**Severity:** Low  
-**Categories:** Malware, APT  
-
----
-
-### 19. [Weaver E-cology critical bug exploited in attacks since March](https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 04 May 2026 18:12:57 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-22679  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Amazon SES increasingly abused in phishing to evade detection](https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 04 May 2026 16:03:28 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Phishing  
 
 ---
 
@@ -211,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
+**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -266,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26110, CVE-2026-24289, CVE-2026-26113, CVE-2026-26127, CVE-2026-25187, CVE-2026-24291, CVE-2026-21262, CVE-2026-24294  
+**CVEs:** CVE-2026-26127, CVE-2026-26113, CVE-2026-26110, CVE-2026-24294, CVE-2026-25187, CVE-2026-21262, CVE-2026-24289, CVE-2026-24291  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -313,7 +312,7 @@
 **Source:** Security Week  
 **Published:** Tue, 05 May 2026 11:58:44 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2024-43093, CVE-2025-48543, CVE-2024-50302, CVE-2025-38352, CVE-2026-0073  
+**CVEs:** CVE-2026-0073, CVE-2024-43093, CVE-2025-48543, CVE-2025-38352, CVE-2024-50302  
 **Categories:** Vulnerability  
 
 ---
@@ -323,7 +322,7 @@
 **Source:** Security Week  
 **Published:** Tue, 05 May 2026 11:19:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-28780, CVE-2026-41409, CVE-2026-33007, CVE-2026-24072, CVE-2026-41635, CVE-2026-42778, CVE-2026-34059, CVE-2026-33523, CVE-2026-29168, CVE-2026-33857, CVE-2026-33006, CVE-2024-52046, CVE-2026-42779, CVE-2026-29169, CVE-2026-34032, CVE-2026-23918  
+**CVEs:** CVE-2026-33006, CVE-2026-42778, CVE-2026-34032, CVE-2026-41409, CVE-2026-33857, CVE-2026-33523, CVE-2026-29169, CVE-2026-24072, CVE-2026-23918, CVE-2026-41635, CVE-2026-29168, CVE-2026-33007, CVE-2026-34059, CVE-2026-42779, CVE-2024-52046, CVE-2026-28780  
 **Categories:** Vulnerability  
 
 ---
@@ -342,7 +341,7 @@
 **Source:** Security Week  
 **Published:** Tue, 05 May 2026 09:27:14 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-29014, CVE-2026-22679  
+**CVEs:** CVE-2026-22679, CVE-2026-29014  
 **Categories:** Vulnerability  
 
 ---
@@ -352,7 +351,7 @@
 **Source:** Security Week  
 **Published:** Tue, 05 May 2026 09:01:14 +0000  
 **Severity:** Medium  
-**CVEs:** CVE-2026-23863, CVE-2026-23866  
+**CVEs:** CVE-2026-23866, CVE-2026-23863  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -434,7 +433,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20333, CVE-2025-20362  
+**CVEs:** CVE-2025-20362, CVE-2025-20333  
 **Categories:** Vulnerability, Malware  
 
 ---
