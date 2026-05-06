@@ -1,6 +1,62 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
+    "link": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html",
+    "published": "Wed, 06 May 2026 14:43:00 +0530",
+    "summary": "Google has announced expanded Binary Transparency for Android as a way to safeguard the ecosystem from supply chain attacks.\n\"This new public ledger ensures the Google apps on your device are exactly what we intended to build and distribute,\" Google's product and security teams said.\nThe initiative builds upon the foundation of Pixel Binary Transparency, which Google introduced in October 2021",
+    "analysis": {
+      "issue": "Google expands Android Binary Transparency after May 1, 2026 to verify app authenticity, reducing supply chain attack risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs",
+    "link": "https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html",
+    "published": "Wed, 06 May 2026 14:04:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of an intrusion that involved the use of a CloudZ remote access tool (RAT) and a previous undocumented plugin dubbed Pheno with the aim of facilitating credential theft.\n\"According to the functionalities of the CloudZ RAT and Pheno plugin, this was with the intention of stealing victims' credentials and potentially one-time passwords (OTPs),\"",
+    "analysis": {
+      "issue": "CloudZ RAT exploits Phone Link since Jan 2026, stealing credentials and OTPs via Pheno plugin, bypassing 2FA protections",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
+    "link": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
+    "published": "Wed, 06 May 2026 11:44:00 +0530",
+    "summary": "Palo Alto Networks has released an advisory warning that a critical buffer overflow vulnerability in its PAN-OS software has been exploited in the wild.\nThe vulnerability, tracked as CVE-2026-0300, has been described as a case of unauthenticated remote code execution. It carries a CVSS score of 9.3 if the User-ID Authentication Portal is configured to enable access from the internet or any",
+    "analysis": {
+      "issue": "CVE-2026-0300 exploited via public PAN-OS portal before May 13, 2026 patch, enabling root RCE on firewalls",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-0300"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
     "link": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
     "published": "Tue, 05 May 2026 21:49:00 +0530",
@@ -132,58 +188,23 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
-    "link": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
-    "published": "Tue, 05 May 2026 13:07:00 +0530",
-    "summary": "A critical security vulnerability in Weaver (Fanwei) E-cology, an enterprise office automation (OA) and collaboration platform, has come under active exploitation in the wild.\nThe vulnerability (CVE-2026-22679, CVSS score: 9.8) relates to a case of unauthenticated remote code execution affecting Weaver E-cology 10.0 versions prior to 20260312. The issue resides in the \"/papi/esearch/data/devops/",
+    "source": "Bleeping Computer",
+    "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/",
+    "published": "Wed, 06 May 2026 05:18:16 -0400",
+    "summary": "Palo Alto Networks warned customers today that a critical-severity unpatched vulnerability in the PAN-OS User-ID Authentication Portal is being exploited in attacks. [...]",
     "analysis": {
-      "issue": "CVE-2026-22679 exploited via debug endpoint in Weaver E-cology before 20260312, enabling RCE and system compromise",
+      "issue": "Palo Alto Networks warned customers today that a critical-severity unpatched vulnerability in the PAN-OS User-ID Authentication Portal is being exploited in attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-22679"
+        "CVE-2026-0300"
       ],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
-    "link": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
-    "published": "Tue, 05 May 2026 12:05:00 +0530",
-    "summary": "Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-controlled domains and steal authentication tokens.\nThe multi-stage campaign, observed between April 14 and 16, 2026, targeted more than 35,000 users across over 13,000 organizations in 26 countries,",
-    "analysis": {
-      "issue": "Microsoft disclosed a credential theft campaign targeting 35,000+ users at 13,000+ organizations across 26 countries",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
-    "link": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
-    "published": "Mon, 04 May 2026 23:36:00 +0530",
-    "summary": "An active phishing campaign has been observed targeting multiple vectors since at least April 2025 with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to compromised hosts.\nThe activity, codenamed VENOMOUS#HELPER, has impacted over 80 organizations, most of which are in the U.S., according to Securonix. It shares overlaps with clusters",
-    "analysis": {
-      "issue": "VENOMOUS#HELPER phishing campaign active since April 2025 has impacted 80+ organizations, mainly in the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
+        "Vulnerability",
+        "APT"
       ]
     }
   },
@@ -352,24 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
-    "link": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
-    "published": "Tue, 05 May 2026 06:03:52 -0400",
-    "summary": "A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone Link connection to steal sensitive codes from mobile devices. [...]",
-    "analysis": {
-      "issue": "A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone Link connection to steal sensitive codes from mobile devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
     "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
@@ -420,9 +423,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
+        "CVE-2026-33825",
         "CVE-2026-32201",
-        "CVE-2026-33825"
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -539,14 +542,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24289",
-        "CVE-2026-21262",
-        "CVE-2026-24294",
         "CVE-2026-24291",
-        "CVE-2026-26127",
+        "CVE-2026-21262",
         "CVE-2026-25187",
         "CVE-2026-26113",
-        "CVE-2026-26110"
+        "CVE-2026-26110",
+        "CVE-2026-24289",
+        "CVE-2026-24294",
+        "CVE-2026-26127"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -568,6 +571,106 @@
       "severity": "Low",
       "cves": [],
       "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "CISA: Critical Infrastructure Must Master Isolation, Recovery",
+    "link": "https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/",
+    "published": "Wed, 06 May 2026 10:15:34 +0000",
+    "summary": "<p>The agency has issued guidance to help critical infrastructure operators prepare for cyberattacks by foreign threat actors.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/\">CISA: Critical Infrastructure Must Master Isolation, Recovery</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The agency has issued guidance to help critical infrastructure operators prepare for cyberattacks by foreign threat actors",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Sophisticated Quasar Linux RAT Targets Software Developers",
+    "link": "https://www.securityweek.com/sophisticated-quasar-linux-rat-targets-software-developers/",
+    "published": "Wed, 06 May 2026 09:48:39 +0000",
+    "summary": "<p>The persistent, evasive implant provides remote access, surveillance, and credential exfiltration capabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/sophisticated-quasar-linux-rat-targets-software-developers/\">Sophisticated Quasar Linux RAT Targets Software Developers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The persistent, evasive implant provides remote access, surveillance, and credential exfiltration capabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Government, Scientific Entities Hit via Daemon Tools Supply Chain Attack",
+    "link": "https://www.securityweek.com/government-scientific-entities-hit-via-daemon-tools-supply-chain-attack/",
+    "published": "Wed, 06 May 2026 08:33:40 +0000",
+    "summary": "<p>While trojanized Daemon Tools versions were installed worldwide, a sophisticated backdoor was dropped only on a dozen systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/government-scientific-entities-hit-via-daemon-tools-supply-chain-attack/\">Government, Scientific Entities Hit via Daemon Tools Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "While trojanized Daemon Tools versions were installed worldwide, a sophisticated backdoor was dropped only on a dozen systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Oracle Debuts Monthly Critical Security Patch Updates",
+    "link": "https://www.securityweek.com/oracle-debuts-monthly-critical-security-patch-updates/",
+    "published": "Wed, 06 May 2026 06:32:17 +0000",
+    "summary": "<p>Containing fixes for critical-severity vulnerabilities, the monthly rollouts will focus on addressing priority issues faster.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-debuts-monthly-critical-security-patch-updates/\">Oracle Debuts Monthly Critical Security Patch Updates</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Containing fixes for critical-severity vulnerabilities, the monthly rollouts will focus on addressing priority issues faster",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls",
+    "link": "https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/",
+    "published": "Wed, 06 May 2026 04:46:23 +0000",
+    "summary": "<p>CVE-2026-0300 affects the Captive Portal service of PAN-OS software on PA and VM series firewalls.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/\">Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CVE-2026-0300 affects the Captive Portal service of PAN-OS software on PA and VM series firewalls",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-0300"
+      ],
+      "threat_categories": [
+        "Vulnerability",
         "APT"
       ]
     }
@@ -643,11 +746,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-0073",
-        "CVE-2025-48543",
-        "CVE-2024-43093",
         "CVE-2024-50302",
-        "CVE-2025-38352"
+        "CVE-2025-38352",
+        "CVE-2025-48543",
+        "CVE-2026-0073",
+        "CVE-2024-43093"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -667,22 +770,22 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-24072",
-        "CVE-2026-34032",
-        "CVE-2026-42778",
-        "CVE-2024-52046",
-        "CVE-2026-42779",
-        "CVE-2026-29169",
-        "CVE-2026-33006",
         "CVE-2026-41409",
-        "CVE-2026-33007",
-        "CVE-2026-23918",
         "CVE-2026-41635",
-        "CVE-2026-29168",
+        "CVE-2026-42779",
+        "CVE-2026-42778",
+        "CVE-2026-33523",
         "CVE-2026-33857",
+        "CVE-2026-33006",
+        "CVE-2024-52046",
+        "CVE-2026-23918",
         "CVE-2026-34059",
+        "CVE-2026-34032",
+        "CVE-2026-33007",
+        "CVE-2026-29169",
         "CVE-2026-28780",
-        "CVE-2026-33523"
+        "CVE-2026-29168",
+        "CVE-2026-24072"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -690,103 +793,20 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Karakurt Ransomware Negotiator Sentenced to Prison",
-    "link": "https://www.securityweek.com/karakurt-ransomware-negotiator-sentenced-to-prison/",
-    "published": "Tue, 05 May 2026 10:55:00 +0000",
-    "summary": "<p>Deniss Zolotarjovs was directly involved in extortion strategies and in negotiations with victim companies.</p>\n<p>The post <a href=\"https://www.securityweek.com/karakurt-ransomware-negotiator-sentenced-to-prison/\">Karakurt Ransomware Negotiator Sentenced to Prison</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Insights into the clustering and reuse of phone numbers in scam emails",
+    "link": "https://blog.talosintelligence.com/insights-into-the-clustering-and-reuse-of-phone-numbers-in-scam-emails/",
+    "published": "Wed, 06 May 2026 10:00:12 GMT",
+    "summary": "Talos has recently started to collect and gather intelligence around phone numbers within emails as an additional indicator of compromise (IOC). In this blog, we discuss new insights into in-the-wild phone number reuse in scam emails.",
     "analysis": {
-      "issue": "Deniss Zolotarjovs was directly involved in extortion strategies and in negotiations with victim companies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "MetInfo, Weaver E-cology Vulnerabilities in Attackers’ Crosshairs",
-    "link": "https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/",
-    "published": "Tue, 05 May 2026 09:27:14 +0000",
-    "summary": "<p>The security defects allow unauthenticated, remote attackers to execute arbitrary code through crafted requests.</p>\n<p>The post <a href=\"https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/\">MetInfo, Weaver E-cology Vulnerabilities in Attackers&#8217; Crosshairs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The security defects allow unauthenticated, remote attackers to execute arbitrary code through crafted requests",
+      "issue": "Telephone-oriented attack delivery (TOAD) continues to be a prevalent tactic in modern email threats",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [
-        "CVE-2026-29014",
-        "CVE-2026-22679"
-      ],
+      "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities",
-    "link": "https://www.securityweek.com/whatsapp-discloses-file-spoofing-arbitrary-url-scheme-vulnerabilities/",
-    "published": "Tue, 05 May 2026 09:01:14 +0000",
-    "summary": "<p>The vulnerabilities were reported to Meta through its bug bounty program and were patched with updates released earlier this year.</p>\n<p>The post <a href=\"https://www.securityweek.com/whatsapp-discloses-file-spoofing-arbitrary-url-scheme-vulnerabilities/\">WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The vulnerabilities were reported to Meta through its bug bounty program and were patched with updates released earlier this year",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Medium",
-      "cves": [
-        "CVE-2026-23866",
-        "CVE-2026-23863"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks",
-    "link": "https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/",
-    "published": "Mon, 04 May 2026 19:00:26 +0000",
-    "summary": "<p>The acquisition strengthens Cisco’s push into identity-centric security for AI and machine access.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/\">Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The acquisition strengthens Cisco’s push into identity-centric security for AI and machine access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Trellix Source Code Repository Breached",
-    "link": "https://www.securityweek.com/trellix-source-code-repository-breached/",
-    "published": "Mon, 04 May 2026 17:23:54 +0000",
-    "summary": "<p>The cybersecurity firm’s investigation has not found any impact on its source code release or distribution process. </p>\n<p>The post <a href=\"https://www.securityweek.com/trellix-source-code-repository-breached/\">Trellix Source Code Repository Breached</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The cybersecurity firm’s investigation has not found any impact on its source code release or distribution process",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
       ]
     }
   },
@@ -916,8 +936,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20362",
-        "CVE-2025-20333"
+        "CVE-2025-20333",
+        "CVE-2025-20362"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -960,25 +980,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Phishing and MFA exploitation: Targeting the keys to the kingdom",
-    "link": "https://blog.talosintelligence.com/phishing-and-mfa-exploitation-targeting-the-keys-to-the-kingdom/",
-    "published": "Tue, 21 Apr 2026 12:00:08 GMT",
-    "summary": "In 2025, attackers increasingly targeted weaknesses in multi-factor authentication (MFA) workflows, and phishing attacks leveraged valid, compromised credentials to launch lures from trusted accounts. The trends focused entirely on trust, or the lack thereof, in everyday business operations.",
-    "analysis": {
-      "issue": "In 2025, attackers increasingly targeted weaknesses in multi-factor authentication (MFA) workflows, and phishing attacks leveraged valid, compromised credentials to launch lures from trusted accounts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
       "cves": [],
       "threat_categories": [
         "Vulnerability",
@@ -1334,8 +1335,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

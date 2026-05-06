@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-06 04:13:07 UTC
+**Last Updated:** 2026-05-06 10:33:37 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE](https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html)
+### 1. [Google's Android Apps Get Public Verification to Stop Supply Chain Attacks](https://thehackernews.com/2026/05/android-apps-get-public-verification.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 06 May 2026 14:43:00 +0530  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 2. [Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs](https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 06 May 2026 14:04:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution](https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 06 May 2026 11:44:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-0300  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE](https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 05 May 2026 21:49:00 +0530  
@@ -14,7 +42,7 @@
 
 ---
 
-### 2. [DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware](https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html)
+### 5. [DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware](https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 05 May 2026 21:37:00 +0530  
@@ -23,7 +51,7 @@
 
 ---
 
-### 3. [China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions](https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html)
+### 6. [China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions](https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 05 May 2026 19:49:00 +0530  
@@ -32,7 +60,7 @@
 
 ---
 
-### 4. [The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed](https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html)
+### 7. [The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed](https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 05 May 2026 17:28:00 +0530  
@@ -41,7 +69,7 @@
 
 ---
 
-### 5. [MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks](https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html)
+### 8. [MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks](https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 05 May 2026 17:26:00 +0530  
@@ -51,7 +79,7 @@
 
 ---
 
-### 6. [We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is](https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html)
+### 9. [We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is](https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 05 May 2026 16:00:00 +0530  
@@ -60,7 +88,7 @@
 
 ---
 
-### 7. [ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows](https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html)
+### 10. [ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows](https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 05 May 2026 14:37:00 +0530  
@@ -69,35 +97,17 @@
 
 ---
 
-### 8. [Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API](https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html)
+### 11. [Palo Alto Networks warns of firewall RCE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 05 May 2026 13:07:00 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-22679  
-**Categories:** Vulnerability  
-
----
-
-### 9. [Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries](https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 05 May 2026 12:05:00 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
+**Source:** Bleeping Computer  
+**Published:** Wed, 06 May 2026 05:18:16 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-0300  
+**Categories:** Vulnerability, APT  
 
 ---
 
-### 10. [Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools](https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 04 May 2026 23:36:00 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 11. [New stealthy Quasar Linux malware targets software developers](https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/)
+### 12. [New stealthy Quasar Linux malware targets software developers](https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 18:01:39 -0400  
@@ -106,7 +116,7 @@
 
 ---
 
-### 12. [Instructure hacker claims data theft from 8,800 schools, universities](https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/)
+### 13. [Instructure hacker claims data theft from 8,800 schools, universities](https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 17:20:23 -0400  
@@ -115,7 +125,7 @@
 
 ---
 
-### 13. [DAEMON Tools trojanized in supply-chain attack to deploy backdoor](https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/)
+### 14. [DAEMON Tools trojanized in supply-chain attack to deploy backdoor](https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 15:21:18 -0400  
@@ -124,7 +134,7 @@
 
 ---
 
-### 14. [Student hacked Taiwan high-speed rail to trigger emergency brakes](https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/)
+### 15. [Student hacked Taiwan high-speed rail to trigger emergency brakes](https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 13:34:09 -0400  
@@ -133,7 +143,7 @@
 
 ---
 
-### 15. [FTC to ban data broker Kochava from selling Americans’ location data](https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/)
+### 16. [FTC to ban data broker Kochava from selling Americans’ location data](https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 10:39:53 -0400  
@@ -142,7 +152,7 @@
 
 ---
 
-### 16. [The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss](https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/)
+### 17. [The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss](https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 10:00:10 -0400  
@@ -151,7 +161,7 @@
 
 ---
 
-### 17. [Vimeo data breach exposes personal information of 119,000 people](https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/)
+### 18. [Vimeo data breach exposes personal information of 119,000 people](https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 09:03:46 -0400  
@@ -160,7 +170,7 @@
 
 ---
 
-### 18. [Google now offers up to $1.5 million for some Android exploits](https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/)
+### 19. [Google now offers up to $1.5 million for some Android exploits](https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 07:24:48 -0400  
@@ -169,21 +179,12 @@
 
 ---
 
-### 19. [Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison](https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/)
+### 20. [Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison](https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 06:13:17 -0400  
 **Severity:** Low  
 **Categories:** Ransomware  
-
----
-
-### 20. [CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs](https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 05 May 2026 06:03:52 -0400  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -210,7 +211,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -265,7 +266,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24289, CVE-2026-21262, CVE-2026-24294, CVE-2026-24291, CVE-2026-26127, CVE-2026-25187, CVE-2026-26113, CVE-2026-26110  
+**CVEs:** CVE-2026-24291, CVE-2026-21262, CVE-2026-25187, CVE-2026-26113, CVE-2026-26110, CVE-2026-24289, CVE-2026-24294, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,7 +280,53 @@
 
 ---
 
-### 31. [Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations](https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/)
+### 31. [CISA: Critical Infrastructure Must Master Isolation, Recovery](https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/)
+
+**Source:** Security Week  
+**Published:** Wed, 06 May 2026 10:15:34 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, APT, Supply Chain  
+
+---
+
+### 32. [Sophisticated Quasar Linux RAT Targets Software Developers](https://www.securityweek.com/sophisticated-quasar-linux-rat-targets-software-developers/)
+
+**Source:** Security Week  
+**Published:** Wed, 06 May 2026 09:48:39 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware, Phishing, APT, Supply Chain  
+
+---
+
+### 33. [Government, Scientific Entities Hit via Daemon Tools Supply Chain Attack](https://www.securityweek.com/government-scientific-entities-hit-via-daemon-tools-supply-chain-attack/)
+
+**Source:** Security Week  
+**Published:** Wed, 06 May 2026 08:33:40 +0000  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 34. [Oracle Debuts Monthly Critical Security Patch Updates](https://www.securityweek.com/oracle-debuts-monthly-critical-security-patch-updates/)
+
+**Source:** Security Week  
+**Published:** Wed, 06 May 2026 06:32:17 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 35. [Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls](https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/)
+
+**Source:** Security Week  
+**Published:** Wed, 06 May 2026 04:46:23 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-0300  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 36. [Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations](https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/)
 
 **Source:** Security Week  
 **Published:** Tue, 05 May 2026 14:45:04 +0000  
@@ -288,7 +335,7 @@
 
 ---
 
-### 32. [Hacker Conversations: Joey Melo on Hacking AI](https://www.securityweek.com/hacker-conversations-joey-melo-on-hacking-ai/)
+### 37. [Hacker Conversations: Joey Melo on Hacking AI](https://www.securityweek.com/hacker-conversations-joey-melo-on-hacking-ai/)
 
 **Source:** Security Week  
 **Published:** Tue, 05 May 2026 13:30:00 +0000  
@@ -297,7 +344,7 @@
 
 ---
 
-### 33. [Critical Bug Could Expose 300,000 Ollama Deployments to Information Theft](https://www.securityweek.com/critical-bug-could-expose-300000-ollama-deployments-to-information-theft/)
+### 38. [Critical Bug Could Expose 300,000 Ollama Deployments to Information Theft](https://www.securityweek.com/critical-bug-could-expose-300000-ollama-deployments-to-information-theft/)
 
 **Source:** Security Week  
 **Published:** Tue, 05 May 2026 12:39:36 +0000  
@@ -307,74 +354,36 @@
 
 ---
 
-### 34. [Critical Remote Code Execution Vulnerability Patched in Android](https://www.securityweek.com/critical-remote-code-execution-vulnerability-patched-in-android-2/)
+### 39. [Critical Remote Code Execution Vulnerability Patched in Android](https://www.securityweek.com/critical-remote-code-execution-vulnerability-patched-in-android-2/)
 
 **Source:** Security Week  
 **Published:** Tue, 05 May 2026 11:58:44 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-0073, CVE-2025-48543, CVE-2024-43093, CVE-2024-50302, CVE-2025-38352  
+**CVEs:** CVE-2024-50302, CVE-2025-38352, CVE-2025-48543, CVE-2026-0073, CVE-2024-43093  
 **Categories:** Vulnerability  
 
 ---
 
-### 35. [Critical, High-Severity Vulnerabilities Patched in Apache MINA, HTTP Server](https://www.securityweek.com/critical-high-severity-vulnerabilities-patched-in-apache-mina-http-server/)
+### 40. [Critical, High-Severity Vulnerabilities Patched in Apache MINA, HTTP Server](https://www.securityweek.com/critical-high-severity-vulnerabilities-patched-in-apache-mina-http-server/)
 
 **Source:** Security Week  
 **Published:** Tue, 05 May 2026 11:19:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24072, CVE-2026-34032, CVE-2026-42778, CVE-2024-52046, CVE-2026-42779, CVE-2026-29169, CVE-2026-33006, CVE-2026-41409, CVE-2026-33007, CVE-2026-23918, CVE-2026-41635, CVE-2026-29168, CVE-2026-33857, CVE-2026-34059, CVE-2026-28780, CVE-2026-33523  
+**CVEs:** CVE-2026-41409, CVE-2026-41635, CVE-2026-42779, CVE-2026-42778, CVE-2026-33523, CVE-2026-33857, CVE-2026-33006, CVE-2024-52046, CVE-2026-23918, CVE-2026-34059, CVE-2026-34032, CVE-2026-33007, CVE-2026-29169, CVE-2026-28780, CVE-2026-29168, CVE-2026-24072  
 **Categories:** Vulnerability  
 
 ---
 
-### 36. [Karakurt Ransomware Negotiator Sentenced to Prison](https://www.securityweek.com/karakurt-ransomware-negotiator-sentenced-to-prison/)
+### 41. [Insights into the clustering and reuse of phone numbers in scam emails](https://blog.talosintelligence.com/insights-into-the-clustering-and-reuse-of-phone-numbers-in-scam-emails/)
 
-**Source:** Security Week  
-**Published:** Tue, 05 May 2026 10:55:00 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability  
-
----
-
-### 37. [MetInfo, Weaver E-cology Vulnerabilities in Attackers’ Crosshairs](https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/)
-
-**Source:** Security Week  
-**Published:** Tue, 05 May 2026 09:27:14 +0000  
+**Source:** Talos Blog  
+**Published:** Wed, 06 May 2026 10:00:12 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-29014, CVE-2026-22679  
 **Categories:** Vulnerability  
 
 ---
 
-### 38. [WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities](https://www.securityweek.com/whatsapp-discloses-file-spoofing-arbitrary-url-scheme-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Tue, 05 May 2026 09:01:14 +0000  
-**Severity:** Medium  
-**CVEs:** CVE-2026-23866, CVE-2026-23863  
-**Categories:** Vulnerability, Phishing  
-
----
-
-### 39. [Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks](https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/)
-
-**Source:** Security Week  
-**Published:** Mon, 04 May 2026 19:00:26 +0000  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 40. [Trellix Source Code Repository Breached](https://www.securityweek.com/trellix-source-code-repository-breached/)
-
-**Source:** Security Week  
-**Published:** Mon, 04 May 2026 17:23:54 +0000  
-**Severity:** High  
-**Categories:** Data Breach, Vulnerability, Malware, Supply Chain  
-
----
-
-### 41. [UAT-8302 and its box full of malware](https://blog.talosintelligence.com/uat-8302/)
+### 42. [UAT-8302 and its box full of malware](https://blog.talosintelligence.com/uat-8302/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 05 May 2026 10:00:30 GMT  
@@ -383,7 +392,7 @@
 
 ---
 
-### 42. [CloudZ RAT potentially steals OTP messages using Pheno plugin](https://blog.talosintelligence.com/cloudz-pheno-infostealer/)
+### 43. [CloudZ RAT potentially steals OTP messages using Pheno plugin](https://blog.talosintelligence.com/cloudz-pheno-infostealer/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 05 May 2026 10:00:18 GMT  
@@ -392,7 +401,7 @@
 
 ---
 
-### 43. [Great responsibility, without great power](https://blog.talosintelligence.com/great-responsibility-without-great-power/)
+### 44. [Great responsibility, without great power](https://blog.talosintelligence.com/great-responsibility-without-great-power/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 30 Apr 2026 18:00:07 GMT  
@@ -401,7 +410,7 @@
 
 ---
 
-### 44. [AI-powered honeypots: Turning the tables on malicious AI agents](https://blog.talosintelligence.com/ai-powered-honeypots-turning-the-tables-on-malicious-ai-agents/)
+### 45. [AI-powered honeypots: Turning the tables on malicious AI agents](https://blog.talosintelligence.com/ai-powered-honeypots-turning-the-tables-on-malicious-ai-agents/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 29 Apr 2026 10:00:42 GMT  
@@ -410,7 +419,7 @@
 
 ---
 
-### 45. [Five defender priorities from the Talos Year in Review](https://blog.talosintelligence.com/five-defender-priorities-from-the-talos-year-in-review/)
+### 46. [Five defender priorities from the Talos Year in Review](https://blog.talosintelligence.com/five-defender-priorities-from-the-talos-year-in-review/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 28 Apr 2026 13:23:20 GMT  
@@ -419,7 +428,7 @@
 
 ---
 
-### 46. [It pays to be a forever student](https://blog.talosintelligence.com/it-pays-to-be-a-forever-student/)
+### 47. [It pays to be a forever student](https://blog.talosintelligence.com/it-pays-to-be-a-forever-student/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 18:00:22 GMT  
@@ -428,17 +437,17 @@
 
 ---
 
-### 47. [UAT-4356's Targeting of Cisco Firepower Devices](https://blog.talosintelligence.com/uat-4356-firestarter/)
+### 48. [UAT-4356's Targeting of Cisco Firepower Devices](https://blog.talosintelligence.com/uat-4356-firestarter/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20362, CVE-2025-20333  
+**CVEs:** CVE-2025-20333, CVE-2025-20362  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 48. [IR Trends Q1 2026: Phishing reemerges as top initial access vector, as attacks targeting public administration persist](https://blog.talosintelligence.com/ir-trends-q1-2026/)
+### 49. [IR Trends Q1 2026: Phishing reemerges as top initial access vector, as attacks targeting public administration persist](https://blog.talosintelligence.com/ir-trends-q1-2026/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 22 Apr 2026 10:00:34 GMT  
@@ -447,20 +456,11 @@
 
 ---
 
-### 49. [[Podcast] It's not you, it's your printer: State-sponsored and phishing threats in 2025](https://blog.talosintelligence.com/podcast-its-not-you-its-your-printer-state-sponsored-and-phishing-threats-in-2025/)
+### 50. [[Podcast] It's not you, it's your printer: State-sponsored and phishing threats in 2025](https://blog.talosintelligence.com/podcast-its-not-you-its-your-printer-state-sponsored-and-phishing-threats-in-2025/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 21 Apr 2026 12:29:49 GMT  
 **Severity:** Critical  
-**Categories:** Vulnerability, Phishing  
-
----
-
-### 50. [Phishing and MFA exploitation: Targeting the keys to the kingdom](https://blog.talosintelligence.com/phishing-and-mfa-exploitation-targeting-the-keys-to-the-kingdom/)
-
-**Source:** Talos Blog  
-**Published:** Tue, 21 Apr 2026 12:00:08 GMT  
-**Severity:** High  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -635,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
