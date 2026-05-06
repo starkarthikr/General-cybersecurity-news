@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-06 14:29:05 UTC
+**Last Updated:** 2026-05-06 17:59:50 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,16 @@
 
 ---
 
-### 11. [Why ransomware attacks succeed even when backups exist](https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/)
+### 11. [DAEMON Tools devs confirm breach, release malware-free version](https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 06 May 2026 12:43:30 -0400  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 12. [Why ransomware attacks succeed even when backups exist](https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 06 May 2026 10:04:14 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [MuddyWater hackers use Chaos ransomware as a decoy in attacks](https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/)
+### 13. [MuddyWater hackers use Chaos ransomware as a decoy in attacks](https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 06 May 2026 09:02:52 -0400  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [Webinar: Why network incidents escalate and how to fix response gaps](https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/)
+### 14. [Webinar: Why network incidents escalate and how to fix response gaps](https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 06 May 2026 08:56:32 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Palo Alto Networks warns of firewall RCE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/)
+### 15. [Palo Alto Networks warns of firewall RCE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 06 May 2026 05:18:16 -0400  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [New stealthy Quasar Linux malware targets software developers](https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/)
+### 16. [New stealthy Quasar Linux malware targets software developers](https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 18:01:39 -0400  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Instructure hacker claims data theft from 8,800 schools, universities](https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/)
+### 17. [Instructure hacker claims data theft from 8,800 schools, universities](https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 17:20:23 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [DAEMON Tools trojanized in supply-chain attack to deploy backdoor](https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/)
+### 18. [DAEMON Tools trojanized in supply-chain attack to deploy backdoor](https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 15:21:18 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [Student hacked Taiwan high-speed rail to trigger emergency brakes](https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/)
+### 19. [Student hacked Taiwan high-speed rail to trigger emergency brakes](https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 13:34:09 -0400  
@@ -169,21 +178,12 @@
 
 ---
 
-### 19. [FTC to ban data broker Kochava from selling Americans’ location data](https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/)
+### 20. [FTC to ban data broker Kochava from selling Americans’ location data](https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 10:39:53 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss](https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 05 May 2026 10:00:10 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Supply Chain  
 
 ---
 
@@ -210,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
+**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -265,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26110, CVE-2026-24289, CVE-2026-25187, CVE-2026-24294, CVE-2026-26113, CVE-2026-21262, CVE-2026-26127, CVE-2026-24291  
+**CVEs:** CVE-2026-21262, CVE-2026-24289, CVE-2026-24294, CVE-2026-26127, CVE-2026-26113, CVE-2026-24291, CVE-2026-26110, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,7 +279,16 @@
 
 ---
 
-### 31. [Herd Security Raises $3 Million for AI-Powered Training Platform](https://www.securityweek.com/herd-security-raises-3-million-for-ai-powered-training-platform/)
+### 31. [Autonomous Offensive Security Firm XBOW Raises $35 Million](https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-35-million/)
+
+**Source:** Security Week  
+**Published:** Wed, 06 May 2026 14:49:33 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [Herd Security Raises $3 Million for AI-Powered Training Platform](https://www.securityweek.com/herd-security-raises-3-million-for-ai-powered-training-platform/)
 
 **Source:** Security Week  
 **Published:** Wed, 06 May 2026 13:30:00 +0000  
@@ -288,7 +297,7 @@
 
 ---
 
-### 32. [Iranian APT Intrusion Masquerades as Chaos Ransomware Attack](https://www.securityweek.com/iranian-apt-intrusion-masquerades-as-chaos-ransomware-attack/)
+### 33. [Iranian APT Intrusion Masquerades as Chaos Ransomware Attack](https://www.securityweek.com/iranian-apt-intrusion-masquerades-as-chaos-ransomware-attack/)
 
 **Source:** Security Week  
 **Published:** Wed, 06 May 2026 13:00:00 +0000  
@@ -297,7 +306,7 @@
 
 ---
 
-### 33. [Romanian Man Extradited to US for Role in Hacking Scheme 17 Years Ago](https://www.securityweek.com/romanian-extradited-to-us-for-role-in-hacking-scheme-17-years-ago/)
+### 34. [Romanian Man Extradited to US for Role in Hacking Scheme 17 Years Ago](https://www.securityweek.com/romanian-extradited-to-us-for-role-in-hacking-scheme-17-years-ago/)
 
 **Source:** Security Week  
 **Published:** Wed, 06 May 2026 11:57:40 +0000  
@@ -306,7 +315,7 @@
 
 ---
 
-### 34. [CISA: Critical Infrastructure Must Master Isolation, Recovery](https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/)
+### 35. [CISA Launches ‘CI Fortify’ to Prepare Critical Infrastructure for Geopolitical Cyber Conflict](https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/)
 
 **Source:** Security Week  
 **Published:** Wed, 06 May 2026 10:15:34 +0000  
@@ -315,7 +324,7 @@
 
 ---
 
-### 35. [Sophisticated Quasar Linux RAT Targets Software Developers](https://www.securityweek.com/sophisticated-quasar-linux-rat-targets-software-developers/)
+### 36. [Sophisticated Quasar Linux RAT Targets Software Developers](https://www.securityweek.com/sophisticated-quasar-linux-rat-targets-software-developers/)
 
 **Source:** Security Week  
 **Published:** Wed, 06 May 2026 09:48:39 +0000  
@@ -324,7 +333,7 @@
 
 ---
 
-### 36. [Government, Scientific Entities Hit via Daemon Tools Supply Chain Attack](https://www.securityweek.com/government-scientific-entities-hit-via-daemon-tools-supply-chain-attack/)
+### 37. [Government, Scientific Entities Hit via Daemon Tools Supply Chain Attack](https://www.securityweek.com/government-scientific-entities-hit-via-daemon-tools-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Wed, 06 May 2026 08:33:40 +0000  
@@ -333,7 +342,7 @@
 
 ---
 
-### 37. [Oracle Debuts Monthly Critical Security Patch Updates](https://www.securityweek.com/oracle-debuts-monthly-critical-security-patch-updates/)
+### 38. [Oracle Debuts Monthly Critical Security Patch Updates](https://www.securityweek.com/oracle-debuts-monthly-critical-security-patch-updates/)
 
 **Source:** Security Week  
 **Published:** Wed, 06 May 2026 06:32:17 +0000  
@@ -342,7 +351,7 @@
 
 ---
 
-### 38. [Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls](https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/)
+### 39. [Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls](https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/)
 
 **Source:** Security Week  
 **Published:** Wed, 06 May 2026 04:46:23 +0000  
@@ -352,21 +361,12 @@
 
 ---
 
-### 39. [Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations](https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/)
+### 40. [Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations](https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/)
 
 **Source:** Security Week  
 **Published:** Tue, 05 May 2026 14:45:04 +0000  
 **Severity:** Low  
 **Categories:** Vulnerability, Phishing, APT  
-
----
-
-### 40. [Hacker Conversations: Joey Melo on Hacking AI](https://www.securityweek.com/hacker-conversations-joey-melo-on-hacking-ai/)
-
-**Source:** Security Week  
-**Published:** Tue, 05 May 2026 13:30:00 +0000  
-**Severity:** High  
-**Categories:** Vulnerability  
 
 ---
 
@@ -461,7 +461,16 @@
 
 ---
 
-### 51. [Threat Activity Enablers: The Backbone of Today’s Threat Landscape](https://www.recordedfuture.com/blog/threat-activity-enablers)
+### 51. [Recorded Future Named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies. And there’s more.](https://www.recordedfuture.com/blog/recorded-future-named-a-leader)
+
+**Source:** Recorded Future  
+**Published:** Wed, 06 May 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [Threat Activity Enablers: The Backbone of Today’s Threat Landscape](https://www.recordedfuture.com/blog/threat-activity-enablers)
 
 **Source:** Recorded Future  
 **Published:** Wed, 06 May 2026 00:00:00 GMT  
@@ -470,7 +479,7 @@
 
 ---
 
-### 52. [Hacking Embodied AI](https://www.recordedfuture.com/research/hacking-embodied-ai)
+### 53. [Hacking Embodied AI](https://www.recordedfuture.com/research/hacking-embodied-ai)
 
 **Source:** Recorded Future  
 **Published:** Tue, 05 May 2026 00:00:00 GMT  
@@ -479,7 +488,7 @@
 
 ---
 
-### 53. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+### 54. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
 
 **Source:** Recorded Future  
 **Published:** Fri, 01 May 2026 00:00:00 GMT  
@@ -488,7 +497,7 @@
 
 ---
 
-### 54. [Risk Scenarios for the US’s Strategic Pivot](https://www.recordedfuture.com/research/us-strategic-pivot)
+### 55. [Risk Scenarios for the US’s Strategic Pivot](https://www.recordedfuture.com/research/us-strategic-pivot)
 
 **Source:** Recorded Future  
 **Published:** Thu, 30 Apr 2026 00:00:00 GMT  
@@ -497,7 +506,7 @@
 
 ---
 
-### 55. [Building with AI: Here's What No Briefing Will Tell You](https://www.recordedfuture.com/blog/building-with-ai)
+### 56. [Building with AI: Here's What No Briefing Will Tell You](https://www.recordedfuture.com/blog/building-with-ai)
 
 **Source:** Recorded Future  
 **Published:** Thu, 30 Apr 2026 00:00:00 GMT  
@@ -506,7 +515,7 @@
 
 ---
 
-### 56. [The Money Mule Solution: What Every Scam Has in Common](https://www.recordedfuture.com/blog/money-mule-solution)
+### 57. [The Money Mule Solution: What Every Scam Has in Common](https://www.recordedfuture.com/blog/money-mule-solution)
 
 **Source:** Recorded Future  
 **Published:** Tue, 28 Apr 2026 00:00:00 GMT  
@@ -515,7 +524,7 @@
 
 ---
 
-### 57. [Lazarus Doesn't Need AGI](https://www.recordedfuture.com/blog/lazarus-does-not-need-agi)
+### 58. [Lazarus Doesn't Need AGI](https://www.recordedfuture.com/blog/lazarus-does-not-need-agi)
 
 **Source:** Recorded Future  
 **Published:** Tue, 28 Apr 2026 00:00:00 GMT  
@@ -524,7 +533,7 @@
 
 ---
 
-### 58. [From Overwhelmed to Autonomous: Rethinking Threat Intelligence in 2026](https://www.recordedfuture.com/blog/rethinking-threat-intelligence-in-2026)
+### 59. [From Overwhelmed to Autonomous: Rethinking Threat Intelligence in 2026](https://www.recordedfuture.com/blog/rethinking-threat-intelligence-in-2026)
 
 **Source:** Recorded Future  
 **Published:** Fri, 24 Apr 2026 00:00:00 GMT  
@@ -533,20 +542,11 @@
 
 ---
 
-### 59. [Critical minerals and cyber operations](https://www.recordedfuture.com/research/critical-minerals-and-cyber-operations)
+### 60. [Critical minerals and cyber operations](https://www.recordedfuture.com/research/critical-minerals-and-cyber-operations)
 
 **Source:** Recorded Future  
 **Published:** Thu, 23 Apr 2026 00:00:00 GMT  
 **Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 60. [Today, trust is the superpower that makes innovation possible](https://www.recordedfuture.com/blog/trust-is-a-superpower)
-
-**Source:** Recorded Future  
-**Published:** Thu, 23 Apr 2026 00:00:00 GMT  
-**Severity:** Low  
 **Categories:** General Security  
 
 ---
@@ -646,7 +646,16 @@
 
 ---
 
-### 71. [Attackers adopt JavaScript runtime Bun to spread NWHStealer](https://www.malwarebytes.com/blog/threat-intel/2026/05/attackers-adopt-javascript-runtime-bun-to-spread-nwhstealer)
+### 71. [Google Chrome&#8217;s silent 4GB AI download problem](https://www.malwarebytes.com/blog/news/2026/05/google-chromes-silent-4gb-ai-download-problem)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 06 May 2026 16:17:03 GMT  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 72. [Attackers adopt JavaScript runtime Bun to spread NWHStealer](https://www.malwarebytes.com/blog/threat-intel/2026/05/attackers-adopt-javascript-runtime-bun-to-spread-nwhstealer)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 06 May 2026 12:50:55 GMT  
@@ -655,7 +664,7 @@
 
 ---
 
-### 72. [Millions of students&#8217; personal data stolen in major education breach](https://www.malwarebytes.com/blog/news/2026/05/millions-of-students-personal-data-stolen-in-major-education-cyberattack)
+### 73. [Millions of students&#8217; personal data stolen in major education breach](https://www.malwarebytes.com/blog/news/2026/05/millions-of-students-personal-data-stolen-in-major-education-cyberattack)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 06 May 2026 12:45:54 GMT  
@@ -664,7 +673,7 @@
 
 ---
 
-### 73. [Update WhatsApp now: Two new flaws could expose you to malicious files](https://www.malwarebytes.com/blog/news/2026/05/update-whatsapp-now-two-new-flaws-could-expose-you-to-malicious-files)
+### 74. [Update WhatsApp now: Two new flaws could expose you to malicious files](https://www.malwarebytes.com/blog/news/2026/05/update-whatsapp-now-two-new-flaws-could-expose-you-to-malicious-files)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 05 May 2026 11:39:11 GMT  
@@ -673,7 +682,7 @@
 
 ---
 
-### 74. [Cyberattacks are raising your prices (Lock and Code S07E09)](https://www.malwarebytes.com/blog/podcast/2026/05/cyberattacks-are-raising-your-prices-lock-and-code-s07e09)
+### 75. [Cyberattacks are raising your prices (Lock and Code S07E09)](https://www.malwarebytes.com/blog/podcast/2026/05/cyberattacks-are-raising-your-prices-lock-and-code-s07e09)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 04 May 2026 14:59:06 GMT  
@@ -682,7 +691,7 @@
 
 ---
 
-### 75. [Thousands of Facebook accounts stolen by phishing emails sent through Google](https://www.malwarebytes.com/blog/news/2026/05/thousands-of-facebook-accounts-stolen-by-phishing-emails-sent-through-google)
+### 76. [Thousands of Facebook accounts stolen by phishing emails sent through Google](https://www.malwarebytes.com/blog/news/2026/05/thousands-of-facebook-accounts-stolen-by-phishing-emails-sent-through-google)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 04 May 2026 11:41:04 GMT  
@@ -691,7 +700,7 @@
 
 ---
 
-### 76. [The 2026 World Cup scam economy is already running before the first whistle](https://www.malwarebytes.com/blog/threat-intel/2026/05/the-2026-world-cup-scam-economy-is-already-running-before-the-first-whistle)
+### 77. [The 2026 World Cup scam economy is already running before the first whistle](https://www.malwarebytes.com/blog/threat-intel/2026/05/the-2026-world-cup-scam-economy-is-already-running-before-the-first-whistle)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 04 May 2026 11:10:38 GMT  
@@ -700,7 +709,7 @@
 
 ---
 
-### 77. [A week in security (April 27 &#8211; May 3)](https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-april-27-may-3-3)
+### 78. [A week in security (April 27 &#8211; May 3)](https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-april-27-may-3-3)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 04 May 2026 07:01:00 GMT  
@@ -709,7 +718,7 @@
 
 ---
 
-### 78. [3 easy-to-miss cybersecurity risks for small businesses](https://www.malwarebytes.com/blog/how-to/2026/05/3-easy-to-miss-cybersecurity-risks-for-small-businesses)
+### 79. [3 easy-to-miss cybersecurity risks for small businesses](https://www.malwarebytes.com/blog/how-to/2026/05/3-easy-to-miss-cybersecurity-risks-for-small-businesses)
 
 **Source:** Malwarebytes  
 **Published:** Sun, 03 May 2026 10:33:26 GMT  
@@ -718,7 +727,7 @@
 
 ---
 
-### 79. [Actively exploited cPanel bug exposes millions of websites to takeover](https://www.malwarebytes.com/blog/news/2026/05/actively-exploited-cpanel-bug-exposes-millions-of-websites-to-takeover)
+### 80. [Actively exploited cPanel bug exposes millions of websites to takeover](https://www.malwarebytes.com/blog/news/2026/05/actively-exploited-cpanel-bug-exposes-millions-of-websites-to-takeover)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 01 May 2026 10:48:19 GMT  
@@ -728,16 +737,16 @@
 
 ---
 
-### 80. [More PayPal emails hijacked to deliver tech support scams](https://www.malwarebytes.com/blog/news/2026/04/more-paypal-emails-hijacked-to-deliver-tech-support-scams)
+### 81. [CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/)
 
-**Source:** Malwarebytes  
-**Published:** Thu, 30 Apr 2026 19:29:36 GMT  
+**Source:** Crowdstrike Blog  
+**Published:** May 06, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 81. [CrowdStrike Launches Falcon OverWatch for Defender](https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/)
+### 82. [CrowdStrike Launches Falcon OverWatch for Defender](https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 05, 2026 00:00:00-0500  
@@ -746,7 +755,7 @@
 
 ---
 
-### 82. [CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns](https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/)
+### 83. [CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns](https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 04, 2026 00:00:00-0500  
@@ -755,7 +764,7 @@
 
 ---
 
-### 83. [Tune In: The Future of AI-Powered Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/)
+### 84. [Tune In: The Future of AI-Powered Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 01, 2026 00:00:00-0500  
@@ -764,7 +773,7 @@
 
 ---
 
-### 84. [Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield](https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/)
+### 85. [Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield](https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 30, 2026 00:00:00-0500  
@@ -773,7 +782,7 @@
 
 ---
 
-### 85. [CrowdStrike Expands ChatGPT Enterprise Integration with Enhanced Audit Logging and Activity Monitoring](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-chatgpt-enterprise-integration/)
+### 86. [CrowdStrike Expands ChatGPT Enterprise Integration with Enhanced Audit Logging and Activity Monitoring](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-chatgpt-enterprise-integration/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 28, 2026 00:00:00-0700  
@@ -782,7 +791,7 @@
 
 ---
 
-### 86. [CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/)
+### 87. [CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 27, 2026 00:00:00-0700  
@@ -791,7 +800,7 @@
 
 ---
 
-### 87. [CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/)
+### 88. [CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 22, 2026 00:00:00-0500  
@@ -800,7 +809,7 @@
 
 ---
 
-### 88. [CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-cloud-security-delivers-264-percent-roi-through-unified-cloud-protection/)
+### 89. [CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-cloud-security-delivers-264-percent-roi-through-unified-cloud-protection/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 22, 2026 00:00:00-0500  
@@ -809,19 +818,10 @@
 
 ---
 
-### 89. [CrowdStrike Falcon Platform Achieves 441% ROI in Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-achieves-441-percent-roi-in-three-years/)
+### 90. [CrowdStrike Falcon Platform Achieves 441% ROI in Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-achieves-441-percent-roi-in-three-years/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 21, 2026 00:00:00-0700  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [Introducing the CrowdStrike Shadow AI Visibility Service](https://www.crowdstrike.com/en-us/blog/crowdstrike-shadow-AI-visibility-service/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Apr 21, 2026 00:00:00-0400  
 **Severity:** Low  
 **Categories:** General Security  
 
