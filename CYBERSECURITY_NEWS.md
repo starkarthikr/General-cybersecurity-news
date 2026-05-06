@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-06 10:33:37 UTC
+**Last Updated:** 2026-05-06 14:29:05 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Google's Android Apps Get Public Verification to Stop Supply Chain Attacks](https://thehackernews.com/2026/05/android-apps-get-public-verification.html)
+### 1. [MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack](https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 06 May 2026 18:30:00 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Phishing  
+
+---
+
+### 2. [The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open](https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 06 May 2026 17:33:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?](https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 06 May 2026 16:27:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Google's Android Apps Get Public Verification to Stop Supply Chain Attacks](https://thehackernews.com/2026/05/android-apps-get-public-verification.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 06 May 2026 14:43:00 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs](https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html)
+### 5. [Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs](https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 06 May 2026 14:04:00 +0530  
@@ -22,7 +49,7 @@
 
 ---
 
-### 3. [Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution](https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html)
+### 6. [Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution](https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 06 May 2026 11:44:00 +0530  
@@ -32,7 +59,7 @@
 
 ---
 
-### 4. [Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE](https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html)
+### 7. [Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE](https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 05 May 2026 21:49:00 +0530  
@@ -42,7 +69,7 @@
 
 ---
 
-### 5. [DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware](https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html)
+### 8. [DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware](https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 05 May 2026 21:37:00 +0530  
@@ -51,7 +78,7 @@
 
 ---
 
-### 6. [China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions](https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html)
+### 9. [China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions](https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 05 May 2026 19:49:00 +0530  
@@ -60,7 +87,7 @@
 
 ---
 
-### 7. [The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed](https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html)
+### 10. [The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed](https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 05 May 2026 17:28:00 +0530  
@@ -69,35 +96,34 @@
 
 ---
 
-### 8. [MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks](https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html)
+### 11. [Why ransomware attacks succeed even when backups exist](https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 05 May 2026 17:26:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 06 May 2026 10:04:14 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-29014  
-**Categories:** Vulnerability  
+**Categories:** Ransomware, Phishing  
 
 ---
 
-### 9. [We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is](https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html)
+### 12. [MuddyWater hackers use Chaos ransomware as a decoy in attacks](https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 05 May 2026 16:00:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 06 May 2026 09:02:52 -0400  
+**Severity:** High  
+**Categories:** Ransomware, Malware, Phishing  
+
+---
+
+### 13. [Webinar: Why network incidents escalate and how to fix response gaps](https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 06 May 2026 08:56:32 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 10. [ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows](https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 05 May 2026 14:37:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 11. [Palo Alto Networks warns of firewall RCE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/)
+### 14. [Palo Alto Networks warns of firewall RCE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 06 May 2026 05:18:16 -0400  
@@ -107,7 +133,7 @@
 
 ---
 
-### 12. [New stealthy Quasar Linux malware targets software developers](https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/)
+### 15. [New stealthy Quasar Linux malware targets software developers](https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 18:01:39 -0400  
@@ -116,7 +142,7 @@
 
 ---
 
-### 13. [Instructure hacker claims data theft from 8,800 schools, universities](https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/)
+### 16. [Instructure hacker claims data theft from 8,800 schools, universities](https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 17:20:23 -0400  
@@ -125,7 +151,7 @@
 
 ---
 
-### 14. [DAEMON Tools trojanized in supply-chain attack to deploy backdoor](https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/)
+### 17. [DAEMON Tools trojanized in supply-chain attack to deploy backdoor](https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 15:21:18 -0400  
@@ -134,7 +160,7 @@
 
 ---
 
-### 15. [Student hacked Taiwan high-speed rail to trigger emergency brakes](https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/)
+### 18. [Student hacked Taiwan high-speed rail to trigger emergency brakes](https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 13:34:09 -0400  
@@ -143,7 +169,7 @@
 
 ---
 
-### 16. [FTC to ban data broker Kochava from selling Americans’ location data](https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/)
+### 19. [FTC to ban data broker Kochava from selling Americans’ location data](https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 10:39:53 -0400  
@@ -152,39 +178,12 @@
 
 ---
 
-### 17. [The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss](https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/)
+### 20. [The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss](https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 10:00:10 -0400  
 **Severity:** Low  
 **Categories:** Vulnerability, Supply Chain  
-
----
-
-### 18. [Vimeo data breach exposes personal information of 119,000 people](https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 05 May 2026 09:03:46 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
-
----
-
-### 19. [Google now offers up to $1.5 million for some Android exploits](https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 05 May 2026 07:24:48 -0400  
-**Severity:** High  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison](https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 05 May 2026 06:13:17 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
 
 ---
 
@@ -211,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -266,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24291, CVE-2026-21262, CVE-2026-25187, CVE-2026-26113, CVE-2026-26110, CVE-2026-24289, CVE-2026-24294, CVE-2026-26127  
+**CVEs:** CVE-2026-26110, CVE-2026-24289, CVE-2026-25187, CVE-2026-24294, CVE-2026-26113, CVE-2026-21262, CVE-2026-26127, CVE-2026-24291  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -280,7 +279,34 @@
 
 ---
 
-### 31. [CISA: Critical Infrastructure Must Master Isolation, Recovery](https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/)
+### 31. [Herd Security Raises $3 Million for AI-Powered Training Platform](https://www.securityweek.com/herd-security-raises-3-million-for-ai-powered-training-platform/)
+
+**Source:** Security Week  
+**Published:** Wed, 06 May 2026 13:30:00 +0000  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 32. [Iranian APT Intrusion Masquerades as Chaos Ransomware Attack](https://www.securityweek.com/iranian-apt-intrusion-masquerades-as-chaos-ransomware-attack/)
+
+**Source:** Security Week  
+**Published:** Wed, 06 May 2026 13:00:00 +0000  
+**Severity:** Medium  
+**Categories:** Ransomware, Data Breach, Malware, APT  
+
+---
+
+### 33. [Romanian Man Extradited to US for Role in Hacking Scheme 17 Years Ago](https://www.securityweek.com/romanian-extradited-to-us-for-role-in-hacking-scheme-17-years-ago/)
+
+**Source:** Security Week  
+**Published:** Wed, 06 May 2026 11:57:40 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 34. [CISA: Critical Infrastructure Must Master Isolation, Recovery](https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/)
 
 **Source:** Security Week  
 **Published:** Wed, 06 May 2026 10:15:34 +0000  
@@ -289,7 +315,7 @@
 
 ---
 
-### 32. [Sophisticated Quasar Linux RAT Targets Software Developers](https://www.securityweek.com/sophisticated-quasar-linux-rat-targets-software-developers/)
+### 35. [Sophisticated Quasar Linux RAT Targets Software Developers](https://www.securityweek.com/sophisticated-quasar-linux-rat-targets-software-developers/)
 
 **Source:** Security Week  
 **Published:** Wed, 06 May 2026 09:48:39 +0000  
@@ -298,7 +324,7 @@
 
 ---
 
-### 33. [Government, Scientific Entities Hit via Daemon Tools Supply Chain Attack](https://www.securityweek.com/government-scientific-entities-hit-via-daemon-tools-supply-chain-attack/)
+### 36. [Government, Scientific Entities Hit via Daemon Tools Supply Chain Attack](https://www.securityweek.com/government-scientific-entities-hit-via-daemon-tools-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Wed, 06 May 2026 08:33:40 +0000  
@@ -307,7 +333,7 @@
 
 ---
 
-### 34. [Oracle Debuts Monthly Critical Security Patch Updates](https://www.securityweek.com/oracle-debuts-monthly-critical-security-patch-updates/)
+### 37. [Oracle Debuts Monthly Critical Security Patch Updates](https://www.securityweek.com/oracle-debuts-monthly-critical-security-patch-updates/)
 
 **Source:** Security Week  
 **Published:** Wed, 06 May 2026 06:32:17 +0000  
@@ -316,7 +342,7 @@
 
 ---
 
-### 35. [Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls](https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/)
+### 38. [Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls](https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/)
 
 **Source:** Security Week  
 **Published:** Wed, 06 May 2026 04:46:23 +0000  
@@ -326,7 +352,7 @@
 
 ---
 
-### 36. [Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations](https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/)
+### 39. [Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations](https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/)
 
 **Source:** Security Week  
 **Published:** Tue, 05 May 2026 14:45:04 +0000  
@@ -335,41 +361,11 @@
 
 ---
 
-### 37. [Hacker Conversations: Joey Melo on Hacking AI](https://www.securityweek.com/hacker-conversations-joey-melo-on-hacking-ai/)
+### 40. [Hacker Conversations: Joey Melo on Hacking AI](https://www.securityweek.com/hacker-conversations-joey-melo-on-hacking-ai/)
 
 **Source:** Security Week  
 **Published:** Tue, 05 May 2026 13:30:00 +0000  
 **Severity:** High  
-**Categories:** Vulnerability  
-
----
-
-### 38. [Critical Bug Could Expose 300,000 Ollama Deployments to Information Theft](https://www.securityweek.com/critical-bug-could-expose-300000-ollama-deployments-to-information-theft/)
-
-**Source:** Security Week  
-**Published:** Tue, 05 May 2026 12:39:36 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-7482  
-**Categories:** Vulnerability  
-
----
-
-### 39. [Critical Remote Code Execution Vulnerability Patched in Android](https://www.securityweek.com/critical-remote-code-execution-vulnerability-patched-in-android-2/)
-
-**Source:** Security Week  
-**Published:** Tue, 05 May 2026 11:58:44 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2024-50302, CVE-2025-38352, CVE-2025-48543, CVE-2026-0073, CVE-2024-43093  
-**Categories:** Vulnerability  
-
----
-
-### 40. [Critical, High-Severity Vulnerabilities Patched in Apache MINA, HTTP Server](https://www.securityweek.com/critical-high-severity-vulnerabilities-patched-in-apache-mina-http-server/)
-
-**Source:** Security Week  
-**Published:** Tue, 05 May 2026 11:19:59 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-41409, CVE-2026-41635, CVE-2026-42779, CVE-2026-42778, CVE-2026-33523, CVE-2026-33857, CVE-2026-33006, CVE-2024-52046, CVE-2026-23918, CVE-2026-34059, CVE-2026-34032, CVE-2026-33007, CVE-2026-29169, CVE-2026-28780, CVE-2026-29168, CVE-2026-24072  
 **Categories:** Vulnerability  
 
 ---
@@ -442,7 +438,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20333, CVE-2025-20362  
+**CVEs:** CVE-2025-20362, CVE-2025-20333  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -465,7 +461,16 @@
 
 ---
 
-### 51. [Hacking Embodied AI](https://www.recordedfuture.com/research/hacking-embodied-ai)
+### 51. [Threat Activity Enablers: The Backbone of Today’s Threat Landscape](https://www.recordedfuture.com/blog/threat-activity-enablers)
+
+**Source:** Recorded Future  
+**Published:** Wed, 06 May 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 52. [Hacking Embodied AI](https://www.recordedfuture.com/research/hacking-embodied-ai)
 
 **Source:** Recorded Future  
 **Published:** Tue, 05 May 2026 00:00:00 GMT  
@@ -474,7 +479,7 @@
 
 ---
 
-### 52. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+### 53. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
 
 **Source:** Recorded Future  
 **Published:** Fri, 01 May 2026 00:00:00 GMT  
@@ -483,7 +488,7 @@
 
 ---
 
-### 53. [Risk Scenarios for the US’s Strategic Pivot](https://www.recordedfuture.com/research/us-strategic-pivot)
+### 54. [Risk Scenarios for the US’s Strategic Pivot](https://www.recordedfuture.com/research/us-strategic-pivot)
 
 **Source:** Recorded Future  
 **Published:** Thu, 30 Apr 2026 00:00:00 GMT  
@@ -492,7 +497,7 @@
 
 ---
 
-### 54. [Building with AI: Here's What No Briefing Will Tell You](https://www.recordedfuture.com/blog/building-with-ai)
+### 55. [Building with AI: Here's What No Briefing Will Tell You](https://www.recordedfuture.com/blog/building-with-ai)
 
 **Source:** Recorded Future  
 **Published:** Thu, 30 Apr 2026 00:00:00 GMT  
@@ -501,7 +506,7 @@
 
 ---
 
-### 55. [The Money Mule Solution: What Every Scam Has in Common](https://www.recordedfuture.com/blog/money-mule-solution)
+### 56. [The Money Mule Solution: What Every Scam Has in Common](https://www.recordedfuture.com/blog/money-mule-solution)
 
 **Source:** Recorded Future  
 **Published:** Tue, 28 Apr 2026 00:00:00 GMT  
@@ -510,7 +515,7 @@
 
 ---
 
-### 56. [Lazarus Doesn't Need AGI](https://www.recordedfuture.com/blog/lazarus-does-not-need-agi)
+### 57. [Lazarus Doesn't Need AGI](https://www.recordedfuture.com/blog/lazarus-does-not-need-agi)
 
 **Source:** Recorded Future  
 **Published:** Tue, 28 Apr 2026 00:00:00 GMT  
@@ -519,7 +524,7 @@
 
 ---
 
-### 57. [From Overwhelmed to Autonomous: Rethinking Threat Intelligence in 2026](https://www.recordedfuture.com/blog/rethinking-threat-intelligence-in-2026)
+### 58. [From Overwhelmed to Autonomous: Rethinking Threat Intelligence in 2026](https://www.recordedfuture.com/blog/rethinking-threat-intelligence-in-2026)
 
 **Source:** Recorded Future  
 **Published:** Fri, 24 Apr 2026 00:00:00 GMT  
@@ -528,7 +533,7 @@
 
 ---
 
-### 58. [Critical minerals and cyber operations](https://www.recordedfuture.com/research/critical-minerals-and-cyber-operations)
+### 59. [Critical minerals and cyber operations](https://www.recordedfuture.com/research/critical-minerals-and-cyber-operations)
 
 **Source:** Recorded Future  
 **Published:** Thu, 23 Apr 2026 00:00:00 GMT  
@@ -537,19 +542,10 @@
 
 ---
 
-### 59. [Today, trust is the superpower that makes innovation possible](https://www.recordedfuture.com/blog/trust-is-a-superpower)
+### 60. [Today, trust is the superpower that makes innovation possible](https://www.recordedfuture.com/blog/trust-is-a-superpower)
 
 **Source:** Recorded Future  
 **Published:** Thu, 23 Apr 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 60. [Evolution of Chinese-Language Guarantee Telegram Marketplaces](https://www.recordedfuture.com/research/evolution-of-the-chinese-language)
-
-**Source:** Recorded Future  
-**Published:** Wed, 22 Apr 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -650,7 +646,25 @@
 
 ---
 
-### 71. [Update WhatsApp now: Two new flaws could expose you to malicious files](https://www.malwarebytes.com/blog/news/2026/05/update-whatsapp-now-two-new-flaws-could-expose-you-to-malicious-files)
+### 71. [Attackers adopt JavaScript runtime Bun to spread NWHStealer](https://www.malwarebytes.com/blog/threat-intel/2026/05/attackers-adopt-javascript-runtime-bun-to-spread-nwhstealer)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 06 May 2026 12:50:55 GMT  
+**Severity:** High  
+**Categories:** Malware, APT  
+
+---
+
+### 72. [Millions of students&#8217; personal data stolen in major education breach](https://www.malwarebytes.com/blog/news/2026/05/millions-of-students-personal-data-stolen-in-major-education-cyberattack)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 06 May 2026 12:45:54 GMT  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 73. [Update WhatsApp now: Two new flaws could expose you to malicious files](https://www.malwarebytes.com/blog/news/2026/05/update-whatsapp-now-two-new-flaws-could-expose-you-to-malicious-files)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 05 May 2026 11:39:11 GMT  
@@ -659,7 +673,7 @@
 
 ---
 
-### 72. [Cyberattacks are raising your prices (Lock and Code S07E09)](https://www.malwarebytes.com/blog/podcast/2026/05/cyberattacks-are-raising-your-prices-lock-and-code-s07e09)
+### 74. [Cyberattacks are raising your prices (Lock and Code S07E09)](https://www.malwarebytes.com/blog/podcast/2026/05/cyberattacks-are-raising-your-prices-lock-and-code-s07e09)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 04 May 2026 14:59:06 GMT  
@@ -668,7 +682,7 @@
 
 ---
 
-### 73. [Thousands of Facebook accounts stolen by phishing emails sent through Google](https://www.malwarebytes.com/blog/news/2026/05/thousands-of-facebook-accounts-stolen-by-phishing-emails-sent-through-google)
+### 75. [Thousands of Facebook accounts stolen by phishing emails sent through Google](https://www.malwarebytes.com/blog/news/2026/05/thousands-of-facebook-accounts-stolen-by-phishing-emails-sent-through-google)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 04 May 2026 11:41:04 GMT  
@@ -677,7 +691,7 @@
 
 ---
 
-### 74. [The 2026 World Cup scam economy is already running before the first whistle](https://www.malwarebytes.com/blog/threat-intel/2026/05/the-2026-world-cup-scam-economy-is-already-running-before-the-first-whistle)
+### 76. [The 2026 World Cup scam economy is already running before the first whistle](https://www.malwarebytes.com/blog/threat-intel/2026/05/the-2026-world-cup-scam-economy-is-already-running-before-the-first-whistle)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 04 May 2026 11:10:38 GMT  
@@ -686,7 +700,7 @@
 
 ---
 
-### 75. [A week in security (April 27 &#8211; May 3)](https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-april-27-may-3-3)
+### 77. [A week in security (April 27 &#8211; May 3)](https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-april-27-may-3-3)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 04 May 2026 07:01:00 GMT  
@@ -695,7 +709,7 @@
 
 ---
 
-### 76. [3 easy-to-miss cybersecurity risks for small businesses](https://www.malwarebytes.com/blog/how-to/2026/05/3-easy-to-miss-cybersecurity-risks-for-small-businesses)
+### 78. [3 easy-to-miss cybersecurity risks for small businesses](https://www.malwarebytes.com/blog/how-to/2026/05/3-easy-to-miss-cybersecurity-risks-for-small-businesses)
 
 **Source:** Malwarebytes  
 **Published:** Sun, 03 May 2026 10:33:26 GMT  
@@ -704,7 +718,7 @@
 
 ---
 
-### 77. [Actively exploited cPanel bug exposes millions of websites to takeover](https://www.malwarebytes.com/blog/news/2026/05/actively-exploited-cpanel-bug-exposes-millions-of-websites-to-takeover)
+### 79. [Actively exploited cPanel bug exposes millions of websites to takeover](https://www.malwarebytes.com/blog/news/2026/05/actively-exploited-cpanel-bug-exposes-millions-of-websites-to-takeover)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 01 May 2026 10:48:19 GMT  
@@ -714,30 +728,12 @@
 
 ---
 
-### 78. [More PayPal emails hijacked to deliver tech support scams](https://www.malwarebytes.com/blog/news/2026/04/more-paypal-emails-hijacked-to-deliver-tech-support-scams)
+### 80. [More PayPal emails hijacked to deliver tech support scams](https://www.malwarebytes.com/blog/news/2026/04/more-paypal-emails-hijacked-to-deliver-tech-support-scams)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 30 Apr 2026 19:29:36 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 79. [Hackers stole hundreds of thousands of Roblox accounts: Here’s what to do](https://www.malwarebytes.com/blog/news/2026/04/hackers-stole-hundreds-of-thousands-of-roblox-accounts-heres-what-to-do)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 30 Apr 2026 15:48:50 GMT  
-**Severity:** High  
-**Categories:** Malware  
-
----
-
-### 80. [Researchers built a chatbot that only knows the world before 1931](https://www.malwarebytes.com/blog/ai/2026/04/researchers-built-a-chatbot-that-only-knows-the-world-before-1931)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 29 Apr 2026 20:58:30 GMT  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
