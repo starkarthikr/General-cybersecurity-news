@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-06 17:59:50 UTC
+**Last Updated:** 2026-05-07 03:42:15 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack](https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html)
+### 1. [Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks](https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 07 May 2026 01:51:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware, DDoS  
+
+---
+
+### 2. [MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack](https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 06 May 2026 18:30:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open](https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html)
+### 3. [The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open](https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 06 May 2026 17:33:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?](https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html)
+### 4. [Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?](https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 06 May 2026 16:27:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Google's Android Apps Get Public Verification to Stop Supply Chain Attacks](https://thehackernews.com/2026/05/android-apps-get-public-verification.html)
+### 5. [Google's Android Apps Get Public Verification to Stop Supply Chain Attacks](https://thehackernews.com/2026/05/android-apps-get-public-verification.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 06 May 2026 14:43:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs](https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html)
+### 6. [Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs](https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 06 May 2026 14:04:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution](https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html)
+### 7. [Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution](https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 06 May 2026 11:44:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE](https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html)
+### 8. [Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE](https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 05 May 2026 21:49:00 +0530  
@@ -69,7 +78,7 @@
 
 ---
 
-### 8. [DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware](https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html)
+### 9. [DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware](https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 05 May 2026 21:37:00 +0530  
@@ -78,7 +87,7 @@
 
 ---
 
-### 9. [China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions](https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html)
+### 10. [China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions](https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 05 May 2026 19:49:00 +0530  
@@ -87,16 +96,36 @@
 
 ---
 
-### 10. [The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed](https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html)
+### 11. [Hackers abuse Google ads for GoDaddy ManageWP login phishing](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 05 May 2026 17:28:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 06 May 2026 17:36:06 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Phishing, APT  
 
 ---
 
-### 11. [DAEMON Tools devs confirm breach, release malware-free version](https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/)
+### 12. [Critical vm2 sandbox bug lets attackers execute code on hosts](https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 06 May 2026 14:38:38 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-26956  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [New Cisco DoS flaw requires manual reboot to revive devices](https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 06 May 2026 14:06:21 -0400  
+**Severity:** High  
+**CVEs:** CVE-2026-20188  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [DAEMON Tools devs confirm breach, release malware-free version](https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 06 May 2026 12:43:30 -0400  
@@ -105,7 +134,7 @@
 
 ---
 
-### 12. [Why ransomware attacks succeed even when backups exist](https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/)
+### 15. [Why ransomware attacks succeed even when backups exist](https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 06 May 2026 10:04:14 -0400  
@@ -114,7 +143,7 @@
 
 ---
 
-### 13. [MuddyWater hackers use Chaos ransomware as a decoy in attacks](https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/)
+### 16. [MuddyWater hackers use Chaos ransomware as a decoy in attacks](https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 06 May 2026 09:02:52 -0400  
@@ -123,7 +152,7 @@
 
 ---
 
-### 14. [Webinar: Why network incidents escalate and how to fix response gaps](https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/)
+### 17. [Webinar: Why network incidents escalate and how to fix response gaps](https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 06 May 2026 08:56:32 -0400  
@@ -132,7 +161,7 @@
 
 ---
 
-### 15. [Palo Alto Networks warns of firewall RCE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/)
+### 18. [Palo Alto Networks warns of firewall RCE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 06 May 2026 05:18:16 -0400  
@@ -142,7 +171,7 @@
 
 ---
 
-### 16. [New stealthy Quasar Linux malware targets software developers](https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/)
+### 19. [New stealthy Quasar Linux malware targets software developers](https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 18:01:39 -0400  
@@ -151,39 +180,12 @@
 
 ---
 
-### 17. [Instructure hacker claims data theft from 8,800 schools, universities](https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/)
+### 20. [Instructure hacker claims data theft from 8,800 schools, universities](https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 05 May 2026 17:20:23 -0400  
 **Severity:** Low  
 **Categories:** Data Breach  
-
----
-
-### 18. [DAEMON Tools trojanized in supply-chain attack to deploy backdoor](https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 05 May 2026 15:21:18 -0400  
-**Severity:** High  
-**Categories:** Malware  
-
----
-
-### 19. [Student hacked Taiwan high-speed rail to trigger emergency brakes](https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 05 May 2026 13:34:09 -0400  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 20. [FTC to ban data broker Kochava from selling Americans’ location data](https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 05 May 2026 10:39:53 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -210,7 +212,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
+**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -265,7 +267,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-24289, CVE-2026-24294, CVE-2026-26127, CVE-2026-26113, CVE-2026-24291, CVE-2026-26110, CVE-2026-25187  
+**CVEs:** CVE-2026-26127, CVE-2026-24294, CVE-2026-25187, CVE-2026-26110, CVE-2026-26113, CVE-2026-24289, CVE-2026-24291, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -438,7 +440,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20362, CVE-2025-20333  
+**CVEs:** CVE-2025-20333, CVE-2025-20362  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -631,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
