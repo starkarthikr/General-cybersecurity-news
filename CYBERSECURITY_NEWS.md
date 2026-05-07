@@ -1,10 +1,47 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-07 10:40:40 UTC
+**Last Updated:** 2026-05-07 14:30:15 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux](https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html)
+### 1. [One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 07 May 2026 19:20:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 2. [PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage](https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 07 May 2026 19:04:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-0300  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories](https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 07 May 2026 17:03:00 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Vulnerability, Supply Chain  
+
+---
+
+### 4. [Day Zero Readiness: The Operational Gaps That Break Incident Response](https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 07 May 2026 16:24:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux](https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 07 May 2026 14:50:00 +0530  
@@ -13,7 +50,7 @@
 
 ---
 
-### 2. [vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution](https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html)
+### 6. [vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution](https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 07 May 2026 09:45:00 +0530  
@@ -22,7 +59,7 @@
 
 ---
 
-### 3. [Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks](https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html)
+### 7. [Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks](https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 07 May 2026 01:51:00 +0530  
@@ -31,7 +68,7 @@
 
 ---
 
-### 4. [MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack](https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html)
+### 8. [MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack](https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 06 May 2026 18:30:00 +0530  
@@ -40,7 +77,7 @@
 
 ---
 
-### 5. [The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open](https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html)
+### 9. [The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open](https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 06 May 2026 17:33:00 +0530  
@@ -49,7 +86,7 @@
 
 ---
 
-### 6. [Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?](https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html)
+### 10. [Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?](https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 06 May 2026 16:27:00 +0530  
@@ -58,45 +95,53 @@
 
 ---
 
-### 7. [Google's Android Apps Get Public Verification to Stop Supply Chain Attacks](https://thehackernews.com/2026/05/android-apps-get-public-verification.html)
+### 11. [The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls](https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 06 May 2026 14:43:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 07 May 2026 10:01:11 -0400  
 **Severity:** Low  
-**Categories:** Supply Chain  
+**Categories:** General Security  
 
 ---
 
-### 8. [Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs](https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html)
+### 12. [Americans sentenced for running 'laptop farms' for North Korea](https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 06 May 2026 14:04:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Thu, 07 May 2026 09:45:48 -0400  
+**Severity:** High  
+**Categories:** APT  
 
 ---
 
-### 9. [Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution](https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html)
+### 13. [Crypto gang member gets 6.5 years for role in $230 million heist](https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 06 May 2026 11:44:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 07 May 2026 08:11:53 -0400  
 **Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 14. [Webinar: Why modern attacks require both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 07 May 2026 08:00:08 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Phishing, APT  
+
+---
+
+### 15. [Palo Alto Networks firewall zero-day exploited for nearly a month](https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 07 May 2026 06:57:59 -0400  
+**Severity:** Critical  
 **CVEs:** CVE-2026-0300  
-**Categories:** Vulnerability  
+**Categories:** Vulnerability, APT  
 
 ---
 
-### 10. [Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE](https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 05 May 2026 21:49:00 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-23918  
-**Categories:** Vulnerability  
-
----
-
-### 11. [Fake Claude AI website delivers new 'Beagle' Windows malware](https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/)
+### 16. [Fake Claude AI website delivers new 'Beagle' Windows malware](https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 07 May 2026 06:02:35 -0400  
@@ -105,7 +150,7 @@
 
 ---
 
-### 12. [Hackers abuse Google ads for GoDaddy ManageWP login phishing](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/)
+### 17. [Hackers abuse Google ads for GoDaddy ManageWP login phishing](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 06 May 2026 17:36:06 -0400  
@@ -114,7 +159,7 @@
 
 ---
 
-### 13. [Critical vm2 sandbox bug lets attackers execute code on hosts](https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/)
+### 18. [Critical vm2 sandbox bug lets attackers execute code on hosts](https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 06 May 2026 14:38:38 -0400  
@@ -124,7 +169,7 @@
 
 ---
 
-### 14. [New Cisco DoS flaw requires manual reboot to revive devices](https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/)
+### 19. [New Cisco DoS flaw requires manual reboot to revive devices](https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 06 May 2026 14:06:21 -0400  
@@ -134,58 +179,12 @@
 
 ---
 
-### 15. [DAEMON Tools devs confirm breach, release malware-free version](https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/)
+### 20. [DAEMON Tools devs confirm breach, release malware-free version](https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 06 May 2026 12:43:30 -0400  
 **Severity:** Low  
 **Categories:** Malware, Supply Chain  
-
----
-
-### 16. [Why ransomware attacks succeed even when backups exist](https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 06 May 2026 10:04:14 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Phishing  
-
----
-
-### 17. [MuddyWater hackers use Chaos ransomware as a decoy in attacks](https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 06 May 2026 09:02:52 -0400  
-**Severity:** High  
-**Categories:** Ransomware, Malware, Phishing  
-
----
-
-### 18. [Webinar: Why network incidents escalate and how to fix response gaps](https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 06 May 2026 08:56:32 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Palo Alto Networks warns of firewall RCE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 06 May 2026 05:18:16 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-0300  
-**Categories:** Vulnerability, APT  
-
----
-
-### 20. [New stealthy Quasar Linux malware targets software developers](https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 05 May 2026 18:01:39 -0400  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -212,7 +211,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -267,7 +266,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24294, CVE-2026-24289, CVE-2026-25187, CVE-2026-26113, CVE-2026-26127, CVE-2026-26110, CVE-2026-24291, CVE-2026-21262  
+**CVEs:** CVE-2026-24294, CVE-2026-24289, CVE-2026-26127, CVE-2026-25187, CVE-2026-26110, CVE-2026-24291, CVE-2026-21262, CVE-2026-26113  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -281,7 +280,63 @@
 
 ---
 
-### 31. [Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack](https://www.securityweek.com/gemini-cli-vulnerability-could-have-led-to-code-execution-supply-chain-attack/)
+### 31. [Chrome 148 Rolls Out With 127 Security Fixes](https://www.securityweek.com/chrome-148-rolls-out-with-127-security-fixes/)
+
+**Source:** Security Week  
+**Published:** Thu, 07 May 2026 14:10:00 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-7896, CVE-2026-7898, CVE-2026-7897  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [Attackers Could Exploit AI Vision Models Using Imperceptible Image Changes](https://www.securityweek.com/attackers-could-exploit-ai-vision-models-using-imperceptible-image-changes/)
+
+**Source:** Security Week  
+**Published:** Thu, 07 May 2026 13:45:53 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 33. [Vendor Says Daemon Tools Supply Chain Attack Contained](https://www.securityweek.com/vendor-says-daemon-tools-supply-chain-attack-contained/)
+
+**Source:** Security Week  
+**Published:** Thu, 07 May 2026 13:21:02 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware, Supply Chain  
+
+---
+
+### 34. [AI Coding Agents Could Fuel Next Supply Chain Crisis](https://www.securityweek.com/ai-coding-agents-could-fuel-next-supply-chain-crisis/)
+
+**Source:** Security Week  
+**Published:** Thu, 07 May 2026 13:00:00 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 35. [Webinar Today: Securing Identity Across Humans, Machines and AI](https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/)
+
+**Source:** Security Week  
+**Published:** Thu, 07 May 2026 12:00:00 +0000  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 36. [Cisco Patches High-Severity Vulnerabilities in Enterprise Products](https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/)
+
+**Source:** Security Week  
+**Published:** Thu, 07 May 2026 11:24:01 +0000  
+**Severity:** High  
+**CVEs:** CVE-2026-20188, CVE-2026-20035, CVE-2026-20167, CVE-2026-20034, CVE-2026-20185  
+**Categories:** Vulnerability  
+
+---
+
+### 37. [Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack](https://www.securityweek.com/gemini-cli-vulnerability-could-have-led-to-code-execution-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Thu, 07 May 2026 10:39:34 +0000  
@@ -290,7 +345,7 @@
 
 ---
 
-### 32. [Claude AI Guided Hackers Toward OT Assets During Water Utility Intrusion](https://www.securityweek.com/claude-ai-guided-hackers-toward-ot-assets-during-water-utility-intrusion/)
+### 38. [Claude AI Guided Hackers Toward OT Assets During Water Utility Intrusion](https://www.securityweek.com/claude-ai-guided-hackers-toward-ot-assets-during-water-utility-intrusion/)
 
 **Source:** Security Week  
 **Published:** Thu, 07 May 2026 07:35:25 +0000  
@@ -299,7 +354,7 @@
 
 ---
 
-### 33. [Autonomous Offensive Security Firm XBOW Raises $35 Million](https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-35-million/)
+### 39. [Autonomous Offensive Security Firm XBOW Raises $35 Million](https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-35-million/)
 
 **Source:** Security Week  
 **Published:** Wed, 06 May 2026 14:49:33 +0000  
@@ -308,66 +363,12 @@
 
 ---
 
-### 34. [Herd Security Raises $3 Million for AI-Powered Training Platform](https://www.securityweek.com/herd-security-raises-3-million-for-ai-powered-training-platform/)
+### 40. [Herd Security Raises $3 Million for AI-Powered Training Platform](https://www.securityweek.com/herd-security-raises-3-million-for-ai-powered-training-platform/)
 
 **Source:** Security Week  
 **Published:** Wed, 06 May 2026 13:30:00 +0000  
 **Severity:** Low  
 **Categories:** APT  
-
----
-
-### 35. [Iranian APT Intrusion Masquerades as Chaos Ransomware Attack](https://www.securityweek.com/iranian-apt-intrusion-masquerades-as-chaos-ransomware-attack/)
-
-**Source:** Security Week  
-**Published:** Wed, 06 May 2026 13:00:00 +0000  
-**Severity:** Medium  
-**Categories:** Ransomware, Data Breach, Malware, APT  
-
----
-
-### 36. [Romanian Man Extradited to US for Role in Hacking Scheme 17 Years Ago](https://www.securityweek.com/romanian-extradited-to-us-for-role-in-hacking-scheme-17-years-ago/)
-
-**Source:** Security Week  
-**Published:** Wed, 06 May 2026 11:57:40 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Malware  
-
----
-
-### 37. [CISA Launches ‘CI Fortify’ to Prepare Critical Infrastructure for Geopolitical Cyber Conflict](https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/)
-
-**Source:** Security Week  
-**Published:** Wed, 06 May 2026 10:15:34 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, APT, Supply Chain  
-
----
-
-### 38. [Sophisticated Quasar Linux RAT Targets Software Developers](https://www.securityweek.com/sophisticated-quasar-linux-rat-targets-software-developers/)
-
-**Source:** Security Week  
-**Published:** Wed, 06 May 2026 09:48:39 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware, Phishing, APT, Supply Chain  
-
----
-
-### 39. [Government, Scientific Entities Hit via Daemon Tools Supply Chain Attack](https://www.securityweek.com/government-scientific-entities-hit-via-daemon-tools-supply-chain-attack/)
-
-**Source:** Security Week  
-**Published:** Wed, 06 May 2026 08:33:40 +0000  
-**Severity:** Low  
-**Categories:** Malware, Supply Chain  
-
----
-
-### 40. [Oracle Debuts Monthly Critical Security Patch Updates](https://www.securityweek.com/oracle-debuts-monthly-critical-security-patch-updates/)
-
-**Source:** Security Week  
-**Published:** Wed, 06 May 2026 06:32:17 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -462,7 +463,16 @@
 
 ---
 
-### 51. [Recorded Future Named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies. And there’s more.](https://www.recordedfuture.com/blog/recorded-future-named-a-leader)
+### 51. [Quantum Risk Explained](https://www.recordedfuture.com/research/quantum-risk-explained)
+
+**Source:** Recorded Future  
+**Published:** Thu, 07 May 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [Recorded Future Named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies. And there’s more.](https://www.recordedfuture.com/blog/recorded-future-named-a-leader)
 
 **Source:** Recorded Future  
 **Published:** Wed, 06 May 2026 00:00:00 GMT  
@@ -471,7 +481,7 @@
 
 ---
 
-### 52. [Threat Activity Enablers: The Backbone of Today’s Threat Landscape](https://www.recordedfuture.com/blog/threat-activity-enablers)
+### 53. [Threat Activity Enablers: The Backbone of Today’s Threat Landscape](https://www.recordedfuture.com/blog/threat-activity-enablers)
 
 **Source:** Recorded Future  
 **Published:** Wed, 06 May 2026 00:00:00 GMT  
@@ -480,7 +490,7 @@
 
 ---
 
-### 53. [Hacking Embodied AI](https://www.recordedfuture.com/research/hacking-embodied-ai)
+### 54. [Hacking Embodied AI](https://www.recordedfuture.com/research/hacking-embodied-ai)
 
 **Source:** Recorded Future  
 **Published:** Tue, 05 May 2026 00:00:00 GMT  
@@ -489,7 +499,7 @@
 
 ---
 
-### 54. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+### 55. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
 
 **Source:** Recorded Future  
 **Published:** Fri, 01 May 2026 00:00:00 GMT  
@@ -498,7 +508,7 @@
 
 ---
 
-### 55. [Risk Scenarios for the US’s Strategic Pivot](https://www.recordedfuture.com/research/us-strategic-pivot)
+### 56. [Risk Scenarios for the US’s Strategic Pivot](https://www.recordedfuture.com/research/us-strategic-pivot)
 
 **Source:** Recorded Future  
 **Published:** Thu, 30 Apr 2026 00:00:00 GMT  
@@ -507,7 +517,7 @@
 
 ---
 
-### 56. [Building with AI: Here's What No Briefing Will Tell You](https://www.recordedfuture.com/blog/building-with-ai)
+### 57. [Building with AI: Here's What No Briefing Will Tell You](https://www.recordedfuture.com/blog/building-with-ai)
 
 **Source:** Recorded Future  
 **Published:** Thu, 30 Apr 2026 00:00:00 GMT  
@@ -516,7 +526,7 @@
 
 ---
 
-### 57. [The Money Mule Solution: What Every Scam Has in Common](https://www.recordedfuture.com/blog/money-mule-solution)
+### 58. [The Money Mule Solution: What Every Scam Has in Common](https://www.recordedfuture.com/blog/money-mule-solution)
 
 **Source:** Recorded Future  
 **Published:** Tue, 28 Apr 2026 00:00:00 GMT  
@@ -525,7 +535,7 @@
 
 ---
 
-### 58. [Lazarus Doesn't Need AGI](https://www.recordedfuture.com/blog/lazarus-does-not-need-agi)
+### 59. [Lazarus Doesn't Need AGI](https://www.recordedfuture.com/blog/lazarus-does-not-need-agi)
 
 **Source:** Recorded Future  
 **Published:** Tue, 28 Apr 2026 00:00:00 GMT  
@@ -534,20 +544,11 @@
 
 ---
 
-### 59. [From Overwhelmed to Autonomous: Rethinking Threat Intelligence in 2026](https://www.recordedfuture.com/blog/rethinking-threat-intelligence-in-2026)
+### 60. [From Overwhelmed to Autonomous: Rethinking Threat Intelligence in 2026](https://www.recordedfuture.com/blog/rethinking-threat-intelligence-in-2026)
 
 **Source:** Recorded Future  
 **Published:** Fri, 24 Apr 2026 00:00:00 GMT  
 **Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 60. [Critical minerals and cyber operations](https://www.recordedfuture.com/research/critical-minerals-and-cyber-operations)
-
-**Source:** Recorded Future  
-**Published:** Thu, 23 Apr 2026 00:00:00 GMT  
-**Severity:** Critical  
 **Categories:** General Security  
 
 ---
@@ -777,8 +778,6 @@
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 30, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
