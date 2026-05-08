@@ -1,6 +1,61 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
+    "link": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
+    "published": "Fri, 08 May 2026 16:30:00 +0530",
+    "summary": "A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise functionality, such as credential harvesting, keylogging, file manipulation, clipboard monitoring, and network tunneling.\n\"QLNX targets developers and DevOps credentials across the software supply chain,\"",
+    "analysis": {
+      "issue": "Quasar Linux RAT (QLNX) harvests DevOps credentials to enable software supply chain attacks with fileless execution and dual rootkit stealth",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
+    "link": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html",
+    "published": "Fri, 08 May 2026 16:00:00 +0530",
+    "summary": "The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report investigating more than 25 million security alerts, including informational and low-severity, across live enterprise environments.&nbsp;\nThe dataset behind these findings includes 10 million monitored",
+    "analysis": {
+      "issue": "1% of low-severity alerts became real breaches across 25M events, exposing weekly missed enterprise threats",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
+    "link": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html",
+    "published": "Fri, 08 May 2026 14:11:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called \"darkworm.\"\nThe backdoor is designed as a Pluggable Authentication Module (PAM)-based post-exploitation toolkit that enables persistent SSH access by means of a magic password and specific TCP port combination.",
+    "analysis": {
+      "issue": "PamDOORa Linux backdoor abuses PAM modules for SSH persistence and credential theft, increasing Linux server compromise risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
     "link": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
     "published": "Fri, 08 May 2026 10:42:00 +0530",
@@ -132,58 +187,60 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
-    "link": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html",
-    "published": "Thu, 07 May 2026 14:50:00 +0530",
-    "summary": "Cybersecurity researchers have discovered three packages on the Python Package Index (PyPI) repository that are designed to stealthily deliver a previously unknown malware family called&nbsp;ZiChatBot on Windows and Linux systems.\n\"While these wheel packages do implement the features described on their PyPI web pages, their true purpose is to covertly deliver malicious files,\" Kaspersky&nbsp;",
+    "source": "Bleeping Computer",
+    "title": "Trellix source code breach claimed by RansomHouse hackers",
+    "link": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
+    "published": "Fri, 08 May 2026 09:23:23 -0400",
+    "summary": "The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of images as proof of the intrusion. [...]",
     "analysis": {
-      "issue": "ZiChatBot malware spread via 3 PyPI packages in July 2025 uses Zulip APIs as C2, enabling stealthy attacks across systems",
+      "issue": "The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of images as proof of the intrusion",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
-    "link": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
-    "published": "Thu, 07 May 2026 09:45:00 +0530",
-    "summary": "A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible systems.\nvm2 is an open-source library used to run untrusted JavaScript code inside a secure sandbox by intercepting and proxying JavaScript objects to prevent sandboxed code from accessing the host",
+    "source": "Bleeping Computer",
+    "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
+    "published": "Fri, 08 May 2026 08:16:32 -0400",
+    "summary": "CISA has given U.S. federal agencies four days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
     "analysis": {
-      "issue": "1, causing remote code execution risk; patched in 3",
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) has given U",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-6973"
+      ],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
-    "link": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
-    "published": "Thu, 07 May 2026 01:51:00 +0530",
-    "summary": "Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network capable of carrying out distributed denial-of-service (DDoS) attacks.\nHunt.io, which detailed the malware, said it made the discovery after identifying an exposed directory on a Netherlands-hosted",
+    "source": "Bleeping Computer",
+    "title": "Zara data breach exposed personal information of 197,000 people",
+    "link": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
+    "published": "Fri, 08 May 2026 06:42:22 -0400",
+    "summary": "Hackers who gained access to the databases of Spanish fast-fashion retailer Zara stole data belonging to more than 197,000 customers, according to data breach notification service Have I Been Pwned. [...]",
     "analysis": {
-      "issue": "xlabs_v1 botnet exploits ADB port 5555 to recruit IoT devices, enabling 21 DDoS methods and bandwidth-tiered attacks on gaming servers",
+      "issue": "Hackers who gained access to the databases of Spanish fast-fashion retailer Zara stole data belonging to more than 197,000 customers, according to data breach notification service Have I Been Pwned",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "DDoS"
+        "Data Breach"
       ]
     }
   },
@@ -212,12 +269,14 @@
     "published": "Fri, 08 May 2026 03:45:24 -0400",
     "summary": "A new Linux zero-day vulnerability, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
     "analysis": {
-      "issue": "A new Linux zero-day vulnerability, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command",
+      "issue": "A new Linux zero-day vulnerability, named Dirty Frag and tracked as CVE-2026-43284, allows local attackers to gain root privileges on most major Linux distributions with a single command",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
+      "cves": [
+        "CVE-2026-43284"
+      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -320,60 +379,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls",
-    "link": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/",
-    "published": "Thu, 07 May 2026 10:01:11 -0400",
-    "summary": "Your security controls aren't failing, they're missing where most of today's work actually happens. Keep Aware shows how browser activity like copy/paste and AI prompts bypass traditional protections. [...]",
-    "analysis": {
-      "issue": "Preventing sensitive data loss has historically been treated as an endpoint or network problem",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Americans sentenced for running 'laptop farms' for North Korea",
-    "link": "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/",
-    "published": "Thu, 07 May 2026 09:45:48 -0400",
-    "summary": "Two U.S. nationals were sentenced to 18 months in prison each for operating so-called laptop farms that helped North Korean IT workers fraudulently obtain remote employment at nearly 70 American companies. [...]",
-    "analysis": {
-      "issue": "nationals were sentenced to 18 months in prison each for operating so-called laptop farms that helped North Korean IT workers fraudulently obtain remote employment at nearly 70 American companies",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Crypto gang member gets 6.5 years for role in $230 million heist",
-    "link": "https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/",
-    "published": "Thu, 07 May 2026 08:11:53 -0400",
-    "summary": "A 20-year-old California man was sentenced to 78 months in prison for serving as a home invader and money launderer in a criminal ring that stole over $250 million in cryptocurrency. [...]",
-    "analysis": {
-      "issue": "A 20-year-old California man was sentenced to 78 months in prison for serving as a home invader and money launderer in a criminal ring that stole over $250 million in cryptocurrency",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
     "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
@@ -443,9 +448,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-32201",
         "CVE-2026-34621",
-        "CVE-2026-33825",
-        "CVE-2026-32201"
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -458,122 +463,97 @@
     "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
     "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
     "published": "Tue, 07 Apr 2026 17:02:44 +0000",
-    "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.",
-    "analysis": {
-      "issue": "Hackers linked to Russia’s military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT",
-        "Supply Chain"
-      ]
-    }
+    "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code."
   },
   {
     "source": "Krebs On Security",
     "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
     "link": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
     "published": "Mon, 06 Apr 2026 02:07:17 +0000",
-    "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.",
-    "analysis": {
-      "issue": "An elusive hacker who went by the handle “UNKN” and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
+    "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021."
   },
   {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
     "published": "Mon, 23 Mar 2026 15:43:04 +0000",
-    "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language.",
-    "analysis": {
-      "issue": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran’s time zone or have Farsi s",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
+    "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language."
   },
   {
     "source": "Krebs On Security",
     "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
     "link": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
     "published": "Fri, 20 Mar 2026 00:49:19 +0000",
-    "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.",
-    "analysis": {
-      "issue": "Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million Internet of Things (IoT) devices, such as routers and web cameras",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
+    "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline."
   },
   {
     "source": "Krebs On Security",
     "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
     "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
     "published": "Wed, 11 Mar 2026 16:20:13 +0000",
-    "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency.",
-    "analysis": {
-      "issue": "A hacktivist group with links to Iran’s intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency."
   },
   {
     "source": "Krebs On Security",
     "title": "Microsoft Patch Tuesday, March 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
     "published": "Wed, 11 Mar 2026 00:32:51 +0000",
-    "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.",
+    "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday."
+  },
+  {
+    "source": "Security Week",
+    "title": "Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants",
+    "link": "https://www.securityweek.com/polish-security-agency-reports-ics-breaches-at-five-water-treatment-plants/",
+    "published": "Fri, 08 May 2026 11:46:06 +0000",
+    "summary": "<p>The hackers gained the ability to modify equipment operational parameters, creating a direct risk to the public water supply.</p>\n<p>The post <a href=\"https://www.securityweek.com/polish-security-agency-reports-ics-breaches-at-five-water-treatment-plants/\">Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software",
+      "issue": "The hackers gained the ability to modify equipment operational parameters, creating a direct risk to the public water supply",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [
-        "CVE-2026-26110",
-        "CVE-2026-24294",
-        "CVE-2026-24289",
-        "CVE-2026-26127",
-        "CVE-2026-26113",
-        "CVE-2026-21262",
-        "CVE-2026-24291",
-        "CVE-2026-25187"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "DDoS"
+        "Ransomware",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "AI Firm Braintrust Prompts API Key Rotation After Data Breach",
+    "link": "https://www.securityweek.com/ai-firm-braintrust-prompts-api-key-rotation-after-data-breach/",
+    "published": "Fri, 08 May 2026 11:14:01 +0000",
+    "summary": "<p>Hackers accessed one of the company’s AWS accounts and compromised AI provider secrets stored in Braintrust.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-firm-braintrust-prompts-api-key-rotation-after-data-breach/\">AI Firm Braintrust Prompts API Key Rotation After Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers accessed one of the company’s AWS accounts and compromised AI provider secrets stored in Braintrust",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cyberattack Hits Canvas System Used by Thousands of Schools as Finals Loom",
+    "link": "https://www.securityweek.com/cyberattack-hits-canvas-system-used-by-thousands-of-schools-as-finals-loom/",
+    "published": "Fri, 08 May 2026 10:43:57 +0000",
+    "summary": "<p>A system that thousands of schools and universities use went offline due to a cyberattack, creating chaos as students tried to study for finals.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberattack-hits-canvas-system-used-by-thousands-of-schools-as-finals-loom/\">Cyberattack Hits Canvas System Used by Thousands of Schools as Finals Loom</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A system that thousands of schools and universities use went offline due to a cyberattack, creating chaos as students tried to study for finals",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
       ]
     }
   },
@@ -591,10 +571,10 @@
       "severity": "High",
       "cves": [
         "CVE-2025-9501",
-        "CVE-2025-48703",
-        "CVE-2026-1357",
         "CVE-2025-55182",
-        "CVE-2025-29927"
+        "CVE-2025-29927",
+        "CVE-2026-1357",
+        "CVE-2025-48703"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -657,13 +637,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-6973",
+        "CVE-2026-5787",
         "CVE-2026-5788",
+        "CVE-2026-5786",
+        "CVE-2026-1281",
         "CVE-2026-1340",
         "CVE-2026-7821",
-        "CVE-2026-1281",
-        "CVE-2026-5786",
-        "CVE-2026-5787"
+        "CVE-2026-6973"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -724,65 +704,6 @@
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Claude Code OAuth Tokens Can Be Stolen Through Stealthy MCP Hijacking",
-    "link": "https://www.securityweek.com/claude-code-oauth-tokens-can-be-stolen-through-stealthy-mcp-hijacking/",
-    "published": "Thu, 07 May 2026 14:33:06 +0000",
-    "summary": "<p>Mitiga researchers say attackers can silently redirect Claude Code MCP traffic, intercept OAuth tokens, and maintain persistent access to connected SaaS platforms.</p>\n<p>The post <a href=\"https://www.securityweek.com/claude-code-oauth-tokens-can-be-stolen-through-stealthy-mcp-hijacking/\">Claude Code OAuth Tokens Can Be Stolen Through Stealthy MCP Hijacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Mitiga researchers say attackers can silently redirect Claude Code MCP traffic, intercept OAuth tokens, and maintain persistent access to connected SaaS platforms",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chrome 148 Rolls Out With 127 Security Fixes",
-    "link": "https://www.securityweek.com/chrome-148-rolls-out-with-127-security-fixes/",
-    "published": "Thu, 07 May 2026 14:10:00 +0000",
-    "summary": "<p>The fresh browser update resolves critical-severity integer overflow and use-after-free vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-148-rolls-out-with-127-security-fixes/\">Chrome 148 Rolls Out With 127 Security Fixes</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The fresh browser update resolves critical-severity integer overflow and use-after-free vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-7897",
-        "CVE-2026-7898",
-        "CVE-2026-7896"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Attackers Could Exploit AI Vision Models Using Imperceptible Image Changes",
-    "link": "https://www.securityweek.com/attackers-could-exploit-ai-vision-models-using-imperceptible-image-changes/",
-    "published": "Thu, 07 May 2026 13:45:53 +0000",
-    "summary": "<p>Cisco’s AI security researchers have analyzed ways to target vision-language models (VLMs) using pixel-level perturbation.</p>\n<p>The post <a href=\"https://www.securityweek.com/attackers-could-exploit-ai-vision-models-using-imperceptible-image-changes/\">Attackers Could Exploit AI Vision Models Using Imperceptible Image Changes</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Cisco’s AI security researchers have analyzed ways to target vision-language models (VLMs) using pixel-level perturbation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
         "Supply Chain"
       ]
     }
@@ -949,8 +870,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20362",
-        "CVE-2025-20333"
+        "CVE-2025-20333",
+        "CVE-2025-20362"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -978,6 +899,24 @@
         "APT",
         "DDoS",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Working in London at the World’s Largest Intelligence Company",
+    "link": "https://www.recordedfuture.com/blog/working-for-recorded-future-london",
+    "published": "Fri, 08 May 2026 00:00:00 GMT",
+    "summary": "See what it is like to work at the Recorded Future London office.",
+    "analysis": {
+      "issue": "See what it is like to work at the Recorded Future London office",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1142,24 +1081,6 @@
       "threat_categories": [
         "APT",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "From Overwhelmed to Autonomous: Rethinking Threat Intelligence in 2026",
-    "link": "https://www.recordedfuture.com/blog/rethinking-threat-intelligence-in-2026",
-    "published": "Fri, 24 Apr 2026 00:00:00 GMT",
-    "summary": "For most security teams today, volume and access to intelligence isn’t the problem. It’s the speed at which they can turn that intelligence into action. .",
-    "analysis": {
-      "issue": "For most security teams today, volume and access to intelligence isn’t the problem",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1330,8 +1251,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1356,6 +1277,45 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Microsoft says Edge’s plaintext password behavior is “by design”",
+    "link": "https://www.malwarebytes.com/blog/news/2026/05/microsoft-says-edges-plaintext-password-behavior-is-by-design",
+    "published": "Fri, 08 May 2026 12:48:53 GMT",
+    "summary": "A researcher found Edge loads saved passwords into computer memory when it starts, making them easier to steal if a device is already compromised.",
+    "analysis": {
+      "issue": "Some time ago, we discussed whether you should allow your browser to remember your passwords",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "ShinyHunters escalates Canvas attacks with school login defacements",
+    "link": "https://www.malwarebytes.com/blog/news/2026/05/shinyhunters-escalates-canvas-attacks-with-school-login-defacements",
+    "published": "Fri, 08 May 2026 12:00:01 GMT",
+    "summary": "Days after the first attack, ShinyHunters is applying pressure with ransom messages on school login portals.",
+    "analysis": {
+      "issue": "Days after confirming a major data breach, Instructure is now facing a second blow",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability",
+        "Phishing"
       ]
     }
   },
@@ -1503,43 +1463,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "The 2026 World Cup scam economy is already running before the first whistle",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/05/the-2026-world-cup-scam-economy-is-already-running-before-the-first-whistle",
-    "published": "Mon, 04 May 2026 11:10:38 GMT",
-    "summary": "A four-part scam economy is already forming around the 2026 World Cup, using the tournament’s brand to sell everything from fake visas to worthless tokens.",
-    "analysis": {
-      "issue": "The FIFA World Cup 2026 is scheduled to begin June 11 across the US, Canada, and Mexico",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (April 27 &#8211; May 3)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-april-27-may-3-3",
-    "published": "Mon, 04 May 2026 07:01:00 GMT",
-    "summary": "A list of topics we covered in the week of April 27 to May 3 of 2026",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
