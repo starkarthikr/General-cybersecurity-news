@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
+    "link": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
+    "published": "Fri, 08 May 2026 10:42:00 +0530",
+    "summary": "Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel.\nDubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026-31431, CVSS score: 7.8), a recently disclosed LPE flaw impacting the Linux kernel that has since come under active exploitation in the wild. The vulnerability was reported to Linux kernel maintainers",
+    "analysis": {
+      "issue": "Dirty Frag exposes Linux systems to root escalation through chained kernel flaws, impacting Ubuntu, RHEL, Fedora, and others",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
     "link": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
     "published": "Thu, 07 May 2026 23:25:00 +0530",
@@ -170,21 +188,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
-    "link": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
-    "published": "Wed, 06 May 2026 18:30:00 +0530",
-    "summary": "The Iranian state-sponsored hacking group known as MuddyWater (aka Mango Sandstorm, Seedworm, and Static Kitten) has been attributed to a ransomware attack in what has been described as a \"false flag\" operation.\nThe attack, observed by Rapid7 in early 2026, has been found to leverage social engineering techniques via Microsoft Teams to initiate the infection sequence. Although the incident",
+    "source": "Bleeping Computer",
+    "title": "Former govt contractor convicted for wiping dozens of federal databases",
+    "link": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
+    "published": "Fri, 08 May 2026 04:45:04 -0400",
+    "summary": "A 34-year-old Virginia man was found guilty of conspiring to destroy dozens of government databases after getting fired from his job as a federal contractor. [...]",
     "analysis": {
-      "issue": "MuddyWater used Teams phishing in 2026 to steal credentials, enabling stealthy data exfiltration and persistence without encryption",
+      "issue": "A 34-year-old Virginia man was found guilty of conspiring to destroy dozens of government databases after getting fired from his job as a federal contractor",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Phishing"
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
+    "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
+    "published": "Fri, 08 May 2026 03:45:24 -0400",
+    "summary": "A new Linux zero-day vulnerability, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
+    "analysis": {
+      "issue": "A new Linux zero-day vulnerability, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -339,47 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Webinar: Why modern attacks require both security and recovery",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/",
-    "published": "Thu, 07 May 2026 08:00:08 -0400",
-    "summary": "Modern attacks don't stop at initial compromise. This webinar explores why security and recovery must work together to reduce downtime and improve resilience. [...]",
-    "analysis": {
-      "issue": "Cyberattacks are evolving faster than many MSP defenses can keep up, with phishing now serving as the primary engine behind modern cybercrime",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
-    "link": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
-    "published": "Thu, 07 May 2026 06:57:59 -0400",
-    "summary": "Palo Alto Networks warned customers that suspected state-sponsored hackers have been exploiting a critical-severity PAN-OS firewall zero-day vulnerability for nearly a month. [...]",
-    "analysis": {
-      "issue": "Palo Alto Networks warned customers that suspected state-sponsored hackers have been exploiting a critical-severity PAN-OS firewall zero-day vulnerability for nearly a month",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-0300"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
     "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
@@ -449,9 +443,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-34621",
         "CVE-2026-33825",
-        "CVE-2026-32201",
-        "CVE-2026-34621"
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -568,18 +562,111 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-25187",
-        "CVE-2026-24291",
-        "CVE-2026-26113",
-        "CVE-2026-26127",
-        "CVE-2026-21262",
-        "CVE-2026-24289",
         "CVE-2026-26110",
-        "CVE-2026-24294"
+        "CVE-2026-24294",
+        "CVE-2026-24289",
+        "CVE-2026-26127",
+        "CVE-2026-26113",
+        "CVE-2026-21262",
+        "CVE-2026-24291",
+        "CVE-2026-25187"
       ],
       "threat_categories": [
         "Vulnerability",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "‘PCPJack’ Worm Removes TeamPCP Infections, Steals Credentials",
+    "link": "https://www.securityweek.com/pcpjack-worm-removes-teampcp-infections-steals-credentials/",
+    "published": "Fri, 08 May 2026 08:32:34 +0000",
+    "summary": "<p>The malware framework targets web applications and cloud environments, including AWS, Docker, Kubernetes, and more.</p>\n<p>The post <a href=\"https://www.securityweek.com/pcpjack-worm-removes-teampcp-infections-steals-credentials/\">&#8216;PCPJack&#8217; Worm Removes TeamPCP Infections, Steals Credentials</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The malware framework targets web applications and cloud environments, including AWS, Docker, Kubernetes, and more",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2025-9501",
+        "CVE-2025-48703",
+        "CVE-2026-1357",
+        "CVE-2025-55182",
+        "CVE-2025-29927"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Ransomware Group Takes Credit for Trellix Hack",
+    "link": "https://www.securityweek.com/ransomware-group-takes-credit-for-trellix-hack/",
+    "published": "Fri, 08 May 2026 07:58:04 +0000",
+    "summary": "<p>RansomHouse has published several screenshots to demonstrate access to internal Trellix services.</p>\n<p>The post <a href=\"https://www.securityweek.com/ransomware-group-takes-credit-for-trellix-hack/\">Ransomware Group Takes Credit for Trellix Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "RansomHouse has published several screenshots to demonstrate access to internal Trellix services",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover",
+    "link": "https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/",
+    "published": "Fri, 08 May 2026 06:53:36 +0000",
+    "summary": "<p>Lax extension permissions and improper trust implementation allow attackers to inject prompts in the Claude Chrome extension.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/\">Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Lax extension permissions and improper trust implementation allow attackers to inject prompts in the Claude Chrome extension",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks",
+    "link": "https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/",
+    "published": "Fri, 08 May 2026 05:41:30 +0000",
+    "summary": "<p>CVE-2026-6973 is a high-severity vulnerability that allows an attacker who has admin privileges to execute arbitrary code.</p>\n<p>The post <a href=\"https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/\">Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CVE-2026-6973 is a high-severity vulnerability that allows an attacker who has admin privileges to execute arbitrary code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-6973",
+        "CVE-2026-5788",
+        "CVE-2026-1340",
+        "CVE-2026-7821",
+        "CVE-2026-1281",
+        "CVE-2026-5786",
+        "CVE-2026-5787"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -672,9 +759,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-7896",
+        "CVE-2026-7897",
         "CVE-2026-7898",
-        "CVE-2026-7897"
+        "CVE-2026-7896"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -697,87 +784,6 @@
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Vendor Says Daemon Tools Supply Chain Attack Contained",
-    "link": "https://www.securityweek.com/vendor-says-daemon-tools-supply-chain-attack-contained/",
-    "published": "Thu, 07 May 2026 13:21:02 +0000",
-    "summary": "<p>The software developer has identified the impacted systems, removed potentially compromised files, and validated installation packages.</p>\n<p>The post <a href=\"https://www.securityweek.com/vendor-says-daemon-tools-supply-chain-attack-contained/\">Vendor Says Daemon Tools Supply Chain Attack Contained</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The software developer has identified the impacted systems, removed potentially compromised files, and validated installation packages",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "AI Coding Agents Could Fuel Next Supply Chain Crisis",
-    "link": "https://www.securityweek.com/ai-coding-agents-could-fuel-next-supply-chain-crisis/",
-    "published": "Thu, 07 May 2026 13:00:00 +0000",
-    "summary": "<p>“TrustFall” attack shows how AI coding agents can be manipulated into launching stealthy supply chain compromises.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-coding-agents-could-fuel-next-supply-chain-crisis/\">AI Coding Agents Could Fuel Next Supply Chain Crisis</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "“TrustFall” attack shows how AI coding agents can be manipulated into launching stealthy supply chain compromises",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Webinar Today: Securing Identity Across Humans, Machines and AI",
-    "link": "https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/",
-    "published": "Thu, 07 May 2026 12:00:00 +0000",
-    "summary": "<p>From service accounts to AI-driven processes, identity is evolving faster than most security programs can adapt. Discover strategies for reducing risk and regaining control.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/\">Webinar Today: Securing Identity Across Humans, Machines and AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "From service accounts to AI-driven processes, identity is evolving faster than most security programs can adapt",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco Patches High-Severity Vulnerabilities in Enterprise Products",
-    "link": "https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/",
-    "published": "Thu, 07 May 2026 11:24:01 +0000",
-    "summary": "<p>Successful exploitation of the flaws could lead to code execution, server-side request forgery attacks, and denial-of-service conditions.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/\">Cisco Patches High-Severity Vulnerabilities in Enterprise Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Successful exploitation of the flaws could lead to code execution, server-side request forgery attacks, and denial-of-service conditions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-20167",
-        "CVE-2026-20188",
-        "CVE-2026-20185",
-        "CVE-2026-20035",
-        "CVE-2026-20034"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -943,8 +949,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20333",
-        "CVE-2025-20362"
+        "CVE-2025-20362",
+        "CVE-2025-20333"
       ],
       "threat_categories": [
         "Vulnerability",
