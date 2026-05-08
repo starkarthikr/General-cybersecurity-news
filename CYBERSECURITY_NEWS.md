@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-07 18:07:42 UTC
+**Last Updated:** 2026-05-08 03:35:41 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
+### 1. [Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access](https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 07 May 2026 23:25:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-6973  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems](https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 07 May 2026 23:15:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 07 May 2026 19:20:00 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage](https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html)
+### 4. [PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage](https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 07 May 2026 19:04:00 +0530  
@@ -23,7 +42,7 @@
 
 ---
 
-### 3. [ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories](https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html)
+### 5. [ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories](https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 07 May 2026 17:03:00 +0530  
@@ -32,7 +51,7 @@
 
 ---
 
-### 4. [Day Zero Readiness: The Operational Gaps That Break Incident Response](https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html)
+### 6. [Day Zero Readiness: The Operational Gaps That Break Incident Response](https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 07 May 2026 16:24:00 +0530  
@@ -41,7 +60,7 @@
 
 ---
 
-### 5. [PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux](https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html)
+### 7. [PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux](https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 07 May 2026 14:50:00 +0530  
@@ -50,7 +69,7 @@
 
 ---
 
-### 6. [vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution](https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html)
+### 8. [vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution](https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 07 May 2026 09:45:00 +0530  
@@ -59,7 +78,7 @@
 
 ---
 
-### 7. [Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks](https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html)
+### 9. [Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks](https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 07 May 2026 01:51:00 +0530  
@@ -68,7 +87,7 @@
 
 ---
 
-### 8. [MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack](https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html)
+### 10. [MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack](https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 06 May 2026 18:30:00 +0530  
@@ -77,25 +96,34 @@
 
 ---
 
-### 9. [The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open](https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html)
+### 11. [Canvas login portals hacked in mass ShinyHunters extortion campaign](https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 06 May 2026 17:33:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 07 May 2026 18:36:54 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Ransomware, Data Breach, Vulnerability  
 
 ---
 
-### 10. [Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?](https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html)
+### 12. [New TCLBanker malware self-spreads over WhatsApp and Outlook](https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 06 May 2026 16:27:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Thu, 07 May 2026 18:06:52 -0400  
+**Severity:** High  
+**Categories:** Malware  
 
 ---
 
-### 11. [Australia warns of ClickFix attacks pushing Vidar Stealer malware](https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/)
+### 13. [New PCPJack worm steals credentials, cleans TeamPCP infections](https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 07 May 2026 14:35:50 -0400  
+**Severity:** High  
+**Categories:** Malware, Phishing  
+
+---
+
+### 14. [Australia warns of ClickFix attacks pushing Vidar Stealer malware](https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 07 May 2026 14:00:59 -0400  
@@ -104,7 +132,7 @@
 
 ---
 
-### 12. [Ivanti warns of new EPMM flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/)
+### 15. [Ivanti warns of new EPMM flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 07 May 2026 11:20:51 -0400  
@@ -114,7 +142,7 @@
 
 ---
 
-### 13. [The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls](https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/)
+### 16. [The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls](https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 07 May 2026 10:01:11 -0400  
@@ -123,7 +151,7 @@
 
 ---
 
-### 14. [Americans sentenced for running 'laptop farms' for North Korea](https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/)
+### 17. [Americans sentenced for running 'laptop farms' for North Korea](https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 07 May 2026 09:45:48 -0400  
@@ -132,7 +160,7 @@
 
 ---
 
-### 15. [Crypto gang member gets 6.5 years for role in $230 million heist](https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/)
+### 18. [Crypto gang member gets 6.5 years for role in $230 million heist](https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 07 May 2026 08:11:53 -0400  
@@ -141,7 +169,7 @@
 
 ---
 
-### 16. [Webinar: Why modern attacks require both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/)
+### 19. [Webinar: Why modern attacks require both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 07 May 2026 08:00:08 -0400  
@@ -150,7 +178,7 @@
 
 ---
 
-### 17. [Palo Alto Networks firewall zero-day exploited for nearly a month](https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/)
+### 20. [Palo Alto Networks firewall zero-day exploited for nearly a month](https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 07 May 2026 06:57:59 -0400  
@@ -160,35 +188,16 @@
 
 ---
 
-### 18. [Fake Claude AI website delivers new 'Beagle' Windows malware](https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/)
+### 21. [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
 
-**Source:** Bleeping Computer  
-**Published:** Thu, 07 May 2026 06:02:35 -0400  
-**Severity:** High  
-**Categories:** Malware  
-
----
-
-### 19. [Hackers abuse Google ads for GoDaddy ManageWP login phishing](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 06 May 2026 17:36:06 -0400  
+**Source:** Krebs On Security  
+**Published:** Fri, 08 May 2026 02:58:46 +0000  
 **Severity:** Low  
-**Categories:** Phishing, APT  
+**Categories:** Ransomware, Data Breach  
 
 ---
 
-### 20. [Critical vm2 sandbox bug lets attackers execute code on hosts](https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 06 May 2026 14:38:38 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-26956  
-**Categories:** Vulnerability  
-
----
-
-### 21. [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
+### 22. [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 30 Apr 2026 14:04:26 +0000  
@@ -197,7 +206,7 @@
 
 ---
 
-### 22. [‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/)
+### 23. [‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 21 Apr 2026 14:53:59 +0000  
@@ -206,17 +215,17 @@
 
 ---
 
-### 23. [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
+### 24. [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
+**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
 
-### 24. [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/)
+### 25. [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 07 Apr 2026 17:02:44 +0000  
@@ -225,7 +234,7 @@
 
 ---
 
-### 25. [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
+### 26. [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 06 Apr 2026 02:07:17 +0000  
@@ -234,7 +243,7 @@
 
 ---
 
-### 26. [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/)
+### 27. [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 23 Mar 2026 15:43:04 +0000  
@@ -243,7 +252,7 @@
 
 ---
 
-### 27. [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/)
+### 28. [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 20 Mar 2026 00:49:19 +0000  
@@ -252,7 +261,7 @@
 
 ---
 
-### 28. [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
+### 29. [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 16:20:13 +0000  
@@ -261,26 +270,26 @@
 
 ---
 
-### 29. [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/)
+### 30. [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26110, CVE-2026-24294, CVE-2026-24291, CVE-2026-21262, CVE-2026-26113, CVE-2026-25187, CVE-2026-24289, CVE-2026-26127  
+**CVEs:** CVE-2026-26113, CVE-2026-24291, CVE-2026-24294, CVE-2026-25187, CVE-2026-21262, CVE-2026-26127, CVE-2026-24289, CVE-2026-26110  
 **Categories:** Vulnerability, DDoS  
 
 ---
 
-### 30. [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
+### 31. [Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders](https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/)
 
-**Source:** Krebs On Security  
-**Published:** Sun, 08 Mar 2026 23:35:42 +0000  
-**Severity:** Low  
-**Categories:** APT  
+**Source:** Security Week  
+**Published:** Thu, 07 May 2026 19:10:11 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
 
 ---
 
-### 31. [Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking](https://www.securityweek.com/palo-alto-zero-day-exploited-in-campaign-bearing-hallmarks-of-chinese-state-hacking/)
+### 32. [Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking](https://www.securityweek.com/palo-alto-zero-day-exploited-in-campaign-bearing-hallmarks-of-chinese-state-hacking/)
 
 **Source:** Security Week  
 **Published:** Thu, 07 May 2026 15:31:12 +0000  
@@ -290,7 +299,7 @@
 
 ---
 
-### 32. [Boost Security Raises $4 Million for SDLC Defense Platform](https://www.securityweek.com/boost-security-raises-4-million-for-sdlc-defense-platform/)
+### 33. [Boost Security Raises $4 Million for SDLC Defense Platform](https://www.securityweek.com/boost-security-raises-4-million-for-sdlc-defense-platform/)
 
 **Source:** Security Week  
 **Published:** Thu, 07 May 2026 14:51:00 +0000  
@@ -299,7 +308,7 @@
 
 ---
 
-### 33. [Claude Code OAuth Tokens Can Be Stolen Through Stealthy MCP Hijacking](https://www.securityweek.com/claude-code-oauth-tokens-can-be-stolen-through-stealthy-mcp-hijacking/)
+### 34. [Claude Code OAuth Tokens Can Be Stolen Through Stealthy MCP Hijacking](https://www.securityweek.com/claude-code-oauth-tokens-can-be-stolen-through-stealthy-mcp-hijacking/)
 
 **Source:** Security Week  
 **Published:** Thu, 07 May 2026 14:33:06 +0000  
@@ -308,17 +317,17 @@
 
 ---
 
-### 34. [Chrome 148 Rolls Out With 127 Security Fixes](https://www.securityweek.com/chrome-148-rolls-out-with-127-security-fixes/)
+### 35. [Chrome 148 Rolls Out With 127 Security Fixes](https://www.securityweek.com/chrome-148-rolls-out-with-127-security-fixes/)
 
 **Source:** Security Week  
 **Published:** Thu, 07 May 2026 14:10:00 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-7897, CVE-2026-7896, CVE-2026-7898  
+**CVEs:** CVE-2026-7898, CVE-2026-7896, CVE-2026-7897  
 **Categories:** Vulnerability  
 
 ---
 
-### 35. [Attackers Could Exploit AI Vision Models Using Imperceptible Image Changes](https://www.securityweek.com/attackers-could-exploit-ai-vision-models-using-imperceptible-image-changes/)
+### 36. [Attackers Could Exploit AI Vision Models Using Imperceptible Image Changes](https://www.securityweek.com/attackers-could-exploit-ai-vision-models-using-imperceptible-image-changes/)
 
 **Source:** Security Week  
 **Published:** Thu, 07 May 2026 13:45:53 +0000  
@@ -327,7 +336,7 @@
 
 ---
 
-### 36. [Vendor Says Daemon Tools Supply Chain Attack Contained](https://www.securityweek.com/vendor-says-daemon-tools-supply-chain-attack-contained/)
+### 37. [Vendor Says Daemon Tools Supply Chain Attack Contained](https://www.securityweek.com/vendor-says-daemon-tools-supply-chain-attack-contained/)
 
 **Source:** Security Week  
 **Published:** Thu, 07 May 2026 13:21:02 +0000  
@@ -336,7 +345,7 @@
 
 ---
 
-### 37. [AI Coding Agents Could Fuel Next Supply Chain Crisis](https://www.securityweek.com/ai-coding-agents-could-fuel-next-supply-chain-crisis/)
+### 38. [AI Coding Agents Could Fuel Next Supply Chain Crisis](https://www.securityweek.com/ai-coding-agents-could-fuel-next-supply-chain-crisis/)
 
 **Source:** Security Week  
 **Published:** Thu, 07 May 2026 13:00:00 +0000  
@@ -345,7 +354,7 @@
 
 ---
 
-### 38. [Webinar Today: Securing Identity Across Humans, Machines and AI](https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/)
+### 39. [Webinar Today: Securing Identity Across Humans, Machines and AI](https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/)
 
 **Source:** Security Week  
 **Published:** Thu, 07 May 2026 12:00:00 +0000  
@@ -354,22 +363,13 @@
 
 ---
 
-### 39. [Cisco Patches High-Severity Vulnerabilities in Enterprise Products](https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/)
+### 40. [Cisco Patches High-Severity Vulnerabilities in Enterprise Products](https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/)
 
 **Source:** Security Week  
 **Published:** Thu, 07 May 2026 11:24:01 +0000  
 **Severity:** High  
-**CVEs:** CVE-2026-20035, CVE-2026-20188, CVE-2026-20167, CVE-2026-20185, CVE-2026-20034  
+**CVEs:** CVE-2026-20167, CVE-2026-20188, CVE-2026-20185, CVE-2026-20034, CVE-2026-20035  
 **Categories:** Vulnerability  
-
----
-
-### 40. [Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack](https://www.securityweek.com/gemini-cli-vulnerability-could-have-led-to-code-execution-supply-chain-attack/)
-
-**Source:** Security Week  
-**Published:** Thu, 07 May 2026 10:39:34 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Supply Chain  
 
 ---
 
@@ -634,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
+    "link": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
+    "published": "Thu, 07 May 2026 23:25:00 +0530",
+    "summary": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild.\nThe high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation affecting EPMM before versions 12.6.1.1, 12.7.0.1, and 12.8.0.1.\nIt allows \"a remotely authenticated user with administrative access to achieve remote code",
+    "analysis": {
+      "issue": "Ivanti EPMM flaw CVE-2026-6973 exploited in limited attacks; CISA mandates fixes by May 10, 2026, increasing urgency",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-6973"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
+    "link": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
+    "published": "Thu, 07 May 2026 23:15:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments.\n\"The toolset harvests credentials from cloud, container, developer, productivity, and financial services, then exfiltrates the data through attacker-controlled infrastructure while attempting",
+    "analysis": {
+      "issue": "PCPJack steals credentials via 6 Python modules exploiting 5 CVEs, enabling cloud spread and fraud-driven attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
     "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
     "published": "Thu, 07 May 2026 19:20:00 +0530",
@@ -151,38 +189,59 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open",
-    "link": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
-    "published": "Wed, 06 May 2026 17:33:00 +0530",
-    "summary": "For nearly 20 years, we at The Hacker News have mostly told scary stories about cyberspace — big hacks, broken systems, and new threats.\nBut behind every headline, there’s a quieter, better story.\nIt’s the story of leaders making tough calls under pressure, teams building smarter defenses, and security products that keep hunting threats 24/7 — even when it’s hard.\nMost of the time, this work is",
+    "source": "Bleeping Computer",
+    "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
+    "link": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
+    "published": "Thu, 07 May 2026 18:36:54 -0400",
+    "summary": "The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and universities. [...]",
     "analysis": {
-      "issue": "CyberStars Awards 2026 launched as a global program recognizing cybersecurity excellence across products, companies, and professionals",
+      "issue": "The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting a vulnerability to deface Canvas login portals for hundreds of colleges and universities",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
-    "link": "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html",
-    "published": "Wed, 06 May 2026 16:27:00 +0530",
-    "summary": "Analysts recently confirmed what identity security teams have quietly feared: AI agents are being deployed faster than enterprises can govern them. In their inaugural Market Guide for Guardian Agents, Gartner states that “enterprise adoption of AI agents is accelerating, outpacing maturity of governance policy controls.” Enterprise leaders can request access to the Gartner Market Guide for",
+    "source": "Bleeping Computer",
+    "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
+    "link": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
+    "published": "Thu, 07 May 2026 18:06:52 -0400",
+    "summary": "A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]",
     "analysis": {
-      "issue": "AI agents outpace IAM governance as 50% identity activity stays unseen, increasing enterprise security and compliance risks",
+      "issue": "A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
+    "link": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
+    "published": "Thu, 07 May 2026 14:35:50 -0400",
+    "summary": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
+    "analysis": {
+      "issue": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
       ]
     }
   },
@@ -321,59 +380,21 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
-    "published": "Thu, 07 May 2026 06:02:35 -0400",
-    "summary": "A fake version for the Claude AI website offers a malicious Claude-Pro Relay download that pushes a previously undocumented backdoor for Windows named Beagle. [...]",
+    "source": "Krebs On Security",
+    "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
+    "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
+    "published": "Fri, 08 May 2026 02:58:46 +0000",
+    "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak data from 275 million students and faculty across nearly 9,000 educational institutions.",
     "analysis": {
-      "issue": "A fake version for the Claude AI website offers a malicious Claude-Pro Relay download that pushes a previously undocumented backdoor for Windows named Beagle",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
-    "published": "Wed, 06 May 2026 17:36:06 -0400",
-    "summary": "A phishing campaign delivered through Google sponsored search results is targeting credentials for ManageWP, GoDaddy's platform for managing fleets of WordPress websites. [...]",
-    "analysis": {
-      "issue": "A phishing campaign delivered through Google sponsored search results is targeting credentials for ManageWP, GoDaddy’s platform for managing fleets of WordPress websites",
+      "issue": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service’s login",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
-    "published": "Wed, 06 May 2026 14:38:38 -0400",
-    "summary": "A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]",
-    "analysis": {
-      "issue": "A critical vulnerability in the popular Node",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-26956"
-      ],
-      "threat_categories": [
-        "Vulnerability"
+        "Ransomware",
+        "Data Breach"
       ]
     }
   },
@@ -429,8 +450,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-33825",
-        "CVE-2026-32201",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -547,14 +568,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26110",
-        "CVE-2026-24294",
-        "CVE-2026-24291",
-        "CVE-2026-21262",
         "CVE-2026-26113",
+        "CVE-2026-24291",
+        "CVE-2026-24294",
         "CVE-2026-25187",
+        "CVE-2026-21262",
+        "CVE-2026-26127",
         "CVE-2026-24289",
-        "CVE-2026-26127"
+        "CVE-2026-26110"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -563,20 +584,20 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "How AI Assistants are Moving the Security Goalposts",
-    "link": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
-    "published": "Sun, 08 Mar 2026 23:35:42 +0000",
-    "summary": "AI-based assistants or \"agents\" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.",
+    "source": "Security Week",
+    "title": "Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders",
+    "link": "https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/",
+    "published": "Thu, 07 May 2026 19:10:11 +0000",
+    "summary": "<p>Musk said that he could have founded OpenAI as a for-profit company, just like the other companies he started or took over. “I deliberately chose this,” he said, “for the public good.”</p>\n<p>The post <a href=\"https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/\">Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "AI-based assistants or “agents” — autonomous programs that have access to the user’s computer, files, online services and can automate virtually any task — are growing in popularity with developers and IT workers",
+      "issue": "Musk said that he could have founded OpenAI as a for-profit company, just like the other companies he started or took over",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "APT"
+        "Vulnerability"
       ]
     }
   },
@@ -651,9 +672,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-7897",
+        "CVE-2026-7898",
         "CVE-2026-7896",
-        "CVE-2026-7898"
+        "CVE-2026-7897"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -749,33 +770,14 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20035",
-        "CVE-2026-20188",
         "CVE-2026-20167",
+        "CVE-2026-20188",
         "CVE-2026-20185",
-        "CVE-2026-20034"
+        "CVE-2026-20034",
+        "CVE-2026-20035"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack",
-    "link": "https://www.securityweek.com/gemini-cli-vulnerability-could-have-led-to-code-execution-supply-chain-attack/",
-    "published": "Thu, 07 May 2026 10:39:34 +0000",
-    "summary": "<p>Attackers could inject prompts into a GitHub issue and take over the AI agent designed to automatically triage the issue.</p>\n<p>The post <a href=\"https://www.securityweek.com/gemini-cli-vulnerability-could-have-led-to-code-execution-supply-chain-attack/\">Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Attackers could inject prompts into a GitHub issue and take over the AI agent designed to automatically triage the issue",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
       ]
     }
   },
@@ -1322,8 +1324,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
