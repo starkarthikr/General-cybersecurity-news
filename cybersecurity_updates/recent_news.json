@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
+    "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
+    "published": "Fri, 08 May 2026 20:38:00 +0530",
+    "summary": "Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick users into joining a subscription that provided fake data and incurred financial loss.\nThe 28 apps have collectively racked up more than 7.3 million downloads, with one of them alone accounting for over",
+    "analysis": {
+      "issue": "28 fake Google Play apps gained 7",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
+    "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
+    "published": "Fri, 08 May 2026 19:31:00 +0530",
+    "summary": "The hardest part of cybersecurity isn't the technology, it’s the people.\nEvery major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection.\nIn 2026, hackers are using AI to make these \"first clicks\" nearly impossible to spot. If a single laptop gets compromised on your watch, do you have a plan to stop it from taking down",
+    "analysis": {
+      "issue": "AI-driven phishing enables initial device compromise in 2026, causing rapid breach escalation within minutes, increasing enterprise risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
     "link": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
     "published": "Fri, 08 May 2026 16:30:00 +0530",
@@ -112,24 +148,6 @@
   },
   {
     "source": "The Hacker News",
-    "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
-    "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
-    "published": "Thu, 07 May 2026 19:20:00 +0530",
-    "summary": "The hardest part of cybersecurity isn't the technology, it’s the people.\nEvery major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection.\nIn 2026, hackers are using AI to make these \"first clicks\" nearly impossible to spot. If a single laptop gets compromised on your watch, do you have a plan to stop it from taking down",
-    "analysis": {
-      "issue": "AI-driven phishing enables initial device compromise in 2026, causing rapid breach escalation within minutes, increasing enterprise risk",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
     "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
     "link": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html",
     "published": "Thu, 07 May 2026 19:04:00 +0530",
@@ -169,20 +187,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
-    "link": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html",
-    "published": "Thu, 07 May 2026 16:24:00 +0530",
-    "summary": "Having an incident response retainer, or even a pre-approved external incident response firm, is not the same as being ready for an incident. A retainer means someone will answer the phone. Operational readiness determines whether that team can do meaningful work the moment they do.&nbsp;\nThat distinction matters far more than many organizations realize. In the first hours of a security incident",
+    "source": "Bleeping Computer",
+    "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
+    "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
+    "published": "Fri, 08 May 2026 12:18:31 -0400",
+    "summary": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
     "analysis": {
-      "issue": "Delayed IR access and 14-day logs limit visibility during breaches, increasing attacker dwell time and recovery costs",
+      "issue": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
+    "link": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
+    "published": "Fri, 08 May 2026 10:02:12 -0400",
+    "summary": "Attackers move faster than overwhelmed SOC teams can realistically investigate alerts. Prophet Security breaks down how AI can help analysts investigate alerts faster and focus on real threats. [...]",
+    "analysis": {
+      "issue": "By Rich Perkins, Principal Sales Engineer, Prophet Security Your security spend has roughly doubled in six years",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
       ]
     }
   },
@@ -267,16 +304,14 @@
     "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
     "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
     "published": "Fri, 08 May 2026 03:45:24 -0400",
-    "summary": "A new Linux zero-day vulnerability, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
+    "summary": "A new Linux zero-day exploit, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
     "analysis": {
-      "issue": "A new Linux zero-day vulnerability, named Dirty Frag and tracked as CVE-2026-43284, allows local attackers to gain root privileges on most major Linux distributions with a single command",
+      "issue": "A new Linux zero-day exploit, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [
-        "CVE-2026-43284"
-      ],
+      "cves": [],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -336,45 +371,6 @@
       "threat_categories": [
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
-    "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
-    "published": "Thu, 07 May 2026 14:00:59 -0400",
-    "summary": "The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute  the Vidar Stealer info-stealing malware. [...]",
-    "analysis": {
-      "issue": "The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute  the Vidar Stealer info-stealing malware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
-    "published": "Thu, 07 May 2026 11:20:51 -0400",
-    "summary": "Ivanti warned customers today to patch a high-severity remote code execution vulnerability in Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
-    "analysis": {
-      "issue": "Ivanti warned customers today to patch a high-severity remote code execution vulnerability in Endpoint Manager Mobile (EPMM) exploited in zero-day attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-6973"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -449,8 +445,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-32201",
-        "CVE-2026-34621",
-        "CVE-2026-33825"
+        "CVE-2026-33825",
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -463,42 +459,145 @@
     "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
     "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
     "published": "Tue, 07 Apr 2026 17:02:44 +0000",
-    "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code."
+    "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.",
+    "analysis": {
+      "issue": "Hackers linked to Russia’s military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT",
+        "Supply Chain"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
     "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
     "link": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
     "published": "Mon, 06 Apr 2026 02:07:17 +0000",
-    "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021."
+    "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.",
+    "analysis": {
+      "issue": "An elusive hacker who went by the handle “UNKN” and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
     "published": "Mon, 23 Mar 2026 15:43:04 +0000",
-    "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language."
+    "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language.",
+    "analysis": {
+      "issue": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran’s time zone or have Farsi s",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
     "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
     "link": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
     "published": "Fri, 20 Mar 2026 00:49:19 +0000",
-    "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline."
+    "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.",
+    "analysis": {
+      "issue": "Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million Internet of Things (IoT) devices, such as routers and web cameras",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
     "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
     "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
     "published": "Wed, 11 Mar 2026 16:20:13 +0000",
-    "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency."
+    "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency.",
+    "analysis": {
+      "issue": "A hacktivist group with links to Iran’s intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
     "title": "Microsoft Patch Tuesday, March 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
     "published": "Wed, 11 Mar 2026 00:32:51 +0000",
-    "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday."
+    "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.",
+    "analysis": {
+      "issue": "today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-26113",
+        "CVE-2026-24294",
+        "CVE-2026-24289",
+        "CVE-2026-21262",
+        "CVE-2026-25187",
+        "CVE-2026-26110",
+        "CVE-2026-24291",
+        "CVE-2026-26127"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner",
+    "link": "https://www.securityweek.com/in-other-news-train-hacker-arrested-pamdoora-linux-backdoor-new-cisa-director-frontrunner/",
+    "published": "Fri, 08 May 2026 14:30:00 +0000",
+    "summary": "<p>Other noteworthy stories that might have slipped under the radar: US gov targets 72-hour patch cycles, malware uses Windows Phone Link to steal OTPs, spy operation targets Eurasian drone industry.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-train-hacker-arrested-pamdoora-linux-backdoor-new-cisa-director-frontrunner/\">In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Other noteworthy stories that might have slipped under the radar: US gov targets 72-hour patch cycles, malware uses Windows Phone Link to steal OTPs, spy operation targets Eurasian drone industry",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
   },
   {
     "source": "Security Week",
@@ -570,11 +669,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-9501",
-        "CVE-2025-55182",
-        "CVE-2025-29927",
         "CVE-2026-1357",
-        "CVE-2025-48703"
+        "CVE-2025-48703",
+        "CVE-2025-55182",
+        "CVE-2025-9501",
+        "CVE-2025-29927"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -637,13 +736,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-7821",
+        "CVE-2026-6973",
         "CVE-2026-5787",
-        "CVE-2026-5788",
         "CVE-2026-5786",
         "CVE-2026-1281",
-        "CVE-2026-1340",
-        "CVE-2026-7821",
-        "CVE-2026-6973"
+        "CVE-2026-5788",
+        "CVE-2026-1340"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -687,24 +786,6 @@
         "Vulnerability",
         "Malware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Boost Security Raises $4 Million for SDLC Defense Platform",
-    "link": "https://www.securityweek.com/boost-security-raises-4-million-for-sdlc-defense-platform/",
-    "published": "Thu, 07 May 2026 14:51:00 +0000",
-    "summary": "<p>The company is expanding its platform’s capabilities with the acquisition of SecureIQx and Korbit.ai.</p>\n<p>The post <a href=\"https://www.securityweek.com/boost-security-raises-4-million-for-sdlc-defense-platform/\">Boost Security Raises $4 Million for SDLC Defense Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company is expanding its platform’s capabilities with the acquisition of SecureIQx and Korbit",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   },
@@ -870,8 +951,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20333",
-        "CVE-2025-20362"
+        "CVE-2025-20362",
+        "CVE-2025-20333"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -917,6 +998,61 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "A Complete History of Cybersecurity: From Early Viruses to AI-Powered Threats",
+    "link": "https://www.recordedfuture.com/blog/cybersecurity-history",
+    "published": "Fri, 08 May 2026 00:00:00 GMT",
+    "summary": "A comprehensive history of cybersecurity and the eras of threat on the internet.",
+    "analysis": {
+      "issue": "A comprehensive history of cybersecurity and the eras of threat on the internet",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "The Different Types of Payment Fraud and How to Prevent Them",
+    "link": "https://www.recordedfuture.com/blog/types-of-payment-fraud",
+    "published": "Fri, 08 May 2026 00:00:00 GMT",
+    "summary": "Explore the different types of payment fraud and become aware of telltale signs and how to prevent them.",
+    "analysis": {
+      "issue": "Explore the different types of payment fraud and become aware of telltale signs and how to prevent them",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Digital Citizenship Glossary: Key Terms Every Internet User Should Know",
+    "link": "https://www.recordedfuture.com/blog/digital-citizenship-glossary",
+    "published": "Fri, 08 May 2026 00:00:00 GMT",
+    "summary": "A glossary of key internet terms every user should know to protect themselves from scams, phishing, malware, and other digital threats.",
+    "analysis": {
+      "issue": "A glossary of key internet terms every user should know to protect themselves from scams, phishing, malware, and other digital threats",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
       ]
     }
   },
@@ -1026,61 +1162,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Building with AI: Here's What No Briefing Will Tell You",
-    "link": "https://www.recordedfuture.com/blog/building-with-ai",
-    "published": "Thu, 30 Apr 2026 00:00:00 GMT",
-    "summary": "What building with AI for three months revealed about four leadership blind spots executives can't afford to ignore: the comprehension gap, eroding competitive moats, deployment complexity, and what \"senior\" really means now.",
-    "analysis": {
-      "issue": "What building with AI for three months revealed about four leadership blind spots executives can't afford to ignore: the comprehension gap, eroding competitive moats, deployment complexity, and what \"senior\" really means now",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "The Money Mule Solution: What Every Scam Has in Common",
-    "link": "https://www.recordedfuture.com/blog/money-mule-solution",
-    "published": "Tue, 28 Apr 2026 00:00:00 GMT",
-    "summary": "Learn how mule account intelligence — not tactic-tracking — is the most effective lever for preventing APP fraud before funds move.",
-    "analysis": {
-      "issue": "Learn how mule account intelligence — not tactic-tracking — is the most effective lever for preventing APP fraud before funds move",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Lazarus Doesn't Need AGI",
-    "link": "https://www.recordedfuture.com/blog/lazarus-does-not-need-agi",
-    "published": "Tue, 28 Apr 2026 00:00:00 GMT",
-    "summary": "Explore the 2026 Claude Mythos breach, supply chain risks, and the $2B+ crypto theft pipeline.",
-    "analysis": {
-      "issue": "Explore the 2026 Claude Mythos breach, supply chain risks, and the $2B+ crypto theft pipeline",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT",
-        "Supply Chain"
       ]
     }
   },
