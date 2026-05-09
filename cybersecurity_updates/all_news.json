@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
+    "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
+    "published": "Fri, 08 May 2026 23:42:00 +0530",
+    "summary": "Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms.\nThe activity is being tracked by Elastic Security Labs under the moniker REF3076. The malware family is assessed to be a major update of the Maverick, which is known to leverage a worm called SORVEPOTEL to spread via",
+    "analysis": {
+      "issue": "TCLBANKER targets 59 financial platforms using WhatsApp worms and Outlook phishing, increasing banking credential theft risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
     "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
     "published": "Fri, 08 May 2026 20:38:00 +0530",
@@ -163,26 +182,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
-    "link": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
-    "published": "Thu, 07 May 2026 17:03:00 +0530",
-    "summary": "Bad week.\nTurns out the easiest way to get hacked in 2026 is still the same old garbage: shady packages, fake apps, forgotten DNS junk, scam ads, and stolen logins getting dumped into Discord channels like it’s normal. Some of these attack chains don’t even feel sophisticated anymore. More like some tired guy with a Telegram account and too much free time. The worst part is how often this stuff",
-    "analysis": {
-      "issue": "ThreatsDay Bulletin: fake apps, supply chain attacks, AI-fueled exploits, ransomware chaos, and the biggest cyber threats this week",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Supply Chain"
       ]
     }
   },
@@ -563,14 +562,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26113",
-        "CVE-2026-24294",
         "CVE-2026-24289",
-        "CVE-2026-21262",
-        "CVE-2026-25187",
+        "CVE-2026-24294",
         "CVE-2026-26110",
+        "CVE-2026-26127",
+        "CVE-2026-25187",
+        "CVE-2026-21262",
         "CVE-2026-24291",
-        "CVE-2026-26127"
+        "CVE-2026-26113"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -670,10 +669,10 @@
       "severity": "High",
       "cves": [
         "CVE-2026-1357",
-        "CVE-2025-48703",
-        "CVE-2025-55182",
         "CVE-2025-9501",
-        "CVE-2025-29927"
+        "CVE-2025-29927",
+        "CVE-2025-48703",
+        "CVE-2025-55182"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -736,12 +735,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-7821",
-        "CVE-2026-6973",
         "CVE-2026-5787",
-        "CVE-2026-5786",
         "CVE-2026-1281",
+        "CVE-2026-7821",
+        "CVE-2026-5786",
         "CVE-2026-5788",
+        "CVE-2026-6973",
         "CVE-2026-1340"
       ],
       "threat_categories": [

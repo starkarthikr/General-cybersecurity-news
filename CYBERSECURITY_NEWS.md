@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-08 17:52:25 UTC
+**Last Updated:** 2026-05-09 03:36:09 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads](https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html)
+### 1. [TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms](https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 08 May 2026 23:42:00 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 2. [Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads](https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 08 May 2026 20:38:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
+### 3. [One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 08 May 2026 19:31:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise](https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html)
+### 4. [Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise](https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 08 May 2026 16:30:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk](https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html)
+### 5. [One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk](https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 08 May 2026 16:00:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials](https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html)
+### 6. [New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials](https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 08 May 2026 14:11:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions](https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html)
+### 7. [Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions](https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 08 May 2026 10:42:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access](https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html)
+### 8. [Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access](https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 07 May 2026 23:25:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems](https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html)
+### 9. [PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems](https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 07 May 2026 23:15:00 +0530  
@@ -77,22 +86,13 @@
 
 ---
 
-### 9. [PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage](https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html)
+### 10. [PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage](https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 07 May 2026 19:04:00 +0530  
 **Severity:** Low  
 **CVEs:** CVE-2026-0300  
 **Categories:** Vulnerability  
-
----
-
-### 10. [ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories](https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 07 May 2026 17:03:00 +0530  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability, Supply Chain  
 
 ---
 
@@ -274,7 +274,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26113, CVE-2026-24294, CVE-2026-24289, CVE-2026-21262, CVE-2026-25187, CVE-2026-26110, CVE-2026-24291, CVE-2026-26127  
+**CVEs:** CVE-2026-24289, CVE-2026-24294, CVE-2026-26110, CVE-2026-26127, CVE-2026-25187, CVE-2026-21262, CVE-2026-24291, CVE-2026-26113  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -320,7 +320,7 @@
 **Source:** Security Week  
 **Published:** Fri, 08 May 2026 08:32:34 +0000  
 **Severity:** High  
-**CVEs:** CVE-2026-1357, CVE-2025-48703, CVE-2025-55182, CVE-2025-9501, CVE-2025-29927  
+**CVEs:** CVE-2026-1357, CVE-2025-9501, CVE-2025-29927, CVE-2025-48703, CVE-2025-55182  
 **Categories:** Vulnerability, Malware, Phishing, Supply Chain  
 
 ---
@@ -348,7 +348,7 @@
 **Source:** Security Week  
 **Published:** Fri, 08 May 2026 05:41:30 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-7821, CVE-2026-6973, CVE-2026-5787, CVE-2026-5786, CVE-2026-1281, CVE-2026-5788, CVE-2026-1340  
+**CVEs:** CVE-2026-5787, CVE-2026-1281, CVE-2026-7821, CVE-2026-5786, CVE-2026-5788, CVE-2026-6973, CVE-2026-1340  
 **Categories:** Vulnerability  
 
 ---
