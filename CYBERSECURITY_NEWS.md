@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-09 17:28:45 UTC
+**Last Updated:** 2026-05-10 03:52:21 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,16 @@
 
 ---
 
-### 11. [Fake OpenAI repository on Hugging Face pushes infostealer malware](https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/)
+### 11. [JDownloader site hacked to replace installers with Python RAT malware](https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 09 May 2026 15:27:58 -0400  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 12. [Fake OpenAI repository on Hugging Face pushes infostealer malware](https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 09 May 2026 10:26:03 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [NVIDIA confirms GeForce NOW data breach affecting Armenian users](https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/)
+### 13. [NVIDIA confirms GeForce NOW data breach affecting Armenian users](https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 08 May 2026 12:18:31 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Why More Analysts Won’t Solve Your SOC’s Alert Problem](https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/)
+### 14. [Why More Analysts Won’t Solve Your SOC’s Alert Problem](https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 08 May 2026 10:02:12 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [Trellix source code breach claimed by RansomHouse hackers](https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/)
+### 15. [Trellix source code breach claimed by RansomHouse hackers](https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 08 May 2026 09:23:23 -0400  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [CISA gives feds four days to patch Ivanti flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/)
+### 16. [CISA gives feds four days to patch Ivanti flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 08 May 2026 08:16:32 -0400  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [Zara data breach exposed personal information of 197,000 people](https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/)
+### 17. [Zara data breach exposed personal information of 197,000 people](https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 08 May 2026 06:42:22 -0400  
@@ -150,7 +159,7 @@
 
 ---
 
-### 17. [Former govt contractor convicted for wiping dozens of federal databases](https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/)
+### 18. [Former govt contractor convicted for wiping dozens of federal databases](https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 08 May 2026 04:45:04 -0400  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [New Linux 'Dirty Frag' zero-day gives root on all major distros](https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/)
+### 19. [New Linux 'Dirty Frag' zero-day gives root on all major distros](https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 08 May 2026 03:45:24 -0400  
@@ -168,21 +177,12 @@
 
 ---
 
-### 19. [Canvas login portals hacked in mass ShinyHunters extortion campaign](https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/)
+### 20. [Canvas login portals hacked in mass ShinyHunters extortion campaign](https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 07 May 2026 18:36:54 -0400  
 **Severity:** Low  
 **Categories:** Ransomware, Data Breach, Vulnerability  
-
----
-
-### 20. [New TCLBanker malware self-spreads over WhatsApp and Outlook](https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 07 May 2026 18:06:52 -0400  
-**Severity:** High  
-**Categories:** Malware  
 
 ---
 
@@ -273,7 +273,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26127, CVE-2026-25187, CVE-2026-26110, CVE-2026-24291, CVE-2026-26113, CVE-2026-24294, CVE-2026-24289, CVE-2026-21262  
+**CVEs:** CVE-2026-24291, CVE-2026-26113, CVE-2026-24294, CVE-2026-21262, CVE-2026-25187, CVE-2026-24289, CVE-2026-26110, CVE-2026-26127  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -319,7 +319,7 @@
 **Source:** Security Week  
 **Published:** Fri, 08 May 2026 08:32:34 +0000  
 **Severity:** High  
-**CVEs:** CVE-2025-55182, CVE-2025-48703, CVE-2025-9501, CVE-2026-1357, CVE-2025-29927  
+**CVEs:** CVE-2025-48703, CVE-2025-9501, CVE-2025-55182, CVE-2025-29927, CVE-2026-1357  
 **Categories:** Vulnerability, Malware, Phishing, Supply Chain  
 
 ---
@@ -347,7 +347,7 @@
 **Source:** Security Week  
 **Published:** Fri, 08 May 2026 05:41:30 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-1340, CVE-2026-5787, CVE-2026-1281, CVE-2026-7821, CVE-2026-5786, CVE-2026-5788, CVE-2026-6973  
+**CVEs:** CVE-2026-1281, CVE-2026-1340, CVE-2026-5788, CVE-2026-6973, CVE-2026-7821, CVE-2026-5786, CVE-2026-5787  
 **Categories:** Vulnerability  
 
 ---
@@ -632,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
