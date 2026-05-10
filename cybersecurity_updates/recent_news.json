@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
+    "link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
+    "published": "Sun, 10 May 2026 18:11:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory.\nThe out-of-bounds read flaw, which likely impacts over 300,000 servers globally, is tracked as CVE-2026-7482 (CVSS score: 9.1). It has been codenamed&nbsp;Bleeding Llama by Cyera.\nOllama is a",
+    "analysis": {
+      "issue": "Critical out-of-bounds read in Ollama before 0",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
     "link": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
     "published": "Sat, 09 May 2026 12:46:00 +0530",
@@ -160,24 +178,6 @@
       "cves": [
         "CVE-2026-6973"
       ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
-    "link": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
-    "published": "Thu, 07 May 2026 23:15:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments.\n\"The toolset harvests credentials from cloud, container, developer, productivity, and financial services, then exfiltrates the data through attacker-controlled infrastructure while attempting",
-    "analysis": {
-      "issue": "PCPJack steals credentials via 6 Python modules exploiting 5 CVEs, enabling cloud spread and fraud-driven attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -441,9 +441,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
+        "CVE-2026-32201",
         "CVE-2026-33825",
-        "CVE-2026-32201"
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -560,14 +560,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26113",
-        "CVE-2026-24294",
         "CVE-2026-24291",
-        "CVE-2026-24289",
-        "CVE-2026-21262",
-        "CVE-2026-25187",
+        "CVE-2026-26113",
+        "CVE-2026-26110",
         "CVE-2026-26127",
-        "CVE-2026-26110"
+        "CVE-2026-21262",
+        "CVE-2026-24294",
+        "CVE-2026-24289",
+        "CVE-2026-25187"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -666,11 +666,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-1357",
+        "CVE-2025-48703",
         "CVE-2025-55182",
         "CVE-2025-29927",
-        "CVE-2025-9501",
-        "CVE-2025-48703"
+        "CVE-2026-1357",
+        "CVE-2025-9501"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -734,11 +734,11 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-7821",
-        "CVE-2026-1281",
+        "CVE-2026-1340",
         "CVE-2026-5786",
+        "CVE-2026-1281",
         "CVE-2026-6973",
         "CVE-2026-5788",
-        "CVE-2026-1340",
         "CVE-2026-5787"
       ],
       "threat_categories": [
