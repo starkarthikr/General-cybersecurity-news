@@ -1,6 +1,46 @@
 [
   {
     "source": "The Hacker News",
+    "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
+    "link": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
+    "published": "Mon, 11 May 2026 23:24:00 +0530",
+    "summary": "A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments.\nThe attack exploits CVE-2026-41940, a vulnerability impacting cPanel and WebHost Manager (WHM) that could result in an authentication bypass and allow remote attackers to gain elevated control of the control",
+    "analysis": {
+      "issue": "CVE-2026-41940 exploitation by 2,000 IPs enabled Filemanager backdoor attacks, causing credential theft and persistent access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-41940"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
+    "link": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
+    "published": "Mon, 11 May 2026 21:15:00 +0530",
+    "summary": "Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a malicious context for vulnerability discovery and exploit generation.\nThe activity is said to be the work of cybercrime threat actors who appear to",
+    "analysis": {
+      "issue": "Google identified the first malicious AI use for a zero-day 2FA bypass in an open-source admin tool, accelerating threat actor operations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
     "link": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
     "published": "Mon, 11 May 2026 18:06:00 +0530",
@@ -148,38 +188,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
-    "link": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
-    "published": "Fri, 08 May 2026 16:30:00 +0530",
-    "summary": "A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise functionality, such as credential harvesting, keylogging, file manipulation, clipboard monitoring, and network tunneling.\n\"QLNX targets developers and DevOps credentials across the software supply chain,\"",
+    "source": "Bleeping Computer",
+    "title": "Instructure confirms hackers used Canvas flaw to deface portals",
+    "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
+    "published": "Mon, 11 May 2026 11:26:26 -0400",
+    "summary": "Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message. [...]",
     "analysis": {
-      "issue": "Quasar Linux RAT (QLNX) harvests DevOps credentials to enable software supply chain attacks with fileless execution and dual rootkit stealth",
+      "issue": "Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
-    "link": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html",
-    "published": "Fri, 08 May 2026 16:00:00 +0530",
-    "summary": "The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report investigating more than 25 million security alerts, including informational and low-severity, across live enterprise environments.&nbsp;\nThe dataset behind these findings includes 10 million monitored",
-    "analysis": {
-      "issue": "1% of low-severity alerts became real breaches across 25M events, exposing weekly missed enterprise threats",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Ransomware",
+        "Vulnerability"
       ]
     }
   },
@@ -350,24 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
-    "link": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
-    "published": "Fri, 08 May 2026 10:02:12 -0400",
-    "summary": "Attackers move faster than overwhelmed SOC teams can realistically investigate alerts. Prophet Security breaks down how AI can help analysts investigate alerts faster and focus on real threats. [...]",
-    "analysis": {
-      "issue": "By Rich Perkins, Principal Sales Engineer, Prophet Security Your security spend has roughly doubled in six years",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
     "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
@@ -437,8 +442,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-33825",
+        "CVE-2026-32201",
         "CVE-2026-34621"
       ],
       "threat_categories": [
@@ -556,18 +561,36 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26127",
-        "CVE-2026-24291",
-        "CVE-2026-26110",
-        "CVE-2026-24294",
-        "CVE-2026-21262",
+        "CVE-2026-24289",
         "CVE-2026-25187",
+        "CVE-2026-26110",
+        "CVE-2026-24291",
+        "CVE-2026-26127",
+        "CVE-2026-24294",
         "CVE-2026-26113",
-        "CVE-2026-24289"
+        "CVE-2026-21262"
       ],
       "threat_categories": [
         "Vulnerability",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Frame Security Emerges From Stealth With $50M for Awareness and Training Platform",
+    "link": "https://www.securityweek.com/frame-security-emerges-from-stealth-with-50m-for-awareness-and-training-platform/",
+    "published": "Mon, 11 May 2026 17:17:37 +0000",
+    "summary": "<p>Team8, Index Ventures, Picture Capital, Elad Gil, Cerca Partners, and Tesonet invested in Frame Security.</p>\n<p>The post <a href=\"https://www.securityweek.com/frame-security-emerges-from-stealth-with-50m-for-awareness-and-training-platform/\">Frame Security Emerges From Stealth With $50M for Awareness and Training Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Team8, Index Ventures, Picture Capital, Elad Gil, Cerca Partners, and Tesonet invested in Frame Security",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
       ]
     }
   },
@@ -746,25 +769,6 @@
       "threat_categories": [
         "Ransomware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Over 500 Organizations Hit in Years-Long Phishing Campaign",
-    "link": "https://www.securityweek.com/over-500-organizations-hit-in-years-long-phishing-campaign/",
-    "published": "Mon, 11 May 2026 03:49:18 +0000",
-    "summary": "<p>Victims span across the aviation, critical infrastructure, energy, logistics, public administration, and technology sectors.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-500-organizations-hit-in-years-long-phishing-campaign/\">Over 500 Organizations Hit in Years-Long Phishing Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Victims span across the aviation, critical infrastructure, energy, logistics, public administration, and technology sectors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "APT"
       ]
     }
   },
@@ -1311,8 +1315,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
