@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-10 17:29:07 UTC
+**Last Updated:** 2026-05-11 04:02:50 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,16 @@
 
 ---
 
-### 11. [Police shut down reboot of Crimenetwork marketplace, arrest admin](https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/)
+### 11. [Hackers abuse Google ads, Claude.ai chats to push Mac malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 10 May 2026 13:52:15 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 12. [Police shut down reboot of Crimenetwork marketplace, arrest admin](https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 10 May 2026 10:16:47 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [JDownloader site hacked to replace installers with Python RAT malware](https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/)
+### 13. [JDownloader site hacked to replace installers with Python RAT malware](https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 09 May 2026 15:27:58 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Fake OpenAI repository on Hugging Face pushes infostealer malware](https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/)
+### 14. [Fake OpenAI repository on Hugging Face pushes infostealer malware](https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 09 May 2026 10:26:03 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [NVIDIA confirms GeForce NOW data breach affecting Armenian users](https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/)
+### 15. [NVIDIA confirms GeForce NOW data breach affecting Armenian users](https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 08 May 2026 12:18:31 -0400  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [Why More Analysts Won’t Solve Your SOC’s Alert Problem](https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/)
+### 16. [Why More Analysts Won’t Solve Your SOC’s Alert Problem](https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 08 May 2026 10:02:12 -0400  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [Trellix source code breach claimed by RansomHouse hackers](https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/)
+### 17. [Trellix source code breach claimed by RansomHouse hackers](https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 08 May 2026 09:23:23 -0400  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [CISA gives feds four days to patch Ivanti flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/)
+### 18. [CISA gives feds four days to patch Ivanti flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 08 May 2026 08:16:32 -0400  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [Zara data breach exposed personal information of 197,000 people](https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/)
+### 19. [Zara data breach exposed personal information of 197,000 people](https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 08 May 2026 06:42:22 -0400  
@@ -168,21 +177,12 @@
 
 ---
 
-### 19. [Former govt contractor convicted for wiping dozens of federal databases](https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/)
+### 20. [Former govt contractor convicted for wiping dozens of federal databases](https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 08 May 2026 04:45:04 -0400  
 **Severity:** Low  
 **Categories:** APT  
-
----
-
-### 20. [New Linux 'Dirty Frag' zero-day gives root on all major distros](https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 08 May 2026 03:45:24 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -218,7 +218,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -273,12 +273,21 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-21262, CVE-2026-24291, CVE-2026-25187, CVE-2026-26113, CVE-2026-24294, CVE-2026-26127, CVE-2026-24289, CVE-2026-26110  
+**CVEs:** CVE-2026-26127, CVE-2026-24291, CVE-2026-26110, CVE-2026-21262, CVE-2026-26113, CVE-2026-24294, CVE-2026-24289, CVE-2026-25187  
 **Categories:** Vulnerability, DDoS  
 
 ---
 
-### 31. [In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner](https://www.securityweek.com/in-other-news-train-hacker-arrested-pamdoora-linux-backdoor-new-cisa-director-frontrunner/)
+### 31. [Over 500 Organizations Hit in Years-Long Phishing Campaign](https://www.securityweek.com/over-500-organizations-hit-in-years-long-phishing-campaign/)
+
+**Source:** Security Week  
+**Published:** Mon, 11 May 2026 03:49:18 +0000  
+**Severity:** Critical  
+**Categories:** Phishing, APT  
+
+---
+
+### 32. [In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner](https://www.securityweek.com/in-other-news-train-hacker-arrested-pamdoora-linux-backdoor-new-cisa-director-frontrunner/)
 
 **Source:** Security Week  
 **Published:** Fri, 08 May 2026 14:30:00 +0000  
@@ -287,7 +296,7 @@
 
 ---
 
-### 32. [Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants](https://www.securityweek.com/polish-security-agency-reports-ics-breaches-at-five-water-treatment-plants/)
+### 33. [Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants](https://www.securityweek.com/polish-security-agency-reports-ics-breaches-at-five-water-treatment-plants/)
 
 **Source:** Security Week  
 **Published:** Fri, 08 May 2026 11:46:06 +0000  
@@ -296,7 +305,7 @@
 
 ---
 
-### 33. [AI Firm Braintrust Prompts API Key Rotation After Data Breach](https://www.securityweek.com/ai-firm-braintrust-prompts-api-key-rotation-after-data-breach/)
+### 34. [AI Firm Braintrust Prompts API Key Rotation After Data Breach](https://www.securityweek.com/ai-firm-braintrust-prompts-api-key-rotation-after-data-breach/)
 
 **Source:** Security Week  
 **Published:** Fri, 08 May 2026 11:14:01 +0000  
@@ -305,7 +314,7 @@
 
 ---
 
-### 34. [Cyberattack Hits Canvas System Used by Thousands of Schools as Finals Loom](https://www.securityweek.com/cyberattack-hits-canvas-system-used-by-thousands-of-schools-as-finals-loom/)
+### 35. [Cyberattack Hits Canvas System Used by Thousands of Schools as Finals Loom](https://www.securityweek.com/cyberattack-hits-canvas-system-used-by-thousands-of-schools-as-finals-loom/)
 
 **Source:** Security Week  
 **Published:** Fri, 08 May 2026 10:43:57 +0000  
@@ -314,17 +323,17 @@
 
 ---
 
-### 35. [‘PCPJack’ Worm Removes TeamPCP Infections, Steals Credentials](https://www.securityweek.com/pcpjack-worm-removes-teampcp-infections-steals-credentials/)
+### 36. [‘PCPJack’ Worm Removes TeamPCP Infections, Steals Credentials](https://www.securityweek.com/pcpjack-worm-removes-teampcp-infections-steals-credentials/)
 
 **Source:** Security Week  
 **Published:** Fri, 08 May 2026 08:32:34 +0000  
 **Severity:** High  
-**CVEs:** CVE-2025-9501, CVE-2025-48703, CVE-2025-29927, CVE-2026-1357, CVE-2025-55182  
+**CVEs:** CVE-2025-48703, CVE-2025-9501, CVE-2026-1357, CVE-2025-55182, CVE-2025-29927  
 **Categories:** Vulnerability, Malware, Phishing, Supply Chain  
 
 ---
 
-### 36. [Ransomware Group Takes Credit for Trellix Hack](https://www.securityweek.com/ransomware-group-takes-credit-for-trellix-hack/)
+### 37. [Ransomware Group Takes Credit for Trellix Hack](https://www.securityweek.com/ransomware-group-takes-credit-for-trellix-hack/)
 
 **Source:** Security Week  
 **Published:** Fri, 08 May 2026 07:58:04 +0000  
@@ -333,7 +342,7 @@
 
 ---
 
-### 37. [Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover](https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/)
+### 38. [Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover](https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/)
 
 **Source:** Security Week  
 **Published:** Fri, 08 May 2026 06:53:36 +0000  
@@ -342,32 +351,22 @@
 
 ---
 
-### 38. [Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks](https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/)
+### 39. [Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks](https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 08 May 2026 05:41:30 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-5786, CVE-2026-1281, CVE-2026-7821, CVE-2026-5788, CVE-2026-1340, CVE-2026-6973, CVE-2026-5787  
+**CVEs:** CVE-2026-1281, CVE-2026-6973, CVE-2026-1340, CVE-2026-5786, CVE-2026-5788, CVE-2026-7821, CVE-2026-5787  
 **Categories:** Vulnerability  
 
 ---
 
-### 39. [Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders](https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/)
+### 40. [Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders](https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/)
 
 **Source:** Security Week  
 **Published:** Thu, 07 May 2026 19:10:11 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 40. [Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking](https://www.securityweek.com/palo-alto-zero-day-exploited-in-campaign-bearing-hallmarks-of-chinese-state-hacking/)
-
-**Source:** Security Week  
-**Published:** Thu, 07 May 2026 15:31:12 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-0300  
-**Categories:** Vulnerability, Malware, APT  
 
 ---
 
@@ -448,7 +447,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20333, CVE-2025-20362  
+**CVEs:** CVE-2025-20362, CVE-2025-20333  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -632,7 +631,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
