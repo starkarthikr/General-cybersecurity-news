@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
+    "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
+    "published": "Tue, 12 May 2026 22:14:00 +0530",
+    "summary": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution.\nExim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email.\nThe vulnerability, tracked as CVE-2026-45185, aka Dead.Letter, has been described as a use-after-free",
+    "analysis": {
+      "issue": "2 GnuTLS builds, causing heap corruption and possible code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
+    "link": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
+    "published": "Tue, 12 May 2026 20:17:00 +0530",
+    "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\"\n\"We're dealing with a major malicious attack on Ruby Gems right now,\" Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. \"Signups are paused for the time being.",
+    "analysis": {
+      "issue": "RubyGems halted new registrations after a major attack involving hundreds of malicious packages, increasing supply chain risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
     "link": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
     "published": "Tue, 12 May 2026 18:20:00 +0530",
@@ -40,7 +76,7 @@
     "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
     "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
     "published": "Tue, 12 May 2026 17:16:00 +0530",
-    "summary": "TeamPCP, the threat actor behind the recent&nbsp;supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign.\nThe affected npm packages have been modified to include an obfuscated JavaScript file (\"router_init.js\") that's designed to profile the execution",
+    "summary": "TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign.\nThe affected npm packages have been modified to include an obfuscated JavaScript file (\"router_init.js\") that's designed to profile the execution",
     "analysis": {
       "issue": "TeamPCP’s Mini Shai-Hulud campaign used hijacked GitHub OIDC tokens to spread a credential-stealing worm through TanStack npm packages",
       "solution": null,
@@ -144,35 +180,31 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
-    "link": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
-    "published": "Mon, 11 May 2026 23:24:00 +0530",
-    "summary": "A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments.\nThe attack exploits CVE-2026-41940, a vulnerability impacting cPanel and WebHost Manager (WHM) that could result in an authentication bypass and allow remote attackers to gain elevated control of the control",
+    "source": "Bleeping Computer",
+    "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
+    "published": "Tue, 12 May 2026 14:09:12 -0400",
+    "summary": "Microsoft has released Windows 11 KB5089549 and KB5087420 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
     "analysis": {
-      "issue": "CVE-2026-41940 exploitation by 2,000 IPs enabled Filemanager backdoor attacks, causing credential theft and persistent access",
+      "issue": "Microsoft has released Windows 11 KB5089549 and KB5087420 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-41940"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing"
+        "General Security"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
-    "link": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
-    "published": "Mon, 11 May 2026 21:15:00 +0530",
-    "summary": "Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a malicious context for vulnerability discovery and exploit generation.\nThe activity is said to be the work of cybercrime threat actors who appear to",
+    "source": "Bleeping Computer",
+    "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
+    "published": "Tue, 12 May 2026 14:08:06 -0400",
+    "summary": "Today is Microsoft's May 2026 Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed this month. [...]",
     "analysis": {
-      "issue": "Google identified the first malicious AI use for a zero-day 2FA bypass in an open-source admin tool, accelerating threat actor operations",
+      "issue": "Today is Microsoft's May 2026 Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -180,6 +212,43 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Škoda warns of customer data breach after online shop hack",
+    "link": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
+    "published": "Tue, 12 May 2026 13:07:01 -0400",
+    "summary": "Škoda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers. [...]",
+    "analysis": {
+      "issue": "Škoda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Android 17 to expand banking scam call and privacy protections",
+    "link": "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/",
+    "published": "Tue, 12 May 2026 13:00:00 -0400",
+    "summary": "Android 17, expected to roll out next month, will introduce several security and privacy features focused on device theft, threat detection, and banking scam calls. [...]",
+    "analysis": {
+      "issue": "Android 17, expected to roll out next month, will introduce several security and privacy features focused on device theft, threat detection, and banking scam calls",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -214,8 +283,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34263",
-        "CVE-2026-34260"
+        "CVE-2026-34260",
+        "CVE-2026-34263"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -297,81 +366,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Instructure confirms hackers used Canvas flaw to deface portals",
-    "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
-    "published": "Mon, 11 May 2026 11:26:26 -0400",
-    "summary": "Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message. [...]",
-    "analysis": {
-      "issue": "Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Why Changing Passwords Doesn’t End an Active Directory Breach",
-    "link": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
-    "published": "Mon, 11 May 2026 09:53:56 -0400",
-    "summary": "Resetting a password doesn't always remove attackers from Active Directory. Specops Software explains how cached credentials and Kerberos tickets can keep attackers authenticated after a reset. [...]",
-    "analysis": {
-      "issue": "Password resets are often the first response to a suspected compromise",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool",
-    "link": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/",
-    "published": "Mon, 11 May 2026 09:02:30 -0400",
-    "summary": "Researchers at Google Threat Intelligence Group (GTIG) say that a zero-day exploit targeting a popular open-source web administration tool was likely generated using AI. [...]",
-    "analysis": {
-      "issue": "Researchers at Google Threat Intelligence Group (GTIG) say that a zero-day exploit targeting a popular open-source web administration tool was likely generated using AI",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Webinar this week: Prevention alone is not enough against modern attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
-    "published": "Mon, 11 May 2026 08:30:00 -0400",
-    "summary": "This upcoming webinar explores how organizations need to combine security, backups, and recovery planning to reduce the impact of modern cyberattacks. [...]",
-    "analysis": {
-      "issue": "Modern cyberattacks are no longer limited to malware or isolated phishing emails",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
     "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
@@ -441,9 +435,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
+        "CVE-2026-32201",
         "CVE-2026-33825",
-        "CVE-2026-32201"
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -560,18 +554,97 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-25187",
+        "CVE-2026-24291",
+        "CVE-2026-26127",
         "CVE-2026-21262",
+        "CVE-2026-24289",
         "CVE-2026-26113",
         "CVE-2026-26110",
-        "CVE-2026-25187",
-        "CVE-2026-24294",
-        "CVE-2026-24291",
-        "CVE-2026-24289",
-        "CVE-2026-26127"
+        "CVE-2026-24294"
       ],
       "threat_categories": [
         "Vulnerability",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Microsoft Patches 137 Vulnerabilities",
+    "link": "https://www.securityweek.com/microsoft-patches-137-vulnerabilities/",
+    "published": "Tue, 12 May 2026 18:07:39 +0000",
+    "summary": "<p>Fresh security updates resolve critical flaws in Azure, Windows, Dynamics 365, and the SSO Plugin for Jira &#038; Confluence.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-137-vulnerabilities/\">Microsoft Patches 137 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Fresh security updates resolve critical flaws in Azure, Windows, Dynamics 365, and the SSO Plugin for Jira & Confluence",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-40364",
+        "CVE-2026-40361",
+        "CVE-2026-41103"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Exaforce Raises $125 Million for Agentic SOC Platform",
+    "link": "https://www.securityweek.com/exaforce-raises-125-million-for-agentic-soc-platform/",
+    "published": "Tue, 12 May 2026 17:23:00 +0000",
+    "summary": "<p>Exaforce has raised a total of $200 million and plans on using the latest investment for product development and international expansion. </p>\n<p>The post <a href=\"https://www.securityweek.com/exaforce-raises-125-million-for-agentic-soc-platform/\">Exaforce Raises $125 Million for Agentic SOC Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Exaforce has raised a total of $200 million and plans on using the latest investment for product development and international expansion",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Adobe Patches 52 Vulnerabilities in 10 Products",
+    "link": "https://www.securityweek.com/adobe-patches-52-vulnerabilities-in-10-products/",
+    "published": "Tue, 12 May 2026 16:47:21 +0000",
+    "summary": "<p>While none of the flaws have been exploited in the wild, many of them could lead to arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-52-vulnerabilities-in-10-products/\">Adobe Patches 52 Vulnerabilities in 10 Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "While none of the flaws have been exploited in the wild, many of them could lead to arbitrary code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-34660",
+        "CVE-2026-34659"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "White Circle Raises $11 Million for AI Control Platform",
+    "link": "https://www.securityweek.com/white-circle-raises-11-million-for-ai-control-platform/",
+    "published": "Tue, 12 May 2026 15:40:21 +0000",
+    "summary": "<p>The startup will invest in accelerating product development, hiring new talent, and expanding its customer base.</p>\n<p>The post <a href=\"https://www.securityweek.com/white-circle-raises-11-million-for-ai-control-platform/\">White Circle Raises $11 Million for AI Control Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The startup will invest in accelerating product development, hiring new talent, and expanding its customer base",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -684,92 +757,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34263",
+        "CVE-2026-34259",
         "CVE-2026-34260",
-        "CVE-2026-34259"
+        "CVE-2026-34263"
       ],
       "threat_categories": [
         "Vulnerability",
         "Malware",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Claude Mythos Finds Only One Curl Vulnerability; Experts Divided on What It Really Means",
-    "link": "https://www.securityweek.com/claude-mythos-finds-only-one-curl-vulnerability-experts-divided-on-what-it-really-means/",
-    "published": "Tue, 12 May 2026 11:15:51 +0000",
-    "summary": "<p>Curl’s lead developer says Mythos claims are marketing, but many in the industry believe the results stem from Curl’s robust security.</p>\n<p>The post <a href=\"https://www.securityweek.com/claude-mythos-finds-only-one-curl-vulnerability-experts-divided-on-what-it-really-means/\">Claude Mythos Finds Only One Curl Vulnerability; Experts Divided on What It Really Means</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Curl’s lead developer says Mythos claims are marketing, but many in the industry believe the results stem from Curl’s robust security",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Is the SOC Obsolete, and We Just Haven’t Admitted It Yet?",
-    "link": "https://www.securityweek.com/is-the-soc-obsolete-and-we-just-havent-admitted-it-yet/",
-    "published": "Tue, 12 May 2026 11:00:00 +0000",
-    "summary": "<p>Many AI-first enterprises have already embraced sovereign architectures for general AI initiatives; cybersecurity—and the SOC—should be next.</p>\n<p>The post <a href=\"https://www.securityweek.com/is-the-soc-obsolete-and-we-just-havent-admitted-it-yet/\">Is the SOC Obsolete, and We Just Haven’t Admitted It Yet?</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Many AI-first enterprises have already embraced sovereign architectures for general AI initiatives; cybersecurity—and the SOC—should be next",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack",
-    "link": "https://www.securityweek.com/tanstack-mistral-ai-uipath-hit-in-fresh-supply-chain-attack/",
-    "published": "Tue, 12 May 2026 10:10:33 +0000",
-    "summary": "<p>Over 400 malicious versions of 170 packages were published as part of the new Mini Shai-Hulud campaign.</p>\n<p>The post <a href=\"https://www.securityweek.com/tanstack-mistral-ai-uipath-hit-in-fresh-supply-chain-attack/\">TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Over 400 malicious versions of 170 packages were published as part of the new Mini Shai-Hulud campaign",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Frame Security Emerges From Stealth With $50M for Awareness and Training Platform",
-    "link": "https://www.securityweek.com/frame-security-emerges-from-stealth-with-50m-for-awareness-and-training-platform/",
-    "published": "Mon, 11 May 2026 17:17:37 +0000",
-    "summary": "<p>Team8, Index Ventures, Picture Capital, Elad Gil, Cerca Partners, and Tesonet invested in Frame Security.</p>\n<p>The post <a href=\"https://www.securityweek.com/frame-security-emerges-from-stealth-with-50m-for-awareness-and-training-platform/\">Frame Security Emerges From Stealth With $50M for Awareness and Training Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Team8, Index Ventures, Picture Capital, Elad Gil, Cerca Partners, and Tesonet invested in Frame Security",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
@@ -955,8 +950,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20362",
-        "CVE-2025-20333"
+        "CVE-2025-20333",
+        "CVE-2025-20362"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1344,6 +1339,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Fake Claude search results lure Mac users into ClickFix attack",
+    "link": "https://www.malwarebytes.com/blog/news/2026/05/fake-claude-search-results-lure-mac-users-into-clickfix-attack",
+    "published": "Tue, 12 May 2026 15:46:55 GMT",
+    "summary": "Researchers found a ClickFix campaign that uses fake Claude setup guides to trick Mac users into infecting themselves.",
+    "analysis": {
+      "issue": "Researchers found that cybercriminals are using sponsored search results and shared Claude chats to lure victims into a typical ClickFix attack to install malware on macOS devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "1 in 8 employees have sold company logins or know someone who has",
     "link": "https://www.malwarebytes.com/blog/news/2026/05/1-in-8-employees-have-sold-company-logins-or-know-someone-who-has",
     "published": "Tue, 12 May 2026 09:21:39 GMT",
@@ -1492,7 +1505,7 @@
   },
   {
     "source": "Malwarebytes",
-    "title": "Google Chrome&#8217;s silent 4GB AI download problem",
+    "title": "Google Chrome&#8217;s silent 4GB AI download problem [updated]",
     "link": "https://www.malwarebytes.com/blog/news/2026/05/google-chromes-silent-4gb-ai-download-problem",
     "published": "Wed, 06 May 2026 16:17:03 GMT",
     "summary": "Google Chrome writes a 4GB AI model to users’ devices without asking, and reinstalls it if you delete it.",
@@ -1505,25 +1518,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Attackers adopt JavaScript runtime Bun to spread NWHStealer",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/05/attackers-adopt-javascript-runtime-bun-to-spread-nwhstealer",
-    "published": "Wed, 06 May 2026 12:50:55 GMT",
-    "summary": "A legitimate developer tool is being repurposed by attackers to package and spread this Windows infostealer in harder-to-detect ways.",
-    "analysis": {
-      "issue": "In our previous research, we analyzed a Windows infostealer we track as NWHStealer",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
       ]
     }
   },
