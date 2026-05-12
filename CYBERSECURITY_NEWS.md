@@ -1,10 +1,46 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-12 04:13:46 UTC
+**Last Updated:** 2026-05-12 10:58:44 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack](https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html)
+### 1. [Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages](https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 12 May 2026 14:20:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak](https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 12 May 2026 13:07:00 +0530  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 3. [OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation](https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 12 May 2026 12:25:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android](https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 12 May 2026 10:48:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack](https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 12 May 2026 00:00:00 +0530  
@@ -13,7 +49,7 @@
 
 ---
 
-### 2. [cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor](https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html)
+### 6. [cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor](https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 11 May 2026 23:24:00 +0530  
@@ -23,7 +59,7 @@
 
 ---
 
-### 3. [Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation](https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html)
+### 7. [Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation](https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 11 May 2026 21:15:00 +0530  
@@ -32,7 +68,7 @@
 
 ---
 
-### 4. [⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More](https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html)
+### 8. [⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More](https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 11 May 2026 18:06:00 +0530  
@@ -41,7 +77,7 @@
 
 ---
 
-### 5. [Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room](https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html)
+### 9. [Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room](https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 11 May 2026 17:00:00 +0530  
@@ -50,7 +86,7 @@
 
 ---
 
-### 6. [Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads](https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html)
+### 10. [Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads](https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 11 May 2026 12:35:00 +0530  
@@ -59,43 +95,16 @@
 
 ---
 
-### 7. [Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak](https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html)
+### 11. [Instructure reaches 'agreement' with ShinyHunters to stop data leak](https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/)
 
-**Source:** The Hacker News  
-**Published:** Sun, 10 May 2026 18:11:00 +0530  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 8. [cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now](https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 09 May 2026 12:46:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 12 May 2026 05:23:56 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Ransomware, Data Breach  
 
 ---
 
-### 9. [TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms](https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 08 May 2026 23:42:00 +0530  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
-
----
-
-### 10. [Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads](https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 08 May 2026 20:38:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [GM agrees to $12.75M California settlement over sale of drivers’ data](https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/)
+### 12. [GM agrees to $12.75M California settlement over sale of drivers’ data](https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 11 May 2026 18:40:34 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Official CheckMarx Jenkins package compromised with infostealer](https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/)
+### 13. [Official CheckMarx Jenkins package compromised with infostealer](https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 11 May 2026 18:03:06 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [New GhostLock tool abuses Windows API to block file access](https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/)
+### 14. [New GhostLock tool abuses Windows API to block file access](https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 11 May 2026 18:02:00 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [Instructure confirms hackers used Canvas flaw to deface portals](https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/)
+### 15. [Instructure confirms hackers used Canvas flaw to deface portals](https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 11 May 2026 11:26:26 -0400  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [Why Changing Passwords Doesn’t End an Active Directory Breach](https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/)
+### 16. [Why Changing Passwords Doesn’t End an Active Directory Breach](https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 11 May 2026 09:53:56 -0400  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [Google: Hackers used AI to develop zero-day exploit for web admin tool](https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/)
+### 17. [Google: Hackers used AI to develop zero-day exploit for web admin tool](https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 11 May 2026 09:02:30 -0400  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [Webinar this week: Prevention alone is not enough against modern attacks](https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/)
+### 18. [Webinar this week: Prevention alone is not enough against modern attacks](https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 11 May 2026 08:30:00 -0400  
@@ -158,7 +167,7 @@
 
 ---
 
-### 18. [TrickMo Android banker adopts TON blockchain for covert comms](https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/)
+### 19. [TrickMo Android banker adopts TON blockchain for covert comms](https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 11 May 2026 05:03:02 -0400  
@@ -167,21 +176,12 @@
 
 ---
 
-### 19. [Hackers abuse Google ads, Claude.ai chats to push Mac malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/)
+### 20. [Hackers abuse Google ads, Claude.ai chats to push Mac malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 10 May 2026 13:52:15 -0400  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 20. [Police shut down reboot of Crimenetwork marketplace, arrest admin](https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 10 May 2026 10:16:47 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -272,12 +272,21 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26110, CVE-2026-24289, CVE-2026-25187, CVE-2026-21262, CVE-2026-24291, CVE-2026-26113, CVE-2026-24294, CVE-2026-26127  
+**CVEs:** CVE-2026-26113, CVE-2026-25187, CVE-2026-24289, CVE-2026-26110, CVE-2026-26127, CVE-2026-24291, CVE-2026-24294, CVE-2026-21262  
 **Categories:** Vulnerability, DDoS  
 
 ---
 
-### 31. [Frame Security Emerges From Stealth With $50M for Awareness and Training Platform](https://www.securityweek.com/frame-security-emerges-from-stealth-with-50m-for-awareness-and-training-platform/)
+### 31. [TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack](https://www.securityweek.com/tanstack-mistral-ai-uipath-hit-in-fresh-supply-chain-attack/)
+
+**Source:** Security Week  
+**Published:** Tue, 12 May 2026 10:10:33 +0000  
+**Severity:** High  
+**Categories:** Vulnerability, Malware, Supply Chain  
+
+---
+
+### 32. [Frame Security Emerges From Stealth With $50M for Awareness and Training Platform](https://www.securityweek.com/frame-security-emerges-from-stealth-with-50m-for-awareness-and-training-platform/)
 
 **Source:** Security Week  
 **Published:** Mon, 11 May 2026 17:17:37 +0000  
@@ -286,7 +295,7 @@
 
 ---
 
-### 32. [Build Application Firewalls Aim to Stop the Next Supply Chain Attack](https://www.securityweek.com/build-application-firewalls-aim-to-stop-the-next-supply-chain-attack/)
+### 33. [Build Application Firewalls Aim to Stop the Next Supply Chain Attack](https://www.securityweek.com/build-application-firewalls-aim-to-stop-the-next-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Mon, 11 May 2026 14:06:01 +0000  
@@ -295,7 +304,7 @@
 
 ---
 
-### 33. [Google Detects First AI-Generated Zero-Day Exploit](https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/)
+### 34. [Google Detects First AI-Generated Zero-Day Exploit](https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/)
 
 **Source:** Security Week  
 **Published:** Mon, 11 May 2026 13:04:21 +0000  
@@ -304,7 +313,7 @@
 
 ---
 
-### 34. [Skoda Data Breach Hits Online Shop Customers](https://www.securityweek.com/skoda-data-breach-hits-online-shop-customers/)
+### 35. [Skoda Data Breach Hits Online Shop Customers](https://www.securityweek.com/skoda-data-breach-hits-online-shop-customers/)
 
 **Source:** Security Week  
 **Published:** Mon, 11 May 2026 11:54:27 +0000  
@@ -313,7 +322,7 @@
 
 ---
 
-### 35. [Cloudflare Lays Off 1,100 Employees in AI-Driven Restructuring](https://www.securityweek.com/cloudflare-lays-off-1100-employees-in-ai-driven-restructuring/)
+### 36. [Cloudflare Lays Off 1,100 Employees in AI-Driven Restructuring](https://www.securityweek.com/cloudflare-lays-off-1100-employees-in-ai-driven-restructuring/)
 
 **Source:** Security Week  
 **Published:** Mon, 11 May 2026 11:25:02 +0000  
@@ -322,7 +331,7 @@
 
 ---
 
-### 36. [SailPoint Discloses GitHub Repository Hack](https://www.securityweek.com/sailpoint-discloses-github-repository-hack/)
+### 37. [SailPoint Discloses GitHub Repository Hack](https://www.securityweek.com/sailpoint-discloses-github-repository-hack/)
 
 **Source:** Security Week  
 **Published:** Mon, 11 May 2026 10:52:23 +0000  
@@ -331,7 +340,7 @@
 
 ---
 
-### 37. [Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack](https://www.securityweek.com/checkmarx-jenkins-ast-plugin-compromised-in-supply-chain-attack/)
+### 38. [Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack](https://www.securityweek.com/checkmarx-jenkins-ast-plugin-compromised-in-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Mon, 11 May 2026 09:34:55 +0000  
@@ -340,7 +349,7 @@
 
 ---
 
-### 38. [Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools](https://www.securityweek.com/canvas-system-is-online-after-a-cyberattack-disrupted-thousands-of-schools/)
+### 39. [Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools](https://www.securityweek.com/canvas-system-is-online-after-a-cyberattack-disrupted-thousands-of-schools/)
 
 **Source:** Security Week  
 **Published:** Mon, 11 May 2026 08:35:13 +0000  
@@ -349,7 +358,7 @@
 
 ---
 
-### 39. [New ‘Dirty Frag’ Linux Vulnerability Possibly Exploited in Attacks](https://www.securityweek.com/new-dirty-frag-linux-vulnerability-possibly-exploited-in-attacks/)
+### 40. [New ‘Dirty Frag’ Linux Vulnerability Possibly Exploited in Attacks](https://www.securityweek.com/new-dirty-frag-linux-vulnerability-possibly-exploited-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Mon, 11 May 2026 08:15:28 +0000  
@@ -359,16 +368,16 @@
 
 ---
 
-### 40. [Resurrected ‘Crimenetwork’ Marketplace Taken Down, Administrator Arrested](https://www.securityweek.com/resurrected-crimenetwork-marketplace-taken-down-administrator-arrested/)
+### 41. [State-sponsored actors, better known as the friends you don’t want](https://blog.talosintelligence.com/state-sponsored-actors-better-known-as-the-friends-you-dont-want/)
 
-**Source:** Security Week  
-**Published:** Mon, 11 May 2026 07:25:12 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Phishing  
+**Source:** Talos Blog  
+**Published:** Tue, 12 May 2026 10:00:54 GMT  
+**Severity:** Low  
+**Categories:** Ransomware, Vulnerability, Malware  
 
 ---
 
-### 41. [Unplug your way to better code](https://blog.talosintelligence.com/unplug-your-way-to-better-code/)
+### 42. [Unplug your way to better code](https://blog.talosintelligence.com/unplug-your-way-to-better-code/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 07 May 2026 18:00:40 GMT  
@@ -377,7 +386,7 @@
 
 ---
 
-### 42. [Insights into the clustering and reuse of phone numbers in scam emails](https://blog.talosintelligence.com/insights-into-the-clustering-and-reuse-of-phone-numbers-in-scam-emails/)
+### 43. [Insights into the clustering and reuse of phone numbers in scam emails](https://blog.talosintelligence.com/insights-into-the-clustering-and-reuse-of-phone-numbers-in-scam-emails/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 06 May 2026 10:00:12 GMT  
@@ -386,7 +395,7 @@
 
 ---
 
-### 43. [UAT-8302 and its box full of malware](https://blog.talosintelligence.com/uat-8302/)
+### 44. [UAT-8302 and its box full of malware](https://blog.talosintelligence.com/uat-8302/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 05 May 2026 10:00:30 GMT  
@@ -395,7 +404,7 @@
 
 ---
 
-### 44. [CloudZ RAT potentially steals OTP messages using Pheno plugin](https://blog.talosintelligence.com/cloudz-pheno-infostealer/)
+### 45. [CloudZ RAT potentially steals OTP messages using Pheno plugin](https://blog.talosintelligence.com/cloudz-pheno-infostealer/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 05 May 2026 10:00:18 GMT  
@@ -404,7 +413,7 @@
 
 ---
 
-### 45. [Great responsibility, without great power](https://blog.talosintelligence.com/great-responsibility-without-great-power/)
+### 46. [Great responsibility, without great power](https://blog.talosintelligence.com/great-responsibility-without-great-power/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 30 Apr 2026 18:00:07 GMT  
@@ -413,7 +422,7 @@
 
 ---
 
-### 46. [AI-powered honeypots: Turning the tables on malicious AI agents](https://blog.talosintelligence.com/ai-powered-honeypots-turning-the-tables-on-malicious-ai-agents/)
+### 47. [AI-powered honeypots: Turning the tables on malicious AI agents](https://blog.talosintelligence.com/ai-powered-honeypots-turning-the-tables-on-malicious-ai-agents/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 29 Apr 2026 10:00:42 GMT  
@@ -422,7 +431,7 @@
 
 ---
 
-### 47. [Five defender priorities from the Talos Year in Review](https://blog.talosintelligence.com/five-defender-priorities-from-the-talos-year-in-review/)
+### 48. [Five defender priorities from the Talos Year in Review](https://blog.talosintelligence.com/five-defender-priorities-from-the-talos-year-in-review/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 28 Apr 2026 13:23:20 GMT  
@@ -431,7 +440,7 @@
 
 ---
 
-### 48. [It pays to be a forever student](https://blog.talosintelligence.com/it-pays-to-be-a-forever-student/)
+### 49. [It pays to be a forever student](https://blog.talosintelligence.com/it-pays-to-be-a-forever-student/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 18:00:22 GMT  
@@ -440,22 +449,13 @@
 
 ---
 
-### 49. [UAT-4356's Targeting of Cisco Firepower Devices](https://blog.talosintelligence.com/uat-4356-firestarter/)
+### 50. [UAT-4356's Targeting of Cisco Firepower Devices](https://blog.talosintelligence.com/uat-4356-firestarter/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
 **CVEs:** CVE-2025-20362, CVE-2025-20333  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 50. [IR Trends Q1 2026: Phishing reemerges as top initial access vector, as attacks targeting public administration persist](https://blog.talosintelligence.com/ir-trends-q1-2026/)
-
-**Source:** Talos Blog  
-**Published:** Wed, 22 Apr 2026 10:00:34 GMT  
-**Severity:** High  
-**Categories:** Ransomware, Vulnerability, Phishing, APT, DDoS, Supply Chain  
 
 ---
 
@@ -644,7 +644,25 @@
 
 ---
 
-### 71. [Yarbo responds to robot flaws that could mow down their owners](https://www.malwarebytes.com/blog/news/2026/05/yarbo-responds-to-robot-flaws-that-could-mow-down-their-owners)
+### 71. [1 in 8 employees have sold company logins or know someone who has](https://www.malwarebytes.com/blog/news/2026/05/1-in-8-employees-have-sold-company-logins-or-know-someone-who-has)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 12 May 2026 09:21:39 GMT  
+**Severity:** High  
+**Categories:** Phishing  
+
+---
+
+### 72. [Stolen Canvas data was “returned” after hacker agreement, Instructure says](https://www.malwarebytes.com/blog/news/2026/05/stolen-canvas-data-was-returned-after-hacker-agreement-instructure-says)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 12 May 2026 08:41:07 GMT  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 73. [Yarbo responds to robot flaws that could mow down their owners](https://www.malwarebytes.com/blog/news/2026/05/yarbo-responds-to-robot-flaws-that-could-mow-down-their-owners)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 11 May 2026 13:21:57 GMT  
@@ -653,7 +671,7 @@
 
 ---
 
-### 72. [A week in security (May 4 &#8211; May 10)](https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-may-4-may-10-2)
+### 74. [A week in security (May 4 &#8211; May 10)](https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-may-4-may-10-2)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 11 May 2026 07:04:00 GMT  
@@ -662,7 +680,7 @@
 
 ---
 
-### 73. [Microsoft says Edge’s plaintext password behavior is “by design”](https://www.malwarebytes.com/blog/news/2026/05/microsoft-says-edges-plaintext-password-behavior-is-by-design)
+### 75. [Microsoft says Edge’s plaintext password behavior is “by design”](https://www.malwarebytes.com/blog/news/2026/05/microsoft-says-edges-plaintext-password-behavior-is-by-design)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 08 May 2026 12:48:53 GMT  
@@ -671,7 +689,7 @@
 
 ---
 
-### 74. [ShinyHunters escalates Canvas attacks with school login defacements](https://www.malwarebytes.com/blog/news/2026/05/shinyhunters-escalates-canvas-attacks-with-school-login-defacements)
+### 76. [ShinyHunters escalates Canvas attacks with school login defacements](https://www.malwarebytes.com/blog/news/2026/05/shinyhunters-escalates-canvas-attacks-with-school-login-defacements)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 08 May 2026 12:00:01 GMT  
@@ -680,7 +698,7 @@
 
 ---
 
-### 75. [Massive AI investment scam network spans 15,500 domains](https://www.malwarebytes.com/blog/news/2026/05/massive-ai-investment-scam-network-spans-15500-domains)
+### 77. [Massive AI investment scam network spans 15,500 domains](https://www.malwarebytes.com/blog/news/2026/05/massive-ai-investment-scam-network-spans-15500-domains)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 07 May 2026 14:37:50 GMT  
@@ -689,7 +707,7 @@
 
 ---
 
-### 76. [If a fake moustache can fool age checks, is the Online Safety Act working?](https://www.malwarebytes.com/blog/family-and-parenting/2026/05/if-a-fake-moustache-can-fool-age-checks-is-the-online-safety-act-working)
+### 78. [If a fake moustache can fool age checks, is the Online Safety Act working?](https://www.malwarebytes.com/blog/family-and-parenting/2026/05/if-a-fake-moustache-can-fool-age-checks-is-the-online-safety-act-working)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 07 May 2026 10:21:22 GMT  
@@ -698,7 +716,7 @@
 
 ---
 
-### 77. [Google Chrome&#8217;s silent 4GB AI download problem](https://www.malwarebytes.com/blog/news/2026/05/google-chromes-silent-4gb-ai-download-problem)
+### 79. [Google Chrome&#8217;s silent 4GB AI download problem](https://www.malwarebytes.com/blog/news/2026/05/google-chromes-silent-4gb-ai-download-problem)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 06 May 2026 16:17:03 GMT  
@@ -707,7 +725,7 @@
 
 ---
 
-### 78. [Attackers adopt JavaScript runtime Bun to spread NWHStealer](https://www.malwarebytes.com/blog/threat-intel/2026/05/attackers-adopt-javascript-runtime-bun-to-spread-nwhstealer)
+### 80. [Attackers adopt JavaScript runtime Bun to spread NWHStealer](https://www.malwarebytes.com/blog/threat-intel/2026/05/attackers-adopt-javascript-runtime-bun-to-spread-nwhstealer)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 06 May 2026 12:50:55 GMT  
@@ -716,25 +734,16 @@
 
 ---
 
-### 79. [Millions of students&#8217; personal data stolen in major education breach](https://www.malwarebytes.com/blog/news/2026/05/millions-of-students-personal-data-stolen-in-major-education-cyberattack)
+### 81. [Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections](https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/)
 
-**Source:** Malwarebytes  
-**Published:** Wed, 06 May 2026 12:45:54 GMT  
+**Source:** Crowdstrike Blog  
+**Published:** May 11, 2026 00:00:00-0500  
 **Severity:** Low  
-**Categories:** Ransomware, Data Breach  
+**Categories:** General Security  
 
 ---
 
-### 80. [Update WhatsApp now: Two new flaws could expose you to malicious files](https://www.malwarebytes.com/blog/news/2026/05/update-whatsapp-now-two-new-flaws-could-expose-you-to-malicious-files)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 05 May 2026 11:39:11 GMT  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 81. [CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/)
+### 82. [CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 06, 2026 00:00:00-0500  
@@ -743,7 +752,7 @@
 
 ---
 
-### 82. [CrowdStrike Launches Falcon OverWatch for Defender](https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/)
+### 83. [CrowdStrike Launches Falcon OverWatch for Defender](https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 05, 2026 00:00:00-0500  
@@ -752,7 +761,7 @@
 
 ---
 
-### 83. [CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns](https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/)
+### 84. [CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns](https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 04, 2026 00:00:00-0500  
@@ -761,7 +770,7 @@
 
 ---
 
-### 84. [Tune In: The Future of AI-Powered Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/)
+### 85. [Tune In: The Future of AI-Powered Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 01, 2026 00:00:00-0500  
@@ -770,7 +779,7 @@
 
 ---
 
-### 85. [Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield](https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/)
+### 86. [Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield](https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 30, 2026 00:00:00-0500  
@@ -779,7 +788,7 @@
 
 ---
 
-### 86. [CrowdStrike Expands ChatGPT Enterprise Integration with Enhanced Audit Logging and Activity Monitoring](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-chatgpt-enterprise-integration/)
+### 87. [CrowdStrike Expands ChatGPT Enterprise Integration with Enhanced Audit Logging and Activity Monitoring](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-chatgpt-enterprise-integration/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 28, 2026 00:00:00-0700  
@@ -788,7 +797,7 @@
 
 ---
 
-### 87. [CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/)
+### 88. [CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 27, 2026 00:00:00-0700  
@@ -797,7 +806,7 @@
 
 ---
 
-### 88. [CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/)
+### 89. [CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 22, 2026 00:00:00-0500  
@@ -806,19 +815,10 @@
 
 ---
 
-### 89. [CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-cloud-security-delivers-264-percent-roi-through-unified-cloud-protection/)
+### 90. [CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-cloud-security-delivers-264-percent-roi-through-unified-cloud-protection/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 22, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [CrowdStrike Falcon Platform Achieves 441% ROI in Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-achieves-441-percent-roi-in-three-years/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Apr 21, 2026 00:00:00-0700  
 **Severity:** Low  
 **Categories:** General Security  
 
