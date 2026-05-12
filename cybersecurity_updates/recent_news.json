@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
+    "link": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
+    "published": "Tue, 12 May 2026 00:00:00 +0530",
+    "summary": "Checkmarx has confirmed that a modified version of the Jenkins AST plugin was published to the Jenkins Marketplace.\n\"If you are using Checkmarx Jenkins AST plugin, you need to ensure that you are using the version 2.0.13-829.vc72453fa_1c16 that was published on December 17, 2025 or previously,\" the cybersecurity company said in a statement over the weekend.\nAs of writing, Checkmarx has released",
+    "analysis": {
+      "issue": "TeamPCP compromised a Checkmarx Jenkins plugin in 2026, exposing supply chain security gaps and credential risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
     "link": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
     "published": "Mon, 11 May 2026 23:24:00 +0530",
@@ -170,20 +188,57 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
-    "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
-    "published": "Fri, 08 May 2026 19:31:00 +0530",
-    "summary": "The hardest part of cybersecurity isn't the technology, it’s the people.\nEvery major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection.\nIn 2026, hackers are using AI to make these \"first clicks\" nearly impossible to spot. If a single laptop gets compromised on your watch, do you have a plan to stop it from taking down",
+    "source": "Bleeping Computer",
+    "title": "GM agrees to $12.75M California settlement over sale of drivers’ data",
+    "link": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
+    "published": "Mon, 11 May 2026 18:40:34 -0400",
+    "summary": "California Attorney General Rob Bonta announced a proposed $12.75 million settlement agreement with General Motors (GM) over allegations that the company violated the California Consumer Privacy Act (CCPA). [...]",
     "analysis": {
-      "issue": "AI-driven phishing enables initial device compromise in 2026, causing rapid breach escalation within minutes, increasing enterprise risk",
+      "issue": "California Attorney General Rob Bonta announced a $12",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Phishing"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Official CheckMarx Jenkins package compromised with infostealer",
+    "link": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
+    "published": "Mon, 11 May 2026 18:03:06 -0400",
+    "summary": "Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace. [...]",
+    "analysis": {
+      "issue": "Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New GhostLock tool abuses Windows API to block file access",
+    "link": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
+    "published": "Mon, 11 May 2026 18:02:00 -0400",
+    "summary": "A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on SMB network shares. [...]",
+    "analysis": {
+      "issue": "A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on SMB network shares",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -317,62 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "JDownloader site hacked to replace installers with Python RAT malware",
-    "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-    "published": "Sat, 09 May 2026 15:27:58 -0400",
-    "summary": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan. [...]",
-    "analysis": {
-      "issue": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
-    "published": "Sat, 09 May 2026 10:26:03 -0400",
-    "summary": "A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]",
-    "analysis": {
-      "issue": "A malicious Hugging Face repository that reached the platform’s trending list impersonated OpenAI’s “Privacy Filter” project to deliver information-stealing malware to Windows users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
-    "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
-    "published": "Fri, 08 May 2026 12:18:31 -0400",
-    "summary": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
-    "analysis": {
-      "issue": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
     "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
@@ -443,8 +442,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-33825",
-        "CVE-2026-32201",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -561,14 +560,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-26113",
+        "CVE-2026-24294",
         "CVE-2026-24289",
+        "CVE-2026-21262",
         "CVE-2026-25187",
         "CVE-2026-26110",
-        "CVE-2026-24291",
         "CVE-2026-26127",
-        "CVE-2026-24294",
-        "CVE-2026-26113",
-        "CVE-2026-21262"
+        "CVE-2026-24291"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -745,8 +744,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-43500",
-        "CVE-2026-43284"
+        "CVE-2026-43284",
+        "CVE-2026-43500"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -934,8 +933,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-20362",
-        "CVE-2025-20333"
+        "CVE-2025-20333",
+        "CVE-2025-20362"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1315,8 +1314,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

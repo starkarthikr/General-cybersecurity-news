@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-11 18:17:30 UTC
+**Last Updated:** 2026-05-12 03:46:37 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor](https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html)
+### 1. [TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack](https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 12 May 2026 00:00:00 +0530  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 2. [cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor](https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 11 May 2026 23:24:00 +0530  
@@ -14,7 +23,7 @@
 
 ---
 
-### 2. [Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation](https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html)
+### 3. [Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation](https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 11 May 2026 21:15:00 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More](https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html)
+### 4. [⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More](https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 11 May 2026 18:06:00 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room](https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html)
+### 5. [Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room](https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 11 May 2026 17:00:00 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads](https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html)
+### 6. [Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads](https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 11 May 2026 12:35:00 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak](https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html)
+### 7. [Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak](https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 10 May 2026 18:11:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now](https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html)
+### 8. [cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now](https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 09 May 2026 12:46:00 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms](https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html)
+### 9. [TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms](https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 08 May 2026 23:42:00 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads](https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html)
+### 10. [Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads](https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 08 May 2026 20:38:00 +0530  
@@ -86,16 +95,34 @@
 
 ---
 
-### 10. [One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
+### 11. [GM agrees to $12.75M California settlement over sale of drivers’ data](https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 08 May 2026 19:31:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 11 May 2026 18:40:34 -0400  
 **Severity:** Low  
-**Categories:** Phishing  
+**Categories:** General Security  
 
 ---
 
-### 11. [Instructure confirms hackers used Canvas flaw to deface portals](https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/)
+### 12. [Official CheckMarx Jenkins package compromised with infostealer](https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 11 May 2026 18:03:06 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 13. [New GhostLock tool abuses Windows API to block file access](https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 11 May 2026 18:02:00 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 14. [Instructure confirms hackers used Canvas flaw to deface portals](https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 11 May 2026 11:26:26 -0400  
@@ -104,7 +131,7 @@
 
 ---
 
-### 12. [Why Changing Passwords Doesn’t End an Active Directory Breach](https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/)
+### 15. [Why Changing Passwords Doesn’t End an Active Directory Breach](https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 11 May 2026 09:53:56 -0400  
@@ -113,7 +140,7 @@
 
 ---
 
-### 13. [Google: Hackers used AI to develop zero-day exploit for web admin tool](https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/)
+### 16. [Google: Hackers used AI to develop zero-day exploit for web admin tool](https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 11 May 2026 09:02:30 -0400  
@@ -122,7 +149,7 @@
 
 ---
 
-### 14. [Webinar this week: Prevention alone is not enough against modern attacks](https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/)
+### 17. [Webinar this week: Prevention alone is not enough against modern attacks](https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 11 May 2026 08:30:00 -0400  
@@ -131,7 +158,7 @@
 
 ---
 
-### 15. [TrickMo Android banker adopts TON blockchain for covert comms](https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/)
+### 18. [TrickMo Android banker adopts TON blockchain for covert comms](https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 11 May 2026 05:03:02 -0400  
@@ -140,7 +167,7 @@
 
 ---
 
-### 16. [Hackers abuse Google ads, Claude.ai chats to push Mac malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/)
+### 19. [Hackers abuse Google ads, Claude.ai chats to push Mac malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 10 May 2026 13:52:15 -0400  
@@ -149,39 +176,12 @@
 
 ---
 
-### 17. [Police shut down reboot of Crimenetwork marketplace, arrest admin](https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/)
+### 20. [Police shut down reboot of Crimenetwork marketplace, arrest admin](https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 10 May 2026 10:16:47 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 18. [JDownloader site hacked to replace installers with Python RAT malware](https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 09 May 2026 15:27:58 -0400  
-**Severity:** Low  
-**Categories:** Malware, Supply Chain  
-
----
-
-### 19. [Fake OpenAI repository on Hugging Face pushes infostealer malware](https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 09 May 2026 10:26:03 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 20. [NVIDIA confirms GeForce NOW data breach affecting Armenian users](https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 08 May 2026 12:18:31 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
 
 ---
 
@@ -217,7 +217,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
+**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -272,7 +272,7 @@
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 00:32:51 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24289, CVE-2026-25187, CVE-2026-26110, CVE-2026-24291, CVE-2026-26127, CVE-2026-24294, CVE-2026-26113, CVE-2026-21262  
+**CVEs:** CVE-2026-26113, CVE-2026-24294, CVE-2026-24289, CVE-2026-21262, CVE-2026-25187, CVE-2026-26110, CVE-2026-26127, CVE-2026-24291  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -354,7 +354,7 @@
 **Source:** Security Week  
 **Published:** Mon, 11 May 2026 08:15:28 +0000  
 **Severity:** High  
-**CVEs:** CVE-2026-43500, CVE-2026-43284  
+**CVEs:** CVE-2026-43284, CVE-2026-43500  
 **Categories:** Vulnerability  
 
 ---
@@ -445,7 +445,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 15:10:57 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2025-20362, CVE-2025-20333  
+**CVEs:** CVE-2025-20333, CVE-2025-20362  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -629,7 +629,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
