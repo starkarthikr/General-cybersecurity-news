@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-12 18:22:40 UTC
+**Last Updated:** 2026-05-13 03:55:17 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,62 @@
 
 ---
 
-### 11. [Windows 11 KB5089549 & KB5087420 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/)
+### 11. [US govt seeks Instructure testimony on massive Canvas cyberattack](https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 12 May 2026 19:09:55 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [UK fines water supplier $1.3M for exposing data of 664k customers](https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 12 May 2026 16:17:19 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach, Malware, Phishing  
+
+---
+
+### 13. [Webinar: Fixing the gaps in network incident response](https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 12 May 2026 15:46:04 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 14. [Signal adds security warnings for social engineering, phishing attacks](https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 12 May 2026 15:40:31 -0400  
+**Severity:** High  
+**Categories:** Phishing  
+
+---
+
+### 15. [Microsoft releases Windows 10 KB5087544 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 12 May 2026 14:58:34 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 16. [Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 12 May 2026 14:23:09 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-26083, CVE-2026-44277  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 17. [Windows 11 KB5089549 & KB5087420 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 12 May 2026 14:09:12 -0400  
@@ -103,7 +158,7 @@
 
 ---
 
-### 12. [Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/)
+### 18. [Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 12 May 2026 14:08:06 -0400  
@@ -112,7 +167,7 @@
 
 ---
 
-### 13. [Škoda warns of customer data breach after online shop hack](https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/)
+### 19. [Škoda warns of customer data breach after online shop hack](https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 12 May 2026 13:07:01 -0400  
@@ -121,7 +176,7 @@
 
 ---
 
-### 14. [Android 17 to expand banking scam call and privacy protections](https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/)
+### 20. [Android 17 to expand banking scam call and privacy protections](https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 12 May 2026 13:00:00 -0400  
@@ -130,62 +185,16 @@
 
 ---
 
-### 15. [Shai Hulud attack ships signed malicious TanStack, Mistral npm packages](https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/)
+### 21. [Patch Tuesday, May 2026 Edition](https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/)
 
-**Source:** Bleeping Computer  
-**Published:** Tue, 12 May 2026 07:29:36 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 16. [SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA](https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 12 May 2026 07:04:55 -0400  
+**Source:** Krebs On Security  
+**Published:** Tue, 12 May 2026 21:46:45 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34260, CVE-2026-34263  
-**Categories:** Vulnerability  
-
----
-
-### 17. [Instructure reaches 'agreement' with ShinyHunters to stop data leak](https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 12 May 2026 05:23:56 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 18. [GM agrees to $12.75M California settlement over sale of drivers’ data](https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 11 May 2026 18:40:34 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Official CheckMarx Jenkins package compromised with infostealer](https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 11 May 2026 18:03:06 -0400  
-**Severity:** Low  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 20. [New GhostLock tool abuses Windows API to block file access](https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 11 May 2026 18:02:00 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 21. [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
+### 22. [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 08 May 2026 02:58:46 +0000  
@@ -194,7 +203,7 @@
 
 ---
 
-### 22. [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
+### 23. [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 30 Apr 2026 14:04:26 +0000  
@@ -203,7 +212,7 @@
 
 ---
 
-### 23. [‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/)
+### 24. [‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 21 Apr 2026 14:53:59 +0000  
@@ -212,17 +221,17 @@
 
 ---
 
-### 24. [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
+### 25. [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
 
-### 25. [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/)
+### 26. [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 07 Apr 2026 17:02:44 +0000  
@@ -231,7 +240,7 @@
 
 ---
 
-### 26. [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
+### 27. [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 06 Apr 2026 02:07:17 +0000  
@@ -240,7 +249,7 @@
 
 ---
 
-### 27. [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/)
+### 28. [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 23 Mar 2026 15:43:04 +0000  
@@ -249,7 +258,7 @@
 
 ---
 
-### 28. [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/)
+### 29. [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 20 Mar 2026 00:49:19 +0000  
@@ -258,7 +267,7 @@
 
 ---
 
-### 29. [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
+### 30. [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 11 Mar 2026 16:20:13 +0000  
@@ -267,22 +276,12 @@
 
 ---
 
-### 30. [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/)
-
-**Source:** Krebs On Security  
-**Published:** Wed, 11 Mar 2026 00:32:51 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-25187, CVE-2026-24291, CVE-2026-26127, CVE-2026-21262, CVE-2026-24289, CVE-2026-26113, CVE-2026-26110, CVE-2026-24294  
-**Categories:** Vulnerability, DDoS  
-
----
-
 ### 31. [Microsoft Patches 137 Vulnerabilities](https://www.securityweek.com/microsoft-patches-137-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Tue, 12 May 2026 18:07:39 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-40364, CVE-2026-40361, CVE-2026-41103  
+**CVEs:** CVE-2026-40364, CVE-2026-41103, CVE-2026-40361  
 **Categories:** Vulnerability  
 
 ---
@@ -370,7 +369,17 @@
 
 ---
 
-### 41. [State-sponsored actors, better known as the friends you don’t want](https://blog.talosintelligence.com/state-sponsored-actors-better-known-as-the-friends-you-dont-want/)
+### 41. [Microsoft Patch Tuesday for May 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-may-2026/)
+
+**Source:** Talos Blog  
+**Published:** Tue, 12 May 2026 19:57:04 GMT  
+**Severity:** Critical  
+**CVEs:** CVE-2026-32161, CVE-2026-35421, CVE-2026-33109, CVE-2026-33844, CVE-2026-40358  
+**Categories:** Vulnerability  
+
+---
+
+### 42. [State-sponsored actors, better known as the friends you don’t want](https://blog.talosintelligence.com/state-sponsored-actors-better-known-as-the-friends-you-dont-want/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 10:00:54 GMT  
@@ -379,7 +388,7 @@
 
 ---
 
-### 42. [Unplug your way to better code](https://blog.talosintelligence.com/unplug-your-way-to-better-code/)
+### 43. [Unplug your way to better code](https://blog.talosintelligence.com/unplug-your-way-to-better-code/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 07 May 2026 18:00:40 GMT  
@@ -388,7 +397,7 @@
 
 ---
 
-### 43. [Insights into the clustering and reuse of phone numbers in scam emails](https://blog.talosintelligence.com/insights-into-the-clustering-and-reuse-of-phone-numbers-in-scam-emails/)
+### 44. [Insights into the clustering and reuse of phone numbers in scam emails](https://blog.talosintelligence.com/insights-into-the-clustering-and-reuse-of-phone-numbers-in-scam-emails/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 06 May 2026 10:00:12 GMT  
@@ -397,7 +406,7 @@
 
 ---
 
-### 44. [UAT-8302 and its box full of malware](https://blog.talosintelligence.com/uat-8302/)
+### 45. [UAT-8302 and its box full of malware](https://blog.talosintelligence.com/uat-8302/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 05 May 2026 10:00:30 GMT  
@@ -406,7 +415,7 @@
 
 ---
 
-### 45. [CloudZ RAT potentially steals OTP messages using Pheno plugin](https://blog.talosintelligence.com/cloudz-pheno-infostealer/)
+### 46. [CloudZ RAT potentially steals OTP messages using Pheno plugin](https://blog.talosintelligence.com/cloudz-pheno-infostealer/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 05 May 2026 10:00:18 GMT  
@@ -415,7 +424,7 @@
 
 ---
 
-### 46. [Great responsibility, without great power](https://blog.talosintelligence.com/great-responsibility-without-great-power/)
+### 47. [Great responsibility, without great power](https://blog.talosintelligence.com/great-responsibility-without-great-power/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 30 Apr 2026 18:00:07 GMT  
@@ -424,7 +433,7 @@
 
 ---
 
-### 47. [AI-powered honeypots: Turning the tables on malicious AI agents](https://blog.talosintelligence.com/ai-powered-honeypots-turning-the-tables-on-malicious-ai-agents/)
+### 48. [AI-powered honeypots: Turning the tables on malicious AI agents](https://blog.talosintelligence.com/ai-powered-honeypots-turning-the-tables-on-malicious-ai-agents/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 29 Apr 2026 10:00:42 GMT  
@@ -433,7 +442,7 @@
 
 ---
 
-### 48. [Five defender priorities from the Talos Year in Review](https://blog.talosintelligence.com/five-defender-priorities-from-the-talos-year-in-review/)
+### 49. [Five defender priorities from the Talos Year in Review](https://blog.talosintelligence.com/five-defender-priorities-from-the-talos-year-in-review/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 28 Apr 2026 13:23:20 GMT  
@@ -442,22 +451,12 @@
 
 ---
 
-### 49. [It pays to be a forever student](https://blog.talosintelligence.com/it-pays-to-be-a-forever-student/)
+### 50. [It pays to be a forever student](https://blog.talosintelligence.com/it-pays-to-be-a-forever-student/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 23 Apr 2026 18:00:22 GMT  
 **Severity:** High  
 **Categories:** Ransomware, Phishing  
-
----
-
-### 50. [UAT-4356's Targeting of Cisco Firepower Devices](https://blog.talosintelligence.com/uat-4356-firestarter/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 23 Apr 2026 15:10:57 GMT  
-**Severity:** Low  
-**CVEs:** CVE-2025-20333, CVE-2025-20362  
-**Categories:** Vulnerability, Malware  
 
 ---
 

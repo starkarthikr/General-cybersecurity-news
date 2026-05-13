@@ -181,6 +181,121 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
+    "published": "Tue, 12 May 2026 19:09:55 -0400",
+    "summary": "The U.S. House Committee on Homeland Security is calling on Instructure executives to testify about two cyberattacks by the ShinyHunters extortion group that targeted the company's Canvas platform, allowing threat actors to steal student data and disrupt schools during final exams. [...]",
+    "analysis": {
+      "issue": "House Committee on Homeland Security is calling on Instructure executives to testify about two cyberattacks by the ShinyHunters extortion group that targeted the company’s Canvas platform, allowing threat actors to steal student data and disrupt scho",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
+    "published": "Tue, 12 May 2026 16:17:19 -0400",
+    "summary": "The Information Commissioner's Office has fined South Staffordshire Water Plc and parent company South Staffordshire Plc £963,900 ($1.3 million) over a cyberattack that exposed the personal data of 663,887 customers and employees. [...]",
+    "analysis": {
+      "issue": "The Information Commissioner's Office has fined South Staffordshire Water Plc and parent company South Staffordshire Plc £963,900 ($1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Webinar: Fixing the gaps in network incident response",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
+    "published": "Tue, 12 May 2026 15:46:04 -0400",
+    "summary": "IT teams often struggle to quickly coordinate responses across disparate systems during network incidents. This upcoming webinar explores how automation and AI-assisted workflows can reduce response times and help prevent outages. [...]",
+    "analysis": {
+      "issue": "Most network incidents do not escalate because of a lack of visibility",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Signal adds security warnings for social engineering, phishing attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
+    "published": "Tue, 12 May 2026 15:40:31 -0400",
+    "summary": "Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud. [...]",
+    "analysis": {
+      "issue": "Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft releases Windows 10 KB5087544 extended security update",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
+    "published": "Tue, 12 May 2026 14:58:34 -0400",
+    "summary": "Microsoft has released the Windows 10 KB5087544 extended security update to fix the May 2026 Patch Tuesday vulnerabilities and resolve an issue with the new Remote Desktop warnings. [...]",
+    "analysis": {
+      "issue": "Microsoft has released the Windows 10 KB5087544 extended security update to fix the May 2026 Patch Tuesday vulnerabilities and resolve an issue with the new Remote Desktop warnings",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator",
+    "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
+    "published": "Tue, 12 May 2026 14:23:09 -0400",
+    "summary": "Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code. [...]",
+    "analysis": {
+      "issue": "Fortinet has released security updates to address two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code on unpatched systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-26083",
+        "CVE-2026-44277"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
     "published": "Tue, 12 May 2026 14:09:12 -0400",
@@ -253,115 +368,21 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
-    "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
-    "published": "Tue, 12 May 2026 07:29:36 -0400",
-    "summary": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers. [...]",
+    "source": "Krebs On Security",
+    "title": "Patch Tuesday, May 2026 Edition",
+    "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
+    "published": "Tue, 12 May 2026 21:46:45 +0000",
+    "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.",
     "analysis": {
-      "issue": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA",
-    "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
-    "published": "Tue, 12 May 2026 07:04:55 -0400",
-    "summary": "SAP has released the May 2026 security updates addressing 15 vulnerabilities across multiple products, including two critical flaws in the Commerce Cloud enterprise-grade e-commerce platform and the S/4HANA ERP suite. [...]",
-    "analysis": {
-      "issue": "SAP has released the May 2026 security updates addressing 15 vulnerabilities across multiple products, including two critical flaws in Commerce Cloud and S/4HANA",
+      "issue": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [
-        "CVE-2026-34260",
-        "CVE-2026-34263"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
-    "link": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
-    "published": "Tue, 12 May 2026 05:23:56 -0400",
-    "summary": "Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters extortion group to prevent the data stolen in a recent breach from being leaked online. [...]",
-    "analysis": {
-      "issue": "Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters extortion group to prevent the data stolen in a recent breach from being leaked online",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "GM agrees to $12.75M California settlement over sale of drivers’ data",
-    "link": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
-    "published": "Mon, 11 May 2026 18:40:34 -0400",
-    "summary": "California Attorney General Rob Bonta announced a proposed $12.75 million settlement agreement with General Motors (GM) over allegations that the company violated the California Consumer Privacy Act (CCPA). [...]",
-    "analysis": {
-      "issue": "California Attorney General Rob Bonta announced a $12",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Official CheckMarx Jenkins package compromised with infostealer",
-    "link": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
-    "published": "Mon, 11 May 2026 18:03:06 -0400",
-    "summary": "Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace. [...]",
-    "analysis": {
-      "issue": "Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New GhostLock tool abuses Windows API to block file access",
-    "link": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
-    "published": "Mon, 11 May 2026 18:02:00 -0400",
-    "summary": "A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on SMB network shares. [...]",
-    "analysis": {
-      "issue": "A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on SMB network shares",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -435,9 +456,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
+        "CVE-2026-34621",
         "CVE-2026-33825",
-        "CVE-2026-34621"
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -542,34 +563,6 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "Microsoft Patch Tuesday, March 2026 Edition",
-    "link": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
-    "published": "Wed, 11 Mar 2026 00:32:51 +0000",
-    "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.",
-    "analysis": {
-      "issue": "today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-25187",
-        "CVE-2026-24291",
-        "CVE-2026-26127",
-        "CVE-2026-21262",
-        "CVE-2026-24289",
-        "CVE-2026-26113",
-        "CVE-2026-26110",
-        "CVE-2026-24294"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "DDoS"
-      ]
-    }
-  },
-  {
     "source": "Security Week",
     "title": "Microsoft Patches 137 Vulnerabilities",
     "link": "https://www.securityweek.com/microsoft-patches-137-vulnerabilities/",
@@ -583,8 +576,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-40364",
-        "CVE-2026-40361",
-        "CVE-2026-41103"
+        "CVE-2026-41103",
+        "CVE-2026-40361"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -770,6 +763,30 @@
   },
   {
     "source": "Talos Blog",
+    "title": "Microsoft Patch Tuesday for May 2026 — Snort rules and prominent vulnerabilities",
+    "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-may-2026/",
+    "published": "Tue, 12 May 2026 19:57:04 GMT",
+    "summary": "Microsoft has released its monthly security update for May 2026, which includes 112 vulnerabilities affecting a range of products, including 16 that Microsoft marked as “critical”.",
+    "analysis": {
+      "issue": "By Jaeson Schultz  Microsoft has released its monthly security update for May 2026, which includes 137 vulnerabilities affecting a range of products, including 31 that Microsoft marked as “critical”",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-32161",
+        "CVE-2026-35421",
+        "CVE-2026-33109",
+        "CVE-2026-33844",
+        "CVE-2026-40358"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
     "title": "State-sponsored actors, better known as the friends you don’t want",
     "link": "https://blog.talosintelligence.com/state-sponsored-actors-better-known-as-the-friends-you-dont-want/",
     "published": "Tue, 12 May 2026 10:00:54 GMT",
@@ -934,28 +951,6 @@
       "threat_categories": [
         "Ransomware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "UAT-4356's Targeting of Cisco Firepower Devices",
-    "link": "https://blog.talosintelligence.com/uat-4356-firestarter/",
-    "published": "Thu, 23 Apr 2026 15:10:57 GMT",
-    "summary": "Cisco Talos is aware of UAT-4356's continued active targeting of Cisco Firepower devices’ Firepower eXtensible Operating System (FXOS). UAT-4356 exploited n-day vulnerabilities (CVE-2025-20333 and CVE-2025-20362) to gain unauthorized access to vulnerable devices.",
-    "analysis": {
-      "issue": "Cisco Talos is aware of UAT-4356's continued active targeting of Cisco Firepower devices’ Firepower eXtensible Operating System (FXOS)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-20333",
-        "CVE-2025-20362"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
