@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
+    "link": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
+    "published": "Wed, 13 May 2026 13:38:54 +0530",
+    "summary": "Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for malware distribution.\n\"The packages do not appear designed for mass developer compromise,\" Socket said. \"Many have little or no download activity, and the payloads are repetitive,",
+    "analysis": {
+      "issue": "GemStuffer used 150+ RubyGems to scrape U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
+    "link": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
+    "published": "Wed, 13 May 2026 12:25:42 +0530",
+    "summary": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks.\nIntrusion Logging, available as part of Advanced Protection Mode, enables \"persistent and privacy-preserving forensics logging to allow for investigation of devices in the event of a suspected compromise,\" the company said.\nThe feature, it",
+    "analysis": {
+      "issue": "Android Intrusion Logging stores encrypted forensic logs for 12 months, helping experts investigate spyware attacks on high-risk users",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
     "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
     "published": "Tue, 12 May 2026 22:14:00 +0530",
@@ -22,7 +58,7 @@
     "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
     "link": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
     "published": "Tue, 12 May 2026 20:17:00 +0530",
-    "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\"\n\"We're dealing with a major malicious attack on Ruby Gems right now,\" Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. \"Signups are paused for the time being.",
+    "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\"\n\"We're dealing with a major malicious attack on RubyGems right now,\" Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. \"Signups are paused for the time being.",
     "analysis": {
       "issue": "RubyGems halted new registrations after a major attack involving hundreds of malicious packages, increasing supply chain risks",
       "solution": null,
@@ -140,42 +176,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
-    "link": "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html",
-    "published": "Tue, 12 May 2026 10:48:00 +0530",
-    "summary": "Apple on Monday officially released iOS 26.5 with support for end-to-end encryption (E2EE) to Rich Communication Services (RCS) in beta as part of a \"cross-industry effort\" to replace traditional SMS with a more secure alternative.\nTo that end, E2EE RCS messaging is rolling out to iPhone users running iOS 26.5 with supported carriers and Android users on the latest version of Google Messages.",
-    "analysis": {
-      "issue": "5 with E2EE RCS messaging, enabling secure cross-platform chats between iPhone and Android users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
-    "link": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
-    "published": "Tue, 12 May 2026 00:00:00 +0530",
-    "summary": "Checkmarx has confirmed that a modified version of the Jenkins AST plugin was published to the Jenkins Marketplace.\n\"If you are using Checkmarx Jenkins AST plugin, you need to ensure that you are using the version 2.0.13-829.vc72453fa_1c16 that was published on December 17, 2025 or previously,\" the cybersecurity company said in a statement over the weekend.\nAs of writing, Checkmarx has released",
-    "analysis": {
-      "issue": "TeamPCP compromised a Checkmarx Jenkins plugin in 2026, exposing supply chain security gaps and credential risks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   },
@@ -456,9 +456,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
+        "CVE-2026-32201",
         "CVE-2026-33825",
-        "CVE-2026-32201"
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -564,6 +564,111 @@
   },
   {
     "source": "Security Week",
+    "title": "Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises",
+    "link": "https://www.securityweek.com/microsoft-patches-critical-zero-click-outlook-vulnerability-threatening-enterprises/",
+    "published": "Wed, 13 May 2026 10:33:46 +0000",
+    "summary": "<p>CVE-2026-40361 is similar to a vulnerability found a decade ago, BadWinmail, which at the time was dubbed an “enterprise killer”.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-critical-zero-click-outlook-vulnerability-threatening-enterprises/\">Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CVE-2026-40361 is similar to a vulnerability found a decade ago, BadWinmail, which at the time was dubbed an “enterprise killer”",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2015-6172",
+        "CVE-2026-40361"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Fortinet, Ivanti Patch Critical Vulnerabilities",
+    "link": "https://www.securityweek.com/fortinet-ivanti-patch-critical-vulnerabilities/",
+    "published": "Wed, 13 May 2026 09:36:55 +0000",
+    "summary": "<p>Successful exploitation of these flaws could lead to arbitrary code execution and information disclosure.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-ivanti-patch-critical-vulnerabilities/\">Fortinet, Ivanti Patch Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Successful exploitation of these flaws could lead to arbitrary code execution and information disclosure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-8043",
+        "CVE-2026-44277",
+        "CVE-2026-26083",
+        "CVE-2025-53844"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Chipmaker Patch Tuesday: Intel and AMD Patch 70 Vulnerabilities",
+    "link": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-and-amd-patch-70-vulnerabilities/",
+    "published": "Wed, 13 May 2026 08:37:34 +0000",
+    "summary": "<p>The two chip giants have published over two dozen advisories describing recently identified security defects.</p>\n<p>The post <a href=\"https://www.securityweek.com/chipmaker-patch-tuesday-intel-and-amd-patch-70-vulnerabilities/\">Chipmaker Patch Tuesday: Intel and AMD Patch 70 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The two chip giants have published over two dozen advisories describing recently identified security defects",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-0481",
+        "CVE-2026-20794"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Hundreds of Malicious Packages Force RubyGems to Suspend Registrations",
+    "link": "https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/",
+    "published": "Wed, 13 May 2026 07:30:36 +0000",
+    "summary": "<p>More than 500 packages were pushed during the attack, but the target appears to have been RubyGems itself rather than users.</p>\n<p>The post <a href=\"https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/\">Hundreds of Malicious Packages Force RubyGems to Suspend Registrations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "More than 500 packages were pushed during the attack, but the target appears to have been RubyGems itself rather than users",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "DDoS",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "ICS Patch Tuesday: New Security Advisories From Siemens, Schneider, CISA",
+    "link": "https://www.securityweek.com/ics-patch-tuesday-new-security-advisories-from-siemens-schneider-cisa/",
+    "published": "Wed, 13 May 2026 06:50:51 +0000",
+    "summary": "<p>Many ICS vendors have not released new advisories for the May 2026 Patch Tuesday.</p>\n<p>The post <a href=\"https://www.securityweek.com/ics-patch-tuesday-new-security-advisories-from-siemens-schneider-cisa/\">ICS Patch Tuesday: New Security Advisories From Siemens, Schneider, CISA</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Many ICS vendors have not released new advisories for the May 2026 Patch Tuesday",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Microsoft Patches 137 Vulnerabilities",
     "link": "https://www.securityweek.com/microsoft-patches-137-vulnerabilities/",
     "published": "Tue, 12 May 2026 18:07:39 +0000",
@@ -576,8 +681,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-40364",
-        "CVE-2026-41103",
-        "CVE-2026-40361"
+        "CVE-2026-40361",
+        "CVE-2026-41103"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -661,103 +766,21 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Free OnlyFans Lure Used to Spread Cross-Platform CRPx0 Malware",
-    "link": "https://www.securityweek.com/free-onlyfans-lure-used-to-spread-cross-platform-crpx0-malware/",
-    "published": "Tue, 12 May 2026 13:46:49 +0000",
-    "summary": "<p>CRPx0 is a complex, stealthy malware campaign that targets macOS and Windows systems, and appears to have Linux capabilities in development.</p>\n<p>The post <a href=\"https://www.securityweek.com/free-onlyfans-lure-used-to-spread-cross-platform-crpx0-malware/\">Free OnlyFans Lure Used to Spread Cross-Platform CRPx0 Malware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Breaking things to keep them safe with Philippe Laulheret",
+    "link": "https://blog.talosintelligence.com/breaking-things-to-keep-them-safe-with-philippe-laulheret/",
+    "published": "Wed, 13 May 2026 10:00:54 GMT",
+    "summary": "Philippe shares his unique journey from French engineering school to the front lines of cybersecurity, explaining how his lifelong love for solving puzzles helps him uncover critical security flaws before they can be exploited.",
     "analysis": {
-      "issue": "CRPx0 is a complex, stealthy malware campaign that targets macOS and Windows systems, and appears to have Linux capabilities in development",
+      "issue": "In the latest Humans of Talos, Amy sits down with Senior Vulnerability Researcher Philippe Laulheret to demystify the world of ethical hacking",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Deal Reached With Hackers to Delete Data Stolen From the Canvas Educational Platform",
-    "link": "https://www.securityweek.com/deal-reached-with-hackers-to-delete-data-stolen-from-the-canvas-educational-platform/",
-    "published": "Tue, 12 May 2026 13:26:46 +0000",
-    "summary": "<p>The company that operates online learning system Canvas said it struck a deal with hackers to delete the data they pilfered in a cyberattack that created chaos for students, many of them in the middle of finals.</p>\n<p>The post <a href=\"https://www.securityweek.com/deal-reached-with-hackers-to-delete-data-stolen-from-the-canvas-educational-platform/\">Deal Reached With Hackers to Delete Data Stolen From the Canvas Educational Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company that operates online learning system Canvas said it struck a deal with hackers to delete the data they pilfered in a cyberattack that created chaos for students, many of them in the middle of finals",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "West Pharmaceutical Services Hit by Disruptive Ransomware Attack",
-    "link": "https://www.securityweek.com/west-pharmaceutical-services-hit-by-disruptive-ransomware-attack/",
-    "published": "Tue, 12 May 2026 12:59:49 +0000",
-    "summary": "<p>The company took systems offline globally after hackers exfiltrated data and deployed file-encrypting ransomware.</p>\n<p>The post <a href=\"https://www.securityweek.com/west-pharmaceutical-services-hit-by-disruptive-ransomware-attack/\">West Pharmaceutical Services Hit by Disruptive Ransomware Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company took systems offline globally after hackers exfiltrated data and deployed file-encrypting ransomware",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Apple Patches Dozens of Vulnerabilities in macOS, iOS",
-    "link": "https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-in-macos-ios/",
-    "published": "Tue, 12 May 2026 12:37:21 +0000",
-    "summary": "<p>The tech giant has also ported the patch for a recent deleted chats recovery issue to older versions of iOS.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-in-macos-ios/\">Apple Patches Dozens of Vulnerabilities in macOS, iOS</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The tech giant has also ported the patch for a recent deleted chats recovery issue to older versions of iOS",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "SAP Patches Critical S/4HANA, Commerce Vulnerabilities",
-    "link": "https://www.securityweek.com/sap-patches-critical-s-4hana-commerce-vulnerabilities/",
-    "published": "Tue, 12 May 2026 12:13:41 +0000",
-    "summary": "<p>The flaws could allow attackers to inject malicious code, leading to information disclosure and code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-patches-critical-s-4hana-commerce-vulnerabilities/\">SAP Patches Critical S/4HANA, Commerce Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The flaws could allow attackers to inject malicious code, leading to information disclosure and code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-34263",
-        "CVE-2026-34260",
-        "CVE-2026-34259"
-      ],
       "threat_categories": [
         "Vulnerability",
-        "Malware",
-        "Supply Chain"
+        "APT"
       ]
     }
   },
@@ -774,11 +797,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-40358",
+        "CVE-2026-35421",
         "CVE-2026-33844",
         "CVE-2026-32161",
-        "CVE-2026-33109",
-        "CVE-2026-35421"
+        "CVE-2026-40358",
+        "CVE-2026-33109"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -932,25 +955,6 @@
       "threat_categories": [
         "Vulnerability",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "It pays to be a forever student",
-    "link": "https://blog.talosintelligence.com/it-pays-to-be-a-forever-student/",
-    "published": "Thu, 23 Apr 2026 18:00:22 GMT",
-    "summary": "In this newsletter, Joe discusses why understanding other disciplines can often flow back into the macro and micro of cybersecurity, especially in a world of AI.",
-    "analysis": {
-      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing"
       ]
     }
   },
@@ -1518,6 +1522,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs",
+    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/",
+    "published": "May 12, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Microsoft has released security updates for 130 vulnerabilities, including 30 critical, in its May 2026 Patch Tuesday rollout",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections",
     "link": "https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/",
     "published": "May 11, 2026 00:00:00-0500",
@@ -1668,24 +1690,6 @@
     "summary": "",
     "analysis": {
       "issue": "CrowdStrike expands cloud runtime security leadership and enables defenders to stop cloud breaches in seconds",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-cloud-security-delivers-264-percent-roi-through-unified-cloud-protection/",
-    "published": "Apr 22, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "A Forrester TEI study revealed measurable benefits of unifying CSPM and runtime protection with CrowdStrike",
       "solution": null,
       "cause": null,
       "timeline": null,

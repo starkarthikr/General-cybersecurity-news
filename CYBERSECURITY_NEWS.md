@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-13 04:29:41 UTC
+**Last Updated:** 2026-05-13 11:07:21 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution](https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html)
+### 1. [GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data](https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 13 May 2026 13:38:54 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Android Adds Intrusion Logging for Sophisticated Spyware Forensics](https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 13 May 2026 12:25:42 +0530  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 3. [New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution](https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 12 May 2026 22:14:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded](https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html)
+### 4. [RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded](https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 12 May 2026 20:17:00 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots](https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html)
+### 5. [New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots](https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 12 May 2026 18:20:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help](https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html)
+### 6. [Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help](https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 12 May 2026 17:28:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages](https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html)
+### 7. [Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages](https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 12 May 2026 17:16:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Why Agentic AI Is Security's Next Blind Spot](https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html)
+### 8. [Why Agentic AI Is Security's Next Blind Spot](https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 12 May 2026 16:00:00 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak](https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html)
+### 9. [Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak](https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 12 May 2026 13:07:00 +0530  
@@ -67,30 +85,12 @@
 
 ---
 
-### 8. [OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation](https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html)
+### 10. [OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation](https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 12 May 2026 12:25:00 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 9. [iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android](https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 12 May 2026 10:48:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack](https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 12 May 2026 00:00:00 +0530  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 
@@ -226,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -276,17 +276,65 @@
 
 ---
 
-### 31. [Microsoft Patches 137 Vulnerabilities](https://www.securityweek.com/microsoft-patches-137-vulnerabilities/)
+### 31. [Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises](https://www.securityweek.com/microsoft-patches-critical-zero-click-outlook-vulnerability-threatening-enterprises/)
 
 **Source:** Security Week  
-**Published:** Tue, 12 May 2026 18:07:39 +0000  
+**Published:** Wed, 13 May 2026 10:33:46 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-40364, CVE-2026-41103, CVE-2026-40361  
+**CVEs:** CVE-2015-6172, CVE-2026-40361  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 32. [Fortinet, Ivanti Patch Critical Vulnerabilities](https://www.securityweek.com/fortinet-ivanti-patch-critical-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Wed, 13 May 2026 09:36:55 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-8043, CVE-2026-44277, CVE-2026-26083, CVE-2025-53844  
 **Categories:** Vulnerability  
 
 ---
 
-### 32. [Exaforce Raises $125 Million for Agentic SOC Platform](https://www.securityweek.com/exaforce-raises-125-million-for-agentic-soc-platform/)
+### 33. [Chipmaker Patch Tuesday: Intel and AMD Patch 70 Vulnerabilities](https://www.securityweek.com/chipmaker-patch-tuesday-intel-and-amd-patch-70-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Wed, 13 May 2026 08:37:34 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-0481, CVE-2026-20794  
+**Categories:** Vulnerability  
+
+---
+
+### 34. [Hundreds of Malicious Packages Force RubyGems to Suspend Registrations](https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/)
+
+**Source:** Security Week  
+**Published:** Wed, 13 May 2026 07:30:36 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability, DDoS, Supply Chain  
+
+---
+
+### 35. [ICS Patch Tuesday: New Security Advisories From Siemens, Schneider, CISA](https://www.securityweek.com/ics-patch-tuesday-new-security-advisories-from-siemens-schneider-cisa/)
+
+**Source:** Security Week  
+**Published:** Wed, 13 May 2026 06:50:51 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 36. [Microsoft Patches 137 Vulnerabilities](https://www.securityweek.com/microsoft-patches-137-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Tue, 12 May 2026 18:07:39 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-40364, CVE-2026-40361, CVE-2026-41103  
+**Categories:** Vulnerability  
+
+---
+
+### 37. [Exaforce Raises $125 Million for Agentic SOC Platform](https://www.securityweek.com/exaforce-raises-125-million-for-agentic-soc-platform/)
 
 **Source:** Security Week  
 **Published:** Tue, 12 May 2026 17:23:00 +0000  
@@ -295,7 +343,7 @@
 
 ---
 
-### 33. [Adobe Patches 52 Vulnerabilities in 10 Products](https://www.securityweek.com/adobe-patches-52-vulnerabilities-in-10-products/)
+### 38. [Adobe Patches 52 Vulnerabilities in 10 Products](https://www.securityweek.com/adobe-patches-52-vulnerabilities-in-10-products/)
 
 **Source:** Security Week  
 **Published:** Tue, 12 May 2026 16:47:21 +0000  
@@ -305,7 +353,7 @@
 
 ---
 
-### 34. [White Circle Raises $11 Million for AI Control Platform](https://www.securityweek.com/white-circle-raises-11-million-for-ai-control-platform/)
+### 39. [White Circle Raises $11 Million for AI Control Platform](https://www.securityweek.com/white-circle-raises-11-million-for-ai-control-platform/)
 
 **Source:** Security Week  
 **Published:** Tue, 12 May 2026 15:40:21 +0000  
@@ -314,7 +362,7 @@
 
 ---
 
-### 35. [BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months](https://www.securityweek.com/bwh-hotels-says-hackers-had-access-to-reservation-data-for-6-months/)
+### 40. [BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months](https://www.securityweek.com/bwh-hotels-says-hackers-had-access-to-reservation-data-for-6-months/)
 
 **Source:** Security Week  
 **Published:** Tue, 12 May 2026 14:30:00 +0000  
@@ -323,63 +371,26 @@
 
 ---
 
-### 36. [Free OnlyFans Lure Used to Spread Cross-Platform CRPx0 Malware](https://www.securityweek.com/free-onlyfans-lure-used-to-spread-cross-platform-crpx0-malware/)
+### 41. [Breaking things to keep them safe with Philippe Laulheret](https://blog.talosintelligence.com/breaking-things-to-keep-them-safe-with-philippe-laulheret/)
 
-**Source:** Security Week  
-**Published:** Tue, 12 May 2026 13:46:49 +0000  
+**Source:** Talos Blog  
+**Published:** Wed, 13 May 2026 10:00:54 GMT  
 **Severity:** Critical  
-**Categories:** Ransomware, Malware, APT  
+**Categories:** Vulnerability, APT  
 
 ---
 
-### 37. [Deal Reached With Hackers to Delete Data Stolen From the Canvas Educational Platform](https://www.securityweek.com/deal-reached-with-hackers-to-delete-data-stolen-from-the-canvas-educational-platform/)
-
-**Source:** Security Week  
-**Published:** Tue, 12 May 2026 13:26:46 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
-
----
-
-### 38. [West Pharmaceutical Services Hit by Disruptive Ransomware Attack](https://www.securityweek.com/west-pharmaceutical-services-hit-by-disruptive-ransomware-attack/)
-
-**Source:** Security Week  
-**Published:** Tue, 12 May 2026 12:59:49 +0000  
-**Severity:** Critical  
-**Categories:** Ransomware, Data Breach, APT  
-
----
-
-### 39. [Apple Patches Dozens of Vulnerabilities in macOS, iOS](https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-in-macos-ios/)
-
-**Source:** Security Week  
-**Published:** Tue, 12 May 2026 12:37:21 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 40. [SAP Patches Critical S/4HANA, Commerce Vulnerabilities](https://www.securityweek.com/sap-patches-critical-s-4hana-commerce-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Tue, 12 May 2026 12:13:41 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-34263, CVE-2026-34260, CVE-2026-34259  
-**Categories:** Vulnerability, Malware, Supply Chain  
-
----
-
-### 41. [Microsoft Patch Tuesday for May 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-may-2026/)
+### 42. [Microsoft Patch Tuesday for May 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-may-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-40358, CVE-2026-33844, CVE-2026-32161, CVE-2026-33109, CVE-2026-35421  
+**CVEs:** CVE-2026-35421, CVE-2026-33844, CVE-2026-32161, CVE-2026-40358, CVE-2026-33109  
 **Categories:** Vulnerability  
 
 ---
 
-### 42. [State-sponsored actors, better known as the friends you don’t want](https://blog.talosintelligence.com/state-sponsored-actors-better-known-as-the-friends-you-dont-want/)
+### 43. [State-sponsored actors, better known as the friends you don’t want](https://blog.talosintelligence.com/state-sponsored-actors-better-known-as-the-friends-you-dont-want/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 10:00:54 GMT  
@@ -388,7 +399,7 @@
 
 ---
 
-### 43. [Unplug your way to better code](https://blog.talosintelligence.com/unplug-your-way-to-better-code/)
+### 44. [Unplug your way to better code](https://blog.talosintelligence.com/unplug-your-way-to-better-code/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 07 May 2026 18:00:40 GMT  
@@ -397,7 +408,7 @@
 
 ---
 
-### 44. [Insights into the clustering and reuse of phone numbers in scam emails](https://blog.talosintelligence.com/insights-into-the-clustering-and-reuse-of-phone-numbers-in-scam-emails/)
+### 45. [Insights into the clustering and reuse of phone numbers in scam emails](https://blog.talosintelligence.com/insights-into-the-clustering-and-reuse-of-phone-numbers-in-scam-emails/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 06 May 2026 10:00:12 GMT  
@@ -406,7 +417,7 @@
 
 ---
 
-### 45. [UAT-8302 and its box full of malware](https://blog.talosintelligence.com/uat-8302/)
+### 46. [UAT-8302 and its box full of malware](https://blog.talosintelligence.com/uat-8302/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 05 May 2026 10:00:30 GMT  
@@ -415,7 +426,7 @@
 
 ---
 
-### 46. [CloudZ RAT potentially steals OTP messages using Pheno plugin](https://blog.talosintelligence.com/cloudz-pheno-infostealer/)
+### 47. [CloudZ RAT potentially steals OTP messages using Pheno plugin](https://blog.talosintelligence.com/cloudz-pheno-infostealer/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 05 May 2026 10:00:18 GMT  
@@ -424,7 +435,7 @@
 
 ---
 
-### 47. [Great responsibility, without great power](https://blog.talosintelligence.com/great-responsibility-without-great-power/)
+### 48. [Great responsibility, without great power](https://blog.talosintelligence.com/great-responsibility-without-great-power/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 30 Apr 2026 18:00:07 GMT  
@@ -433,7 +444,7 @@
 
 ---
 
-### 48. [AI-powered honeypots: Turning the tables on malicious AI agents](https://blog.talosintelligence.com/ai-powered-honeypots-turning-the-tables-on-malicious-ai-agents/)
+### 49. [AI-powered honeypots: Turning the tables on malicious AI agents](https://blog.talosintelligence.com/ai-powered-honeypots-turning-the-tables-on-malicious-ai-agents/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 29 Apr 2026 10:00:42 GMT  
@@ -442,21 +453,12 @@
 
 ---
 
-### 49. [Five defender priorities from the Talos Year in Review](https://blog.talosintelligence.com/five-defender-priorities-from-the-talos-year-in-review/)
+### 50. [Five defender priorities from the Talos Year in Review](https://blog.talosintelligence.com/five-defender-priorities-from-the-talos-year-in-review/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 28 Apr 2026 13:23:20 GMT  
 **Severity:** Low  
 **Categories:** Vulnerability, APT  
-
----
-
-### 50. [It pays to be a forever student](https://blog.talosintelligence.com/it-pays-to-be-a-forever-student/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 23 Apr 2026 18:00:22 GMT  
-**Severity:** High  
-**Categories:** Ransomware, Phishing  
 
 ---
 
@@ -735,7 +737,16 @@
 
 ---
 
-### 81. [Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections](https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/)
+### 81. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
+
+**Source:** Crowdstrike Blog  
+**Published:** May 12, 2026 00:00:00-0500  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 82. [Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections](https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 11, 2026 00:00:00-0500  
@@ -744,7 +755,7 @@
 
 ---
 
-### 82. [CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/)
+### 83. [CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 06, 2026 00:00:00-0500  
@@ -753,7 +764,7 @@
 
 ---
 
-### 83. [CrowdStrike Launches Falcon OverWatch for Defender](https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/)
+### 84. [CrowdStrike Launches Falcon OverWatch for Defender](https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 05, 2026 00:00:00-0500  
@@ -762,7 +773,7 @@
 
 ---
 
-### 84. [CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns](https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/)
+### 85. [CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns](https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 04, 2026 00:00:00-0500  
@@ -771,7 +782,7 @@
 
 ---
 
-### 85. [Tune In: The Future of AI-Powered Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/)
+### 86. [Tune In: The Future of AI-Powered Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 01, 2026 00:00:00-0500  
@@ -780,7 +791,7 @@
 
 ---
 
-### 86. [Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield](https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/)
+### 87. [Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield](https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 30, 2026 00:00:00-0500  
@@ -789,7 +800,7 @@
 
 ---
 
-### 87. [CrowdStrike Expands ChatGPT Enterprise Integration with Enhanced Audit Logging and Activity Monitoring](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-chatgpt-enterprise-integration/)
+### 88. [CrowdStrike Expands ChatGPT Enterprise Integration with Enhanced Audit Logging and Activity Monitoring](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-chatgpt-enterprise-integration/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 28, 2026 00:00:00-0700  
@@ -798,7 +809,7 @@
 
 ---
 
-### 88. [CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/)
+### 89. [CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 27, 2026 00:00:00-0700  
@@ -807,16 +818,7 @@
 
 ---
 
-### 89. [CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Apr 22, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-cloud-security-delivers-264-percent-roi-through-unified-cloud-protection/)
+### 90. [CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 22, 2026 00:00:00-0500  
