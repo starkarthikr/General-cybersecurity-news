@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-13 14:48:12 UTC
+**Last Updated:** 2026-05-13 18:23:38 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -22,7 +22,7 @@
 
 ---
 
-### 3. [[Webinar] Why Your AppSec Tools Miss the "Lethal Path" (and How to Fix It)](https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html)
+### 3. [[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud](https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 13 May 2026 17:22:43 +0530  
@@ -94,7 +94,35 @@
 
 ---
 
-### 11. [Microsoft fixes Windows Autopatch bug installing restricted drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/)
+### 11. [Windows BitLocker zero-day gives access to protected drives, PoC released](https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 13 May 2026 12:37:49 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-33825  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 12. [Webinar tomorrow: Why security alone won't stop modern attacks](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 13 May 2026 11:45:56 -0400  
+**Severity:** High  
+**Categories:** Ransomware, Phishing  
+
+---
+
+### 13. [Microsoft fixes BitLocker recovery issue only for Windows 11 users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 13 May 2026 11:42:46 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 14. [Microsoft fixes Windows Autopatch bug installing restricted drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 10:36:09 -0400  
@@ -103,7 +131,7 @@
 
 ---
 
-### 12. [Foxconn confirms cyberattack claimed by Nitrogen ransomware gang](https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/)
+### 15. [Foxconn confirms cyberattack claimed by Nitrogen ransomware gang](https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 08:49:54 -0400  
@@ -112,7 +140,7 @@
 
 ---
 
-### 13. [73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation](https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/)
+### 16. [73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation](https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 08:30:38 -0400  
@@ -121,7 +149,7 @@
 
 ---
 
-### 14. [Microsoft says some users can't install Office on Windows 365 devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/)
+### 17. [Microsoft says some users can't install Office on Windows 365 devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 07:53:54 -0400  
@@ -130,7 +158,7 @@
 
 ---
 
-### 15. [US govt seeks Instructure testimony on massive Canvas cyberattack](https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/)
+### 18. [US govt seeks Instructure testimony on massive Canvas cyberattack](https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 12 May 2026 19:09:55 -0400  
@@ -139,7 +167,7 @@
 
 ---
 
-### 16. [UK fines water supplier $1.3M for exposing data of 664k customers](https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/)
+### 19. [UK fines water supplier $1.3M for exposing data of 664k customers](https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 12 May 2026 16:17:19 -0400  
@@ -148,40 +176,12 @@
 
 ---
 
-### 17. [Webinar: Fixing the gaps in network incident response](https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/)
+### 20. [Webinar: Fixing the gaps in network incident response](https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 12 May 2026 15:46:04 -0400  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 18. [Signal adds security warnings for social engineering, phishing attacks](https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 12 May 2026 15:40:31 -0400  
-**Severity:** High  
-**Categories:** Phishing  
-
----
-
-### 19. [Microsoft releases Windows 10 KB5087544 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 12 May 2026 14:58:34 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 12 May 2026 14:23:09 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-26083, CVE-2026-44277  
-**Categories:** Ransomware, Vulnerability  
 
 ---
 
@@ -226,7 +226,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -276,7 +276,34 @@
 
 ---
 
-### 31. [Webinar Today: ROI for Cyber-Physical Security Programs](https://www.securityweek.com/webinar-today-roi-for-cyber-physical-security-programs/)
+### 31. [Foxconn Confirms North American Factories Hit by Cyberattack](https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/)
+
+**Source:** Security Week  
+**Published:** Wed, 13 May 2026 17:13:36 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 32. [Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code](https://www.securityweek.com/microsoft-palo-alto-networks-find-many-vulnerabilities-by-using-ai-on-their-own-code/)
+
+**Source:** Security Week  
+**Published:** Wed, 13 May 2026 16:01:00 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment’](https://www.securityweek.com/sweet-security-launches-agentic-ai-red-teaming-to-counter-mythos-moment/)
+
+**Source:** Security Week  
+**Published:** Wed, 13 May 2026 14:50:20 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 34. [Webinar Today: ROI for Cyber-Physical Security Programs](https://www.securityweek.com/webinar-today-roi-for-cyber-physical-security-programs/)
 
 **Source:** Security Week  
 **Published:** Wed, 13 May 2026 13:30:00 +0000  
@@ -285,7 +312,7 @@
 
 ---
 
-### 32. [Government to Scrutinize Instructure Over Canvas Disruption, Data Breach](https://www.securityweek.com/government-to-scrutinize-instructure-on-canvas-disruption-data-breach/)
+### 35. [Government to Scrutinize Instructure Over Canvas Disruption, Data Breach](https://www.securityweek.com/government-to-scrutinize-instructure-on-canvas-disruption-data-breach/)
 
 **Source:** Security Week  
 **Published:** Wed, 13 May 2026 12:13:14 +0000  
@@ -294,7 +321,7 @@
 
 ---
 
-### 33. [716,000 Impacted by OpenLoop Health Data Breach](https://www.securityweek.com/716000-impacted-by-openloop-health-data-breach/)
+### 36. [716,000 Impacted by OpenLoop Health Data Breach](https://www.securityweek.com/716000-impacted-by-openloop-health-data-breach/)
 
 **Source:** Security Week  
 **Published:** Wed, 13 May 2026 11:18:03 +0000  
@@ -303,27 +330,27 @@
 
 ---
 
-### 34. [Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises](https://www.securityweek.com/microsoft-patches-critical-zero-click-outlook-vulnerability-threatening-enterprises/)
+### 37. [Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises](https://www.securityweek.com/microsoft-patches-critical-zero-click-outlook-vulnerability-threatening-enterprises/)
 
 **Source:** Security Week  
 **Published:** Wed, 13 May 2026 10:33:46 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-40361, CVE-2015-6172  
+**CVEs:** CVE-2015-6172, CVE-2026-40361  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 35. [Fortinet, Ivanti Patch Critical Vulnerabilities](https://www.securityweek.com/fortinet-ivanti-patch-critical-vulnerabilities/)
+### 38. [Fortinet, Ivanti Patch Critical Vulnerabilities](https://www.securityweek.com/fortinet-ivanti-patch-critical-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Wed, 13 May 2026 09:36:55 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-26083, CVE-2026-8043, CVE-2026-44277, CVE-2025-53844  
+**CVEs:** CVE-2026-8043, CVE-2026-44277, CVE-2025-53844, CVE-2026-26083  
 **Categories:** Vulnerability  
 
 ---
 
-### 36. [Chipmaker Patch Tuesday: Intel and AMD Patch 70 Vulnerabilities](https://www.securityweek.com/chipmaker-patch-tuesday-intel-and-amd-patch-70-vulnerabilities/)
+### 39. [Chipmaker Patch Tuesday: Intel and AMD Patch 70 Vulnerabilities](https://www.securityweek.com/chipmaker-patch-tuesday-intel-and-amd-patch-70-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Wed, 13 May 2026 08:37:34 +0000  
@@ -333,40 +360,12 @@
 
 ---
 
-### 37. [Hundreds of Malicious Packages Force RubyGems to Suspend Registrations](https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/)
+### 40. [Hundreds of Malicious Packages Force RubyGems to Suspend Registrations](https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/)
 
 **Source:** Security Week  
 **Published:** Wed, 13 May 2026 07:30:36 +0000  
 **Severity:** Low  
 **Categories:** Vulnerability, DDoS, Supply Chain  
-
----
-
-### 38. [ICS Patch Tuesday: New Security Advisories From Siemens, Schneider, CISA](https://www.securityweek.com/ics-patch-tuesday-new-security-advisories-from-siemens-schneider-cisa/)
-
-**Source:** Security Week  
-**Published:** Wed, 13 May 2026 06:50:51 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 39. [Microsoft Patches 137 Vulnerabilities](https://www.securityweek.com/microsoft-patches-137-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Tue, 12 May 2026 18:07:39 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-41103, CVE-2026-40361, CVE-2026-40364  
-**Categories:** Vulnerability  
-
----
-
-### 40. [Exaforce Raises $125 Million for Agentic SOC Platform](https://www.securityweek.com/exaforce-raises-125-million-for-agentic-soc-platform/)
-
-**Source:** Security Week  
-**Published:** Tue, 12 May 2026 17:23:00 +0000  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -384,7 +383,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33109, CVE-2026-35421, CVE-2026-40358, CVE-2026-33844, CVE-2026-32161  
+**CVEs:** CVE-2026-32161, CVE-2026-33844, CVE-2026-35421, CVE-2026-33109, CVE-2026-40358  
 **Categories:** Vulnerability  
 
 ---
@@ -660,7 +659,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 13 May 2026 11:00:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-40361, CVE-2026-35421  
+**CVEs:** CVE-2026-35421, CVE-2026-40361  
 **Categories:** Vulnerability, Malware  
 
 ---

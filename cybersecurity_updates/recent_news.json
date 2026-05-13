@@ -37,10 +37,10 @@
   },
   {
     "source": "The Hacker News",
-    "title": "[Webinar] Why Your AppSec Tools Miss the \"Lethal Path\" (and How to Fix It)",
+    "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
     "link": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
     "published": "Wed, 13 May 2026 17:22:43 +0530",
-    "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz and Okta/GitLab to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here.\nMost security tools work like a smoke alarm that goes off every time you burn a piece of toast. You get so many alerts that you eventually start to ignore them.\nThe real",
+    "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here.\nMost security tools work like a smoke alarm that goes off every time you burn a piece of toast. You get so many alerts that you eventually start to ignore them.\nThe real danger? While",
     "analysis": {
       "issue": "Learn AppSec secrets from industry veterans Mike McGuire (Wiz) and Salman Ladha (ex-Okta)",
       "solution": null,
@@ -181,6 +181,64 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
+    "link": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
+    "published": "Wed, 13 May 2026 12:37:49 -0400",
+    "summary": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation flaw. [...]",
+    "analysis": {
+      "issue": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation flaw",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-33825"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Webinar tomorrow: Why security alone won't stop modern attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/",
+    "published": "Wed, 13 May 2026 11:45:56 -0400",
+    "summary": "Tomorrow's webinar examines why prevention alone is no longer enough against modern cyberattacks. The session explores how organizations combine security, backups, and recovery planning to improve cyber resilience after attacks. [...]",
+    "analysis": {
+      "issue": "Modern cyberattacks are increasingly designed to bypass defenses, disrupt operations, and delay recovery after compromise",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft fixes BitLocker recovery issue only for Windows 11 users",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/",
+    "published": "Wed, 13 May 2026 11:42:46 -0400",
+    "summary": "Microsoft has addressed a known issue causing some Windows 11 systems to boot into BitLocker recovery after installing the April 2026 Windows security updates. [...]",
+    "analysis": {
+      "issue": "Microsoft has addressed a known issue causing some Windows 11 systems to boot into BitLocker recovery after installing the April 2026 Windows security updates",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
     "published": "Wed, 13 May 2026 10:36:09 -0400",
@@ -310,64 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Signal adds security warnings for social engineering, phishing attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
-    "published": "Tue, 12 May 2026 15:40:31 -0400",
-    "summary": "Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud. [...]",
-    "analysis": {
-      "issue": "Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft releases Windows 10 KB5087544 extended security update",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
-    "published": "Tue, 12 May 2026 14:58:34 -0400",
-    "summary": "Microsoft has released the Windows 10 KB5087544 extended security update to fix the May 2026 Patch Tuesday vulnerabilities and resolve an issue with the new Remote Desktop warnings. [...]",
-    "analysis": {
-      "issue": "Microsoft has released the Windows 10 KB5087544 extended security update to fix the May 2026 Patch Tuesday vulnerabilities and resolve an issue with the new Remote Desktop warnings",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator",
-    "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
-    "published": "Tue, 12 May 2026 14:23:09 -0400",
-    "summary": "Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code. [...]",
-    "analysis": {
-      "issue": "Fortinet has released security updates to address two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code on unpatched systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-26083",
-        "CVE-2026-44277"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, May 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
@@ -457,8 +457,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-34621",
-        "CVE-2026-32201",
-        "CVE-2026-33825"
+        "CVE-2026-33825",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -564,6 +564,61 @@
   },
   {
     "source": "Security Week",
+    "title": "Foxconn Confirms North American Factories Hit by Cyberattack",
+    "link": "https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/",
+    "published": "Wed, 13 May 2026 17:13:36 +0000",
+    "summary": "<p>The Nitrogen ransomware group claims to have hacked the company’s systems, stealing 8TB of data, including confidential documents.</p>\n<p>The post <a href=\"https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/\">Foxconn Confirms North American Factories Hit by Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Nitrogen ransomware group claims to have hacked the company’s systems, stealing 8TB of data, including confidential documents",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code",
+    "link": "https://www.securityweek.com/microsoft-palo-alto-networks-find-many-vulnerabilities-by-using-ai-on-their-own-code/",
+    "published": "Wed, 13 May 2026 16:01:00 +0000",
+    "summary": "<p>Microsoft’s MDASH discovered 16 of the Patch Tuesday vulnerabilities, and Palo Alto used Mythos to find dozens of flaws. </p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-palo-alto-networks-find-many-vulnerabilities-by-using-ai-on-their-own-code/\">Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Microsoft’s MDASH discovered 16 of the Patch Tuesday vulnerabilities, and Palo Alto used Mythos to find dozens of flaws",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment’",
+    "link": "https://www.securityweek.com/sweet-security-launches-agentic-ai-red-teaming-to-counter-mythos-moment/",
+    "published": "Wed, 13 May 2026 14:50:20 +0000",
+    "summary": "<p>New “Sweet Attack” platform uses runtime intelligence and continuous agentic red teaming to identify exploitable attack chains human teams may miss.</p>\n<p>The post <a href=\"https://www.securityweek.com/sweet-security-launches-agentic-ai-red-teaming-to-counter-mythos-moment/\">Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment&#8217;</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "New “Sweet Attack” platform uses runtime intelligence and continuous agentic red teaming to identify exploitable attack chains human teams may miss",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Webinar Today: ROI for Cyber-Physical Security Programs",
     "link": "https://www.securityweek.com/webinar-today-roi-for-cyber-physical-security-programs/",
     "published": "Wed, 13 May 2026 13:30:00 +0000",
@@ -631,8 +686,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-40361",
-        "CVE-2015-6172"
+        "CVE-2015-6172",
+        "CVE-2026-40361"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -653,10 +708,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-26083",
         "CVE-2026-8043",
         "CVE-2026-44277",
-        "CVE-2025-53844"
+        "CVE-2025-53844",
+        "CVE-2026-26083"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -705,65 +760,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "ICS Patch Tuesday: New Security Advisories From Siemens, Schneider, CISA",
-    "link": "https://www.securityweek.com/ics-patch-tuesday-new-security-advisories-from-siemens-schneider-cisa/",
-    "published": "Wed, 13 May 2026 06:50:51 +0000",
-    "summary": "<p>Many ICS vendors have not released new advisories for the May 2026 Patch Tuesday.</p>\n<p>The post <a href=\"https://www.securityweek.com/ics-patch-tuesday-new-security-advisories-from-siemens-schneider-cisa/\">ICS Patch Tuesday: New Security Advisories From Siemens, Schneider, CISA</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Many ICS vendors have not released new advisories for the May 2026 Patch Tuesday",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft Patches 137 Vulnerabilities",
-    "link": "https://www.securityweek.com/microsoft-patches-137-vulnerabilities/",
-    "published": "Tue, 12 May 2026 18:07:39 +0000",
-    "summary": "<p>Fresh security updates resolve critical flaws in Azure, Windows, Dynamics 365, and the SSO Plugin for Jira &#038; Confluence.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-137-vulnerabilities/\">Microsoft Patches 137 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Fresh security updates resolve critical flaws in Azure, Windows, Dynamics 365, and the SSO Plugin for Jira & Confluence",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-41103",
-        "CVE-2026-40361",
-        "CVE-2026-40364"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Exaforce Raises $125 Million for Agentic SOC Platform",
-    "link": "https://www.securityweek.com/exaforce-raises-125-million-for-agentic-soc-platform/",
-    "published": "Tue, 12 May 2026 17:23:00 +0000",
-    "summary": "<p>Exaforce has raised a total of $200 million and plans on using the latest investment for product development and international expansion. </p>\n<p>The post <a href=\"https://www.securityweek.com/exaforce-raises-125-million-for-agentic-soc-platform/\">Exaforce Raises $125 Million for Agentic SOC Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Exaforce has raised a total of $200 million and plans on using the latest investment for product development and international expansion",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Breaking things to keep them safe with Philippe Laulheret",
     "link": "https://blog.talosintelligence.com/breaking-things-to-keep-them-safe-with-philippe-laulheret/",
@@ -787,7 +783,7 @@
     "title": "Microsoft Patch Tuesday for May 2026 — Snort rules and prominent vulnerabilities",
     "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-may-2026/",
     "published": "Tue, 12 May 2026 19:57:04 GMT",
-    "summary": "Microsoft has released its monthly security update for May 2026, which includes 112 vulnerabilities affecting a range of products, including 16 that Microsoft marked as “critical”.",
+    "summary": "Microsoft has released its monthly security update for May 2026, which includes 137 vulnerabilities affecting a range of products, including 16 that Microsoft marked as “critical”.",
     "analysis": {
       "issue": "By Jaeson Schultz  Microsoft has released its monthly security update for May 2026, which includes 137 vulnerabilities affecting a range of products, including 31 that Microsoft marked as “critical”",
       "solution": null,
@@ -795,11 +791,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33109",
-        "CVE-2026-35421",
-        "CVE-2026-40358",
+        "CVE-2026-32161",
         "CVE-2026-33844",
-        "CVE-2026-32161"
+        "CVE-2026-35421",
+        "CVE-2026-33109",
+        "CVE-2026-40358"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1365,8 +1361,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-40361",
-        "CVE-2026-35421"
+        "CVE-2026-35421",
+        "CVE-2026-40361"
       ],
       "threat_categories": [
         "Vulnerability",
