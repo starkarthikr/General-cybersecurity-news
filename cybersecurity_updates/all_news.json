@@ -1,6 +1,96 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
+    "link": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
+    "published": "Wed, 13 May 2026 19:16:02 +0530",
+    "summary": "Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part of a limited private preview.\nMDASH, short for multi-model agentic scanning harness, is designed as a model-agnostic system that uses bespoke AI agents for different vulnerability",
+    "analysis": {
+      "issue": "Microsoft’s new MDASH AI system found 16 Windows vulnerabilities fixed in this month’s Patch Tuesday, including 2 RCE flaws in IKEv2 and TCP/IP",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
+    "link": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
+    "published": "Wed, 13 May 2026 18:30:00 +0530",
+    "summary": "A threat actor with affiliations to China has been linked to a \"multi-wave intrusion\" targeting an unnamed Azerbaijani oil and gas company between late December 2025 and late February 2026, marking an expansion of its targeting.\nThe activity has been attributed by Bitdefender with moderate-to-high confidence to a hacking group known as FamousSparrow (aka UAT-9244), which shares some level of",
+    "analysis": {
+      "issue": "FamousSparrow reused ProxyNotShell from Dec 2025-Feb 2026, deploying Deed RAT and TernDoor to sustain energy-sector access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "[Webinar] Why Your AppSec Tools Miss the \"Lethal Path\" (and How to Fix It)",
+    "link": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
+    "published": "Wed, 13 May 2026 17:22:43 +0530",
+    "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz and Okta/GitLab to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here.\nMost security tools work like a smoke alarm that goes off every time you burn a piece of toast. You get so many alerts that you eventually start to ignore them.\nThe real",
+    "analysis": {
+      "issue": "Learn AppSec secrets from industry veterans Mike McGuire (Wiz) and Salman Ladha (ex-Okta)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
+    "link": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
+    "published": "Wed, 13 May 2026 17:00:00 +0530",
+    "summary": "Security teams have never had better visibility into their environments and never been worse at confirming what they fix stays fixed.\nMandiant's M-Trends 2026 report puts the mean time to exploit at an estimated negative seven days. The Verizon 2025 DBIR puts median time to remediate edge device vulnerabilities at 32 days. These numbers have understandably driven the industry toward a clear",
+    "analysis": {
+      "issue": "AI-driven exploitation outpaces 32-day edge remediation, leaving closed tickets with unresolved risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
+    "link": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
+    "published": "Wed, 13 May 2026 16:06:10 +0530",
+    "summary": "Microsoft on Tuesday released patches for 138 security vulnerabilities spanning its product portfolio, although none of them have been listed as publicly known or under active attack.\nOf the 138 flaws, 30 are rated Critical, 104 are rated Important, three are rated Moderate, and one is rated Low in severity. As many as 61 vulnerabilities are classified as privilege escalation bugs, followed by",
+    "analysis": {
+      "issue": "Microsoft patched 138 flaws, including 30 Critical bugs, as AI discovery expands Patch Tuesday risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
     "link": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
     "published": "Wed, 13 May 2026 13:38:54 +0530",
@@ -90,92 +180,75 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
-    "link": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html",
-    "published": "Tue, 12 May 2026 17:28:00 +0530",
-    "summary": "Why do the Riskiest SOC Alerts Go Unanswered?\nSecurity operations teams are drowning in alerts. But the real problem isn't always alert volume; it's the blind spots. The most dangerous alerts are the ones no one is investigating.\nA recent report from The Hacker News examined why certain high-risk alert categories - WAF, DLP, OT/IoT, dark web intelligence, and supply chain signals- consistently",
+    "source": "Bleeping Computer",
+    "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
+    "published": "Wed, 13 May 2026 10:36:09 -0400",
+    "summary": "Microsoft has fixed a Windows Autopatch bug that caused driver updates restricted by administrative policies to be deployed on some Autopatch-managed Windows devices in the European Union. [...]",
     "analysis": {
-      "issue": "Critical SOC alerts go uninvestigated as static AI triage limits coverage, increasing enterprise breach risks",
+      "issue": "Microsoft has fixed a Windows Autopatch bug that caused driver updates restricted by administrative policies to be deployed on some Autopatch-managed Windows devices in the European Union",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
+    "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
+    "published": "Wed, 13 May 2026 08:49:54 -0400",
+    "summary": "Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a cyberattack. [...]",
+    "analysis": {
+      "issue": "Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a cyberattack",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
+    "link": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
+    "published": "Wed, 13 May 2026 08:30:38 -0400",
+    "summary": "Attackers can compromise systems in minutes while patching and response still take hours or days. Picus Security breaks down why autonomous validation is becoming critical for modern defense strategies. [...]",
+    "analysis": {
+      "issue": "By Sila Ozeren Hacioglu, Security Research Engineer at Picus Security",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
-    "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
-    "published": "Tue, 12 May 2026 17:16:00 +0530",
-    "summary": "TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign.\nThe affected npm packages have been modified to include an obfuscated JavaScript file (\"router_init.js\") that's designed to profile the execution",
-    "analysis": {
-      "issue": "TeamPCP’s Mini Shai-Hulud campaign used hijacked GitHub OIDC tokens to spread a credential-stealing worm through TanStack npm packages",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Why Agentic AI Is Security's Next Blind Spot",
-    "link": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
-    "published": "Tue, 12 May 2026 16:00:00 +0530",
-    "summary": "Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions — most likely without meaningful involvement from the security team. The industry conversation has largely framed this as a question of policy: allow it, restrict it, or monitor it? However, that framing misses the point.&nbsp;\nThe more urgent",
-    "analysis": {
-      "issue": "Agentic AI expands enterprise attack surfaces through broad permissions and unreviewed deployments, increasing lateral movement risks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
-    "link": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html",
-    "published": "Tue, 12 May 2026 13:07:00 +0530",
-    "summary": "American educational technology company Instructure, the parent company of Canvas, said it reached an \"agreement\" with a decentralized cybercrime extortion group after it breached its network and threatened to leak stolen information from thousands of schools and universities.\nIn an update shared on Monday, the Utah-based firm said it \"reached an agreement with the unauthorized actor involved in",
-    "analysis": {
-      "issue": "Instructure paid a ransom after hackers stole 275 million Canvas records, reducing risks of wider extortion and leaks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
-    "link": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
-    "published": "Tue, 12 May 2026 12:25:00 +0530",
-    "summary": "OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and patch vulnerabilities before attackers find a way in using the same issues.\n\"Daybreak combines the intelligence of OpenAI models, the extensibility of Codex as an agentic harness, and our partners across",
-    "analysis": {
-      "issue": "OpenAI launched Daybreak with GPT-5",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft says some users can't install Office on Windows 365 devices",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/",
+    "published": "Wed, 13 May 2026 07:53:54 -0400",
+    "summary": "Microsoft says some customers are experiencing issues downloading and installing Office on their Windows 365 devices. [...]",
+    "analysis": {
+      "issue": "Microsoft says some customers are experiencing issues downloading and installing Office on their Windows 365 devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -285,85 +358,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44277",
-        "CVE-2026-26083"
+        "CVE-2026-26083",
+        "CVE-2026-44277"
       ],
       "threat_categories": [
         "Ransomware",
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
-    "published": "Tue, 12 May 2026 14:09:12 -0400",
-    "summary": "Microsoft has released Windows 11 KB5089549 and KB5087420 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-    "analysis": {
-      "issue": "Microsoft has released Windows 11 KB5089549 and KB5087420 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
-    "published": "Tue, 12 May 2026 14:08:06 -0400",
-    "summary": "Today is Microsoft's May 2026 Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed this month. [...]",
-    "analysis": {
-      "issue": "Today is Microsoft's May 2026 Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Škoda warns of customer data breach after online shop hack",
-    "link": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
-    "published": "Tue, 12 May 2026 13:07:01 -0400",
-    "summary": "Škoda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers. [...]",
-    "analysis": {
-      "issue": "Škoda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Android 17 to expand banking scam call and privacy protections",
-    "link": "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/",
-    "published": "Tue, 12 May 2026 13:00:00 -0400",
-    "summary": "Android 17, expected to roll out next month, will introduce several security and privacy features focused on device theft, threat detection, and banking scam calls. [...]",
-    "analysis": {
-      "issue": "Android 17, expected to roll out next month, will introduce several security and privacy features focused on device theft, threat detection, and banking scam calls",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -456,9 +456,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-34621",
         "CVE-2026-32201",
-        "CVE-2026-33825",
-        "CVE-2026-34621"
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -564,6 +564,62 @@
   },
   {
     "source": "Security Week",
+    "title": "Webinar Today: ROI for Cyber-Physical Security Programs",
+    "link": "https://www.securityweek.com/webinar-today-roi-for-cyber-physical-security-programs/",
+    "published": "Wed, 13 May 2026 13:30:00 +0000",
+    "summary": "<p>This webinar will help OT security teams and asset owners stop being cost centers and start being resilience drivers.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-roi-for-cyber-physical-security-programs/\">Webinar Today: ROI for Cyber-Physical Security Programs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "This webinar will help OT security teams and asset owners stop being cost centers and start being resilience drivers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Government to Scrutinize Instructure Over Canvas Disruption, Data Breach",
+    "link": "https://www.securityweek.com/government-to-scrutinize-instructure-on-canvas-disruption-data-breach/",
+    "published": "Wed, 13 May 2026 12:13:14 +0000",
+    "summary": "<p>The Committee on Homeland Security has requested to be briefed on the incident and Instructure’s remediation steps.</p>\n<p>The post <a href=\"https://www.securityweek.com/government-to-scrutinize-instructure-on-canvas-disruption-data-breach/\">Government to Scrutinize Instructure Over Canvas Disruption, Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Committee on Homeland Security has requested to be briefed on the incident and Instructure’s remediation steps",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "716,000 Impacted by OpenLoop Health Data Breach",
+    "link": "https://www.securityweek.com/716000-impacted-by-openloop-health-data-breach/",
+    "published": "Wed, 13 May 2026 11:18:03 +0000",
+    "summary": "<p>The telehealth platform was hacked in January, and users’ personal information was exfiltrated from its systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/716000-impacted-by-openloop-health-data-breach/\">716,000 Impacted by OpenLoop Health Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The telehealth platform was hacked in January, and users’ personal information was exfiltrated from its systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises",
     "link": "https://www.securityweek.com/microsoft-patches-critical-zero-click-outlook-vulnerability-threatening-enterprises/",
     "published": "Wed, 13 May 2026 10:33:46 +0000",
@@ -575,8 +631,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2015-6172",
-        "CVE-2026-40361"
+        "CVE-2026-40361",
+        "CVE-2015-6172"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -597,9 +653,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-26083",
         "CVE-2026-8043",
         "CVE-2026-44277",
-        "CVE-2026-26083",
         "CVE-2025-53844"
       ],
       "threat_categories": [
@@ -680,9 +736,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-40364",
+        "CVE-2026-41103",
         "CVE-2026-40361",
-        "CVE-2026-41103"
+        "CVE-2026-40364"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -704,64 +760,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Adobe Patches 52 Vulnerabilities in 10 Products",
-    "link": "https://www.securityweek.com/adobe-patches-52-vulnerabilities-in-10-products/",
-    "published": "Tue, 12 May 2026 16:47:21 +0000",
-    "summary": "<p>While none of the flaws have been exploited in the wild, many of them could lead to arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-52-vulnerabilities-in-10-products/\">Adobe Patches 52 Vulnerabilities in 10 Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "While none of the flaws have been exploited in the wild, many of them could lead to arbitrary code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-34660",
-        "CVE-2026-34659"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "White Circle Raises $11 Million for AI Control Platform",
-    "link": "https://www.securityweek.com/white-circle-raises-11-million-for-ai-control-platform/",
-    "published": "Tue, 12 May 2026 15:40:21 +0000",
-    "summary": "<p>The startup will invest in accelerating product development, hiring new talent, and expanding its customer base.</p>\n<p>The post <a href=\"https://www.securityweek.com/white-circle-raises-11-million-for-ai-control-platform/\">White Circle Raises $11 Million for AI Control Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The startup will invest in accelerating product development, hiring new talent, and expanding its customer base",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months",
-    "link": "https://www.securityweek.com/bwh-hotels-says-hackers-had-access-to-reservation-data-for-6-months/",
-    "published": "Tue, 12 May 2026 14:30:00 +0000",
-    "summary": "<p>Threat actors obtained names and contact information for an unspecified number of BWH Hotels guests. </p>\n<p>The post <a href=\"https://www.securityweek.com/bwh-hotels-says-hackers-had-access-to-reservation-data-for-6-months/\">BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Threat actors obtained names and contact information for an unspecified number of BWH Hotels guests",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing"
       ]
     }
   },
@@ -797,11 +795,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-33109",
         "CVE-2026-35421",
-        "CVE-2026-33844",
-        "CVE-2026-32161",
         "CVE-2026-40358",
-        "CVE-2026-33109"
+        "CVE-2026-33844",
+        "CVE-2026-32161"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1307,8 +1305,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1333,6 +1331,46 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Texas sued Netflix over claims it secretly collected and sold users’ data",
+    "link": "https://www.malwarebytes.com/blog/news/2026/05/texas-sued-netflix-over-claims-it-secretly-collected-and-sold-users-data",
+    "published": "Wed, 13 May 2026 13:34:58 GMT",
+    "summary": "The Texas AG sued Netflix, accusing the company of secretly tracking viewers, selling user data, and using addictive features targeted at minors.",
+    "analysis": {
+      "issue": "Attorney General (AG) of Texas Ken Paxton announced that he sued Netflix for spying on Texans, including children, and collecting users’ data without their knowledge or consent",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "May 2026 Patch Tuesday: no zero-days but plenty to fix",
+    "link": "https://www.malwarebytes.com/blog/news/2026/05/may-2026-patch-tuesday-no-zero-days-but-plenty-to-fix",
+    "published": "Wed, 13 May 2026 11:00:45 GMT",
+    "summary": "May’s Patch Tuesday may not be the giant release many expected, but there are still plenty of important fixes that shouldn’t be ignored.",
+    "analysis": {
+      "issue": "This month’s Patch Tuesday remedies 137 security vulnerabilities, including 31 marked critical by Microsoft, with no zero-days actively exploited in the wild",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-40361",
+        "CVE-2026-35421"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -1474,42 +1512,6 @@
     "summary": "AI investment scammers abused the Keitaro ad-tracking platform to cloak their campaign, exposing it only to likely targets.",
     "analysis": {
       "issue": "Researchers tracked a large AI‑themed investment scam campaign involving more than 15,000 domains",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "If a fake moustache can fool age checks, is the Online Safety Act working?",
-    "link": "https://www.malwarebytes.com/blog/family-and-parenting/2026/05/if-a-fake-moustache-can-fool-age-checks-is-the-online-safety-act-working",
-    "published": "Thu, 07 May 2026 10:21:22 GMT",
-    "summary": "A UK report finds some progress since the Act came into force, but widespread workarounds, ongoing harm, and unresolved privacy concerns suggest the impact is still limited.",
-    "analysis": {
-      "issue": "A report based on a survey by the UK’s Internet Matters shows that much of the responsibility for managing the online safety of children still falls on families",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Google Chrome&#8217;s silent 4GB AI download problem [updated]",
-    "link": "https://www.malwarebytes.com/blog/news/2026/05/google-chromes-silent-4gb-ai-download-problem",
-    "published": "Wed, 06 May 2026 16:17:03 GMT",
-    "summary": "Google Chrome writes a 4GB AI model to users’ devices without asking, and reinstalls it if you delete it.",
-    "analysis": {
-      "issue": "Google Chrome has been quietly downloading a 4GB AI model onto users’ devices without asking first",
       "solution": null,
       "cause": null,
       "timeline": null,
