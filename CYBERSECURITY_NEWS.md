@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-14 14:27:50 UTC
+**Last Updated:** 2026-05-14 18:16:17 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure](https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html)
+### 1. [ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories](https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 14 May 2026 21:37:46 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Vulnerability, Supply Chain  
+
+---
+
+### 2. [Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike](https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 14 May 2026 19:30:37 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 3. [PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure](https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 14 May 2026 17:10:14 +0530  
@@ -14,7 +32,7 @@
 
 ---
 
-### 2. [How AI Hallucinations Are Creating Real Security Risks](https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html)
+### 4. [How AI Hallucinations Are Creating Real Security Risks](https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 14 May 2026 17:00:00 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation](https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html)
+### 5. [Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation](https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 14 May 2026 14:55:50 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption](https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html)
+### 6. [New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption](https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 14 May 2026 12:36:15 +0530  
@@ -42,7 +60,7 @@
 
 ---
 
-### 5. [18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE](https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html)
+### 7. [18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE](https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 14 May 2026 11:30:09 +0530  
@@ -52,7 +70,7 @@
 
 ---
 
-### 6. [Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday](https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html)
+### 8. [Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday](https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 13 May 2026 19:16:02 +0530  
@@ -61,7 +79,7 @@
 
 ---
 
-### 7. [Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation](https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html)
+### 9. [Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation](https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 13 May 2026 18:30:00 +0530  
@@ -70,7 +88,7 @@
 
 ---
 
-### 8. [[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud](https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html)
+### 10. [[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud](https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 13 May 2026 17:22:43 +0530  
@@ -79,25 +97,26 @@
 
 ---
 
-### 9. [Most Remediation Programs Never Confirm the Fix Actually Worked](https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html)
+### 11. [18-year-old NGINX vulnerability allows DoS, potential RCE](https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 13 May 2026 17:00:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws](https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 13 May 2026 16:06:10 +0530  
+**Source:** Bleeping Computer  
+**Published:** Thu, 14 May 2026 11:43:41 -0400  
 **Severity:** Critical  
-**Categories:** General Security  
+**CVEs:** CVE-2026-42945  
+**Categories:** Vulnerability, DDoS  
 
 ---
 
-### 11. [KongTuke hackers now use Microsoft Teams for corporate breaches](https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/)
+### 12. [Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight](https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 14 May 2026 11:21:32 -0400  
+**Severity:** High  
+**Categories:** Ransomware, Phishing  
+
+---
+
+### 13. [KongTuke hackers now use Microsoft Teams for corporate breaches](https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 14 May 2026 08:12:40 -0400  
@@ -106,7 +125,7 @@
 
 ---
 
-### 12. [Dell confirms its SupportAssist software causes Windows BSOD crashes](https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/)
+### 14. [Dell confirms its SupportAssist software causes Windows BSOD crashes](https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 14 May 2026 06:03:39 -0400  
@@ -115,7 +134,7 @@
 
 ---
 
-### 13. [US charges suspected Dream Market admin arrested in Germany](https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/)
+### 15. [US charges suspected Dream Market admin arrested in Germany](https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 14 May 2026 04:55:46 -0400  
@@ -124,17 +143,17 @@
 
 ---
 
-### 14. [New Fragnesia Linux flaw lets attackers gain root privileges](https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/)
+### 16. [New Fragnesia Linux flaw lets attackers gain root privileges](https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 14 May 2026 03:34:19 -0400  
 **Severity:** High  
-**CVEs:** CVE-2026-46300, CVE-2026-43500, CVE-2026-43284  
+**CVEs:** CVE-2026-43284, CVE-2026-43500, CVE-2026-46300  
 **Categories:** Vulnerability  
 
 ---
 
-### 15. [West Pharmaceutical says hackers stole data, encrypted systems](https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/)
+### 17. [West Pharmaceutical says hackers stole data, encrypted systems](https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 18:23:31 -0400  
@@ -143,7 +162,7 @@
 
 ---
 
-### 16. [Iranian hackers targeted major South Korean electronics maker](https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/)
+### 18. [Iranian hackers targeted major South Korean electronics maker](https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 17:59:33 -0400  
@@ -152,7 +171,7 @@
 
 ---
 
-### 17. [New critical Exim mailer flaw allows remote code execution](https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/)
+### 19. [New critical Exim mailer flaw allows remote code execution](https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 16:23:50 -0400  
@@ -162,31 +181,13 @@
 
 ---
 
-### 18. [Windows BitLocker zero-day gives access to protected drives, PoC released](https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/)
+### 20. [Windows BitLocker zero-day gives access to protected drives, PoC released](https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 12:37:49 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-33825  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 19. [Webinar tomorrow: Why security alone won't stop modern attacks](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 13 May 2026 11:45:56 -0400  
-**Severity:** High  
-**Categories:** Ransomware, Phishing  
-
----
-
-### 20. [Microsoft fixes BitLocker recovery issue only for Windows 11 users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 13 May 2026 11:42:46 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -231,7 +232,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -341,7 +342,7 @@
 **Source:** Security Week  
 **Published:** Thu, 14 May 2026 10:47:58 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-39459, CVE-2026-41957, CVE-2026-34176, CVE-2026-41225, CVE-2026-42945  
+**CVEs:** CVE-2026-39459, CVE-2026-41957, CVE-2026-34176, CVE-2026-42945, CVE-2026-41225  
 **Categories:** Vulnerability  
 
 ---
@@ -375,7 +376,26 @@
 
 ---
 
-### 41. [Breaking things to keep them safe with Philippe Laulheret](https://blog.talosintelligence.com/breaking-things-to-keep-them-safe-with-philippe-laulheret/)
+### 41. [The time of much patching is coming](https://blog.talosintelligence.com/the-time-of-much-patching-is-coming/)
+
+**Source:** Talos Blog  
+**Published:** Thu, 14 May 2026 18:00:24 GMT  
+**Severity:** High  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 42. [Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities](https://blog.talosintelligence.com/sd-wan-ongoing-exploitation/)
+
+**Source:** Talos Blog  
+**Published:** Thu, 14 May 2026 16:02:36 GMT  
+**Severity:** High  
+**CVEs:** CVE-2026-20127, CVE-2026-20133, CVE-2026-20128, CVE-2026-20182, CVE-2026-20122  
+**Categories:** Vulnerability  
+
+---
+
+### 43. [Breaking things to keep them safe with Philippe Laulheret](https://blog.talosintelligence.com/breaking-things-to-keep-them-safe-with-philippe-laulheret/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 13 May 2026 10:00:54 GMT  
@@ -384,7 +404,7 @@
 
 ---
 
-### 42. [Microsoft Patch Tuesday for May 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-may-2026/)
+### 44. [Microsoft Patch Tuesday for May 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-may-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
@@ -394,7 +414,7 @@
 
 ---
 
-### 43. [State-sponsored actors, better known as the friends you don’t want](https://blog.talosintelligence.com/state-sponsored-actors-better-known-as-the-friends-you-dont-want/)
+### 45. [State-sponsored actors, better known as the friends you don’t want](https://blog.talosintelligence.com/state-sponsored-actors-better-known-as-the-friends-you-dont-want/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 10:00:54 GMT  
@@ -403,7 +423,7 @@
 
 ---
 
-### 44. [Unplug your way to better code](https://blog.talosintelligence.com/unplug-your-way-to-better-code/)
+### 46. [Unplug your way to better code](https://blog.talosintelligence.com/unplug-your-way-to-better-code/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 07 May 2026 18:00:40 GMT  
@@ -412,7 +432,7 @@
 
 ---
 
-### 45. [Insights into the clustering and reuse of phone numbers in scam emails](https://blog.talosintelligence.com/insights-into-the-clustering-and-reuse-of-phone-numbers-in-scam-emails/)
+### 47. [Insights into the clustering and reuse of phone numbers in scam emails](https://blog.talosintelligence.com/insights-into-the-clustering-and-reuse-of-phone-numbers-in-scam-emails/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 06 May 2026 10:00:12 GMT  
@@ -421,7 +441,7 @@
 
 ---
 
-### 46. [UAT-8302 and its box full of malware](https://blog.talosintelligence.com/uat-8302/)
+### 48. [UAT-8302 and its box full of malware](https://blog.talosintelligence.com/uat-8302/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 05 May 2026 10:00:30 GMT  
@@ -430,7 +450,7 @@
 
 ---
 
-### 47. [CloudZ RAT potentially steals OTP messages using Pheno plugin](https://blog.talosintelligence.com/cloudz-pheno-infostealer/)
+### 49. [CloudZ RAT potentially steals OTP messages using Pheno plugin](https://blog.talosintelligence.com/cloudz-pheno-infostealer/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 05 May 2026 10:00:18 GMT  
@@ -439,7 +459,7 @@
 
 ---
 
-### 48. [Great responsibility, without great power](https://blog.talosintelligence.com/great-responsibility-without-great-power/)
+### 50. [Great responsibility, without great power](https://blog.talosintelligence.com/great-responsibility-without-great-power/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 30 Apr 2026 18:00:07 GMT  
@@ -448,25 +468,16 @@
 
 ---
 
-### 49. [AI-powered honeypots: Turning the tables on malicious AI agents](https://blog.talosintelligence.com/ai-powered-honeypots-turning-the-tables-on-malicious-ai-agents/)
+### 51. [Beyond Acceleration and Automation: How AI + Intelligence Changes Cyber Defense](https://www.recordedfuture.com/blog/ai-intelligence-cyber-defense)
 
-**Source:** Talos Blog  
-**Published:** Wed, 29 Apr 2026 10:00:42 GMT  
+**Source:** Recorded Future  
+**Published:** Thu, 14 May 2026 00:00:00 GMT  
 **Severity:** Low  
-**Categories:** Vulnerability, APT  
+**Categories:** General Security  
 
 ---
 
-### 50. [Five defender priorities from the Talos Year in Review](https://blog.talosintelligence.com/five-defender-priorities-from-the-talos-year-in-review/)
-
-**Source:** Talos Blog  
-**Published:** Tue, 28 Apr 2026 13:23:20 GMT  
-**Severity:** Low  
-**Categories:** Vulnerability, APT  
-
----
-
-### 51. [Working in London at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-for-recorded-future-london)
+### 52. [Working in London at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-for-recorded-future-london)
 
 **Source:** Recorded Future  
 **Published:** Fri, 08 May 2026 00:00:00 GMT  
@@ -475,7 +486,7 @@
 
 ---
 
-### 52. [Quantum Risk Explained](https://www.recordedfuture.com/research/quantum-risk-explained)
+### 53. [Quantum Risk Explained](https://www.recordedfuture.com/research/quantum-risk-explained)
 
 **Source:** Recorded Future  
 **Published:** Thu, 07 May 2026 00:00:00 GMT  
@@ -484,7 +495,7 @@
 
 ---
 
-### 53. [Recorded Future Named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies. And there’s more.](https://www.recordedfuture.com/blog/recorded-future-named-a-leader)
+### 54. [Recorded Future Named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies. And there’s more.](https://www.recordedfuture.com/blog/recorded-future-named-a-leader)
 
 **Source:** Recorded Future  
 **Published:** Wed, 06 May 2026 00:00:00 GMT  
@@ -493,7 +504,7 @@
 
 ---
 
-### 54. [Threat Activity Enablers: The Backbone of Today’s Threat Landscape](https://www.recordedfuture.com/blog/threat-activity-enablers)
+### 55. [Threat Activity Enablers: The Backbone of Today’s Threat Landscape](https://www.recordedfuture.com/blog/threat-activity-enablers)
 
 **Source:** Recorded Future  
 **Published:** Wed, 06 May 2026 00:00:00 GMT  
@@ -502,7 +513,7 @@
 
 ---
 
-### 55. [Hacking Embodied AI](https://www.recordedfuture.com/research/hacking-embodied-ai)
+### 56. [Hacking Embodied AI](https://www.recordedfuture.com/research/hacking-embodied-ai)
 
 **Source:** Recorded Future  
 **Published:** Tue, 05 May 2026 00:00:00 GMT  
@@ -511,7 +522,7 @@
 
 ---
 
-### 56. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+### 57. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
 
 **Source:** Recorded Future  
 **Published:** Fri, 01 May 2026 00:00:00 GMT  
@@ -520,7 +531,7 @@
 
 ---
 
-### 57. [Risk Scenarios for the US’s Strategic Pivot](https://www.recordedfuture.com/research/us-strategic-pivot)
+### 58. [Risk Scenarios for the US’s Strategic Pivot](https://www.recordedfuture.com/research/us-strategic-pivot)
 
 **Source:** Recorded Future  
 **Published:** Thu, 30 Apr 2026 00:00:00 GMT  
@@ -529,7 +540,7 @@
 
 ---
 
-### 58. [Building with AI: Here's What No Briefing Will Tell You](https://www.recordedfuture.com/blog/building-with-ai)
+### 59. [Building with AI: Here's What No Briefing Will Tell You](https://www.recordedfuture.com/blog/building-with-ai)
 
 **Source:** Recorded Future  
 **Published:** Thu, 30 Apr 2026 00:00:00 GMT  
@@ -538,21 +549,12 @@
 
 ---
 
-### 59. [The Money Mule Solution: What Every Scam Has in Common](https://www.recordedfuture.com/blog/money-mule-solution)
+### 60. [The Money Mule Solution: What Every Scam Has in Common](https://www.recordedfuture.com/blog/money-mule-solution)
 
 **Source:** Recorded Future  
 **Published:** Tue, 28 Apr 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 60. [Lazarus Doesn't Need AGI](https://www.recordedfuture.com/blog/lazarus-does-not-need-agi)
-
-**Source:** Recorded Future  
-**Published:** Tue, 28 Apr 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** APT, Supply Chain  
 
 ---
 
