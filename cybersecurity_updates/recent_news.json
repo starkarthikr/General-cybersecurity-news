@@ -181,6 +181,62 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "West Pharmaceutical says hackers stole data, encrypted systems",
+    "link": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
+    "published": "Wed, 13 May 2026 18:23:31 -0400",
+    "summary": "West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption. [...]",
+    "analysis": {
+      "issue": "West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Iranian hackers targeted major South Korean electronics maker",
+    "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
+    "published": "Wed, 13 May 2026 17:59:33 -0400",
+    "summary": "The Iran-linked hacking group MuddyWater (a.k.a. Seedworm, Static Kitten) launched a broad cyber-espionage campaign targeting at least nine high-profile organizations across multiple sectors and countries. [...]",
+    "analysis": {
+      "issue": "The Iran-linked hacking group MuddyWater (a",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New critical Exim mailer flaw allows remote code execution",
+    "link": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
+    "published": "Wed, 13 May 2026 16:23:50 -0400",
+    "summary": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]",
+    "analysis": {
+      "issue": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-45185"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
     "link": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
     "published": "Wed, 13 May 2026 12:37:49 -0400",
@@ -304,63 +360,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
-    "published": "Tue, 12 May 2026 19:09:55 -0400",
-    "summary": "The U.S. House Committee on Homeland Security is calling on Instructure executives to testify about two cyberattacks by the ShinyHunters extortion group that targeted the company's Canvas platform, allowing threat actors to steal student data and disrupt schools during final exams. [...]",
-    "analysis": {
-      "issue": "House Committee on Homeland Security is calling on Instructure executives to testify about two cyberattacks by the ShinyHunters extortion group that targeted the company’s Canvas platform, allowing threat actors to steal student data and disrupt scho",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
-    "link": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
-    "published": "Tue, 12 May 2026 16:17:19 -0400",
-    "summary": "The Information Commissioner's Office has fined South Staffordshire Water Plc and parent company South Staffordshire Plc £963,900 ($1.3 million) over a cyberattack that exposed the personal data of 663,887 customers and employees. [...]",
-    "analysis": {
-      "issue": "The Information Commissioner's Office has fined South Staffordshire Water Plc and parent company South Staffordshire Plc £963,900 ($1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Webinar: Fixing the gaps in network incident response",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
-    "published": "Tue, 12 May 2026 15:46:04 -0400",
-    "summary": "IT teams often struggle to quickly coordinate responses across disparate systems during network incidents. This upcoming webinar explores how automation and AI-assisted workflows can reduce response times and help prevent outages. [...]",
-    "analysis": {
-      "issue": "Most network incidents do not escalate because of a lack of visibility",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -686,8 +685,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2015-6172",
-        "CVE-2026-40361"
+        "CVE-2026-40361",
+        "CVE-2015-6172"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -708,10 +707,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-26083",
         "CVE-2026-8043",
-        "CVE-2026-44277",
         "CVE-2025-53844",
-        "CVE-2026-26083"
+        "CVE-2026-44277"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -731,8 +730,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-0481",
-        "CVE-2026-20794"
+        "CVE-2026-20794",
+        "CVE-2026-0481"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -791,11 +790,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32161",
-        "CVE-2026-33844",
         "CVE-2026-35421",
+        "CVE-2026-40358",
         "CVE-2026-33109",
-        "CVE-2026-40358"
+        "CVE-2026-33844",
+        "CVE-2026-32161"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -972,61 +971,6 @@
   },
   {
     "source": "Recorded Future",
-    "title": "A Complete History of Cybersecurity: From Early Viruses to AI-Powered Threats",
-    "link": "https://www.recordedfuture.com/blog/cybersecurity-history",
-    "published": "Fri, 08 May 2026 00:00:00 GMT",
-    "summary": "A comprehensive history of cybersecurity and the eras of threat on the internet.",
-    "analysis": {
-      "issue": "A comprehensive history of cybersecurity and the eras of threat on the internet",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "The Different Types of Payment Fraud and How to Prevent Them",
-    "link": "https://www.recordedfuture.com/blog/types-of-payment-fraud",
-    "published": "Fri, 08 May 2026 00:00:00 GMT",
-    "summary": "Explore the different types of payment fraud and become aware of telltale signs and how to prevent them.",
-    "analysis": {
-      "issue": "Explore the different types of payment fraud and become aware of telltale signs and how to prevent them",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Digital Citizenship Glossary: Key Terms Every Internet User Should Know",
-    "link": "https://www.recordedfuture.com/blog/digital-citizenship-glossary",
-    "published": "Fri, 08 May 2026 00:00:00 GMT",
-    "summary": "A glossary of key internet terms every user should know to protect themselves from scams, phishing, malware, and other digital threats.",
-    "analysis": {
-      "issue": "A glossary of key internet terms every user should know to protect themselves from scams, phishing, malware, and other digital threats",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
     "title": "Quantum Risk Explained",
     "link": "https://www.recordedfuture.com/research/quantum-risk-explained",
     "published": "Thu, 07 May 2026 00:00:00 GMT",
@@ -1131,6 +1075,61 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Building with AI: Here's What No Briefing Will Tell You",
+    "link": "https://www.recordedfuture.com/blog/building-with-ai",
+    "published": "Thu, 30 Apr 2026 00:00:00 GMT",
+    "summary": "What building with AI for three months revealed about four leadership blind spots executives can't afford to ignore: the comprehension gap, eroding competitive moats, deployment complexity, and what \"senior\" really means now.",
+    "analysis": {
+      "issue": "What building with AI for three months revealed about four leadership blind spots executives can't afford to ignore: the comprehension gap, eroding competitive moats, deployment complexity, and what \"senior\" really means now",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "The Money Mule Solution: What Every Scam Has in Common",
+    "link": "https://www.recordedfuture.com/blog/money-mule-solution",
+    "published": "Tue, 28 Apr 2026 00:00:00 GMT",
+    "summary": "Learn how mule account intelligence — not tactic-tracking — is the most effective lever for preventing APP fraud before funds move.",
+    "analysis": {
+      "issue": "Learn how mule account intelligence — not tactic-tracking — is the most effective lever for preventing APP fraud before funds move",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Lazarus Doesn't Need AGI",
+    "link": "https://www.recordedfuture.com/blog/lazarus-does-not-need-agi",
+    "published": "Tue, 28 Apr 2026 00:00:00 GMT",
+    "summary": "Explore the 2026 Claude Mythos breach, supply chain risks, and the $2B+ crypto theft pipeline.",
+    "analysis": {
+      "issue": "Explore the 2026 Claude Mythos breach, supply chain risks, and the $2B+ crypto theft pipeline",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT",
+        "Supply Chain"
       ]
     }
   },
@@ -1301,8 +1300,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1520,6 +1519,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications",
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/",
+    "published": "May 13, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Falcon AIDR brings runtime visibility and detection to the prompt layer in Kubernetes AI applications",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs",
     "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/",
     "published": "May 12, 2026 00:00:00-0500",
@@ -1670,24 +1687,6 @@
     "summary": "",
     "analysis": {
       "issue": "CrowdStrike is named a Leader in the 2026 Frost & Sullivan CNAPP Radar, recognizing Falcon Cloud Security for innovation in cloud detection and response",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/",
-    "published": "Apr 22, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike expands cloud runtime security leadership and enables defenders to stop cloud breaches in seconds",
       "solution": null,
       "cause": null,
       "timeline": null,

@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-13 18:23:38 UTC
+**Last Updated:** 2026-05-14 03:54:51 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,35 @@
 
 ---
 
-### 11. [Windows BitLocker zero-day gives access to protected drives, PoC released](https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/)
+### 11. [West Pharmaceutical says hackers stole data, encrypted systems](https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 13 May 2026 18:23:31 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Iranian hackers targeted major South Korean electronics maker](https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 13 May 2026 17:59:33 -0400  
+**Severity:** High  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [New critical Exim mailer flaw allows remote code execution](https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 13 May 2026 16:23:50 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-45185  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [Windows BitLocker zero-day gives access to protected drives, PoC released](https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 12:37:49 -0400  
@@ -104,7 +132,7 @@
 
 ---
 
-### 12. [Webinar tomorrow: Why security alone won't stop modern attacks](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/)
+### 15. [Webinar tomorrow: Why security alone won't stop modern attacks](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 11:45:56 -0400  
@@ -113,7 +141,7 @@
 
 ---
 
-### 13. [Microsoft fixes BitLocker recovery issue only for Windows 11 users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/)
+### 16. [Microsoft fixes BitLocker recovery issue only for Windows 11 users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 11:42:46 -0400  
@@ -122,7 +150,7 @@
 
 ---
 
-### 14. [Microsoft fixes Windows Autopatch bug installing restricted drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/)
+### 17. [Microsoft fixes Windows Autopatch bug installing restricted drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 10:36:09 -0400  
@@ -131,7 +159,7 @@
 
 ---
 
-### 15. [Foxconn confirms cyberattack claimed by Nitrogen ransomware gang](https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/)
+### 18. [Foxconn confirms cyberattack claimed by Nitrogen ransomware gang](https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 08:49:54 -0400  
@@ -140,7 +168,7 @@
 
 ---
 
-### 16. [73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation](https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/)
+### 19. [73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation](https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 08:30:38 -0400  
@@ -149,38 +177,11 @@
 
 ---
 
-### 17. [Microsoft says some users can't install Office on Windows 365 devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/)
+### 20. [Microsoft says some users can't install Office on Windows 365 devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 07:53:54 -0400  
 **Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 18. [US govt seeks Instructure testimony on massive Canvas cyberattack](https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 12 May 2026 19:09:55 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [UK fines water supplier $1.3M for exposing data of 664k customers](https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 12 May 2026 16:17:19 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, Malware, Phishing  
-
----
-
-### 20. [Webinar: Fixing the gaps in network incident response](https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 12 May 2026 15:46:04 -0400  
-**Severity:** High  
 **Categories:** General Security  
 
 ---
@@ -335,7 +336,7 @@
 **Source:** Security Week  
 **Published:** Wed, 13 May 2026 10:33:46 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2015-6172, CVE-2026-40361  
+**CVEs:** CVE-2026-40361, CVE-2015-6172  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -345,7 +346,7 @@
 **Source:** Security Week  
 **Published:** Wed, 13 May 2026 09:36:55 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-8043, CVE-2026-44277, CVE-2025-53844, CVE-2026-26083  
+**CVEs:** CVE-2026-26083, CVE-2026-8043, CVE-2025-53844, CVE-2026-44277  
 **Categories:** Vulnerability  
 
 ---
@@ -355,7 +356,7 @@
 **Source:** Security Week  
 **Published:** Wed, 13 May 2026 08:37:34 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-0481, CVE-2026-20794  
+**CVEs:** CVE-2026-20794, CVE-2026-0481  
 **Categories:** Vulnerability  
 
 ---
@@ -383,7 +384,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32161, CVE-2026-33844, CVE-2026-35421, CVE-2026-33109, CVE-2026-40358  
+**CVEs:** CVE-2026-35421, CVE-2026-40358, CVE-2026-33109, CVE-2026-33844, CVE-2026-32161  
 **Categories:** Vulnerability  
 
 ---
@@ -469,34 +470,7 @@
 
 ---
 
-### 52. [A Complete History of Cybersecurity: From Early Viruses to AI-Powered Threats](https://www.recordedfuture.com/blog/cybersecurity-history)
-
-**Source:** Recorded Future  
-**Published:** Fri, 08 May 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 53. [The Different Types of Payment Fraud and How to Prevent Them](https://www.recordedfuture.com/blog/types-of-payment-fraud)
-
-**Source:** Recorded Future  
-**Published:** Fri, 08 May 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 54. [Digital Citizenship Glossary: Key Terms Every Internet User Should Know](https://www.recordedfuture.com/blog/digital-citizenship-glossary)
-
-**Source:** Recorded Future  
-**Published:** Fri, 08 May 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
-
----
-
-### 55. [Quantum Risk Explained](https://www.recordedfuture.com/research/quantum-risk-explained)
+### 52. [Quantum Risk Explained](https://www.recordedfuture.com/research/quantum-risk-explained)
 
 **Source:** Recorded Future  
 **Published:** Thu, 07 May 2026 00:00:00 GMT  
@@ -505,7 +479,7 @@
 
 ---
 
-### 56. [Recorded Future Named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies. And there’s more.](https://www.recordedfuture.com/blog/recorded-future-named-a-leader)
+### 53. [Recorded Future Named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies. And there’s more.](https://www.recordedfuture.com/blog/recorded-future-named-a-leader)
 
 **Source:** Recorded Future  
 **Published:** Wed, 06 May 2026 00:00:00 GMT  
@@ -514,7 +488,7 @@
 
 ---
 
-### 57. [Threat Activity Enablers: The Backbone of Today’s Threat Landscape](https://www.recordedfuture.com/blog/threat-activity-enablers)
+### 54. [Threat Activity Enablers: The Backbone of Today’s Threat Landscape](https://www.recordedfuture.com/blog/threat-activity-enablers)
 
 **Source:** Recorded Future  
 **Published:** Wed, 06 May 2026 00:00:00 GMT  
@@ -523,7 +497,7 @@
 
 ---
 
-### 58. [Hacking Embodied AI](https://www.recordedfuture.com/research/hacking-embodied-ai)
+### 55. [Hacking Embodied AI](https://www.recordedfuture.com/research/hacking-embodied-ai)
 
 **Source:** Recorded Future  
 **Published:** Tue, 05 May 2026 00:00:00 GMT  
@@ -532,7 +506,7 @@
 
 ---
 
-### 59. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+### 56. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
 
 **Source:** Recorded Future  
 **Published:** Fri, 01 May 2026 00:00:00 GMT  
@@ -541,12 +515,39 @@
 
 ---
 
-### 60. [Risk Scenarios for the US’s Strategic Pivot](https://www.recordedfuture.com/research/us-strategic-pivot)
+### 57. [Risk Scenarios for the US’s Strategic Pivot](https://www.recordedfuture.com/research/us-strategic-pivot)
 
 **Source:** Recorded Future  
 **Published:** Thu, 30 Apr 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
+
+---
+
+### 58. [Building with AI: Here's What No Briefing Will Tell You](https://www.recordedfuture.com/blog/building-with-ai)
+
+**Source:** Recorded Future  
+**Published:** Thu, 30 Apr 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 59. [The Money Mule Solution: What Every Scam Has in Common](https://www.recordedfuture.com/blog/money-mule-solution)
+
+**Source:** Recorded Future  
+**Published:** Tue, 28 Apr 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 60. [Lazarus Doesn't Need AGI](https://www.recordedfuture.com/blog/lazarus-does-not-need-agi)
+
+**Source:** Recorded Future  
+**Published:** Tue, 28 Apr 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** APT, Supply Chain  
 
 ---
 
@@ -630,7 +631,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -736,7 +737,16 @@
 
 ---
 
-### 81. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
+### 81. [Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications](https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/)
+
+**Source:** Crowdstrike Blog  
+**Published:** May 13, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 12, 2026 00:00:00-0500  
@@ -745,7 +755,7 @@
 
 ---
 
-### 82. [Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections](https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/)
+### 83. [Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections](https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 11, 2026 00:00:00-0500  
@@ -754,7 +764,7 @@
 
 ---
 
-### 83. [CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/)
+### 84. [CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 06, 2026 00:00:00-0500  
@@ -763,7 +773,7 @@
 
 ---
 
-### 84. [CrowdStrike Launches Falcon OverWatch for Defender](https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/)
+### 85. [CrowdStrike Launches Falcon OverWatch for Defender](https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 05, 2026 00:00:00-0500  
@@ -772,7 +782,7 @@
 
 ---
 
-### 85. [CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns](https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/)
+### 86. [CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns](https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 04, 2026 00:00:00-0500  
@@ -781,7 +791,7 @@
 
 ---
 
-### 86. [Tune In: The Future of AI-Powered Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/)
+### 87. [Tune In: The Future of AI-Powered Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 01, 2026 00:00:00-0500  
@@ -790,7 +800,7 @@
 
 ---
 
-### 87. [Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield](https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/)
+### 88. [Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield](https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 30, 2026 00:00:00-0500  
@@ -799,7 +809,7 @@
 
 ---
 
-### 88. [CrowdStrike Expands ChatGPT Enterprise Integration with Enhanced Audit Logging and Activity Monitoring](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-chatgpt-enterprise-integration/)
+### 89. [CrowdStrike Expands ChatGPT Enterprise Integration with Enhanced Audit Logging and Activity Monitoring](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-chatgpt-enterprise-integration/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 28, 2026 00:00:00-0700  
@@ -808,19 +818,10 @@
 
 ---
 
-### 89. [CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/)
+### 90. [CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Apr 27, 2026 00:00:00-0700  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Apr 22, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
 
