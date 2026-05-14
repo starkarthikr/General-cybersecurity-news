@@ -1,10 +1,39 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-14 04:28:30 UTC
+**Last Updated:** 2026-05-14 10:43:26 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday](https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html)
+### 1. [Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation](https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 14 May 2026 14:55:50 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption](https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 14 May 2026 12:36:15 +0530  
+**Severity:** High  
+**CVEs:** CVE-2026-46300  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE](https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 14 May 2026 11:30:09 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-42945  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday](https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 13 May 2026 19:16:02 +0530  
@@ -13,7 +42,7 @@
 
 ---
 
-### 2. [Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation](https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html)
+### 5. [Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation](https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 13 May 2026 18:30:00 +0530  
@@ -22,7 +51,7 @@
 
 ---
 
-### 3. [[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud](https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html)
+### 6. [[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud](https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 13 May 2026 17:22:43 +0530  
@@ -31,7 +60,7 @@
 
 ---
 
-### 4. [Most Remediation Programs Never Confirm the Fix Actually Worked](https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html)
+### 7. [Most Remediation Programs Never Confirm the Fix Actually Worked](https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 13 May 2026 17:00:00 +0530  
@@ -40,7 +69,7 @@
 
 ---
 
-### 5. [Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws](https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html)
+### 8. [Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws](https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 13 May 2026 16:06:10 +0530  
@@ -49,7 +78,7 @@
 
 ---
 
-### 6. [GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data](https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html)
+### 9. [GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data](https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 13 May 2026 13:38:54 +0530  
@@ -58,7 +87,7 @@
 
 ---
 
-### 7. [Android Adds Intrusion Logging for Sophisticated Spyware Forensics](https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html)
+### 10. [Android Adds Intrusion Logging for Sophisticated Spyware Forensics](https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 13 May 2026 12:25:42 +0530  
@@ -67,34 +96,35 @@
 
 ---
 
-### 8. [New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution](https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html)
+### 11. [Dell confirms its SupportAssist software causes Windows BSOD crashes](https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 12 May 2026 22:14:00 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Thu, 14 May 2026 06:03:39 -0400  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 12. [US charges suspected Dream Market admin arrested in Germany](https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 14 May 2026 04:55:46 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 13. [New Fragnesia Linux flaw lets attackers gain root privileges](https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 14 May 2026 03:34:19 -0400  
+**Severity:** High  
+**CVEs:** CVE-2026-46300, CVE-2026-43500, CVE-2026-43284  
 **Categories:** Vulnerability  
 
 ---
 
-### 9. [RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded](https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 12 May 2026 20:17:00 +0530  
-**Severity:** High  
-**Categories:** Supply Chain  
-
----
-
-### 10. [New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots](https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 12 May 2026 18:20:00 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 11. [West Pharmaceutical says hackers stole data, encrypted systems](https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/)
+### 14. [West Pharmaceutical says hackers stole data, encrypted systems](https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 18:23:31 -0400  
@@ -103,7 +133,7 @@
 
 ---
 
-### 12. [Iranian hackers targeted major South Korean electronics maker](https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/)
+### 15. [Iranian hackers targeted major South Korean electronics maker](https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 17:59:33 -0400  
@@ -112,7 +142,7 @@
 
 ---
 
-### 13. [New critical Exim mailer flaw allows remote code execution](https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/)
+### 16. [New critical Exim mailer flaw allows remote code execution](https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 16:23:50 -0400  
@@ -122,7 +152,7 @@
 
 ---
 
-### 14. [Windows BitLocker zero-day gives access to protected drives, PoC released](https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/)
+### 17. [Windows BitLocker zero-day gives access to protected drives, PoC released](https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 12:37:49 -0400  
@@ -132,7 +162,7 @@
 
 ---
 
-### 15. [Webinar tomorrow: Why security alone won't stop modern attacks](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/)
+### 18. [Webinar tomorrow: Why security alone won't stop modern attacks](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 11:45:56 -0400  
@@ -141,7 +171,7 @@
 
 ---
 
-### 16. [Microsoft fixes BitLocker recovery issue only for Windows 11 users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/)
+### 19. [Microsoft fixes BitLocker recovery issue only for Windows 11 users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 11:42:46 -0400  
@@ -150,37 +180,10 @@
 
 ---
 
-### 17. [Microsoft fixes Windows Autopatch bug installing restricted drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/)
+### 20. [Microsoft fixes Windows Autopatch bug installing restricted drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 13 May 2026 10:36:09 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 18. [Foxconn confirms cyberattack claimed by Nitrogen ransomware gang](https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 13 May 2026 08:49:54 -0400  
-**Severity:** High  
-**Categories:** Ransomware, Malware  
-
----
-
-### 19. [73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation](https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 13 May 2026 08:30:38 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Microsoft says some users can't install Office on Windows 365 devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 13 May 2026 07:53:54 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -227,7 +230,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
+**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -277,7 +280,36 @@
 
 ---
 
-### 31. [Foxconn Confirms North American Factories Hit by Cyberattack](https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/)
+### 31. [Hackers Targeted PraisonAI Vulnerability Hours After Disclosure](https://www.securityweek.com/hackers-targeted-praisonai-vulnerability-hours-after-disclosure/)
+
+**Source:** Security Week  
+**Published:** Thu, 14 May 2026 09:45:53 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-44338  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [High-Severity Vulnerability Patched in VMware Fusion](https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/)
+
+**Source:** Security Week  
+**Published:** Thu, 14 May 2026 08:42:25 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-41702  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [Researcher Drops YellowKey, GreenPlasma Windows Zero-Days](https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/)
+
+**Source:** Security Week  
+**Published:** Thu, 14 May 2026 07:27:42 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 34. [Foxconn Confirms North American Factories Hit by Cyberattack](https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/)
 
 **Source:** Security Week  
 **Published:** Wed, 13 May 2026 17:13:36 +0000  
@@ -286,7 +318,7 @@
 
 ---
 
-### 32. [Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code](https://www.securityweek.com/microsoft-palo-alto-networks-find-many-vulnerabilities-by-using-ai-on-their-own-code/)
+### 35. [Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code](https://www.securityweek.com/microsoft-palo-alto-networks-find-many-vulnerabilities-by-using-ai-on-their-own-code/)
 
 **Source:** Security Week  
 **Published:** Wed, 13 May 2026 16:01:00 +0000  
@@ -295,7 +327,7 @@
 
 ---
 
-### 33. [Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment’](https://www.securityweek.com/sweet-security-launches-agentic-ai-red-teaming-to-counter-mythos-moment/)
+### 36. [Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment’](https://www.securityweek.com/sweet-security-launches-agentic-ai-red-teaming-to-counter-mythos-moment/)
 
 **Source:** Security Week  
 **Published:** Wed, 13 May 2026 14:50:20 +0000  
@@ -304,7 +336,7 @@
 
 ---
 
-### 34. [Webinar Today: ROI for Cyber-Physical Security Programs](https://www.securityweek.com/webinar-today-roi-for-cyber-physical-security-programs/)
+### 37. [Webinar Today: ROI for Cyber-Physical Security Programs](https://www.securityweek.com/webinar-today-roi-for-cyber-physical-security-programs/)
 
 **Source:** Security Week  
 **Published:** Wed, 13 May 2026 13:30:00 +0000  
@@ -313,7 +345,7 @@
 
 ---
 
-### 35. [Government to Scrutinize Instructure Over Canvas Disruption, Data Breach](https://www.securityweek.com/government-to-scrutinize-instructure-on-canvas-disruption-data-breach/)
+### 38. [Government to Scrutinize Instructure Over Canvas Disruption, Data Breach](https://www.securityweek.com/government-to-scrutinize-instructure-on-canvas-disruption-data-breach/)
 
 **Source:** Security Week  
 **Published:** Wed, 13 May 2026 12:13:14 +0000  
@@ -322,7 +354,7 @@
 
 ---
 
-### 36. [716,000 Impacted by OpenLoop Health Data Breach](https://www.securityweek.com/716000-impacted-by-openloop-health-data-breach/)
+### 39. [716,000 Impacted by OpenLoop Health Data Breach](https://www.securityweek.com/716000-impacted-by-openloop-health-data-breach/)
 
 **Source:** Security Week  
 **Published:** Wed, 13 May 2026 11:18:03 +0000  
@@ -331,42 +363,13 @@
 
 ---
 
-### 37. [Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises](https://www.securityweek.com/microsoft-patches-critical-zero-click-outlook-vulnerability-threatening-enterprises/)
+### 40. [Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises](https://www.securityweek.com/microsoft-patches-critical-zero-click-outlook-vulnerability-threatening-enterprises/)
 
 **Source:** Security Week  
 **Published:** Wed, 13 May 2026 10:33:46 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2015-6172, CVE-2026-40361  
+**CVEs:** CVE-2026-40361, CVE-2015-6172  
 **Categories:** Vulnerability, Supply Chain  
-
----
-
-### 38. [Fortinet, Ivanti Patch Critical Vulnerabilities](https://www.securityweek.com/fortinet-ivanti-patch-critical-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Wed, 13 May 2026 09:36:55 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-26083, CVE-2026-44277, CVE-2026-8043, CVE-2025-53844  
-**Categories:** Vulnerability  
-
----
-
-### 39. [Chipmaker Patch Tuesday: Intel and AMD Patch 70 Vulnerabilities](https://www.securityweek.com/chipmaker-patch-tuesday-intel-and-amd-patch-70-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Wed, 13 May 2026 08:37:34 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-0481, CVE-2026-20794  
-**Categories:** Vulnerability  
-
----
-
-### 40. [Hundreds of Malicious Packages Force RubyGems to Suspend Registrations](https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/)
-
-**Source:** Security Week  
-**Published:** Wed, 13 May 2026 07:30:36 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability, DDoS, Supply Chain  
 
 ---
 
@@ -384,7 +387,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33109, CVE-2026-40358, CVE-2026-35421, CVE-2026-32161, CVE-2026-33844  
+**CVEs:** CVE-2026-40358, CVE-2026-32161, CVE-2026-33109, CVE-2026-33844, CVE-2026-35421  
 **Categories:** Vulnerability  
 
 ---
@@ -631,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -646,7 +649,16 @@
 
 ---
 
-### 71. [Texas sued Netflix over claims it secretly collected and sold users’ data](https://www.malwarebytes.com/blog/news/2026/05/texas-sued-netflix-over-claims-it-secretly-collected-and-sold-users-data)
+### 71. [Deepfake sextortion forces schools to remove student photos from websites](https://www.malwarebytes.com/blog/family-and-parenting/2026/05/deepfake-sextortion-forces-schools-to-remove-student-photos-from-websites)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 14 May 2026 09:00:15 GMT  
+**Severity:** High  
+**Categories:** APT  
+
+---
+
+### 72. [Texas sued Netflix over claims it secretly collected and sold users’ data](https://www.malwarebytes.com/blog/news/2026/05/texas-sued-netflix-over-claims-it-secretly-collected-and-sold-users-data)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 13 May 2026 13:34:58 GMT  
@@ -655,7 +667,7 @@
 
 ---
 
-### 72. [May 2026 Patch Tuesday: no zero-days but plenty to fix](https://www.malwarebytes.com/blog/news/2026/05/may-2026-patch-tuesday-no-zero-days-but-plenty-to-fix)
+### 73. [May 2026 Patch Tuesday: no zero-days but plenty to fix](https://www.malwarebytes.com/blog/news/2026/05/may-2026-patch-tuesday-no-zero-days-but-plenty-to-fix)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 13 May 2026 11:00:45 GMT  
@@ -665,7 +677,7 @@
 
 ---
 
-### 73. [Fake Claude search results lure Mac users into ClickFix attack](https://www.malwarebytes.com/blog/news/2026/05/fake-claude-search-results-lure-mac-users-into-clickfix-attack)
+### 74. [Fake Claude search results lure Mac users into ClickFix attack](https://www.malwarebytes.com/blog/news/2026/05/fake-claude-search-results-lure-mac-users-into-clickfix-attack)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 12 May 2026 15:46:55 GMT  
@@ -674,7 +686,7 @@
 
 ---
 
-### 74. [1 in 8 employees have sold company logins or know someone who has](https://www.malwarebytes.com/blog/news/2026/05/1-in-8-employees-have-sold-company-logins-or-know-someone-who-has)
+### 75. [1 in 8 employees have sold company logins or know someone who has](https://www.malwarebytes.com/blog/news/2026/05/1-in-8-employees-have-sold-company-logins-or-know-someone-who-has)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 12 May 2026 09:21:39 GMT  
@@ -683,7 +695,7 @@
 
 ---
 
-### 75. [Stolen Canvas data was “returned” after hacker agreement, Instructure says](https://www.malwarebytes.com/blog/news/2026/05/stolen-canvas-data-was-returned-after-hacker-agreement-instructure-says)
+### 76. [Stolen Canvas data was “returned” after hacker agreement, Instructure says](https://www.malwarebytes.com/blog/news/2026/05/stolen-canvas-data-was-returned-after-hacker-agreement-instructure-says)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 12 May 2026 08:41:07 GMT  
@@ -692,7 +704,7 @@
 
 ---
 
-### 76. [Yarbo responds to robot flaws that could mow down their owners](https://www.malwarebytes.com/blog/news/2026/05/yarbo-responds-to-robot-flaws-that-could-mow-down-their-owners)
+### 77. [Yarbo responds to robot flaws that could mow down their owners](https://www.malwarebytes.com/blog/news/2026/05/yarbo-responds-to-robot-flaws-that-could-mow-down-their-owners)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 11 May 2026 13:21:57 GMT  
@@ -701,7 +713,7 @@
 
 ---
 
-### 77. [A week in security (May 4 &#8211; May 10)](https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-may-4-may-10-2)
+### 78. [A week in security (May 4 &#8211; May 10)](https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-may-4-may-10-2)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 11 May 2026 07:04:00 GMT  
@@ -710,7 +722,7 @@
 
 ---
 
-### 78. [Microsoft says Edge’s plaintext password behavior is “by design”](https://www.malwarebytes.com/blog/news/2026/05/microsoft-says-edges-plaintext-password-behavior-is-by-design)
+### 79. [Microsoft says Edge’s plaintext password behavior is “by design”](https://www.malwarebytes.com/blog/news/2026/05/microsoft-says-edges-plaintext-password-behavior-is-by-design)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 08 May 2026 12:48:53 GMT  
@@ -719,21 +731,12 @@
 
 ---
 
-### 79. [ShinyHunters escalates Canvas attacks with school login defacements](https://www.malwarebytes.com/blog/news/2026/05/shinyhunters-escalates-canvas-attacks-with-school-login-defacements)
+### 80. [ShinyHunters escalates Canvas attacks with school login defacements](https://www.malwarebytes.com/blog/news/2026/05/shinyhunters-escalates-canvas-attacks-with-school-login-defacements)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 08 May 2026 12:00:01 GMT  
 **Severity:** High  
 **Categories:** Ransomware, Data Breach, Vulnerability, Phishing  
-
----
-
-### 80. [Massive AI investment scam network spans 15,500 domains](https://www.malwarebytes.com/blog/news/2026/05/massive-ai-investment-scam-network-spans-15500-domains)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 07 May 2026 14:37:50 GMT  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 

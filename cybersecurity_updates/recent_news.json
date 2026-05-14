@@ -1,6 +1,64 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
+    "link": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
+    "published": "Thu, 14 May 2026 14:55:50 +0530",
+    "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON).\nThe security defects have been codenamed YellowKey and GreenPlasma, respectively, by the researcher, who goes by the online aliases Chaotic Eclipse",
+    "analysis": {
+      "issue": "YellowKey bypasses BitLocker via WinRE USB FsTx files, exposing Windows 11 and Server 2022/2025 systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
+    "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
+    "published": "Thu, 14 May 2026 12:36:15 +0530",
+    "summary": "Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the kernel within a span of two weeks.\nCodenamed Fragnesia, the security vulnerability is tracked as CVE-2026-46300 (CVSS score: 7.8) and is rooted in the Linux kernel's XFRM",
+    "analysis": {
+      "issue": "Fragnesia CVE-2026-46300 corrupts Linux page cache via XFRM ESP-in-TCP, enabling local root access on major distros",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-46300"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
+    "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
+    "published": "Thu, 14 May 2026 11:30:09 +0530",
+    "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years.\nThe vulnerability, discovered by depthfirst, is a heap buffer overflow issue impacting ngx_http_rewrite_module (CVE-2026-42945, CVSS v4 score: 9.2) that could allow an attacker to achieve remote code execution or cause a",
+    "analysis": {
+      "issue": "NGINX Rift CVE-2026-42945 scores 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-42945"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
     "link": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
     "published": "Wed, 13 May 2026 19:16:02 +0530",
@@ -126,56 +184,60 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
-    "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
-    "published": "Tue, 12 May 2026 22:14:00 +0530",
-    "summary": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution.\nExim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email.\nThe vulnerability, tracked as CVE-2026-45185, aka Dead.Letter, has been described as a use-after-free",
+    "source": "Bleeping Computer",
+    "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
+    "link": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
+    "published": "Thu, 14 May 2026 06:03:39 -0400",
+    "summary": "Dell confirmed that its SupportAssist software is causing blue-screen crashes on some Windows systems following a wave of user reports about random reboots affecting Dell devices since Friday. [...]",
     "analysis": {
-      "issue": "2 GnuTLS builds, causing heap corruption and possible code execution",
+      "issue": "Dell confirmed that its SupportAssist software is causing blue-screen crashes on some Windows systems following a wave of user reports about random reboots affecting Dell devices since Friday",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
-    "link": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
-    "published": "Tue, 12 May 2026 20:17:00 +0530",
-    "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\"\n\"We're dealing with a major malicious attack on RubyGems right now,\" Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. \"Signups are paused for the time being.",
+    "source": "Bleeping Computer",
+    "title": "US charges suspected Dream Market admin arrested in Germany",
+    "link": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
+    "published": "Thu, 14 May 2026 04:55:46 -0400",
+    "summary": "The alleged main administrator of Dream Market Incognito Market, one of the largest dark web marketplaces before its shutdown, has been indicted in the United States on money laundering charges. [...]",
     "analysis": {
-      "issue": "RubyGems halted new registrations after a major attack involving hundreds of malicious packages, increasing supply chain risks",
+      "issue": "The alleged main administrator of Dream Market Incognito Market, one of the largest dark web marketplaces before its shutdown, has been indicted in the United States on money laundering charges",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Supply Chain"
+        "General Security"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
-    "link": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
-    "published": "Tue, 12 May 2026 18:20:00 +0530",
-    "summary": "Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2).\nThe new variant, observed by ThreatFabric between January and February 2026, has been observed actively targeting banking and cryptocurrency wallet users in France, Italy, and Austria.\n\"TrickMo relies on a runtime-loaded APK&nbsp; (dex.module),",
+    "source": "Bleeping Computer",
+    "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
+    "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
+    "published": "Thu, 14 May 2026 03:34:19 -0400",
+    "summary": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300)  that allows attackers to run malicious code as root. [...]",
     "analysis": {
-      "issue": "A new TrickMo Android banking trojan variant uses TON blockchain infrastructure for stealthy command-and-control communications",
+      "issue": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability that allows attackers to run malicious code as root",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "High",
+      "cves": [
+        "CVE-2026-46300",
+        "CVE-2026-43500",
+        "CVE-2026-43284"
+      ],
       "threat_categories": [
-        "Malware"
+        "Vulnerability"
       ]
     }
   },
@@ -312,61 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
-    "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
-    "published": "Wed, 13 May 2026 08:49:54 -0400",
-    "summary": "Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a cyberattack. [...]",
-    "analysis": {
-      "issue": "Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a cyberattack",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
-    "link": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
-    "published": "Wed, 13 May 2026 08:30:38 -0400",
-    "summary": "Attackers can compromise systems in minutes while patching and response still take hours or days. Picus Security breaks down why autonomous validation is becoming critical for modern defense strategies. [...]",
-    "analysis": {
-      "issue": "By Sila Ozeren Hacioglu, Security Research Engineer at Picus Security",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft says some users can't install Office on Windows 365 devices",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/",
-    "published": "Wed, 13 May 2026 07:53:54 -0400",
-    "summary": "Microsoft says some customers are experiencing issues downloading and installing Office on their Windows 365 devices. [...]",
-    "analysis": {
-      "issue": "Microsoft says some customers are experiencing issues downloading and installing Office on their Windows 365 devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, May 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
@@ -455,8 +462,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
         "CVE-2026-32201",
+        "CVE-2026-33825",
         "CVE-2026-34621"
       ],
       "threat_categories": [
@@ -558,6 +565,65 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Hackers Targeted PraisonAI Vulnerability Hours After Disclosure",
+    "link": "https://www.securityweek.com/hackers-targeted-praisonai-vulnerability-hours-after-disclosure/",
+    "published": "Thu, 14 May 2026 09:45:53 +0000",
+    "summary": "<p>The first exploitation attempts were observed less than four hours after the authentication bypass was publicly disclosed.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-targeted-praisonai-vulnerability-hours-after-disclosure/\">Hackers Targeted PraisonAI Vulnerability Hours After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The first exploitation attempts were observed less than four hours after the authentication bypass was publicly disclosed",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-44338"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "High-Severity Vulnerability Patched in VMware Fusion",
+    "link": "https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/",
+    "published": "Thu, 14 May 2026 08:42:25 +0000",
+    "summary": "<p>The patch was announced as Broadcom is attending the Pwn2Own hacking competition in Berlin this week.</p>\n<p>The post <a href=\"https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/\">High-Severity Vulnerability Patched in VMware Fusion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The patch was announced as Broadcom is attending the Pwn2Own hacking competition in Berlin this week",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-41702"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Researcher Drops YellowKey, GreenPlasma Windows Zero-Days",
+    "link": "https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/",
+    "published": "Thu, 14 May 2026 07:27:42 +0000",
+    "summary": "<p>YellowKey is a BitLocker bypass that requires physical access. GreenPlasma enables elevation of privileges to System.</p>\n<p>The post <a href=\"https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/\">Researcher Drops YellowKey, GreenPlasma Windows Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "YellowKey is a BitLocker bypass that requires physical access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -685,75 +751,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2015-6172",
-        "CVE-2026-40361"
+        "CVE-2026-40361",
+        "CVE-2015-6172"
       ],
       "threat_categories": [
         "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Fortinet, Ivanti Patch Critical Vulnerabilities",
-    "link": "https://www.securityweek.com/fortinet-ivanti-patch-critical-vulnerabilities/",
-    "published": "Wed, 13 May 2026 09:36:55 +0000",
-    "summary": "<p>Successful exploitation of these flaws could lead to arbitrary code execution and information disclosure.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-ivanti-patch-critical-vulnerabilities/\">Fortinet, Ivanti Patch Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Successful exploitation of these flaws could lead to arbitrary code execution and information disclosure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-26083",
-        "CVE-2026-44277",
-        "CVE-2026-8043",
-        "CVE-2025-53844"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chipmaker Patch Tuesday: Intel and AMD Patch 70 Vulnerabilities",
-    "link": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-and-amd-patch-70-vulnerabilities/",
-    "published": "Wed, 13 May 2026 08:37:34 +0000",
-    "summary": "<p>The two chip giants have published over two dozen advisories describing recently identified security defects.</p>\n<p>The post <a href=\"https://www.securityweek.com/chipmaker-patch-tuesday-intel-and-amd-patch-70-vulnerabilities/\">Chipmaker Patch Tuesday: Intel and AMD Patch 70 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The two chip giants have published over two dozen advisories describing recently identified security defects",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-0481",
-        "CVE-2026-20794"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Hundreds of Malicious Packages Force RubyGems to Suspend Registrations",
-    "link": "https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/",
-    "published": "Wed, 13 May 2026 07:30:36 +0000",
-    "summary": "<p>More than 500 packages were pushed during the attack, but the target appears to have been RubyGems itself rather than users.</p>\n<p>The post <a href=\"https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/\">Hundreds of Malicious Packages Force RubyGems to Suspend Registrations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "More than 500 packages were pushed during the attack, but the target appears to have been RubyGems itself rather than users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "DDoS",
         "Supply Chain"
       ]
     }
@@ -790,11 +792,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33109",
         "CVE-2026-40358",
-        "CVE-2026-35421",
         "CVE-2026-32161",
-        "CVE-2026-33844"
+        "CVE-2026-33109",
+        "CVE-2026-33844",
+        "CVE-2026-35421"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1300,8 +1302,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1326,6 +1328,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Deepfake sextortion forces schools to remove student photos from websites",
+    "link": "https://www.malwarebytes.com/blog/family-and-parenting/2026/05/deepfake-sextortion-forces-schools-to-remove-student-photos-from-websites",
+    "published": "Thu, 14 May 2026 09:00:15 GMT",
+    "summary": "Experts are urging schools to take down identifiable photos of students, after AI deepfakes have led to sextortion cases at UK schools.",
+    "analysis": {
+      "issue": "Schools love a good photo, whether it’s from a trip to a castle, a science prize ceremony, or sports day shot from three angles",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "APT"
       ]
     }
   },
@@ -1496,24 +1516,6 @@
         "Data Breach",
         "Vulnerability",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Massive AI investment scam network spans 15,500 domains",
-    "link": "https://www.malwarebytes.com/blog/news/2026/05/massive-ai-investment-scam-network-spans-15500-domains",
-    "published": "Thu, 07 May 2026 14:37:50 GMT",
-    "summary": "AI investment scammers abused the Keitaro ad-tracking platform to cloak their campaign, exposing it only to likely targets.",
-    "analysis": {
-      "issue": "Researchers tracked a large AI‑themed investment scam campaign involving more than 15,000 domains",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
