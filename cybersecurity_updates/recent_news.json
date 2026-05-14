@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
+    "link": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
+    "published": "Thu, 14 May 2026 17:10:14 +0530",
+    "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of public disclosure.\nThe vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authentication that exposes sensitive endpoints to anyone, potentially allowing an attacker to invoke the",
+    "analysis": {
+      "issue": "PraisonAI auth bypass exposed /agents after May 11 disclosure, enabling exploit checks within 3h44m",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-44338"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "How AI Hallucinations Are Creating Real Security Risks",
+    "link": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
+    "published": "Thu, 14 May 2026 17:00:00 +0530",
+    "summary": "AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t have a mechanism to recognize that. Instead, it generates the most probable response based on patterns in its training data, even if that response is inaccurate. These outputs",
+    "analysis": {
+      "issue": "AI hallucinations are confident but false outputs that pose major security risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
     "link": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
     "published": "Thu, 14 May 2026 14:55:50 +0530",
@@ -148,38 +186,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
-    "link": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
-    "published": "Wed, 13 May 2026 13:38:54 +0530",
-    "summary": "Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for malware distribution.\n\"The packages do not appear designed for mass developer compromise,\" Socket said. \"Many have little or no download activity, and the payloads are repetitive,",
+    "source": "Bleeping Computer",
+    "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
+    "link": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
+    "published": "Thu, 14 May 2026 08:12:40 -0400",
+    "summary": "Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks. [...]",
     "analysis": {
-      "issue": "GemStuffer used 150+ RubyGems to scrape U",
+      "issue": "Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
-    "link": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
-    "published": "Wed, 13 May 2026 12:25:42 +0530",
-    "summary": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks.\nIntrusion Logging, available as part of Advanced Protection Mode, enables \"persistent and privacy-preserving forensics logging to allow for investigation of devices in the event of a suspected compromise,\" the company said.\nThe feature, it",
-    "analysis": {
-      "issue": "Android Intrusion Logging stores encrypted forensic logs for 12 months, helping experts investigate spyware attacks on high-risk users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Ransomware",
+        "Malware"
       ]
     }
   },
@@ -356,24 +377,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
-    "published": "Wed, 13 May 2026 10:36:09 -0400",
-    "summary": "Microsoft has fixed a Windows Autopatch bug that caused driver updates restricted by administrative policies to be deployed on some Autopatch-managed Windows devices in the European Union. [...]",
-    "analysis": {
-      "issue": "Microsoft has fixed a Windows Autopatch bug that caused driver updates restricted by administrative policies to be deployed on some Autopatch-managed Windows devices in the European Union",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, May 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
@@ -462,9 +465,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-33825",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -570,6 +573,143 @@
   },
   {
     "source": "Security Week",
+    "title": "Enhancing Data Center Security Without Sacrificing Performance",
+    "link": "https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/",
+    "published": "Thu, 14 May 2026 14:00:00 +0000",
+    "summary": "<p>For AI data centers, where the stakes are the highest and performance constraints are the tightest, security and performance are no longer a zero-sum game.</p>\n<p>The post <a href=\"https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/\">Enhancing Data Center Security Without Sacrificing Performance</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "For AI data centers, where the stakes are the highest and performance constraints are the tightest, security and performance are no longer a zero-sum game",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation",
+    "link": "https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/",
+    "published": "Thu, 14 May 2026 13:44:46 +0000",
+    "summary": "<p>The vulnerability, tracked as CVE-2026-46300, is similar to the recently disclosed exploits named Dirty Frag and Copy Fail.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/\">New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The vulnerability, tracked as CVE-2026-46300, is similar to the recently disclosed exploits named Dirty Frag and Copy Fail",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-46300"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere",
+    "link": "https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/",
+    "published": "Thu, 14 May 2026 13:00:00 +0000",
+    "summary": "<p>Independent benchmarking finds Mythos highly effective for source code audits, reverse engineering, and native-code analysis, though its exploit validation and reasoning capabilities remain inconsistent.</p>\n<p>The post <a href=\"https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/\">Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Independent benchmarking finds Mythos highly effective for source code audits, reverse engineering, and native-code analysis, though its exploit validation and reasoning capabilities remain inconsistent",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million",
+    "link": "https://www.securityweek.com/akamai-to-acquire-ai-and-browser-security-firm-layerx-for-205-million/",
+    "published": "Thu, 14 May 2026 12:55:38 +0000",
+    "summary": "<p>The acquisition enables Akamai to expand its Zero Trust portfolio to add protection directly into the browser.</p>\n<p>The post <a href=\"https://www.securityweek.com/akamai-to-acquire-ai-and-browser-security-firm-layerx-for-205-million/\">Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The acquisition enables Akamai to expand its Zero Trust portfolio to add protection directly into the browser",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns",
+    "link": "https://www.securityweek.com/chinese-apts-expand-targets-update-backdoors-in-recent-campaigns/",
+    "published": "Thu, 14 May 2026 12:11:15 +0000",
+    "summary": "<p>Salt Typhoon has hit an energy entity in Azerbaijan. Twill Typhoon has targeted Asian entities with an updated RAT.</p>\n<p>The post <a href=\"https://www.securityweek.com/chinese-apts-expand-targets-update-backdoors-in-recent-campaigns/\">Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Salt Typhoon has hit an energy entity in Azerbaijan",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "G7 Countries Release AI SBOM Guidance",
+    "link": "https://www.securityweek.com/g7-countries-release-ai-sbom-guidance/",
+    "published": "Thu, 14 May 2026 11:15:05 +0000",
+    "summary": "<p>The goal of the guidance, which outlines minimum elements, is to help organizations enhance transparency in AI systems and supply chains. </p>\n<p>The post <a href=\"https://www.securityweek.com/g7-countries-release-ai-sbom-guidance/\">G7 Countries Release AI SBOM Guidance</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The goal of the guidance, which outlines minimum elements, is to help organizations enhance transparency in AI systems and supply chains",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "F5 Patches Over 50 Vulnerabilities",
+    "link": "https://www.securityweek.com/f5-patches-over-50-vulnerabilities/",
+    "published": "Thu, 14 May 2026 10:47:58 +0000",
+    "summary": "<p>The company’s latest quarterly advisory describes high and medium-severity issues in BIG-IP, BIG-IQ, and NGINX.</p>\n<p>The post <a href=\"https://www.securityweek.com/f5-patches-over-50-vulnerabilities/\">F5 Patches Over 50 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company’s latest quarterly advisory describes high and medium-severity issues in BIG-IP, BIG-IQ, and NGINX",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-39459",
+        "CVE-2026-41957",
+        "CVE-2026-34176",
+        "CVE-2026-41225",
+        "CVE-2026-42945"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Hackers Targeted PraisonAI Vulnerability Hours After Disclosure",
     "link": "https://www.securityweek.com/hackers-targeted-praisonai-vulnerability-hours-after-disclosure/",
     "published": "Thu, 14 May 2026 09:45:53 +0000",
@@ -628,139 +768,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Foxconn Confirms North American Factories Hit by Cyberattack",
-    "link": "https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/",
-    "published": "Wed, 13 May 2026 17:13:36 +0000",
-    "summary": "<p>The Nitrogen ransomware group claims to have hacked the company’s systems, stealing 8TB of data, including confidential documents.</p>\n<p>The post <a href=\"https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/\">Foxconn Confirms North American Factories Hit by Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The Nitrogen ransomware group claims to have hacked the company’s systems, stealing 8TB of data, including confidential documents",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code",
-    "link": "https://www.securityweek.com/microsoft-palo-alto-networks-find-many-vulnerabilities-by-using-ai-on-their-own-code/",
-    "published": "Wed, 13 May 2026 16:01:00 +0000",
-    "summary": "<p>Microsoft’s MDASH discovered 16 of the Patch Tuesday vulnerabilities, and Palo Alto used Mythos to find dozens of flaws. </p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-palo-alto-networks-find-many-vulnerabilities-by-using-ai-on-their-own-code/\">Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Microsoft’s MDASH discovered 16 of the Patch Tuesday vulnerabilities, and Palo Alto used Mythos to find dozens of flaws",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment’",
-    "link": "https://www.securityweek.com/sweet-security-launches-agentic-ai-red-teaming-to-counter-mythos-moment/",
-    "published": "Wed, 13 May 2026 14:50:20 +0000",
-    "summary": "<p>New “Sweet Attack” platform uses runtime intelligence and continuous agentic red teaming to identify exploitable attack chains human teams may miss.</p>\n<p>The post <a href=\"https://www.securityweek.com/sweet-security-launches-agentic-ai-red-teaming-to-counter-mythos-moment/\">Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment&#8217;</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "New “Sweet Attack” platform uses runtime intelligence and continuous agentic red teaming to identify exploitable attack chains human teams may miss",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Webinar Today: ROI for Cyber-Physical Security Programs",
-    "link": "https://www.securityweek.com/webinar-today-roi-for-cyber-physical-security-programs/",
-    "published": "Wed, 13 May 2026 13:30:00 +0000",
-    "summary": "<p>This webinar will help OT security teams and asset owners stop being cost centers and start being resilience drivers.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-roi-for-cyber-physical-security-programs/\">Webinar Today: ROI for Cyber-Physical Security Programs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "This webinar will help OT security teams and asset owners stop being cost centers and start being resilience drivers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Government to Scrutinize Instructure Over Canvas Disruption, Data Breach",
-    "link": "https://www.securityweek.com/government-to-scrutinize-instructure-on-canvas-disruption-data-breach/",
-    "published": "Wed, 13 May 2026 12:13:14 +0000",
-    "summary": "<p>The Committee on Homeland Security has requested to be briefed on the incident and Instructure’s remediation steps.</p>\n<p>The post <a href=\"https://www.securityweek.com/government-to-scrutinize-instructure-on-canvas-disruption-data-breach/\">Government to Scrutinize Instructure Over Canvas Disruption, Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The Committee on Homeland Security has requested to be briefed on the incident and Instructure’s remediation steps",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "716,000 Impacted by OpenLoop Health Data Breach",
-    "link": "https://www.securityweek.com/716000-impacted-by-openloop-health-data-breach/",
-    "published": "Wed, 13 May 2026 11:18:03 +0000",
-    "summary": "<p>The telehealth platform was hacked in January, and users’ personal information was exfiltrated from its systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/716000-impacted-by-openloop-health-data-breach/\">716,000 Impacted by OpenLoop Health Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The telehealth platform was hacked in January, and users’ personal information was exfiltrated from its systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises",
-    "link": "https://www.securityweek.com/microsoft-patches-critical-zero-click-outlook-vulnerability-threatening-enterprises/",
-    "published": "Wed, 13 May 2026 10:33:46 +0000",
-    "summary": "<p>CVE-2026-40361 is similar to a vulnerability found a decade ago, BadWinmail, which at the time was dubbed an “enterprise killer”.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-critical-zero-click-outlook-vulnerability-threatening-enterprises/\">Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CVE-2026-40361 is similar to a vulnerability found a decade ago, BadWinmail, which at the time was dubbed an “enterprise killer”",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-40361",
-        "CVE-2015-6172"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Breaking things to keep them safe with Philippe Laulheret",
     "link": "https://blog.talosintelligence.com/breaking-things-to-keep-them-safe-with-philippe-laulheret/",
@@ -792,11 +799,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-40358",
-        "CVE-2026-32161",
-        "CVE-2026-33109",
         "CVE-2026-33844",
-        "CVE-2026-35421"
+        "CVE-2026-33109",
+        "CVE-2026-35421",
+        "CVE-2026-32161",
+        "CVE-2026-40358"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1333,6 +1340,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Why Malwarebytes blocks some Yahoo Mail redirects",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/05/why-malwarebytes-blocks-some-yahoo-mail-redirects",
+    "published": "Thu, 14 May 2026 10:47:52 GMT",
+    "summary": "Some Yahoo Mail users may see repeated Malwarebytes alerts caused by background connections to suspicious third-party domains. Here’s why.",
+    "analysis": {
+      "issue": "Some Malwarebytes users have recently noticed frequent web protection alerts while reading email in Yahoo Mail’s web interface",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Deepfake sextortion forces schools to remove student photos from websites",
     "link": "https://www.malwarebytes.com/blog/family-and-parenting/2026/05/deepfake-sextortion-forces-schools-to-remove-student-photos-from-websites",
     "published": "Thu, 14 May 2026 09:00:15 GMT",
@@ -1380,8 +1405,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-40361",
-        "CVE-2026-35421"
+        "CVE-2026-35421",
+        "CVE-2026-40361"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1495,27 +1520,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "ShinyHunters escalates Canvas attacks with school login defacements",
-    "link": "https://www.malwarebytes.com/blog/news/2026/05/shinyhunters-escalates-canvas-attacks-with-school-login-defacements",
-    "published": "Fri, 08 May 2026 12:00:01 GMT",
-    "summary": "Days after the first attack, ShinyHunters is applying pressure with ransom messages on school login portals.",
-    "analysis": {
-      "issue": "Days after confirming a major data breach, Instructure is now facing a second blow",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability",
-        "Phishing"
       ]
     }
   },
