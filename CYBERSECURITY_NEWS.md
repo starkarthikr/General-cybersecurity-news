@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-15 14:20:53 UTC
+**Last Updated:** 2026-05-15 18:05:48 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface](https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html)
+### 1. [Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access](https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 15 May 2026 22:40:25 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence](https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 15 May 2026 19:05:04 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface](https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 15 May 2026 16:30:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates](https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html)
+### 4. [TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates](https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 15 May 2026 16:24:44 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email](https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html)
+### 5. [On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email](https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 15 May 2026 11:49:04 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits](https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html)
+### 6. [CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits](https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 15 May 2026 10:58:03 +0530  
@@ -42,7 +60,7 @@
 
 ---
 
-### 5. [Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html)
+### 7. [Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 14 May 2026 23:15:20 +0530  
@@ -52,7 +70,7 @@
 
 ---
 
-### 6. [Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets](https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html)
+### 8. [Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets](https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 14 May 2026 22:52:43 +0530  
@@ -61,7 +79,7 @@
 
 ---
 
-### 7. [ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories](https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html)
+### 9. [ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories](https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 14 May 2026 21:37:46 +0530  
@@ -70,7 +88,7 @@
 
 ---
 
-### 8. [Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike](https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html)
+### 10. [Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike](https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 14 May 2026 19:30:37 +0530  
@@ -79,26 +97,44 @@
 
 ---
 
-### 9. [PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure](https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html)
+### 11. [Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own](https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 14 May 2026 17:10:14 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-44338  
-**Categories:** Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Fri, 15 May 2026 13:47:25 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability, DDoS  
 
 ---
 
-### 10. [How AI Hallucinations Are Creating Real Security Risks](https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html)
+### 12. [Popular node-ipc npm package compromised to steal credentials](https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 14 May 2026 17:00:00 +0530  
-**Severity:** High  
+**Source:** Bleeping Computer  
+**Published:** Fri, 15 May 2026 13:10:42 -0400  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 13. [Avada Builder WordPress plugin flaws allow site credential theft](https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 15 May 2026 11:56:56 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2026-4782, CVE-2026-4798  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 14. [Microsoft backpedals: Edge to stop loading passwords into memory](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 15 May 2026 10:49:39 -0400  
+**Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution](https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/)
+### 15. [Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution](https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 10:02:12 -0400  
@@ -107,7 +143,7 @@
 
 ---
 
-### 12. [Microsoft to automatically roll back faulty Windows drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/)
+### 16. [Microsoft to automatically roll back faulty Windows drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 08:29:48 -0400  
@@ -116,7 +152,7 @@
 
 ---
 
-### 13. [Microsoft warns of Exchange zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/)
+### 17. [Microsoft warns of Exchange zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 05:40:42 -0400  
@@ -126,7 +162,7 @@
 
 ---
 
-### 14. [TeamPCP hackers advertise Mistral AI code repos for sale](https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/)
+### 18. [TeamPCP hackers advertise Mistral AI code repos for sale](https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 14 May 2026 18:50:36 -0400  
@@ -135,7 +171,7 @@
 
 ---
 
-### 15. [Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/)
+### 19. [Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 14 May 2026 17:07:17 -0400  
@@ -145,50 +181,13 @@
 
 ---
 
-### 16. [Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/)
+### 20. [Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 14 May 2026 16:09:56 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-20182  
 **Categories:** Vulnerability  
-
----
-
-### 17. [OpenAI confirms security breach in TanStack supply chain attack](https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 14 May 2026 15:07:24 -0400  
-**Severity:** Low  
-**Categories:** Malware, Supply Chain  
-
----
-
-### 18. [Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026](https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 14 May 2026 14:53:50 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 19. [18-year-old NGINX vulnerability allows DoS, potential RCE](https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 14 May 2026 11:43:41 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-42945  
-**Categories:** Vulnerability, DDoS  
-
----
-
-### 20. [Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight](https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 14 May 2026 11:21:32 -0400  
-**Severity:** High  
-**Categories:** Ransomware, Phishing  
 
 ---
 
@@ -233,7 +232,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -283,7 +282,16 @@
 
 ---
 
-### 31. [Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild](https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/)
+### 31. [In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws](https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/)
+
+**Source:** Security Week  
+**Published:** Fri, 15 May 2026 14:52:16 +0000  
+**Severity:** Critical  
+**Categories:** Data Breach, Vulnerability, Malware, Phishing, APT  
+
+---
+
+### 32. [Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild](https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/)
 
 **Source:** Security Week  
 **Published:** Fri, 15 May 2026 12:06:53 +0000  
@@ -293,7 +301,7 @@
 
 ---
 
-### 32. [American Lending Center Data Breach Affects 123,000 Individuals](https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/)
+### 33. [American Lending Center Data Breach Affects 123,000 Individuals](https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/)
 
 **Source:** Security Week  
 **Published:** Fri, 15 May 2026 11:06:55 +0000  
@@ -302,7 +310,7 @@
 
 ---
 
-### 33. [OpenAI Hit by TanStack Supply Chain Attack](https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/)
+### 34. [OpenAI Hit by TanStack Supply Chain Attack](https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Fri, 15 May 2026 10:37:00 +0000  
@@ -311,7 +319,7 @@
 
 ---
 
-### 34. [TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code](https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/)
+### 35. [TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code](https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/)
 
 **Source:** Security Week  
 **Published:** Fri, 15 May 2026 09:47:09 +0000  
@@ -320,27 +328,27 @@
 
 ---
 
-### 35. [Chrome 148 Update Patches Critical Vulnerabilities](https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/)
+### 36. [Chrome 148 Update Patches Critical Vulnerabilities](https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 15 May 2026 07:25:15 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-8510, CVE-2026-8509  
+**CVEs:** CVE-2026-8509, CVE-2026-8510  
 **Categories:** Vulnerability  
 
 ---
 
-### 36. [Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026](https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/)
+### 37. [Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026](https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/)
 
 **Source:** Security Week  
 **Published:** Fri, 15 May 2026 06:28:46 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20127, CVE-2022-20775, CVE-2026-20182, CVE-2026-20128, CVE-2026-20122, CVE-2026-20133  
+**CVEs:** CVE-2026-20122, CVE-2022-20775, CVE-2026-20182, CVE-2026-20133, CVE-2026-20128, CVE-2026-20127  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 37. [Enhancing Data Center Security Without Sacrificing Performance](https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/)
+### 38. [Enhancing Data Center Security Without Sacrificing Performance](https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/)
 
 **Source:** Security Week  
 **Published:** Thu, 14 May 2026 14:00:00 +0000  
@@ -349,7 +357,7 @@
 
 ---
 
-### 38. [New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation](https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/)
+### 39. [New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation](https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/)
 
 **Source:** Security Week  
 **Published:** Thu, 14 May 2026 13:44:46 +0000  
@@ -359,21 +367,12 @@
 
 ---
 
-### 39. [Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere](https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/)
+### 40. [Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere](https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/)
 
 **Source:** Security Week  
 **Published:** Thu, 14 May 2026 13:00:00 +0000  
 **Severity:** High  
 **Categories:** Vulnerability  
-
----
-
-### 40. [Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million](https://www.securityweek.com/akamai-to-acquire-ai-and-browser-security-firm-layerx-for-205-million/)
-
-**Source:** Security Week  
-**Published:** Thu, 14 May 2026 12:55:38 +0000  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -391,7 +390,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20127, CVE-2026-20182, CVE-2026-20128, CVE-2026-20122, CVE-2026-20133  
+**CVEs:** CVE-2026-20122, CVE-2026-20182, CVE-2026-20133, CVE-2026-20128, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---
@@ -410,7 +409,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-35421, CVE-2026-40358, CVE-2026-33109, CVE-2026-33844, CVE-2026-32161  
+**CVEs:** CVE-2026-40358, CVE-2026-33844, CVE-2026-33109, CVE-2026-35421, CVE-2026-32161  
 **Categories:** Vulnerability  
 
 ---
@@ -704,7 +703,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 13 May 2026 11:00:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-40361, CVE-2026-35421  
+**CVEs:** CVE-2026-35421, CVE-2026-40361  
 **Categories:** Vulnerability, Malware  
 
 ---
