@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
+    "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
+    "published": "Thu, 14 May 2026 23:15:20 +0530",
+    "summary": "Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks.\nThe vulnerability, tracked as CVE-2026-20182, carries a CVSS score of 10.0.\n\"A vulnerability in the peering authentication in Cisco Catalyst SD-WAN Controller, formerly SD-WAN vSmart, and Cisco Catalyst SD-WAN Manager, formerly",
+    "analysis": {
+      "issue": "CVE-2026-20182 bypasses Cisco SD-WAN auth via DTLS port 12346, enabling admin access after May 2026 exploitation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-20182"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
+    "link": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html",
+    "published": "Thu, 14 May 2026 22:52:43 +0530",
+    "summary": "Cybersecurity researchers are sounding the alarm about what has been described as \"malicious activity\" in newly published versions of node-ipc.\nAccording to Socket and StepSecurity, three different versions of the npm package have been confirmed as malicious -\n\nnode-ipc@9.1.6\nnode-ipc@9.2.3\nnode-ipc@12.0.1\n\n\"Early analysis indicates that node-ipc@9.1.6, node-ipc@9.2.3, and node-ipc@12.0.1",
+    "analysis": {
+      "issue": "Three node-ipc versions contain stealer/backdoor code, exposing developer and cloud secrets to exfiltration",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
     "link": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
     "published": "Thu, 14 May 2026 21:37:46 +0530",
@@ -152,31 +190,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
-    "link": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
-    "published": "Wed, 13 May 2026 18:30:00 +0530",
-    "summary": "A threat actor with affiliations to China has been linked to a \"multi-wave intrusion\" targeting an unnamed Azerbaijani oil and gas company between late December 2025 and late February 2026, marking an expansion of its targeting.\nThe activity has been attributed by Bitdefender with moderate-to-high confidence to a hacking group known as FamousSparrow (aka UAT-9244), which shares some level of",
+    "source": "Bleeping Computer",
+    "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
+    "link": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
+    "published": "Thu, 14 May 2026 18:50:36 -0400",
+    "summary": "The TeamPCP hacker group is threatening to leak source code from the Mistral AI project unless a buyer is found for the data. [...]",
     "analysis": {
-      "issue": "FamousSparrow reused ProxyNotShell from Dec 2025-Feb 2026, deploying Deed RAT and TernDoor to sustain energy-sector access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
-    "link": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
-    "published": "Wed, 13 May 2026 17:22:43 +0530",
-    "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here.\nMost security tools work like a smoke alarm that goes off every time you burn a piece of toast. You get so many alerts that you eventually start to ignore them.\nThe real danger? While",
-    "analysis": {
-      "issue": "Learn AppSec secrets from industry veterans Mike McGuire (Wiz) and Salman Ladha (ex-Okta)",
+      "issue": "The TeamPCP hacker group is threatening to leak source code from the Mistral AI project unless a buyer is found for the data",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -184,6 +204,83 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
+    "published": "Thu, 14 May 2026 17:07:17 -0400",
+    "summary": "Hackers are leveraging a critical authentication bypass vulnerability in the WordPress plugin Burst Statistics to obtain admin-level access to websites. [...]",
+    "analysis": {
+      "issue": "Hackers are leveraging a critical authentication bypass vulnerability in the WordPress plugin Burst Statistics to obtain admin-level access to websites",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-8181"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
+    "published": "Thu, 14 May 2026 16:09:56 -0400",
+    "summary": "Cisco is warning that a critical Catalyst SD-WAN Controller authentication bypass flaw, tracked as CVE-2026-20182, was actively exploited in zero-day attacks that allowed attackers to gain administrative privileges on compromised devices. [...]",
+    "analysis": {
+      "issue": "Cisco is warning that a critical Catalyst SD-WAN Controller authentication bypass flaw, tracked as CVE-2026-20182, was actively exploited in zero-day attacks that allowed attackers to gain administrative privileges on compromised devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20182"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "OpenAI confirms security breach in TanStack supply chain attack",
+    "link": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
+    "published": "Thu, 14 May 2026 15:07:24 -0400",
+    "summary": "OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications as a precaution. [...]",
+    "analysis": {
+      "issue": "OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications as a precaution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026",
+    "link": "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/",
+    "published": "Thu, 14 May 2026 14:53:50 -0400",
+    "summary": "On the first day of Pwn2Own Berlin 2026, security researchers collected $523,000 in cash awards after exploiting 24 unique zero-days. [...]",
+    "analysis": {
+      "issue": "On the first day of Pwn2Own Berlin 2026, security researchers collected $523,000 in cash awards after exploiting 24 unique zero-days",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -279,105 +376,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
-    "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
-    "published": "Thu, 14 May 2026 03:34:19 -0400",
-    "summary": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300)  that allows attackers to run malicious code as root. [...]",
-    "analysis": {
-      "issue": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability that allows attackers to run malicious code as root",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-43284",
-        "CVE-2026-43500",
-        "CVE-2026-46300"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "West Pharmaceutical says hackers stole data, encrypted systems",
-    "link": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
-    "published": "Wed, 13 May 2026 18:23:31 -0400",
-    "summary": "West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption. [...]",
-    "analysis": {
-      "issue": "West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Iranian hackers targeted major South Korean electronics maker",
-    "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
-    "published": "Wed, 13 May 2026 17:59:33 -0400",
-    "summary": "The Iran-linked hacking group MuddyWater (a.k.a. Seedworm, Static Kitten) launched a broad cyber-espionage campaign targeting at least nine high-profile organizations across multiple sectors and countries. [...]",
-    "analysis": {
-      "issue": "The Iran-linked hacking group MuddyWater (a",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New critical Exim mailer flaw allows remote code execution",
-    "link": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
-    "published": "Wed, 13 May 2026 16:23:50 -0400",
-    "summary": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]",
-    "analysis": {
-      "issue": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-45185"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
-    "link": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
-    "published": "Wed, 13 May 2026 12:37:49 -0400",
-    "summary": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation flaw. [...]",
-    "analysis": {
-      "issue": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation flaw",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-33825"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -702,10 +700,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-39459",
         "CVE-2026-41957",
-        "CVE-2026-34176",
+        "CVE-2026-39459",
         "CVE-2026-42945",
+        "CVE-2026-34176",
         "CVE-2026-41225"
       ],
       "threat_categories": [
@@ -804,11 +802,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20127",
-        "CVE-2026-20133",
+        "CVE-2026-20122",
         "CVE-2026-20128",
-        "CVE-2026-20182",
-        "CVE-2026-20122"
+        "CVE-2026-20133",
+        "CVE-2026-20127",
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -847,10 +845,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-32161",
+        "CVE-2026-35421",
         "CVE-2026-33844",
         "CVE-2026-33109",
-        "CVE-2026-35421",
-        "CVE-2026-32161",
         "CVE-2026-40358"
       ],
       "threat_categories": [
@@ -967,6 +965,24 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "NIST NVD Enrichment Policy Change: Prioritizing Vulnerabilities with Attacker Behavior Signals",
+    "link": "https://www.recordedfuture.com/blog/nist-nvd-enrichment",
+    "published": "Thu, 14 May 2026 00:00:00 GMT",
+    "summary": "NVD enrichment now covers only 15–20% of CVEs. Learn how Recorded Future Vulnerability Intelligence prioritizes risk using real attacker behavior signals.",
+    "analysis": {
+      "issue": "NVD enrichment now covers only 15–20% of CVEs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -1123,24 +1139,6 @@
     "summary": "What building with AI for three months revealed about four leadership blind spots executives can't afford to ignore: the comprehension gap, eroding competitive moats, deployment complexity, and what \"senior\" really means now.",
     "analysis": {
       "issue": "What building with AI for three months revealed about four leadership blind spots executives can't afford to ignore: the comprehension gap, eroding competitive moats, deployment complexity, and what \"senior\" really means now",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "The Money Mule Solution: What Every Scam Has in Common",
-    "link": "https://www.recordedfuture.com/blog/money-mule-solution",
-    "published": "Tue, 28 Apr 2026 00:00:00 GMT",
-    "summary": "Learn how mule account intelligence — not tactic-tracking — is the most effective lever for preventing APP fraud before funds move.",
-    "analysis": {
-      "issue": "Learn how mule account intelligence — not tactic-tracking — is the most effective lever for preventing APP fraud before funds move",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1318,8 +1316,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1534,6 +1532,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Now Live: The CrowdStrike 2026 Financial Services Threat Landscape Report",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-financial-services-threat-landscape-report/",
+    "published": "May 14, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Financial services face a threat landscape defined by stealth access, device exploitation, intel collection and more",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications",
     "link": "https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/",
     "published": "May 13, 2026 00:00:00-0500",
@@ -1684,24 +1700,6 @@
     "summary": "",
     "analysis": {
       "issue": "Enhanced audit logging and activity monitoring help Falcon Shield deliver deeper visibility and govern AI at scale",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/",
-    "published": "Apr 27, 2026 00:00:00-0700",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike is named a Leader in the 2026 Frost & Sullivan CNAPP Radar, recognizing Falcon Cloud Security for innovation in cloud detection and response",
       "solution": null,
       "cause": null,
       "timeline": null,
