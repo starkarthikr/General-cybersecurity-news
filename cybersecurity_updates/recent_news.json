@@ -1,6 +1,46 @@
 [
   {
     "source": "The Hacker News",
+    "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
+    "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
+    "published": "Fri, 15 May 2026 11:49:04 +0530",
+    "summary": "Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been described as a spoofing bug stemming from a cross-site scripting flaw. An anonymous researcher has been credited with discovering and reporting the issue.\n\"",
+    "analysis": {
+      "issue": "CVE-2026-42897 is exploited in on-prem Exchange; crafted emails enable spoofing, forcing urgent mitigation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-42897"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
+    "link": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
+    "published": "Fri, 15 May 2026 10:58:03 +0530",
+    "summary": "The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to remediate the issue by May 17, 2026.\nThe vulnerability is a critical authentication bypass tracked as CVE-2026-20182. It's",
+    "analysis": {
+      "issue": "CISA added CVE-2026-20182, a CVSS 10",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-20182"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
     "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
     "published": "Thu, 14 May 2026 23:15:20 +0530",
@@ -152,40 +192,22 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
-    "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
-    "published": "Thu, 14 May 2026 11:30:09 +0530",
-    "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years.\nThe vulnerability, discovered by depthfirst, is a heap buffer overflow issue impacting ngx_http_rewrite_module (CVE-2026-42945, CVSS v4 score: 9.2) that could allow an attacker to achieve remote code execution or cause a",
+    "source": "Bleeping Computer",
+    "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
+    "published": "Fri, 15 May 2026 05:40:42 -0400",
+    "summary": "On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outlook on the web users. [...]",
     "analysis": {
-      "issue": "NGINX Rift CVE-2026-42945 scores 9",
+      "issue": "On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outlook on the web users",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-42945"
+        "CVE-2026-42897"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
-    "link": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
-    "published": "Wed, 13 May 2026 19:16:02 +0530",
-    "summary": "Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part of a limited private preview.\nMDASH, short for multi-model agentic scanning harness, is designed as a model-agnostic system that uses bespoke AI agents for different vulnerability",
-    "analysis": {
-      "issue": "Microsoft’s new MDASH AI system found 16 Windows vulnerabilities fixed in this month’s Patch Tuesday, including 2 RCE flaws in IKEv2 and TCP/IP",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -362,24 +384,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "US charges suspected Dream Market admin arrested in Germany",
-    "link": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
-    "published": "Thu, 14 May 2026 04:55:46 -0400",
-    "summary": "The alleged main administrator of Dream Market Incognito Market, one of the largest dark web marketplaces before its shutdown, has been indicted in the United States on money laundering charges. [...]",
-    "analysis": {
-      "issue": "The alleged main administrator of Dream Market Incognito Market, one of the largest dark web marketplaces before its shutdown, has been indicted in the United States on money laundering charges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, May 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
@@ -468,8 +472,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
         "CVE-2026-32201",
+        "CVE-2026-33825",
         "CVE-2026-34621"
       ],
       "threat_categories": [
@@ -571,6 +575,91 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OpenAI Hit by TanStack Supply Chain Attack",
+    "link": "https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/",
+    "published": "Fri, 15 May 2026 10:37:00 +0000",
+    "summary": "<p>Two employee devices were compromised in the attack, and credential material was stolen from OpenAI code repositories.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/\">OpenAI Hit by TanStack Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Two employee devices were compromised in the attack, and credential material was stolen from OpenAI code repositories",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code",
+    "link": "https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/",
+    "published": "Fri, 15 May 2026 09:47:09 +0000",
+    "summary": "<p>The hacking group is encouraging miscreants to use the code in supply chain attacks, promising monetary rewards.</p>\n<p>The post <a href=\"https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/\">TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The hacking group is encouraging miscreants to use the code in supply chain attacks, promising monetary rewards",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Chrome 148 Update Patches Critical Vulnerabilities",
+    "link": "https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/",
+    "published": "Fri, 15 May 2026 07:25:15 +0000",
+    "summary": "<p>The refresh resolves critical-severity use-after-free and other types of bugs in various browser components.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/\">Chrome 148 Update Patches Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The refresh resolves critical-severity use-after-free and other types of bugs in various browser components",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-8510",
+        "CVE-2026-8509"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026",
+    "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/",
+    "published": "Fri, 15 May 2026 06:28:46 +0000",
+    "summary": "<p>The zero-day, tracked as CVE-2026-20182, has been exploited in targeted attacks by a sophisticated threat actor identified as UAT-8616.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/\">Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The zero-day, tracked as CVE-2026-20182, has been exploited in targeted attacks by a sophisticated threat actor identified as UAT-8616",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20127",
+        "CVE-2022-20775",
+        "CVE-2026-20122",
+        "CVE-2026-20182",
+        "CVE-2026-20128",
+        "CVE-2026-20133"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -688,89 +777,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "F5 Patches Over 50 Vulnerabilities",
-    "link": "https://www.securityweek.com/f5-patches-over-50-vulnerabilities/",
-    "published": "Thu, 14 May 2026 10:47:58 +0000",
-    "summary": "<p>The company’s latest quarterly advisory describes high and medium-severity issues in BIG-IP, BIG-IQ, and NGINX.</p>\n<p>The post <a href=\"https://www.securityweek.com/f5-patches-over-50-vulnerabilities/\">F5 Patches Over 50 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company’s latest quarterly advisory describes high and medium-severity issues in BIG-IP, BIG-IQ, and NGINX",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-39459",
-        "CVE-2026-41957",
-        "CVE-2026-42945",
-        "CVE-2026-34176",
-        "CVE-2026-41225"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Hackers Targeted PraisonAI Vulnerability Hours After Disclosure",
-    "link": "https://www.securityweek.com/hackers-targeted-praisonai-vulnerability-hours-after-disclosure/",
-    "published": "Thu, 14 May 2026 09:45:53 +0000",
-    "summary": "<p>The first exploitation attempts were observed less than four hours after the authentication bypass was publicly disclosed.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-targeted-praisonai-vulnerability-hours-after-disclosure/\">Hackers Targeted PraisonAI Vulnerability Hours After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The first exploitation attempts were observed less than four hours after the authentication bypass was publicly disclosed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-44338"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "High-Severity Vulnerability Patched in VMware Fusion",
-    "link": "https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/",
-    "published": "Thu, 14 May 2026 08:42:25 +0000",
-    "summary": "<p>The patch was announced as Broadcom is attending the Pwn2Own hacking competition in Berlin this week.</p>\n<p>The post <a href=\"https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/\">High-Severity Vulnerability Patched in VMware Fusion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The patch was announced as Broadcom is attending the Pwn2Own hacking competition in Berlin this week",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-41702"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Researcher Drops YellowKey, GreenPlasma Windows Zero-Days",
-    "link": "https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/",
-    "published": "Thu, 14 May 2026 07:27:42 +0000",
-    "summary": "<p>YellowKey is a BitLocker bypass that requires physical access. GreenPlasma enables elevation of privileges to System.</p>\n<p>The post <a href=\"https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/\">Researcher Drops YellowKey, GreenPlasma Windows Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "YellowKey is a BitLocker bypass that requires physical access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "The time of much patching is coming",
     "link": "https://blog.talosintelligence.com/the-time-of-much-patching-is-coming/",
@@ -802,11 +808,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20128",
-        "CVE-2026-20133",
         "CVE-2026-20127",
         "CVE-2026-20122",
-        "CVE-2026-20182"
+        "CVE-2026-20182",
+        "CVE-2026-20128",
+        "CVE-2026-20133"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -845,11 +851,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-35421",
-        "CVE-2026-40358",
         "CVE-2026-33844",
+        "CVE-2026-40358",
         "CVE-2026-33109",
-        "CVE-2026-32161"
+        "CVE-2026-32161",
+        "CVE-2026-35421"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1412,8 +1418,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-35421",
-        "CVE-2026-40361"
+        "CVE-2026-40361",
+        "CVE-2026-35421"
       ],
       "threat_categories": [
         "Vulnerability",
