@@ -256,8 +256,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-4798",
-        "CVE-2026-4782"
+        "CVE-2026-4782",
+        "CVE-2026-4798"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -575,6 +575,26 @@
   },
   {
     "source": "Security Week",
+    "title": "PoC Code Published for Critical NGINX Vulnerability",
+    "link": "https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/",
+    "published": "Sat, 16 May 2026 10:02:00 +0000",
+    "summary": "<p>Introduced in 2008, the critical-severity security defect was patched this week in NGINX Plus and NGINX open source.</p>\n<p>The post <a href=\"https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/\">PoC Code Published for Critical NGINX Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Introduced in 2008, the critical-severity security defect was patched this week in NGINX Plus and NGINX open source",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-42945"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws",
     "link": "https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/",
     "published": "Fri, 15 May 2026 14:52:16 +0000",
@@ -707,10 +727,10 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20128",
+        "CVE-2026-20182",
+        "CVE-2026-20122",
         "CVE-2026-20133",
         "CVE-2022-20775",
-        "CVE-2026-20122",
-        "CVE-2026-20182",
         "CVE-2026-20127"
       ],
       "threat_categories": [
@@ -758,24 +778,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere",
-    "link": "https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/",
-    "published": "Thu, 14 May 2026 13:00:00 +0000",
-    "summary": "<p>Independent benchmarking finds Mythos highly effective for source code audits, reverse engineering, and native-code analysis, though its exploit validation and reasoning capabilities remain inconsistent.</p>\n<p>The post <a href=\"https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/\">Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Independent benchmarking finds Mythos highly effective for source code audits, reverse engineering, and native-code analysis, though its exploit validation and reasoning capabilities remain inconsistent",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "The time of much patching is coming",
     "link": "https://blog.talosintelligence.com/the-time-of-much-patching-is-coming/",
@@ -808,9 +810,9 @@
       "severity": "High",
       "cves": [
         "CVE-2026-20128",
-        "CVE-2026-20133",
-        "CVE-2026-20122",
         "CVE-2026-20182",
+        "CVE-2026-20122",
+        "CVE-2026-20133",
         "CVE-2026-20127"
       ],
       "threat_categories": [
@@ -850,11 +852,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32161",
         "CVE-2026-33109",
+        "CVE-2026-33844",
         "CVE-2026-35421",
-        "CVE-2026-40358",
-        "CVE-2026-33844"
+        "CVE-2026-32161",
+        "CVE-2026-40358"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1321,8 +1323,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

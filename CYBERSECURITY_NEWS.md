@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-16 09:56:43 UTC
+**Last Updated:** 2026-05-16 13:44:58 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -129,7 +129,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 11:56:56 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-4798, CVE-2026-4782  
+**CVEs:** CVE-2026-4782, CVE-2026-4798  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -281,7 +281,17 @@
 
 ---
 
-### 31. [In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws](https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/)
+### 31. [PoC Code Published for Critical NGINX Vulnerability](https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/)
+
+**Source:** Security Week  
+**Published:** Sat, 16 May 2026 10:02:00 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-42945  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws](https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/)
 
 **Source:** Security Week  
 **Published:** Fri, 15 May 2026 14:52:16 +0000  
@@ -290,7 +300,7 @@
 
 ---
 
-### 32. [Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild](https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/)
+### 33. [Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild](https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/)
 
 **Source:** Security Week  
 **Published:** Fri, 15 May 2026 12:06:53 +0000  
@@ -300,7 +310,7 @@
 
 ---
 
-### 33. [American Lending Center Data Breach Affects 123,000 Individuals](https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/)
+### 34. [American Lending Center Data Breach Affects 123,000 Individuals](https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/)
 
 **Source:** Security Week  
 **Published:** Fri, 15 May 2026 11:06:55 +0000  
@@ -309,7 +319,7 @@
 
 ---
 
-### 34. [OpenAI Hit by TanStack Supply Chain Attack](https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/)
+### 35. [OpenAI Hit by TanStack Supply Chain Attack](https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Fri, 15 May 2026 10:37:00 +0000  
@@ -318,7 +328,7 @@
 
 ---
 
-### 35. [TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code](https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/)
+### 36. [TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code](https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/)
 
 **Source:** Security Week  
 **Published:** Fri, 15 May 2026 09:47:09 +0000  
@@ -327,7 +337,7 @@
 
 ---
 
-### 36. [Chrome 148 Update Patches Critical Vulnerabilities](https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/)
+### 37. [Chrome 148 Update Patches Critical Vulnerabilities](https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 15 May 2026 07:25:15 +0000  
@@ -337,17 +347,17 @@
 
 ---
 
-### 37. [Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026](https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/)
+### 38. [Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026](https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/)
 
 **Source:** Security Week  
 **Published:** Fri, 15 May 2026 06:28:46 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20128, CVE-2026-20133, CVE-2022-20775, CVE-2026-20122, CVE-2026-20182, CVE-2026-20127  
+**CVEs:** CVE-2026-20128, CVE-2026-20182, CVE-2026-20122, CVE-2026-20133, CVE-2022-20775, CVE-2026-20127  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 38. [Enhancing Data Center Security Without Sacrificing Performance](https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/)
+### 39. [Enhancing Data Center Security Without Sacrificing Performance](https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/)
 
 **Source:** Security Week  
 **Published:** Thu, 14 May 2026 14:00:00 +0000  
@@ -356,21 +366,12 @@
 
 ---
 
-### 39. [New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation](https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/)
+### 40. [New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation](https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/)
 
 **Source:** Security Week  
 **Published:** Thu, 14 May 2026 13:44:46 +0000  
 **Severity:** High  
 **CVEs:** CVE-2026-46300  
-**Categories:** Vulnerability  
-
----
-
-### 40. [Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere](https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/)
-
-**Source:** Security Week  
-**Published:** Thu, 14 May 2026 13:00:00 +0000  
-**Severity:** High  
 **Categories:** Vulnerability  
 
 ---
@@ -389,7 +390,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20128, CVE-2026-20133, CVE-2026-20122, CVE-2026-20182, CVE-2026-20127  
+**CVEs:** CVE-2026-20128, CVE-2026-20182, CVE-2026-20122, CVE-2026-20133, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---
@@ -408,7 +409,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32161, CVE-2026-33109, CVE-2026-35421, CVE-2026-40358, CVE-2026-33844  
+**CVEs:** CVE-2026-33109, CVE-2026-33844, CVE-2026-35421, CVE-2026-32161, CVE-2026-40358  
 **Categories:** Vulnerability  
 
 ---
@@ -637,7 +638,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
