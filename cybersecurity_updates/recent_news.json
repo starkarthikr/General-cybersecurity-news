@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
+    "link": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
+    "published": "Sat, 16 May 2026 20:50:48 +0530",
+    "summary": "A critical security vulnerability impacting the\n  Funnel Builder\n  plugin for WordPress has come under active exploitation in the wild to\n  inject malicious JavaScript code\n  into WooCommerce checkout pages with the goal of stealing payment data.\n\n\n\n  Details of the activity were\n  published\n  by Sansec this week. The vulnerability currently does not have an official CVE identifier. It",
+    "analysis": {
+      "issue": "Funnel Builder flaw hits 40,000+ stores; fake GTM skimmers steal checkout payment data before patch 3",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
     "link": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
     "published": "Fri, 15 May 2026 22:40:25 +0530",
@@ -170,20 +188,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
-    "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
-    "published": "Thu, 14 May 2026 19:30:37 +0530",
-    "summary": "The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine.\nActive since at least 2016, Ghostwriter has been linked to both cyber espionage and influence operations targeting neighboring countries, particularly Ukraine. It's also tracked under the monikers FrostyNeighbor, PUSHCHA, Storm-0257, TA445, UAC‑0057",
+    "source": "Bleeping Computer",
+    "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
+    "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
+    "published": "Sat, 16 May 2026 10:15:37 -0400",
+    "summary": "The Russian hacker group Secret Blizzard has developed its long-running Kazuar backdoor into a modular peer-to-peer (P2P) botnet designed for long-term persistence, stealth, and data collection. [...]",
     "analysis": {
-      "issue": "Ghostwriter’s March 2026 Ukraine attacks use PDF lures and geofencing to deploy Cobalt Strike on government targets",
+      "issue": "The Russian hacker group Secret Blizzard has developed its long-running Kazuar backdoor into a modular peer-to-peer (P2P) botnet designed for long-term persistence, stealth, and data collection",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Phishing"
+        "Malware"
       ]
     }
   },
@@ -355,26 +373,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
-    "published": "Thu, 14 May 2026 17:07:17 -0400",
-    "summary": "Hackers are leveraging a critical authentication bypass vulnerability in the WordPress plugin Burst Statistics to obtain admin-level access to websites. [...]",
-    "analysis": {
-      "issue": "Hackers are leveraging a critical authentication bypass vulnerability in the WordPress plugin Burst Statistics to obtain admin-level access to websites",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-8181"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -730,8 +728,8 @@
         "CVE-2026-20182",
         "CVE-2026-20122",
         "CVE-2026-20133",
-        "CVE-2022-20775",
-        "CVE-2026-20127"
+        "CVE-2026-20127",
+        "CVE-2022-20775"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -854,9 +852,9 @@
       "cves": [
         "CVE-2026-33109",
         "CVE-2026-33844",
-        "CVE-2026-35421",
         "CVE-2026-32161",
-        "CVE-2026-40358"
+        "CVE-2026-40358",
+        "CVE-2026-35421"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1323,8 +1321,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
