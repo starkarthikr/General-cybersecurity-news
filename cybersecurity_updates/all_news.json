@@ -189,6 +189,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
+    "link": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
+    "published": "Fri, 15 May 2026 15:30:33 -0400",
+    "summary": "A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
+    "analysis": {
+      "issue": "A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
     "link": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
     "published": "Fri, 15 May 2026 13:47:25 -0400",
@@ -361,81 +379,25 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
-    "published": "Thu, 14 May 2026 16:09:56 -0400",
-    "summary": "Cisco is warning that a critical Catalyst SD-WAN Controller authentication bypass flaw, tracked as CVE-2026-20182, was actively exploited in zero-day attacks that allowed attackers to gain administrative privileges on compromised devices. [...]",
-    "analysis": {
-      "issue": "Cisco is warning that a critical Catalyst SD-WAN Controller authentication bypass flaw, tracked as CVE-2026-20182, was actively exploited in zero-day attacks that allowed attackers to gain administrative privileges on compromised devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20182"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, May 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
     "published": "Tue, 12 May 2026 21:46:45 +0000",
-    "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.",
-    "analysis": {
-      "issue": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
+    "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases."
   },
   {
     "source": "Krebs On Security",
     "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
     "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
     "published": "Fri, 08 May 2026 02:58:46 +0000",
-    "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak data from 275 million students and faculty across nearly 9,000 educational institutions.",
-    "analysis": {
-      "issue": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service’s login",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
+    "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak data from 275 million students and faculty across nearly 9,000 educational institutions."
   },
   {
     "source": "Krebs On Security",
     "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
     "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
     "published": "Thu, 30 Apr 2026 14:04:26 +0000",
-    "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm's chief executive says the malicious activity resulted from a security breach and was likely the work of a competitor trying to tarnish his company's public image.",
-    "analysis": {
-      "issue": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOn",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
+    "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm's chief executive says the malicious activity resulted from a security breach and was likely the work of a competitor trying to tarnish his company's public image."
   },
   {
     "source": "Krebs On Security",
@@ -469,9 +431,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-32201",
         "CVE-2026-33825",
-        "CVE-2026-34621",
-        "CVE-2026-32201"
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -484,20 +446,7 @@
     "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
     "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
     "published": "Tue, 07 Apr 2026 17:02:44 +0000",
-    "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.",
-    "analysis": {
-      "issue": "Hackers linked to Russia’s military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT",
-        "Supply Chain"
-      ]
-    }
+    "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code."
   },
   {
     "source": "Krebs On Security",
@@ -523,57 +472,21 @@
     "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
     "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
     "published": "Mon, 23 Mar 2026 15:43:04 +0000",
-    "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language.",
-    "analysis": {
-      "issue": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran’s time zone or have Farsi s",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
+    "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language."
   },
   {
     "source": "Krebs On Security",
     "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
     "link": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
     "published": "Fri, 20 Mar 2026 00:49:19 +0000",
-    "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.",
-    "analysis": {
-      "issue": "Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million Internet of Things (IoT) devices, such as routers and web cameras",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
+    "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline."
   },
   {
     "source": "Krebs On Security",
     "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
     "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
     "published": "Wed, 11 Mar 2026 16:20:13 +0000",
-    "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency.",
-    "analysis": {
-      "issue": "A hacktivist group with links to Iran’s intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
+    "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency."
   },
   {
     "source": "Security Week",
@@ -687,8 +600,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-8509",
-        "CVE-2026-8510"
+        "CVE-2026-8510",
+        "CVE-2026-8509"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -708,12 +621,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20122",
-        "CVE-2022-20775",
-        "CVE-2026-20182",
-        "CVE-2026-20133",
+        "CVE-2026-20127",
         "CVE-2026-20128",
-        "CVE-2026-20127"
+        "CVE-2026-20133",
+        "CVE-2026-20182",
+        "CVE-2026-20122",
+        "CVE-2022-20775"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -809,11 +722,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20122",
-        "CVE-2026-20182",
-        "CVE-2026-20133",
+        "CVE-2026-20127",
         "CVE-2026-20128",
-        "CVE-2026-20127"
+        "CVE-2026-20133",
+        "CVE-2026-20182",
+        "CVE-2026-20122"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -854,8 +767,8 @@
       "cves": [
         "CVE-2026-40358",
         "CVE-2026-33844",
-        "CVE-2026-33109",
         "CVE-2026-35421",
+        "CVE-2026-33109",
         "CVE-2026-32161"
       ],
       "threat_categories": [
@@ -1455,8 +1368,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-35421",
-        "CVE-2026-40361"
+        "CVE-2026-40361",
+        "CVE-2026-35421"
       ],
       "threat_categories": [
         "Vulnerability",
