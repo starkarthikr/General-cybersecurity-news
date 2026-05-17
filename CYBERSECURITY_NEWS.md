@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-17 13:44:07 UTC
+**Last Updated:** 2026-05-17 17:32:35 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt](https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html)
+### 1. [NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE](https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 17 May 2026 17:27:53 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-42945  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt](https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 17 May 2026 12:43:33 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming](https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html)
+### 3. [Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming](https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 16 May 2026 20:50:48 +0530  
@@ -22,7 +32,7 @@
 
 ---
 
-### 3. [Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access](https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html)
+### 4. [Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access](https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 15 May 2026 22:40:25 +0530  
@@ -31,7 +41,7 @@
 
 ---
 
-### 4. [Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence](https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html)
+### 5. [Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence](https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 15 May 2026 19:05:04 +0530  
@@ -40,7 +50,7 @@
 
 ---
 
-### 5. [What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface](https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html)
+### 6. [What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface](https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 15 May 2026 16:30:00 +0530  
@@ -49,7 +59,7 @@
 
 ---
 
-### 6. [TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates](https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html)
+### 7. [TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates](https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 15 May 2026 16:24:44 +0530  
@@ -58,7 +68,7 @@
 
 ---
 
-### 7. [On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email](https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html)
+### 8. [On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email](https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 15 May 2026 11:49:04 +0530  
@@ -68,7 +78,7 @@
 
 ---
 
-### 8. [CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits](https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html)
+### 9. [CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits](https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 15 May 2026 10:58:03 +0530  
@@ -78,7 +88,7 @@
 
 ---
 
-### 9. [Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html)
+### 10. [Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 14 May 2026 23:15:20 +0530  
@@ -88,16 +98,16 @@
 
 ---
 
-### 10. [Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets](https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html)
+### 11. [Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing](https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 14 May 2026 22:52:43 +0530  
+**Source:** Bleeping Computer  
+**Published:** Sun, 17 May 2026 10:43:10 -0400  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** Phishing  
 
 ---
 
-### 11. [Microsoft rejects critical Azure vulnerability report, no CVE issued](https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/)
+### 12. [Microsoft rejects critical Azure vulnerability report, no CVE issued](https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 16 May 2026 16:55:44 -0400  
@@ -106,7 +116,7 @@
 
 ---
 
-### 12. [Russian hackers turn Kazuar backdoor into modular P2P botnet](https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/)
+### 13. [Russian hackers turn Kazuar backdoor into modular P2P botnet](https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 16 May 2026 10:15:37 -0400  
@@ -115,7 +125,7 @@
 
 ---
 
-### 13. [Funnel Builder WordPress plugin bug exploited to steal credit cards](https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/)
+### 14. [Funnel Builder WordPress plugin bug exploited to steal credit cards](https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 15:30:33 -0400  
@@ -124,7 +134,7 @@
 
 ---
 
-### 14. [Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own](https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/)
+### 15. [Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own](https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 13:47:25 -0400  
@@ -133,7 +143,7 @@
 
 ---
 
-### 15. [Popular node-ipc npm package compromised to steal credentials](https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/)
+### 16. [Popular node-ipc npm package compromised to steal credentials](https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 13:10:42 -0400  
@@ -142,17 +152,17 @@
 
 ---
 
-### 16. [Avada Builder WordPress plugin flaws allow site credential theft](https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/)
+### 17. [Avada Builder WordPress plugin flaws allow site credential theft](https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 11:56:56 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-4798, CVE-2026-4782  
+**CVEs:** CVE-2026-4782, CVE-2026-4798  
 **Categories:** Vulnerability, Phishing  
 
 ---
 
-### 17. [Microsoft backpedals: Edge to stop loading passwords into memory](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/)
+### 18. [Microsoft backpedals: Edge to stop loading passwords into memory](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 10:49:39 -0400  
@@ -161,7 +171,7 @@
 
 ---
 
-### 18. [Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution](https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/)
+### 19. [Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution](https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 10:02:12 -0400  
@@ -170,22 +180,12 @@
 
 ---
 
-### 19. [Microsoft to automatically roll back faulty Windows drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/)
+### 20. [Microsoft to automatically roll back faulty Windows drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 08:29:48 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [Microsoft warns of Exchange zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 15 May 2026 05:40:42 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-42897  
-**Categories:** Vulnerability  
 
 ---
 
@@ -341,7 +341,7 @@
 **Source:** Security Week  
 **Published:** Fri, 15 May 2026 07:25:15 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-8509, CVE-2026-8510  
+**CVEs:** CVE-2026-8510, CVE-2026-8509  
 **Categories:** Vulnerability  
 
 ---
@@ -351,7 +351,7 @@
 **Source:** Security Week  
 **Published:** Fri, 15 May 2026 06:28:46 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20122, CVE-2022-20775, CVE-2026-20182, CVE-2026-20128, CVE-2026-20133, CVE-2026-20127  
+**CVEs:** CVE-2022-20775, CVE-2026-20128, CVE-2026-20127, CVE-2026-20182, CVE-2026-20133, CVE-2026-20122  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -389,7 +389,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20122, CVE-2026-20182, CVE-2026-20128, CVE-2026-20133, CVE-2026-20127  
+**CVEs:** CVE-2026-20128, CVE-2026-20127, CVE-2026-20182, CVE-2026-20133, CVE-2026-20122  
 **Categories:** Vulnerability  
 
 ---
@@ -408,7 +408,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-35421, CVE-2026-33844, CVE-2026-32161, CVE-2026-33109, CVE-2026-40358  
+**CVEs:** CVE-2026-32161, CVE-2026-35421, CVE-2026-33109, CVE-2026-33844, CVE-2026-40358  
 **Categories:** Vulnerability  
 
 ---
@@ -637,7 +637,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

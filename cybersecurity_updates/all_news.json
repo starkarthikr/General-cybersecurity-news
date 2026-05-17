@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
+    "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+    "published": "Sun, 17 May 2026 17:27:53 +0530",
+    "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck.\nThe vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting NGINX versions 0.6.27 through 1.30.0. According to AI-native security company depthfirst, the",
+    "analysis": {
+      "issue": "CVE-2026-42945 is exploited after disclosure, impacting NGINX 0",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-42945"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
     "link": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
     "published": "Sun, 17 May 2026 12:43:33 +0530",
@@ -168,20 +188,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
-    "link": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html",
-    "published": "Thu, 14 May 2026 22:52:43 +0530",
-    "summary": "Cybersecurity researchers are sounding the alarm about what has been described as \"malicious activity\" in newly published versions of node-ipc.\nAccording to Socket and StepSecurity, three different versions of the npm package have been confirmed as malicious -\n\nnode-ipc@9.1.6\nnode-ipc@9.2.3\nnode-ipc@12.0.1\n\n\"Early analysis indicates that node-ipc@9.1.6, node-ipc@9.2.3, and node-ipc@12.0.1",
+    "source": "Bleeping Computer",
+    "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
+    "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
+    "published": "Sun, 17 May 2026 10:43:10 -0400",
+    "summary": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
     "analysis": {
-      "issue": "Three node-ipc versions contain stealer/backdoor code, exposing developer and cloud secrets to exfiltration",
+      "issue": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Phishing"
       ]
     }
   },
@@ -290,8 +310,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-4798",
-        "CVE-2026-4782"
+        "CVE-2026-4782",
+        "CVE-2026-4798"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -351,26 +371,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
-    "published": "Fri, 15 May 2026 05:40:42 -0400",
-    "summary": "On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outlook on the web users. [...]",
-    "analysis": {
-      "issue": "On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outlook on the web users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-42897"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -701,8 +701,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-8509",
-        "CVE-2026-8510"
+        "CVE-2026-8510",
+        "CVE-2026-8509"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -722,12 +722,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20122",
         "CVE-2022-20775",
-        "CVE-2026-20182",
         "CVE-2026-20128",
+        "CVE-2026-20127",
+        "CVE-2026-20182",
         "CVE-2026-20133",
-        "CVE-2026-20127"
+        "CVE-2026-20122"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -805,11 +805,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20122",
-        "CVE-2026-20182",
         "CVE-2026-20128",
+        "CVE-2026-20127",
+        "CVE-2026-20182",
         "CVE-2026-20133",
-        "CVE-2026-20127"
+        "CVE-2026-20122"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -848,10 +848,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-35421",
-        "CVE-2026-33844",
         "CVE-2026-32161",
+        "CVE-2026-35421",
         "CVE-2026-33109",
+        "CVE-2026-33844",
         "CVE-2026-40358"
       ],
       "threat_categories": [
@@ -1319,8 +1319,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
