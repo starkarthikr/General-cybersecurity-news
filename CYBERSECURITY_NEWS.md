@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-17 04:39:19 UTC
+**Last Updated:** 2026-05-17 10:08:29 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming](https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html)
+### 1. [Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt](https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html)
+
+**Source:** The Hacker News  
+**Published:** Sun, 17 May 2026 12:43:33 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming](https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 16 May 2026 20:50:48 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access](https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html)
+### 3. [Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access](https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 15 May 2026 22:40:25 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence](https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html)
+### 4. [Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence](https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 15 May 2026 19:05:04 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface](https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html)
+### 5. [What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface](https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 15 May 2026 16:30:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates](https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html)
+### 6. [TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates](https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 15 May 2026 16:24:44 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email](https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html)
+### 7. [On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email](https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 15 May 2026 11:49:04 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits](https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html)
+### 8. [CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits](https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 15 May 2026 10:58:03 +0530  
@@ -69,7 +78,7 @@
 
 ---
 
-### 8. [Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html)
+### 9. [Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 14 May 2026 23:15:20 +0530  
@@ -79,21 +88,12 @@
 
 ---
 
-### 9. [Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets](https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html)
+### 10. [Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets](https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 14 May 2026 22:52:43 +0530  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 10. [ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories](https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 14 May 2026 21:37:46 +0530  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability, Supply Chain  
 
 ---
 
@@ -147,7 +147,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 11:56:56 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-4782, CVE-2026-4798  
+**CVEs:** CVE-2026-4798, CVE-2026-4782  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -351,7 +351,7 @@
 **Source:** Security Week  
 **Published:** Fri, 15 May 2026 06:28:46 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20133, CVE-2026-20122, CVE-2026-20128, CVE-2022-20775, CVE-2026-20127, CVE-2026-20182  
+**CVEs:** CVE-2026-20128, CVE-2026-20133, CVE-2026-20182, CVE-2026-20127, CVE-2022-20775, CVE-2026-20122  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -389,7 +389,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20133, CVE-2026-20122, CVE-2026-20128, CVE-2026-20127, CVE-2026-20182  
+**CVEs:** CVE-2026-20128, CVE-2026-20133, CVE-2026-20182, CVE-2026-20127, CVE-2026-20122  
 **Categories:** Vulnerability  
 
 ---
@@ -408,7 +408,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-35421, CVE-2026-33109, CVE-2026-33844, CVE-2026-40358, CVE-2026-32161  
+**CVEs:** CVE-2026-40358, CVE-2026-32161, CVE-2026-35421, CVE-2026-33109, CVE-2026-33844  
 **Categories:** Vulnerability  
 
 ---
@@ -637,7 +637,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -702,7 +702,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 13 May 2026 11:00:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-35421, CVE-2026-40361  
+**CVEs:** CVE-2026-40361, CVE-2026-35421  
 **Categories:** Vulnerability, Malware  
 
 ---
