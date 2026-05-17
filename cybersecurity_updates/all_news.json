@@ -189,6 +189,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
+    "published": "Sat, 16 May 2026 16:55:44 -0400",
+    "summary": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE. Microsoft disputes the claim, telling BleepingComputer the behavior was expected and that \"no product changes were made,\" despite the researcher documenting a silent fix. [...]",
+    "analysis": {
+      "issue": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and blocking a CVE from being issued",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
     "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
     "published": "Sat, 16 May 2026 10:15:37 -0400",
@@ -274,8 +292,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-4782",
-        "CVE-2026-4798"
+        "CVE-2026-4798",
+        "CVE-2026-4782"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -355,24 +373,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
-    "link": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
-    "published": "Thu, 14 May 2026 18:50:36 -0400",
-    "summary": "The TeamPCP hacker group is threatening to leak source code from the Mistral AI project unless a buyer is found for the data. [...]",
-    "analysis": {
-      "issue": "The TeamPCP hacker group is threatening to leak source code from the Mistral AI project unless a buyer is found for the data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -466,8 +466,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-34621",
-        "CVE-2026-33825",
-        "CVE-2026-32201"
+        "CVE-2026-32201",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -703,8 +703,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-8509",
-        "CVE-2026-8510"
+        "CVE-2026-8510",
+        "CVE-2026-8509"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -724,12 +724,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2022-20775",
         "CVE-2026-20128",
-        "CVE-2026-20182",
         "CVE-2026-20122",
-        "CVE-2026-20133",
         "CVE-2026-20127",
-        "CVE-2022-20775"
+        "CVE-2026-20133",
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -808,10 +808,10 @@
       "severity": "High",
       "cves": [
         "CVE-2026-20128",
-        "CVE-2026-20182",
         "CVE-2026-20122",
+        "CVE-2026-20127",
         "CVE-2026-20133",
-        "CVE-2026-20127"
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -850,11 +850,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33109",
+        "CVE-2026-35421",
         "CVE-2026-33844",
+        "CVE-2026-33109",
         "CVE-2026-32161",
-        "CVE-2026-40358",
-        "CVE-2026-35421"
+        "CVE-2026-40358"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1321,8 +1321,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1453,8 +1453,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-40361",
-        "CVE-2026-35421"
+        "CVE-2026-35421",
+        "CVE-2026-40361"
       ],
       "threat_categories": [
         "Vulnerability",

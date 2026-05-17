@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-16 17:30:28 UTC
+**Last Updated:** 2026-05-17 03:59:15 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -97,7 +97,16 @@
 
 ---
 
-### 11. [Russian hackers turn Kazuar backdoor into modular P2P botnet](https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/)
+### 11. [Microsoft rejects critical Azure vulnerability report, no CVE issued](https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 16 May 2026 16:55:44 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Russian hackers turn Kazuar backdoor into modular P2P botnet](https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 16 May 2026 10:15:37 -0400  
@@ -106,7 +115,7 @@
 
 ---
 
-### 12. [Funnel Builder WordPress plugin bug exploited to steal credit cards](https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/)
+### 13. [Funnel Builder WordPress plugin bug exploited to steal credit cards](https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 15:30:33 -0400  
@@ -115,7 +124,7 @@
 
 ---
 
-### 13. [Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own](https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/)
+### 14. [Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own](https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 13:47:25 -0400  
@@ -124,7 +133,7 @@
 
 ---
 
-### 14. [Popular node-ipc npm package compromised to steal credentials](https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/)
+### 15. [Popular node-ipc npm package compromised to steal credentials](https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 13:10:42 -0400  
@@ -133,17 +142,17 @@
 
 ---
 
-### 15. [Avada Builder WordPress plugin flaws allow site credential theft](https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/)
+### 16. [Avada Builder WordPress plugin flaws allow site credential theft](https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 11:56:56 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-4782, CVE-2026-4798  
+**CVEs:** CVE-2026-4798, CVE-2026-4782  
 **Categories:** Vulnerability, Phishing  
 
 ---
 
-### 16. [Microsoft backpedals: Edge to stop loading passwords into memory](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/)
+### 17. [Microsoft backpedals: Edge to stop loading passwords into memory](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 10:49:39 -0400  
@@ -152,7 +161,7 @@
 
 ---
 
-### 17. [Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution](https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/)
+### 18. [Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution](https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 10:02:12 -0400  
@@ -161,7 +170,7 @@
 
 ---
 
-### 18. [Microsoft to automatically roll back faulty Windows drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/)
+### 19. [Microsoft to automatically roll back faulty Windows drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 08:29:48 -0400  
@@ -170,22 +179,13 @@
 
 ---
 
-### 19. [Microsoft warns of Exchange zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/)
+### 20. [Microsoft warns of Exchange zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 05:40:42 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-42897  
 **Categories:** Vulnerability  
-
----
-
-### 20. [TeamPCP hackers advertise Mistral AI code repos for sale](https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 14 May 2026 18:50:36 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -230,7 +230,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
+**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -341,7 +341,7 @@
 **Source:** Security Week  
 **Published:** Fri, 15 May 2026 07:25:15 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-8509, CVE-2026-8510  
+**CVEs:** CVE-2026-8510, CVE-2026-8509  
 **Categories:** Vulnerability  
 
 ---
@@ -351,7 +351,7 @@
 **Source:** Security Week  
 **Published:** Fri, 15 May 2026 06:28:46 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20128, CVE-2026-20182, CVE-2026-20122, CVE-2026-20133, CVE-2026-20127, CVE-2022-20775  
+**CVEs:** CVE-2022-20775, CVE-2026-20128, CVE-2026-20122, CVE-2026-20127, CVE-2026-20133, CVE-2026-20182  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -389,7 +389,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20128, CVE-2026-20182, CVE-2026-20122, CVE-2026-20133, CVE-2026-20127  
+**CVEs:** CVE-2026-20128, CVE-2026-20122, CVE-2026-20127, CVE-2026-20133, CVE-2026-20182  
 **Categories:** Vulnerability  
 
 ---
@@ -408,7 +408,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33109, CVE-2026-33844, CVE-2026-32161, CVE-2026-40358, CVE-2026-35421  
+**CVEs:** CVE-2026-35421, CVE-2026-33844, CVE-2026-33109, CVE-2026-32161, CVE-2026-40358  
 **Categories:** Vulnerability  
 
 ---
@@ -637,7 +637,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -702,7 +702,7 @@
 **Source:** Malwarebytes  
 **Published:** Wed, 13 May 2026 11:00:45 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-40361, CVE-2026-35421  
+**CVEs:** CVE-2026-35421, CVE-2026-40361  
 **Categories:** Vulnerability, Malware  
 
 ---
