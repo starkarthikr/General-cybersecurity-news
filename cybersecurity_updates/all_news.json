@@ -1,6 +1,43 @@
 [
   {
     "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
+    "link": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
+    "published": "Mon, 18 May 2026 19:20:17 +0530",
+    "summary": "Monday opens with a trust problem. A mail server flaw is under active use. A network control system was targeted. Trusted packages were poisoned. A fake model page pushed a stealer. Then came the familiar ransom claim: the data was returned and deleted.\nThe pattern is clear. One weak dependency can leak keys. One leaked key can open cloud access. One cloud foothold can become a production",
+    "analysis": {
+      "issue": "This week’s top cyber threats, attacks, breaches, malware, and urgent security updates",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
+    "link": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html",
+    "published": "Mon, 18 May 2026 18:30:00 +0530",
+    "summary": "What happens when a phishing email looks clean enough to pass through security, but dangerous enough to expose the business after one click? That is the gap many SOCs still struggle with: the attacks that leave teams unsure what was exposed, who else was targeted, and how far the risk has spread.\nEarly phishing detection closes that gap. It helps teams move from uncertainty to evidence faster,",
+    "analysis": {
+      "issue": "Phishing links exposed in 40 seconds across U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Developer Workstations Are Now Part of the Software Supply Chain",
     "link": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
     "published": "Mon, 18 May 2026 16:53:41 +0530",
@@ -147,38 +184,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
-    "link": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
-    "published": "Fri, 15 May 2026 22:40:25 +0530",
-    "summary": "The Russian state-sponsored hacking group known as\n  \n    Turla\n  \n  has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to compromised hosts.\n\n\n\n  Turla, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA), is assessed to be affiliated with Center 16 of Russia's Federal Security Service (FSB)",
+    "source": "Bleeping Computer",
+    "title": "Grafana says stolen GitHub token let hackers steal codebase",
+    "link": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/",
+    "published": "Mon, 18 May 2026 09:46:26 -0400",
+    "summary": "Grafana Labs disclosed that hackers have downloaded its source code after breaching its GitHub environment using a stolen access token. [...]",
     "analysis": {
-      "issue": "Turla turns Kazuar into a 3-module P2P botnet, enabling stealthy C2, resilient tasking, and persistent access",
+      "issue": "Grafana Labs disclosed that hackers have downloaded its source code after breaching its GitHub environment using a stolen access token",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
-    "link": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
-    "published": "Fri, 15 May 2026 19:05:04 +0530",
-    "summary": "Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence.\n\n\n  The vulnerabilities, collectively dubbed\n  \n    Claw Chain\n  \n  by Cyera, can permit an attacker to establish a foothold, expose sensitive data, and plant backdoors. A brief description of the flaws is below -",
-    "analysis": {
-      "issue": "Claw Chain flaws in OpenClaw 2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Ransomware",
+        "Data Breach"
       ]
     }
   },
@@ -349,25 +369,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
-    "link": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
-    "published": "Fri, 15 May 2026 13:47:25 -0400",
-    "summary": "​During the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in multiple products, including Windows 11, Microsoft Exchange, and Red Hat Enterprise Linux for Workstations. [...]",
-    "analysis": {
-      "issue": "​During the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in multiple products, including Windows 11, Microsoft Exchange, and Red Hat Enterprise Linux for Workstat",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "DDoS"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, May 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
@@ -456,9 +457,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-33825",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -559,6 +560,51 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Millions Impacted Across Several US Healthcare Data Breaches",
+    "link": "https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/",
+    "published": "Mon, 18 May 2026 12:58:44 +0000",
+    "summary": "<p>Several healthcare data breaches impacting hundreds of thousands and even millions were added to the HHS tracker.</p>\n<p>The post <a href=\"https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/\">Millions Impacted Across Several US Healthcare Data Breaches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Several healthcare data breaches impacting hundreds of thousands and even millions were added to the HHS tracker",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "‘Claw Chain’ OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery",
+    "link": "https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/",
+    "published": "Mon, 18 May 2026 12:14:43 +0000",
+    "summary": "<p>Four vulnerabilities in OpenClaw can be chained together to steal credentials, escape the sandbox, and plant persistent backdoors.</p>\n<p>The post <a href=\"https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/\">&#8216;Claw Chain&#8217; OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Four vulnerabilities in OpenClaw can be chained together to steal credentials, escape the sandbox, and plant persistent backdoors",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-44118",
+        "CVE-2026-44115",
+        "CVE-2026-44112",
+        "CVE-2026-44113"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
       ]
     }
   },
@@ -725,45 +771,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild",
-    "link": "https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/",
-    "published": "Fri, 15 May 2026 12:06:53 +0000",
-    "summary": "<p>Microsoft has shared mitigations for CVE-2026-42897 until a permanent patch can be released for affected Exchange Server versions.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/\">Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Microsoft has shared mitigations for CVE-2026-42897 until a permanent patch can be released for affected Exchange Server versions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-42897"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "American Lending Center Data Breach Affects 123,000 Individuals",
-    "link": "https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/",
-    "published": "Fri, 15 May 2026 11:06:55 +0000",
-    "summary": "<p>The non-bank lender discovered a ransomware attack nearly one year ago, but only recently completed its investigation.</p>\n<p>The post <a href=\"https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/\">American Lending Center Data Breach Affects 123,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The non-bank lender discovered a ransomware attack nearly one year ago, but only recently completed its investigation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "The time of much patching is coming",
     "link": "https://blog.talosintelligence.com/the-time-of-much-patching-is-coming/",
@@ -795,11 +802,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20127",
         "CVE-2026-20133",
-        "CVE-2026-20182",
+        "CVE-2026-20127",
+        "CVE-2026-20122",
         "CVE-2026-20128",
-        "CVE-2026-20122"
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -838,9 +845,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33844",
         "CVE-2026-35421",
         "CVE-2026-32161",
+        "CVE-2026-33844",
         "CVE-2026-33109",
         "CVE-2026-40358"
       ],
@@ -1309,8 +1316,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

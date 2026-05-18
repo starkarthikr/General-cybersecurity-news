@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-18 11:59:08 UTC
+**Last Updated:** 2026-05-18 15:45:41 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Developer Workstations Are Now Part of the Software Supply Chain](https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html)
+### 1. [⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More](https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 18 May 2026 19:20:17 +0530  
+**Severity:** High  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 2. [How to Reduce Phishing Exposure Before It Turns into Business Disruption](https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 18 May 2026 18:30:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 3. [Developer Workstations Are Now Part of the Software Supply Chain](https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 18 May 2026 16:53:41 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws](https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html)
+### 4. [Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws](https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 18 May 2026 16:24:05 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems](https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html)
+### 5. [MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems](https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 18 May 2026 14:27:34 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware](https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html)
+### 6. [Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware](https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 18 May 2026 14:27:26 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations](https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html)
+### 7. [Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations](https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 18 May 2026 12:16:37 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE](https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html)
+### 8. [NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE](https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 17 May 2026 17:27:53 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt](https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html)
+### 9. [Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt](https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 17 May 2026 12:43:33 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming](https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html)
+### 10. [Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming](https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 16 May 2026 20:50:48 +0530  
@@ -77,25 +95,16 @@
 
 ---
 
-### 9. [Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access](https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html)
+### 11. [Grafana says stolen GitHub token let hackers steal codebase](https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 15 May 2026 22:40:25 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 18 May 2026 09:46:26 -0400  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** Ransomware, Data Breach  
 
 ---
 
-### 10. [Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence](https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 15 May 2026 19:05:04 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Microsoft testing adjustable taskbar, Start menu in Windows 11](https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/)
+### 12. [Microsoft testing adjustable taskbar, Start menu in Windows 11](https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 18 May 2026 07:14:28 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Microsoft confirms Windows 11 security update install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/)
+### 13. [Microsoft confirms Windows 11 security update install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 18 May 2026 04:33:14 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Exploit available for new DirtyDecrypt Linux root escalation flaw](https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/)
+### 14. [Exploit available for new DirtyDecrypt Linux root escalation flaw](https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 18 May 2026 03:18:33 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026](https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/)
+### 15. [Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026](https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 18 May 2026 01:33:20 -0400  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released](https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/)
+### 16. [New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released](https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 17 May 2026 18:30:08 -0400  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing](https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/)
+### 17. [Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing](https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 17 May 2026 10:43:10 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [Microsoft rejects critical Azure vulnerability report, no CVE issued](https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/)
+### 18. [Microsoft rejects critical Azure vulnerability report, no CVE issued](https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 16 May 2026 16:55:44 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [Russian hackers turn Kazuar backdoor into modular P2P botnet](https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/)
+### 19. [Russian hackers turn Kazuar backdoor into modular P2P botnet](https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 16 May 2026 10:15:37 -0400  
@@ -169,21 +178,12 @@
 
 ---
 
-### 19. [Funnel Builder WordPress plugin bug exploited to steal credit cards](https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/)
+### 20. [Funnel Builder WordPress plugin bug exploited to steal credit cards](https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 15 May 2026 15:30:33 -0400  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 20. [Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own](https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 15 May 2026 13:47:25 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability, DDoS  
 
 ---
 
@@ -228,7 +228,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
+**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -278,7 +278,26 @@
 
 ---
 
-### 31. [7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand](https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/)
+### 31. [Millions Impacted Across Several US Healthcare Data Breaches](https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/)
+
+**Source:** Security Week  
+**Published:** Mon, 18 May 2026 12:58:44 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Data Breach, Supply Chain  
+
+---
+
+### 32. [‘Claw Chain’ OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery](https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/)
+
+**Source:** Security Week  
+**Published:** Mon, 18 May 2026 12:14:43 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-44118, CVE-2026-44115, CVE-2026-44112, CVE-2026-44113  
+**Categories:** Vulnerability, Malware, Supply Chain  
+
+---
+
+### 33. [7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand](https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/)
 
 **Source:** Security Week  
 **Published:** Mon, 18 May 2026 11:25:54 +0000  
@@ -287,7 +306,7 @@
 
 ---
 
-### 32. [Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE](https://www.securityweek.com/researcher-drops-miniplasma-windows-exploit-for-unpatched-2020-cve/)
+### 34. [Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE](https://www.securityweek.com/researcher-drops-miniplasma-windows-exploit-for-unpatched-2020-cve/)
 
 **Source:** Security Week  
 **Published:** Mon, 18 May 2026 10:38:22 +0000  
@@ -297,7 +316,7 @@
 
 ---
 
-### 33. [First Shai-Hulud Worm Clones Emerge](https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/)
+### 35. [First Shai-Hulud Worm Clones Emerge](https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/)
 
 **Source:** Security Week  
 **Published:** Mon, 18 May 2026 09:45:15 +0000  
@@ -306,7 +325,7 @@
 
 ---
 
-### 34. [Grafana Confirms Breach After Hackers Claim They Stole Data](https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/)
+### 36. [Grafana Confirms Breach After Hackers Claim They Stole Data](https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/)
 
 **Source:** Security Week  
 **Published:** Mon, 18 May 2026 08:34:59 +0000  
@@ -315,7 +334,7 @@
 
 ---
 
-### 35. [Exploitation of Critical NGINX Vulnerability Begins](https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/)
+### 37. [Exploitation of Critical NGINX Vulnerability Begins](https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/)
 
 **Source:** Security Week  
 **Published:** Mon, 18 May 2026 07:27:42 +0000  
@@ -325,7 +344,7 @@
 
 ---
 
-### 36. [Hackers Earn $1.3 Million at Pwn2Own Berlin 2026](https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/)
+### 38. [Hackers Earn $1.3 Million at Pwn2Own Berlin 2026](https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/)
 
 **Source:** Security Week  
 **Published:** Mon, 18 May 2026 04:05:21 +0000  
@@ -334,7 +353,7 @@
 
 ---
 
-### 37. [PoC Code Published for Critical NGINX Vulnerability](https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/)
+### 39. [PoC Code Published for Critical NGINX Vulnerability](https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Sat, 16 May 2026 10:02:00 +0000  
@@ -344,31 +363,12 @@
 
 ---
 
-### 38. [In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws](https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/)
+### 40. [In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws](https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/)
 
 **Source:** Security Week  
 **Published:** Fri, 15 May 2026 14:52:16 +0000  
 **Severity:** Critical  
 **Categories:** Data Breach, Vulnerability, Malware, Phishing, APT  
-
----
-
-### 39. [Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild](https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/)
-
-**Source:** Security Week  
-**Published:** Fri, 15 May 2026 12:06:53 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-42897  
-**Categories:** Vulnerability  
-
----
-
-### 40. [American Lending Center Data Breach Affects 123,000 Individuals](https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/)
-
-**Source:** Security Week  
-**Published:** Fri, 15 May 2026 11:06:55 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
 
 ---
 
@@ -386,7 +386,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20127, CVE-2026-20133, CVE-2026-20182, CVE-2026-20128, CVE-2026-20122  
+**CVEs:** CVE-2026-20133, CVE-2026-20127, CVE-2026-20122, CVE-2026-20128, CVE-2026-20182  
 **Categories:** Vulnerability  
 
 ---
@@ -405,7 +405,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33844, CVE-2026-35421, CVE-2026-32161, CVE-2026-33109, CVE-2026-40358  
+**CVEs:** CVE-2026-35421, CVE-2026-32161, CVE-2026-33844, CVE-2026-33109, CVE-2026-40358  
 **Categories:** Vulnerability  
 
 ---
@@ -634,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
