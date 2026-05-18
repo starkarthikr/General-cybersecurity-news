@@ -1,6 +1,97 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Developer Workstations Are Now Part of the Software Supply Chain",
+    "link": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
+    "published": "Mon, 18 May 2026 16:53:41 +0530",
+    "summary": "Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, and Docker Hub in a 48-hour window, and all three targeted secrets from developer environments and CI/CD pipelines, including API keys, cloud credentials, SSH keys, and tokens. This is",
+    "analysis": {
+      "issue": "3 campaigns hit npm, PyPI, and Docker Hub in 48 hours, exposing secrets from developer and CI/CD environments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
+    "link": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
+    "published": "Mon, 18 May 2026 16:24:05 +0530",
+    "summary": "Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code.\nTopping the list is a critical flaw impacting Ivanti Xtraction (CVE-2026-8043, CVSS score: 9.6) that could be exploited to achieve information disclosure or client-side attacks.\n\"External control of a file name",
+    "analysis": {
+      "issue": "Ivanti, Fortinet, SAP, VMware, and n8n fix 11 flaws, including 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+    "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+    "published": "Mon, 18 May 2026 14:27:34 +0530",
+    "summary": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems.\nCodenamed MiniPlasma, the vulnerability impacts \"cldflt.sys,\" which refers to the Windows Cloud Files Mini Filter Driver,",
+    "analysis": {
+      "issue": "MiniPlasma revives a 2020 Windows cldflt",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+    "link": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
+    "published": "Mon, 18 May 2026 14:27:26 +0530",
+    "summary": "Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP.\nThe list of identified packages is below -\n\nchalk-tempalte (825 Downloads)\n@deadcode09284814/axios-util (284 Downloads)\naxois-utils (963 Downloads)\ncolor-style-utils (934 Downloads)\n\n\"One of the packages (chalk-tempalte)",
+    "analysis": {
+      "issue": "4 malicious npm packages with 3,006 downloads spread stealers and Phantom Bot, forcing removals and secret rotation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
+    "link": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
+    "published": "Mon, 18 May 2026 12:16:37 +0530",
+    "summary": "A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations.\nAccording to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet tool was engineered to corrupt uranium-compression simulations that are central to nuclear weapon design.\n\"Fast16's hook engine is selectively interested in",
+    "analysis": {
+      "issue": "Fast16 corrupted nuclear simulations via 101 hook rules, targeting LS-DYNA and AUTODYN to sabotage weapons research",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
     "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
     "published": "Sun, 17 May 2026 17:27:53 +0530",
@@ -92,13 +183,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
-    "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
-    "published": "Fri, 15 May 2026 16:30:00 +0530",
-    "summary": "In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh, Certutil, MSBuild — the same trusted utilities your IT team uses every day are also the preferred toolkit of modern threat actors. Bitdefender's analysis",
+    "source": "Bleeping Computer",
+    "title": "Microsoft testing adjustable taskbar, Start menu in Windows 11",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/",
+    "published": "Mon, 18 May 2026 07:14:28 -0400",
+    "summary": "Microsoft has finally brought back the resizable taskbar and Start menu to Windows 11 in the latest preview version rolling out to Insiders in the Experimental channel. [...]",
     "analysis": {
-      "issue": "Trusted-tool abuse hit 84% of 700,000 incidents, driving 45-day assessments that reduce attack surface by 30%+",
+      "issue": "Microsoft has finally brought back the resizable taskbar and Start menu to Windows 11 in the latest preview version rolling out to Insiders in the Experimental channel",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -110,37 +201,37 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
-    "link": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
-    "published": "Fri, 15 May 2026 16:24:44 +0530",
-    "summary": "OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual property were compromised or modified in an unauthorized manner.\n\"Upon identification of the malicious activity, we worked quickly to investigate, contain, and take steps to",
+    "source": "Bleeping Computer",
+    "title": "Microsoft confirms Windows 11 security update install issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
+    "published": "Mon, 18 May 2026 04:33:14 -0400",
+    "summary": "Microsoft has confirmed that the May 2026 Windows 11 security update (KB5089549) fails to install on some systems and triggers 0x800f0922 errors. [...]",
     "analysis": {
-      "issue": "Mini Shai-Hulud hit 2 OpenAI devices via TanStack, exposing limited credentials and forcing macOS certificate updates by June 12, 2026",
+      "issue": "Microsoft has confirmed that the May 2026 Windows 11 security update (KB5089549) fails to install on some systems and triggers 0x800f0922 errors",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Supply Chain"
+        "General Security"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
-    "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
-    "published": "Fri, 15 May 2026 11:49:04 +0530",
-    "summary": "Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been described as a spoofing bug stemming from a cross-site scripting flaw. An anonymous researcher has been credited with discovering and reporting the issue.\n\"",
+    "source": "Bleeping Computer",
+    "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
+    "published": "Mon, 18 May 2026 03:18:33 -0400",
+    "summary": "A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers to gain root access on some Linux systems. [...]",
     "analysis": {
-      "issue": "CVE-2026-42897 is exploited in on-prem Exchange; crafted emails enable spoofing, forcing urgent mitigation",
+      "issue": "A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers to gain root access on some Linux systems",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Low",
       "cves": [
-        "CVE-2026-42897"
+        "CVE-2026-31635"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -148,40 +239,18 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
-    "link": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
-    "published": "Fri, 15 May 2026 10:58:03 +0530",
-    "summary": "The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to remediate the issue by May 17, 2026.\nThe vulnerability is a critical authentication bypass tracked as CVE-2026-20182. It's",
+    "source": "Bleeping Computer",
+    "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
+    "published": "Mon, 18 May 2026 01:33:20 -0400",
+    "summary": "The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws. [...]",
     "analysis": {
-      "issue": "CISA added CVE-2026-20182, a CVSS 10",
+      "issue": "The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-20182"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
-    "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
-    "published": "Thu, 14 May 2026 23:15:20 +0530",
-    "summary": "Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks.\nThe vulnerability, tracked as CVE-2026-20182, carries a CVSS score of 10.0.\n\"A vulnerability in the peering authentication in Cisco Catalyst SD-WAN Controller, formerly SD-WAN vSmart, and Cisco Catalyst SD-WAN Manager, formerly",
-    "analysis": {
-      "issue": "CVE-2026-20182 bypasses Cisco SD-WAN auth via DTLS port 12346, enabling admin access after May 2026 exploitation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-20182"
-      ],
+      "severity": "Critical",
+      "cves": [],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -299,84 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Popular node-ipc npm package compromised to steal credentials",
-    "link": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
-    "published": "Fri, 15 May 2026 13:10:42 -0400",
-    "summary": "Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new supply chain attack targeting npm. [...]",
-    "analysis": {
-      "issue": "Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new supply chain attack targeting npm",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Avada Builder WordPress plugin flaws allow site credential theft",
-    "link": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
-    "published": "Fri, 15 May 2026 11:56:56 -0400",
-    "summary": "Two vulnerabilities in the Avada Builder plugin for WordPress, with an estimated one million active installations, allow hackers to read arbitrary files and extract sensitive information from the database. [...]",
-    "analysis": {
-      "issue": "Two vulnerabilities in the Avada Builder plugin for WordPress, with an estimated one million active installations, allow hackers to read arbitrary files and extract sensitive information from the database",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-4798",
-        "CVE-2026-4782"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft backpedals: Edge to stop loading passwords into memory",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
-    "published": "Fri, 15 May 2026 10:49:39 -0400",
-    "summary": "Microsoft is updating the Edge web browser to ensure it no longer loads saved passwords into process memory in clear text at startup after previously stating it was \"by design.\" [...]",
-    "analysis": {
-      "issue": "Microsoft is updating the Edge web browser to ensure it no longer loads saved passwords into process memory in clear text at startup after previously stating it was \"by design",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution",
-    "link": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
-    "published": "Fri, 15 May 2026 10:02:12 -0400",
-    "summary": "Stolen browser sessions and authentication tokens are becoming more valuable than stolen passwords. Flare explains how the REMUS infostealer evolved around session theft and operational scalability. [...]",
-    "analysis": {
-      "issue": "In recent months, a new infostealer malware known as REMUS has emerged across the cybercrime landscape, drawing attention from security researchers and malware analysts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, May 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
@@ -465,8 +456,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
         "CVE-2026-32201",
+        "CVE-2026-33825",
         "CVE-2026-34621"
       ],
       "threat_categories": [
@@ -573,6 +564,108 @@
   },
   {
     "source": "Security Week",
+    "title": "7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand",
+    "link": "https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/",
+    "published": "Mon, 18 May 2026 11:25:54 +0000",
+    "summary": "<p>The hackers claimed to have stolen more than 600,000 Salesforce records, including personal information and corporate data. </p>\n<p>The post <a href=\"https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/\">7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The hackers claimed to have stolen more than 600,000 Salesforce records, including personal information and corporate data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE",
+    "link": "https://www.securityweek.com/researcher-drops-miniplasma-windows-exploit-for-unpatched-2020-cve/",
+    "published": "Mon, 18 May 2026 10:38:22 +0000",
+    "summary": "<p>The researcher dropped the MiniPlasma exploit that uses the original proof-of-concept (PoC) code targeting the bug.</p>\n<p>The post <a href=\"https://www.securityweek.com/researcher-drops-miniplasma-windows-exploit-for-unpatched-2020-cve/\">Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The researcher dropped the MiniPlasma exploit that uses the original proof-of-concept (PoC) code targeting the bug",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2020-17103"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "First Shai-Hulud Worm Clones Emerge",
+    "link": "https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/",
+    "published": "Mon, 18 May 2026 09:45:15 +0000",
+    "summary": "<p>At least one threat actor has adopted the recently released malware source code in attacks against NPM developers.</p>\n<p>The post <a href=\"https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/\">First Shai-Hulud Worm Clones Emerge</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "At least one threat actor has adopted the recently released malware source code in attacks against NPM developers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT",
+        "DDoS",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Grafana Confirms Breach After Hackers Claim They Stole Data",
+    "link": "https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/",
+    "published": "Mon, 18 May 2026 08:34:59 +0000",
+    "summary": "<p>Grafana appears to have been targeted by Coinbase Cartel, a cybercrime group linked to ShinyHunters, Scattered Spider, and Lapsus$.</p>\n<p>The post <a href=\"https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/\">Grafana Confirms Breach After Hackers Claim They Stole Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Grafana appears to have been targeted by Coinbase Cartel, a cybercrime group linked to ShinyHunters, Scattered Spider, and Lapsus$",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Exploitation of Critical NGINX Vulnerability Begins",
+    "link": "https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/",
+    "published": "Mon, 18 May 2026 07:27:42 +0000",
+    "summary": "<p>The flaw leads to denial-of-service on default configurations and to remote code execution if ASLR is disabled.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/\">Exploitation of Critical NGINX Vulnerability Begins</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The flaw leads to denial-of-service on default configurations and to remote code execution if ASLR is disabled",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-42945"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Hackers Earn $1.3 Million at Pwn2Own Berlin 2026",
     "link": "https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/",
     "published": "Mon, 18 May 2026 04:05:21 +0000",
@@ -671,109 +764,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "OpenAI Hit by TanStack Supply Chain Attack",
-    "link": "https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/",
-    "published": "Fri, 15 May 2026 10:37:00 +0000",
-    "summary": "<p>Two employee devices were compromised in the attack, and credential material was stolen from OpenAI code repositories.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/\">OpenAI Hit by TanStack Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Two employee devices were compromised in the attack, and credential material was stolen from OpenAI code repositories",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code",
-    "link": "https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/",
-    "published": "Fri, 15 May 2026 09:47:09 +0000",
-    "summary": "<p>The hacking group is encouraging miscreants to use the code in supply chain attacks, promising monetary rewards.</p>\n<p>The post <a href=\"https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/\">TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The hacking group is encouraging miscreants to use the code in supply chain attacks, promising monetary rewards",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chrome 148 Update Patches Critical Vulnerabilities",
-    "link": "https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/",
-    "published": "Fri, 15 May 2026 07:25:15 +0000",
-    "summary": "<p>The refresh resolves critical-severity use-after-free and other types of bugs in various browser components.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/\">Chrome 148 Update Patches Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The refresh resolves critical-severity use-after-free and other types of bugs in various browser components",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-8509",
-        "CVE-2026-8510"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026",
-    "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/",
-    "published": "Fri, 15 May 2026 06:28:46 +0000",
-    "summary": "<p>The zero-day, tracked as CVE-2026-20182, has been exploited in targeted attacks by a sophisticated threat actor identified as UAT-8616.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/\">Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The zero-day, tracked as CVE-2026-20182, has been exploited in targeted attacks by a sophisticated threat actor identified as UAT-8616",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20133",
-        "CVE-2022-20775",
-        "CVE-2026-20127",
-        "CVE-2026-20128",
-        "CVE-2026-20182",
-        "CVE-2026-20122"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Enhancing Data Center Security Without Sacrificing Performance",
-    "link": "https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/",
-    "published": "Thu, 14 May 2026 14:00:00 +0000",
-    "summary": "<p>For AI data centers, where the stakes are the highest and performance constraints are the tightest, security and performance are no longer a zero-sum game.</p>\n<p>The post <a href=\"https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/\">Enhancing Data Center Security Without Sacrificing Performance</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "For AI data centers, where the stakes are the highest and performance constraints are the tightest, security and performance are no longer a zero-sum game",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "The time of much patching is coming",
     "link": "https://blog.talosintelligence.com/the-time-of-much-patching-is-coming/",
@@ -805,10 +795,10 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20133",
         "CVE-2026-20127",
-        "CVE-2026-20128",
+        "CVE-2026-20133",
         "CVE-2026-20182",
+        "CVE-2026-20128",
         "CVE-2026-20122"
       ],
       "threat_categories": [
@@ -848,11 +838,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-35421",
         "CVE-2026-33844",
+        "CVE-2026-35421",
         "CVE-2026-32161",
-        "CVE-2026-40358",
-        "CVE-2026-33109"
+        "CVE-2026-33109",
+        "CVE-2026-40358"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1350,6 +1340,42 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Microsoft is changing Edge’s plaintext password behavior",
+    "link": "https://www.malwarebytes.com/blog/news/2026/05/microsoft-is-changing-edges-plaintext-password-behavior",
+    "published": "Mon, 18 May 2026 10:42:16 GMT",
+    "summary": "Saved passwords in Microsoft Edge will no longer sit in plaintext memory for the entire browser session after a researcher raised concerns.",
+    "analysis": {
+      "issue": "Microsoft said it will change Edge’s password handling as a “defense‑in‑depth” measure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "A week in security (May 11 &#8211; May 17)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-may-11-may-17-2",
+    "published": "Mon, 18 May 2026 07:02:00 GMT",
+    "summary": "A list of topics we covered in the week of May 11 to May 17 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "AI is distorting the Holocaust (Lock and Code S07E10)",
     "link": "https://www.malwarebytes.com/blog/podcast/2026/05/ai-is-distorting-the-holocaust-lock-and-code-s07e10",
     "published": "Mon, 18 May 2026 01:51:37 GMT",
@@ -1493,43 +1519,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "1 in 8 employees have sold company logins or know someone who has",
-    "link": "https://www.malwarebytes.com/blog/news/2026/05/1-in-8-employees-have-sold-company-logins-or-know-someone-who-has",
-    "published": "Tue, 12 May 2026 09:21:39 GMT",
-    "summary": "Cifas just published research that should bother anyone who runs a business, or buys from one.",
-    "analysis": {
-      "issue": "UK anti-fraud non-profit Cifas just published research that should bother anyone who runs a business, or buys from one: One in eight workers at large enterprises have either sold their company login credentials or know someone who did",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Stolen Canvas data was “returned” after hacker agreement, Instructure says",
-    "link": "https://www.malwarebytes.com/blog/news/2026/05/stolen-canvas-data-was-returned-after-hacker-agreement-instructure-says",
-    "published": "Tue, 12 May 2026 08:41:07 GMT",
-    "summary": "Instructure says the stolen Canvas data impacting millions of students and staff was “returned.” That’s not how breaches work.",
-    "analysis": {
-      "issue": "The Instructure/Canvas data breach that has dominated cybersecurity coverage recently has reached a new stage",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
       ]
     }
   },
