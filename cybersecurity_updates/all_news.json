@@ -189,6 +189,26 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
+    "published": "Sun, 17 May 2026 18:30:08 -0400",
+    "summary": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows systems.  [...]",
+    "analysis": {
+      "issue": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2020-17103"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
     "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
     "published": "Sun, 17 May 2026 10:43:10 -0400",
@@ -357,24 +377,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft to automatically roll back faulty Windows drivers",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/",
-    "published": "Fri, 15 May 2026 08:29:48 -0400",
-    "summary": "Microsoft is introducing a new capability that will allow it to remotely roll back problematic Windows drivers delivered through Windows Update. [...]",
-    "analysis": {
-      "issue": "Microsoft is introducing a new capability that will allow it to remotely roll back problematic Windows drivers delivered through Windows Update",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, May 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
@@ -464,8 +466,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-32201",
-        "CVE-2026-33825",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -566,6 +568,24 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Hackers Earn $1.3 Million at Pwn2Own Berlin 2026",
+    "link": "https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/",
+    "published": "Mon, 18 May 2026 04:05:21 +0000",
+    "summary": "<p>Participants demonstrated exploits for Windows, Linux, VMware, Nvidia, and AI products.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/\">Hackers Earn $1.3 Million at Pwn2Own Berlin 2026 </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Participants demonstrated exploits for Windows, Linux, VMware, Nvidia, and AI products",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -722,12 +742,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20127",
+        "CVE-2026-20122",
+        "CVE-2026-20182",
         "CVE-2022-20775",
         "CVE-2026-20128",
-        "CVE-2026-20127",
-        "CVE-2026-20182",
-        "CVE-2026-20133",
-        "CVE-2026-20122"
+        "CVE-2026-20133"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -748,26 +768,6 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation",
-    "link": "https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/",
-    "published": "Thu, 14 May 2026 13:44:46 +0000",
-    "summary": "<p>The vulnerability, tracked as CVE-2026-46300, is similar to the recently disclosed exploits named Dirty Frag and Copy Fail.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/\">New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The vulnerability, tracked as CVE-2026-46300, is similar to the recently disclosed exploits named Dirty Frag and Copy Fail",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-46300"
-      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -805,11 +805,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20128",
         "CVE-2026-20127",
+        "CVE-2026-20122",
         "CVE-2026-20182",
-        "CVE-2026-20133",
-        "CVE-2026-20122"
+        "CVE-2026-20128",
+        "CVE-2026-20133"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -848,11 +848,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32161",
-        "CVE-2026-35421",
         "CVE-2026-33109",
-        "CVE-2026-33844",
-        "CVE-2026-40358"
+        "CVE-2026-35421",
+        "CVE-2026-40358",
+        "CVE-2026-32161",
+        "CVE-2026-33844"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1319,8 +1319,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1345,6 +1345,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "AI is distorting the Holocaust (Lock and Code S07E10)",
+    "link": "https://www.malwarebytes.com/blog/podcast/2026/05/ai-is-distorting-the-holocaust-lock-and-code-s07e10",
+    "published": "Mon, 18 May 2026 01:51:37 GMT",
+    "summary": "This week on the Lock and Code podcast, we speak with Clara Mansfeld about how  AI-generated imagery is warping the history of the Holocaust.",
+    "analysis": {
+      "issue": "This week on the Lock and Code podcast… In May of last year, a warning about AI came from somewhere unexpected: The Auschwitz-Birkenau State Museum",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "APT"
       ]
     }
   },
@@ -1512,24 +1530,6 @@
       "threat_categories": [
         "Ransomware",
         "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Yarbo responds to robot flaws that could mow down their owners",
-    "link": "https://www.malwarebytes.com/blog/news/2026/05/yarbo-responds-to-robot-flaws-that-could-mow-down-their-owners",
-    "published": "Mon, 11 May 2026 13:21:57 GMT",
-    "summary": "A researcher found a host of vulnerabilities in Yarbo garden robots that could expose Wi-Fi passwords, hijack cameras, and run over their owners on command.",
-    "analysis": {
-      "issue": "A researcher found that Yarbo yard robots came with a host of vulnerabilities which, among others, allowed an attacker to harvest WiFi passwords",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
