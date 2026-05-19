@@ -1,6 +1,78 @@
 [
   {
     "source": "The Hacker News",
+    "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
+    "link": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
+    "published": "Tue, 19 May 2026 14:53:15 +0530",
+    "summary": "Critical security vulnerabilities have been disclosed in SEPPMail Secure E-Mail Gateway, an enterprise-grade email security solution, that could be exploited to achieve remote code execution and enable an attacker to read arbitrary mails from the virtual appliance.\n\"These vulnerabilities could have been exploited to read all mail traffic or as an entry vector into the internal network,\"",
+    "analysis": {
+      "issue": "Seven SEPPMail Secure E-Mail Gateway flaws disclosed, including RCE, path traversal, authorization, deserialization, and eval injection flaws",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
+    "link": "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html",
+    "published": "Tue, 19 May 2026 13:19:23 +0530",
+    "summary": "Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace.\n\nThe extension in question is rwl.angular-console (version 18.95.0), a popular user interface and plugin for code editors like VS Code, Cursor, and JetBrains. The VS Code extension has more than 2.2 million installations. The Open",
+    "analysis": {
+      "issue": "0 fetched a 498 KB stealer via GitHub orphan commit, exposing developer secrets and forcing credential rotation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials",
+    "link": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
+    "published": "Tue, 19 May 2026 10:58:06 +0530",
+    "summary": "In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentials and exfiltrates them to an attacker-controlled server.\n\n\"Every existing tag in the repository has been moved to point to an imposter commit that does not appear in the action's normal commit history,",
+    "analysis": {
+      "issue": "GitHub Action tags point to malicious commits, exposing CI/CD credentials; 15 second-action tags also compromised",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account",
+    "link": "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html",
+    "published": "Tue, 19 May 2026 10:24:17 +0530",
+    "summary": "Cybersecurity researchers have discovered a fresh software supply chain attack campaign that has compromised various npm packages associated with the @antv ecosystem as part of the ongoing Mini Shai-Hulud attack wave.\n\n\"The attack affects packages tied to the npm maintainer account atool, including echarts-for-react, a widely used React wrapper for Apache ECharts with roughly 1.1 million weekly",
+    "analysis": {
+      "issue": "Mini Shai-Hulud hits @antv and echarts-for-react via npm maintainer compromise, exposing 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
     "link": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
     "published": "Mon, 18 May 2026 22:51:18 +0530",
@@ -110,70 +182,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
-    "link": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
-    "published": "Mon, 18 May 2026 14:27:26 +0530",
-    "summary": "Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP.\nThe list of identified packages is below -\n\nchalk-tempalte (825 Downloads)\n@deadcode09284814/axios-util (284 Downloads)\naxois-utils (963 Downloads)\ncolor-style-utils (934 Downloads)\n\n\"One of the packages (chalk-tempalte)",
+    "source": "Bleeping Computer",
+    "title": "Microsoft confirms patching issues in restricted Windows networks",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
+    "published": "Tue, 19 May 2026 07:22:15 -0400",
+    "summary": "Microsoft says customers in restricted network environments may encounter Windows Update failures after installing the January 2026 optional non-security preview updates. [...]",
     "analysis": {
-      "issue": "4 malicious npm packages with 3,006 downloads spread stealers and Phantom Bot, forcing removals and secret rotation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
-    "link": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
-    "published": "Mon, 18 May 2026 12:16:37 +0530",
-    "summary": "A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations.\nAccording to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet tool was engineered to corrupt uranium-compression simulations that are central to nuclear weapon design.\n\"Fast16's hook engine is selectively interested in",
-    "analysis": {
-      "issue": "Fast16 corrupted nuclear simulations via 101 hook rules, targeting LS-DYNA and AUTODYN to sabotage weapons research",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
-    "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
-    "published": "Sun, 17 May 2026 17:27:53 +0530",
-    "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck.\nThe vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting NGINX versions 0.6.27 through 1.30.0. According to AI-native security company depthfirst, the",
-    "analysis": {
-      "issue": "CVE-2026-42945 is exploited after disclosure, impacting NGINX 0",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-42945"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
-    "link": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
-    "published": "Sun, 17 May 2026 12:43:33 +0530",
-    "summary": "Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase.\n\n\n  \"Our investigation has determined that no customer data or personal information was accessed during this incident, and we have found no evidence of impact to customer systems or operations,\" Grafana\n  said\n  in a series of",
-    "analysis": {
-      "issue": "Grafana disclosed an unauthorized party accessed its GitHub environment and downloaded its codebase via a token",
+      "issue": "Microsoft says customers in restricted network environments may encounter Windows Update failures after installing the January 2026 optional non-security preview updates",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -353,26 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
-    "published": "Sun, 17 May 2026 18:30:08 -0400",
-    "summary": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows systems.  [...]",
-    "analysis": {
-      "issue": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2020-17103"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
     "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
@@ -479,9 +474,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
         "CVE-2026-32201",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -569,6 +564,86 @@
   },
   {
     "source": "Security Week",
+    "title": "Cyber Resilience is the New Business Continuity Plan",
+    "link": "https://www.securityweek.com/cyber-resilience-is-the-new-business-continuity-plan/",
+    "published": "Tue, 19 May 2026 11:30:00 +0000",
+    "summary": "<p>The organizations best prepared to face disruption are those that align security, continuity and risk management around what the business cannot afford to lose.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyber-resilience-is-the-new-business-continuity-plan/\">Cyber Resilience is the New Business Continuity Plan</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The organizations best prepared to face disruption are those that align security, continuity and risk management around what the business cannot afford to lose",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "201 Arrested in Crackdown on Cybercrime in Middle East, North Africa",
+    "link": "https://www.securityweek.com/201-arrested-in-crackdown-on-cybercrime-in-middle-east-north-africa/",
+    "published": "Tue, 19 May 2026 10:32:14 +0000",
+    "summary": "<p>The 13-country effort, named Operation Ramz, targeted cyber threats in the Middle East and North Africa region.</p>\n<p>The post <a href=\"https://www.securityweek.com/201-arrested-in-crackdown-on-cybercrime-in-middle-east-north-africa/\">201 Arrested in Crackdown on Cybercrime in Middle East, North Africa</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The 13-country effort, named Operation Ramz, targeted cyber threats in the Middle East and North Africa region",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "PoC Released for DirtyDecrypt Linux Kernel Vulnerability",
+    "link": "https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/",
+    "published": "Tue, 19 May 2026 09:42:56 +0000",
+    "summary": "<p>Patched in April, the underlying vulnerability allows local attackers to elevate their privileges to root.</p>\n<p>The post <a href=\"https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/\">PoC Released for DirtyDecrypt Linux Kernel Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Patched in April, the underlying vulnerability allows local attackers to elevate their privileges to root",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-46300",
+        "CVE-2026-31635"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical Vulnerability Exposes Industrial Robot Fleets to Hacking",
+    "link": "https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/",
+    "published": "Tue, 19 May 2026 06:18:51 +0000",
+    "summary": "<p>The vulnerability, CVE-2026-8153, affects Universal Robots PolyScope 5 and it can be exploited for OS command injection. </p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/\">Critical Vulnerability Exposes Industrial Robot Fleets to Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The vulnerability, CVE-2026-8153, affects Universal Robots PolyScope 5 and it can be exploited for OS command injection",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-8153"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Millions Impacted Across Several US Healthcare Data Breaches",
     "link": "https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/",
     "published": "Mon, 18 May 2026 12:58:44 +0000",
@@ -600,10 +675,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44118",
-        "CVE-2026-44112",
         "CVE-2026-44113",
-        "CVE-2026-44115"
+        "CVE-2026-44118",
+        "CVE-2026-44115",
+        "CVE-2026-44112"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -695,82 +770,20 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Exploitation of Critical NGINX Vulnerability Begins",
-    "link": "https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/",
-    "published": "Mon, 18 May 2026 07:27:42 +0000",
-    "summary": "<p>The flaw leads to denial-of-service on default configurations and to remote code execution if ASLR is disabled.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/\">Exploitation of Critical NGINX Vulnerability Begins</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "From PDB strings to MaaS: Tracking a commodity BadIIS ecosystem used by Chinese-speaking threat",
+    "link": "https://blog.talosintelligence.com/from-pdb-strings-to-maas-tracking-a-commodity-badiis-ecosystem/",
+    "published": "Tue, 19 May 2026 10:00:20 GMT",
+    "summary": "Cisco Talos has uncovered a BadIIS variant — identifiable by its embedded \"demo.pdb\" strings — that functions as commodity malware, likely sold or shared among multiple Chinese-speaking cyber crime groups operating under a malware-as-a-service (MaaS) model for continuous monetization.",
     "analysis": {
-      "issue": "The flaw leads to denial-of-service on default configurations and to remote code execution if ASLR is disabled",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-42945"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Hackers Earn $1.3 Million at Pwn2Own Berlin 2026",
-    "link": "https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/",
-    "published": "Mon, 18 May 2026 04:05:21 +0000",
-    "summary": "<p>Participants demonstrated exploits for Windows, Linux, VMware, Nvidia, and AI products.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/\">Hackers Earn $1.3 Million at Pwn2Own Berlin 2026 </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Participants demonstrated exploits for Windows, Linux, VMware, Nvidia, and AI products",
+      "issue": "Since 2024, Talos has investigated numerous attacks across the Asia-Pacific region (along with a few in South Africa, Europe and North America) that utilize a specific variant of BadIIS characterized by \"demo",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "PoC Code Published for Critical NGINX Vulnerability",
-    "link": "https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/",
-    "published": "Sat, 16 May 2026 10:02:00 +0000",
-    "summary": "<p>Introduced in 2008, the critical-severity security defect was patched this week in NGINX Plus and NGINX open source.</p>\n<p>The post <a href=\"https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/\">PoC Code Published for Critical NGINX Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Introduced in 2008, the critical-severity security defect was patched this week in NGINX Plus and NGINX open source",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-42945"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws",
-    "link": "https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/",
-    "published": "Fri, 15 May 2026 14:52:16 +0000",
-    "summary": "<p>Other noteworthy stories that might have slipped under the radar: Nvidia cloud gaming data breach, Android 17 security upgrades, FBI warning after ShinyHunters hacks Canvas.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/\">In Other News: Big Tech vs Canada Encryption Bill, Cisco&#8217;s Free AI Security Spec, Audi App Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Other noteworthy stories that might have slipped under the radar: Nvidia cloud gaming data breach, Android 17 security upgrades, FBI warning after ShinyHunters hacks Canvas",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "APT"
+        "Malware"
       ]
     }
   },
@@ -807,10 +820,10 @@
       "severity": "High",
       "cves": [
         "CVE-2026-20182",
+        "CVE-2026-20122",
         "CVE-2026-20133",
-        "CVE-2026-20128",
         "CVE-2026-20127",
-        "CVE-2026-20122"
+        "CVE-2026-20128"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -849,11 +862,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33109",
-        "CVE-2026-35421",
+        "CVE-2026-40358",
         "CVE-2026-32161",
-        "CVE-2026-33844",
-        "CVE-2026-40358"
+        "CVE-2026-35421",
+        "CVE-2026-33109",
+        "CVE-2026-33844"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -944,24 +957,6 @@
     "summary": "Cisco Talos discovered an intrusion, active since at least January 2026, where an unknown attacker implanted a CloudZ remote access tool (RAT) and a previously undocumented plugin called “Pheno.”",
     "analysis": {
       "issue": "Windows Phone Link (formerly \"Your Phone\") is a synchronization tool developed by Microsoft and built directly into Windows 10 and 11 that bridges a PC and a smartphone (Android or iPhone)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Great responsibility, without great power",
-    "link": "https://blog.talosintelligence.com/great-responsibility-without-great-power/",
-    "published": "Thu, 30 Apr 2026 18:00:07 GMT",
-    "summary": "In this week’s newsletter, Hazel uses International Superhero Day as a springboard to explore why empathy — rather than just technical prowess — is the most essential, underrated superpower for navigating the human side of cybersecurity.",
-    "analysis": {
-      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1320,8 +1315,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1346,6 +1341,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "YouTube wants your face to fight deepfakes",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/05/youtube-wants-your-face-to-fight-deepfakes",
+    "published": "Tue, 19 May 2026 10:51:56 GMT",
+    "summary": "\"Likeness detection\" promises protection from AI deepfakes, but some creators are uneasy about handing over biometric data in return.",
+    "analysis": {
+      "issue": "If you’re worried about deepfake likenesses of yourself showing up online, you’re not alone; YouTube is worried for you",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1511,24 +1524,6 @@
       ],
       "threat_categories": [
         "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Fake Claude search results lure Mac users into ClickFix attack",
-    "link": "https://www.malwarebytes.com/blog/news/2026/05/fake-claude-search-results-lure-mac-users-into-clickfix-attack",
-    "published": "Tue, 12 May 2026 15:46:55 GMT",
-    "summary": "Researchers found a ClickFix campaign that uses fake Claude setup guides to trick Mac users into infecting themselves.",
-    "analysis": {
-      "issue": "Researchers found that cybercriminals are using sponsored search results and shared Claude chats to lure victims into a typical ClickFix attack to install malware on macOS devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
         "Malware"
       ]
     }
