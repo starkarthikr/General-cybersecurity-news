@@ -1,6 +1,62 @@
 [
   {
     "source": "The Hacker News",
+    "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
+    "link": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
+    "published": "Tue, 19 May 2026 20:26:26 +0530",
+    "summary": "Proof-of-concept (PoC) exploit code has now been released for a recently patched security flaw in the Linux kernel that could allow for local privilege escalation (LPE).\nDubbed DirtyDecrypt (aka DirtyCBC), the vulnerability was discovered and reported by the Zellic and V12 security team on May 9, 2026, only to be informed by the maintainers that it was a duplicate of a vulnerability that had",
+    "analysis": {
+      "issue": "DirtyDecrypt PoC targets CVE-2026-31635 in CONFIG_RXGK Linux systems, enabling local privilege escalation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-31635"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
+    "link": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
+    "published": "Tue, 19 May 2026 17:00:00 +0530",
+    "summary": "In February 2026, a phishing-as-a-service (PhaaS) platform called EvilTokens went live. Within five weeks, it had compromised more than 340 Microsoft 365 organizations across five countries.&nbsp;\n\nThe targets of the platform received a message asking them to enter a short code at microsoft.com/devicelogin and complete their normal MFA challenge, then walked away believing they had verified a",
+    "analysis": {
+      "issue": "OAuth consent is the phishing vector MFA misses—long-lived tokens and cross-app access bypass trusted identity controls",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare",
+    "link": "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html",
+    "published": "Tue, 19 May 2026 16:14:45 +0530",
+    "summary": "Drupal has issued an alert stating that it intends to release a \"core security release\" for all supported branches on May 20, 2026, from 5-9 p.m. UTC.\n\n\"The Drupal Security Team urges you to reserve time for core updates at that time because exploits might be developed within hours or days,\" the maintainers of the PHP-based content management system (CMS) said.\n\n\"Not all configurations are",
+    "analysis": {
+      "issue": "Drupal plans May 20 core security patches as exploits may follow within hours or days, requiring urgent site updates",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
     "link": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
     "published": "Tue, 19 May 2026 14:53:15 +0530",
@@ -128,53 +184,71 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Developer Workstations Are Now Part of the Software Supply Chain",
-    "link": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
-    "published": "Mon, 18 May 2026 16:53:41 +0530",
-    "summary": "Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, and Docker Hub in a 48-hour window, and all three targeted secrets from developer environments and CI/CD pipelines, including API keys, cloud credentials, SSH keys, and tokens. This is",
+    "source": "Bleeping Computer",
+    "title": "New Shai-Hulud malware wave compromises 600 npm packages",
+    "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
+    "published": "Tue, 19 May 2026 10:30:22 -0400",
+    "summary": "Threat actors earlier today published more than 600 malicious packages to the Node Package Manager (npm) index as part of a new Shai-Hulud supply-chain campaign. [...]",
     "analysis": {
-      "issue": "3 campaigns hit npm, PyPI, and Docker Hub in 48 hours, exposing secrets from developer and CI/CD environments",
+      "issue": "Threat actors earlier today published more than 600 malicious packages to the Node Package Manager (npm) index as part of a new Shai-Hulud supply-chain campaign",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "7-Eleven confirms data breach claimed by the ShinyHunters gang",
+    "link": "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/",
+    "published": "Tue, 19 May 2026 10:16:41 -0400",
+    "summary": "Convenience store chain giant 7-Eleven confirmed that its systems were breached in a cyberattack claimed by the ShinyHunters extortion group last month. [...]",
+    "analysis": {
+      "issue": "Convenience store chain giant 7-Eleven confirmed that its systems were breached in a cyberattack claimed by the ShinyHunters extortion group last month",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Supply Chain"
+        "Data Breach"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
-    "link": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
-    "published": "Mon, 18 May 2026 16:24:05 +0530",
-    "summary": "Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code.\nTopping the list is a critical flaw impacting Ivanti Xtraction (CVE-2026-8043, CVSS score: 9.6) that could be exploited to achieve information disclosure or client-side attacks.\n\"External control of a file name",
+    "source": "Bleeping Computer",
+    "title": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/",
+    "published": "Tue, 19 May 2026 10:00:10 -0400",
+    "summary": "Microsoft's total vulnerability count stayed steady in 2025, but critical flaws surged year over year. BeyondTrust breaks down why attackers are increasingly focused on privilege escalation and identity abuse. [...]",
     "analysis": {
-      "issue": "Ivanti, Fortinet, SAP, VMware, and n8n fix 11 flaws, including 9",
+      "issue": "Haber, Chief Security Advisor, BeyondTrust, and James Maude, Field Chief Technology Officer, BeyondTrust As analyzed in the 2026 Microsoft Vulnerabilities Report, Microsoft disclosed 1,273 vulnerabilities in 2025, which represents a dip from 1,360 th",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
-    "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
-    "published": "Mon, 18 May 2026 14:27:34 +0530",
-    "summary": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems.\nCodenamed MiniPlasma, the vulnerability impacts \"cldflt.sys,\" which refers to the Windows Cloud Files Mini Filter Driver,",
+    "source": "Bleeping Computer",
+    "title": "Webinar: The hidden bottlenecks in network incident response",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
+    "published": "Tue, 19 May 2026 08:14:22 -0400",
+    "summary": "IT teams are increasingly overwhelmed by alerts from disconnected systems, forcing responders to manually coordinate investigations during network incidents. This webinar explores how automation and AI-assisted workflows can help reduce response delays and improve operational coordination. [...]",
     "analysis": {
-      "issue": "MiniPlasma revives a 2020 Windows cldflt",
+      "issue": "IT teams now get deluged by alerts from monitoring platforms, infrastructure systems, identity services, ticketing platforms, and security tools",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -294,80 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft testing adjustable taskbar, Start menu in Windows 11",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/",
-    "published": "Mon, 18 May 2026 07:14:28 -0400",
-    "summary": "Microsoft has finally brought back the resizable taskbar and Start menu to Windows 11 in the latest preview version rolling out to Insiders in the Experimental channel. [...]",
-    "analysis": {
-      "issue": "Microsoft has finally brought back the resizable taskbar and Start menu to Windows 11 in the latest preview version rolling out to Insiders in the Experimental channel",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft confirms Windows 11 security update install issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
-    "published": "Mon, 18 May 2026 04:33:14 -0400",
-    "summary": "Microsoft has confirmed that the May 2026 Windows 11 security update (KB5089549) fails to install on some systems and triggers 0x800f0922 errors. [...]",
-    "analysis": {
-      "issue": "Microsoft has confirmed that the May 2026 Windows 11 security update (KB5089549) fails to install on some systems and triggers 0x800f0922 errors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
-    "published": "Mon, 18 May 2026 03:18:33 -0400",
-    "summary": "A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers to gain root access on some Linux systems. [...]",
-    "analysis": {
-      "issue": "A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers to gain root access on some Linux systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-31635"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
-    "published": "Mon, 18 May 2026 01:33:20 -0400",
-    "summary": "The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws. [...]",
-    "analysis": {
-      "issue": "The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
     "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
@@ -474,9 +474,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-33825",
         "CVE-2026-32201",
-        "CVE-2026-34621",
-        "CVE-2026-33825"
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -564,6 +564,64 @@
   },
   {
     "source": "Security Week",
+    "title": "Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks",
+    "link": "https://www.securityweek.com/legacy-windows-tool-mshta-fuels-surge-in-silent-malware-attacks/",
+    "published": "Tue, 19 May 2026 13:00:00 +0000",
+    "summary": "<p>Attackers are increasingly abusing Microsoft’s decades-old MSHTA utility to stealthily deliver stealers, loaders, and persistent malware through phishing, fake software downloads, and LOLBIN-based attack chains.</p>\n<p>The post <a href=\"https://www.securityweek.com/legacy-windows-tool-mshta-fuels-surge-in-silent-malware-attacks/\">Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Attackers are increasingly abusing Microsoft’s decades-old MSHTA utility to stealthily deliver stealers, loaders, and persistent malware through phishing, fake software downloads, and LOLBIN-based attack chains",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Unpatched ChromaDB Vulnerability Can Lead to Server Takeover",
+    "link": "https://www.securityweek.com/unpatched-chromadb-vulnerability-can-lead-to-server-takeover/",
+    "published": "Tue, 19 May 2026 12:54:21 +0000",
+    "summary": "<p>The security defect can be exploited remotely, without authentication, to execute arbitrary code and leak sensitive information.</p>\n<p>The post <a href=\"https://www.securityweek.com/unpatched-chromadb-vulnerability-can-lead-to-server-takeover/\">Unpatched ChromaDB Vulnerability Can Lead to Server Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The security defect can be exploited remotely, without authentication, to execute arbitrary code and leak sensitive information",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-45829"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "B1ack’s Stash Marketplace Gives Away 4.6 Million Stolen Credit Cards",
+    "link": "https://www.securityweek.com/b1acks-stash-marketplace-gives-away-4-6-million-stolen-credit-cards/",
+    "published": "Tue, 19 May 2026 11:59:13 +0000",
+    "summary": "<p>The stolen credit card data was released as a free download, allegedly in response to seller misconduct.</p>\n<p>The post <a href=\"https://www.securityweek.com/b1acks-stash-marketplace-gives-away-4-6-million-stolen-credit-cards/\">B1ack&#8217;s Stash Marketplace Gives Away 4.6 Million Stolen Credit Cards</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The stolen credit card data was released as a free download, allegedly in response to seller misconduct",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Cyber Resilience is the New Business Continuity Plan",
     "link": "https://www.securityweek.com/cyber-resilience-is-the-new-business-continuity-plan/",
     "published": "Tue, 19 May 2026 11:30:00 +0000",
@@ -614,8 +672,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-46300",
-        "CVE-2026-31635"
+        "CVE-2026-31635",
+        "CVE-2026-46300"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -675,10 +733,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44113",
-        "CVE-2026-44118",
         "CVE-2026-44115",
-        "CVE-2026-44112"
+        "CVE-2026-44112",
+        "CVE-2026-44118",
+        "CVE-2026-44113"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -705,67 +763,6 @@
         "Data Breach",
         "Phishing",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE",
-    "link": "https://www.securityweek.com/researcher-drops-miniplasma-windows-exploit-for-unpatched-2020-cve/",
-    "published": "Mon, 18 May 2026 10:38:22 +0000",
-    "summary": "<p>The researcher dropped the MiniPlasma exploit that uses the original proof-of-concept (PoC) code targeting the bug.</p>\n<p>The post <a href=\"https://www.securityweek.com/researcher-drops-miniplasma-windows-exploit-for-unpatched-2020-cve/\">Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The researcher dropped the MiniPlasma exploit that uses the original proof-of-concept (PoC) code targeting the bug",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2020-17103"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "First Shai-Hulud Worm Clones Emerge",
-    "link": "https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/",
-    "published": "Mon, 18 May 2026 09:45:15 +0000",
-    "summary": "<p>At least one threat actor has adopted the recently released malware source code in attacks against NPM developers.</p>\n<p>The post <a href=\"https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/\">First Shai-Hulud Worm Clones Emerge</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "At least one threat actor has adopted the recently released malware source code in attacks against NPM developers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT",
-        "DDoS",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Grafana Confirms Breach After Hackers Claim They Stole Data",
-    "link": "https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/",
-    "published": "Mon, 18 May 2026 08:34:59 +0000",
-    "summary": "<p>Grafana appears to have been targeted by Coinbase Cartel, a cybercrime group linked to ShinyHunters, Scattered Spider, and Lapsus$.</p>\n<p>The post <a href=\"https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/\">Grafana Confirms Breach After Hackers Claim They Stole Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Grafana appears to have been targeted by Coinbase Cartel, a cybercrime group linked to ShinyHunters, Scattered Spider, and Lapsus$",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
       ]
     }
   },
@@ -820,10 +817,10 @@
       "severity": "High",
       "cves": [
         "CVE-2026-20182",
-        "CVE-2026-20122",
-        "CVE-2026-20133",
         "CVE-2026-20127",
-        "CVE-2026-20128"
+        "CVE-2026-20128",
+        "CVE-2026-20133",
+        "CVE-2026-20122"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -862,11 +859,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-40358",
+        "CVE-2026-33844",
         "CVE-2026-32161",
+        "CVE-2026-40358",
         "CVE-2026-35421",
-        "CVE-2026-33109",
-        "CVE-2026-33844"
+        "CVE-2026-33109"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -964,6 +961,24 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "At Mythos Speed: A Defender's Playbook for the AI Vulnerability Surge in 2026",
+    "link": "https://www.recordedfuture.com/blog/ai-vulnerability-playbook",
+    "published": "Tue, 19 May 2026 00:00:00 GMT",
+    "summary": "Frontier AI models like Mythos are making vulnerability discovery fast and cheap. Here's how defenders use threat intelligence and agentic processing to prioritize and act at the same speed.",
+    "analysis": {
+      "issue": "Frontier AI models like Mythos are making vulnerability discovery fast and cheap",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -1120,24 +1135,6 @@
     "summary": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios.",
     "analysis": {
       "issue": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Risk Scenarios for the US’s Strategic Pivot",
-    "link": "https://www.recordedfuture.com/research/us-strategic-pivot",
-    "published": "Thu, 30 Apr 2026 00:00:00 GMT",
-    "summary": "The United States (US) is shifting toward a more force-driven security strategy primarily relying on military operations and economic pressure to counter transnational criminal organizations and limit Chinese, Russian, and Iranian influence in the Western Hemisphere.",
-    "analysis": {
-      "issue": "The United States (US) is shifting toward a more force-driven security strategy primarily relying on military operations and economic pressure to counter transnational criminal organizations and limit Chinese, Russian, and Iranian influence in the We",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1315,8 +1312,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1341,6 +1338,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Facebook scam promises cheap Aldi meat boxes, steals payment info instead",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/05/facebook-scam-promises-cheap-aldi-meat-boxes-steals-payment-info-instead",
+    "published": "Tue, 19 May 2026 12:46:13 GMT",
+    "summary": "A fake Aldi “meat box” offer spreading on Facebook tricks victims into handing over personal and payment info.",
+    "analysis": {
+      "issue": "Sometimes you spot posts on social media that make you wonder if any moderation takes place at all",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -1503,28 +1518,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "May 2026 Patch Tuesday: no zero-days but plenty to fix",
-    "link": "https://www.malwarebytes.com/blog/news/2026/05/may-2026-patch-tuesday-no-zero-days-but-plenty-to-fix",
-    "published": "Wed, 13 May 2026 11:00:45 GMT",
-    "summary": "May’s Patch Tuesday may not be the giant release many expected, but there are still plenty of important fixes that shouldn’t be ignored.",
-    "analysis": {
-      "issue": "This month’s Patch Tuesday remedies 137 security vulnerabilities, including 31 marked critical by Microsoft, with no zero-days actively exploited in the wild",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-35421",
-        "CVE-2026-40361"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },

@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-19 11:39:44 UTC
+**Last Updated:** 2026-05-19 15:37:41 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access](https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html)
+### 1. [DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability](https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 19 May 2026 20:26:26 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-31635  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [The New Phishing Click: How OAuth Consent Bypasses MFA](https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 19 May 2026 17:00:00 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 3. [Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare](https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 19 May 2026 16:14:45 +0530  
+**Severity:** High  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access](https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 19 May 2026 14:53:15 +0530  
@@ -13,7 +41,7 @@
 
 ---
 
-### 2. [Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer](https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html)
+### 5. [Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer](https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 19 May 2026 13:19:23 +0530  
@@ -22,7 +50,7 @@
 
 ---
 
-### 3. [Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials](https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html)
+### 6. [Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials](https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 19 May 2026 10:58:06 +0530  
@@ -31,7 +59,7 @@
 
 ---
 
-### 4. [Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account](https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html)
+### 7. [Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account](https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 19 May 2026 10:24:17 +0530  
@@ -40,7 +68,7 @@
 
 ---
 
-### 5. [INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests](https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html)
+### 8. [INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests](https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 18 May 2026 22:51:18 +0530  
@@ -49,7 +77,7 @@
 
 ---
 
-### 6. [⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More](https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html)
+### 9. [⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More](https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 18 May 2026 19:20:17 +0530  
@@ -58,7 +86,7 @@
 
 ---
 
-### 7. [How to Reduce Phishing Exposure Before It Turns into Business Disruption](https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html)
+### 10. [How to Reduce Phishing Exposure Before It Turns into Business Disruption](https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 18 May 2026 18:30:00 +0530  
@@ -67,34 +95,43 @@
 
 ---
 
-### 8. [Developer Workstations Are Now Part of the Software Supply Chain](https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html)
+### 11. [New Shai-Hulud malware wave compromises 600 npm packages](https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 18 May 2026 16:53:41 +0530  
-**Severity:** Low  
-**Categories:** Supply Chain  
+**Source:** Bleeping Computer  
+**Published:** Tue, 19 May 2026 10:30:22 -0400  
+**Severity:** High  
+**Categories:** Malware  
 
 ---
 
-### 9. [Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws](https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html)
+### 12. [7-Eleven confirms data breach claimed by the ShinyHunters gang](https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 18 May 2026 16:24:05 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 19 May 2026 10:16:41 -0400  
 **Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 13. [Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation](https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 19 May 2026 10:00:10 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [Webinar: The hidden bottlenecks in network incident response](https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 19 May 2026 08:14:22 -0400  
+**Severity:** High  
 **Categories:** General Security  
 
 ---
 
-### 10. [MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems](https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 18 May 2026 14:27:34 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Microsoft confirms patching issues in restricted Windows networks](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/)
+### 15. [Microsoft confirms patching issues in restricted Windows networks](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 19 May 2026 07:22:15 -0400  
@@ -103,7 +140,7 @@
 
 ---
 
-### 12. [INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers](https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/)
+### 16. [INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers](https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 18 May 2026 18:15:30 -0400  
@@ -112,7 +149,7 @@
 
 ---
 
-### 13. [SHub macOS infostealer variant spoofs Apple security updates](https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/)
+### 17. [SHub macOS infostealer variant spoofs Apple security updates](https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 18 May 2026 17:42:20 -0400  
@@ -121,7 +158,7 @@
 
 ---
 
-### 14. [5 Steps to Managing Shadow AI Tools Without Slowing Down Employees](https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/)
+### 18. [5 Steps to Managing Shadow AI Tools Without Slowing Down Employees](https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 18 May 2026 14:45:35 -0400  
@@ -130,7 +167,7 @@
 
 ---
 
-### 15. [Leaked Shai-Hulud malware fuels new npm infostealer campaign](https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/)
+### 19. [Leaked Shai-Hulud malware fuels new npm infostealer campaign](https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 18 May 2026 13:28:02 -0400  
@@ -139,49 +176,12 @@
 
 ---
 
-### 16. [Grafana says stolen GitHub token let hackers steal codebase](https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/)
+### 20. [Grafana says stolen GitHub token let hackers steal codebase](https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 18 May 2026 09:46:26 -0400  
 **Severity:** Low  
 **Categories:** Ransomware, Data Breach  
-
----
-
-### 17. [Microsoft testing adjustable taskbar, Start menu in Windows 11](https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 18 May 2026 07:14:28 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 18. [Microsoft confirms Windows 11 security update install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 18 May 2026 04:33:14 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Exploit available for new DirtyDecrypt Linux root escalation flaw](https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 18 May 2026 03:18:33 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2026-31635  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026](https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 18 May 2026 01:33:20 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -235,7 +235,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -276,7 +276,35 @@
 
 ---
 
-### 31. [Cyber Resilience is the New Business Continuity Plan](https://www.securityweek.com/cyber-resilience-is-the-new-business-continuity-plan/)
+### 31. [Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks](https://www.securityweek.com/legacy-windows-tool-mshta-fuels-surge-in-silent-malware-attacks/)
+
+**Source:** Security Week  
+**Published:** Tue, 19 May 2026 13:00:00 +0000  
+**Severity:** Critical  
+**Categories:** Malware, Phishing  
+
+---
+
+### 32. [Unpatched ChromaDB Vulnerability Can Lead to Server Takeover](https://www.securityweek.com/unpatched-chromadb-vulnerability-can-lead-to-server-takeover/)
+
+**Source:** Security Week  
+**Published:** Tue, 19 May 2026 12:54:21 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-45829  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [B1ack’s Stash Marketplace Gives Away 4.6 Million Stolen Credit Cards](https://www.securityweek.com/b1acks-stash-marketplace-gives-away-4-6-million-stolen-credit-cards/)
+
+**Source:** Security Week  
+**Published:** Tue, 19 May 2026 11:59:13 +0000  
+**Severity:** High  
+**Categories:** Data Breach, Phishing  
+
+---
+
+### 34. [Cyber Resilience is the New Business Continuity Plan](https://www.securityweek.com/cyber-resilience-is-the-new-business-continuity-plan/)
 
 **Source:** Security Week  
 **Published:** Tue, 19 May 2026 11:30:00 +0000  
@@ -285,7 +313,7 @@
 
 ---
 
-### 32. [201 Arrested in Crackdown on Cybercrime in Middle East, North Africa](https://www.securityweek.com/201-arrested-in-crackdown-on-cybercrime-in-middle-east-north-africa/)
+### 35. [201 Arrested in Crackdown on Cybercrime in Middle East, North Africa](https://www.securityweek.com/201-arrested-in-crackdown-on-cybercrime-in-middle-east-north-africa/)
 
 **Source:** Security Week  
 **Published:** Tue, 19 May 2026 10:32:14 +0000  
@@ -294,17 +322,17 @@
 
 ---
 
-### 33. [PoC Released for DirtyDecrypt Linux Kernel Vulnerability](https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/)
+### 36. [PoC Released for DirtyDecrypt Linux Kernel Vulnerability](https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Tue, 19 May 2026 09:42:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-46300, CVE-2026-31635  
+**CVEs:** CVE-2026-31635, CVE-2026-46300  
 **Categories:** Vulnerability  
 
 ---
 
-### 34. [Critical Vulnerability Exposes Industrial Robot Fleets to Hacking](https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/)
+### 37. [Critical Vulnerability Exposes Industrial Robot Fleets to Hacking](https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/)
 
 **Source:** Security Week  
 **Published:** Tue, 19 May 2026 06:18:51 +0000  
@@ -314,7 +342,7 @@
 
 ---
 
-### 35. [Millions Impacted Across Several US Healthcare Data Breaches](https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/)
+### 38. [Millions Impacted Across Several US Healthcare Data Breaches](https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/)
 
 **Source:** Security Week  
 **Published:** Mon, 18 May 2026 12:58:44 +0000  
@@ -323,50 +351,22 @@
 
 ---
 
-### 36. [‘Claw Chain’ OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery](https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/)
+### 39. [‘Claw Chain’ OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery](https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/)
 
 **Source:** Security Week  
 **Published:** Mon, 18 May 2026 12:14:43 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44113, CVE-2026-44118, CVE-2026-44115, CVE-2026-44112  
+**CVEs:** CVE-2026-44115, CVE-2026-44112, CVE-2026-44118, CVE-2026-44113  
 **Categories:** Vulnerability, Malware, Supply Chain  
 
 ---
 
-### 37. [7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand](https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/)
+### 40. [7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand](https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/)
 
 **Source:** Security Week  
 **Published:** Mon, 18 May 2026 11:25:54 +0000  
 **Severity:** High  
 **Categories:** Ransomware, Data Breach, Phishing, Supply Chain  
-
----
-
-### 38. [Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE](https://www.securityweek.com/researcher-drops-miniplasma-windows-exploit-for-unpatched-2020-cve/)
-
-**Source:** Security Week  
-**Published:** Mon, 18 May 2026 10:38:22 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2020-17103  
-**Categories:** Vulnerability  
-
----
-
-### 39. [First Shai-Hulud Worm Clones Emerge](https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/)
-
-**Source:** Security Week  
-**Published:** Mon, 18 May 2026 09:45:15 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware, APT, DDoS, Supply Chain  
-
----
-
-### 40. [Grafana Confirms Breach After Hackers Claim They Stole Data](https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/)
-
-**Source:** Security Week  
-**Published:** Mon, 18 May 2026 08:34:59 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Data Breach  
 
 ---
 
@@ -393,7 +393,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20182, CVE-2026-20122, CVE-2026-20133, CVE-2026-20127, CVE-2026-20128  
+**CVEs:** CVE-2026-20182, CVE-2026-20127, CVE-2026-20128, CVE-2026-20133, CVE-2026-20122  
 **Categories:** Vulnerability  
 
 ---
@@ -412,7 +412,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-40358, CVE-2026-32161, CVE-2026-35421, CVE-2026-33109, CVE-2026-33844  
+**CVEs:** CVE-2026-33844, CVE-2026-32161, CVE-2026-40358, CVE-2026-35421, CVE-2026-33109  
 **Categories:** Vulnerability  
 
 ---
@@ -462,7 +462,16 @@
 
 ---
 
-### 51. [April 2026 CVE Landscape](https://www.recordedfuture.com/blog/april-cve-landscape)
+### 51. [At Mythos Speed: A Defender's Playbook for the AI Vulnerability Surge in 2026](https://www.recordedfuture.com/blog/ai-vulnerability-playbook)
+
+**Source:** Recorded Future  
+**Published:** Tue, 19 May 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 52. [April 2026 CVE Landscape](https://www.recordedfuture.com/blog/april-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Fri, 15 May 2026 00:00:00 GMT  
@@ -471,7 +480,7 @@
 
 ---
 
-### 52. [NIST NVD Enrichment Policy Change: Prioritizing Vulnerabilities with Attacker Behavior Signals](https://www.recordedfuture.com/blog/nist-nvd-enrichment)
+### 53. [NIST NVD Enrichment Policy Change: Prioritizing Vulnerabilities with Attacker Behavior Signals](https://www.recordedfuture.com/blog/nist-nvd-enrichment)
 
 **Source:** Recorded Future  
 **Published:** Thu, 14 May 2026 00:00:00 GMT  
@@ -480,7 +489,7 @@
 
 ---
 
-### 53. [Beyond Acceleration and Automation: How AI + Intelligence Changes Cyber Defense](https://www.recordedfuture.com/blog/ai-intelligence-cyber-defense)
+### 54. [Beyond Acceleration and Automation: How AI + Intelligence Changes Cyber Defense](https://www.recordedfuture.com/blog/ai-intelligence-cyber-defense)
 
 **Source:** Recorded Future  
 **Published:** Thu, 14 May 2026 00:00:00 GMT  
@@ -489,7 +498,7 @@
 
 ---
 
-### 54. [Working in London at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-for-recorded-future-london)
+### 55. [Working in London at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-for-recorded-future-london)
 
 **Source:** Recorded Future  
 **Published:** Fri, 08 May 2026 00:00:00 GMT  
@@ -498,7 +507,7 @@
 
 ---
 
-### 55. [Quantum Risk Explained](https://www.recordedfuture.com/research/quantum-risk-explained)
+### 56. [Quantum Risk Explained](https://www.recordedfuture.com/research/quantum-risk-explained)
 
 **Source:** Recorded Future  
 **Published:** Thu, 07 May 2026 00:00:00 GMT  
@@ -507,7 +516,7 @@
 
 ---
 
-### 56. [Recorded Future Named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies. And there’s more.](https://www.recordedfuture.com/blog/recorded-future-named-a-leader)
+### 57. [Recorded Future Named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies. And there’s more.](https://www.recordedfuture.com/blog/recorded-future-named-a-leader)
 
 **Source:** Recorded Future  
 **Published:** Wed, 06 May 2026 00:00:00 GMT  
@@ -516,7 +525,7 @@
 
 ---
 
-### 57. [Threat Activity Enablers: The Backbone of Today’s Threat Landscape](https://www.recordedfuture.com/blog/threat-activity-enablers)
+### 58. [Threat Activity Enablers: The Backbone of Today’s Threat Landscape](https://www.recordedfuture.com/blog/threat-activity-enablers)
 
 **Source:** Recorded Future  
 **Published:** Wed, 06 May 2026 00:00:00 GMT  
@@ -525,7 +534,7 @@
 
 ---
 
-### 58. [Hacking Embodied AI](https://www.recordedfuture.com/research/hacking-embodied-ai)
+### 59. [Hacking Embodied AI](https://www.recordedfuture.com/research/hacking-embodied-ai)
 
 **Source:** Recorded Future  
 **Published:** Tue, 05 May 2026 00:00:00 GMT  
@@ -534,19 +543,10 @@
 
 ---
 
-### 59. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
+### 60. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
 
 **Source:** Recorded Future  
 **Published:** Fri, 01 May 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 60. [Risk Scenarios for the US’s Strategic Pivot](https://www.recordedfuture.com/research/us-strategic-pivot)
-
-**Source:** Recorded Future  
-**Published:** Thu, 30 Apr 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -632,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -647,7 +647,16 @@
 
 ---
 
-### 71. [YouTube wants your face to fight deepfakes](https://www.malwarebytes.com/blog/ai/2026/05/youtube-wants-your-face-to-fight-deepfakes)
+### 71. [Facebook scam promises cheap Aldi meat boxes, steals payment info instead](https://www.malwarebytes.com/blog/scams/2026/05/facebook-scam-promises-cheap-aldi-meat-boxes-steals-payment-info-instead)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 19 May 2026 12:46:13 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 72. [YouTube wants your face to fight deepfakes](https://www.malwarebytes.com/blog/ai/2026/05/youtube-wants-your-face-to-fight-deepfakes)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 19 May 2026 10:51:56 GMT  
@@ -656,7 +665,7 @@
 
 ---
 
-### 72. [Microsoft is changing Edge’s plaintext password behavior](https://www.malwarebytes.com/blog/news/2026/05/microsoft-is-changing-edges-plaintext-password-behavior)
+### 73. [Microsoft is changing Edge’s plaintext password behavior](https://www.malwarebytes.com/blog/news/2026/05/microsoft-is-changing-edges-plaintext-password-behavior)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 18 May 2026 10:42:16 GMT  
@@ -665,7 +674,7 @@
 
 ---
 
-### 73. [A week in security (May 11 &#8211; May 17)](https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-may-11-may-17-2)
+### 74. [A week in security (May 11 &#8211; May 17)](https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-may-11-may-17-2)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 18 May 2026 07:02:00 GMT  
@@ -674,7 +683,7 @@
 
 ---
 
-### 74. [AI is distorting the Holocaust (Lock and Code S07E10)](https://www.malwarebytes.com/blog/podcast/2026/05/ai-is-distorting-the-holocaust-lock-and-code-s07e10)
+### 75. [AI is distorting the Holocaust (Lock and Code S07E10)](https://www.malwarebytes.com/blog/podcast/2026/05/ai-is-distorting-the-holocaust-lock-and-code-s07e10)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 18 May 2026 01:51:37 GMT  
@@ -683,7 +692,7 @@
 
 ---
 
-### 75. [Attackers replaced JDownloader installer downloads with malware](https://www.malwarebytes.com/blog/news/2026/05/attackers-replaced-jdownloader-installer-downloads-with-malware)
+### 76. [Attackers replaced JDownloader installer downloads with malware](https://www.malwarebytes.com/blog/news/2026/05/attackers-replaced-jdownloader-installer-downloads-with-malware)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 15 May 2026 12:45:47 GMT  
@@ -692,7 +701,7 @@
 
 ---
 
-### 76. [Meta’s confusing new approach to chat privacy](https://www.malwarebytes.com/blog/news/2026/05/metas-confusing-new-approach-to-chat-privacy)
+### 77. [Meta’s confusing new approach to chat privacy](https://www.malwarebytes.com/blog/news/2026/05/metas-confusing-new-approach-to-chat-privacy)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 15 May 2026 12:34:15 GMT  
@@ -701,7 +710,7 @@
 
 ---
 
-### 77. [Why Malwarebytes blocks some Yahoo Mail redirects](https://www.malwarebytes.com/blog/threat-intel/2026/05/why-malwarebytes-blocks-some-yahoo-mail-redirects)
+### 78. [Why Malwarebytes blocks some Yahoo Mail redirects](https://www.malwarebytes.com/blog/threat-intel/2026/05/why-malwarebytes-blocks-some-yahoo-mail-redirects)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 14 May 2026 10:47:52 GMT  
@@ -710,7 +719,7 @@
 
 ---
 
-### 78. [Deepfake sextortion forces schools to remove student photos from websites](https://www.malwarebytes.com/blog/family-and-parenting/2026/05/deepfake-sextortion-forces-schools-to-remove-student-photos-from-websites)
+### 79. [Deepfake sextortion forces schools to remove student photos from websites](https://www.malwarebytes.com/blog/family-and-parenting/2026/05/deepfake-sextortion-forces-schools-to-remove-student-photos-from-websites)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 14 May 2026 09:00:15 GMT  
@@ -719,22 +728,12 @@
 
 ---
 
-### 79. [Texas sued Netflix over claims it secretly collected and sold users’ data](https://www.malwarebytes.com/blog/news/2026/05/texas-sued-netflix-over-claims-it-secretly-collected-and-sold-users-data)
+### 80. [Texas sued Netflix over claims it secretly collected and sold users’ data](https://www.malwarebytes.com/blog/news/2026/05/texas-sued-netflix-over-claims-it-secretly-collected-and-sold-users-data)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 13 May 2026 13:34:58 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 80. [May 2026 Patch Tuesday: no zero-days but plenty to fix](https://www.malwarebytes.com/blog/news/2026/05/may-2026-patch-tuesday-no-zero-days-but-plenty-to-fix)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 13 May 2026 11:00:45 GMT  
-**Severity:** Critical  
-**CVEs:** CVE-2026-35421, CVE-2026-40361  
-**Categories:** Vulnerability, Malware  
 
 ---
 
