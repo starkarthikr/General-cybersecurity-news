@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-18 18:18:47 UTC
+**Last Updated:** 2026-05-19 04:05:36 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,34 @@
 
 ---
 
-### 11. [Leaked Shai-Hulud malware fuels new npm infostealer campaign](https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/)
+### 11. [INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers](https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 18 May 2026 18:15:30 -0400  
+**Severity:** Critical  
+**Categories:** Malware, Phishing  
+
+---
+
+### 12. [SHub macOS infostealer variant spoofs Apple security updates](https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 18 May 2026 17:42:20 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [5 Steps to Managing Shadow AI Tools Without Slowing Down Employees](https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 18 May 2026 14:45:35 -0400  
+**Severity:** High  
+**Categories:** APT  
+
+---
+
+### 14. [Leaked Shai-Hulud malware fuels new npm infostealer campaign](https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 18 May 2026 13:28:02 -0400  
@@ -104,7 +131,7 @@
 
 ---
 
-### 12. [Grafana says stolen GitHub token let hackers steal codebase](https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/)
+### 15. [Grafana says stolen GitHub token let hackers steal codebase](https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 18 May 2026 09:46:26 -0400  
@@ -113,7 +140,7 @@
 
 ---
 
-### 13. [Microsoft testing adjustable taskbar, Start menu in Windows 11](https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/)
+### 16. [Microsoft testing adjustable taskbar, Start menu in Windows 11](https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 18 May 2026 07:14:28 -0400  
@@ -122,7 +149,7 @@
 
 ---
 
-### 14. [Microsoft confirms Windows 11 security update install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/)
+### 17. [Microsoft confirms Windows 11 security update install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 18 May 2026 04:33:14 -0400  
@@ -131,7 +158,7 @@
 
 ---
 
-### 15. [Exploit available for new DirtyDecrypt Linux root escalation flaw](https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/)
+### 18. [Exploit available for new DirtyDecrypt Linux root escalation flaw](https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 18 May 2026 03:18:33 -0400  
@@ -141,7 +168,7 @@
 
 ---
 
-### 16. [Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026](https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/)
+### 19. [Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026](https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 18 May 2026 01:33:20 -0400  
@@ -150,7 +177,7 @@
 
 ---
 
-### 17. [New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released](https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/)
+### 20. [New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released](https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 17 May 2026 18:30:08 -0400  
@@ -160,34 +187,16 @@
 
 ---
 
-### 18. [Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing](https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/)
+### 21. [CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
 
-**Source:** Bleeping Computer  
-**Published:** Sun, 17 May 2026 10:43:10 -0400  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 19. [Microsoft rejects critical Azure vulnerability report, no CVE issued](https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 16 May 2026 16:55:44 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
+**Source:** Krebs On Security  
+**Published:** Mon, 18 May 2026 20:48:21 +0000  
+**Severity:** High  
+**Categories:** Data Breach  
 
 ---
 
-### 20. [Russian hackers turn Kazuar backdoor into modular P2P botnet](https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 16 May 2026 10:15:37 -0400  
-**Severity:** Critical  
-**Categories:** Malware  
-
----
-
-### 21. [Patch Tuesday, May 2026 Edition](https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/)
+### 22. [Patch Tuesday, May 2026 Edition](https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 12 May 2026 21:46:45 +0000  
@@ -196,7 +205,7 @@
 
 ---
 
-### 22. [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
+### 23. [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 08 May 2026 02:58:46 +0000  
@@ -205,7 +214,7 @@
 
 ---
 
-### 23. [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
+### 24. [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 30 Apr 2026 14:04:26 +0000  
@@ -214,7 +223,7 @@
 
 ---
 
-### 24. [‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/)
+### 25. [‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 21 Apr 2026 14:53:59 +0000  
@@ -223,17 +232,17 @@
 
 ---
 
-### 25. [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
+### 26. [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
+**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
 
-### 26. [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/)
+### 27. [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 07 Apr 2026 17:02:44 +0000  
@@ -242,7 +251,7 @@
 
 ---
 
-### 27. [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
+### 28. [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 06 Apr 2026 02:07:17 +0000  
@@ -251,7 +260,7 @@
 
 ---
 
-### 28. [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/)
+### 29. [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 23 Mar 2026 15:43:04 +0000  
@@ -260,21 +269,12 @@
 
 ---
 
-### 29. [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/)
+### 30. [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 20 Mar 2026 00:49:19 +0000  
 **Severity:** High  
 **Categories:** Malware, DDoS  
-
----
-
-### 30. [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
-
-**Source:** Krebs On Security  
-**Published:** Wed, 11 Mar 2026 16:20:13 +0000  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -292,7 +292,7 @@
 **Source:** Security Week  
 **Published:** Mon, 18 May 2026 12:14:43 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44112, CVE-2026-44118, CVE-2026-44113, CVE-2026-44115  
+**CVEs:** CVE-2026-44115, CVE-2026-44113, CVE-2026-44112, CVE-2026-44118  
 **Categories:** Vulnerability, Malware, Supply Chain  
 
 ---
@@ -386,7 +386,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20128, CVE-2026-20133, CVE-2026-20182, CVE-2026-20122, CVE-2026-20127  
+**CVEs:** CVE-2026-20127, CVE-2026-20133, CVE-2026-20128, CVE-2026-20182, CVE-2026-20122  
 **Categories:** Vulnerability  
 
 ---
@@ -405,7 +405,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-40358, CVE-2026-33844, CVE-2026-35421, CVE-2026-33109, CVE-2026-32161  
+**CVEs:** CVE-2026-33109, CVE-2026-33844, CVE-2026-32161, CVE-2026-40358, CVE-2026-35421  
 **Categories:** Vulnerability  
 
 ---

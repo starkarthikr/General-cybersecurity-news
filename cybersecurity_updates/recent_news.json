@@ -186,6 +186,61 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
+    "link": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
+    "published": "Mon, 18 May 2026 18:15:30 -0400",
+    "summary": "More than 200 individuals were arrested for cybercrime activities during INTERPOL's Operation Ramz, which focused on the Middle East and North Africa. [...]",
+    "analysis": {
+      "issue": "More than 200 individuals were arrested for cybercrime activities during INTERPOL's Operation Ramz, which focused on the Middle East and North Africa",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "SHub macOS infostealer variant spoofs Apple security updates",
+    "link": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
+    "published": "Mon, 18 May 2026 17:42:20 -0400",
+    "summary": "A new variant of the 'SHub' macOS infostealer uses AppleScript to show a fake security update message and installs a backdoor. [...]",
+    "analysis": {
+      "issue": "A new variant of the ‘SHub’ macOS infostealer uses AppleScript to show a fake security update message and installs a backdoor",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
+    "link": "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/",
+    "published": "Mon, 18 May 2026 14:45:35 -0400",
+    "summary": "Many employees already use shadow AI tools at work without security review. Adaptive Security breaks down how teams can build practical AI governance without adding friction for employees. [...]",
+    "analysis": {
+      "issue": "When an employee installs an AI writing assistant, connects a coding copilot to their IDE, or starts summarizing meetings with a new browser tool, they are doing exactly what a productive employee should do: finding faster ways to work",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
     "link": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
     "published": "Mon, 18 May 2026 13:28:02 -0400",
@@ -318,56 +373,20 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
-    "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
-    "published": "Sun, 17 May 2026 10:43:10 -0400",
-    "summary": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
+    "source": "Krebs On Security",
+    "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
+    "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+    "published": "Mon, 18 May 2026 20:48:21 +0000",
+    "summary": "Until this past weekend, a contractor for the Cybersecurity &#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.",
     "analysis": {
-      "issue": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts",
+      "issue": "Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA ",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
-    "published": "Sat, 16 May 2026 16:55:44 -0400",
-    "summary": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE. Microsoft disputes the claim, telling BleepingComputer the behavior was expected and that \"no product changes were made,\" despite the researcher documenting a silent fix. [...]",
-    "analysis": {
-      "issue": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and blocking a CVE from being issued",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
-    "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
-    "published": "Sat, 16 May 2026 10:15:37 -0400",
-    "summary": "The Russian hacker group Secret Blizzard has developed its long-running Kazuar backdoor into a modular peer-to-peer (P2P) botnet designed for long-term persistence, stealth, and data collection. [...]",
-    "analysis": {
-      "issue": "The Russian hacker group Secret Blizzard has developed its long-running Kazuar backdoor into a modular peer-to-peer (P2P) botnet designed for long-term persistence, stealth, and data collection",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
+        "Data Breach"
       ]
     }
   },
@@ -461,8 +480,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-32201",
-        "CVE-2026-33825",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -549,24 +568,6 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
-    "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-    "published": "Wed, 11 Mar 2026 16:20:13 +0000",
-    "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency.",
-    "analysis": {
-      "issue": "A hacktivist group with links to Iran’s intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Security Week",
     "title": "Millions Impacted Across Several US Healthcare Data Breaches",
     "link": "https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/",
@@ -599,10 +600,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44112",
-        "CVE-2026-44118",
+        "CVE-2026-44115",
         "CVE-2026-44113",
-        "CVE-2026-44115"
+        "CVE-2026-44112",
+        "CVE-2026-44118"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -805,11 +806,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20128",
+        "CVE-2026-20127",
         "CVE-2026-20133",
+        "CVE-2026-20128",
         "CVE-2026-20182",
-        "CVE-2026-20122",
-        "CVE-2026-20127"
+        "CVE-2026-20122"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -848,11 +849,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-40358",
-        "CVE-2026-33844",
-        "CVE-2026-35421",
         "CVE-2026-33109",
-        "CVE-2026-32161"
+        "CVE-2026-33844",
+        "CVE-2026-32161",
+        "CVE-2026-40358",
+        "CVE-2026-35421"
       ],
       "threat_categories": [
         "Vulnerability"
