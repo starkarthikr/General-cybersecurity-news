@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-20 04:06:31 UTC
+**Last Updated:** 2026-05-20 04:46:34 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps](https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html)
+### 1. [GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories](https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 20 May 2026 09:31:15 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps](https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 19 May 2026 22:08:12 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability](https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html)
+### 3. [DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability](https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 19 May 2026 20:26:26 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [The New Phishing Click: How OAuth Consent Bypasses MFA](https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html)
+### 4. [The New Phishing Click: How OAuth Consent Bypasses MFA](https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 19 May 2026 17:00:00 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare](https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html)
+### 5. [Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare](https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 19 May 2026 16:14:45 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access](https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html)
+### 6. [SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access](https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 19 May 2026 14:53:15 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer](https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html)
+### 7. [Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer](https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 19 May 2026 13:19:23 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials](https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html)
+### 8. [Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials](https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 19 May 2026 10:58:06 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account](https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html)
+### 9. [Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account](https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 19 May 2026 10:24:17 +0530  
@@ -77,21 +86,12 @@
 
 ---
 
-### 9. [INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests](https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html)
+### 10. [INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests](https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 18 May 2026 22:51:18 +0530  
 **Severity:** Low  
 **Categories:** Malware, Phishing  
-
----
-
-### 10. [⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More](https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 18 May 2026 19:20:17 +0530  
-**Severity:** High  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -236,7 +236,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
+**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -355,7 +355,7 @@
 **Source:** Security Week  
 **Published:** Tue, 19 May 2026 09:42:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-31635, CVE-2026-46300  
+**CVEs:** CVE-2026-46300, CVE-2026-31635  
 **Categories:** Vulnerability  
 
 ---
@@ -375,7 +375,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30815, CVE-2026-30816, CVE-2026-30814  
+**CVEs:** CVE-2026-30815, CVE-2026-30814, CVE-2026-30816  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -403,7 +403,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20127, CVE-2026-20182, CVE-2026-20133, CVE-2026-20122, CVE-2026-20128  
+**CVEs:** CVE-2026-20128, CVE-2026-20127, CVE-2026-20133, CVE-2026-20122, CVE-2026-20182  
 **Categories:** Vulnerability  
 
 ---
@@ -422,7 +422,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-40358, CVE-2026-35421, CVE-2026-32161, CVE-2026-33109, CVE-2026-33844  
+**CVEs:** CVE-2026-32161, CVE-2026-33109, CVE-2026-33844, CVE-2026-35421, CVE-2026-40358  
 **Categories:** Vulnerability  
 
 ---

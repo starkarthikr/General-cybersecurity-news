@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
+    "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+    "published": "Wed, 20 May 2026 09:31:15 +0530",
+    "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum.\n\n\"While we currently have no evidence of impact to customer information stored outside of GitHub's internal repositories (such as our customers' enterprises,",
+    "analysis": {
+      "issue": "GitHub is investigating unauthorized access to internal repositories after TeamPCP listed alleged source code and internal organizations for sale",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
     "link": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
     "published": "Tue, 19 May 2026 22:08:12 +0530",
@@ -161,25 +179,6 @@
       "threat_categories": [
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
-    "link": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
-    "published": "Mon, 18 May 2026 19:20:17 +0530",
-    "summary": "Monday opens with a trust problem. A mail server flaw is under active use. A network control system was targeted. Trusted packages were poisoned. A fake model page pushed a stealer. Then came the familiar ransom claim: the data was returned and deleted.\nThe pattern is clear. One weak dependency can leak keys. One leaked key can open cloud access. One cloud foothold can become a production",
-    "analysis": {
-      "issue": "This week’s top cyber threats, attacks, breaches, malware, and urgent security updates",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -473,9 +472,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
+        "CVE-2026-34621",
         "CVE-2026-32201",
-        "CVE-2026-34621"
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -733,8 +732,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-31635",
-        "CVE-2026-46300"
+        "CVE-2026-46300",
+        "CVE-2026-31635"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -775,8 +774,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-30815",
-        "CVE-2026-30816",
-        "CVE-2026-30814"
+        "CVE-2026-30814",
+        "CVE-2026-30816"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -834,11 +833,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
+        "CVE-2026-20128",
         "CVE-2026-20127",
-        "CVE-2026-20182",
         "CVE-2026-20133",
         "CVE-2026-20122",
-        "CVE-2026-20128"
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -877,11 +876,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-40358",
-        "CVE-2026-35421",
         "CVE-2026-32161",
         "CVE-2026-33109",
-        "CVE-2026-33844"
+        "CVE-2026-33844",
+        "CVE-2026-35421",
+        "CVE-2026-40358"
       ],
       "threat_categories": [
         "Vulnerability"
