@@ -1,10 +1,46 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-20 11:27:41 UTC
+**Last Updated:** 2026-05-20 15:37:05 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem](https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html)
+### 1. [Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks](https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 20 May 2026 20:06:44 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 2. [Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API](https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 20 May 2026 18:21:43 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [Agent AI is Coming. Are You Ready?](https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 20 May 2026 17:28:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos](https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 20 May 2026 17:08:43 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem](https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 20 May 2026 16:00:00 +0530  
@@ -13,7 +49,7 @@
 
 ---
 
-### 2. [Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit](https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html)
+### 6. [Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit](https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 20 May 2026 13:58:26 +0530  
@@ -23,7 +59,7 @@
 
 ---
 
-### 3. [Grafana GitHub Breach Exposes Source Code via TanStack npm Attack](https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html)
+### 7. [Grafana GitHub Breach Exposes Source Code via TanStack npm Attack](https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 20 May 2026 10:42:06 +0530  
@@ -32,16 +68,7 @@
 
 ---
 
-### 4. [GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos](https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 20 May 2026 09:31:15 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 5. [Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps](https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html)
+### 8. [Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps](https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 19 May 2026 22:08:12 +0530  
@@ -50,7 +77,7 @@
 
 ---
 
-### 6. [DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability](https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html)
+### 9. [DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability](https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 19 May 2026 20:26:26 +0530  
@@ -60,7 +87,7 @@
 
 ---
 
-### 7. [The New Phishing Click: How OAuth Consent Bypasses MFA](https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html)
+### 10. [The New Phishing Click: How OAuth Consent Bypasses MFA](https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 19 May 2026 17:00:00 +0530  
@@ -69,34 +96,25 @@
 
 ---
 
-### 8. [Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare](https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html)
+### 11. [Identity Alone Isn't Enough: Why Device Security Has to Share the Load](https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 19 May 2026 16:14:45 +0530  
-**Severity:** High  
+**Source:** Bleeping Computer  
+**Published:** Wed, 20 May 2026 10:02:12 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Phishing  
+
+---
+
+### 12. [Drupal critical update to fix bug with high exploitation risk](https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 20 May 2026 08:52:29 -0400  
+**Severity:** Low  
 **Categories:** Vulnerability  
 
 ---
 
-### 9. [SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access](https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 19 May 2026 14:53:15 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer](https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 19 May 2026 13:19:23 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Exploit released for new PinTheft Arch Linux root escalation flaw](https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/)
+### 13. [Exploit released for new PinTheft Arch Linux root escalation flaw](https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 20 May 2026 06:52:31 -0400  
@@ -105,7 +123,7 @@
 
 ---
 
-### 12. [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
+### 14. [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 20 May 2026 04:14:08 -0400  
@@ -114,17 +132,17 @@
 
 ---
 
-### 13. [Microsoft shares mitigation for YellowKey Windows zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/)
+### 15. [Microsoft shares mitigation for YellowKey Windows zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 20 May 2026 03:31:15 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-45585  
+**CVEs:** CVE-2026-45585, CVE-2026-33825  
 **Categories:** Data Breach, Vulnerability, Malware  
 
 ---
 
-### 14. [GitHub investigates internal repositories breach claimed by TeamPCP](https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/)
+### 16. [GitHub investigates internal repositories breach claimed by TeamPCP](https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 20 May 2026 01:08:42 -0400  
@@ -133,7 +151,7 @@
 
 ---
 
-### 15. [Max-severity flaw in ChromaDB for AI apps allows server hijacking](https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/)
+### 17. [Max-severity flaw in ChromaDB for AI apps allows server hijacking](https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 19 May 2026 18:25:49 -0400  
@@ -143,7 +161,7 @@
 
 ---
 
-### 16. [Cybercrime service disrupted for abusing Microsoft platform to sign malware](https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/)
+### 18. [Cybercrime service disrupted for abusing Microsoft platform to sign malware](https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 19 May 2026 17:47:31 -0400  
@@ -152,7 +170,7 @@
 
 ---
 
-### 17. [Discord rolls out end-to-end encryption on voice, video calls](https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/)
+### 19. [Discord rolls out end-to-end encryption on voice, video calls](https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 19 May 2026 16:37:45 -0400  
@@ -161,29 +179,11 @@
 
 ---
 
-### 18. [FBI: Americans lost over $388 million to scams using crypto ATMs in 2025](https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/)
+### 20. [FBI: Americans lost over $388 million to scams using crypto ATMs in 2025](https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 19 May 2026 15:45:39 -0400  
 **Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [Microsoft Self-Service Password Reset abused in Azure data theft attacks](https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 19 May 2026 15:35:32 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 20. [Microsoft plans to improve Windows 11 driver quality in 2026](https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 19 May 2026 12:22:30 -0400  
-**Severity:** High  
 **Categories:** General Security  
 
 ---
@@ -238,7 +238,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -279,7 +279,35 @@
 
 ---
 
-### 31. [Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack](https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/)
+### 31. [AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop](https://www.securityweek.com/ai-powered-app-attacks-are-faster-more-frequent-and-harder-to-stop/)
+
+**Source:** Security Week  
+**Published:** Wed, 20 May 2026 14:37:36 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials](https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/)
+
+**Source:** Security Week  
+**Published:** Wed, 20 May 2026 13:34:54 +0000  
+**Severity:** High  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [Anthropic Silently Patches Claude Code Sandbox Bypass](https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/)
+
+**Source:** Security Week  
+**Published:** Wed, 20 May 2026 13:00:00 +0000  
+**Severity:** Low  
+**CVEs:** CVE-2025-66479  
+**Categories:** Vulnerability, Malware, Supply Chain  
+
+---
+
+### 34. [Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack](https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Wed, 20 May 2026 11:06:49 +0000  
@@ -288,7 +316,7 @@
 
 ---
 
-### 32. [Caught Off Guard: Securing AI After It Hits Production](https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/)
+### 35. [Caught Off Guard: Securing AI After It Hits Production](https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/)
 
 **Source:** Security Week  
 **Published:** Wed, 20 May 2026 11:00:00 +0000  
@@ -297,7 +325,7 @@
 
 ---
 
-### 33. [Real-World ICS Security Tales From the Trenches](https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/)
+### 36. [Real-World ICS Security Tales From the Trenches](https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/)
 
 **Source:** Security Week  
 **Published:** Wed, 20 May 2026 10:15:00 +0000  
@@ -306,7 +334,7 @@
 
 ---
 
-### 34. [Virtual Event Today: Threat Detection & Incident Response Summit](https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/)
+### 37. [Virtual Event Today: Threat Detection & Incident Response Summit](https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/)
 
 **Source:** Security Week  
 **Published:** Wed, 20 May 2026 10:00:00 +0000  
@@ -315,7 +343,7 @@
 
 ---
 
-### 35. [GitHub Confirms Hack Impacting 3,800 Internal Repositories](https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/)
+### 38. [GitHub Confirms Hack Impacting 3,800 Internal Repositories](https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/)
 
 **Source:** Security Week  
 **Published:** Wed, 20 May 2026 09:28:53 +0000  
@@ -324,7 +352,7 @@
 
 ---
 
-### 36. [Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector](https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/)
+### 39. [Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector](https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/)
 
 **Source:** Security Week  
 **Published:** Wed, 20 May 2026 00:04:48 +0000  
@@ -333,39 +361,11 @@
 
 ---
 
-### 37. [Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation](https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/)
+### 40. [Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation](https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/)
 
 **Source:** Security Week  
 **Published:** Tue, 19 May 2026 16:22:18 +0000  
 **Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 38. [Microsoft Disrupts Malware-Signing Service Run by ‘Fox Tempest’](https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/)
-
-**Source:** Security Week  
-**Published:** Tue, 19 May 2026 16:06:22 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Malware, Phishing, Supply Chain  
-
----
-
-### 39. [Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks](https://www.securityweek.com/legacy-windows-tool-mshta-fuels-surge-in-silent-malware-attacks/)
-
-**Source:** Security Week  
-**Published:** Tue, 19 May 2026 13:00:00 +0000  
-**Severity:** Critical  
-**Categories:** Malware, Phishing  
-
----
-
-### 40. [Unpatched ChromaDB Vulnerability Can Lead to Server Takeover](https://www.securityweek.com/unpatched-chromadb-vulnerability-can-lead-to-server-takeover/)
-
-**Source:** Security Week  
-**Published:** Tue, 19 May 2026 12:54:21 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-45829  
 **Categories:** Vulnerability  
 
 ---
@@ -375,7 +375,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30816, CVE-2026-30814, CVE-2026-30815  
+**CVEs:** CVE-2026-30814, CVE-2026-30815, CVE-2026-30816  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -403,7 +403,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20182, CVE-2026-20122, CVE-2026-20127, CVE-2026-20128, CVE-2026-20133  
+**CVEs:** CVE-2026-20133, CVE-2026-20182, CVE-2026-20128, CVE-2026-20122, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---
@@ -422,7 +422,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32161, CVE-2026-35421, CVE-2026-33844, CVE-2026-33109, CVE-2026-40358  
+**CVEs:** CVE-2026-40358, CVE-2026-33109, CVE-2026-33844, CVE-2026-35421, CVE-2026-32161  
 **Categories:** Vulnerability  
 
 ---
@@ -633,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -648,7 +648,16 @@
 
 ---
 
-### 71. [Biometrics, diagnoses, and bank details exposed in major healthcare breach](https://www.malwarebytes.com/blog/news/2026/05/biometrics-diagnoses-and-bank-details-exposed-in-major-healthcare-breach)
+### 71. [Firefox 151 packs big privacy upgrades into a small update](https://www.malwarebytes.com/blog/privacy/2026/05/firefox-151-packs-big-privacy-upgrades-into-a-small-update)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 20 May 2026 11:46:48 GMT  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 72. [Biometrics, diagnoses, and bank details exposed in major healthcare breach](https://www.malwarebytes.com/blog/news/2026/05/biometrics-diagnoses-and-bank-details-exposed-in-major-healthcare-breach)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 19 May 2026 15:56:38 GMT  
@@ -657,7 +666,7 @@
 
 ---
 
-### 72. [Facebook scam promises cheap Aldi meat boxes, steals payment info instead](https://www.malwarebytes.com/blog/scams/2026/05/facebook-scam-promises-cheap-aldi-meat-boxes-steals-payment-info-instead)
+### 73. [Facebook scam promises cheap Aldi meat boxes, steals payment info instead](https://www.malwarebytes.com/blog/scams/2026/05/facebook-scam-promises-cheap-aldi-meat-boxes-steals-payment-info-instead)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 19 May 2026 12:46:13 GMT  
@@ -666,7 +675,7 @@
 
 ---
 
-### 73. [YouTube wants your face to fight deepfakes](https://www.malwarebytes.com/blog/ai/2026/05/youtube-wants-your-face-to-fight-deepfakes)
+### 74. [YouTube wants your face to fight deepfakes](https://www.malwarebytes.com/blog/ai/2026/05/youtube-wants-your-face-to-fight-deepfakes)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 19 May 2026 10:51:56 GMT  
@@ -675,7 +684,7 @@
 
 ---
 
-### 74. [Microsoft is changing Edge’s plaintext password behavior](https://www.malwarebytes.com/blog/news/2026/05/microsoft-is-changing-edges-plaintext-password-behavior)
+### 75. [Microsoft is changing Edge’s plaintext password behavior](https://www.malwarebytes.com/blog/news/2026/05/microsoft-is-changing-edges-plaintext-password-behavior)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 18 May 2026 10:42:16 GMT  
@@ -684,7 +693,7 @@
 
 ---
 
-### 75. [A week in security (May 11 &#8211; May 17)](https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-may-11-may-17-2)
+### 76. [A week in security (May 11 &#8211; May 17)](https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-may-11-may-17-2)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 18 May 2026 07:02:00 GMT  
@@ -693,7 +702,7 @@
 
 ---
 
-### 76. [AI is distorting the Holocaust (Lock and Code S07E10)](https://www.malwarebytes.com/blog/podcast/2026/05/ai-is-distorting-the-holocaust-lock-and-code-s07e10)
+### 77. [AI is distorting the Holocaust (Lock and Code S07E10)](https://www.malwarebytes.com/blog/podcast/2026/05/ai-is-distorting-the-holocaust-lock-and-code-s07e10)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 18 May 2026 01:51:37 GMT  
@@ -702,7 +711,7 @@
 
 ---
 
-### 77. [Attackers replaced JDownloader installer downloads with malware](https://www.malwarebytes.com/blog/news/2026/05/attackers-replaced-jdownloader-installer-downloads-with-malware)
+### 78. [Attackers replaced JDownloader installer downloads with malware](https://www.malwarebytes.com/blog/news/2026/05/attackers-replaced-jdownloader-installer-downloads-with-malware)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 15 May 2026 12:45:47 GMT  
@@ -711,7 +720,7 @@
 
 ---
 
-### 78. [Meta’s confusing new approach to chat privacy](https://www.malwarebytes.com/blog/news/2026/05/metas-confusing-new-approach-to-chat-privacy)
+### 79. [Meta’s confusing new approach to chat privacy](https://www.malwarebytes.com/blog/news/2026/05/metas-confusing-new-approach-to-chat-privacy)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 15 May 2026 12:34:15 GMT  
@@ -720,21 +729,12 @@
 
 ---
 
-### 79. [Why Malwarebytes blocks some Yahoo Mail redirects](https://www.malwarebytes.com/blog/threat-intel/2026/05/why-malwarebytes-blocks-some-yahoo-mail-redirects)
+### 80. [Why Malwarebytes blocks some Yahoo Mail redirects](https://www.malwarebytes.com/blog/threat-intel/2026/05/why-malwarebytes-blocks-some-yahoo-mail-redirects)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 14 May 2026 10:47:52 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 80. [Deepfake sextortion forces schools to remove student photos from websites](https://www.malwarebytes.com/blog/family-and-parenting/2026/05/deepfake-sextortion-forces-schools-to-remove-student-photos-from-websites)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 14 May 2026 09:00:15 GMT  
-**Severity:** High  
-**Categories:** APT  
 
 ---
 

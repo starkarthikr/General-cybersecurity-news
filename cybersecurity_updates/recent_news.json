@@ -1,6 +1,79 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
+    "link": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
+    "published": "Wed, 20 May 2026 20:06:44 +0530",
+    "summary": "Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and other attacks, compromising thousands of machines and networks across the world.\n\nThe tech giant attributed the activity to a threat actor it calls Fox Tempest, which it said offered the MSaaS scheme",
+    "analysis": {
+      "issue": "Microsoft disrupted Fox Tempest’s MSaaS using 72-hour certificates, cutting signed malware delivery worldwide",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
+    "link": "https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html",
+    "published": "Wed, 20 May 2026 18:21:43 +0530",
+    "summary": "Cybersecurity researchers have flagged fresh activity from a China-aligned threat actor known as Webworm in 2025, deploying custom backdoors that employ Discord and Microsoft Graph API for command-and-control (C2 or C&amp;C) communications.\n\nWebworm, first publicly documented by Broadcom-owned Symantec in September 2022, is assessed to be active since at least 2022, targeting government agencies",
+    "analysis": {
+      "issue": "Webworm added EchoCreep and GraphWorm in 2025, using Discord and Microsoft Graph API C2 to expand stealth operations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Agent AI is Coming. Are You Ready?",
+    "link": "https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html",
+    "published": "Wed, 20 May 2026 17:28:00 +0530",
+    "summary": "New Industry Data Just Released Suggests Not.\n\nOn May 19th, 2026, Orchid Security released the results of our Identity Gap: Snapshot 2026. Among the findings, \"identity dark matter\" (the unseen, unmanaged elements of identity) now overshadows the visible elements 57% vs. 43%. And it couldn't have occurred at a worse time, with enterprises embracing Agent AI with both arms (and unfortunately, as",
+    "analysis": {
+      "issue": "Identity dark matter now exceeds visible IAM assets 57% to 43%, exposing Agent AI to unmanaged accounts, excess privileges, and orphaned access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
+    "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+    "published": "Wed, 20 May 2026 17:08:43 +0530",
+    "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum.\n\n\"While we currently have no evidence of impact to customer information stored outside of GitHub's internal repositories (such as our customers' enterprises,",
+    "analysis": {
+      "issue": "GitHub is investigating unauthorized access to internal repositories after TeamPCP listed alleged source code and internal organizations for sale",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem",
     "link": "https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html",
     "published": "Wed, 20 May 2026 16:00:00 +0530",
@@ -45,24 +118,6 @@
     "summary": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised.\n\nIt said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private source code along with internal GitHub repositories.\n\n\"After the initial assessment, we found that in addition to source",
     "analysis": {
       "issue": "Grafana GitHub breach stemmed from TanStack npm attack; missed token exposed repos, not customer production systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
-    "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
-    "published": "Wed, 20 May 2026 09:31:15 +0530",
-    "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum.\n\n\"While we currently have no evidence of impact to customer information stored outside of GitHub's internal repositories (such as our customers' enterprises,",
-    "analysis": {
-      "issue": "GitHub is investigating unauthorized access to internal repositories after TeamPCP listed alleged source code and internal organizations for sale",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -130,56 +185,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare",
-    "link": "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html",
-    "published": "Tue, 19 May 2026 16:14:45 +0530",
-    "summary": "Drupal has issued an alert stating that it intends to release a \"core security release\" for all supported branches on May 20, 2026, from 5-9 p.m. UTC.\n\n\"The Drupal Security Team urges you to reserve time for core updates at that time because exploits might be developed within hours or days,\" the maintainers of the PHP-based content management system (CMS) said.\n\n\"Not all configurations are",
+    "source": "Bleeping Computer",
+    "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
+    "link": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
+    "published": "Wed, 20 May 2026 10:02:12 -0400",
+    "summary": "Identity checks alone can't stop attackers using stolen session tokens and compromised devices. Specops Software outlines why Zero Trust strategies increasingly depend on continuous device verification. [...]",
     "analysis": {
-      "issue": "Drupal plans May 20 core security patches as exploits may follow within hours or days, requiring urgent site updates",
+      "issue": "Identity has long been the load-bearing wall of cybersecurity",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Drupal critical update to fix bug with high exploitation risk",
+    "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
+    "published": "Wed, 20 May 2026 08:52:29 -0400",
+    "summary": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]",
+    "analysis": {
+      "issue": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
-    "link": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
-    "published": "Tue, 19 May 2026 14:53:15 +0530",
-    "summary": "Critical security vulnerabilities have been disclosed in SEPPMail Secure E-Mail Gateway, an enterprise-grade email security solution, that could be exploited to achieve remote code execution and enable an attacker to read arbitrary mails from the virtual appliance.\n\"These vulnerabilities could have been exploited to read all mail traffic or as an entry vector into the internal network,\"",
-    "analysis": {
-      "issue": "Seven SEPPMail Secure E-Mail Gateway flaws disclosed, including RCE, path traversal, authorization, deserialization, and eval injection flaws",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
-    "link": "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html",
-    "published": "Tue, 19 May 2026 13:19:23 +0530",
-    "summary": "Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace.\n\nThe extension in question is rwl.angular-console (version 18.95.0), a popular user interface and plugin for code editors like VS Code, Cursor, and JetBrains. The VS Code extension has more than 2.2 million installations. The Open",
-    "analysis": {
-      "issue": "0 fetched a 498 KB stealer via GitHub orphan commit, exposing developer secrets and forcing credential rotation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -233,8 +271,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
-        "CVE-2026-45585"
+        "CVE-2026-45585",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Data Breach",
@@ -330,42 +368,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
-    "published": "Tue, 19 May 2026 15:35:32 -0400",
-    "summary": "A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features. [...]",
-    "analysis": {
-      "issue": "A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft plans to improve Windows 11 driver quality in 2026",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/",
-    "published": "Tue, 19 May 2026 12:22:30 -0400",
-    "summary": "Microsoft plans to raise the quality bar of Windows 11 drivers, as drivers \"sit at the heart of every Windows experience\" and connect the OS to the \"silicon, components, and peripherals.\" [...]",
-    "analysis": {
-      "issue": "Microsoft plans to raise the quality bar of Windows 11 drivers, as drivers \"sit at the heart of every Windows experience\" and connect the OS to the \"silicon, components, and peripherals",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -479,9 +481,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-34621",
         "CVE-2026-33825",
-        "CVE-2026-32201",
-        "CVE-2026-34621"
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -564,6 +566,64 @@
       "threat_categories": [
         "Malware",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop",
+    "link": "https://www.securityweek.com/ai-powered-app-attacks-are-faster-more-frequent-and-harder-to-stop/",
+    "published": "Wed, 20 May 2026 14:37:36 +0000",
+    "summary": "<p>Digital.ai’s latest threat report warns that agentic AI has erased the distinction between emerging and primary targets, enabling attackers to strike mobile apps within hours of release across every industry.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-powered-app-attacks-are-faster-more-frequent-and-harder-to-stop/\">AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "ai’s latest threat report warns that agentic AI has erased the distinction between emerging and primary targets, enabling attackers to strike mobile apps within hours of release across every industry",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials",
+    "link": "https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/",
+    "published": "Wed, 20 May 2026 13:34:54 +0000",
+    "summary": "<p>1Password says AI coding agents should never hold persistent secrets, introducing a just-in-time credential model for OpenAI Codex designed to keep credentials out of prompts, code repositories, and model context.</p>\n<p>The post <a href=\"https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/\">1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "1Password says AI coding agents should never hold persistent secrets, introducing a just-in-time credential model for OpenAI Codex designed to keep credentials out of prompts, code repositories, and model context",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Anthropic Silently Patches Claude Code Sandbox Bypass",
+    "link": "https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/",
+    "published": "Wed, 20 May 2026 13:00:00 +0000",
+    "summary": "<p>The researcher who found it says the vulnerability could have been chained with a prompt injection to exfiltrate data.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/\">Anthropic Silently Patches Claude Code Sandbox Bypass</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The researcher who found it says the vulnerability could have been chained with a prompt injection to exfiltrate data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-66479"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
       ]
     }
   },
@@ -707,66 +767,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Microsoft Disrupts Malware-Signing Service Run by ‘Fox Tempest’",
-    "link": "https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/",
-    "published": "Tue, 19 May 2026 16:06:22 +0000",
-    "summary": "<p> Fox Tempest provides a service that cybercriminals use to distribute ransomware and other malware disguised as legitimate software.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/\">Microsoft Disrupts Malware-Signing Service Run by &#8216;Fox Tempest&#8217; </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Fox Tempest provides a service that cybercriminals use to distribute ransomware and other malware disguised as legitimate software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks",
-    "link": "https://www.securityweek.com/legacy-windows-tool-mshta-fuels-surge-in-silent-malware-attacks/",
-    "published": "Tue, 19 May 2026 13:00:00 +0000",
-    "summary": "<p>Attackers are increasingly abusing Microsoft’s decades-old MSHTA utility to stealthily deliver stealers, loaders, and persistent malware through phishing, fake software downloads, and LOLBIN-based attack chains.</p>\n<p>The post <a href=\"https://www.securityweek.com/legacy-windows-tool-mshta-fuels-surge-in-silent-malware-attacks/\">Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Attackers are increasingly abusing Microsoft’s decades-old MSHTA utility to stealthily deliver stealers, loaders, and persistent malware through phishing, fake software downloads, and LOLBIN-based attack chains",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Unpatched ChromaDB Vulnerability Can Lead to Server Takeover",
-    "link": "https://www.securityweek.com/unpatched-chromadb-vulnerability-can-lead-to-server-takeover/",
-    "published": "Tue, 19 May 2026 12:54:21 +0000",
-    "summary": "<p>The security defect can be exploited remotely, without authentication, to execute arbitrary code and leak sensitive information.</p>\n<p>The post <a href=\"https://www.securityweek.com/unpatched-chromadb-vulnerability-can-lead-to-server-takeover/\">Unpatched ChromaDB Vulnerability Can Lead to Server Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The security defect can be exploited remotely, without authentication, to execute arbitrary code and leak sensitive information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-45829"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "TP-Link, Photoshop, OpenVPN, Norton VPN vulnerabilities",
     "link": "https://blog.talosintelligence.com/tp-link-photoshop-openvpn-norton-vpn-vulnerabilities/",
@@ -779,9 +779,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30816",
         "CVE-2026-30814",
-        "CVE-2026-30815"
+        "CVE-2026-30815",
+        "CVE-2026-30816"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -839,11 +839,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
+        "CVE-2026-20133",
         "CVE-2026-20182",
-        "CVE-2026-20122",
-        "CVE-2026-20127",
         "CVE-2026-20128",
-        "CVE-2026-20133"
+        "CVE-2026-20122",
+        "CVE-2026-20127"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -882,11 +882,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32161",
-        "CVE-2026-35421",
-        "CVE-2026-33844",
+        "CVE-2026-40358",
         "CVE-2026-33109",
-        "CVE-2026-40358"
+        "CVE-2026-33844",
+        "CVE-2026-35421",
+        "CVE-2026-32161"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1317,8 +1317,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1343,6 +1343,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Firefox 151 packs big privacy upgrades into a small update",
+    "link": "https://www.malwarebytes.com/blog/privacy/2026/05/firefox-151-packs-big-privacy-upgrades-into-a-small-update",
+    "published": "Wed, 20 May 2026 11:46:48 GMT",
+    "summary": "Firefox 151 adds major privacy improvements and fixes high-priority security vulnerabilities, making this an update you shouldn’t ignore.",
+    "analysis": {
+      "issue": "Mozilla has published release notes for Firefox browser version 151",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
       ]
     }
   },
@@ -1505,24 +1523,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Deepfake sextortion forces schools to remove student photos from websites",
-    "link": "https://www.malwarebytes.com/blog/family-and-parenting/2026/05/deepfake-sextortion-forces-schools-to-remove-student-photos-from-websites",
-    "published": "Thu, 14 May 2026 09:00:15 GMT",
-    "summary": "Experts are urging schools to take down identifiable photos of students, after AI deepfakes have led to sextortion cases at UK schools.",
-    "analysis": {
-      "issue": "Schools love a good photo, whether it’s from a trip to a castle, a science prize ceremony, or sports day shot from three angles",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "APT"
       ]
     }
   },
