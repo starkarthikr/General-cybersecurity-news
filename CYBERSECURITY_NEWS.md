@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-19 18:21:13 UTC
+**Last Updated:** 2026-05-20 04:06:31 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,53 @@
 
 ---
 
-### 11. [Microsoft plans to improve Windows 11 driver quality in 2026](https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/)
+### 11. [Max-severity flaw in ChromaDB for AI apps allows server hijacking](https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 19 May 2026 18:25:49 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2026-45829  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Cybercrime service disrupted for abusing Microsoft platform to sign malware](https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 19 May 2026 17:47:31 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 13. [Discord rolls out end-to-end encryption on voice, video calls](https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 19 May 2026 16:37:45 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 14. [FBI: Americans lost over $388 million to scams using crypto ATMs in 2025](https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 19 May 2026 15:45:39 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 15. [Microsoft Self-Service Password Reset abused in Azure data theft attacks](https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 19 May 2026 15:35:32 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 16. [Microsoft plans to improve Windows 11 driver quality in 2026](https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 19 May 2026 12:22:30 -0400  
@@ -104,7 +150,7 @@
 
 ---
 
-### 12. [Microsoft blames macOS update for undismissible Teams location prompts](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/)
+### 17. [Microsoft blames macOS update for undismissible Teams location prompts](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 19 May 2026 12:10:47 -0400  
@@ -113,7 +159,7 @@
 
 ---
 
-### 13. [New Shai-Hulud malware wave compromises 600 npm packages](https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/)
+### 18. [New Shai-Hulud malware wave compromises 600 npm packages](https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 19 May 2026 10:30:22 -0400  
@@ -122,7 +168,7 @@
 
 ---
 
-### 14. [7-Eleven confirms data breach claimed by the ShinyHunters gang](https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/)
+### 19. [7-Eleven confirms data breach claimed by the ShinyHunters gang](https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 19 May 2026 10:16:41 -0400  
@@ -131,57 +177,12 @@
 
 ---
 
-### 15. [Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation](https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/)
+### 20. [Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation](https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 19 May 2026 10:00:10 -0400  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 16. [Webinar: The hidden bottlenecks in network incident response](https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 19 May 2026 08:14:22 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 17. [Microsoft confirms patching issues in restricted Windows networks](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 19 May 2026 07:22:15 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 18. [INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers](https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 18 May 2026 18:15:30 -0400  
-**Severity:** Critical  
-**Categories:** Malware, Phishing  
-
----
-
-### 19. [SHub macOS infostealer variant spoofs Apple security updates](https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 18 May 2026 17:42:20 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 20. [5 Steps to Managing Shadow AI Tools Without Slowing Down Employees](https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 18 May 2026 14:45:35 -0400  
-**Severity:** High  
-**Categories:** APT  
 
 ---
 
@@ -235,7 +236,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -276,7 +277,16 @@
 
 ---
 
-### 31. [Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation](https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/)
+### 31. [Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector](https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/)
+
+**Source:** Security Week  
+**Published:** Wed, 20 May 2026 00:04:48 +0000  
+**Severity:** Critical  
+**Categories:** Ransomware, Data Breach, Vulnerability, Malware, Phishing, Supply Chain  
+
+---
+
+### 32. [Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation](https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/)
 
 **Source:** Security Week  
 **Published:** Tue, 19 May 2026 16:22:18 +0000  
@@ -285,7 +295,7 @@
 
 ---
 
-### 32. [Microsoft Disrupts Malware-Signing Service Run by ‘Fox Tempest’](https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/)
+### 33. [Microsoft Disrupts Malware-Signing Service Run by ‘Fox Tempest’](https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/)
 
 **Source:** Security Week  
 **Published:** Tue, 19 May 2026 16:06:22 +0000  
@@ -294,7 +304,7 @@
 
 ---
 
-### 33. [Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks](https://www.securityweek.com/legacy-windows-tool-mshta-fuels-surge-in-silent-malware-attacks/)
+### 34. [Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks](https://www.securityweek.com/legacy-windows-tool-mshta-fuels-surge-in-silent-malware-attacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 19 May 2026 13:00:00 +0000  
@@ -303,7 +313,7 @@
 
 ---
 
-### 34. [Unpatched ChromaDB Vulnerability Can Lead to Server Takeover](https://www.securityweek.com/unpatched-chromadb-vulnerability-can-lead-to-server-takeover/)
+### 35. [Unpatched ChromaDB Vulnerability Can Lead to Server Takeover](https://www.securityweek.com/unpatched-chromadb-vulnerability-can-lead-to-server-takeover/)
 
 **Source:** Security Week  
 **Published:** Tue, 19 May 2026 12:54:21 +0000  
@@ -313,7 +323,7 @@
 
 ---
 
-### 35. [B1ack’s Stash Marketplace Gives Away 4.6 Million Stolen Credit Cards](https://www.securityweek.com/b1acks-stash-marketplace-gives-away-4-6-million-stolen-credit-cards/)
+### 36. [B1ack’s Stash Marketplace Gives Away 4.6 Million Stolen Credit Cards](https://www.securityweek.com/b1acks-stash-marketplace-gives-away-4-6-million-stolen-credit-cards/)
 
 **Source:** Security Week  
 **Published:** Tue, 19 May 2026 11:59:13 +0000  
@@ -322,7 +332,7 @@
 
 ---
 
-### 36. [Cyber Resilience is the New Business Continuity Plan](https://www.securityweek.com/cyber-resilience-is-the-new-business-continuity-plan/)
+### 37. [Cyber Resilience is the New Business Continuity Plan](https://www.securityweek.com/cyber-resilience-is-the-new-business-continuity-plan/)
 
 **Source:** Security Week  
 **Published:** Tue, 19 May 2026 11:30:00 +0000  
@@ -331,7 +341,7 @@
 
 ---
 
-### 37. [201 Arrested in Crackdown on Cybercrime in Middle East, North Africa](https://www.securityweek.com/201-arrested-in-crackdown-on-cybercrime-in-middle-east-north-africa/)
+### 38. [201 Arrested in Crackdown on Cybercrime in Middle East, North Africa](https://www.securityweek.com/201-arrested-in-crackdown-on-cybercrime-in-middle-east-north-africa/)
 
 **Source:** Security Week  
 **Published:** Tue, 19 May 2026 10:32:14 +0000  
@@ -340,7 +350,7 @@
 
 ---
 
-### 38. [PoC Released for DirtyDecrypt Linux Kernel Vulnerability](https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/)
+### 39. [PoC Released for DirtyDecrypt Linux Kernel Vulnerability](https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Tue, 19 May 2026 09:42:56 +0000  
@@ -350,7 +360,7 @@
 
 ---
 
-### 39. [Critical Vulnerability Exposes Industrial Robot Fleets to Hacking](https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/)
+### 40. [Critical Vulnerability Exposes Industrial Robot Fleets to Hacking](https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/)
 
 **Source:** Security Week  
 **Published:** Tue, 19 May 2026 06:18:51 +0000  
@@ -360,21 +370,12 @@
 
 ---
 
-### 40. [Millions Impacted Across Several US Healthcare Data Breaches](https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/)
-
-**Source:** Security Week  
-**Published:** Mon, 18 May 2026 12:58:44 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Data Breach, Supply Chain  
-
----
-
 ### 41. [TP-Link, Photoshop, OpenVPN, Norton VPN vulnerabilities](https://blog.talosintelligence.com/tp-link-photoshop-openvpn-norton-vpn-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30814, CVE-2026-30816, CVE-2026-30815  
+**CVEs:** CVE-2026-30815, CVE-2026-30816, CVE-2026-30814  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -402,7 +403,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20122, CVE-2026-20128, CVE-2026-20133, CVE-2026-20127, CVE-2026-20182  
+**CVEs:** CVE-2026-20127, CVE-2026-20182, CVE-2026-20133, CVE-2026-20122, CVE-2026-20128  
 **Categories:** Vulnerability  
 
 ---
@@ -421,7 +422,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32161, CVE-2026-35421, CVE-2026-33844, CVE-2026-40358, CVE-2026-33109  
+**CVEs:** CVE-2026-40358, CVE-2026-35421, CVE-2026-32161, CVE-2026-33109, CVE-2026-33844  
 **Categories:** Vulnerability  
 
 ---

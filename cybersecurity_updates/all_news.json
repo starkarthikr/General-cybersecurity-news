@@ -185,6 +185,99 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
+    "link": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
+    "published": "Tue, 19 May 2026 18:25:49 -0400",
+    "summary": "A max-severity vulnerability in the latest Python FastAPI version of the ChromaDB project allows unauthenticated attackers to run arbitrary code on exposed servers. [...]",
+    "analysis": {
+      "issue": "A max-severity vulnerability in the latest Python FastAPI version of the ChromaDB project allows unauthenticated attackers to run arbitrary code on exposed servers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-45829"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware",
+    "link": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
+    "published": "Tue, 19 May 2026 17:47:31 -0400",
+    "summary": "Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudulent code-signing certificates used by ransomware gangs and other cybercriminals. [...]",
+    "analysis": {
+      "issue": "Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudulent code-signing certificates used by ransomware gangs and other cybercriminals",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Discord rolls out end-to-end encryption on voice, video calls",
+    "link": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
+    "published": "Tue, 19 May 2026 16:37:45 -0400",
+    "summary": "Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE). [...]",
+    "analysis": {
+      "issue": "Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/",
+    "published": "Tue, 19 May 2026 15:45:39 -0400",
+    "summary": "The FBI says Americans have lost over $388 million last year to scams using cryptocurrency kiosks, also known as crypto ATMs or Bitcoin ATMs. [...]",
+    "analysis": {
+      "issue": "The FBI says Americans have lost over $388 million last year to scams using cryptocurrency kiosks, also known as crypto ATMs or Bitcoin ATMs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
+    "published": "Tue, 19 May 2026 15:35:32 -0400",
+    "summary": "A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features. [...]",
+    "analysis": {
+      "issue": "A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft plans to improve Windows 11 driver quality in 2026",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/",
     "published": "Tue, 19 May 2026 12:22:30 -0400",
@@ -270,97 +363,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Webinar: The hidden bottlenecks in network incident response",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
-    "published": "Tue, 19 May 2026 08:14:22 -0400",
-    "summary": "IT teams are increasingly overwhelmed by alerts from disconnected systems, forcing responders to manually coordinate investigations during network incidents. This webinar explores how automation and AI-assisted workflows can help reduce response delays and improve operational coordination. [...]",
-    "analysis": {
-      "issue": "IT teams now get deluged by alerts from monitoring platforms, infrastructure systems, identity services, ticketing platforms, and security tools",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft confirms patching issues in restricted Windows networks",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
-    "published": "Tue, 19 May 2026 07:22:15 -0400",
-    "summary": "Microsoft says customers in restricted network environments may encounter Windows Update failures after installing the January 2026 optional non-security preview updates. [...]",
-    "analysis": {
-      "issue": "Microsoft says customers in restricted network environments may encounter Windows Update failures after installing the January 2026 optional non-security preview updates",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
-    "link": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
-    "published": "Mon, 18 May 2026 18:15:30 -0400",
-    "summary": "More than 200 individuals were arrested for cybercrime activities during INTERPOL's Operation Ramz, which focused on the Middle East and North Africa. [...]",
-    "analysis": {
-      "issue": "More than 200 individuals were arrested for cybercrime activities during INTERPOL's Operation Ramz, which focused on the Middle East and North Africa",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "SHub macOS infostealer variant spoofs Apple security updates",
-    "link": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
-    "published": "Mon, 18 May 2026 17:42:20 -0400",
-    "summary": "A new variant of the 'SHub' macOS infostealer uses AppleScript to show a fake security update message and installs a backdoor. [...]",
-    "analysis": {
-      "issue": "A new variant of the ‘SHub’ macOS infostealer uses AppleScript to show a fake security update message and installs a backdoor",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
-    "link": "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/",
-    "published": "Mon, 18 May 2026 14:45:35 -0400",
-    "summary": "Many employees already use shadow AI tools at work without security review. Adaptive Security breaks down how teams can build practical AI governance without adding friction for employees. [...]",
-    "analysis": {
-      "issue": "When an employee installs an AI writing assistant, connects a coding copilot to their IDE, or starts summarizing meetings with a new browser tool, they are doing exactly what a productive employee should do: finding faster ways to work",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "APT"
       ]
     }
   },
@@ -471,9 +473,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
+        "CVE-2026-33825",
         "CVE-2026-32201",
-        "CVE-2026-33825"
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -556,6 +558,29 @@
       "threat_categories": [
         "Malware",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector",
+    "link": "https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/",
+    "published": "Wed, 20 May 2026 00:04:48 +0000",
+    "summary": "<p>Verizon’s 2026 DBIR finds vulnerability exploitation has overtaken credential abuse as the leading breach vector, as AI accelerates attacks, patching delays worsen, and ransomware and third-party compromises continue to surge.</p>\n<p>The post <a href=\"https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/\">Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Verizon’s 2026 DBIR finds vulnerability exploitation has overtaken credential abuse as the leading breach vector, as AI accelerates attacks, patching delays worsen, and ransomware and third-party compromises continue to surge",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "Supply Chain"
       ]
     }
   },
@@ -737,26 +762,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Millions Impacted Across Several US Healthcare Data Breaches",
-    "link": "https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/",
-    "published": "Mon, 18 May 2026 12:58:44 +0000",
-    "summary": "<p>Several healthcare data breaches impacting hundreds of thousands and even millions were added to the HHS tracker.</p>\n<p>The post <a href=\"https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/\">Millions Impacted Across Several US Healthcare Data Breaches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Several healthcare data breaches impacting hundreds of thousands and even millions were added to the HHS tracker",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "TP-Link, Photoshop, OpenVPN, Norton VPN vulnerabilities",
     "link": "https://blog.talosintelligence.com/tp-link-photoshop-openvpn-norton-vpn-vulnerabilities/",
@@ -769,9 +774,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30814",
+        "CVE-2026-30815",
         "CVE-2026-30816",
-        "CVE-2026-30815"
+        "CVE-2026-30814"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -829,11 +834,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20122",
-        "CVE-2026-20128",
-        "CVE-2026-20133",
         "CVE-2026-20127",
-        "CVE-2026-20182"
+        "CVE-2026-20182",
+        "CVE-2026-20133",
+        "CVE-2026-20122",
+        "CVE-2026-20128"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -872,11 +877,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32161",
-        "CVE-2026-35421",
-        "CVE-2026-33844",
         "CVE-2026-40358",
-        "CVE-2026-33109"
+        "CVE-2026-35421",
+        "CVE-2026-32161",
+        "CVE-2026-33109",
+        "CVE-2026-33844"
       ],
       "threat_categories": [
         "Vulnerability"
