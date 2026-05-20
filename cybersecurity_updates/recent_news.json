@@ -1,7 +1,63 @@
 [
   {
     "source": "The Hacker News",
-    "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
+    "title": "Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem",
+    "link": "https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html",
+    "published": "Wed, 20 May 2026 16:00:00 +0530",
+    "summary": "AI-generated lookalike domains are now embedded inside the third-party scripts running on your web properties. Here's why your current stack can't see them, and what detection actually requires.\nDownload the CISO Expert Guide to Typosquatting in the AI Era →\n\n\nTL;DR&nbsp;\n\n\n  Typosquatting is no longer a user problem. Attackers now embed lookalike domains inside legitimate third-party scripts.",
+    "analysis": {
+      "issue": "AI typosquatting embeds lookalike domains in trusted scripts; $8",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
+    "link": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
+    "published": "Wed, 20 May 2026 13:58:26 +0530",
+    "summary": "Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week.\n\nThe zero-day flaw, now tracked as CVE-2026-45585, carries a CVSS score of 6.8. It has been described as a BitLocker security feature bypass.\n\n\"Microsoft is aware of a security feature bypass vulnerability in Windows publicly referred to as 'YellowKey,'\" the",
+    "analysis": {
+      "issue": "Microsoft released mitigations for YellowKey, a publicly disclosed BitLocker bypass tracked as CVE-2026-45585 with a CVSS score of 6",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-45585"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
+    "link": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
+    "published": "Wed, 20 May 2026 10:42:06 +0530",
+    "summary": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised.\n\nIt said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private source code along with internal GitHub repositories.\n\n\"After the initial assessment, we found that in addition to source",
+    "analysis": {
+      "issue": "Grafana GitHub breach stemmed from TanStack npm attack; missed token exposed repos, not customer production systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
     "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
     "published": "Wed, 20 May 2026 09:31:15 +0530",
     "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum.\n\n\"While we currently have no evidence of impact to customer information stored outside of GitHub's internal repositories (such as our customers' enterprises,",
@@ -128,13 +184,73 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials",
-    "link": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
-    "published": "Tue, 19 May 2026 10:58:06 +0530",
-    "summary": "In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentials and exfiltrates them to an attacker-controlled server.\n\n\"Every existing tag in the repository has been moved to point to an imposter commit that does not appear in the action's normal commit history,",
+    "source": "Bleeping Computer",
+    "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
+    "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
+    "published": "Wed, 20 May 2026 06:52:31 -0400",
+    "summary": "PinTheft, a recently patched Linux privilege escalation vulnerability, now has a publicly available proof-of-concept (PoC) exploit that allows local attackers to gain root privileges on Arch Linux systems. [...]",
     "analysis": {
-      "issue": "GitHub Action tags point to malicious commits, exposing CI/CD credentials; 15 second-action tags also compromised",
+      "issue": "A recently patched Linux privilege escalation vulnerability now has a publicly available proof-of-concept (PoC) exploit that allows local attackers to gain root privileges on Arch Linux systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+    "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+    "published": "Wed, 20 May 2026 04:14:08 -0400",
+    "summary": "GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
+    "analysis": {
+      "issue": "GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
+    "published": "Wed, 20 May 2026 03:31:15 -0400",
+    "summary": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. [...]",
+    "analysis": {
+      "issue": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-33825",
+        "CVE-2026-45585"
+      ],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
+    "link": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
+    "published": "Wed, 20 May 2026 01:08:42 -0400",
+    "summary": "GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories containing private code. [...]",
+    "analysis": {
+      "issue": "Update May 20, 04:17 EDT: GitHub has now confirmed the breach of ~3,800 internal repositories after an employee installed a malicious VS Code extension",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -142,43 +258,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account",
-    "link": "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html",
-    "published": "Tue, 19 May 2026 10:24:17 +0530",
-    "summary": "Cybersecurity researchers have discovered a fresh software supply chain attack campaign that has compromised various npm packages associated with the @antv ecosystem as part of the ongoing Mini Shai-Hulud attack wave.\n\n\"The attack affects packages tied to the npm maintainer account atool, including echarts-for-react, a widely used React wrapper for Apache ECharts with roughly 1.1 million weekly",
-    "analysis": {
-      "issue": "Mini Shai-Hulud hits @antv and echarts-for-react via npm maintainer compromise, exposing 1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
-    "link": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
-    "published": "Mon, 18 May 2026 22:51:18 +0530",
-    "summary": "INTERPOL has coordinated a first-of-its-kind cybercrime crackdown across the Middle East and North Africa (MENA) that led to 201 arrests and the identification of an additional 382 suspects.\nThe initiative involved the efforts of 13 countries from the region between October 2025 and February 2026, aiming to investigate and neutralize malicious infrastructure, arrest perpetrators behind these",
-    "analysis": {
-      "issue": "Operation Ramz led to 201 arrests across 13 MENA countries, disrupting phishing, malware, and fraud networks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -294,78 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft blames macOS update for undismissible Teams location prompts",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
-    "published": "Tue, 19 May 2026 12:10:47 -0400",
-    "summary": "Microsoft has confirmed user reports that the Teams team collaboration app is displaying non-dismissible location prompts on some macOS systems. [...]",
-    "analysis": {
-      "issue": "Microsoft has confirmed user reports that the Teams team collaboration app is displaying non-dismissible location prompts on some macOS systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Shai-Hulud malware wave compromises 600 npm packages",
-    "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
-    "published": "Tue, 19 May 2026 10:30:22 -0400",
-    "summary": "Threat actors earlier today published more than 600 malicious packages to the Node Package Manager (npm) index as part of a new Shai-Hulud supply-chain campaign. [...]",
-    "analysis": {
-      "issue": "Threat actors earlier today published more than 600 malicious packages to the Node Package Manager (npm) index as part of a new Shai-Hulud supply-chain campaign",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "7-Eleven confirms data breach claimed by the ShinyHunters gang",
-    "link": "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/",
-    "published": "Tue, 19 May 2026 10:16:41 -0400",
-    "summary": "Convenience store chain giant 7-Eleven confirmed that its systems were breached in a cyberattack claimed by the ShinyHunters extortion group last month. [...]",
-    "analysis": {
-      "issue": "Convenience store chain giant 7-Eleven confirmed that its systems were breached in a cyberattack claimed by the ShinyHunters extortion group last month",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/",
-    "published": "Tue, 19 May 2026 10:00:10 -0400",
-    "summary": "Microsoft's total vulnerability count stayed steady in 2025, but critical flaws surged year over year. BeyondTrust breaks down why attackers are increasingly focused on privilege escalation and identity abuse. [...]",
-    "analysis": {
-      "issue": "Haber, Chief Security Advisor, BeyondTrust, and James Maude, Field Chief Technology Officer, BeyondTrust As analyzed in the 2026 Microsoft Vulnerabilities Report, Microsoft disclosed 1,273 vulnerabilities in 2025, which represents a dip from 1,360 th",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
     "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
@@ -472,9 +479,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
+        "CVE-2026-33825",
         "CVE-2026-32201",
-        "CVE-2026-33825"
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -557,6 +564,104 @@
       "threat_categories": [
         "Malware",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack",
+    "link": "https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/",
+    "published": "Wed, 20 May 2026 11:06:49 +0000",
+    "summary": "<p>A compromised maintainer account was used to publish malicious package versions across the @antv namespace.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/\">Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A compromised maintainer account was used to publish malicious package versions across the @antv namespace",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Caught Off Guard: Securing AI After It Hits Production",
+    "link": "https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/",
+    "published": "Wed, 20 May 2026 11:00:00 +0000",
+    "summary": "<p>As enterprises rush AI projects into production, security teams are increasingly being forced into reactive mode.</p>\n<p>The post <a href=\"https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/\">Caught Off Guard: Securing AI After It Hits Production</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "As enterprises rush AI projects into production, security teams are increasingly being forced into reactive mode",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "DDoS",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Real-World ICS Security Tales From the Trenches",
+    "link": "https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/",
+    "published": "Wed, 20 May 2026 10:15:00 +0000",
+    "summary": "<p>SecurityWeek spoke with several ICS security experts and companies about their most memorable experiences in the field.</p>\n<p>The post <a href=\"https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/\">Real-World ICS Security Tales From the Trenches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "SecurityWeek spoke with several ICS security experts and companies about their most memorable experiences in the field",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Virtual Event Today: Threat Detection & Incident Response Summit",
+    "link": "https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/",
+    "published": "Wed, 20 May 2026 10:00:00 +0000",
+    "summary": "<p>Don't miss this virtual event as we explore how to cut through alert fatigue, leverage AI and unified platforms to accelerate investigations, and apply actionable threat intelligence.</p>\n<p>The post <a href=\"https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/\">Virtual Event Today: Threat Detection &amp; Incident Response Summit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Don’t miss this virtual event as we explore how to cut through alert fatigue, leverage AI and unified platforms to accelerate investigations, and apply actionable threat intelligence",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "GitHub Confirms Hack Impacting 3,800 Internal Repositories",
+    "link": "https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/",
+    "published": "Wed, 20 May 2026 09:28:53 +0000",
+    "summary": "<p>The TeamPCP hacking group accessed the repositories after a GitHub employee installed a poisoned VS Code extension.</p>\n<p>The post <a href=\"https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/\">GitHub Confirms Hack Impacting 3,800 Internal Repositories</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The TeamPCP hacking group accessed the repositories after a GitHub employee installed a poisoned VS Code extension",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
       ]
     }
   },
@@ -662,105 +767,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "B1ack’s Stash Marketplace Gives Away 4.6 Million Stolen Credit Cards",
-    "link": "https://www.securityweek.com/b1acks-stash-marketplace-gives-away-4-6-million-stolen-credit-cards/",
-    "published": "Tue, 19 May 2026 11:59:13 +0000",
-    "summary": "<p>The stolen credit card data was released as a free download, allegedly in response to seller misconduct.</p>\n<p>The post <a href=\"https://www.securityweek.com/b1acks-stash-marketplace-gives-away-4-6-million-stolen-credit-cards/\">B1ack&#8217;s Stash Marketplace Gives Away 4.6 Million Stolen Credit Cards</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The stolen credit card data was released as a free download, allegedly in response to seller misconduct",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cyber Resilience is the New Business Continuity Plan",
-    "link": "https://www.securityweek.com/cyber-resilience-is-the-new-business-continuity-plan/",
-    "published": "Tue, 19 May 2026 11:30:00 +0000",
-    "summary": "<p>The organizations best prepared to face disruption are those that align security, continuity and risk management around what the business cannot afford to lose.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyber-resilience-is-the-new-business-continuity-plan/\">Cyber Resilience is the New Business Continuity Plan</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The organizations best prepared to face disruption are those that align security, continuity and risk management around what the business cannot afford to lose",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "201 Arrested in Crackdown on Cybercrime in Middle East, North Africa",
-    "link": "https://www.securityweek.com/201-arrested-in-crackdown-on-cybercrime-in-middle-east-north-africa/",
-    "published": "Tue, 19 May 2026 10:32:14 +0000",
-    "summary": "<p>The 13-country effort, named Operation Ramz, targeted cyber threats in the Middle East and North Africa region.</p>\n<p>The post <a href=\"https://www.securityweek.com/201-arrested-in-crackdown-on-cybercrime-in-middle-east-north-africa/\">201 Arrested in Crackdown on Cybercrime in Middle East, North Africa</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The 13-country effort, named Operation Ramz, targeted cyber threats in the Middle East and North Africa region",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "PoC Released for DirtyDecrypt Linux Kernel Vulnerability",
-    "link": "https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/",
-    "published": "Tue, 19 May 2026 09:42:56 +0000",
-    "summary": "<p>Patched in April, the underlying vulnerability allows local attackers to elevate their privileges to root.</p>\n<p>The post <a href=\"https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/\">PoC Released for DirtyDecrypt Linux Kernel Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Patched in April, the underlying vulnerability allows local attackers to elevate their privileges to root",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-46300",
-        "CVE-2026-31635"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical Vulnerability Exposes Industrial Robot Fleets to Hacking",
-    "link": "https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/",
-    "published": "Tue, 19 May 2026 06:18:51 +0000",
-    "summary": "<p>The vulnerability, CVE-2026-8153, affects Universal Robots PolyScope 5 and it can be exploited for OS command injection. </p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/\">Critical Vulnerability Exposes Industrial Robot Fleets to Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The vulnerability, CVE-2026-8153, affects Universal Robots PolyScope 5 and it can be exploited for OS command injection",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-8153"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "TP-Link, Photoshop, OpenVPN, Norton VPN vulnerabilities",
     "link": "https://blog.talosintelligence.com/tp-link-photoshop-openvpn-norton-vpn-vulnerabilities/",
@@ -773,9 +779,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30815",
+        "CVE-2026-30816",
         "CVE-2026-30814",
-        "CVE-2026-30816"
+        "CVE-2026-30815"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -833,11 +839,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20128",
-        "CVE-2026-20127",
-        "CVE-2026-20133",
+        "CVE-2026-20182",
         "CVE-2026-20122",
-        "CVE-2026-20182"
+        "CVE-2026-20127",
+        "CVE-2026-20128",
+        "CVE-2026-20133"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -877,9 +883,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-32161",
-        "CVE-2026-33109",
-        "CVE-2026-33844",
         "CVE-2026-35421",
+        "CVE-2026-33844",
+        "CVE-2026-33109",
         "CVE-2026-40358"
       ],
       "threat_categories": [
