@@ -186,6 +186,45 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
+    "published": "Wed, 20 May 2026 17:36:24 -0400",
+    "summary": "The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an online store in California. [...]",
+    "analysis": {
+      "issue": "The Ukrainian cyberpolice, working in conjunction with U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
+    "published": "Wed, 20 May 2026 17:19:17 -0400",
+    "summary": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]",
+    "analysis": {
+      "issue": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Medium",
+      "cves": [
+        "CVE-2024-12802"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Grafana breach caused by missed token rotation after TanStack attack",
     "link": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
     "published": "Wed, 20 May 2026 11:46:37 -0400",
@@ -339,43 +378,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware",
-    "link": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
-    "published": "Tue, 19 May 2026 17:47:31 -0400",
-    "summary": "Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudulent code-signing certificates used by ransomware gangs and other cybercriminals. [...]",
-    "analysis": {
-      "issue": "Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudulent code-signing certificates used by ransomware gangs and other cybercriminals",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Discord rolls out end-to-end encryption on voice, video calls",
-    "link": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
-    "published": "Tue, 19 May 2026 16:37:45 -0400",
-    "summary": "Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE). [...]",
-    "analysis": {
-      "issue": "Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
     "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
@@ -482,9 +484,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
+        "CVE-2026-33825",
         "CVE-2026-34621",
-        "CVE-2026-33825"
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -779,8 +781,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-30815",
-        "CVE-2026-30816",
-        "CVE-2026-30814"
+        "CVE-2026-30814",
+        "CVE-2026-30816"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -838,11 +840,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20182",
-        "CVE-2026-20133",
         "CVE-2026-20128",
         "CVE-2026-20127",
-        "CVE-2026-20122"
+        "CVE-2026-20122",
+        "CVE-2026-20133",
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -883,9 +885,9 @@
       "cves": [
         "CVE-2026-33844",
         "CVE-2026-35421",
+        "CVE-2026-40358",
         "CVE-2026-33109",
-        "CVE-2026-32161",
-        "CVE-2026-40358"
+        "CVE-2026-32161"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1316,8 +1318,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

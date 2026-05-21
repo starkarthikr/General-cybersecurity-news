@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-20 18:40:19 UTC
+**Last Updated:** 2026-05-21 04:15:44 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,26 @@
 
 ---
 
-### 11. [Grafana breach caused by missed token rotation after TanStack attack](https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/)
+### 11. [Ukraine identifies infostealer operator tied to 28,000 stolen accounts](https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 20 May 2026 17:36:24 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 12. [Hackers bypass SonicWall VPN MFA due to incomplete patching](https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 20 May 2026 17:19:17 -0400  
+**Severity:** Medium  
+**CVEs:** CVE-2024-12802  
+**Categories:** Ransomware, Vulnerability  
+
+---
+
+### 13. [Grafana breach caused by missed token rotation after TanStack attack](https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 20 May 2026 11:46:37 -0400  
@@ -105,7 +124,7 @@
 
 ---
 
-### 12. [Identity Alone Isn't Enough: Why Device Security Has to Share the Load](https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/)
+### 14. [Identity Alone Isn't Enough: Why Device Security Has to Share the Load](https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 20 May 2026 10:02:12 -0400  
@@ -114,7 +133,7 @@
 
 ---
 
-### 13. [Drupal critical update to fix bug with high exploitation risk](https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/)
+### 15. [Drupal critical update to fix bug with high exploitation risk](https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 20 May 2026 08:52:29 -0400  
@@ -123,7 +142,7 @@
 
 ---
 
-### 14. [Exploit released for new PinTheft Arch Linux root escalation flaw](https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/)
+### 16. [Exploit released for new PinTheft Arch Linux root escalation flaw](https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 20 May 2026 06:52:31 -0400  
@@ -132,7 +151,7 @@
 
 ---
 
-### 15. [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
+### 17. [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 20 May 2026 04:14:08 -0400  
@@ -141,7 +160,7 @@
 
 ---
 
-### 16. [Microsoft shares mitigation for YellowKey Windows zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/)
+### 18. [Microsoft shares mitigation for YellowKey Windows zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 20 May 2026 03:31:15 -0400  
@@ -151,7 +170,7 @@
 
 ---
 
-### 17. [GitHub investigates internal repositories breach claimed by TeamPCP](https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/)
+### 19. [GitHub investigates internal repositories breach claimed by TeamPCP](https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 20 May 2026 01:08:42 -0400  
@@ -160,31 +179,13 @@
 
 ---
 
-### 18. [Max-severity flaw in ChromaDB for AI apps allows server hijacking](https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/)
+### 20. [Max-severity flaw in ChromaDB for AI apps allows server hijacking](https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 19 May 2026 18:25:49 -0400  
 **Severity:** Low  
 **CVEs:** CVE-2026-45829  
 **Categories:** Vulnerability  
-
----
-
-### 19. [Cybercrime service disrupted for abusing Microsoft platform to sign malware](https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 19 May 2026 17:47:31 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Malware  
-
----
-
-### 20. [Discord rolls out end-to-end encryption on voice, video calls](https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 19 May 2026 16:37:45 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -238,7 +239,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -376,7 +377,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30815, CVE-2026-30816, CVE-2026-30814  
+**CVEs:** CVE-2026-30815, CVE-2026-30814, CVE-2026-30816  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -404,7 +405,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20182, CVE-2026-20133, CVE-2026-20128, CVE-2026-20127, CVE-2026-20122  
+**CVEs:** CVE-2026-20128, CVE-2026-20127, CVE-2026-20122, CVE-2026-20133, CVE-2026-20182  
 **Categories:** Vulnerability  
 
 ---
@@ -423,7 +424,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33844, CVE-2026-35421, CVE-2026-33109, CVE-2026-32161, CVE-2026-40358  
+**CVEs:** CVE-2026-33844, CVE-2026-35421, CVE-2026-40358, CVE-2026-33109, CVE-2026-32161  
 **Categories:** Vulnerability  
 
 ---
@@ -634,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
