@@ -189,6 +189,27 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Google accidentally exposed details of unfixed Chromium flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
+    "published": "Thu, 21 May 2026 14:13:50 -0400",
+    "summary": "Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the device. [...]",
+    "analysis": {
+      "issue": "Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the device",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
     "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
     "published": "Thu, 21 May 2026 11:11:08 -0400",
@@ -358,27 +379,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
-    "published": "Wed, 20 May 2026 17:19:17 -0400",
-    "summary": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]",
-    "analysis": {
-      "issue": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Medium",
-      "cves": [
-        "CVE-2024-12802"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
     "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
@@ -485,9 +485,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
+        "CVE-2026-34621",
         "CVE-2026-32201",
-        "CVE-2026-34621"
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -681,13 +681,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2010-0249",
         "CVE-2009-3459",
-        "CVE-2009-1537",
-        "CVE-2008-4250",
-        "CVE-2010-0806",
         "CVE-2026-41091",
-        "CVE-2026-45498"
+        "CVE-2026-45498",
+        "CVE-2010-0249",
+        "CVE-2010-0806",
+        "CVE-2009-1537",
+        "CVE-2008-4250"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -775,6 +775,24 @@
   },
   {
     "source": "Talos Blog",
+    "title": "The art of being ungovernable",
+    "link": "https://blog.talosintelligence.com/the-art-of-being-ungovernable/",
+    "published": "Thu, 21 May 2026 18:00:14 GMT",
+    "summary": "In this edition of the Threat Source newsletter, William explores the value of being \"ungovernable\" in a professional setting, sharing how challenging the status quo and seeking out the smartest people in the room can lead to a more fulfilling and successful career.",
+    "analysis": {
+      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
     "title": "TP-Link, Photoshop, OpenVPN, Norton VPN vulnerabilities",
     "link": "https://blog.talosintelligence.com/tp-link-photoshop-openvpn-norton-vpn-vulnerabilities/",
     "published": "Tue, 19 May 2026 15:39:37 GMT",
@@ -786,8 +804,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30816",
         "CVE-2026-30814",
+        "CVE-2026-30816",
         "CVE-2026-30815"
       ],
       "threat_categories": [
@@ -846,11 +864,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20133",
-        "CVE-2026-20182",
-        "CVE-2026-20122",
         "CVE-2026-20127",
-        "CVE-2026-20128"
+        "CVE-2026-20128",
+        "CVE-2026-20133",
+        "CVE-2026-20122",
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -889,11 +907,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33109",
-        "CVE-2026-40358",
         "CVE-2026-32161",
         "CVE-2026-33844",
-        "CVE-2026-35421"
+        "CVE-2026-35421",
+        "CVE-2026-33109",
+        "CVE-2026-40358"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -957,22 +975,20 @@
     }
   },
   {
-    "source": "Talos Blog",
-    "title": "UAT-8302 and its box full of malware",
-    "link": "https://blog.talosintelligence.com/uat-8302/",
-    "published": "Tue, 05 May 2026 10:00:30 GMT",
-    "summary": "Cisco Talos is disclosing UAT-8302, a sophisticated, China-nexus advanced persistent threat (APT) group targeting government entities in South America since at least late 2024 and government agencies in southeastern Europe in 2025.",
+    "source": "Recorded Future",
+    "title": "The Vulnerability Flood Is Now a Board Conversation. Here's How to Lead It.",
+    "link": "https://www.recordedfuture.com/blog/intelligence-led-vulnerability-prioritization",
+    "published": "Thu, 21 May 2026 00:00:00 GMT",
+    "summary": "Learn how intelligence-led programs address the \"vulnerability flood\" and win the board conversation by prioritizing and fixing what actually matters.",
     "analysis": {
-      "issue": "Talos assesses with high confidence that UAT-8302 is a China-nexus advanced persistent threat (APT) group tasked primarily with obtaining and maintaining long-term access to government and related entities around the world",
+      "issue": "Learn how intelligence-led programs address the \"vulnerability flood\" and win the board conversation by prioritizing and fixing what actually matters",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "APT",
-        "Supply Chain"
+        "Vulnerability"
       ]
     }
   },
@@ -1129,24 +1145,6 @@
     "summary": "Embodied AI, intelligent systems in physical forms such as humanoid and quadruped robots, is moving from spectacle to staffing plans.",
     "analysis": {
       "issue": "Embodied AI, intelligent systems in physical forms such as humanoid and quadruped robots, is moving from spectacle to staffing plans",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "The Iran War: What You Need to Know",
-    "link": "https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know",
-    "published": "Fri, 01 May 2026 00:00:00 GMT",
-    "summary": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios.",
-    "analysis": {
-      "issue": "Insikt Group tracks the cyber, physical, and geopolitical components of the US-Israeli strikes on Iran — with continuously updated threat analysis and scenarios",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1355,6 +1353,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Microsoft Defender vulnerabilities are being exploited in the wild",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/05/microsoft-defender-vulnerabilities-are-being-exploited-in-the-wild",
+    "published": "Thu, 21 May 2026 17:36:52 GMT",
+    "summary": "CISA added seven known exploited vulnerabilities to its KEV catalog, including two Microsoft Defender flaws.",
+    "analysis": {
+      "issue": "Two Microsoft Defender vulnerabilities are being actively exploited in the wild",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "TikTok, YouTube, and Roblox face scrutiny, but age gates won’t fix child safety",
     "link": "https://www.malwarebytes.com/blog/family-and-parenting/2026/05/tiktok-youtube-and-roblox-face-scrutiny-but-age-gates-wont-fix-child-safety",
     "published": "Thu, 21 May 2026 11:08:37 GMT",
@@ -1514,24 +1530,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (May 11 &#8211; May 17)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-may-11-may-17-2",
-    "published": "Mon, 18 May 2026 07:02:00 GMT",
-    "summary": "A list of topics we covered in the week of May 11 to May 17 of 2026",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },

@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-21 15:40:32 UTC
+**Last Updated:** 2026-05-21 18:19:47 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,16 @@
 
 ---
 
-### 11. [Apple blocked over $11 billion in App Store fraud in 6 years](https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/)
+### 11. [Google accidentally exposed details of unfixed Chromium flaw](https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 21 May 2026 14:13:50 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Vulnerability, Malware, DDoS  
+
+---
+
+### 12. [Apple blocked over $11 billion in App Store fraud in 6 years](https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 21 May 2026 11:11:08 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet](https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/)
+### 13. [Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet](https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 21 May 2026 10:00:10 -0400  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [Chinese hackers target telcos with new Linux, Windows malware](https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/)
+### 14. [Chinese hackers target telcos with new Linux, Windows malware](https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 21 May 2026 10:00:00 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Max severity Cisco Secure Workload flaw gives Site Admin privileges](https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/)
+### 15. [Max severity Cisco Secure Workload flaw gives Site Admin privileges](https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 21 May 2026 09:58:33 -0400  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [Police seize “First VPN” service used in ransomware, data theft attacks](https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/)
+### 16. [Police seize “First VPN” service used in ransomware, data theft attacks](https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 21 May 2026 09:09:51 -0400  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Flipper One project needs community help to build open Linux platform](https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/)
+### 17. [Flipper One project needs community help to build open Linux platform](https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 21 May 2026 07:00:00 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [Microsoft warns of new Defender zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/)
+### 18. [Microsoft warns of new Defender zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 21 May 2026 03:49:48 -0400  
@@ -161,7 +170,7 @@
 
 ---
 
-### 18. [GitHub links repo breach to TanStack npm supply-chain attack](https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/)
+### 19. [GitHub links repo breach to TanStack npm supply-chain attack](https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 21 May 2026 02:54:01 -0400  
@@ -170,22 +179,12 @@
 
 ---
 
-### 19. [Ukraine identifies infostealer operator tied to 28,000 stolen accounts](https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/)
+### 20. [Ukraine identifies infostealer operator tied to 28,000 stolen accounts](https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 20 May 2026 17:36:24 -0400  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 20. [Hackers bypass SonicWall VPN MFA due to incomplete patching](https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 20 May 2026 17:19:17 -0400  
-**Severity:** Medium  
-**CVEs:** CVE-2024-12802  
-**Categories:** Ransomware, Vulnerability  
 
 ---
 
@@ -239,7 +238,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
+**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -332,7 +331,7 @@
 **Source:** Security Week  
 **Published:** Thu, 21 May 2026 09:52:05 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2010-0249, CVE-2009-3459, CVE-2009-1537, CVE-2008-4250, CVE-2010-0806, CVE-2026-41091, CVE-2026-45498  
+**CVEs:** CVE-2009-3459, CVE-2026-41091, CVE-2026-45498, CVE-2010-0249, CVE-2010-0806, CVE-2009-1537, CVE-2008-4250  
 **Categories:** Vulnerability, Malware, Phishing  
 
 ---
@@ -374,17 +373,26 @@
 
 ---
 
-### 41. [TP-Link, Photoshop, OpenVPN, Norton VPN vulnerabilities](https://blog.talosintelligence.com/tp-link-photoshop-openvpn-norton-vpn-vulnerabilities/)
+### 41. [The art of being ungovernable](https://blog.talosintelligence.com/the-art-of-being-ungovernable/)
+
+**Source:** Talos Blog  
+**Published:** Thu, 21 May 2026 18:00:14 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 42. [TP-Link, Photoshop, OpenVPN, Norton VPN vulnerabilities](https://blog.talosintelligence.com/tp-link-photoshop-openvpn-norton-vpn-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30816, CVE-2026-30814, CVE-2026-30815  
+**CVEs:** CVE-2026-30814, CVE-2026-30816, CVE-2026-30815  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 42. [From PDB strings to MaaS: Tracking a commodity BadIIS ecosystem used by Chinese-speaking threat](https://blog.talosintelligence.com/from-pdb-strings-to-maas-tracking-a-commodity-badiis-ecosystem/)
+### 43. [From PDB strings to MaaS: Tracking a commodity BadIIS ecosystem used by Chinese-speaking threat](https://blog.talosintelligence.com/from-pdb-strings-to-maas-tracking-a-commodity-badiis-ecosystem/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 10:00:20 GMT  
@@ -393,7 +401,7 @@
 
 ---
 
-### 43. [The time of much patching is coming](https://blog.talosintelligence.com/the-time-of-much-patching-is-coming/)
+### 44. [The time of much patching is coming](https://blog.talosintelligence.com/the-time-of-much-patching-is-coming/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 18:00:24 GMT  
@@ -402,17 +410,17 @@
 
 ---
 
-### 44. [Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities](https://blog.talosintelligence.com/sd-wan-ongoing-exploitation/)
+### 45. [Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities](https://blog.talosintelligence.com/sd-wan-ongoing-exploitation/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20133, CVE-2026-20182, CVE-2026-20122, CVE-2026-20127, CVE-2026-20128  
+**CVEs:** CVE-2026-20127, CVE-2026-20128, CVE-2026-20133, CVE-2026-20122, CVE-2026-20182  
 **Categories:** Vulnerability  
 
 ---
 
-### 45. [Breaking things to keep them safe with Philippe Laulheret](https://blog.talosintelligence.com/breaking-things-to-keep-them-safe-with-philippe-laulheret/)
+### 46. [Breaking things to keep them safe with Philippe Laulheret](https://blog.talosintelligence.com/breaking-things-to-keep-them-safe-with-philippe-laulheret/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 13 May 2026 10:00:54 GMT  
@@ -421,17 +429,17 @@
 
 ---
 
-### 46. [Microsoft Patch Tuesday for May 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-may-2026/)
+### 47. [Microsoft Patch Tuesday for May 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-may-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33109, CVE-2026-40358, CVE-2026-32161, CVE-2026-33844, CVE-2026-35421  
+**CVEs:** CVE-2026-32161, CVE-2026-33844, CVE-2026-35421, CVE-2026-33109, CVE-2026-40358  
 **Categories:** Vulnerability  
 
 ---
 
-### 47. [State-sponsored actors, better known as the friends you don’t want](https://blog.talosintelligence.com/state-sponsored-actors-better-known-as-the-friends-you-dont-want/)
+### 48. [State-sponsored actors, better known as the friends you don’t want](https://blog.talosintelligence.com/state-sponsored-actors-better-known-as-the-friends-you-dont-want/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 10:00:54 GMT  
@@ -440,7 +448,7 @@
 
 ---
 
-### 48. [Unplug your way to better code](https://blog.talosintelligence.com/unplug-your-way-to-better-code/)
+### 49. [Unplug your way to better code](https://blog.talosintelligence.com/unplug-your-way-to-better-code/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 07 May 2026 18:00:40 GMT  
@@ -449,7 +457,7 @@
 
 ---
 
-### 49. [Insights into the clustering and reuse of phone numbers in scam emails](https://blog.talosintelligence.com/insights-into-the-clustering-and-reuse-of-phone-numbers-in-scam-emails/)
+### 50. [Insights into the clustering and reuse of phone numbers in scam emails](https://blog.talosintelligence.com/insights-into-the-clustering-and-reuse-of-phone-numbers-in-scam-emails/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 06 May 2026 10:00:12 GMT  
@@ -458,16 +466,16 @@
 
 ---
 
-### 50. [UAT-8302 and its box full of malware](https://blog.talosintelligence.com/uat-8302/)
+### 51. [The Vulnerability Flood Is Now a Board Conversation. Here's How to Lead It.](https://www.recordedfuture.com/blog/intelligence-led-vulnerability-prioritization)
 
-**Source:** Talos Blog  
-**Published:** Tue, 05 May 2026 10:00:30 GMT  
-**Severity:** High  
-**Categories:** Malware, APT, Supply Chain  
+**Source:** Recorded Future  
+**Published:** Thu, 21 May 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** Vulnerability  
 
 ---
 
-### 51. [At Mythos Speed: A Defender's Playbook for the AI Vulnerability Surge in 2026](https://www.recordedfuture.com/blog/ai-vulnerability-playbook)
+### 52. [At Mythos Speed: A Defender's Playbook for the AI Vulnerability Surge in 2026](https://www.recordedfuture.com/blog/ai-vulnerability-playbook)
 
 **Source:** Recorded Future  
 **Published:** Tue, 19 May 2026 00:00:00 GMT  
@@ -476,7 +484,7 @@
 
 ---
 
-### 52. [April 2026 CVE Landscape](https://www.recordedfuture.com/blog/april-cve-landscape)
+### 53. [April 2026 CVE Landscape](https://www.recordedfuture.com/blog/april-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Fri, 15 May 2026 00:00:00 GMT  
@@ -485,7 +493,7 @@
 
 ---
 
-### 53. [NIST NVD Enrichment Policy Change: Prioritizing Vulnerabilities with Attacker Behavior Signals](https://www.recordedfuture.com/blog/nist-nvd-enrichment)
+### 54. [NIST NVD Enrichment Policy Change: Prioritizing Vulnerabilities with Attacker Behavior Signals](https://www.recordedfuture.com/blog/nist-nvd-enrichment)
 
 **Source:** Recorded Future  
 **Published:** Thu, 14 May 2026 00:00:00 GMT  
@@ -494,7 +502,7 @@
 
 ---
 
-### 54. [Beyond Acceleration and Automation: How AI + Intelligence Changes Cyber Defense](https://www.recordedfuture.com/blog/ai-intelligence-cyber-defense)
+### 55. [Beyond Acceleration and Automation: How AI + Intelligence Changes Cyber Defense](https://www.recordedfuture.com/blog/ai-intelligence-cyber-defense)
 
 **Source:** Recorded Future  
 **Published:** Thu, 14 May 2026 00:00:00 GMT  
@@ -503,7 +511,7 @@
 
 ---
 
-### 55. [Working in London at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-for-recorded-future-london)
+### 56. [Working in London at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-for-recorded-future-london)
 
 **Source:** Recorded Future  
 **Published:** Fri, 08 May 2026 00:00:00 GMT  
@@ -512,7 +520,7 @@
 
 ---
 
-### 56. [Quantum Risk Explained](https://www.recordedfuture.com/research/quantum-risk-explained)
+### 57. [Quantum Risk Explained](https://www.recordedfuture.com/research/quantum-risk-explained)
 
 **Source:** Recorded Future  
 **Published:** Thu, 07 May 2026 00:00:00 GMT  
@@ -521,7 +529,7 @@
 
 ---
 
-### 57. [Recorded Future Named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies. And there’s more.](https://www.recordedfuture.com/blog/recorded-future-named-a-leader)
+### 58. [Recorded Future Named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies. And there’s more.](https://www.recordedfuture.com/blog/recorded-future-named-a-leader)
 
 **Source:** Recorded Future  
 **Published:** Wed, 06 May 2026 00:00:00 GMT  
@@ -530,7 +538,7 @@
 
 ---
 
-### 58. [Threat Activity Enablers: The Backbone of Today’s Threat Landscape](https://www.recordedfuture.com/blog/threat-activity-enablers)
+### 59. [Threat Activity Enablers: The Backbone of Today’s Threat Landscape](https://www.recordedfuture.com/blog/threat-activity-enablers)
 
 **Source:** Recorded Future  
 **Published:** Wed, 06 May 2026 00:00:00 GMT  
@@ -539,19 +547,10 @@
 
 ---
 
-### 59. [Hacking Embodied AI](https://www.recordedfuture.com/research/hacking-embodied-ai)
+### 60. [Hacking Embodied AI](https://www.recordedfuture.com/research/hacking-embodied-ai)
 
 **Source:** Recorded Future  
 **Published:** Tue, 05 May 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 60. [The Iran War: What You Need to Know](https://www.recordedfuture.com/blog/the-iran-war-what-you-need-to-know)
-
-**Source:** Recorded Future  
-**Published:** Fri, 01 May 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -652,7 +651,16 @@
 
 ---
 
-### 71. [TikTok, YouTube, and Roblox face scrutiny, but age gates won’t fix child safety](https://www.malwarebytes.com/blog/family-and-parenting/2026/05/tiktok-youtube-and-roblox-face-scrutiny-but-age-gates-wont-fix-child-safety)
+### 71. [Microsoft Defender vulnerabilities are being exploited in the wild](https://www.malwarebytes.com/blog/bugs/2026/05/microsoft-defender-vulnerabilities-are-being-exploited-in-the-wild)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 21 May 2026 17:36:52 GMT  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 72. [TikTok, YouTube, and Roblox face scrutiny, but age gates won’t fix child safety](https://www.malwarebytes.com/blog/family-and-parenting/2026/05/tiktok-youtube-and-roblox-face-scrutiny-but-age-gates-wont-fix-child-safety)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 21 May 2026 11:08:37 GMT  
@@ -661,7 +669,7 @@
 
 ---
 
-### 72. [Catch spyware in the act with Windows Webcam Monitoring](https://www.malwarebytes.com/blog/product/2026/05/catch-spyware-in-the-act-with-windows-webcam-monitoring)
+### 73. [Catch spyware in the act with Windows Webcam Monitoring](https://www.malwarebytes.com/blog/product/2026/05/catch-spyware-in-the-act-with-windows-webcam-monitoring)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 21 May 2026 10:19:18 GMT  
@@ -670,7 +678,7 @@
 
 ---
 
-### 73. [Researchers left AI agents alone in a virtual town and watched it all unravel](https://www.malwarebytes.com/blog/ai/2026/05/researchers-left-ai-agents-alone-in-a-virtual-town-and-watched-it-all-unravel)
+### 74. [Researchers left AI agents alone in a virtual town and watched it all unravel](https://www.malwarebytes.com/blog/ai/2026/05/researchers-left-ai-agents-alone-in-a-virtual-town-and-watched-it-all-unravel)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 21 May 2026 10:01:54 GMT  
@@ -679,7 +687,7 @@
 
 ---
 
-### 74. [Fake malware-signing service Fox Tempest dismantled by Microsoft](https://www.malwarebytes.com/blog/news/2026/05/fake-malware-signing-service-fox-tempest-dismantled-by-microsoft)
+### 75. [Fake malware-signing service Fox Tempest dismantled by Microsoft](https://www.malwarebytes.com/blog/news/2026/05/fake-malware-signing-service-fox-tempest-dismantled-by-microsoft)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 20 May 2026 15:33:02 GMT  
@@ -688,7 +696,7 @@
 
 ---
 
-### 75. [Firefox 151 packs big privacy upgrades into a small update](https://www.malwarebytes.com/blog/privacy/2026/05/firefox-151-packs-big-privacy-upgrades-into-a-small-update)
+### 76. [Firefox 151 packs big privacy upgrades into a small update](https://www.malwarebytes.com/blog/privacy/2026/05/firefox-151-packs-big-privacy-upgrades-into-a-small-update)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 20 May 2026 11:46:48 GMT  
@@ -697,7 +705,7 @@
 
 ---
 
-### 76. [Biometrics, diagnoses, and bank details exposed in major healthcare breach](https://www.malwarebytes.com/blog/news/2026/05/biometrics-diagnoses-and-bank-details-exposed-in-major-healthcare-breach)
+### 77. [Biometrics, diagnoses, and bank details exposed in major healthcare breach](https://www.malwarebytes.com/blog/news/2026/05/biometrics-diagnoses-and-bank-details-exposed-in-major-healthcare-breach)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 19 May 2026 15:56:38 GMT  
@@ -706,7 +714,7 @@
 
 ---
 
-### 77. [Facebook scam promises cheap Aldi meat boxes, steals payment info instead](https://www.malwarebytes.com/blog/scams/2026/05/facebook-scam-promises-cheap-aldi-meat-boxes-steals-payment-info-instead)
+### 78. [Facebook scam promises cheap Aldi meat boxes, steals payment info instead](https://www.malwarebytes.com/blog/scams/2026/05/facebook-scam-promises-cheap-aldi-meat-boxes-steals-payment-info-instead)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 19 May 2026 12:46:13 GMT  
@@ -715,7 +723,7 @@
 
 ---
 
-### 78. [YouTube wants your face to fight deepfakes](https://www.malwarebytes.com/blog/ai/2026/05/youtube-wants-your-face-to-fight-deepfakes)
+### 79. [YouTube wants your face to fight deepfakes](https://www.malwarebytes.com/blog/ai/2026/05/youtube-wants-your-face-to-fight-deepfakes)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 19 May 2026 10:51:56 GMT  
@@ -724,21 +732,12 @@
 
 ---
 
-### 79. [Microsoft is changing Edge’s plaintext password behavior](https://www.malwarebytes.com/blog/news/2026/05/microsoft-is-changing-edges-plaintext-password-behavior)
+### 80. [Microsoft is changing Edge’s plaintext password behavior](https://www.malwarebytes.com/blog/news/2026/05/microsoft-is-changing-edges-plaintext-password-behavior)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 18 May 2026 10:42:16 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 80. [A week in security (May 11 &#8211; May 17)](https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-may-11-may-17-2)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 18 May 2026 07:02:00 GMT  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
