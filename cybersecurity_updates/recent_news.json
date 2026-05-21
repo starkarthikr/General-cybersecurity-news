@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "When Identity is the Attack Path",
+    "link": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html",
+    "published": "Thu, 21 May 2026 16:00:00 +0530",
+    "summary": "Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one misconfigured anything or violated a policy. Yet that single key, which was easily accessible to a minor-league attacker, could have opened a path to some 98% of entities in the company's cloud",
+    "analysis": {
+      "issue": "Cached AWS key exposed 98% of cloud entities, proving one overlooked identity chain can unlock critical cloud workloads",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
+    "link": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
+    "published": "Thu, 21 May 2026 13:05:53 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years.\n\nThe vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper privilege management that could permit an unprivileged local user to disclose sensitive files and execute arbitrary commands as root on default installations of several major",
+    "analysis": {
+      "issue": "CVE-2026-46333 is a nine-year Linux kernel improper privilege management flaw introduced in November 2016 with a CVSS score of 5",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-46333"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
     "link": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
     "published": "Thu, 21 May 2026 09:57:01 +0530",
@@ -145,40 +183,60 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
-    "link": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
-    "published": "Wed, 20 May 2026 13:58:26 +0530",
-    "summary": "Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week.\n\nThe zero-day flaw, now tracked as CVE-2026-45585, carries a CVSS score of 6.8. It has been described as a BitLocker security feature bypass.\n\n\"Microsoft is aware of a security feature bypass vulnerability in Windows publicly referred to as 'YellowKey,'\" the",
+    "source": "Bleeping Computer",
+    "title": "Flipper One project needs community help to build open Linux platform",
+    "link": "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/",
+    "published": "Thu, 21 May 2026 07:00:00 -0400",
+    "summary": "Flipper Devices, the maker of the Flipper Zero pentesting tool, is asking the community to help build Flipper One, an open Linux platform for connected devices. [...]",
     "analysis": {
-      "issue": "Microsoft released mitigations for YellowKey, a publicly disclosed BitLocker bypass tracked as CVE-2026-45585 with a CVSS score of 6",
+      "issue": "Flipper Devices, the maker of the Flipper Zero pentesting tool, is asking the community to help build Flipper One, an open Linux platform for connected devices",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-45585"
-      ],
+      "severity": "High",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
-    "link": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
-    "published": "Wed, 20 May 2026 10:42:06 +0530",
-    "summary": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised.\n\nIt said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private source code along with internal GitHub repositories.\n\n\"After the initial assessment, we found that in addition to source",
+    "source": "Bleeping Computer",
+    "title": "Microsoft warns of new Defender zero-days exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
+    "published": "Thu, 21 May 2026 03:49:48 -0400",
+    "summary": "On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks. [...]",
     "analysis": {
-      "issue": "Grafana GitHub breach stemmed from TanStack npm attack; missed token exposed repos, not customer production systems",
+      "issue": "On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-45498",
+        "CVE-2026-41091"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "GitHub links repo breach to TanStack npm supply-chain attack",
+    "link": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
+    "published": "Thu, 21 May 2026 02:54:01 -0400",
+    "summary": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack. [...]",
+    "analysis": {
+      "issue": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Supply Chain"
       ]
     }
   },
@@ -315,67 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
-    "published": "Wed, 20 May 2026 03:31:15 -0400",
-    "summary": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. [...]",
-    "analysis": {
-      "issue": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-45585",
-        "CVE-2026-33825"
-      ],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
-    "link": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
-    "published": "Wed, 20 May 2026 01:08:42 -0400",
-    "summary": "GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories containing private code. [...]",
-    "analysis": {
-      "issue": "Update May 20, 04:17 EDT: GitHub has now confirmed the breach of ~3,800 internal repositories after an employee installed a malicious VS Code extension",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
-    "link": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
-    "published": "Tue, 19 May 2026 18:25:49 -0400",
-    "summary": "A max-severity vulnerability in the latest Python FastAPI version of the ChromaDB project allows unauthenticated attackers to run arbitrary code on exposed servers. [...]",
-    "analysis": {
-      "issue": "A max-severity vulnerability in the latest Python FastAPI version of the ChromaDB project allows unauthenticated attackers to run arbitrary code on exposed servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-45829"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
     "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
@@ -482,9 +479,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
+        "CVE-2026-32201",
         "CVE-2026-33825",
-        "CVE-2026-32201"
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -572,6 +569,147 @@
   },
   {
     "source": "Security Week",
+    "title": "Ocean Emerges From Stealth With $28M for Agentic Email Security Platform",
+    "link": "https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/",
+    "published": "Thu, 21 May 2026 11:45:51 +0000",
+    "summary": "<p>The company has developed a platform that uses specialized AI agents to inspect every incoming message.</p>\n<p>The post <a href=\"https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/\">Ocean Emerges From Stealth With $28M for Agentic Email Security Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company has developed a platform that uses specialized AI agents to inspect every incoming message",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention",
+    "link": "https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/",
+    "published": "Thu, 21 May 2026 11:17:15 +0000",
+    "summary": "<p>The company blocked over 1.1 billion accounts and $2.2 billion in potentially fraudulent transactions.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/\">Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "2 billion in potentially fraudulent transactions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking",
+    "link": "https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/",
+    "published": "Thu, 21 May 2026 10:58:49 +0000",
+    "summary": "<p>CVE-2026-9082 can be exploited without authentication for information disclosure, privilege escalation, and remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/\">Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CVE-2026-9082 can be exploited without authentication for information disclosure, privilege escalation, and remote code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-9082"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Socket Raises $60 Million at $1 Billion Valuation",
+    "link": "https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/",
+    "published": "Thu, 21 May 2026 10:32:37 +0000",
+    "summary": "<p>The company will invest in its firewall, certified patches, protection extensions, new products, and team expansion.</p>\n<p>The post <a href=\"https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/\">Socket Raises $60 Million at $1 Billion Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company will invest in its firewall, certified patches, protection extensions, new products, and team expansion",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days",
+    "link": "https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/",
+    "published": "Thu, 21 May 2026 09:52:05 +0000",
+    "summary": "<p>The bugs could be exploited to elevate privileges to System or create a denial-of-service (DoS) condition.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/\">Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The bugs could be exploited to elevate privileges to System or create a denial-of-service (DoS) condition",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2009-3459",
+        "CVE-2026-41091",
+        "CVE-2009-1537",
+        "CVE-2008-4250",
+        "CVE-2010-0806",
+        "CVE-2010-0249",
+        "CVE-2026-45498"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Google’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI",
+    "link": "https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/",
+    "published": "Thu, 21 May 2026 09:37:08 +0000",
+    "summary": "<p>More than 200 vulnerabilities patched in recent Chrome releases are marked as ‘reported by Google’.</p>\n<p>The post <a href=\"https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/\">Google&#8217;s Surge in Chrome Vulnerability Discoveries Likely Driven by AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "More than 200 vulnerabilities patched in recent Chrome releases are marked as ‘reported by Google’",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility",
+    "link": "https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/",
+    "published": "Thu, 21 May 2026 08:14:53 +0000",
+    "summary": "<p>New vulnerabilities are being discovered too fast, the time-to-exploitation is too short, and our visibility into them is largely lacking.</p>\n<p>The post <a href=\"https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/\">Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "New vulnerabilities are being discovered too fast, the time-to-exploitation is too short, and our visibility into them is largely lacking",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution",
     "link": "https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/",
     "published": "Wed, 20 May 2026 15:45:07 +0000",
@@ -628,144 +766,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials",
-    "link": "https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/",
-    "published": "Wed, 20 May 2026 13:34:54 +0000",
-    "summary": "<p>1Password says AI coding agents should never hold persistent secrets, introducing a just-in-time credential model for OpenAI Codex designed to keep credentials out of prompts, code repositories, and model context.</p>\n<p>The post <a href=\"https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/\">1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "1Password says AI coding agents should never hold persistent secrets, introducing a just-in-time credential model for OpenAI Codex designed to keep credentials out of prompts, code repositories, and model context",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Anthropic Silently Patches Claude Code Sandbox Bypass",
-    "link": "https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/",
-    "published": "Wed, 20 May 2026 13:00:00 +0000",
-    "summary": "<p>The researcher who found it says the vulnerability could have been chained with a prompt injection to exfiltrate data.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/\">Anthropic Silently Patches Claude Code Sandbox Bypass</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The researcher who found it says the vulnerability could have been chained with a prompt injection to exfiltrate data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-66479"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack",
-    "link": "https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/",
-    "published": "Wed, 20 May 2026 11:06:49 +0000",
-    "summary": "<p>A compromised maintainer account was used to publish malicious package versions across the @antv namespace.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/\">Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A compromised maintainer account was used to publish malicious package versions across the @antv namespace",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Caught Off Guard: Securing AI After It Hits Production",
-    "link": "https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/",
-    "published": "Wed, 20 May 2026 11:00:00 +0000",
-    "summary": "<p>As enterprises rush AI projects into production, security teams are increasingly being forced into reactive mode.</p>\n<p>The post <a href=\"https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/\">Caught Off Guard: Securing AI After It Hits Production</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "As enterprises rush AI projects into production, security teams are increasingly being forced into reactive mode",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "DDoS",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Real-World ICS Security Tales From the Trenches",
-    "link": "https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/",
-    "published": "Wed, 20 May 2026 10:15:00 +0000",
-    "summary": "<p>SecurityWeek spoke with several ICS security experts and companies about their most memorable experiences in the field.</p>\n<p>The post <a href=\"https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/\">Real-World ICS Security Tales From the Trenches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "SecurityWeek spoke with several ICS security experts and companies about their most memorable experiences in the field",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Virtual Event Today: Threat Detection & Incident Response Summit",
-    "link": "https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/",
-    "published": "Wed, 20 May 2026 10:00:00 +0000",
-    "summary": "<p>Don't miss this virtual event as we explore how to cut through alert fatigue, leverage AI and unified platforms to accelerate investigations, and apply actionable threat intelligence.</p>\n<p>The post <a href=\"https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/\">Virtual Event Today: Threat Detection &amp; Incident Response Summit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Don’t miss this virtual event as we explore how to cut through alert fatigue, leverage AI and unified platforms to accelerate investigations, and apply actionable threat intelligence",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "GitHub Confirms Hack Impacting 3,800 Internal Repositories",
-    "link": "https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/",
-    "published": "Wed, 20 May 2026 09:28:53 +0000",
-    "summary": "<p>The TeamPCP hacking group accessed the repositories after a GitHub employee installed a poisoned VS Code extension.</p>\n<p>The post <a href=\"https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/\">GitHub Confirms Hack Impacting 3,800 Internal Repositories</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The TeamPCP hacking group accessed the repositories after a GitHub employee installed a poisoned VS Code extension",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "TP-Link, Photoshop, OpenVPN, Norton VPN vulnerabilities",
     "link": "https://blog.talosintelligence.com/tp-link-photoshop-openvpn-norton-vpn-vulnerabilities/",
@@ -778,8 +778,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30814",
         "CVE-2026-30816",
+        "CVE-2026-30814",
         "CVE-2026-30815"
       ],
       "threat_categories": [
@@ -838,11 +838,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20128",
-        "CVE-2026-20122",
+        "CVE-2026-20182",
         "CVE-2026-20127",
         "CVE-2026-20133",
-        "CVE-2026-20182"
+        "CVE-2026-20128",
+        "CVE-2026-20122"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -883,9 +883,9 @@
       "cves": [
         "CVE-2026-35421",
         "CVE-2026-33844",
+        "CVE-2026-33109",
         "CVE-2026-32161",
-        "CVE-2026-40358",
-        "CVE-2026-33109"
+        "CVE-2026-40358"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1316,8 +1316,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1342,6 +1342,61 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "TikTok, YouTube, and Roblox face scrutiny, but age gates won’t fix child safety",
+    "link": "https://www.malwarebytes.com/blog/family-and-parenting/2026/05/tiktok-youtube-and-roblox-face-scrutiny-but-age-gates-wont-fix-child-safety",
+    "published": "Thu, 21 May 2026 11:08:37 GMT",
+    "summary": "Ofcom says TikTok and YouTube are \"not safe enough\" for children, but simply adding stricter age checks is not the answer.",
+    "analysis": {
+      "issue": "A damaging new report from Ofcom, the UK’s communications regulator, has delivered a stark verdict: TikTok and YouTube’s content feeds are “not safe enough” for children",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Catch spyware in the act with Windows Webcam Monitoring",
+    "link": "https://www.malwarebytes.com/blog/product/2026/05/catch-spyware-in-the-act-with-windows-webcam-monitoring",
+    "published": "Thu, 21 May 2026 10:19:18 GMT",
+    "summary": "Know when a program tries to access your webcam so you can allow or block, in real time.",
+    "analysis": {
+      "issue": "You’re working hard late at night, replying to emails and planning the week ahead",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Researchers left AI agents alone in a virtual town and watched it all unravel",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/05/researchers-left-ai-agents-alone-in-a-virtual-town-and-watched-it-all-unravel",
+    "published": "Thu, 21 May 2026 10:01:54 GMT",
+    "summary": "Told not to commit crimes, the AI agents mostly did anyway. Arson, violence, romance, self-deletion, and general chaos quickly ensued.",
+    "analysis": {
+      "issue": "Tech leaders have spent the past year telling everyone that AI agents are about to run financial systems, file your tax returns, and quietly buy your groceries",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1469,60 +1524,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "AI is distorting the Holocaust (Lock and Code S07E10)",
-    "link": "https://www.malwarebytes.com/blog/podcast/2026/05/ai-is-distorting-the-holocaust-lock-and-code-s07e10",
-    "published": "Mon, 18 May 2026 01:51:37 GMT",
-    "summary": "This week on the Lock and Code podcast, we speak with Clara Mansfeld about how  AI-generated imagery is warping the history of the Holocaust.",
-    "analysis": {
-      "issue": "This week on the Lock and Code podcast… In May of last year, a warning about AI came from somewhere unexpected: The Auschwitz-Birkenau State Museum",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Attackers replaced JDownloader installer downloads with malware",
-    "link": "https://www.malwarebytes.com/blog/news/2026/05/attackers-replaced-jdownloader-installer-downloads-with-malware",
-    "published": "Fri, 15 May 2026 12:45:47 GMT",
-    "summary": "The JDownloader website was compromised and installer download links served malware for several days.",
-    "analysis": {
-      "issue": "If you downloaded the JDownloader installer during the compromise window (May 6-7), you are advised to verify the file",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Meta’s confusing new approach to chat privacy",
-    "link": "https://www.malwarebytes.com/blog/news/2026/05/metas-confusing-new-approach-to-chat-privacy",
-    "published": "Fri, 15 May 2026 12:34:15 GMT",
-    "summary": "WhatsApp now offers disappearing AI chats Meta says it cannot read. While Instagram just removed the feature that stopped Meta reading your messages.",
-    "analysis": {
-      "issue": "Recent news had us wondering whether Meta actually knows what it wants",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
