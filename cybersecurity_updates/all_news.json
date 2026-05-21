@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
+    "link": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
+    "published": "Thu, 21 May 2026 09:57:01 +0530",
+    "summary": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS Code) extension.&nbsp;\n\nThe development comes as the Nx team revealed that the extension, nrwl.angular-console, was breached after one of its developers' systems was hacked in the",
+    "analysis": {
+      "issue": "GitHub lost 3,800 internal repos after poisoned Nx Console update exposed developer credentials and supply-chain risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
+    "link": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
+    "published": "Thu, 21 May 2026 09:14:11 +0530",
+    "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure.\nThe vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out of 10.0, per CVE.org. Drupal said the vulnerability resides in a database abstraction API that is",
+    "analysis": {
+      "issue": "Drupal released security updates for a highly critical Drupal Core vulnerability affecting sites that use PostgreSQL",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
     "link": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
     "published": "Wed, 20 May 2026 22:36:54 +0530",
@@ -143,44 +179,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
-    "link": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
-    "published": "Tue, 19 May 2026 22:08:12 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new ad fraud and malvertising operation dubbed Trapdoor targeting Android device users.\n\nThe activity, per HUMAN's Satori Threat Intelligence and Research Team, encompassed 455 malicious Android apps and 183 threat actor-owned command-and-control (C2) domains, turning the infrastructure into a pipeline for multi-stage fraud.\n\n\"Users",
-    "analysis": {
-      "issue": "Trapdoor used 455 Android apps and 183 C2 domains, generating 659M daily bid requests and fueling ad fraud",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
-    "link": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
-    "published": "Tue, 19 May 2026 20:26:26 +0530",
-    "summary": "Proof-of-concept (PoC) exploit code has now been released for a recently patched security flaw in the Linux kernel that could allow for local privilege escalation (LPE).\nDubbed DirtyDecrypt (aka DirtyCBC), the vulnerability was discovered and reported by the Zellic and V12 security team on May 9, 2026, only to be informed by the maintainers that it was a duplicate of a vulnerability that had",
-    "analysis": {
-      "issue": "DirtyDecrypt PoC targets CVE-2026-31635 in CONFIG_RXGK Linux systems, enabling local privilege escalation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-31635"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -484,8 +482,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
         "CVE-2026-34621",
+        "CVE-2026-33825",
         "CVE-2026-32201"
       ],
       "threat_categories": [
@@ -780,9 +778,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30815",
         "CVE-2026-30814",
-        "CVE-2026-30816"
+        "CVE-2026-30816",
+        "CVE-2026-30815"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -841,8 +839,8 @@
       "severity": "High",
       "cves": [
         "CVE-2026-20128",
-        "CVE-2026-20127",
         "CVE-2026-20122",
+        "CVE-2026-20127",
         "CVE-2026-20133",
         "CVE-2026-20182"
       ],
@@ -883,11 +881,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33844",
         "CVE-2026-35421",
+        "CVE-2026-33844",
+        "CVE-2026-32161",
         "CVE-2026-40358",
-        "CVE-2026-33109",
-        "CVE-2026-32161"
+        "CVE-2026-33109"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1318,8 +1316,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

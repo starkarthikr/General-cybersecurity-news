@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-21 04:15:44 UTC
+**Last Updated:** 2026-05-21 04:53:07 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development](https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html)
+### 1. [GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension](https://thehackernews.com/2026/05/github-internal-repositories-breached.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 21 May 2026 09:57:01 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks](https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 21 May 2026 09:14:11 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development](https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 20 May 2026 22:36:54 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks](https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html)
+### 4. [Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks](https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 20 May 2026 20:06:44 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API](https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html)
+### 5. [Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API](https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 20 May 2026 18:21:43 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Agent AI is Coming. Are You Ready?](https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html)
+### 6. [Agent AI is Coming. Are You Ready?](https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 20 May 2026 17:28:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos](https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html)
+### 7. [GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos](https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 20 May 2026 17:08:43 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem](https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html)
+### 8. [Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem](https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 20 May 2026 16:00:00 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit](https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html)
+### 9. [Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit](https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 20 May 2026 13:58:26 +0530  
@@ -68,31 +86,12 @@
 
 ---
 
-### 8. [Grafana GitHub Breach Exposes Source Code via TanStack npm Attack](https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html)
+### 10. [Grafana GitHub Breach Exposes Source Code via TanStack npm Attack](https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 20 May 2026 10:42:06 +0530  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 9. [Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps](https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 19 May 2026 22:08:12 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability](https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 19 May 2026 20:26:26 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-31635  
-**Categories:** Vulnerability  
 
 ---
 
@@ -239,7 +238,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -377,7 +376,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30815, CVE-2026-30814, CVE-2026-30816  
+**CVEs:** CVE-2026-30814, CVE-2026-30816, CVE-2026-30815  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -405,7 +404,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20128, CVE-2026-20127, CVE-2026-20122, CVE-2026-20133, CVE-2026-20182  
+**CVEs:** CVE-2026-20128, CVE-2026-20122, CVE-2026-20127, CVE-2026-20133, CVE-2026-20182  
 **Categories:** Vulnerability  
 
 ---
@@ -424,7 +423,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33844, CVE-2026-35421, CVE-2026-40358, CVE-2026-33109, CVE-2026-32161  
+**CVEs:** CVE-2026-35421, CVE-2026-33844, CVE-2026-32161, CVE-2026-40358, CVE-2026-33109  
 **Categories:** Vulnerability  
 
 ---
@@ -635,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
