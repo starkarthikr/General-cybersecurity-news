@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
+    "link": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
+    "published": "Fri, 22 May 2026 17:25:24 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window.\n\n\"Using throwaway accounts and forged author identities (build-bot, auto-ci, ci-bot, pipeline-bot), the attacker injected GitHub Actions workflows containing base64-encoded bash payloads that exfiltrate CI",
+    "analysis": {
+      "issue": "Megalodon pushed 5,718 malicious GitHub commits in 6 hours, exposing CI secrets and cloud credentials at scale",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
+    "link": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
+    "published": "Fri, 22 May 2026 17:08:12 +0530",
+    "summary": "1 Introduction\n\nThis article provides a technical analysis of how many Windows kernel mode drivers can be interacted with from user mode without the hardware they were developed for. This work was motivated by driver-oriented vulnerability research and the need to evaluate the exploitability of individual findings, which frequently affect code whose reachability is hardware-gated. The",
+    "analysis": {
+      "issue": "Software-emulated device nodes bypass hardware gating, exposing BYOVD-relevant Windows driver bugs from userland",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
     "link": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
     "published": "Fri, 22 May 2026 14:20:18 +0530",
@@ -105,8 +141,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-41091",
-        "CVE-2026-45498"
+        "CVE-2026-45498",
+        "CVE-2026-41091"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -152,36 +188,84 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
-    "link": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
-    "published": "Thu, 21 May 2026 09:57:01 +0530",
-    "summary": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS Code) extension.&nbsp;\n\nThe development comes as the Nx team revealed that the extension, nrwl.angular-console, was breached after one of its developers' systems was hacked in the",
+    "source": "Bleeping Computer",
+    "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
+    "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
+    "published": "Fri, 22 May 2026 09:39:19 -0400",
+    "summary": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
     "analysis": {
-      "issue": "GitHub lost 3,800 internal repos after poisoned Nx Console update exposed developer credentials and supply-chain risk",
+      "issue": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-34926"
+      ],
       "threat_categories": [
-        "General Security"
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
-    "link": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
-    "published": "Thu, 21 May 2026 09:14:11 +0530",
-    "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure.\nThe vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out of 10.0, per CVE.org. Drupal said the vulnerability resides in a database abstraction API that is",
+    "source": "Bleeping Computer",
+    "title": "Drupal: Critical SQL injection flaw now targeted in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
+    "published": "Fri, 22 May 2026 09:14:40 -0400",
+    "summary": "Drupal is warning that hackers are attempting to exploit a \"highly critical\" SQL injection vulnerability announced earlier this week. [...]",
     "analysis": {
-      "issue": "Drupal released security updates for a highly critical Drupal Core vulnerability affecting sites that use PostgreSQL",
+      "issue": "Drupal is warning that hackers are attempting to exploit a \"highly critical\" SQL injection vulnerability announced earlier this week",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-9082"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
+    "link": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/",
+    "published": "Fri, 22 May 2026 09:09:18 -0400",
+    "summary": "Fraud losses don't stop at chargebacks. False declines, account takeovers, and abuse also damage revenue and trust. IPQS breaks down why fraud teams need broader visibility into risk and customer impact. [...]",
+    "analysis": {
+      "issue": "For most teams, fraud performance is still summed up in a single metric: chargeback rate",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
+    "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
+    "published": "Fri, 22 May 2026 08:00:42 -0400",
+    "summary": "Ubiquiti has released security updates to patch three maximum severity vulnerabilities in UniFi OS that can be exploited by remote attackers without privileges. [...]",
+    "analysis": {
+      "issue": "Ubiquiti has released security updates to patch three maximum severity vulnerabilities in UniFi OS that can be exploited by remote attackers without privileges",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-33000",
+        "CVE-2026-34911",
+        "CVE-2026-34909",
+        "CVE-2026-34910",
+        "CVE-2026-34908"
+      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -300,82 +384,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Police seize “First VPN” service used in ransomware, data theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
-    "published": "Thu, 21 May 2026 09:09:51 -0400",
-    "summary": "A virtual private network service called 'First VPN,' used in ransomware and data theft attacks, has been taken offline in a joint international law enforcement operation. [...]",
-    "analysis": {
-      "issue": "A virtual private network service called 'First VPN,' used in ransomware and data theft attacks, has been taken offline in a joint international law enforcement operation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Flipper One project needs community help to build open Linux platform",
-    "link": "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/",
-    "published": "Thu, 21 May 2026 07:00:00 -0400",
-    "summary": "Flipper Devices, the maker of the Flipper Zero pentesting tool, is asking the community to help build Flipper One, an open Linux platform for connected devices. [...]",
-    "analysis": {
-      "issue": "Flipper Devices, the maker of the Flipper Zero pentesting tool, is asking the community to help build Flipper One, an open Linux platform for connected devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft warns of new Defender zero-days exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
-    "published": "Thu, 21 May 2026 03:49:48 -0400",
-    "summary": "On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks. [...]",
-    "analysis": {
-      "issue": "On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-41091",
-        "CVE-2026-45498"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "GitHub links repo breach to TanStack npm supply-chain attack",
-    "link": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
-    "published": "Thu, 21 May 2026 02:54:01 -0400",
-    "summary": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack. [...]",
-    "analysis": {
-      "issue": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   },
@@ -505,9 +513,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
         "CVE-2026-34621",
-        "CVE-2026-32201"
+        "CVE-2026-32201",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -571,6 +579,47 @@
         "Vulnerability",
         "Malware",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking",
+    "link": "https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/",
+    "published": "Fri, 22 May 2026 14:07:06 +0000",
+    "summary": "<p>Other noteworthy stories that might have slipped under the radar: CISA contractor exposes credentials, Mythos testing and new features, Huawei router flaw triggered telecom blackout.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/\">In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Other noteworthy stories that might have slipped under the radar: CISA contractor exposes credentials, Mythos testing and new features, Huawei router flaw triggered telecom blackout",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-45401",
+        "CVE-2024-9643"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Canadian Man Arrested for Operating Kimwolf Botnet",
+    "link": "https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/",
+    "published": "Fri, 22 May 2026 12:11:03 +0000",
+    "summary": "<p>Jacob Butler, 23, has been arrested in Canada and US authorities are seeking his extradition on computer hacking charges.</p>\n<p>The post <a href=\"https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/\">Canadian Man Arrested for Operating Kimwolf Botnet</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Jacob Butler, 23, has been arrested in Canada and US authorities are seeking his extradition on computer hacking charges",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
       ]
     }
   },
@@ -731,53 +780,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days",
-    "link": "https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/",
-    "published": "Thu, 21 May 2026 09:52:05 +0000",
-    "summary": "<p>The bugs could be exploited to elevate privileges to System or create a denial-of-service (DoS) condition.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/\">Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The bugs could be exploited to elevate privileges to System or create a denial-of-service (DoS) condition",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-41091",
-        "CVE-2008-4250",
-        "CVE-2009-3459",
-        "CVE-2010-0806",
-        "CVE-2026-45498",
-        "CVE-2009-1537",
-        "CVE-2010-0249"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Google’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI",
-    "link": "https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/",
-    "published": "Thu, 21 May 2026 09:37:08 +0000",
-    "summary": "<p>More than 200 vulnerabilities patched in recent Chrome releases are marked as ‘reported by Google’.</p>\n<p>The post <a href=\"https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/\">Google&#8217;s Surge in Chrome Vulnerability Discoveries Likely Driven by AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "More than 200 vulnerabilities patched in recent Chrome releases are marked as ‘reported by Google’",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "The art of being ungovernable",
     "link": "https://blog.talosintelligence.com/the-art-of-being-ungovernable/",
@@ -808,9 +810,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30814",
         "CVE-2026-30816",
-        "CVE-2026-30815"
+        "CVE-2026-30815",
+        "CVE-2026-30814"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -868,11 +870,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20122",
         "CVE-2026-20127",
+        "CVE-2026-20133",
         "CVE-2026-20182",
-        "CVE-2026-20128",
-        "CVE-2026-20133"
+        "CVE-2026-20122",
+        "CVE-2026-20128"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -911,11 +913,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32161",
-        "CVE-2026-33109",
-        "CVE-2026-35421",
         "CVE-2026-33844",
-        "CVE-2026-40358"
+        "CVE-2026-35421",
+        "CVE-2026-40358",
+        "CVE-2026-33109",
+        "CVE-2026-32161"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1357,6 +1359,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Update Chrome now:  Critical bugs could let attackers run code",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/05/update-chrome-now-critical-bugs-could-let-attackers-run-code",
+    "published": "Fri, 22 May 2026 12:10:36 GMT",
+    "summary": "This Chrome update fixes critical flaws attackers could exploit through malicious websites, but not the “Browser Fetch” vulnerability.",
+    "analysis": {
+      "issue": "Google has issued updates for the Chrome browser patching a number of high‑severity vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Microsoft Defender vulnerabilities are being exploited in the wild",
     "link": "https://www.malwarebytes.com/blog/bugs/2026/05/microsoft-defender-vulnerabilities-are-being-exploited-in-the-wild",
     "published": "Thu, 21 May 2026 17:36:52 GMT",
@@ -1509,24 +1529,6 @@
     "summary": "\"Likeness detection\" promises protection from AI deepfakes, but some creators are uneasy about handing over biometric data in return.",
     "analysis": {
       "issue": "If you’re worried about deepfake likenesses of yourself showing up online, you’re not alone; YouTube is worried for you",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Microsoft is changing Edge’s plaintext password behavior",
-    "link": "https://www.malwarebytes.com/blog/news/2026/05/microsoft-is-changing-edges-plaintext-password-behavior",
-    "published": "Mon, 18 May 2026 10:42:16 GMT",
-    "summary": "Saved passwords in Microsoft Edge will no longer sit in plaintext memory for the entire browser session after a researcher raised concerns.",
-    "analysis": {
-      "issue": "Microsoft said it will change Edge’s password handling as a “defense‑in‑depth” measure",
       "solution": null,
       "cause": null,
       "timeline": null,
