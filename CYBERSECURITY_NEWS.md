@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-22 14:53:39 UTC
+**Last Updated:** 2026-05-22 18:15:36 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows](https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html)
+### 1. [Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware](https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 22 May 2026 21:50:32 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 2. [Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows](https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 17:25:24 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective](https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html)
+### 3. [Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective](https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 17:08:12 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks](https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html)
+### 4. [Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks](https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 14:20:18 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV](https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html)
+### 5. [CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV](https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 11:17:33 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access](https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html)
+### 6. [Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access](https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 11:06:18 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor](https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html)
+### 7. [Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor](https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 21 May 2026 19:47:09 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories](https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html)
+### 8. [ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories](https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 21 May 2026 17:22:14 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Microsoft Warns of Two Actively Exploited Defender Vulnerabilities](https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html)
+### 9. [Microsoft Warns of Two Actively Exploited Defender Vulnerabilities](https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 21 May 2026 16:25:57 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [When Identity is the Attack Path](https://thehackernews.com/2026/05/when-identity-is-attack-path.html)
+### 10. [When Identity is the Attack Path](https://thehackernews.com/2026/05/when-identity-is-attack-path.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 21 May 2026 16:00:00 +0530  
@@ -86,17 +95,25 @@
 
 ---
 
-### 10. [9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros](https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html)
+### 11. [Netherlands seizes 800 servers of hosting firm enabling cyberattacks](https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 21 May 2026 13:05:53 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 22 May 2026 13:24:52 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-46333  
-**Categories:** Vulnerability  
+**Categories:** APT  
 
 ---
 
-### 11. [Trend Micro warns of Apex One zero-day exploited in the wild](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/)
+### 12. [Former US execs plead guilty to aiding tech support scammers](https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 22 May 2026 11:32:18 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [Trend Micro warns of Apex One zero-day exploited in the wild](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 22 May 2026 09:39:19 -0400  
@@ -106,7 +123,7 @@
 
 ---
 
-### 12. [Drupal: Critical SQL injection flaw now targeted in attacks](https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/)
+### 14. [Drupal: Critical SQL injection flaw now targeted in attacks](https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 22 May 2026 09:14:40 -0400  
@@ -116,7 +133,7 @@
 
 ---
 
-### 13. [Why Chargebacks are Just One Piece of the Fraud Puzzle](https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/)
+### 15. [Why Chargebacks are Just One Piece of the Fraud Puzzle](https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 22 May 2026 09:09:18 -0400  
@@ -125,17 +142,17 @@
 
 ---
 
-### 14. [Ubiquiti patches three max severity UniFi OS vulnerabilities](https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/)
+### 16. [Ubiquiti patches three max severity UniFi OS vulnerabilities](https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 22 May 2026 08:00:42 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33000, CVE-2026-34911, CVE-2026-34909, CVE-2026-34910, CVE-2026-34908  
+**CVEs:** CVE-2026-33000, CVE-2026-34911, CVE-2026-34909, CVE-2026-34908, CVE-2026-34910  
 **Categories:** Vulnerability  
 
 ---
 
-### 15. [US and Canada arrest and charge suspected Kimwolf botnet admin](https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/)
+### 17. [US and Canada arrest and charge suspected Kimwolf botnet admin](https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 22 May 2026 05:01:20 -0400  
@@ -144,7 +161,7 @@
 
 ---
 
-### 16. [Google accidentally exposed details of unfixed Chromium flaw](https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/)
+### 18. [Google accidentally exposed details of unfixed Chromium flaw](https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 21 May 2026 14:13:50 -0400  
@@ -153,7 +170,7 @@
 
 ---
 
-### 17. [Apple blocked over $11 billion in App Store fraud in 6 years](https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/)
+### 19. [Apple blocked over $11 billion in App Store fraud in 6 years](https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 21 May 2026 11:11:08 -0400  
@@ -162,7 +179,7 @@
 
 ---
 
-### 18. [Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet](https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/)
+### 20. [Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet](https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 21 May 2026 10:00:10 -0400  
@@ -171,26 +188,16 @@
 
 ---
 
-### 19. [Chinese hackers target telcos with new Linux, Windows malware](https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/)
+### 21. [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
 
-**Source:** Bleeping Computer  
-**Published:** Thu, 21 May 2026 10:00:00 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 20. [Max severity Cisco Secure Workload flaw gives Site Admin privileges](https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 21 May 2026 09:58:33 -0400  
-**Severity:** Low  
-**CVEs:** CVE-2026-20223  
-**Categories:** Vulnerability  
+**Source:** Krebs On Security  
+**Published:** Fri, 22 May 2026 16:34:24 +0000  
+**Severity:** Critical  
+**Categories:** Data Breach  
 
 ---
 
-### 21. [Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/)
+### 22. [Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 21 May 2026 21:50:25 +0000  
@@ -199,7 +206,7 @@
 
 ---
 
-### 22. [CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
+### 23. [CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 18 May 2026 20:48:21 +0000  
@@ -208,7 +215,7 @@
 
 ---
 
-### 23. [Patch Tuesday, May 2026 Edition](https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/)
+### 24. [Patch Tuesday, May 2026 Edition](https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 12 May 2026 21:46:45 +0000  
@@ -217,7 +224,7 @@
 
 ---
 
-### 24. [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
+### 25. [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 08 May 2026 02:58:46 +0000  
@@ -226,7 +233,7 @@
 
 ---
 
-### 25. [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
+### 26. [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 30 Apr 2026 14:04:26 +0000  
@@ -235,7 +242,7 @@
 
 ---
 
-### 26. [‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/)
+### 27. [‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 21 Apr 2026 14:53:59 +0000  
@@ -244,17 +251,17 @@
 
 ---
 
-### 27. [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
+### 28. [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
 
-### 28. [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/)
+### 29. [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 07 Apr 2026 17:02:44 +0000  
@@ -263,7 +270,7 @@
 
 ---
 
-### 29. [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
+### 30. [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 06 Apr 2026 02:07:17 +0000  
@@ -272,26 +279,27 @@
 
 ---
 
-### 30. [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/)
+### 31. [Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure](https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/)
 
-**Source:** Krebs On Security  
-**Published:** Mon, 23 Mar 2026 15:43:04 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware, Supply Chain  
+**Source:** Security Week  
+**Published:** Fri, 22 May 2026 17:15:26 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-9082  
+**Categories:** Vulnerability  
 
 ---
 
-### 31. [In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking](https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/)
+### 32. [In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking](https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/)
 
 **Source:** Security Week  
 **Published:** Fri, 22 May 2026 14:07:06 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45401, CVE-2024-9643  
+**CVEs:** CVE-2024-9643, CVE-2026-45401  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 32. [Canadian Man Arrested for Operating Kimwolf Botnet](https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/)
+### 33. [Canadian Man Arrested for Operating Kimwolf Botnet](https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/)
 
 **Source:** Security Week  
 **Published:** Fri, 22 May 2026 12:11:03 +0000  
@@ -300,7 +308,7 @@
 
 ---
 
-### 33. [‘First VPN’ Cybercrime Service Disrupted, Administrator Arrested](https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/)
+### 34. [‘First VPN’ Cybercrime Service Disrupted, Administrator Arrested](https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/)
 
 **Source:** Security Week  
 **Published:** Fri, 22 May 2026 09:24:22 +0000  
@@ -309,7 +317,7 @@
 
 ---
 
-### 34. [TrendAI Patches Apex One Zero-Day Exploited in the Wild](https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/)
+### 35. [TrendAI Patches Apex One Zero-Day Exploited in the Wild](https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/)
 
 **Source:** Security Week  
 **Published:** Fri, 22 May 2026 08:19:24 +0000  
@@ -319,7 +327,7 @@
 
 ---
 
-### 35. [Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack](https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/)
+### 36. [Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack](https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Fri, 22 May 2026 07:49:38 +0000  
@@ -328,7 +336,7 @@
 
 ---
 
-### 36. [Cisco Patches Critical Vulnerability in Secure Workload](https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/)
+### 37. [Cisco Patches Critical Vulnerability in Secure Workload](https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/)
 
 **Source:** Security Week  
 **Published:** Thu, 21 May 2026 12:04:13 +0000  
@@ -338,7 +346,7 @@
 
 ---
 
-### 37. [Ocean Emerges From Stealth With $28M for Agentic Email Security Platform](https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/)
+### 38. [Ocean Emerges From Stealth With $28M for Agentic Email Security Platform](https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/)
 
 **Source:** Security Week  
 **Published:** Thu, 21 May 2026 11:45:51 +0000  
@@ -347,7 +355,7 @@
 
 ---
 
-### 38. [Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention](https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/)
+### 39. [Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention](https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/)
 
 **Source:** Security Week  
 **Published:** Thu, 21 May 2026 11:17:15 +0000  
@@ -356,22 +364,13 @@
 
 ---
 
-### 39. [Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking](https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/)
+### 40. [Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking](https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/)
 
 **Source:** Security Week  
 **Published:** Thu, 21 May 2026 10:58:49 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-9082  
 **Categories:** Vulnerability  
-
----
-
-### 40. [Socket Raises $60 Million at $1 Billion Valuation](https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/)
-
-**Source:** Security Week  
-**Published:** Thu, 21 May 2026 10:32:37 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability, Supply Chain  
 
 ---
 
@@ -389,7 +388,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30816, CVE-2026-30815, CVE-2026-30814  
+**CVEs:** CVE-2026-30815, CVE-2026-30816, CVE-2026-30814  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -417,7 +416,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20127, CVE-2026-20133, CVE-2026-20182, CVE-2026-20122, CVE-2026-20128  
+**CVEs:** CVE-2026-20122, CVE-2026-20182, CVE-2026-20128, CVE-2026-20133, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---
@@ -436,7 +435,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33844, CVE-2026-35421, CVE-2026-40358, CVE-2026-33109, CVE-2026-32161  
+**CVEs:** CVE-2026-40358, CVE-2026-33109, CVE-2026-33844, CVE-2026-35421, CVE-2026-32161  
 **Categories:** Vulnerability  
 
 ---
@@ -638,7 +637,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

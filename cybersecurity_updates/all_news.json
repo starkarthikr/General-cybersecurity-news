@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
+    "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
+    "published": "Fri, 22 May 2026 21:50:32 +0530",
+    "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151Ukraine's National Security and Defense Council) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country.\n\nThe activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), involves sending phishing emails to government",
+    "analysis": {
+      "issue": "Ghostwriter used Prometheus lures since spring 2026 to target Ukraine agencies, enabling malware delivery and data theft",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
     "link": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
     "published": "Fri, 22 May 2026 17:25:24 +0530",
@@ -168,22 +187,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
-    "link": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
-    "published": "Thu, 21 May 2026 13:05:53 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years.\n\nThe vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper privilege management that could permit an unprivileged local user to disclose sensitive files and execute arbitrary commands as root on default installations of several major",
+    "source": "Bleeping Computer",
+    "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
+    "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
+    "published": "Fri, 22 May 2026 13:24:52 -0400",
+    "summary": "Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation campaigns. [...]",
     "analysis": {
-      "issue": "CVE-2026-46333 is a nine-year Linux kernel improper privilege management flaw introduced in November 2016 with a CVSS score of 5",
+      "issue": "Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation campaigns",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-46333"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Former US execs plead guilty to aiding tech support scammers",
+    "link": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/",
+    "published": "Fri, 22 May 2026 11:32:18 -0400",
+    "summary": "Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized individuals worldwide. [...]",
+    "analysis": {
+      "issue": "Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized individuals worldwide",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -263,8 +298,8 @@
         "CVE-2026-33000",
         "CVE-2026-34911",
         "CVE-2026-34909",
-        "CVE-2026-34910",
-        "CVE-2026-34908"
+        "CVE-2026-34908",
+        "CVE-2026-34910"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -349,41 +384,20 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Chinese hackers target telcos with new Linux, Windows malware",
-    "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/",
-    "published": "Thu, 21 May 2026 10:00:00 -0400",
-    "summary": "A Chinese cyber-espionage campaign has been targeting telecommunications providers with newly discovered Linux and Windows malware dubbed Showboat and JFMBackdoor, respectively. [...]",
+    "source": "Krebs On Security",
+    "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+    "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+    "published": "Fri, 22 May 2026 16:34:24 +0000",
+    "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
     "analysis": {
-      "issue": "A Chinese cyber-espionage campaign has been targeting telecommunications providers with newly discovered Linux and Windows malware dubbed Showboat and JFMBackdoor, respectively",
+      "issue": "Lawmakers in both houses of Congress are demanding answers from the U",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
-    "published": "Thu, 21 May 2026 09:58:33 -0400",
-    "summary": "Cisco has released security updates to address a maximum-severity vulnerability in Secure Workload that allows attackers to gain Site Admin privileges. [...]",
-    "analysis": {
-      "issue": "Cisco has released security updates to address a maximum-severity Secure Workload vulnerability that allows attackers to gain Site Admin privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-20223"
-      ],
-      "threat_categories": [
-        "Vulnerability"
+        "Data Breach"
       ]
     }
   },
@@ -513,9 +527,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
+        "CVE-2026-33825",
         "CVE-2026-32201",
-        "CVE-2026-33825"
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -563,22 +577,22 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
-    "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
-    "published": "Mon, 23 Mar 2026 15:43:04 +0000",
-    "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language.",
+    "source": "Security Week",
+    "title": "Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure",
+    "link": "https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/",
+    "published": "Fri, 22 May 2026 17:15:26 +0000",
+    "summary": "<p>Drupal is warning users that it has already seen attempts to exploit CVE-2026-9082 and security firms are seeing attacks against thousands of websites.</p>\n<p>The post <a href=\"https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/\">Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran’s time zone or have Farsi s",
+      "issue": "Drupal is warning users that it has already seen attempts to exploit CVE-2026-9082 and security firms are seeing attacks against thousands of websites",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-9082"
+      ],
       "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
+        "Vulnerability"
       ]
     }
   },
@@ -595,8 +609,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45401",
-        "CVE-2024-9643"
+        "CVE-2024-9643",
+        "CVE-2026-45401"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -761,25 +775,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Socket Raises $60 Million at $1 Billion Valuation",
-    "link": "https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/",
-    "published": "Thu, 21 May 2026 10:32:37 +0000",
-    "summary": "<p>The company will invest in its firewall, certified patches, protection extensions, new products, and team expansion.</p>\n<p>The post <a href=\"https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/\">Socket Raises $60 Million at $1 Billion Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company will invest in its firewall, certified patches, protection extensions, new products, and team expansion",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "The art of being ungovernable",
     "link": "https://blog.talosintelligence.com/the-art-of-being-ungovernable/",
@@ -810,8 +805,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30816",
         "CVE-2026-30815",
+        "CVE-2026-30816",
         "CVE-2026-30814"
       ],
       "threat_categories": [
@@ -870,11 +865,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20127",
-        "CVE-2026-20133",
-        "CVE-2026-20182",
         "CVE-2026-20122",
-        "CVE-2026-20128"
+        "CVE-2026-20182",
+        "CVE-2026-20128",
+        "CVE-2026-20133",
+        "CVE-2026-20127"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -913,10 +908,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33844",
-        "CVE-2026-35421",
         "CVE-2026-40358",
         "CVE-2026-33109",
+        "CVE-2026-33844",
+        "CVE-2026-35421",
         "CVE-2026-32161"
       ],
       "threat_categories": [
@@ -1328,8 +1323,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
