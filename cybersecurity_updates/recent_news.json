@@ -1,6 +1,61 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
+    "link": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
+    "published": "Fri, 22 May 2026 14:20:18 +0530",
+    "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf.\n\nIn tandem, Jacob Butler (aka Dort), 23, Ottawa, Canada, has been charged with offenses related to the development and operation of the botnet. Kimwolf is assessed to be a variant of AISURU.\n\n\"Kimwolf",
+    "analysis": {
+      "issue": "Kimwolf issued 25,000 attack commands before C2 takedown, enabling global DDoS attacks up to 31",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+    "link": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
+    "published": "Fri, 22 May 2026 11:17:33 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerabilities in question are listed below -\n\n\n  CVE-2025-34291 (CVSS score: 9.4) - An origin validation error vulnerability in Langflow that could",
+    "analysis": {
+      "issue": "CISA added two exploited bugs to KEV, forcing federal agencies to patch Langflow and Apex One flaws by June 4, 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
+    "link": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
+    "published": "Fri, 22 May 2026 11:06:18 +0530",
+    "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data.\n\nTracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arises from insufficient validation and authentication when accessing REST API endpoints.\n\n\"An attacker could exploit this vulnerability if they are able to send",
+    "analysis": {
+      "issue": "0 flaw in Secure Workload — unauthenticated attackers can steal data & escalate privileges across tenants",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
     "link": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
     "published": "Thu, 21 May 2026 19:47:09 +0530",
@@ -133,57 +188,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
-    "link": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
-    "published": "Wed, 20 May 2026 22:36:54 +0530",
-    "summary": "Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents.\n\nRAMPART, short for Risk Assessment and Measurement Platform for Agentic Red Teaming, functions as a Pytest-native safety and security testing framework for writing and running safety and security tests for AI agents, covering",
+    "source": "Bleeping Computer",
+    "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
+    "link": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
+    "published": "Fri, 22 May 2026 05:01:20 -0400",
+    "summary": "U.S. and Canadian authorities arrested and charged a Canadian man with operating the KimWolf distributed denial-of-service (DDoS) botnet, which infected nearly two million devices worldwide. [...]",
     "analysis": {
-      "issue": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "issue": "and Canadian authorities arrested and charged a Canadian man with operating the KimWolf distributed denial-of-service (DDoS) botnet, which infected nearly two million devices worldwide",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
-    "link": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
-    "published": "Wed, 20 May 2026 20:06:44 +0530",
-    "summary": "Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and other attacks, compromising thousands of machines and networks across the world.\n\nThe tech giant attributed the activity to a threat actor it calls Fox Tempest, which it said offered the MSaaS scheme",
-    "analysis": {
-      "issue": "Microsoft disrupted Fox Tempest’s MSaaS using 72-hour certificates, cutting signed malware delivery worldwide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
-    "link": "https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html",
-    "published": "Wed, 20 May 2026 18:21:43 +0530",
-    "summary": "Cybersecurity researchers have flagged fresh activity from a China-aligned threat actor known as Webworm in 2025, deploying custom backdoors that employ Discord and Microsoft Graph API for command-and-control (C2 or C&amp;C) communications.\n\nWebworm, first publicly documented by Broadcom-owned Symantec in September 2022, is assessed to be active since at least 2022, targeting government agencies",
-    "analysis": {
-      "issue": "Webworm added EchoCreep and GraphWorm in 2025, using Discord and Microsoft Graph API C2 to expand stealth operations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
+        "Malware",
+        "DDoS"
       ]
     }
   },
@@ -361,24 +380,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
-    "published": "Wed, 20 May 2026 17:36:24 -0400",
-    "summary": "The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an online store in California. [...]",
-    "analysis": {
-      "issue": "The Ukrainian cyberpolice, working in conjunction with U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
     "link": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
@@ -504,8 +505,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
         "CVE-2026-33825",
+        "CVE-2026-34621",
         "CVE-2026-32201"
       ],
       "threat_categories": [
@@ -568,6 +569,67 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "‘First VPN’ Cybercrime Service Disrupted, Administrator Arrested",
+    "link": "https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/",
+    "published": "Fri, 22 May 2026 09:24:22 +0000",
+    "summary": "<p>The FBI says First VPN has been used by dozens of ransomware groups for network reconnaissance and intrusions.</p>\n<p>The post <a href=\"https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/\">&#8216;First VPN&#8217; Cybercrime Service Disrupted, Administrator Arrested</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The FBI says First VPN has been used by dozens of ransomware groups for network reconnaissance and intrusions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "TrendAI Patches Apex One Zero-Day Exploited in the Wild",
+    "link": "https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/",
+    "published": "Fri, 22 May 2026 08:19:24 +0000",
+    "summary": "<p>CVE-2026-34926 is a directory traversal flaw that can be exploited against the on-premise version of Apex One.</p>\n<p>The post <a href=\"https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/\">TrendAI Patches Apex One Zero-Day Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CVE-2026-34926 is a directory traversal flaw that can be exploited against the on-premise version of Apex One",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-34926"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack",
+    "link": "https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/",
+    "published": "Fri, 22 May 2026 07:49:38 +0000",
+    "summary": "<p>Hackers accessed Grafana’s GitHub repositories after a token compromised in the TanStack attack was not rotated.</p>\n<p>The post <a href=\"https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/\">Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers accessed Grafana’s GitHub repositories after a token compromised in the TanStack attack was not rotated",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
         "Malware",
         "Supply Chain"
       ]
@@ -681,13 +743,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2009-1537",
-        "CVE-2010-0806",
-        "CVE-2010-0249",
         "CVE-2026-41091",
-        "CVE-2026-45498",
         "CVE-2008-4250",
-        "CVE-2009-3459"
+        "CVE-2009-3459",
+        "CVE-2010-0806",
+        "CVE-2026-45498",
+        "CVE-2009-1537",
+        "CVE-2010-0249"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -712,64 +774,6 @@
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility",
-    "link": "https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/",
-    "published": "Thu, 21 May 2026 08:14:53 +0000",
-    "summary": "<p>New vulnerabilities are being discovered too fast, the time-to-exploitation is too short, and our visibility into them is largely lacking.</p>\n<p>The post <a href=\"https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/\">Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "New vulnerabilities are being discovered too fast, the time-to-exploitation is too short, and our visibility into them is largely lacking",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution",
-    "link": "https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/",
-    "published": "Wed, 20 May 2026 15:45:07 +0000",
-    "summary": "<p>The new Series A funding round brings the total raised by Quantum Bridge to $16 million. </p>\n<p>The post <a href=\"https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/\">Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The new Series A funding round brings the total raised by Quantum Bridge to $16 million",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft Rolls Out Mitigations for ‘YellowKey’ BitLocker Bypass",
-    "link": "https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/",
-    "published": "Wed, 20 May 2026 15:39:00 +0000",
-    "summary": "<p>The exploitation is mitigated by preventing the FsTx Auto Recovery Utility from starting when the WinRE image launches.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/\">Microsoft Rolls Out Mitigations for &#8216;YellowKey&#8217; BitLocker Bypass</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The exploitation is mitigated by preventing the FsTx Auto Recovery Utility from starting when the WinRE image launches",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-45585"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -804,8 +808,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30816",
         "CVE-2026-30814",
+        "CVE-2026-30816",
         "CVE-2026-30815"
       ],
       "threat_categories": [
@@ -864,11 +868,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20127",
-        "CVE-2026-20133",
         "CVE-2026-20122",
+        "CVE-2026-20127",
         "CVE-2026-20182",
-        "CVE-2026-20128"
+        "CVE-2026-20128",
+        "CVE-2026-20133"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -907,11 +911,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-40358",
+        "CVE-2026-32161",
+        "CVE-2026-33109",
         "CVE-2026-35421",
         "CVE-2026-33844",
-        "CVE-2026-33109",
-        "CVE-2026-32161"
+        "CVE-2026-40358"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1322,8 +1326,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
