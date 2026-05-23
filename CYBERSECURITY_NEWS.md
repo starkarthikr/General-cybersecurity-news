@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-22 18:15:36 UTC
+**Last Updated:** 2026-05-23 03:49:59 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware](https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html)
+### 1. [First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups](https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 22 May 2026 23:05:02 +0530  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 2. [Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware](https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 21:50:32 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows](https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html)
+### 3. [Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows](https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 17:25:24 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective](https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html)
+### 4. [Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective](https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 17:08:12 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks](https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html)
+### 5. [Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks](https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 14:20:18 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV](https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html)
+### 6. [CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV](https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 11:17:33 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access](https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html)
+### 7. [Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access](https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 11:06:18 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor](https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html)
+### 8. [Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor](https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 21 May 2026 19:47:09 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories](https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html)
+### 9. [ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories](https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 21 May 2026 17:22:14 +0530  
@@ -76,22 +85,13 @@
 
 ---
 
-### 9. [Microsoft Warns of Two Actively Exploited Defender Vulnerabilities](https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html)
+### 10. [Microsoft Warns of Two Actively Exploited Defender Vulnerabilities](https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 21 May 2026 16:25:57 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2026-45498, CVE-2026-41091  
+**CVEs:** CVE-2026-41091, CVE-2026-45498  
 **Categories:** Vulnerability  
-
----
-
-### 10. [When Identity is the Attack Path](https://thehackernews.com/2026/05/when-identity-is-attack-path.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 21 May 2026 16:00:00 +0530  
-**Severity:** Critical  
-**Categories:** General Security  
 
 ---
 
@@ -147,7 +147,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 22 May 2026 08:00:42 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33000, CVE-2026-34911, CVE-2026-34909, CVE-2026-34908, CVE-2026-34910  
+**CVEs:** CVE-2026-34908, CVE-2026-34911, CVE-2026-33000, CVE-2026-34910, CVE-2026-34909  
 **Categories:** Vulnerability  
 
 ---
@@ -256,7 +256,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
+**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -388,7 +388,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30815, CVE-2026-30816, CVE-2026-30814  
+**CVEs:** CVE-2026-30816, CVE-2026-30815, CVE-2026-30814  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -416,7 +416,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20122, CVE-2026-20182, CVE-2026-20128, CVE-2026-20133, CVE-2026-20127  
+**CVEs:** CVE-2026-20122, CVE-2026-20182, CVE-2026-20133, CVE-2026-20128, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---
@@ -435,7 +435,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-40358, CVE-2026-33109, CVE-2026-33844, CVE-2026-35421, CVE-2026-32161  
+**CVEs:** CVE-2026-33844, CVE-2026-33109, CVE-2026-40358, CVE-2026-32161, CVE-2026-35421  
 **Categories:** Vulnerability  
 
 ---

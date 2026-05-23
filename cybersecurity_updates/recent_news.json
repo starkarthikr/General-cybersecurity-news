@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
+    "link": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
+    "published": "Fri, 22 May 2026 23:05:02 +0530",
+    "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks.\n\nThe disruption of First VPN Service was led by France and the Netherlands, with several other nations supporting the investigation since December",
+    "analysis": {
+      "issue": "First VPN’s 33 servers were seized after aiding 25 ransomware groups, disrupting anonymous cybercrime infrastructure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
     "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
     "published": "Fri, 22 May 2026 21:50:32 +0530",
@@ -160,29 +178,11 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-45498",
-        "CVE-2026-41091"
+        "CVE-2026-41091",
+        "CVE-2026-45498"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "When Identity is the Attack Path",
-    "link": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html",
-    "published": "Thu, 21 May 2026 16:00:00 +0530",
-    "summary": "Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one misconfigured anything or violated a policy. Yet that single key, which was easily accessible to a minor-league attacker, could have opened a path to some 98% of entities in the company's cloud",
-    "analysis": {
-      "issue": "Cached AWS key exposed 98% of cloud entities, proving one overlooked identity chain can unlock critical cloud workloads",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -295,11 +295,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33000",
-        "CVE-2026-34911",
-        "CVE-2026-34909",
         "CVE-2026-34908",
-        "CVE-2026-34910"
+        "CVE-2026-34911",
+        "CVE-2026-33000",
+        "CVE-2026-34910",
+        "CVE-2026-34909"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -527,8 +527,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
         "CVE-2026-32201",
+        "CVE-2026-33825",
         "CVE-2026-34621"
       ],
       "threat_categories": [
@@ -805,8 +805,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30815",
         "CVE-2026-30816",
+        "CVE-2026-30815",
         "CVE-2026-30814"
       ],
       "threat_categories": [
@@ -867,8 +867,8 @@
       "cves": [
         "CVE-2026-20122",
         "CVE-2026-20182",
-        "CVE-2026-20128",
         "CVE-2026-20133",
+        "CVE-2026-20128",
         "CVE-2026-20127"
       ],
       "threat_categories": [
@@ -908,11 +908,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-40358",
-        "CVE-2026-33109",
         "CVE-2026-33844",
-        "CVE-2026-35421",
-        "CVE-2026-32161"
+        "CVE-2026-33109",
+        "CVE-2026-40358",
+        "CVE-2026-32161",
+        "CVE-2026-35421"
       ],
       "threat_categories": [
         "Vulnerability"
