@@ -1,10 +1,47 @@
 [
   {
     "source": "The Hacker News",
+    "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+    "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+    "published": "Sat, 23 May 2026 22:05:10 +0530",
+    "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation.\n\nCalled staged publishing, the feature is now generally available on npm. It mandates that a human maintainer pass a two-factor authentication (2FA) challenge to approve",
+    "analysis": {
+      "issue": "GitHub added npm staged publishing with mandatory 2FA approval to reduce software supply chain attack risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+    "link": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
+    "published": "Sat, 23 May 2026 21:37:51 +0530",
+    "summary": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL.\n\n\"Although the affected packages were all Composer packages, the malicious code was not added to composer.json,\" Socket said. \"Instead, it was inserted into package.json, targeting projects that ship JavaScript",
+    "analysis": {
+      "issue": "8 Packagist packages hid malicious package",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
     "link": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
     "published": "Sat, 23 May 2026 17:25:35 +0530",
-    "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month.\n\nProject Glasswing is an effort led by the artificial intelligence (AI) company, as part of which a small set of about 50 partners",
+    "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month.\n\n Project Glasswing  is a defensive effort launched by the artificial intelligence (AI) company to secure critical global software",
     "analysis": {
       "issue": "Anthropic uncovered 10,000 vulnerabilities through Project Glasswing, driving urgent patching efforts and stronger cyber defenses",
       "solution": null,
@@ -149,39 +186,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
-    "link": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
-    "published": "Fri, 22 May 2026 14:20:18 +0530",
-    "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf.\n\nIn tandem, Jacob Butler (aka Dort), 23, Ottawa, Canada, has been charged with offenses related to the development and operation of the botnet. Kimwolf is assessed to be a variant of AISURU that specifically",
+    "source": "Bleeping Computer",
+    "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
+    "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
+    "published": "Sat, 23 May 2026 10:23:44 -0400",
+    "summary": "Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, including Netflix, Disney+, and Spotify. [...]",
     "analysis": {
-      "issue": "Kimwolf issued 25,000 attack commands before C2 takedown, enabling global DDoS attacks up to 31",
+      "issue": "Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, including Netflix, Disney+, and Spotify",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
-    "link": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
-    "published": "Fri, 22 May 2026 11:17:33 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerabilities in question are listed below -\n\n\n  CVE-2025-34291 (CVSS score: 9.4) - An origin validation error vulnerability in Langflow that could",
-    "analysis": {
-      "issue": "CISA added two exploited bugs to KEV, forcing federal agencies to patch Langflow and Apex One flaws by June 4, 2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
+        "APT"
       ]
     }
   },
@@ -294,10 +312,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34909",
-        "CVE-2026-34910",
         "CVE-2026-34911",
+        "CVE-2026-34910",
         "CVE-2026-33000",
+        "CVE-2026-34909",
         "CVE-2026-34908"
       ],
       "threat_categories": [
@@ -360,25 +378,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
-    "link": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/",
-    "published": "Thu, 21 May 2026 10:00:10 -0400",
-    "summary": "Modern crypto drainers don't hack wallets. They trick users into approving malicious transactions.  Flare explores how the Lucifer DaaS platform scales wallet theft through phishing and automation. [...]",
-    "analysis": {
-      "issue": "In recent years, cryptocurrency theft operations have evolved far beyond isolated phishing pages and fake NFT mint scams",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -527,8 +526,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-34621",
-        "CVE-2026-32201",
-        "CVE-2026-33825"
+        "CVE-2026-33825",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -864,11 +863,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20182",
         "CVE-2026-20133",
-        "CVE-2026-20128",
         "CVE-2026-20122",
-        "CVE-2026-20127"
+        "CVE-2026-20182",
+        "CVE-2026-20127",
+        "CVE-2026-20128"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -907,10 +906,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32161",
-        "CVE-2026-35421",
         "CVE-2026-33844",
+        "CVE-2026-32161",
         "CVE-2026-40358",
+        "CVE-2026-35421",
         "CVE-2026-33109"
       ],
       "threat_categories": [
@@ -1322,8 +1321,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
