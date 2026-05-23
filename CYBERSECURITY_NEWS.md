@@ -1,10 +1,30 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-23 04:24:54 UTC
+**Last Updated:** 2026-05-23 10:12:29 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups](https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html)
+### 1. [LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root](https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 23 May 2026 13:05:13 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-48172  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV](https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 23 May 2026 12:53:48 +0530  
+**Severity:** High  
+**CVEs:** CVE-2026-9082  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups](https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 23:05:02 +0530  
@@ -13,7 +33,7 @@
 
 ---
 
-### 2. [Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware](https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html)
+### 4. [Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware](https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 21:50:32 +0530  
@@ -22,7 +42,7 @@
 
 ---
 
-### 3. [Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows](https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html)
+### 5. [Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows](https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 17:25:24 +0530  
@@ -31,7 +51,7 @@
 
 ---
 
-### 4. [Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective](https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html)
+### 6. [Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective](https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 17:08:12 +0530  
@@ -40,7 +60,7 @@
 
 ---
 
-### 5. [Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks](https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html)
+### 7. [Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks](https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 14:20:18 +0530  
@@ -49,7 +69,7 @@
 
 ---
 
-### 6. [CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV](https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html)
+### 8. [CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV](https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 11:17:33 +0530  
@@ -58,7 +78,7 @@
 
 ---
 
-### 7. [Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access](https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html)
+### 9. [Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access](https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 11:06:18 +0530  
@@ -67,31 +87,12 @@
 
 ---
 
-### 8. [Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor](https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html)
+### 10. [Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor](https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 21 May 2026 19:47:09 +0530  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 9. [ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories](https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 21 May 2026 17:22:14 +0530  
-**Severity:** Low  
-**Categories:** Malware, Phishing, Supply Chain  
-
----
-
-### 10. [Microsoft Warns of Two Actively Exploited Defender Vulnerabilities](https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 21 May 2026 16:25:57 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-41091, CVE-2026-45498  
-**Categories:** Vulnerability  
 
 ---
 
@@ -147,7 +148,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 22 May 2026 08:00:42 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34910, CVE-2026-34908, CVE-2026-34909, CVE-2026-33000, CVE-2026-34911  
+**CVEs:** CVE-2026-34908, CVE-2026-34911, CVE-2026-33000, CVE-2026-34910, CVE-2026-34909  
 **Categories:** Vulnerability  
 
 ---
@@ -256,7 +257,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
+**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -294,7 +295,7 @@
 **Source:** Security Week  
 **Published:** Fri, 22 May 2026 14:07:06 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2024-9643, CVE-2026-45401  
+**CVEs:** CVE-2026-45401, CVE-2024-9643  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -416,7 +417,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20127, CVE-2026-20182, CVE-2026-20128, CVE-2026-20133, CVE-2026-20122  
+**CVEs:** CVE-2026-20133, CVE-2026-20127, CVE-2026-20182, CVE-2026-20128, CVE-2026-20122  
 **Categories:** Vulnerability  
 
 ---
@@ -435,7 +436,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33109, CVE-2026-33844, CVE-2026-40358, CVE-2026-35421, CVE-2026-32161  
+**CVEs:** CVE-2026-33109, CVE-2026-32161, CVE-2026-40358, CVE-2026-35421, CVE-2026-33844  
 **Categories:** Vulnerability  
 
 ---
@@ -637,7 +638,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -742,7 +743,16 @@
 
 ---
 
-### 81. [New Claude Integration Brings Audit Data into the Falcon Platform](https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/)
+### 81. [Measuring AI-Enabled Success: 3 KPIs Leaders Should Track](https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/)
+
+**Source:** Crowdstrike Blog  
+**Published:** May 22, 2026 00:00:00-0700  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [New Claude Integration Brings Audit Data into the Falcon Platform](https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 21, 2026 00:00:00-0500  
@@ -751,7 +761,7 @@
 
 ---
 
-### 82. [How to Protect Identities and Sessions from Infostealers](https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/)
+### 83. [How to Protect Identities and Sessions from Infostealers](https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 20, 2026 00:00:00-0500  
@@ -760,7 +770,7 @@
 
 ---
 
-### 83. [Now Live: The CrowdStrike 2026 Financial Services Threat Landscape Report](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-financial-services-threat-landscape-report/)
+### 84. [Now Live: The CrowdStrike 2026 Financial Services Threat Landscape Report](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-financial-services-threat-landscape-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 14, 2026 00:00:00-0500  
@@ -769,7 +779,7 @@
 
 ---
 
-### 84. [Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications](https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/)
+### 85. [Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications](https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 13, 2026 00:00:00-0500  
@@ -778,7 +788,7 @@
 
 ---
 
-### 85. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
+### 86. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 12, 2026 00:00:00-0500  
@@ -787,7 +797,7 @@
 
 ---
 
-### 86. [Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections](https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/)
+### 87. [Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections](https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 11, 2026 00:00:00-0500  
@@ -796,7 +806,7 @@
 
 ---
 
-### 87. [CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/)
+### 88. [CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 06, 2026 00:00:00-0500  
@@ -805,7 +815,7 @@
 
 ---
 
-### 88. [CrowdStrike Launches Falcon OverWatch for Defender](https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/)
+### 89. [CrowdStrike Launches Falcon OverWatch for Defender](https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 05, 2026 00:00:00-0500  
@@ -814,21 +824,12 @@
 
 ---
 
-### 89. [CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns](https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/)
+### 90. [CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns](https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 04, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 90. [Tune In: The Future of AI-Powered Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/)
-
-**Source:** Crowdstrike Blog  
-**Published:** May 01, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 

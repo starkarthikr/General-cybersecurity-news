@@ -1,10 +1,50 @@
 [
   {
     "source": "The Hacker News",
+    "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
+    "link": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
+    "published": "Sat, 23 May 2026 13:05:13 +0530",
+    "summary": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild.\n\nThe flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment that an attacker could abuse to run arbitrary scripts with elevated permissions.\n\n\"Any cPanel user (including an attacker or a compromised account) may",
+    "analysis": {
+      "issue": "CVE-2026-48172 lets cPanel users run scripts as root, affecting LiteSpeed plugin 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-48172"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
+    "link": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
+    "published": "Sat, 23 May 2026 12:53:48 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\n\nThe vulnerability in question is CVE-2026-9082 (CVSS score: 6.5), an SQL injection vulnerability affecting all supported versions of Drupal Core.\n\n\"Drupal Core",
+    "analysis": {
+      "issue": "Drupal CVE-2026-9082 exploitation hit 15,000 attempts across 65 countries, forcing urgent patches by May 27, 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-9082"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
     "link": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
     "published": "Fri, 22 May 2026 23:05:02 +0530",
-    "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks.\n\nThe disruption of First VPN Service was led by France and the Netherlands, with several other nations supporting the investigation since December",
+    "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks.\n\nCodenamed Operation Saffron, the  disruption  of First VPN Service was led by France and the Netherlands, with several other nations supporting the",
     "analysis": {
       "issue": "First VPN’s 33 servers were seized after aiding 25 ransomware groups, disrupting anonymous cybercrime infrastructure",
       "solution": null,
@@ -22,7 +62,7 @@
     "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
     "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
     "published": "Fri, 22 May 2026 21:50:32 +0530",
-    "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151Ukraine's National Security and Defense Council) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country.\n\nThe activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), involves sending phishing emails to government",
+    "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country.\n\nThe activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), involves sending phishing emails to government entities using compromised accounts. It's been",
     "analysis": {
       "issue": "Ghostwriter used Prometheus lures since spring 2026 to target Ukraine agencies, enabling malware delivery and data theft",
       "solution": null,
@@ -77,7 +117,7 @@
     "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
     "link": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
     "published": "Fri, 22 May 2026 14:20:18 +0530",
-    "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf.\n\nIn tandem, Jacob Butler (aka Dort), 23, Ottawa, Canada, has been charged with offenses related to the development and operation of the botnet. Kimwolf is assessed to be a variant of AISURU.\n\n\"Kimwolf",
+    "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf.\n\nIn tandem, Jacob Butler (aka Dort), 23, Ottawa, Canada, has been charged with offenses related to the development and operation of the botnet. Kimwolf is assessed to be a variant of AISURU that specifically",
     "analysis": {
       "issue": "Kimwolf issued 25,000 attack commands before C2 takedown, enabling global DDoS attacks up to 31",
       "solution": null,
@@ -142,47 +182,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
-    "link": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html",
-    "published": "Thu, 21 May 2026 17:22:14 +0530",
-    "summary": "This week starts small.\n\nA token leaks. A bad package slips in. A login trick works. An old tool shows up again. At first, it feels like the usual mess. Then you see the pattern: attackers are not always breaking in. They are using the parts we already trust.\n\nThat is what makes it worrying. The danger is in normal things now - updates, apps, cloud buttons, support chats, trusted accounts. AI",
-    "analysis": {
-      "issue": "Cyber threats this week: AI-assisted attacks, supply chain risks, cloud abuse, phishing, malware, and old flaws still causing damage",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
-    "link": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
-    "published": "Thu, 21 May 2026 16:25:57 +0530",
-    "summary": "Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild.\n\nThe former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring system. Successful exploitation of the flaw could allow an attacker to gain SYSTEM privileges.\n\n\"Improper link resolution before file access ('link following') in Microsoft Defender",
-    "analysis": {
-      "issue": "Active Defender exploits hit CVE-2026-41091 and CVE-2026-45498; June 3 fixes reduce SYSTEM and DoS risk",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-41091",
-        "CVE-2026-45498"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -295,11 +294,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34910",
         "CVE-2026-34908",
-        "CVE-2026-34909",
+        "CVE-2026-34911",
         "CVE-2026-33000",
-        "CVE-2026-34911"
+        "CVE-2026-34910",
+        "CVE-2026-34909"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -528,8 +527,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-34621",
-        "CVE-2026-33825",
-        "CVE-2026-32201"
+        "CVE-2026-32201",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -609,8 +608,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2024-9643",
-        "CVE-2026-45401"
+        "CVE-2026-45401",
+        "CVE-2024-9643"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -865,10 +864,10 @@
       "timeline": null,
       "severity": "High",
       "cves": [
+        "CVE-2026-20133",
         "CVE-2026-20127",
         "CVE-2026-20182",
         "CVE-2026-20128",
-        "CVE-2026-20133",
         "CVE-2026-20122"
       ],
       "threat_categories": [
@@ -909,10 +908,10 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-33109",
-        "CVE-2026-33844",
+        "CVE-2026-32161",
         "CVE-2026-40358",
         "CVE-2026-35421",
-        "CVE-2026-32161"
+        "CVE-2026-33844"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1323,8 +1322,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1536,6 +1535,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Measuring AI-Enabled Success: 3 KPIs Leaders Should Track",
+    "link": "https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/",
+    "published": "May 22, 2026 00:00:00-0700",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn three KPIs every CIO should track essential to evaluating security and speed as AI use evolves across the business",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "New Claude Integration Brings Audit Data into the Falcon Platform",
     "link": "https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/",
     "published": "May 21, 2026 00:00:00-0500",
@@ -1693,24 +1710,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Tune In: The Future of AI-Powered Vulnerability Discovery",
-    "link": "https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/",
-    "published": "May 01, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "This episode of the Adversary Universe podcast explores how AI is accelerating vulnerability research and its implications",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   }
