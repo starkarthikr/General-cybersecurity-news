@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
+    "link": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
+    "published": "Sat, 23 May 2026 17:25:35 +0530",
+    "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month.\n\nProject Glasswing is an effort led by the artificial intelligence (AI) company, as part of which a small set of about 50 partners",
+    "analysis": {
+      "issue": "Anthropic uncovered 10,000 vulnerabilities through Project Glasswing, driving urgent patching efforts and stronger cyber defenses",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+    "link": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
+    "published": "Sat, 23 May 2026 15:21:13 +0530",
+    "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to  Laravel-Lang to deliver a comprehensive credential-stealing framework.\n\nThe affected packages include -\n\n\n  laravel-lang/lang\n  laravel-lang/http-statuses\n  laravel-lang/attributes\n  laravel-lang/actions\n\n\"The timing and pattern of the newly published tags",
+    "analysis": {
+      "issue": "Laravel-Lang compromise tagged 700+ versions on May 22–23, 2026, triggering PHP stealers that exfiltrate credentials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
     "link": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
     "published": "Sat, 23 May 2026 13:05:13 +0530",
@@ -150,42 +186,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
-    "link": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
-    "published": "Fri, 22 May 2026 11:06:18 +0530",
-    "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data.\n\nTracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arises from insufficient validation and authentication when accessing REST API endpoints.\n\n\"An attacker could exploit this vulnerability if they are able to send",
-    "analysis": {
-      "issue": "0 flaw in Secure Workload — unauthenticated attackers can steal data & escalate privileges across tenants",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
-    "link": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
-    "published": "Thu, 21 May 2026 19:47:09 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new Linux malware dubbed Showboat that has been put to use in a campaign targeting a telecommunications provider in the Middle East since at least mid-2022.\n\n\"Showboat is a modular post-exploitation framework designed for Linux systems, capable of spawning a remote shell, transferring files, and functioning as a SOCKS5 proxy,\" Lumen",
-    "analysis": {
-      "issue": "Showboat targets Linux telecom systems since mid-2022, enabling C2 access, proxying, and file theft across multiple countries",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
     "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
@@ -294,11 +294,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34908",
+        "CVE-2026-34909",
+        "CVE-2026-34910",
         "CVE-2026-34911",
         "CVE-2026-33000",
-        "CVE-2026-34910",
-        "CVE-2026-34909"
+        "CVE-2026-34908"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -577,6 +577,26 @@
   },
   {
     "source": "Security Week",
+    "title": "‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains",
+    "link": "https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/",
+    "published": "Sat, 23 May 2026 11:00:00 +0000",
+    "summary": "<p>The stealthy vulnerability impacts roughly 88 million domains and can be exploited to bypass DNS filtering and hide command-and-control traffic.</p>\n<p>The post <a href=\"https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/\">‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The stealthy vulnerability impacts roughly 88 million domains and can be exploited to bypass DNS filtering and hide command-and-control traffic",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure",
     "link": "https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/",
     "published": "Fri, 22 May 2026 17:15:26 +0000",
@@ -608,8 +628,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45401",
-        "CVE-2024-9643"
+        "CVE-2024-9643",
+        "CVE-2026-45401"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -754,26 +774,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking",
-    "link": "https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/",
-    "published": "Thu, 21 May 2026 10:58:49 +0000",
-    "summary": "<p>CVE-2026-9082 can be exploited without authentication for information disclosure, privilege escalation, and remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/\">Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CVE-2026-9082 can be exploited without authentication for information disclosure, privilege escalation, and remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-9082"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "The art of being ungovernable",
     "link": "https://blog.talosintelligence.com/the-art-of-being-ungovernable/",
@@ -864,11 +864,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20133",
-        "CVE-2026-20127",
         "CVE-2026-20182",
+        "CVE-2026-20133",
         "CVE-2026-20128",
-        "CVE-2026-20122"
+        "CVE-2026-20122",
+        "CVE-2026-20127"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -907,11 +907,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33109",
         "CVE-2026-32161",
-        "CVE-2026-40358",
         "CVE-2026-35421",
-        "CVE-2026-33844"
+        "CVE-2026-33844",
+        "CVE-2026-40358",
+        "CVE-2026-33109"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1322,8 +1322,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

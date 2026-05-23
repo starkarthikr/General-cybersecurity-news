@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-23 10:12:29 UTC
+**Last Updated:** 2026-05-23 13:48:48 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root](https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html)
+### 1. [Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software](https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 23 May 2026 17:25:35 +0530  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 2. [Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer](https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 23 May 2026 15:21:13 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root](https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 23 May 2026 13:05:13 +0530  
@@ -14,7 +32,7 @@
 
 ---
 
-### 2. [Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV](https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html)
+### 4. [Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV](https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 23 May 2026 12:53:48 +0530  
@@ -24,7 +42,7 @@
 
 ---
 
-### 3. [First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups](https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html)
+### 5. [First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups](https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 23:05:02 +0530  
@@ -33,7 +51,7 @@
 
 ---
 
-### 4. [Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware](https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html)
+### 6. [Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware](https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 21:50:32 +0530  
@@ -42,7 +60,7 @@
 
 ---
 
-### 5. [Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows](https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html)
+### 7. [Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows](https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 17:25:24 +0530  
@@ -51,7 +69,7 @@
 
 ---
 
-### 6. [Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective](https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html)
+### 8. [Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective](https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 17:08:12 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks](https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html)
+### 9. [Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks](https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 14:20:18 +0530  
@@ -69,30 +87,12 @@
 
 ---
 
-### 8. [CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV](https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html)
+### 10. [CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV](https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 11:17:33 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 9. [Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access](https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 22 May 2026 11:06:18 +0530  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 10. [Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor](https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 21 May 2026 19:47:09 +0530  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -148,7 +148,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 22 May 2026 08:00:42 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34908, CVE-2026-34911, CVE-2026-33000, CVE-2026-34910, CVE-2026-34909  
+**CVEs:** CVE-2026-34909, CVE-2026-34910, CVE-2026-34911, CVE-2026-33000, CVE-2026-34908  
 **Categories:** Vulnerability  
 
 ---
@@ -280,7 +280,16 @@
 
 ---
 
-### 31. [Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure](https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/)
+### 31. [‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains](https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/)
+
+**Source:** Security Week  
+**Published:** Sat, 23 May 2026 11:00:00 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware, Phishing  
+
+---
+
+### 32. [Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure](https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/)
 
 **Source:** Security Week  
 **Published:** Fri, 22 May 2026 17:15:26 +0000  
@@ -290,17 +299,17 @@
 
 ---
 
-### 32. [In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking](https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/)
+### 33. [In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking](https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/)
 
 **Source:** Security Week  
 **Published:** Fri, 22 May 2026 14:07:06 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45401, CVE-2024-9643  
+**CVEs:** CVE-2024-9643, CVE-2026-45401  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 33. [Canadian Man Arrested for Operating Kimwolf Botnet](https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/)
+### 34. [Canadian Man Arrested for Operating Kimwolf Botnet](https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/)
 
 **Source:** Security Week  
 **Published:** Fri, 22 May 2026 12:11:03 +0000  
@@ -309,7 +318,7 @@
 
 ---
 
-### 34. [‘First VPN’ Cybercrime Service Disrupted, Administrator Arrested](https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/)
+### 35. [‘First VPN’ Cybercrime Service Disrupted, Administrator Arrested](https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/)
 
 **Source:** Security Week  
 **Published:** Fri, 22 May 2026 09:24:22 +0000  
@@ -318,7 +327,7 @@
 
 ---
 
-### 35. [TrendAI Patches Apex One Zero-Day Exploited in the Wild](https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/)
+### 36. [TrendAI Patches Apex One Zero-Day Exploited in the Wild](https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/)
 
 **Source:** Security Week  
 **Published:** Fri, 22 May 2026 08:19:24 +0000  
@@ -328,7 +337,7 @@
 
 ---
 
-### 36. [Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack](https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/)
+### 37. [Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack](https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Fri, 22 May 2026 07:49:38 +0000  
@@ -337,7 +346,7 @@
 
 ---
 
-### 37. [Cisco Patches Critical Vulnerability in Secure Workload](https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/)
+### 38. [Cisco Patches Critical Vulnerability in Secure Workload](https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/)
 
 **Source:** Security Week  
 **Published:** Thu, 21 May 2026 12:04:13 +0000  
@@ -347,7 +356,7 @@
 
 ---
 
-### 38. [Ocean Emerges From Stealth With $28M for Agentic Email Security Platform](https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/)
+### 39. [Ocean Emerges From Stealth With $28M for Agentic Email Security Platform](https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/)
 
 **Source:** Security Week  
 **Published:** Thu, 21 May 2026 11:45:51 +0000  
@@ -356,22 +365,12 @@
 
 ---
 
-### 39. [Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention](https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/)
+### 40. [Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention](https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/)
 
 **Source:** Security Week  
 **Published:** Thu, 21 May 2026 11:17:15 +0000  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 40. [Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking](https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/)
-
-**Source:** Security Week  
-**Published:** Thu, 21 May 2026 10:58:49 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-9082  
-**Categories:** Vulnerability  
 
 ---
 
@@ -417,7 +416,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20133, CVE-2026-20127, CVE-2026-20182, CVE-2026-20128, CVE-2026-20122  
+**CVEs:** CVE-2026-20182, CVE-2026-20133, CVE-2026-20128, CVE-2026-20122, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---
@@ -436,7 +435,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33109, CVE-2026-32161, CVE-2026-40358, CVE-2026-35421, CVE-2026-33844  
+**CVEs:** CVE-2026-32161, CVE-2026-35421, CVE-2026-33844, CVE-2026-40358, CVE-2026-33109  
 **Categories:** Vulnerability  
 
 ---
@@ -638,7 +637,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
