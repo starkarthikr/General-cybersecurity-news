@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-24 13:47:16 UTC
+**Last Updated:** 2026-05-24 17:31:49 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,17 @@
 
 ---
 
-### 11. [Laravel Lang packages hijacked to deploy credential-stealing malware](https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/)
+### 11. [Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign](https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 24 May 2026 10:12:32 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-26980  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Laravel Lang packages hijacked to deploy credential-stealing malware](https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 23 May 2026 16:48:23 -0400  
@@ -105,7 +115,7 @@
 
 ---
 
-### 12. [Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes](https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/)
+### 13. [Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes](https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 23 May 2026 10:23:44 -0400  
@@ -114,7 +124,7 @@
 
 ---
 
-### 13. [Netherlands seizes 800 servers of hosting firm enabling cyberattacks](https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/)
+### 14. [Netherlands seizes 800 servers of hosting firm enabling cyberattacks](https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 22 May 2026 13:24:52 -0400  
@@ -123,7 +133,7 @@
 
 ---
 
-### 14. [Former US execs plead guilty to aiding tech support scammers](https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/)
+### 15. [Former US execs plead guilty to aiding tech support scammers](https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 22 May 2026 11:32:18 -0400  
@@ -132,7 +142,7 @@
 
 ---
 
-### 15. [Trend Micro warns of Apex One zero-day exploited in the wild](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/)
+### 16. [Trend Micro warns of Apex One zero-day exploited in the wild](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 22 May 2026 09:39:19 -0400  
@@ -142,7 +152,7 @@
 
 ---
 
-### 16. [Drupal: Critical SQL injection flaw now targeted in attacks](https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/)
+### 17. [Drupal: Critical SQL injection flaw now targeted in attacks](https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 22 May 2026 09:14:40 -0400  
@@ -152,7 +162,7 @@
 
 ---
 
-### 17. [Why Chargebacks are Just One Piece of the Fraud Puzzle](https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/)
+### 18. [Why Chargebacks are Just One Piece of the Fraud Puzzle](https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 22 May 2026 09:09:18 -0400  
@@ -161,31 +171,22 @@
 
 ---
 
-### 18. [Ubiquiti patches three max severity UniFi OS vulnerabilities](https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/)
+### 19. [Ubiquiti patches three max severity UniFi OS vulnerabilities](https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 22 May 2026 08:00:42 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34908, CVE-2026-34910, CVE-2026-33000, CVE-2026-34911, CVE-2026-34909  
+**CVEs:** CVE-2026-33000, CVE-2026-34909, CVE-2026-34911, CVE-2026-34908, CVE-2026-34910  
 **Categories:** Vulnerability  
 
 ---
 
-### 19. [US and Canada arrest and charge suspected Kimwolf botnet admin](https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/)
+### 20. [US and Canada arrest and charge suspected Kimwolf botnet admin](https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 22 May 2026 05:01:20 -0400  
 **Severity:** Low  
 **Categories:** Malware, DDoS  
-
----
-
-### 20. [Google accidentally exposed details of unfixed Chromium flaw](https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 21 May 2026 14:13:50 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Vulnerability, Malware, DDoS  
 
 ---
 
@@ -257,7 +258,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -304,7 +305,7 @@
 **Source:** Security Week  
 **Published:** Fri, 22 May 2026 14:07:06 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2024-9643, CVE-2026-45401  
+**CVEs:** CVE-2026-45401, CVE-2024-9643  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -388,7 +389,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30814, CVE-2026-30816, CVE-2026-30815  
+**CVEs:** CVE-2026-30816, CVE-2026-30814, CVE-2026-30815  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -416,7 +417,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20128, CVE-2026-20122, CVE-2026-20182, CVE-2026-20133, CVE-2026-20127  
+**CVEs:** CVE-2026-20127, CVE-2026-20182, CVE-2026-20122, CVE-2026-20133, CVE-2026-20128  
 **Categories:** Vulnerability  
 
 ---
@@ -435,7 +436,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-40358, CVE-2026-32161, CVE-2026-35421, CVE-2026-33844, CVE-2026-33109  
+**CVEs:** CVE-2026-35421, CVE-2026-32161, CVE-2026-33844, CVE-2026-33109, CVE-2026-40358  
 **Categories:** Vulnerability  
 
 ---

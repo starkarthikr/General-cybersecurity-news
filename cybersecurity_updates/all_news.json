@@ -187,6 +187,26 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
+    "link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
+    "published": "Sun, 24 May 2026 10:12:32 -0400",
+    "summary": "A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows. [...]",
+    "analysis": {
+      "issue": "A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-26980"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
     "link": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
     "published": "Sat, 23 May 2026 16:48:23 -0400",
@@ -331,11 +351,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34908",
-        "CVE-2026-34910",
         "CVE-2026-33000",
+        "CVE-2026-34909",
         "CVE-2026-34911",
-        "CVE-2026-34909"
+        "CVE-2026-34908",
+        "CVE-2026-34910"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -356,27 +376,6 @@
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google accidentally exposed details of unfixed Chromium flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
-    "published": "Thu, 21 May 2026 14:13:50 -0400",
-    "summary": "Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the device. [...]",
-    "analysis": {
-      "issue": "Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the device",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
         "Malware",
         "DDoS"
       ]
@@ -526,9 +525,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
+        "CVE-2026-32201",
         "CVE-2026-34621",
-        "CVE-2026-32201"
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -628,8 +627,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2024-9643",
-        "CVE-2026-45401"
+        "CVE-2026-45401",
+        "CVE-2024-9643"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -804,8 +803,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30814",
         "CVE-2026-30816",
+        "CVE-2026-30814",
         "CVE-2026-30815"
       ],
       "threat_categories": [
@@ -864,11 +863,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20128",
-        "CVE-2026-20122",
+        "CVE-2026-20127",
         "CVE-2026-20182",
+        "CVE-2026-20122",
         "CVE-2026-20133",
-        "CVE-2026-20127"
+        "CVE-2026-20128"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -907,11 +906,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-40358",
-        "CVE-2026-32161",
         "CVE-2026-35421",
+        "CVE-2026-32161",
         "CVE-2026-33844",
-        "CVE-2026-33109"
+        "CVE-2026-33109",
+        "CVE-2026-40358"
       ],
       "threat_categories": [
         "Vulnerability"
