@@ -187,6 +187,25 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
+    "link": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
+    "published": "Sat, 23 May 2026 16:48:23 -0400",
+    "summary": "A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious code through Composer packages. [...]",
+    "analysis": {
+      "issue": "A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious code through Composer packages",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
     "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
     "published": "Sat, 23 May 2026 10:23:44 -0400",
@@ -312,11 +331,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34911",
         "CVE-2026-34910",
+        "CVE-2026-34911",
         "CVE-2026-33000",
-        "CVE-2026-34909",
-        "CVE-2026-34908"
+        "CVE-2026-34908",
+        "CVE-2026-34909"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -360,24 +379,6 @@
         "Vulnerability",
         "Malware",
         "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
-    "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
-    "published": "Thu, 21 May 2026 11:11:08 -0400",
-    "summary": "Apple revealed that it blocked over $11 billion in fraudulent App Store transactions over the last six years, more than $2.2 billion in potentially fraudulent App Store transactions in 2025 alone. [...]",
-    "analysis": {
-      "issue": "Apple revealed that it blocked over $11 billion in fraudulent App Store transactions over the last six years, more than $2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -525,9 +526,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
+        "CVE-2026-32201",
         "CVE-2026-33825",
-        "CVE-2026-32201"
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -803,9 +804,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-30814",
         "CVE-2026-30815",
-        "CVE-2026-30816",
-        "CVE-2026-30814"
+        "CVE-2026-30816"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -864,9 +865,9 @@
       "severity": "High",
       "cves": [
         "CVE-2026-20133",
-        "CVE-2026-20122",
         "CVE-2026-20182",
         "CVE-2026-20127",
+        "CVE-2026-20122",
         "CVE-2026-20128"
       ],
       "threat_categories": [
@@ -906,11 +907,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33844",
-        "CVE-2026-32161",
-        "CVE-2026-40358",
         "CVE-2026-35421",
-        "CVE-2026-33109"
+        "CVE-2026-33109",
+        "CVE-2026-40358",
+        "CVE-2026-32161",
+        "CVE-2026-33844"
       ],
       "threat_categories": [
         "Vulnerability"
