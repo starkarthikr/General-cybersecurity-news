@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
+    "link": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
+    "published": "Mon, 25 May 2026 19:43:27 +0530",
+    "summary": "Monday recap. Same mess, new week.\n\nA sketchy dev tool got people pwned, old bugs came back from the dead, and security products somehow needed protecting from themselves. A bunch of companies spent the week checking old boxes and forgotten servers they should've patched years ago. Good times.\n\nPhishing crews are getting smarter too - less obvious scam junk, more targeted stuff that actually",
+    "analysis": {
+      "issue": "Supply chain chaos, old bugs, smarter phishing, and botnets everywhere — here’s what broke the internet this week",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
     "link": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
     "published": "Mon, 25 May 2026 17:32:46 +0530",
@@ -171,22 +191,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
-    "link": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
-    "published": "Sat, 23 May 2026 12:53:48 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\n\nThe vulnerability in question is CVE-2026-9082 (CVSS score: 6.5), an SQL injection vulnerability affecting all supported versions of Drupal Core.\n\n\"Drupal Core",
+    "source": "Bleeping Computer",
+    "title": "Anthropic’s restricted Claude Mythos model may be coming to Claude Code",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
+    "published": "Mon, 25 May 2026 13:07:33 -0400",
+    "summary": "Anthropic appears to be preparing for the public rollout of the Mythos model, which was announced in April as a restricted model that poses major security risks to private and public software. [...]",
     "analysis": {
-      "issue": "Drupal CVE-2026-9082 exploitation hit 15,000 attempts across 65 countries, forcing urgent patches by May 27, 2026",
+      "issue": "Anthropic appears to be preparing for the public rollout of \"Mythos,\" which was announced in April as a restricted model that poses major security risks to private and public software",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-9082"
-      ],
+      "severity": "Critical",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -362,30 +380,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
-    "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
-    "published": "Fri, 22 May 2026 08:00:42 -0400",
-    "summary": "Ubiquiti has released security updates to patch three maximum severity vulnerabilities in UniFi OS that can be exploited by remote attackers without privileges. [...]",
-    "analysis": {
-      "issue": "Ubiquiti has released security updates to patch three maximum severity vulnerabilities in UniFi OS that can be exploited by remote attackers without privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-34911",
-        "CVE-2026-34910",
-        "CVE-2026-34909",
-        "CVE-2026-34908",
-        "CVE-2026-33000"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
     "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
@@ -549,9 +543,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-33825",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -810,8 +804,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-30814",
-        "CVE-2026-30816",
-        "CVE-2026-30815"
+        "CVE-2026-30815",
+        "CVE-2026-30816"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -869,11 +863,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20128",
         "CVE-2026-20122",
+        "CVE-2026-20127",
+        "CVE-2026-20128",
         "CVE-2026-20182",
-        "CVE-2026-20133",
-        "CVE-2026-20127"
+        "CVE-2026-20133"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -913,9 +907,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-33109",
-        "CVE-2026-35421",
         "CVE-2026-33844",
         "CVE-2026-40358",
+        "CVE-2026-35421",
         "CVE-2026-32161"
       ],
       "threat_categories": [
@@ -1327,8 +1321,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
