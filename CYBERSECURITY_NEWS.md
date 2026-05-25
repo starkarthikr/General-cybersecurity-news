@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-25 05:05:29 UTC
+**Last Updated:** 2026-05-25 12:04:35 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks](https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html)
+### 1. [Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms](https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 25 May 2026 15:02:54 +0530  
+**Severity:** Low  
+**Categories:** Malware, APT  
+
+---
+
+### 2. [TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO](https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 25 May 2026 11:29:13 +0530  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 3. [npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks](https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 23 May 2026 22:05:10 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware](https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html)
+### 4. [Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware](https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 23 May 2026 21:37:51 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software](https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html)
+### 5. [Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software](https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 23 May 2026 17:25:35 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer](https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html)
+### 6. [Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer](https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 23 May 2026 15:21:13 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root](https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html)
+### 7. [LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root](https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 23 May 2026 13:05:13 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV](https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html)
+### 8. [Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV](https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 23 May 2026 12:53:48 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups](https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html)
+### 9. [First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups](https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 23:05:02 +0530  
@@ -69,30 +87,12 @@
 
 ---
 
-### 8. [Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware](https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html)
+### 10. [Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware](https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 22 May 2026 21:50:32 +0530  
 **Severity:** Low  
 **Categories:** Malware, Phishing  
-
----
-
-### 9. [Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows](https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 22 May 2026 17:25:24 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective](https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 22 May 2026 17:08:12 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -176,7 +176,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 22 May 2026 08:00:42 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34909, CVE-2026-34908, CVE-2026-33000, CVE-2026-34911, CVE-2026-34910  
+**CVEs:** CVE-2026-34910, CVE-2026-34908, CVE-2026-33000, CVE-2026-34911, CVE-2026-34909  
 **Categories:** Vulnerability  
 
 ---
@@ -258,7 +258,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -281,7 +281,52 @@
 
 ---
 
-### 31. [‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains](https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/)
+### 31. [266,000 Affected by Data Breach at Radiology Associates of Richmond](https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/)
+
+**Source:** Security Week  
+**Published:** Mon, 25 May 2026 11:17:07 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 32. [Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects](https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/)
+
+**Source:** Security Week  
+**Published:** Mon, 25 May 2026 10:58:07 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [Laravel-Lang Packages Poisoned for Malware Delivery](https://www.securityweek.com/laravel-lang-packages-poisoned-for-malware-delivery/)
+
+**Source:** Security Week  
+**Published:** Mon, 25 May 2026 10:41:07 +0000  
+**Severity:** High  
+**Categories:** Vulnerability, Malware, Phishing, Supply Chain  
+
+---
+
+### 34. [DocketWise Data Breach Impacts 143,000](https://www.securityweek.com/docketwise-data-breach-impacts-143000/)
+
+**Source:** Security Week  
+**Published:** Mon, 25 May 2026 09:37:27 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach, Supply Chain  
+
+---
+
+### 35. [Over 5,500 GitHub Repositories Infected in ‘Megalodon’ Supply Chain Attack](https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/)
+
+**Source:** Security Week  
+**Published:** Mon, 25 May 2026 07:40:55 +0000  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 36. [‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains](https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/)
 
 **Source:** Security Week  
 **Published:** Sat, 23 May 2026 11:00:00 +0000  
@@ -290,7 +335,7 @@
 
 ---
 
-### 32. [Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure](https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/)
+### 37. [Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure](https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/)
 
 **Source:** Security Week  
 **Published:** Fri, 22 May 2026 17:15:26 +0000  
@@ -300,7 +345,7 @@
 
 ---
 
-### 33. [In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking](https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/)
+### 38. [In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking](https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/)
 
 **Source:** Security Week  
 **Published:** Fri, 22 May 2026 14:07:06 +0000  
@@ -310,7 +355,7 @@
 
 ---
 
-### 34. [Canadian Man Arrested for Operating Kimwolf Botnet](https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/)
+### 39. [Canadian Man Arrested for Operating Kimwolf Botnet](https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/)
 
 **Source:** Security Week  
 **Published:** Fri, 22 May 2026 12:11:03 +0000  
@@ -319,59 +364,12 @@
 
 ---
 
-### 35. [‘First VPN’ Cybercrime Service Disrupted, Administrator Arrested](https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/)
+### 40. [‘First VPN’ Cybercrime Service Disrupted, Administrator Arrested](https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/)
 
 **Source:** Security Week  
 **Published:** Fri, 22 May 2026 09:24:22 +0000  
 **Severity:** Low  
 **Categories:** Ransomware, Malware, DDoS  
-
----
-
-### 36. [TrendAI Patches Apex One Zero-Day Exploited in the Wild](https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/)
-
-**Source:** Security Week  
-**Published:** Fri, 22 May 2026 08:19:24 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-34926  
-**Categories:** Vulnerability, APT  
-
----
-
-### 37. [Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack](https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/)
-
-**Source:** Security Week  
-**Published:** Fri, 22 May 2026 07:49:38 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Malware, Supply Chain  
-
----
-
-### 38. [Cisco Patches Critical Vulnerability in Secure Workload](https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/)
-
-**Source:** Security Week  
-**Published:** Thu, 21 May 2026 12:04:13 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-20223  
-**Categories:** Vulnerability  
-
----
-
-### 39. [Ocean Emerges From Stealth With $28M for Agentic Email Security Platform](https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/)
-
-**Source:** Security Week  
-**Published:** Thu, 21 May 2026 11:45:51 +0000  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 40. [Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention](https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/)
-
-**Source:** Security Week  
-**Published:** Thu, 21 May 2026 11:17:15 +0000  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -389,7 +387,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30816, CVE-2026-30814, CVE-2026-30815  
+**CVEs:** CVE-2026-30814, CVE-2026-30815, CVE-2026-30816  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -417,7 +415,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20182, CVE-2026-20128, CVE-2026-20133, CVE-2026-20122, CVE-2026-20127  
+**CVEs:** CVE-2026-20122, CVE-2026-20133, CVE-2026-20128, CVE-2026-20127, CVE-2026-20182  
 **Categories:** Vulnerability  
 
 ---
@@ -436,7 +434,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33844, CVE-2026-33109, CVE-2026-40358, CVE-2026-35421, CVE-2026-32161  
+**CVEs:** CVE-2026-32161, CVE-2026-35421, CVE-2026-40358, CVE-2026-33109, CVE-2026-33844  
 **Categories:** Vulnerability  
 
 ---
@@ -638,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -653,7 +651,16 @@
 
 ---
 
-### 71. [Update Chrome now:  Critical bugs could let attackers run code](https://www.malwarebytes.com/blog/bugs/2026/05/update-chrome-now-critical-bugs-could-let-attackers-run-code)
+### 71. [A week in security (May 18 &#8211; May 24)](https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-may-18-may-24)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 25 May 2026 07:02:00 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 72. [Update Chrome now:  Critical bugs could let attackers run code](https://www.malwarebytes.com/blog/bugs/2026/05/update-chrome-now-critical-bugs-could-let-attackers-run-code)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 22 May 2026 12:10:36 GMT  
@@ -662,7 +669,7 @@
 
 ---
 
-### 72. [Microsoft Defender vulnerabilities are being exploited in the wild](https://www.malwarebytes.com/blog/bugs/2026/05/microsoft-defender-vulnerabilities-are-being-exploited-in-the-wild)
+### 73. [Microsoft Defender vulnerabilities are being exploited in the wild](https://www.malwarebytes.com/blog/bugs/2026/05/microsoft-defender-vulnerabilities-are-being-exploited-in-the-wild)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 21 May 2026 17:36:52 GMT  
@@ -671,7 +678,7 @@
 
 ---
 
-### 73. [TikTok, YouTube, and Roblox face scrutiny, but age gates won’t fix child safety](https://www.malwarebytes.com/blog/family-and-parenting/2026/05/tiktok-youtube-and-roblox-face-scrutiny-but-age-gates-wont-fix-child-safety)
+### 74. [TikTok, YouTube, and Roblox face scrutiny, but age gates won’t fix child safety](https://www.malwarebytes.com/blog/family-and-parenting/2026/05/tiktok-youtube-and-roblox-face-scrutiny-but-age-gates-wont-fix-child-safety)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 21 May 2026 11:08:37 GMT  
@@ -680,7 +687,7 @@
 
 ---
 
-### 74. [Catch spyware in the act with Windows Webcam Monitoring](https://www.malwarebytes.com/blog/product/2026/05/catch-spyware-in-the-act-with-windows-webcam-monitoring)
+### 75. [Catch spyware in the act with Windows Webcam Monitoring](https://www.malwarebytes.com/blog/product/2026/05/catch-spyware-in-the-act-with-windows-webcam-monitoring)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 21 May 2026 10:19:18 GMT  
@@ -689,7 +696,7 @@
 
 ---
 
-### 75. [Researchers left AI agents alone in a virtual town and watched it all unravel](https://www.malwarebytes.com/blog/ai/2026/05/researchers-left-ai-agents-alone-in-a-virtual-town-and-watched-it-all-unravel)
+### 76. [Researchers left AI agents alone in a virtual town and watched it all unravel](https://www.malwarebytes.com/blog/ai/2026/05/researchers-left-ai-agents-alone-in-a-virtual-town-and-watched-it-all-unravel)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 21 May 2026 10:01:54 GMT  
@@ -698,7 +705,7 @@
 
 ---
 
-### 76. [Fake malware-signing service Fox Tempest dismantled by Microsoft](https://www.malwarebytes.com/blog/news/2026/05/fake-malware-signing-service-fox-tempest-dismantled-by-microsoft)
+### 77. [Fake malware-signing service Fox Tempest dismantled by Microsoft](https://www.malwarebytes.com/blog/news/2026/05/fake-malware-signing-service-fox-tempest-dismantled-by-microsoft)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 20 May 2026 15:33:02 GMT  
@@ -707,7 +714,7 @@
 
 ---
 
-### 77. [Firefox 151 packs big privacy upgrades into a small update](https://www.malwarebytes.com/blog/privacy/2026/05/firefox-151-packs-big-privacy-upgrades-into-a-small-update)
+### 78. [Firefox 151 packs big privacy upgrades into a small update](https://www.malwarebytes.com/blog/privacy/2026/05/firefox-151-packs-big-privacy-upgrades-into-a-small-update)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 20 May 2026 11:46:48 GMT  
@@ -716,7 +723,7 @@
 
 ---
 
-### 78. [Biometrics, diagnoses, and bank details exposed in major healthcare breach](https://www.malwarebytes.com/blog/news/2026/05/biometrics-diagnoses-and-bank-details-exposed-in-major-healthcare-breach)
+### 79. [Biometrics, diagnoses, and bank details exposed in major healthcare breach](https://www.malwarebytes.com/blog/news/2026/05/biometrics-diagnoses-and-bank-details-exposed-in-major-healthcare-breach)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 19 May 2026 15:56:38 GMT  
@@ -725,21 +732,12 @@
 
 ---
 
-### 79. [Facebook scam promises cheap Aldi meat boxes, steals payment info instead](https://www.malwarebytes.com/blog/scams/2026/05/facebook-scam-promises-cheap-aldi-meat-boxes-steals-payment-info-instead)
+### 80. [Facebook scam promises cheap Aldi meat boxes, steals payment info instead](https://www.malwarebytes.com/blog/scams/2026/05/facebook-scam-promises-cheap-aldi-meat-boxes-steals-payment-info-instead)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 19 May 2026 12:46:13 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 80. [YouTube wants your face to fight deepfakes](https://www.malwarebytes.com/blog/ai/2026/05/youtube-wants-your-face-to-fight-deepfakes)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 19 May 2026 10:51:56 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
