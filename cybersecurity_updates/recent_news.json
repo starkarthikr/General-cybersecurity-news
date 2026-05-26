@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
+    "link": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
+    "published": "Tue, 26 May 2026 21:18:41 +0530",
+    "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026.\n\nThe activity targeted industrial and electronics manufacturing, education and public-sector bodies, financial services, and professional services, per the Threat Hunter Team from Symantec and Carbon Black.",
+    "analysis": {
+      "issue": "MuddyWater targeted 9 organizations in 9 countries during Q1 2026, using DLL side-loading to steal data and evade detection",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
     "link": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
     "published": "Tue, 26 May 2026 17:28:00 +0530",
@@ -169,25 +187,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms",
-    "link": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
-    "published": "Mon, 25 May 2026 15:02:54 +0530",
-    "summary": "Cybersecurity researchers have shed light on a cross-platform malware called RemotePE that has been put to use by the North Korea-linked Lazarus Group in attacks targeting financial and cryptocurrency organizations.\n\nRemotePE, per NCC Group subsidiary Fox-IT, is part of a multi-stage attack chain that involves two loaders tracked as DPAPILoader and RemotePELoader.\n\n\"DPAPILoader decrypts and",
-    "analysis": {
-      "issue": "Lazarus deployed RemotePE against crypto firms using memory-only malware, enabling stealthy long-term financial intrusions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
       ]
     }
   },
@@ -542,8 +541,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-32201",
-        "CVE-2026-34621",
-        "CVE-2026-33825"
+        "CVE-2026-33825",
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -798,9 +797,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30814",
         "CVE-2026-30816",
-        "CVE-2026-30815"
+        "CVE-2026-30815",
+        "CVE-2026-30814"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -859,10 +858,10 @@
       "severity": "High",
       "cves": [
         "CVE-2026-20133",
-        "CVE-2026-20128",
         "CVE-2026-20122",
+        "CVE-2026-20182",
         "CVE-2026-20127",
-        "CVE-2026-20182"
+        "CVE-2026-20128"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -901,11 +900,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33844",
-        "CVE-2026-40358",
-        "CVE-2026-32161",
+        "CVE-2026-35421",
         "CVE-2026-33109",
-        "CVE-2026-35421"
+        "CVE-2026-32161",
+        "CVE-2026-33844",
+        "CVE-2026-40358"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1316,8 +1315,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1531,6 +1530,42 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Named a Leader in Identity Threat Detection and Response",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/",
+    "published": "May 26, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Recent Frost & Sullivan and GigaOm reports underscore CrowdStrike's position as a leader in the ITDR market",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet",
+    "link": "https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/",
+    "published": "May 26, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn how CrowdStrike’s Counter Adversary Operations team executed a coordinated takedown of the Glassworm botnet, which targeted software developers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Measuring AI-Enabled Success: 3 KPIs Leaders Should Track",
     "link": "https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/",
     "published": "May 22, 2026 00:00:00-0700",
@@ -1663,42 +1698,6 @@
     "summary": "",
     "analysis": {
       "issue": "CrowdStrike is named a Leader in the Gartner Magic Quadrant for Cyberthreat Intelligence Technologies, positioned furthest to the right for Completeness of Vision",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Launches Falcon OverWatch for Defender",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/",
-    "published": "May 05, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Falcon OverWatch for Defender delivers continuous, expert-led threat hunting to augment the capabilities of Microsoft Defender",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/",
-    "published": "May 04, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn common patterns and issues driving cyber risk based on a large sample of CrowdStrike Technical Risk Assessments",
       "solution": null,
       "cause": null,
       "timeline": null,
