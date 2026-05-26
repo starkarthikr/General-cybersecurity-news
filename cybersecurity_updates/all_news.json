@@ -1,6 +1,119 @@
 [
   {
     "source": "The Hacker News",
+    "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
+    "link": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
+    "published": "Tue, 26 May 2026 17:28:00 +0530",
+    "summary": "Every single day, hackers are finding new ways to crash websites and steal data.\n\nBut right now, something has changed. Hackers are no longer working alone. They are now using powerful Artificial Intelligence (AI) tools to make their attacks faster, stronger, and much harder to stop.\n\nAccording to recent updates from The Hacker News, bad actors are using AI to find weak spots in systems and",
+    "analysis": {
+      "issue": "Learn how to fight back against AI-powered cyber attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
+    "link": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
+    "published": "Tue, 26 May 2026 17:19:53 +0530",
+    "summary": "Microsoft has rolled out updates to fix a remote code execution vulnerability impacting SharePoint that could be exploited by bad actors in attacks without requiring any specialized conditions to be met.\n\nThe vulnerability, tracked as CVE-2026-45659, carries a CVSS score of 8.8. It has been assigned an important severity.\n\n\"Deserialization of untrusted data in Microsoft Office SharePoint allows",
+    "analysis": {
+      "issue": "Microsoft released fixes for SharePoint remote code execution vulnerability CVE-2026-45659 with a CVSS score of 8",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-45659"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
+    "link": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
+    "published": "Tue, 26 May 2026 16:00:00 +0530",
+    "summary": "Multi-factor authentication (MFA) was supposed to close a critical gap in identity security. It meant that, even if an attacker possessed the account credentials, they couldn't log in without the second factor. While that logic was sound, attackers have now figured out that they don't need to steal the second factor: they just need the user to hand it over.\n\nIf your workforce authenticates with",
+    "analysis": {
+      "issue": "MFA prompt bombing enabled Cisco attackers to steal 2",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
+    "link": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
+    "published": "Tue, 26 May 2026 14:43:02 +0530",
+    "summary": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of being flagged where \"feasible\" to safeguard against potential threats stemming from threat actors' abuse of artificial intelligence (AI) tools and large language models (LLMs) to automate vulnerability",
+    "analysis": {
+      "issue": "CERT-In ordered 12-hour patching for critical internet-facing flaws as AI-driven attacks accelerate cyber exploitation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
+    "link": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
+    "published": "Tue, 26 May 2026 12:43:05 +0530",
+    "summary": "The Iranian state-sponsored threat actor known as Nimbus Manticore (aka Screening Serpens and UNC1549) has been attributed to a fresh campaign using lures impersonating organizations in the aviation and software sectors across the U.S., Europe, and the Middle East following the joint U.S.-Israeli military campaign against the country in late February 2026.\n\nThe activity, besides embracing",
+    "analysis": {
+      "issue": "Nimbus Manticore used AI-assisted MiniFast malware in 2026 campaigns, expanding espionage through SEO poisoning and phishing",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
+    "link": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
+    "published": "Tue, 26 May 2026 10:49:38 +0530",
+    "summary": "A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web shell and ultimately facilitate the deployment of Cobalt Strike Beacon.\n\nThe vulnerability, tracked as CVE-2026-5426 (CVSS score: 7.5), stems from the use of hard-coded ASP.NET machine keys, leading to",
+    "analysis": {
+      "issue": "CVE-2026-5426 enabled KnowledgeDeliver LMS attacks before February 24, 2026, leading to Cobalt Strike infections",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-5426"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
     "link": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
     "published": "Mon, 25 May 2026 19:43:27 +0530",
@@ -79,69 +192,49 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
-    "link": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
-    "published": "Mon, 25 May 2026 11:29:13 +0530",
-    "summary": "A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware.\n\nThe campaign, codenamed TrapDoor, spans more than 34 malicious packages across over 384 versions. The earliest activity was recorded on May 22, 2026, at 8:20 p.m. UTC, with new packages published to the ecosystems in waves from a cluster of",
+    "source": "Bleeping Computer",
+    "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
+    "link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
+    "published": "Tue, 26 May 2026 10:01:11 -0400",
+    "summary": "AI governance requires visibility into how AI tools interact with enterprise data. Varonis explains how its Atlas platform uses Claude Compliance API data to help monitor usage, investigate risk, and support compliance. [...]",
     "analysis": {
-      "issue": "TrapDoor spread 34 malicious packages across npm, PyPI, and Crates",
+      "issue": "Varonis announced an integration with the Claude Compliance API, bringing Claude Enterprise and Claude Platform activity into Varonis' Atlas AI Security Platform",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "Supply Chain"
+        "General Security"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
-    "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
-    "published": "Sat, 23 May 2026 22:05:10 +0530",
-    "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation.\n\nCalled staged publishing, the feature is now generally available on npm. It mandates that a human maintainer pass a two-factor authentication (2FA) challenge to approve",
+    "source": "Bleeping Computer",
+    "title": "Microsoft Defender can now automatically isolate hacked endpoints",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
+    "published": "Tue, 26 May 2026 08:19:43 -0400",
+    "summary": "Microsoft is testing a new Defender for Endpoint capability that will automatically isolate compromised endpoints to thwart attackers' attempts to move laterally across the network. [...]",
     "analysis": {
-      "issue": "GitHub added npm staged publishing with mandatory 2FA approval to reduce software supply chain attack risks",
+      "issue": "Microsoft is testing a new Defender for Endpoint capability that will automatically isolate compromised endpoints to thwart attackers' attempts to move laterally across the network",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Supply Chain"
+        "Ransomware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
-    "link": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
-    "published": "Sat, 23 May 2026 21:37:51 +0530",
-    "summary": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL.\n\n\"Although the affected packages were all Composer packages, the malicious code was not added to composer.json,\" Socket said. \"Instead, it was inserted into package.json, targeting projects that ship JavaScript",
+    "source": "Bleeping Computer",
+    "title": "Webinar: Too many tools are slowing network incident response",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
+    "published": "Tue, 26 May 2026 08:16:24 -0400",
+    "summary": "IT teams often need to jump between monitoring dashboards, infrastructure tools, ticketing systems, and communication platforms during network incidents. This webinar explores how automation and AI-assisted workflows can help reduce manual coordination and improve incident response times. [...]",
     "analysis": {
-      "issue": "8 Packagist packages hid malicious package",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
-    "link": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
-    "published": "Sat, 23 May 2026 17:25:35 +0530",
-    "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month.\n\n Project Glasswing  is a defensive effort launched by the artificial intelligence (AI) company to secure critical global software",
-    "analysis": {
-      "issue": "Anthropic uncovered 10,000 vulnerabilities through Project Glasswing, driving urgent patching efforts and stronger cyber defenses",
+      "issue": "Network incidents often force IT teams to move between monitoring dashboards, infrastructure tools, ticketing platforms, identity systems, and communication platforms just to understand what happened and coordinate a response",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -153,13 +246,33 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
-    "link": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
-    "published": "Sat, 23 May 2026 15:21:13 +0530",
-    "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to  Laravel-Lang to deliver a comprehensive credential-stealing framework.\n\nThe affected packages include -\n\n\n  laravel-lang/lang\n  laravel-lang/http-statuses\n  laravel-lang/attributes\n  laravel-lang/actions\n\n\"The timing and pattern of the newly published tags",
+    "source": "Bleeping Computer",
+    "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
+    "published": "Tue, 26 May 2026 04:46:45 -0400",
+    "summary": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively exploited. [...]",
     "analysis": {
-      "issue": "Laravel-Lang compromise tagged 700+ versions on May 22–23, 2026, triggering PHP stealers that exfiltrate credentials",
+      "issue": "government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively exploited",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-9082"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
+    "published": "Tue, 26 May 2026 03:41:25 -0400",
+    "summary": "Microsoft has confirmed a new known issue affecting Windows Server 2016 systems that causes domain controller lookups to fail after installing the KB5087537 May 2026 security update. [...]",
+    "analysis": {
+      "issue": "Microsoft has confirmed a new known issue affecting Windows Server 2016 systems that causes domain controller lookups to fail after installing the KB5087537 May 2026 security update",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -171,22 +284,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
-    "link": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
-    "published": "Sat, 23 May 2026 13:05:13 +0530",
-    "summary": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild.\n\nThe flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment that an attacker could abuse to run arbitrary scripts with elevated permissions.\n\n\"Any cPanel user (including an attacker or a compromised account) may",
+    "source": "Bleeping Computer",
+    "title": "7-Eleven data breach exposes personal information of 185,000 people",
+    "link": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
+    "published": "Tue, 26 May 2026 03:01:12 -0400",
+    "summary": "The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach notification service Have I Been Pwned. [...]",
     "analysis": {
-      "issue": "CVE-2026-48172 lets cPanel users run scripts as root, affecting LiteSpeed plugin 2",
+      "issue": "The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach notification service Have I Been Pwned",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-48172"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Ransomware",
+        "Data Breach"
       ]
     }
   },
@@ -262,120 +374,6 @@
       "threat_categories": [
         "Malware",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
-    "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
-    "published": "Sat, 23 May 2026 10:23:44 -0400",
-    "summary": "Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, including Netflix, Disney+, and Spotify. [...]",
-    "analysis": {
-      "issue": "Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, including Netflix, Disney+, and Spotify",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
-    "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
-    "published": "Fri, 22 May 2026 13:24:52 -0400",
-    "summary": "Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation campaigns. [...]",
-    "analysis": {
-      "issue": "Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation campaigns",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Former US execs plead guilty to aiding tech support scammers",
-    "link": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/",
-    "published": "Fri, 22 May 2026 11:32:18 -0400",
-    "summary": "Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized individuals worldwide. [...]",
-    "analysis": {
-      "issue": "Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized individuals worldwide",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
-    "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
-    "published": "Fri, 22 May 2026 09:39:19 -0400",
-    "summary": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
-    "analysis": {
-      "issue": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-34926"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Drupal: Critical SQL injection flaw now targeted in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
-    "published": "Fri, 22 May 2026 09:14:40 -0400",
-    "summary": "Drupal is warning that hackers are attempting to exploit a \"highly critical\" SQL injection vulnerability announced earlier this week. [...]",
-    "analysis": {
-      "issue": "Drupal is warning that hackers are attempting to exploit a \"highly critical\" SQL injection vulnerability announced earlier this week",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-9082"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
-    "link": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/",
-    "published": "Fri, 22 May 2026 09:09:18 -0400",
-    "summary": "Fraud losses don't stop at chargebacks. False declines, account takeovers, and abuse also damage revenue and trust. IPQS breaks down why fraud teams need broader visibility into risk and customer impact. [...]",
-    "analysis": {
-      "issue": "For most teams, fraud performance is still summed up in a single metric: chargeback rate",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "APT"
       ]
     }
   },
@@ -543,9 +541,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
+        "CVE-2026-32201",
         "CVE-2026-34621",
-        "CVE-2026-32201"
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -575,6 +573,182 @@
   },
   {
     "source": "Security Week",
+    "title": "AppOmni’s Marlin AI Brings Autonomous Investigation to SaaS Security",
+    "link": "https://www.securityweek.com/appomnis-marlin-ai-brings-autonomous-investigation-to-saas-security/",
+    "published": "Tue, 26 May 2026 14:00:00 +0000",
+    "summary": "<p>Marlin AI automatically analyzes SaaS misconfigurations, investigates related activity across enterprise environments, and recommends remediation steps — while stopping short of fully autonomous corrective action.</p>\n<p>The post <a href=\"https://www.securityweek.com/appomnis-marlin-ai-brings-autonomous-investigation-to-saas-security/\">AppOmni’s Marlin AI Brings Autonomous Investigation to SaaS Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Marlin AI automatically analyzes SaaS misconfigurations, investigates related activity across enterprise environments, and recommends remediation steps — while stopping short of fully autonomous corrective action",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Iranian APT Targets Aviation, Software Companies With Updated Tools",
+    "link": "https://www.securityweek.com/iranian-apt-targets-aviation-software-companies-with-updated-tools/",
+    "published": "Tue, 26 May 2026 13:26:17 +0000",
+    "summary": "<p>Nimbus Manticore has continued its operations during and after the US military campaign against Iran.</p>\n<p>The post <a href=\"https://www.securityweek.com/iranian-apt-targets-aviation-software-companies-with-updated-tools/\">Iranian APT Targets Aviation, Software Companies With Updated Tools</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Nimbus Manticore has continued its operations during and after the US military campaign against Iran",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "185,000 Likely Impacted by 7-Eleven Data Breach",
+    "link": "https://www.securityweek.com/185000-likely-impacted-by-7-eleven-data-breach/",
+    "published": "Tue, 26 May 2026 11:59:40 +0000",
+    "summary": "<p>The allegedly stolen information leaked by ShinyHunters contains email addresses, names, addresses, and dates of birth.</p>\n<p>The post <a href=\"https://www.securityweek.com/185000-likely-impacted-by-7-eleven-data-breach/\">185,000 Likely Impacted by 7-Eleven Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The allegedly stolen information leaked by ShinyHunters contains email addresses, names, addresses, and dates of birth",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Anthropic Expands Claude’s Enterprise Security Governance With 28 New Integrations",
+    "link": "https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/",
+    "published": "Tue, 26 May 2026 11:44:53 +0000",
+    "summary": "<p>Notable integrations include CrowdStrike, Palo Alto Networks, Microsoft, Okta, Zscaler, Netskope, Cloudflare, Fortinet, and Wiz.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/\">Anthropic Expands Claude&#8217;s Enterprise Security Governance With 28 New Integrations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Notable integrations include CrowdStrike, Palo Alto Networks, Microsoft, Okta, Zscaler, Netskope, Cloudflare, Fortinet, and Wiz",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Hackers Exploited KnowledgeDeliver Zero-Day for Web Shell Deployment",
+    "link": "https://www.securityweek.com/hackers-exploited-knowledgedeliver-zero-day-for-web-shell-deployment/",
+    "published": "Tue, 26 May 2026 11:14:31 +0000",
+    "summary": "<p>Hardcoded machineKey values in a configuration file enabled ViewState deserialization attacks leading to remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-exploited-knowledgedeliver-zero-day-for-web-shell-deployment/\">Hackers Exploited KnowledgeDeliver Zero-Day for Web Shell Deployment</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hardcoded machineKey values in a configuration file enabled ViewState deserialization attacks leading to remote code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-5426"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Watch on Demand: Threat Detection & Incident Response Summit – All Sessions Available",
+    "link": "https://www.securityweek.com/watch-on-demand-threat-detection-incident-response-summit-all-sessions-available/",
+    "published": "Tue, 26 May 2026 11:00:00 +0000",
+    "summary": "<p>Register to enjoy free access and explore the tools, strategies, and frameworks needed to build a resilient security program for a world where every minute counts.</p>\n<p>The post <a href=\"https://www.securityweek.com/watch-on-demand-threat-detection-incident-response-summit-all-sessions-available/\">Watch on Demand: Threat Detection &amp; Incident Response Summit &#8211; All Sessions Available</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Register to enjoy free access and explore the tools, strategies, and frameworks needed to build a resilient security program for a world where every minute counts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Open Source DockSec Uses AI to Cut Through Vulnerability Noise in Docker Images",
+    "link": "https://www.securityweek.com/open-source-docksec-uses-ai-to-cut-through-vulnerability-noise-in-docker-images/",
+    "published": "Tue, 26 May 2026 10:45:00 +0000",
+    "summary": "<p>DockSec, an OWASP incubator project, correlates findings from multiple container security scanners and uses AI to generate plain-English remediation guidance and exact Dockerfile fixes.</p>\n<p>The post <a href=\"https://www.securityweek.com/open-source-docksec-uses-ai-to-cut-through-vulnerability-noise-in-docker-images/\">Open Source DockSec Uses AI to Cut Through Vulnerability Noise in Docker Images</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "DockSec, an OWASP incubator project, correlates findings from multiple container security scanners and uses AI to generate plain-English remediation guidance and exact Dockerfile fixes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Lithuania Suspects Foreign Involvement in Data Leak of Over 600,000 National Register Entries",
+    "link": "https://www.securityweek.com/lithuania-suspects-foreign-involvement-in-data-leak-of-over-600000-national-register-entries/",
+    "published": "Tue, 26 May 2026 10:26:56 +0000",
+    "summary": "<p>Lithuanian authorities are on high alert after a massive data leak involving more than 600,000 entries from national data registers.</p>\n<p>The post <a href=\"https://www.securityweek.com/lithuania-suspects-foreign-involvement-in-data-leak-of-over-600000-national-register-entries/\">Lithuania Suspects Foreign Involvement in Data Leak of Over 600,000 National Register Entries</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Lithuanian authorities are on high alert after a massive data leak involving more than 600,000 entries from national data registers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Admins of Bulletproof Hosting Service Used by Russian Hackers Arrested in Netherlands",
+    "link": "https://www.securityweek.com/admins-of-bulletproof-hosting-service-used-by-russian-hackers-arrested-in-netherlands/",
+    "published": "Tue, 26 May 2026 09:47:19 +0000",
+    "summary": "<p>The two own Dutch companies that allegedly provided bulletproof hosting services to Russia-aligned threat actors.</p>\n<p>The post <a href=\"https://www.securityweek.com/admins-of-bulletproof-hosting-service-used-by-russian-hackers-arrested-in-netherlands/\">Admins of Bulletproof Hosting Service Used by Russian Hackers Arrested in Netherlands</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The two own Dutch companies that allegedly provided bulletproof hosting services to Russia-aligned threat actors",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Ghost CMS Vulnerability Exploited to Hack Over 700 Websites",
     "link": "https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/",
     "published": "Mon, 25 May 2026 13:27:12 +0000",
@@ -590,185 +764,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Oncology Institute Discloses Data Breach",
-    "link": "https://www.securityweek.com/oncology-institute-discloses-third-party-data-breach/",
-    "published": "Mon, 25 May 2026 12:17:02 +0000",
-    "summary": "<p>The affected third-party vendor has not been named, but one possible candidate is TriZetto.</p>\n<p>The post <a href=\"https://www.securityweek.com/oncology-institute-discloses-third-party-data-breach/\">Oncology Institute Discloses Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The affected third-party vendor has not been named, but one possible candidate is TriZetto",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "266,000 Affected by Data Breach at Radiology Associates of Richmond",
-    "link": "https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/",
-    "published": "Mon, 25 May 2026 11:17:07 +0000",
-    "summary": "<p>Threat actors stole files containing names and protected health information from the healthcare organization’s systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/\">266,000 Affected by Data Breach at Radiology Associates of Richmond</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Threat actors stole files containing names and protected health information from the healthcare organization’s systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects",
-    "link": "https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/",
-    "published": "Mon, 25 May 2026 10:58:07 +0000",
-    "summary": "<p>Many findings have been confirmed to be critical or high-severity vulnerabilities and the number will continue to increase. </p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/\">Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Many findings have been confirmed to be critical or high-severity vulnerabilities and the number will continue to increase",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Laravel-Lang Packages Poisoned for Malware Delivery",
-    "link": "https://www.securityweek.com/laravel-lang-packages-poisoned-for-malware-delivery/",
-    "published": "Mon, 25 May 2026 10:41:07 +0000",
-    "summary": "<p>Published within a 15-minute window, the malicious tags introduced backdoors to exfiltrate CI secrets.</p>\n<p>The post <a href=\"https://www.securityweek.com/laravel-lang-packages-poisoned-for-malware-delivery/\">Laravel-Lang Packages Poisoned for Malware Delivery</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Published within a 15-minute window, the malicious tags introduced backdoors to exfiltrate CI secrets",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "DocketWise Data Breach Impacts 143,000",
-    "link": "https://www.securityweek.com/docketwise-data-breach-impacts-143000/",
-    "published": "Mon, 25 May 2026 09:37:27 +0000",
-    "summary": "<p>Hackers accessed names, addresses, Social Security numbers, financial information, and medical data from third-party partner repositories.</p>\n<p>The post <a href=\"https://www.securityweek.com/docketwise-data-breach-impacts-143000/\">DocketWise Data Breach Impacts 143,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers accessed names, addresses, Social Security numbers, financial information, and medical data from third-party partner repositories",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Over 5,500 GitHub Repositories Infected in ‘Megalodon’ Supply Chain Attack",
-    "link": "https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/",
-    "published": "Mon, 25 May 2026 07:40:55 +0000",
-    "summary": "<p>Fake automated commits injected GitHub Actions workflows containing payloads to steal credentials, CI secrets, keys, and tokens.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/\">Over 5,500 GitHub Repositories Infected in &#8216;Megalodon&#8217; Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Fake automated commits injected GitHub Actions workflows containing payloads to steal credentials, CI secrets, keys, and tokens",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains",
-    "link": "https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/",
-    "published": "Sat, 23 May 2026 11:00:00 +0000",
-    "summary": "<p>The stealthy vulnerability impacts roughly 88 million domains and can be exploited to bypass DNS filtering and hide command-and-control traffic.</p>\n<p>The post <a href=\"https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/\">‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The stealthy vulnerability impacts roughly 88 million domains and can be exploited to bypass DNS filtering and hide command-and-control traffic",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure",
-    "link": "https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/",
-    "published": "Fri, 22 May 2026 17:15:26 +0000",
-    "summary": "<p>Drupal is warning users that it has already seen attempts to exploit CVE-2026-9082 and security firms are seeing attacks against thousands of websites.</p>\n<p>The post <a href=\"https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/\">Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Drupal is warning users that it has already seen attempts to exploit CVE-2026-9082 and security firms are seeing attacks against thousands of websites",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-9082"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking",
-    "link": "https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/",
-    "published": "Fri, 22 May 2026 14:07:06 +0000",
-    "summary": "<p>Other noteworthy stories that might have slipped under the radar: CISA contractor exposes credentials, Mythos testing and new features, Huawei router flaw triggered telecom blackout.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/\">In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Other noteworthy stories that might have slipped under the radar: CISA contractor exposes credentials, Mythos testing and new features, Huawei router flaw triggered telecom blackout",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-45401",
-        "CVE-2024-9643"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -803,8 +798,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30816",
         "CVE-2026-30814",
+        "CVE-2026-30816",
         "CVE-2026-30815"
       ],
       "threat_categories": [
@@ -863,11 +858,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20182",
-        "CVE-2026-20127",
         "CVE-2026-20133",
+        "CVE-2026-20128",
         "CVE-2026-20122",
-        "CVE-2026-20128"
+        "CVE-2026-20127",
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -906,9 +901,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32161",
         "CVE-2026-33844",
         "CVE-2026-40358",
+        "CVE-2026-32161",
         "CVE-2026-33109",
         "CVE-2026-35421"
       ],
@@ -1321,8 +1316,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1345,6 +1340,62 @@
       "cves": [
         "CVE-2022-2856"
       ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Fake software on GitHub and SourceForge distribute Deno RAT",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/05/fake-software-on-github-and-sourceforge-distribute-deno-rat",
+    "published": "Tue, 26 May 2026 13:07:09 GMT",
+    "summary": "We found fake installers and plugins for ChatGPT, Claude, AutoTune, and other popular software that can give attackers full control over your device.",
+    "analysis": {
+      "issue": "During our threat hunting activities, we found fake installers and plugins impersonating popular software including ChatGPT, Claude, AutoTune, and Kontakt on GitHub and SourceForge distributing a Deno backdoor known as DinDoor",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "700+ education and tech websites hijacked in huge ClickFix malware campaign",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/05/700-education-and-tech-websites-hijacked-in-huge-clickfix-malware-campaign",
+    "published": "Tue, 26 May 2026 10:46:28 GMT",
+    "summary": "Hackers are abusing a Ghost CMS website flaw to serve fake Cloudflare verification pages that pressure users into infecting their own PCs.",
+    "analysis": {
+      "issue": "Attackers are abusing a critical Ghost Content Management System (CMS) vulnerability to hijack more than 700 legitimate websites and inject a fake Cloudflare verification step that tricks visitors into running a Windows command that installs malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Scammers pretending to be Microsoft had help from US executives",
+    "link": "https://www.malwarebytes.com/blog/news/2026/05/scammers-pretending-to-be-microsoft-had-help-from-us-executives",
+    "published": "Tue, 26 May 2026 10:01:25 GMT",
+    "summary": "Court documents reveal how tech support scammers relied on infrastructure supplied by a US business.",
+    "analysis": {
+      "issue": "A pop-up appears on your computer, warning of a virus",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -1474,60 +1525,6 @@
       "cves": [],
       "threat_categories": [
         "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Firefox 151 packs big privacy upgrades into a small update",
-    "link": "https://www.malwarebytes.com/blog/privacy/2026/05/firefox-151-packs-big-privacy-upgrades-into-a-small-update",
-    "published": "Wed, 20 May 2026 11:46:48 GMT",
-    "summary": "Firefox 151 adds major privacy improvements and fixes high-priority security vulnerabilities, making this an update you shouldn’t ignore.",
-    "analysis": {
-      "issue": "Mozilla has published release notes for Firefox browser version 151",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Biometrics, diagnoses, and bank details exposed in major healthcare breach",
-    "link": "https://www.malwarebytes.com/blog/news/2026/05/biometrics-diagnoses-and-bank-details-exposed-in-major-healthcare-breach",
-    "published": "Tue, 19 May 2026 15:56:38 GMT",
-    "summary": "NYC Health + Hospitals says attackers accessed its systems for months through a third-party vendor compromise, affecting at least 1.8 million people.",
-    "analysis": {
-      "issue": "NYC Health + Hospitals (NYC H+H) posted a data breach notice about a months‑long breach via a third‑party vendor that exposed highly sensitive patient and employee data for at least 1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Facebook scam promises cheap Aldi meat boxes, steals payment info instead",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/05/facebook-scam-promises-cheap-aldi-meat-boxes-steals-payment-info-instead",
-    "published": "Tue, 19 May 2026 12:46:13 GMT",
-    "summary": "A fake Aldi “meat box” offer spreading on Facebook tricks victims into handing over personal and payment info.",
-    "analysis": {
-      "issue": "Sometimes you spot posts on social media that make you wonder if any moderation takes place at all",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
         "Malware"
       ]
     }
