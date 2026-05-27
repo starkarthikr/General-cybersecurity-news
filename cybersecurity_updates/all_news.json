@@ -192,6 +192,46 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
+    "link": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
+    "published": "Tue, 26 May 2026 16:07:31 -0400",
+    "summary": "Hackers exploited a critical zero-day vulnerability in a server running the KnowledgeDeliver learning management system (LMS) to deploy the Godzilla web shell. [...]",
+    "analysis": {
+      "issue": "Hackers exploited a critical zero-day vulnerability in a server running the KnowledgeDeliver learning management system (LMS) to deploy the Godzilla web shell",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-5426"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Charter confirms data breach after ShinyHunters extortion threat",
+    "link": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
+    "published": "Tue, 26 May 2026 15:46:01 -0400",
+    "summary": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
+    "analysis": {
+      "issue": "telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
     "link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
     "published": "Tue, 26 May 2026 10:01:11 -0400",
@@ -334,45 +374,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
-    "link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
-    "published": "Sun, 24 May 2026 10:12:32 -0400",
-    "summary": "A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows. [...]",
-    "analysis": {
-      "issue": "A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-26980"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
-    "link": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
-    "published": "Sat, 23 May 2026 16:48:23 -0400",
-    "summary": "A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious code through Composer packages. [...]",
-    "analysis": {
-      "issue": "A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious code through Composer packages",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
       ]
     }
   },
@@ -541,8 +542,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-32201",
-        "CVE-2026-33825",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -857,11 +858,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20133",
-        "CVE-2026-20122",
         "CVE-2026-20182",
         "CVE-2026-20127",
-        "CVE-2026-20128"
+        "CVE-2026-20133",
+        "CVE-2026-20128",
+        "CVE-2026-20122"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -900,11 +901,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-35421",
+        "CVE-2026-33844",
         "CVE-2026-33109",
         "CVE-2026-32161",
-        "CVE-2026-33844",
-        "CVE-2026-40358"
+        "CVE-2026-40358",
+        "CVE-2026-35421"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1530,42 +1531,6 @@
   },
   {
     "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Named a Leader in Identity Threat Detection and Response",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/",
-    "published": "May 26, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Recent Frost & Sullivan and GigaOm reports underscore CrowdStrike's position as a leader in the ITDR market",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet",
-    "link": "https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/",
-    "published": "May 26, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn how CrowdStrike’s Counter Adversary Operations team executed a coordinated takedown of the Glassworm botnet, which targeted software developers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
     "title": "Measuring AI-Enabled Success: 3 KPIs Leaders Should Track",
     "link": "https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/",
     "published": "May 22, 2026 00:00:00-0700",
@@ -1698,6 +1663,42 @@
     "summary": "",
     "analysis": {
       "issue": "CrowdStrike is named a Leader in the Gartner Magic Quadrant for Cyberthreat Intelligence Technologies, positioned furthest to the right for Completeness of Vision",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Launches Falcon OverWatch for Defender",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/",
+    "published": "May 05, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Falcon OverWatch for Defender delivers continuous, expert-led threat hunting to augment the capabilities of Microsoft Defender",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/",
+    "published": "May 04, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn common patterns and issues driving cyber risk based on a large sample of CrowdStrike Technical Risk Assessments",
       "solution": null,
       "cause": null,
       "timeline": null,

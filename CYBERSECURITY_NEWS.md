@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-26 18:41:52 UTC
+**Last Updated:** 2026-05-27 04:19:59 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -97,7 +97,26 @@
 
 ---
 
-### 11. [How Varonis Atlas integrates Claude Compliance API for AI governance](https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/)
+### 11. [KnowledgeDeliver flaw exploited as a zero-day to install web shells](https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 26 May 2026 16:07:31 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-5426  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 12. [Charter confirms data breach after ShinyHunters extortion threat](https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 26 May 2026 15:46:01 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach  
+
+---
+
+### 13. [How Varonis Atlas integrates Claude Compliance API for AI governance](https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 26 May 2026 10:01:11 -0400  
@@ -106,7 +125,7 @@
 
 ---
 
-### 12. [Microsoft Defender can now automatically isolate hacked endpoints](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/)
+### 14. [Microsoft Defender can now automatically isolate hacked endpoints](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 26 May 2026 08:19:43 -0400  
@@ -115,7 +134,7 @@
 
 ---
 
-### 13. [Webinar: Too many tools are slowing network incident response](https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/)
+### 15. [Webinar: Too many tools are slowing network incident response](https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 26 May 2026 08:16:24 -0400  
@@ -124,7 +143,7 @@
 
 ---
 
-### 14. [CISA orders feds to patch actively exploited Drupal vulnerability](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/)
+### 16. [CISA orders feds to patch actively exploited Drupal vulnerability](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 26 May 2026 04:46:45 -0400  
@@ -134,7 +153,7 @@
 
 ---
 
-### 15. [Microsoft: Domain Controller lookup may fail on Windows Server 2016](https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/)
+### 17. [Microsoft: Domain Controller lookup may fail on Windows Server 2016](https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 26 May 2026 03:41:25 -0400  
@@ -143,7 +162,7 @@
 
 ---
 
-### 16. [7-Eleven data breach exposes personal information of 185,000 people](https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/)
+### 18. [7-Eleven data breach exposes personal information of 185,000 people](https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 26 May 2026 03:01:12 -0400  
@@ -152,7 +171,7 @@
 
 ---
 
-### 17. [Anthropic’s restricted Claude Mythos model may be coming to Claude Code](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/)
+### 19. [Anthropic’s restricted Claude Mythos model may be coming to Claude Code](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 25 May 2026 13:07:33 -0400  
@@ -161,31 +180,12 @@
 
 ---
 
-### 18. [FBI warns of Kali365 phishing service targeting Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/)
+### 20. [FBI warns of Kali365 phishing service targeting Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 25 May 2026 08:45:54 -0400  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 19. [Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign](https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 24 May 2026 10:12:32 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-26980  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Laravel Lang packages hijacked to deploy credential-stealing malware](https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 23 May 2026 16:48:23 -0400  
-**Severity:** Low  
-**Categories:** Malware, Supply Chain  
 
 ---
 
@@ -266,7 +266,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
+**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -414,7 +414,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20133, CVE-2026-20122, CVE-2026-20182, CVE-2026-20127, CVE-2026-20128  
+**CVEs:** CVE-2026-20182, CVE-2026-20127, CVE-2026-20133, CVE-2026-20128, CVE-2026-20122  
 **Categories:** Vulnerability  
 
 ---
@@ -433,7 +433,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-35421, CVE-2026-33109, CVE-2026-32161, CVE-2026-33844, CVE-2026-40358  
+**CVEs:** CVE-2026-33844, CVE-2026-33109, CVE-2026-32161, CVE-2026-40358, CVE-2026-35421  
 **Categories:** Vulnerability  
 
 ---
@@ -740,25 +740,7 @@
 
 ---
 
-### 81. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
-
-**Source:** Crowdstrike Blog  
-**Published:** May 26, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 82. [Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet](https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/)
-
-**Source:** Crowdstrike Blog  
-**Published:** May 26, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 83. [Measuring AI-Enabled Success: 3 KPIs Leaders Should Track](https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/)
+### 81. [Measuring AI-Enabled Success: 3 KPIs Leaders Should Track](https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 22, 2026 00:00:00-0700  
@@ -767,7 +749,7 @@
 
 ---
 
-### 84. [New Claude Integration Brings Audit Data into the Falcon Platform](https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/)
+### 82. [New Claude Integration Brings Audit Data into the Falcon Platform](https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 21, 2026 00:00:00-0500  
@@ -776,7 +758,7 @@
 
 ---
 
-### 85. [How to Protect Identities and Sessions from Infostealers](https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/)
+### 83. [How to Protect Identities and Sessions from Infostealers](https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 20, 2026 00:00:00-0500  
@@ -785,7 +767,7 @@
 
 ---
 
-### 86. [Now Live: The CrowdStrike 2026 Financial Services Threat Landscape Report](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-financial-services-threat-landscape-report/)
+### 84. [Now Live: The CrowdStrike 2026 Financial Services Threat Landscape Report](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-financial-services-threat-landscape-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 14, 2026 00:00:00-0500  
@@ -794,7 +776,7 @@
 
 ---
 
-### 87. [Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications](https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/)
+### 85. [Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications](https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 13, 2026 00:00:00-0500  
@@ -803,7 +785,7 @@
 
 ---
 
-### 88. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
+### 86. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 12, 2026 00:00:00-0500  
@@ -812,7 +794,7 @@
 
 ---
 
-### 89. [Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections](https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/)
+### 87. [Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections](https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 11, 2026 00:00:00-0500  
@@ -821,10 +803,28 @@
 
 ---
 
-### 90. [CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/)
+### 88. [CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 06, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 89. [CrowdStrike Launches Falcon OverWatch for Defender](https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/)
+
+**Source:** Crowdstrike Blog  
+**Published:** May 05, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 90. [CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns](https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/)
+
+**Source:** Crowdstrike Blog  
+**Published:** May 04, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
 
