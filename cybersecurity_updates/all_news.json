@@ -1,6 +1,62 @@
 [
   {
     "source": "The Hacker News",
+    "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
+    "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html",
+    "published": "Wed, 27 May 2026 17:00:00 +0530",
+    "summary": "When an employee installs an AI writing assistant, connects a coding copilot to their IDE, or starts summarizing meetings with a new browser tool, they are doing exactly what a productive employee should do: finding faster ways to work.\n\nAcross most organizations today, employees are running three to five AI tools on any given day. Most were never reviewed by IT. A significant portion connects",
+    "analysis": {
+      "issue": "Shadow AI adoption grows as 69% of organizations detect unauthorized AI tools, increasing unseen corporate data exposure risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
+    "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
+    "published": "Wed, 27 May 2026 15:36:32 +0530",
+    "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials.\n\nThe vulnerability, tracked as CVE-2026-27771 (CVSS score: N/A), affects all versions of Gitea prior to 1.26.2",
+    "analysis": {
+      "issue": "Gitea flaw CVE-2026-27771 exposed private container images across 30,000 deployments, risking unauthorized access worldwide",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-27771"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
+    "link": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
+    "published": "Wed, 27 May 2026 13:15:52 +0530",
+    "summary": "Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites.\n\n\"This emerging delivery technique extends social engineering beyond conventional search results and increases the visibility of malicious software recommendations,\" Microsoft Defender Experts and the Microsoft",
+    "analysis": {
+      "issue": "Microsoft uncovered 150+ AI-assisted cryptojacking domains using fake software downloads to deploy persistent malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
     "link": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
     "published": "Tue, 26 May 2026 21:18:41 +0530",
@@ -131,55 +187,70 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
-    "link": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
-    "published": "Mon, 25 May 2026 19:43:27 +0530",
-    "summary": "Monday recap. Same mess, new week.\n\nA sketchy dev tool got people pwned, old bugs came back from the dead, and security products somehow needed protecting from themselves. A bunch of companies spent the week checking old boxes and forgotten servers they should've patched years ago. Good times.\n\nPhishing crews are getting smarter too - less obvious scam junk, more targeted stuff that actually",
+    "source": "Bleeping Computer",
+    "title": "FBI warns of in-person data theft attacks from extortion gang",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/",
+    "published": "Wed, 27 May 2026 07:51:12 -0400",
+    "summary": "The FBI warned on Tuesday that the Silent Ransom Group (SRG) extortion gang is now targeting U.S.-based law firms in in-person data theft attacks. [...]",
     "analysis": {
-      "issue": "Supply chain chaos, old bugs, smarter phishing, and botnets everywhere — here’s what broke the internet this week",
+      "issue": "The FBI warned on Tuesday that the Silent Ransom Group (SRG) extortion gang is now targeting U",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "Phishing",
-        "Supply Chain"
+        "Ransomware",
+        "Phishing"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
-    "link": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
-    "published": "Mon, 25 May 2026 17:32:46 +0530",
-    "summary": "Threat actors are exploiting a recently disclosed critical security flaw in Ghost CMS to inject malicious JavaScript code with an aim to fuel ClickFix attacks.\n\nAccording to QiAnXin XLab, the activity involves the exploitation of CVE-2026-26980 (CVSS score: 9.4), an SQL injection vulnerability in Ghost's Content API that could allow an unauthenticated attacker to read arbitrary data from the",
+    "source": "Bleeping Computer",
+    "title": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
+    "published": "Wed, 27 May 2026 06:06:17 -0400",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. federal agencies four days to secure their servers against a critical vulnerability in the LiteSpeed cPanel user-end plugin, which is actively being exploited in attacks. [...]",
     "analysis": {
-      "issue": "Ghost CMS flaw CVE-2026-26980 enabled attacks on 700+ sites, injecting ClickFix malware through fake CAPTCHA pages",
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) has given U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-48172"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Dutch police arrests suspect linked to Ajax football club hack",
+    "link": "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/",
+    "published": "Wed, 27 May 2026 05:09:03 -0400",
+    "summary": "The Dutch National Police arrested a 35-year-old man suspected of hacking the professional football club Ajax Amsterdam (AFC Ajax) earlier this year. [...]",
+    "analysis": {
+      "issue": "The Dutch National Police arrested a 35-year-old man suspected of hacking the professional football club Ajax Amsterdam (AFC Ajax) earlier this year",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-26980"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "The Alert Firehose Finally Meets Its Match",
-    "link": "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html",
-    "published": "Mon, 25 May 2026 17:00:00 +0530",
-    "summary": "Ask a cybersecurity pro about Network Detection and Response (NDR) and you might still hear \"Noisy,\" \"Too much data.\" But ask the teams running NDR that includes agentic AI capabilities and you'll hear they're actually using it to catch threats earlier, triage faster, and chase fewer false positives. The old complaint lingers in part because reputations are sticky, and because NDR has evolved",
+    "source": "Bleeping Computer",
+    "title": "Windows 11 KB5089573 update released with performance improvements",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/",
+    "published": "Wed, 27 May 2026 04:33:46 -0400",
+    "summary": "Microsoft has released the KB5089573 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 30 changes, including performance and reliability improvements. [...]",
     "analysis": {
-      "issue": "AI-powered NDR improved security accuracy from 26% to 95%, reducing false positives and accelerating SOC threat response",
+      "issue": "Microsoft has released the KB5089573 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 30 changes, including performance and reliability improvements",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -301,79 +372,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
-    "published": "Tue, 26 May 2026 03:41:25 -0400",
-    "summary": "Microsoft has confirmed a new known issue affecting Windows Server 2016 systems that causes domain controller lookups to fail after installing the KB5087537 May 2026 security update. [...]",
-    "analysis": {
-      "issue": "Microsoft has confirmed a new known issue affecting Windows Server 2016 systems that causes domain controller lookups to fail after installing the KB5087537 May 2026 security update",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "7-Eleven data breach exposes personal information of 185,000 people",
-    "link": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
-    "published": "Tue, 26 May 2026 03:01:12 -0400",
-    "summary": "The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach notification service Have I Been Pwned. [...]",
-    "analysis": {
-      "issue": "The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach notification service Have I Been Pwned",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Anthropic’s restricted Claude Mythos model may be coming to Claude Code",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
-    "published": "Mon, 25 May 2026 13:07:33 -0400",
-    "summary": "Anthropic appears to be preparing for the public rollout of the Mythos model, which was announced in April as a restricted model that poses major security risks to private and public software. [...]",
-    "analysis": {
-      "issue": "Anthropic appears to be preparing for the public rollout of \"Mythos,\" which was announced in April as a restricted model that poses major security risks to private and public software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
-    "published": "Mon, 25 May 2026 08:45:54 -0400",
-    "summary": "The FBI is warning about the Kali365 phishing-as-a-service platform (PhaaS) that is used to hijack Microsoft 365 accounts by abusing OAuth device code authentication to steal session tokens and bypass multi-factor authentication (MFA). [...]",
-    "analysis": {
-      "issue": "The FBI is warning about the Kali365 phishing-as-a-service platform (PhaaS) that is used to hijack Microsoft 365 accounts by abusing OAuth device code authentication to steal session tokens and bypass multi-factor authentication (MFA)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
@@ -541,8 +539,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
         "CVE-2026-33825",
+        "CVE-2026-34621",
         "CVE-2026-32201"
       ],
       "threat_categories": [
@@ -573,12 +571,188 @@
   },
   {
     "source": "Security Week",
-    "title": "AppOmni’s Marlin AI Brings Autonomous Investigation to SaaS Security",
-    "link": "https://www.securityweek.com/appomnis-marlin-ai-brings-autonomous-investigation-to-saas-security/",
-    "published": "Tue, 26 May 2026 14:00:00 +0000",
-    "summary": "<p>Marlin AI automatically analyzes SaaS misconfigurations, investigates related activity across enterprise environments, and recommends remediation steps — while stopping short of fully autonomous corrective action.</p>\n<p>The post <a href=\"https://www.securityweek.com/appomnis-marlin-ai-brings-autonomous-investigation-to-saas-security/\">AppOmni’s Marlin AI Brings Autonomous Investigation to SaaS Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "title": "RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries",
+    "link": "https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/",
+    "published": "Wed, 27 May 2026 11:52:55 +0000",
+    "summary": "<p>Using an AI model called BinNet, RevEng hunts vulnerabilities and backdoors in released software binaries.</p>\n<p>The post <a href=\"https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/\">RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "Marlin AI automatically analyzes SaaS misconfigurations, investigates related activity across enterprise environments, and recommends remediation steps — while stopping short of fully autonomous corrective action",
+      "issue": "Using an AI model called BinNet, RevEng hunts vulnerabilities and backdoors in released software binaries",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Romanian Hacker Sentenced to Prison in US for Selling Access to State Network",
+    "link": "https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/",
+    "published": "Wed, 27 May 2026 11:37:19 +0000",
+    "summary": "<p>Catalin Dragomir previously pleaded guilty to selling access to an Oregon state government office’s network.</p>\n<p>The post <a href=\"https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/\">Romanian Hacker Sentenced to Prison in US for Selling Access to State Network</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Catalin Dragomir previously pleaded guilty to selling access to an Oregon state government office’s network",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform",
+    "link": "https://www.securityweek.com/lastwall-raises-11-5-million-for-quantum-resilient-identity-platform/",
+    "published": "Wed, 27 May 2026 11:01:13 +0000",
+    "summary": "<p>The new funding, led by BDC Capital’s StrongNorth Fund, will accelerate Lastwall’s North American expansion.</p>\n<p>The post <a href=\"https://www.securityweek.com/lastwall-raises-11-5-million-for-quantum-resilient-identity-platform/\">Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The new funding, led by BDC Capital’s StrongNorth Fund, will accelerate Lastwall’s North American expansion",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Medium",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "The Credential Crisis: How Stolen Credentials Defeat Modern Security",
+    "link": "https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/",
+    "published": "Wed, 27 May 2026 10:30:00 +0000",
+    "summary": "<p>As AI accelerates phishing, session hijacking, and credential abuse, security teams are racing to close the gap between attacker speed and defensive response.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/\">The Credential Crisis: How Stolen Credentials Defeat Modern Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "As AI accelerates phishing, session hijacking, and credential abuse, security teams are racing to close the gap between attacker speed and defensive response",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems",
+    "link": "https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/",
+    "published": "Wed, 27 May 2026 10:15:00 +0000",
+    "summary": "<p>Malicious repositories and disguised symlinks can trick AI coding agents into silently installing attacker-controlled MCP servers capable of stealing secrets, compromising CI pipelines, and deploying malicious code.</p>\n<p>The post <a href=\"https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/\">‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Malicious repositories and disguised symlinks can trick AI coding agents into silently installing attacker-controlled MCP servers capable of stealing secrets, compromising CI pipelines, and deploying malicious code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "GlassWorm Botnet Disrupted",
+    "link": "https://www.securityweek.com/glassworm-botnet-disrupted/",
+    "published": "Wed, 27 May 2026 10:10:00 +0000",
+    "summary": "<p>Security firms took down all four command-and-control (C&#038;C) channels used by the GlassWorm malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/glassworm-botnet-disrupted/\">GlassWorm Botnet Disrupted</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Security firms took down all four command-and-control (C&C) channels used by the GlassWorm malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers",
+    "link": "https://www.securityweek.com/la-metro-cyberattack-linked-to-iranian-state-sponsored-hackers/",
+    "published": "Wed, 27 May 2026 09:33:45 +0000",
+    "summary": "<p>The attack was claimed by a hacktivist group, but evidence showed it used infrastructure linked to Iranian government threat actors.</p>\n<p>The post <a href=\"https://www.securityweek.com/la-metro-cyberattack-linked-to-iranian-state-sponsored-hackers/\">LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The attack was claimed by a hacktivist group, but evidence showed it used infrastructure linked to Iranian government threat actors",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data",
+    "link": "https://www.securityweek.com/fbi-hackers-sending-operatives-in-person-to-insert-usb-drives-and-steal-data/",
+    "published": "Wed, 27 May 2026 08:33:34 +0000",
+    "summary": "<p>The FBI has issued an alert warning of Silent Ransom Group attacks targeting law firms.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-hackers-sending-operatives-in-person-to-insert-usb-drives-and-steal-data/\">FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The FBI has issued an alert warning of Silent Ransom Group attacks targeting law firms",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day",
+    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/",
+    "published": "Wed, 27 May 2026 06:55:44 +0000",
+    "summary": "<p>Resolved last week, the vulnerability was exploited in the wild as a zero-day to execute scripts with root privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/\">CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Resolved last week, the vulnerability was exploited in the wild as a zero-day to execute scripts with root privileges",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-48172"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Anthropic Releases New Claude Sandbox, Security Guidance Plugin",
+    "link": "https://www.securityweek.com/anthropic-releases-new-claude-sandbox-security-guidance-plugin/",
+    "published": "Wed, 27 May 2026 06:43:08 +0000",
+    "summary": "<p>The AI giant says the new plugin, which helps developers find vulnerabilities as they write code, has been used extensively internally.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-releases-new-claude-sandbox-security-guidance-plugin/\">Anthropic Releases New Claude Sandbox, Security Guidance Plugin</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The AI giant says the new plugin, which helps developers find vulnerabilities as they write code, has been used extensively internally",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -590,180 +764,20 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Iranian APT Targets Aviation, Software Companies With Updated Tools",
-    "link": "https://www.securityweek.com/iranian-apt-targets-aviation-software-companies-with-updated-tools/",
-    "published": "Tue, 26 May 2026 13:26:17 +0000",
-    "summary": "<p>Nimbus Manticore has continued its operations during and after the US military campaign against Iran.</p>\n<p>The post <a href=\"https://www.securityweek.com/iranian-apt-targets-aviation-software-companies-with-updated-tools/\">Iranian APT Targets Aviation, Software Companies With Updated Tools</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Introducing EvidenceForge: Synthetic security logs that don’t look (as) fake",
+    "link": "https://blog.talosintelligence.com/introducing-evidenceforge-synthetic-security-logs-that-dont-look-as-fake/",
+    "published": "Wed, 27 May 2026 10:00:47 GMT",
+    "summary": "EvidenceForge generates high-quality, realistic, and consistent datasets across multiple log formats, enabling teams to effectively train personnel and validate detection models without the need for complex manual simulations.",
     "analysis": {
-      "issue": "Nimbus Manticore has continued its operations during and after the US military campaign against Iran",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "185,000 Likely Impacted by 7-Eleven Data Breach",
-    "link": "https://www.securityweek.com/185000-likely-impacted-by-7-eleven-data-breach/",
-    "published": "Tue, 26 May 2026 11:59:40 +0000",
-    "summary": "<p>The allegedly stolen information leaked by ShinyHunters contains email addresses, names, addresses, and dates of birth.</p>\n<p>The post <a href=\"https://www.securityweek.com/185000-likely-impacted-by-7-eleven-data-breach/\">185,000 Likely Impacted by 7-Eleven Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The allegedly stolen information leaked by ShinyHunters contains email addresses, names, addresses, and dates of birth",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Anthropic Expands Claude’s Enterprise Security Governance With 28 New Integrations",
-    "link": "https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/",
-    "published": "Tue, 26 May 2026 11:44:53 +0000",
-    "summary": "<p>Notable integrations include CrowdStrike, Palo Alto Networks, Microsoft, Okta, Zscaler, Netskope, Cloudflare, Fortinet, and Wiz.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/\">Anthropic Expands Claude&#8217;s Enterprise Security Governance With 28 New Integrations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Notable integrations include CrowdStrike, Palo Alto Networks, Microsoft, Okta, Zscaler, Netskope, Cloudflare, Fortinet, and Wiz",
+      "issue": "A lot of important work in security depends on having realistic log data to work with, and a lot of that work gets blocked, watered down, or quietly skipped because the data just isn’t available",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Hackers Exploited KnowledgeDeliver Zero-Day for Web Shell Deployment",
-    "link": "https://www.securityweek.com/hackers-exploited-knowledgedeliver-zero-day-for-web-shell-deployment/",
-    "published": "Tue, 26 May 2026 11:14:31 +0000",
-    "summary": "<p>Hardcoded machineKey values in a configuration file enabled ViewState deserialization attacks leading to remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-exploited-knowledgedeliver-zero-day-for-web-shell-deployment/\">Hackers Exploited KnowledgeDeliver Zero-Day for Web Shell Deployment</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hardcoded machineKey values in a configuration file enabled ViewState deserialization attacks leading to remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-5426"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Watch on Demand: Threat Detection & Incident Response Summit – All Sessions Available",
-    "link": "https://www.securityweek.com/watch-on-demand-threat-detection-incident-response-summit-all-sessions-available/",
-    "published": "Tue, 26 May 2026 11:00:00 +0000",
-    "summary": "<p>Register to enjoy free access and explore the tools, strategies, and frameworks needed to build a resilient security program for a world where every minute counts.</p>\n<p>The post <a href=\"https://www.securityweek.com/watch-on-demand-threat-detection-incident-response-summit-all-sessions-available/\">Watch on Demand: Threat Detection &amp; Incident Response Summit &#8211; All Sessions Available</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Register to enjoy free access and explore the tools, strategies, and frameworks needed to build a resilient security program for a world where every minute counts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Open Source DockSec Uses AI to Cut Through Vulnerability Noise in Docker Images",
-    "link": "https://www.securityweek.com/open-source-docksec-uses-ai-to-cut-through-vulnerability-noise-in-docker-images/",
-    "published": "Tue, 26 May 2026 10:45:00 +0000",
-    "summary": "<p>DockSec, an OWASP incubator project, correlates findings from multiple container security scanners and uses AI to generate plain-English remediation guidance and exact Dockerfile fixes.</p>\n<p>The post <a href=\"https://www.securityweek.com/open-source-docksec-uses-ai-to-cut-through-vulnerability-noise-in-docker-images/\">Open Source DockSec Uses AI to Cut Through Vulnerability Noise in Docker Images</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "DockSec, an OWASP incubator project, correlates findings from multiple container security scanners and uses AI to generate plain-English remediation guidance and exact Dockerfile fixes",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Lithuania Suspects Foreign Involvement in Data Leak of Over 600,000 National Register Entries",
-    "link": "https://www.securityweek.com/lithuania-suspects-foreign-involvement-in-data-leak-of-over-600000-national-register-entries/",
-    "published": "Tue, 26 May 2026 10:26:56 +0000",
-    "summary": "<p>Lithuanian authorities are on high alert after a massive data leak involving more than 600,000 entries from national data registers.</p>\n<p>The post <a href=\"https://www.securityweek.com/lithuania-suspects-foreign-involvement-in-data-leak-of-over-600000-national-register-entries/\">Lithuania Suspects Foreign Involvement in Data Leak of Over 600,000 National Register Entries</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Lithuanian authorities are on high alert after a massive data leak involving more than 600,000 entries from national data registers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Admins of Bulletproof Hosting Service Used by Russian Hackers Arrested in Netherlands",
-    "link": "https://www.securityweek.com/admins-of-bulletproof-hosting-service-used-by-russian-hackers-arrested-in-netherlands/",
-    "published": "Tue, 26 May 2026 09:47:19 +0000",
-    "summary": "<p>The two own Dutch companies that allegedly provided bulletproof hosting services to Russia-aligned threat actors.</p>\n<p>The post <a href=\"https://www.securityweek.com/admins-of-bulletproof-hosting-service-used-by-russian-hackers-arrested-in-netherlands/\">Admins of Bulletproof Hosting Service Used by Russian Hackers Arrested in Netherlands</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The two own Dutch companies that allegedly provided bulletproof hosting services to Russia-aligned threat actors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Ghost CMS Vulnerability Exploited to Hack Over 700 Websites",
-    "link": "https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/",
-    "published": "Mon, 25 May 2026 13:27:12 +0000",
-    "summary": "<p>Sites belonging to major universities such as Harvard and Oxford, as well as DuckDuckGo, have been compromised in the attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/\">Ghost CMS Vulnerability Exploited to Hack Over 700 Websites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Sites belonging to major universities such as Harvard and Oxford, as well as DuckDuckGo, have been compromised in the attack",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-26980"
-      ],
-      "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -798,9 +812,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30814",
+        "CVE-2026-30815",
         "CVE-2026-30816",
-        "CVE-2026-30815"
+        "CVE-2026-30814"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -858,9 +872,9 @@
       "timeline": null,
       "severity": "High",
       "cves": [
+        "CVE-2026-20133",
         "CVE-2026-20127",
         "CVE-2026-20128",
-        "CVE-2026-20133",
         "CVE-2026-20182",
         "CVE-2026-20122"
       ],
@@ -901,11 +915,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32161",
-        "CVE-2026-35421",
-        "CVE-2026-33844",
+        "CVE-2026-40358",
         "CVE-2026-33109",
-        "CVE-2026-40358"
+        "CVE-2026-33844",
+        "CVE-2026-32161",
+        "CVE-2026-35421"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -947,24 +961,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Insights into the clustering and reuse of phone numbers in scam emails",
-    "link": "https://blog.talosintelligence.com/insights-into-the-clustering-and-reuse-of-phone-numbers-in-scam-emails/",
-    "published": "Wed, 06 May 2026 10:00:12 GMT",
-    "summary": "Talos has recently started to collect and gather intelligence around phone numbers within emails as an additional indicator of compromise (IOC). In this blog, we discuss new insights into in-the-wild phone number reuse in scam emails.",
-    "analysis": {
-      "issue": "Telephone-oriented attack delivery (TOAD) continues to be a prevalent tactic in modern email threats",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1316,8 +1312,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1342,6 +1338,42 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Company bragged phone mics could listen to conversations. They couldn&#8217;t.",
+    "link": "https://www.malwarebytes.com/blog/news/2026/05/company-bragged-phone-mics-could-listen-to-conversations-they-couldnt",
+    "published": "Wed, 27 May 2026 09:56:26 GMT",
+    "summary": "Cox Media said it could spy on users through their devices and use the information for targeted advertising, except it wasn't true.",
+    "analysis": {
+      "issue": "A media company and two of its marketing partners have been fined for selling a service which, they said, listened in to people’s conversations through their phones",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Fake LinkedIn emails abuse Adobe to track victims",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/05/fake-linkedin-emails-abuse-adobe-to-track-victims",
+    "published": "Wed, 27 May 2026 09:32:09 GMT",
+    "summary": "Phishers are stealing LinkedIn credentials while abusing Adobe Target to track victims and redirect them to real LinkedIn pages.",
+    "analysis": {
+      "issue": "Cybercriminals are abusing Adobe infrastructure in a LinkedIn phishing campaign that steals passwords and redirects victims to the legitimate LinkedIn site afterward",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
       ]
     }
   },
@@ -1489,43 +1521,6 @@
       "threat_categories": [
         "Malware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Researchers left AI agents alone in a virtual town and watched it all unravel",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/05/researchers-left-ai-agents-alone-in-a-virtual-town-and-watched-it-all-unravel",
-    "published": "Thu, 21 May 2026 10:01:54 GMT",
-    "summary": "Told not to commit crimes, the AI agents mostly did anyway. Arson, violence, romance, self-deletion, and general chaos quickly ensued.",
-    "analysis": {
-      "issue": "Tech leaders have spent the past year telling everyone that AI agents are about to run financial systems, file your tax returns, and quietly buy your groceries",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Fake malware-signing service Fox Tempest dismantled by Microsoft",
-    "link": "https://www.malwarebytes.com/blog/news/2026/05/fake-malware-signing-service-fox-tempest-dismantled-by-microsoft",
-    "published": "Wed, 20 May 2026 15:33:02 GMT",
-    "summary": "The service let malware authors sign malicious files with fraudulent Microsoft-issued certificates to bypass security checks.",
-    "analysis": {
-      "issue": "Microsoft says it dismantled a malware-signing-as-a-service (MSaaS) called Fox Tempest, which helped cybercriminals make malware appear legitimate",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
       ]
     }
   },
