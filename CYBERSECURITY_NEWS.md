@@ -1,19 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-27 11:53:41 UTC
+**Last Updated:** 2026-05-27 15:59:03 UTC
 
 ## Breaking News (Last 3 Days)
 
 ### 1. [5 Steps to Managing Shadow AI Tools Without Slowing Down Employees](https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html)
 
 **Source:** The Hacker News  
-**Published:** Wed, 27 May 2026 17:00:00 +0530  
+**Published:** Wed, 27 May 2026 18:58:48 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 2. [Gitea Vulnerability Exposes Private Container Images without Authentication](https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html)
+### 2. [GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure](https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 27 May 2026 17:18:37 +0530  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 3. [3 SOC Steps that Shut Down Incident Risks Early](https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 27 May 2026 17:15:00 +0530  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 4. [Gitea Vulnerability Exposes Private Container Images without Authentication](https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 27 May 2026 15:36:32 +0530  
@@ -23,7 +41,7 @@
 
 ---
 
-### 3. [AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites](https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html)
+### 5. [AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites](https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 27 May 2026 13:15:52 +0530  
@@ -32,7 +50,7 @@
 
 ---
 
-### 4. [MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries](https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html)
+### 6. [MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries](https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 26 May 2026 21:18:41 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back](https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html)
+### 7. [[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back](https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 26 May 2026 17:28:00 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions](https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html)
+### 8. [Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions](https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 26 May 2026 17:19:53 +0530  
@@ -60,7 +78,7 @@
 
 ---
 
-### 7. [MFA Prompt Bombing: Why Your Second Factor Isn't Saving You](https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html)
+### 9. [MFA Prompt Bombing: Why Your Second Factor Isn't Saving You](https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 26 May 2026 16:00:00 +0530  
@@ -69,7 +87,7 @@
 
 ---
 
-### 8. [CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks](https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html)
+### 10. [CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks](https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 26 May 2026 14:43:02 +0530  
@@ -78,26 +96,25 @@
 
 ---
 
-### 9. [Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning](https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html)
+### 11. [Can you enforce strong Active Directory password rules without frustrating users?](https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 26 May 2026 12:43:05 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 27 May 2026 10:00:10 -0400  
 **Severity:** Low  
-**Categories:** Malware, Phishing  
-
----
-
-### 10. [KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike](https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 26 May 2026 10:49:38 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-5426  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [FBI warns of in-person data theft attacks from extortion gang](https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/)
+### 12. [Glassworm botnet disrupted after resilient C2 infrastructure takedown](https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 27 May 2026 09:28:42 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [FBI warns of in-person data theft attacks from extortion gang](https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 27 May 2026 07:51:12 -0400  
@@ -106,7 +123,7 @@
 
 ---
 
-### 12. [CISA gives feds 4 days to patch actively exploited cPanel plugin flaw](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/)
+### 14. [CISA gives feds 4 days to patch actively exploited cPanel plugin flaw](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 27 May 2026 06:06:17 -0400  
@@ -116,7 +133,7 @@
 
 ---
 
-### 13. [Dutch police arrests suspect linked to Ajax football club hack](https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/)
+### 15. [Dutch police arrests suspect linked to Ajax football club hack](https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 27 May 2026 05:09:03 -0400  
@@ -125,7 +142,7 @@
 
 ---
 
-### 14. [Windows 11 KB5089573 update released with performance improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/)
+### 16. [Windows 11 KB5089573 update released with performance improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 27 May 2026 04:33:46 -0400  
@@ -134,7 +151,7 @@
 
 ---
 
-### 15. [KnowledgeDeliver flaw exploited as a zero-day to install web shells](https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/)
+### 17. [KnowledgeDeliver flaw exploited as a zero-day to install web shells](https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 26 May 2026 16:07:31 -0400  
@@ -144,7 +161,7 @@
 
 ---
 
-### 16. [Charter confirms data breach after ShinyHunters extortion threat](https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/)
+### 18. [Charter confirms data breach after ShinyHunters extortion threat](https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 26 May 2026 15:46:01 -0400  
@@ -153,7 +170,7 @@
 
 ---
 
-### 17. [How Varonis Atlas integrates Claude Compliance API for AI governance](https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/)
+### 19. [How Varonis Atlas integrates Claude Compliance API for AI governance](https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 26 May 2026 10:01:11 -0400  
@@ -162,31 +179,12 @@
 
 ---
 
-### 18. [Microsoft Defender can now automatically isolate hacked endpoints](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/)
+### 20. [Microsoft Defender can now automatically isolate hacked endpoints](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 26 May 2026 08:19:43 -0400  
 **Severity:** Low  
 **Categories:** Ransomware  
-
----
-
-### 19. [Webinar: Too many tools are slowing network incident response](https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 26 May 2026 08:16:24 -0400  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 20. [CISA orders feds to patch actively exploited Drupal vulnerability](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 26 May 2026 04:46:45 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-9082  
-**Categories:** Vulnerability  
 
 ---
 
@@ -267,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -281,7 +279,26 @@
 
 ---
 
-### 31. [RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries](https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/)
+### 31. [Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate](https://www.securityweek.com/vulnerability-in-popular-conference-software-granted-attackers-a-100-talk-acceptance-rate/)
+
+**Source:** Security Week  
+**Published:** Wed, 27 May 2026 14:30:00 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-41241  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [SecurityWeek to Host AI Risk Summit August 11-12 at the Ritz-Carlton, Half Moon Bay](https://www.securityweek.com/securityweek-to-host-ai-risk-summit-august-11-12-at-the-ritz-carlton-half-moon-bay/)
+
+**Source:** Security Week  
+**Published:** Wed, 27 May 2026 13:00:00 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 33. [RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries](https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/)
 
 **Source:** Security Week  
 **Published:** Wed, 27 May 2026 11:52:55 +0000  
@@ -290,7 +307,7 @@
 
 ---
 
-### 32. [Romanian Hacker Sentenced to Prison in US for Selling Access to State Network](https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/)
+### 34. [Romanian Hacker Sentenced to Prison in US for Selling Access to State Network](https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/)
 
 **Source:** Security Week  
 **Published:** Wed, 27 May 2026 11:37:19 +0000  
@@ -299,7 +316,7 @@
 
 ---
 
-### 33. [Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform](https://www.securityweek.com/lastwall-raises-11-5-million-for-quantum-resilient-identity-platform/)
+### 35. [Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform](https://www.securityweek.com/lastwall-raises-11-5-million-for-quantum-resilient-identity-platform/)
 
 **Source:** Security Week  
 **Published:** Wed, 27 May 2026 11:01:13 +0000  
@@ -308,7 +325,7 @@
 
 ---
 
-### 34. [The Credential Crisis: How Stolen Credentials Defeat Modern Security](https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/)
+### 36. [The Credential Crisis: How Stolen Credentials Defeat Modern Security](https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/)
 
 **Source:** Security Week  
 **Published:** Wed, 27 May 2026 10:30:00 +0000  
@@ -317,7 +334,7 @@
 
 ---
 
-### 35. [‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems](https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/)
+### 37. [‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems](https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/)
 
 **Source:** Security Week  
 **Published:** Wed, 27 May 2026 10:15:00 +0000  
@@ -326,7 +343,7 @@
 
 ---
 
-### 36. [GlassWorm Botnet Disrupted](https://www.securityweek.com/glassworm-botnet-disrupted/)
+### 38. [GlassWorm Botnet Disrupted](https://www.securityweek.com/glassworm-botnet-disrupted/)
 
 **Source:** Security Week  
 **Published:** Wed, 27 May 2026 10:10:00 +0000  
@@ -335,7 +352,7 @@
 
 ---
 
-### 37. [LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers](https://www.securityweek.com/la-metro-cyberattack-linked-to-iranian-state-sponsored-hackers/)
+### 39. [LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers](https://www.securityweek.com/la-metro-cyberattack-linked-to-iranian-state-sponsored-hackers/)
 
 **Source:** Security Week  
 **Published:** Wed, 27 May 2026 09:33:45 +0000  
@@ -344,7 +361,7 @@
 
 ---
 
-### 38. [FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data](https://www.securityweek.com/fbi-hackers-sending-operatives-in-person-to-insert-usb-drives-and-steal-data/)
+### 40. [FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data](https://www.securityweek.com/fbi-hackers-sending-operatives-in-person-to-insert-usb-drives-and-steal-data/)
 
 **Source:** Security Week  
 **Published:** Wed, 27 May 2026 08:33:34 +0000  
@@ -353,26 +370,17 @@
 
 ---
 
-### 39. [CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/)
+### 41. [MediaArea heap-based buffer overflow vulnerabilities](https://blog.talosintelligence.com/mediaarea-heap-based-buffer-overflow-vulnerabilities/)
 
-**Source:** Security Week  
-**Published:** Wed, 27 May 2026 06:55:44 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-48172  
-**Categories:** Vulnerability, Phishing  
-
----
-
-### 40. [Anthropic Releases New Claude Sandbox, Security Guidance Plugin](https://www.securityweek.com/anthropic-releases-new-claude-sandbox-security-guidance-plugin/)
-
-**Source:** Security Week  
-**Published:** Wed, 27 May 2026 06:43:08 +0000  
+**Source:** Talos Blog  
+**Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**Categories:** General Security  
+**CVEs:** CVE-2026-25713, CVE-2026-25104, CVE-2026-22554, CVE-2026-28764  
+**Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 41. [Introducing EvidenceForge: Synthetic security logs that don’t look (as) fake](https://blog.talosintelligence.com/introducing-evidenceforge-synthetic-security-logs-that-dont-look-as-fake/)
+### 42. [Introducing EvidenceForge: Synthetic security logs that don’t look (as) fake](https://blog.talosintelligence.com/introducing-evidenceforge-synthetic-security-logs-that-dont-look-as-fake/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 10:00:47 GMT  
@@ -381,7 +389,7 @@
 
 ---
 
-### 42. [The art of being ungovernable](https://blog.talosintelligence.com/the-art-of-being-ungovernable/)
+### 43. [The art of being ungovernable](https://blog.talosintelligence.com/the-art-of-being-ungovernable/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 21 May 2026 18:00:14 GMT  
@@ -390,7 +398,7 @@
 
 ---
 
-### 43. [TP-Link, Photoshop, OpenVPN, Norton VPN vulnerabilities](https://blog.talosintelligence.com/tp-link-photoshop-openvpn-norton-vpn-vulnerabilities/)
+### 44. [TP-Link, Photoshop, OpenVPN, Norton VPN vulnerabilities](https://blog.talosintelligence.com/tp-link-photoshop-openvpn-norton-vpn-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
@@ -400,7 +408,7 @@
 
 ---
 
-### 44. [From PDB strings to MaaS: Tracking a commodity BadIIS ecosystem used by Chinese-speaking threat](https://blog.talosintelligence.com/from-pdb-strings-to-maas-tracking-a-commodity-badiis-ecosystem/)
+### 45. [From PDB strings to MaaS: Tracking a commodity BadIIS ecosystem used by Chinese-speaking threat](https://blog.talosintelligence.com/from-pdb-strings-to-maas-tracking-a-commodity-badiis-ecosystem/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 10:00:20 GMT  
@@ -409,7 +417,7 @@
 
 ---
 
-### 45. [The time of much patching is coming](https://blog.talosintelligence.com/the-time-of-much-patching-is-coming/)
+### 46. [The time of much patching is coming](https://blog.talosintelligence.com/the-time-of-much-patching-is-coming/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 18:00:24 GMT  
@@ -418,17 +426,17 @@
 
 ---
 
-### 46. [Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities](https://blog.talosintelligence.com/sd-wan-ongoing-exploitation/)
+### 47. [Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities](https://blog.talosintelligence.com/sd-wan-ongoing-exploitation/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20133, CVE-2026-20127, CVE-2026-20128, CVE-2026-20182, CVE-2026-20122  
+**CVEs:** CVE-2026-20128, CVE-2026-20182, CVE-2026-20133, CVE-2026-20122, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---
 
-### 47. [Breaking things to keep them safe with Philippe Laulheret](https://blog.talosintelligence.com/breaking-things-to-keep-them-safe-with-philippe-laulheret/)
+### 48. [Breaking things to keep them safe with Philippe Laulheret](https://blog.talosintelligence.com/breaking-things-to-keep-them-safe-with-philippe-laulheret/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 13 May 2026 10:00:54 GMT  
@@ -437,31 +445,22 @@
 
 ---
 
-### 48. [Microsoft Patch Tuesday for May 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-may-2026/)
+### 49. [Microsoft Patch Tuesday for May 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-may-2026/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-40358, CVE-2026-33109, CVE-2026-33844, CVE-2026-32161, CVE-2026-35421  
+**CVEs:** CVE-2026-33109, CVE-2026-32161, CVE-2026-33844, CVE-2026-40358, CVE-2026-35421  
 **Categories:** Vulnerability  
 
 ---
 
-### 49. [State-sponsored actors, better known as the friends you don’t want](https://blog.talosintelligence.com/state-sponsored-actors-better-known-as-the-friends-you-dont-want/)
+### 50. [State-sponsored actors, better known as the friends you don’t want](https://blog.talosintelligence.com/state-sponsored-actors-better-known-as-the-friends-you-dont-want/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 10:00:54 GMT  
 **Severity:** Low  
 **Categories:** Ransomware, Vulnerability, Malware  
-
----
-
-### 50. [Unplug your way to better code](https://blog.talosintelligence.com/unplug-your-way-to-better-code/)
-
-**Source:** Talos Blog  
-**Published:** Thu, 07 May 2026 18:00:40 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -650,7 +649,16 @@
 
 ---
 
-### 71. [Company bragged phone mics could listen to conversations. They couldn&#8217;t.](https://www.malwarebytes.com/blog/news/2026/05/company-bragged-phone-mics-could-listen-to-conversations-they-couldnt)
+### 71. [Kali365 phishing kit bypasses MFA and steals Microsoft logins](https://www.malwarebytes.com/blog/scams/2026/05/kali365-phishing-kit-bypasses-mfa-and-steals-microsoft-logins)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 27 May 2026 11:41:54 GMT  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 72. [Company bragged phone mics could listen to conversations. They couldn&#8217;t.](https://www.malwarebytes.com/blog/news/2026/05/company-bragged-phone-mics-could-listen-to-conversations-they-couldnt)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 27 May 2026 09:56:26 GMT  
@@ -659,7 +667,7 @@
 
 ---
 
-### 72. [Fake LinkedIn emails abuse Adobe to track victims](https://www.malwarebytes.com/blog/threat-intel/2026/05/fake-linkedin-emails-abuse-adobe-to-track-victims)
+### 73. [Fake LinkedIn emails abuse Adobe to track victims](https://www.malwarebytes.com/blog/threat-intel/2026/05/fake-linkedin-emails-abuse-adobe-to-track-victims)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 27 May 2026 09:32:09 GMT  
@@ -668,7 +676,7 @@
 
 ---
 
-### 73. [Fake software on GitHub and SourceForge distribute Deno RAT](https://www.malwarebytes.com/blog/threat-intel/2026/05/fake-software-on-github-and-sourceforge-distribute-deno-rat)
+### 74. [Fake software on GitHub and SourceForge distribute Deno RAT](https://www.malwarebytes.com/blog/threat-intel/2026/05/fake-software-on-github-and-sourceforge-distribute-deno-rat)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 26 May 2026 13:07:09 GMT  
@@ -677,7 +685,7 @@
 
 ---
 
-### 74. [700+ education and tech websites hijacked in huge ClickFix malware campaign](https://www.malwarebytes.com/blog/bugs/2026/05/700-education-and-tech-websites-hijacked-in-huge-clickfix-malware-campaign)
+### 75. [700+ education and tech websites hijacked in huge ClickFix malware campaign](https://www.malwarebytes.com/blog/bugs/2026/05/700-education-and-tech-websites-hijacked-in-huge-clickfix-malware-campaign)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 26 May 2026 10:46:28 GMT  
@@ -686,7 +694,7 @@
 
 ---
 
-### 75. [Scammers pretending to be Microsoft had help from US executives](https://www.malwarebytes.com/blog/news/2026/05/scammers-pretending-to-be-microsoft-had-help-from-us-executives)
+### 76. [Scammers pretending to be Microsoft had help from US executives](https://www.malwarebytes.com/blog/news/2026/05/scammers-pretending-to-be-microsoft-had-help-from-us-executives)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 26 May 2026 10:01:25 GMT  
@@ -695,7 +703,7 @@
 
 ---
 
-### 76. [A week in security (May 18 &#8211; May 24)](https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-may-18-may-24)
+### 77. [A week in security (May 18 &#8211; May 24)](https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-may-18-may-24)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 25 May 2026 07:02:00 GMT  
@@ -704,7 +712,7 @@
 
 ---
 
-### 77. [Update Chrome now:  Critical bugs could let attackers run code](https://www.malwarebytes.com/blog/bugs/2026/05/update-chrome-now-critical-bugs-could-let-attackers-run-code)
+### 78. [Update Chrome now:  Critical bugs could let attackers run code](https://www.malwarebytes.com/blog/bugs/2026/05/update-chrome-now-critical-bugs-could-let-attackers-run-code)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 22 May 2026 12:10:36 GMT  
@@ -713,7 +721,7 @@
 
 ---
 
-### 78. [Microsoft Defender vulnerabilities are being exploited in the wild](https://www.malwarebytes.com/blog/bugs/2026/05/microsoft-defender-vulnerabilities-are-being-exploited-in-the-wild)
+### 79. [Microsoft Defender vulnerabilities are being exploited in the wild](https://www.malwarebytes.com/blog/bugs/2026/05/microsoft-defender-vulnerabilities-are-being-exploited-in-the-wild)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 21 May 2026 17:36:52 GMT  
@@ -722,21 +730,12 @@
 
 ---
 
-### 79. [TikTok, YouTube, and Roblox face scrutiny, but age gates won’t fix child safety](https://www.malwarebytes.com/blog/family-and-parenting/2026/05/tiktok-youtube-and-roblox-face-scrutiny-but-age-gates-wont-fix-child-safety)
+### 80. [TikTok, YouTube, and Roblox face scrutiny, but age gates won’t fix child safety](https://www.malwarebytes.com/blog/family-and-parenting/2026/05/tiktok-youtube-and-roblox-face-scrutiny-but-age-gates-wont-fix-child-safety)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 21 May 2026 11:08:37 GMT  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 80. [Catch spyware in the act with Windows Webcam Monitoring](https://www.malwarebytes.com/blog/product/2026/05/catch-spyware-in-the-act-with-windows-webcam-monitoring)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 21 May 2026 10:19:18 GMT  
-**Severity:** Low  
-**Categories:** Malware, APT  
 
 ---
 

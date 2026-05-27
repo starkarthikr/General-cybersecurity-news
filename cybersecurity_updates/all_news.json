@@ -3,7 +3,7 @@
     "source": "The Hacker News",
     "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
     "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html",
-    "published": "Wed, 27 May 2026 17:00:00 +0530",
+    "published": "Wed, 27 May 2026 18:58:48 +0530",
     "summary": "When an employee installs an AI writing assistant, connects a coding copilot to their IDE, or starts summarizing meetings with a new browser tool, they are doing exactly what a productive employee should do: finding faster ways to work.\n\nAcross most organizations today, employees are running three to five AI tools on any given day. Most were never reviewed by IT. A significant portion connects",
     "analysis": {
       "issue": "Shadow AI adoption grows as 69% of organizations detect unauthorized AI tools, increasing unseen corporate data exposure risks",
@@ -14,6 +14,43 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
+    "link": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
+    "published": "Wed, 27 May 2026 17:18:37 +0530",
+    "summary": "CrowdStrike, in partnership with Google and the Shadowserver Foundation, has announced the simultaneous disruption of all command-and-control (C2) channels associated with GlassWorm, a persistent software chain campaign targeting software developers through malicious packages and extensions.\n\n\"Since at least early 2025, GlassWorm operators have systematically targeted software developers, a",
+    "analysis": {
+      "issue": "GlassWorm poisoned 300 GitHub repositories since 2025, enabling supply chain attacks against developers and organizations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "3 SOC Steps that Shut Down Incident Risks Early",
+    "link": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html",
+    "published": "Wed, 27 May 2026 17:15:00 +0530",
+    "summary": "Most organizations still picture cyber defense as a fortress problem: build stronger walls, add more guards, buy another detection engine. But modern incidents rarely crash through the front gate. They drift in disguised as routine activity, hide inside legitimate processes, and quietly accumulate risk long before anyone labels them an \"incident.\"\n\nThat changes the role of the SOC entirely.\n\nThe",
+    "analysis": {
+      "issue": "RUN helps SOCs detect threats earlier with real-time IOC feeds and AI reporting, reducing ransomware and downtime risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
       ]
     }
   },
@@ -148,41 +185,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
-    "link": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
-    "published": "Tue, 26 May 2026 12:43:05 +0530",
-    "summary": "The Iranian state-sponsored threat actor known as Nimbus Manticore (aka Screening Serpens and UNC1549) has been attributed to a fresh campaign using lures impersonating organizations in the aviation and software sectors across the U.S., Europe, and the Middle East following the joint U.S.-Israeli military campaign against the country in late February 2026.\n\nThe activity, besides embracing",
+    "source": "Bleeping Computer",
+    "title": "Can you enforce strong Active Directory password rules without frustrating users?",
+    "link": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
+    "published": "Wed, 27 May 2026 10:00:10 -0400",
+    "summary": "Strong Active Directory passwords don't have to come at the expense of usability. Specops Software explains how passphrases, breached password protection, and self-service resets can improve security without frustrating users. [...]",
     "analysis": {
-      "issue": "Nimbus Manticore used AI-assisted MiniFast malware in 2026 campaigns, expanding espionage through SEO poisoning and phishing",
+      "issue": "Protecting Active Directory (AD) accounts starts with strong password policies, backed by consistent enforcement across the organization",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "Phishing"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
-    "link": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
-    "published": "Tue, 26 May 2026 10:49:38 +0530",
-    "summary": "A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web shell and ultimately facilitate the deployment of Cobalt Strike Beacon.\n\nThe vulnerability, tracked as CVE-2026-5426 (CVSS score: 7.5), stems from the use of hard-coded ASP.NET machine keys, leading to",
+    "source": "Bleeping Computer",
+    "title": "Glassworm botnet disrupted after resilient C2 infrastructure takedown",
+    "link": "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/",
+    "published": "Wed, 27 May 2026 09:28:42 -0400",
+    "summary": "The Glassworm botnet targeting developers in software supply-chain attacks has been disrupted after researchers took down its resilient command-and-control infrastructure relying on Solana blockchain transactions and the BitTorrent DHT network. [...]",
     "analysis": {
-      "issue": "CVE-2026-5426 enabled KnowledgeDeliver LMS attacks before February 24, 2026, leading to Cobalt Strike infections",
+      "issue": "The Glassworm botnet targeting developers in software supply-chain attacks has been disrupted after researchers took down its resilient command-and-control infrastructure relying on Solana blockchain transactions and the BitTorrent DHT network",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-5426"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Malware"
       ]
     }
   },
@@ -334,44 +368,6 @@
       "cves": [],
       "threat_categories": [
         "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Webinar: Too many tools are slowing network incident response",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
-    "published": "Tue, 26 May 2026 08:16:24 -0400",
-    "summary": "IT teams often need to jump between monitoring dashboards, infrastructure tools, ticketing systems, and communication platforms during network incidents. This webinar explores how automation and AI-assisted workflows can help reduce manual coordination and improve incident response times. [...]",
-    "analysis": {
-      "issue": "Network incidents often force IT teams to move between monitoring dashboards, infrastructure tools, ticketing platforms, identity systems, and communication platforms just to understand what happened and coordinate a response",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
-    "published": "Tue, 26 May 2026 04:46:45 -0400",
-    "summary": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively exploited. [...]",
-    "analysis": {
-      "issue": "government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively exploited",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-9082"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -539,9 +535,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
+        "CVE-2026-32201",
         "CVE-2026-34621",
-        "CVE-2026-32201"
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -566,6 +562,44 @@
         "Malware",
         "APT",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate",
+    "link": "https://www.securityweek.com/vulnerability-in-popular-conference-software-granted-attackers-a-100-talk-acceptance-rate/",
+    "published": "Wed, 27 May 2026 14:30:00 +0000",
+    "summary": "<p>Novee researchers discovered an account takeover vulnerability in the open source CFP management tool Pretalx.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerability-in-popular-conference-software-granted-attackers-a-100-talk-acceptance-rate/\">Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Novee researchers discovered an account takeover vulnerability in the open source CFP management tool Pretalx",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-41241"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "SecurityWeek to Host AI Risk Summit August 11-12 at the Ritz-Carlton, Half Moon Bay",
+    "link": "https://www.securityweek.com/securityweek-to-host-ai-risk-summit-august-11-12-at-the-ritz-carlton-half-moon-bay/",
+    "published": "Wed, 27 May 2026 13:00:00 +0000",
+    "summary": "<p>Now in its third year, the AI Risk Summit is the leading conference that brings together CISOs, security leaders, AI researchers, developers, policymakers, and enterprise risk professionals.</p>\n<p>The post <a href=\"https://www.securityweek.com/securityweek-to-host-ai-risk-summit-august-11-12-at-the-ritz-carlton-half-moon-bay/\">SecurityWeek to Host AI Risk Summit August 11-12 at the Ritz-Carlton, Half Moon Bay</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Now in its third year, the AI Risk Summit is the leading conference that brings together CISOs, security leaders, AI researchers, developers, policymakers, and enterprise risk professionals",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -725,41 +759,26 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day",
-    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/",
-    "published": "Wed, 27 May 2026 06:55:44 +0000",
-    "summary": "<p>Resolved last week, the vulnerability was exploited in the wild as a zero-day to execute scripts with root privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/\">CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "MediaArea heap-based buffer overflow vulnerabilities",
+    "link": "https://blog.talosintelligence.com/mediaarea-heap-based-buffer-overflow-vulnerabilities/",
+    "published": "Wed, 27 May 2026 14:00:14 GMT",
+    "summary": "Talos researchers find 4 heap-based buffer overflow vulnerabilities in MediaArea's MediaInfoLib.",
     "analysis": {
-      "issue": "Resolved last week, the vulnerability was exploited in the wild as a zero-day to execute scripts with root privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-48172"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Anthropic Releases New Claude Sandbox, Security Guidance Plugin",
-    "link": "https://www.securityweek.com/anthropic-releases-new-claude-sandbox-security-guidance-plugin/",
-    "published": "Wed, 27 May 2026 06:43:08 +0000",
-    "summary": "<p>The AI giant says the new plugin, which helps developers find vulnerabilities as they write code, has been used extensively internally.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-releases-new-claude-sandbox-security-guidance-plugin/\">Anthropic Releases New Claude Sandbox, Security Guidance Plugin</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The AI giant says the new plugin, which helps developers find vulnerabilities as they write code, has been used extensively internally",
+      "issue": "Cisco Talos’ Vulnerability Discovery & Research team recently disclosed four vulnerabilities in MediaArea MediaInfoLib library",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
+      "cves": [
+        "CVE-2026-25713",
+        "CVE-2026-25104",
+        "CVE-2026-22554",
+        "CVE-2026-28764"
+      ],
       "threat_categories": [
-        "General Security"
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -804,7 +823,7 @@
     "title": "TP-Link, Photoshop, OpenVPN, Norton VPN vulnerabilities",
     "link": "https://blog.talosintelligence.com/tp-link-photoshop-openvpn-norton-vpn-vulnerabilities/",
     "published": "Tue, 19 May 2026 15:39:37 GMT",
-    "summary": "<p>Cisco Talos&#x2019; Vulnerability Discovery &amp; Research team recently disclosed eight vulnerabilities in TP-Link, and one each in Adobe Photoshop, OpenVPN, and Gen Digital&apos;s Norton VPN.</p><p>The vulnerabilities mentioned in this blog post have been patched by their respective vendors, in adherence to<a href=\"https://sec.cloudapps.cisco.com/security/center/resources/vendor_vulnerability_policy.html\"><u> Cisco&#x2019;s third-party vulnerability</u></a></p>",
+    "summary": "Cisco Talos’ Vulnerability Discovery & Research team recently disclosed eight vulnerabilities in TP-Link, and one each in Adobe Photoshop, OpenVPN, and Gen Digital's Norton VPN.",
     "analysis": {
       "issue": "Cisco Talos’ Vulnerability Discovery & Research team recently disclosed eight vulnerabilities in TP-Link, and one each in Adobe Photoshop, OpenVPN, and Gen Digital's Norton VPN",
       "solution": null,
@@ -872,11 +891,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20133",
-        "CVE-2026-20127",
         "CVE-2026-20128",
         "CVE-2026-20182",
-        "CVE-2026-20122"
+        "CVE-2026-20133",
+        "CVE-2026-20122",
+        "CVE-2026-20127"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -915,10 +934,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-40358",
         "CVE-2026-33109",
-        "CVE-2026-33844",
         "CVE-2026-32161",
+        "CVE-2026-33844",
+        "CVE-2026-40358",
         "CVE-2026-35421"
       ],
       "threat_categories": [
@@ -943,24 +962,6 @@
         "Ransomware",
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Unplug your way to better code",
-    "link": "https://blog.talosintelligence.com/unplug-your-way-to-better-code/",
-    "published": "Thu, 07 May 2026 18:00:40 GMT",
-    "summary": "Cybersecurity concepts — logs, packets, DNS exfiltration, and more — are usually intangible, and its practitioners are prone to mental fatigue, Amy takes a second to yell at you to go touch grass.",
-    "analysis": {
-      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1343,6 +1344,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Kali365 phishing kit bypasses MFA and steals Microsoft logins",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/05/kali365-phishing-kit-bypasses-mfa-and-steals-microsoft-logins",
+    "published": "Wed, 27 May 2026 11:41:54 GMT",
+    "summary": "The FBI has warned that attackers are using a new phishing kit to gain long-term access to Microsoft Outlook, Teams, and OneDrive accounts.",
+    "analysis": {
+      "issue": "When the Federal Bureau of Investigation (FBI) publishes a dedicated public service announcement about a new phishing kit, it’s worth paying attention to",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Company bragged phone mics could listen to conversations. They couldn&#8217;t.",
     "link": "https://www.malwarebytes.com/blog/news/2026/05/company-bragged-phone-mics-could-listen-to-conversations-they-couldnt",
     "published": "Wed, 27 May 2026 09:56:26 GMT",
@@ -1502,25 +1521,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Catch spyware in the act with Windows Webcam Monitoring",
-    "link": "https://www.malwarebytes.com/blog/product/2026/05/catch-spyware-in-the-act-with-windows-webcam-monitoring",
-    "published": "Thu, 21 May 2026 10:19:18 GMT",
-    "summary": "Know when a program tries to access your webcam so you can allow or block, in real time.",
-    "analysis": {
-      "issue": "You’re working hard late at night, replying to emails and planning the week ahead",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
       ]
     }
   },
