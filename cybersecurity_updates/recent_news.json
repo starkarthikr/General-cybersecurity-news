@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
+    "link": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html",
+    "published": "Wed, 27 May 2026 21:40:21 +0530",
+    "summary": "Latin America and Europe become the target of two banking trojan campaigns that are designed to infect Windows and Android devices with Grandoreiro and BTMOB malware, respectively.\n\nThat's according to new findings from WatchGuard and ESET, which have observed the two malware families being used to single out companies in Spain, Portugal, and Mexico, as well as mobile users in Brazil.\n\nThe",
+    "analysis": {
+      "issue": "Grandoreiro and BTMOB campaigns targeted Europe and Latin America in 2026, increasing banking malware risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub",
+    "link": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html",
+    "published": "Wed, 27 May 2026 21:14:29 +0530",
+    "summary": "Cybersecurity researchers have discovered a new malicious package on the npm registry that comes with information stealing capabilities.\n\nAccording to OX Security, the package, named \"mouse5212-super-formatter,\" is designed to upload files from \"/mnt/user-data,\" a dedicated directory used by Anthropic's Claude artificial intelligence (AI) tool to handle uploads and outputs in the background. The",
+    "analysis": {
+      "issue": "Malicious npm package downloaded 676 times stole Claude AI files via GitHub uploads, increasing AI-driven malware risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
     "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html",
     "published": "Wed, 27 May 2026 18:58:48 +0530",
@@ -143,42 +179,6 @@
       "cves": [
         "CVE-2026-45659"
       ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
-    "link": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
-    "published": "Tue, 26 May 2026 16:00:00 +0530",
-    "summary": "Multi-factor authentication (MFA) was supposed to close a critical gap in identity security. It meant that, even if an attacker possessed the account credentials, they couldn't log in without the second factor. While that logic was sound, attackers have now figured out that they don't need to steal the second factor: they just need the user to hand it over.\n\nIf your workforce authenticates with",
-    "analysis": {
-      "issue": "MFA prompt bombing enabled Cisco attackers to steal 2",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
-    "link": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
-    "published": "Tue, 26 May 2026 14:43:02 +0530",
-    "summary": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of being flagged where \"feasible\" to safeguard against potential threats stemming from threat actors' abuse of artificial intelligence (AI) tools and large language models (LLMs) to automate vulnerability",
-    "analysis": {
-      "issue": "CERT-In ordered 12-hour patching for critical internet-facing flaws as AI-driven attacks accelerate cyber exploitation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -535,9 +535,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-34621",
-        "CVE-2026-33825"
+        "CVE-2026-33825",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -561,6 +561,24 @@
       "threat_categories": [
         "Malware",
         "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "UK Cyberspying Chief Calls AI ‘an Unstoppable Force’ and Warns About Russia",
+    "link": "https://www.securityweek.com/uk-cyberspying-chief-calls-ai-an-unstoppable-force-and-warns-about-russia/",
+    "published": "Wed, 27 May 2026 17:32:14 +0000",
+    "summary": "<p>The speech is the latest in a string of warnings from intelligence experts that Russia is stepping up hostile activity in a “gray zone” that falls just below the threshold of war.</p>\n<p>The post <a href=\"https://www.securityweek.com/uk-cyberspying-chief-calls-ai-an-unstoppable-force-and-warns-about-russia/\">UK Cyberspying Chief Calls AI ‘an Unstoppable Force’ and Warns About Russia</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The speech is the latest in a string of warnings from intelligence experts that Russia is stepping up hostile activity in a “gray zone” that falls just below the threshold of war",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
         "Supply Chain"
       ]
     }
@@ -738,27 +756,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data",
-    "link": "https://www.securityweek.com/fbi-hackers-sending-operatives-in-person-to-insert-usb-drives-and-steal-data/",
-    "published": "Wed, 27 May 2026 08:33:34 +0000",
-    "summary": "<p>The FBI has issued an alert warning of Silent Ransom Group attacks targeting law firms.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-hackers-sending-operatives-in-person-to-insert-usb-drives-and-steal-data/\">FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The FBI has issued an alert warning of Silent Ransom Group attacks targeting law firms",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "MediaArea heap-based buffer overflow vulnerabilities",
     "link": "https://blog.talosintelligence.com/mediaarea-heap-based-buffer-overflow-vulnerabilities/",
@@ -771,10 +768,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25713",
-        "CVE-2026-25104",
         "CVE-2026-22554",
-        "CVE-2026-28764"
+        "CVE-2026-25104",
+        "CVE-2026-28764",
+        "CVE-2026-25713"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -831,8 +828,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30815",
         "CVE-2026-30816",
+        "CVE-2026-30815",
         "CVE-2026-30814"
       ],
       "threat_categories": [
@@ -891,11 +888,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20128",
-        "CVE-2026-20182",
+        "CVE-2026-20127",
         "CVE-2026-20133",
-        "CVE-2026-20122",
-        "CVE-2026-20127"
+        "CVE-2026-20182",
+        "CVE-2026-20128",
+        "CVE-2026-20122"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -936,8 +933,8 @@
       "cves": [
         "CVE-2026-33109",
         "CVE-2026-32161",
-        "CVE-2026-33844",
         "CVE-2026-40358",
+        "CVE-2026-33844",
         "CVE-2026-35421"
       ],
       "threat_categories": [
@@ -1313,8 +1310,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

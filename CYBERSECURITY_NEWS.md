@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-27 15:59:03 UTC
+**Last Updated:** 2026-05-27 18:38:43 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [5 Steps to Managing Shadow AI Tools Without Slowing Down Employees](https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html)
+### 1. [Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users](https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 27 May 2026 21:40:21 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [Malicious npm Package Stole Files From Claude AI User Directory via GitHub](https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 27 May 2026 21:14:29 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [5 Steps to Managing Shadow AI Tools Without Slowing Down Employees](https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 27 May 2026 18:58:48 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure](https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html)
+### 4. [GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure](https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 27 May 2026 17:18:37 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [3 SOC Steps that Shut Down Incident Risks Early](https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html)
+### 5. [3 SOC Steps that Shut Down Incident Risks Early](https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 27 May 2026 17:15:00 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [Gitea Vulnerability Exposes Private Container Images without Authentication](https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html)
+### 6. [Gitea Vulnerability Exposes Private Container Images without Authentication](https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 27 May 2026 15:36:32 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites](https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html)
+### 7. [AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites](https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 27 May 2026 13:15:52 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries](https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html)
+### 8. [MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries](https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 26 May 2026 21:18:41 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back](https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html)
+### 9. [[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back](https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 26 May 2026 17:28:00 +0530  
@@ -68,30 +86,12 @@
 
 ---
 
-### 8. [Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions](https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html)
+### 10. [Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions](https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 26 May 2026 17:19:53 +0530  
 **Severity:** Low  
 **CVEs:** CVE-2026-45659  
-**Categories:** Vulnerability  
-
----
-
-### 9. [MFA Prompt Bombing: Why Your Second Factor Isn't Saving You](https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 26 May 2026 16:00:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks](https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 26 May 2026 14:43:02 +0530  
-**Severity:** Critical  
 **Categories:** Vulnerability  
 
 ---
@@ -265,7 +265,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -279,7 +279,16 @@
 
 ---
 
-### 31. [Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate](https://www.securityweek.com/vulnerability-in-popular-conference-software-granted-attackers-a-100-talk-acceptance-rate/)
+### 31. [UK Cyberspying Chief Calls AI ‘an Unstoppable Force’ and Warns About Russia](https://www.securityweek.com/uk-cyberspying-chief-calls-ai-an-unstoppable-force-and-warns-about-russia/)
+
+**Source:** Security Week  
+**Published:** Wed, 27 May 2026 17:32:14 +0000  
+**Severity:** Critical  
+**Categories:** Supply Chain  
+
+---
+
+### 32. [Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate](https://www.securityweek.com/vulnerability-in-popular-conference-software-granted-attackers-a-100-talk-acceptance-rate/)
 
 **Source:** Security Week  
 **Published:** Wed, 27 May 2026 14:30:00 +0000  
@@ -289,7 +298,7 @@
 
 ---
 
-### 32. [SecurityWeek to Host AI Risk Summit August 11-12 at the Ritz-Carlton, Half Moon Bay](https://www.securityweek.com/securityweek-to-host-ai-risk-summit-august-11-12-at-the-ritz-carlton-half-moon-bay/)
+### 33. [SecurityWeek to Host AI Risk Summit August 11-12 at the Ritz-Carlton, Half Moon Bay](https://www.securityweek.com/securityweek-to-host-ai-risk-summit-august-11-12-at-the-ritz-carlton-half-moon-bay/)
 
 **Source:** Security Week  
 **Published:** Wed, 27 May 2026 13:00:00 +0000  
@@ -298,7 +307,7 @@
 
 ---
 
-### 33. [RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries](https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/)
+### 34. [RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries](https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/)
 
 **Source:** Security Week  
 **Published:** Wed, 27 May 2026 11:52:55 +0000  
@@ -307,7 +316,7 @@
 
 ---
 
-### 34. [Romanian Hacker Sentenced to Prison in US for Selling Access to State Network](https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/)
+### 35. [Romanian Hacker Sentenced to Prison in US for Selling Access to State Network](https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/)
 
 **Source:** Security Week  
 **Published:** Wed, 27 May 2026 11:37:19 +0000  
@@ -316,7 +325,7 @@
 
 ---
 
-### 35. [Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform](https://www.securityweek.com/lastwall-raises-11-5-million-for-quantum-resilient-identity-platform/)
+### 36. [Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform](https://www.securityweek.com/lastwall-raises-11-5-million-for-quantum-resilient-identity-platform/)
 
 **Source:** Security Week  
 **Published:** Wed, 27 May 2026 11:01:13 +0000  
@@ -325,7 +334,7 @@
 
 ---
 
-### 36. [The Credential Crisis: How Stolen Credentials Defeat Modern Security](https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/)
+### 37. [The Credential Crisis: How Stolen Credentials Defeat Modern Security](https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/)
 
 **Source:** Security Week  
 **Published:** Wed, 27 May 2026 10:30:00 +0000  
@@ -334,7 +343,7 @@
 
 ---
 
-### 37. [‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems](https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/)
+### 38. [‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems](https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/)
 
 **Source:** Security Week  
 **Published:** Wed, 27 May 2026 10:15:00 +0000  
@@ -343,7 +352,7 @@
 
 ---
 
-### 38. [GlassWorm Botnet Disrupted](https://www.securityweek.com/glassworm-botnet-disrupted/)
+### 39. [GlassWorm Botnet Disrupted](https://www.securityweek.com/glassworm-botnet-disrupted/)
 
 **Source:** Security Week  
 **Published:** Wed, 27 May 2026 10:10:00 +0000  
@@ -352,7 +361,7 @@
 
 ---
 
-### 39. [LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers](https://www.securityweek.com/la-metro-cyberattack-linked-to-iranian-state-sponsored-hackers/)
+### 40. [LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers](https://www.securityweek.com/la-metro-cyberattack-linked-to-iranian-state-sponsored-hackers/)
 
 **Source:** Security Week  
 **Published:** Wed, 27 May 2026 09:33:45 +0000  
@@ -361,21 +370,12 @@
 
 ---
 
-### 40. [FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data](https://www.securityweek.com/fbi-hackers-sending-operatives-in-person-to-insert-usb-drives-and-steal-data/)
-
-**Source:** Security Week  
-**Published:** Wed, 27 May 2026 08:33:34 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, Vulnerability, Phishing  
-
----
-
 ### 41. [MediaArea heap-based buffer overflow vulnerabilities](https://blog.talosintelligence.com/mediaarea-heap-based-buffer-overflow-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25713, CVE-2026-25104, CVE-2026-22554, CVE-2026-28764  
+**CVEs:** CVE-2026-22554, CVE-2026-25104, CVE-2026-28764, CVE-2026-25713  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -403,7 +403,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30815, CVE-2026-30816, CVE-2026-30814  
+**CVEs:** CVE-2026-30816, CVE-2026-30815, CVE-2026-30814  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -431,7 +431,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20128, CVE-2026-20182, CVE-2026-20133, CVE-2026-20122, CVE-2026-20127  
+**CVEs:** CVE-2026-20127, CVE-2026-20133, CVE-2026-20182, CVE-2026-20128, CVE-2026-20122  
 **Categories:** Vulnerability  
 
 ---
@@ -450,7 +450,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33109, CVE-2026-32161, CVE-2026-33844, CVE-2026-40358, CVE-2026-35421  
+**CVEs:** CVE-2026-33109, CVE-2026-32161, CVE-2026-40358, CVE-2026-33844, CVE-2026-35421  
 **Categories:** Vulnerability  
 
 ---
@@ -634,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
