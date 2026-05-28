@@ -1,6 +1,46 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
+    "link": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
+    "published": "Thu, 28 May 2026 22:54:44 +0530",
+    "summary": "A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions.\n\nThe security flaw, per Rapid7, is rated 9.4 on the CVSS scoring system. It does not have a CVE identifier.\n\n\"The vulnerability allows any authenticated user to achieve remote code execution (RCE) on",
+    "analysis": {
+      "issue": "4 CVSS flaw exploits git rebase injection on 1,141 exposed instances, enabling remote code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
+    "link": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
+    "published": "Thu, 28 May 2026 20:56:04 +0530",
+    "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware.\n\n\"The campaign abused trusted endpoint management infrastructure to deliver malware across managed endpoints,\" Arctic Wolf said. \"Threat actors disguised the credential stealer payload as a Fortinet endpoint",
+    "analysis": {
+      "issue": "FortiClient EMS flaw CVE-2026-35616 enabled malware delivery via fake updates, risking credential theft across endpoints",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-35616"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
     "link": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
     "published": "Thu, 28 May 2026 19:23:52 +0530",
@@ -145,40 +185,41 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "3 SOC Steps that Shut Down Incident Risks Early",
-    "link": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html",
-    "published": "Wed, 27 May 2026 17:15:00 +0530",
-    "summary": "Most organizations still picture cyber defense as a fortress problem: build stronger walls, add more guards, buy another detection engine. But modern incidents rarely crash through the front gate. They drift in disguised as routine activity, hide inside legitimate processes, and quietly accumulate risk long before anyone labels them an \"incident.\"\n\nThat changes the role of the SOC entirely.\n\nThe",
+    "source": "Bleeping Computer",
+    "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
+    "published": "Thu, 28 May 2026 15:08:10 -0400",
+    "summary": "The FBI is warning of fake websites impersonating FIFA ahead of the 2026 World Cup, to steal personal and financial information, sell fake tickets and hospitality packages, and push other fraud related to the event. [...]",
     "analysis": {
-      "issue": "RUN helps SOCs detect threats earlier with real-time IOC feeds and AI reporting, reducing ransomware and downtime risks",
+      "issue": "The FBI is warning of fake websites impersonating FIFA ahead of the 2026 World Cup, to steal personal and financial information, sell fake tickets and hospitality packages, and push other fraud related to the event",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Ransomware"
+        "Phishing"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
-    "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
-    "published": "Wed, 27 May 2026 15:36:32 +0530",
-    "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials.\n\nThe vulnerability, tracked as CVE-2026-27771 (CVSS score: 8.2), affects all versions of Gitea prior to 1.26.2",
+    "source": "Bleeping Computer",
+    "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
+    "published": "Thu, 28 May 2026 13:25:43 -0400",
+    "summary": "Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ. [...]",
     "analysis": {
-      "issue": "Gitea flaw CVE-2026-27771 exposed private container images across 30,000 deployments, risking unauthorized access worldwide",
+      "issue": "Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-27771"
+        "CVE-2026-35616"
       ],
       "threat_categories": [
-        "Vulnerability"
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -324,43 +365,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Glassworm botnet disrupted after resilient C2 infrastructure takedown",
-    "link": "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/",
-    "published": "Wed, 27 May 2026 09:28:42 -0400",
-    "summary": "The Glassworm botnet targeting developers in software supply-chain attacks has been disrupted after researchers took down its resilient command-and-control infrastructure relying on Solana blockchain transactions and the BitTorrent DHT network. [...]",
-    "analysis": {
-      "issue": "The Glassworm botnet targeting developers in software supply-chain attacks has been disrupted after researchers took down its resilient command-and-control infrastructure relying on Solana blockchain transactions and the BitTorrent DHT network",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI warns of in-person data theft attacks from extortion gang",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/",
-    "published": "Wed, 27 May 2026 07:51:12 -0400",
-    "summary": "The FBI warned on Tuesday that the Silent Ransom Group (SRG) extortion gang is now targeting U.S.-based law firms in in-person data theft attacks. [...]",
-    "analysis": {
-      "issue": "The FBI warned on Tuesday that the Silent Ransom Group (SRG) extortion gang is now targeting U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing"
       ]
     }
   },
@@ -528,9 +532,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
         "CVE-2026-32201",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -555,6 +559,45 @@
         "Malware",
         "APT",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks",
+    "link": "https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/",
+    "published": "Thu, 28 May 2026 18:50:49 +0000",
+    "summary": "<p>Researchers warn GreyVibe’s extensive use of ChatGPT, Gemini, and other AI tools offers a glimpse into how future cybercriminal and state-aligned groups will operate.</p>\n<p>The post <a href=\"https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/\">Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Researchers warn GreyVibe’s extensive use of ChatGPT, Gemini, and other AI tools offers a glimpse into how future cybercriminal and state-aligned groups will operate",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Geordie Raises $30 Million for AI Security and Governance Platform",
+    "link": "https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/",
+    "published": "Thu, 28 May 2026 17:07:16 +0000",
+    "summary": "<p>The funding round was led by Balderton Capital, with additional support from Crosspoint Capital and previous investors General Catalyst and Ten Eleven Ventures.</p>\n<p>The post <a href=\"https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/\">Geordie Raises $30 Million for AI Security and Governance Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The funding round was led by Balderton Capital, with additional support from Crosspoint Capital and previous investors General Catalyst and Ten Eleven Ventures",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -720,38 +763,18 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "UK Cyberspying Chief Calls AI ‘an Unstoppable Force’ and Warns About Russia",
-    "link": "https://www.securityweek.com/uk-cyberspying-chief-calls-ai-an-unstoppable-force-and-warns-about-russia/",
-    "published": "Wed, 27 May 2026 17:32:14 +0000",
-    "summary": "<p>The speech is the latest in a string of warnings from intelligence experts that Russia is stepping up hostile activity in a “gray zone” that falls just below the threshold of war.</p>\n<p>The post <a href=\"https://www.securityweek.com/uk-cyberspying-chief-calls-ai-an-unstoppable-force-and-warns-about-russia/\">UK Cyberspying Chief Calls AI ‘an Unstoppable Force’ and Warns About Russia</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Less panic patching, more precision",
+    "link": "https://blog.talosintelligence.com/less-panic-patching-more-precision/",
+    "published": "Thu, 28 May 2026 18:00:27 GMT",
+    "summary": "In this newsletter, Thor breaks down why you should stop relying solely on CVSS and start using EPSS and GCVE to focus your patching efforts on the threats that actually matter.",
     "analysis": {
-      "issue": "The speech is the latest in a string of warnings from intelligence experts that Russia is stepping up hostile activity in a “gray zone” that falls just below the threshold of war",
+      "issue": "Welcome to this week's edition of the Threat Source newsletter",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate",
-    "link": "https://www.securityweek.com/vulnerability-in-popular-conference-software-granted-attackers-a-100-talk-acceptance-rate/",
-    "published": "Wed, 27 May 2026 14:30:00 +0000",
-    "summary": "<p>Novee researchers discovered an account takeover vulnerability in the open source CFP management tool Pretalx.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerability-in-popular-conference-software-granted-attackers-a-100-talk-acceptance-rate/\">Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Novee researchers discovered an account takeover vulnerability in the open source CFP management tool Pretalx",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-41241"
-      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -790,8 +813,8 @@
       "cves": [
         "CVE-2026-22554",
         "CVE-2026-28764",
-        "CVE-2026-25104",
-        "CVE-2026-25713"
+        "CVE-2026-25713",
+        "CVE-2026-25104"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -908,11 +931,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20182",
         "CVE-2026-20128",
+        "CVE-2026-20182",
+        "CVE-2026-20122",
         "CVE-2026-20133",
-        "CVE-2026-20127",
-        "CVE-2026-20122"
+        "CVE-2026-20127"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -935,30 +958,6 @@
       "threat_categories": [
         "Vulnerability",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "Microsoft Patch Tuesday for May 2026 — Snort rules and prominent vulnerabilities",
-    "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-may-2026/",
-    "published": "Tue, 12 May 2026 19:57:04 GMT",
-    "summary": "Microsoft has released its monthly security update for May 2026, which includes 137 vulnerabilities affecting a range of products, including 16 that Microsoft marked as “critical”.",
-    "analysis": {
-      "issue": "By Jaeson Schultz  Microsoft has released its monthly security update for May 2026, which includes 137 vulnerabilities affecting a range of products, including 31 that Microsoft marked as “critical”",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-35421",
-        "CVE-2026-33844",
-        "CVE-2026-32161",
-        "CVE-2026-33109",
-        "CVE-2026-40358"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
