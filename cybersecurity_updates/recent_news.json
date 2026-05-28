@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
+    "link": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html",
+    "published": "Thu, 28 May 2026 13:24:48 +0530",
+    "summary": "A new campaign orchestrated by a previously undocumented threat actor has targeted cryptocurrency organizations with an aim to facilitate digital asset theft using recruitment-themed social engineering and bespoke macOS malware.\n\n\"These campaigns leveraged sophisticated social engineering techniques, custom macOS malware, and deep targeting of CI/CD infrastructure,\" Wiz researchers Shira Ayal,",
+    "analysis": {
+      "issue": "JINX-0164 targeted cryptocurrency organizations using recruitment-themed social engineering and custom macOS malware to steal digital assets",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
     "link": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html",
     "published": "Wed, 27 May 2026 21:40:21 +0530",
@@ -95,7 +113,7 @@
     "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
     "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
     "published": "Wed, 27 May 2026 15:36:32 +0530",
-    "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials.\n\nThe vulnerability, tracked as CVE-2026-27771 (CVSS score: N/A), affects all versions of Gitea prior to 1.26.2",
+    "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials.\n\nThe vulnerability, tracked as CVE-2026-27771 (CVSS score: 8.2), affects all versions of Gitea prior to 1.26.2",
     "analysis": {
       "issue": "Gitea flaw CVE-2026-27771 exposed private container images across 30,000 deployments, risking unauthorized access worldwide",
       "solution": null,
@@ -165,22 +183,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
-    "link": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
-    "published": "Tue, 26 May 2026 17:19:53 +0530",
-    "summary": "Microsoft has rolled out updates to fix a remote code execution vulnerability impacting SharePoint that could be exploited by bad actors in attacks without requiring any specialized conditions to be met.\n\nThe vulnerability, tracked as CVE-2026-45659, carries a CVSS score of 8.8. It has been assigned an important severity.\n\n\"Deserialization of untrusted data in Microsoft Office SharePoint allows",
+    "source": "Bleeping Computer",
+    "title": "Carnival Cruise confirms data breach affecting nearly 6 million people",
+    "link": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
+    "published": "Thu, 28 May 2026 06:49:27 -0400",
+    "summary": "Carnival Corporation, the world's largest cruise line operator, has confirmed a data breach affecting nearly 6 million people claimed by the ShinyHunters extortion gang in April 2026. [...]",
     "analysis": {
-      "issue": "Microsoft released fixes for SharePoint remote code execution vulnerability CVE-2026-45659 with a CVSS score of 8",
+      "issue": "Carnival Corporation, the world's largest cruise line operator, has confirmed a data breach affecting nearly 6 million people claimed by the ShinyHunters extortion gang in April 2026",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-45659"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Sextortionist sentenced to 33 years for targeting 145 children",
+    "link": "https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/",
+    "published": "Thu, 28 May 2026 05:25:59 -0400",
+    "summary": "A Canadian man was sentenced to 33 years in prison after pleading guilty to targeting more than 145 children across the United States, some as young as 6 years old, in an eight-year-long sextortion scheme. [...]",
+    "analysis": {
+      "issue": "A Canadian man was sentenced to 33 years in prison after pleading guilty to targeting more than 145 children across the United States, some as young as 6 years old, in an eight-year-long sextortion scheme",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -332,43 +366,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Charter confirms data breach after ShinyHunters extortion threat",
-    "link": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
-    "published": "Tue, 26 May 2026 15:46:01 -0400",
-    "summary": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
-    "analysis": {
-      "issue": "telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
-    "link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
-    "published": "Tue, 26 May 2026 10:01:11 -0400",
-    "summary": "AI governance requires visibility into how AI tools interact with enterprise data. Varonis explains how its Atlas platform uses Claude Compliance API data to help monitor usage, investigate risk, and support compliance. [...]",
-    "analysis": {
-      "issue": "Varonis announced an integration with the Claude Compliance API, bringing Claude Enterprise and Claude Platform activity into Varonis' Atlas AI Security Platform",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -536,8 +533,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
         "CVE-2026-34621",
+        "CVE-2026-33825",
         "CVE-2026-32201"
       ],
       "threat_categories": [
@@ -562,6 +559,65 @@
       "threat_categories": [
         "Malware",
         "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Gitea Vulnerability Exposed 30,000 Deployments to Attacks",
+    "link": "https://www.securityweek.com/gitea-vulnerability-exposed-30000-deployments-to-attacks/",
+    "published": "Thu, 28 May 2026 11:24:51 +0000",
+    "summary": "<p>The security flaw allowed attackers to pull private container images, exposing source code, credentials, and infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/gitea-vulnerability-exposed-30000-deployments-to-attacks/\">Gitea Vulnerability Exposed 30,000 Deployments to Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The security flaw allowed attackers to pull private container images, exposing source code, credentials, and infrastructure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-27771"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Raising the Cybersecurity Stakes: Ante up for the Agentic Era",
+    "link": "https://www.securityweek.com/raising-the-cybersecurity-stakes-ante-up-for-the-agentic-era/",
+    "published": "Thu, 28 May 2026 11:15:00 +0000",
+    "summary": "<p>CISOs are now facing machine-speed attacks and asking, “How do I agent?” The industry must provide remediation at scale.</p>\n<p>The post <a href=\"https://www.securityweek.com/raising-the-cybersecurity-stakes-ante-up-for-the-agentic-era/\">Raising the Cybersecurity Stakes: Ante up for the Agentic Era</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CISOs are now facing machine-speed attacks and asking, “How do I agent",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks",
+    "link": "https://www.securityweek.com/google-unveils-ai-threat-defense-platform-to-fight-ai-powered-cyberattacks/",
+    "published": "Thu, 28 May 2026 09:55:00 +0000",
+    "summary": "<p>New AI Threat Defense platform combines capabilities from Mandiant, Wiz and Gemini to help customers fight AI with AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-unveils-ai-threat-defense-platform-to-fight-ai-powered-cyberattacks/\">Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "New AI Threat Defense platform combines capabilities from Mandiant, Wiz and Gemini to help customers fight AI with AI",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
         "Supply Chain"
       ]
     }
@@ -701,58 +757,20 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems",
-    "link": "https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/",
-    "published": "Wed, 27 May 2026 10:15:00 +0000",
-    "summary": "<p>Malicious repositories and disguised symlinks can trick AI coding agents into silently installing attacker-controlled MCP servers capable of stealing secrets, compromising CI pipelines, and deploying malicious code.</p>\n<p>The post <a href=\"https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/\">‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "DICOM, Pydicom, GDCM, and Orthanc: A technical tour of what really happens in the heap",
+    "link": "https://blog.talosintelligence.com/dicom-pydicom-gdcm-and-orthanc-a-technical-tour-of-what-really-happens-in-the-heap/",
+    "published": "Thu, 28 May 2026 10:00:52 GMT",
+    "summary": "This white paper presents a concrete case study demonstrating the creation of a heap overflow vulnerability through the exploitation of the DICOM file format.",
     "analysis": {
-      "issue": "Malicious repositories and disguised symlinks can trick AI coding agents into silently installing attacker-controlled MCP servers capable of stealing secrets, compromising CI pipelines, and deploying malicious code",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "GlassWorm Botnet Disrupted",
-    "link": "https://www.securityweek.com/glassworm-botnet-disrupted/",
-    "published": "Wed, 27 May 2026 10:10:00 +0000",
-    "summary": "<p>Security firms took down all four command-and-control (C&#038;C) channels used by the GlassWorm malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/glassworm-botnet-disrupted/\">GlassWorm Botnet Disrupted</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Security firms took down all four command-and-control (C&C) channels used by the GlassWorm malware",
+      "issue": "Over the last decade, DICOM parsing has become an active research topic",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers",
-    "link": "https://www.securityweek.com/la-metro-cyberattack-linked-to-iranian-state-sponsored-hackers/",
-    "published": "Wed, 27 May 2026 09:33:45 +0000",
-    "summary": "<p>The attack was claimed by a hacktivist group, but evidence showed it used infrastructure linked to Iranian government threat actors.</p>\n<p>The post <a href=\"https://www.securityweek.com/la-metro-cyberattack-linked-to-iranian-state-sponsored-hackers/\">LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The attack was claimed by a hacktivist group, but evidence showed it used infrastructure linked to Iranian government threat actors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
+        "Vulnerability"
       ]
     }
   },
@@ -769,10 +787,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-28764",
         "CVE-2026-25104",
-        "CVE-2026-22554",
-        "CVE-2026-25713"
+        "CVE-2026-28764",
+        "CVE-2026-25713",
+        "CVE-2026-22554"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -829,9 +847,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-30816",
         "CVE-2026-30814",
-        "CVE-2026-30815",
-        "CVE-2026-30816"
+        "CVE-2026-30815"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -889,11 +907,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20182",
-        "CVE-2026-20128",
         "CVE-2026-20122",
+        "CVE-2026-20182",
+        "CVE-2026-20133",
         "CVE-2026-20127",
-        "CVE-2026-20133"
+        "CVE-2026-20128"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -934,32 +952,12 @@
       "cves": [
         "CVE-2026-33109",
         "CVE-2026-35421",
+        "CVE-2026-40358",
         "CVE-2026-32161",
-        "CVE-2026-33844",
-        "CVE-2026-40358"
+        "CVE-2026-33844"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "State-sponsored actors, better known as the friends you don’t want",
-    "link": "https://blog.talosintelligence.com/state-sponsored-actors-better-known-as-the-friends-you-dont-want/",
-    "published": "Tue, 12 May 2026 10:00:54 GMT",
-    "summary": "Responding to a state-sponsored threat is nothing like responding to ransomware, and the differences can make or break the outcome. Learn why your IR plan might need revisiting, and the factors you should consider.",
-    "analysis": {
-      "issue": "Most organizations operate under the assumption that anything residing within their trust boundary is trustworthy",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -1342,6 +1340,42 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Your Windows PC has a security deadline in June 2026",
+    "link": "https://www.malwarebytes.com/blog/how-to/2026/05/your-windows-pc-has-a-security-deadline-in-june-2026",
+    "published": "Thu, 28 May 2026 11:03:43 GMT",
+    "summary": "Windows is replacing old Secure Boot certificates, and some older PCs could miss future security protections if the update fails.",
+    "analysis": {
+      "issue": "A Secure Boot certificate refresh is rolling out across supported Windows devices through Windows Update",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Fake ChatGPT download site infects Windows and Mac users with malware",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/05/fake-chatgpt-download-site-infects-windows-and-mac-users-with-malware",
+    "published": "Thu, 28 May 2026 10:18:26 GMT",
+    "summary": "Searching for ChatGPT? This fake download site serves malware to both Windows and Mac users, using separate payloads tailored to each platform.",
+    "analysis": {
+      "issue": "A convincing fake website is impersonating OpenAI’s ChatGPT download page and infecting visitors with malware designed to steal passwords, browser data, cryptocurrency wallets, and other sensitive information",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Kali365 phishing kit bypasses MFA and steals Microsoft logins",
     "link": "https://www.malwarebytes.com/blog/scams/2026/05/kali365-phishing-kit-bypasses-mfa-and-steals-microsoft-logins",
     "published": "Wed, 27 May 2026 11:41:54 GMT",
@@ -1480,42 +1514,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Microsoft Defender vulnerabilities are being exploited in the wild",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/05/microsoft-defender-vulnerabilities-are-being-exploited-in-the-wild",
-    "published": "Thu, 21 May 2026 17:36:52 GMT",
-    "summary": "CISA added seven known exploited vulnerabilities to its KEV catalog, including two Microsoft Defender flaws.",
-    "analysis": {
-      "issue": "Two Microsoft Defender vulnerabilities are being actively exploited in the wild",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "TikTok, YouTube, and Roblox face scrutiny, but age gates won’t fix child safety",
-    "link": "https://www.malwarebytes.com/blog/family-and-parenting/2026/05/tiktok-youtube-and-roblox-face-scrutiny-but-age-gates-wont-fix-child-safety",
-    "published": "Thu, 21 May 2026 11:08:37 GMT",
-    "summary": "Ofcom says TikTok and YouTube are \"not safe enough\" for children, but simply adding stricter age checks is not the answer.",
-    "analysis": {
-      "issue": "A damaging new report from Ofcom, the UK’s communications regulator, has delivered a stark verdict: TikTok and YouTube’s content feeds are “not safe enough” for children",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
