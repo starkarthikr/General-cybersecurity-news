@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
+    "link": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
+    "published": "Thu, 28 May 2026 19:23:52 +0530",
+    "summary": "Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before they are publicly disclosed.\n\nThe development comes after a researcher named Chaotic Eclipse (aka Nightmare-Eclipse) disclosed details of multiple zero-day",
+    "analysis": {
+      "issue": "Microsoft urged coordinated disclosure after three Windows zero-days were actively exploited, increasing customer security risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
+    "link": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
+    "published": "Thu, 28 May 2026 19:03:16 +0530",
+    "summary": "Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed infrastructure to make you wonder if prod is just a public beta now - meanwhile some researcher casually drops a technique that turns a \"minor\" foothold into total account",
+    "analysis": {
+      "issue": "ThreatsDay Bulletin: Kali365 MFA bypass, Azure priv-esc, FIFA scams, OAuth theft, fake installers, and supply chain attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
+    "link": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
+    "published": "Thu, 28 May 2026 17:00:00 +0530",
+    "summary": "State of AI Usage Report 2026 (full report here) by LayerX Security reveals the extent of the enterprise AI visibility gap and why most organizations still don't understand where their AI exposure is actually coming from. The research shows that enterprise AI risk is not distributed evenly across users or platforms. Instead, it is heavily concentrated among a small group of AI power users and a",
+    "analysis": {
+      "issue": "More than 6% of enterprise AI conversations contain sensitive data, with DeepSeek reaching 12",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
     "link": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html",
     "published": "Thu, 28 May 2026 13:24:48 +0530",
@@ -129,31 +183,31 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
-    "link": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
-    "published": "Wed, 27 May 2026 13:15:52 +0530",
-    "summary": "Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites.\n\n\"This emerging delivery technique extends social engineering beyond conventional search results and increases the visibility of malicious software recommendations,\" Microsoft Defender Experts and the Microsoft",
+    "source": "Bleeping Computer",
+    "title": "New Gogs zero-day flaw lets hackers get remote code execution",
+    "link": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
+    "published": "Thu, 28 May 2026 10:25:43 -0400",
+    "summary": "An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances. [...]",
     "analysis": {
-      "issue": "Microsoft uncovered 150+ AI-assisted cryptojacking domains using fake software downloads to deploy persistent malware",
+      "issue": "An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
-    "link": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
-    "published": "Tue, 26 May 2026 21:18:41 +0530",
-    "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026.\n\nThe activity targeted industrial and electronics manufacturing, education and public-sector bodies, financial services, and professional services, per the Threat Hunter Team from Symantec and Carbon Black.",
+    "source": "Bleeping Computer",
+    "title": "How SIEM helps MSPs reduce noise and stop threats faster",
+    "link": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
+    "published": "Thu, 28 May 2026 10:01:11 -0400",
+    "summary": "MSPs don't lack security data. They struggle to separate real threats from alert noise. Kaseya explains how SIEM helps MSPs improve visibility, reduce fatigue, and respond faster. [...]",
     "analysis": {
-      "issue": "MuddyWater targeted 9 organizations in 9 countries during Q1 2026, using DLL side-loading to steal data and evade detection",
+      "issue": "MSPs are flooded with security alerts every day, yet many still struggle to separate operational noise from the threats that actually put customers at risk",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -165,20 +219,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
-    "link": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
-    "published": "Tue, 26 May 2026 17:28:00 +0530",
-    "summary": "Every single day, hackers are finding new ways to crash websites and steal data.\n\nBut right now, something has changed. Hackers are no longer working alone. They are now using powerful Artificial Intelligence (AI) tools to make their attacks faster, stronger, and much harder to stop.\n\nAccording to recent updates from The Hacker News, bad actors are using AI to find weak spots in systems and",
+    "source": "Bleeping Computer",
+    "title": "Romanian gets 5 years in prison for hacking Oregon govt network",
+    "link": "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/",
+    "published": "Thu, 28 May 2026 08:43:29 -0400",
+    "summary": "A Romanian national was sentenced this week to 56 months in federal prison for breaking into an Oregon state government computer network and fr cyberattacks targeting dozens of other U.S. victims. [...]",
     "analysis": {
-      "issue": "Learn how to fight back against AI-powered cyber attacks",
+      "issue": "A Romanian national was sentenced this week to 56 months in federal prison for breaking into an Oregon state government computer network and fr cyberattacks targeting dozens of other U",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "DDoS"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Webinar: Why network incidents take too long to resolve",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/",
+    "published": "Thu, 28 May 2026 08:20:28 -0400",
+    "summary": "Many organizations can detect network issues quickly, but investigations and coordination often slow incident resolution. This webinar explores how automation and AI-assisted workflows can help IT teams reduce delays and improve response times. [...]",
+    "analysis": {
+      "issue": "Most organizations have no shortage of monitoring tools, alerts, and operational data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -289,83 +361,6 @@
       "threat_categories": [
         "Ransomware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
-    "published": "Wed, 27 May 2026 06:06:17 -0400",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. federal agencies four days to secure their servers against a critical vulnerability in the LiteSpeed cPanel user-end plugin, which is actively being exploited in attacks. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) has given U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-48172"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Dutch police arrests suspect linked to Ajax football club hack",
-    "link": "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/",
-    "published": "Wed, 27 May 2026 05:09:03 -0400",
-    "summary": "The Dutch National Police arrested a 35-year-old man suspected of hacking the professional football club Ajax Amsterdam (AFC Ajax) earlier this year. [...]",
-    "analysis": {
-      "issue": "The Dutch National Police arrested a 35-year-old man suspected of hacking the professional football club Ajax Amsterdam (AFC Ajax) earlier this year",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 KB5089573 update released with performance improvements",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/",
-    "published": "Wed, 27 May 2026 04:33:46 -0400",
-    "summary": "Microsoft has released the KB5089573 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 30 changes, including performance and reliability improvements. [...]",
-    "analysis": {
-      "issue": "Microsoft has released the KB5089573 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 30 changes, including performance and reliability improvements",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
-    "link": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
-    "published": "Tue, 26 May 2026 16:07:31 -0400",
-    "summary": "Hackers exploited a critical zero-day vulnerability in a server running the KnowledgeDeliver learning management system (LMS) to deploy the Godzilla web shell. [...]",
-    "analysis": {
-      "issue": "Hackers exploited a critical zero-day vulnerability in a server running the KnowledgeDeliver learning management system (LMS) to deploy the Godzilla web shell",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-5426"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -533,9 +528,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
         "CVE-2026-33825",
-        "CVE-2026-32201"
+        "CVE-2026-32201",
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -557,6 +552,108 @@
       "severity": "Low",
       "cves": [],
       "threat_categories": [
+        "Malware",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Carnival Data Breach Exposed 6 Million People",
+    "link": "https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/",
+    "published": "Thu, 28 May 2026 14:45:28 +0000",
+    "summary": "<p>Data breach leaves nearly 6 million Carnival customers navigating identity theft risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/\">Carnival Data Breach Exposed 6 Million People</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Data breach leaves nearly 6 million Carnival customers navigating identity theft risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "New BTMOB Android Malware Enables Full Device Takeover",
+    "link": "https://www.securityweek.com/new-btmob-android-malware-enables-full-device-takeover/",
+    "published": "Thu, 28 May 2026 13:05:04 +0000",
+    "summary": "<p>Delivered via phishing lures, the malware combines financial theft with data exfiltration and remote access.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-btmob-android-malware-enables-full-device-takeover/\">New BTMOB Android Malware Enables Full Device Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Delivered via phishing lures, the malware combines financial theft with data exfiltration and remote access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical FortiClient EMS Vulnerability Exploited in Fresh Attacks",
+    "link": "https://www.securityweek.com/critical-forticlient-ems-vulnerability-exploited-in-fresh-attacks/",
+    "published": "Thu, 28 May 2026 12:55:47 +0000",
+    "summary": "<p>Fortinet rolled out hotfixes for the security defect in April, warning that it had been exploited in the wild as a zero-day and urging immediate patching.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-forticlient-ems-vulnerability-exploited-in-fresh-attacks/\">Critical FortiClient EMS Vulnerability Exploited in Fresh Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Fortinet rolled out hotfixes for the security defect in April, warning that it had been exploited in the wild as a zero-day and urging immediate patching",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-35616"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under “Project Lightwell”",
+    "link": "https://www.securityweek.com/ibm-and-red-hat-commit-5-billion-to-secure-open-source-supply-chains-under-project-lightwell/",
+    "published": "Thu, 28 May 2026 12:41:45 +0000",
+    "summary": "<p>Project Lightwell is designed to fix vulnerabilities without breaking what is already in production.</p>\n<p>The post <a href=\"https://www.securityweek.com/ibm-and-red-hat-commit-5-billion-to-secure-open-source-supply-chains-under-project-lightwell/\">IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under &#8220;Project Lightwell&#8221;</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Project Lightwell is designed to fix vulnerabilities without breaking what is already in production",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails",
+    "link": "https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/",
+    "published": "Thu, 28 May 2026 12:00:00 +0000",
+    "summary": "<p>France-based startup Edamame says its runtime verification platform uses host telemetry and AI analysis to detect coding-agent “intent drift,” secret theft and supply-chain attacks in real time.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/\">New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "France-based startup Edamame says its runtime verification platform uses host telemetry and AI analysis to detect coding-agent “intent drift,” secret theft and supply-chain attacks in real time",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
         "Malware",
         "APT",
         "Supply Chain"
@@ -661,102 +758,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "SecurityWeek to Host AI Risk Summit August 11-12 at the Ritz-Carlton, Half Moon Bay",
-    "link": "https://www.securityweek.com/securityweek-to-host-ai-risk-summit-august-11-12-at-the-ritz-carlton-half-moon-bay/",
-    "published": "Wed, 27 May 2026 13:00:00 +0000",
-    "summary": "<p>Now in its third year, the AI Risk Summit is the leading conference that brings together CISOs, security leaders, AI researchers, developers, policymakers, and enterprise risk professionals.</p>\n<p>The post <a href=\"https://www.securityweek.com/securityweek-to-host-ai-risk-summit-august-11-12-at-the-ritz-carlton-half-moon-bay/\">SecurityWeek to Host AI Risk Summit August 11-12 at the Ritz-Carlton, Half Moon Bay</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Now in its third year, the AI Risk Summit is the leading conference that brings together CISOs, security leaders, AI researchers, developers, policymakers, and enterprise risk professionals",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries",
-    "link": "https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/",
-    "published": "Wed, 27 May 2026 11:52:55 +0000",
-    "summary": "<p>Using an AI model called BinNet, RevEng hunts vulnerabilities and backdoors in released software binaries.</p>\n<p>The post <a href=\"https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/\">RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Using an AI model called BinNet, RevEng hunts vulnerabilities and backdoors in released software binaries",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Romanian Hacker Sentenced to Prison in US for Selling Access to State Network",
-    "link": "https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/",
-    "published": "Wed, 27 May 2026 11:37:19 +0000",
-    "summary": "<p>Catalin Dragomir previously pleaded guilty to selling access to an Oregon state government office’s network.</p>\n<p>The post <a href=\"https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/\">Romanian Hacker Sentenced to Prison in US for Selling Access to State Network</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Catalin Dragomir previously pleaded guilty to selling access to an Oregon state government office’s network",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform",
-    "link": "https://www.securityweek.com/lastwall-raises-11-5-million-for-quantum-resilient-identity-platform/",
-    "published": "Wed, 27 May 2026 11:01:13 +0000",
-    "summary": "<p>The new funding, led by BDC Capital’s StrongNorth Fund, will accelerate Lastwall’s North American expansion.</p>\n<p>The post <a href=\"https://www.securityweek.com/lastwall-raises-11-5-million-for-quantum-resilient-identity-platform/\">Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The new funding, led by BDC Capital’s StrongNorth Fund, will accelerate Lastwall’s North American expansion",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Medium",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "The Credential Crisis: How Stolen Credentials Defeat Modern Security",
-    "link": "https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/",
-    "published": "Wed, 27 May 2026 10:30:00 +0000",
-    "summary": "<p>As AI accelerates phishing, session hijacking, and credential abuse, security teams are racing to close the gap between attacker speed and defensive response.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/\">The Credential Crisis: How Stolen Credentials Defeat Modern Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "As AI accelerates phishing, session hijacking, and credential abuse, security teams are racing to close the gap between attacker speed and defensive response",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "DICOM, Pydicom, GDCM, and Orthanc: A technical tour of what really happens in the heap",
     "link": "https://blog.talosintelligence.com/dicom-pydicom-gdcm-and-orthanc-a-technical-tour-of-what-really-happens-in-the-heap/",
@@ -787,10 +788,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25104",
+        "CVE-2026-22554",
         "CVE-2026-28764",
-        "CVE-2026-25713",
-        "CVE-2026-22554"
+        "CVE-2026-25104",
+        "CVE-2026-25713"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -847,9 +848,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30816",
+        "CVE-2026-30815",
         "CVE-2026-30814",
-        "CVE-2026-30815"
+        "CVE-2026-30816"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -907,11 +908,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20122",
         "CVE-2026-20182",
+        "CVE-2026-20128",
         "CVE-2026-20133",
         "CVE-2026-20127",
-        "CVE-2026-20128"
+        "CVE-2026-20122"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -950,11 +951,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33109",
         "CVE-2026-35421",
-        "CVE-2026-40358",
+        "CVE-2026-33844",
         "CVE-2026-32161",
-        "CVE-2026-33844"
+        "CVE-2026-33109",
+        "CVE-2026-40358"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1340,6 +1341,27 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Carnival confirms data breach impacting nearly 6 million",
+    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/05/carnival-confirms-data-breach-impacting-nearly-6-million",
+    "published": "Thu, 28 May 2026 12:04:52 GMT",
+    "summary": "Cruise giant Carnival has suffered yet another data breach, with ShinyHunters claiming to have stolen personal data affecting nearly 6 million people.",
+    "analysis": {
+      "issue": "Carnival Corporation, parent of Carnival Cruise Line, is sending out fresh “Notice of Cybersecurity Event” letters dated May 27, 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Your Windows PC has a security deadline in June 2026",
     "link": "https://www.malwarebytes.com/blog/how-to/2026/05/your-windows-pc-has-a-security-deadline-in-june-2026",
     "published": "Thu, 28 May 2026 11:03:43 GMT",
@@ -1499,24 +1521,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Update Chrome now:  Critical bugs could let attackers run code",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/05/update-chrome-now-critical-bugs-could-let-attackers-run-code",
-    "published": "Fri, 22 May 2026 12:10:36 GMT",
-    "summary": "This Chrome update fixes critical flaws attackers could exploit through malicious websites, but not the “Browser Fetch” vulnerability.",
-    "analysis": {
-      "issue": "Google has issued updates for the Chrome browser patching a number of high‑severity vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
