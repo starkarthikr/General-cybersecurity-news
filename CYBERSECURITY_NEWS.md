@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-27 18:38:43 UTC
+**Last Updated:** 2026-05-28 04:09:16 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,16 @@
 
 ---
 
-### 11. [Can you enforce strong Active Directory password rules without frustrating users?](https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/)
+### 11. [GPU mining malware spreads via SEO poisoning, AI chatbots](https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 27 May 2026 17:31:25 -0400  
+**Severity:** High  
+**Categories:** Malware, Phishing  
+
+---
+
+### 12. [Can you enforce strong Active Directory password rules without frustrating users?](https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 27 May 2026 10:00:10 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [Glassworm botnet disrupted after resilient C2 infrastructure takedown](https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/)
+### 13. [Glassworm botnet disrupted after resilient C2 infrastructure takedown](https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 27 May 2026 09:28:42 -0400  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [FBI warns of in-person data theft attacks from extortion gang](https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/)
+### 14. [FBI warns of in-person data theft attacks from extortion gang](https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 27 May 2026 07:51:12 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [CISA gives feds 4 days to patch actively exploited cPanel plugin flaw](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/)
+### 15. [CISA gives feds 4 days to patch actively exploited cPanel plugin flaw](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 27 May 2026 06:06:17 -0400  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [Dutch police arrests suspect linked to Ajax football club hack](https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/)
+### 16. [Dutch police arrests suspect linked to Ajax football club hack](https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 27 May 2026 05:09:03 -0400  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Windows 11 KB5089573 update released with performance improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/)
+### 17. [Windows 11 KB5089573 update released with performance improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 27 May 2026 04:33:46 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [KnowledgeDeliver flaw exploited as a zero-day to install web shells](https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/)
+### 18. [KnowledgeDeliver flaw exploited as a zero-day to install web shells](https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 26 May 2026 16:07:31 -0400  
@@ -161,7 +170,7 @@
 
 ---
 
-### 18. [Charter confirms data breach after ShinyHunters extortion threat](https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/)
+### 19. [Charter confirms data breach after ShinyHunters extortion threat](https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 26 May 2026 15:46:01 -0400  
@@ -170,7 +179,7 @@
 
 ---
 
-### 19. [How Varonis Atlas integrates Claude Compliance API for AI governance](https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/)
+### 20. [How Varonis Atlas integrates Claude Compliance API for AI governance](https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 26 May 2026 10:01:11 -0400  
@@ -179,21 +188,10 @@
 
 ---
 
-### 20. [Microsoft Defender can now automatically isolate hacked endpoints](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 26 May 2026 08:19:43 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
 ### 21. [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 25 May 2026 13:21:49 +0000  
-**Severity:** Low  
-**Categories:** Data Breach, APT, DDoS  
 
 ---
 
@@ -265,7 +263,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -375,7 +373,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-25104, CVE-2026-28764, CVE-2026-25713  
+**CVEs:** CVE-2026-22554, CVE-2026-28764, CVE-2026-25104, CVE-2026-25713  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -403,7 +401,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30816, CVE-2026-30815, CVE-2026-30814  
+**CVEs:** CVE-2026-30815, CVE-2026-30814, CVE-2026-30816  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -431,7 +429,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20127, CVE-2026-20133, CVE-2026-20182, CVE-2026-20128, CVE-2026-20122  
+**CVEs:** CVE-2026-20182, CVE-2026-20133, CVE-2026-20122, CVE-2026-20127, CVE-2026-20128  
 **Categories:** Vulnerability  
 
 ---
@@ -450,7 +448,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 12 May 2026 19:57:04 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33109, CVE-2026-32161, CVE-2026-40358, CVE-2026-33844, CVE-2026-35421  
+**CVEs:** CVE-2026-32161, CVE-2026-33844, CVE-2026-40358, CVE-2026-33109, CVE-2026-35421  
 **Categories:** Vulnerability  
 
 ---
@@ -634,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
