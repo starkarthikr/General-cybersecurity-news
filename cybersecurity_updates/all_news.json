@@ -377,7 +377,20 @@
     "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
     "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
     "published": "Mon, 25 May 2026 13:21:49 +0000",
-    "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequent staging ground for cyber mischief from Russia's intelligence agencies."
+    "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequent staging ground for cyber mischief from Russia's intelligence agencies.",
+    "analysis": {
+      "issue": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "APT",
+        "DDoS"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -523,9 +536,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-33825",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -756,9 +769,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-22554",
         "CVE-2026-28764",
         "CVE-2026-25104",
+        "CVE-2026-22554",
         "CVE-2026-25713"
       ],
       "threat_categories": [
@@ -816,8 +829,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30815",
         "CVE-2026-30814",
+        "CVE-2026-30815",
         "CVE-2026-30816"
       ],
       "threat_categories": [
@@ -877,10 +890,10 @@
       "severity": "High",
       "cves": [
         "CVE-2026-20182",
-        "CVE-2026-20133",
+        "CVE-2026-20128",
         "CVE-2026-20122",
         "CVE-2026-20127",
-        "CVE-2026-20128"
+        "CVE-2026-20133"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -919,11 +932,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-33109",
+        "CVE-2026-35421",
         "CVE-2026-32161",
         "CVE-2026-33844",
-        "CVE-2026-40358",
-        "CVE-2026-33109",
-        "CVE-2026-35421"
+        "CVE-2026-40358"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1298,8 +1311,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
