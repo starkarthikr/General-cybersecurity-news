@@ -1,6 +1,45 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+    "link": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+    "published": "Fri, 29 May 2026 23:37:12 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger prompt injections and open the door to phishing attacks.\n\nThe technique has been codenamed ChatGPhish by Permiso Security.\n\n\"The chatgpt.com response renderer trusts Markdown links and Markdown",
+    "analysis": {
+      "issue": "ChatGPhish exploits ChatGPT Markdown rendering to deliver phishing content from summarized web pages, increasing AI attack surfaces",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
+    "link": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
+    "published": "Fri, 29 May 2026 20:09:56 +0530",
+    "summary": "An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessible Marimo network using a recently disclosed vulnerability.\n\n\"The attacker compromised an internet-reachable Marimo notebook via CVE-2026-39987, extracted two cloud credentials from the compromised",
+    "analysis": {
+      "issue": "LLM-driven attackers exploited CVE-2026-39987 on May 10, 2026, to steal credentials and exfiltrate a PostgreSQL database",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-39987"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
     "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
     "published": "Fri, 29 May 2026 17:01:59 +0530",
@@ -148,38 +187,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
-    "link": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
-    "published": "Thu, 28 May 2026 17:00:00 +0530",
-    "summary": "State of AI Usage Report 2026 (full report here) by LayerX Security reveals the extent of the enterprise AI visibility gap and why most organizations still don't understand where their AI exposure is actually coming from. The research shows that enterprise AI risk is not distributed evenly across users or platforms. Instead, it is heavily concentrated among a small group of AI power users and a",
+    "source": "Bleeping Computer",
+    "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
+    "link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
+    "published": "Fri, 29 May 2026 14:21:36 -0400",
+    "summary": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
     "analysis": {
-      "issue": "More than 6% of enterprise AI conversations contain sensitive data, with DeepSeek reaching 12",
+      "issue": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware",
+        "Phishing"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
-    "link": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html",
-    "published": "Thu, 28 May 2026 13:24:48 +0530",
-    "summary": "A new campaign orchestrated by a previously undocumented threat actor has targeted cryptocurrency organizations with an aim to facilitate digital asset theft using recruitment-themed social engineering and bespoke macOS malware.\n\n\"These campaigns leveraged sophisticated social engineering techniques, custom macOS malware, and deep targeting of CI/CD infrastructure,\" Wiz researchers Shira Ayal,",
+    "source": "Bleeping Computer",
+    "title": "California AG sues 23andMe over 2023 breach exposing health data",
+    "link": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
+    "published": "Fri, 29 May 2026 14:08:47 -0400",
+    "summary": "California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrome Holding Co., over the company's failure to protect sensitive customer genetic and personal information. [...]",
     "analysis": {
-      "issue": "JINX-0164 targeted cryptocurrency organizations using recruitment-themed social engineering and custom macOS malware to steal digital assets",
+      "issue": "California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrome Holding Co",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Data Breach"
       ]
     }
   },
@@ -332,44 +372,6 @@
       "threat_categories": [
         "Malware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "BTMOB Android malware service generates custom phishing payloads",
-    "link": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
-    "published": "Thu, 28 May 2026 17:10:11 -0400",
-    "summary": "An Android remote access trojan named BTMOB is offered to cybercriminals with a builder interface for generating malware payloads tailored to phishing lures. [...]",
-    "analysis": {
-      "issue": "An Android remote access trojan named BTMOB is offered to cybercriminals with a builder interface for generating malware payloads tailored to phishing lures",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
-    "published": "Thu, 28 May 2026 15:08:10 -0400",
-    "summary": "The FBI is warning of fake websites impersonating FIFA ahead of the 2026 World Cup, to steal personal and financial information, sell fake tickets and hospitality packages, and push other fraud related to the event. [...]",
-    "analysis": {
-      "issue": "The FBI is warning of fake websites impersonating FIFA ahead of the 2026 World Cup, to steal personal and financial information, sell fake tickets and hospitality packages, and push other fraud related to the event",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
@@ -537,9 +539,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-33825",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -562,6 +564,29 @@
       "cves": [],
       "threat_categories": [
         "Malware",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks",
+    "link": "https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/",
+    "published": "Fri, 29 May 2026 16:20:49 +0000",
+    "summary": "<p>Noteworthy stories that might have slipped under the radar: Trump Mobile exposes customer data, phishers target the 2026 FIFA World Cup, CISA responds to recent supply chain attacks. </p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/\">In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Noteworthy stories that might have slipped under the radar: Trump Mobile exposes customer data, phishers target the 2026 FIFA World Cup, CISA responds to recent supply chain attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Malware",
+        "Phishing",
         "APT",
         "Supply Chain"
       ]
@@ -659,11 +684,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-9876",
+        "CVE-2026-9875",
         "CVE-2026-9872",
         "CVE-2026-9873",
         "CVE-2026-9874",
-        "CVE-2026-9875"
+        "CVE-2026-9876"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -751,27 +776,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Critical FortiClient EMS Vulnerability Exploited in Fresh Attacks",
-    "link": "https://www.securityweek.com/critical-forticlient-ems-vulnerability-exploited-in-fresh-attacks/",
-    "published": "Thu, 28 May 2026 12:55:47 +0000",
-    "summary": "<p>Fortinet rolled out hotfixes for the security defect in April, warning that it had been exploited in the wild as a zero-day and urging immediate patching.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-forticlient-ems-vulnerability-exploited-in-fresh-attacks/\">Critical FortiClient EMS Vulnerability Exploited in Fresh Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Fortinet rolled out hotfixes for the security defect in April, warning that it had been exploited in the wild as a zero-day and urging immediate patching",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-35616"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Less panic patching, more precision",
     "link": "https://blog.talosintelligence.com/less-panic-patching-more-precision/",
@@ -820,10 +824,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-22554",
-        "CVE-2026-25104",
+        "CVE-2026-25713",
         "CVE-2026-28764",
-        "CVE-2026-25713"
+        "CVE-2026-22554",
+        "CVE-2026-25104"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -880,9 +884,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30815",
         "CVE-2026-30814",
-        "CVE-2026-30816"
+        "CVE-2026-30816",
+        "CVE-2026-30815"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -940,11 +944,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20133",
-        "CVE-2026-20122",
-        "CVE-2026-20128",
         "CVE-2026-20182",
-        "CVE-2026-20127"
+        "CVE-2026-20128",
+        "CVE-2026-20127",
+        "CVE-2026-20133",
+        "CVE-2026-20122"
       ],
       "threat_categories": [
         "Vulnerability"
