@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-28 19:11:56 UTC
+**Last Updated:** 2026-05-29 04:11:24 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,34 @@
 
 ---
 
-### 11. [FBI warns of fake FIFA websites running World Cup fraud schemes](https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/)
+### 11. [Anthropic confirms Claude Mythos-class models will roll out to the public](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 28 May 2026 20:21:03 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 12. [GreyVibe hackers use ChatGPT, Gemini to power cyberattacks](https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 28 May 2026 18:24:49 -0400  
+**Severity:** Low  
+**Categories:** Malware, APT  
+
+---
+
+### 13. [BTMOB Android malware service generates custom phishing payloads](https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 28 May 2026 17:10:11 -0400  
+**Severity:** Low  
+**Categories:** Malware, Phishing, APT  
+
+---
+
+### 14. [FBI warns of fake FIFA websites running World Cup fraud schemes](https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 28 May 2026 15:08:10 -0400  
@@ -104,7 +131,7 @@
 
 ---
 
-### 12. [Hackers exploit FortiClient EMS flaw to push infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/)
+### 15. [Hackers exploit FortiClient EMS flaw to push infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 28 May 2026 13:25:43 -0400  
@@ -114,7 +141,7 @@
 
 ---
 
-### 13. [New Gogs zero-day flaw lets hackers get remote code execution](https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/)
+### 16. [New Gogs zero-day flaw lets hackers get remote code execution](https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 28 May 2026 10:25:43 -0400  
@@ -123,7 +150,7 @@
 
 ---
 
-### 14. [How SIEM helps MSPs reduce noise and stop threats faster](https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/)
+### 17. [How SIEM helps MSPs reduce noise and stop threats faster](https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 28 May 2026 10:01:11 -0400  
@@ -132,7 +159,7 @@
 
 ---
 
-### 15. [Romanian gets 5 years in prison for hacking Oregon govt network](https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/)
+### 18. [Romanian gets 5 years in prison for hacking Oregon govt network](https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 28 May 2026 08:43:29 -0400  
@@ -141,7 +168,7 @@
 
 ---
 
-### 16. [Webinar: Why network incidents take too long to resolve](https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/)
+### 19. [Webinar: Why network incidents take too long to resolve](https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 28 May 2026 08:20:28 -0400  
@@ -150,39 +177,12 @@
 
 ---
 
-### 17. [Carnival Cruise confirms data breach affecting nearly 6 million people](https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/)
+### 20. [Carnival Cruise confirms data breach affecting nearly 6 million people](https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 28 May 2026 06:49:27 -0400  
 **Severity:** Low  
 **Categories:** Data Breach  
-
----
-
-### 18. [Sextortionist sentenced to 33 years for targeting 145 children](https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 28 May 2026 05:25:59 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [GPU mining malware spreads via SEO poisoning, AI chatbots](https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 27 May 2026 17:31:25 -0400  
-**Severity:** High  
-**Categories:** Malware, Phishing  
-
----
-
-### 20. [Can you enforce strong Active Directory password rules without frustrating users?](https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 27 May 2026 10:00:10 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -263,7 +263,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
+**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -420,7 +420,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30815, CVE-2026-30814, CVE-2026-30816  
+**CVEs:** CVE-2026-30816, CVE-2026-30815, CVE-2026-30814  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -448,7 +448,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20128, CVE-2026-20182, CVE-2026-20122, CVE-2026-20133, CVE-2026-20127  
+**CVEs:** CVE-2026-20122, CVE-2026-20182, CVE-2026-20127, CVE-2026-20133, CVE-2026-20128  
 **Categories:** Vulnerability  
 
 ---
