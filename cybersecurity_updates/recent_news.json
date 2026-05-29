@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
+    "link": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
+    "published": "Fri, 29 May 2026 16:00:00 +0530",
+    "summary": "Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production systems, and publishing them on the open internet. Without Security or IT in the loop.\n\nThe artifact moved from a prompt to a product. The risk surface moved with it.\n\nIn The Shadow Builders report (get it here), a",
+    "analysis": {
+      "issue": "2,000+ AI-built corporate apps lacked access controls across 380,000 public assets, exposing sensitive data and increasing enterprise risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
+    "link": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html",
+    "published": "Fri, 29 May 2026 14:41:25 +0530",
+    "summary": "Cybersecurity researchers have discovered a malicious NuGet package that masquerades as a C# software development kit for Sicoob, one of Brazil's largest cooperative financial systems, to siphon client IDs and PFX certificates.\n\nAccording to Socket, versions 2.0.0 through 2.0.4 of \"Sicoob.Sdk\" contain functionality to exfiltrate sensitive information, including PFX certificates that are used to",
+    "analysis": {
+      "issue": "Sdk stole PFX certificates and client IDs via NuGet downloads, enabling API impersonation and payment abuse risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
+    "link": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html",
+    "published": "Fri, 29 May 2026 11:27:41 +0530",
+    "summary": "The North Korean state-sponsored threat actor known as Kimsuky (aka Velvet Chollima) has been attributed to a fresh set of cyber attacks targeting South Korean military and corporate entities through March and April 2026.\n\n\"Kimsuky employed a range of tailored social engineering tactics, such as spoofing security software installation pages and crafting a fake Webex meeting page that leveraged",
+    "analysis": {
+      "issue": "Kimsuky used fake security tools and Webex pages in March-April 2026 to deploy HTTPSpy, enabling persistent espionage and data theft",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
     "link": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
     "published": "Thu, 28 May 2026 22:54:44 +0530",
@@ -130,31 +184,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub",
-    "link": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html",
-    "published": "Wed, 27 May 2026 21:14:29 +0530",
-    "summary": "Cybersecurity researchers have discovered a new malicious package on the npm registry that comes with information stealing capabilities.\n\nAccording to OX Security, the package, named \"mouse5212-super-formatter,\" is designed to upload files from \"/mnt/user-data,\" a dedicated directory used by Anthropic's Claude artificial intelligence (AI) tool to handle uploads and outputs in the background. The",
+    "source": "Bleeping Computer",
+    "title": "Man sent to prison for selling data of 7 millions elderly Americans",
+    "link": "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/",
+    "published": "Fri, 29 May 2026 07:07:07 -0400",
+    "summary": "A North Carolina man was sentenced to more than 10 years in prison for selling the personal information of over 7 million elderly Americans to Jamaican scammers. [...]",
     "analysis": {
-      "issue": "Malicious npm package downloaded 676 times stole Claude AI files via GitHub uploads, increasing AI-driven malware risks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
-    "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html",
-    "published": "Wed, 27 May 2026 18:58:48 +0530",
-    "summary": "When an employee installs an AI writing assistant, connects a coding copilot to their IDE, or starts summarizing meetings with a new browser tool, they are doing exactly what a productive employee should do: finding faster ways to work.\n\nAcross most organizations today, employees are running three to five AI tools on any given day. Most were never reviewed by IT. A significant portion connects",
-    "analysis": {
-      "issue": "Shadow AI adoption grows as 69% of organizations detect unauthorized AI tools, increasing unseen corporate data exposure risks",
+      "issue": "A North Carolina man was sentenced to more than 10 years in prison for selling the personal information of over 7 million elderly Americans to Jamaican scammers",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -166,21 +202,40 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
-    "link": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
-    "published": "Wed, 27 May 2026 17:18:37 +0530",
-    "summary": "CrowdStrike, in partnership with Google and the Shadowserver Foundation, has announced the simultaneous disruption of all command-and-control (C2) channels associated with GlassWorm, a persistent software chain campaign targeting software developers through malicious packages and extensions.\n\n\"Since at least early 2025, GlassWorm operators have systematically targeted software developers, a",
+    "source": "Bleeping Computer",
+    "title": "US charges Google security engineer with Polymarket insider trading",
+    "link": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
+    "published": "Fri, 29 May 2026 06:11:44 -0400",
+    "summary": "A Google security engineer was charged with insider trading after winning $1.2 million using confidential company data to place bets on the cryptocurrency-based Polymarket decentralized prediction market. [...]",
     "analysis": {
-      "issue": "GlassWorm poisoned 300 GitHub repositories since 2025, enabling supply chain attacks against developers and organizations",
+      "issue": "A Google security engineer was charged with insider trading after winning $1",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "Supply Chain"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Charter Communications data breach affects 4.9 million accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
+    "published": "Fri, 29 May 2026 04:29:40 -0400",
+    "summary": "The ShinyHunters extortion gang stole personal information from 4.9 million accounts after hacking the U.S. telecom giant Charter Communications in early April, according to data breach notification service Have I Been Pwned. [...]",
+    "analysis": {
+      "issue": "The ShinyHunters extortion gang stole personal information from 4",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Phishing"
       ]
     }
   },
@@ -313,60 +368,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Romanian gets 5 years in prison for hacking Oregon govt network",
-    "link": "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/",
-    "published": "Thu, 28 May 2026 08:43:29 -0400",
-    "summary": "A Romanian national was sentenced this week to 56 months in federal prison for breaking into an Oregon state government computer network and fr cyberattacks targeting dozens of other U.S. victims. [...]",
-    "analysis": {
-      "issue": "A Romanian national was sentenced this week to 56 months in federal prison for breaking into an Oregon state government computer network and fr cyberattacks targeting dozens of other U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Webinar: Why network incidents take too long to resolve",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/",
-    "published": "Thu, 28 May 2026 08:20:28 -0400",
-    "summary": "Many organizations can detect network issues quickly, but investigations and coordination often slow incident resolution. This webinar explores how automation and AI-assisted workflows can help IT teams reduce delays and improve response times. [...]",
-    "analysis": {
-      "issue": "Most organizations have no shortage of monitoring tools, alerts, and operational data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Carnival Cruise confirms data breach affecting nearly 6 million people",
-    "link": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
-    "published": "Thu, 28 May 2026 06:49:27 -0400",
-    "summary": "Carnival Corporation, the world's largest cruise line operator, has confirmed a data breach affecting nearly 6 million people claimed by the ShinyHunters extortion gang in April 2026. [...]",
-    "analysis": {
-      "issue": "Carnival Corporation, the world's largest cruise line operator, has confirmed a data breach affecting nearly 6 million people claimed by the ShinyHunters extortion gang in April 2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
       ]
     }
   },
@@ -535,8 +536,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-32201",
-        "CVE-2026-33825",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -561,6 +562,50 @@
         "Malware",
         "APT",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach",
+    "link": "https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/",
+    "published": "Fri, 29 May 2026 11:12:15 +0000",
+    "summary": "<p>Attorney General Rob Bonta filed the lawsuit against Chrome Holding Co., which 23andMe rebranded under after filing for bankruptcy last March.</p>\n<p>The post <a href=\"https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/\">California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Attorney General Rob Bonta filed the lawsuit against Chrome Holding Co",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Chrome 148 Update Patches 151 Vulnerabilities",
+    "link": "https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/",
+    "published": "Fri, 29 May 2026 10:17:23 +0000",
+    "summary": "<p>The browser update resolves critical-severity security defects that could potentially lead to remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/\">Chrome 148 Update Patches 151 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The browser update resolves critical-severity security defects that could potentially lead to remote code execution",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-9872",
+        "CVE-2026-9875",
+        "CVE-2026-9873",
+        "CVE-2026-9876",
+        "CVE-2026-9874"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -726,45 +771,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Raising the Cybersecurity Stakes: Ante up for the Agentic Era",
-    "link": "https://www.securityweek.com/raising-the-cybersecurity-stakes-ante-up-for-the-agentic-era/",
-    "published": "Thu, 28 May 2026 11:15:00 +0000",
-    "summary": "<p>CISOs are now facing machine-speed attacks and asking, “How do I agent?” The industry must provide remediation at scale.</p>\n<p>The post <a href=\"https://www.securityweek.com/raising-the-cybersecurity-stakes-ante-up-for-the-agentic-era/\">Raising the Cybersecurity Stakes: Ante up for the Agentic Era</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CISOs are now facing machine-speed attacks and asking, “How do I agent",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks",
-    "link": "https://www.securityweek.com/google-unveils-ai-threat-defense-platform-to-fight-ai-powered-cyberattacks/",
-    "published": "Thu, 28 May 2026 09:55:00 +0000",
-    "summary": "<p>New AI Threat Defense platform combines capabilities from Mandiant, Wiz and Gemini to help customers fight AI with AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-unveils-ai-threat-defense-platform-to-fight-ai-powered-cyberattacks/\">Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "New AI Threat Defense platform combines capabilities from Mandiant, Wiz and Gemini to help customers fight AI with AI",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Less panic patching, more precision",
     "link": "https://blog.talosintelligence.com/less-panic-patching-more-precision/",
@@ -813,9 +819,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25713",
-        "CVE-2026-22554",
         "CVE-2026-28764",
+        "CVE-2026-22554",
+        "CVE-2026-25713",
         "CVE-2026-25104"
       ],
       "threat_categories": [
@@ -874,8 +880,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-30815",
-        "CVE-2026-30814",
-        "CVE-2026-30816"
+        "CVE-2026-30816",
+        "CVE-2026-30814"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -934,10 +940,10 @@
       "severity": "High",
       "cves": [
         "CVE-2026-20128",
-        "CVE-2026-20182",
         "CVE-2026-20127",
+        "CVE-2026-20133",
         "CVE-2026-20122",
-        "CVE-2026-20133"
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1311,8 +1317,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
