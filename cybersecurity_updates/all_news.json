@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
+    "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
+    "published": "Fri, 29 May 2026 17:01:59 +0530",
+    "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025.\n\nGREYVIBE, per WithSecure, is assessed to be a Russian-speaking group operating broadly in the Russian time zone, with the activities aligning with Kremlin state interests, specifically when it comes to",
+    "analysis": {
+      "issue": "GREYVIBE targeted Ukraine since August 2025 using AI-assisted malware campaigns, increasing espionage capabilities and attribution challenges",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
     "link": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
     "published": "Fri, 29 May 2026 16:00:00 +0530",
@@ -166,19 +184,60 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
-    "link": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html",
-    "published": "Wed, 27 May 2026 21:40:21 +0530",
-    "summary": "Latin America and Europe become the target of two banking trojan campaigns that are designed to infect Windows and Android devices with Grandoreiro and BTMOB malware, respectively.\n\nThat's according to new findings from WatchGuard and ESET, which have observed the two malware families being used to single out companies in Spain, Portugal, and Mexico, as well as mobile users in Brazil.\n\nThe",
+    "source": "Bleeping Computer",
+    "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
+    "link": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
+    "published": "Fri, 29 May 2026 10:32:02 -0400",
+    "summary": "DDoS attacks are increasingly being sold like subscription services, complete with pricing tiers, support, and reseller programs. Flare explores how the DDoS-as-a-Service market has evolved from scattered tools into polished attack platforms. [...]",
     "analysis": {
-      "issue": "Grandoreiro and BTMOB campaigns targeted Europe and Latin America in 2026, increasing banking malware risks",
+      "issue": "You have probably experienced the following scenario yourself",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
+        "Data Breach",
+        "Malware",
+        "DDoS",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Dutch govt disrupts malware botnet with 17 million infected devices",
+    "link": "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/",
+    "published": "Fri, 29 May 2026 10:26:36 -0400",
+    "summary": "Dutch authorities have taken offline a massive botnet of 17 million devices and seized more than 200 servers at a local provider that supported the operation. [...]",
+    "analysis": {
+      "issue": "Dutch authorities have taken offline a massive botnet of 17 million devices and seized more than 200 servers at a local provider that supported the operation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Google Chrome adds session cookie theft protection for all users",
+    "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
+    "published": "Fri, 29 May 2026 08:08:08 -0400",
+    "summary": "Google says the Chrome Device Bound Session Credentials (DBSC) security feature is now generally available and is rolling out to all users to prevent account takeovers. [...]",
+    "analysis": {
+      "issue": "Google says the Chrome Device Bound Session Credentials (DBSC) security feature is now generally available and is rolling out to all users to prevent account takeovers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
         "Malware"
       ]
     }
@@ -311,63 +370,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
-    "published": "Thu, 28 May 2026 13:25:43 -0400",
-    "summary": "Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ. [...]",
-    "analysis": {
-      "issue": "Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-35616"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Gogs zero-day flaw lets hackers get remote code execution",
-    "link": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
-    "published": "Thu, 28 May 2026 10:25:43 -0400",
-    "summary": "An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances. [...]",
-    "analysis": {
-      "issue": "An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "How SIEM helps MSPs reduce noise and stop threats faster",
-    "link": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
-    "published": "Thu, 28 May 2026 10:01:11 -0400",
-    "summary": "MSPs don't lack security data. They struggle to separate real threats from alert noise. Kaseya explains how SIEM helps MSPs improve visibility, reduce fatigue, and respond faster. [...]",
-    "analysis": {
-      "issue": "MSPs are flooded with security alerts every day, yet many still struggle to separate operational noise from the threats that actually put customers at risk",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -536,8 +538,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-32201",
-        "CVE-2026-34621",
-        "CVE-2026-33825"
+        "CVE-2026-33825",
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -562,6 +564,65 @@
         "Malware",
         "APT",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Charter Communications Data Breach Could Impact Nearly 5 Million",
+    "link": "https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/",
+    "published": "Fri, 29 May 2026 14:49:58 +0000",
+    "summary": "<p>The notorious ShinyHunters extortion group leaked over 42 million records allegedly stolen from Charter in April.</p>\n<p>The post <a href=\"https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/\">Charter Communications Data Breach Could Impact Nearly 5 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The notorious ShinyHunters extortion group leaked over 42 million records allegedly stolen from Charter in April",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "MokN Raises $15 Million for Phish-Back Platform",
+    "link": "https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/",
+    "published": "Fri, 29 May 2026 14:34:15 +0000",
+    "summary": "<p>MokN's platform deploys realistic decoy access points to lure attackers into revealing compromised credentials, enabling organizations to respond before abuse occurs.</p>\n<p>The post <a href=\"https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/\">MokN Raises $15 Million for Phish-Back Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "MokN’s platform deploys realistic decoy access points to lure attackers into revealing compromised credentials, enabling organizations to respond before abuse occurs",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Gogs Zero-Day Exposes Servers to Remote Code Execution",
+    "link": "https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/",
+    "published": "Fri, 29 May 2026 12:59:37 +0000",
+    "summary": "<p>The critical-severity issue, assigned a CVSS score of 9.4, is an argument injection flaw that can be exploited by authenticated attackers via pull requests with malicious branch names.</p>\n<p>The post <a href=\"https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/\">Gogs Zero-Day Exposes Servers to Remote Code Execution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The critical-severity issue, assigned a CVSS score of 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-8110"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -598,11 +659,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-9872",
-        "CVE-2026-9875",
-        "CVE-2026-9873",
         "CVE-2026-9876",
-        "CVE-2026-9874"
+        "CVE-2026-9872",
+        "CVE-2026-9873",
+        "CVE-2026-9874",
+        "CVE-2026-9875"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -711,66 +772,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under “Project Lightwell”",
-    "link": "https://www.securityweek.com/ibm-and-red-hat-commit-5-billion-to-secure-open-source-supply-chains-under-project-lightwell/",
-    "published": "Thu, 28 May 2026 12:41:45 +0000",
-    "summary": "<p>Project Lightwell is designed to fix vulnerabilities without breaking what is already in production.</p>\n<p>The post <a href=\"https://www.securityweek.com/ibm-and-red-hat-commit-5-billion-to-secure-open-source-supply-chains-under-project-lightwell/\">IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under &#8220;Project Lightwell&#8221;</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Project Lightwell is designed to fix vulnerabilities without breaking what is already in production",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails",
-    "link": "https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/",
-    "published": "Thu, 28 May 2026 12:00:00 +0000",
-    "summary": "<p>France-based startup Edamame says its runtime verification platform uses host telemetry and AI analysis to detect coding-agent “intent drift,” secret theft and supply-chain attacks in real time.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/\">New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "France-based startup Edamame says its runtime verification platform uses host telemetry and AI analysis to detect coding-agent “intent drift,” secret theft and supply-chain attacks in real time",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Gitea Vulnerability Exposed 30,000 Deployments to Attacks",
-    "link": "https://www.securityweek.com/gitea-vulnerability-exposed-30000-deployments-to-attacks/",
-    "published": "Thu, 28 May 2026 11:24:51 +0000",
-    "summary": "<p>The security flaw allowed attackers to pull private container images, exposing source code, credentials, and infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/gitea-vulnerability-exposed-30000-deployments-to-attacks/\">Gitea Vulnerability Exposed 30,000 Deployments to Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The security flaw allowed attackers to pull private container images, exposing source code, credentials, and infrastructure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-27771"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Less panic patching, more precision",
     "link": "https://blog.talosintelligence.com/less-panic-patching-more-precision/",
@@ -819,10 +820,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-28764",
         "CVE-2026-22554",
-        "CVE-2026-25713",
-        "CVE-2026-25104"
+        "CVE-2026-25104",
+        "CVE-2026-28764",
+        "CVE-2026-25713"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -880,8 +881,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-30815",
-        "CVE-2026-30816",
-        "CVE-2026-30814"
+        "CVE-2026-30814",
+        "CVE-2026-30816"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -939,11 +940,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20128",
-        "CVE-2026-20127",
         "CVE-2026-20133",
         "CVE-2026-20122",
-        "CVE-2026-20182"
+        "CVE-2026-20128",
+        "CVE-2026-20182",
+        "CVE-2026-20127"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1348,6 +1349,25 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Signal users targeted in backup-stealing phishing attacks",
+    "link": "https://www.malwarebytes.com/blog/news/2026/05/signal-users-targeted-in-backup-stealing-phishing-attacks",
+    "published": "Fri, 29 May 2026 12:07:24 GMT",
+    "summary": "Cybercriminals are impersonating Signal Support to steal backup recovery keys, giving them access to victims' entire message archives.",
+    "analysis": {
+      "issue": "A new phishing campaign is targeting Signal users by attempting to steal their backup recovery keys to access encrypted message archives",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Carnival confirms data breach impacting nearly 6 million",
     "link": "https://www.malwarebytes.com/blog/data-breaches/2026/05/carnival-confirms-data-breach-impacting-nearly-6-million",
     "published": "Thu, 28 May 2026 12:04:52 GMT",
@@ -1514,20 +1534,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "A week in security (May 18 &#8211; May 24)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-may-18-may-24",
-    "published": "Mon, 25 May 2026 07:02:00 GMT",
-    "summary": "A list of topics we covered in the week of May 18 to May 24 of 2026",
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Named a Leader in 2026 Gartner&reg; Magic Quadrant&trade; for Endpoint Protection for Seventh Consecutive Time",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-in-2026-gartner-magic-quadrant-for-endpoint-protection/",
+    "published": "May 29, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "issue": "CrowdStrike is a Leader in the 2026 Gartner Magic Quadrant for Endpoint Protection for the seventh consecutive time",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -1683,24 +1703,6 @@
     "summary": "",
     "analysis": {
       "issue": "Learn how CrowdStrike Automated Leads uses AI to reduce alert fatigue, surface hidden threats, and help analysts detect attacks faster on the Falcon platform",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/",
-    "published": "May 06, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "CrowdStrike is named a Leader in the Gartner Magic Quadrant for Cyberthreat Intelligence Technologies, positioned furthest to the right for Completeness of Vision",
       "solution": null,
       "cause": null,
       "timeline": null,
