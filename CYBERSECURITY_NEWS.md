@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-30 04:34:30 UTC
+**Last Updated:** 2026-05-30 10:23:30 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface](https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html)
+### 1. [PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation](https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 30 May 2026 12:11:26 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-0257  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface](https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 29 May 2026 23:37:12 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit](https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html)
+### 3. [Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit](https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 29 May 2026 20:09:56 +0530  
@@ -23,7 +33,7 @@
 
 ---
 
-### 3. [New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks](https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html)
+### 4. [New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks](https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 29 May 2026 17:01:59 +0530  
@@ -32,7 +42,7 @@
 
 ---
 
-### 4. [What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks](https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html)
+### 5. [What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks](https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 29 May 2026 16:00:00 +0530  
@@ -41,7 +51,7 @@
 
 ---
 
-### 5. [Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets](https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html)
+### 6. [Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets](https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 29 May 2026 14:41:25 +0530  
@@ -50,7 +60,7 @@
 
 ---
 
-### 6. [Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels](https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html)
+### 7. [Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels](https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 29 May 2026 11:27:41 +0530  
@@ -59,7 +69,7 @@
 
 ---
 
-### 7. [Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code](https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html)
+### 8. [Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code](https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 28 May 2026 22:54:44 +0530  
@@ -68,7 +78,7 @@
 
 ---
 
-### 8. [Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer](https://thehackernews.com/2026/05/threat-actors-exploit-critical.html)
+### 9. [Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer](https://thehackernews.com/2026/05/threat-actors-exploit-critical.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 28 May 2026 20:56:04 +0530  
@@ -78,21 +88,12 @@
 
 ---
 
-### 9. [Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal](https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html)
+### 10. [Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal](https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 28 May 2026 19:23:52 +0530  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 10. [ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More](https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 28 May 2026 19:03:16 +0530  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 
@@ -164,7 +165,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 29 May 2026 04:29:40 -0400  
 **Severity:** Low  
-**Categories:** Ransomware, Data Breach, Phishing  
+**Categories:** Data Breach, Phishing  
 
 ---
 
@@ -263,7 +264,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -328,7 +329,7 @@
 **Source:** Security Week  
 **Published:** Fri, 29 May 2026 10:17:23 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-9873, CVE-2026-9875, CVE-2026-9876, CVE-2026-9872, CVE-2026-9874  
+**CVEs:** CVE-2026-9876, CVE-2026-9873, CVE-2026-9875, CVE-2026-9872, CVE-2026-9874  
 **Categories:** Vulnerability  
 
 ---
@@ -392,7 +393,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25713, CVE-2026-22554, CVE-2026-25104, CVE-2026-28764  
+**CVEs:** CVE-2026-25104, CVE-2026-25713, CVE-2026-28764, CVE-2026-22554  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -448,7 +449,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20122, CVE-2026-20128, CVE-2026-20182, CVE-2026-20133, CVE-2026-20127  
+**CVEs:** CVE-2026-20127, CVE-2026-20122, CVE-2026-20128, CVE-2026-20133, CVE-2026-20182  
 **Categories:** Vulnerability  
 
 ---
@@ -632,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -746,7 +747,16 @@
 
 ---
 
-### 82. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
+### 82. [Shadow AI: The Hidden Risk Expanding Across the Enterprise](https://www.crowdstrike.com/en-us/blog/shadow-ai-hidden-risk-expanding-across-the-enterprise/)
+
+**Source:** Crowdstrike Blog  
+**Published:** May 29, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 83. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 26, 2026 00:00:00-0500  
@@ -755,7 +765,7 @@
 
 ---
 
-### 83. [Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet](https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/)
+### 84. [Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet](https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 26, 2026 00:00:00-0500  
@@ -764,7 +774,7 @@
 
 ---
 
-### 84. [Measuring AI-Enabled Success: 3 KPIs Leaders Should Track](https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/)
+### 85. [Measuring AI-Enabled Success: 3 KPIs Leaders Should Track](https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 22, 2026 00:00:00-0700  
@@ -773,7 +783,7 @@
 
 ---
 
-### 85. [New Claude Integration Brings Audit Data into the Falcon Platform](https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/)
+### 86. [New Claude Integration Brings Audit Data into the Falcon Platform](https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 21, 2026 00:00:00-0500  
@@ -782,7 +792,7 @@
 
 ---
 
-### 86. [How to Protect Identities and Sessions from Infostealers](https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/)
+### 87. [How to Protect Identities and Sessions from Infostealers](https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 20, 2026 00:00:00-0500  
@@ -791,7 +801,7 @@
 
 ---
 
-### 87. [Now Live: The CrowdStrike 2026 Financial Services Threat Landscape Report](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-financial-services-threat-landscape-report/)
+### 88. [Now Live: The CrowdStrike 2026 Financial Services Threat Landscape Report](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-financial-services-threat-landscape-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 14, 2026 00:00:00-0500  
@@ -800,7 +810,7 @@
 
 ---
 
-### 88. [Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications](https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/)
+### 89. [Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications](https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 13, 2026 00:00:00-0500  
@@ -809,20 +819,11 @@
 
 ---
 
-### 89. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
+### 90. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 12, 2026 00:00:00-0500  
 **Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 90. [Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections](https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/)
-
-**Source:** Crowdstrike Blog  
-**Published:** May 11, 2026 00:00:00-0500  
-**Severity:** Low  
 **Categories:** General Security  
 
 ---

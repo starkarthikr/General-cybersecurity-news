@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
+    "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
+    "published": "Sat, 30 May 2026 12:11:26 +0530",
+    "summary": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case of authentication bypass that could be exploited by bad actors to set up VPN connections.\n\n\"Authentication bypass vulnerabilities in the",
+    "analysis": {
+      "issue": "CVE-2026-0257 is being actively exploited on PAN-OS devices since May 17, 2026, enabling unauthorized VPN access and network exposure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-0257"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
     "link": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
     "published": "Fri, 29 May 2026 23:37:12 +0530",
@@ -40,7 +60,7 @@
   },
   {
     "source": "The Hacker News",
-    "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
+    "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
     "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
     "published": "Fri, 29 May 2026 17:01:59 +0530",
     "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025.\n\nGREYVIBE, per WithSecure, is assessed to be a Russian-speaking group operating broadly in the Russian time zone, with the activities aligning with Kremlin state interests, specifically when it comes to",
@@ -165,24 +185,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
-    "link": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
-    "published": "Thu, 28 May 2026 19:03:16 +0530",
-    "summary": "Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed infrastructure to make you wonder if prod is just a public beta now - meanwhile some researcher casually drops a technique that turns a \"minor\" foothold into total account",
-    "analysis": {
-      "issue": "ThreatsDay Bulletin: Kali365 MFA bypass, Azure priv-esc, FIFA scams, OAuth theft, fake installers, and supply chain attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   },
@@ -332,7 +334,6 @@
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
         "Data Breach",
         "Phishing"
       ]
@@ -540,8 +541,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-34621",
-        "CVE-2026-32201",
-        "CVE-2026-33825"
+        "CVE-2026-33825",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -684,9 +685,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-9876",
         "CVE-2026-9873",
         "CVE-2026-9875",
-        "CVE-2026-9876",
         "CVE-2026-9872",
         "CVE-2026-9874"
       ],
@@ -824,10 +825,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25713",
-        "CVE-2026-22554",
         "CVE-2026-25104",
-        "CVE-2026-28764"
+        "CVE-2026-25713",
+        "CVE-2026-28764",
+        "CVE-2026-22554"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -944,11 +945,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
+        "CVE-2026-20127",
         "CVE-2026-20122",
         "CVE-2026-20128",
-        "CVE-2026-20182",
         "CVE-2026-20133",
-        "CVE-2026-20127"
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1322,8 +1323,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1557,6 +1558,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Shadow AI: The Hidden Risk Expanding Across the Enterprise",
+    "link": "https://www.crowdstrike.com/en-us/blog/shadow-ai-hidden-risk-expanding-across-the-enterprise/",
+    "published": "May 29, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn about the shadow AI attack surface, how it is expanding, and how you can protect and govern it from threats",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "CrowdStrike Named a Leader in Identity Threat Detection and Response",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/",
     "published": "May 26, 2026 00:00:00-0500",
@@ -1693,24 +1712,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections",
-    "link": "https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/",
-    "published": "May 11, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn how CrowdStrike Automated Leads uses AI to reduce alert fatigue, surface hidden threats, and help analysts detect attacks faster on the Falcon platform",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
