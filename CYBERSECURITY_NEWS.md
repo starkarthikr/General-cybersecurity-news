@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-30 13:52:09 UTC
+**Last Updated:** 2026-05-30 17:36:22 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -97,7 +97,16 @@
 
 ---
 
-### 11. [ChatGPT share links abused to host fake outage pages to deliver malware](https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/)
+### 11. [New CIFSwitch Linux flaw gives root on multiple distributions](https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/)
+
+**Source:** Bleeping Computer  
+**Published:** Sat, 30 May 2026 10:16:08 -0400  
+**Severity:** High  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [ChatGPT share links abused to host fake outage pages to deliver malware](https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 29 May 2026 14:21:36 -0400  
@@ -106,7 +115,7 @@
 
 ---
 
-### 12. [California AG sues 23andMe over 2023 breach exposing health data](https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/)
+### 13. [California AG sues 23andMe over 2023 breach exposing health data](https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 29 May 2026 14:08:47 -0400  
@@ -115,7 +124,7 @@
 
 ---
 
-### 13. [From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market](https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/)
+### 14. [From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market](https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 29 May 2026 10:32:02 -0400  
@@ -124,7 +133,7 @@
 
 ---
 
-### 14. [Dutch govt disrupts malware botnet with 17 million infected devices](https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/)
+### 15. [Dutch govt disrupts malware botnet with 17 million infected devices](https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 29 May 2026 10:26:36 -0400  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [Google Chrome adds session cookie theft protection for all users](https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/)
+### 16. [Google Chrome adds session cookie theft protection for all users](https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 29 May 2026 08:08:08 -0400  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Man sent to prison for selling data of 7 millions elderly Americans](https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/)
+### 17. [Man sent to prison for selling data of 7 millions elderly Americans](https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 29 May 2026 07:07:07 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [US charges Google security engineer with Polymarket insider trading](https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/)
+### 18. [US charges Google security engineer with Polymarket insider trading](https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 29 May 2026 06:11:44 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [Charter Communications data breach affects 4.9 million accounts](https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/)
+### 19. [Charter Communications data breach affects 4.9 million accounts](https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 29 May 2026 04:29:40 -0400  
@@ -169,21 +178,12 @@
 
 ---
 
-### 19. [Anthropic confirms Claude Mythos-class models will roll out to the public](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/)
+### 20. [Anthropic confirms Claude Mythos-class models will roll out to the public](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 28 May 2026 20:21:03 -0400  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 20. [GreyVibe hackers use ChatGPT, Gemini to power cyberattacks](https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 28 May 2026 18:24:49 -0400  
-**Severity:** Low  
-**Categories:** Malware, APT  
 
 ---
 
@@ -264,7 +264,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -278,7 +278,26 @@
 
 ---
 
-### 31. [In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks](https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/)
+### 31. [Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say](https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/)
+
+**Source:** Security Week  
+**Published:** Sat, 30 May 2026 16:00:49 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 32. [Exploit Code Published for Critical Flowise RCE Vulnerability](https://www.securityweek.com/exploit-code-published-for-critical-flowise-rce-vulnerability/)
+
+**Source:** Security Week  
+**Published:** Sat, 30 May 2026 15:55:59 +0000  
+**Severity:** Low  
+**CVEs:** CVE-2026-40933  
+**Categories:** Vulnerability, Malware, APT  
+
+---
+
+### 33. [In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks](https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 29 May 2026 16:20:49 +0000  
@@ -287,7 +306,7 @@
 
 ---
 
-### 32. [Charter Communications Data Breach Could Impact Nearly 5 Million](https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/)
+### 34. [Charter Communications Data Breach Could Impact Nearly 5 Million](https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/)
 
 **Source:** Security Week  
 **Published:** Fri, 29 May 2026 14:49:58 +0000  
@@ -296,7 +315,7 @@
 
 ---
 
-### 33. [MokN Raises $15 Million for Phish-Back Platform](https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/)
+### 35. [MokN Raises $15 Million for Phish-Back Platform](https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/)
 
 **Source:** Security Week  
 **Published:** Fri, 29 May 2026 14:34:15 +0000  
@@ -305,7 +324,7 @@
 
 ---
 
-### 34. [Gogs Zero-Day Exposes Servers to Remote Code Execution](https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/)
+### 36. [Gogs Zero-Day Exposes Servers to Remote Code Execution](https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/)
 
 **Source:** Security Week  
 **Published:** Fri, 29 May 2026 12:59:37 +0000  
@@ -315,7 +334,7 @@
 
 ---
 
-### 35. [California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach](https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/)
+### 37. [California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach](https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/)
 
 **Source:** Security Week  
 **Published:** Fri, 29 May 2026 11:12:15 +0000  
@@ -324,17 +343,17 @@
 
 ---
 
-### 36. [Chrome 148 Update Patches 151 Vulnerabilities](https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/)
+### 38. [Chrome 148 Update Patches 151 Vulnerabilities](https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 29 May 2026 10:17:23 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-9875, CVE-2026-9873, CVE-2026-9874, CVE-2026-9876, CVE-2026-9872  
+**CVEs:** CVE-2026-9872, CVE-2026-9873, CVE-2026-9876, CVE-2026-9874, CVE-2026-9875  
 **Categories:** Vulnerability  
 
 ---
 
-### 37. [Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks](https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/)
+### 39. [Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks](https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 28 May 2026 18:50:49 +0000  
@@ -343,30 +362,12 @@
 
 ---
 
-### 38. [Geordie Raises $30 Million for AI Security and Governance Platform](https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/)
+### 40. [Geordie Raises $30 Million for AI Security and Governance Platform](https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/)
 
 **Source:** Security Week  
 **Published:** Thu, 28 May 2026 17:07:16 +0000  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 39. [Carnival Data Breach Exposed 6 Million People](https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/)
-
-**Source:** Security Week  
-**Published:** Thu, 28 May 2026 14:45:28 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, Phishing  
-
----
-
-### 40. [New BTMOB Android Malware Enables Full Device Takeover](https://www.securityweek.com/new-btmob-android-malware-enables-full-device-takeover/)
-
-**Source:** Security Week  
-**Published:** Thu, 28 May 2026 13:05:04 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware, Phishing, APT  
 
 ---
 
@@ -393,7 +394,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-28764, CVE-2026-25104, CVE-2026-22554, CVE-2026-25713  
+**CVEs:** CVE-2026-28764, CVE-2026-22554, CVE-2026-25713, CVE-2026-25104  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -421,7 +422,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30816, CVE-2026-30815, CVE-2026-30814  
+**CVEs:** CVE-2026-30816, CVE-2026-30814, CVE-2026-30815  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -449,7 +450,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20182, CVE-2026-20133, CVE-2026-20122, CVE-2026-20127, CVE-2026-20128  
+**CVEs:** CVE-2026-20122, CVE-2026-20128, CVE-2026-20127, CVE-2026-20133, CVE-2026-20182  
 **Categories:** Vulnerability  
 
 ---
@@ -633,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
