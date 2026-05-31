@@ -190,6 +190,26 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+    "published": "Sat, 30 May 2026 14:02:51 -0400",
+    "summary": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]",
+    "analysis": {
+      "issue": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-0257"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
     "link": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
     "published": "Sat, 30 May 2026 10:16:08 -0400",
@@ -358,24 +378,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
-    "published": "Thu, 28 May 2026 20:21:03 -0400",
-    "summary": "Anthropic has confirmed that it plans to bring Mythos-class models to the general public after delaying the rollout due to security risks to public and private software. [...]",
-    "analysis": {
-      "issue": "Anthropic has confirmed that it plans to bring Mythos-class models to the general public after delaying the rollout due to security risks to public and private software",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
     "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
@@ -539,8 +541,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-33825",
+        "CVE-2026-32201",
         "CVE-2026-34621"
       ],
       "threat_categories": [
@@ -725,11 +727,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-9872",
-        "CVE-2026-9873",
         "CVE-2026-9876",
         "CVE-2026-9874",
-        "CVE-2026-9875"
+        "CVE-2026-9875",
+        "CVE-2026-9872",
+        "CVE-2026-9873"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -824,10 +826,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-25104",
         "CVE-2026-28764",
-        "CVE-2026-22554",
         "CVE-2026-25713",
-        "CVE-2026-25104"
+        "CVE-2026-22554"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -885,8 +887,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-30816",
-        "CVE-2026-30814",
-        "CVE-2026-30815"
+        "CVE-2026-30815",
+        "CVE-2026-30814"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -944,11 +946,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20122",
+        "CVE-2026-20133",
+        "CVE-2026-20182",
         "CVE-2026-20128",
         "CVE-2026-20127",
-        "CVE-2026-20133",
-        "CVE-2026-20182"
+        "CVE-2026-20122"
       ],
       "threat_categories": [
         "Vulnerability"
