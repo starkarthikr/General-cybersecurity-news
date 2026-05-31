@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-31 13:58:01 UTC
+**Last Updated:** 2026-05-31 17:38:14 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -97,7 +97,17 @@
 
 ---
 
-### 11. [Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/)
+### 11. [WP Maps Pro bug exploited to create admin accounts on WordPress sites](https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 31 May 2026 10:06:42 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-8732  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 30 May 2026 14:02:51 -0400  
@@ -107,7 +117,7 @@
 
 ---
 
-### 12. [New CIFSwitch Linux flaw gives root on multiple distributions](https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/)
+### 13. [New CIFSwitch Linux flaw gives root on multiple distributions](https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 30 May 2026 10:16:08 -0400  
@@ -116,7 +126,7 @@
 
 ---
 
-### 13. [ChatGPT share links abused to host fake outage pages to deliver malware](https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/)
+### 14. [ChatGPT share links abused to host fake outage pages to deliver malware](https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 29 May 2026 14:21:36 -0400  
@@ -125,7 +135,7 @@
 
 ---
 
-### 14. [California AG sues 23andMe over 2023 breach exposing health data](https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/)
+### 15. [California AG sues 23andMe over 2023 breach exposing health data](https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 29 May 2026 14:08:47 -0400  
@@ -134,7 +144,7 @@
 
 ---
 
-### 15. [From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market](https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/)
+### 16. [From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market](https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 29 May 2026 10:32:02 -0400  
@@ -143,7 +153,7 @@
 
 ---
 
-### 16. [Dutch govt disrupts malware botnet with 17 million infected devices](https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/)
+### 17. [Dutch govt disrupts malware botnet with 17 million infected devices](https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 29 May 2026 10:26:36 -0400  
@@ -152,7 +162,7 @@
 
 ---
 
-### 17. [Google Chrome adds session cookie theft protection for all users](https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/)
+### 18. [Google Chrome adds session cookie theft protection for all users](https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 29 May 2026 08:08:08 -0400  
@@ -161,7 +171,7 @@
 
 ---
 
-### 18. [Man sent to prison for selling data of 7 millions elderly Americans](https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/)
+### 19. [Man sent to prison for selling data of 7 millions elderly Americans](https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 29 May 2026 07:07:07 -0400  
@@ -170,21 +180,12 @@
 
 ---
 
-### 19. [US charges Google security engineer with Polymarket insider trading](https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/)
+### 20. [US charges Google security engineer with Polymarket insider trading](https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 29 May 2026 06:11:44 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [Charter Communications data breach affects 4.9 million accounts](https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 29 May 2026 04:29:40 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Phishing  
 
 ---
 
@@ -265,7 +266,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -349,7 +350,7 @@
 **Source:** Security Week  
 **Published:** Fri, 29 May 2026 10:17:23 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-9873, CVE-2026-9876, CVE-2026-9875, CVE-2026-9872, CVE-2026-9874  
+**CVEs:** CVE-2026-9875, CVE-2026-9876, CVE-2026-9874, CVE-2026-9873, CVE-2026-9872  
 **Categories:** Vulnerability  
 
 ---
@@ -395,7 +396,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-28764, CVE-2026-25104, CVE-2026-25713  
+**CVEs:** CVE-2026-25104, CVE-2026-25713, CVE-2026-22554, CVE-2026-28764  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -451,7 +452,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20182, CVE-2026-20122, CVE-2026-20127, CVE-2026-20133, CVE-2026-20128  
+**CVEs:** CVE-2026-20127, CVE-2026-20182, CVE-2026-20122, CVE-2026-20128, CVE-2026-20133  
 **Categories:** Vulnerability  
 
 ---
