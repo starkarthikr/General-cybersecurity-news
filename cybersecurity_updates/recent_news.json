@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
+    "link": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
+    "published": "Sun, 31 May 2026 17:52:12 +0530",
+    "summary": "Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious attacks.\n\nThe bot network, per the Dutch Politie and the National Cyber Security Center (NCSC), consisted of at least 17 million infected devices. More than 200 servers located in the Netherlands acted as the",
+    "analysis": {
+      "issue": "Dutch authorities dismantled a 17 million-device botnet backed by 200+ servers, disrupting infrastructure used for cybercrime",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
     "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
     "published": "Sat, 30 May 2026 12:11:26 +0530",
@@ -153,7 +171,7 @@
     "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
     "link": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
     "published": "Thu, 28 May 2026 20:56:04 +0530",
-    "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware.\n\n\"The campaign abused trusted endpoint management infrastructure to deliver malware across managed endpoints,\" Arctic Wolf said. \"Threat actors disguised the credential stealer payload as a Fortinet endpoint",
+    "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver a credential-stealing malware family dubbed EKZ Infostealer.\n\n\"The campaign abused trusted endpoint management infrastructure to deliver malware across managed endpoints,\" Arctic Wolf said. \"Threat actors disguised the credential stealer",
     "analysis": {
       "issue": "FortiClient EMS flaw CVE-2026-35616 enabled malware delivery via fake updates, risking credential theft across endpoints",
       "solution": null,
@@ -167,24 +185,6 @@
         "Vulnerability",
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
-    "link": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
-    "published": "Thu, 28 May 2026 19:23:52 +0530",
-    "summary": "Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before they are publicly disclosed.\n\nThe development comes after a researcher named Chaotic Eclipse (aka Nightmare-Eclipse) disclosed details of multiple zero-day",
-    "analysis": {
-      "issue": "Microsoft urged coordinated disclosure after three Windows zero-days were actively exploited, increasing customer security risks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -541,9 +541,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-34621",
-        "CVE-2026-33825"
+        "CVE-2026-33825",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -727,11 +727,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-9872",
+        "CVE-2026-9873",
         "CVE-2026-9876",
-        "CVE-2026-9874",
         "CVE-2026-9875",
-        "CVE-2026-9873"
+        "CVE-2026-9872",
+        "CVE-2026-9874"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -826,9 +826,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-22554",
         "CVE-2026-28764",
         "CVE-2026-25104",
-        "CVE-2026-22554",
         "CVE-2026-25713"
       ],
       "threat_categories": [
@@ -887,8 +887,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-30814",
-        "CVE-2026-30816",
-        "CVE-2026-30815"
+        "CVE-2026-30815",
+        "CVE-2026-30816"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -946,9 +946,9 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20127",
         "CVE-2026-20182",
         "CVE-2026-20122",
+        "CVE-2026-20127",
         "CVE-2026-20133",
         "CVE-2026-20128"
       ],
