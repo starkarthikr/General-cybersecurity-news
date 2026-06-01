@@ -1,6 +1,100 @@
 [
   {
     "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
+    "link": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
+    "published": "Mon, 01 Jun 2026 19:29:54 +0530",
+    "summary": "Monday hit like a cron job with anger issues.\n\nA busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual bonus round: poisoned dev tools, sketchy forum chatter, phishing kits pretending to be productivity, and AI lowering the bar for people who already thought 'curl | sh' had a personality.\n\nThe vibe is simple: old",
+    "analysis": {
+      "issue": "Your Monday cybersecurity recap covers the latest digital threats, exposed weaknesses, active attacks, and security stories defenders need to know thi",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
+    "link": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
+    "published": "Mon, 01 Jun 2026 17:24:24 +0530",
+    "summary": "A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent.\n\nAccording to Seqrite Labs, targets of the campaign include government, research, academic, technology, and financial services sectors. The activity entails distributing spear-phishing emails containing ZIP attachments",
+    "analysis": {
+      "issue": "Operation Dragon Weave delivers AdaptixC2 via phishing; Azure-based AZUREVEIL enables covert control, impacting Czech and Taiwan targets",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
+    "link": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
+    "published": "Mon, 01 Jun 2026 17:00:00 +0530",
+    "summary": "Three years ago, the practical question for an MSP building a cybersecurity practice was which \"vCISO platform\" to buy. The term was good shorthand for the work at the time: assessments, advisory, reporting, maybe a compliance module bolted on the side. The work has since outgrown the descriptor.\n\nA Security Growth Platform is the more precise name for what MSPs and MSSPs need from the software",
+    "analysis": {
+      "issue": "Why MSPs are moving beyond vCISO tools: the Security Growth Platform combine program management, CISO intelligence, and portfolio revenue analytics",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
+    "link": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
+    "published": "Mon, 01 Jun 2026 15:01:15 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI.\n\nThe tool, named codexui-android, is advertised on GitHub and npm as a remote web UI for OpenAI Codex, attracting over 29,000 weekly downloads. The package is still available for download from the repository.\n\nWhat",
+    "analysis": {
+      "issue": "Codex tokens were exfiltrated via a popular npm package, affecting users since v0",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
+    "link": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html",
+    "published": "Mon, 01 Jun 2026 14:15:29 +0530",
+    "summary": "Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create malicious administrator accounts on susceptible sites.\n\nWP Maps Pro allows site owners to embed customizable Google Maps and OpenStreetMap with markers, listings, and advanced location features on WordPress sites. It is",
+    "analysis": {
+      "issue": "CVE-2026-8732 lets attackers create admin accounts in WP Maps Pro; 2,858 attacks hit vulnerable sites in 24 hours, risking takeover",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-8732"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
     "link": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
     "published": "Sun, 31 May 2026 17:52:12 +0530",
@@ -95,71 +189,17 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
-    "link": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
-    "published": "Fri, 29 May 2026 16:00:00 +0530",
-    "summary": "Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production systems, and publishing them on the open internet. Without Security or IT in the loop.\n\nThe artifact moved from a prompt to a product. The risk surface moved with it.\n\nIn The Shadow Builders report (get it here), a",
+    "source": "Bleeping Computer",
+    "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
+    "link": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
+    "published": "Mon, 01 Jun 2026 10:00:10 -0400",
+    "summary": "Attackers are exploiting vulnerabilities faster than many organizations can identify and patch them. SecAlerts explains why faster vulnerability alerts can help reduce exposure and improve response times. [...]",
     "analysis": {
-      "issue": "2,000+ AI-built corporate apps lacked access controls across 380,000 public assets, exposing sensitive data and increasing enterprise risk",
+      "issue": "A critical RCE vulnerability is disclosed in a widely used VPN application",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
-    "link": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html",
-    "published": "Fri, 29 May 2026 14:41:25 +0530",
-    "summary": "Cybersecurity researchers have discovered a malicious NuGet package that masquerades as a C# software development kit for Sicoob, one of Brazil's largest cooperative financial systems, to siphon client IDs and PFX certificates.\n\nAccording to Socket, versions 2.0.0 through 2.0.4 of \"Sicoob.Sdk\" contain functionality to exfiltrate sensitive information, including PFX certificates that are used to",
-    "analysis": {
-      "issue": "Sdk stole PFX certificates and client IDs via NuGet downloads, enabling API impersonation and payment abuse risks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
-    "link": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html",
-    "published": "Fri, 29 May 2026 11:27:41 +0530",
-    "summary": "The North Korean state-sponsored threat actor known as Kimsuky (aka Velvet Chollima) has been attributed to a fresh set of cyber attacks targeting South Korean military and corporate entities through March and April 2026.\n\n\"Kimsuky employed a range of tailored social engineering tactics, such as spoofing security software installation pages and crafting a fake Webex meeting page that leveraged",
-    "analysis": {
-      "issue": "Kimsuky used fake security tools and Webex pages in March-April 2026 to deploy HTTPSpy, enabling persistent espionage and data theft",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
-    "link": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
-    "published": "Thu, 28 May 2026 22:54:44 +0530",
-    "summary": "A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions.\n\nThe security flaw, per Rapid7, is rated 9.4 on the CVSS scoring system. It does not have a CVE identifier.\n\n\"The vulnerability allows any authenticated user to achieve remote code execution (RCE) on",
-    "analysis": {
-      "issue": "4 CVSS flaw exploits git rebase injection on 1,141 exposed instances, enabling remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "Vulnerability"
@@ -167,24 +207,76 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
-    "link": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
-    "published": "Thu, 28 May 2026 20:56:04 +0530",
-    "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver a credential-stealing malware family dubbed EKZ Infostealer.\n\n\"The campaign abused trusted endpoint management infrastructure to deliver malware across managed endpoints,\" Arctic Wolf said. \"Threat actors disguised the credential stealer",
+    "source": "Bleeping Computer",
+    "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
+    "published": "Mon, 01 Jun 2026 08:30:27 -0400",
+    "summary": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vulnerability in attacks. [...]",
     "analysis": {
-      "issue": "FortiClient EMS flaw CVE-2026-35616 enabled malware delivery via fake updates, risking credential theft across endpoints",
+      "issue": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vulnerability in attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-41089"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Webinar tomorrow: From alert to resolution in network incident response",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
+    "published": "Mon, 01 Jun 2026 08:01:09 -0400",
+    "summary": "Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automation and AI-assisted workflows can help IT teams accelerate incident response. [...]",
+    "analysis": {
+      "issue": "Network incidents can escalate quickly, but the biggest delays often occur after the initial alert as teams work to gather context, determine ownership, and coordinate a response across multiple systems",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [
-        "CVE-2026-35616"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing"
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft fixes outage affecting MFA setup, MySignIn service",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
+    "published": "Mon, 01 Jun 2026 07:40:16 -0400",
+    "summary": "Microsoft is working to address an ongoing incident preventing customers from setting up multi-factor authentication (MFA) or accessing the My Sign-Ins platform. [...]",
+    "analysis": {
+      "issue": "Microsoft has addressed an incident preventing customers from setting up multi-factor authentication (MFA) or accessing the My Sign-Ins platform",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft fixes KB5089549 Windows security update install issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
+    "published": "Mon, 01 Jun 2026 06:59:43 -0400",
+    "summary": "Microsoft has resolved a known issue causing installation failures and 0x800f0922 errors when deploying the May 2026 Windows 11 security update (KB5089549). [...]",
+    "analysis": {
+      "issue": "Microsoft has resolved a known issue causing installation failures and 0x800f0922 errors when deploying the May 2026 Windows 11 security update (KB5089549)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -280,101 +372,6 @@
       "cves": [],
       "threat_categories": [
         "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
-    "link": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
-    "published": "Fri, 29 May 2026 10:32:02 -0400",
-    "summary": "DDoS attacks are increasingly being sold like subscription services, complete with pricing tiers, support, and reseller programs. Flare explores how the DDoS-as-a-Service market has evolved from scattered tools into polished attack platforms. [...]",
-    "analysis": {
-      "issue": "You have probably experienced the following scenario yourself",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Malware",
-        "DDoS",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Dutch govt disrupts malware botnet with 17 million infected devices",
-    "link": "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/",
-    "published": "Fri, 29 May 2026 10:26:36 -0400",
-    "summary": "Dutch authorities have taken offline a massive botnet of 17 million devices and seized more than 200 servers at a local provider that supported the operation. [...]",
-    "analysis": {
-      "issue": "Dutch authorities have taken offline a massive botnet of 17 million devices and seized more than 200 servers at a local provider that supported the operation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google Chrome adds session cookie theft protection for all users",
-    "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
-    "published": "Fri, 29 May 2026 08:08:08 -0400",
-    "summary": "Google says the Chrome Device Bound Session Credentials (DBSC) security feature is now generally available and is rolling out to all users to prevent account takeovers. [...]",
-    "analysis": {
-      "issue": "Google says the Chrome Device Bound Session Credentials (DBSC) security feature is now generally available and is rolling out to all users to prevent account takeovers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Man sent to prison for selling data of 7 millions elderly Americans",
-    "link": "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/",
-    "published": "Fri, 29 May 2026 07:07:07 -0400",
-    "summary": "A North Carolina man was sentenced to more than 10 years in prison for selling the personal information of over 7 million elderly Americans to Jamaican scammers. [...]",
-    "analysis": {
-      "issue": "A North Carolina man was sentenced to more than 10 years in prison for selling the personal information of over 7 million elderly Americans to Jamaican scammers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US charges Google security engineer with Polymarket insider trading",
-    "link": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
-    "published": "Fri, 29 May 2026 06:11:44 -0400",
-    "summary": "A Google security engineer was charged with insider trading after winning $1.2 million using confidential company data to place bets on the cryptocurrency-based Polymarket decentralized prediction market. [...]",
-    "analysis": {
-      "issue": "A Google security engineer was charged with insider trading after winning $1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -542,9 +539,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
+        "CVE-2026-33825",
         "CVE-2026-32201",
-        "CVE-2026-33825"
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -569,6 +566,80 @@
         "Malware",
         "APT",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Dragos Acquires xIoT Security Firm Phosphorus",
+    "link": "https://www.securityweek.com/dragos-acquires-xiot-security-firm-phosphorus/",
+    "published": "Mon, 01 Jun 2026 12:46:58 +0000",
+    "summary": "<p>Dragos said customers will soon gain expanded asset visibility and integrated device intelligence, with automated remediation workflows and a unified platform experience to follow.</p>\n<p>The post <a href=\"https://www.securityweek.com/dragos-acquires-xiot-security-firm-phosphorus/\">Dragos Acquires xIoT Security Firm Phosphorus</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Dragos said customers will soon gain expanded asset visibility and integrated device intelligence, with automated remediation workflows and a unified platform experience to follow",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution",
+    "link": "https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/",
+    "published": "Mon, 01 Jun 2026 11:48:59 +0000",
+    "summary": "<p>AI’s use in the military is part of the administration’s larger push to grow the capability it sees as a unique American advantage.</p>\n<p>The post <a href=\"https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/\">As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "AI’s use in the military is part of the administration’s larger push to grow the capability it sees as a unique American advantage",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access",
+    "link": "https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/",
+    "published": "Mon, 01 Jun 2026 11:19:31 +0000",
+    "summary": "<p>Proof-of-concept (PoC) exploit code has been released for the CIFSwitch flaw, which allows low-privileged users to escalate to root on vulnerable Linux systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/\">19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Proof-of-concept (PoC) exploit code has been released for the CIFSwitch flaw, which allows low-privileged users to escalate to root on vulnerable Linux systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Recent Palo Alto Networks Vulnerability Exploited for Weeks",
+    "link": "https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/",
+    "published": "Mon, 01 Jun 2026 10:00:00 +0000",
+    "summary": "<p>Hackers began exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks PAN-OS, four days after public disclosure.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/\">Recent Palo Alto Networks Vulnerability Exploited for Weeks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers began exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks PAN-OS, four days after public disclosure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-0257"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -696,89 +767,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach",
-    "link": "https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/",
-    "published": "Fri, 29 May 2026 11:12:15 +0000",
-    "summary": "<p>Attorney General Rob Bonta filed the lawsuit against Chrome Holding Co., which 23andMe rebranded under after filing for bankruptcy last March.</p>\n<p>The post <a href=\"https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/\">California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Attorney General Rob Bonta filed the lawsuit against Chrome Holding Co",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chrome 148 Update Patches 151 Vulnerabilities",
-    "link": "https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/",
-    "published": "Fri, 29 May 2026 10:17:23 +0000",
-    "summary": "<p>The browser update resolves critical-severity security defects that could potentially lead to remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/\">Chrome 148 Update Patches 151 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The browser update resolves critical-severity security defects that could potentially lead to remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-9875",
-        "CVE-2026-9876",
-        "CVE-2026-9874",
-        "CVE-2026-9873",
-        "CVE-2026-9872"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks",
-    "link": "https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/",
-    "published": "Thu, 28 May 2026 18:50:49 +0000",
-    "summary": "<p>Researchers warn GreyVibe’s extensive use of ChatGPT, Gemini, and other AI tools offers a glimpse into how future cybercriminal and state-aligned groups will operate.</p>\n<p>The post <a href=\"https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/\">Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Researchers warn GreyVibe’s extensive use of ChatGPT, Gemini, and other AI tools offers a glimpse into how future cybercriminal and state-aligned groups will operate",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Geordie Raises $30 Million for AI Security and Governance Platform",
-    "link": "https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/",
-    "published": "Thu, 28 May 2026 17:07:16 +0000",
-    "summary": "<p>The funding round was led by Balderton Capital, with additional support from Crosspoint Capital and previous investors General Catalyst and Ten Eleven Ventures.</p>\n<p>The post <a href=\"https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/\">Geordie Raises $30 Million for AI Security and Governance Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The funding round was led by Balderton Capital, with additional support from Crosspoint Capital and previous investors General Catalyst and Ten Eleven Ventures",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Less panic patching, more precision",
     "link": "https://blog.talosintelligence.com/less-panic-patching-more-precision/",
@@ -827,9 +815,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-25713",
         "CVE-2026-22554",
         "CVE-2026-28764",
-        "CVE-2026-25713",
         "CVE-2026-25104"
       ],
       "threat_categories": [
@@ -947,11 +935,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20133",
+        "CVE-2026-20182",
         "CVE-2026-20122",
         "CVE-2026-20128",
         "CVE-2026-20127",
-        "CVE-2026-20182"
+        "CVE-2026-20133"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1356,6 +1344,42 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Your phone called. It needs a cleanup.",
+    "link": "https://www.malwarebytes.com/blog/mobile/2026/06/your-phone-called-it-needs-a-cleanup",
+    "published": "Mon, 01 Jun 2026 08:31:44 GMT",
+    "summary": "Introducing Android Junk Cleaner. It scans your phone for leftover files, temporary data, and outdated caches that build up and slow down your device.",
+    "analysis": {
+      "issue": "Does it sometimes take your phone a few minutes to accomplish one simple task",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "A week in security (May 25 &#8211; May 31)",
+    "link": "https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-may-25-may-31",
+    "published": "Mon, 01 Jun 2026 07:01:00 GMT",
+    "summary": "A list of topics we covered in the week of May 25 to May 31 of 2026",
+    "analysis": {
+      "issue": "Last week on Malwarebytes Labs: Stay safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Payment apps are watching what you say (Lock and Code S07E11)",
     "link": "https://www.malwarebytes.com/blog/podcast/2026/05/payment-apps-are-watching-what-you-say-lock-and-code-s07e11",
     "published": "Mon, 01 Jun 2026 01:52:57 GMT",
@@ -1503,40 +1527,38 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Fake software on GitHub and SourceForge distribute Deno RAT",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/05/fake-software-on-github-and-sourceforge-distribute-deno-rat",
-    "published": "Tue, 26 May 2026 13:07:09 GMT",
-    "summary": "We found fake installers and plugins for ChatGPT, Claude, AutoTune, and other popular software that can give attackers full control over your device.",
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/",
+    "published": "Jun 01, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "During our threat hunting activities, we found fake installers and plugins impersonating popular software including ChatGPT, Claude, AutoTune, and Kontakt on GitHub and SourceForge distributing a Deno backdoor known as DinDoor",
+      "issue": "This collaboration integrates NVIDIA DOCA telemetry into Falcon Next-Gen SIEM for unified visibility across the AI factory",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "General Security"
       ]
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "700+ education and tech websites hijacked in huge ClickFix malware campaign",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/05/700-education-and-tech-websites-hijacked-in-huge-clickfix-malware-campaign",
-    "published": "Tue, 26 May 2026 10:46:28 GMT",
-    "summary": "Hackers are abusing a Ghost CMS website flaw to serve fake Cloudflare verification pages that pressure users into infecting their own PCs.",
+    "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/",
+    "published": "Jun 01, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "Attackers are abusing a critical Ghost Content Management System (CMS) vulnerability to hijack more than 700 legitimate websites and inject a fake Cloudflare verification step that tricks visitors into running a Windows command that installs malware",
+      "issue": "This collaboration aims to scale AI-native agents within Falcon Exposure Management for faster vulnerability remediation",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
+        "Vulnerability"
       ]
     }
   },
@@ -1681,42 +1703,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/",
-    "published": "May 13, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Falcon AIDR brings runtime visibility and detection to the prompt layer in Kubernetes AI applications",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs",
-    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/",
-    "published": "May 12, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Microsoft has released security updates for 130 vulnerabilities, including 30 critical, in its May 2026 Patch Tuesday rollout",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   }
