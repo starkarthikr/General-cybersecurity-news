@@ -542,8 +542,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-34621",
+        "CVE-2026-32201",
         "CVE-2026-33825"
       ],
       "threat_categories": [
@@ -728,11 +728,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-9875",
-        "CVE-2026-9876",
+        "CVE-2026-9872",
         "CVE-2026-9874",
-        "CVE-2026-9873",
-        "CVE-2026-9872"
+        "CVE-2026-9876",
+        "CVE-2026-9875",
+        "CVE-2026-9873"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -827,10 +827,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25104",
+        "CVE-2026-28764",
         "CVE-2026-25713",
         "CVE-2026-22554",
-        "CVE-2026-28764"
+        "CVE-2026-25104"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -887,9 +887,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-30816",
         "CVE-2026-30814",
-        "CVE-2026-30815",
-        "CVE-2026-30816"
+        "CVE-2026-30815"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -948,10 +948,10 @@
       "severity": "High",
       "cves": [
         "CVE-2026-20127",
-        "CVE-2026-20182",
         "CVE-2026-20122",
         "CVE-2026-20128",
-        "CVE-2026-20133"
+        "CVE-2026-20133",
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1325,8 +1325,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1351,6 +1351,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Payment apps are watching what you say (Lock and Code S07E11)",
+    "link": "https://www.malwarebytes.com/blog/podcast/2026/05/payment-apps-are-watching-what-you-say-lock-and-code-s07e11",
+    "published": "Mon, 01 Jun 2026 01:52:57 GMT",
+    "summary": "This week on the Lock and Code podcast, we speak with Rainey Reitman about financial censorship that boots customers off major payment apps.",
+    "analysis": {
+      "issue": "This week on the Lock and Code podcast… In the United States today, you can have your bank account closed, your credit cards cancelled, and your online payments revoked for any number of crimes, like funding terrorism, engaging in money laundering, o",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1519,24 +1537,6 @@
         "Vulnerability",
         "Malware",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Scammers pretending to be Microsoft had help from US executives",
-    "link": "https://www.malwarebytes.com/blog/news/2026/05/scammers-pretending-to-be-microsoft-had-help-from-us-executives",
-    "published": "Tue, 26 May 2026 10:01:25 GMT",
-    "summary": "Court documents reveal how tech support scammers relied on infrastructure supplied by a US business.",
-    "analysis": {
-      "issue": "A pop-up appears on your computer, warning of a virus",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },

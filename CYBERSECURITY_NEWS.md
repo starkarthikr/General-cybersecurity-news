@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-05-31 17:38:14 UTC
+**Last Updated:** 2026-06-01 04:51:34 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -266,7 +266,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
+**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -350,7 +350,7 @@
 **Source:** Security Week  
 **Published:** Fri, 29 May 2026 10:17:23 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-9875, CVE-2026-9876, CVE-2026-9874, CVE-2026-9873, CVE-2026-9872  
+**CVEs:** CVE-2026-9872, CVE-2026-9874, CVE-2026-9876, CVE-2026-9875, CVE-2026-9873  
 **Categories:** Vulnerability  
 
 ---
@@ -396,7 +396,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25104, CVE-2026-25713, CVE-2026-22554, CVE-2026-28764  
+**CVEs:** CVE-2026-28764, CVE-2026-25713, CVE-2026-22554, CVE-2026-25104  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -424,7 +424,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30814, CVE-2026-30815, CVE-2026-30816  
+**CVEs:** CVE-2026-30816, CVE-2026-30814, CVE-2026-30815  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -452,7 +452,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20127, CVE-2026-20182, CVE-2026-20122, CVE-2026-20128, CVE-2026-20133  
+**CVEs:** CVE-2026-20127, CVE-2026-20122, CVE-2026-20128, CVE-2026-20133, CVE-2026-20182  
 **Categories:** Vulnerability  
 
 ---
@@ -636,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -651,7 +651,16 @@
 
 ---
 
-### 71. [Signal users targeted in backup-stealing phishing attacks](https://www.malwarebytes.com/blog/news/2026/05/signal-users-targeted-in-backup-stealing-phishing-attacks)
+### 71. [Payment apps are watching what you say (Lock and Code S07E11)](https://www.malwarebytes.com/blog/podcast/2026/05/payment-apps-are-watching-what-you-say-lock-and-code-s07e11)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 01 Jun 2026 01:52:57 GMT  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 72. [Signal users targeted in backup-stealing phishing attacks](https://www.malwarebytes.com/blog/news/2026/05/signal-users-targeted-in-backup-stealing-phishing-attacks)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 29 May 2026 12:07:24 GMT  
@@ -660,7 +669,7 @@
 
 ---
 
-### 72. [Carnival confirms data breach impacting nearly 6 million](https://www.malwarebytes.com/blog/data-breaches/2026/05/carnival-confirms-data-breach-impacting-nearly-6-million)
+### 73. [Carnival confirms data breach impacting nearly 6 million](https://www.malwarebytes.com/blog/data-breaches/2026/05/carnival-confirms-data-breach-impacting-nearly-6-million)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 28 May 2026 12:04:52 GMT  
@@ -669,7 +678,7 @@
 
 ---
 
-### 73. [Your Windows PC has a security deadline in June 2026](https://www.malwarebytes.com/blog/how-to/2026/05/your-windows-pc-has-a-security-deadline-in-june-2026)
+### 74. [Your Windows PC has a security deadline in June 2026](https://www.malwarebytes.com/blog/how-to/2026/05/your-windows-pc-has-a-security-deadline-in-june-2026)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 28 May 2026 11:03:43 GMT  
@@ -678,7 +687,7 @@
 
 ---
 
-### 74. [Fake ChatGPT download site infects Windows and Mac users with malware](https://www.malwarebytes.com/blog/threat-intel/2026/05/fake-chatgpt-download-site-infects-windows-and-mac-users-with-malware)
+### 75. [Fake ChatGPT download site infects Windows and Mac users with malware](https://www.malwarebytes.com/blog/threat-intel/2026/05/fake-chatgpt-download-site-infects-windows-and-mac-users-with-malware)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 28 May 2026 10:18:26 GMT  
@@ -687,7 +696,7 @@
 
 ---
 
-### 75. [Kali365 phishing kit bypasses MFA and steals Microsoft logins](https://www.malwarebytes.com/blog/scams/2026/05/kali365-phishing-kit-bypasses-mfa-and-steals-microsoft-logins)
+### 76. [Kali365 phishing kit bypasses MFA and steals Microsoft logins](https://www.malwarebytes.com/blog/scams/2026/05/kali365-phishing-kit-bypasses-mfa-and-steals-microsoft-logins)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 27 May 2026 11:41:54 GMT  
@@ -696,7 +705,7 @@
 
 ---
 
-### 76. [Company bragged phone mics could listen to conversations. They couldn&#8217;t.](https://www.malwarebytes.com/blog/news/2026/05/company-bragged-phone-mics-could-listen-to-conversations-they-couldnt)
+### 77. [Company bragged phone mics could listen to conversations. They couldn&#8217;t.](https://www.malwarebytes.com/blog/news/2026/05/company-bragged-phone-mics-could-listen-to-conversations-they-couldnt)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 27 May 2026 09:56:26 GMT  
@@ -705,7 +714,7 @@
 
 ---
 
-### 77. [Fake LinkedIn emails abuse Adobe to track victims](https://www.malwarebytes.com/blog/threat-intel/2026/05/fake-linkedin-emails-abuse-adobe-to-track-victims)
+### 78. [Fake LinkedIn emails abuse Adobe to track victims](https://www.malwarebytes.com/blog/threat-intel/2026/05/fake-linkedin-emails-abuse-adobe-to-track-victims)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 27 May 2026 09:32:09 GMT  
@@ -714,7 +723,7 @@
 
 ---
 
-### 78. [Fake software on GitHub and SourceForge distribute Deno RAT](https://www.malwarebytes.com/blog/threat-intel/2026/05/fake-software-on-github-and-sourceforge-distribute-deno-rat)
+### 79. [Fake software on GitHub and SourceForge distribute Deno RAT](https://www.malwarebytes.com/blog/threat-intel/2026/05/fake-software-on-github-and-sourceforge-distribute-deno-rat)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 26 May 2026 13:07:09 GMT  
@@ -723,21 +732,12 @@
 
 ---
 
-### 79. [700+ education and tech websites hijacked in huge ClickFix malware campaign](https://www.malwarebytes.com/blog/bugs/2026/05/700-education-and-tech-websites-hijacked-in-huge-clickfix-malware-campaign)
+### 80. [700+ education and tech websites hijacked in huge ClickFix malware campaign](https://www.malwarebytes.com/blog/bugs/2026/05/700-education-and-tech-websites-hijacked-in-huge-clickfix-malware-campaign)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 26 May 2026 10:46:28 GMT  
 **Severity:** Critical  
 **Categories:** Vulnerability, Malware, APT  
-
----
-
-### 80. [Scammers pretending to be Microsoft had help from US executives](https://www.malwarebytes.com/blog/news/2026/05/scammers-pretending-to-be-microsoft-had-help-from-us-executives)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 26 May 2026 10:01:25 GMT  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
