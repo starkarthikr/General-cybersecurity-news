@@ -190,6 +190,43 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "WordPress malware campaign hides payloads in Steam profiles",
+    "link": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
+    "published": "Mon, 01 Jun 2026 13:04:16 -0400",
+    "summary": "Nearly 2,000 WordPress websites were infected with malware that relies on Steam Community profile comments to hide command-and-control (C2) data. [...]",
+    "analysis": {
+      "issue": "Nearly 2,000 WordPress websites were infected with malware that relies on Steam Community profile comments to hide command-and-control (C2) data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft investigates Office Apps, Teams file access issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
+    "published": "Mon, 01 Jun 2026 10:36:46 -0400",
+    "summary": "Microsoft says an ongoing incident is preventing users of its Teams collaboration platform and Office for the web cloud-based productivity suite from opening files. [...]",
+    "analysis": {
+      "issue": "Microsoft says an ongoing incident is preventing users of its Teams collaboration platform and Office for the web cloud-based productivity suite from opening files",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
     "link": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
     "published": "Mon, 01 Jun 2026 10:00:10 -0400",
@@ -339,39 +376,20 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
-    "link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
-    "published": "Fri, 29 May 2026 14:21:36 -0400",
-    "summary": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
+    "source": "Krebs On Security",
+    "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+    "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+    "published": "Mon, 01 Jun 2026 17:32:50 +0000",
+    "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords.",
     "analysis": {
-      "issue": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application",
+      "issue": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "California AG sues 23andMe over 2023 breach exposing health data",
-    "link": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
-    "published": "Fri, 29 May 2026 14:08:47 -0400",
-    "summary": "California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrome Holding Co., over the company's failure to protect sensitive customer genetic and personal information. [...]",
-    "analysis": {
-      "issue": "California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrome Holding Co",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
+        "Vulnerability"
       ]
     }
   },
@@ -539,9 +557,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
+        "CVE-2026-34621",
         "CVE-2026-32201",
-        "CVE-2026-34621"
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -550,22 +568,22 @@
     }
   },
   {
-    "source": "Krebs On Security",
-    "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
-    "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
-    "published": "Tue, 07 Apr 2026 17:02:44 +0000",
-    "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.",
+    "source": "Security Week",
+    "title": "Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs",
+    "link": "https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/",
+    "published": "Mon, 01 Jun 2026 15:02:17 +0000",
+    "summary": "<p>Organizations are advised to patch CVE-2026-41089 as soon as possible, given its severity, the potential ongoing exploitation.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/\">Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "Hackers linked to Russia’s military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today",
+      "issue": "Organizations are advised to patch CVE-2026-41089 as soon as possible, given its severity, the potential ongoing exploitation",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-41089"
+      ],
       "threat_categories": [
-        "Malware",
-        "APT",
-        "Supply Chain"
+        "Vulnerability"
       ]
     }
   },
@@ -747,26 +765,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Gogs Zero-Day Exposes Servers to Remote Code Execution",
-    "link": "https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/",
-    "published": "Fri, 29 May 2026 12:59:37 +0000",
-    "summary": "<p>The critical-severity issue, assigned a CVSS score of 9.4, is an argument injection flaw that can be exploited by authenticated attackers via pull requests with malicious branch names.</p>\n<p>The post <a href=\"https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/\">Gogs Zero-Day Exposes Servers to Remote Code Execution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The critical-severity issue, assigned a CVSS score of 9",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-8110"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Less panic patching, more precision",
     "link": "https://blog.talosintelligence.com/less-panic-patching-more-precision/",
@@ -875,9 +873,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30814",
         "CVE-2026-30816",
-        "CVE-2026-30815"
+        "CVE-2026-30815",
+        "CVE-2026-30814"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -935,11 +933,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20182",
+        "CVE-2026-20127",
+        "CVE-2026-20133",
         "CVE-2026-20122",
         "CVE-2026-20128",
-        "CVE-2026-20127",
-        "CVE-2026-20133"
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1313,8 +1311,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1339,6 +1337,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Fake BlueWallet steals passwords, accounts, and crypto from Macs",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/06/fake-bluewallet-steals-passwords-accounts-and-crypto-from-macs",
+    "published": "Mon, 01 Jun 2026 14:40:25 GMT",
+    "summary": "A fake BlueWallet download tricks Mac users into running malware that steals passwords, crypto wallets, and clipboard data.",
+    "analysis": {
+      "issue": "A fake website impersonating BlueWallet (a real Bitcoin wallet) is targeting Mac users with a simple but effective attack",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -1505,24 +1521,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Fake LinkedIn emails abuse Adobe to track victims",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/05/fake-linkedin-emails-abuse-adobe-to-track-victims",
-    "published": "Wed, 27 May 2026 09:32:09 GMT",
-    "summary": "Phishers are stealing LinkedIn credentials while abusing Adobe Target to track victims and redirect them to real LinkedIn pages.",
-    "analysis": {
-      "issue": "Cybercriminals are abusing Adobe infrastructure in a LinkedIn phishing campaign that steals passwords and redirects victims to the legitimate LinkedIn site afterward",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
       ]
     }
   },
