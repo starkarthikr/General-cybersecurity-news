@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-01 17:53:08 UTC
+**Last Updated:** 2026-06-01 20:43:51 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More](https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html)
+### 1. [Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm](https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 01 Jun 2026 23:10:28 +0530  
+**Severity:** Low  
+**Categories:** Phishing, Supply Chain  
+
+---
+
+### 2. [⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More](https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 01 Jun 2026 19:29:54 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan](https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html)
+### 3. [China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan](https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 01 Jun 2026 17:24:24 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools](https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html)
+### 4. [The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools](https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 01 Jun 2026 17:00:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack](https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html)
+### 5. [OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack](https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 01 Jun 2026 15:01:15 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts](https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html)
+### 6. [Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts](https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 01 Jun 2026 14:15:29 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices](https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html)
+### 7. [Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices](https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 31 May 2026 17:52:12 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation](https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html)
+### 8. [PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation](https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 30 May 2026 12:11:26 +0530  
@@ -69,7 +78,7 @@
 
 ---
 
-### 8. [ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface](https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html)
+### 9. [ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface](https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 29 May 2026 23:37:12 +0530  
@@ -78,7 +87,7 @@
 
 ---
 
-### 9. [Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit](https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html)
+### 10. [Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit](https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 29 May 2026 20:09:56 +0530  
@@ -88,16 +97,16 @@
 
 ---
 
-### 10. [New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks](https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html)
+### 11. [Dashlane password manager users locked out by brute force attacks](https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 29 May 2026 17:01:59 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 01 Jun 2026 14:17:13 -0400  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** Phishing  
 
 ---
 
-### 11. [WordPress malware campaign hides payloads in Steam profiles](https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/)
+### 12. [WordPress malware campaign hides payloads in Steam profiles](https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 13:04:16 -0400  
@@ -106,7 +115,7 @@
 
 ---
 
-### 12. [Microsoft investigates Office Apps, Teams file access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/)
+### 13. [Microsoft investigates Office Apps, Teams file access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 10:36:46 -0400  
@@ -115,7 +124,7 @@
 
 ---
 
-### 13. [Race Against Time: Why Faster Vulnerability Alerts Matter](https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/)
+### 14. [Race Against Time: Why Faster Vulnerability Alerts Matter](https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 10:00:10 -0400  
@@ -124,7 +133,7 @@
 
 ---
 
-### 14. [Critical Windows Netlogon RCE flaw now exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/)
+### 15. [Critical Windows Netlogon RCE flaw now exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 08:30:27 -0400  
@@ -134,7 +143,7 @@
 
 ---
 
-### 15. [Webinar tomorrow: From alert to resolution in network incident response](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/)
+### 16. [Webinar tomorrow: From alert to resolution in network incident response](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 08:01:09 -0400  
@@ -143,7 +152,7 @@
 
 ---
 
-### 16. [Microsoft fixes outage affecting MFA setup, MySignIn service](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/)
+### 17. [Microsoft fixes outage affecting MFA setup, MySignIn service](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 07:40:16 -0400  
@@ -152,7 +161,7 @@
 
 ---
 
-### 17. [Microsoft fixes KB5089549 Windows security update install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/)
+### 18. [Microsoft fixes KB5089549 Windows security update install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 06:59:43 -0400  
@@ -161,7 +170,7 @@
 
 ---
 
-### 18. [WP Maps Pro bug exploited to create admin accounts on WordPress sites](https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/)
+### 19. [WP Maps Pro bug exploited to create admin accounts on WordPress sites](https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 31 May 2026 10:06:42 -0400  
@@ -171,21 +180,12 @@
 
 ---
 
-### 19. [Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/)
+### 20. [Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 30 May 2026 14:02:51 -0400  
 **Severity:** High  
 **CVEs:** CVE-2026-0257  
-**Categories:** Vulnerability  
-
----
-
-### 20. [New CIFSwitch Linux flaw gives root on multiple distributions](https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 30 May 2026 10:16:08 -0400  
-**Severity:** High  
 **Categories:** Vulnerability  
 
 ---
@@ -281,7 +281,26 @@
 
 ---
 
-### 31. [Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/)
+### 31. [WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites](https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/)
+
+**Source:** Security Week  
+**Published:** Mon, 01 Jun 2026 18:19:23 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-8732  
+**Categories:** Vulnerability, Malware, Supply Chain  
+
+---
+
+### 32. [Dutch Police Dismantle Massive 17-Million-Device Botnet](https://www.securityweek.com/dutch-police-dismantle-massive-17-million-device-botnet/)
+
+**Source:** Security Week  
+**Published:** Mon, 01 Jun 2026 17:55:26 +0000  
+**Severity:** Low  
+**Categories:** Malware, Phishing, DDoS  
+
+---
+
+### 33. [Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/)
 
 **Source:** Security Week  
 **Published:** Mon, 01 Jun 2026 15:02:17 +0000  
@@ -291,7 +310,7 @@
 
 ---
 
-### 32. [Dragos Acquires xIoT Security Firm Phosphorus](https://www.securityweek.com/dragos-acquires-xiot-security-firm-phosphorus/)
+### 34. [Dragos Acquires xIoT Security Firm Phosphorus](https://www.securityweek.com/dragos-acquires-xiot-security-firm-phosphorus/)
 
 **Source:** Security Week  
 **Published:** Mon, 01 Jun 2026 12:46:58 +0000  
@@ -300,7 +319,7 @@
 
 ---
 
-### 33. [As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution](https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/)
+### 35. [As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution](https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/)
 
 **Source:** Security Week  
 **Published:** Mon, 01 Jun 2026 11:48:59 +0000  
@@ -309,7 +328,7 @@
 
 ---
 
-### 34. [19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access](https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/)
+### 36. [19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access](https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/)
 
 **Source:** Security Week  
 **Published:** Mon, 01 Jun 2026 11:19:31 +0000  
@@ -318,7 +337,7 @@
 
 ---
 
-### 35. [Recent Palo Alto Networks Vulnerability Exploited for Weeks](https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/)
+### 37. [Recent Palo Alto Networks Vulnerability Exploited for Weeks](https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/)
 
 **Source:** Security Week  
 **Published:** Mon, 01 Jun 2026 10:00:00 +0000  
@@ -328,7 +347,7 @@
 
 ---
 
-### 36. [Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say](https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/)
+### 38. [Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say](https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/)
 
 **Source:** Security Week  
 **Published:** Sat, 30 May 2026 16:00:49 +0000  
@@ -337,7 +356,7 @@
 
 ---
 
-### 37. [Exploit Code Published for Critical Flowise RCE Vulnerability](https://www.securityweek.com/exploit-code-published-for-critical-flowise-rce-vulnerability/)
+### 39. [Exploit Code Published for Critical Flowise RCE Vulnerability](https://www.securityweek.com/exploit-code-published-for-critical-flowise-rce-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Sat, 30 May 2026 15:55:59 +0000  
@@ -347,30 +366,12 @@
 
 ---
 
-### 38. [In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks](https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/)
+### 40. [In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks](https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/)
 
 **Source:** Security Week  
 **Published:** Fri, 29 May 2026 16:20:49 +0000  
 **Severity:** High  
 **Categories:** Data Breach, Vulnerability, Malware, Phishing, APT, Supply Chain  
-
----
-
-### 39. [Charter Communications Data Breach Could Impact Nearly 5 Million](https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/)
-
-**Source:** Security Week  
-**Published:** Fri, 29 May 2026 14:49:58 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Data Breach, Phishing  
-
----
-
-### 40. [MokN Raises $15 Million for Phish-Back Platform](https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/)
-
-**Source:** Security Week  
-**Published:** Fri, 29 May 2026 14:34:15 +0000  
-**Severity:** Critical  
-**Categories:** Data Breach, Malware  
 
 ---
 
@@ -397,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25713, CVE-2026-22554, CVE-2026-28764, CVE-2026-25104  
+**CVEs:** CVE-2026-22554, CVE-2026-25104, CVE-2026-28764, CVE-2026-25713  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -425,7 +426,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30816, CVE-2026-30815, CVE-2026-30814  
+**CVEs:** CVE-2026-30816, CVE-2026-30814, CVE-2026-30815  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -453,7 +454,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20127, CVE-2026-20133, CVE-2026-20122, CVE-2026-20128, CVE-2026-20182  
+**CVEs:** CVE-2026-20128, CVE-2026-20133, CVE-2026-20122, CVE-2026-20127, CVE-2026-20182  
 **Categories:** Vulnerability  
 
 ---
@@ -637,7 +638,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -760,7 +761,16 @@
 
 ---
 
-### 83. [CrowdStrike Named a Leader in 2026 Gartner&reg; Magic Quadrant&trade; for Endpoint Protection for Seventh Consecutive Time](https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-in-2026-gartner-magic-quadrant-for-endpoint-protection/)
+### 83. [Secure Shadow AI at the Control Plane with Falcon for IT](https://www.crowdstrike.com/en-us/blog/secure-shadow-ai-at-the-control-plane-with-falcon-for-it/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jun 01, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 84. [CrowdStrike Named a Leader in 2026 Gartner&reg; Magic Quadrant&trade; for Endpoint Protection for Seventh Consecutive Time](https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-in-2026-gartner-magic-quadrant-for-endpoint-protection/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 29, 2026 00:00:00-0500  
@@ -769,7 +779,7 @@
 
 ---
 
-### 84. [Shadow AI: The Hidden Risk Expanding Across the Enterprise](https://www.crowdstrike.com/en-us/blog/shadow-ai-hidden-risk-expanding-across-the-enterprise/)
+### 85. [Shadow AI: The Hidden Risk Expanding Across the Enterprise](https://www.crowdstrike.com/en-us/blog/shadow-ai-hidden-risk-expanding-across-the-enterprise/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 29, 2026 00:00:00-0500  
@@ -778,7 +788,7 @@
 
 ---
 
-### 85. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
+### 86. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 26, 2026 00:00:00-0500  
@@ -787,7 +797,7 @@
 
 ---
 
-### 86. [Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet](https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/)
+### 87. [Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet](https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 26, 2026 00:00:00-0500  
@@ -796,7 +806,7 @@
 
 ---
 
-### 87. [Measuring AI-Enabled Success: 3 KPIs Leaders Should Track](https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/)
+### 88. [Measuring AI-Enabled Success: 3 KPIs Leaders Should Track](https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 22, 2026 00:00:00-0700  
@@ -805,7 +815,7 @@
 
 ---
 
-### 88. [New Claude Integration Brings Audit Data into the Falcon Platform](https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/)
+### 89. [New Claude Integration Brings Audit Data into the Falcon Platform](https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 21, 2026 00:00:00-0500  
@@ -814,21 +824,12 @@
 
 ---
 
-### 89. [How to Protect Identities and Sessions from Infostealers](https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/)
+### 90. [How to Protect Identities and Sessions from Infostealers](https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 20, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 90. [Now Live: The CrowdStrike 2026 Financial Services Threat Landscape Report](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-financial-services-threat-landscape-report/)
-
-**Source:** Crowdstrike Blog  
-**Published:** May 14, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 

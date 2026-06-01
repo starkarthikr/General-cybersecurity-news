@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
+    "link": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
+    "published": "Mon, 01 Jun 2026 23:10:28 +0530",
+    "summary": "A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm.\n\n\"This is effectively a Mini Shai-Hulud campaign: it uses the same core tactics of install-time execution, credential harvesting, CI/CD targeting, encrypted exfiltration, and potential",
+    "analysis": {
+      "issue": "Compromised npm packages targeted Red Hat cloud services, enabling credential theft and expanding supply chain risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
     "link": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
     "published": "Mon, 01 Jun 2026 19:29:54 +0530",
@@ -171,20 +190,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
-    "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
-    "published": "Fri, 29 May 2026 17:01:59 +0530",
-    "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025.\n\nGREYVIBE, per WithSecure, is assessed to be a Russian-speaking group operating broadly in the Russian time zone, with the activities aligning with Kremlin state interests, specifically when it comes to",
+    "source": "Bleeping Computer",
+    "title": "Dashlane password manager users locked out by brute force attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
+    "published": "Mon, 01 Jun 2026 14:17:13 -0400",
+    "summary": "Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]",
     "analysis": {
-      "issue": "GREYVIBE targeted Ukraine since August 2025 using AI-assisted malware campaigns, increasing espionage capabilities and attribution challenges",
+      "issue": "Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Phishing"
       ]
     }
   },
@@ -352,24 +371,6 @@
       "cves": [
         "CVE-2026-0257"
       ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
-    "link": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
-    "published": "Sat, 30 May 2026 10:16:08 -0400",
-    "summary": "A newly discovered local privilege escalation vulnerability dubbed 'CIFSwitch' in the Linux kernel could allow attackers to forge CIFS authentication key descriptions, abuse the kernel's key request mechanism, and gain root privileges. [...]",
-    "analysis": {
-      "issue": "A newly discovered local privilege escalation vulnerability dubbed 'CIFSwitch' in the Linux kernel could allow attackers to forge CIFS authentication key descriptions, abuse the kernel's key request mechanism, and gain root privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -569,6 +570,48 @@
   },
   {
     "source": "Security Week",
+    "title": "WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites",
+    "link": "https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/",
+    "published": "Mon, 01 Jun 2026 18:19:23 +0000",
+    "summary": "<p>The security defect (CVE-2026-8732) allows unauthenticated attackers to create administrative accounts on the affected installations.</p>\n<p>The post <a href=\"https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/\">WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The security defect (CVE-2026-8732) allows unauthenticated attackers to create administrative accounts on the affected installations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-8732"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Dutch Police Dismantle Massive 17-Million-Device Botnet",
+    "link": "https://www.securityweek.com/dutch-police-dismantle-massive-17-million-device-botnet/",
+    "published": "Mon, 01 Jun 2026 17:55:26 +0000",
+    "summary": "<p>Dutch authorities seized command-and-control servers tied to a botnet of infected computers, smartphones, and tablets that was allegedly used to power a residential proxy network and facilitate cybercrime.</p>\n<p>The post <a href=\"https://www.securityweek.com/dutch-police-dismantle-massive-17-million-device-botnet/\">Dutch Police Dismantle Massive 17-Million-Device Botnet</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Dutch authorities seized command-and-control servers tied to a botnet of infected computers, smartphones, and tablets that was allegedly used to power a residential proxy network and facilitate cybercrime",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs",
     "link": "https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/",
     "published": "Mon, 01 Jun 2026 15:02:17 +0000",
@@ -726,45 +769,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Charter Communications Data Breach Could Impact Nearly 5 Million",
-    "link": "https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/",
-    "published": "Fri, 29 May 2026 14:49:58 +0000",
-    "summary": "<p>The notorious ShinyHunters extortion group leaked over 42 million records allegedly stolen from Charter in April.</p>\n<p>The post <a href=\"https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/\">Charter Communications Data Breach Could Impact Nearly 5 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The notorious ShinyHunters extortion group leaked over 42 million records allegedly stolen from Charter in April",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "MokN Raises $15 Million for Phish-Back Platform",
-    "link": "https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/",
-    "published": "Fri, 29 May 2026 14:34:15 +0000",
-    "summary": "<p>MokN's platform deploys realistic decoy access points to lure attackers into revealing compromised credentials, enabling organizations to respond before abuse occurs.</p>\n<p>The post <a href=\"https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/\">MokN Raises $15 Million for Phish-Back Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "MokN’s platform deploys realistic decoy access points to lure attackers into revealing compromised credentials, enabling organizations to respond before abuse occurs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Less panic patching, more precision",
     "link": "https://blog.talosintelligence.com/less-panic-patching-more-precision/",
@@ -813,10 +817,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25713",
         "CVE-2026-22554",
+        "CVE-2026-25104",
         "CVE-2026-28764",
-        "CVE-2026-25104"
+        "CVE-2026-25713"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -874,8 +878,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-30816",
-        "CVE-2026-30815",
-        "CVE-2026-30814"
+        "CVE-2026-30814",
+        "CVE-2026-30815"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -933,10 +937,10 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20127",
+        "CVE-2026-20128",
         "CVE-2026-20133",
         "CVE-2026-20122",
-        "CVE-2026-20128",
+        "CVE-2026-20127",
         "CVE-2026-20182"
       ],
       "threat_categories": [
@@ -1311,8 +1315,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1562,6 +1566,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Secure Shadow AI at the Control Plane with Falcon for IT",
+    "link": "https://www.crowdstrike.com/en-us/blog/secure-shadow-ai-at-the-control-plane-with-falcon-for-it/",
+    "published": "Jun 01, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "AI is expanding the attack surface and introducing new execution paths across the enterprise control plane",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "CrowdStrike Named a Leader in 2026 Gartner&reg; Magic Quadrant&trade; for Endpoint Protection for Seventh Consecutive Time",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-in-2026-gartner-magic-quadrant-for-endpoint-protection/",
     "published": "May 29, 2026 00:00:00-0500",
@@ -1683,24 +1705,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Now Live: The CrowdStrike 2026 Financial Services Threat Landscape Report",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-financial-services-threat-landscape-report/",
-    "published": "May 14, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Financial services face a threat landscape defined by stealth access, device exploitation, intel collection and more",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   }
