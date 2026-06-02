@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
+    "link": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html",
+    "published": "Tue, 02 Jun 2026 09:25:25 +0530",
+    "summary": "Password manager Dashlane has disclosed that \"fewer than\" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unknown party.\n\nOn May 31, 2026, the company said an \"external\" threat actor launched a brute-force attack against certain Dashlane user accounts with the aim of breaking two-factor authentication (2FA)",
+    "analysis": {
+      "issue": "Brute-force attacks bypassed 2FA on some Dashlane accounts on May 31, 2026, enabling fewer than 20 encrypted vault downloads",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
     "link": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
     "published": "Mon, 01 Jun 2026 23:10:28 +0530",
@@ -166,26 +184,6 @@
       "threat_categories": [
         "Vulnerability",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
-    "link": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
-    "published": "Fri, 29 May 2026 20:09:56 +0530",
-    "summary": "An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessible Marimo network using a recently disclosed vulnerability.\n\n\"The attacker compromised an internet-reachable Marimo notebook via CVE-2026-39987, extracted two cloud credentials from the compromised",
-    "analysis": {
-      "issue": "LLM-driven attackers exploited CVE-2026-39987 on May 10, 2026, to steal credentials and exfiltrate a PostgreSQL database",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-39987"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -554,8 +552,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
         "CVE-2026-34621",
+        "CVE-2026-33825",
         "CVE-2026-32201"
       ],
       "threat_categories": [
@@ -813,9 +811,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-22554",
-        "CVE-2026-25104",
         "CVE-2026-25713",
+        "CVE-2026-25104",
+        "CVE-2026-22554",
         "CVE-2026-28764"
       ],
       "threat_categories": [
@@ -934,10 +932,10 @@
       "severity": "High",
       "cves": [
         "CVE-2026-20133",
+        "CVE-2026-20182",
         "CVE-2026-20127",
-        "CVE-2026-20128",
         "CVE-2026-20122",
-        "CVE-2026-20182"
+        "CVE-2026-20128"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1311,8 +1309,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

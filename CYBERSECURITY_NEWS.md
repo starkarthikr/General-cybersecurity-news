@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-02 04:40:23 UTC
+**Last Updated:** 2026-06-02 05:11:05 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm](https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html)
+### 1. [Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded](https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 02 Jun 2026 09:25:25 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm](https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 01 Jun 2026 23:10:28 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More](https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html)
+### 3. [⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More](https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 01 Jun 2026 19:29:54 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan](https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html)
+### 4. [China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan](https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 01 Jun 2026 17:24:24 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools](https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html)
+### 5. [The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools](https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 01 Jun 2026 17:00:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack](https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html)
+### 6. [OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack](https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 01 Jun 2026 15:01:15 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts](https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html)
+### 7. [Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts](https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 01 Jun 2026 14:15:29 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices](https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html)
+### 8. [Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices](https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html)
 
 **Source:** The Hacker News  
 **Published:** Sun, 31 May 2026 17:52:12 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation](https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html)
+### 9. [PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation](https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 30 May 2026 12:11:26 +0530  
@@ -78,22 +87,12 @@
 
 ---
 
-### 9. [ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface](https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html)
+### 10. [ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface](https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 29 May 2026 23:37:12 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability, Phishing  
-
----
-
-### 10. [Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit](https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 29 May 2026 20:09:56 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-39987  
-**Categories:** Vulnerability  
 
 ---
 
@@ -274,7 +273,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -396,7 +395,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-25104, CVE-2026-25713, CVE-2026-28764  
+**CVEs:** CVE-2026-25713, CVE-2026-25104, CVE-2026-22554, CVE-2026-28764  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -452,7 +451,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20133, CVE-2026-20127, CVE-2026-20128, CVE-2026-20122, CVE-2026-20182  
+**CVEs:** CVE-2026-20133, CVE-2026-20182, CVE-2026-20127, CVE-2026-20122, CVE-2026-20128  
 **Categories:** Vulnerability  
 
 ---
@@ -636,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
