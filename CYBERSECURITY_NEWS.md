@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-01 20:43:51 UTC
+**Last Updated:** 2026-06-02 04:40:23 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -97,7 +97,34 @@
 
 ---
 
-### 11. [Dashlane password manager users locked out by brute force attacks](https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/)
+### 11. [Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks](https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 01 Jun 2026 18:14:19 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 12. [Red Hat npm packages compromised to steal developer credentials](https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 01 Jun 2026 17:38:29 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 13. [Spain arrests doxer leaking sensitive data of govt employees](https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 01 Jun 2026 17:28:41 -0400  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 14. [Dashlane password manager users locked out by brute force attacks](https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 14:17:13 -0400  
@@ -106,7 +133,7 @@
 
 ---
 
-### 12. [WordPress malware campaign hides payloads in Steam profiles](https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/)
+### 15. [WordPress malware campaign hides payloads in Steam profiles](https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 13:04:16 -0400  
@@ -115,7 +142,7 @@
 
 ---
 
-### 13. [Microsoft investigates Office Apps, Teams file access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/)
+### 16. [Microsoft investigates Office Apps, Teams file access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 10:36:46 -0400  
@@ -124,7 +151,7 @@
 
 ---
 
-### 14. [Race Against Time: Why Faster Vulnerability Alerts Matter](https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/)
+### 17. [Race Against Time: Why Faster Vulnerability Alerts Matter](https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 10:00:10 -0400  
@@ -133,7 +160,7 @@
 
 ---
 
-### 15. [Critical Windows Netlogon RCE flaw now exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/)
+### 18. [Critical Windows Netlogon RCE flaw now exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 08:30:27 -0400  
@@ -143,7 +170,7 @@
 
 ---
 
-### 16. [Webinar tomorrow: From alert to resolution in network incident response](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/)
+### 19. [Webinar tomorrow: From alert to resolution in network incident response](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 08:01:09 -0400  
@@ -152,41 +179,12 @@
 
 ---
 
-### 17. [Microsoft fixes outage affecting MFA setup, MySignIn service](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/)
+### 20. [Microsoft fixes outage affecting MFA setup, MySignIn service](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 07:40:16 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 18. [Microsoft fixes KB5089549 Windows security update install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 01 Jun 2026 06:59:43 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [WP Maps Pro bug exploited to create admin accounts on WordPress sites](https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 31 May 2026 10:06:42 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-8732  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 30 May 2026 14:02:51 -0400  
-**Severity:** High  
-**CVEs:** CVE-2026-0257  
-**Categories:** Vulnerability  
 
 ---
 
@@ -276,7 +274,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -398,7 +396,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-25104, CVE-2026-28764, CVE-2026-25713  
+**CVEs:** CVE-2026-22554, CVE-2026-25104, CVE-2026-25713, CVE-2026-28764  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -454,7 +452,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20128, CVE-2026-20133, CVE-2026-20122, CVE-2026-20127, CVE-2026-20182  
+**CVEs:** CVE-2026-20133, CVE-2026-20127, CVE-2026-20128, CVE-2026-20122, CVE-2026-20182  
 **Categories:** Vulnerability  
 
 ---
