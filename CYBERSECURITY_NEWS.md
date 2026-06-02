@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-02 16:44:21 UTC
+**Last Updated:** 2026-06-02 19:56:11 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.](https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html)
+### 1. [Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine](https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 02 Jun 2026 23:51:49 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation](https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 02 Jun 2026 23:44:42 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2024-21182  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.](https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 02 Jun 2026 17:28:00 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [How Leading Organizations Are Turning EDR Into Operational Resilience](https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html)
+### 4. [How Leading Organizations Are Turning EDR Into Operational Resilience](https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 02 Jun 2026 16:00:00 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT](https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html)
+### 5. [Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT](https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 02 Jun 2026 14:35:40 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded](https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html)
+### 6. [Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded](https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 02 Jun 2026 09:25:25 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm](https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html)
+### 7. [Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm](https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 01 Jun 2026 23:10:28 +0530  
@@ -49,7 +68,7 @@
 
 ---
 
-### 6. [⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More](https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html)
+### 8. [⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More](https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 01 Jun 2026 19:29:54 +0530  
@@ -58,7 +77,7 @@
 
 ---
 
-### 7. [China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan](https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html)
+### 9. [China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan](https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 01 Jun 2026 17:24:24 +0530  
@@ -67,7 +86,7 @@
 
 ---
 
-### 8. [The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools](https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html)
+### 10. [The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools](https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 01 Jun 2026 17:00:00 +0530  
@@ -76,26 +95,16 @@
 
 ---
 
-### 9. [OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack](https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html)
+### 11. [Microsoft Exchange Online outage causes email delays, failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 01 Jun 2026 15:01:15 +0530  
-**Severity:** Low  
-**Categories:** Supply Chain  
-
----
-
-### 10. [Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts](https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 01 Jun 2026 14:15:29 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-8732  
-**Categories:** Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Tue, 02 Jun 2026 13:02:40 -0400  
+**Severity:** Critical  
+**Categories:** General Security  
 
 ---
 
-### 11. [Instagram users locked out after Meta AI abused to steal accounts](https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/)
+### 12. [Instagram users locked out after Meta AI abused to steal accounts](https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 02 Jun 2026 11:47:33 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Why the browser is now the front line for AI security](https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/)
+### 13. [Why the browser is now the front line for AI security](https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 02 Jun 2026 10:30:40 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [CISA flags two-year-old Oracle flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/)
+### 14. [CISA flags two-year-old Oracle flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 02 Jun 2026 08:40:33 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Google fixes one actively exploited Android zero-day, 124 flaws](https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/)
+### 15. [Google fixes one actively exploited Android zero-day, 124 flaws](https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 02 Jun 2026 07:10:15 -0400  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks](https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/)
+### 16. [Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks](https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 18:14:19 -0400  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Red Hat npm packages compromised to steal developer credentials](https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/)
+### 17. [Red Hat npm packages compromised to steal developer credentials](https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 17:38:29 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [Spain arrests doxer leaking sensitive data of govt employees](https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/)
+### 18. [Spain arrests doxer leaking sensitive data of govt employees](https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 17:28:41 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [Dashlane password manager users locked out by brute force attacks](https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/)
+### 19. [Dashlane password manager users locked out by brute force attacks](https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 14:17:13 -0400  
@@ -169,21 +178,12 @@
 
 ---
 
-### 19. [WordPress malware campaign hides payloads in Steam profiles](https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/)
+### 20. [WordPress malware campaign hides payloads in Steam profiles](https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 13:04:16 -0400  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 20. [Microsoft investigates Office Apps, Teams file access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 01 Jun 2026 10:36:46 -0400  
-**Severity:** Critical  
-**Categories:** General Security  
 
 ---
 
@@ -302,7 +302,7 @@
 **Source:** Security Week  
 **Published:** Tue, 02 Jun 2026 14:36:33 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-48595, CVE-2026-0059  
+**CVEs:** CVE-2026-0059, CVE-2025-48595  
 **Categories:** Vulnerability, Malware, DDoS  
 
 ---
@@ -395,7 +395,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25713, CVE-2026-25104, CVE-2026-28764, CVE-2026-22554  
+**CVEs:** CVE-2026-25713, CVE-2026-22554, CVE-2026-25104, CVE-2026-28764  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -423,7 +423,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30814, CVE-2026-30815, CVE-2026-30816  
+**CVEs:** CVE-2026-30814, CVE-2026-30816, CVE-2026-30815  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -451,7 +451,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20127, CVE-2026-20122, CVE-2026-20182, CVE-2026-20128, CVE-2026-20133  
+**CVEs:** CVE-2026-20133, CVE-2026-20127, CVE-2026-20122, CVE-2026-20128, CVE-2026-20182  
 **Categories:** Vulnerability  
 
 ---
@@ -635,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -650,7 +650,16 @@
 
 ---
 
-### 71. [23andMe exposed genetic information of millions, lawsuit says](https://www.malwarebytes.com/blog/data-breaches/2026/06/23andme-exposed-genetic-information-of-millions-lawsuit-says)
+### 71. [These convincing copyright notices are designed to steal Google logins](https://www.malwarebytes.com/blog/threat-intel/2026/06/these-convincing-copyright-notices-are-designed-to-steal-google-logins)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 02 Jun 2026 18:24:07 GMT  
+**Severity:** Low  
+**Categories:** Phishing, Supply Chain  
+
+---
+
+### 72. [23andMe exposed genetic information of millions, lawsuit says](https://www.malwarebytes.com/blog/data-breaches/2026/06/23andme-exposed-genetic-information-of-millions-lawsuit-says)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 02 Jun 2026 09:53:19 GMT  
@@ -659,7 +668,7 @@
 
 ---
 
-### 72. [Fake virus alerts are invading mobile games](https://www.malwarebytes.com/blog/mobile/2026/06/fake-virus-alerts-are-invading-mobile-games)
+### 73. [Fake virus alerts are invading mobile games](https://www.malwarebytes.com/blog/mobile/2026/06/fake-virus-alerts-are-invading-mobile-games)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 02 Jun 2026 09:03:55 GMT  
@@ -668,7 +677,7 @@
 
 ---
 
-### 73. [Fake BlueWallet steals passwords, accounts, and crypto from Macs](https://www.malwarebytes.com/blog/threat-intel/2026/06/fake-bluewallet-steals-passwords-accounts-and-crypto-from-macs)
+### 74. [Fake BlueWallet steals passwords, accounts, and crypto from Macs](https://www.malwarebytes.com/blog/threat-intel/2026/06/fake-bluewallet-steals-passwords-accounts-and-crypto-from-macs)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 01 Jun 2026 14:40:25 GMT  
@@ -677,7 +686,7 @@
 
 ---
 
-### 74. [Your phone called. It needs a cleanup.](https://www.malwarebytes.com/blog/mobile/2026/06/your-phone-called-it-needs-a-cleanup)
+### 75. [Your phone called. It needs a cleanup.](https://www.malwarebytes.com/blog/mobile/2026/06/your-phone-called-it-needs-a-cleanup)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 01 Jun 2026 08:31:44 GMT  
@@ -686,7 +695,7 @@
 
 ---
 
-### 75. [A week in security (May 25 &#8211; May 31)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-may-25-may-31)
+### 76. [A week in security (May 25 &#8211; May 31)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-may-25-may-31)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 01 Jun 2026 07:01:00 GMT  
@@ -695,7 +704,7 @@
 
 ---
 
-### 76. [Payment apps are watching what you say (Lock and Code S07E11)](https://www.malwarebytes.com/blog/podcast/2026/05/payment-apps-are-watching-what-you-say-lock-and-code-s07e11)
+### 77. [Payment apps are watching what you say (Lock and Code S07E11)](https://www.malwarebytes.com/blog/podcast/2026/05/payment-apps-are-watching-what-you-say-lock-and-code-s07e11)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 01 Jun 2026 01:52:57 GMT  
@@ -704,7 +713,7 @@
 
 ---
 
-### 77. [Signal users targeted in backup-stealing phishing attacks](https://www.malwarebytes.com/blog/news/2026/05/signal-users-targeted-in-backup-stealing-phishing-attacks)
+### 78. [Signal users targeted in backup-stealing phishing attacks](https://www.malwarebytes.com/blog/news/2026/05/signal-users-targeted-in-backup-stealing-phishing-attacks)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 29 May 2026 12:07:24 GMT  
@@ -713,7 +722,7 @@
 
 ---
 
-### 78. [Carnival confirms data breach impacting nearly 6 million](https://www.malwarebytes.com/blog/data-breaches/2026/05/carnival-confirms-data-breach-impacting-nearly-6-million)
+### 79. [Carnival confirms data breach impacting nearly 6 million](https://www.malwarebytes.com/blog/data-breaches/2026/05/carnival-confirms-data-breach-impacting-nearly-6-million)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 28 May 2026 12:04:52 GMT  
@@ -722,21 +731,12 @@
 
 ---
 
-### 79. [Your Windows PC has a security deadline in June 2026](https://www.malwarebytes.com/blog/how-to/2026/05/your-windows-pc-has-a-security-deadline-in-june-2026)
+### 80. [Your Windows PC has a security deadline in June 2026](https://www.malwarebytes.com/blog/how-to/2026/05/your-windows-pc-has-a-security-deadline-in-june-2026)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 28 May 2026 11:03:43 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 80. [Fake ChatGPT download site infects Windows and Mac users with malware](https://www.malwarebytes.com/blog/threat-intel/2026/05/fake-chatgpt-download-site-infects-windows-and-mac-users-with-malware)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 28 May 2026 10:18:26 GMT  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 

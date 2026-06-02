@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
+    "link": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
+    "published": "Tue, 02 Jun 2026 23:51:49 +0530",
+    "summary": "The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation.\n\nPer Sekoia, the activity involves the weaponization of CVE-2025-8088, a path traversal flaw in WinRAR, to launch an HTML Application payload dubbed GammaPhish, which is then used to retrieve an",
+    "analysis": {
+      "issue": "Gamaredon used GammaPhish and GammaWorm in a January 2026 espionage campaign, enabling stealthy persistence and data theft across Ukraine",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
+    "link": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
+    "published": "Tue, 02 Jun 2026 23:44:42 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.\n\nThe vulnerability, CVE-2024-21182 (CVSS score: 7.5), allows an unauthenticated attacker with network access to take control of susceptible servers. It was",
+    "analysis": {
+      "issue": "CVE-2024-21182 entered CISA's KEV catalog after active exploitation evidence, requiring federal patching by June 4, 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2024-21182"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
     "link": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
     "published": "Tue, 02 Jun 2026 17:28:00 +0530",
@@ -147,40 +185,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
-    "link": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
-    "published": "Mon, 01 Jun 2026 15:01:15 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI.\n\nThe tool, named codexui-android, is advertised on GitHub and npm as a remote web UI for OpenAI Codex, attracting over 29,000 weekly downloads. The package is still available for download from the repository.\n\nWhat",
+    "source": "Bleeping Computer",
+    "title": "Microsoft Exchange Online outage causes email delays, failures",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/",
+    "published": "Tue, 02 Jun 2026 13:02:40 -0400",
+    "summary": "Microsoft is working to address a widespread service issue affecting the mail flow pipeline for Exchange Online customers across North America and Germany. [...]",
     "analysis": {
-      "issue": "Codex tokens were exfiltrated via a popular npm package, affecting users since v0",
+      "issue": "Microsoft is working to address a widespread service issue affecting the mail flow pipeline for Exchange Online customers across North America, Asia-Pacific (APAC), and Europe",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
-    "link": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html",
-    "published": "Mon, 01 Jun 2026 14:15:29 +0530",
-    "summary": "Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create malicious administrator accounts on susceptible sites.\n\nWP Maps Pro allows site owners to embed customizable Google Maps and OpenStreetMap with markers, listings, and advanced location features on WordPress sites. It is",
-    "analysis": {
-      "issue": "CVE-2026-8732 lets attackers create admin accounts in WP Maps Pro; 2,858 attacks hit vulnerable sites in 24 hours, risking takeover",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-8732"
-      ],
-      "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -349,24 +367,6 @@
       "threat_categories": [
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft investigates Office Apps, Teams file access issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
-    "published": "Mon, 01 Jun 2026 10:36:46 -0400",
-    "summary": "Microsoft says an ongoing incident is preventing users of its Teams collaboration platform and Office for the web cloud-based productivity suite from opening files. [...]",
-    "analysis": {
-      "issue": "Microsoft says an ongoing incident is preventing users of its Teams collaboration platform and Office for the web cloud-based productivity suite from opening files",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -616,8 +616,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-48595",
-        "CVE-2026-0059"
+        "CVE-2026-0059",
+        "CVE-2025-48595"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -813,9 +813,9 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-25713",
+        "CVE-2026-22554",
         "CVE-2026-25104",
-        "CVE-2026-28764",
-        "CVE-2026-22554"
+        "CVE-2026-28764"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -873,8 +873,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-30814",
-        "CVE-2026-30815",
-        "CVE-2026-30816"
+        "CVE-2026-30816",
+        "CVE-2026-30815"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -932,11 +932,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
+        "CVE-2026-20133",
         "CVE-2026-20127",
         "CVE-2026-20122",
-        "CVE-2026-20182",
         "CVE-2026-20128",
-        "CVE-2026-20133"
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1310,8 +1310,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1336,6 +1336,25 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "These convincing copyright notices are designed to steal Google logins",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/06/these-convincing-copyright-notices-are-designed-to-steal-google-logins",
+    "published": "Tue, 02 Jun 2026 18:24:07 GMT",
+    "summary": "Scammers use fake takedown requests, countdown timers, and spoofed sign-in screens to steal Google logins from Chrome developers.",
+    "analysis": {
+      "issue": "A new scam is targeting people who publish Chrome extensions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing",
+        "Supply Chain"
       ]
     }
   },
@@ -1502,24 +1521,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Fake ChatGPT download site infects Windows and Mac users with malware",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/05/fake-chatgpt-download-site-infects-windows-and-mac-users-with-malware",
-    "published": "Thu, 28 May 2026 10:18:26 GMT",
-    "summary": "Searching for ChatGPT? This fake download site serves malware to both Windows and Mac users, using separate payloads tailored to each platform.",
-    "analysis": {
-      "issue": "A convincing fake website is impersonating OpenAI’s ChatGPT download page and infecting visitors with malware designed to steal passwords, browser data, cryptocurrency wallets, and other sensitive information",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
