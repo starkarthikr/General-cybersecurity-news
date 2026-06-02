@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-02 12:24:58 UTC
+**Last Updated:** 2026-06-02 16:44:21 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,35 @@
 
 ---
 
-### 11. [Google fixes one actively exploited Android zero-day, 124 flaws](https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/)
+### 11. [Instagram users locked out after Meta AI abused to steal accounts](https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 02 Jun 2026 11:47:33 -0400  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 12. [Why the browser is now the front line for AI security](https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 02 Jun 2026 10:30:40 -0400  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 13. [CISA flags two-year-old Oracle flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 02 Jun 2026 08:40:33 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2024-21182  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [Google fixes one actively exploited Android zero-day, 124 flaws](https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 02 Jun 2026 07:10:15 -0400  
@@ -105,7 +133,7 @@
 
 ---
 
-### 12. [Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks](https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/)
+### 15. [Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks](https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 18:14:19 -0400  
@@ -114,7 +142,7 @@
 
 ---
 
-### 13. [Red Hat npm packages compromised to steal developer credentials](https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/)
+### 16. [Red Hat npm packages compromised to steal developer credentials](https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 17:38:29 -0400  
@@ -123,7 +151,7 @@
 
 ---
 
-### 14. [Spain arrests doxer leaking sensitive data of govt employees](https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/)
+### 17. [Spain arrests doxer leaking sensitive data of govt employees](https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 17:28:41 -0400  
@@ -132,7 +160,7 @@
 
 ---
 
-### 15. [Dashlane password manager users locked out by brute force attacks](https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/)
+### 18. [Dashlane password manager users locked out by brute force attacks](https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 14:17:13 -0400  
@@ -141,7 +169,7 @@
 
 ---
 
-### 16. [WordPress malware campaign hides payloads in Steam profiles](https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/)
+### 19. [WordPress malware campaign hides payloads in Steam profiles](https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 13:04:16 -0400  
@@ -150,39 +178,11 @@
 
 ---
 
-### 17. [Microsoft investigates Office Apps, Teams file access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/)
+### 20. [Microsoft investigates Office Apps, Teams file access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 01 Jun 2026 10:36:46 -0400  
 **Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 18. [Race Against Time: Why Faster Vulnerability Alerts Matter](https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 01 Jun 2026 10:00:10 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Critical Windows Netlogon RCE flaw now exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 01 Jun 2026 08:30:27 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-41089  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Webinar tomorrow: From alert to resolution in network incident response](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 01 Jun 2026 08:01:09 -0400  
-**Severity:** Low  
 **Categories:** General Security  
 
 ---
@@ -273,12 +273,69 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
 
-### 31. [Oracle WebLogic Vulnerability Exploited in the Wild](https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/)
+### 31. [Two New Reports Offer Competing Explanations for Cybersecurity’s Growing Crisis](https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/)
+
+**Source:** Security Week  
+**Published:** Tue, 02 Jun 2026 16:35:38 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 32. [Exclusive: How One Line of Code Put Billions of Microsoft Android App Downloads at Risk](https://www.securityweek.com/exclusive-how-one-line-of-code-put-billions-of-microsoft-android-app-downloads-at-risk/)
+
+**Source:** Security Week  
+**Published:** Tue, 02 Jun 2026 15:00:00 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-41100  
+**Categories:** Vulnerability, Malware, Supply Chain  
+
+---
+
+### 33. [Android Update Patches Exploited Zero-Day, 123 Other Vulnerabilities](https://www.securityweek.com/android-update-patches-exploited-zero-day-123-other-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Tue, 02 Jun 2026 14:36:33 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2025-48595, CVE-2026-0059  
+**Categories:** Vulnerability, Malware, DDoS  
+
+---
+
+### 34. [Anthropic Expanding Mythos Access to 150 New Organizations](https://www.securityweek.com/anthropic-expanding-mythos-access-to-150-new-organizations/)
+
+**Source:** Security Week  
+**Published:** Tue, 02 Jun 2026 13:58:44 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 35. [The Zero-Knowledge Threat Actor and the End of Responsible Disclosure](https://www.securityweek.com/the-zero-knowledge-threat-actor-and-the-end-of-responsible-disclosure/)
+
+**Source:** Security Week  
+**Published:** Tue, 02 Jun 2026 12:30:00 +0000  
+**Severity:** Critical  
+**Categories:** Data Breach, Vulnerability, Malware, Phishing, APT, Supply Chain  
+
+---
+
+### 36. [Critical Vulnerability in HP VoIP Phones Enables Enterprise Network Breaches](https://www.securityweek.com/critical-vulnerability-in-hp-voip-phones-enables-enterprise-network-breaches/)
+
+**Source:** Security Week  
+**Published:** Tue, 02 Jun 2026 12:25:52 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-0826  
+**Categories:** Vulnerability  
+
+---
+
+### 37. [Oracle WebLogic Vulnerability Exploited in the Wild](https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/)
 
 **Source:** Security Week  
 **Published:** Tue, 02 Jun 2026 11:39:04 +0000  
@@ -288,7 +345,7 @@
 
 ---
 
-### 32. [Meta AI Hands Over High-Profile Instagram Accounts to Hackers](https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/)
+### 38. [Meta AI Hands Over High-Profile Instagram Accounts to Hackers](https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/)
 
 **Source:** Security Week  
 **Published:** Tue, 02 Jun 2026 10:48:26 +0000  
@@ -297,7 +354,7 @@
 
 ---
 
-### 33. [Supply Chain Attack Hits 32 Red Hat NPM Packages](https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/)
+### 39. [Supply Chain Attack Hits 32 Red Hat NPM Packages](https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/)
 
 **Source:** Security Week  
 **Published:** Tue, 02 Jun 2026 09:51:19 +0000  
@@ -306,68 +363,12 @@
 
 ---
 
-### 34. [Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads](https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/)
+### 40. [Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads](https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/)
 
 **Source:** Security Week  
 **Published:** Tue, 02 Jun 2026 08:07:41 +0000  
 **Severity:** Low  
 **Categories:** Data Breach, Phishing  
-
----
-
-### 35. [Oracle’s First Monthly Patches Resolve 77 Vulnerabilities](https://www.securityweek.com/oracles-first-monthly-patches-resolve-77-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Tue, 02 Jun 2026 07:20:14 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 36. [WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites](https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/)
-
-**Source:** Security Week  
-**Published:** Mon, 01 Jun 2026 18:19:23 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-8732  
-**Categories:** Vulnerability, Malware, Supply Chain  
-
----
-
-### 37. [Dutch Police Dismantle Massive 17-Million-Device Botnet](https://www.securityweek.com/dutch-police-dismantle-massive-17-million-device-botnet/)
-
-**Source:** Security Week  
-**Published:** Mon, 01 Jun 2026 17:55:26 +0000  
-**Severity:** Low  
-**Categories:** Malware, Phishing, DDoS  
-
----
-
-### 38. [Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/)
-
-**Source:** Security Week  
-**Published:** Mon, 01 Jun 2026 15:02:17 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-41089  
-**Categories:** Vulnerability  
-
----
-
-### 39. [Dragos Acquires xIoT Security Firm Phosphorus](https://www.securityweek.com/dragos-acquires-xiot-security-firm-phosphorus/)
-
-**Source:** Security Week  
-**Published:** Mon, 01 Jun 2026 12:46:58 +0000  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 40. [As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution](https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/)
-
-**Source:** Security Week  
-**Published:** Mon, 01 Jun 2026 11:48:59 +0000  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 
@@ -394,7 +395,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-28764, CVE-2026-25104, CVE-2026-25713  
+**CVEs:** CVE-2026-25713, CVE-2026-25104, CVE-2026-28764, CVE-2026-22554  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -422,7 +423,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30815, CVE-2026-30816, CVE-2026-30814  
+**CVEs:** CVE-2026-30814, CVE-2026-30815, CVE-2026-30816  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -450,7 +451,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20122, CVE-2026-20133, CVE-2026-20128, CVE-2026-20127, CVE-2026-20182  
+**CVEs:** CVE-2026-20127, CVE-2026-20122, CVE-2026-20182, CVE-2026-20128, CVE-2026-20133  
 **Categories:** Vulnerability  
 
 ---
@@ -464,7 +465,16 @@
 
 ---
 
-### 51. [The Vulnerability Flood Is Now a Board Conversation. Here's How to Lead It.](https://www.recordedfuture.com/blog/vulnerability-board-conversation)
+### 51. [Iran Expands Handala Brand to Physical Threats](https://www.recordedfuture.com/research/iran-handala-physical-threats)
+
+**Source:** Recorded Future  
+**Published:** Tue, 02 Jun 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [The Vulnerability Flood Is Now a Board Conversation. Here's How to Lead It.](https://www.recordedfuture.com/blog/vulnerability-board-conversation)
 
 **Source:** Recorded Future  
 **Published:** Thu, 21 May 2026 00:00:00 GMT  
@@ -473,7 +483,7 @@
 
 ---
 
-### 52. [At Mythos Speed: A Defender's Playbook for the AI Vulnerability Surge in 2026](https://www.recordedfuture.com/blog/ai-vulnerability-playbook)
+### 53. [At Mythos Speed: A Defender's Playbook for the AI Vulnerability Surge in 2026](https://www.recordedfuture.com/blog/ai-vulnerability-playbook)
 
 **Source:** Recorded Future  
 **Published:** Tue, 19 May 2026 00:00:00 GMT  
@@ -482,7 +492,7 @@
 
 ---
 
-### 53. [April 2026 CVE Landscape](https://www.recordedfuture.com/blog/april-cve-landscape)
+### 54. [April 2026 CVE Landscape](https://www.recordedfuture.com/blog/april-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Fri, 15 May 2026 00:00:00 GMT  
@@ -491,7 +501,7 @@
 
 ---
 
-### 54. [NIST NVD Enrichment Policy Change: Prioritizing Vulnerabilities with Attacker Behavior Signals](https://www.recordedfuture.com/blog/nist-nvd-enrichment)
+### 55. [NIST NVD Enrichment Policy Change: Prioritizing Vulnerabilities with Attacker Behavior Signals](https://www.recordedfuture.com/blog/nist-nvd-enrichment)
 
 **Source:** Recorded Future  
 **Published:** Thu, 14 May 2026 00:00:00 GMT  
@@ -500,7 +510,7 @@
 
 ---
 
-### 55. [Beyond Acceleration and Automation: How AI + Intelligence Changes Cyber Defense](https://www.recordedfuture.com/blog/ai-intelligence-cyber-defense)
+### 56. [Beyond Acceleration and Automation: How AI + Intelligence Changes Cyber Defense](https://www.recordedfuture.com/blog/ai-intelligence-cyber-defense)
 
 **Source:** Recorded Future  
 **Published:** Thu, 14 May 2026 00:00:00 GMT  
@@ -509,7 +519,7 @@
 
 ---
 
-### 56. [Working in London at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-for-recorded-future-london)
+### 57. [Working in London at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-for-recorded-future-london)
 
 **Source:** Recorded Future  
 **Published:** Fri, 08 May 2026 00:00:00 GMT  
@@ -518,7 +528,7 @@
 
 ---
 
-### 57. [Quantum Risk Explained](https://www.recordedfuture.com/research/quantum-risk-explained)
+### 58. [Quantum Risk Explained](https://www.recordedfuture.com/research/quantum-risk-explained)
 
 **Source:** Recorded Future  
 **Published:** Thu, 07 May 2026 00:00:00 GMT  
@@ -527,7 +537,7 @@
 
 ---
 
-### 58. [Recorded Future Named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies. And there’s more.](https://www.recordedfuture.com/blog/recorded-future-named-a-leader)
+### 59. [Recorded Future Named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies. And there’s more.](https://www.recordedfuture.com/blog/recorded-future-named-a-leader)
 
 **Source:** Recorded Future  
 **Published:** Wed, 06 May 2026 00:00:00 GMT  
@@ -536,21 +546,12 @@
 
 ---
 
-### 59. [Threat Activity Enablers: The Backbone of Today’s Threat Landscape](https://www.recordedfuture.com/blog/threat-activity-enablers)
+### 60. [Threat Activity Enablers: The Backbone of Today’s Threat Landscape](https://www.recordedfuture.com/blog/threat-activity-enablers)
 
 **Source:** Recorded Future  
 **Published:** Wed, 06 May 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** Ransomware, Malware  
-
----
-
-### 60. [Hacking Embodied AI](https://www.recordedfuture.com/research/hacking-embodied-ai)
-
-**Source:** Recorded Future  
-**Published:** Tue, 05 May 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 

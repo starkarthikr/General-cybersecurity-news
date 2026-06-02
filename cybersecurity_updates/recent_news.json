@@ -186,6 +186,62 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Instagram users locked out after Meta AI abused to steal accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
+    "published": "Tue, 02 Jun 2026 11:47:33 -0400",
+    "summary": "Multiple Instagram users had their accounts hijacked after attackers convinced Meta's AI-powered support tools that they were the legitimate owners. [...]",
+    "analysis": {
+      "issue": "Multiple Instagram users had their accounts hijacked after attackers convinced Meta’s AI-powered support tools that they were the legitimate owners",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Why the browser is now the front line for AI security",
+    "link": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
+    "published": "Tue, 02 Jun 2026 10:30:40 -0400",
+    "summary": "AI-powered attacks and shadow AI adoption are creating new security risks inside the browser. Push Security explains why browser visibility is becoming critical for both threat detection and AI governance. [...]",
+    "analysis": {
+      "issue": "Security teams are staring at two AI problems at once",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
+    "published": "Tue, 02 Jun 2026 08:40:33 -0400",
+    "summary": "CISA has ordered government agencies to secure their systems against a high-severity Oracle WebLogic Server vulnerability that was patched two years ago and is now actively exploited in attacks. [...]",
+    "analysis": {
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to secure their systems against a high-severity Oracle WebLogic Server vulnerability that was patched two years ago and is now actively exploited in attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2024-21182"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
     "link": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
     "published": "Tue, 02 Jun 2026 07:10:15 -0400",
@@ -308,62 +364,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
-    "link": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
-    "published": "Mon, 01 Jun 2026 10:00:10 -0400",
-    "summary": "Attackers are exploiting vulnerabilities faster than many organizations can identify and patch them. SecAlerts explains why faster vulnerability alerts can help reduce exposure and improve response times. [...]",
-    "analysis": {
-      "issue": "A critical RCE vulnerability is disclosed in a widely used VPN application",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
-    "published": "Mon, 01 Jun 2026 08:30:27 -0400",
-    "summary": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vulnerability in attacks. [...]",
-    "analysis": {
-      "issue": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vulnerability in attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-41089"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Webinar tomorrow: From alert to resolution in network incident response",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
-    "published": "Mon, 01 Jun 2026 08:01:09 -0400",
-    "summary": "Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automation and AI-assisted workflows can help IT teams accelerate incident response. [...]",
-    "analysis": {
-      "issue": "Network incidents can escalate quickly, but the biggest delays often occur after the initial alert as teams work to gather context, determine ownership, and coordinate a response across multiple systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -552,13 +552,138 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-34621",
-        "CVE-2026-33825"
+        "CVE-2026-33825",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Two New Reports Offer Competing Explanations for Cybersecurity’s Growing Crisis",
+    "link": "https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/",
+    "published": "Tue, 02 Jun 2026 16:35:38 +0000",
+    "summary": "<p>As AI shortens the path from vulnerability disclosure to exploitation, researchers disagree on whether the problem is inadequate security tools or inadequate operational control.</p>\n<p>The post <a href=\"https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/\">Two New Reports Offer Competing Explanations for Cybersecurity&#8217;s Growing Crisis</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "As AI shortens the path from vulnerability disclosure to exploitation, researchers disagree on whether the problem is inadequate security tools or inadequate operational control",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Exclusive: How One Line of Code Put Billions of Microsoft Android App Downloads at Risk",
+    "link": "https://www.securityweek.com/exclusive-how-one-line-of-code-put-billions-of-microsoft-android-app-downloads-at-risk/",
+    "published": "Tue, 02 Jun 2026 15:00:00 +0000",
+    "summary": "<p>A simple development setting bypassed protections designed to prevent unauthorized Android apps from accessing Microsoft account tokens, exposing billions of installations.</p>\n<p>The post <a href=\"https://www.securityweek.com/exclusive-how-one-line-of-code-put-billions-of-microsoft-android-app-downloads-at-risk/\">Exclusive: How One Line of Code Put Billions of Microsoft Android App Downloads at Risk</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A simple development setting bypassed protections designed to prevent unauthorized Android apps from accessing Microsoft account tokens, exposing billions of installations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-41100"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Android Update Patches Exploited Zero-Day, 123 Other Vulnerabilities",
+    "link": "https://www.securityweek.com/android-update-patches-exploited-zero-day-123-other-vulnerabilities/",
+    "published": "Tue, 02 Jun 2026 14:36:33 +0000",
+    "summary": "<p>Google says the Android vulnerability CVE-2025-48595 has been exploited in limited, targeted attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/android-update-patches-exploited-zero-day-123-other-vulnerabilities/\">Android Update Patches Exploited Zero-Day, 123 Other Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Google says the Android vulnerability CVE-2025-48595 has been exploited in limited, targeted attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-48595",
+        "CVE-2026-0059"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Anthropic Expanding Mythos Access to 150 New Organizations",
+    "link": "https://www.securityweek.com/anthropic-expanding-mythos-access-to-150-new-organizations/",
+    "published": "Tue, 02 Jun 2026 13:58:44 +0000",
+    "summary": "<p>Only approximately 50 companies have had access to Mythos until now and they have found thousands of vulnerabilities in their products.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-expanding-mythos-access-to-150-new-organizations/\">Anthropic Expanding Mythos Access to 150 New Organizations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Only approximately 50 companies have had access to Mythos until now and they have found thousands of vulnerabilities in their products",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "The Zero-Knowledge Threat Actor and the End of Responsible Disclosure",
+    "link": "https://www.securityweek.com/the-zero-knowledge-threat-actor-and-the-end-of-responsible-disclosure/",
+    "published": "Tue, 02 Jun 2026 12:30:00 +0000",
+    "summary": "<p>AI can help attackers generate malware, create malicious payloads, bypass simple security checks, and convert vague malicious intent into functional code.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-zero-knowledge-threat-actor-and-the-end-of-responsible-disclosure/\">The Zero-Knowledge Threat Actor and the End of Responsible Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "AI can help attackers generate malware, create malicious payloads, bypass simple security checks, and convert vague malicious intent into functional code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical Vulnerability in HP VoIP Phones Enables Enterprise Network Breaches",
+    "link": "https://www.securityweek.com/critical-vulnerability-in-hp-voip-phones-enables-enterprise-network-breaches/",
+    "published": "Tue, 02 Jun 2026 12:25:52 +0000",
+    "summary": "<p>A stack-based buffer overflow bug can be exploited for remote code execution on a vulnerable device.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerability-in-hp-voip-phones-enables-enterprise-network-breaches/\">Critical Vulnerability in HP VoIP Phones Enables Enterprise Network Breaches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A stack-based buffer overflow bug can be exploited for remote code execution on a vulnerable device",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-0826"
+      ],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -639,123 +764,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Oracle’s First Monthly Patches Resolve 77 Vulnerabilities",
-    "link": "https://www.securityweek.com/oracles-first-monthly-patches-resolve-77-vulnerabilities/",
-    "published": "Tue, 02 Jun 2026 07:20:14 +0000",
-    "summary": "<p>Oracle’s monthly Critical Security Patch Update (CSPU) rollouts are meant to deliver critical fixes faster.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracles-first-monthly-patches-resolve-77-vulnerabilities/\">Oracle&#8217;s First Monthly Patches Resolve 77 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Oracle’s monthly Critical Security Patch Update (CSPU) rollouts are meant to deliver critical fixes faster",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites",
-    "link": "https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/",
-    "published": "Mon, 01 Jun 2026 18:19:23 +0000",
-    "summary": "<p>The security defect (CVE-2026-8732) allows unauthenticated attackers to create administrative accounts on the affected installations.</p>\n<p>The post <a href=\"https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/\">WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The security defect (CVE-2026-8732) allows unauthenticated attackers to create administrative accounts on the affected installations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-8732"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Dutch Police Dismantle Massive 17-Million-Device Botnet",
-    "link": "https://www.securityweek.com/dutch-police-dismantle-massive-17-million-device-botnet/",
-    "published": "Mon, 01 Jun 2026 17:55:26 +0000",
-    "summary": "<p>Dutch authorities seized command-and-control servers tied to a botnet of infected computers, smartphones, and tablets that was allegedly used to power a residential proxy network and facilitate cybercrime.</p>\n<p>The post <a href=\"https://www.securityweek.com/dutch-police-dismantle-massive-17-million-device-botnet/\">Dutch Police Dismantle Massive 17-Million-Device Botnet</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Dutch authorities seized command-and-control servers tied to a botnet of infected computers, smartphones, and tablets that was allegedly used to power a residential proxy network and facilitate cybercrime",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs",
-    "link": "https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/",
-    "published": "Mon, 01 Jun 2026 15:02:17 +0000",
-    "summary": "<p>Organizations are advised to patch CVE-2026-41089 as soon as possible, given its severity, the potential ongoing exploitation.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/\">Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Organizations are advised to patch CVE-2026-41089 as soon as possible, given its severity, the potential ongoing exploitation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-41089"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Dragos Acquires xIoT Security Firm Phosphorus",
-    "link": "https://www.securityweek.com/dragos-acquires-xiot-security-firm-phosphorus/",
-    "published": "Mon, 01 Jun 2026 12:46:58 +0000",
-    "summary": "<p>Dragos said customers will soon gain expanded asset visibility and integrated device intelligence, with automated remediation workflows and a unified platform experience to follow.</p>\n<p>The post <a href=\"https://www.securityweek.com/dragos-acquires-xiot-security-firm-phosphorus/\">Dragos Acquires xIoT Security Firm Phosphorus</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Dragos said customers will soon gain expanded asset visibility and integrated device intelligence, with automated remediation workflows and a unified platform experience to follow",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution",
-    "link": "https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/",
-    "published": "Mon, 01 Jun 2026 11:48:59 +0000",
-    "summary": "<p>AI’s use in the military is part of the administration’s larger push to grow the capability it sees as a unique American advantage.</p>\n<p>The post <a href=\"https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/\">As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "AI’s use in the military is part of the administration’s larger push to grow the capability it sees as a unique American advantage",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Less panic patching, more precision",
     "link": "https://blog.talosintelligence.com/less-panic-patching-more-precision/",
@@ -804,10 +812,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-22554",
-        "CVE-2026-28764",
+        "CVE-2026-25713",
         "CVE-2026-25104",
-        "CVE-2026-25713"
+        "CVE-2026-28764",
+        "CVE-2026-22554"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -864,9 +872,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-30814",
         "CVE-2026-30815",
-        "CVE-2026-30816",
-        "CVE-2026-30814"
+        "CVE-2026-30816"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -924,11 +932,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20122",
-        "CVE-2026-20133",
-        "CVE-2026-20128",
         "CVE-2026-20127",
-        "CVE-2026-20182"
+        "CVE-2026-20122",
+        "CVE-2026-20182",
+        "CVE-2026-20128",
+        "CVE-2026-20133"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -951,6 +959,24 @@
       "threat_categories": [
         "Vulnerability",
         "APT"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Iran Expands Handala Brand to Physical Threats",
+    "link": "https://www.recordedfuture.com/research/iran-handala-physical-threats",
+    "published": "Tue, 02 Jun 2026 00:00:00 GMT",
+    "summary": "Iran's MOIS expands its Handala brand to hybrid cyber and physical threat operations, recruiting proxies to conduct attacks, espionage, and sabotage against US and Israeli interests",
+    "analysis": {
+      "issue": "Iran's MOIS expands its Handala brand to hybrid cyber and physical threat operations, recruiting proxies to conduct attacks, espionage, and sabotage against US and Israeli interests",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1114,24 +1140,6 @@
       "threat_categories": [
         "Ransomware",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Hacking Embodied AI",
-    "link": "https://www.recordedfuture.com/research/hacking-embodied-ai",
-    "published": "Tue, 05 May 2026 00:00:00 GMT",
-    "summary": "Embodied AI, intelligent systems in physical forms such as humanoid and quadruped robots, is moving from spectacle to staffing plans.",
-    "analysis": {
-      "issue": "Embodied AI, intelligent systems in physical forms such as humanoid and quadruped robots, is moving from spectacle to staffing plans",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
