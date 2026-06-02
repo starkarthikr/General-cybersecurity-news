@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
+    "link": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
+    "published": "Tue, 02 Jun 2026 17:28:00 +0530",
+    "summary": "AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the history of enterprise security. As a result, the window between a vulnerability being disclosed and indiscriminate exploitation observed across the internet is now measured in hours, not days.\n\nThe industry's",
+    "analysis": {
+      "issue": "AI shrinks exploitation windows to hours while median critical patching time rose to 43 days, increasing exposure risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
+    "link": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html",
+    "published": "Tue, 02 Jun 2026 16:00:00 +0530",
+    "summary": "Most organizations now recognize that endpoint protection alone is no longer sufficient.\n\nThat's why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent years. Organizations understand that modern attacks move faster, evade traditional prevention controls, and require continuous visibility into suspicious activity across the environment.\n\nBut owning EDR",
+    "analysis": {
+      "issue": "67% of organizations report more AI-powered attacks in 2025, driving demand for hardening and MDR to improve resilience",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
+    "link": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html",
+    "published": "Tue, 02 Jun 2026 14:35:40 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan's Ministry of Finance with an open-source remote access trojan called Xeno RAT.\n\n\"The campaign opens with a spear phishing delivery - a ZIP archive containing a malicious LNK file bearing a carefully crafted Pashto-language filename,\"",
+    "analysis": {
+      "issue": "SideCopy targeted Afghanistan's Finance Ministry with Xeno RAT via Pashto phishing lures, enabling espionage and system compromise",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
     "link": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html",
     "published": "Tue, 02 Jun 2026 09:25:25 +0530",
@@ -131,59 +185,23 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
-    "link": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
-    "published": "Sun, 31 May 2026 17:52:12 +0530",
-    "summary": "Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious attacks.\n\nThe bot network, per the Dutch Politie and the National Cyber Security Center (NCSC), consisted of at least 17 million infected devices. More than 200 servers located in the Netherlands acted as the",
+    "source": "Bleeping Computer",
+    "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
+    "published": "Tue, 02 Jun 2026 07:10:15 -0400",
+    "summary": "Google has released the June 2026 Android security patches to address 124 vulnerabilities, including one zero-day flaw exploited in targeted attacks. [...]",
     "analysis": {
-      "issue": "Dutch authorities dismantled a 17 million-device botnet backed by 200+ servers, disrupting infrastructure used for cybercrime",
+      "issue": "Google has released the June 2026 Android security patches to address 124 vulnerabilities, including one zero-day flaw exploited in targeted attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-    "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
-    "published": "Sat, 30 May 2026 12:11:26 +0530",
-    "summary": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case of authentication bypass that could be exploited by bad actors to set up VPN connections.\n\n\"Authentication bypass vulnerabilities in the",
-    "analysis": {
-      "issue": "CVE-2026-0257 is being actively exploited on PAN-OS devices since May 17, 2026, enabling unauthorized VPN access and network exposure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [
-        "CVE-2026-0257"
+        "CVE-2025-48595"
       ],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
-    "link": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
-    "published": "Fri, 29 May 2026 23:37:12 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger prompt injections and open the door to phishing attacks.\n\nThe technique has been codenamed ChatGPhish by Permiso Security.\n\n\"The chatgpt.com response renderer trusts Markdown links and Markdown",
-    "analysis": {
-      "issue": "ChatGPhish exploits ChatGPT Markdown rendering to deliver phishing content from summarized web pages, increasing AI attack surfaces",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
         "Vulnerability",
-        "Phishing"
+        "APT"
       ]
     }
   },
@@ -342,24 +360,6 @@
     "summary": "Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automation and AI-assisted workflows can help IT teams accelerate incident response. [...]",
     "analysis": {
       "issue": "Network incidents can escalate quickly, but the biggest delays often occur after the initial alert as teams work to gather context, determine ownership, and coordinate a response across multiple systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes outage affecting MFA setup, MySignIn service",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
-    "published": "Mon, 01 Jun 2026 07:40:16 -0400",
-    "summary": "Microsoft is working to address an ongoing incident preventing customers from setting up multi-factor authentication (MFA) or accessing the My Sign-Ins platform. [...]",
-    "analysis": {
-      "issue": "Microsoft has addressed an incident preventing customers from setting up multi-factor authentication (MFA) or accessing the My Sign-Ins platform",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -552,13 +552,108 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-32201",
         "CVE-2026-34621",
-        "CVE-2026-33825",
-        "CVE-2026-32201"
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Oracle WebLogic Vulnerability Exploited in the Wild",
+    "link": "https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/",
+    "published": "Tue, 02 Jun 2026 11:39:04 +0000",
+    "summary": "<p>The vulnerability is CVE-2024-21182 and it can be exploited without authentication to hack affected WebLogic servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/\">Oracle WebLogic Vulnerability Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The vulnerability is CVE-2024-21182 and it can be exploited without authentication to hack affected WebLogic servers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2024-21182"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Meta AI Hands Over High-Profile Instagram Accounts to Hackers",
+    "link": "https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/",
+    "published": "Tue, 02 Jun 2026 10:48:26 +0000",
+    "summary": "<p>Exploiting a confused deputy weakness, the hackers simply asked the chatbot to link the account to a new email address.</p>\n<p>The post <a href=\"https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/\">Meta AI Hands Over High-Profile Instagram Accounts to Hackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Exploiting a confused deputy weakness, the hackers simply asked the chatbot to link the account to a new email address",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Supply Chain Attack Hits 32 Red Hat NPM Packages",
+    "link": "https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/",
+    "published": "Tue, 02 Jun 2026 09:51:19 +0000",
+    "summary": "<p>Hackers published 96 malicious package versions, injected with a credential-stealing worm similar to Mini Shai-Hulud.</p>\n<p>The post <a href=\"https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/\">Supply Chain Attack Hits 32 Red Hat NPM Packages</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers published 96 malicious package versions, injected with a credential-stealing worm similar to Mini Shai-Hulud",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads",
+    "link": "https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/",
+    "published": "Tue, 02 Jun 2026 08:07:41 +0000",
+    "summary": "<p>Dashlane’s security systems automatically locked accounts to protect them against the hacking attempts.</p>\n<p>The post <a href=\"https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/\">Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Dashlane’s security systems automatically locked accounts to protect them against the hacking attempts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Oracle’s First Monthly Patches Resolve 77 Vulnerabilities",
+    "link": "https://www.securityweek.com/oracles-first-monthly-patches-resolve-77-vulnerabilities/",
+    "published": "Tue, 02 Jun 2026 07:20:14 +0000",
+    "summary": "<p>Oracle’s monthly Critical Security Patch Update (CSPU) rollouts are meant to deliver critical fixes faster.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracles-first-monthly-patches-resolve-77-vulnerabilities/\">Oracle&#8217;s First Monthly Patches Resolve 77 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Oracle’s monthly Critical Security Patch Update (CSPU) rollouts are meant to deliver critical fixes faster",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -661,108 +756,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access",
-    "link": "https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/",
-    "published": "Mon, 01 Jun 2026 11:19:31 +0000",
-    "summary": "<p>Proof-of-concept (PoC) exploit code has been released for the CIFSwitch flaw, which allows low-privileged users to escalate to root on vulnerable Linux systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/\">19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Proof-of-concept (PoC) exploit code has been released for the CIFSwitch flaw, which allows low-privileged users to escalate to root on vulnerable Linux systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Recent Palo Alto Networks Vulnerability Exploited for Weeks",
-    "link": "https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/",
-    "published": "Mon, 01 Jun 2026 10:00:00 +0000",
-    "summary": "<p>Hackers began exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks PAN-OS, four days after public disclosure.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/\">Recent Palo Alto Networks Vulnerability Exploited for Weeks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers began exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks PAN-OS, four days after public disclosure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-0257"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say",
-    "link": "https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/",
-    "published": "Sat, 30 May 2026 16:00:49 +0000",
-    "summary": "<p>Moscow’s agents are building fake companies, recruiting middlemen and deploying cyber spies and hackers who gather information that could be used to attack key infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/\">Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Moscow’s agents are building fake companies, recruiting middlemen and deploying cyber spies and hackers who gather information that could be used to attack key infrastructure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Exploit Code Published for Critical Flowise RCE Vulnerability",
-    "link": "https://www.securityweek.com/exploit-code-published-for-critical-flowise-rce-vulnerability/",
-    "published": "Sat, 30 May 2026 15:55:59 +0000",
-    "summary": "<p>The one-click vulnerability allows attackers to execute arbitrary code on self-hosted Flowise servers by tricking users into importing a malicious chatflow.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploit-code-published-for-critical-flowise-rce-vulnerability/\">Exploit Code Published for Critical Flowise RCE Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The one-click vulnerability allows attackers to execute arbitrary code on self-hosted Flowise servers by tricking users into importing a malicious chatflow",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-40933"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks",
-    "link": "https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/",
-    "published": "Fri, 29 May 2026 16:20:49 +0000",
-    "summary": "<p>Noteworthy stories that might have slipped under the radar: Trump Mobile exposes customer data, phishers target the 2026 FIFA World Cup, CISA responds to recent supply chain attacks. </p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/\">In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Noteworthy stories that might have slipped under the radar: Trump Mobile exposes customer data, phishers target the 2026 FIFA World Cup, CISA responds to recent supply chain attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Less panic patching, more precision",
     "link": "https://blog.talosintelligence.com/less-panic-patching-more-precision/",
@@ -811,10 +804,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25713",
-        "CVE-2026-25104",
         "CVE-2026-22554",
-        "CVE-2026-28764"
+        "CVE-2026-28764",
+        "CVE-2026-25104",
+        "CVE-2026-25713"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -871,9 +864,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-30815",
         "CVE-2026-30816",
-        "CVE-2026-30814",
-        "CVE-2026-30815"
+        "CVE-2026-30814"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -931,11 +924,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20133",
-        "CVE-2026-20182",
-        "CVE-2026-20127",
         "CVE-2026-20122",
-        "CVE-2026-20128"
+        "CVE-2026-20133",
+        "CVE-2026-20128",
+        "CVE-2026-20127",
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1340,6 +1333,42 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "23andMe exposed genetic information of millions, lawsuit says",
+    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/06/23andme-exposed-genetic-information-of-millions-lawsuit-says",
+    "published": "Tue, 02 Jun 2026 09:53:19 GMT",
+    "summary": "What began with stolen passwords ended with the exposure of nearly seven million users' DNA-related data, according to California's lawsuit.",
+    "analysis": {
+      "issue": "California has sued the former shell of DNA testing company 23andMe over alleged security failures and misleading statements surrounding its 2023 data breach",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Fake virus alerts are invading mobile games",
+    "link": "https://www.malwarebytes.com/blog/mobile/2026/06/fake-virus-alerts-are-invading-mobile-games",
+    "published": "Tue, 02 Jun 2026 09:03:55 GMT",
+    "summary": "\"Your device is infected!\" Fake account warnings and virus alerts are turning some in-game ads into malware traps.",
+    "analysis": {
+      "issue": "You’re happily playing a game on your phone or laptop when suddenly alarms pop up out of nowhere: “Your device is infected",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Fake BlueWallet steals passwords, accounts, and crypto from Macs",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/06/fake-bluewallet-steals-passwords-accounts-and-crypto-from-macs",
     "published": "Mon, 01 Jun 2026 14:40:25 GMT",
@@ -1483,42 +1512,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Kali365 phishing kit bypasses MFA and steals Microsoft logins",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/05/kali365-phishing-kit-bypasses-mfa-and-steals-microsoft-logins",
-    "published": "Wed, 27 May 2026 11:41:54 GMT",
-    "summary": "The FBI has warned that attackers are using a new phishing kit to gain long-term access to Microsoft Outlook, Teams, and OneDrive accounts.",
-    "analysis": {
-      "issue": "When the Federal Bureau of Investigation (FBI) publishes a dedicated public service announcement about a new phishing kit, it’s worth paying attention to",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Company bragged phone mics could listen to conversations. They couldn&#8217;t.",
-    "link": "https://www.malwarebytes.com/blog/news/2026/05/company-bragged-phone-mics-could-listen-to-conversations-they-couldnt",
-    "published": "Wed, 27 May 2026 09:56:26 GMT",
-    "summary": "Cox Media said it could spy on users through their devices and use the information for targeted advertising, except it wasn't true.",
-    "analysis": {
-      "issue": "A media company and two of its marketing partners have been fined for selling a service which, they said, listened in to people’s conversations through their phones",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
       ]
     }
   },
