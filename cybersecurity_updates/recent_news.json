@@ -186,6 +186,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
+    "link": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
+    "published": "Wed, 03 Jun 2026 15:08:19 -0400",
+    "summary": "A new denial-of-service (DoS) attack dubbed HTTP/2 Bomb can be launched from a single machine to take down web servers within seconds. [...]",
+    "analysis": {
+      "issue": "A new denial-of-service (DoS) attack dubbed HTTP/2 Bomb can be launched from a single machine to take down web servers within seconds",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "CISA warns of active attacks exploiting Android, Linux bugs",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
     "published": "Wed, 03 Jun 2026 11:36:16 -0400",
@@ -197,8 +215,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-48595",
-        "CVE-2022-0492"
+        "CVE-2022-0492",
+        "CVE-2025-48595"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -237,8 +255,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49200",
-        "CVE-2026-49201"
+        "CVE-2026-49201",
+        "CVE-2026-49200"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -353,24 +371,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign",
-    "link": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
-    "published": "Tue, 02 Jun 2026 17:54:49 -0400",
-    "summary": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
-    "analysis": {
-      "issue": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -568,6 +568,24 @@
   },
   {
     "source": "Security Week",
+    "title": "Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform",
+    "link": "https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/",
+    "published": "Wed, 03 Jun 2026 17:32:57 +0000",
+    "summary": "<p>Coralogix offers a full-stack observability platform that unifies logs, metrics, traces, security, and AI observability.</p>\n<p>The post <a href=\"https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/\">Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Coralogix offers a full-stack observability platform that unifies logs, metrics, traces, security, and AI observability",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Kirki, Burst Statistics WordPress Plugin Flaws in Attackers’ Crosshairs",
     "link": "https://www.securityweek.com/kirki-burst-statistics-wordpress-plugin-flaws-in-attackers-crosshairs/",
     "published": "Wed, 03 Jun 2026 13:00:04 +0000",
@@ -654,8 +672,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-48595",
-        "CVE-2022-0492"
+        "CVE-2022-0492",
+        "CVE-2025-48595"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -675,11 +693,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2016-6581",
-        "CVE-2025-53020",
-        "CVE-2016-8740",
         "CVE-2016-1546",
-        "CVE-2026-49975"
+        "CVE-2026-49975",
+        "CVE-2016-8740",
+        "CVE-2025-53020",
+        "CVE-2016-6581"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -699,9 +717,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-41091",
-        "CVE-2026-45498",
         "CVE-2026-45585",
+        "CVE-2026-45498",
+        "CVE-2026-41091",
         "CVE-2026-33825"
       ],
       "threat_categories": [
@@ -742,28 +760,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Exclusive: How One Line of Code Put Billions of Microsoft Android App Downloads at Risk",
-    "link": "https://www.securityweek.com/exclusive-how-one-line-of-code-put-billions-of-microsoft-android-app-downloads-at-risk/",
-    "published": "Tue, 02 Jun 2026 15:00:00 +0000",
-    "summary": "<p>A simple development setting bypassed protections designed to prevent unauthorized Android apps from accessing Microsoft account tokens, exposing billions of installations.</p>\n<p>The post <a href=\"https://www.securityweek.com/exclusive-how-one-line-of-code-put-billions-of-microsoft-android-app-downloads-at-risk/\">Exclusive: How One Line of Code Put Billions of Microsoft Android App Downloads at Risk</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A simple development setting bypassed protections designed to prevent unauthorized Android apps from accessing Microsoft account tokens, exposing billions of installations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-41100"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
         "Supply Chain"
       ]
     }
@@ -817,10 +813,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-28764",
-        "CVE-2026-25104",
         "CVE-2026-22554",
-        "CVE-2026-25713"
+        "CVE-2026-28764",
+        "CVE-2026-25713",
+        "CVE-2026-25104"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -878,8 +874,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-30815",
-        "CVE-2026-30816",
-        "CVE-2026-30814"
+        "CVE-2026-30814",
+        "CVE-2026-30816"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -937,11 +933,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
+        "CVE-2026-20122",
+        "CVE-2026-20182",
         "CVE-2026-20133",
         "CVE-2026-20128",
-        "CVE-2026-20127",
-        "CVE-2026-20182",
-        "CVE-2026-20122"
+        "CVE-2026-20127"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1346,6 +1342,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "We found this fake-invoice campaign while scammers were still building it",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/06/we-found-this-fake-invoice-campaign-while-scammers-were-still-building-it",
+    "published": "Wed, 03 Jun 2026 18:05:19 GMT",
+    "summary": "Invoices pretending to be from Amazon, PayPal, and others reveal how criminals use fear and phone calls to steal money and devices.",
+    "analysis": {
+      "issue": "A new batch of fake payment invoices is being staged right now, and we caught the campaign while it was still being put together",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Keep getting calls from questionable numbers? Meet Scam Number Check",
     "link": "https://www.malwarebytes.com/blog/product/2026/06/keep-getting-calls-from-questionable-numbers-meet-scam-number-check",
     "published": "Wed, 03 Jun 2026 12:16:04 GMT",
@@ -1506,25 +1520,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Signal users targeted in backup-stealing phishing attacks",
-    "link": "https://www.malwarebytes.com/blog/news/2026/05/signal-users-targeted-in-backup-stealing-phishing-attacks",
-    "published": "Fri, 29 May 2026 12:07:24 GMT",
-    "summary": "Cybercriminals are impersonating Signal Support to steal backup recovery keys, giving them access to victims' entire message archives.",
-    "analysis": {
-      "issue": "A new phishing campaign is targeting Signal users by attempting to steal their backup recovery keys to access encrypted message archives",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
       ]
     }
   },
