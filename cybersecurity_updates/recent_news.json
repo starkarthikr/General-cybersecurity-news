@@ -436,19 +436,7 @@
     "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
     "link": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
     "published": "Thu, 21 May 2026 21:50:25 +0000",
-    "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. KrebsOnSecurity publicly named the suspect in February 2026 after the accused launched a volley of DDoS, doxing and swatting campaigns against this author and a security researcher. He now faces criminal hacking charges in both Canada and the United States.",
-    "analysis": {
-      "issue": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-serv",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
+    "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. KrebsOnSecurity publicly named the suspect in February 2026 after the accused launched a volley of DDoS, doxing and swatting campaigns against this author and a security researcher. He now faces criminal hacking charges in both Canada and the United States."
   },
   {
     "source": "Krebs On Security",
@@ -511,21 +499,61 @@
     "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
     "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
     "published": "Thu, 30 Apr 2026 14:04:26 +0000",
-    "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm's chief executive says the malicious activity resulted from a security breach and was likely the work of a competitor trying to tarnish his company's public image."
+    "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm's chief executive says the malicious activity resulted from a security breach and was likely the work of a competitor trying to tarnish his company's public image.",
+    "analysis": {
+      "issue": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOn",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
     "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
     "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
     "published": "Tue, 21 Apr 2026 14:53:59 +0000",
-    "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan admitted his role in a series of text-message phishing attacks in the summer of 2022 that allowed the group to hack into at least a dozen major technology companies and steal tens of millions of dollars worth of cryptocurrency from investors."
+    "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan admitted his role in a series of text-message phishing attacks in the summer of 2022 that allowed the group to hack into at least a dozen major technology companies and steal tens of millions of dollars worth of cryptocurrency from investors.",
+    "analysis": {
+      "issue": "A 24-year-old British national and senior member of the cybercrime group “Scattered Spider” has pleaded guilty to wire fraud conspiracy and aggravated identity theft",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Phishing"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, April 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
     "published": "Tue, 14 Apr 2026 21:47:59 +0000",
-    "summary": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in Windows Defender dubbed \"BlueHammer.\" Separately, Google Chrome fixed its fourth zero-day of 2026, and an emergency update for Adobe Reader nixes an actively exploited flaw that can lead to remote code execution."
+    "summary": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in Windows Defender dubbed \"BlueHammer.\" Separately, Google Chrome fixed its fourth zero-day of 2026, and an emergency update for Adobe Reader nixes an actively exploited flaw that can lead to remote code execution.",
+    "analysis": {
+      "issue": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in Windows Defender dubbed “BlueH",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-33825",
+        "CVE-2026-32201",
+        "CVE-2026-34621"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
   },
   {
     "source": "Security Week",
@@ -776,10 +804,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-28764",
         "CVE-2026-22554",
-        "CVE-2026-25104",
-        "CVE-2026-25713"
+        "CVE-2026-25713",
+        "CVE-2026-28764",
+        "CVE-2026-25104"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -836,9 +864,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30814",
         "CVE-2026-30815",
-        "CVE-2026-30816"
+        "CVE-2026-30816",
+        "CVE-2026-30814"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -896,10 +924,10 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20128",
         "CVE-2026-20182",
         "CVE-2026-20122",
         "CVE-2026-20133",
+        "CVE-2026-20128",
         "CVE-2026-20127"
       ],
       "threat_categories": [
