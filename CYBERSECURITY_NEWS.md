@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-02 19:56:11 UTC
+**Last Updated:** 2026-06-03 04:49:20 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine](https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html)
+### 1. [Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited](https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 03 Jun 2026 00:16:00 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2025-48595  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine](https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 02 Jun 2026 23:51:49 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation](https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html)
+### 3. [Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation](https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 02 Jun 2026 23:44:42 +0530  
@@ -23,7 +33,7 @@
 
 ---
 
-### 3. [AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.](https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html)
+### 4. [AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.](https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 02 Jun 2026 17:28:00 +0530  
@@ -32,7 +42,7 @@
 
 ---
 
-### 4. [How Leading Organizations Are Turning EDR Into Operational Resilience](https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html)
+### 5. [How Leading Organizations Are Turning EDR Into Operational Resilience](https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 02 Jun 2026 16:00:00 +0530  
@@ -41,7 +51,7 @@
 
 ---
 
-### 5. [Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT](https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html)
+### 6. [Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT](https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 02 Jun 2026 14:35:40 +0530  
@@ -50,7 +60,7 @@
 
 ---
 
-### 6. [Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded](https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html)
+### 7. [Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded](https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 02 Jun 2026 09:25:25 +0530  
@@ -59,7 +69,7 @@
 
 ---
 
-### 7. [Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm](https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html)
+### 8. [Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm](https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 01 Jun 2026 23:10:28 +0530  
@@ -68,7 +78,7 @@
 
 ---
 
-### 8. [⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More](https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html)
+### 9. [⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More](https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 01 Jun 2026 19:29:54 +0530  
@@ -77,7 +87,7 @@
 
 ---
 
-### 9. [China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan](https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html)
+### 10. [China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan](https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 01 Jun 2026 17:24:24 +0530  
@@ -86,16 +96,53 @@
 
 ---
 
-### 10. [The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools](https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html)
+### 11. [Microsoft's Coreutils project brings Linux commands to Windows](https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 01 Jun 2026 17:00:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 02 Jun 2026 18:52:40 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [Microsoft Exchange Online outage causes email delays, failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/)
+### 12. [OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 02 Jun 2026 18:44:50 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [Critical Kirki flaw exploited to hijack WordPress admin accounts](https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 02 Jun 2026 18:12:57 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-8206  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [Over 116,000 Minecraft systems infected in WeedHack malware campaign](https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 02 Jun 2026 17:54:49 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 15. [AI-built ransomware toolkit automates EDR evasion, AD discovery](https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 02 Jun 2026 16:01:20 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Vulnerability, Malware  
+
+---
+
+### 16. [Microsoft Exchange Online outage causes email delays, failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 02 Jun 2026 13:02:40 -0400  
@@ -104,7 +151,7 @@
 
 ---
 
-### 12. [Instagram users locked out after Meta AI abused to steal accounts](https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/)
+### 17. [Instagram users locked out after Meta AI abused to steal accounts](https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 02 Jun 2026 11:47:33 -0400  
@@ -113,7 +160,7 @@
 
 ---
 
-### 13. [Why the browser is now the front line for AI security](https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/)
+### 18. [Why the browser is now the front line for AI security](https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 02 Jun 2026 10:30:40 -0400  
@@ -122,7 +169,7 @@
 
 ---
 
-### 14. [CISA flags two-year-old Oracle flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/)
+### 19. [CISA flags two-year-old Oracle flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 02 Jun 2026 08:40:33 -0400  
@@ -132,58 +179,13 @@
 
 ---
 
-### 15. [Google fixes one actively exploited Android zero-day, 124 flaws](https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/)
+### 20. [Google fixes one actively exploited Android zero-day, 124 flaws](https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 02 Jun 2026 07:10:15 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2025-48595  
 **Categories:** Vulnerability, APT  
-
----
-
-### 16. [Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks](https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 01 Jun 2026 18:14:19 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 17. [Red Hat npm packages compromised to steal developer credentials](https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 01 Jun 2026 17:38:29 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 18. [Spain arrests doxer leaking sensitive data of govt employees](https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 01 Jun 2026 17:28:41 -0400  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 19. [Dashlane password manager users locked out by brute force attacks](https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 01 Jun 2026 14:17:13 -0400  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 20. [WordPress malware campaign hides payloads in Steam profiles](https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 01 Jun 2026 13:04:16 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -254,8 +256,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Thu, 30 Apr 2026 14:04:26 +0000  
-**Severity:** Low  
-**Categories:** Malware, DDoS  
 
 ---
 
@@ -263,8 +263,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Tue, 21 Apr 2026 14:53:59 +0000  
-**Severity:** High  
-**Categories:** Ransomware, Phishing  
 
 ---
 
@@ -272,13 +270,19 @@
 
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
-**Categories:** Vulnerability, Phishing  
 
 ---
 
-### 31. [Two New Reports Offer Competing Explanations for Cybersecurity’s Growing Crisis](https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/)
+### 31. [Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks](https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/)
+
+**Source:** Security Week  
+**Published:** Tue, 02 Jun 2026 20:10:49 +0000  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 32. [Two New Reports Offer Competing Explanations for Cybersecurity’s Growing Crisis](https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/)
 
 **Source:** Security Week  
 **Published:** Tue, 02 Jun 2026 16:35:38 +0000  
@@ -287,7 +291,7 @@
 
 ---
 
-### 32. [Exclusive: How One Line of Code Put Billions of Microsoft Android App Downloads at Risk](https://www.securityweek.com/exclusive-how-one-line-of-code-put-billions-of-microsoft-android-app-downloads-at-risk/)
+### 33. [Exclusive: How One Line of Code Put Billions of Microsoft Android App Downloads at Risk](https://www.securityweek.com/exclusive-how-one-line-of-code-put-billions-of-microsoft-android-app-downloads-at-risk/)
 
 **Source:** Security Week  
 **Published:** Tue, 02 Jun 2026 15:00:00 +0000  
@@ -297,17 +301,17 @@
 
 ---
 
-### 33. [Android Update Patches Exploited Zero-Day, 123 Other Vulnerabilities](https://www.securityweek.com/android-update-patches-exploited-zero-day-123-other-vulnerabilities/)
+### 34. [Android Update Patches Exploited Zero-Day, 123 Other Vulnerabilities](https://www.securityweek.com/android-update-patches-exploited-zero-day-123-other-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Tue, 02 Jun 2026 14:36:33 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-0059, CVE-2025-48595  
+**CVEs:** CVE-2025-48595, CVE-2026-0059  
 **Categories:** Vulnerability, Malware, DDoS  
 
 ---
 
-### 34. [Anthropic Expanding Mythos Access to 150 New Organizations](https://www.securityweek.com/anthropic-expanding-mythos-access-to-150-new-organizations/)
+### 35. [Anthropic Expanding Mythos Access to 150 New Organizations](https://www.securityweek.com/anthropic-expanding-mythos-access-to-150-new-organizations/)
 
 **Source:** Security Week  
 **Published:** Tue, 02 Jun 2026 13:58:44 +0000  
@@ -316,7 +320,7 @@
 
 ---
 
-### 35. [The Zero-Knowledge Threat Actor and the End of Responsible Disclosure](https://www.securityweek.com/the-zero-knowledge-threat-actor-and-the-end-of-responsible-disclosure/)
+### 36. [The Zero-Knowledge Threat Actor and the End of Responsible Disclosure](https://www.securityweek.com/the-zero-knowledge-threat-actor-and-the-end-of-responsible-disclosure/)
 
 **Source:** Security Week  
 **Published:** Tue, 02 Jun 2026 12:30:00 +0000  
@@ -325,7 +329,7 @@
 
 ---
 
-### 36. [Critical Vulnerability in HP VoIP Phones Enables Enterprise Network Breaches](https://www.securityweek.com/critical-vulnerability-in-hp-voip-phones-enables-enterprise-network-breaches/)
+### 37. [Critical Vulnerability in HP VoIP Phones Enables Enterprise Network Breaches](https://www.securityweek.com/critical-vulnerability-in-hp-voip-phones-enables-enterprise-network-breaches/)
 
 **Source:** Security Week  
 **Published:** Tue, 02 Jun 2026 12:25:52 +0000  
@@ -335,7 +339,7 @@
 
 ---
 
-### 37. [Oracle WebLogic Vulnerability Exploited in the Wild](https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/)
+### 38. [Oracle WebLogic Vulnerability Exploited in the Wild](https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/)
 
 **Source:** Security Week  
 **Published:** Tue, 02 Jun 2026 11:39:04 +0000  
@@ -345,7 +349,7 @@
 
 ---
 
-### 38. [Meta AI Hands Over High-Profile Instagram Accounts to Hackers](https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/)
+### 39. [Meta AI Hands Over High-Profile Instagram Accounts to Hackers](https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/)
 
 **Source:** Security Week  
 **Published:** Tue, 02 Jun 2026 10:48:26 +0000  
@@ -354,21 +358,12 @@
 
 ---
 
-### 39. [Supply Chain Attack Hits 32 Red Hat NPM Packages](https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/)
+### 40. [Supply Chain Attack Hits 32 Red Hat NPM Packages](https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/)
 
 **Source:** Security Week  
 **Published:** Tue, 02 Jun 2026 09:51:19 +0000  
 **Severity:** Low  
 **Categories:** Malware, Supply Chain  
-
----
-
-### 40. [Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads](https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/)
-
-**Source:** Security Week  
-**Published:** Tue, 02 Jun 2026 08:07:41 +0000  
-**Severity:** Low  
-**Categories:** Data Breach, Phishing  
 
 ---
 
@@ -395,7 +390,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25713, CVE-2026-22554, CVE-2026-25104, CVE-2026-28764  
+**CVEs:** CVE-2026-28764, CVE-2026-22554, CVE-2026-25104, CVE-2026-25713  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -423,7 +418,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30814, CVE-2026-30816, CVE-2026-30815  
+**CVEs:** CVE-2026-30814, CVE-2026-30815, CVE-2026-30816  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -451,7 +446,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20133, CVE-2026-20127, CVE-2026-20122, CVE-2026-20128, CVE-2026-20182  
+**CVEs:** CVE-2026-20128, CVE-2026-20182, CVE-2026-20122, CVE-2026-20133, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---
@@ -635,7 +630,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

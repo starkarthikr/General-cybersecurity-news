@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
+    "link": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
+    "published": "Wed, 03 Jun 2026 00:16:00 +0530",
+    "summary": "Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that has come under active exploitation.\n\nTracked as CVE-2025-48595 (CVSS score: 8.4), the security flaw has been described as a case of privilege escalation without requiring any user interaction. The",
+    "analysis": {
+      "issue": "Google patched 124 Android flaws in June 2026, including exploited CVE-2025-48595, reducing privilege-escalation risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-48595"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
     "link": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
     "published": "Tue, 02 Jun 2026 23:51:49 +0530",
@@ -167,13 +187,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
-    "link": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
-    "published": "Mon, 01 Jun 2026 17:00:00 +0530",
-    "summary": "Three years ago, the practical question for an MSP building a cybersecurity practice was which \"vCISO platform\" to buy. The term was good shorthand for the work at the time: assessments, advisory, reporting, maybe a compliance module bolted on the side. The work has since outgrown the descriptor.\n\nA Security Growth Platform is the more precise name for what MSPs and MSSPs need from the software",
+    "source": "Bleeping Computer",
+    "title": "Microsoft's Coreutils project brings Linux commands to Windows",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
+    "published": "Tue, 02 Jun 2026 18:52:40 -0400",
+    "summary": "Microsoft announced today at its Build 2026 developer conference the release of Coreutils for Windows, bringing many commonly used Linux command-line utilities to Windows as native applications. [...]",
     "analysis": {
-      "issue": "Why MSPs are moving beyond vCISO tools: the Security Growth Platform combine program management, CISO intelligence, and portfolio revenue analytics",
+      "issue": "Microsoft announced today at its Build 2026 developer conference the release of Coreutils for Windows, bringing many commonly used Linux command-line utilities to Windows as native applications",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -181,6 +201,82 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
+    "published": "Tue, 02 Jun 2026 18:44:50 -0400",
+    "summary": "OpenAI says it's rolling out a new update that improves the existing GPT-5.5 Instant model, and this move comes ahead of the scheduled retirement of multiple legacy models, including o3. [...]",
+    "analysis": {
+      "issue": "OpenAI says it's rolling out a new update that improves the existing GPT-5",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
+    "published": "Tue, 02 Jun 2026 18:12:57 -0400",
+    "summary": "Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, including those belonging to administrators. [...]",
+    "analysis": {
+      "issue": "Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, including those belonging to administrators",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-8206"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign",
+    "link": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
+    "published": "Tue, 02 Jun 2026 17:54:49 -0400",
+    "summary": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
+    "analysis": {
+      "issue": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
+    "link": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
+    "published": "Tue, 02 Jun 2026 16:01:20 -0400",
+    "summary": "A threat actor is using an AI-built ransomware attack toolkit that automates Active Directory discovery and helps evade endpoint detection and response (EDR) solutions. [...]",
+    "analysis": {
+      "issue": "A threat actor is using an AI-built ransomware attack toolkit that automates Active Directory discovery and helps evade endpoint detection and response (EDR) solutions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -276,97 +372,6 @@
       "threat_categories": [
         "Vulnerability",
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
-    "published": "Mon, 01 Jun 2026 18:14:19 -0400",
-    "summary": "A threat actor tracked as DriveSurge has been operating large-scale malware distribution campaigns using ClickFix and FakeUpdates techniques on compromised sites. [...]",
-    "analysis": {
-      "issue": "A threat actor tracked as DriveSurge has been operating large-scale malware distribution campaigns using ClickFix and FakeUpdates techniques on compromised sites",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Red Hat npm packages compromised to steal developer credentials",
-    "link": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
-    "published": "Mon, 01 Jun 2026 17:38:29 -0400",
-    "summary": "More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dubbed \"Miasma.\" [...]",
-    "analysis": {
-      "issue": "More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dubbed \"Miasma",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Spain arrests doxer leaking sensitive data of govt employees",
-    "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
-    "published": "Mon, 01 Jun 2026 17:28:41 -0400",
-    "summary": "The Spanish National Police has arrested an individual for leaking sensitive information related to members of various key state organizations, including the National Cybersecurity Institute (INCIBE). [...]",
-    "analysis": {
-      "issue": "The Spanish National Police has arrested an individual for leaking sensitive information related to members of various key state organizations, including the National Cybersecurity Institute (INCIBE)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Dashlane password manager users locked out by brute force attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
-    "published": "Mon, 01 Jun 2026 14:17:13 -0400",
-    "summary": "Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]",
-    "analysis": {
-      "issue": "Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "WordPress malware campaign hides payloads in Steam profiles",
-    "link": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
-    "published": "Mon, 01 Jun 2026 13:04:16 -0400",
-    "summary": "Nearly 2,000 WordPress websites were infected with malware that relies on Steam Community profile comments to hide command-and-control (C2) data. [...]",
-    "analysis": {
-      "issue": "Nearly 2,000 WordPress websites were infected with malware that relies on Steam Community profile comments to hide command-and-control (C2) data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
@@ -506,59 +511,37 @@
     "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
     "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
     "published": "Thu, 30 Apr 2026 14:04:26 +0000",
-    "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm's chief executive says the malicious activity resulted from a security breach and was likely the work of a competitor trying to tarnish his company's public image.",
-    "analysis": {
-      "issue": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOn",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
+    "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm's chief executive says the malicious activity resulted from a security breach and was likely the work of a competitor trying to tarnish his company's public image."
   },
   {
     "source": "Krebs On Security",
     "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
     "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
     "published": "Tue, 21 Apr 2026 14:53:59 +0000",
-    "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan admitted his role in a series of text-message phishing attacks in the summer of 2022 that allowed the group to hack into at least a dozen major technology companies and steal tens of millions of dollars worth of cryptocurrency from investors.",
-    "analysis": {
-      "issue": "A 24-year-old British national and senior member of the cybercrime group “Scattered Spider” has pleaded guilty to wire fraud conspiracy and aggravated identity theft",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing"
-      ]
-    }
+    "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan admitted his role in a series of text-message phishing attacks in the summer of 2022 that allowed the group to hack into at least a dozen major technology companies and steal tens of millions of dollars worth of cryptocurrency from investors."
   },
   {
     "source": "Krebs On Security",
     "title": "Patch Tuesday, April 2026 Edition",
     "link": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
     "published": "Tue, 14 Apr 2026 21:47:59 +0000",
-    "summary": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in Windows Defender dubbed \"BlueHammer.\" Separately, Google Chrome fixed its fourth zero-day of 2026, and an emergency update for Adobe Reader nixes an actively exploited flaw that can lead to remote code execution.",
+    "summary": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in Windows Defender dubbed \"BlueHammer.\" Separately, Google Chrome fixed its fourth zero-day of 2026, and an emergency update for Adobe Reader nixes an actively exploited flaw that can lead to remote code execution."
+  },
+  {
+    "source": "Security Week",
+    "title": "Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks",
+    "link": "https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/",
+    "published": "Tue, 02 Jun 2026 20:10:49 +0000",
+    "summary": "<p>The order establishes a framework for the federal government to vet the national security risks of the most advanced AI systems for up to a month before their public release.</p>\n<p>The post <a href=\"https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/\">Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
-      "issue": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in Windows Defender dubbed “BlueH",
+      "issue": "The order establishes a framework for the federal government to vet the national security risks of the most advanced AI systems for up to a month before their public release",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [
-        "CVE-2026-34621",
-        "CVE-2026-33825",
-        "CVE-2026-32201"
-      ],
+      "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Phishing"
+        "General Security"
       ]
     }
   },
@@ -616,8 +599,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-0059",
-        "CVE-2025-48595"
+        "CVE-2025-48595",
+        "CVE-2026-0059"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -745,25 +728,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads",
-    "link": "https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/",
-    "published": "Tue, 02 Jun 2026 08:07:41 +0000",
-    "summary": "<p>Dashlane’s security systems automatically locked accounts to protect them against the hacking attempts.</p>\n<p>The post <a href=\"https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/\">Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Dashlane’s security systems automatically locked accounts to protect them against the hacking attempts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Less panic patching, more precision",
     "link": "https://blog.talosintelligence.com/less-panic-patching-more-precision/",
@@ -812,10 +776,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25713",
+        "CVE-2026-28764",
         "CVE-2026-22554",
         "CVE-2026-25104",
-        "CVE-2026-28764"
+        "CVE-2026-25713"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -873,8 +837,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-30814",
-        "CVE-2026-30816",
-        "CVE-2026-30815"
+        "CVE-2026-30815",
+        "CVE-2026-30816"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -932,11 +896,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20133",
-        "CVE-2026-20127",
-        "CVE-2026-20122",
         "CVE-2026-20128",
-        "CVE-2026-20182"
+        "CVE-2026-20182",
+        "CVE-2026-20122",
+        "CVE-2026-20133",
+        "CVE-2026-20127"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1310,8 +1274,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
