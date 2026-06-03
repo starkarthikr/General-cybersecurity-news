@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-03 12:54:57 UTC
+**Last Updated:** 2026-06-03 17:00:39 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html)
+### 1. [One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens](https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 03 Jun 2026 18:28:22 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 03 Jun 2026 17:28:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore](https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html)
+### 3. [Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore](https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 03 Jun 2026 16:58:59 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes](https://thehackernews.com/2026/06/unpatched-windows-search-uri.html)
+### 4. [Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes](https://thehackernews.com/2026/06/unpatched-windows-search-uri.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 03 Jun 2026 15:48:52 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare](https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html)
+### 5. [New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare](https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 03 Jun 2026 14:03:35 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content](https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html)
+### 6. [Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content](https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 03 Jun 2026 11:46:54 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited](https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html)
+### 7. [Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited](https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 03 Jun 2026 00:16:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine](https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html)
+### 8. [Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine](https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 02 Jun 2026 23:51:49 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation](https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html)
+### 9. [Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation](https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 02 Jun 2026 23:44:42 +0530  
@@ -78,7 +87,7 @@
 
 ---
 
-### 9. [AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.](https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html)
+### 10. [AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.](https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 02 Jun 2026 17:28:00 +0530  
@@ -87,26 +96,36 @@
 
 ---
 
-### 10. [How Leading Organizations Are Turning EDR Into Operational Resilience](https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html)
+### 11. [CISA warns of active attacks exploiting Android, Linux bugs](https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 02 Jun 2026 16:00:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Wed, 03 Jun 2026 11:36:16 -0400  
+**Severity:** High  
+**CVEs:** CVE-2025-48595, CVE-2022-0492  
+**Categories:** Vulnerability  
 
 ---
 
-### 11. [Acer working to patch max severity zero-days in Wave 7 routers](https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/)
+### 12. [What 345 Days of Untested Exposure Looks Like at a Bank](https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 03 Jun 2026 10:02:12 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Vulnerability  
+
+---
+
+### 13. [Acer working to patch max severity zero-days in Wave 7 routers](https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 03 Jun 2026 07:35:47 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49201, CVE-2026-49200  
+**CVEs:** CVE-2026-49200, CVE-2026-49201  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 12. [Police dismantles 9 crime groups in illegal streaming crackdown](https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/)
+### 14. [Police dismantles 9 crime groups in illegal streaming crackdown](https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 03 Jun 2026 06:12:24 -0400  
@@ -115,7 +134,7 @@
 
 ---
 
-### 13. [Google adds Android protection against AI deepfake scam calls](https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/)
+### 15. [Google adds Android protection against AI deepfake scam calls](https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 03 Jun 2026 05:02:11 -0400  
@@ -124,7 +143,7 @@
 
 ---
 
-### 14. [VS Code zero-day lets hackers steal GitHub tokens in one click](https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/)
+### 16. [VS Code zero-day lets hackers steal GitHub tokens in one click](https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 03 Jun 2026 02:50:30 -0400  
@@ -133,7 +152,7 @@
 
 ---
 
-### 15. [Microsoft's Coreutils project brings Linux commands to Windows](https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/)
+### 17. [Microsoft's Coreutils project brings Linux commands to Windows](https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 02 Jun 2026 18:52:40 -0400  
@@ -142,7 +161,7 @@
 
 ---
 
-### 16. [OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/)
+### 18. [OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 02 Jun 2026 18:44:50 -0400  
@@ -151,7 +170,7 @@
 
 ---
 
-### 17. [Critical Kirki flaw exploited to hijack WordPress admin accounts](https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/)
+### 19. [Critical Kirki flaw exploited to hijack WordPress admin accounts](https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 02 Jun 2026 18:12:57 -0400  
@@ -161,30 +180,12 @@
 
 ---
 
-### 18. [Over 116,000 Minecraft systems infected in WeedHack malware campaign](https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/)
+### 20. [Over 116,000 Minecraft systems infected in WeedHack malware campaign](https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 02 Jun 2026 17:54:49 -0400  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 19. [AI-built ransomware toolkit automates EDR evasion, AD discovery](https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 02 Jun 2026 16:01:20 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability, Malware  
-
----
-
-### 20. [Microsoft Exchange Online outage causes email delays, failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 02 Jun 2026 13:02:40 -0400  
-**Severity:** Critical  
-**Categories:** General Security  
 
 ---
 
@@ -274,12 +275,31 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
 
-### 31. [Hackers Target Global Stock Exchange in Espionage Operation](https://www.securityweek.com/hackers-target-global-stock-exchange-in-espionage-operation/)
+### 31. [Kirki, Burst Statistics WordPress Plugin Flaws in Attackers’ Crosshairs](https://www.securityweek.com/kirki-burst-statistics-wordpress-plugin-flaws-in-attackers-crosshairs/)
+
+**Source:** Security Week  
+**Published:** Wed, 03 Jun 2026 13:00:04 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-8206  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [Security of 100 AI Agents Tested and Ranked – What You Need to Know](https://www.securityweek.com/security-of-100-ai-agents-tested-and-ranked-what-you-need-to-know/)
+
+**Source:** Security Week  
+**Published:** Wed, 03 Jun 2026 13:00:00 +0000  
+**Severity:** High  
+**Categories:** Supply Chain  
+
+---
+
+### 33. [Hackers Target Global Stock Exchange in Espionage Operation](https://www.securityweek.com/hackers-target-global-stock-exchange-in-espionage-operation/)
 
 **Source:** Security Week  
 **Published:** Wed, 03 Jun 2026 12:46:53 +0000  
@@ -288,7 +308,7 @@
 
 ---
 
-### 32. [IMA Diligence Services Data Breach Impacts 525,000 People](https://www.securityweek.com/ima-diligence-services-data-breach-impacts-525000-people/)
+### 34. [IMA Diligence Services Data Breach Impacts 525,000 People](https://www.securityweek.com/ima-diligence-services-data-breach-impacts-525000-people/)
 
 **Source:** Security Week  
 **Published:** Wed, 03 Jun 2026 12:08:25 +0000  
@@ -297,37 +317,37 @@
 
 ---
 
-### 33. [Organizations Warned of Exploited Linux Kernel Vulnerability](https://www.securityweek.com/organizations-warned-of-exploited-linux-kernel-vulnerability/)
+### 35. [Organizations Warned of Exploited Linux Kernel Vulnerability](https://www.securityweek.com/organizations-warned-of-exploited-linux-kernel-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Wed, 03 Jun 2026 11:56:43 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-0492, CVE-2025-48595  
+**CVEs:** CVE-2025-48595, CVE-2022-0492  
 **Categories:** Vulnerability  
 
 ---
 
-### 34. [‘HTTP/2 Bomb’ Exploit Knocks Web Servers Offline in Seconds](https://www.securityweek.com/http-2-bomb-exploit-knocks-web-servers-offline-in-seconds/)
+### 36. [‘HTTP/2 Bomb’ Exploit Knocks Web Servers Offline in Seconds](https://www.securityweek.com/http-2-bomb-exploit-knocks-web-servers-offline-in-seconds/)
 
 **Source:** Security Week  
 **Published:** Wed, 03 Jun 2026 10:52:08 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-53020, CVE-2016-8740, CVE-2026-49975, CVE-2016-6581, CVE-2016-1546  
+**CVEs:** CVE-2016-6581, CVE-2025-53020, CVE-2016-8740, CVE-2016-1546, CVE-2026-49975  
 **Categories:** Vulnerability  
 
 ---
 
-### 35. [Microsoft Tries to Calm Legal Threat Fears After Zero-Day Disclosure Backlash](https://www.securityweek.com/microsoft-tries-to-calm-legal-threat-fears-after-zero-day-disclosure-backlash/)
+### 37. [Microsoft Tries to Calm Legal Threat Fears After Zero-Day Disclosure Backlash](https://www.securityweek.com/microsoft-tries-to-calm-legal-threat-fears-after-zero-day-disclosure-backlash/)
 
 **Source:** Security Week  
 **Published:** Wed, 03 Jun 2026 09:57:40 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-45585, CVE-2026-45498, CVE-2026-41091  
+**CVEs:** CVE-2026-41091, CVE-2026-45498, CVE-2026-45585, CVE-2026-33825  
 **Categories:** Vulnerability  
 
 ---
 
-### 36. [Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks](https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/)
+### 38. [Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks](https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/)
 
 **Source:** Security Week  
 **Published:** Tue, 02 Jun 2026 20:10:49 +0000  
@@ -336,7 +356,7 @@
 
 ---
 
-### 37. [Two New Reports Offer Competing Explanations for Cybersecurity’s Growing Crisis](https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/)
+### 39. [Two New Reports Offer Competing Explanations for Cybersecurity’s Growing Crisis](https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/)
 
 **Source:** Security Week  
 **Published:** Tue, 02 Jun 2026 16:35:38 +0000  
@@ -345,32 +365,13 @@
 
 ---
 
-### 38. [Exclusive: How One Line of Code Put Billions of Microsoft Android App Downloads at Risk](https://www.securityweek.com/exclusive-how-one-line-of-code-put-billions-of-microsoft-android-app-downloads-at-risk/)
+### 40. [Exclusive: How One Line of Code Put Billions of Microsoft Android App Downloads at Risk](https://www.securityweek.com/exclusive-how-one-line-of-code-put-billions-of-microsoft-android-app-downloads-at-risk/)
 
 **Source:** Security Week  
 **Published:** Tue, 02 Jun 2026 15:00:00 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-41100  
 **Categories:** Vulnerability, Malware, Supply Chain  
-
----
-
-### 39. [Android Update Patches Exploited Zero-Day, 123 Other Vulnerabilities](https://www.securityweek.com/android-update-patches-exploited-zero-day-123-other-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Tue, 02 Jun 2026 14:36:33 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-0059, CVE-2025-48595  
-**Categories:** Vulnerability, Malware, DDoS  
-
----
-
-### 40. [Anthropic Expanding Mythos Access to 150 New Organizations](https://www.securityweek.com/anthropic-expanding-mythos-access-to-150-new-organizations/)
-
-**Source:** Security Week  
-**Published:** Tue, 02 Jun 2026 13:58:44 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -397,7 +398,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25104, CVE-2026-22554, CVE-2026-25713, CVE-2026-28764  
+**CVEs:** CVE-2026-28764, CVE-2026-25104, CVE-2026-22554, CVE-2026-25713  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -453,7 +454,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20122, CVE-2026-20133, CVE-2026-20127, CVE-2026-20128, CVE-2026-20182  
+**CVEs:** CVE-2026-20133, CVE-2026-20128, CVE-2026-20127, CVE-2026-20182, CVE-2026-20122  
 **Categories:** Vulnerability  
 
 ---

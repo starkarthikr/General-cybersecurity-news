@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
+    "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
+    "published": "Wed, 03 Jun 2026 18:28:22 +0530",
+    "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token.\n\n\"Just by clicking a link, it's possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones,\" security researcher Ammar Askar said.\n\nGitHub supports a feature called GitHub.dev that runs as",
+    "analysis": {
+      "issue": "VS Code flaw exposes GitHub OAuth tokens via one-click attack on GitHub",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
     "link": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html",
     "published": "Wed, 03 Jun 2026 17:28:00 +0530",
@@ -167,20 +185,42 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
-    "link": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html",
-    "published": "Tue, 02 Jun 2026 16:00:00 +0530",
-    "summary": "Most organizations now recognize that endpoint protection alone is no longer sufficient.\n\nThat's why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent years. Organizations understand that modern attacks move faster, evade traditional prevention controls, and require continuous visibility into suspicious activity across the environment.\n\nBut owning EDR",
+    "source": "Bleeping Computer",
+    "title": "CISA warns of active attacks exploiting Android, Linux bugs",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
+    "published": "Wed, 03 Jun 2026 11:36:16 -0400",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting vulnerabilities in the Linux kernel and Android operating system. [...]",
     "analysis": {
-      "issue": "67% of organizations report more AI-powered attacks in 2025, driving demand for hardening and MDR to improve resilience",
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting vulnerabilities in the Linux kernel and Android operating system",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2025-48595",
+        "CVE-2022-0492"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
+    "link": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
+    "published": "Wed, 03 Jun 2026 10:02:12 -0400",
+    "summary": "A two-week penetration test can leave roughly 345 days of real-world exposure unvalidated. Sprocket Security explores why continuous testing is becoming critical as attack surfaces constantly change. [...]",
+    "analysis": {
+      "issue": "In April, a single VPN vulnerability led to data breaches at more than seventy financial institutions running Marquis Software's infrastructure, according to American Banker's reporting on the incident",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach",
+        "Vulnerability"
       ]
     }
   },
@@ -197,8 +237,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49201",
-        "CVE-2026-49200"
+        "CVE-2026-49200",
+        "CVE-2026-49201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -331,44 +371,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
-    "link": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
-    "published": "Tue, 02 Jun 2026 16:01:20 -0400",
-    "summary": "A threat actor is using an AI-built ransomware attack toolkit that automates Active Directory discovery and helps evade endpoint detection and response (EDR) solutions. [...]",
-    "analysis": {
-      "issue": "A threat actor is using an AI-built ransomware attack toolkit that automates Active Directory discovery and helps evade endpoint detection and response (EDR) solutions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Exchange Online outage causes email delays, failures",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/",
-    "published": "Tue, 02 Jun 2026 13:02:40 -0400",
-    "summary": "Microsoft is working to address a widespread service issue affecting the mail flow pipeline for Exchange Online customers across North America and Germany. [...]",
-    "analysis": {
-      "issue": "Microsoft is working to address a widespread service issue affecting the mail flow pipeline for Exchange Online customers across North America, Asia-Pacific (APAC), and Europe",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -554,13 +556,51 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-32201",
         "CVE-2026-33825",
-        "CVE-2026-34621",
-        "CVE-2026-32201"
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Kirki, Burst Statistics WordPress Plugin Flaws in Attackers’ Crosshairs",
+    "link": "https://www.securityweek.com/kirki-burst-statistics-wordpress-plugin-flaws-in-attackers-crosshairs/",
+    "published": "Wed, 03 Jun 2026 13:00:04 +0000",
+    "summary": "<p>Threat actors are exploiting vulnerable Kirki and Burst Statistics deployments to elevate privileges and take over websites.</p>\n<p>The post <a href=\"https://www.securityweek.com/kirki-burst-statistics-wordpress-plugin-flaws-in-attackers-crosshairs/\">Kirki, Burst Statistics WordPress Plugin Flaws in Attackers&#8217; Crosshairs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Threat actors are exploiting vulnerable Kirki and Burst Statistics deployments to elevate privileges and take over websites",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-8206"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Security of 100 AI Agents Tested and Ranked – What You Need to Know",
+    "link": "https://www.securityweek.com/security-of-100-ai-agents-tested-and-ranked-what-you-need-to-know/",
+    "published": "Wed, 03 Jun 2026 13:00:00 +0000",
+    "summary": "<p>The AI Risk Quadrant evaluates AI agents based on three factors: how vulnerable they are to compromise, the potential impact of a breach, and the strength of their security defenses.</p>\n<p>The post <a href=\"https://www.securityweek.com/security-of-100-ai-agents-tested-and-ranked-what-you-need-to-know/\">Security of 100 AI Agents Tested and Ranked – What You Need to Know</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The AI Risk Quadrant evaluates AI agents based on three factors: how vulnerable they are to compromise, the potential impact of a breach, and the strength of their security defenses",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
       ]
     }
   },
@@ -614,8 +654,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-0492",
-        "CVE-2025-48595"
+        "CVE-2025-48595",
+        "CVE-2022-0492"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -635,11 +675,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2016-6581",
         "CVE-2025-53020",
         "CVE-2016-8740",
-        "CVE-2026-49975",
-        "CVE-2016-6581",
-        "CVE-2016-1546"
+        "CVE-2016-1546",
+        "CVE-2026-49975"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -659,10 +699,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
-        "CVE-2026-45585",
+        "CVE-2026-41091",
         "CVE-2026-45498",
-        "CVE-2026-41091"
+        "CVE-2026-45585",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -729,47 +769,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Android Update Patches Exploited Zero-Day, 123 Other Vulnerabilities",
-    "link": "https://www.securityweek.com/android-update-patches-exploited-zero-day-123-other-vulnerabilities/",
-    "published": "Tue, 02 Jun 2026 14:36:33 +0000",
-    "summary": "<p>Google says the Android vulnerability CVE-2025-48595 has been exploited in limited, targeted attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/android-update-patches-exploited-zero-day-123-other-vulnerabilities/\">Android Update Patches Exploited Zero-Day, 123 Other Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Google says the Android vulnerability CVE-2025-48595 has been exploited in limited, targeted attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-0059",
-        "CVE-2025-48595"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Anthropic Expanding Mythos Access to 150 New Organizations",
-    "link": "https://www.securityweek.com/anthropic-expanding-mythos-access-to-150-new-organizations/",
-    "published": "Tue, 02 Jun 2026 13:58:44 +0000",
-    "summary": "<p>Only approximately 50 companies have had access to Mythos until now and they have found thousands of vulnerabilities in their products.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-expanding-mythos-access-to-150-new-organizations/\">Anthropic Expanding Mythos Access to 150 New Organizations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Only approximately 50 companies have had access to Mythos until now and they have found thousands of vulnerabilities in their products",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Less panic patching, more precision",
     "link": "https://blog.talosintelligence.com/less-panic-patching-more-precision/",
@@ -818,10 +817,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-28764",
         "CVE-2026-25104",
         "CVE-2026-22554",
-        "CVE-2026-25713",
-        "CVE-2026-28764"
+        "CVE-2026-25713"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -938,11 +937,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20122",
         "CVE-2026-20133",
-        "CVE-2026-20127",
         "CVE-2026-20128",
-        "CVE-2026-20182"
+        "CVE-2026-20127",
+        "CVE-2026-20182",
+        "CVE-2026-20122"
       ],
       "threat_categories": [
         "Vulnerability"
