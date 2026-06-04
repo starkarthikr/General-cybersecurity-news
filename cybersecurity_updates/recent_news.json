@@ -1,6 +1,80 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
+    "link": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
+    "published": "Thu, 04 Jun 2026 15:21:28 +0530",
+    "summary": "Cybersecurity researchers have flagged a large-scale operation that impersonates open-source and freeware projects to funnel unsuspecting users through a Traffic Distribution System (TDS) and deliver malware families like Remus Stealer, AnimateClipper, and the SessionGate framework.\n\n\"The sites are well-designed and often look like legitimate project portals at a glance, sometimes referencing",
+    "analysis": {
+      "issue": "A large-scale campaign impersonates open-source and freeware project portals to redirect users through a gated TDS and deliver malware",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
+    "link": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html",
+    "published": "Thu, 04 Jun 2026 15:03:57 +0530",
+    "summary": "Unknown attackers spent at least five months inside the Outlook mailbox of a senior executive at a major global stock exchange, copying the inbox out in small, repeated batches and routing it through Dropbox and OneDrive so the traffic blended into normal cloud activity.\n\nSymantec and Carbon Black's Threat Hunter Team reported the campaign this week. This points to espionage, not a money grab:",
+    "analysis": {
+      "issue": "Unknown attackers maintained at least five months of access to a senior global stock exchange executive’s Outlook mailbox",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
+    "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
+    "published": "Thu, 04 Jun 2026 12:49:33 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting Mirasvit Cache Warmer, a popular Magento full-page cache extension, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-45247 (CVSS score: 9.8), is a case of deserialization of untrusted",
+    "analysis": {
+      "issue": "CISA added CVE-2026-45247, a CVSS 9",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-45247"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
+    "link": "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html",
+    "published": "Thu, 04 Jun 2026 11:36:25 +0530",
+    "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and cryptocurrency fraud targeting Americans.\n\nThe \"Disruption Week\" operation began May 18, 2026, leading to the takedown of millions of social media, email, and internet access accounts used by transnational",
+    "analysis": {
+      "issue": "8M in crypto as scam losses hit $7",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
     "link": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
     "published": "Thu, 04 Jun 2026 00:41:15 +0530",
@@ -110,75 +184,22 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
-    "link": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html",
-    "published": "Wed, 03 Jun 2026 17:28:00 +0530",
-    "summary": "The Fragmented State of Modern Enterprise Identity\n\nEnterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of applications, decentralized teams, machine identities, and autonomous systems.\n\nThe result is Identity Dark Matter: identity activity that sits outside the visibility of centralized IAM and beyond the reach of",
+    "source": "Bleeping Computer",
+    "title": "Cisco warns of critical Unified CM flaw with PoC exploit code",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
+    "published": "Thu, 04 Jun 2026 07:09:50 -0400",
+    "summary": "Cisco has released security updates to patch a critical-severity Unified Communications Manager (Unified CM) flaw that allows attackers to gain root privileges. [...]",
     "analysis": {
-      "issue": "46% of enterprise identity activity occurs outside IAM visibility; fragmented systems and AI agents increase risk and exposure",
+      "issue": "Cisco has released security updates to patch a critical-severity Unified Communications Manager (Unified CM) flaw that allows attackers to gain root privileges",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
-    "link": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
-    "published": "Wed, 03 Jun 2026 15:48:52 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker.\n\nLike in the case of CVE-2026-33829, which impacted the Windows Snipping Tool's ms-screensketch: URI handler, the newly flagged issue resides in the search: URI handler, per Huntress.\n\nCVE-2026-33829 refers to a spoofing vulnerability that could expose",
-    "analysis": {
-      "issue": "Unpatched Windows search: URI flaw leaks NTLMv2 hashes via SMB requests; disclosed April 2026, enabling relay attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20230"
+      ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
-    "link": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
-    "published": "Wed, 03 Jun 2026 14:03:35 +0530",
-    "summary": "Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora.\n\nThe vulnerability has been codenamed HTTP/2 Bomb by Calif.\n\n\"The vulnerable behavior exists in each server's default HTTP/2 configuration,\" the company said, adding it was discovered by OpenAI Codex by chaining",
-    "analysis": {
-      "issue": "HTTP/2 Bomb exploits HPACK and flow control; a single client can hold 32GB memory in 20 seconds, causing server outages",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
-    "link": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
-    "published": "Wed, 03 Jun 2026 11:46:54 +0530",
-    "summary": "Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems.\n\nThe Minecraft-focused malware-as-a-service (MaaS) campaign has been codenamed Weedhack by McAfee Labs, stating the activity has been active since January 2026 and impersonates Minecraft clients and mods to infect users. In all, 3820",
-    "analysis": {
-      "issue": "Weedhack malware targets Minecraft players via YouTube and SEO poisoning since Jan 2026, enabling credential theft and remote access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
@@ -267,8 +288,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2025-48595",
-        "CVE-2022-0492"
+        "CVE-2022-0492",
+        "CVE-2025-48595"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -307,8 +328,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49201",
-        "CVE-2026-49200"
+        "CVE-2026-49200",
+        "CVE-2026-49201"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -349,24 +370,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
-    "link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
-    "published": "Wed, 03 Jun 2026 02:50:30 -0400",
-    "summary": "A security researcher has released exploit code for a Visual Studio Code (VS Code) zero-day vulnerability that allows attackers to steal GitHub authentication tokens by tricking users into clicking a link. [...]",
-    "analysis": {
-      "issue": "A security researcher has released exploit code for a Visual Studio Code (VS Code) zero-day vulnerability that allows attackers to steal GitHub authentication tokens by tricking users into clicking a link",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -553,12 +556,89 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-33825",
-        "CVE-2026-32201",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Chinese Cybercrime Group in Spotlight for Record Campaign Pace",
+    "link": "https://www.securityweek.com/chinese-cybercrime-group-ta4922-in-spotlight-for-record-campaign-pace/",
+    "published": "Thu, 04 Jun 2026 11:29:28 +0000",
+    "summary": "<p>Relying on social engineering, the hacking group engages in credential phishing, malware distribution, and fraud activities.</p>\n<p>The post <a href=\"https://www.securityweek.com/chinese-cybercrime-group-ta4922-in-spotlight-for-record-campaign-pace/\">Chinese Cybercrime Group in Spotlight for Record Campaign Pace</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Relying on social engineering, the hacking group engages in credential phishing, malware distribution, and fraud activities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Over 1.4 Million Accounts Disrupted in Cybercrime Crackdown",
+    "link": "https://www.securityweek.com/over-1-4-million-accounts-disrupted-in-cybercrime-crackdown/",
+    "published": "Thu, 04 Jun 2026 10:44:41 +0000",
+    "summary": "<p>Law enforcement and tech companies disrupted infrastructure linked to scammers operating across Southeast Asia.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-1-4-million-accounts-disrupted-in-cybercrime-crackdown/\">Over 1.4 Million Accounts Disrupted in Cybercrime Crackdown</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Law enforcement and tech companies disrupted infrastructure linked to scammers operating across Southeast Asia",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cisco Warns of Available PoC for Critical Unified CM Vulnerability",
+    "link": "https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/",
+    "published": "Thu, 04 Jun 2026 08:44:08 +0000",
+    "summary": "<p>The high-severity flaw can be exploited remotely, without authentication, in server-side request forgery (SSRF) attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/\">Cisco Warns of Available PoC for Critical Unified CM Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The high-severity flaw can be exploited remotely, without authentication, in server-side request forgery (SSRF) attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20230"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "VS Code Vulnerability Allows One-Click GitHub Token Theft",
+    "link": "https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/",
+    "published": "Thu, 04 Jun 2026 08:14:52 +0000",
+    "summary": "<p>A researcher has disclosed the full details of the vulnerability and released a PoC without notifying Microsoft in advance.</p>\n<p>The post <a href=\"https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/\">VS Code Vulnerability Allows One-Click GitHub Token Theft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A researcher has disclosed the full details of the vulnerability and released a PoC without notifying Microsoft in advance",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -668,95 +748,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-48595",
-        "CVE-2022-0492"
+        "CVE-2022-0492",
+        "CVE-2025-48595"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "‘HTTP/2 Bomb’ Exploit Knocks Web Servers Offline in Seconds",
-    "link": "https://www.securityweek.com/http-2-bomb-exploit-knocks-web-servers-offline-in-seconds/",
-    "published": "Wed, 03 Jun 2026 10:52:08 +0000",
-    "summary": "<p>The default HTTP/2 configuration of major web servers is vulnerable to an attack chain combining a compression bomb and a Slowloris-style hold.</p>\n<p>The post <a href=\"https://www.securityweek.com/http-2-bomb-exploit-knocks-web-servers-offline-in-seconds/\">&#8216;HTTP/2 Bomb&#8217; Exploit Knocks Web Servers Offline in Seconds</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The default HTTP/2 configuration of major web servers is vulnerable to an attack chain combining a compression bomb and a Slowloris-style hold",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2016-8740",
-        "CVE-2016-6581",
-        "CVE-2016-1546",
-        "CVE-2026-49975",
-        "CVE-2025-53020"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft Tries to Calm Legal Threat Fears After Zero-Day Disclosure Backlash",
-    "link": "https://www.securityweek.com/microsoft-tries-to-calm-legal-threat-fears-after-zero-day-disclosure-backlash/",
-    "published": "Wed, 03 Jun 2026 09:57:40 +0000",
-    "summary": "<p>Microsoft responds to backlash over its threats of legal action against researchers who publicly disclose zero-day vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-tries-to-calm-legal-threat-fears-after-zero-day-disclosure-backlash/\">Microsoft Tries to Calm Legal Threat Fears After Zero-Day Disclosure Backlash</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Microsoft responds to backlash over its threats of legal action against researchers who publicly disclose zero-day vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-33825",
-        "CVE-2026-45585",
-        "CVE-2026-45498",
-        "CVE-2026-41091"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks",
-    "link": "https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/",
-    "published": "Tue, 02 Jun 2026 20:10:49 +0000",
-    "summary": "<p>The order establishes a framework for the federal government to vet the national security risks of the most advanced AI systems for up to a month before their public release.</p>\n<p>The post <a href=\"https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/\">Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The order establishes a framework for the federal government to vet the national security risks of the most advanced AI systems for up to a month before their public release",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Two New Reports Offer Competing Explanations for Cybersecurity’s Growing Crisis",
-    "link": "https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/",
-    "published": "Tue, 02 Jun 2026 16:35:38 +0000",
-    "summary": "<p>As AI shortens the path from vulnerability disclosure to exploitation, researchers disagree on whether the problem is inadequate security tools or inadequate operational control.</p>\n<p>The post <a href=\"https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/\">Two New Reports Offer Competing Explanations for Cybersecurity&#8217;s Growing Crisis</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "As AI shortens the path from vulnerability disclosure to exploitation, researchers disagree on whether the problem is inadequate security tools or inadequate operational control",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
       ]
     }
   },
@@ -810,9 +806,9 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-25713",
-        "CVE-2026-28764",
         "CVE-2026-22554",
-        "CVE-2026-25104"
+        "CVE-2026-25104",
+        "CVE-2026-28764"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -869,9 +865,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30815",
+        "CVE-2026-30816",
         "CVE-2026-30814",
-        "CVE-2026-30816"
+        "CVE-2026-30815"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -930,10 +926,10 @@
       "severity": "High",
       "cves": [
         "CVE-2026-20182",
-        "CVE-2026-20128",
-        "CVE-2026-20122",
         "CVE-2026-20127",
-        "CVE-2026-20133"
+        "CVE-2026-20133",
+        "CVE-2026-20122",
+        "CVE-2026-20128"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1338,6 +1334,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Meta&#8217;s AI support bot happily handed Instagram accounts to hackers",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/06/metas-ai-support-bot-happily-handed-instagram-accounts-to-hackers",
+    "published": "Thu, 04 Jun 2026 09:09:09 GMT",
+    "summary": "Hackers convinced an AI support bot to hand over Instagram accounts by changing recovery email addresses.",
+    "analysis": {
+      "issue": "Customer service chatbots have one job: get the user what they’re asking for without bothering a human",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "We found this fake-invoice campaign while scammers were still building it",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/06/we-found-this-fake-invoice-campaign-while-scammers-were-still-building-it",
     "published": "Wed, 03 Jun 2026 18:05:19 GMT",
@@ -1498,24 +1512,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Payment apps are watching what you say (Lock and Code S07E11)",
-    "link": "https://www.malwarebytes.com/blog/podcast/2026/05/payment-apps-are-watching-what-you-say-lock-and-code-s07e11",
-    "published": "Mon, 01 Jun 2026 01:52:57 GMT",
-    "summary": "This week on the Lock and Code podcast, we speak with Rainey Reitman about financial censorship that boots customers off major payment apps.",
-    "analysis": {
-      "issue": "This week on the Lock and Code podcast… In the United States today, you can have your bank account closed, your credit cards cancelled, and your online payments revoked for any number of crimes, like funding terrorism, engaging in money laundering, o",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
