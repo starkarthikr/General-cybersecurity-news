@@ -202,7 +202,7 @@
   },
   {
     "source": "Bleeping Computer",
-    "title": "The U.S. sanctions Nobitex crypto exchange used by ransomware",
+    "title": "U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors",
     "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
     "published": "Wed, 03 Jun 2026 16:31:22 -0400",
     "summary": "The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facilitating payments related to terrorist activities. [...]",
@@ -552,9 +552,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-33825",
         "CVE-2026-32201",
-        "CVE-2026-34621",
-        "CVE-2026-33825"
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -689,11 +689,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2016-6581",
         "CVE-2016-8740",
+        "CVE-2016-6581",
+        "CVE-2016-1546",
         "CVE-2026-49975",
-        "CVE-2025-53020",
-        "CVE-2016-1546"
+        "CVE-2025-53020"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -713,10 +713,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-41091",
-        "CVE-2026-45498",
+        "CVE-2026-33825",
         "CVE-2026-45585",
-        "CVE-2026-33825"
+        "CVE-2026-45498",
+        "CVE-2026-41091"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -809,10 +809,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25104",
-        "CVE-2026-28764",
         "CVE-2026-25713",
-        "CVE-2026-22554"
+        "CVE-2026-28764",
+        "CVE-2026-22554",
+        "CVE-2026-25104"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -870,8 +870,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-30815",
-        "CVE-2026-30816",
-        "CVE-2026-30814"
+        "CVE-2026-30814",
+        "CVE-2026-30816"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -929,11 +929,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20133",
-        "CVE-2026-20127",
-        "CVE-2026-20122",
+        "CVE-2026-20182",
         "CVE-2026-20128",
-        "CVE-2026-20182"
+        "CVE-2026-20122",
+        "CVE-2026-20127",
+        "CVE-2026-20133"
       ],
       "threat_categories": [
         "Vulnerability"

@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-04 04:43:24 UTC
+**Last Updated:** 2026-06-04 05:21:53 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -104,7 +104,7 @@
 
 ---
 
-### 12. [The U.S. sanctions Nobitex crypto exchange used by ransomware](https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/)
+### 12. [U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors](https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 03 Jun 2026 16:31:22 -0400  
@@ -273,7 +273,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -339,7 +339,7 @@
 **Source:** Security Week  
 **Published:** Wed, 03 Jun 2026 10:52:08 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2016-6581, CVE-2016-8740, CVE-2026-49975, CVE-2025-53020, CVE-2016-1546  
+**CVEs:** CVE-2016-8740, CVE-2016-6581, CVE-2016-1546, CVE-2026-49975, CVE-2025-53020  
 **Categories:** Vulnerability  
 
 ---
@@ -349,7 +349,7 @@
 **Source:** Security Week  
 **Published:** Wed, 03 Jun 2026 09:57:40 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-41091, CVE-2026-45498, CVE-2026-45585, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-45585, CVE-2026-45498, CVE-2026-41091  
 **Categories:** Vulnerability  
 
 ---
@@ -395,7 +395,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25104, CVE-2026-28764, CVE-2026-25713, CVE-2026-22554  
+**CVEs:** CVE-2026-25713, CVE-2026-28764, CVE-2026-22554, CVE-2026-25104  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -423,7 +423,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30815, CVE-2026-30816, CVE-2026-30814  
+**CVEs:** CVE-2026-30815, CVE-2026-30814, CVE-2026-30816  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -451,7 +451,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20133, CVE-2026-20127, CVE-2026-20122, CVE-2026-20128, CVE-2026-20182  
+**CVEs:** CVE-2026-20182, CVE-2026-20128, CVE-2026-20122, CVE-2026-20127, CVE-2026-20133  
 **Categories:** Vulnerability  
 
 ---
