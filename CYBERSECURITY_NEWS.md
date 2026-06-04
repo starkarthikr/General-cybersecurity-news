@@ -1,22 +1,22 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-03 20:02:43 UTC
+**Last Updated:** 2026-06-04 04:43:24 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens](https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html)
+### 1. [WhatsApp, Slack Notifications Could Hijack Google Gemini on Android](https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html)
 
 **Source:** The Hacker News  
-**Published:** Wed, 03 Jun 2026 18:28:22 +0530  
+**Published:** Thu, 04 Jun 2026 00:41:15 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 2. [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html)
+### 2. [Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT](https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html)
 
 **Source:** The Hacker News  
-**Published:** Wed, 03 Jun 2026 17:28:00 +0530  
+**Published:** Wed, 03 Jun 2026 21:59:16 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -25,13 +25,50 @@
 ### 3. [Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore](https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html)
 
 **Source:** The Hacker News  
-**Published:** Wed, 03 Jun 2026 16:58:59 +0530  
+**Published:** Wed, 03 Jun 2026 20:26:46 +0530  
 **Severity:** Critical  
 **Categories:** Vulnerability  
 
 ---
 
-### 4. [Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes](https://thehackernews.com/2026/06/unpatched-windows-search-uri.html)
+### 4. [Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag](https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 03 Jun 2026 20:26:35 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)](https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 03 Jun 2026 19:17:09 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-23479  
+**Categories:** Vulnerability  
+
+---
+
+### 6. [One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens](https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 03 Jun 2026 18:28:22 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 7. [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 03 Jun 2026 17:28:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 8. [Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes](https://thehackernews.com/2026/06/unpatched-windows-search-uri.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 03 Jun 2026 15:48:52 +0530  
@@ -40,7 +77,7 @@
 
 ---
 
-### 5. [New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare](https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html)
+### 9. [New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare](https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 03 Jun 2026 14:03:35 +0530  
@@ -49,7 +86,7 @@
 
 ---
 
-### 6. [Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content](https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html)
+### 10. [Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content](https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 03 Jun 2026 11:46:54 +0530  
@@ -58,45 +95,34 @@
 
 ---
 
-### 7. [Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited](https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html)
+### 11. [Chinese hackers use new Atlas RAT malware in European cyberattacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 03 Jun 2026 00:16:00 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2025-48595  
-**Categories:** Vulnerability  
-
----
-
-### 8. [Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine](https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 02 Jun 2026 23:51:49 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Wed, 03 Jun 2026 17:45:27 -0400  
+**Severity:** High  
+**Categories:** Malware  
 
 ---
 
-### 9. [Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation](https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html)
+### 12. [The U.S. sanctions Nobitex crypto exchange used by ransomware](https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 02 Jun 2026 23:44:42 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 03 Jun 2026 16:31:22 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2024-21182  
-**Categories:** Vulnerability  
+**Categories:** Ransomware  
 
 ---
 
-### 10. [AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.](https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html)
+### 13. [CISA warns of cyberattacks targeting fuel tank monitoring systems](https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 02 Jun 2026 17:28:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Wed, 03 Jun 2026 16:21:56 -0400  
 **Severity:** Critical  
-**Categories:** Vulnerability  
+**Categories:** APT  
 
 ---
 
-### 11. [New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute](https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/)
+### 14. [New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute](https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 03 Jun 2026 15:08:19 -0400  
@@ -105,17 +131,17 @@
 
 ---
 
-### 12. [CISA warns of active attacks exploiting Android, Linux bugs](https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/)
+### 15. [CISA warns of active attacks exploiting Android, Linux bugs](https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 03 Jun 2026 11:36:16 -0400  
 **Severity:** High  
-**CVEs:** CVE-2022-0492, CVE-2025-48595  
+**CVEs:** CVE-2025-48595, CVE-2022-0492  
 **Categories:** Vulnerability  
 
 ---
 
-### 13. [What 345 Days of Untested Exposure Looks Like at a Bank](https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/)
+### 16. [What 345 Days of Untested Exposure Looks Like at a Bank](https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 03 Jun 2026 10:02:12 -0400  
@@ -124,7 +150,7 @@
 
 ---
 
-### 14. [Acer working to patch max severity zero-days in Wave 7 routers](https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/)
+### 17. [Acer working to patch max severity zero-days in Wave 7 routers](https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 03 Jun 2026 07:35:47 -0400  
@@ -134,7 +160,7 @@
 
 ---
 
-### 15. [Police dismantles 9 crime groups in illegal streaming crackdown](https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/)
+### 18. [Police dismantles 9 crime groups in illegal streaming crackdown](https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 03 Jun 2026 06:12:24 -0400  
@@ -143,7 +169,7 @@
 
 ---
 
-### 16. [Google adds Android protection against AI deepfake scam calls](https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/)
+### 19. [Google adds Android protection against AI deepfake scam calls](https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 03 Jun 2026 05:02:11 -0400  
@@ -152,39 +178,11 @@
 
 ---
 
-### 17. [VS Code zero-day lets hackers steal GitHub tokens in one click](https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/)
+### 20. [VS Code zero-day lets hackers steal GitHub tokens in one click](https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 03 Jun 2026 02:50:30 -0400  
 **Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 18. [Microsoft's Coreutils project brings Linux commands to Windows](https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 02 Jun 2026 18:52:40 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 02 Jun 2026 18:44:50 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Critical Kirki flaw exploited to hijack WordPress admin accounts](https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 02 Jun 2026 18:12:57 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-8206  
 **Categories:** Vulnerability  
 
 ---
@@ -275,7 +273,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
+**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -331,7 +329,7 @@
 **Source:** Security Week  
 **Published:** Wed, 03 Jun 2026 11:56:43 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-0492, CVE-2025-48595  
+**CVEs:** CVE-2025-48595, CVE-2022-0492  
 **Categories:** Vulnerability  
 
 ---
@@ -341,7 +339,7 @@
 **Source:** Security Week  
 **Published:** Wed, 03 Jun 2026 10:52:08 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2016-1546, CVE-2026-49975, CVE-2016-8740, CVE-2025-53020, CVE-2016-6581  
+**CVEs:** CVE-2016-6581, CVE-2016-8740, CVE-2026-49975, CVE-2025-53020, CVE-2016-1546  
 **Categories:** Vulnerability  
 
 ---
@@ -351,7 +349,7 @@
 **Source:** Security Week  
 **Published:** Wed, 03 Jun 2026 09:57:40 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45585, CVE-2026-45498, CVE-2026-41091, CVE-2026-33825  
+**CVEs:** CVE-2026-41091, CVE-2026-45498, CVE-2026-45585, CVE-2026-33825  
 **Categories:** Vulnerability  
 
 ---
@@ -397,7 +395,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-28764, CVE-2026-25713, CVE-2026-25104  
+**CVEs:** CVE-2026-25104, CVE-2026-28764, CVE-2026-25713, CVE-2026-22554  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -425,7 +423,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30815, CVE-2026-30814, CVE-2026-30816  
+**CVEs:** CVE-2026-30815, CVE-2026-30816, CVE-2026-30814  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -453,7 +451,7 @@
 **Source:** Talos Blog  
 **Published:** Thu, 14 May 2026 16:02:36 GMT  
 **Severity:** High  
-**CVEs:** CVE-2026-20122, CVE-2026-20182, CVE-2026-20133, CVE-2026-20128, CVE-2026-20127  
+**CVEs:** CVE-2026-20133, CVE-2026-20127, CVE-2026-20122, CVE-2026-20128, CVE-2026-20182  
 **Categories:** Vulnerability  
 
 ---
@@ -637,7 +635,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

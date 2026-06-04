@@ -1,6 +1,98 @@
 [
   {
     "source": "The Hacker News",
+    "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
+    "link": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
+    "published": "Thu, 04 Jun 2026 00:41:15 +0530",
+    "summary": "A single poisoned notification from WhatsApp, Slack, SMS, Signal, Instagram, or Messenger could have hijacked Google Gemini's voice assistant on Android and made it open a victim's connected windows, fake a message from their boss, push the phone into a Zoom call, or quietly poison its long-term memory.\n\nNo malicious app on the phone is required. The assistant just had to treat a hostile",
+    "analysis": {
+      "issue": "Poisoned Android notifications could hijack Google Gemini’s voice assistant without a malicious app",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
+    "link": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html",
+    "published": "Wed, 03 Jun 2026 21:59:16 +0530",
+    "summary": "Cybersecurity researchers have flagged a new malspam campaign that makes use of Google's DoubleClick domain as a way to evade detection and ultimately deliver a remote access trojan (RAT) named DesckVB RAT.\n\n\"Before the victim ever reaches attacker-controlled infrastructure, the lure routes through DoubleClick, a legitimate Google-owned domain that many security tools are less likely to treat as",
+    "analysis": {
+      "issue": "DoubleClick redirects hide DesckVB RAT malspam, using dynamic lures and",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
+    "link": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
+    "published": "Wed, 03 Jun 2026 20:26:46 +0530",
+    "summary": "Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning that race. You don't control which bug lands. You control what it can reach once it does.\n\nThat is a question about the shape of your network, and most teams have the shape wrong. HD Moore, creator of Metasploit",
+    "analysis": {
+      "issue": "Your critical systems aren't as isolated as your diagram says",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
+    "link": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html",
+    "published": "Wed, 03 Jun 2026 20:26:35 +0530",
+    "summary": "A development flag left switched on in production builds of several Microsoft 365 Android apps disabled the check that limits account-token sharing to trusted Microsoft apps.\n\nAny other app on the same phone could ask for the signed-in user's token and get it, then read email, open files, browse the calendar, and send messages as that user. No password, no login screen, no permission prompt.",
+    "analysis": {
+      "issue": "Debug flag disabled Microsoft 365 Android token checks, letting untrusted apps access accounts; patches issued May 12 to reduce risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
+    "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
+    "published": "Wed, 03 Jun 2026 19:17:09 +0530",
+    "summary": "Redis has  patched  a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases.\nTracked as CVE-2026-23479, the flaw was introduced in Redis 7.2.0 and remained in every stable branch until the May 5 fixes, unnoticed for over two years.",
+    "analysis": {
+      "issue": "Redis CVE-2026-23479 enables authenticated RCE; affecting versions since 7",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-23479"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
     "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
     "published": "Wed, 03 Jun 2026 18:28:22 +0530",
@@ -32,24 +124,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
-    "link": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
-    "published": "Wed, 03 Jun 2026 16:58:59 +0530",
-    "summary": "Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning that race. You don't control which bug lands. You control what it can reach once it does.\n\nThat is a question about the shape of your network, and most teams have the shape wrong. HD Moore, creator of Metasploit",
-    "analysis": {
-      "issue": "Your critical systems aren't as isolated as your diagram says",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -109,78 +183,56 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
-    "link": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
-    "published": "Wed, 03 Jun 2026 00:16:00 +0530",
-    "summary": "Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that has come under active exploitation.\n\nTracked as CVE-2025-48595 (CVSS score: 8.4), the security flaw has been described as a case of privilege escalation without requiring any user interaction. The",
+    "source": "Bleeping Computer",
+    "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
+    "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
+    "published": "Wed, 03 Jun 2026 17:45:27 -0400",
+    "summary": "A Chinese-speaking cybercrime group has expanded its targeting to the European space, deploying previously undocumented malware and the Atlas backdoor. [...]",
     "analysis": {
-      "issue": "Google patched 124 Android flaws in June 2026, including exploited CVE-2025-48595, reducing privilege-escalation risks",
+      "issue": "A Chinese-speaking cybercrime group has expanded its targeting to the European space, deploying previously undocumented malware and the Atlas backdoor",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-48595"
-      ],
+      "severity": "High",
+      "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Malware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
-    "link": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
-    "published": "Tue, 02 Jun 2026 23:51:49 +0530",
-    "summary": "The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation.\n\nPer Sekoia, the activity involves the weaponization of CVE-2025-8088, a path traversal flaw in WinRAR, to launch an HTML Application payload dubbed GammaPhish, which is then used to retrieve an",
+    "source": "Bleeping Computer",
+    "title": "The U.S. sanctions Nobitex crypto exchange used by ransomware",
+    "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
+    "published": "Wed, 03 Jun 2026 16:31:22 -0400",
+    "summary": "The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facilitating payments related to terrorist activities. [...]",
     "analysis": {
-      "issue": "Gamaredon used GammaPhish and GammaWorm in a January 2026 espionage campaign, enabling stealthy persistence and data theft across Ukraine",
+      "issue": "Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facilitating payments related to terrorist activities",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "Ransomware"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
-    "link": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
-    "published": "Tue, 02 Jun 2026 23:44:42 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.\n\nThe vulnerability, CVE-2024-21182 (CVSS score: 7.5), allows an unauthenticated attacker with network access to take control of susceptible servers. It was",
+    "source": "Bleeping Computer",
+    "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
+    "published": "Wed, 03 Jun 2026 16:21:56 -0400",
+    "summary": "CISA, the FBI, the NSA, the Department of Energy, and other US government partners are warning that hackers are targeting internet-exposed automatic tank gauge (ATG) systems used to monitor fuel and liquid storage tanks across various critical infrastructure sectors. [...]",
     "analysis": {
-      "issue": "CVE-2024-21182 entered CISA's KEV catalog after active exploitation evidence, requiring federal patching by June 4, 2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2024-21182"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
-    "link": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
-    "published": "Tue, 02 Jun 2026 17:28:00 +0530",
-    "summary": "AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the history of enterprise security. As a result, the window between a vulnerability being disclosed and indiscriminate exploitation observed across the internet is now measured in hours, not days.\n\nThe industry's",
-    "analysis": {
-      "issue": "AI shrinks exploitation windows to hours while median critical patching time rose to 43 days, increasing exposure risk",
+      "issue": "CISA, the FBI, the NSA, the Department of Energy, and other US government partners are warning that hackers are targeting internet-exposed automatic tank gauge (ATG) systems used to monitor fuel and liquid storage tanks across various critical infras",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "APT"
       ]
     }
   },
@@ -215,8 +267,8 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2022-0492",
-        "CVE-2025-48595"
+        "CVE-2025-48595",
+        "CVE-2022-0492"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -313,62 +365,6 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft's Coreutils project brings Linux commands to Windows",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
-    "published": "Tue, 02 Jun 2026 18:52:40 -0400",
-    "summary": "Microsoft announced today at its Build 2026 developer conference the release of Coreutils for Windows, bringing many commonly used Linux command-line utilities to Windows as native applications. [...]",
-    "analysis": {
-      "issue": "Microsoft announced today at its Build 2026 developer conference the release of Coreutils for Windows, bringing many commonly used Linux command-line utilities to Windows as native applications",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
-    "published": "Tue, 02 Jun 2026 18:44:50 -0400",
-    "summary": "OpenAI says it's rolling out a new update that improves the existing GPT-5.5 Instant model, and this move comes ahead of the scheduled retirement of multiple legacy models, including o3. [...]",
-    "analysis": {
-      "issue": "OpenAI says it's rolling out a new update that improves the existing GPT-5",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
-    "published": "Tue, 02 Jun 2026 18:12:57 -0400",
-    "summary": "Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, including those belonging to administrators. [...]",
-    "analysis": {
-      "issue": "Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, including those belonging to administrators",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-8206"
-      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -557,8 +553,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-32201",
-        "CVE-2026-33825",
-        "CVE-2026-34621"
+        "CVE-2026-34621",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -672,8 +668,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-0492",
-        "CVE-2025-48595"
+        "CVE-2025-48595",
+        "CVE-2022-0492"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -693,11 +689,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2016-1546",
-        "CVE-2026-49975",
+        "CVE-2016-6581",
         "CVE-2016-8740",
+        "CVE-2026-49975",
         "CVE-2025-53020",
-        "CVE-2016-6581"
+        "CVE-2016-1546"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -717,9 +713,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45585",
-        "CVE-2026-45498",
         "CVE-2026-41091",
+        "CVE-2026-45498",
+        "CVE-2026-45585",
         "CVE-2026-33825"
       ],
       "threat_categories": [
@@ -813,10 +809,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-22554",
+        "CVE-2026-25104",
         "CVE-2026-28764",
         "CVE-2026-25713",
-        "CVE-2026-25104"
+        "CVE-2026-22554"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -874,8 +870,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-30815",
-        "CVE-2026-30814",
-        "CVE-2026-30816"
+        "CVE-2026-30816",
+        "CVE-2026-30814"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -933,11 +929,11 @@
       "timeline": null,
       "severity": "High",
       "cves": [
-        "CVE-2026-20122",
-        "CVE-2026-20182",
         "CVE-2026-20133",
+        "CVE-2026-20127",
+        "CVE-2026-20122",
         "CVE-2026-20128",
-        "CVE-2026-20127"
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1311,8 +1307,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
