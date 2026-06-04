@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
+    "link": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html",
+    "published": "Thu, 04 Jun 2026 22:25:51 +0530",
+    "summary": "Cisco has patched a bug in Unified Communications Manager that lets an unauthenticated attacker on the network write files to the box and, from there, climb to root.\n\nIt is tracked as CVE-2026-20230, and proof-of-concept exploit code is already public. Cisco's PSIRT says it has not seen the flaw used in attacks yet. The PoC shortens that runway.\n\nThe flaw is a server-side request forgery.",
+    "analysis": {
+      "issue": "Cisco patched a Unified CM flaw allowing unauthenticated network attackers to write files and escalate to root",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-20230"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
     "link": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
     "published": "Thu, 04 Jun 2026 20:45:26 +0530",
@@ -11,6 +31,24 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It",
+    "link": "https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html",
+    "published": "Thu, 04 Jun 2026 20:40:00 +0530",
+    "summary": "Over the past several weeks, the cybersecurity community has been reminded how quickly frontier and agentic AI in defense networks can challenge our assumptions. When Anthropic's Claude Mythos model was made available to a limited set of organizations as a technical preview, it was reported that an unauthorized group claimed that it had gained access within hours. The incident, if true, was",
+    "analysis": {
+      "issue": "June 2 AI order highlights classified deployment risks, requiring secure data, access, and networks to preserve mission trust",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -37,7 +75,7 @@
   },
   {
     "source": "The Hacker News",
-    "title": "China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa",
+    "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
     "link": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
     "published": "Thu, 04 Jun 2026 17:52:25 +0530",
     "summary": "A new China-linked cybercrime group known as TA4922 has expanded its targeting focus to target European organizations in the U.K., Germany, Italy, and South Africa.\n\nThese efforts have been complemented by a \"rapid operational tempo\" and a continually evolving malware arsenal comprising known families like ValleyRAT (aka Winos 4.0) and Atlas RAT (aka AtlasCross RAT), as well as previously",
@@ -144,40 +182,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
-    "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
-    "published": "Wed, 03 Jun 2026 23:28:00 +0530",
-    "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token.\n\n\"Just by clicking a link, it's possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones,\" security researcher Ammar Askar said.\n\nGitHub supports a feature called GitHub.dev that runs as",
+    "source": "Bleeping Computer",
+    "title": "UN food agency discloses breach affecting 600,000 Gaza households",
+    "link": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
+    "published": "Thu, 04 Jun 2026 12:38:49 -0400",
+    "summary": "The United Nations' World Food Programme (WFP), the world's largest humanitarian organization, revealed over the weekend that its self-registration application (SRA) for Palestine was breached. [...]",
     "analysis": {
-      "issue": "VS Code flaw exposes GitHub OAuth tokens via one-click attack on GitHub",
+      "issue": "0) The United Nations' World Food Programme (WFP), the world's largest humanitarian organization, revealed over the weekend that its self-registration application (SRA) for Palestine was breached",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
-    "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
-    "published": "Wed, 03 Jun 2026 22:10:00 +0530",
-    "summary": "Redis has  patched  a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases.\nTracked as CVE-2026-23479, the flaw was introduced in Redis 7.2.0 and remained in every stable branch until the May 5 fixes, unnoticed for over two years.",
-    "analysis": {
-      "issue": "Redis CVE-2026-23479 enables authenticated RCE; affecting versions since 7",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-23479"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -342,27 +360,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA warns of active attacks exploiting Android, Linux bugs",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
-    "published": "Wed, 03 Jun 2026 11:36:16 -0400",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting vulnerabilities in the Linux kernel and Android operating system. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting vulnerabilities in the Linux kernel and Android operating system",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2025-48595",
-        "CVE-2022-0492"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -548,9 +545,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
         "CVE-2026-34621",
-        "CVE-2026-32201"
+        "CVE-2026-32201",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -749,6 +746,24 @@
   },
   {
     "source": "Talos Blog",
+    "title": "Reporting from Vegas: Networking, AI, and good boys",
+    "link": "https://blog.talosintelligence.com/reporting-from-vegas-networking-ai-and-good-boys/",
+    "published": "Thu, 04 Jun 2026 18:00:59 GMT",
+    "summary": "Joe’s on-the-ground report from Cisco Live U.S. is here, complete with therapy dog pictures and tips on handling conference overstimulation.",
+    "analysis": {
+      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Talos Blog",
     "title": "Winning the cyber marathon with Tony Giandomenico",
     "link": "https://blog.talosintelligence.com/winning-the-cyber-marathon-with-tony-giandomenico/",
     "published": "Thu, 04 Jun 2026 12:05:31 GMT",
@@ -832,10 +847,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-22554",
-        "CVE-2026-25104",
         "CVE-2026-25713",
-        "CVE-2026-28764"
+        "CVE-2026-25104",
+        "CVE-2026-28764",
+        "CVE-2026-22554"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -917,25 +932,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "The time of much patching is coming",
-    "link": "https://blog.talosintelligence.com/the-time-of-much-patching-is-coming/",
-    "published": "Thu, 14 May 2026 18:00:24 GMT",
-    "summary": "In this week’s newsletter, Martin reflects on what the next iteration of AI tools means for vulnerability discovery and our ability to manage large-scale patch releases.",
-    "analysis": {
-      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
       ]
     }
   },
@@ -1501,6 +1497,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "ISO 42001:2023 and the New Reality of Cloud AI Data Risk",
+    "link": "https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/",
+    "published": "Jun 04, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn how CrowdStrike Falcon Data Security for Cloud can help support ISO 42001:2023 cloud AI data security objectives",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "How to Stop AI-Driven Data Loss",
     "link": "https://www.crowdstrike.com/en-us/blog/how-to-stop-ai-driven-data-loss/",
     "published": "Jun 02, 2026 00:00:00-0500",
@@ -1651,24 +1665,6 @@
     "summary": "",
     "analysis": {
       "issue": "Learn three KPIs every CIO should track essential to evaluating security and speed as AI use evolves across the business",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "New Claude Integration Brings Audit Data into the Falcon Platform",
-    "link": "https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/",
-    "published": "May 21, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "A new Claude Compliance API integration brings Claude platform audit data into the Falcon platform",
       "solution": null,
       "cause": null,
       "timeline": null,
