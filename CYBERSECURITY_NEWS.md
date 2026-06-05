@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-04 18:34:10 UTC
+**Last Updated:** 2026-06-05 04:17:39 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,43 @@
 
 ---
 
-### 11. [UN food agency discloses breach affecting 600,000 Gaza households](https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/)
+### 11. [Brave Software releases Origin for a paid, bloat-free browsing experience](https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 04 Jun 2026 17:37:10 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Hola Browser for Windows compromised to deliver cryptominer](https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 04 Jun 2026 17:27:25 -0400  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 13. [Credit card theft campaign abuses Stripe to host stolen payment info](https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 04 Jun 2026 16:47:16 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 14. [DentaQuest data breach  exposed info of 2.6 million accounts](https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 04 Jun 2026 14:36:27 -0400  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 15. [UN food agency discloses breach affecting 600,000 Gaza households](https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 12:38:49 -0400  
@@ -104,7 +140,7 @@
 
 ---
 
-### 12. [New IronWorm malware hits 36 packages in npm supply-chain attack](https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/)
+### 16. [New IronWorm malware hits 36 packages in npm supply-chain attack](https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 11:25:37 -0400  
@@ -113,7 +149,7 @@
 
 ---
 
-### 13. [Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook](https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/)
+### 17. [Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook](https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 10:01:11 -0400  
@@ -122,7 +158,7 @@
 
 ---
 
-### 14. [Microsoft blames unexpected Windows driver updates on caching issue](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/)
+### 18. [Microsoft blames unexpected Windows driver updates on caching issue](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 09:41:42 -0400  
@@ -131,7 +167,7 @@
 
 ---
 
-### 15. [Police dismantles fake ID marketplace used by migrant smugglers](https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/)
+### 19. [Police dismantles fake ID marketplace used by migrant smugglers](https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 08:29:12 -0400  
@@ -140,49 +176,13 @@
 
 ---
 
-### 16. [Cisco warns of critical Unified CM flaw with PoC exploit code](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/)
+### 20. [Cisco warns of critical Unified CM flaw with PoC exploit code](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 07:09:50 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-20230  
 **Categories:** Vulnerability  
-
----
-
-### 17. [Chinese hackers use new Atlas RAT malware in European cyberattacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 03 Jun 2026 17:45:27 -0400  
-**Severity:** High  
-**Categories:** Malware  
-
----
-
-### 18. [U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors](https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 03 Jun 2026 16:31:22 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 19. [CISA warns of cyberattacks targeting fuel tank monitoring systems](https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 03 Jun 2026 16:21:56 -0400  
-**Severity:** Critical  
-**Categories:** APT  
-
----
-
-### 20. [New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute](https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 03 Jun 2026 15:08:19 -0400  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -272,7 +272,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
+**CVEs:** CVE-2026-33825, CVE-2026-32201, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -419,7 +419,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25713, CVE-2026-25104, CVE-2026-28764, CVE-2026-22554  
+**CVEs:** CVE-2026-22554, CVE-2026-25713, CVE-2026-25104, CVE-2026-28764  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -447,7 +447,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30814, CVE-2026-30815, CVE-2026-30816  
+**CVEs:** CVE-2026-30816, CVE-2026-30814, CVE-2026-30815  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -470,7 +470,16 @@
 
 ---
 
-### 52. [Iran Expands Handala Brand to Physical Threats](https://www.recordedfuture.com/research/iran-handala-physical-threats)
+### 52. [Remembering Sir Alex Younger](https://www.recordedfuture.com/blog/remembering-sir-alex-younger)
+
+**Source:** Recorded Future  
+**Published:** Thu, 04 Jun 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 53. [Iran Expands Handala Brand to Physical Threats](https://www.recordedfuture.com/research/iran-handala-physical-threats)
 
 **Source:** Recorded Future  
 **Published:** Tue, 02 Jun 2026 00:00:00 GMT  
@@ -479,7 +488,7 @@
 
 ---
 
-### 53. [The Vulnerability Flood Is Now a Board Conversation. Here's How to Lead It.](https://www.recordedfuture.com/blog/vulnerability-board-conversation)
+### 54. [The Vulnerability Flood Is Now a Board Conversation. Here's How to Lead It.](https://www.recordedfuture.com/blog/vulnerability-board-conversation)
 
 **Source:** Recorded Future  
 **Published:** Thu, 21 May 2026 00:00:00 GMT  
@@ -488,7 +497,7 @@
 
 ---
 
-### 54. [At Mythos Speed: A Defender's Playbook for the AI Vulnerability Surge in 2026](https://www.recordedfuture.com/blog/ai-vulnerability-playbook)
+### 55. [At Mythos Speed: A Defender's Playbook for the AI Vulnerability Surge in 2026](https://www.recordedfuture.com/blog/ai-vulnerability-playbook)
 
 **Source:** Recorded Future  
 **Published:** Tue, 19 May 2026 00:00:00 GMT  
@@ -497,7 +506,7 @@
 
 ---
 
-### 55. [April 2026 CVE Landscape](https://www.recordedfuture.com/blog/april-cve-landscape)
+### 56. [April 2026 CVE Landscape](https://www.recordedfuture.com/blog/april-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Fri, 15 May 2026 00:00:00 GMT  
@@ -506,7 +515,7 @@
 
 ---
 
-### 56. [NIST NVD Enrichment Policy Change: Prioritizing Vulnerabilities with Attacker Behavior Signals](https://www.recordedfuture.com/blog/nist-nvd-enrichment)
+### 57. [NIST NVD Enrichment Policy Change: Prioritizing Vulnerabilities with Attacker Behavior Signals](https://www.recordedfuture.com/blog/nist-nvd-enrichment)
 
 **Source:** Recorded Future  
 **Published:** Thu, 14 May 2026 00:00:00 GMT  
@@ -515,7 +524,7 @@
 
 ---
 
-### 57. [Beyond Acceleration and Automation: How AI + Intelligence Changes Cyber Defense](https://www.recordedfuture.com/blog/ai-intelligence-cyber-defense)
+### 58. [Beyond Acceleration and Automation: How AI + Intelligence Changes Cyber Defense](https://www.recordedfuture.com/blog/ai-intelligence-cyber-defense)
 
 **Source:** Recorded Future  
 **Published:** Thu, 14 May 2026 00:00:00 GMT  
@@ -524,7 +533,7 @@
 
 ---
 
-### 58. [Working in London at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-for-recorded-future-london)
+### 59. [Working in London at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-for-recorded-future-london)
 
 **Source:** Recorded Future  
 **Published:** Fri, 08 May 2026 00:00:00 GMT  
@@ -533,19 +542,10 @@
 
 ---
 
-### 59. [Quantum Risk Explained](https://www.recordedfuture.com/research/quantum-risk-explained)
+### 60. [Quantum Risk Explained](https://www.recordedfuture.com/research/quantum-risk-explained)
 
 **Source:** Recorded Future  
 **Published:** Thu, 07 May 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 60. [Recorded Future Named a Leader in the 2026 Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies. And there’s more.](https://www.recordedfuture.com/blog/recorded-future-named-a-leader)
-
-**Source:** Recorded Future  
-**Published:** Wed, 06 May 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
 
