@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
+    "link": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
+    "published": "Fri, 05 Jun 2026 20:23:40 +0530",
+    "summary": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET.\n\nThe Slovakian cybersecurity company said it first detected the malware spread via multiple campaigns in early 2025, with each attack wave making use of distinct websites mimicking utilities, war-related updates, and a government news source:\n\n\n  govlens[.]net, which",
+    "analysis": {
+      "issue": "Arabic-speaking users were targeted by Asin spyware via fake utility, war update, and government news sites",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
     "link": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
     "published": "Fri, 05 Jun 2026 18:03:38 +0530",
@@ -166,20 +184,40 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
-    "link": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
-    "published": "Thu, 04 Jun 2026 17:52:25 +0530",
-    "summary": "A new China-linked cybercrime group known as TA4922 has expanded its targeting focus to target European organizations in the U.K., Germany, Italy, and South Africa.\n\nThese efforts have been complemented by a \"rapid operational tempo\" and a continually evolving malware arsenal comprising known families like ValleyRAT (aka Winos 4.0) and Atlas RAT (aka AtlasCross RAT), as well as previously",
+    "source": "Bleeping Computer",
+    "title": "Chinese APT deploys new malware to keep access to hacked networks",
+    "link": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
+    "published": "Fri, 05 Jun 2026 14:09:47 -0400",
+    "summary": "A Chinese espionage group tracked as UNC5221 has been accessing Microsoft 365 environments using the Brickstorm backdoor and previously undocumented malware named Plenet and AgentPSD. [...]",
     "analysis": {
-      "issue": "TA4922 expanded targeting to organizations in the U",
+      "issue": "A Chinese espionage group tracked as UNC5221 has been accessing Microsoft 365 environments using the Brickstorm backdoor and previously undocumented malware named Plenet and AgentPSD",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Dark web Nemesis Market vendor gets 26 years for selling drugs",
+    "link": "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/",
+    "published": "Fri, 05 Jun 2026 13:50:58 -0400",
+    "summary": "A California man was sentenced to more than 26 years in federal prison for trafficking fentanyl and methamphetamine through Nemesis Market, one of the world's largest dark web marketplaces. [...]",
+    "analysis": {
+      "issue": "A California man was sentenced to more than 26 years in federal prison for trafficking fentanyl and methamphetamine through Nemesis Market, one of the world's largest dark web marketplaces",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Phishing"
+        "General Security"
       ]
     }
   },
@@ -329,42 +367,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New IronWorm malware hits 36 packages in npm supply-chain attack",
-    "link": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
-    "published": "Thu, 04 Jun 2026 11:25:37 -0400",
-    "summary": "A new supply-chain attack has infected 36 packages on the Node Package Manager (npm) index with infostealer malware called IronWorm. [...]",
-    "analysis": {
-      "issue": "A new supply-chain attack has infected 36 packages on the Node Package Manager (npm) index with infostealer malware called IronWorm",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/",
-    "published": "Thu, 04 Jun 2026 10:01:11 -0400",
-    "summary": "Threat actors are actively teaching newcomers how to find, exploit, and profit from vulnerable systems. Flare explores what a popular underground hacking tutorial reveals about modern attacker workflows. [...]",
-    "analysis": {
-      "issue": "A forum thread titled “Hacking for Profit",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -562,6 +564,25 @@
   },
   {
     "source": "Security Week",
+    "title": "OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds",
+    "link": "https://www.securityweek.com/owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds/",
+    "published": "Fri, 05 Jun 2026 16:35:02 +0000",
+    "summary": "<p>CVE Lite CLI is a free, open-source command line tool that scans your projects in seconds and tells you exactly which included packages contain a vulnerability.</p>\n<p>The post <a href=\"https://www.securityweek.com/owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds/\">OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CVE Lite CLI is a free, open-source command line tool that scans your projects in seconds and tells you exactly which included packages contain a vulnerability",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA",
     "link": "https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/",
     "published": "Fri, 05 Jun 2026 13:05:06 +0000",
@@ -614,9 +635,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-10883",
         "CVE-2026-10882",
-        "CVE-2026-10881",
-        "CVE-2026-10883"
+        "CVE-2026-10881"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -693,13 +714,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20245",
-        "CVE-2026-20122",
-        "CVE-2026-20133",
         "CVE-2026-20128",
-        "CVE-2022-20775",
         "CVE-2026-20182",
-        "CVE-2026-20127"
+        "CVE-2026-20127",
+        "CVE-2022-20775",
+        "CVE-2026-20122",
+        "CVE-2026-20245",
+        "CVE-2026-20133"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -740,24 +761,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Willow Raises $7 Million for Securing Autonomous AI Agents",
-    "link": "https://www.securityweek.com/willow-raises-7-million-for-securing-autonomous-ai-agents/",
-    "published": "Thu, 04 Jun 2026 14:22:43 +0000",
-    "summary": "<p>Willow (formerly Webrix) emerged from stealth mode with an access platform designed to secure enterprise AI agents.</p>\n<p>The post <a href=\"https://www.securityweek.com/willow-raises-7-million-for-securing-autonomous-ai-agents/\">Willow Raises $7 Million for Securing Autonomous AI Agents</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Willow (formerly Webrix) emerged from stealth mode with an access platform designed to secure enterprise AI agents",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -864,10 +867,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25713",
         "CVE-2026-25104",
+        "CVE-2026-28764",
         "CVE-2026-22554",
-        "CVE-2026-28764"
+        "CVE-2026-25713"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -924,9 +927,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30815",
         "CVE-2026-30814",
-        "CVE-2026-30816"
+        "CVE-2026-30816",
+        "CVE-2026-30815"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -949,6 +952,24 @@
       "cves": [],
       "threat_categories": [
         "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Why Holistic Sourcing Wins: The Numbers Behind the Recorded Future Advantage",
+    "link": "https://www.recordedfuture.com/blog/recorded-future-holistic-sourcing-wins",
+    "published": "Fri, 05 Jun 2026 00:00:00 GMT",
+    "summary": "Future’s Intelligence Grap® uses holistic sourcing across 1M+ sources for complete threat intelligence and proactive defense.",
+    "analysis": {
+      "issue": "Future’s Intelligence Grap® uses holistic sourcing across 1M+ sources for complete threat intelligence and proactive defense",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1104,24 +1125,6 @@
     "summary": "See what it is like to work at the Recorded Future London office.",
     "analysis": {
       "issue": "See what it is like to work at the Recorded Future London office",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Quantum Risk Explained",
-    "link": "https://www.recordedfuture.com/research/quantum-risk-explained",
-    "published": "Thu, 07 May 2026 00:00:00 GMT",
-    "summary": "Learn how the \"Harvest Now, Decrypt Later\" (HNDL) risk exposes long-lived sensitive data today, regardless of when Cryptographically Relevant Quantum Computers (CRQCs) arrive.",
-    "analysis": {
-      "issue": "Learn how the \"Harvest Now, Decrypt Later\" (HNDL) risk exposes long-lived sensitive data today, regardless of when Cryptographically Relevant Quantum Computers (CRQCs) arrive",
       "solution": null,
       "cause": null,
       "timeline": null,
