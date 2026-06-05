@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-05 04:57:00 UTC
+**Last Updated:** 2026-06-05 11:42:29 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public](https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html)
+### 1. [Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites](https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 05 Jun 2026 14:08:59 +0530  
+**Severity:** Critical  
+**CVEs:** CVE-2026-3300  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins](https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 05 Jun 2026 12:31:41 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network](https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 05 Jun 2026 11:04:19 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public](https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 04 Jun 2026 22:25:51 +0530  
@@ -14,7 +42,7 @@
 
 ---
 
-### 2. [Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories](https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html)
+### 5. [Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories](https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 04 Jun 2026 20:45:26 +0530  
@@ -23,7 +51,7 @@
 
 ---
 
-### 3. [Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It](https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html)
+### 6. [Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It](https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 04 Jun 2026 20:40:00 +0530  
@@ -32,7 +60,7 @@
 
 ---
 
-### 4. [ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html)
+### 7. [ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 04 Jun 2026 19:30:49 +0530  
@@ -41,7 +69,7 @@
 
 ---
 
-### 5. [China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa](https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html)
+### 8. [China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa](https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 04 Jun 2026 17:52:25 +0530  
@@ -50,7 +78,7 @@
 
 ---
 
-### 6. [FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads](https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html)
+### 9. [FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads](https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 04 Jun 2026 16:49:53 +0530  
@@ -59,7 +87,7 @@
 
 ---
 
-### 7. [Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS](https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html)
+### 10. [Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS](https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 04 Jun 2026 15:21:28 +0530  
@@ -68,34 +96,17 @@
 
 ---
 
-### 8. [Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months](https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html)
+### 11. [Cisco warns of unpatched SD-WAN zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 04 Jun 2026 15:03:57 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets](https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 04 Jun 2026 11:36:25 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Fri, 05 Jun 2026 02:24:20 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-20245, CVE-2026-20182, CVE-2026-20127  
+**Categories:** Vulnerability  
 
 ---
 
-### 10. [WhatsApp, Slack Notifications Could Hijack Google Gemini on Android](https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 04 Jun 2026 00:41:15 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Brave Software releases Origin for a paid, bloat-free browsing experience](https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/)
+### 12. [Brave Software releases Origin for a paid, bloat-free browsing experience](https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 17:37:10 -0400  
@@ -104,7 +115,7 @@
 
 ---
 
-### 12. [Hola Browser for Windows compromised to deliver cryptominer](https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/)
+### 13. [Hola Browser for Windows compromised to deliver cryptominer](https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 17:27:25 -0400  
@@ -113,7 +124,7 @@
 
 ---
 
-### 13. [Credit card theft campaign abuses Stripe to host stolen payment info](https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/)
+### 14. [Credit card theft campaign abuses Stripe to host stolen payment info](https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 16:47:16 -0400  
@@ -122,7 +133,7 @@
 
 ---
 
-### 14. [DentaQuest data breach  exposed info of 2.6 million accounts](https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/)
+### 15. [DentaQuest data breach  exposed info of 2.6 million accounts](https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 14:36:27 -0400  
@@ -131,7 +142,7 @@
 
 ---
 
-### 15. [UN food agency discloses breach affecting 600,000 Gaza households](https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/)
+### 16. [UN food agency discloses breach affecting 600,000 Gaza households](https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 12:38:49 -0400  
@@ -140,7 +151,7 @@
 
 ---
 
-### 16. [New IronWorm malware hits 36 packages in npm supply-chain attack](https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/)
+### 17. [New IronWorm malware hits 36 packages in npm supply-chain attack](https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 11:25:37 -0400  
@@ -149,7 +160,7 @@
 
 ---
 
-### 17. [Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook](https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/)
+### 18. [Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook](https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 10:01:11 -0400  
@@ -158,7 +169,7 @@
 
 ---
 
-### 18. [Microsoft blames unexpected Windows driver updates on caching issue](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/)
+### 19. [Microsoft blames unexpected Windows driver updates on caching issue](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 09:41:42 -0400  
@@ -167,22 +178,12 @@
 
 ---
 
-### 19. [Police dismantles fake ID marketplace used by migrant smugglers](https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/)
+### 20. [Police dismantles fake ID marketplace used by migrant smugglers](https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 08:29:12 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [Cisco warns of critical Unified CM flaw with PoC exploit code](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 04 Jun 2026 07:09:50 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-20230  
-**Categories:** Vulnerability  
 
 ---
 
@@ -272,12 +273,68 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
+**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
 
-### 31. [Offroad Emerges From Stealth With $7 Million to Tackle Enterprise Identity Risk](https://www.securityweek.com/offroad-emerges-from-stealth-with-7-million-to-tackle-enterprise-identity-risk/)
+### 31. [Hackers Leak DentaQuest Information Impacting 2.6 Million](https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/)
+
+**Source:** Security Week  
+**Published:** Fri, 05 Jun 2026 11:33:27 +0000  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 32. [Chrome 149 Patches 429 Vulnerabilities](https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Fri, 05 Jun 2026 11:13:57 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-10883, CVE-2026-10882, CVE-2026-10881  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday](https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/)
+
+**Source:** Security Week  
+**Published:** Fri, 05 Jun 2026 10:24:56 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, APT  
+
+---
+
+### 34. [Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities](https://www.securityweek.com/five-eyes-chinese-spies-target-government-military-staff-with-fake-job-opportunities/)
+
+**Source:** Security Week  
+**Published:** Fri, 05 Jun 2026 08:46:44 +0000  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 35. [Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals](https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/)
+
+**Source:** Security Week  
+**Published:** Fri, 05 Jun 2026 07:24:08 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach, Vulnerability  
+
+---
+
+### 36. [Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026](https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/)
+
+**Source:** Security Week  
+**Published:** Fri, 05 Jun 2026 05:47:09 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-20133, CVE-2026-20245, CVE-2026-20128, CVE-2026-20122, CVE-2022-20775, CVE-2026-20182, CVE-2026-20127  
+**Categories:** Vulnerability  
+
+---
+
+### 37. [Offroad Emerges From Stealth With $7 Million to Tackle Enterprise Identity Risk](https://www.securityweek.com/offroad-emerges-from-stealth-with-7-million-to-tackle-enterprise-identity-risk/)
 
 **Source:** Security Week  
 **Published:** Thu, 04 Jun 2026 15:05:45 +0000  
@@ -286,7 +343,7 @@
 
 ---
 
-### 32. [Webinar Today: Third-Party Risk in Practice – Where Programs Break Down and How to Respond](https://www.securityweek.com/webinar-today-third-party-risk-in-practice-where-programs-break-down-and-to-respond/)
+### 38. [Webinar Today: Third-Party Risk in Practice – Where Programs Break Down and How to Respond](https://www.securityweek.com/webinar-today-third-party-risk-in-practice-where-programs-break-down-and-to-respond/)
 
 **Source:** Security Week  
 **Published:** Thu, 04 Jun 2026 14:40:44 +0000  
@@ -295,7 +352,7 @@
 
 ---
 
-### 33. [Willow Raises $7 Million for Securing Autonomous AI Agents](https://www.securityweek.com/willow-raises-7-million-for-securing-autonomous-ai-agents/)
+### 39. [Willow Raises $7 Million for Securing Autonomous AI Agents](https://www.securityweek.com/willow-raises-7-million-for-securing-autonomous-ai-agents/)
 
 **Source:** Security Week  
 **Published:** Thu, 04 Jun 2026 14:22:43 +0000  
@@ -304,68 +361,12 @@
 
 ---
 
-### 34. [Gemini Voice Assistant Hijacked via Messaging Notifications](https://www.securityweek.com/gemini-voice-assistant-hijacked-via-messaging-notifications/)
+### 40. [Gemini Voice Assistant Hijacked via Messaging Notifications](https://www.securityweek.com/gemini-voice-assistant-hijacked-via-messaging-notifications/)
 
 **Source:** Security Week  
 **Published:** Thu, 04 Jun 2026 12:57:37 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability, Phishing  
-
----
-
-### 35. [Mirasvit Vulnerability Exploited to Execute Code on Magento Servers](https://www.securityweek.com/mirasvit-vulnerability-exploited-to-execute-code-on-magento-servers/)
-
-**Source:** Security Week  
-**Published:** Thu, 04 Jun 2026 12:10:02 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-45247  
-**Categories:** Vulnerability  
-
----
-
-### 36. [Chinese Cybercrime Group in Spotlight for Record Campaign Pace](https://www.securityweek.com/chinese-cybercrime-group-ta4922-in-spotlight-for-record-campaign-pace/)
-
-**Source:** Security Week  
-**Published:** Thu, 04 Jun 2026 11:29:28 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware, Phishing, APT  
-
----
-
-### 37. [Over 1.4 Million Accounts Disrupted in Cybercrime Crackdown](https://www.securityweek.com/over-1-4-million-accounts-disrupted-in-cybercrime-crackdown/)
-
-**Source:** Security Week  
-**Published:** Thu, 04 Jun 2026 10:44:41 +0000  
-**Severity:** High  
-**Categories:** Malware  
-
----
-
-### 38. [Cisco Warns of Available PoC for Critical Unified CM Vulnerability](https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/)
-
-**Source:** Security Week  
-**Published:** Thu, 04 Jun 2026 08:44:08 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-20230  
-**Categories:** Vulnerability  
-
----
-
-### 39. [VS Code Vulnerability Allows One-Click GitHub Token Theft](https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/)
-
-**Source:** Security Week  
-**Published:** Thu, 04 Jun 2026 08:14:52 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 40. [Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform](https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/)
-
-**Source:** Security Week  
-**Published:** Wed, 03 Jun 2026 17:32:57 +0000  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -419,7 +420,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-28764, CVE-2026-25713, CVE-2026-25104  
+**CVEs:** CVE-2026-25713, CVE-2026-28764, CVE-2026-22554, CVE-2026-25104  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -447,7 +448,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30815, CVE-2026-30816, CVE-2026-30814  
+**CVEs:** CVE-2026-30814, CVE-2026-30816, CVE-2026-30815  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -631,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -646,7 +647,16 @@
 
 ---
 
-### 71. [Travel scams are everywhere. Here&#8217;s how to avoid them](https://www.malwarebytes.com/blog/scams/2026/06/travel-scams-are-everywhere-heres-how-to-avoid-them)
+### 71. [AI: Threat, tool, or both?](https://www.malwarebytes.com/blog/ai/2026/06/ai-threat-tool-or-both)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 05 Jun 2026 08:56:57 GMT  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 72. [Travel scams are everywhere. Here&#8217;s how to avoid them](https://www.malwarebytes.com/blog/scams/2026/06/travel-scams-are-everywhere-heres-how-to-avoid-them)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 04 Jun 2026 11:28:12 GMT  
@@ -655,7 +665,7 @@
 
 ---
 
-### 72. [Meta&#8217;s AI support bot happily handed Instagram accounts to hackers](https://www.malwarebytes.com/blog/ai/2026/06/metas-ai-support-bot-happily-handed-instagram-accounts-to-hackers)
+### 73. [Meta&#8217;s AI support bot happily handed Instagram accounts to hackers](https://www.malwarebytes.com/blog/ai/2026/06/metas-ai-support-bot-happily-handed-instagram-accounts-to-hackers)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 04 Jun 2026 09:09:09 GMT  
@@ -664,7 +674,7 @@
 
 ---
 
-### 73. [We found this fake-invoice campaign while scammers were still building it](https://www.malwarebytes.com/blog/threat-intel/2026/06/we-found-this-fake-invoice-campaign-while-scammers-were-still-building-it)
+### 74. [We found this fake-invoice campaign while scammers were still building it](https://www.malwarebytes.com/blog/threat-intel/2026/06/we-found-this-fake-invoice-campaign-while-scammers-were-still-building-it)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 03 Jun 2026 18:05:19 GMT  
@@ -673,7 +683,7 @@
 
 ---
 
-### 74. [Keep getting calls from questionable numbers? Meet Scam Number Check](https://www.malwarebytes.com/blog/product/2026/06/keep-getting-calls-from-questionable-numbers-meet-scam-number-check)
+### 75. [Keep getting calls from questionable numbers? Meet Scam Number Check](https://www.malwarebytes.com/blog/product/2026/06/keep-getting-calls-from-questionable-numbers-meet-scam-number-check)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 03 Jun 2026 12:16:04 GMT  
@@ -682,7 +692,7 @@
 
 ---
 
-### 75. [Infostealers are becoming the go-to phishing payload](https://www.malwarebytes.com/blog/threat-intel/2026/06/infostealers-are-becoming-the-go-to-phishing-payload)
+### 76. [Infostealers are becoming the go-to phishing payload](https://www.malwarebytes.com/blog/threat-intel/2026/06/infostealers-are-becoming-the-go-to-phishing-payload)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 03 Jun 2026 08:59:47 GMT  
@@ -691,7 +701,7 @@
 
 ---
 
-### 76. [These convincing copyright notices are designed to steal Google logins](https://www.malwarebytes.com/blog/threat-intel/2026/06/these-convincing-copyright-notices-are-designed-to-steal-google-logins)
+### 77. [These convincing copyright notices are designed to steal Google logins](https://www.malwarebytes.com/blog/threat-intel/2026/06/these-convincing-copyright-notices-are-designed-to-steal-google-logins)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 02 Jun 2026 18:24:07 GMT  
@@ -700,7 +710,7 @@
 
 ---
 
-### 77. [23andMe exposed genetic information of millions, lawsuit says](https://www.malwarebytes.com/blog/data-breaches/2026/06/23andme-exposed-genetic-information-of-millions-lawsuit-says)
+### 78. [23andMe exposed genetic information of millions, lawsuit says](https://www.malwarebytes.com/blog/data-breaches/2026/06/23andme-exposed-genetic-information-of-millions-lawsuit-says)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 02 Jun 2026 09:53:19 GMT  
@@ -709,7 +719,7 @@
 
 ---
 
-### 78. [Fake virus alerts are invading mobile games](https://www.malwarebytes.com/blog/mobile/2026/06/fake-virus-alerts-are-invading-mobile-games)
+### 79. [Fake virus alerts are invading mobile games](https://www.malwarebytes.com/blog/mobile/2026/06/fake-virus-alerts-are-invading-mobile-games)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 02 Jun 2026 09:03:55 GMT  
@@ -718,19 +728,10 @@
 
 ---
 
-### 79. [Fake BlueWallet steals passwords, accounts, and crypto from Macs](https://www.malwarebytes.com/blog/threat-intel/2026/06/fake-bluewallet-steals-passwords-accounts-and-crypto-from-macs)
+### 80. [Fake BlueWallet steals passwords, accounts, and crypto from Macs](https://www.malwarebytes.com/blog/threat-intel/2026/06/fake-bluewallet-steals-passwords-accounts-and-crypto-from-macs)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 01 Jun 2026 14:40:25 GMT  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 80. [Your phone called. It needs a cleanup.](https://www.malwarebytes.com/blog/mobile/2026/06/your-phone-called-it-needs-a-cleanup)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 01 Jun 2026 08:31:44 GMT  
 **Severity:** Low  
 **Categories:** Malware  
 
