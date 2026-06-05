@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
+    "link": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
+    "published": "Fri, 05 Jun 2026 18:03:38 +0530",
+    "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 (where \"OP\" stands for \"opponent\") that has been observed&nbsp;targeting Microsoft Internet Information Services (IIS) servers to deploy a bespoke web shell framework.\n\nReliaQuest has assessed with moderate to high confidence that the espionage-focused activity is linked to China.\n\n\"OP-512 was highly",
+    "analysis": {
+      "issue": "A newly identified China-linked threat cluster, OP-512, is targeting Microsoft IIS servers with a custom three-web-shell framework for espionage",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver",
+    "link": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
+    "published": "Fri, 05 Jun 2026 16:50:00 +0530",
+    "summary": "Eighteen months ago, the AI SOC was a marketing line. Today it's a budget item. The category has crossed over from interesting to inevitable, with billions of dollars now flowing into AI-powered security operations platforms, agentic SOC tools, and AI co-pilots built into every layer of the security stack. The data shows SOCs are buying, deploying, and standing up AI capabilities at the fastest",
+    "analysis": {
+      "issue": "Only 10% of SOCs report excellent AI value in 2026 as fragmented tools and weak governance limit real security outcomes",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
     "link": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
     "published": "Fri, 05 Jun 2026 14:08:59 +0530",
@@ -148,38 +184,39 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads",
-    "link": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html",
-    "published": "Thu, 04 Jun 2026 16:49:53 +0530",
-    "summary": "Cybersecurity researchers have shed light on a macOS malvertising campaign codenamed Operation FlutterBridge that spreads a new backdoor called FlutterShell.\n\nAccording to Palo Alto Networks Unit 42, the campaign is said to be the next stage of a previously reported activity cluster dubbed JSCoreRunner (aka FileRipple) in late August 2025. The cybercrime group behind the two attack chains is",
+    "source": "Bleeping Computer",
+    "title": "Over 900 US gas station tank gauge systems exposed to attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
+    "published": "Fri, 05 Jun 2026 10:50:15 -0400",
+    "summary": "Over 900 automatic tank gauge (ATG) systems across the United States, used to monitor fuel and chemical storage tanks across various critical infrastructure sectors, have been found exposed online and are vulnerable to ongoing attacks. [...]",
     "analysis": {
-      "issue": "Operation FlutterBridge is a macOS malvertising campaign spreading FlutterShell, a Flutter-based backdoor with adware capabilities",
+      "issue": "Over 900 automatic tank gauge (ATG) systems across the United States, used to monitor fuel and chemical storage tanks across various critical infrastructure sectors, have been found exposed online and are vulnerable to ongoing attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Vulnerability",
+        "APT"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
-    "link": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
-    "published": "Thu, 04 Jun 2026 15:21:28 +0530",
-    "summary": "Cybersecurity researchers have flagged a large-scale operation that impersonates open-source and freeware projects to funnel unsuspecting users through a Traffic Distribution System (TDS) and deliver malware families like Remus Stealer, AnimateClipper, and the SessionGate framework.\n\n\"The sites are well-designed and often look like legitimate project portals at a glance, sometimes referencing",
+    "source": "Bleeping Computer",
+    "title": "What 2026 DBIR Confirms: Attacks Are Living in the Browser",
+    "link": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
+    "published": "Fri, 05 Jun 2026 10:00:10 -0400",
+    "summary": "Phishing, shadow AI, malicious extensions, and credential theft increasingly happen inside the browser. Keep Aware explains what the 2026 Verizon DBIR reveals about browser-layer security gaps and modern attacks. [...]",
     "analysis": {
-      "issue": "A large-scale campaign impersonates open-source and freeware project portals to redirect users through a gated TDS and deliver malware",
+      "issue": "Every year, the Verizon Data Breach Investigations Report serves as a ground-truth benchmark for the industry",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Data Breach"
       ]
     }
   },
@@ -197,8 +234,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20245",
-        "CVE-2026-20182",
-        "CVE-2026-20127"
+        "CVE-2026-20127",
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -328,42 +365,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft blames unexpected Windows driver updates on caching issue",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
-    "published": "Thu, 04 Jun 2026 09:41:42 -0400",
-    "summary": "On Wednesday, Microsoft fixed an issue that caused some Windows devices to install driver updates without notice despite policies configured to prevent auto-updates. [...]",
-    "analysis": {
-      "issue": "On Wednesday, Microsoft fixed an issue that caused some Windows devices to install driver updates without notice despite policies configured to prevent auto-updates",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Police dismantles fake ID marketplace used by migrant smugglers",
-    "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/",
-    "published": "Thu, 04 Jun 2026 08:29:12 -0400",
-    "summary": "French and Spanish authorities took down an online marketplace selling fake identity documents to migrant smuggling rings operating within the European Union. [...]",
-    "analysis": {
-      "issue": "French and Spanish authorities took down an online marketplace selling fake identity documents to migrant smuggling rings operating within the European Union",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -561,6 +562,29 @@
   },
   {
     "source": "Security Week",
+    "title": "In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA",
+    "link": "https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/",
+    "published": "Fri, 05 Jun 2026 13:05:06 +0000",
+    "summary": "<p>Other noteworthy stories that might have slipped under the radar: Ultrahuman data leak, The Gentlemen ransomware analysis, Hola Browser bundles miner.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/\">In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Other noteworthy stories that might have slipped under the radar: Ultrahuman data leak, The Gentlemen ransomware analysis, Hola Browser bundles miner",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability",
+        "Malware",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Hackers Leak DentaQuest Information Impacting 2.6 Million",
     "link": "https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/",
     "published": "Fri, 05 Jun 2026 11:33:27 +0000",
@@ -590,9 +614,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-10883",
         "CVE-2026-10882",
-        "CVE-2026-10881"
+        "CVE-2026-10881",
+        "CVE-2026-10883"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -669,10 +693,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20133",
         "CVE-2026-20245",
-        "CVE-2026-20128",
         "CVE-2026-20122",
+        "CVE-2026-20133",
+        "CVE-2026-20128",
         "CVE-2022-20775",
         "CVE-2026-20182",
         "CVE-2026-20127"
@@ -734,25 +758,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Gemini Voice Assistant Hijacked via Messaging Notifications",
-    "link": "https://www.securityweek.com/gemini-voice-assistant-hijacked-via-messaging-notifications/",
-    "published": "Thu, 04 Jun 2026 12:57:37 +0000",
-    "summary": "<p>Attackers could have triggered dangerous actions, including controlling smart home devices via Google Home and starting Zoom video calls.</p>\n<p>The post <a href=\"https://www.securityweek.com/gemini-voice-assistant-hijacked-via-messaging-notifications/\">Gemini Voice Assistant Hijacked via Messaging Notifications</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Attackers could have triggered dangerous actions, including controlling smart home devices via Google Home and starting Zoom video calls",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing"
       ]
     }
   },
@@ -860,9 +865,9 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-25713",
-        "CVE-2026-28764",
+        "CVE-2026-25104",
         "CVE-2026-22554",
-        "CVE-2026-25104"
+        "CVE-2026-28764"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -919,9 +924,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-30815",
         "CVE-2026-30814",
-        "CVE-2026-30816",
-        "CVE-2026-30815"
+        "CVE-2026-30816"
       ],
       "threat_categories": [
         "Vulnerability",
