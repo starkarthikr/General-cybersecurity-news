@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-05 18:22:00 UTC
+**Last Updated:** 2026-06-06 04:00:26 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps](https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html)
+### 1. [IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks](https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 05 Jun 2026 23:35:30 +0530  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 2. [Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps](https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 05 Jun 2026 20:23:40 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework](https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html)
+### 3. [New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework](https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 05 Jun 2026 18:03:38 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver](https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html)
+### 4. [Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver](https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 05 Jun 2026 16:50:00 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites](https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html)
+### 5. [Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites](https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 05 Jun 2026 14:08:59 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins](https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html)
+### 6. [FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins](https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 05 Jun 2026 12:31:41 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network](https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html)
+### 7. [PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network](https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 05 Jun 2026 11:04:19 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public](https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html)
+### 8. [Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public](https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 04 Jun 2026 22:25:51 +0530  
@@ -69,7 +78,7 @@
 
 ---
 
-### 8. [Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories](https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html)
+### 9. [Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories](https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 04 Jun 2026 20:45:26 +0530  
@@ -78,7 +87,7 @@
 
 ---
 
-### 9. [Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It](https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html)
+### 10. [Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It](https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 04 Jun 2026 20:40:00 +0530  
@@ -87,16 +96,26 @@
 
 ---
 
-### 10. [ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html)
+### 11. [Suspicious Polyfill login prompts pop up on Toshiba, Muji websites](https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 04 Jun 2026 19:30:49 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 05 Jun 2026 17:54:42 -0400  
 **Severity:** Low  
-**Categories:** Malware  
+**Categories:** General Security  
 
 ---
 
-### 11. [Chinese APT deploys new malware to keep access to hacked networks](https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/)
+### 12. [CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 05 Jun 2026 15:15:30 -0400  
+**Severity:** High  
+**CVEs:** CVE-2026-28318  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [Chinese APT deploys new malware to keep access to hacked networks](https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 14:09:47 -0400  
@@ -105,7 +124,7 @@
 
 ---
 
-### 12. [Dark web Nemesis Market vendor gets 26 years for selling drugs](https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/)
+### 14. [Dark web Nemesis Market vendor gets 26 years for selling drugs](https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 13:50:58 -0400  
@@ -114,7 +133,7 @@
 
 ---
 
-### 13. [Over 900 US gas station tank gauge systems exposed to attacks](https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/)
+### 15. [Over 900 US gas station tank gauge systems exposed to attacks](https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 10:50:15 -0400  
@@ -123,7 +142,7 @@
 
 ---
 
-### 14. [What 2026 DBIR Confirms: Attacks Are Living in the Browser](https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/)
+### 16. [What 2026 DBIR Confirms: Attacks Are Living in the Browser](https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 10:00:10 -0400  
@@ -132,17 +151,17 @@
 
 ---
 
-### 15. [Cisco warns of unpatched SD-WAN zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/)
+### 17. [Cisco warns of unpatched SD-WAN zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 02:24:20 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20245, CVE-2026-20127, CVE-2026-20182  
+**CVEs:** CVE-2026-20245, CVE-2026-20182, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---
 
-### 16. [Brave Software releases Origin for a paid, bloat-free browsing experience](https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/)
+### 18. [Brave Software releases Origin for a paid, bloat-free browsing experience](https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 17:37:10 -0400  
@@ -151,7 +170,7 @@
 
 ---
 
-### 17. [Hola Browser for Windows compromised to deliver cryptominer](https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/)
+### 19. [Hola Browser for Windows compromised to deliver cryptominer](https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 17:27:25 -0400  
@@ -160,30 +179,12 @@
 
 ---
 
-### 18. [Credit card theft campaign abuses Stripe to host stolen payment info](https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/)
+### 20. [Credit card theft campaign abuses Stripe to host stolen payment info](https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 16:47:16 -0400  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 19. [DentaQuest data breach  exposed info of 2.6 million accounts](https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 04 Jun 2026 14:36:27 -0400  
-**Severity:** Low  
-**Categories:** Data Breach  
-
----
-
-### 20. [UN food agency discloses breach affecting 600,000 Gaza households](https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 04 Jun 2026 12:38:49 -0400  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -273,7 +274,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
+**CVEs:** CVE-2026-34621, CVE-2026-32201, CVE-2026-33825  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -310,7 +311,7 @@
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 11:13:57 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-10883, CVE-2026-10882, CVE-2026-10881  
+**CVEs:** CVE-2026-10882, CVE-2026-10881, CVE-2026-10883  
 **Categories:** Vulnerability  
 
 ---
@@ -347,7 +348,7 @@
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 05:47:09 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20128, CVE-2026-20182, CVE-2026-20127, CVE-2022-20775, CVE-2026-20122, CVE-2026-20245, CVE-2026-20133  
+**CVEs:** CVE-2026-20245, CVE-2026-20182, CVE-2026-20128, CVE-2026-20133, CVE-2026-20122, CVE-2022-20775, CVE-2026-20127  
 **Categories:** Vulnerability  
 
 ---
@@ -420,7 +421,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25104, CVE-2026-28764, CVE-2026-22554, CVE-2026-25713  
+**CVEs:** CVE-2026-22554, CVE-2026-25713, CVE-2026-25104, CVE-2026-28764  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -448,7 +449,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30814, CVE-2026-30816, CVE-2026-30815  
+**CVEs:** CVE-2026-30816, CVE-2026-30814, CVE-2026-30815  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -737,7 +738,16 @@
 
 ---
 
-### 81. [ISO 42001:2023 and the New Reality of Cloud AI Data Risk](https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/)
+### 81. [3 Principles to Safely Scale Agentic AI](https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jun 05, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [ISO 42001:2023 and the New Reality of Cloud AI Data Risk](https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 04, 2026 00:00:00-0500  
@@ -746,7 +756,7 @@
 
 ---
 
-### 82. [How to Stop AI-Driven Data Loss](https://www.crowdstrike.com/en-us/blog/how-to-stop-ai-driven-data-loss/)
+### 83. [How to Stop AI-Driven Data Loss](https://www.crowdstrike.com/en-us/blog/how-to-stop-ai-driven-data-loss/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 02, 2026 00:00:00-0500  
@@ -755,7 +765,7 @@
 
 ---
 
-### 83. [CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/)
+### 84. [CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 01, 2026 00:00:00-0500  
@@ -764,7 +774,7 @@
 
 ---
 
-### 84. [CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/)
+### 85. [CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 01, 2026 00:00:00-0500  
@@ -773,7 +783,7 @@
 
 ---
 
-### 85. [Secure Shadow AI at the Control Plane with Falcon for IT](https://www.crowdstrike.com/en-us/blog/secure-shadow-ai-at-the-control-plane-with-falcon-for-it/)
+### 86. [Secure Shadow AI at the Control Plane with Falcon for IT](https://www.crowdstrike.com/en-us/blog/secure-shadow-ai-at-the-control-plane-with-falcon-for-it/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 01, 2026 00:00:00-0500  
@@ -782,7 +792,7 @@
 
 ---
 
-### 86. [CrowdStrike Named a Leader in 2026 Gartner&reg; Magic Quadrant&trade; for Endpoint Protection for Seventh Consecutive Time](https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-in-2026-gartner-magic-quadrant-for-endpoint-protection/)
+### 87. [CrowdStrike Named a Leader in 2026 Gartner&reg; Magic Quadrant&trade; for Endpoint Protection for Seventh Consecutive Time](https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-in-2026-gartner-magic-quadrant-for-endpoint-protection/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 29, 2026 00:00:00-0500  
@@ -791,7 +801,7 @@
 
 ---
 
-### 87. [Shadow AI: The Hidden Risk Expanding Across the Enterprise](https://www.crowdstrike.com/en-us/blog/shadow-ai-hidden-risk-expanding-across-the-enterprise/)
+### 88. [Shadow AI: The Hidden Risk Expanding Across the Enterprise](https://www.crowdstrike.com/en-us/blog/shadow-ai-hidden-risk-expanding-across-the-enterprise/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 29, 2026 00:00:00-0500  
@@ -800,7 +810,7 @@
 
 ---
 
-### 88. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
+### 89. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 26, 2026 00:00:00-0500  
@@ -809,21 +819,12 @@
 
 ---
 
-### 89. [Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet](https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/)
+### 90. [Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet](https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 26, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 90. [Measuring AI-Enabled Success: 3 KPIs Leaders Should Track](https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/)
-
-**Source:** Crowdstrike Blog  
-**Published:** May 22, 2026 00:00:00-0700  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
