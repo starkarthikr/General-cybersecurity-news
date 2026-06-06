@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-06 13:56:32 UTC
+**Last Updated:** 2026-06-06 17:42:13 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html)
+### 1. [New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration](https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 06 Jun 2026 19:06:57 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 06 Jun 2026 13:59:05 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog](https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html)
+### 3. [CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog](https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 06 Jun 2026 13:44:31 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs](https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html)
+### 4. [AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs](https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 06 Jun 2026 12:58:30 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack](https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html)
+### 5. [Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack](https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 06 Jun 2026 12:28:04 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html)
+### 6. [Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 06 Jun 2026 09:49:28 +0530  
@@ -51,7 +60,7 @@
 
 ---
 
-### 6. [IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks](https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html)
+### 7. [IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks](https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 05 Jun 2026 23:35:30 +0530  
@@ -60,7 +69,7 @@
 
 ---
 
-### 7. [Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps](https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html)
+### 8. [Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps](https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 05 Jun 2026 20:23:40 +0530  
@@ -69,7 +78,7 @@
 
 ---
 
-### 8. [New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework](https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html)
+### 9. [New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework](https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 05 Jun 2026 18:03:38 +0530  
@@ -78,7 +87,7 @@
 
 ---
 
-### 9. [Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver](https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html)
+### 10. [Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver](https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 05 Jun 2026 16:50:00 +0530  
@@ -87,17 +96,17 @@
 
 ---
 
-### 10. [Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites](https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html)
+### 11. [Critical Everest Forms Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 05 Jun 2026 14:08:59 +0530  
+**Source:** Bleeping Computer  
+**Published:** Sat, 06 Jun 2026 10:09:26 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-3300  
-**Categories:** Vulnerability  
+**Categories:** Vulnerability, Malware  
 
 ---
 
-### 11. [Suspicious Polyfill login prompts pop up on Toshiba, Muji websites](https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/)
+### 12. [Suspicious Polyfill login prompts pop up on Toshiba, Muji websites](https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 17:54:42 -0400  
@@ -106,7 +115,7 @@
 
 ---
 
-### 12. [CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/)
+### 13. [CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 15:15:30 -0400  
@@ -116,7 +125,7 @@
 
 ---
 
-### 13. [Chinese APT deploys new malware to keep access to hacked networks](https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/)
+### 14. [Chinese APT deploys new malware to keep access to hacked networks](https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 14:09:47 -0400  
@@ -125,7 +134,7 @@
 
 ---
 
-### 14. [Dark web Nemesis Market vendor gets 26 years for selling drugs](https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/)
+### 15. [Dark web Nemesis Market vendor gets 26 years for selling drugs](https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 13:50:58 -0400  
@@ -134,7 +143,7 @@
 
 ---
 
-### 15. [Over 900 US gas station tank gauge systems exposed to attacks](https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/)
+### 16. [Over 900 US gas station tank gauge systems exposed to attacks](https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 10:50:15 -0400  
@@ -143,7 +152,7 @@
 
 ---
 
-### 16. [What 2026 DBIR Confirms: Attacks Are Living in the Browser](https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/)
+### 17. [What 2026 DBIR Confirms: Attacks Are Living in the Browser](https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 10:00:10 -0400  
@@ -152,17 +161,17 @@
 
 ---
 
-### 17. [Cisco warns of unpatched SD-WAN zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/)
+### 18. [Cisco warns of unpatched SD-WAN zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 02:24:20 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20245, CVE-2026-20127, CVE-2026-20182  
+**CVEs:** CVE-2026-20127, CVE-2026-20245, CVE-2026-20182  
 **Categories:** Vulnerability  
 
 ---
 
-### 18. [Brave Software releases Origin for a paid, bloat-free browsing experience](https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/)
+### 19. [Brave Software releases Origin for a paid, bloat-free browsing experience](https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 17:37:10 -0400  
@@ -171,21 +180,12 @@
 
 ---
 
-### 19. [Hola Browser for Windows compromised to deliver cryptominer](https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/)
+### 20. [Hola Browser for Windows compromised to deliver cryptominer](https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 04 Jun 2026 17:27:25 -0400  
 **Severity:** Low  
 **Categories:** Supply Chain  
-
----
-
-### 20. [Credit card theft campaign abuses Stripe to host stolen payment info](https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 04 Jun 2026 16:47:16 -0400  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -275,7 +275,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
+**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -321,7 +321,7 @@
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 11:13:57 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-10883, CVE-2026-10882, CVE-2026-10881  
+**CVEs:** CVE-2026-10882, CVE-2026-10883, CVE-2026-10881  
 **Categories:** Vulnerability  
 
 ---
@@ -358,7 +358,7 @@
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 05:47:09 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20245, CVE-2026-20182, CVE-2026-20128, CVE-2026-20122, CVE-2026-20133, CVE-2026-20127, CVE-2022-20775  
+**CVEs:** CVE-2022-20775, CVE-2026-20182, CVE-2026-20122, CVE-2026-20133, CVE-2026-20245, CVE-2026-20127, CVE-2026-20128  
 **Categories:** Vulnerability  
 
 ---
@@ -450,7 +450,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30815, CVE-2026-30814, CVE-2026-30816  
+**CVEs:** CVE-2026-30816, CVE-2026-30814, CVE-2026-30815  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -634,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

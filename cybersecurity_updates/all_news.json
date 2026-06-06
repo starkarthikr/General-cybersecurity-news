@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
+    "link": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
+    "published": "Sat, 06 Jun 2026 19:06:57 +0530",
+    "summary": "OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks.\n\nThe feature is primarily designed for people and organizations that handle sensitive data and require stricter protection guarantees. Lockdown Mode is available to logged-in users across Free, Go, Plus, and Pro, and",
+    "analysis": {
+      "issue": "OpenAI Lockdown Mode limits outbound ChatGPT requests to reduce prompt injection data exfiltration risk for eligible accounts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
     "link": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html",
     "published": "Sat, 06 Jun 2026 13:59:05 +0530",
@@ -166,13 +184,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
-    "link": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
-    "published": "Fri, 05 Jun 2026 14:08:59 +0530",
-    "summary": "Threat actors are actively exploiting a critical security flaw in Everest Forms Pro, a WordPress plugin with about 4,000 active installations, to execute arbitrary code, leading to a complete site compromise.\n\nThe vulnerability in question is CVE-2026-3300 (CVSS score: 9.8), a remote code execution bug impacting all versions of the plugin up to, and including, 1.9.12. A patch for the flaw was",
+    "source": "Bleeping Computer",
+    "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
+    "published": "Sat, 06 Jun 2026 10:09:26 -0400",
+    "summary": "Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a WordPress website. [...]",
     "analysis": {
-      "issue": "Threat actors are actively exploiting CVE-2026-3300, a critical RCE vulnerability (CVSS 9",
+      "issue": "Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a WordPress website",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -181,7 +199,8 @@
         "CVE-2026-3300"
       ],
       "threat_categories": [
-        "Vulnerability"
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -311,8 +330,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20245",
         "CVE-2026-20127",
+        "CVE-2026-20245",
         "CVE-2026-20182"
       ],
       "threat_categories": [
@@ -353,24 +372,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Credit card theft campaign abuses Stripe to host stolen payment info",
-    "link": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
-    "published": "Thu, 04 Jun 2026 16:47:16 -0400",
-    "summary": "A new Magecart campaign is using Stripe's API infrastructure to host the credit card-stealing payload and the data exfiltrated from checkout pages. [...]",
-    "analysis": {
-      "issue": "A new Magecart campaign is using Stripe's API infrastructure to host the credit card-stealing payload and the data exfiltrated from checkout pages",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -556,8 +557,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34621",
         "CVE-2026-33825",
+        "CVE-2026-34621",
         "CVE-2026-32201"
       ],
       "threat_categories": [
@@ -657,8 +658,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-10883",
         "CVE-2026-10882",
+        "CVE-2026-10883",
         "CVE-2026-10881"
       ],
       "threat_categories": [
@@ -736,13 +737,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20245",
+        "CVE-2022-20775",
         "CVE-2026-20182",
-        "CVE-2026-20128",
         "CVE-2026-20122",
         "CVE-2026-20133",
+        "CVE-2026-20245",
         "CVE-2026-20127",
-        "CVE-2022-20775"
+        "CVE-2026-20128"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -931,9 +932,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30815",
+        "CVE-2026-30816",
         "CVE-2026-30814",
-        "CVE-2026-30816"
+        "CVE-2026-30815"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1306,8 +1307,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
