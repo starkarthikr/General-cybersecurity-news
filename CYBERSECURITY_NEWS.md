@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-06 10:30:04 UTC
+**Last Updated:** 2026-06-06 13:56:32 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -321,7 +321,7 @@
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 11:13:57 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-10882, CVE-2026-10883, CVE-2026-10881  
+**CVEs:** CVE-2026-10883, CVE-2026-10882, CVE-2026-10881  
 **Categories:** Vulnerability  
 
 ---
@@ -358,7 +358,7 @@
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 05:47:09 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20245, CVE-2022-20775, CVE-2026-20182, CVE-2026-20122, CVE-2026-20127, CVE-2026-20128, CVE-2026-20133  
+**CVEs:** CVE-2026-20245, CVE-2026-20182, CVE-2026-20128, CVE-2026-20122, CVE-2026-20133, CVE-2026-20127, CVE-2022-20775  
 **Categories:** Vulnerability  
 
 ---
@@ -422,7 +422,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-28764, CVE-2026-25713, CVE-2026-22554, CVE-2026-25104  
+**CVEs:** CVE-2026-25104, CVE-2026-22554, CVE-2026-28764, CVE-2026-25713  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -450,7 +450,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30815, CVE-2026-30816, CVE-2026-30814  
+**CVEs:** CVE-2026-30815, CVE-2026-30814, CVE-2026-30816  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
