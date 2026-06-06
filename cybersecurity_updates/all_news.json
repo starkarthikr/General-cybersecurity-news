@@ -1,6 +1,100 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
+    "link": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html",
+    "published": "Sat, 06 Jun 2026 13:59:05 +0530",
+    "summary": "A researcher has reverse-engineered the iOS SDK that Bright Data embeds in consumer apps and documented how it turns devices, including always-on smart TVs, into exit nodes that relay web-scraping traffic for a data business Bright Data markets heavily to the AI industry.\n\nThe company, the successor to Luminati, operates what it calls the largest residential proxy network in the world,",
+    "analysis": {
+      "issue": "Bright Data SDK relays scraping via 150M+ consent-sourced IPs, bypassing VPNs and using up to 200GB/month bandwidth",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
+    "link": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
+    "published": "Sat, 06 Jun 2026 13:44:31 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U  multi-protocol file server software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-28318 (CVSS score: 7.5), is a denial-of-service (DoS) bug that causes the service to crash",
+    "analysis": {
+      "issue": "CISA added CVE-2026-28318, a high-severity SolarWinds Serv-U DoS flaw, to its KEV catalog after evidence of active exploitation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-28318"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
+    "link": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
+    "published": "Sat, 06 Jun 2026 12:58:30 +0530",
+    "summary": "Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all of them found by an autonomous AI agent.\n\nThe same week, Google shipped Chrome 149 with patches for 429 security bugs, the most ever in a single release.\n\nOnly the FFmpeg bugs were found by AI.",
+    "analysis": {
+      "issue": "AI found 21 FFmpeg zero-days, some 20 years old; Chrome 149 patched 429 bugs, including 100+ critical/high flaws",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
+    "link": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
+    "published": "Sat, 06 Jun 2026 12:28:04 +0530",
+    "summary": "Microsoft's GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign.\n\nThe incident impacted 73 Microsoft repositories across four of its GitHub organizations, including Azure, Azure-Samples, Microsoft, and MicrosoftDocs, per OpenSourceMalware. The development has GitHub to disable access to those repositories.\n\n\"Access to this",
+    "analysis": {
+      "issue": "Miasma hit 73 Microsoft repos across four GitHub orgs, forcing access disablement and exposing open-source trust risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available",
+    "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html",
+    "published": "Sat, 06 Jun 2026 09:49:28 +0530",
+    "summary": "Cisco has warned that a high-severity security flaw impacting Catalyst SD-WAN Manager has come under active exploitation.\n\nThe vulnerability, tracked as CVE-2026-20245, carries a CVSS score of 7.8 out of a maximum of 10.0. It affects the following deployment types -\n\n\n  On-Prem Deployment\n  Cisco SD-WAN Cloud-Pro\n  Cisco SD-WAN Cloud (Cisco Managed)\n  Cisco SD-WAN for Government (FedRAMP)\n\n\"A",
+    "analysis": {
+      "issue": "Cisco Catalyst SD-WAN Manager vulnerability CVE-2026-20245 is under active exploitation and has a CVSS score of 7",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-20245"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
     "link": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
     "published": "Fri, 05 Jun 2026 23:35:30 +0530",
@@ -88,98 +182,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
-    "link": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html",
-    "published": "Fri, 05 Jun 2026 12:31:41 +0530",
-    "summary": "Security researchers and the FBI are warning that a wave of FIFA-themed fraud is already hitting World Cup 2026 fans, days before the June 11 kickoff.\n\nRecent reports describe thousands of lookalike FIFA domains, banking malware hidden inside pirate streaming apps, and at least one operation that copies FIFA's login page well enough to take over real accounts.\n\nIt is an obvious target. More than",
-    "analysis": {
-      "issue": "Researchers and the FBI warn that fake FIFA domains, banking malware in streaming apps, and stolen logins are already hitting World Cup 2026 fans",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
-    "link": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
-    "published": "Fri, 05 Jun 2026 11:04:19 +0530",
-    "summary": "The threat actor known as PCPJack has hijacked cloud servers associated with Amazon Web Services (AWS), Google Cloud, and Microsoft Azure to create a covert SMTP email relay network.\n\n\"Compromised business servers across the U.S., Europe, and Asia were quietly converted into SMTP proxies, verified for mail relay capability, and synced to a downstream consumer every five minutes,\" Hunt.io said in",
-    "analysis": {
-      "issue": "PCPJack built a 230-node SMTP relay from hijacked cloud servers, syncing verified proxies every five minutes for scalable abuse",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
-    "link": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html",
-    "published": "Thu, 04 Jun 2026 22:25:51 +0530",
-    "summary": "Cisco has patched a bug in Unified Communications Manager that lets an unauthenticated attacker on the network write files to the box and, from there, climb to root.\n\nIt is tracked as CVE-2026-20230, and proof-of-concept exploit code is already public. Cisco's PSIRT says it has not seen the flaw used in attacks yet. The PoC shortens that runway.\n\nThe flaw is a server-side request forgery.",
-    "analysis": {
-      "issue": "Cisco patched a Unified CM flaw allowing unauthenticated network attackers to write files and escalate to root",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-20230"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
-    "link": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
-    "published": "Thu, 04 Jun 2026 20:45:26 +0530",
-    "summary": "A security researcher found a flaw in Anthropic's Claude Code GitHub Action that let an attacker take over vulnerable public repositories running it, with nothing more than a single opened GitHub issue. Because Anthropic's own action repo used the same workflow, a working attack could have pushed malicious code into the action itself and onto the projects downstream that pull it.\n\nRyotaK of GMO",
-    "analysis": {
-      "issue": "A flaw in Anthropic’s Claude Code GitHub Action allowed a malicious GitHub issue from a bot actor to trigger workflows and gain write access to repos",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It",
-    "link": "https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html",
-    "published": "Thu, 04 Jun 2026 20:40:00 +0530",
-    "summary": "Over the past several weeks, the cybersecurity community has been reminded how quickly frontier and agentic AI in defense networks can challenge our assumptions. When Anthropic's Claude Mythos model was made available to a limited set of organizations as a technical preview, it was reported that an unauthorized group claimed that it had gained access within hours. The incident, if true, was",
-    "analysis": {
-      "issue": "June 2 AI order highlights classified deployment risks, requiring secure data, access, and networks to preserve mission trust",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -309,9 +311,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20182",
         "CVE-2026-20245",
-        "CVE-2026-20127"
+        "CVE-2026-20127",
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -554,13 +556,31 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-32201",
         "CVE-2026-34621",
-        "CVE-2026-33825"
+        "CVE-2026-33825",
+        "CVE-2026-32201"
       ],
       "threat_categories": [
         "Vulnerability",
         "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Opal Security Raises $23 Million for AI-Native Identity Governance",
+    "link": "https://www.securityweek.com/opal-security-raises-23-million-for-ai-native-identity-governance/",
+    "published": "Sat, 06 Jun 2026 10:15:00 +0000",
+    "summary": "<p>Raising $59 million to date, Opal also announced five senior leadership appointments.</p>\n<p>The post <a href=\"https://www.securityweek.com/opal-security-raises-23-million-for-ai-native-identity-governance/\">Opal Security Raises $23 Million for AI-Native Identity Governance</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Raising $59 million to date, Opal also announced five senior leadership appointments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -637,9 +657,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-10881",
+        "CVE-2026-10882",
         "CVE-2026-10883",
-        "CVE-2026-10882"
+        "CVE-2026-10881"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -716,13 +736,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-20775",
-        "CVE-2026-20133",
         "CVE-2026-20245",
-        "CVE-2026-20128",
-        "CVE-2026-20127",
+        "CVE-2022-20775",
         "CVE-2026-20182",
-        "CVE-2026-20122"
+        "CVE-2026-20122",
+        "CVE-2026-20127",
+        "CVE-2026-20128",
+        "CVE-2026-20133"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -744,24 +764,6 @@
       "cves": [],
       "threat_categories": [
         "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Webinar Today: Third-Party Risk in Practice – Where Programs Break Down and How to Respond",
-    "link": "https://www.securityweek.com/webinar-today-third-party-risk-in-practice-where-programs-break-down-and-to-respond/",
-    "published": "Thu, 04 Jun 2026 14:40:44 +0000",
-    "summary": "<p>Join this live webinar as we examine the gap between how organizations think their third-party risk programs are performing and what’s actually happening in practice. </p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-third-party-risk-in-practice-where-programs-break-down-and-to-respond/\">Webinar Today: Third-Party Risk in Practice &#8211; Where Programs Break Down and How to Respond</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Join this live webinar as we examine the gap between how organizations think their third-party risk programs are performing and what’s actually happening in practice",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
         "Supply Chain"
       ]
     }
@@ -869,10 +871,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25713",
         "CVE-2026-28764",
-        "CVE-2026-25104",
-        "CVE-2026-22554"
+        "CVE-2026-25713",
+        "CVE-2026-22554",
+        "CVE-2026-25104"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1304,8 +1306,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

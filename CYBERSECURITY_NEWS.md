@@ -1,10 +1,57 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-06 04:37:09 UTC
+**Last Updated:** 2026-06-06 10:30:04 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks](https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html)
+### 1. [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 06 Jun 2026 13:59:05 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog](https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 06 Jun 2026 13:44:31 +0530  
+**Severity:** High  
+**CVEs:** CVE-2026-28318  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs](https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 06 Jun 2026 12:58:30 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack](https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 06 Jun 2026 12:28:04 +0530  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 5. [Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 06 Jun 2026 09:49:28 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-20245  
+**Categories:** Vulnerability  
+
+---
+
+### 6. [IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks](https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 05 Jun 2026 23:35:30 +0530  
@@ -13,7 +60,7 @@
 
 ---
 
-### 2. [Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps](https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html)
+### 7. [Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps](https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 05 Jun 2026 20:23:40 +0530  
@@ -22,7 +69,7 @@
 
 ---
 
-### 3. [New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework](https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html)
+### 8. [New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework](https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 05 Jun 2026 18:03:38 +0530  
@@ -31,7 +78,7 @@
 
 ---
 
-### 4. [Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver](https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html)
+### 9. [Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver](https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 05 Jun 2026 16:50:00 +0530  
@@ -40,59 +87,13 @@
 
 ---
 
-### 5. [Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites](https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html)
+### 10. [Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites](https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 05 Jun 2026 14:08:59 +0530  
 **Severity:** Critical  
 **CVEs:** CVE-2026-3300  
 **Categories:** Vulnerability  
-
----
-
-### 6. [FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins](https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 05 Jun 2026 12:31:41 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 7. [PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network](https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 05 Jun 2026 11:04:19 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 8. [Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public](https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 04 Jun 2026 22:25:51 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-20230  
-**Categories:** Vulnerability  
-
----
-
-### 9. [Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories](https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 04 Jun 2026 20:45:26 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It](https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 04 Jun 2026 20:40:00 +0530  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -156,7 +157,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 02:24:20 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20182, CVE-2026-20245, CVE-2026-20127  
+**CVEs:** CVE-2026-20245, CVE-2026-20127, CVE-2026-20182  
 **Categories:** Vulnerability  
 
 ---
@@ -274,12 +275,21 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
+**CVEs:** CVE-2026-34621, CVE-2026-33825, CVE-2026-32201  
 **Categories:** Vulnerability, Phishing  
 
 ---
 
-### 31. [OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds](https://www.securityweek.com/owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds/)
+### 31. [Opal Security Raises $23 Million for AI-Native Identity Governance](https://www.securityweek.com/opal-security-raises-23-million-for-ai-native-identity-governance/)
+
+**Source:** Security Week  
+**Published:** Sat, 06 Jun 2026 10:15:00 +0000  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 32. [OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds](https://www.securityweek.com/owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds/)
 
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 16:35:02 +0000  
@@ -288,7 +298,7 @@
 
 ---
 
-### 32. [In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA](https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/)
+### 33. [In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA](https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/)
 
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 13:05:06 +0000  
@@ -297,7 +307,7 @@
 
 ---
 
-### 33. [Hackers Leak DentaQuest Information Impacting 2.6 Million](https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/)
+### 34. [Hackers Leak DentaQuest Information Impacting 2.6 Million](https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/)
 
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 11:33:27 +0000  
@@ -306,17 +316,17 @@
 
 ---
 
-### 34. [Chrome 149 Patches 429 Vulnerabilities](https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/)
+### 35. [Chrome 149 Patches 429 Vulnerabilities](https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 11:13:57 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-10881, CVE-2026-10883, CVE-2026-10882  
+**CVEs:** CVE-2026-10882, CVE-2026-10883, CVE-2026-10881  
 **Categories:** Vulnerability  
 
 ---
 
-### 35. [Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday](https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/)
+### 36. [Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday](https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/)
 
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 10:24:56 +0000  
@@ -325,7 +335,7 @@
 
 ---
 
-### 36. [Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities](https://www.securityweek.com/five-eyes-chinese-spies-target-government-military-staff-with-fake-job-opportunities/)
+### 37. [Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities](https://www.securityweek.com/five-eyes-chinese-spies-target-government-military-staff-with-fake-job-opportunities/)
 
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 08:46:44 +0000  
@@ -334,7 +344,7 @@
 
 ---
 
-### 37. [Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals](https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/)
+### 38. [Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals](https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/)
 
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 07:24:08 +0000  
@@ -343,31 +353,22 @@
 
 ---
 
-### 38. [Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026](https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/)
+### 39. [Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026](https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/)
 
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 05:47:09 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-20775, CVE-2026-20133, CVE-2026-20245, CVE-2026-20128, CVE-2026-20127, CVE-2026-20182, CVE-2026-20122  
+**CVEs:** CVE-2026-20245, CVE-2022-20775, CVE-2026-20182, CVE-2026-20122, CVE-2026-20127, CVE-2026-20128, CVE-2026-20133  
 **Categories:** Vulnerability  
 
 ---
 
-### 39. [Offroad Emerges From Stealth With $7 Million to Tackle Enterprise Identity Risk](https://www.securityweek.com/offroad-emerges-from-stealth-with-7-million-to-tackle-enterprise-identity-risk/)
+### 40. [Offroad Emerges From Stealth With $7 Million to Tackle Enterprise Identity Risk](https://www.securityweek.com/offroad-emerges-from-stealth-with-7-million-to-tackle-enterprise-identity-risk/)
 
 **Source:** Security Week  
 **Published:** Thu, 04 Jun 2026 15:05:45 +0000  
 **Severity:** Low  
 **Categories:** APT, Supply Chain  
-
----
-
-### 40. [Webinar Today: Third-Party Risk in Practice – Where Programs Break Down and How to Respond](https://www.securityweek.com/webinar-today-third-party-risk-in-practice-where-programs-break-down-and-to-respond/)
-
-**Source:** Security Week  
-**Published:** Thu, 04 Jun 2026 14:40:44 +0000  
-**Severity:** Low  
-**Categories:** Supply Chain  
 
 ---
 
@@ -421,7 +422,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25713, CVE-2026-28764, CVE-2026-25104, CVE-2026-22554  
+**CVEs:** CVE-2026-28764, CVE-2026-25713, CVE-2026-22554, CVE-2026-25104  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -633,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
