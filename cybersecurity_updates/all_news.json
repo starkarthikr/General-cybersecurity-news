@@ -330,9 +330,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20182",
+        "CVE-2026-20127",
         "CVE-2026-20245",
-        "CVE-2026-20127"
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -569,6 +569,24 @@
   },
   {
     "source": "Security Week",
+    "title": "Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation",
+    "link": "https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/",
+    "published": "Sun, 07 Jun 2026 11:30:00 +0000",
+    "summary": "<p>Emphere’s solution delivers AI-driven remediation to software companies to speed up releases.</p>\n<p>The post <a href=\"https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/\">Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Emphere’s solution delivers AI-driven remediation to software companies to speed up releases",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Opal Security Raises $23 Million for AI-Native Identity Governance",
     "link": "https://www.securityweek.com/opal-security-raises-23-million-for-ai-native-identity-governance/",
     "published": "Sat, 06 Jun 2026 10:15:00 +0000",
@@ -659,8 +677,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-10881",
-        "CVE-2026-10882",
-        "CVE-2026-10883"
+        "CVE-2026-10883",
+        "CVE-2026-10882"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -737,35 +755,16 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-20182",
         "CVE-2022-20775",
         "CVE-2026-20133",
-        "CVE-2026-20182",
         "CVE-2026-20245",
-        "CVE-2026-20127",
         "CVE-2026-20128",
-        "CVE-2026-20122"
+        "CVE-2026-20122",
+        "CVE-2026-20127"
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Offroad Emerges From Stealth With $7 Million to Tackle Enterprise Identity Risk",
-    "link": "https://www.securityweek.com/offroad-emerges-from-stealth-with-7-million-to-tackle-enterprise-identity-risk/",
-    "published": "Thu, 04 Jun 2026 15:05:45 +0000",
-    "summary": "<p>As AI agents, machine identities, and third-party applications multiply across enterprises, Offroad is betting autonomous security agents can restore control over an increasingly unmanageable identity landscape.</p>\n<p>The post <a href=\"https://www.securityweek.com/offroad-emerges-from-stealth-with-7-million-to-tackle-enterprise-identity-risk/\">Offroad Emerges From Stealth With $7 Million to Tackle Enterprise Identity Risk</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "As AI agents, machine identities, and third-party applications multiply across enterprises, Offroad is betting autonomous security agents can restore control over an increasingly unmanageable identity landscape",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT",
-        "Supply Chain"
       ]
     }
   },
@@ -872,10 +871,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-28764",
         "CVE-2026-22554",
-        "CVE-2026-25713",
-        "CVE-2026-25104"
+        "CVE-2026-25104",
+        "CVE-2026-28764",
+        "CVE-2026-25713"
       ],
       "threat_categories": [
         "Vulnerability",

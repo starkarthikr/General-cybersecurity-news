@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-07 10:40:37 UTC
+**Last Updated:** 2026-06-07 14:06:31 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -166,7 +166,7 @@
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 02:24:20 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20182, CVE-2026-20245, CVE-2026-20127  
+**CVEs:** CVE-2026-20127, CVE-2026-20245, CVE-2026-20182  
 **Categories:** Vulnerability  
 
 ---
@@ -280,7 +280,16 @@
 
 ---
 
-### 31. [Opal Security Raises $23 Million for AI-Native Identity Governance](https://www.securityweek.com/opal-security-raises-23-million-for-ai-native-identity-governance/)
+### 31. [Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation](https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/)
+
+**Source:** Security Week  
+**Published:** Sun, 07 Jun 2026 11:30:00 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [Opal Security Raises $23 Million for AI-Native Identity Governance](https://www.securityweek.com/opal-security-raises-23-million-for-ai-native-identity-governance/)
 
 **Source:** Security Week  
 **Published:** Sat, 06 Jun 2026 10:15:00 +0000  
@@ -289,7 +298,7 @@
 
 ---
 
-### 32. [OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds](https://www.securityweek.com/owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds/)
+### 33. [OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds](https://www.securityweek.com/owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds/)
 
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 16:35:02 +0000  
@@ -298,7 +307,7 @@
 
 ---
 
-### 33. [In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA](https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/)
+### 34. [In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA](https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/)
 
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 13:05:06 +0000  
@@ -307,7 +316,7 @@
 
 ---
 
-### 34. [Hackers Leak DentaQuest Information Impacting 2.6 Million](https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/)
+### 35. [Hackers Leak DentaQuest Information Impacting 2.6 Million](https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/)
 
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 11:33:27 +0000  
@@ -316,17 +325,17 @@
 
 ---
 
-### 35. [Chrome 149 Patches 429 Vulnerabilities](https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/)
+### 36. [Chrome 149 Patches 429 Vulnerabilities](https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 11:13:57 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-10881, CVE-2026-10882, CVE-2026-10883  
+**CVEs:** CVE-2026-10881, CVE-2026-10883, CVE-2026-10882  
 **Categories:** Vulnerability  
 
 ---
 
-### 36. [Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday](https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/)
+### 37. [Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday](https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/)
 
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 10:24:56 +0000  
@@ -335,7 +344,7 @@
 
 ---
 
-### 37. [Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities](https://www.securityweek.com/five-eyes-chinese-spies-target-government-military-staff-with-fake-job-opportunities/)
+### 38. [Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities](https://www.securityweek.com/five-eyes-chinese-spies-target-government-military-staff-with-fake-job-opportunities/)
 
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 08:46:44 +0000  
@@ -344,7 +353,7 @@
 
 ---
 
-### 38. [Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals](https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/)
+### 39. [Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals](https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/)
 
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 07:24:08 +0000  
@@ -353,22 +362,13 @@
 
 ---
 
-### 39. [Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026](https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/)
+### 40. [Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026](https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/)
 
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 05:47:09 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-20775, CVE-2026-20133, CVE-2026-20182, CVE-2026-20245, CVE-2026-20127, CVE-2026-20128, CVE-2026-20122  
+**CVEs:** CVE-2026-20182, CVE-2022-20775, CVE-2026-20133, CVE-2026-20245, CVE-2026-20128, CVE-2026-20122, CVE-2026-20127  
 **Categories:** Vulnerability  
-
----
-
-### 40. [Offroad Emerges From Stealth With $7 Million to Tackle Enterprise Identity Risk](https://www.securityweek.com/offroad-emerges-from-stealth-with-7-million-to-tackle-enterprise-identity-risk/)
-
-**Source:** Security Week  
-**Published:** Thu, 04 Jun 2026 15:05:45 +0000  
-**Severity:** Low  
-**Categories:** APT, Supply Chain  
 
 ---
 
@@ -422,7 +422,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-28764, CVE-2026-22554, CVE-2026-25713, CVE-2026-25104  
+**CVEs:** CVE-2026-22554, CVE-2026-25104, CVE-2026-28764, CVE-2026-25713  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
