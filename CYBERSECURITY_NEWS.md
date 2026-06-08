@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-07 17:48:13 UTC
+**Last Updated:** 2026-06-08 04:42:56 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,16 @@
 
 ---
 
-### 11. [C0XMO botnet spreads via DD-WRT router flaw, kills rival malware](https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/)
+### 11. [Hands on with Intelligent Terminal, an AI-powered Windows Terminal](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 07 Jun 2026 19:20:02 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [C0XMO botnet spreads via DD-WRT router flaw, kills rival malware](https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 07 Jun 2026 10:17:46 -0400  
@@ -106,7 +115,7 @@
 
 ---
 
-### 12. [Silent Ransom Group targets law firms with fake IT support calls](https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/)
+### 13. [Silent Ransom Group targets law firms with fake IT support calls](https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 07 Jun 2026 10:09:19 -0400  
@@ -115,7 +124,7 @@
 
 ---
 
-### 13. [Critical Everest Forms Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/)
+### 14. [Critical Everest Forms Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 06 Jun 2026 10:09:26 -0400  
@@ -125,7 +134,7 @@
 
 ---
 
-### 14. [Suspicious Polyfill login prompts pop up on Toshiba, Muji websites](https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/)
+### 15. [Suspicious Polyfill login prompts pop up on Toshiba, Muji websites](https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 17:54:42 -0400  
@@ -134,7 +143,7 @@
 
 ---
 
-### 15. [CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/)
+### 16. [CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 15:15:30 -0400  
@@ -144,7 +153,7 @@
 
 ---
 
-### 16. [Chinese APT deploys new malware to keep access to hacked networks](https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/)
+### 17. [Chinese APT deploys new malware to keep access to hacked networks](https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 14:09:47 -0400  
@@ -153,7 +162,7 @@
 
 ---
 
-### 17. [Dark web Nemesis Market vendor gets 26 years for selling drugs](https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/)
+### 18. [Dark web Nemesis Market vendor gets 26 years for selling drugs](https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 13:50:58 -0400  
@@ -162,7 +171,7 @@
 
 ---
 
-### 18. [Over 900 US gas station tank gauge systems exposed to attacks](https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/)
+### 19. [Over 900 US gas station tank gauge systems exposed to attacks](https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 10:50:15 -0400  
@@ -171,22 +180,12 @@
 
 ---
 
-### 19. [What 2026 DBIR Confirms: Attacks Are Living in the Browser](https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/)
+### 20. [What 2026 DBIR Confirms: Attacks Are Living in the Browser](https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 10:00:10 -0400  
 **Severity:** Low  
 **Categories:** Data Breach  
-
----
-
-### 20. [Cisco warns of unpatched SD-WAN zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 05 Jun 2026 02:24:20 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-20245, CVE-2026-20127, CVE-2026-20182  
-**Categories:** Vulnerability  
 
 ---
 
@@ -212,6 +211,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Fri, 22 May 2026 16:34:24 +0000  
+**Severity:** Critical  
+**Categories:** Data Breach  
 
 ---
 
@@ -329,7 +330,7 @@
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 11:13:57 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-10881, CVE-2026-10882, CVE-2026-10883  
+**CVEs:** CVE-2026-10883, CVE-2026-10882, CVE-2026-10881  
 **Categories:** Vulnerability  
 
 ---
@@ -366,7 +367,7 @@
 **Source:** Security Week  
 **Published:** Fri, 05 Jun 2026 05:47:09 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20245, CVE-2022-20775, CVE-2026-20182, CVE-2026-20122, CVE-2026-20133, CVE-2026-20128, CVE-2026-20127  
+**CVEs:** CVE-2026-20122, CVE-2026-20128, CVE-2026-20182, CVE-2026-20133, CVE-2026-20127, CVE-2022-20775, CVE-2026-20245  
 **Categories:** Vulnerability  
 
 ---
@@ -421,7 +422,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25104, CVE-2026-25713, CVE-2026-22554, CVE-2026-28764  
+**CVEs:** CVE-2026-22554, CVE-2026-28764, CVE-2026-25104, CVE-2026-25713  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -449,7 +450,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30816, CVE-2026-30814, CVE-2026-30815  
+**CVEs:** CVE-2026-30816, CVE-2026-30815, CVE-2026-30814  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -633,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

@@ -185,6 +185,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
+    "published": "Sun, 07 Jun 2026 19:20:02 -0400",
+    "summary": "Microsoft has created an open-source fork of Windows Terminal called \"Intelligent Terminal,\" and it allows you to use AI directly inside Terminal without interfering with the regular session. [...]",
+    "analysis": {
+      "issue": "Microsoft has created an open-source fork of Windows Terminal called \"Intelligent Terminal,\" and it allows you to use AI directly inside Terminal without interfering with the regular session",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
     "link": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
     "published": "Sun, 07 Jun 2026 10:17:46 -0400",
@@ -359,28 +377,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
-    "published": "Fri, 05 Jun 2026 02:24:20 -0400",
-    "summary": "On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation. [...]",
-    "analysis": {
-      "issue": "On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20245",
-        "CVE-2026-20127",
-        "CVE-2026-20182"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
     "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
@@ -423,7 +419,18 @@
     "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
     "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
     "published": "Fri, 22 May 2026 16:34:24 +0000",
-    "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials."
+    "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
+    "analysis": {
+      "issue": "Lawmakers in both houses of Congress are demanding answers from the U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -670,9 +677,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-10881",
+        "CVE-2026-10883",
         "CVE-2026-10882",
-        "CVE-2026-10883"
+        "CVE-2026-10881"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -749,13 +756,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20245",
-        "CVE-2022-20775",
-        "CVE-2026-20182",
         "CVE-2026-20122",
-        "CVE-2026-20133",
         "CVE-2026-20128",
-        "CVE-2026-20127"
+        "CVE-2026-20182",
+        "CVE-2026-20133",
+        "CVE-2026-20127",
+        "CVE-2022-20775",
+        "CVE-2026-20245"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -865,10 +872,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25104",
-        "CVE-2026-25713",
         "CVE-2026-22554",
-        "CVE-2026-28764"
+        "CVE-2026-28764",
+        "CVE-2026-25104",
+        "CVE-2026-25713"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -926,8 +933,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-30816",
-        "CVE-2026-30814",
-        "CVE-2026-30815"
+        "CVE-2026-30815",
+        "CVE-2026-30814"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -958,9 +965,9 @@
     "title": "Why Holistic Sourcing Wins: The Numbers Behind the Recorded Future Advantage",
     "link": "https://www.recordedfuture.com/blog/recorded-future-holistic-sourcing-wins",
     "published": "Fri, 05 Jun 2026 00:00:00 GMT",
-    "summary": "Future’s Intelligence Grap® uses holistic sourcing across 1M+ sources for complete threat intelligence and proactive defense.",
+    "summary": "Recorded Future’s Intelligence Graph® uses holistic sourcing across 1M+ sources for complete threat intelligence and proactive defense.",
     "analysis": {
-      "issue": "Future’s Intelligence Grap® uses holistic sourcing across 1M+ sources for complete threat intelligence and proactive defense",
+      "issue": "Recorded Future’s Intelligence Graph® uses holistic sourcing across 1M+ sources for complete threat intelligence and proactive defense",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1300,8 +1307,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
