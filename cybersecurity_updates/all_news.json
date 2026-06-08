@@ -558,9 +558,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-33825",
         "CVE-2026-34621",
-        "CVE-2026-32201"
+        "CVE-2026-32201",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -677,8 +677,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-10883",
         "CVE-2026-10882",
+        "CVE-2026-10883",
         "CVE-2026-10881"
       ],
       "threat_categories": [
@@ -756,13 +756,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20122",
-        "CVE-2026-20128",
         "CVE-2026-20182",
-        "CVE-2026-20133",
-        "CVE-2026-20127",
+        "CVE-2026-20245",
         "CVE-2022-20775",
-        "CVE-2026-20245"
+        "CVE-2026-20128",
+        "CVE-2026-20127",
+        "CVE-2026-20133",
+        "CVE-2026-20122"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -873,8 +873,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-22554",
-        "CVE-2026-28764",
         "CVE-2026-25104",
+        "CVE-2026-28764",
         "CVE-2026-25713"
       ],
       "threat_categories": [
@@ -932,9 +932,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30816",
         "CVE-2026-30815",
-        "CVE-2026-30814"
+        "CVE-2026-30814",
+        "CVE-2026-30816"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1218,22 +1218,7 @@
     "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
     "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
     "published": "Thu, 25 Aug 2022 18:47:15 +0000",
-    "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
-    "analysis": {
-      "issue": "Share this article: Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2021-36260"
-      ],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "APT"
-      ]
-    }
+    "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed."
   },
   {
     "source": "Threat Post",
