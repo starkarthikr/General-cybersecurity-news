@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-08 16:04:20 UTC
+**Last Updated:** 2026-06-08 18:42:06 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups](https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html)
+### 1. [Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order](https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 08 Jun 2026 22:38:44 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 2. [Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups](https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 08 Jun 2026 19:47:39 +0530  
@@ -14,7 +23,7 @@
 
 ---
 
-### 2. [AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload](https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html)
+### 3. [AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload](https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 08 Jun 2026 18:49:13 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More](https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html)
+### 4. [⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More](https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 08 Jun 2026 18:48:57 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [The Hardest Fork](https://thehackernews.com/2026/06/the-hardest-fork.html)
+### 5. [The Hardest Fork](https://thehackernews.com/2026/06/the-hardest-fork.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 08 Jun 2026 17:23:00 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances](https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html)
+### 6. [VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances](https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 08 Jun 2026 15:57:32 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign](https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html)
+### 7. [UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign](https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 08 Jun 2026 13:09:28 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks](https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html)
+### 8. [VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks](https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 08 Jun 2026 11:38:44 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration](https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html)
+### 9. [New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration](https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 06 Jun 2026 19:06:57 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html)
+### 10. [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 06 Jun 2026 13:59:05 +0530  
@@ -86,27 +95,35 @@
 
 ---
 
-### 10. [CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog](https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html)
+### 11. [WhatsApp says it disrupted new NSO spyware phishing attacks](https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 06 Jun 2026 13:44:31 +0530  
-**Severity:** High  
-**CVEs:** CVE-2026-28318  
+**Source:** Bleeping Computer  
+**Published:** Mon, 08 Jun 2026 14:40:53 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 12. [Gogs patches critical zero-day enabling remote code execution](https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 08 Jun 2026 12:18:40 -0400  
+**Severity:** Critical  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [Critical UniFi OS bug lets hackers gain root without authentication](https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/)
+### 13. [Critical UniFi OS bug lets hackers gain root without authentication](https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 08 Jun 2026 11:51:19 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-34910, CVE-2026-34909, CVE-2026-34908  
+**CVEs:** CVE-2026-34908, CVE-2026-34910, CVE-2026-34909  
 **Categories:** Vulnerability  
 
 ---
 
-### 12. [Reducing security operations complexity with Wazuh Cloud](https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/)
+### 14. [Reducing security operations complexity with Wazuh Cloud](https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 08 Jun 2026 10:01:11 -0400  
@@ -115,7 +132,7 @@
 
 ---
 
-### 13. [Check Point links VPN zero-day attacks to Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/)
+### 15. [Check Point links VPN zero-day attacks to Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 08 Jun 2026 09:05:16 -0400  
@@ -125,7 +142,7 @@
 
 ---
 
-### 14. [Oxford University discloses data breach after careers platform hack](https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/)
+### 16. [Oxford University discloses data breach after careers platform hack](https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 08 Jun 2026 07:14:41 -0400  
@@ -134,7 +151,7 @@
 
 ---
 
-### 15. [Over 20,000 Instagram accounts stolen in Meta AI support hack](https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/)
+### 17. [Over 20,000 Instagram accounts stolen in Meta AI support hack](https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 08 Jun 2026 02:00:27 -0400  
@@ -143,7 +160,7 @@
 
 ---
 
-### 16. [Hands on with Intelligent Terminal, an AI-powered Windows Terminal](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/)
+### 18. [Hands on with Intelligent Terminal, an AI-powered Windows Terminal](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 07 Jun 2026 19:20:02 -0400  
@@ -152,7 +169,7 @@
 
 ---
 
-### 17. [C0XMO botnet spreads via DD-WRT router flaw, kills rival malware](https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/)
+### 19. [C0XMO botnet spreads via DD-WRT router flaw, kills rival malware](https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 07 Jun 2026 10:17:46 -0400  
@@ -162,31 +179,12 @@
 
 ---
 
-### 18. [Silent Ransom Group targets law firms with fake IT support calls](https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/)
+### 20. [Silent Ransom Group targets law firms with fake IT support calls](https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 07 Jun 2026 10:09:19 -0400  
 **Severity:** High  
 **Categories:** Ransomware, Phishing  
-
----
-
-### 19. [Critical Everest Forms Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 06 Jun 2026 10:09:26 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-3300  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 20. [Suspicious Polyfill login prompts pop up on Toshiba, Muji websites](https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 05 Jun 2026 17:54:42 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -281,7 +279,16 @@
 
 ---
 
-### 31. [Everybody Is Vibe Coding But Nobody Told the Security Team](https://www.securityweek.com/everybody-is-vibe-coding-but-nobody-told-the-security-team/)
+### 31. [A Security Raises $37 Million for Autonomous Offensive Security Platform](https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/)
+
+**Source:** Security Week  
+**Published:** Mon, 08 Jun 2026 17:19:38 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [Everybody Is Vibe Coding But Nobody Told the Security Team](https://www.securityweek.com/everybody-is-vibe-coding-but-nobody-told-the-security-team/)
 
 **Source:** Security Week  
 **Published:** Mon, 08 Jun 2026 15:30:00 +0000  
@@ -290,7 +297,7 @@
 
 ---
 
-### 32. [WhatsApp Catches Spyware Firm NSO Defying No-Hacking Court Order](https://www.securityweek.com/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order/)
+### 33. [WhatsApp Catches Spyware Firm NSO Defying No-Hacking Court Order](https://www.securityweek.com/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order/)
 
 **Source:** Security Week  
 **Published:** Mon, 08 Jun 2026 13:23:03 +0000  
@@ -299,7 +306,7 @@
 
 ---
 
-### 33. [Cybersecurity M&A Roundup: 26 Deals Announced in May 2026](https://www.securityweek.com/cybersecurity-ma-roundup-26-deals-announced-in-may-2026/)
+### 34. [Cybersecurity M&A Roundup: 26 Deals Announced in May 2026](https://www.securityweek.com/cybersecurity-ma-roundup-26-deals-announced-in-may-2026/)
 
 **Source:** Security Week  
 **Published:** Mon, 08 Jun 2026 12:38:45 +0000  
@@ -308,7 +315,7 @@
 
 ---
 
-### 34. [Everest Forms Vulnerability Exploited to Hack WordPress Sites](https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/)
+### 35. [Everest Forms Vulnerability Exploited to Hack WordPress Sites](https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/)
 
 **Source:** Security Week  
 **Published:** Mon, 08 Jun 2026 12:16:09 +0000  
@@ -318,7 +325,7 @@
 
 ---
 
-### 35. [174,000 Impacted by Lansing Community College Data Breach](https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/)
+### 36. [174,000 Impacted by Lansing Community College Data Breach](https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/)
 
 **Source:** Security Week  
 **Published:** Mon, 08 Jun 2026 11:27:00 +0000  
@@ -327,7 +334,7 @@
 
 ---
 
-### 36. [Silent Ransom Group Uses DNS Fast Flux in Attacks](https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/)
+### 37. [Silent Ransom Group Uses DNS Fast Flux in Attacks](https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Mon, 08 Jun 2026 10:31:39 +0000  
@@ -336,7 +343,7 @@
 
 ---
 
-### 37. [OpenAI Rolling Out ChatGPT Account Security Controls](https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/)
+### 38. [OpenAI Rolling Out ChatGPT Account Security Controls](https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/)
 
 **Source:** Security Week  
 **Published:** Mon, 08 Jun 2026 08:32:49 +0000  
@@ -345,7 +352,7 @@
 
 ---
 
-### 38. [Anthropic Urges Industry Coordination to Allow for a ‘Pause’ in AI Development if Risks Grow](https://www.securityweek.com/anthropic-urges-industry-coordination-to-allow-for-a-pause-in-ai-development-if-risks-grow/)
+### 39. [Anthropic Urges Industry Coordination to Allow for a ‘Pause’ in AI Development if Risks Grow](https://www.securityweek.com/anthropic-urges-industry-coordination-to-allow-for-a-pause-in-ai-development-if-risks-grow/)
 
 **Source:** Security Week  
 **Published:** Mon, 08 Jun 2026 08:00:00 +0000  
@@ -354,21 +361,12 @@
 
 ---
 
-### 39. [SolarWinds Serv-U Vulnerability Exploited in the Wild](https://www.securityweek.com/solarwinds-patches-exploited-serv-u-vulnerability/)
+### 40. [SolarWinds Serv-U Vulnerability Exploited in the Wild](https://www.securityweek.com/solarwinds-patches-exploited-serv-u-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Mon, 08 Jun 2026 07:52:28 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-28318  
-**Categories:** Vulnerability  
-
----
-
-### 40. [Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse](https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/)
-
-**Source:** Security Week  
-**Published:** Mon, 08 Jun 2026 06:41:47 +0000  
-**Severity:** Critical  
 **Categories:** Vulnerability  
 
 ---
@@ -423,7 +421,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-28764, CVE-2026-25104, CVE-2026-22554, CVE-2026-25713  
+**CVEs:** CVE-2026-22554, CVE-2026-28764, CVE-2026-25713, CVE-2026-25104  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -738,7 +736,16 @@
 
 ---
 
-### 81. [3 Principles to Safely Scale Agentic AI](https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/)
+### 81. [CrowdStrike and Zscaler Bring Continuous Identity to Zero Trust Access](https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jun 08, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [3 Principles to Safely Scale Agentic AI](https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 05, 2026 00:00:00-0500  
@@ -747,7 +754,7 @@
 
 ---
 
-### 82. [ISO 42001:2023 and the New Reality of Cloud AI Data Risk](https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/)
+### 83. [ISO 42001:2023 and the New Reality of Cloud AI Data Risk](https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 04, 2026 00:00:00-0500  
@@ -756,7 +763,7 @@
 
 ---
 
-### 83. [How to Stop AI-Driven Data Loss](https://www.crowdstrike.com/en-us/blog/how-to-stop-ai-driven-data-loss/)
+### 84. [How to Stop AI-Driven Data Loss](https://www.crowdstrike.com/en-us/blog/how-to-stop-ai-driven-data-loss/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 02, 2026 00:00:00-0500  
@@ -765,7 +772,7 @@
 
 ---
 
-### 84. [CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/)
+### 85. [CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 01, 2026 00:00:00-0500  
@@ -774,7 +781,7 @@
 
 ---
 
-### 85. [CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/)
+### 86. [CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 01, 2026 00:00:00-0500  
@@ -783,7 +790,7 @@
 
 ---
 
-### 86. [Secure Shadow AI at the Control Plane with Falcon for IT](https://www.crowdstrike.com/en-us/blog/secure-shadow-ai-at-the-control-plane-with-falcon-for-it/)
+### 87. [Secure Shadow AI at the Control Plane with Falcon for IT](https://www.crowdstrike.com/en-us/blog/secure-shadow-ai-at-the-control-plane-with-falcon-for-it/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 01, 2026 00:00:00-0500  
@@ -792,7 +799,7 @@
 
 ---
 
-### 87. [CrowdStrike Named a Leader in 2026 Gartner&reg; Magic Quadrant&trade; for Endpoint Protection for Seventh Consecutive Time](https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-in-2026-gartner-magic-quadrant-for-endpoint-protection/)
+### 88. [CrowdStrike Named a Leader in 2026 Gartner&reg; Magic Quadrant&trade; for Endpoint Protection for Seventh Consecutive Time](https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-in-2026-gartner-magic-quadrant-for-endpoint-protection/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 29, 2026 00:00:00-0500  
@@ -801,7 +808,7 @@
 
 ---
 
-### 88. [Shadow AI: The Hidden Risk Expanding Across the Enterprise](https://www.crowdstrike.com/en-us/blog/shadow-ai-hidden-risk-expanding-across-the-enterprise/)
+### 89. [Shadow AI: The Hidden Risk Expanding Across the Enterprise](https://www.crowdstrike.com/en-us/blog/shadow-ai-hidden-risk-expanding-across-the-enterprise/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 29, 2026 00:00:00-0500  
@@ -810,21 +817,12 @@
 
 ---
 
-### 89. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
+### 90. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
 
 **Source:** Crowdstrike Blog  
 **Published:** May 26, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 90. [Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet](https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/)
-
-**Source:** Crowdstrike Blog  
-**Published:** May 26, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 

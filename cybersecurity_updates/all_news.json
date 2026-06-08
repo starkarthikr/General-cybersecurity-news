@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
+    "link": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html",
+    "published": "Mon, 08 Jun 2026 22:38:44 +0530",
+    "summary": "Meta on Monday said it detected and blocked spear-phishing attempts linked to Israeli spyware vendor NSO Group.\n\nIn addition, the tech giant said it's filing a federal court contempt order against the company for violating a permanent injunction that barred it from targeting WhatsApp and its users.\n\n\"They tried to trick people into clicking on malicious links to drive them to external websites",
+    "analysis": {
+      "issue": "Meta blocked NSO WhatsApp phishing after a $168M Pegasus ruling, exposing injunction violations and user risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
     "link": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html",
     "published": "Mon, 08 Jun 2026 19:47:39 +0530",
@@ -165,20 +183,37 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
-    "link": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
-    "published": "Sat, 06 Jun 2026 13:44:31 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U  multi-protocol file server software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-28318 (CVSS score: 7.5), is a denial-of-service (DoS) bug that causes the service to crash",
+    "source": "Bleeping Computer",
+    "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
+    "published": "Mon, 08 Jun 2026 14:40:53 -0400",
+    "summary": "WhatsApp has detected and stopped spear-phishing campaigns allegedly conducted by the NSO Group after investigating user reports of social engineering attacks. [...]",
     "analysis": {
-      "issue": "CISA added CVE-2026-28318, a high-severity SolarWinds Serv-U DoS flaw, to its KEV catalog after evidence of active exploitation",
+      "issue": "WhatsApp has detected and stopped spear-phishing campaigns allegedly conducted by the NSO Group after investigating user reports of social engineering attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-28318"
-      ],
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Gogs patches critical zero-day enabling remote code execution",
+    "link": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
+    "published": "Mon, 08 Jun 2026 12:18:40 -0400",
+    "summary": "Gogs has patched a critical security zero-day flaw that can allow attackers to compromise Internet-facing instances and access any repositories (including private ones). [...]",
+    "analysis": {
+      "issue": "Gogs has patched a critical security zero-day flaw that can allow attackers to compromise Internet-facing instances and access any repositories (including private ones)",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -197,9 +232,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-34908",
         "CVE-2026-34910",
-        "CVE-2026-34909",
-        "CVE-2026-34908"
+        "CVE-2026-34909"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -342,45 +377,6 @@
       "threat_categories": [
         "Ransomware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
-    "published": "Sat, 06 Jun 2026 10:09:26 -0400",
-    "summary": "Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a WordPress website. [...]",
-    "analysis": {
-      "issue": "Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a WordPress website",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-3300"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Suspicious Polyfill login prompts pop up on Toshiba, Muji websites",
-    "link": "https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/",
-    "published": "Fri, 05 Jun 2026 17:54:42 -0400",
-    "summary": "Tech giant Toshiba and mega-retailer Muji warned visitors that suspicious sign-in screens popping up on their websites could collect credentials. [...]",
-    "analysis": {
-      "issue": "Tech giant Toshiba and mega-retailer Muji warned visitors that suspicious sign-in screens popping up on their websites could collect credentials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -578,6 +574,24 @@
   },
   {
     "source": "Security Week",
+    "title": "A Security Raises $37 Million for Autonomous Offensive Security Platform",
+    "link": "https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/",
+    "published": "Mon, 08 Jun 2026 17:19:38 +0000",
+    "summary": "<p>The company founded by Yossi Torati, Omer Gull, and Yuval Itzchakov has emerged from stealth mode.</p>\n<p>The post <a href=\"https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/\">A Security Raises $37 Million for Autonomous Offensive Security Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company founded by Yossi Torati, Omer Gull, and Yuval Itzchakov has emerged from stealth mode",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Everybody Is Vibe Coding But Nobody Told the Security Team",
     "link": "https://www.securityweek.com/everybody-is-vibe-coding-but-nobody-told-the-security-team/",
     "published": "Mon, 08 Jun 2026 15:30:00 +0000",
@@ -749,24 +763,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse",
-    "link": "https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/",
-    "published": "Mon, 08 Jun 2026 06:41:47 +0000",
-    "summary": "<p>The social media giant has informed authorities about the impact of the recent attack involving an account recovery support tool.</p>\n<p>The post <a href=\"https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/\">Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The social media giant has informed authorities about the impact of the recent attack involving an account recovery support tool",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Reporting from Vegas: Networking, AI, and good boys",
     "link": "https://blog.talosintelligence.com/reporting-from-vegas-networking-ai-and-good-boys/",
@@ -869,10 +865,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-28764",
-        "CVE-2026-25104",
         "CVE-2026-22554",
-        "CVE-2026-25713"
+        "CVE-2026-28764",
+        "CVE-2026-25713",
+        "CVE-2026-25104"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1509,6 +1505,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "CrowdStrike and Zscaler Bring Continuous Identity to Zero Trust Access",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/",
+    "published": "Jun 08, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn how CrowdStrike Falcon Next-Gen Identity Security integrates with Zscaler to deliver real-time risk-based access and Zero Trust protection",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "3 Principles to Safely Scale Agentic AI",
     "link": "https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/",
     "published": "Jun 05, 2026 00:00:00-0500",
@@ -1666,24 +1680,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet",
-    "link": "https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/",
-    "published": "May 26, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn how CrowdStrike’s Counter Adversary Operations team executed a coordinated takedown of the Glassworm botnet, which targeted software developers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   }
