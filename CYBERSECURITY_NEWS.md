@@ -1,10 +1,47 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-08 12:46:03 UTC
+**Last Updated:** 2026-06-08 16:04:20 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances](https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html)
+### 1. [Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups](https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 08 Jun 2026 19:47:39 +0530  
+**Severity:** Critical  
+**CVEs:** CVE-2026-50751  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload](https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 08 Jun 2026 18:49:13 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 3. [⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More](https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 08 Jun 2026 18:48:57 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 4. [The Hardest Fork](https://thehackernews.com/2026/06/the-hardest-fork.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 08 Jun 2026 17:23:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 5. [VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances](https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 08 Jun 2026 15:57:32 +0530  
@@ -13,7 +50,7 @@
 
 ---
 
-### 2. [UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign](https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html)
+### 6. [UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign](https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 08 Jun 2026 13:09:28 +0530  
@@ -22,7 +59,7 @@
 
 ---
 
-### 3. [VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks](https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html)
+### 7. [VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks](https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 08 Jun 2026 11:38:44 +0530  
@@ -31,7 +68,7 @@
 
 ---
 
-### 4. [New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration](https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html)
+### 8. [New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration](https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 06 Jun 2026 19:06:57 +0530  
@@ -40,7 +77,7 @@
 
 ---
 
-### 5. [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html)
+### 9. [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 06 Jun 2026 13:59:05 +0530  
@@ -49,7 +86,7 @@
 
 ---
 
-### 6. [CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog](https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html)
+### 10. [CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog](https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 06 Jun 2026 13:44:31 +0530  
@@ -59,44 +96,36 @@
 
 ---
 
-### 7. [AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs](https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html)
+### 11. [Critical UniFi OS bug lets hackers gain root without authentication](https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 06 Jun 2026 12:58:30 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 08 Jun 2026 11:51:19 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2026-34910, CVE-2026-34909, CVE-2026-34908  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Reducing security operations complexity with Wazuh Cloud](https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 08 Jun 2026 10:01:11 -0400  
 **Severity:** Critical  
-**Categories:** Vulnerability  
+**Categories:** Ransomware, Vulnerability, Supply Chain  
 
 ---
 
-### 8. [Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack](https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html)
+### 13. [Check Point links VPN zero-day attacks to Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 06 Jun 2026 12:28:04 +0530  
-**Severity:** Low  
-**Categories:** Supply Chain  
-
----
-
-### 9. [Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 06 Jun 2026 09:49:28 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-20245  
-**Categories:** Vulnerability  
+**Source:** Bleeping Computer  
+**Published:** Mon, 08 Jun 2026 09:05:16 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-50751  
+**Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 10. [IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks](https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 05 Jun 2026 23:35:30 +0530  
-**Severity:** Low  
-**Categories:** Supply Chain  
-
----
-
-### 11. [Oxford University discloses data breach after careers platform hack](https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/)
+### 14. [Oxford University discloses data breach after careers platform hack](https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 08 Jun 2026 07:14:41 -0400  
@@ -105,7 +134,7 @@
 
 ---
 
-### 12. [Over 20,000 Instagram accounts stolen in Meta AI support hack](https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/)
+### 15. [Over 20,000 Instagram accounts stolen in Meta AI support hack](https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 08 Jun 2026 02:00:27 -0400  
@@ -114,7 +143,7 @@
 
 ---
 
-### 13. [Hands on with Intelligent Terminal, an AI-powered Windows Terminal](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/)
+### 16. [Hands on with Intelligent Terminal, an AI-powered Windows Terminal](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 07 Jun 2026 19:20:02 -0400  
@@ -123,7 +152,7 @@
 
 ---
 
-### 14. [C0XMO botnet spreads via DD-WRT router flaw, kills rival malware](https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/)
+### 17. [C0XMO botnet spreads via DD-WRT router flaw, kills rival malware](https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 07 Jun 2026 10:17:46 -0400  
@@ -133,7 +162,7 @@
 
 ---
 
-### 15. [Silent Ransom Group targets law firms with fake IT support calls](https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/)
+### 18. [Silent Ransom Group targets law firms with fake IT support calls](https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 07 Jun 2026 10:09:19 -0400  
@@ -142,7 +171,7 @@
 
 ---
 
-### 16. [Critical Everest Forms Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/)
+### 19. [Critical Everest Forms Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 06 Jun 2026 10:09:26 -0400  
@@ -152,38 +181,10 @@
 
 ---
 
-### 17. [Suspicious Polyfill login prompts pop up on Toshiba, Muji websites](https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/)
+### 20. [Suspicious Polyfill login prompts pop up on Toshiba, Muji websites](https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 05 Jun 2026 17:54:42 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 18. [CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 05 Jun 2026 15:15:30 -0400  
-**Severity:** High  
-**CVEs:** CVE-2026-28318  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Chinese APT deploys new malware to keep access to hacked networks](https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 05 Jun 2026 14:09:47 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware, APT  
-
----
-
-### 20. [Dark web Nemesis Market vendor gets 26 years for selling drugs](https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 05 Jun 2026 13:50:58 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -280,7 +281,25 @@
 
 ---
 
-### 31. [Cybersecurity M&A Roundup: 26 Deals Announced in May 2026](https://www.securityweek.com/cybersecurity-ma-roundup-26-deals-announced-in-may-2026/)
+### 31. [Everybody Is Vibe Coding But Nobody Told the Security Team](https://www.securityweek.com/everybody-is-vibe-coding-but-nobody-told-the-security-team/)
+
+**Source:** Security Week  
+**Published:** Mon, 08 Jun 2026 15:30:00 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 32. [WhatsApp Catches Spyware Firm NSO Defying No-Hacking Court Order](https://www.securityweek.com/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order/)
+
+**Source:** Security Week  
+**Published:** Mon, 08 Jun 2026 13:23:03 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 33. [Cybersecurity M&A Roundup: 26 Deals Announced in May 2026](https://www.securityweek.com/cybersecurity-ma-roundup-26-deals-announced-in-may-2026/)
 
 **Source:** Security Week  
 **Published:** Mon, 08 Jun 2026 12:38:45 +0000  
@@ -289,7 +308,7 @@
 
 ---
 
-### 32. [Everest Forms Vulnerability Exploited to Hack WordPress Sites](https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/)
+### 34. [Everest Forms Vulnerability Exploited to Hack WordPress Sites](https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/)
 
 **Source:** Security Week  
 **Published:** Mon, 08 Jun 2026 12:16:09 +0000  
@@ -299,7 +318,7 @@
 
 ---
 
-### 33. [174,000 Impacted by Lansing Community College Data Breach](https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/)
+### 35. [174,000 Impacted by Lansing Community College Data Breach](https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/)
 
 **Source:** Security Week  
 **Published:** Mon, 08 Jun 2026 11:27:00 +0000  
@@ -308,7 +327,7 @@
 
 ---
 
-### 34. [Silent Ransom Group Uses DNS Fast Flux in Attacks](https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/)
+### 36. [Silent Ransom Group Uses DNS Fast Flux in Attacks](https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/)
 
 **Source:** Security Week  
 **Published:** Mon, 08 Jun 2026 10:31:39 +0000  
@@ -317,7 +336,7 @@
 
 ---
 
-### 35. [OpenAI Rolling Out ChatGPT Account Security Controls](https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/)
+### 37. [OpenAI Rolling Out ChatGPT Account Security Controls](https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/)
 
 **Source:** Security Week  
 **Published:** Mon, 08 Jun 2026 08:32:49 +0000  
@@ -326,7 +345,7 @@
 
 ---
 
-### 36. [Anthropic Urges Industry Coordination to Allow for a ‘Pause’ in AI Development if Risks Grow](https://www.securityweek.com/anthropic-urges-industry-coordination-to-allow-for-a-pause-in-ai-development-if-risks-grow/)
+### 38. [Anthropic Urges Industry Coordination to Allow for a ‘Pause’ in AI Development if Risks Grow](https://www.securityweek.com/anthropic-urges-industry-coordination-to-allow-for-a-pause-in-ai-development-if-risks-grow/)
 
 **Source:** Security Week  
 **Published:** Mon, 08 Jun 2026 08:00:00 +0000  
@@ -335,7 +354,7 @@
 
 ---
 
-### 37. [SolarWinds Serv-U Vulnerability Exploited in the Wild](https://www.securityweek.com/solarwinds-patches-exploited-serv-u-vulnerability/)
+### 39. [SolarWinds Serv-U Vulnerability Exploited in the Wild](https://www.securityweek.com/solarwinds-patches-exploited-serv-u-vulnerability/)
 
 **Source:** Security Week  
 **Published:** Mon, 08 Jun 2026 07:52:28 +0000  
@@ -345,30 +364,12 @@
 
 ---
 
-### 38. [Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse](https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/)
+### 40. [Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse](https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/)
 
 **Source:** Security Week  
 **Published:** Mon, 08 Jun 2026 06:41:47 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 39. [Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation](https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/)
-
-**Source:** Security Week  
-**Published:** Sun, 07 Jun 2026 11:30:00 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 40. [Opal Security Raises $23 Million for AI-Native Identity Governance](https://www.securityweek.com/opal-security-raises-23-million-for-ai-native-identity-governance/)
-
-**Source:** Security Week  
-**Published:** Sat, 06 Jun 2026 10:15:00 +0000  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -422,7 +423,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25713, CVE-2026-28764, CVE-2026-22554, CVE-2026-25104  
+**CVEs:** CVE-2026-28764, CVE-2026-25104, CVE-2026-22554, CVE-2026-25713  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -450,7 +451,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30814, CVE-2026-30816, CVE-2026-30815  
+**CVEs:** CVE-2026-30815, CVE-2026-30814, CVE-2026-30816  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -464,7 +465,14 @@
 
 ---
 
-### 51. [Why Holistic Sourcing Wins: The Numbers Behind the Recorded Future Advantage](https://www.recordedfuture.com/blog/recorded-future-holistic-sourcing-wins)
+### 51. [May 2026 CVE Landscape](https://www.recordedfuture.com/blog/may-2026-cve-landscape)
+
+**Source:** Recorded Future  
+**Published:** Mon, 08 Jun 2026 00:00:00 GMT  
+
+---
+
+### 52. [Why Holistic Sourcing Wins: The Numbers Behind the Recorded Future Advantage](https://www.recordedfuture.com/blog/recorded-future-holistic-sourcing-wins)
 
 **Source:** Recorded Future  
 **Published:** Fri, 05 Jun 2026 00:00:00 GMT  
@@ -473,7 +481,7 @@
 
 ---
 
-### 52. [Threats to the 2026 FIFA World Cup](https://www.recordedfuture.com/research/2026-fifa-world-cup-threats)
+### 53. [Threats to the 2026 FIFA World Cup](https://www.recordedfuture.com/research/2026-fifa-world-cup-threats)
 
 **Source:** Recorded Future  
 **Published:** Thu, 04 Jun 2026 00:00:00 GMT  
@@ -482,7 +490,7 @@
 
 ---
 
-### 53. [Remembering Sir Alex Younger](https://www.recordedfuture.com/blog/remembering-sir-alex-younger)
+### 54. [Remembering Sir Alex Younger](https://www.recordedfuture.com/blog/remembering-sir-alex-younger)
 
 **Source:** Recorded Future  
 **Published:** Thu, 04 Jun 2026 00:00:00 GMT  
@@ -491,7 +499,7 @@
 
 ---
 
-### 54. [Iran Expands Handala Brand to Physical Threats](https://www.recordedfuture.com/research/iran-handala-physical-threats)
+### 55. [Iran Expands Handala Brand to Physical Threats](https://www.recordedfuture.com/research/iran-handala-physical-threats)
 
 **Source:** Recorded Future  
 **Published:** Tue, 02 Jun 2026 00:00:00 GMT  
@@ -500,7 +508,7 @@
 
 ---
 
-### 55. [The Vulnerability Flood Is Now a Board Conversation. Here's How to Lead It.](https://www.recordedfuture.com/blog/vulnerability-board-conversation)
+### 56. [The Vulnerability Flood Is Now a Board Conversation. Here's How to Lead It.](https://www.recordedfuture.com/blog/vulnerability-board-conversation)
 
 **Source:** Recorded Future  
 **Published:** Thu, 21 May 2026 00:00:00 GMT  
@@ -509,7 +517,7 @@
 
 ---
 
-### 56. [At Mythos Speed: A Defender's Playbook for the AI Vulnerability Surge in 2026](https://www.recordedfuture.com/blog/ai-vulnerability-playbook)
+### 57. [At Mythos Speed: A Defender's Playbook for the AI Vulnerability Surge in 2026](https://www.recordedfuture.com/blog/ai-vulnerability-playbook)
 
 **Source:** Recorded Future  
 **Published:** Tue, 19 May 2026 00:00:00 GMT  
@@ -518,7 +526,7 @@
 
 ---
 
-### 57. [April 2026 CVE Landscape](https://www.recordedfuture.com/blog/april-cve-landscape)
+### 58. [April 2026 CVE Landscape](https://www.recordedfuture.com/blog/april-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Fri, 15 May 2026 00:00:00 GMT  
@@ -527,7 +535,7 @@
 
 ---
 
-### 58. [NIST NVD Enrichment Policy Change: Prioritizing Vulnerabilities with Attacker Behavior Signals](https://www.recordedfuture.com/blog/nist-nvd-enrichment)
+### 59. [NIST NVD Enrichment Policy Change: Prioritizing Vulnerabilities with Attacker Behavior Signals](https://www.recordedfuture.com/blog/nist-nvd-enrichment)
 
 **Source:** Recorded Future  
 **Published:** Thu, 14 May 2026 00:00:00 GMT  
@@ -536,19 +544,10 @@
 
 ---
 
-### 59. [Beyond Acceleration and Automation: How AI + Intelligence Changes Cyber Defense](https://www.recordedfuture.com/blog/ai-intelligence-cyber-defense)
+### 60. [Beyond Acceleration and Automation: How AI + Intelligence Changes Cyber Defense](https://www.recordedfuture.com/blog/ai-intelligence-cyber-defense)
 
 **Source:** Recorded Future  
 **Published:** Thu, 14 May 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 60. [Working in London at the World’s Largest Intelligence Company](https://www.recordedfuture.com/blog/working-for-recorded-future-london)
-
-**Source:** Recorded Future  
-**Published:** Fri, 08 May 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -649,7 +648,16 @@
 
 ---
 
-### 71. [Pirated PC games are delivering password-stealing malware](https://www.malwarebytes.com/blog/threat-intel/2026/06/pirated-pc-games-are-delivering-password-stealing-malware)
+### 71. [Americans lost nearly $900 million to AI-powered scams, FBI says](https://www.malwarebytes.com/blog/scams/2026/06/americans-lost-nearly-900-million-to-ai-powered-scams-fbi-says)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 08 Jun 2026 15:02:13 GMT  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 72. [Pirated PC games are delivering password-stealing malware](https://www.malwarebytes.com/blog/threat-intel/2026/06/pirated-pc-games-are-delivering-password-stealing-malware)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 08 Jun 2026 10:53:06 GMT  
@@ -658,7 +666,7 @@
 
 ---
 
-### 72. [A week in security (June 1 &#8211; June 7)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-1-june-7-2)
+### 73. [A week in security (June 1 &#8211; June 7)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-1-june-7-2)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 08 Jun 2026 07:07:07 GMT  
@@ -667,7 +675,7 @@
 
 ---
 
-### 73. [AI: Threat, tool, or both?](https://www.malwarebytes.com/blog/ai/2026/06/ai-threat-tool-or-both)
+### 74. [AI: Threat, tool, or both?](https://www.malwarebytes.com/blog/ai/2026/06/ai-threat-tool-or-both)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 05 Jun 2026 08:56:57 GMT  
@@ -676,7 +684,7 @@
 
 ---
 
-### 74. [Travel scams are everywhere. Here&#8217;s how to avoid them](https://www.malwarebytes.com/blog/scams/2026/06/travel-scams-are-everywhere-heres-how-to-avoid-them)
+### 75. [Travel scams are everywhere. Here&#8217;s how to avoid them](https://www.malwarebytes.com/blog/scams/2026/06/travel-scams-are-everywhere-heres-how-to-avoid-them)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 04 Jun 2026 11:28:12 GMT  
@@ -685,7 +693,7 @@
 
 ---
 
-### 75. [Meta&#8217;s AI support bot happily handed Instagram accounts to hackers](https://www.malwarebytes.com/blog/ai/2026/06/metas-ai-support-bot-happily-handed-instagram-accounts-to-hackers)
+### 76. [Meta&#8217;s AI support bot happily handed Instagram accounts to hackers](https://www.malwarebytes.com/blog/ai/2026/06/metas-ai-support-bot-happily-handed-instagram-accounts-to-hackers)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 04 Jun 2026 09:09:09 GMT  
@@ -694,7 +702,7 @@
 
 ---
 
-### 76. [We found this fake-invoice campaign while scammers were still building it](https://www.malwarebytes.com/blog/threat-intel/2026/06/we-found-this-fake-invoice-campaign-while-scammers-were-still-building-it)
+### 77. [We found this fake-invoice campaign while scammers were still building it](https://www.malwarebytes.com/blog/threat-intel/2026/06/we-found-this-fake-invoice-campaign-while-scammers-were-still-building-it)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 03 Jun 2026 18:05:19 GMT  
@@ -703,7 +711,7 @@
 
 ---
 
-### 77. [Keep getting calls from questionable numbers? Meet Scam Number Check](https://www.malwarebytes.com/blog/product/2026/06/keep-getting-calls-from-questionable-numbers-meet-scam-number-check)
+### 78. [Keep getting calls from questionable numbers? Meet Scam Number Check](https://www.malwarebytes.com/blog/product/2026/06/keep-getting-calls-from-questionable-numbers-meet-scam-number-check)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 03 Jun 2026 12:16:04 GMT  
@@ -712,7 +720,7 @@
 
 ---
 
-### 78. [Infostealers are becoming the go-to phishing payload](https://www.malwarebytes.com/blog/threat-intel/2026/06/infostealers-are-becoming-the-go-to-phishing-payload)
+### 79. [Infostealers are becoming the go-to phishing payload](https://www.malwarebytes.com/blog/threat-intel/2026/06/infostealers-are-becoming-the-go-to-phishing-payload)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 03 Jun 2026 08:59:47 GMT  
@@ -721,21 +729,12 @@
 
 ---
 
-### 79. [These convincing copyright notices are designed to steal Google logins](https://www.malwarebytes.com/blog/threat-intel/2026/06/these-convincing-copyright-notices-are-designed-to-steal-google-logins)
+### 80. [These convincing copyright notices are designed to steal Google logins](https://www.malwarebytes.com/blog/threat-intel/2026/06/these-convincing-copyright-notices-are-designed-to-steal-google-logins)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 02 Jun 2026 18:24:07 GMT  
 **Severity:** Low  
 **Categories:** Phishing, Supply Chain  
-
----
-
-### 80. [23andMe exposed genetic information of millions, lawsuit says](https://www.malwarebytes.com/blog/data-breaches/2026/06/23andme-exposed-genetic-information-of-millions-lawsuit-says)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 02 Jun 2026 09:53:19 GMT  
-**Severity:** Critical  
-**Categories:** Data Breach  
 
 ---
 

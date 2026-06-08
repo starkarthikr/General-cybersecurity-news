@@ -1,6 +1,81 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
+    "link": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html",
+    "published": "Mon, 08 Jun 2026 19:47:39 +0530",
+    "summary": "Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key exchange protocol.\n\nThe vulnerability, tracked as CVE-2026-50751 (CVSS score: 9.3), is a case of a logic flow weakness in certificate validation that allows an unauthenticated remote attacker to bypass user",
+    "analysis": {
+      "issue": "Critical Check Point VPN flaw CVE-2026-50751 is being exploited to bypass passwords in IKEv1 Remote Access setups",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-50751"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
+    "link": "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html",
+    "published": "Mon, 08 Jun 2026 18:49:13 +0530",
+    "summary": "Phishing has always been a numbers game. AI has turned it into a volume machine.\n\nAttackers can now create convincing emails, fake login pages, and tailored lures in minutes. Every polished message adds another case for Tier 1 to review, another link to inspect, and another alert that cannot be dismissed at a glance.\n\nAs the queue grows, a credential theft attempt or malware delivery can easily",
+    "analysis": {
+      "issue": "AI phishing overloads Tier 1 SOCs; ANY",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",
+    "link": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html",
+    "published": "Mon, 08 Jun 2026 18:48:57 +0530",
+    "summary": "Monday again. The weekend was meant to be quiet. It wasn't. Last week had poisoned packages, a broken AI helper, and a worm tearing through repos. The ugly part: basic tricks still worked.\n\nA chatbot got fooled. A bot token got leaked inside the malware. The same old mistakes showed up again. And while everyone chased the loud stuff, quieter attackers sat in inboxes for months, reading mail and",
+    "analysis": {
+      "issue": "Your weekly cybersecurity recap: a GitHub supply chain worm, an exploited Android flaw, Instagram account takeovers, and a five-month mailbox spy",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "The Hardest Fork",
+    "link": "https://thehackernews.com/2026/06/the-hardest-fork.html",
+    "published": "Mon, 08 Jun 2026 17:23:00 +0530",
+    "summary": "Mythos is real. I know a big chunk of the industry thinks it's a marketing stunt, and I get why. I get it. But I've seen the findings, and they're bad. These aren't \"whoops, this line right here is wrong, and that's RCE.\" They're novel combinations of a few dozen issues out of thousands of things every SAST scanner already finds, chained together into something much worse. It's real creativity,",
+    "analysis": {
+      "issue": "AI vulnerability chaining overwhelms open source disclosure; 6% upstreamed, forcing trusted forks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances",
     "link": "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html",
     "published": "Mon, 08 Jun 2026 15:57:32 +0530",
@@ -110,55 +185,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
-    "link": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
-    "published": "Sat, 06 Jun 2026 12:58:30 +0530",
-    "summary": "Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all of them found by an autonomous AI agent.\n\nThe same week, Google shipped Chrome 149 with patches for 429 security bugs, the most ever in a single release.\n\nOnly the FFmpeg bugs were found by AI.",
+    "source": "Bleeping Computer",
+    "title": "Critical UniFi OS bug lets hackers gain root without authentication",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/",
+    "published": "Mon, 08 Jun 2026 11:51:19 -0400",
+    "summary": "Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authentication. [...]",
     "analysis": {
-      "issue": "AI found 21 FFmpeg zero-days, some 20 years old; Chrome 149 patched 429 bugs, including 100+ critical/high flaws",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
-    "link": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
-    "published": "Sat, 06 Jun 2026 12:28:04 +0530",
-    "summary": "Microsoft's GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign.\n\nThe incident impacted 73 Microsoft repositories across four of its GitHub organizations, including Azure, Azure-Samples, Microsoft, and MicrosoftDocs, per OpenSourceMalware. The development has GitHub to disable access to those repositories.\n\n\"Access to this",
-    "analysis": {
-      "issue": "Miasma hit 73 Microsoft repos across four GitHub orgs, forcing access disablement and exposing open-source trust risks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available",
-    "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html",
-    "published": "Sat, 06 Jun 2026 09:49:28 +0530",
-    "summary": "Cisco has warned that a high-severity security flaw impacting Catalyst SD-WAN Manager has come under active exploitation.\n\nThe vulnerability, tracked as CVE-2026-20245, carries a CVSS score of 7.8 out of a maximum of 10.0. It affects the following deployment types -\n\n\n  On-Prem Deployment\n  Cisco SD-WAN Cloud-Pro\n  Cisco SD-WAN Cloud (Cisco Managed)\n  Cisco SD-WAN for Government (FedRAMP)\n\n\"A",
-    "analysis": {
-      "issue": "Cisco Catalyst SD-WAN Manager vulnerability CVE-2026-20245 is under active exploitation and has a CVSS score of 7",
+      "issue": "Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authentication",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-20245"
+        "CVE-2026-34910",
+        "CVE-2026-34909",
+        "CVE-2026-34908"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -166,20 +207,43 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
-    "link": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
-    "published": "Fri, 05 Jun 2026 23:35:30 +0530",
-    "summary": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-spreading worm, respectively.\n\nAccording to JFrog, the information stealer \"scrapes every secret it can find on a developer's machine, hides behind an eBPF kernel rootkit, and",
+    "source": "Bleeping Computer",
+    "title": "Reducing security operations complexity with Wazuh Cloud",
+    "link": "https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/",
+    "published": "Mon, 08 Jun 2026 10:01:11 -0400",
+    "summary": "Security teams are increasingly overwhelmed by alert fatigue, infrastructure maintenance, and complex hybrid environments. This article explores how Wazuh Cloud helps simplify SIEM/XDR operations through managed infrastructure, automated scaling, and AI-driven security analysis. [...]",
     "analysis": {
-      "issue": "Multiple npm supply chain attacks used 50+ poisoned packages to spread IronWorm, a Rust-based stealer, and a Miasma worm variant",
+      "issue": "Security teams today manage increasingly complex environments in which threats such as ransomware, advanced persistent threats, and supply chain attacks evolve rapidly",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Check Point links VPN zero-day attacks to Qilin ransomware gang",
+    "link": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/",
+    "published": "Mon, 08 Jun 2026 09:05:16 -0400",
+    "summary": "Israeli cybersecurity company Check Point has released security updates to patch a critical flaw affecting Remote Access VPN and Mobile Access deployments, which was exploited in zero-day attacks. [...]",
+    "analysis": {
+      "issue": "Israeli cybersecurity company Check Point has released security updates to patch a critical flaw affecting Remote Access VPN and Mobile Access deployments, which was exploited in zero-day attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-50751"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
       ]
     }
   },
@@ -310,64 +374,6 @@
     "summary": "Tech giant Toshiba and mega-retailer Muji warned visitors that suspicious sign-in screens popping up on their websites could collect credentials. [...]",
     "analysis": {
       "issue": "Tech giant Toshiba and mega-retailer Muji warned visitors that suspicious sign-in screens popping up on their websites could collect credentials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
-    "published": "Fri, 05 Jun 2026 15:15:30 -0400",
-    "summary": "CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-28318"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Chinese APT deploys new malware to keep access to hacked networks",
-    "link": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
-    "published": "Fri, 05 Jun 2026 14:09:47 -0400",
-    "summary": "A Chinese espionage group tracked as UNC5221 has been accessing Microsoft 365 environments using the Brickstorm backdoor and previously undocumented malware named Plenet and AgentPSD. [...]",
-    "analysis": {
-      "issue": "A Chinese espionage group tracked as UNC5221 has been accessing Microsoft 365 environments using the Brickstorm backdoor and previously undocumented malware named Plenet and AgentPSD",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Dark web Nemesis Market vendor gets 26 years for selling drugs",
-    "link": "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/",
-    "published": "Fri, 05 Jun 2026 13:50:58 -0400",
-    "summary": "A California man was sentenced to more than 26 years in federal prison for trafficking fentanyl and methamphetamine through Nemesis Market, one of the world's largest dark web marketplaces. [...]",
-    "analysis": {
-      "issue": "A California man was sentenced to more than 26 years in federal prison for trafficking fentanyl and methamphetamine through Nemesis Market, one of the world's largest dark web marketplaces",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -572,6 +578,44 @@
   },
   {
     "source": "Security Week",
+    "title": "Everybody Is Vibe Coding But Nobody Told the Security Team",
+    "link": "https://www.securityweek.com/everybody-is-vibe-coding-but-nobody-told-the-security-team/",
+    "published": "Mon, 08 Jun 2026 15:30:00 +0000",
+    "summary": "<p>AI-driven development is not something organizations can or should block. But it must be governed.</p>\n<p>The post <a href=\"https://www.securityweek.com/everybody-is-vibe-coding-but-nobody-told-the-security-team/\">Everybody Is Vibe Coding But Nobody Told the Security Team</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "AI-driven development is not something organizations can or should block",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "WhatsApp Catches Spyware Firm NSO Defying No-Hacking Court Order",
+    "link": "https://www.securityweek.com/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order/",
+    "published": "Mon, 08 Jun 2026 13:23:03 +0000",
+    "summary": "<p>The Meta-owned communications app is filing a federal court contempt order against NSO.</p>\n<p>The post <a href=\"https://www.securityweek.com/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order/\">WhatsApp Catches Spyware Firm NSO Defying No-Hacking Court Order</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Meta-owned communications app is filing a federal court contempt order against NSO",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Cybersecurity M&A Roundup: 26 Deals Announced in May 2026",
     "link": "https://www.securityweek.com/cybersecurity-ma-roundup-26-deals-announced-in-may-2026/",
     "published": "Mon, 08 Jun 2026 12:38:45 +0000",
@@ -723,42 +767,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation",
-    "link": "https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/",
-    "published": "Sun, 07 Jun 2026 11:30:00 +0000",
-    "summary": "<p>Emphere’s solution delivers AI-driven remediation to software companies to speed up releases.</p>\n<p>The post <a href=\"https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/\">Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Emphere’s solution delivers AI-driven remediation to software companies to speed up releases",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Opal Security Raises $23 Million for AI-Native Identity Governance",
-    "link": "https://www.securityweek.com/opal-security-raises-23-million-for-ai-native-identity-governance/",
-    "published": "Sat, 06 Jun 2026 10:15:00 +0000",
-    "summary": "<p>Raising $59 million to date, Opal also announced five senior leadership appointments.</p>\n<p>The post <a href=\"https://www.securityweek.com/opal-security-raises-23-million-for-ai-native-identity-governance/\">Opal Security Raises $23 Million for AI-Native Identity Governance</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Raising $59 million to date, Opal also announced five senior leadership appointments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Reporting from Vegas: Networking, AI, and good boys",
     "link": "https://blog.talosintelligence.com/reporting-from-vegas-networking-ai-and-good-boys/",
@@ -861,10 +869,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25713",
         "CVE-2026-28764",
+        "CVE-2026-25104",
         "CVE-2026-22554",
-        "CVE-2026-25104"
+        "CVE-2026-25713"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -921,9 +929,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-30815",
         "CVE-2026-30814",
-        "CVE-2026-30816",
-        "CVE-2026-30815"
+        "CVE-2026-30816"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -948,6 +956,13 @@
         "Malware"
       ]
     }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "May 2026 CVE Landscape",
+    "link": "https://www.recordedfuture.com/blog/may-2026-cve-landscape",
+    "published": "Mon, 08 Jun 2026 00:00:00 GMT",
+    "summary": "In May 2026, Insikt Group® identified 41 high-impact vulnerabilities that should be prioritized for remediation, all of which had a Very Critical Recorded Future Risk Score. This represents a 11% increase from last month."
   },
   {
     "source": "Recorded Future",
@@ -1101,24 +1116,6 @@
     "summary": "The real question in modern cyber defense isn't who has more technology. It's who uses their resources more efficiently. Here's how AI fused with threat intelligence tips that balance.",
     "analysis": {
       "issue": "The real question in modern cyber defense isn't who has more technology",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Working in London at the World’s Largest Intelligence Company",
-    "link": "https://www.recordedfuture.com/blog/working-for-recorded-future-london",
-    "published": "Fri, 08 May 2026 00:00:00 GMT",
-    "summary": "See what it is like to work at the Recorded Future London office.",
-    "analysis": {
-      "issue": "See what it is like to work at the Recorded Future London office",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1327,6 +1324,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Americans lost nearly $900 million to AI-powered scams, FBI says",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/06/americans-lost-nearly-900-million-to-ai-powered-scams-fbi-says",
+    "published": "Mon, 08 Jun 2026 15:02:13 GMT",
+    "summary": "Deepfakes, voice cloning, and other AI-powered scams cost Americans nearly $900 million in 2025, says the 2025 FBI Internet Crime Report.",
+    "analysis": {
+      "issue": "The 2025 Federal Bureau of Investigation (FBI) Internet Crime Report shows that Americans reported $893,346,472 in AI‑related scam losses",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Pirated PC games are delivering password-stealing malware",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/06/pirated-pc-games-are-delivering-password-stealing-malware",
     "published": "Mon, 08 Jun 2026 10:53:06 GMT",
@@ -1489,24 +1504,6 @@
       "threat_categories": [
         "Phishing",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "23andMe exposed genetic information of millions, lawsuit says",
-    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/06/23andme-exposed-genetic-information-of-millions-lawsuit-says",
-    "published": "Tue, 02 Jun 2026 09:53:19 GMT",
-    "summary": "What began with stolen passwords ended with the exposure of nearly seven million users' DNA-related data, according to California's lawsuit.",
-    "analysis": {
-      "issue": "California has sued the former shell of DNA testing company 23andMe over alleged security failures and misleading statements surrounding its 2023 data breach",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
       ]
     }
   },
