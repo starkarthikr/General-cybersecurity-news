@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
+    "link": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
+    "published": "Tue, 09 Jun 2026 01:47:39 +0530",
+    "summary": "Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container.\n\nThe flaw, CVE-2026-23111, sits in the kernel's nf_tables packet-filtering code and was patched upstream on February 5, 2026. Exodus Intelligence released its full technical walkthrough on June 8, and it is not even",
+    "analysis": {
+      "issue": "CVE-2026-23111 is a Linux kernel nf_tables use-after-free that lets an unprivileged local user escalate to root and escape a container",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-23111"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
     "link": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html",
     "published": "Mon, 08 Jun 2026 22:38:44 +0530",
@@ -165,13 +185,52 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
-    "link": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html",
-    "published": "Sat, 06 Jun 2026 13:59:05 +0530",
-    "summary": "A researcher has reverse-engineered the iOS SDK that Bright Data embeds in consumer apps and documented how it turns devices, including always-on smart TVs, into exit nodes that relay web-scraping traffic for a data business Bright Data markets heavily to the AI industry.\n\nThe company, the successor to Luminati, operates what it calls the largest residential proxy network in the world,",
+    "source": "Bleeping Computer",
+    "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
+    "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
+    "published": "Mon, 08 Jun 2026 18:11:58 -0400",
+    "summary": "New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
     "analysis": {
-      "issue": "Bright Data SDK relays scraping via 150M+ consent-sourced IPs, bypassing VPNs and using up to 200GB/month bandwidth",
+      "issue": "New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
+    "link": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
+    "published": "Mon, 08 Jun 2026 17:55:46 -0400",
+    "summary": "SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information. [...]",
+    "analysis": {
+      "issue": "SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New Apple feature automatically changes your compromised passwords",
+    "link": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
+    "published": "Mon, 08 Jun 2026 17:03:40 -0400",
+    "summary": "At WWDC 26, Apple announced an Apple Intelligence-powered feature that can automatically fix weak and compromised passwords. This works in Safari, and it's rolling out with iOS 27. [...]",
+    "analysis": {
+      "issue": "At WWDC 2026, Apple announced an Apple Intelligence-powered feature that can automatically fix weak and compromised passwords",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -179,6 +238,24 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
+    "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
+    "published": "Mon, 08 Jun 2026 16:41:35 -0400",
+    "summary": "Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that delivered malware designed to steal developer secrets. [...]",
+    "analysis": {
+      "issue": "Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that delivered malware designed to steal developer secrets",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -299,84 +376,6 @@
         "Data Breach",
         "Phishing",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
-    "link": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
-    "published": "Mon, 08 Jun 2026 02:00:27 -0400",
-    "summary": "Meta has revealed that 20,225 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
-    "analysis": {
-      "issue": "Meta has revealed that 20,225 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
-    "published": "Sun, 07 Jun 2026 19:20:02 -0400",
-    "summary": "Microsoft has created an open-source fork of Windows Terminal called \"Intelligent Terminal,\" and it allows you to use AI directly inside Terminal without interfering with the regular session. [...]",
-    "analysis": {
-      "issue": "Microsoft has created an open-source fork of Windows Terminal called \"Intelligent Terminal,\" and it allows you to use AI directly inside Terminal without interfering with the regular session",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
-    "link": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
-    "published": "Sun, 07 Jun 2026 10:17:46 -0400",
-    "summary": "A new variant of the Gafgyt botnet called C0XMO is targeting DD-WRT router firmware and can move to other device types with various CPU architectures. [...]",
-    "analysis": {
-      "issue": "A new variant of the Gafgyt botnet called C0XMO is targeting DD-WRT router firmware and can move to other device types with various CPU architectures",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2021-27137"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Silent Ransom Group targets law firms with fake IT support calls",
-    "link": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
-    "published": "Sun, 07 Jun 2026 10:09:19 -0400",
-    "summary": "The Silent Ransom Group extortion gang is actively targeting U.S. law firms and professional services organizations in social engineering attacks that often lead to data theft within hours of initial contact, according to a new report by cybersecurity firm Mandiant. [...]",
-    "analysis": {
-      "issue": "The Silent Ransom Group extortion gang is actively targeting U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing"
       ]
     }
   },
@@ -563,8 +562,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-32201",
-        "CVE-2026-34621",
-        "CVE-2026-33825"
+        "CVE-2026-33825",
+        "CVE-2026-34621"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -865,10 +864,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-22554",
         "CVE-2026-28764",
-        "CVE-2026-25713",
-        "CVE-2026-25104"
+        "CVE-2026-25104",
+        "CVE-2026-22554",
+        "CVE-2026-25713"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -925,9 +924,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-30816",
         "CVE-2026-30815",
-        "CVE-2026-30814",
-        "CVE-2026-30816"
+        "CVE-2026-30814"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1289,8 +1288,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-08 18:42:06 UTC
+**Last Updated:** 2026-06-09 04:03:41 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order](https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html)
+### 1. [One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public](https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 09 Jun 2026 01:47:39 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-23111  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order](https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 08 Jun 2026 22:38:44 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups](https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html)
+### 3. [Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups](https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 08 Jun 2026 19:47:39 +0530  
@@ -23,7 +33,7 @@
 
 ---
 
-### 3. [AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload](https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html)
+### 4. [AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload](https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 08 Jun 2026 18:49:13 +0530  
@@ -32,7 +42,7 @@
 
 ---
 
-### 4. [⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More](https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html)
+### 5. [⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More](https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 08 Jun 2026 18:48:57 +0530  
@@ -41,7 +51,7 @@
 
 ---
 
-### 5. [The Hardest Fork](https://thehackernews.com/2026/06/the-hardest-fork.html)
+### 6. [The Hardest Fork](https://thehackernews.com/2026/06/the-hardest-fork.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 08 Jun 2026 17:23:00 +0530  
@@ -50,7 +60,7 @@
 
 ---
 
-### 6. [VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances](https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html)
+### 7. [VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances](https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 08 Jun 2026 15:57:32 +0530  
@@ -59,7 +69,7 @@
 
 ---
 
-### 7. [UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign](https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html)
+### 8. [UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign](https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 08 Jun 2026 13:09:28 +0530  
@@ -68,7 +78,7 @@
 
 ---
 
-### 8. [VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks](https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html)
+### 9. [VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks](https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 08 Jun 2026 11:38:44 +0530  
@@ -77,7 +87,7 @@
 
 ---
 
-### 9. [New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration](https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html)
+### 10. [New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration](https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 06 Jun 2026 19:06:57 +0530  
@@ -86,16 +96,43 @@
 
 ---
 
-### 10. [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html)
+### 11. [NFCShare Android malware spreads via fake banking app updates on GitHub](https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 06 Jun 2026 13:59:05 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 08 Jun 2026 18:11:58 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware, Phishing  
+
+---
+
+### 12. [SoFi confirms third-party data breach at Hong Kong subsidiary](https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 08 Jun 2026 17:55:46 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
+
+---
+
+### 13. [New Apple feature automatically changes your compromised passwords](https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 08 Jun 2026 17:03:40 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [WhatsApp says it disrupted new NSO spyware phishing attacks](https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/)
+### 14. [New Shai-Hulud attack trojanizes 19 science-focused PyPI packages](https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 08 Jun 2026 16:41:35 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 15. [WhatsApp says it disrupted new NSO spyware phishing attacks](https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 08 Jun 2026 14:40:53 -0400  
@@ -104,7 +141,7 @@
 
 ---
 
-### 12. [Gogs patches critical zero-day enabling remote code execution](https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/)
+### 16. [Gogs patches critical zero-day enabling remote code execution](https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 08 Jun 2026 12:18:40 -0400  
@@ -113,7 +150,7 @@
 
 ---
 
-### 13. [Critical UniFi OS bug lets hackers gain root without authentication](https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/)
+### 17. [Critical UniFi OS bug lets hackers gain root without authentication](https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 08 Jun 2026 11:51:19 -0400  
@@ -123,7 +160,7 @@
 
 ---
 
-### 14. [Reducing security operations complexity with Wazuh Cloud](https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/)
+### 18. [Reducing security operations complexity with Wazuh Cloud](https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 08 Jun 2026 10:01:11 -0400  
@@ -132,7 +169,7 @@
 
 ---
 
-### 15. [Check Point links VPN zero-day attacks to Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/)
+### 19. [Check Point links VPN zero-day attacks to Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 08 Jun 2026 09:05:16 -0400  
@@ -142,49 +179,12 @@
 
 ---
 
-### 16. [Oxford University discloses data breach after careers platform hack](https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/)
+### 20. [Oxford University discloses data breach after careers platform hack](https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 08 Jun 2026 07:14:41 -0400  
 **Severity:** Low  
 **Categories:** Data Breach, Phishing, Supply Chain  
-
----
-
-### 17. [Over 20,000 Instagram accounts stolen in Meta AI support hack](https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 08 Jun 2026 02:00:27 -0400  
-**Severity:** High  
-**Categories:** Data Breach, Vulnerability  
-
----
-
-### 18. [Hands on with Intelligent Terminal, an AI-powered Windows Terminal](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 07 Jun 2026 19:20:02 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 19. [C0XMO botnet spreads via DD-WRT router flaw, kills rival malware](https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 07 Jun 2026 10:17:46 -0400  
-**Severity:** High  
-**CVEs:** CVE-2021-27137  
-**Categories:** Vulnerability, Malware, DDoS  
-
----
-
-### 20. [Silent Ransom Group targets law firms with fake IT support calls](https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/)
-
-**Source:** Bleeping Computer  
-**Published:** Sun, 07 Jun 2026 10:09:19 -0400  
-**Severity:** High  
-**Categories:** Ransomware, Phishing  
 
 ---
 
@@ -274,7 +274,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-34621, CVE-2026-33825  
+**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
@@ -421,7 +421,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-28764, CVE-2026-25713, CVE-2026-25104  
+**CVEs:** CVE-2026-28764, CVE-2026-25104, CVE-2026-22554, CVE-2026-25713  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -449,7 +449,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30815, CVE-2026-30814, CVE-2026-30816  
+**CVEs:** CVE-2026-30816, CVE-2026-30815, CVE-2026-30814  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -631,7 +631,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
