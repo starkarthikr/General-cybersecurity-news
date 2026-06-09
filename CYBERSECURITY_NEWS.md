@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-09 15:17:10 UTC
+**Last Updated:** 2026-06-09 18:30:33 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine](https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html)
+### 1. [Meta to Use Off-Site Business Data for Feed and AI Personalization](https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 09 Jun 2026 22:33:58 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code](https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 09 Jun 2026 22:09:47 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-44963  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues](https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 09 Jun 2026 22:04:52 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine](https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 09 Jun 2026 17:56:10 +0530  
@@ -14,7 +42,7 @@
 
 ---
 
-### 2. [Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models](https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html)
+### 5. [Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models](https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 09 Jun 2026 17:29:03 +0530  
@@ -23,7 +51,7 @@
 
 ---
 
-### 3. [Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now](https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html)
+### 6. [Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now](https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 09 Jun 2026 17:28:49 +0530  
@@ -33,7 +61,7 @@
 
 ---
 
-### 4. [The Hidden Security Risk in Modern Networks: The Work Between Tools](https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html)
+### 7. [The Hidden Security Risk in Modern Networks: The Work Between Tools](https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 09 Jun 2026 17:00:00 +0530  
@@ -42,7 +70,7 @@
 
 ---
 
-### 5. [New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing](https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html)
+### 8. [New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing](https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 09 Jun 2026 15:20:41 +0530  
@@ -51,7 +79,7 @@
 
 ---
 
-### 6. [Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer](https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html)
+### 9. [Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer](https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 09 Jun 2026 14:43:32 +0530  
@@ -60,7 +88,7 @@
 
 ---
 
-### 7. [LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE](https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html)
+### 10. [LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE](https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 09 Jun 2026 11:56:14 +0530  
@@ -70,36 +98,43 @@
 
 ---
 
-### 8. [One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public](https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html)
+### 11. [Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 09 Jun 2026 01:47:39 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-23111  
-**Categories:** Vulnerability  
-
----
-
-### 9. [Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order](https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 08 Jun 2026 22:38:44 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
-
----
-
-### 10. [Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups](https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 08 Jun 2026 19:47:39 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 09 Jun 2026 13:57:59 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50751  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [New Veeam vulnerability exposes backup servers to RCE attacks](https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/)
+### 12. [Windows 11 KB5094126 & KB5093998 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 09 Jun 2026 13:32:32 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [XBOW tests Anthropic's Mythos Preview for offensive security](https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 09 Jun 2026 12:16:38 -0400  
+**Severity:** High  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [GitHub disables Microsoft repos pushing password-stealing malware](https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 09 Jun 2026 11:42:40 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 15. [New Veeam vulnerability exposes backup servers to RCE attacks](https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 09 Jun 2026 10:27:56 -0400  
@@ -109,7 +144,7 @@
 
 ---
 
-### 12. [French govt messaging service breached in account hijacking attack](https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/)
+### 16. [French govt messaging service breached in account hijacking attack](https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 09 Jun 2026 06:53:00 -0400  
@@ -118,7 +153,7 @@
 
 ---
 
-### 13. [CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/)
+### 17. [CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 09 Jun 2026 04:18:39 -0400  
@@ -128,7 +163,7 @@
 
 ---
 
-### 14. [Google patches new Chrome zero-day flaw exploited in the wild](https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/)
+### 18. [Google patches new Chrome zero-day flaw exploited in the wild](https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 09 Jun 2026 02:56:27 -0400  
@@ -138,7 +173,7 @@
 
 ---
 
-### 15. [NFCShare Android malware spreads via fake banking app updates on GitHub](https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/)
+### 19. [NFCShare Android malware spreads via fake banking app updates on GitHub](https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 08 Jun 2026 18:11:58 -0400  
@@ -147,48 +182,12 @@
 
 ---
 
-### 16. [SoFi confirms third-party data breach at Hong Kong subsidiary](https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/)
+### 20. [SoFi confirms third-party data breach at Hong Kong subsidiary](https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 08 Jun 2026 17:55:46 -0400  
 **Severity:** Low  
 **Categories:** Data Breach, Supply Chain  
-
----
-
-### 17. [New Apple feature automatically changes your compromised passwords](https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 08 Jun 2026 17:03:40 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 18. [New Shai-Hulud attack trojanizes 19 science-focused PyPI packages](https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 08 Jun 2026 16:41:35 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 19. [WhatsApp says it disrupted new NSO spyware phishing attacks](https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 08 Jun 2026 14:40:53 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability, Phishing  
-
----
-
-### 20. [Gogs patches critical zero-day enabling remote code execution](https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 08 Jun 2026 12:18:40 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -278,12 +277,40 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 14 Apr 2026 21:47:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-33825, CVE-2026-34621, CVE-2026-32201  
+**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
 **Categories:** Vulnerability, Phishing  
 
 ---
 
-### 31. [Claude Mythos Turns N-Days Into N-Hours With Rapid Exploit Creation](https://www.securityweek.com/claude-mythos-turns-n-days-into-n-hours-with-rapid-exploit-creation/)
+### 31. [Adobe Patches 123 Vulnerabilities](https://www.securityweek.com/adobe-patches-123-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Tue, 09 Jun 2026 18:20:54 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [Anthropic Launches Claude Fable 5: Mythos-Class AI With Cybersecurity Guardrails](https://www.securityweek.com/anthropic-launches-claude-fable-5-mythos-class-ai-with-cybersecurity-guardrails/)
+
+**Source:** Security Week  
+**Published:** Tue, 09 Jun 2026 17:02:08 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [OpenSSL Patches High-Severity Vulnerability Found With AI](https://www.securityweek.com/openssl-patches-high-severity-vulnerability-found-with-ai/)
+
+**Source:** Security Week  
+**Published:** Tue, 09 Jun 2026 16:47:58 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-45447  
+**Categories:** Vulnerability  
+
+---
+
+### 34. [Claude Mythos Turns N-Days Into N-Hours With Rapid Exploit Creation](https://www.securityweek.com/claude-mythos-turns-n-days-into-n-hours-with-rapid-exploit-creation/)
 
 **Source:** Security Week  
 **Published:** Tue, 09 Jun 2026 15:03:13 +0000  
@@ -292,7 +319,7 @@
 
 ---
 
-### 32. [New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications](https://www.securityweek.com/new-platform-uses-cryptographic-invisibility-to-protect-ai-built-applications/)
+### 35. [New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications](https://www.securityweek.com/new-platform-uses-cryptographic-invisibility-to-protect-ai-built-applications/)
 
 **Source:** Security Week  
 **Published:** Tue, 09 Jun 2026 13:00:00 +0000  
@@ -301,17 +328,17 @@
 
 ---
 
-### 33. [SAP Patches Critical NetWeaver, Commerce Vulnerabilities](https://www.securityweek.com/sap-patches-critical-netweaver-commerce-vulnerabilities/)
+### 36. [SAP Patches Critical NetWeaver, Commerce Vulnerabilities](https://www.securityweek.com/sap-patches-critical-netweaver-commerce-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Tue, 09 Jun 2026 12:15:30 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44748, CVE-2026-40128, CVE-2026-22732, CVE-2026-27671  
+**CVEs:** CVE-2026-27671, CVE-2026-44748, CVE-2026-22732, CVE-2026-40128  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 34. [Over 100 NPM, PyPI Packages Hit in New Shai-Hulud Supply Chain Attacks](https://www.securityweek.com/over-100-npm-pypi-packages-hit-in-new-shai-hulud-supply-chain-attacks/)
+### 37. [Over 100 NPM, PyPI Packages Hit in New Shai-Hulud Supply Chain Attacks](https://www.securityweek.com/over-100-npm-pypi-packages-hit-in-new-shai-hulud-supply-chain-attacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 09 Jun 2026 11:37:11 +0000  
@@ -320,7 +347,7 @@
 
 ---
 
-### 35. [Will AI Kill the Bug Bounty Industry?](https://www.securityweek.com/will-ai-kill-the-bug-bounty-industry/)
+### 38. [Will AI Kill the Bug Bounty Industry?](https://www.securityweek.com/will-ai-kill-the-bug-bounty-industry/)
 
 **Source:** Security Week  
 **Published:** Tue, 09 Jun 2026 11:00:00 +0000  
@@ -329,50 +356,23 @@
 
 ---
 
-### 36. [Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks](https://www.securityweek.com/check-point-vpn-zero-day-exploited-in-qilin-ransomware-attacks/)
+### 39. [Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks](https://www.securityweek.com/check-point-vpn-zero-day-exploited-in-qilin-ransomware-attacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 09 Jun 2026 09:47:10 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50752, CVE-2026-50751  
+**CVEs:** CVE-2026-50751, CVE-2026-50752  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 37. [Google Patches 5th Chrome Zero-Day Exploited in 2026](https://www.securityweek.com/google-patches-5th-chrome-zero-day-exploited-in-2026/)
+### 40. [Google Patches 5th Chrome Zero-Day Exploited in 2026](https://www.securityweek.com/google-patches-5th-chrome-zero-day-exploited-in-2026/)
 
 **Source:** Security Week  
 **Published:** Tue, 09 Jun 2026 05:57:40 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-5281, CVE-2026-3910, CVE-2026-2441, CVE-2026-3909, CVE-2026-11645  
+**CVEs:** CVE-2026-11645, CVE-2026-5281, CVE-2026-3909, CVE-2026-3910, CVE-2026-2441  
 **Categories:** Vulnerability  
-
----
-
-### 38. [A Security Raises $37 Million for Autonomous Offensive Security Platform](https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/)
-
-**Source:** Security Week  
-**Published:** Mon, 08 Jun 2026 17:19:38 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 39. [Everybody Is Vibe Coding But Nobody Told the Security Team](https://www.securityweek.com/everybody-is-vibe-coding-but-nobody-told-the-security-team/)
-
-**Source:** Security Week  
-**Published:** Mon, 08 Jun 2026 15:30:00 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 40. [WhatsApp Catches Spyware Firm NSO Defying No-Hacking Court Order](https://www.securityweek.com/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order/)
-
-**Source:** Security Week  
-**Published:** Mon, 08 Jun 2026 13:23:03 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Phishing  
 
 ---
 
@@ -426,7 +426,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-28764, CVE-2026-25104, CVE-2026-25713, CVE-2026-22554  
+**CVEs:** CVE-2026-25713, CVE-2026-28764, CVE-2026-22554, CVE-2026-25104  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -454,7 +454,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30815, CVE-2026-30816, CVE-2026-30814  
+**CVEs:** CVE-2026-30816, CVE-2026-30815, CVE-2026-30814  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
