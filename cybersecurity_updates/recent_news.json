@@ -1,6 +1,64 @@
 [
   {
     "source": "The Hacker News",
+    "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
+    "link": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
+    "published": "Tue, 09 Jun 2026 17:56:10 +0530",
+    "summary": "Two Russia-aligned cyber attack campaigns have continued to exploit a security flaw in WinRAR to target Ukrainian organisations, almost a year after patches for the vulnerability were released.\n\nThe activity has been attributed by Trend Micro to Earth Dahu (aka Gamaredon) and SHADOW-EARTH-066 (aka UAC-0226). It involves the exploitation of CVE-2025-8088, a path traversal flaw that allows an",
+    "analysis": {
+      "issue": "Russia-aligned hackers are still exploiting WinRAR CVE-2025-8088 against Ukrainian organizations nearly a year after patches shipped",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-8088"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
+    "link": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html",
+    "published": "Tue, 09 Jun 2026 17:29:03 +0530",
+    "summary": "University of Toronto researchers have built and tested a proof-of-concept AI-driven computer worm that uses a locally hosted open-weight large language model to reason its way through a network, generate tailored attack strategies for each target it encounters, and replicate itself, all without human intervention and without touching a commercial AI service.\n\nThe preprint, posted to arXiv on",
+    "analysis": {
+      "issue": "An AI-driven worm using a local open-weight LLM autonomously exploited and replicated across 62% of a 33-host test network in 7 days",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now",
+    "link": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
+    "published": "Tue, 09 Jun 2026 17:28:49 +0530",
+    "summary": "Google has released security updates to address 74 vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, tracked as CVE-2026-11645 (CVSS score: 8.8), has been described as an out-of-bounds memory access in V8, Chrome's JavaScript and WebAssembly engine.\n\n\"Out-of-bounds read and write in V8 in Google Chrome prior to 149.0.7827.103",
+    "analysis": {
+      "issue": "Google released security updates for 74 Chrome vulnerabilities, including CVE-2026-11645, a high-severity V8 out-of-bounds memory access flaw",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-11645"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "The Hidden Security Risk in Modern Networks: The Work Between Tools",
     "link": "https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html",
     "published": "Tue, 09 Jun 2026 17:00:00 +0530",
@@ -132,55 +190,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
-    "link": "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html",
-    "published": "Mon, 08 Jun 2026 18:49:13 +0530",
-    "summary": "Phishing has always been a numbers game. AI has turned it into a volume machine.\n\nAttackers can now create convincing emails, fake login pages, and tailored lures in minutes. Every polished message adds another case for Tier 1 to review, another link to inspect, and another alert that cannot be dismissed at a glance.\n\nAs the queue grows, a credential theft attempt or malware delivery can easily",
+    "source": "Bleeping Computer",
+    "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
+    "published": "Tue, 09 Jun 2026 10:27:56 -0400",
+    "summary": "Veeam has released security updates to patch a critical Backup & Replication security flaw that can be exploited to gain remote code execution (RCE) on domain-joined backup servers. [...]",
     "analysis": {
-      "issue": "AI phishing overloads Tier 1 SOCs; ANY",
+      "issue": "Veeam has released security updates to patch a critical Backup & Replication security flaw that can be exploited to gain remote code execution (RCE) on domain-joined backup servers",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",
-    "link": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html",
-    "published": "Mon, 08 Jun 2026 18:48:57 +0530",
-    "summary": "Monday again. The weekend was meant to be quiet. It wasn't. Last week had poisoned packages, a broken AI helper, and a worm tearing through repos. The ugly part: basic tricks still worked.\n\nA chatbot got fooled. A bot token got leaked inside the malware. The same old mistakes showed up again. And while everyone chased the loud stuff, quieter attackers sat in inboxes for months, reading mail and",
-    "analysis": {
-      "issue": "Your weekly cybersecurity recap: a GitHub supply chain worm, an exploited Android flaw, Instagram account takeovers, and a five-month mailbox spy",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "The Hardest Fork",
-    "link": "https://thehackernews.com/2026/06/the-hardest-fork.html",
-    "published": "Mon, 08 Jun 2026 17:23:00 +0530",
-    "summary": "Mythos is real. I know a big chunk of the industry thinks it's a marketing stunt, and I get why. I get it. But I've seen the findings, and they're bad. These aren't \"whoops, this line right here is wrong, and that's RCE.\" They're novel combinations of a few dozen issues out of thousands of things every SAST scanner already finds, chained together into something much worse. It's real creativity,",
-    "analysis": {
-      "issue": "AI vulnerability chaining overwhelms open source disclosure; 6% upstreamed, forcing trusted forks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-44963"
+      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -352,28 +375,6 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Critical UniFi OS bug lets hackers gain root without authentication",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/",
-    "published": "Mon, 08 Jun 2026 11:51:19 -0400",
-    "summary": "Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authentication. [...]",
-    "analysis": {
-      "issue": "Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authentication",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-34910",
-        "CVE-2026-34909",
-        "CVE-2026-34908"
-      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -573,6 +574,67 @@
   },
   {
     "source": "Security Week",
+    "title": "Claude Mythos Turns N-Days Into N-Hours With Rapid Exploit Creation",
+    "link": "https://www.securityweek.com/claude-mythos-turns-n-days-into-n-hours-with-rapid-exploit-creation/",
+    "published": "Tue, 09 Jun 2026 15:03:13 +0000",
+    "summary": "<p>Public LLM models with safeguards turned off can also build working exploits, increasing patch gap risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/claude-mythos-turns-n-days-into-n-hours-with-rapid-exploit-creation/\">Claude Mythos Turns N-Days Into N-Hours With Rapid Exploit Creation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Public LLM models with safeguards turned off can also build working exploits, increasing patch gap risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications",
+    "link": "https://www.securityweek.com/new-platform-uses-cryptographic-invisibility-to-protect-ai-built-applications/",
+    "published": "Tue, 09 Jun 2026 13:00:00 +0000",
+    "summary": "<p>Atsign’s AI Architect applies cryptographic protections to agentic software development, aiming to prevent attackers from exploiting vulnerabilities by making application identities effectively invisible.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-platform-uses-cryptographic-invisibility-to-protect-ai-built-applications/\">New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Atsign’s AI Architect applies cryptographic protections to agentic software development, aiming to prevent attackers from exploiting vulnerabilities by making application identities effectively invisible",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "SAP Patches Critical NetWeaver, Commerce Vulnerabilities",
+    "link": "https://www.securityweek.com/sap-patches-critical-netweaver-commerce-vulnerabilities/",
+    "published": "Tue, 09 Jun 2026 12:15:30 +0000",
+    "summary": "<p>The flaws could lead to the disclosure of sensitive information, memory corruption, and disruption of normal system usage.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-patches-critical-netweaver-commerce-vulnerabilities/\">SAP Patches Critical NetWeaver, Commerce Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The flaws could lead to the disclosure of sensitive information, memory corruption, and disruption of normal system usage",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-44748",
+        "CVE-2026-40128",
+        "CVE-2026-22732",
+        "CVE-2026-27671"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Over 100 NPM, PyPI Packages Hit in New Shai-Hulud Supply Chain Attacks",
     "link": "https://www.securityweek.com/over-100-npm-pypi-packages-hit-in-new-shai-hulud-supply-chain-attacks/",
     "published": "Tue, 09 Jun 2026 11:37:11 +0000",
@@ -627,8 +689,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50751",
-        "CVE-2026-50752"
+        "CVE-2026-50752",
+        "CVE-2026-50751"
       ],
       "threat_categories": [
         "Ransomware",
@@ -649,11 +711,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-3909",
-        "CVE-2026-11645",
+        "CVE-2026-5281",
         "CVE-2026-3910",
         "CVE-2026-2441",
-        "CVE-2026-5281"
+        "CVE-2026-3909",
+        "CVE-2026-11645"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -713,64 +775,6 @@
       "threat_categories": [
         "Vulnerability",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cybersecurity M&A Roundup: 26 Deals Announced in May 2026",
-    "link": "https://www.securityweek.com/cybersecurity-ma-roundup-26-deals-announced-in-may-2026/",
-    "published": "Mon, 08 Jun 2026 12:38:45 +0000",
-    "summary": "<p>Significant cybersecurity M&#038;A deals announced by Akamai, Check Point, Cisco, Cyera, Dragos, WatchGuard and Zscaler.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-ma-roundup-26-deals-announced-in-may-2026/\">Cybersecurity M&#038;A Roundup: 26 Deals Announced in May 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Significant cybersecurity M&A deals announced by Akamai, Check Point, Cisco, Cyera, Dragos, WatchGuard and Zscaler",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Everest Forms Vulnerability Exploited to Hack WordPress Sites",
-    "link": "https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/",
-    "published": "Mon, 08 Jun 2026 12:16:09 +0000",
-    "summary": "<p>The flaw allows attackers to execute arbitrary code remotely and has been exploited in the wild for two months.</p>\n<p>The post <a href=\"https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/\">Everest Forms Vulnerability Exploited to Hack WordPress Sites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The flaw allows attackers to execute arbitrary code remotely and has been exploited in the wild for two months",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-3300"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "174,000 Impacted by Lansing Community College Data Breach",
-    "link": "https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/",
-    "published": "Mon, 08 Jun 2026 11:27:00 +0000",
-    "summary": "<p>Hackers accessed personal information stored on certain Lansing Community College systems in February 2025.</p>\n<p>The post <a href=\"https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/\">174,000 Impacted by Lansing Community College Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers accessed personal information stored on certain Lansing Community College systems in February 2025",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Supply Chain"
       ]
     }
   },
@@ -878,9 +882,9 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-28764",
-        "CVE-2026-22554",
+        "CVE-2026-25104",
         "CVE-2026-25713",
-        "CVE-2026-25104"
+        "CVE-2026-22554"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -938,8 +942,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-30815",
-        "CVE-2026-30814",
-        "CVE-2026-30816"
+        "CVE-2026-30816",
+        "CVE-2026-30814"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -967,10 +971,21 @@
   },
   {
     "source": "Recorded Future",
-    "title": "May 2026 CVE Landscape",
-    "link": "https://www.recordedfuture.com/blog/may-2026-cve-landscape",
-    "published": "Mon, 08 Jun 2026 00:00:00 GMT",
-    "summary": "In May 2026, Insikt Group® identified 41 high-impact vulnerabilities that should be prioritized for remediation, all of which had a Very Critical Recorded Future Risk Score. This represents a 11% increase from last month."
+    "title": "Russia’s Defense-Based Economy Risks Forcing Putin to Fight Wars",
+    "link": "https://www.recordedfuture.com/research/russia-defense-base-economy-risks-wars",
+    "published": "Tue, 09 Jun 2026 00:00:00 GMT",
+    "summary": "Western sanctions have tied Russia's elite patronage to the defense sector. Learn why this creates a domestic imperative for Putin to pursue perpetual war",
+    "analysis": {
+      "issue": "Western sanctions have tied Russia's elite patronage to the defense sector",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "Recorded Future",
@@ -1301,8 +1316,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1327,6 +1342,42 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Meta&#8217;s face-recognition code raises new concerns about smart glasses",
+    "link": "https://www.malwarebytes.com/blog/privacy/2026/06/metas-face-recognition-code-raises-new-concerns-about-smart-glasses",
+    "published": "Tue, 09 Jun 2026 13:57:59 GMT",
+    "summary": "As smart glasses become more capable, concerns about face recognition, covert recording, and biometric surveillance are growing.",
+    "analysis": {
+      "issue": "Meta’s smart glasses are once again at the center of a privacy debate due to face recognition",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Scammers love Meta, according to Lloyds Bank",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/06/scammers-love-meta-according-to-lloyds-bank",
+    "published": "Tue, 09 Jun 2026 13:02:49 GMT",
+    "summary": "Facebook, Instagram, and WhatsApp account for more than two thirds of fraud reports made by Lloyds customers.",
+    "analysis": {
+      "issue": "Scammers go phishing wherever the victims are",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
       ]
     }
   },
@@ -1475,44 +1526,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Keep getting calls from questionable numbers? Meet Scam Number Check",
-    "link": "https://www.malwarebytes.com/blog/product/2026/06/keep-getting-calls-from-questionable-numbers-meet-scam-number-check",
-    "published": "Wed, 03 Jun 2026 12:16:04 GMT",
-    "summary": "Scam Number Check lets you quickly check whether a number has been linked to scams before you call back, share information, or send money.",
-    "analysis": {
-      "issue": "Have you ever gotten a phone call and had a gut feeling that those random digits looked extra suspicious",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Infostealers are becoming the go-to phishing payload",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/06/infostealers-are-becoming-the-go-to-phishing-payload",
-    "published": "Wed, 03 Jun 2026 08:59:47 GMT",
-    "summary": "Cybercriminals prefer infostealers to traditional phishing techniques because they reduce friction, scale well, and are widely available.",
-    "analysis": {
-      "issue": "Slowly but surely, cybercriminals are turning to infostealers instead",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware",
-        "Phishing"
       ]
     }
   },
