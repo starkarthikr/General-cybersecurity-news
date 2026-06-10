@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-10 15:51:04 UTC
+**Last Updated:** 2026-06-10 19:11:41 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities](https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html)
+### 1. [China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance](https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 10 Jun 2026 21:38:42 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 2. [Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities](https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 10 Jun 2026 20:40:59 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE](https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html)
+### 3. [Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE](https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 10 Jun 2026 20:30:59 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation](https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html)
+### 4. [CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation](https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 10 Jun 2026 20:14:29 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar](https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html)
+### 5. [Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar](https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 10 Jun 2026 15:57:49 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs](https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html)
+### 6. [Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs](https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 10 Jun 2026 15:08:13 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards](https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html)
+### 7. [Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards](https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 10 Jun 2026 13:07:59 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances](https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html)
+### 8. [ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances](https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 10 Jun 2026 12:32:08 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows](https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html)
+### 9. [Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows](https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 10 Jun 2026 10:52:01 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS](https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html)
+### 10. [Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS](https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 10 Jun 2026 10:38:35 +0530  
@@ -86,16 +95,16 @@
 
 ---
 
-### 10. [Meta to Use Off-Site Business Data for Feed and AI Personalization](https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html)
+### 11. [Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks](https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/)
 
-**Source:** The Hacker News  
-**Published:** Tue, 09 Jun 2026 22:33:58 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Wed, 10 Jun 2026 14:31:57 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 11. [China-linked JDY botnet expands targeting of U.S. military networks](https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/)
+### 12. [China-linked JDY botnet expands targeting of U.S. military networks](https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 10 Jun 2026 11:00:00 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [The 5 Best Practices for Secure Identity Verification](https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/)
+### 13. [The 5 Best Practices for Secure Identity Verification](https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 10 Jun 2026 10:05:15 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Microsoft patches Exchange Server zero-day exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/)
+### 14. [Microsoft patches Exchange Server zero-day exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 10 Jun 2026 09:44:19 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Microsoft: Some Windows PCs fail to install latest monthly updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/)
+### 15. [Microsoft: Some Windows PCs fail to install latest monthly updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 10 Jun 2026 07:33:32 -0400  
@@ -132,17 +141,17 @@
 
 ---
 
-### 15. [Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/)
+### 16. [Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 10 Jun 2026 05:57:33 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45585, CVE-2026-45586, CVE-2020-17103  
+**CVEs:** CVE-2020-17103, CVE-2026-45585, CVE-2026-45586  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 16. [Ivanti: Max severity Sentry flaw allows code execution as root](https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/)
+### 17. [Ivanti: Max severity Sentry flaw allows code execution as root](https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 10 Jun 2026 02:26:28 -0400  
@@ -152,7 +161,7 @@
 
 ---
 
-### 17. [Anthropic rolls out Claude Fable 5, but it's available for a limited time](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/)
+### 18. [Anthropic rolls out Claude Fable 5, but it's available for a limited time](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 09 Jun 2026 22:03:31 -0400  
@@ -161,7 +170,7 @@
 
 ---
 
-### 18. [Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/)
+### 19. [Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 09 Jun 2026 19:11:18 -0400  
@@ -170,21 +179,12 @@
 
 ---
 
-### 19. [ServiceNow discloses security incident exposing customer data](https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/)
+### 20. [ServiceNow discloses security incident exposing customer data](https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 09 Jun 2026 17:34:09 -0400  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 20. [OpenClaw AI agent found falling for phishing attacks, spills user data](https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 09 Jun 2026 17:20:20 -0400  
-**Severity:** High  
-**Categories:** Phishing  
 
 ---
 
@@ -202,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
+**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -329,7 +329,7 @@
 **Source:** Security Week  
 **Published:** Wed, 10 Jun 2026 11:44:39 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45498, CVE-2026-33825, CVE-2026-45586, CVE-2026-50507, CVE-2026-41091  
+**CVEs:** CVE-2026-50507, CVE-2026-45498, CVE-2026-41091, CVE-2026-33825, CVE-2026-45586  
 **Categories:** Vulnerability  
 
 ---
@@ -357,7 +357,7 @@
 **Source:** Security Week  
 **Published:** Wed, 10 Jun 2026 08:50:12 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-10523, CVE-2026-25089, CVE-2026-6973, CVE-2026-10520, CVE-2026-10727  
+**CVEs:** CVE-2026-10523, CVE-2026-10520, CVE-2026-6973, CVE-2026-10727, CVE-2026-25089  
 **Categories:** Vulnerability  
 
 ---
@@ -377,7 +377,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44801, CVE-2026-44799, CVE-2026-44803, CVE-2026-47291, CVE-2026-48563, CVE-2026-47289, CVE-2026-42985, CVE-2026-42992, CVE-2026-44812  
+**CVEs:** CVE-2026-44803, CVE-2026-42992, CVE-2026-48563, CVE-2026-44801, CVE-2026-47291, CVE-2026-42985, CVE-2026-44799, CVE-2026-47289, CVE-2026-44812  
 **Categories:** Vulnerability  
 
 ---
@@ -432,7 +432,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25104, CVE-2026-22554, CVE-2026-28764, CVE-2026-25713  
+**CVEs:** CVE-2026-28764, CVE-2026-22554, CVE-2026-25713, CVE-2026-25104  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -460,7 +460,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30816, CVE-2026-30815, CVE-2026-30814  
+**CVEs:** CVE-2026-30816, CVE-2026-30814, CVE-2026-30815  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -474,7 +474,16 @@
 
 ---
 
-### 52. [Russia’s Defense-Based Economy Risks Forcing Putin to Fight Wars](https://www.recordedfuture.com/research/russia-defense-base-economy-risks-wars)
+### 52. [China's Noncombatant Evacuation Operations: 2005–2025](https://www.recordedfuture.com/blog/china-noncombatant-evacuation-operations-2005-2025)
+
+**Source:** Recorded Future  
+**Published:** Wed, 10 Jun 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 53. [Russia’s Defense-Based Economy Risks Forcing Putin to Fight Wars](https://www.recordedfuture.com/research/russia-defense-base-economy-risks-wars)
 
 **Source:** Recorded Future  
 **Published:** Tue, 09 Jun 2026 00:00:00 GMT  
@@ -483,7 +492,7 @@
 
 ---
 
-### 53. [Why Holistic Sourcing Wins: The Numbers Behind the Recorded Future Advantage](https://www.recordedfuture.com/blog/recorded-future-holistic-sourcing-wins)
+### 54. [Why Holistic Sourcing Wins: The Numbers Behind the Recorded Future Advantage](https://www.recordedfuture.com/blog/recorded-future-holistic-sourcing-wins)
 
 **Source:** Recorded Future  
 **Published:** Fri, 05 Jun 2026 00:00:00 GMT  
@@ -492,7 +501,7 @@
 
 ---
 
-### 54. [Threats to the 2026 FIFA World Cup](https://www.recordedfuture.com/research/2026-fifa-world-cup-threats)
+### 55. [Threats to the 2026 FIFA World Cup](https://www.recordedfuture.com/research/2026-fifa-world-cup-threats)
 
 **Source:** Recorded Future  
 **Published:** Thu, 04 Jun 2026 00:00:00 GMT  
@@ -501,7 +510,7 @@
 
 ---
 
-### 55. [Remembering Sir Alex Younger](https://www.recordedfuture.com/blog/remembering-sir-alex-younger)
+### 56. [Remembering Sir Alex Younger](https://www.recordedfuture.com/blog/remembering-sir-alex-younger)
 
 **Source:** Recorded Future  
 **Published:** Thu, 04 Jun 2026 00:00:00 GMT  
@@ -510,7 +519,7 @@
 
 ---
 
-### 56. [Iran Expands Handala Brand to Physical Threats](https://www.recordedfuture.com/research/iran-handala-physical-threats)
+### 57. [Iran Expands Handala Brand to Physical Threats](https://www.recordedfuture.com/research/iran-handala-physical-threats)
 
 **Source:** Recorded Future  
 **Published:** Tue, 02 Jun 2026 00:00:00 GMT  
@@ -519,7 +528,7 @@
 
 ---
 
-### 57. [The Vulnerability Flood Is Now a Board Conversation. Here's How to Lead It.](https://www.recordedfuture.com/blog/vulnerability-board-conversation)
+### 58. [The Vulnerability Flood Is Now a Board Conversation. Here's How to Lead It.](https://www.recordedfuture.com/blog/vulnerability-board-conversation)
 
 **Source:** Recorded Future  
 **Published:** Thu, 21 May 2026 00:00:00 GMT  
@@ -528,7 +537,7 @@
 
 ---
 
-### 58. [At Mythos Speed: A Defender's Playbook for the AI Vulnerability Surge in 2026](https://www.recordedfuture.com/blog/ai-vulnerability-playbook)
+### 59. [At Mythos Speed: A Defender's Playbook for the AI Vulnerability Surge in 2026](https://www.recordedfuture.com/blog/ai-vulnerability-playbook)
 
 **Source:** Recorded Future  
 **Published:** Tue, 19 May 2026 00:00:00 GMT  
@@ -537,21 +546,12 @@
 
 ---
 
-### 59. [April 2026 CVE Landscape](https://www.recordedfuture.com/blog/april-cve-landscape)
+### 60. [April 2026 CVE Landscape](https://www.recordedfuture.com/blog/april-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Fri, 15 May 2026 00:00:00 GMT  
 **Severity:** Critical  
 **Categories:** General Security  
-
----
-
-### 60. [NIST NVD Enrichment Policy Change: Prioritizing Vulnerabilities with Attacker Behavior Signals](https://www.recordedfuture.com/blog/nist-nvd-enrichment)
-
-**Source:** Recorded Future  
-**Published:** Thu, 14 May 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -650,7 +650,16 @@
 
 ---
 
-### 71. [Microsoft’s biggest-ever Patch Tuesday fixes 206 bugs, including 3 zero-days](https://www.malwarebytes.com/blog/bugs/2026/06/microsofts-biggest-ever-patch-tuesday-fixes-206-bugs-including-3-zero-days)
+### 71. [Free Spotify Premium hacks on social media are spreading infostealers](https://www.malwarebytes.com/blog/news/2026/06/free-spotify-premium-hacks-on-social-media-are-spreading-infostealers)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 10 Jun 2026 16:27:32 GMT  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 72. [Microsoft’s biggest-ever Patch Tuesday fixes 206 bugs, including 3 zero-days](https://www.malwarebytes.com/blog/bugs/2026/06/microsofts-biggest-ever-patch-tuesday-fixes-206-bugs-including-3-zero-days)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 10 Jun 2026 12:43:48 GMT  
@@ -659,7 +668,7 @@
 
 ---
 
-### 72. [88% of people struggle to tell what&#8217;s real online](https://www.malwarebytes.com/blog/ai/2026/06/88-of-people-struggle-to-tell-whats-real-online)
+### 73. [88% of people struggle to tell what&#8217;s real online](https://www.malwarebytes.com/blog/ai/2026/06/88-of-people-struggle-to-tell-whats-real-online)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 10 Jun 2026 11:45:00 GMT  
@@ -668,7 +677,7 @@
 
 ---
 
-### 73. [Meta&#8217;s face-recognition code raises new concerns about smart glasses](https://www.malwarebytes.com/blog/privacy/2026/06/metas-face-recognition-code-raises-new-concerns-about-smart-glasses)
+### 74. [Meta&#8217;s face-recognition code raises new concerns about smart glasses](https://www.malwarebytes.com/blog/privacy/2026/06/metas-face-recognition-code-raises-new-concerns-about-smart-glasses)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 09 Jun 2026 13:57:59 GMT  
@@ -677,7 +686,7 @@
 
 ---
 
-### 74. [Scammers love Meta, according to Lloyds Bank](https://www.malwarebytes.com/blog/scams/2026/06/scammers-love-meta-according-to-lloyds-bank)
+### 75. [Scammers love Meta, according to Lloyds Bank](https://www.malwarebytes.com/blog/scams/2026/06/scammers-love-meta-according-to-lloyds-bank)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 09 Jun 2026 13:02:49 GMT  
@@ -686,7 +695,7 @@
 
 ---
 
-### 75. [Update Chrome: Google patches actively exploited vulnerability and 73 others](https://www.malwarebytes.com/blog/bugs/2026/06/update-chrome-google-patches-actively-exploited-vulnerability-and-73-others)
+### 76. [Update Chrome: Google patches actively exploited vulnerability and 73 others](https://www.malwarebytes.com/blog/bugs/2026/06/update-chrome-google-patches-actively-exploited-vulnerability-and-73-others)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 09 Jun 2026 10:50:16 GMT  
@@ -696,7 +705,7 @@
 
 ---
 
-### 76. [Americans lost nearly $900 million to AI-powered scams, FBI says](https://www.malwarebytes.com/blog/scams/2026/06/americans-lost-nearly-900-million-to-ai-powered-scams-fbi-says)
+### 77. [Americans lost nearly $900 million to AI-powered scams, FBI says](https://www.malwarebytes.com/blog/scams/2026/06/americans-lost-nearly-900-million-to-ai-powered-scams-fbi-says)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 08 Jun 2026 15:02:13 GMT  
@@ -705,7 +714,7 @@
 
 ---
 
-### 77. [Pirated PC games are delivering password-stealing malware](https://www.malwarebytes.com/blog/threat-intel/2026/06/pirated-pc-games-are-delivering-password-stealing-malware)
+### 78. [Pirated PC games are delivering password-stealing malware](https://www.malwarebytes.com/blog/threat-intel/2026/06/pirated-pc-games-are-delivering-password-stealing-malware)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 08 Jun 2026 10:53:06 GMT  
@@ -714,7 +723,7 @@
 
 ---
 
-### 78. [A week in security (June 1 &#8211; June 7)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-1-june-7-2)
+### 79. [A week in security (June 1 &#8211; June 7)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-1-june-7-2)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 08 Jun 2026 07:07:07 GMT  
@@ -723,21 +732,12 @@
 
 ---
 
-### 79. [AI: Threat, tool, or both?](https://www.malwarebytes.com/blog/ai/2026/06/ai-threat-tool-or-both)
+### 80. [AI: Threat, tool, or both?](https://www.malwarebytes.com/blog/ai/2026/06/ai-threat-tool-or-both)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 05 Jun 2026 08:56:57 GMT  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 80. [Travel scams are everywhere. Here&#8217;s how to avoid them](https://www.malwarebytes.com/blog/scams/2026/06/travel-scams-are-everywhere-heres-how-to-avoid-them)
-
-**Source:** Malwarebytes  
-**Published:** Thu, 04 Jun 2026 11:28:12 GMT  
-**Severity:** High  
-**Categories:** Data Breach, Malware  
 
 ---
 
