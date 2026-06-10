@@ -1,6 +1,62 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
+    "link": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
+    "published": "Wed, 10 Jun 2026 20:40:59 +0530",
+    "summary": "Fortinet, Ivanti, and SAP have released security updates to address multiple critical security vulnerabilities that could result in arbitrary code execution and information disclosure.\n\nThe security flaw patched by Fortinet relates to a command injection vulnerability in FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS WEB UI. It's tracked as CVE-2026-25089 (CVSS score: 9.1).\n\n\"An",
+    "analysis": {
+      "issue": "Fortinet, Ivanti, and SAP patched critical flaws up to CVSS 10",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE",
+    "link": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html",
+    "published": "Wed, 10 Jun 2026 20:30:59 +0530",
+    "summary": "A high-severity unpatched security flaw in Langflow, an open-source low-code platform to build artificial intelligence (AI) applications, has come under active exploitation in the wild, according to findings from VulnCheck.\n\nThe vulnerability in question is CVE-2026-5027 (CVSS score: 8.8), a case of path traversal that could allow an attacker to write files to arbitrary locations.\n\n\"The 'POST /",
+    "analysis": {
+      "issue": "CVE-2026-5027 lets attackers abuse Langflow path traversal, exposing 7,000 AI app instances to file-write attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-5027"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
+    "link": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html",
+    "published": "Wed, 10 Jun 2026 20:14:29 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.\n\nThe list of vulnerabilities is as follows -\n\n\n  CVE-2026-20245 (CVSS score: 7.8) - An improper encoding or escaping of output vulnerability in Cisco Catalyst SD-WAN Manager that could allow an",
+    "analysis": {
+      "issue": "CISA added 3 actively exploited flaws in Cisco SD-WAN Manager, Chrome V8, and Arista EOS to its KEV catalog",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar",
     "link": "https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html",
     "published": "Wed, 10 Jun 2026 15:57:49 +0530",
@@ -126,57 +182,60 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code",
-    "link": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html",
-    "published": "Tue, 09 Jun 2026 22:09:47 +0530",
-    "summary": "Veeam has released security patches to address a critical flaw in its Backup &amp; Replication software that could result in remote code execution.\n\nTracked as CVE-2026-44963, the vulnerability carries a CVSS score of 9.4 out of a maximum of 10.0.\n\n\"A vulnerability allowing remote code execution (RCE) on the Backup Server by an authenticated domain user,\" Veeam said in a Tuesday advisory.\n\nIt",
+    "source": "Bleeping Computer",
+    "title": "China-linked JDY botnet expands targeting of U.S. military networks",
+    "link": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
+    "published": "Wed, 10 Jun 2026 11:00:00 -0400",
+    "summary": "The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]",
     "analysis": {
-      "issue": "Veeam fixes CVE-2026-44963 RCE in 12 builds, blocking authenticated domain users from attacking backup servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-44963"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues",
-    "link": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html",
-    "published": "Tue, 09 Jun 2026 22:04:52 +0530",
-    "summary": "Microsoft on Monday confirmed that it temporarily removed some GitHub repositories in response to a recent security incident that led to 73 of its open-source projects being compromised to inject an information stealer into the code.\n\n\"Our priority is to protect customers and the broader ecosystem,\" a Microsoft spokesperson told The Hacker News via email. \"We temporarily removed some",
-    "analysis": {
-      "issue": "Microsoft confirms it temporarily removed GitHub repos after Miasma worm compromised 73 of its open-source projects to inject an information stealer",
+      "issue": "The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Vulnerability",
+        "Malware",
+        "APT",
+        "DDoS"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
-    "link": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
-    "published": "Tue, 09 Jun 2026 17:56:10 +0530",
-    "summary": "Two Russia-aligned cyber attack campaigns have continued to exploit a security flaw in WinRAR to target Ukrainian organisations, almost a year after patches for the vulnerability were released.\n\nThe activity has been attributed by Trend Micro to Earth Dahu (aka Gamaredon) and SHADOW-EARTH-066 (aka UAC-0226). It involves the exploitation of CVE-2025-8088, a path traversal flaw that allows an",
+    "source": "Bleeping Computer",
+    "title": "The 5 Best Practices for Secure Identity Verification",
+    "link": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
+    "published": "Wed, 10 Jun 2026 10:05:15 -0400",
+    "summary": "Attackers are increasingly bypassing weak authentication through phishing, MFA fatigue, and service desk social engineering. Specops Software breaks down five best practices for stronger identity verification and access security. [...]",
     "analysis": {
-      "issue": "Russia-aligned hackers are still exploiting WinRAR CVE-2025-8088 against Ukrainian organizations nearly a year after patches shipped",
+      "issue": "Credential theft surged by 160% in 2025, contributing to one in five data breaches as attackers employed AI-driven attacks to bypass traditional defenses",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
+    "published": "Wed, 10 Jun 2026 09:44:19 -0400",
+    "summary": "Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site scripting (XSS) attacks targeting Outlook Web Access users. [...]",
+    "analysis": {
+      "issue": "Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site scripting (XSS) attacks targeting Outlook Web Access users",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
       "cves": [
-        "CVE-2025-8088"
+        "CVE-2026-42897"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -214,9 +273,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2020-17103",
         "CVE-2026-45585",
-        "CVE-2026-45586"
+        "CVE-2026-45586",
+        "CVE-2020-17103"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -318,59 +377,22 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud",
-    "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
-    "published": "Tue, 09 Jun 2026 15:36:27 -0400",
-    "summary": "SAP has released fixes for 15 vulnerabilities as part of its June 2026 Security Patch package, including four critical-severity flaws affecting SAP NetWeaver and SAP Commerce Cloud. [...]",
+    "source": "Krebs On Security",
+    "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
+    "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+    "published": "Wed, 10 Jun 2026 14:03:44 +0000",
+    "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
     "analysis": {
-      "issue": "SAP has released fixes for 15 vulnerabilities as part of its June 2026 Security Patch package, including four critical-severity flaws affecting SAP NetWeaver and SAP Commerce Cloud",
+      "issue": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ranso",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-27671",
-        "CVE-2026-44748"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft releases Windows 10 KB5094127 extended security update",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
-    "published": "Tue, 09 Jun 2026 14:35:00 -0400",
-    "summary": "Microsoft has released the Windows 10 KB5094127 extended security update, which fixes the June 2026 Patch Tuesday vulnerabilities and adds new functionality to monitor the rollout of updated Secure Boot certificates that replace those expiring this month. [...]",
-    "analysis": {
-      "issue": "Microsoft has released the Windows 10 KB5094127 extended security update, which fixes the June 2026 Patch Tuesday vulnerabilities and adds new functionality to monitor the rollout of updated Secure Boot certificates that replace those expiring this m",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
-    "published": "Tue, 09 Jun 2026 13:57:59 -0400",
-    "summary": "Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws and three publicly disclosed zero-day vulnerabilities. [...]",
-    "analysis": {
-      "issue": "Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws and three publicly disclosed zero-day vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -387,9 +409,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-49160",
-        "CVE-2026-45586"
+        "CVE-2026-45586",
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -477,7 +499,18 @@
     "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
     "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
     "published": "Mon, 18 May 2026 20:48:21 +0000",
-    "summary": "Until this past weekend, a contractor for the Cybersecurity &#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history."
+    "summary": "Until this past weekend, a contractor for the Cybersecurity &#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.",
+    "analysis": {
+      "issue": "Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA ",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -503,21 +536,132 @@
     "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
     "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
     "published": "Fri, 08 May 2026 02:58:46 +0000",
-    "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak data from 275 million students and faculty across nearly 9,000 educational institutions."
+    "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak data from 275 million students and faculty across nearly 9,000 educational institutions.",
+    "analysis": {
+      "issue": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service’s login",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
     "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
     "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
     "published": "Thu, 30 Apr 2026 14:04:26 +0000",
-    "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm's chief executive says the malicious activity resulted from a security breach and was likely the work of a competitor trying to tarnish his company's public image."
+    "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm's chief executive says the malicious activity resulted from a security breach and was likely the work of a competitor trying to tarnish his company's public image.",
+    "analysis": {
+      "issue": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOn",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
+      ]
+    }
   },
   {
-    "source": "Krebs On Security",
-    "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
-    "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
-    "published": "Tue, 21 Apr 2026 14:53:59 +0000",
-    "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan admitted his role in a series of text-message phishing attacks in the summer of 2022 that allowed the group to hack into at least a dozen major technology companies and steal tens of millions of dollars worth of cryptocurrency from investors."
+    "source": "Security Week",
+    "title": "Infostealers Turn Millions of Devices Into Credential Theft Machines",
+    "link": "https://www.securityweek.com/infostealers-turn-millions-of-devices-into-credential-theft-machines/",
+    "published": "Wed, 10 Jun 2026 14:00:00 +0000",
+    "summary": "<p>As attackers increasingly favor stolen credentials over exploits, infostealers have become a primary source of access for ransomware and other cybercrime operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/infostealers-turn-millions-of-devices-into-credential-theft-machines/\">Infostealers Turn Millions of Devices Into Credential Theft Machines</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "As attackers increasingly favor stolen credentials over exploits, infostealers have become a primary source of access for ransomware and other cybercrime operations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cyera Raises $600 Million at $12 Billion Valuation",
+    "link": "https://www.securityweek.com/cyera-raises-600-million-at-12-billion-valuation/",
+    "published": "Wed, 10 Jun 2026 13:48:36 +0000",
+    "summary": "<p>Cyera is positioned as one of the most valuable privately held cybersecurity firms in the world with total funding topping $2 billion.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyera-raises-600-million-at-12-billion-valuation/\">Cyera Raises $600 Million at $12 Billion Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Cyera is positioned as one of the most valuable privately held cybersecurity firms in the world with total funding topping $2 billion",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Aryon Security Raises $29 Million in Series A Funding",
+    "link": "https://www.securityweek.com/aryon-security-raises-29-million-in-series-a-funding/",
+    "published": "Wed, 10 Jun 2026 12:24:20 +0000",
+    "summary": "<p>In the post-Mythos era, the company’s platform helps organizations enforce security controls across environments.</p>\n<p>The post <a href=\"https://www.securityweek.com/aryon-security-raises-29-million-in-series-a-funding/\">Aryon Security Raises $29 Million in Series A Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "In the post-Mythos era, the company’s platform helps organizations enforce security controls across environments",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical HVAC and UPS Vulnerabilities Could Let Hackers Disrupt Data Centers",
+    "link": "https://www.securityweek.com/critical-hvac-and-ups-vulnerabilities-could-let-hackers-disrupt-data-centers/",
+    "published": "Wed, 10 Jun 2026 12:07:58 +0000",
+    "summary": "<p>Claroty researchers have analyzed the security of Vertiv UPS network cards and the Trane Tracer SC+ HVAC controller.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-hvac-and-ups-vulnerabilities-could-let-hackers-disrupt-data-centers/\">Critical HVAC and UPS Vulnerabilities Could Let Hackers Disrupt Data Centers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Claroty researchers have analyzed the security of Vertiv UPS network cards and the Trane Tracer SC+ HVAC controller",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "CISO Forum Webinar Today: 2026 Mid-Year Review",
+    "link": "https://www.securityweek.com/ciso-forum-webinar-today-2026-mid-year-review/",
+    "published": "Wed, 10 Jun 2026 12:00:00 +0000",
+    "summary": "<p>Learn more about protecting against unmonitored use of generative AI (Shadow AI) in business units and building and enforcing AI governance frameworks.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-forum-webinar-today-2026-mid-year-review/\">CISO Forum Webinar Today: 2026 Mid-Year Review</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Learn more about protecting against unmonitored use of generative AI (Shadow AI) in business units and building and enforcing AI governance frameworks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
   },
   {
     "source": "Security Week",
@@ -532,11 +676,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-41091",
-        "CVE-2026-33825",
         "CVE-2026-45498",
+        "CVE-2026-33825",
+        "CVE-2026-45586",
         "CVE-2026-50507",
-        "CVE-2026-45586"
+        "CVE-2026-41091"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -593,11 +737,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-10727",
-        "CVE-2026-6973",
         "CVE-2026-10523",
         "CVE-2026-25089",
-        "CVE-2026-10520"
+        "CVE-2026-6973",
+        "CVE-2026-10520",
+        "CVE-2026-10727"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -625,109 +769,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "No Patch Planned for Exploited Arista EOS Vulnerability",
-    "link": "https://www.securityweek.com/no-patch-planned-for-exploited-arista-eos-vulnerability/",
-    "published": "Wed, 10 Jun 2026 06:38:32 +0000",
-    "summary": "<p>Organizations are advised to apply vendor-supplied mitigations or discontinue the vulnerable devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/no-patch-planned-for-exploited-arista-eos-vulnerability/\">No Patch Planned for Exploited Arista EOS Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Organizations are advised to apply vendor-supplied mitigations or discontinue the vulnerable devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-11645",
-        "CVE-2026-7473",
-        "CVE-2026-20245"
-      ],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft Patches 200 Vulnerabilities",
-    "link": "https://www.securityweek.com/microsoft-patches-200-vulnerabilities/",
-    "published": "Tue, 09 Jun 2026 19:04:08 +0000",
-    "summary": "<p>Three of the vulnerabilities fixed with the latest Patch Tuesday updates were publicly disclosed before Microsoft addressed them.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-200-vulnerabilities/\">Microsoft Patches 200 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Three of the vulnerabilities fixed with the latest Patch Tuesday updates were publicly disclosed before Microsoft addressed them",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-45586",
-        "CVE-2026-49160",
-        "CVE-2026-50507"
-      ],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Adobe Patches 123 Vulnerabilities",
-    "link": "https://www.securityweek.com/adobe-patches-123-vulnerabilities/",
-    "published": "Tue, 09 Jun 2026 18:20:54 +0000",
-    "summary": "<p>Nearly half of the security holes, most allowing arbitrary code execution, have been fixed in Adobe’s Experience Manager product.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-123-vulnerabilities/\">Adobe Patches 123 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Nearly half of the security holes, most allowing arbitrary code execution, have been fixed in Adobe’s Experience Manager product",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Anthropic Launches Claude Fable 5: Mythos-Class AI With Cybersecurity Guardrails",
-    "link": "https://www.securityweek.com/anthropic-launches-claude-fable-5-mythos-class-ai-with-cybersecurity-guardrails/",
-    "published": "Tue, 09 Jun 2026 17:02:08 +0000",
-    "summary": "<p>The AI giant also announced that Project Glasswing partners are being given access to the upgraded Mythos 5.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-launches-claude-fable-5-mythos-class-ai-with-cybersecurity-guardrails/\">Anthropic Launches Claude Fable 5: Mythos-Class AI With Cybersecurity Guardrails </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The AI giant also announced that Project Glasswing partners are being given access to the upgraded Mythos 5",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "OpenSSL Patches High-Severity Vulnerability Found With AI",
-    "link": "https://www.securityweek.com/openssl-patches-high-severity-vulnerability-found-with-ai/",
-    "published": "Tue, 09 Jun 2026 16:47:58 +0000",
-    "summary": "<p>A total of 18 vulnerabilities have been patched in the latest OpenSSL releases, including many that were potentially discovered by AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/openssl-patches-high-severity-vulnerability-found-with-ai/\">OpenSSL Patches High-Severity Vulnerability Found With AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A total of 18 vulnerabilities have been patched in the latest OpenSSL releases, including many that were potentially discovered by AI",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-45447"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Microsoft Patch Tuesday for June 2026 — Snort rules and prominent vulnerabilities",
     "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities/",
@@ -740,15 +781,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42992",
-        "CVE-2026-47289",
-        "CVE-2026-44803",
-        "CVE-2026-44812",
-        "CVE-2026-44799",
-        "CVE-2026-42985",
-        "CVE-2026-48563",
         "CVE-2026-44801",
-        "CVE-2026-47291"
+        "CVE-2026-44799",
+        "CVE-2026-44803",
+        "CVE-2026-47291",
+        "CVE-2026-48563",
+        "CVE-2026-47289",
+        "CVE-2026-42985",
+        "CVE-2026-42992",
+        "CVE-2026-44812"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -858,10 +899,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-22554",
         "CVE-2026-25104",
-        "CVE-2026-25713",
-        "CVE-2026-28764"
+        "CVE-2026-22554",
+        "CVE-2026-28764",
+        "CVE-2026-25713"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -925,6 +966,24 @@
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "2026 FIFA World Cup: What Public Safety Officials Need to Know",
+    "link": "https://www.recordedfuture.com/blog/2026-fifa-world-cup-cyber-physical-threats-security-guide",
+    "published": "Wed, 10 Jun 2026 00:00:00 GMT",
+    "summary": "Prepare for the 2026 FIFA World Cup with expert analysis of the physical and cyber threat landscape. Discover key mitigation strategies for host city officials to ensure public safety",
+    "analysis": {
+      "issue": "Prepare for the 2026 FIFA World Cup with expert analysis of the physical and cyber threat landscape",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1087,24 +1146,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Beyond Acceleration and Automation: How AI + Intelligence Changes Cyber Defense",
-    "link": "https://www.recordedfuture.com/blog/ai-intelligence-cyber-defense",
-    "published": "Thu, 14 May 2026 00:00:00 GMT",
-    "summary": "The real question in modern cyber defense isn't who has more technology. It's who uses their resources more efficiently. Here's how AI fused with threat intelligence tips that balance.",
-    "analysis": {
-      "issue": "The real question in modern cyber defense isn't who has more technology",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1275,8 +1316,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1301,6 +1342,42 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Microsoft’s biggest-ever Patch Tuesday fixes 206 bugs, including 3 zero-days",
+    "link": "https://www.malwarebytes.com/blog/bugs/2026/06/microsofts-biggest-ever-patch-tuesday-fixes-206-bugs-including-3-zero-days",
+    "published": "Wed, 10 Jun 2026 12:43:48 GMT",
+    "summary": "June 2026 is the largest Patch Tuesday in history,  fixing 206 vulnerabilities and three publicly disclosed zero-days.",
+    "analysis": {
+      "issue": "This month’s Patch Tuesday fixes 206 security flaws in Microsoft software, making it the biggest Patch Tuesday release ever",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "88% of people struggle to tell what&#8217;s real online",
+    "link": "https://www.malwarebytes.com/blog/ai/2026/06/88-of-people-struggle-to-tell-whats-real-online",
+    "published": "Wed, 10 Jun 2026 11:45:00 GMT",
+    "summary": "As AI-generated scams, deepfakes, and impersonation spread, a new Malwarebytes report finds people increasingly unsure what to trust online.",
+    "analysis": {
+      "issue": "What would you trade for a technology that can do almost anything",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
       ]
     }
   },
@@ -1449,42 +1526,6 @@
       "threat_categories": [
         "Data Breach",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Meta&#8217;s AI support bot happily handed Instagram accounts to hackers",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/06/metas-ai-support-bot-happily-handed-instagram-accounts-to-hackers",
-    "published": "Thu, 04 Jun 2026 09:09:09 GMT",
-    "summary": "Hackers convinced an AI support bot to hand over Instagram accounts by changing recovery email addresses.",
-    "analysis": {
-      "issue": "Customer service chatbots have one job: get the user what they’re asking for without bothering a human",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "We found this fake-invoice campaign while scammers were still building it",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/06/we-found-this-fake-invoice-campaign-while-scammers-were-still-building-it",
-    "published": "Wed, 03 Jun 2026 18:05:19 GMT",
-    "summary": "Invoices pretending to be from Amazon, PayPal, and others reveal how criminals use fear and phone calls to steal money and devices.",
-    "analysis": {
-      "issue": "A new batch of fake payment invoices is being staged right now, and we caught the campaign while it was still being put together",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
