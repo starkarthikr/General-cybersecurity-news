@@ -210,7 +210,7 @@
     "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
     "published": "Tue, 09 Jun 2026 19:11:18 -0400",
-    "summary": "[...]",
+    "summary": "A security researcher has released a new Microsoft Defender zero-day exploit named \"RoguePlanet\" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday. [...]",
     "analysis": {
       "issue": "A security researcher has released a new Microsoft Defender zero-day exploit named \"RoguePlanet\" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday",
       "solution": null,
@@ -272,8 +272,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44748",
-        "CVE-2026-27671"
+        "CVE-2026-27671",
+        "CVE-2026-44748"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -375,23 +375,7 @@
     "title": "A Record-Breaking Patch Tuesday for June 2026",
     "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
     "published": "Tue, 09 Jun 2026 22:07:28 +0000",
-    "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploit code for at least three of the weaknesses is now publicly available.",
-    "analysis": {
-      "issue": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company’s monthly Patch Tuesday cycle",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-45586",
-        "CVE-2026-49160",
-        "CVE-2026-50507"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "DDoS"
-      ]
-    }
+    "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploit code for at least three of the weaknesses is now publicly available."
   },
   {
     "source": "Krebs On Security",
@@ -529,7 +513,19 @@
     "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
     "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
     "published": "Thu, 30 Apr 2026 14:04:26 +0000",
-    "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm's chief executive says the malicious activity resulted from a security breach and was likely the work of a competitor trying to tarnish his company's public image."
+    "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm's chief executive says the malicious activity resulted from a security breach and was likely the work of a competitor trying to tarnish his company's public image.",
+    "analysis": {
+      "issue": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOn",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "DDoS"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -563,8 +559,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
         "CVE-2026-50507",
+        "CVE-2026-45586",
         "CVE-2026-49160"
       ],
       "threat_categories": [
@@ -681,9 +677,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-22732",
-        "CVE-2026-44748",
         "CVE-2026-27671",
-        "CVE-2026-40128"
+        "CVE-2026-40128",
+        "CVE-2026-44748"
       ],
       "threat_categories": [
         "Ransomware",
@@ -747,8 +743,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50752",
-        "CVE-2026-50751"
+        "CVE-2026-50751",
+        "CVE-2026-50752"
       ],
       "threat_categories": [
         "Ransomware",
@@ -769,15 +765,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44801",
-        "CVE-2026-42985",
-        "CVE-2026-44812",
-        "CVE-2026-47291",
         "CVE-2026-44803",
+        "CVE-2026-44799",
+        "CVE-2026-44801",
+        "CVE-2026-48563",
+        "CVE-2026-44812",
+        "CVE-2026-42985",
         "CVE-2026-47289",
         "CVE-2026-42992",
-        "CVE-2026-48563",
-        "CVE-2026-44799"
+        "CVE-2026-47291"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -887,10 +883,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-22554",
         "CVE-2026-25104",
         "CVE-2026-28764",
-        "CVE-2026-25713"
+        "CVE-2026-25713",
+        "CVE-2026-22554"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -948,8 +944,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-30814",
-        "CVE-2026-30816",
-        "CVE-2026-30815"
+        "CVE-2026-30815",
+        "CVE-2026-30816"
       ],
       "threat_categories": [
         "Vulnerability",

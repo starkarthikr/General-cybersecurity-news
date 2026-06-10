@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-10 04:15:06 UTC
+**Last Updated:** 2026-06-10 04:57:44 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -139,7 +139,7 @@
 **Source:** Bleeping Computer  
 **Published:** Tue, 09 Jun 2026 15:36:27 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44748, CVE-2026-27671  
+**CVEs:** CVE-2026-27671, CVE-2026-44748  
 **Categories:** Vulnerability  
 
 ---
@@ -193,9 +193,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
-**Categories:** Vulnerability, DDoS  
 
 ---
 
@@ -266,6 +263,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Thu, 30 Apr 2026 14:04:26 +0000  
+**Severity:** Low  
+**Categories:** Malware, DDoS  
 
 ---
 
@@ -283,7 +282,7 @@
 **Source:** Security Week  
 **Published:** Tue, 09 Jun 2026 19:04:08 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
+**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
 **Categories:** Data Breach, Vulnerability, Supply Chain  
 
 ---
@@ -339,7 +338,7 @@
 **Source:** Security Week  
 **Published:** Tue, 09 Jun 2026 12:15:30 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-22732, CVE-2026-44748, CVE-2026-27671, CVE-2026-40128  
+**CVEs:** CVE-2026-22732, CVE-2026-27671, CVE-2026-40128, CVE-2026-44748  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -367,7 +366,7 @@
 **Source:** Security Week  
 **Published:** Tue, 09 Jun 2026 09:47:10 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50752, CVE-2026-50751  
+**CVEs:** CVE-2026-50751, CVE-2026-50752  
 **Categories:** Ransomware, Vulnerability  
 
 ---
@@ -377,7 +376,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44801, CVE-2026-42985, CVE-2026-44812, CVE-2026-47291, CVE-2026-44803, CVE-2026-47289, CVE-2026-42992, CVE-2026-48563, CVE-2026-44799  
+**CVEs:** CVE-2026-44803, CVE-2026-44799, CVE-2026-44801, CVE-2026-48563, CVE-2026-44812, CVE-2026-42985, CVE-2026-47289, CVE-2026-42992, CVE-2026-47291  
 **Categories:** Vulnerability  
 
 ---
@@ -432,7 +431,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-25104, CVE-2026-28764, CVE-2026-25713  
+**CVEs:** CVE-2026-25104, CVE-2026-28764, CVE-2026-25713, CVE-2026-22554  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -460,7 +459,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30814, CVE-2026-30816, CVE-2026-30815  
+**CVEs:** CVE-2026-30814, CVE-2026-30815, CVE-2026-30816  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
