@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-09 18:30:33 UTC
+**Last Updated:** 2026-06-10 04:15:06 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -98,7 +98,62 @@
 
 ---
 
-### 11. [Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/)
+### 11. [Anthropic rolls out Claude Fable 5, but it's available for a limited time](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 09 Jun 2026 22:03:31 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 09 Jun 2026 19:11:18 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 13. [ServiceNow discloses security incident exposing customer data](https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 09 Jun 2026 17:34:09 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [OpenClaw AI agent found falling for phishing attacks, spills user data](https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 09 Jun 2026 17:20:20 -0400  
+**Severity:** High  
+**Categories:** Phishing  
+
+---
+
+### 15. [SAP fixes critical flaws in NetWeaver and Commerce Cloud](https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 09 Jun 2026 15:36:27 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-44748, CVE-2026-27671  
+**Categories:** Vulnerability  
+
+---
+
+### 16. [Microsoft releases Windows 10 KB5094127 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/)
+
+**Source:** Bleeping Computer  
+**Published:** Tue, 09 Jun 2026 14:35:00 -0400  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 17. [Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 09 Jun 2026 13:57:59 -0400  
@@ -107,7 +162,7 @@
 
 ---
 
-### 12. [Windows 11 KB5094126 & KB5093998 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/)
+### 18. [Windows 11 KB5094126 & KB5093998 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 09 Jun 2026 13:32:32 -0400  
@@ -116,7 +171,7 @@
 
 ---
 
-### 13. [XBOW tests Anthropic's Mythos Preview for offensive security](https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/)
+### 19. [XBOW tests Anthropic's Mythos Preview for offensive security](https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 09 Jun 2026 12:16:38 -0400  
@@ -125,7 +180,7 @@
 
 ---
 
-### 14. [GitHub disables Microsoft repos pushing password-stealing malware](https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/)
+### 20. [GitHub disables Microsoft repos pushing password-stealing malware](https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 09 Jun 2026 11:42:40 -0400  
@@ -134,64 +189,17 @@
 
 ---
 
-### 15. [New Veeam vulnerability exposes backup servers to RCE attacks](https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/)
+### 21. [A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/)
 
-**Source:** Bleeping Computer  
-**Published:** Tue, 09 Jun 2026 10:27:56 -0400  
+**Source:** Krebs On Security  
+**Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44963  
-**Categories:** Vulnerability  
+**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
+**Categories:** Vulnerability, DDoS  
 
 ---
 
-### 16. [French govt messaging service breached in account hijacking attack](https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 09 Jun 2026 06:53:00 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 17. [CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 09 Jun 2026 04:18:39 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-50751  
-**Categories:** Ransomware, Vulnerability  
-
----
-
-### 18. [Google patches new Chrome zero-day flaw exploited in the wild](https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 09 Jun 2026 02:56:27 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-11645  
-**Categories:** Vulnerability  
-
----
-
-### 19. [NFCShare Android malware spreads via fake banking app updates on GitHub](https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 08 Jun 2026 18:11:58 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware, Phishing  
-
----
-
-### 20. [SoFi confirms third-party data breach at Hong Kong subsidiary](https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 08 Jun 2026 17:55:46 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
-
----
-
-### 21. [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)
+### 22. [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 01 Jun 2026 17:32:50 +0000  
@@ -200,7 +208,7 @@
 
 ---
 
-### 22. [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
+### 23. [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 25 May 2026 13:21:49 +0000  
@@ -209,7 +217,7 @@
 
 ---
 
-### 23. [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
+### 24. [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 22 May 2026 16:34:24 +0000  
@@ -218,7 +226,7 @@
 
 ---
 
-### 24. [Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/)
+### 25. [Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 21 May 2026 21:50:25 +0000  
@@ -227,7 +235,7 @@
 
 ---
 
-### 25. [CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
+### 26. [CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
 
 **Source:** Krebs On Security  
 **Published:** Mon, 18 May 2026 20:48:21 +0000  
@@ -236,7 +244,7 @@
 
 ---
 
-### 26. [Patch Tuesday, May 2026 Edition](https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/)
+### 27. [Patch Tuesday, May 2026 Edition](https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 12 May 2026 21:46:45 +0000  
@@ -245,7 +253,7 @@
 
 ---
 
-### 27. [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
+### 28. [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
 
 **Source:** Krebs On Security  
 **Published:** Fri, 08 May 2026 02:58:46 +0000  
@@ -254,16 +262,14 @@
 
 ---
 
-### 28. [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
+### 29. [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
 
 **Source:** Krebs On Security  
 **Published:** Thu, 30 Apr 2026 14:04:26 +0000  
-**Severity:** Low  
-**Categories:** Malware, DDoS  
 
 ---
 
-### 29. [‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/)
+### 30. [‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/)
 
 **Source:** Krebs On Security  
 **Published:** Tue, 21 Apr 2026 14:53:59 +0000  
@@ -272,17 +278,17 @@
 
 ---
 
-### 30. [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
+### 31. [Microsoft Patches 200 Vulnerabilities](https://www.securityweek.com/microsoft-patches-200-vulnerabilities/)
 
-**Source:** Krebs On Security  
-**Published:** Tue, 14 Apr 2026 21:47:59 +0000  
+**Source:** Security Week  
+**Published:** Tue, 09 Jun 2026 19:04:08 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-32201, CVE-2026-33825, CVE-2026-34621  
-**Categories:** Vulnerability, Phishing  
+**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
+**Categories:** Data Breach, Vulnerability, Supply Chain  
 
 ---
 
-### 31. [Adobe Patches 123 Vulnerabilities](https://www.securityweek.com/adobe-patches-123-vulnerabilities/)
+### 32. [Adobe Patches 123 Vulnerabilities](https://www.securityweek.com/adobe-patches-123-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Tue, 09 Jun 2026 18:20:54 +0000  
@@ -291,7 +297,7 @@
 
 ---
 
-### 32. [Anthropic Launches Claude Fable 5: Mythos-Class AI With Cybersecurity Guardrails](https://www.securityweek.com/anthropic-launches-claude-fable-5-mythos-class-ai-with-cybersecurity-guardrails/)
+### 33. [Anthropic Launches Claude Fable 5: Mythos-Class AI With Cybersecurity Guardrails](https://www.securityweek.com/anthropic-launches-claude-fable-5-mythos-class-ai-with-cybersecurity-guardrails/)
 
 **Source:** Security Week  
 **Published:** Tue, 09 Jun 2026 17:02:08 +0000  
@@ -300,7 +306,7 @@
 
 ---
 
-### 33. [OpenSSL Patches High-Severity Vulnerability Found With AI](https://www.securityweek.com/openssl-patches-high-severity-vulnerability-found-with-ai/)
+### 34. [OpenSSL Patches High-Severity Vulnerability Found With AI](https://www.securityweek.com/openssl-patches-high-severity-vulnerability-found-with-ai/)
 
 **Source:** Security Week  
 **Published:** Tue, 09 Jun 2026 16:47:58 +0000  
@@ -310,7 +316,7 @@
 
 ---
 
-### 34. [Claude Mythos Turns N-Days Into N-Hours With Rapid Exploit Creation](https://www.securityweek.com/claude-mythos-turns-n-days-into-n-hours-with-rapid-exploit-creation/)
+### 35. [Claude Mythos Turns N-Days Into N-Hours With Rapid Exploit Creation](https://www.securityweek.com/claude-mythos-turns-n-days-into-n-hours-with-rapid-exploit-creation/)
 
 **Source:** Security Week  
 **Published:** Tue, 09 Jun 2026 15:03:13 +0000  
@@ -319,7 +325,7 @@
 
 ---
 
-### 35. [New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications](https://www.securityweek.com/new-platform-uses-cryptographic-invisibility-to-protect-ai-built-applications/)
+### 36. [New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications](https://www.securityweek.com/new-platform-uses-cryptographic-invisibility-to-protect-ai-built-applications/)
 
 **Source:** Security Week  
 **Published:** Tue, 09 Jun 2026 13:00:00 +0000  
@@ -328,17 +334,17 @@
 
 ---
 
-### 36. [SAP Patches Critical NetWeaver, Commerce Vulnerabilities](https://www.securityweek.com/sap-patches-critical-netweaver-commerce-vulnerabilities/)
+### 37. [SAP Patches Critical NetWeaver, Commerce Vulnerabilities](https://www.securityweek.com/sap-patches-critical-netweaver-commerce-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Tue, 09 Jun 2026 12:15:30 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-27671, CVE-2026-44748, CVE-2026-22732, CVE-2026-40128  
+**CVEs:** CVE-2026-22732, CVE-2026-44748, CVE-2026-27671, CVE-2026-40128  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 37. [Over 100 NPM, PyPI Packages Hit in New Shai-Hulud Supply Chain Attacks](https://www.securityweek.com/over-100-npm-pypi-packages-hit-in-new-shai-hulud-supply-chain-attacks/)
+### 38. [Over 100 NPM, PyPI Packages Hit in New Shai-Hulud Supply Chain Attacks](https://www.securityweek.com/over-100-npm-pypi-packages-hit-in-new-shai-hulud-supply-chain-attacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 09 Jun 2026 11:37:11 +0000  
@@ -347,7 +353,7 @@
 
 ---
 
-### 38. [Will AI Kill the Bug Bounty Industry?](https://www.securityweek.com/will-ai-kill-the-bug-bounty-industry/)
+### 39. [Will AI Kill the Bug Bounty Industry?](https://www.securityweek.com/will-ai-kill-the-bug-bounty-industry/)
 
 **Source:** Security Week  
 **Published:** Tue, 09 Jun 2026 11:00:00 +0000  
@@ -356,27 +362,27 @@
 
 ---
 
-### 39. [Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks](https://www.securityweek.com/check-point-vpn-zero-day-exploited-in-qilin-ransomware-attacks/)
+### 40. [Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks](https://www.securityweek.com/check-point-vpn-zero-day-exploited-in-qilin-ransomware-attacks/)
 
 **Source:** Security Week  
 **Published:** Tue, 09 Jun 2026 09:47:10 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50751, CVE-2026-50752  
+**CVEs:** CVE-2026-50752, CVE-2026-50751  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 40. [Google Patches 5th Chrome Zero-Day Exploited in 2026](https://www.securityweek.com/google-patches-5th-chrome-zero-day-exploited-in-2026/)
+### 41. [Microsoft Patch Tuesday for June 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities/)
 
-**Source:** Security Week  
-**Published:** Tue, 09 Jun 2026 05:57:40 +0000  
+**Source:** Talos Blog  
+**Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-11645, CVE-2026-5281, CVE-2026-3909, CVE-2026-3910, CVE-2026-2441  
+**CVEs:** CVE-2026-44801, CVE-2026-42985, CVE-2026-44812, CVE-2026-47291, CVE-2026-44803, CVE-2026-47289, CVE-2026-42992, CVE-2026-48563, CVE-2026-44799  
 **Categories:** Vulnerability  
 
 ---
 
-### 41. [Reporting from Vegas: Networking, AI, and good boys](https://blog.talosintelligence.com/reporting-from-vegas-networking-ai-and-good-boys/)
+### 42. [Reporting from Vegas: Networking, AI, and good boys](https://blog.talosintelligence.com/reporting-from-vegas-networking-ai-and-good-boys/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 04 Jun 2026 18:00:59 GMT  
@@ -385,7 +391,7 @@
 
 ---
 
-### 42. [Winning the cyber marathon with Tony Giandomenico](https://blog.talosintelligence.com/winning-the-cyber-marathon-with-tony-giandomenico/)
+### 43. [Winning the cyber marathon with Tony Giandomenico](https://blog.talosintelligence.com/winning-the-cyber-marathon-with-tony-giandomenico/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 04 Jun 2026 12:05:31 GMT  
@@ -394,7 +400,7 @@
 
 ---
 
-### 43. [Hypotheses, telemetry, and human judgment: Inside Cisco Talos Threat Hunting](https://blog.talosintelligence.com/hypotheses-telemetry-and-human-judgment-inside-cisco-talos-threat-hunting/)
+### 44. [Hypotheses, telemetry, and human judgment: Inside Cisco Talos Threat Hunting](https://blog.talosintelligence.com/hypotheses-telemetry-and-human-judgment-inside-cisco-talos-threat-hunting/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 04 Jun 2026 12:05:05 GMT  
@@ -403,7 +409,7 @@
 
 ---
 
-### 44. [Less panic patching, more precision](https://blog.talosintelligence.com/less-panic-patching-more-precision/)
+### 45. [Less panic patching, more precision](https://blog.talosintelligence.com/less-panic-patching-more-precision/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 28 May 2026 18:00:27 GMT  
@@ -412,7 +418,7 @@
 
 ---
 
-### 45. [DICOM, Pydicom, GDCM, and Orthanc: A technical tour of what really happens in the heap](https://blog.talosintelligence.com/dicom-pydicom-gdcm-and-orthanc-a-technical-tour-of-what-really-happens-in-the-heap/)
+### 46. [DICOM, Pydicom, GDCM, and Orthanc: A technical tour of what really happens in the heap](https://blog.talosintelligence.com/dicom-pydicom-gdcm-and-orthanc-a-technical-tour-of-what-really-happens-in-the-heap/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 28 May 2026 10:00:52 GMT  
@@ -421,17 +427,17 @@
 
 ---
 
-### 46. [MediaArea heap-based buffer overflow vulnerabilities](https://blog.talosintelligence.com/mediaarea-heap-based-buffer-overflow-vulnerabilities/)
+### 47. [MediaArea heap-based buffer overflow vulnerabilities](https://blog.talosintelligence.com/mediaarea-heap-based-buffer-overflow-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25713, CVE-2026-28764, CVE-2026-22554, CVE-2026-25104  
+**CVEs:** CVE-2026-22554, CVE-2026-25104, CVE-2026-28764, CVE-2026-25713  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 47. [Introducing EvidenceForge: Synthetic security logs that don’t look (as) fake](https://blog.talosintelligence.com/introducing-evidenceforge-synthetic-security-logs-that-dont-look-as-fake/)
+### 48. [Introducing EvidenceForge: Synthetic security logs that don’t look (as) fake](https://blog.talosintelligence.com/introducing-evidenceforge-synthetic-security-logs-that-dont-look-as-fake/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 10:00:47 GMT  
@@ -440,7 +446,7 @@
 
 ---
 
-### 48. [The art of being ungovernable](https://blog.talosintelligence.com/the-art-of-being-ungovernable/)
+### 49. [The art of being ungovernable](https://blog.talosintelligence.com/the-art-of-being-ungovernable/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 21 May 2026 18:00:14 GMT  
@@ -449,22 +455,13 @@
 
 ---
 
-### 49. [TP-Link, Photoshop, OpenVPN, Norton VPN vulnerabilities](https://blog.talosintelligence.com/tp-link-photoshop-openvpn-norton-vpn-vulnerabilities/)
+### 50. [TP-Link, Photoshop, OpenVPN, Norton VPN vulnerabilities](https://blog.talosintelligence.com/tp-link-photoshop-openvpn-norton-vpn-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30816, CVE-2026-30815, CVE-2026-30814  
+**CVEs:** CVE-2026-30814, CVE-2026-30816, CVE-2026-30815  
 **Categories:** Vulnerability, Supply Chain  
-
----
-
-### 50. [From PDB strings to MaaS: Tracking a commodity BadIIS ecosystem used by Chinese-speaking threat](https://blog.talosintelligence.com/from-pdb-strings-to-maas-tracking-a-commodity-badiis-ecosystem/)
-
-**Source:** Talos Blog  
-**Published:** Tue, 19 May 2026 10:00:20 GMT  
-**Severity:** High  
-**Categories:** Malware  
 
 ---
 
