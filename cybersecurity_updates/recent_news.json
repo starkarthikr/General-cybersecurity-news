@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
+    "link": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
+    "published": "Thu, 11 Jun 2026 18:56:13 +0530",
+    "summary": "Most good security work is invisible by design. Today is the exception.\n\nThe 2026 Cybersecurity Stars Awards winners are announced across 95 subcategories in four main award categories.\n\nThe reason is simple. Cybersecurity is full of work that deserves recognition and rarely gets it. Products that quietly close real gaps. Teams that stop incidents nobody reads about. Companies that raise the",
+    "analysis": {
+      "issue": "2026 Cybersecurity Stars winners announced after independent judging, honoring cybersecurity innovation, impact, and excellence",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories",
+    "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
+    "published": "Thu, 11 Jun 2026 18:50:41 +0530",
+    "summary": "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones browsers, and research showing AI agents can be tricked into leaking real credentials.\n\nThe bigger problem is how polished this all looks now. Mule networks run like SaaS.",
+    "analysis": {
+      "issue": "Cybersecurity roundup: supply chain threats, AI agent risks, browser-cloning malware, mule networks, endpoint bypasses, and key security updates",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
     "link": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
     "published": "Thu, 11 Jun 2026 17:00:00 +0530",
@@ -147,38 +185,77 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs",
-    "link": "https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html",
-    "published": "Wed, 10 Jun 2026 15:08:13 +0530",
-    "summary": "Microsoft on Tuesday released fixes for a record 206 security vulnerabilities impacting its software portfolio, including three flaws that have been publicly disclosed at the time of release.\n\nOf the 206 flaws, 39 are rated Critical, and 167 are rated Important in severity. This includes 63 privilege escalation, 56 remote code execution, 30 information disclosure, 27 spoofing, 20 security",
+    "source": "Bleeping Computer",
+    "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
+    "link": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
+    "published": "Thu, 11 Jun 2026 11:55:41 -0400",
+    "summary": "Law enforcement has dismantled the &ldquo;AudiA6&rdquo; cryptocurrency service&nbsp;allegedly used by ransomware actors and other cybercriminals to launder more than $380 million. [...]",
     "analysis": {
-      "issue": "Microsoft released fixes for 206 vulnerabilities across its software portfolio, including 39 Critical flaws and three publicly disclosed zero-days",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards",
-    "link": "https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html",
-    "published": "Wed, 10 Jun 2026 13:07:59 +0530",
-    "summary": "On June 9, Anthropic released Claude Fable 5, the most capable model it has ever made, generally available. It also did something unusual: it shipped one model as two products, split not by capability but by a layer of safety classifiers.\n\nFable 5 goes to the public. Its twin, Claude Mythos 5, the same underlying model with the cyber safeguards lifted, stays locked to a vetted group of cyber",
-    "analysis": {
-      "issue": "Anthropic split Fable 5 and Mythos 5 by cyber safeguards, giving vetted defenders stronger capabilities while limiting public misuse",
+      "issue": "Law enforcement has dismantled the “AudiA6” cryptocurrency service allegedly used by ransomware actors and other cybercriminals to launder more than $380 million",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
+    "link": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
+    "published": "Thu, 11 Jun 2026 10:00:10 -0400",
+    "summary": "AI-driven attacks are exposing the limits of fragmented MSP security stacks and slow response workflows. Kaseya breaks down why integrated security, automation, and recovery are becoming essential. [...]",
+    "analysis": {
+      "issue": "AI is transforming the speed and scale of cybercrime in ways traditional security operations were never designed to handle",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Coupang hit with record $409 million data breach fine in Korea",
+    "link": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
+    "published": "Thu, 11 Jun 2026 08:52:41 -0400",
+    "summary": "​​The Personal Information Protection Commission (PIPC), South Korea's data protection regulator, has fined e-commerce giant Coupang a record 624.6 billion won (roughly $409 million) following a massive data breach affecting more than 37 million customers [...]",
+    "analysis": {
+      "issue": "​​The Personal Information Protection Commission (PIPC), South Korea's data protection regulator, has fined e-commerce giant Coupang a record 624",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
+    "published": "Thu, 11 Jun 2026 08:46:44 -0400",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced a new Binding Operational Directive, 26-04, that prioritizes security updates for Federal Civilian Executive Branch (FCEB) agencies. [...]",
+    "analysis": {
+      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) announced a new Binding Operational Directive, 26-04, that prioritizes security updates for Federal Civilian Executive Branch (FCEB) agencies",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -298,86 +375,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
-    "published": "Wed, 10 Jun 2026 14:31:57 -0400",
-    "summary": "Oracle PeopleSoft servers are being targeted in ongoing data theft attacks by the ShinyHunters extortion gang, which claims to have stolen data from over 100 organizations. [...]",
-    "analysis": {
-      "issue": "Oracle PeopleSoft servers are being targeted in ongoing data theft attacks by the ShinyHunters extortion gang, which claims to have stolen data from over 100 organizations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "China-linked JDY botnet expands targeting of U.S. military networks",
-    "link": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
-    "published": "Wed, 10 Jun 2026 11:00:00 -0400",
-    "summary": "The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]",
-    "analysis": {
-      "issue": "The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT",
-        "DDoS"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "The 5 Best Practices for Secure Identity Verification",
-    "link": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
-    "published": "Wed, 10 Jun 2026 10:05:15 -0400",
-    "summary": "Attackers are increasingly bypassing weak authentication through phishing, MFA fatigue, and service desk social engineering. Specops Software breaks down five best practices for stronger identity verification and access security. [...]",
-    "analysis": {
-      "issue": "Credential theft surged by 160% in 2025, contributing to one in five data breaches as attackers employed AI-driven attacks to bypass traditional defenses",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
-    "published": "Wed, 10 Jun 2026 09:44:19 -0400",
-    "summary": "Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site scripting (XSS) attacks targeting Outlook Web Access users. [...]",
-    "analysis": {
-      "issue": "Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site scripting (XSS) attacks targeting Outlook Web Access users",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-42897"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
     "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
@@ -410,8 +407,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-49160",
+        "CVE-2026-50507",
         "CVE-2026-45586"
       ],
       "threat_categories": [
@@ -572,6 +569,86 @@
   },
   {
     "source": "Security Week",
+    "title": "Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks",
+    "link": "https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/",
+    "published": "Thu, 11 Jun 2026 13:57:54 +0000",
+    "summary": "<p>Oracle has released mitigations for CVE-2026-35273, but it has not said whether it’s a zero-day exploited in ShinyHunters attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/\">Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Oracle has released mitigations for CVE-2026-35273, but it has not said whether it’s a zero-day exploited in ShinyHunters attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-35273"
+      ],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Alert Fatigue Is Becoming a Security Threat of Its Own",
+    "link": "https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/",
+    "published": "Thu, 11 Jun 2026 13:45:00 +0000",
+    "summary": "<p>As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from the noise.</p>\n<p>The post <a href=\"https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/\">Alert Fatigue Is Becoming a Security Threat of Its Own</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from the noise",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk",
+    "link": "https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/",
+    "published": "Thu, 11 Jun 2026 13:01:14 +0000",
+    "summary": "<p>The new BOD 26-04 requires agencies to review and update vulnerability management policies with a focus on KEV catalog entries.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/\">CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The new BOD 26-04 requires agencies to review and update vulnerability management policies with a focus on KEV catalog entries",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month",
+    "link": "https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/",
+    "published": "Thu, 11 Jun 2026 13:00:00 +0000",
+    "summary": "<p>Researchers say the OnyxC2 malware targets more than 200 applications and extensions while evading detection through encrypted payloads, DLL sideloading, and in-memory execution techniques.</p>\n<p>The post <a href=\"https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/\">OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Researchers say the OnyxC2 malware targets more than 200 applications and extensions while evading detection through encrypted payloads, DLL sideloading, and in-memory execution techniques",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Hackers Exploit Langflow Vulnerability for Remote Code Execution",
     "link": "https://www.securityweek.com/hackers-exploit-langflow-vulnerability-for-remote-code-execution/",
     "published": "Thu, 11 Jun 2026 11:52:59 +0000",
@@ -641,8 +718,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-0274",
-        "CVE-2026-20253"
+        "CVE-2026-20253",
+        "CVE-2026-0274"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -687,84 +764,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Microsoft Patches Exploited Exchange Server Vulnerability",
-    "link": "https://www.securityweek.com/microsoft-patches-exploited-exchange-server-vulnerability/",
-    "published": "Thu, 11 Jun 2026 06:52:21 +0000",
-    "summary": "<p>The company warned about zero-day attacks exploiting the Exchange Server vulnerability CVE-2026-42897 on May 14. </p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-exploited-exchange-server-vulnerability/\">Microsoft Patches Exploited Exchange Server Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The company warned about zero-day attacks exploiting the Exchange Server vulnerability CVE-2026-42897 on May 14",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-42897"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Infostealers Turn Millions of Devices Into Credential Theft Machines",
-    "link": "https://www.securityweek.com/infostealers-turn-millions-of-devices-into-credential-theft-machines/",
-    "published": "Wed, 10 Jun 2026 14:00:00 +0000",
-    "summary": "<p>As attackers increasingly favor stolen credentials over exploits, infostealers have become a primary source of access for ransomware and other cybercrime operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/infostealers-turn-millions-of-devices-into-credential-theft-machines/\">Infostealers Turn Millions of Devices Into Credential Theft Machines</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "As attackers increasingly favor stolen credentials over exploits, infostealers have become a primary source of access for ransomware and other cybercrime operations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cyera Raises $600 Million at $12 Billion Valuation",
-    "link": "https://www.securityweek.com/cyera-raises-600-million-at-12-billion-valuation/",
-    "published": "Wed, 10 Jun 2026 13:48:36 +0000",
-    "summary": "<p>Cyera is positioned as one of the most valuable privately held cybersecurity firms in the world with total funding topping $2 billion.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyera-raises-600-million-at-12-billion-valuation/\">Cyera Raises $600 Million at $12 Billion Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Cyera is positioned as one of the most valuable privately held cybersecurity firms in the world with total funding topping $2 billion",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Aryon Security Raises $29 Million in Series A Funding",
-    "link": "https://www.securityweek.com/aryon-security-raises-29-million-in-series-a-funding/",
-    "published": "Wed, 10 Jun 2026 12:24:20 +0000",
-    "summary": "<p>In the post-Mythos era, the company’s platform helps organizations enforce security controls across environments.</p>\n<p>The post <a href=\"https://www.securityweek.com/aryon-security-raises-29-million-in-series-a-funding/\">Aryon Security Raises $29 Million in Series A Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "In the post-Mythos era, the company’s platform helps organizations enforce security controls across environments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Microsoft Patch Tuesday for June 2026 — Snort rules and prominent vulnerabilities",
     "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities/",
@@ -777,15 +776,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42985",
-        "CVE-2026-47289",
-        "CVE-2026-44799",
         "CVE-2026-44803",
-        "CVE-2026-44812",
-        "CVE-2026-42992",
-        "CVE-2026-47291",
+        "CVE-2026-42985",
         "CVE-2026-48563",
-        "CVE-2026-44801"
+        "CVE-2026-44812",
+        "CVE-2026-44801",
+        "CVE-2026-44799",
+        "CVE-2026-47289",
+        "CVE-2026-47291",
+        "CVE-2026-42992"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -895,9 +894,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-25104",
         "CVE-2026-28764",
         "CVE-2026-22554",
-        "CVE-2026-25104",
         "CVE-2026-25713"
       ],
       "threat_categories": [
@@ -955,13 +954,49 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30816",
         "CVE-2026-30814",
-        "CVE-2026-30815"
+        "CVE-2026-30815",
+        "CVE-2026-30816"
       ],
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Recorded Future Launches Impact and Metrics Dashboard",
+    "link": "https://www.recordedfuture.com/blog/impact-metrics-dashboard",
+    "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "summary": "See the business value of your intelligence program in one live, continuously updated dashboard, built for the conversations that matter most with the executives who own budget and strategy.",
+    "analysis": {
+      "issue": "See the business value of your intelligence program in one live, continuously updated dashboard, built for the conversations that matter most with the executives who own budget and strategy",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Cyber-Enabled Maritime Sanctions Evasion",
+    "link": "https://www.recordedfuture.com/research/cyber-maritime-sanctions-evasion",
+    "published": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "summary": "Discover how Iranian and Russian shadow fleets use a vast network of fake maritime websites and fraudulent documents to evade international sanctions",
+    "analysis": {
+      "issue": "Discover how Iranian and Russian shadow fleets use a vast network of fake maritime websites and fraudulent documents to evade international sanctions",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1106,42 +1141,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "At Mythos Speed: A Defender's Playbook for the AI Vulnerability Surge in 2026",
-    "link": "https://www.recordedfuture.com/blog/ai-vulnerability-playbook",
-    "published": "Tue, 19 May 2026 00:00:00 GMT",
-    "summary": "Frontier AI models like Mythos are making vulnerability discovery fast and cheap. Here's how defenders use threat intelligence and agentic processing to prioritize and act at the same speed.",
-    "analysis": {
-      "issue": "Frontier AI models like Mythos are making vulnerability discovery fast and cheap",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "April 2026 CVE Landscape",
-    "link": "https://www.recordedfuture.com/blog/april-cve-landscape",
-    "published": "Fri, 15 May 2026 00:00:00 GMT",
-    "summary": "In April 2026, Insikt Group® identified 37 high-impact vulnerabilities that should be prioritized for remediation, 35 of which had a Very Critical Recorded Future Risk Score. This represents a 19% increase from last month.",
-    "analysis": {
-      "issue": "In April 2026, Insikt Group® identified 37 high-impact vulnerabilities that should be prioritized for remediation, 35 of which had a Very Critical Recorded Future Risk Score",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -1312,8 +1311,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

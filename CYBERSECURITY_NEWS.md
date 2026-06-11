@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-11 12:28:01 UTC
+**Last Updated:** 2026-06-11 16:12:39 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.](https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html)
+### 1. [Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories](https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 11 Jun 2026 18:56:13 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 11 Jun 2026 18:50:41 +0530  
+**Severity:** Low  
+**Categories:** Data Breach, Malware, Supply Chain  
+
+---
+
+### 3. [AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.](https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 17:00:00 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack](https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html)
+### 4. [OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack](https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 15:15:58 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks](https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html)
+### 5. [GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks](https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 11:53:03 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance](https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html)
+### 6. [China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance](https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 10 Jun 2026 21:38:42 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities](https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html)
+### 7. [Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities](https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 10 Jun 2026 20:40:59 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE](https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html)
+### 8. [Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE](https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 10 Jun 2026 20:30:59 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation](https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html)
+### 9. [CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation](https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 10 Jun 2026 20:14:29 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar](https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html)
+### 10. [Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar](https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 10 Jun 2026 15:57:49 +0530  
@@ -77,25 +95,43 @@
 
 ---
 
-### 9. [Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs](https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html)
+### 11. [Authorities dismantle 'AudiA6' ransomware crypto-laundering service](https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 10 Jun 2026 15:08:13 +0530  
-**Severity:** Critical  
+**Source:** Bleeping Computer  
+**Published:** Thu, 11 Jun 2026 11:55:41 -0400  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 12. [Why AI-driven threats are exposing the limits of MSP security stacks](https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 11 Jun 2026 10:00:10 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Vulnerability, Malware, Phishing  
+
+---
+
+### 13. [Coupang hit with record $409 million data breach fine in Korea](https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 11 Jun 2026 08:52:41 -0400  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 14. [CISA tells govt agencies to patch critical exploited flaws in 3 days](https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 11 Jun 2026 08:46:44 -0400  
+**Severity:** High  
 **Categories:** Vulnerability  
 
 ---
 
-### 10. [Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards](https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 10 Jun 2026 13:07:59 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [Microsoft fixes BitLocker recovery bug on Windows Server 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/)
+### 15. [Microsoft fixes BitLocker recovery bug on Windows Server 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 11 Jun 2026 04:44:22 -0400  
@@ -104,7 +140,7 @@
 
 ---
 
-### 12. [Nottingham University data breach affects over 450,000 students](https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/)
+### 16. [Nottingham University data breach affects over 450,000 students](https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 11 Jun 2026 03:27:53 -0400  
@@ -113,7 +149,7 @@
 
 ---
 
-### 13. [Max severity Ivanti Sentry vulnerability now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/)
+### 17. [Max severity Ivanti Sentry vulnerability now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 11 Jun 2026 02:20:22 -0400  
@@ -123,7 +159,7 @@
 
 ---
 
-### 14. [Path traversal flaw in AI dev platform Langflow exploited in attacks](https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/)
+### 18. [Path traversal flaw in AI dev platform Langflow exploited in attacks](https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 10 Jun 2026 17:23:44 -0400  
@@ -133,7 +169,7 @@
 
 ---
 
-### 15. [The ‘Miasma’ worm source code briefly leaked on GitHub](https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/)
+### 19. [The ‘Miasma’ worm source code briefly leaked on GitHub](https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 10 Jun 2026 16:27:08 -0400  
@@ -142,49 +178,12 @@
 
 ---
 
-### 16. [GitHub announces npm security changes to tackle supply-chain attacks](https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/)
+### 20. [GitHub announces npm security changes to tackle supply-chain attacks](https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 10 Jun 2026 15:41:44 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 17. [Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks](https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 10 Jun 2026 14:31:57 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 18. [China-linked JDY botnet expands targeting of U.S. military networks](https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 10 Jun 2026 11:00:00 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware, APT, DDoS  
-
----
-
-### 19. [The 5 Best Practices for Secure Identity Verification](https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 10 Jun 2026 10:05:15 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Vulnerability, Phishing  
-
----
-
-### 20. [Microsoft patches Exchange Server zero-day exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 10 Jun 2026 09:44:19 -0400  
-**Severity:** High  
-**CVEs:** CVE-2026-42897  
-**Categories:** Vulnerability  
 
 ---
 
@@ -202,7 +201,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
+**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,7 +278,44 @@
 
 ---
 
-### 31. [Hackers Exploit Langflow Vulnerability for Remote Code Execution](https://www.securityweek.com/hackers-exploit-langflow-vulnerability-for-remote-code-execution/)
+### 31. [Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks](https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/)
+
+**Source:** Security Week  
+**Published:** Thu, 11 Jun 2026 13:57:54 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-35273  
+**Categories:** Data Breach, Vulnerability, Supply Chain  
+
+---
+
+### 32. [Alert Fatigue Is Becoming a Security Threat of Its Own](https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/)
+
+**Source:** Security Week  
+**Published:** Thu, 11 Jun 2026 13:45:00 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Phishing, APT  
+
+---
+
+### 33. [CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk](https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/)
+
+**Source:** Security Week  
+**Published:** Thu, 11 Jun 2026 13:01:14 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 34. [OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month](https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/)
+
+**Source:** Security Week  
+**Published:** Thu, 11 Jun 2026 13:00:00 +0000  
+**Severity:** High  
+**Categories:** Malware, Phishing, APT  
+
+---
+
+### 35. [Hackers Exploit Langflow Vulnerability for Remote Code Execution](https://www.securityweek.com/hackers-exploit-langflow-vulnerability-for-remote-code-execution/)
 
 **Source:** Security Week  
 **Published:** Thu, 11 Jun 2026 11:52:59 +0000  
@@ -289,7 +325,7 @@
 
 ---
 
-### 32. [Siemens Says Desigo CC Files Flagged as Malware by Security Engines](https://www.securityweek.com/siemens-says-desigo-cc-files-flagged-as-malware-by-security-engines/)
+### 36. [Siemens Says Desigo CC Files Flagged as Malware by Security Engines](https://www.securityweek.com/siemens-says-desigo-cc-files-flagged-as-malware-by-security-engines/)
 
 **Source:** Security Week  
 **Published:** Thu, 11 Jun 2026 11:40:27 +0000  
@@ -298,7 +334,7 @@
 
 ---
 
-### 33. [FBI Seizes 13 Websites That Officials Say Were Used by China to Target and Recruit US Workers](https://www.securityweek.com/fbi-seizes-13-websites-that-officials-say-were-used-by-china-to-target-and-recruit-us-workers/)
+### 37. [FBI Seizes 13 Websites That Officials Say Were Used by China to Target and Recruit US Workers](https://www.securityweek.com/fbi-seizes-13-websites-that-officials-say-were-used-by-china-to-target-and-recruit-us-workers/)
 
 **Source:** Security Week  
 **Published:** Thu, 11 Jun 2026 11:06:22 +0000  
@@ -307,17 +343,17 @@
 
 ---
 
-### 34. [Splunk, Palo Alto Networks Patch Severe Vulnerabilities](https://www.securityweek.com/splunk-palo-alto-networks-patch-severe-vulnerabilities/)
+### 38. [Splunk, Palo Alto Networks Patch Severe Vulnerabilities](https://www.securityweek.com/splunk-palo-alto-networks-patch-severe-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 11 Jun 2026 10:47:48 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-0274, CVE-2026-20253  
+**CVEs:** CVE-2026-20253, CVE-2026-0274  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 35. [‘GreatXML’ Zero-Day Exploit Bypasses BitLocker](https://www.securityweek.com/greatxml-zero-day-exploit-bypasses-bitlocker/)
+### 39. [‘GreatXML’ Zero-Day Exploit Bypasses BitLocker](https://www.securityweek.com/greatxml-zero-day-exploit-bypasses-bitlocker/)
 
 **Source:** Security Week  
 **Published:** Thu, 11 Jun 2026 09:56:12 +0000  
@@ -326,7 +362,7 @@
 
 ---
 
-### 36. [University of Nottingham Confirms Breach After Hackers Leak Data](https://www.securityweek.com/university-of-nottingham-confirms-breach-after-hackers-leak-data/)
+### 40. [University of Nottingham Confirms Breach After Hackers Leak Data](https://www.securityweek.com/university-of-nottingham-confirms-breach-after-hackers-leak-data/)
 
 **Source:** Security Week  
 **Published:** Thu, 11 Jun 2026 08:30:02 +0000  
@@ -335,49 +371,12 @@
 
 ---
 
-### 37. [Microsoft Patches Exploited Exchange Server Vulnerability](https://www.securityweek.com/microsoft-patches-exploited-exchange-server-vulnerability/)
-
-**Source:** Security Week  
-**Published:** Thu, 11 Jun 2026 06:52:21 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-42897  
-**Categories:** Vulnerability  
-
----
-
-### 38. [Infostealers Turn Millions of Devices Into Credential Theft Machines](https://www.securityweek.com/infostealers-turn-millions-of-devices-into-credential-theft-machines/)
-
-**Source:** Security Week  
-**Published:** Wed, 10 Jun 2026 14:00:00 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability, Malware, Phishing, APT  
-
----
-
-### 39. [Cyera Raises $600 Million at $12 Billion Valuation](https://www.securityweek.com/cyera-raises-600-million-at-12-billion-valuation/)
-
-**Source:** Security Week  
-**Published:** Wed, 10 Jun 2026 13:48:36 +0000  
-**Severity:** High  
-**Categories:** General Security  
-
----
-
-### 40. [Aryon Security Raises $29 Million in Series A Funding](https://www.securityweek.com/aryon-security-raises-29-million-in-series-a-funding/)
-
-**Source:** Security Week  
-**Published:** Wed, 10 Jun 2026 12:24:20 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
 ### 41. [Microsoft Patch Tuesday for June 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-42985, CVE-2026-47289, CVE-2026-44799, CVE-2026-44803, CVE-2026-44812, CVE-2026-42992, CVE-2026-47291, CVE-2026-48563, CVE-2026-44801  
+**CVEs:** CVE-2026-44803, CVE-2026-42985, CVE-2026-48563, CVE-2026-44812, CVE-2026-44801, CVE-2026-44799, CVE-2026-47289, CVE-2026-47291, CVE-2026-42992  
 **Categories:** Vulnerability  
 
 ---
@@ -432,7 +431,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-28764, CVE-2026-22554, CVE-2026-25104, CVE-2026-25713  
+**CVEs:** CVE-2026-25104, CVE-2026-28764, CVE-2026-22554, CVE-2026-25713  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -460,12 +459,30 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30816, CVE-2026-30814, CVE-2026-30815  
+**CVEs:** CVE-2026-30814, CVE-2026-30815, CVE-2026-30816  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 51. [2026 FIFA World Cup: What Public Safety Officials Need to Know](https://www.recordedfuture.com/blog/2026-fifa-world-cup-cyber-physical-threats-security-guide)
+### 51. [Recorded Future Launches Impact and Metrics Dashboard](https://www.recordedfuture.com/blog/impact-metrics-dashboard)
+
+**Source:** Recorded Future  
+**Published:** Thu, 11 Jun 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 52. [Cyber-Enabled Maritime Sanctions Evasion](https://www.recordedfuture.com/research/cyber-maritime-sanctions-evasion)
+
+**Source:** Recorded Future  
+**Published:** Thu, 11 Jun 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 53. [2026 FIFA World Cup: What Public Safety Officials Need to Know](https://www.recordedfuture.com/blog/2026-fifa-world-cup-cyber-physical-threats-security-guide)
 
 **Source:** Recorded Future  
 **Published:** Wed, 10 Jun 2026 00:00:00 GMT  
@@ -474,7 +491,7 @@
 
 ---
 
-### 52. [China's Noncombatant Evacuation Operations: 2005–2025](https://www.recordedfuture.com/blog/china-noncombatant-evacuation-operations-2005-2025)
+### 54. [China's Noncombatant Evacuation Operations: 2005–2025](https://www.recordedfuture.com/blog/china-noncombatant-evacuation-operations-2005-2025)
 
 **Source:** Recorded Future  
 **Published:** Wed, 10 Jun 2026 00:00:00 GMT  
@@ -483,7 +500,7 @@
 
 ---
 
-### 53. [Russia’s Defense-Based Economy Risks Forcing Putin to Fight Wars](https://www.recordedfuture.com/research/russia-defense-base-economy-risks-wars)
+### 55. [Russia’s Defense-Based Economy Risks Forcing Putin to Fight Wars](https://www.recordedfuture.com/research/russia-defense-base-economy-risks-wars)
 
 **Source:** Recorded Future  
 **Published:** Tue, 09 Jun 2026 00:00:00 GMT  
@@ -492,7 +509,7 @@
 
 ---
 
-### 54. [Why Holistic Sourcing Wins: The Numbers Behind the Recorded Future Advantage](https://www.recordedfuture.com/blog/recorded-future-holistic-sourcing-wins)
+### 56. [Why Holistic Sourcing Wins: The Numbers Behind the Recorded Future Advantage](https://www.recordedfuture.com/blog/recorded-future-holistic-sourcing-wins)
 
 **Source:** Recorded Future  
 **Published:** Fri, 05 Jun 2026 00:00:00 GMT  
@@ -501,7 +518,7 @@
 
 ---
 
-### 55. [Threats to the 2026 FIFA World Cup](https://www.recordedfuture.com/research/2026-fifa-world-cup-threats)
+### 57. [Threats to the 2026 FIFA World Cup](https://www.recordedfuture.com/research/2026-fifa-world-cup-threats)
 
 **Source:** Recorded Future  
 **Published:** Thu, 04 Jun 2026 00:00:00 GMT  
@@ -510,7 +527,7 @@
 
 ---
 
-### 56. [Remembering Sir Alex Younger](https://www.recordedfuture.com/blog/remembering-sir-alex-younger)
+### 58. [Remembering Sir Alex Younger](https://www.recordedfuture.com/blog/remembering-sir-alex-younger)
 
 **Source:** Recorded Future  
 **Published:** Thu, 04 Jun 2026 00:00:00 GMT  
@@ -519,7 +536,7 @@
 
 ---
 
-### 57. [Iran Expands Handala Brand to Physical Threats](https://www.recordedfuture.com/research/iran-handala-physical-threats)
+### 59. [Iran Expands Handala Brand to Physical Threats](https://www.recordedfuture.com/research/iran-handala-physical-threats)
 
 **Source:** Recorded Future  
 **Published:** Tue, 02 Jun 2026 00:00:00 GMT  
@@ -528,30 +545,12 @@
 
 ---
 
-### 58. [The Vulnerability Flood Is Now a Board Conversation. Here's How to Lead It.](https://www.recordedfuture.com/blog/vulnerability-board-conversation)
+### 60. [The Vulnerability Flood Is Now a Board Conversation. Here's How to Lead It.](https://www.recordedfuture.com/blog/vulnerability-board-conversation)
 
 **Source:** Recorded Future  
 **Published:** Thu, 21 May 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 59. [At Mythos Speed: A Defender's Playbook for the AI Vulnerability Surge in 2026](https://www.recordedfuture.com/blog/ai-vulnerability-playbook)
-
-**Source:** Recorded Future  
-**Published:** Tue, 19 May 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 60. [April 2026 CVE Landscape](https://www.recordedfuture.com/blog/april-cve-landscape)
-
-**Source:** Recorded Future  
-**Published:** Fri, 15 May 2026 00:00:00 GMT  
-**Severity:** Critical  
-**Categories:** General Security  
 
 ---
 
@@ -635,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
