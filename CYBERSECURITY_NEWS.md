@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-11 16:12:39 UTC
+**Last Updated:** 2026-06-11 19:18:39 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories](https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html)
+### 1. [New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets](https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 11 Jun 2026 23:16:32 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 2. [New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files](https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 11 Jun 2026 23:13:52 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm](https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 11 Jun 2026 22:20:47 +0530  
+**Severity:** Low  
+**Categories:** Ransomware  
+
+---
+
+### 4. [Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories](https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 18:56:13 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html)
+### 5. [ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 18:50:41 +0530  
@@ -22,7 +49,7 @@
 
 ---
 
-### 3. [AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.](https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html)
+### 6. [AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.](https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 17:00:00 +0530  
@@ -31,7 +58,7 @@
 
 ---
 
-### 4. [OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack](https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html)
+### 7. [OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack](https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 15:15:58 +0530  
@@ -40,7 +67,7 @@
 
 ---
 
-### 5. [GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks](https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html)
+### 8. [GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks](https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 11:53:03 +0530  
@@ -49,7 +76,7 @@
 
 ---
 
-### 6. [China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance](https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html)
+### 9. [China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance](https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 10 Jun 2026 21:38:42 +0530  
@@ -58,39 +85,11 @@
 
 ---
 
-### 7. [Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities](https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html)
+### 10. [Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities](https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 10 Jun 2026 20:40:59 +0530  
 **Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 8. [Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE](https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 10 Jun 2026 20:30:59 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-5027  
-**Categories:** Vulnerability  
-
----
-
-### 9. [CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation](https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 10 Jun 2026 20:14:29 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 10. [Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar](https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 10 Jun 2026 15:57:49 +0530  
-**Severity:** Low  
 **Categories:** General Security  
 
 ---
@@ -201,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
+**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -371,17 +370,26 @@
 
 ---
 
-### 41. [Microsoft Patch Tuesday for June 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities/)
+### 41. [A tale of two eras](https://blog.talosintelligence.com/a-tale-of-two-eras/)
+
+**Source:** Talos Blog  
+**Published:** Thu, 11 Jun 2026 18:00:49 GMT  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 42. [Microsoft Patch Tuesday for June 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44803, CVE-2026-42985, CVE-2026-48563, CVE-2026-44812, CVE-2026-44801, CVE-2026-44799, CVE-2026-47289, CVE-2026-47291, CVE-2026-42992  
+**CVEs:** CVE-2026-42985, CVE-2026-42992, CVE-2026-44801, CVE-2026-47291, CVE-2026-47289, CVE-2026-44812, CVE-2026-44799, CVE-2026-48563, CVE-2026-44803  
 **Categories:** Vulnerability  
 
 ---
 
-### 42. [Reporting from Vegas: Networking, AI, and good boys](https://blog.talosintelligence.com/reporting-from-vegas-networking-ai-and-good-boys/)
+### 43. [Reporting from Vegas: Networking, AI, and good boys](https://blog.talosintelligence.com/reporting-from-vegas-networking-ai-and-good-boys/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 04 Jun 2026 18:00:59 GMT  
@@ -390,7 +398,7 @@
 
 ---
 
-### 43. [Winning the cyber marathon with Tony Giandomenico](https://blog.talosintelligence.com/winning-the-cyber-marathon-with-tony-giandomenico/)
+### 44. [Winning the cyber marathon with Tony Giandomenico](https://blog.talosintelligence.com/winning-the-cyber-marathon-with-tony-giandomenico/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 04 Jun 2026 12:05:31 GMT  
@@ -399,7 +407,7 @@
 
 ---
 
-### 44. [Hypotheses, telemetry, and human judgment: Inside Cisco Talos Threat Hunting](https://blog.talosintelligence.com/hypotheses-telemetry-and-human-judgment-inside-cisco-talos-threat-hunting/)
+### 45. [Hypotheses, telemetry, and human judgment: Inside Cisco Talos Threat Hunting](https://blog.talosintelligence.com/hypotheses-telemetry-and-human-judgment-inside-cisco-talos-threat-hunting/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 04 Jun 2026 12:05:05 GMT  
@@ -408,7 +416,7 @@
 
 ---
 
-### 45. [Less panic patching, more precision](https://blog.talosintelligence.com/less-panic-patching-more-precision/)
+### 46. [Less panic patching, more precision](https://blog.talosintelligence.com/less-panic-patching-more-precision/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 28 May 2026 18:00:27 GMT  
@@ -417,7 +425,7 @@
 
 ---
 
-### 46. [DICOM, Pydicom, GDCM, and Orthanc: A technical tour of what really happens in the heap](https://blog.talosintelligence.com/dicom-pydicom-gdcm-and-orthanc-a-technical-tour-of-what-really-happens-in-the-heap/)
+### 47. [DICOM, Pydicom, GDCM, and Orthanc: A technical tour of what really happens in the heap](https://blog.talosintelligence.com/dicom-pydicom-gdcm-and-orthanc-a-technical-tour-of-what-really-happens-in-the-heap/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 28 May 2026 10:00:52 GMT  
@@ -426,17 +434,17 @@
 
 ---
 
-### 47. [MediaArea heap-based buffer overflow vulnerabilities](https://blog.talosintelligence.com/mediaarea-heap-based-buffer-overflow-vulnerabilities/)
+### 48. [MediaArea heap-based buffer overflow vulnerabilities](https://blog.talosintelligence.com/mediaarea-heap-based-buffer-overflow-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25104, CVE-2026-28764, CVE-2026-22554, CVE-2026-25713  
+**CVEs:** CVE-2026-22554, CVE-2026-25104, CVE-2026-28764, CVE-2026-25713  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 48. [Introducing EvidenceForge: Synthetic security logs that don’t look (as) fake](https://blog.talosintelligence.com/introducing-evidenceforge-synthetic-security-logs-that-dont-look-as-fake/)
+### 49. [Introducing EvidenceForge: Synthetic security logs that don’t look (as) fake](https://blog.talosintelligence.com/introducing-evidenceforge-synthetic-security-logs-that-dont-look-as-fake/)
 
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 10:00:47 GMT  
@@ -445,22 +453,12 @@
 
 ---
 
-### 49. [The art of being ungovernable](https://blog.talosintelligence.com/the-art-of-being-ungovernable/)
+### 50. [The art of being ungovernable](https://blog.talosintelligence.com/the-art-of-being-ungovernable/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 21 May 2026 18:00:14 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 50. [TP-Link, Photoshop, OpenVPN, Norton VPN vulnerabilities](https://blog.talosintelligence.com/tp-link-photoshop-openvpn-norton-vpn-vulnerabilities/)
-
-**Source:** Talos Blog  
-**Published:** Tue, 19 May 2026 15:39:37 GMT  
-**Severity:** Low  
-**CVEs:** CVE-2026-30814, CVE-2026-30815, CVE-2026-30816  
-**Categories:** Vulnerability, Supply Chain  
 
 ---
 
@@ -649,7 +647,16 @@
 
 ---
 
-### 71. [Data of 2.4 million VRChat users stolen](https://www.malwarebytes.com/blog/data-breaches/2026/06/data-of-2-4-million-vrchat-users-stolen)
+### 71. [Google can be liable for false AI Overviews, court rules](https://www.malwarebytes.com/blog/ai/2026/06/google-can-be-liable-for-false-ai-overviews-court-rules)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 11 Jun 2026 16:09:13 GMT  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 72. [Data of 2.4 million VRChat users stolen](https://www.malwarebytes.com/blog/data-breaches/2026/06/data-of-2-4-million-vrchat-users-stolen)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 11 Jun 2026 11:31:01 GMT  
@@ -658,7 +665,7 @@
 
 ---
 
-### 72. [Children&#8217;s phones must block nude images by September, UK says](https://www.malwarebytes.com/blog/family-and-parenting/2026/06/childrens-phones-must-block-nude-images-by-september-uk-says)
+### 73. [Children&#8217;s phones must block nude images by September, UK says](https://www.malwarebytes.com/blog/family-and-parenting/2026/06/childrens-phones-must-block-nude-images-by-september-uk-says)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 11 Jun 2026 10:55:26 GMT  
@@ -667,7 +674,7 @@
 
 ---
 
-### 73. [Free Spotify Premium hacks on social media are spreading infostealers](https://www.malwarebytes.com/blog/news/2026/06/free-spotify-premium-hacks-on-social-media-are-spreading-infostealers)
+### 74. [Free Spotify Premium hacks on social media are spreading infostealers](https://www.malwarebytes.com/blog/news/2026/06/free-spotify-premium-hacks-on-social-media-are-spreading-infostealers)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 10 Jun 2026 16:27:32 GMT  
@@ -676,7 +683,7 @@
 
 ---
 
-### 74. [Microsoft’s biggest-ever Patch Tuesday fixes 206 bugs, including 3 zero-days](https://www.malwarebytes.com/blog/bugs/2026/06/microsofts-biggest-ever-patch-tuesday-fixes-206-bugs-including-3-zero-days)
+### 75. [Microsoft’s biggest-ever Patch Tuesday fixes 206 bugs, including 3 zero-days](https://www.malwarebytes.com/blog/bugs/2026/06/microsofts-biggest-ever-patch-tuesday-fixes-206-bugs-including-3-zero-days)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 10 Jun 2026 12:43:48 GMT  
@@ -685,7 +692,7 @@
 
 ---
 
-### 75. [88% of people struggle to tell what&#8217;s real online](https://www.malwarebytes.com/blog/ai/2026/06/88-of-people-struggle-to-tell-whats-real-online)
+### 76. [88% of people struggle to tell what&#8217;s real online](https://www.malwarebytes.com/blog/ai/2026/06/88-of-people-struggle-to-tell-whats-real-online)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 10 Jun 2026 11:45:00 GMT  
@@ -694,7 +701,7 @@
 
 ---
 
-### 76. [Meta&#8217;s face-recognition code raises new concerns about smart glasses](https://www.malwarebytes.com/blog/privacy/2026/06/metas-face-recognition-code-raises-new-concerns-about-smart-glasses)
+### 77. [Meta&#8217;s face-recognition code raises new concerns about smart glasses](https://www.malwarebytes.com/blog/privacy/2026/06/metas-face-recognition-code-raises-new-concerns-about-smart-glasses)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 09 Jun 2026 13:57:59 GMT  
@@ -703,7 +710,7 @@
 
 ---
 
-### 77. [Scammers love Meta, according to Lloyds Bank](https://www.malwarebytes.com/blog/scams/2026/06/scammers-love-meta-according-to-lloyds-bank)
+### 78. [Scammers love Meta, according to Lloyds Bank](https://www.malwarebytes.com/blog/scams/2026/06/scammers-love-meta-according-to-lloyds-bank)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 09 Jun 2026 13:02:49 GMT  
@@ -712,7 +719,7 @@
 
 ---
 
-### 78. [Update Chrome: Google patches actively exploited vulnerability and 73 others](https://www.malwarebytes.com/blog/bugs/2026/06/update-chrome-google-patches-actively-exploited-vulnerability-and-73-others)
+### 79. [Update Chrome: Google patches actively exploited vulnerability and 73 others](https://www.malwarebytes.com/blog/bugs/2026/06/update-chrome-google-patches-actively-exploited-vulnerability-and-73-others)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 09 Jun 2026 10:50:16 GMT  
@@ -722,21 +729,12 @@
 
 ---
 
-### 79. [Americans lost nearly $900 million to AI-powered scams, FBI says](https://www.malwarebytes.com/blog/scams/2026/06/americans-lost-nearly-900-million-to-ai-powered-scams-fbi-says)
+### 80. [Americans lost nearly $900 million to AI-powered scams, FBI says](https://www.malwarebytes.com/blog/scams/2026/06/americans-lost-nearly-900-million-to-ai-powered-scams-fbi-says)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 08 Jun 2026 15:02:13 GMT  
 **Severity:** High  
 **Categories:** General Security  
-
----
-
-### 80. [Pirated PC games are delivering password-stealing malware](https://www.malwarebytes.com/blog/threat-intel/2026/06/pirated-pc-games-are-delivering-password-stealing-malware)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 08 Jun 2026 10:53:06 GMT  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
 
 ---
 
