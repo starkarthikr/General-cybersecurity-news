@@ -184,6 +184,64 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
+    "published": "Wed, 10 Jun 2026 17:23:44 -0400",
+    "summary": "Attackers are actively exploiting CVE-2026-5027, a high-severity path traversal vulnerability in the AI development platform Langflow, to write arbitrary files on exposed servers. [...]",
+    "analysis": {
+      "issue": "Attackers are actively exploiting CVE-2026-5027, a high-severity path traversal vulnerability in the AI development platform Langflow, to write arbitrary files on exposed servers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-5027"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "The ‘Miasma’ worm source code briefly leaked on GitHub",
+    "link": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
+    "published": "Wed, 10 Jun 2026 16:27:08 -0400",
+    "summary": "The Miasma credential-stealing attack framework, which has recently targeted open-source ecosystems through supply-chain attacks, was briefly open-sourced on GitHub. [...]",
+    "analysis": {
+      "issue": "The Miasma credential-stealing attack framework, which has recently targeted open-source ecosystems through supply-chain attacks, was briefly open-sourced on GitHub",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "GitHub announces npm security changes to tackle supply-chain attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
+    "published": "Wed, 10 Jun 2026 15:41:44 -0400",
+    "summary": "GitHub has announced that npm v12, expected next month, will introduce several security-focused changes aimed at blocking supply-chain attacks abusing behaviors triggered by the 'npm install' command. [...]",
+    "analysis": {
+      "issue": "GitHub has announced that npm v12, expected next month, will introduce several security-focused changes aimed at blocking supply-chain attacks abusing behaviors triggered by the 'npm install' command",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
     "link": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
     "published": "Wed, 10 Jun 2026 14:31:57 -0400",
@@ -316,63 +374,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-10520",
-        "CVE-2026-10523"
+        "CVE-2026-10523",
+        "CVE-2026-10520"
       ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Anthropic rolls out Claude Fable 5, but it's available for a limited time",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/",
-    "published": "Tue, 09 Jun 2026 22:03:31 -0400",
-    "summary": "Anthropic has begun rolling out a new model called \"Fable,\" which is based on the same underlying model as Mythos, its most powerful AI model class. [...]",
-    "analysis": {
-      "issue": "Anthropic has begun rolling out a new model called \"Fable,\" which is based on the same underlying model as Mythos, its most powerful AI model class",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
-    "published": "Tue, 09 Jun 2026 19:11:18 -0400",
-    "summary": "A security researcher has released a new Microsoft Defender zero-day exploit named \"RoguePlanet\" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday. [...]",
-    "analysis": {
-      "issue": "A security researcher has released a new Microsoft Defender zero-day exploit named \"RoguePlanet\" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "ServiceNow discloses security incident exposing customer data",
-    "link": "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/",
-    "published": "Tue, 09 Jun 2026 17:34:09 -0400",
-    "summary": "ServiceNow is warning about a security incident after attackers exploited an unauthenticated access flaw through a vulnerable API endpoint, allowing them to query data from customer instances. [...]",
-    "analysis": {
-      "issue": "ServiceNow is warning about a security incident after attackers exploited an unauthenticated access flaw through a vulnerable API endpoint, allowing them to query data from customer instances",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -411,9 +415,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-49160",
         "CVE-2026-50507",
-        "CVE-2026-45586",
-        "CVE-2026-49160"
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -679,9 +683,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-50507",
-        "CVE-2026-45498",
         "CVE-2026-41091",
         "CVE-2026-33825",
+        "CVE-2026-45498",
         "CVE-2026-45586"
       ],
       "threat_categories": [
@@ -740,9 +744,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-10523",
-        "CVE-2026-10520",
         "CVE-2026-6973",
         "CVE-2026-10727",
+        "CVE-2026-10520",
         "CVE-2026-25089"
       ],
       "threat_categories": [
@@ -783,15 +787,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44803",
-        "CVE-2026-42992",
         "CVE-2026-48563",
-        "CVE-2026-44801",
+        "CVE-2026-44812",
         "CVE-2026-47291",
-        "CVE-2026-42985",
+        "CVE-2026-44801",
         "CVE-2026-44799",
-        "CVE-2026-47289",
-        "CVE-2026-44812"
+        "CVE-2026-42992",
+        "CVE-2026-44803",
+        "CVE-2026-42985",
+        "CVE-2026-47289"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -901,9 +905,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-28764",
-        "CVE-2026-22554",
         "CVE-2026-25713",
+        "CVE-2026-22554",
+        "CVE-2026-28764",
         "CVE-2026-25104"
       ],
       "threat_categories": [
@@ -961,9 +965,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-30816",
+        "CVE-2026-30815",
         "CVE-2026-30814",
-        "CVE-2026-30815"
+        "CVE-2026-30816"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1318,8 +1322,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

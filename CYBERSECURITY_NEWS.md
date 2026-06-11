@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-10 19:11:41 UTC
+**Last Updated:** 2026-06-11 04:27:54 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,35 @@
 
 ---
 
-### 11. [Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks](https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/)
+### 11. [Path traversal flaw in AI dev platform Langflow exploited in attacks](https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 10 Jun 2026 17:23:44 -0400  
+**Severity:** High  
+**CVEs:** CVE-2026-5027  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [The ‘Miasma’ worm source code briefly leaked on GitHub](https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 10 Jun 2026 16:27:08 -0400  
+**Severity:** High  
+**Categories:** Data Breach, Malware, Supply Chain  
+
+---
+
+### 13. [GitHub announces npm security changes to tackle supply-chain attacks](https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 10 Jun 2026 15:41:44 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 14. [Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks](https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 10 Jun 2026 14:31:57 -0400  
@@ -104,7 +132,7 @@
 
 ---
 
-### 12. [China-linked JDY botnet expands targeting of U.S. military networks](https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/)
+### 15. [China-linked JDY botnet expands targeting of U.S. military networks](https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 10 Jun 2026 11:00:00 -0400  
@@ -113,7 +141,7 @@
 
 ---
 
-### 13. [The 5 Best Practices for Secure Identity Verification](https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/)
+### 16. [The 5 Best Practices for Secure Identity Verification](https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 10 Jun 2026 10:05:15 -0400  
@@ -122,7 +150,7 @@
 
 ---
 
-### 14. [Microsoft patches Exchange Server zero-day exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/)
+### 17. [Microsoft patches Exchange Server zero-day exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 10 Jun 2026 09:44:19 -0400  
@@ -132,7 +160,7 @@
 
 ---
 
-### 15. [Microsoft: Some Windows PCs fail to install latest monthly updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/)
+### 18. [Microsoft: Some Windows PCs fail to install latest monthly updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 10 Jun 2026 07:33:32 -0400  
@@ -141,7 +169,7 @@
 
 ---
 
-### 16. [Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/)
+### 19. [Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 10 Jun 2026 05:57:33 -0400  
@@ -151,39 +179,12 @@
 
 ---
 
-### 17. [Ivanti: Max severity Sentry flaw allows code execution as root](https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/)
+### 20. [Ivanti: Max severity Sentry flaw allows code execution as root](https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 10 Jun 2026 02:26:28 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-10520, CVE-2026-10523  
-**Categories:** Vulnerability  
-
----
-
-### 18. [Anthropic rolls out Claude Fable 5, but it's available for a limited time](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 09 Jun 2026 22:03:31 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 09 Jun 2026 19:11:18 -0400  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 20. [ServiceNow discloses security incident exposing customer data](https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 09 Jun 2026 17:34:09 -0400  
-**Severity:** Low  
+**CVEs:** CVE-2026-10523, CVE-2026-10520  
 **Categories:** Vulnerability  
 
 ---
@@ -202,7 +203,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
+**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -329,7 +330,7 @@
 **Source:** Security Week  
 **Published:** Wed, 10 Jun 2026 11:44:39 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-45498, CVE-2026-41091, CVE-2026-33825, CVE-2026-45586  
+**CVEs:** CVE-2026-50507, CVE-2026-41091, CVE-2026-33825, CVE-2026-45498, CVE-2026-45586  
 **Categories:** Vulnerability  
 
 ---
@@ -357,7 +358,7 @@
 **Source:** Security Week  
 **Published:** Wed, 10 Jun 2026 08:50:12 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-10523, CVE-2026-10520, CVE-2026-6973, CVE-2026-10727, CVE-2026-25089  
+**CVEs:** CVE-2026-10523, CVE-2026-6973, CVE-2026-10727, CVE-2026-10520, CVE-2026-25089  
 **Categories:** Vulnerability  
 
 ---
@@ -377,7 +378,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44803, CVE-2026-42992, CVE-2026-48563, CVE-2026-44801, CVE-2026-47291, CVE-2026-42985, CVE-2026-44799, CVE-2026-47289, CVE-2026-44812  
+**CVEs:** CVE-2026-48563, CVE-2026-44812, CVE-2026-47291, CVE-2026-44801, CVE-2026-44799, CVE-2026-42992, CVE-2026-44803, CVE-2026-42985, CVE-2026-47289  
 **Categories:** Vulnerability  
 
 ---
@@ -432,7 +433,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-28764, CVE-2026-22554, CVE-2026-25713, CVE-2026-25104  
+**CVEs:** CVE-2026-25713, CVE-2026-22554, CVE-2026-28764, CVE-2026-25104  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -460,7 +461,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 19 May 2026 15:39:37 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-30816, CVE-2026-30814, CVE-2026-30815  
+**CVEs:** CVE-2026-30815, CVE-2026-30814, CVE-2026-30816  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -635,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
