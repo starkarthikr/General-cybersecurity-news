@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
+    "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
+    "published": "Fri, 12 Jun 2026 17:34:33 +0530",
+    "summary": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines.\n\nCalled Agentjacking by Tenet Security, the attack can be triggered by means of a fake error report crafted using Sentry, an open-source error-tracking and performance-monitoring platform.\n\n\"The attack",
+    "analysis": {
+      "issue": "Researchers warn Agentjacking can abuse Sentry errors to make AI coding agents run malicious code on developer machines",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
     "link": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html",
     "published": "Fri, 12 Jun 2026 16:30:00 +0530",
@@ -164,21 +182,19 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
-    "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
-    "published": "Thu, 11 Jun 2026 18:50:41 +0530",
-    "summary": "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones browsers, and research showing AI agents can be tricked into leaking real credentials.\n\nThe bigger problem is how polished this all looks now. Mule networks run like SaaS.",
+    "source": "Bleeping Computer",
+    "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
+    "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
+    "published": "Fri, 12 Jun 2026 10:01:11 -0400",
+    "summary": "GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain risk. [...]",
     "analysis": {
-      "issue": "Cybersecurity roundup: supply chain threats, AI agent risks, browser-cloning malware, mule networks, endpoint bypasses, and key security updates",
+      "issue": "Supply-chain attacks are usually discussed after they become visible: a malicious package, a compromised software update, a malicious extension, or a breach involving a trusted vendor",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Data Breach",
-        "Malware",
         "Supply Chain"
       ]
     }
@@ -354,24 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Coupang hit with record $409 million data breach fine in Korea",
-    "link": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
-    "published": "Thu, 11 Jun 2026 08:52:41 -0400",
-    "summary": "​​The Personal Information Protection Commission (PIPC), South Korea's data protection regulator, has fined e-commerce giant Coupang a record 624.6 billion won (roughly $409 million) following a massive data breach affecting more than 37 million customers [...]",
-    "analysis": {
-      "issue": "​​The Personal Information Protection Commission (PIPC), South Korea's data protection regulator, has fined e-commerce giant Coupang a record 624",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
     "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
@@ -405,8 +403,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-45586",
-        "CVE-2026-49160",
-        "CVE-2026-50507"
+        "CVE-2026-50507",
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -561,6 +559,26 @@
       "threat_categories": [
         "Malware",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Industry Reactions to Claude Fable 5: Feedback Friday",
+    "link": "https://www.securityweek.com/industry-reactions-to-claude-fable-5-feedback-friday/",
+    "published": "Fri, 12 Jun 2026 12:30:34 +0000",
+    "summary": "<p>Industry professionals comment on various aspects of Fable 5, including dual-use capabilities, safeguards, and tiered access.</p>\n<p>The post <a href=\"https://www.securityweek.com/industry-reactions-to-claude-fable-5-feedback-friday/\">Industry Reactions to Claude Fable 5: Feedback Friday</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Industry professionals comment on various aspects of Fable 5, including dual-use capabilities, safeguards, and tiered access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
       ]
     }
   },
@@ -743,26 +761,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Hackers Exploit Langflow Vulnerability for Remote Code Execution",
-    "link": "https://www.securityweek.com/hackers-exploit-langflow-vulnerability-for-remote-code-execution/",
-    "published": "Thu, 11 Jun 2026 11:52:59 +0000",
-    "summary": "<p>Disclosed in March, the security defect enables unauthenticated attackers to write files to arbitrary locations on the system.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-exploit-langflow-vulnerability-for-remote-code-execution/\">Hackers Exploit Langflow Vulnerability for Remote Code Execution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Disclosed in March, the security defect enables unauthenticated attackers to write files to arbitrary locations on the system",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-5027"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "A tale of two eras",
     "link": "https://blog.talosintelligence.com/a-tale-of-two-eras/",
@@ -793,15 +791,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-44812",
+        "CVE-2026-42992",
+        "CVE-2026-47289",
+        "CVE-2026-42985",
         "CVE-2026-44803",
         "CVE-2026-44801",
-        "CVE-2026-42985",
-        "CVE-2026-48563",
-        "CVE-2026-42992",
+        "CVE-2026-47291",
         "CVE-2026-44799",
-        "CVE-2026-47289",
-        "CVE-2026-44812",
-        "CVE-2026-47291"
+        "CVE-2026-48563"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -912,9 +910,9 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-25713",
-        "CVE-2026-28764",
         "CVE-2026-22554",
-        "CVE-2026-25104"
+        "CVE-2026-25104",
+        "CVE-2026-28764"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1050,6 +1048,24 @@
   },
   {
     "source": "Recorded Future",
+    "title": "May 2026 CVE Landscape",
+    "link": "https://www.recordedfuture.com/blog/may-2026-cve-landscape",
+    "published": "Mon, 08 Jun 2026 00:00:00 GMT",
+    "summary": "In May 2026, Insikt Group® identified 41 high-impact vulnerabilities that should be prioritized for remediation, all of which had a Very Critical Recorded Future Risk Score. This represents a 11% increase from last month.",
+    "analysis": {
+      "issue": "In May 2026, Insikt Group® identified 41 high-impact vulnerabilities that should be prioritized for remediation, all of which had a Very Critical Recorded Future Risk Score",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
     "title": "Why Holistic Sourcing Wins: The Numbers Behind the Recorded Future Advantage",
     "link": "https://www.recordedfuture.com/blog/recorded-future-holistic-sourcing-wins",
     "published": "Fri, 05 Jun 2026 00:00:00 GMT",
@@ -1117,24 +1133,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "The Vulnerability Flood Is Now a Board Conversation. Here's How to Lead It.",
-    "link": "https://www.recordedfuture.com/blog/vulnerability-board-conversation",
-    "published": "Thu, 21 May 2026 00:00:00 GMT",
-    "summary": "Boards are asking about AI-driven vulnerability discovery. The leaders who answer that question well will come out with more credibility and more resources. Here's how to be one of them.",
-    "analysis": {
-      "issue": "Boards are asking about AI-driven vulnerability discovery",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -1305,8 +1303,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1331,6 +1329,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Stolen iPhones could soon be worth a lot less to thieves",
+    "link": "https://www.malwarebytes.com/blog/mobile/2026/06/stolen-iphones-could-soon-be-worth-a-lot-less-to-thieves",
+    "published": "Fri, 12 Jun 2026 14:03:16 GMT",
+    "summary": "Apple and the Met Police are working together to make stolen iPhones harder to reset, resell, and profit from.",
+    "analysis": {
+      "issue": "The UK’s Metropolitan Police has reached an agreement with Apple designed to make stolen iPhones harder to resell and less attractive to thieves",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1495,26 +1511,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Update Chrome: Google patches actively exploited vulnerability and 73 others",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/06/update-chrome-google-patches-actively-exploited-vulnerability-and-73-others",
-    "published": "Tue, 09 Jun 2026 10:50:16 GMT",
-    "summary": "Google's latest Chrome update fixes 74 security vulnerabilities, including one under active attack.",
-    "analysis": {
-      "issue": "Google has issued updates for the Chrome browser, patching a number of high‑severity vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-11645"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },

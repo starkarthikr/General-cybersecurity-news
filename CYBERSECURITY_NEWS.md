@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-12 11:59:37 UTC
+**Last Updated:** 2026-06-12 15:28:11 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Rethinking MDR as Attackers and Defenders Embrace AI](https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html)
+### 1. [Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code](https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 12 Jun 2026 17:34:33 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Rethinking MDR as Attackers and Defenders Embrace AI](https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 12 Jun 2026 16:30:00 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution](https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html)
+### 3. [LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution](https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 12 Jun 2026 15:20:36 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator](https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html)
+### 4. [INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator](https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 12 Jun 2026 14:22:55 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs](https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html)
+### 5. [Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs](https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 12 Jun 2026 12:08:41 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities](https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html)
+### 6. [ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities](https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 12 Jun 2026 01:59:23 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets](https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html)
+### 7. [New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets](https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 23:16:32 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files](https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html)
+### 8. [New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files](https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 23:13:52 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm](https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html)
+### 9. [The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm](https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 22:20:47 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories](https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html)
+### 10. [Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories](https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 18:56:13 +0530  
@@ -86,16 +95,16 @@
 
 ---
 
-### 10. [ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html)
+### 11. [Early Warning Signs of Supply-Chain Attacks Live in the Dark Web](https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 11 Jun 2026 18:50:41 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 12 Jun 2026 10:01:11 -0400  
 **Severity:** Low  
-**Categories:** Data Breach, Malware, Supply Chain  
+**Categories:** Supply Chain  
 
 ---
 
-### 11. [Microsoft fixes Windows update failures linked to WUSA installer](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/)
+### 12. [Microsoft fixes Windows update failures linked to WUSA installer](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 07:44:58 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [Pharma giant Novo Nordisk discloses breach of clinical trials data](https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/)
+### 13. [Pharma giant Novo Nordisk discloses breach of clinical trials data](https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 06:13:19 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [CISA orders feds to patch actively exploited Ivanti flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/)
+### 14. [CISA orders feds to patch actively exploited Ivanti flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 04:26:55 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Over 73,000 French govt employees affected in Tchap messenger breach](https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/)
+### 15. [Over 73,000 French govt employees affected in Tchap messenger breach](https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 03:09:11 -0400  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Japanese energy firm loses drive with data of 10.9 million clients](https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/)
+### 16. [Japanese energy firm loses drive with data of 10.9 million clients](https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 11 Jun 2026 19:14:16 -0400  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [Maine breach portal abused to publish fake data breach disclosures](https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/)
+### 17. [Maine breach portal abused to publish fake data breach disclosures](https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 11 Jun 2026 18:44:58 -0400  
@@ -150,7 +159,7 @@
 
 ---
 
-### 17. [Oracle mitigates PeopleSoft zero-day exploited in data theft attacks](https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/)
+### 18. [Oracle mitigates PeopleSoft zero-day exploited in data theft attacks](https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 11 Jun 2026 15:39:53 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [Authorities dismantle 'AudiA6' ransomware crypto-laundering service](https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/)
+### 19. [Authorities dismantle 'AudiA6' ransomware crypto-laundering service](https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 11 Jun 2026 11:55:41 -0400  
@@ -169,21 +178,12 @@
 
 ---
 
-### 19. [Why AI-driven threats are exposing the limits of MSP security stacks](https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/)
+### 20. [Why AI-driven threats are exposing the limits of MSP security stacks](https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 11 Jun 2026 10:00:10 -0400  
 **Severity:** Low  
 **Categories:** Data Breach, Vulnerability, Malware, Phishing  
-
----
-
-### 20. [Coupang hit with record $409 million data breach fine in Korea](https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 11 Jun 2026 08:52:41 -0400  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
@@ -201,7 +201,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
+**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -278,7 +278,16 @@
 
 ---
 
-### 31. [Iranian Cyber Group Handala Claims Cal Water Hack](https://www.securityweek.com/iranian-cyber-group-handala-claims-cal-water-hack/)
+### 31. [Industry Reactions to Claude Fable 5: Feedback Friday](https://www.securityweek.com/industry-reactions-to-claude-fable-5-feedback-friday/)
+
+**Source:** Security Week  
+**Published:** Fri, 12 Jun 2026 12:30:34 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware, APT  
+
+---
+
+### 32. [Iranian Cyber Group Handala Claims Cal Water Hack](https://www.securityweek.com/iranian-cyber-group-handala-claims-cal-water-hack/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 11:30:23 +0000  
@@ -287,7 +296,7 @@
 
 ---
 
-### 32. [Ivanti Sentry Exploitation Attempts Hitting Honeypots](https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/)
+### 33. [Ivanti Sentry Exploitation Attempts Hitting Honeypots](https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 09:44:16 +0000  
@@ -297,7 +306,7 @@
 
 ---
 
-### 33. [Chrome 149 Update Patches 28 Vulnerabilities](https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/)
+### 34. [Chrome 149 Update Patches 28 Vulnerabilities](https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 09:27:08 +0000  
@@ -306,7 +315,7 @@
 
 ---
 
-### 34. [Anthropic Disputes Fable 5 AI Jailbreak](https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/)
+### 35. [Anthropic Disputes Fable 5 AI Jailbreak](https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 08:43:06 +0000  
@@ -315,7 +324,7 @@
 
 ---
 
-### 35. [Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters](https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/)
+### 36. [Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters](https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 06:44:36 +0000  
@@ -325,7 +334,7 @@
 
 ---
 
-### 36. [Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks](https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/)
+### 37. [Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks](https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 11 Jun 2026 13:57:54 +0000  
@@ -335,7 +344,7 @@
 
 ---
 
-### 37. [Alert Fatigue Is Becoming a Security Threat of Its Own](https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/)
+### 38. [Alert Fatigue Is Becoming a Security Threat of Its Own](https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/)
 
 **Source:** Security Week  
 **Published:** Thu, 11 Jun 2026 13:45:00 +0000  
@@ -344,7 +353,7 @@
 
 ---
 
-### 38. [CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk](https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/)
+### 39. [CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk](https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/)
 
 **Source:** Security Week  
 **Published:** Thu, 11 Jun 2026 13:01:14 +0000  
@@ -353,22 +362,12 @@
 
 ---
 
-### 39. [OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month](https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/)
+### 40. [OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month](https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/)
 
 **Source:** Security Week  
 **Published:** Thu, 11 Jun 2026 13:00:00 +0000  
 **Severity:** High  
 **Categories:** Malware, Phishing, APT  
-
----
-
-### 40. [Hackers Exploit Langflow Vulnerability for Remote Code Execution](https://www.securityweek.com/hackers-exploit-langflow-vulnerability-for-remote-code-execution/)
-
-**Source:** Security Week  
-**Published:** Thu, 11 Jun 2026 11:52:59 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-5027  
-**Categories:** Vulnerability  
 
 ---
 
@@ -386,7 +385,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44803, CVE-2026-44801, CVE-2026-42985, CVE-2026-48563, CVE-2026-42992, CVE-2026-44799, CVE-2026-47289, CVE-2026-44812, CVE-2026-47291  
+**CVEs:** CVE-2026-44812, CVE-2026-42992, CVE-2026-47289, CVE-2026-42985, CVE-2026-44803, CVE-2026-44801, CVE-2026-47291, CVE-2026-44799, CVE-2026-48563  
 **Categories:** Vulnerability  
 
 ---
@@ -441,7 +440,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25713, CVE-2026-28764, CVE-2026-22554, CVE-2026-25104  
+**CVEs:** CVE-2026-25713, CVE-2026-22554, CVE-2026-25104, CVE-2026-28764  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -509,7 +508,16 @@
 
 ---
 
-### 56. [Why Holistic Sourcing Wins: The Numbers Behind the Recorded Future Advantage](https://www.recordedfuture.com/blog/recorded-future-holistic-sourcing-wins)
+### 56. [May 2026 CVE Landscape](https://www.recordedfuture.com/blog/may-2026-cve-landscape)
+
+**Source:** Recorded Future  
+**Published:** Mon, 08 Jun 2026 00:00:00 GMT  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 57. [Why Holistic Sourcing Wins: The Numbers Behind the Recorded Future Advantage](https://www.recordedfuture.com/blog/recorded-future-holistic-sourcing-wins)
 
 **Source:** Recorded Future  
 **Published:** Fri, 05 Jun 2026 00:00:00 GMT  
@@ -518,7 +526,7 @@
 
 ---
 
-### 57. [Threats to the 2026 FIFA World Cup](https://www.recordedfuture.com/research/2026-fifa-world-cup-threats)
+### 58. [Threats to the 2026 FIFA World Cup](https://www.recordedfuture.com/research/2026-fifa-world-cup-threats)
 
 **Source:** Recorded Future  
 **Published:** Thu, 04 Jun 2026 00:00:00 GMT  
@@ -527,7 +535,7 @@
 
 ---
 
-### 58. [Remembering Sir Alex Younger](https://www.recordedfuture.com/blog/remembering-sir-alex-younger)
+### 59. [Remembering Sir Alex Younger](https://www.recordedfuture.com/blog/remembering-sir-alex-younger)
 
 **Source:** Recorded Future  
 **Published:** Thu, 04 Jun 2026 00:00:00 GMT  
@@ -536,21 +544,12 @@
 
 ---
 
-### 59. [Iran Expands Handala Brand to Physical Threats](https://www.recordedfuture.com/research/iran-handala-physical-threats)
+### 60. [Iran Expands Handala Brand to Physical Threats](https://www.recordedfuture.com/research/iran-handala-physical-threats)
 
 **Source:** Recorded Future  
 **Published:** Tue, 02 Jun 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 60. [The Vulnerability Flood Is Now a Board Conversation. Here's How to Lead It.](https://www.recordedfuture.com/blog/vulnerability-board-conversation)
-
-**Source:** Recorded Future  
-**Published:** Thu, 21 May 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -634,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -649,7 +648,16 @@
 
 ---
 
-### 71. [Fake verification pages are stealing Steam accounts from players](https://www.malwarebytes.com/blog/threat-intel/2026/06/fake-verification-pages-are-stealing-steam-accounts-from-players)
+### 71. [Stolen iPhones could soon be worth a lot less to thieves](https://www.malwarebytes.com/blog/mobile/2026/06/stolen-iphones-could-soon-be-worth-a-lot-less-to-thieves)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 12 Jun 2026 14:03:16 GMT  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 72. [Fake verification pages are stealing Steam accounts from players](https://www.malwarebytes.com/blog/threat-intel/2026/06/fake-verification-pages-are-stealing-steam-accounts-from-players)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 12 Jun 2026 09:27:49 GMT  
@@ -658,7 +666,7 @@
 
 ---
 
-### 72. [Google can be liable for false AI Overviews, court rules](https://www.malwarebytes.com/blog/ai/2026/06/google-can-be-liable-for-false-ai-overviews-court-rules)
+### 73. [Google can be liable for false AI Overviews, court rules](https://www.malwarebytes.com/blog/ai/2026/06/google-can-be-liable-for-false-ai-overviews-court-rules)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 11 Jun 2026 16:09:13 GMT  
@@ -667,7 +675,7 @@
 
 ---
 
-### 73. [VRChat says reported data breach never happened](https://www.malwarebytes.com/blog/data-breaches/2026/06/data-of-2-4-million-vrchat-users-stolen)
+### 74. [VRChat says reported data breach never happened](https://www.malwarebytes.com/blog/data-breaches/2026/06/data-of-2-4-million-vrchat-users-stolen)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 11 Jun 2026 11:31:01 GMT  
@@ -676,7 +684,7 @@
 
 ---
 
-### 74. [Children&#8217;s phones must block nude images by September, UK says](https://www.malwarebytes.com/blog/family-and-parenting/2026/06/childrens-phones-must-block-nude-images-by-september-uk-says)
+### 75. [Children&#8217;s phones must block nude images by September, UK says](https://www.malwarebytes.com/blog/family-and-parenting/2026/06/childrens-phones-must-block-nude-images-by-september-uk-says)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 11 Jun 2026 10:55:26 GMT  
@@ -685,7 +693,7 @@
 
 ---
 
-### 75. [Free Spotify Premium hacks on social media are spreading infostealers](https://www.malwarebytes.com/blog/news/2026/06/free-spotify-premium-hacks-on-social-media-are-spreading-infostealers)
+### 76. [Free Spotify Premium hacks on social media are spreading infostealers](https://www.malwarebytes.com/blog/news/2026/06/free-spotify-premium-hacks-on-social-media-are-spreading-infostealers)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 10 Jun 2026 16:27:32 GMT  
@@ -694,7 +702,7 @@
 
 ---
 
-### 76. [Microsoft’s biggest-ever Patch Tuesday fixes 206 bugs, including 3 zero-days](https://www.malwarebytes.com/blog/bugs/2026/06/microsofts-biggest-ever-patch-tuesday-fixes-206-bugs-including-3-zero-days)
+### 77. [Microsoft’s biggest-ever Patch Tuesday fixes 206 bugs, including 3 zero-days](https://www.malwarebytes.com/blog/bugs/2026/06/microsofts-biggest-ever-patch-tuesday-fixes-206-bugs-including-3-zero-days)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 10 Jun 2026 12:43:48 GMT  
@@ -703,7 +711,7 @@
 
 ---
 
-### 77. [88% of people struggle to tell what&#8217;s real online](https://www.malwarebytes.com/blog/ai/2026/06/88-of-people-struggle-to-tell-whats-real-online)
+### 78. [88% of people struggle to tell what&#8217;s real online](https://www.malwarebytes.com/blog/ai/2026/06/88-of-people-struggle-to-tell-whats-real-online)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 10 Jun 2026 11:45:00 GMT  
@@ -712,7 +720,7 @@
 
 ---
 
-### 78. [Meta&#8217;s face-recognition code raises new concerns about smart glasses](https://www.malwarebytes.com/blog/privacy/2026/06/metas-face-recognition-code-raises-new-concerns-about-smart-glasses)
+### 79. [Meta&#8217;s face-recognition code raises new concerns about smart glasses](https://www.malwarebytes.com/blog/privacy/2026/06/metas-face-recognition-code-raises-new-concerns-about-smart-glasses)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 09 Jun 2026 13:57:59 GMT  
@@ -721,22 +729,12 @@
 
 ---
 
-### 79. [Scammers love Meta, according to Lloyds Bank](https://www.malwarebytes.com/blog/scams/2026/06/scammers-love-meta-according-to-lloyds-bank)
+### 80. [Scammers love Meta, according to Lloyds Bank](https://www.malwarebytes.com/blog/scams/2026/06/scammers-love-meta-according-to-lloyds-bank)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 09 Jun 2026 13:02:49 GMT  
 **Severity:** High  
 **Categories:** Phishing  
-
----
-
-### 80. [Update Chrome: Google patches actively exploited vulnerability and 73 others](https://www.malwarebytes.com/blog/bugs/2026/06/update-chrome-google-patches-actively-exploited-vulnerability-and-73-others)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 09 Jun 2026 10:50:16 GMT  
-**Severity:** High  
-**CVEs:** CVE-2026-11645  
-**Categories:** Vulnerability  
 
 ---
 
