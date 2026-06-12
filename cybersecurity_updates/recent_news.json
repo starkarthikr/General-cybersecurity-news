@@ -1,6 +1,26 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
+    "link": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
+    "published": "Fri, 12 Jun 2026 01:59:23 +0530",
+    "summary": "The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to keep it private. The campaign hit universities hardest.\n\nGoogle's Mandiant attributes it to the group it tracks as UNC6240, and dates the activity between May 27 and June 9. Oracle did not publish its advisory until June 10, so the bug was a",
+    "analysis": {
+      "issue": "Oracle PeopleSoft zero-day CVE-2026-35273 was exploited before Oracle's June 10 advisory, exposing data and triggering extortion attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-35273"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
     "link": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
     "published": "Thu, 11 Jun 2026 23:16:32 +0530",
@@ -165,20 +185,58 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
-    "link": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
-    "published": "Wed, 10 Jun 2026 20:40:59 +0530",
-    "summary": "Fortinet, Ivanti, and SAP have released security updates to address multiple critical security vulnerabilities that could result in arbitrary code execution and information disclosure.\n\nThe security flaw patched by Fortinet relates to a command injection vulnerability in FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS WEB UI. It's tracked as CVE-2026-25089 (CVSS score: 9.1).\n\n\"An",
+    "source": "Bleeping Computer",
+    "title": "Japanese energy firm loses drive with data of 10.9 million clients",
+    "link": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
+    "published": "Thu, 11 Jun 2026 19:14:16 -0400",
+    "summary": "Kyushu Electric Power Co., Inc. has disclosed a physical security incident that affects private data of more than 10 million customers. [...]",
     "analysis": {
-      "issue": "Fortinet, Ivanti, and SAP patched critical flaws up to CVSS 10",
+      "issue": "has disclosed a physical security incident that affects private data of more than 10 million customers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Maine breach portal abused to publish fake data breach disclosures",
+    "link": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
+    "published": "Thu, 11 Jun 2026 18:44:58 -0400",
+    "summary": "In an unusual misinformation campaign, fraudulent data breach disclosures were submitted to Maine's official breach portal and publicly posted before their legitimacy could be verified, prompting companies to deny the claims. [...]",
+    "analysis": {
+      "issue": "In an unusual misinformation campaign, fraudulent data breach disclosures were submitted to Maine’s official breach portal and publicly posted before their legitimacy could be verified, prompting companies to deny the claims",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
+    "published": "Thu, 11 Jun 2026 15:39:53 -0400",
+    "summary": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter data theft attacks. [...]",
+    "analysis": {
+      "issue": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter data theft attacks",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
+      "cves": [
+        "CVE-2026-35273"
+      ],
       "threat_categories": [
-        "General Security"
+        "Vulnerability"
       ]
     }
   },
@@ -315,64 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
-    "published": "Wed, 10 Jun 2026 17:23:44 -0400",
-    "summary": "Attackers are actively exploiting CVE-2026-5027, a high-severity path traversal vulnerability in the AI development platform Langflow, to write arbitrary files on exposed servers. [...]",
-    "analysis": {
-      "issue": "Attackers are actively exploiting CVE-2026-5027, a high-severity path traversal vulnerability in the AI development platform Langflow, to write arbitrary files on exposed servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-5027"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "The ‘Miasma’ worm source code briefly leaked on GitHub",
-    "link": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
-    "published": "Wed, 10 Jun 2026 16:27:08 -0400",
-    "summary": "The Miasma credential-stealing attack framework, which has recently targeted open-source ecosystems through supply-chain attacks, was briefly open-sourced on GitHub. [...]",
-    "analysis": {
-      "issue": "The Miasma credential-stealing attack framework, which has recently targeted open-source ecosystems through supply-chain attacks, was briefly open-sourced on GitHub",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "GitHub announces npm security changes to tackle supply-chain attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
-    "published": "Wed, 10 Jun 2026 15:41:44 -0400",
-    "summary": "GitHub has announced that npm v12, expected next month, will introduce several security-focused changes aimed at blocking supply-chain attacks abusing behaviors triggered by the 'npm install' command. [...]",
-    "analysis": {
-      "issue": "GitHub has announced that npm v12, expected next month, will introduce several security-focused changes aimed at blocking supply-chain attacks abusing behaviors triggered by the 'npm install' command",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
     "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
@@ -406,8 +406,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-50507",
-        "CVE-2026-49160",
-        "CVE-2026-45586"
+        "CVE-2026-45586",
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -793,14 +793,14 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-42985",
-        "CVE-2026-42992",
-        "CVE-2026-44801",
         "CVE-2026-47291",
-        "CVE-2026-47289",
-        "CVE-2026-44812",
+        "CVE-2026-44801",
         "CVE-2026-44799",
         "CVE-2026-48563",
-        "CVE-2026-44803"
+        "CVE-2026-44803",
+        "CVE-2026-44812",
+        "CVE-2026-42992",
+        "CVE-2026-47289"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -910,10 +910,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-22554",
         "CVE-2026-25104",
+        "CVE-2026-25713",
         "CVE-2026-28764",
-        "CVE-2026-25713"
+        "CVE-2026-22554"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1353,16 +1353,16 @@
   },
   {
     "source": "Malwarebytes",
-    "title": "Data of 2.4 million VRChat users stolen",
+    "title": "VRChat says reported data breach never happened",
     "link": "https://www.malwarebytes.com/blog/data-breaches/2026/06/data-of-2-4-million-vrchat-users-stolen",
     "published": "Thu, 11 Jun 2026 11:31:01 GMT",
     "summary": "We explain what data was exposed, the potential risks, and the steps you should take now.",
     "analysis": {
-      "issue": "has filed a data breach notice revealing that the information of more than 2",
+      "issue": "A data breach notice has been filed with the Maine Attorney General, saying more than 2",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "Data Breach",

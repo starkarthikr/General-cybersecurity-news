@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-11 19:18:39 UTC
+**Last Updated:** 2026-06-12 04:40:35 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets](https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html)
+### 1. [ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities](https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 12 Jun 2026 01:59:23 +0530  
+**Severity:** Critical  
+**CVEs:** CVE-2026-35273  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets](https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 23:16:32 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files](https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html)
+### 3. [New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files](https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 23:13:52 +0530  
@@ -22,7 +32,7 @@
 
 ---
 
-### 3. [The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm](https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html)
+### 4. [The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm](https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 22:20:47 +0530  
@@ -31,7 +41,7 @@
 
 ---
 
-### 4. [Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories](https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html)
+### 5. [Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories](https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 18:56:13 +0530  
@@ -40,7 +50,7 @@
 
 ---
 
-### 5. [ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html)
+### 6. [ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 18:50:41 +0530  
@@ -49,7 +59,7 @@
 
 ---
 
-### 6. [AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.](https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html)
+### 7. [AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.](https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 17:00:00 +0530  
@@ -58,7 +68,7 @@
 
 ---
 
-### 7. [OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack](https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html)
+### 8. [OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack](https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 15:15:58 +0530  
@@ -67,7 +77,7 @@
 
 ---
 
-### 8. [GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks](https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html)
+### 9. [GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks](https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 11 Jun 2026 11:53:03 +0530  
@@ -76,7 +86,7 @@
 
 ---
 
-### 9. [China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance](https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html)
+### 10. [China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance](https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 10 Jun 2026 21:38:42 +0530  
@@ -85,16 +95,35 @@
 
 ---
 
-### 10. [Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities](https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html)
+### 11. [Japanese energy firm loses drive with data of 10.9 million clients](https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 10 Jun 2026 20:40:59 +0530  
-**Severity:** Critical  
+**Source:** Bleeping Computer  
+**Published:** Thu, 11 Jun 2026 19:14:16 -0400  
+**Severity:** High  
 **Categories:** General Security  
 
 ---
 
-### 11. [Authorities dismantle 'AudiA6' ransomware crypto-laundering service](https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/)
+### 12. [Maine breach portal abused to publish fake data breach disclosures](https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 11 Jun 2026 18:44:58 -0400  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 13. [Oracle mitigates PeopleSoft zero-day exploited in data theft attacks](https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 11 Jun 2026 15:39:53 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-35273  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [Authorities dismantle 'AudiA6' ransomware crypto-laundering service](https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 11 Jun 2026 11:55:41 -0400  
@@ -103,7 +132,7 @@
 
 ---
 
-### 12. [Why AI-driven threats are exposing the limits of MSP security stacks](https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/)
+### 15. [Why AI-driven threats are exposing the limits of MSP security stacks](https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 11 Jun 2026 10:00:10 -0400  
@@ -112,7 +141,7 @@
 
 ---
 
-### 13. [Coupang hit with record $409 million data breach fine in Korea](https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/)
+### 16. [Coupang hit with record $409 million data breach fine in Korea](https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 11 Jun 2026 08:52:41 -0400  
@@ -121,7 +150,7 @@
 
 ---
 
-### 14. [CISA tells govt agencies to patch critical exploited flaws in 3 days](https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/)
+### 17. [CISA tells govt agencies to patch critical exploited flaws in 3 days](https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 11 Jun 2026 08:46:44 -0400  
@@ -130,7 +159,7 @@
 
 ---
 
-### 15. [Microsoft fixes BitLocker recovery bug on Windows Server 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/)
+### 18. [Microsoft fixes BitLocker recovery bug on Windows Server 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 11 Jun 2026 04:44:22 -0400  
@@ -139,7 +168,7 @@
 
 ---
 
-### 16. [Nottingham University data breach affects over 450,000 students](https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/)
+### 19. [Nottingham University data breach affects over 450,000 students](https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 11 Jun 2026 03:27:53 -0400  
@@ -148,41 +177,13 @@
 
 ---
 
-### 17. [Max severity Ivanti Sentry vulnerability now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/)
+### 20. [Max severity Ivanti Sentry vulnerability now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 11 Jun 2026 02:20:22 -0400  
 **Severity:** Low  
 **CVEs:** CVE-2026-10520  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 18. [Path traversal flaw in AI dev platform Langflow exploited in attacks](https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 10 Jun 2026 17:23:44 -0400  
-**Severity:** High  
-**CVEs:** CVE-2026-5027  
-**Categories:** Vulnerability  
-
----
-
-### 19. [The ‘Miasma’ worm source code briefly leaked on GitHub](https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 10 Jun 2026 16:27:08 -0400  
-**Severity:** High  
-**Categories:** Data Breach, Malware, Supply Chain  
-
----
-
-### 20. [GitHub announces npm security changes to tackle supply-chain attacks](https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 10 Jun 2026 15:41:44 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -200,7 +201,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
+**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -384,7 +385,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-42985, CVE-2026-42992, CVE-2026-44801, CVE-2026-47291, CVE-2026-47289, CVE-2026-44812, CVE-2026-44799, CVE-2026-48563, CVE-2026-44803  
+**CVEs:** CVE-2026-42985, CVE-2026-47291, CVE-2026-44801, CVE-2026-44799, CVE-2026-48563, CVE-2026-44803, CVE-2026-44812, CVE-2026-42992, CVE-2026-47289  
 **Categories:** Vulnerability  
 
 ---
@@ -439,7 +440,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-25104, CVE-2026-28764, CVE-2026-25713  
+**CVEs:** CVE-2026-25104, CVE-2026-25713, CVE-2026-28764, CVE-2026-22554  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -656,11 +657,11 @@
 
 ---
 
-### 72. [Data of 2.4 million VRChat users stolen](https://www.malwarebytes.com/blog/data-breaches/2026/06/data-of-2-4-million-vrchat-users-stolen)
+### 72. [VRChat says reported data breach never happened](https://www.malwarebytes.com/blog/data-breaches/2026/06/data-of-2-4-million-vrchat-users-stolen)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 11 Jun 2026 11:31:01 GMT  
-**Severity:** High  
+**Severity:** Low  
 **Categories:** Data Breach, Phishing  
 
 ---
