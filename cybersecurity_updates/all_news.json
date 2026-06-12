@@ -183,6 +183,61 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "phpBB forum fixes auth bypass bug lurking for a decade",
+    "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+    "published": "Fri, 12 Jun 2026 14:19:34 -0400",
+    "summary": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
+    "analysis": {
+      "issue": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
+    "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+    "published": "Fri, 12 Jun 2026 13:54:28 -0400",
+    "summary": "A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]",
+    "analysis": {
+      "issue": "A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+    "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+    "published": "Fri, 12 Jun 2026 13:03:55 -0400",
+    "summary": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
+    "analysis": {
+      "issue": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
     "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
     "published": "Fri, 12 Jun 2026 10:01:11 -0400",
@@ -311,65 +366,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
-    "published": "Thu, 11 Jun 2026 15:39:53 -0400",
-    "summary": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter data theft attacks. [...]",
-    "analysis": {
-      "issue": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter data theft attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-35273"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
-    "link": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
-    "published": "Thu, 11 Jun 2026 11:55:41 -0400",
-    "summary": "Law enforcement has dismantled the &ldquo;AudiA6&rdquo; cryptocurrency service&nbsp;allegedly used by ransomware actors and other cybercriminals to launder more than $380 million. [...]",
-    "analysis": {
-      "issue": "Law enforcement has dismantled the “AudiA6” cryptocurrency service allegedly used by ransomware actors and other cybercriminals to launder more than $380 million",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
-    "link": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
-    "published": "Thu, 11 Jun 2026 10:00:10 -0400",
-    "summary": "AI-driven attacks are exposing the limits of fragmented MSP security stacks and slow response workflows. Kaseya breaks down why integrated security, automation, and recovery are becoming essential. [...]",
-    "analysis": {
-      "issue": "AI is transforming the speed and scale of cybercrime in ways traditional security operations were never designed to handle",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
     "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
@@ -402,8 +398,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
         "CVE-2026-50507",
+        "CVE-2026-45586",
         "CVE-2026-49160"
       ],
       "threat_categories": [
@@ -558,6 +554,31 @@
       "cves": [],
       "threat_categories": [
         "Malware",
+        "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine",
+    "link": "https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/",
+    "published": "Fri, 12 Jun 2026 16:17:26 +0000",
+    "summary": "<p>Other noteworthy stories that might have slipped under the radar: ICS device exposure remains flat as attack surface widens, Microsoft issues incident response playbook for AI, IBM and AT&#038;T accused of hack cover-ups.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/\">In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Other noteworthy stories that might have slipped under the radar: ICS device exposure remains flat as attack surface widens, Microsoft issues incident response playbook for AI, IBM and AT&T accused of hack cover-ups",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-42271"
+      ],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability",
+        "Malware",
+        "APT",
         "DDoS"
       ]
     }
@@ -741,26 +762,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month",
-    "link": "https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/",
-    "published": "Thu, 11 Jun 2026 13:00:00 +0000",
-    "summary": "<p>Researchers say the OnyxC2 malware targets more than 200 applications and extensions while evading detection through encrypted payloads, DLL sideloading, and in-memory execution techniques.</p>\n<p>The post <a href=\"https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/\">OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Researchers say the OnyxC2 malware targets more than 200 applications and extensions while evading detection through encrypted payloads, DLL sideloading, and in-memory execution techniques",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "A tale of two eras",
     "link": "https://blog.talosintelligence.com/a-tale-of-two-eras/",
@@ -791,15 +792,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44812",
-        "CVE-2026-42992",
-        "CVE-2026-47289",
-        "CVE-2026-42985",
-        "CVE-2026-44803",
+        "CVE-2026-48563",
         "CVE-2026-44801",
-        "CVE-2026-47291",
+        "CVE-2026-44803",
+        "CVE-2026-47289",
         "CVE-2026-44799",
-        "CVE-2026-48563"
+        "CVE-2026-44812",
+        "CVE-2026-47291",
+        "CVE-2026-42992",
+        "CVE-2026-42985"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -911,8 +912,8 @@
       "cves": [
         "CVE-2026-25713",
         "CVE-2026-22554",
-        "CVE-2026-25104",
-        "CVE-2026-28764"
+        "CVE-2026-28764",
+        "CVE-2026-25104"
       ],
       "threat_categories": [
         "Vulnerability",

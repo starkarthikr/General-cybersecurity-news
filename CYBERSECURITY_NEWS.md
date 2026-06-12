@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-12 15:28:11 UTC
+**Last Updated:** 2026-06-12 18:23:53 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,34 @@
 
 ---
 
-### 11. [Early Warning Signs of Supply-Chain Attacks Live in the Dark Web](https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/)
+### 11. [phpBB forum fixes auth bypass bug lurking for a decade](https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 12 Jun 2026 14:19:34 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 12. [Ukrainian national pleads guilty to role in Conti ransomware operation](https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 12 Jun 2026 13:54:28 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 13. [Over 400 Arch Linux packages compromised to push rootkit, infostealer](https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 12 Jun 2026 13:03:55 -0400  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 14. [Early Warning Signs of Supply-Chain Attacks Live in the Dark Web](https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 10:01:11 -0400  
@@ -104,7 +131,7 @@
 
 ---
 
-### 12. [Microsoft fixes Windows update failures linked to WUSA installer](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/)
+### 15. [Microsoft fixes Windows update failures linked to WUSA installer](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 07:44:58 -0400  
@@ -113,7 +140,7 @@
 
 ---
 
-### 13. [Pharma giant Novo Nordisk discloses breach of clinical trials data](https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/)
+### 16. [Pharma giant Novo Nordisk discloses breach of clinical trials data](https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 06:13:19 -0400  
@@ -122,7 +149,7 @@
 
 ---
 
-### 14. [CISA orders feds to patch actively exploited Ivanti flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/)
+### 17. [CISA orders feds to patch actively exploited Ivanti flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 04:26:55 -0400  
@@ -132,7 +159,7 @@
 
 ---
 
-### 15. [Over 73,000 French govt employees affected in Tchap messenger breach](https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/)
+### 18. [Over 73,000 French govt employees affected in Tchap messenger breach](https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 03:09:11 -0400  
@@ -141,7 +168,7 @@
 
 ---
 
-### 16. [Japanese energy firm loses drive with data of 10.9 million clients](https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/)
+### 19. [Japanese energy firm loses drive with data of 10.9 million clients](https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 11 Jun 2026 19:14:16 -0400  
@@ -150,40 +177,12 @@
 
 ---
 
-### 17. [Maine breach portal abused to publish fake data breach disclosures](https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/)
+### 20. [Maine breach portal abused to publish fake data breach disclosures](https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 11 Jun 2026 18:44:58 -0400  
 **Severity:** Low  
 **Categories:** Data Breach  
-
----
-
-### 18. [Oracle mitigates PeopleSoft zero-day exploited in data theft attacks](https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 11 Jun 2026 15:39:53 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-35273  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Authorities dismantle 'AudiA6' ransomware crypto-laundering service](https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 11 Jun 2026 11:55:41 -0400  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 20. [Why AI-driven threats are exposing the limits of MSP security stacks](https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 11 Jun 2026 10:00:10 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Vulnerability, Malware, Phishing  
 
 ---
 
@@ -201,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
+**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -278,7 +277,17 @@
 
 ---
 
-### 31. [Industry Reactions to Claude Fable 5: Feedback Friday](https://www.securityweek.com/industry-reactions-to-claude-fable-5-feedback-friday/)
+### 31. [In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine](https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/)
+
+**Source:** Security Week  
+**Published:** Fri, 12 Jun 2026 16:17:26 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-42271  
+**Categories:** Ransomware, Data Breach, Vulnerability, Malware, APT, DDoS  
+
+---
+
+### 32. [Industry Reactions to Claude Fable 5: Feedback Friday](https://www.securityweek.com/industry-reactions-to-claude-fable-5-feedback-friday/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 12:30:34 +0000  
@@ -287,7 +296,7 @@
 
 ---
 
-### 32. [Iranian Cyber Group Handala Claims Cal Water Hack](https://www.securityweek.com/iranian-cyber-group-handala-claims-cal-water-hack/)
+### 33. [Iranian Cyber Group Handala Claims Cal Water Hack](https://www.securityweek.com/iranian-cyber-group-handala-claims-cal-water-hack/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 11:30:23 +0000  
@@ -296,7 +305,7 @@
 
 ---
 
-### 33. [Ivanti Sentry Exploitation Attempts Hitting Honeypots](https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/)
+### 34. [Ivanti Sentry Exploitation Attempts Hitting Honeypots](https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 09:44:16 +0000  
@@ -306,7 +315,7 @@
 
 ---
 
-### 34. [Chrome 149 Update Patches 28 Vulnerabilities](https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/)
+### 35. [Chrome 149 Update Patches 28 Vulnerabilities](https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 09:27:08 +0000  
@@ -315,7 +324,7 @@
 
 ---
 
-### 35. [Anthropic Disputes Fable 5 AI Jailbreak](https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/)
+### 36. [Anthropic Disputes Fable 5 AI Jailbreak](https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 08:43:06 +0000  
@@ -324,7 +333,7 @@
 
 ---
 
-### 36. [Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters](https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/)
+### 37. [Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters](https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 06:44:36 +0000  
@@ -334,7 +343,7 @@
 
 ---
 
-### 37. [Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks](https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/)
+### 38. [Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks](https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 11 Jun 2026 13:57:54 +0000  
@@ -344,7 +353,7 @@
 
 ---
 
-### 38. [Alert Fatigue Is Becoming a Security Threat of Its Own](https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/)
+### 39. [Alert Fatigue Is Becoming a Security Threat of Its Own](https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/)
 
 **Source:** Security Week  
 **Published:** Thu, 11 Jun 2026 13:45:00 +0000  
@@ -353,21 +362,12 @@
 
 ---
 
-### 39. [CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk](https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/)
+### 40. [CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk](https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/)
 
 **Source:** Security Week  
 **Published:** Thu, 11 Jun 2026 13:01:14 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 40. [OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month](https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/)
-
-**Source:** Security Week  
-**Published:** Thu, 11 Jun 2026 13:00:00 +0000  
-**Severity:** High  
-**Categories:** Malware, Phishing, APT  
 
 ---
 
@@ -385,7 +385,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44812, CVE-2026-42992, CVE-2026-47289, CVE-2026-42985, CVE-2026-44803, CVE-2026-44801, CVE-2026-47291, CVE-2026-44799, CVE-2026-48563  
+**CVEs:** CVE-2026-48563, CVE-2026-44801, CVE-2026-44803, CVE-2026-47289, CVE-2026-44799, CVE-2026-44812, CVE-2026-47291, CVE-2026-42992, CVE-2026-42985  
 **Categories:** Vulnerability  
 
 ---
@@ -440,7 +440,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25713, CVE-2026-22554, CVE-2026-25104, CVE-2026-28764  
+**CVEs:** CVE-2026-25713, CVE-2026-22554, CVE-2026-28764, CVE-2026-25104  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
