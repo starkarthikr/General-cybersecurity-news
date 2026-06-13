@@ -396,9 +396,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
+        "CVE-2026-49160",
         "CVE-2026-50507",
-        "CVE-2026-49160"
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -553,6 +553,25 @@
       "threat_categories": [
         "Malware",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks",
+    "link": "https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/",
+    "published": "Sat, 13 Jun 2026 15:52:58 +0000",
+    "summary": "<p>By default, npm install will no longer execute scripts from dependencies, unless explicitly allowed.</p>\n<p>The post <a href=\"https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/\">NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "By default, npm install will no longer execute scripts from dependencies, unless explicitly allowed",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
       ]
     }
   },
@@ -740,26 +759,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Alert Fatigue Is Becoming a Security Threat of Its Own",
-    "link": "https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/",
-    "published": "Thu, 11 Jun 2026 13:45:00 +0000",
-    "summary": "<p>As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from the noise.</p>\n<p>The post <a href=\"https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/\">Alert Fatigue Is Becoming a Security Threat of Its Own</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from the noise",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Phishing",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "A tale of two eras",
     "link": "https://blog.talosintelligence.com/a-tale-of-two-eras/",
@@ -790,15 +789,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-44803",
+        "CVE-2026-44812",
+        "CVE-2026-48563",
+        "CVE-2026-47291",
+        "CVE-2026-44801",
         "CVE-2026-42985",
         "CVE-2026-47289",
-        "CVE-2026-48563",
-        "CVE-2026-44803",
         "CVE-2026-44799",
-        "CVE-2026-44801",
-        "CVE-2026-42992",
-        "CVE-2026-47291",
-        "CVE-2026-44812"
+        "CVE-2026-42992"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -908,8 +907,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-22554",
         "CVE-2026-25713",
+        "CVE-2026-22554",
         "CVE-2026-25104",
         "CVE-2026-28764"
       ],
@@ -1302,8 +1301,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

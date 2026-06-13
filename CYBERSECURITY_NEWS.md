@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-13 14:12:00 UTC
+**Last Updated:** 2026-06-13 17:53:31 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -199,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
+**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -276,7 +276,16 @@
 
 ---
 
-### 31. [Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls](https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/)
+### 31. [NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks](https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/)
+
+**Source:** Security Week  
+**Published:** Sat, 13 Jun 2026 15:52:58 +0000  
+**Severity:** High  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 32. [Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls](https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/)
 
 **Source:** Security Week  
 **Published:** Sat, 13 Jun 2026 06:38:34 +0000  
@@ -285,7 +294,7 @@
 
 ---
 
-### 32. [In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine](https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/)
+### 33. [In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine](https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 16:17:26 +0000  
@@ -295,7 +304,7 @@
 
 ---
 
-### 33. [Industry Reactions to Claude Fable 5: Feedback Friday](https://www.securityweek.com/industry-reactions-to-claude-fable-5-feedback-friday/)
+### 34. [Industry Reactions to Claude Fable 5: Feedback Friday](https://www.securityweek.com/industry-reactions-to-claude-fable-5-feedback-friday/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 12:30:34 +0000  
@@ -304,7 +313,7 @@
 
 ---
 
-### 34. [Iranian Cyber Group Handala Claims Cal Water Hack](https://www.securityweek.com/iranian-cyber-group-handala-claims-cal-water-hack/)
+### 35. [Iranian Cyber Group Handala Claims Cal Water Hack](https://www.securityweek.com/iranian-cyber-group-handala-claims-cal-water-hack/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 11:30:23 +0000  
@@ -313,7 +322,7 @@
 
 ---
 
-### 35. [Ivanti Sentry Exploitation Attempts Hitting Honeypots](https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/)
+### 36. [Ivanti Sentry Exploitation Attempts Hitting Honeypots](https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 09:44:16 +0000  
@@ -323,7 +332,7 @@
 
 ---
 
-### 36. [Chrome 149 Update Patches 28 Vulnerabilities](https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/)
+### 37. [Chrome 149 Update Patches 28 Vulnerabilities](https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 09:27:08 +0000  
@@ -332,7 +341,7 @@
 
 ---
 
-### 37. [Anthropic Disputes Fable 5 AI Jailbreak](https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/)
+### 38. [Anthropic Disputes Fable 5 AI Jailbreak](https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 08:43:06 +0000  
@@ -341,7 +350,7 @@
 
 ---
 
-### 38. [Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters](https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/)
+### 39. [Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters](https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 06:44:36 +0000  
@@ -351,22 +360,13 @@
 
 ---
 
-### 39. [Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks](https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/)
+### 40. [Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks](https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 11 Jun 2026 13:57:54 +0000  
 **Severity:** Critical  
 **CVEs:** CVE-2026-35273  
 **Categories:** Data Breach, Vulnerability, Supply Chain  
-
----
-
-### 40. [Alert Fatigue Is Becoming a Security Threat of Its Own](https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/)
-
-**Source:** Security Week  
-**Published:** Thu, 11 Jun 2026 13:45:00 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Phishing, APT  
 
 ---
 
@@ -384,7 +384,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-42985, CVE-2026-47289, CVE-2026-48563, CVE-2026-44803, CVE-2026-44799, CVE-2026-44801, CVE-2026-42992, CVE-2026-47291, CVE-2026-44812  
+**CVEs:** CVE-2026-44803, CVE-2026-44812, CVE-2026-48563, CVE-2026-47291, CVE-2026-44801, CVE-2026-42985, CVE-2026-47289, CVE-2026-44799, CVE-2026-42992  
 **Categories:** Vulnerability  
 
 ---
@@ -439,7 +439,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-25713, CVE-2026-25104, CVE-2026-28764  
+**CVEs:** CVE-2026-25713, CVE-2026-22554, CVE-2026-25104, CVE-2026-28764  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -632,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
