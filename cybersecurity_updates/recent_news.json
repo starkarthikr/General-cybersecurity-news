@@ -1,6 +1,60 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
+    "link": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
+    "published": "Sat, 13 Jun 2026 01:03:25 +0530",
+    "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them.\n\nThe malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux's community package collection, and it is separate",
+    "analysis": {
+      "issue": "Attackers hijacked 400+ Arch Linux AUR packages to run a Rust credential stealer, with optional eBPF rootkit support on root systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+    "link": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
+    "published": "Sat, 13 Jun 2026 00:29:32 +0530",
+    "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans.\n\nThe network is said to be behind the development and management of a phishing-as-a-service (PhaaS) software kit called Outsider, per the tech giant.\n\n\"The operation weaponized Gemini to help",
+    "analysis": {
+      "issue": "Google sued Outsider operators for allegedly using Gemini AI to create phishing pages tied to 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+    "link": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
+    "published": "Fri, 12 Jun 2026 23:47:55 +0530",
+    "summary": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself.\n\nSygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH components that decide who is allowed to sign in, planting its access where ordinary cleanup could not reach it. The network it targeted had no",
+    "analysis": {
+      "issue": "Sygnia says Velvet Ant modified Linux PAM and OpenSSH components to steal credentials and maintain stealthy access since 2016",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
     "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
     "published": "Fri, 12 Jun 2026 17:34:33 +0530",
@@ -128,56 +182,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
-    "link": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
-    "published": "Thu, 11 Jun 2026 23:13:52 +0530",
-    "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for Microsoft Defender.\n\n\"This was an accidental discovery, it took a total of 4 hours to find this,\" the researcher said in a post on Blogger. \"If you ever attempted to use Windows Defender Offline Scan, you're",
+    "source": "Bleeping Computer",
+    "title": "Maine disables data breach notification portal after fake disclosures",
+    "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
+    "published": "Fri, 12 Jun 2026 15:33:32 -0400",
+    "summary": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]",
     "analysis": {
-      "issue": "GreatXML can bypass BitLocker on Windows systems where Defender Offline Scan was used, exposing encrypted drive data",
+      "issue": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
-    "link": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
-    "published": "Thu, 11 Jun 2026 22:20:47 +0530",
-    "summary": "A new analysis of The Gentlemen operation has revealed that the financially motivated threat group initially operated as an affiliate responsible for conducting double extortion attacks, while leveraging resources from various ransomware-as-a-service (RaaS) schemes like LockBit (aka Tenacious Mantis), Qilin (aka Pestilent Mantis), and Medusa (aka Venomous Mantis).\n\nAccording to a detailed report",
-    "analysis": {
-      "issue": "The Gentlemen ransomware claims 478 victims as its AI-assisted RaaS operation adds worm-like spread capability",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
-    "link": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
-    "published": "Thu, 11 Jun 2026 18:56:13 +0530",
-    "summary": "Most good security work is invisible by design. Today is the exception.\n\nThe 2026 Cybersecurity Stars Awards winners are announced across 95 subcategories in four main award categories.\n\nThe reason is simple. Cybersecurity is full of work that deserves recognition and rarely gets it. Products that quietly close real gaps. Teams that stop incidents nobody reads about. Companies that raise the",
-    "analysis": {
-      "issue": "2026 Cybersecurity Stars winners announced after independent judging, honoring cybersecurity innovation, impact, and excellence",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Data Breach"
       ]
     }
   },
@@ -348,24 +366,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Maine breach portal abused to publish fake data breach disclosures",
-    "link": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
-    "published": "Thu, 11 Jun 2026 18:44:58 -0400",
-    "summary": "In an unusual misinformation campaign, fraudulent data breach disclosures were submitted to Maine's official breach portal and publicly posted before their legitimacy could be verified, prompting companies to deny the claims. [...]",
-    "analysis": {
-      "issue": "In an unusual misinformation campaign, fraudulent data breach disclosures were submitted to Maine’s official breach portal and publicly posted before their legitimacy could be verified, prompting companies to deny the claims",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
     "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
@@ -398,9 +398,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-45586",
-        "CVE-2026-49160"
+        "CVE-2026-49160",
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -792,15 +792,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48563",
-        "CVE-2026-44801",
-        "CVE-2026-44803",
-        "CVE-2026-47289",
-        "CVE-2026-44799",
-        "CVE-2026-44812",
-        "CVE-2026-47291",
         "CVE-2026-42992",
-        "CVE-2026-42985"
+        "CVE-2026-47291",
+        "CVE-2026-44799",
+        "CVE-2026-42985",
+        "CVE-2026-44812",
+        "CVE-2026-44803",
+        "CVE-2026-44801",
+        "CVE-2026-47289",
+        "CVE-2026-48563"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -911,9 +911,9 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-25713",
-        "CVE-2026-22554",
         "CVE-2026-28764",
-        "CVE-2026-25104"
+        "CVE-2026-25104",
+        "CVE-2026-22554"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1304,8 +1304,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1517,6 +1517,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Why AI Projects Stall and How CIOs Can Respond",
+    "link": "https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/",
+    "published": "Jun 12, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn how AI governance frameworks can stall AI technology innovation and adoption and what CIOs can do to respond",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/",
     "published": "Jun 11, 2026 00:00:00-0500",
@@ -1674,24 +1692,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/",
-    "published": "Jun 01, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "This collaboration aims to scale AI-native agents within Falcon Exposure Management for faster vulnerability remediation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   }
