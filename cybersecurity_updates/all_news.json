@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
+    "link": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
+    "published": "Sat, 13 Jun 2026 11:12:50 +0530",
+    "summary": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend access to the models for foreign nationals, whether inside or outside the U.S., citing national security concerns.\n\nThe AI company said it received an order at 5:21 p.m. ET, instructing it to suspend",
+    "analysis": {
+      "issue": "Anthropic suspended Fable 5 and Mythos 5 access for foreign nationals after a U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
     "link": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
     "published": "Sat, 13 Jun 2026 01:03:25 +0530",
@@ -164,20 +182,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
-    "link": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
-    "published": "Thu, 11 Jun 2026 23:16:32 +0530",
-    "summary": "Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs.\n\nImperva buried instructions inside shared contacts, vCards, and location pins that the agent executed without the victim ever seeing them. Varonis built a test agent on",
+    "source": "Bleeping Computer",
+    "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
+    "link": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
+    "published": "Sat, 13 Jun 2026 06:01:32 -0400",
+    "summary": "The US government has ordered Anthropic to block all foreign nationals from accessing Fable 5 and Mythos 5, forcing the company to suspend both models worldwide. Anthropic is complying but disputes the basis, calling the cited jailbreak narrow and the capability widely available elsewhere. [...]",
     "analysis": {
-      "issue": "OpenClaw input flaws let hidden contacts and phishing emails trigger code execution and data leaks, exposing agent trust risks",
+      "issue": "Anthropic has suspended access to its two most capable AI models, Fable 5 and Mythos 5, for all users worldwide after the US government issued an export control directive ordering the company to block access by any foreign national",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Phishing"
+        "General Security"
       ]
     }
   },
@@ -348,24 +366,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Japanese energy firm loses drive with data of 10.9 million clients",
-    "link": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
-    "published": "Thu, 11 Jun 2026 19:14:16 -0400",
-    "summary": "Kyushu Electric Power Co., Inc. has disclosed a physical security incident that affects private data of more than 10 million customers. [...]",
-    "analysis": {
-      "issue": "has disclosed a physical security incident that affects private data of more than 10 million customers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
     "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
@@ -398,9 +398,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-45586",
-        "CVE-2026-49160"
+        "CVE-2026-49160",
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -555,6 +555,24 @@
       "threat_categories": [
         "Malware",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls",
+    "link": "https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/",
+    "published": "Sat, 13 Jun 2026 06:38:34 +0000",
+    "summary": "<p>Anthropic takes Fable 5 and Mythos 5 offline to comply with a directive from the Trump administration to prevent use by foreign nationals.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/\">Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Anthropic takes Fable 5 and Mythos 5 offline to comply with a directive from the Trump administration to prevent use by foreign nationals",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
       ]
     }
   },
@@ -744,24 +762,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk",
-    "link": "https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/",
-    "published": "Thu, 11 Jun 2026 13:01:14 +0000",
-    "summary": "<p>The new BOD 26-04 requires agencies to review and update vulnerability management policies with a focus on KEV catalog entries.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/\">CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The new BOD 26-04 requires agencies to review and update vulnerability management policies with a focus on KEV catalog entries",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "A tale of two eras",
     "link": "https://blog.talosintelligence.com/a-tale-of-two-eras/",
@@ -792,15 +792,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44803",
-        "CVE-2026-44801",
-        "CVE-2026-47289",
         "CVE-2026-44799",
+        "CVE-2026-44803",
         "CVE-2026-48563",
-        "CVE-2026-44812",
-        "CVE-2026-47291",
+        "CVE-2026-44801",
         "CVE-2026-42985",
-        "CVE-2026-42992"
+        "CVE-2026-47289",
+        "CVE-2026-42992",
+        "CVE-2026-47291",
+        "CVE-2026-44812"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -911,8 +911,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-22554",
-        "CVE-2026-28764",
         "CVE-2026-25713",
+        "CVE-2026-28764",
         "CVE-2026-25104"
       ],
       "threat_categories": [
@@ -1517,6 +1517,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "Why AI Projects Stall and How CIOs Can Respond",
+    "link": "https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/",
+    "published": "Jun 12, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn how AI governance frameworks can stall AI technology innovation and adoption and what CIOs can do to respond",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/",
     "published": "Jun 11, 2026 00:00:00-0500",
@@ -1674,24 +1692,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/",
-    "published": "Jun 01, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "This collaboration aims to scale AI-native agents within Falcon Exposure Management for faster vulnerability remediation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   }

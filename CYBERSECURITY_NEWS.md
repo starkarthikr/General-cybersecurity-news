@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-13 05:02:51 UTC
+**Last Updated:** 2026-06-13 10:57:31 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit](https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html)
+### 1. [U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals](https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 13 Jun 2026 11:12:50 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit](https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 13 Jun 2026 01:03:25 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing](https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html)
+### 3. [Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing](https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 13 Jun 2026 00:29:32 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade](https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html)
+### 4. [China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade](https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 12 Jun 2026 23:47:55 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code](https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html)
+### 5. [Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code](https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 12 Jun 2026 17:34:33 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Rethinking MDR as Attackers and Defenders Embrace AI](https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html)
+### 6. [Rethinking MDR as Attackers and Defenders Embrace AI](https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 12 Jun 2026 16:30:00 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution](https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html)
+### 7. [LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution](https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 12 Jun 2026 15:20:36 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator](https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html)
+### 8. [INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator](https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 12 Jun 2026 14:22:55 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs](https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html)
+### 9. [Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs](https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 12 Jun 2026 12:08:41 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities](https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html)
+### 10. [ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities](https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 12 Jun 2026 01:59:23 +0530  
@@ -86,16 +95,16 @@
 
 ---
 
-### 10. [New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets](https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html)
+### 11. [US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos](https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 11 Jun 2026 23:16:32 +0530  
+**Source:** Bleeping Computer  
+**Published:** Sat, 13 Jun 2026 06:01:32 -0400  
 **Severity:** Low  
-**Categories:** Phishing  
+**Categories:** General Security  
 
 ---
 
-### 11. [Maine disables data breach notification portal after fake disclosures](https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/)
+### 12. [Maine disables data breach notification portal after fake disclosures](https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 15:33:32 -0400  
@@ -104,7 +113,7 @@
 
 ---
 
-### 12. [phpBB forum fixes auth bypass bug lurking for a decade](https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/)
+### 13. [phpBB forum fixes auth bypass bug lurking for a decade](https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 14:19:34 -0400  
@@ -113,7 +122,7 @@
 
 ---
 
-### 13. [Ukrainian national pleads guilty to role in Conti ransomware operation](https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/)
+### 14. [Ukrainian national pleads guilty to role in Conti ransomware operation](https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 13:54:28 -0400  
@@ -122,7 +131,7 @@
 
 ---
 
-### 14. [Over 400 Arch Linux packages compromised to push rootkit, infostealer](https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/)
+### 15. [Over 400 Arch Linux packages compromised to push rootkit, infostealer](https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 13:03:55 -0400  
@@ -131,7 +140,7 @@
 
 ---
 
-### 15. [Early Warning Signs of Supply-Chain Attacks Live in the Dark Web](https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/)
+### 16. [Early Warning Signs of Supply-Chain Attacks Live in the Dark Web](https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 10:01:11 -0400  
@@ -140,7 +149,7 @@
 
 ---
 
-### 16. [Microsoft fixes Windows update failures linked to WUSA installer](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/)
+### 17. [Microsoft fixes Windows update failures linked to WUSA installer](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 07:44:58 -0400  
@@ -149,7 +158,7 @@
 
 ---
 
-### 17. [Pharma giant Novo Nordisk discloses breach of clinical trials data](https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/)
+### 18. [Pharma giant Novo Nordisk discloses breach of clinical trials data](https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 06:13:19 -0400  
@@ -158,7 +167,7 @@
 
 ---
 
-### 18. [CISA orders feds to patch actively exploited Ivanti flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/)
+### 19. [CISA orders feds to patch actively exploited Ivanti flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 04:26:55 -0400  
@@ -168,20 +177,11 @@
 
 ---
 
-### 19. [Over 73,000 French govt employees affected in Tchap messenger breach](https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/)
+### 20. [Over 73,000 French govt employees affected in Tchap messenger breach](https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 03:09:11 -0400  
 **Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Japanese energy firm loses drive with data of 10.9 million clients](https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 11 Jun 2026 19:14:16 -0400  
-**Severity:** High  
 **Categories:** General Security  
 
 ---
@@ -200,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
+**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -277,7 +277,16 @@
 
 ---
 
-### 31. [In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine](https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/)
+### 31. [Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls](https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/)
+
+**Source:** Security Week  
+**Published:** Sat, 13 Jun 2026 06:38:34 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine](https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 16:17:26 +0000  
@@ -287,7 +296,7 @@
 
 ---
 
-### 32. [Industry Reactions to Claude Fable 5: Feedback Friday](https://www.securityweek.com/industry-reactions-to-claude-fable-5-feedback-friday/)
+### 33. [Industry Reactions to Claude Fable 5: Feedback Friday](https://www.securityweek.com/industry-reactions-to-claude-fable-5-feedback-friday/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 12:30:34 +0000  
@@ -296,7 +305,7 @@
 
 ---
 
-### 33. [Iranian Cyber Group Handala Claims Cal Water Hack](https://www.securityweek.com/iranian-cyber-group-handala-claims-cal-water-hack/)
+### 34. [Iranian Cyber Group Handala Claims Cal Water Hack](https://www.securityweek.com/iranian-cyber-group-handala-claims-cal-water-hack/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 11:30:23 +0000  
@@ -305,7 +314,7 @@
 
 ---
 
-### 34. [Ivanti Sentry Exploitation Attempts Hitting Honeypots](https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/)
+### 35. [Ivanti Sentry Exploitation Attempts Hitting Honeypots](https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 09:44:16 +0000  
@@ -315,7 +324,7 @@
 
 ---
 
-### 35. [Chrome 149 Update Patches 28 Vulnerabilities](https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/)
+### 36. [Chrome 149 Update Patches 28 Vulnerabilities](https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 09:27:08 +0000  
@@ -324,7 +333,7 @@
 
 ---
 
-### 36. [Anthropic Disputes Fable 5 AI Jailbreak](https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/)
+### 37. [Anthropic Disputes Fable 5 AI Jailbreak](https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 08:43:06 +0000  
@@ -333,7 +342,7 @@
 
 ---
 
-### 37. [Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters](https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/)
+### 38. [Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters](https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/)
 
 **Source:** Security Week  
 **Published:** Fri, 12 Jun 2026 06:44:36 +0000  
@@ -343,7 +352,7 @@
 
 ---
 
-### 38. [Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks](https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/)
+### 39. [Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks](https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/)
 
 **Source:** Security Week  
 **Published:** Thu, 11 Jun 2026 13:57:54 +0000  
@@ -353,21 +362,12 @@
 
 ---
 
-### 39. [Alert Fatigue Is Becoming a Security Threat of Its Own](https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/)
+### 40. [Alert Fatigue Is Becoming a Security Threat of Its Own](https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/)
 
 **Source:** Security Week  
 **Published:** Thu, 11 Jun 2026 13:45:00 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability, Phishing, APT  
-
----
-
-### 40. [CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk](https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/)
-
-**Source:** Security Week  
-**Published:** Thu, 11 Jun 2026 13:01:14 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -385,7 +385,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44803, CVE-2026-44801, CVE-2026-47289, CVE-2026-44799, CVE-2026-48563, CVE-2026-44812, CVE-2026-47291, CVE-2026-42985, CVE-2026-42992  
+**CVEs:** CVE-2026-44799, CVE-2026-44803, CVE-2026-48563, CVE-2026-44801, CVE-2026-42985, CVE-2026-47289, CVE-2026-42992, CVE-2026-47291, CVE-2026-44812  
 **Categories:** Vulnerability  
 
 ---
@@ -440,7 +440,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-28764, CVE-2026-25713, CVE-2026-25104  
+**CVEs:** CVE-2026-22554, CVE-2026-25713, CVE-2026-28764, CVE-2026-25104  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -738,7 +738,16 @@
 
 ---
 
-### 81. [CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/)
+### 81. [Why AI Projects Stall and How CIOs Can Respond](https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jun 12, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 11, 2026 00:00:00-0500  
@@ -747,7 +756,7 @@
 
 ---
 
-### 82. [CrowdStrike Expands Identity Leadership with OpenID and IDPro](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/)
+### 83. [CrowdStrike Expands Identity Leadership with OpenID and IDPro](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 10, 2026 00:00:00-0500  
@@ -756,7 +765,7 @@
 
 ---
 
-### 83. [CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/)
+### 84. [CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 09, 2026 00:00:00-0500  
@@ -765,7 +774,7 @@
 
 ---
 
-### 84. [June 2026 Patch Tuesday: Microsoft Patches 206 Vulnerabilities Including Three Publicly Disclosed Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2026/)
+### 85. [June 2026 Patch Tuesday: Microsoft Patches 206 Vulnerabilities Including Three Publicly Disclosed Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 09, 2026 00:00:00-0500  
@@ -774,7 +783,7 @@
 
 ---
 
-### 85. [CrowdStrike and Zscaler Bring Continuous Identity to Zero Trust Access](https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/)
+### 86. [CrowdStrike and Zscaler Bring Continuous Identity to Zero Trust Access](https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 08, 2026 00:00:00-0500  
@@ -783,7 +792,7 @@
 
 ---
 
-### 86. [3 Principles to Safely Scale Agentic AI](https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/)
+### 87. [3 Principles to Safely Scale Agentic AI](https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 05, 2026 00:00:00-0500  
@@ -792,7 +801,7 @@
 
 ---
 
-### 87. [ISO 42001:2023 and the New Reality of Cloud AI Data Risk](https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/)
+### 88. [ISO 42001:2023 and the New Reality of Cloud AI Data Risk](https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 04, 2026 00:00:00-0500  
@@ -801,7 +810,7 @@
 
 ---
 
-### 88. [How to Stop AI-Driven Data Loss](https://www.crowdstrike.com/en-us/blog/how-to-stop-ai-driven-data-loss/)
+### 89. [How to Stop AI-Driven Data Loss](https://www.crowdstrike.com/en-us/blog/how-to-stop-ai-driven-data-loss/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 02, 2026 00:00:00-0500  
@@ -810,21 +819,12 @@
 
 ---
 
-### 89. [CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/)
+### 90. [CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 01, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 90. [CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jun 01, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
