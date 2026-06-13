@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-13 10:57:31 UTC
+**Last Updated:** 2026-06-13 14:12:00 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals](https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html)
+### 1. [Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication](https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 13 Jun 2026 18:53:03 +0530  
+**Severity:** Critical  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals](https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 13 Jun 2026 11:12:50 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit](https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html)
+### 3. [Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit](https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 13 Jun 2026 01:03:25 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing](https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html)
+### 4. [Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing](https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 13 Jun 2026 00:29:32 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade](https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html)
+### 5. [China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade](https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 12 Jun 2026 23:47:55 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code](https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html)
+### 6. [Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code](https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 12 Jun 2026 17:34:33 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Rethinking MDR as Attackers and Defenders Embrace AI](https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html)
+### 7. [Rethinking MDR as Attackers and Defenders Embrace AI](https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 12 Jun 2026 16:30:00 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution](https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html)
+### 8. [LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution](https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 12 Jun 2026 15:20:36 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator](https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html)
+### 9. [INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator](https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 12 Jun 2026 14:22:55 +0530  
@@ -76,7 +85,7 @@
 
 ---
 
-### 9. [Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs](https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html)
+### 10. [Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs](https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 12 Jun 2026 12:08:41 +0530  
@@ -85,17 +94,16 @@
 
 ---
 
-### 10. [ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities](https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html)
+### 11. [Chinese hackers hijack auth flow, spy on isolated network for a decade](https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 12 Jun 2026 01:59:23 +0530  
+**Source:** Bleeping Computer  
+**Published:** Sat, 13 Jun 2026 10:06:42 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-35273  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos](https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/)
+### 12. [US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos](https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 13 Jun 2026 06:01:32 -0400  
@@ -104,7 +112,7 @@
 
 ---
 
-### 12. [Maine disables data breach notification portal after fake disclosures](https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/)
+### 13. [Maine disables data breach notification portal after fake disclosures](https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 15:33:32 -0400  
@@ -113,7 +121,7 @@
 
 ---
 
-### 13. [phpBB forum fixes auth bypass bug lurking for a decade](https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/)
+### 14. [phpBB forum fixes auth bypass bug lurking for a decade](https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 14:19:34 -0400  
@@ -122,7 +130,7 @@
 
 ---
 
-### 14. [Ukrainian national pleads guilty to role in Conti ransomware operation](https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/)
+### 15. [Ukrainian national pleads guilty to role in Conti ransomware operation](https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 13:54:28 -0400  
@@ -131,7 +139,7 @@
 
 ---
 
-### 15. [Over 400 Arch Linux packages compromised to push rootkit, infostealer](https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/)
+### 16. [Over 400 Arch Linux packages compromised to push rootkit, infostealer](https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 13:03:55 -0400  
@@ -140,7 +148,7 @@
 
 ---
 
-### 16. [Early Warning Signs of Supply-Chain Attacks Live in the Dark Web](https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/)
+### 17. [Early Warning Signs of Supply-Chain Attacks Live in the Dark Web](https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 10:01:11 -0400  
@@ -149,7 +157,7 @@
 
 ---
 
-### 17. [Microsoft fixes Windows update failures linked to WUSA installer](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/)
+### 18. [Microsoft fixes Windows update failures linked to WUSA installer](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 07:44:58 -0400  
@@ -158,7 +166,7 @@
 
 ---
 
-### 18. [Pharma giant Novo Nordisk discloses breach of clinical trials data](https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/)
+### 19. [Pharma giant Novo Nordisk discloses breach of clinical trials data](https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 06:13:19 -0400  
@@ -167,22 +175,13 @@
 
 ---
 
-### 19. [CISA orders feds to patch actively exploited Ivanti flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/)
+### 20. [CISA orders feds to patch actively exploited Ivanti flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 04:26:55 -0400  
 **Severity:** Low  
 **CVEs:** CVE-2026-10520  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 20. [Over 73,000 French govt employees affected in Tchap messenger breach](https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 12 Jun 2026 03:09:11 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -200,7 +199,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
+**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -385,7 +384,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44799, CVE-2026-44803, CVE-2026-48563, CVE-2026-44801, CVE-2026-42985, CVE-2026-47289, CVE-2026-42992, CVE-2026-47291, CVE-2026-44812  
+**CVEs:** CVE-2026-42985, CVE-2026-47289, CVE-2026-48563, CVE-2026-44803, CVE-2026-44799, CVE-2026-44801, CVE-2026-42992, CVE-2026-47291, CVE-2026-44812  
 **Categories:** Vulnerability  
 
 ---
@@ -440,7 +439,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-25713, CVE-2026-28764, CVE-2026-25104  
+**CVEs:** CVE-2026-22554, CVE-2026-25713, CVE-2026-25104, CVE-2026-28764  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -633,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
