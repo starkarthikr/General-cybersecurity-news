@@ -181,6 +181,24 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Ex-school district employee jailed for hacks on former employer",
+    "link": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
+    "published": "Sat, 13 Jun 2026 16:53:13 -0400",
+    "summary": "A former  IT employee at an Iowa school district was sentenced to 21 months in prison after conducting a prolonged cyberattack against the former employer that disrupted classroom operations, deleted accounts, and caused tens of thousands of dollars in damages. [...]",
+    "analysis": {
+      "issue": "A former  IT employee at an Iowa school district was sentenced to 21 months in prison for conducting a prolonged cyberattack against the former employer that disrupted classroom operations, deleted accounts, and caused tens of thousands of dollars in",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
     "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
     "published": "Sat, 13 Jun 2026 10:06:42 -0400",
@@ -343,27 +361,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
-    "published": "Fri, 12 Jun 2026 04:26:55 -0400",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued Binding Operational Directive (BOD) 26-04. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued Binding Operational Directive (BOD) 26-04",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-10520"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
     "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
@@ -396,9 +393,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
         "CVE-2026-50507",
-        "CVE-2026-45586"
+        "CVE-2026-45586",
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -789,15 +786,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44803",
-        "CVE-2026-44812",
         "CVE-2026-48563",
-        "CVE-2026-47291",
+        "CVE-2026-44812",
         "CVE-2026-44801",
-        "CVE-2026-42985",
+        "CVE-2026-44803",
+        "CVE-2026-42992",
         "CVE-2026-47289",
-        "CVE-2026-44799",
-        "CVE-2026-42992"
+        "CVE-2026-42985",
+        "CVE-2026-47291",
+        "CVE-2026-44799"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -908,9 +905,9 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-25713",
-        "CVE-2026-22554",
         "CVE-2026-25104",
-        "CVE-2026-28764"
+        "CVE-2026-28764",
+        "CVE-2026-22554"
       ],
       "threat_categories": [
         "Vulnerability",
