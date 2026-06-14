@@ -393,9 +393,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
+        "CVE-2026-50507",
         "CVE-2026-49160",
-        "CVE-2026-50507"
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -520,38 +520,14 @@
     "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
     "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
     "published": "Fri, 08 May 2026 02:58:46 +0000",
-    "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak data from 275 million students and faculty across nearly 9,000 educational institutions.",
-    "analysis": {
-      "issue": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service’s login",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach"
-      ]
-    }
+    "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak data from 275 million students and faculty across nearly 9,000 educational institutions."
   },
   {
     "source": "Krebs On Security",
     "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
     "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
     "published": "Thu, 30 Apr 2026 14:04:26 +0000",
-    "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm's chief executive says the malicious activity resulted from a security breach and was likely the work of a competitor trying to tarnish his company's public image.",
-    "analysis": {
-      "issue": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOn",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "DDoS"
-      ]
-    }
+    "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm's chief executive says the malicious activity resulted from a security breach and was likely the work of a competitor trying to tarnish his company's public image."
   },
   {
     "source": "Security Week",
@@ -786,15 +762,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48563",
         "CVE-2026-47291",
         "CVE-2026-42992",
-        "CVE-2026-47289",
+        "CVE-2026-48563",
+        "CVE-2026-42985",
         "CVE-2026-44803",
-        "CVE-2026-44812",
-        "CVE-2026-44801",
         "CVE-2026-44799",
-        "CVE-2026-42985"
+        "CVE-2026-44812",
+        "CVE-2026-47289",
+        "CVE-2026-44801"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -904,10 +880,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25104",
         "CVE-2026-22554",
-        "CVE-2026-28764",
-        "CVE-2026-25713"
+        "CVE-2026-25104",
+        "CVE-2026-25713",
+        "CVE-2026-28764"
       ],
       "threat_categories": [
         "Vulnerability",
