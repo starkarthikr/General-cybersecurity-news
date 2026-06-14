@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-14 14:17:52 UTC
+**Last Updated:** 2026-06-14 17:57:21 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -94,7 +94,16 @@
 
 ---
 
-### 11. [Ex-school district employee jailed for hacks on former employer](https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/)
+### 11. [FBI disrupts massive AI-powered phishing service using a million URLs](https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 14 Jun 2026 10:36:23 -0400  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 12. [Ex-school district employee jailed for hacks on former employer](https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 13 Jun 2026 16:53:13 -0400  
@@ -103,7 +112,7 @@
 
 ---
 
-### 12. [Chinese hackers hijack auth flow, spy on isolated network for a decade](https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/)
+### 13. [Chinese hackers hijack auth flow, spy on isolated network for a decade](https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 13 Jun 2026 10:06:42 -0400  
@@ -112,7 +121,7 @@
 
 ---
 
-### 13. [US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos](https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/)
+### 14. [US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos](https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 13 Jun 2026 06:01:32 -0400  
@@ -121,7 +130,7 @@
 
 ---
 
-### 14. [Maine disables data breach notification portal after fake disclosures](https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/)
+### 15. [Maine disables data breach notification portal after fake disclosures](https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 15:33:32 -0400  
@@ -130,7 +139,7 @@
 
 ---
 
-### 15. [phpBB forum fixes auth bypass bug lurking for a decade](https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/)
+### 16. [phpBB forum fixes auth bypass bug lurking for a decade](https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 14:19:34 -0400  
@@ -139,7 +148,7 @@
 
 ---
 
-### 16. [Ukrainian national pleads guilty to role in Conti ransomware operation](https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/)
+### 17. [Ukrainian national pleads guilty to role in Conti ransomware operation](https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 13:54:28 -0400  
@@ -148,7 +157,7 @@
 
 ---
 
-### 17. [Over 400 Arch Linux packages compromised to push rootkit, infostealer](https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/)
+### 18. [Over 400 Arch Linux packages compromised to push rootkit, infostealer](https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 13:03:55 -0400  
@@ -157,7 +166,7 @@
 
 ---
 
-### 18. [Early Warning Signs of Supply-Chain Attacks Live in the Dark Web](https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/)
+### 19. [Early Warning Signs of Supply-Chain Attacks Live in the Dark Web](https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 10:01:11 -0400  
@@ -166,21 +175,10 @@
 
 ---
 
-### 19. [Microsoft fixes Windows update failures linked to WUSA installer](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/)
+### 20. [Microsoft fixes Windows update failures linked to WUSA installer](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 07:44:58 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 20. [Pharma giant Novo Nordisk discloses breach of clinical trials data](https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 12 Jun 2026 06:13:19 -0400  
-**Severity:** Low  
-**Categories:** Data Breach  
 
 ---
 
@@ -198,7 +196,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
+**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -261,6 +259,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Fri, 08 May 2026 02:58:46 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach  
 
 ---
 
@@ -268,6 +268,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Thu, 30 Apr 2026 14:04:26 +0000  
+**Severity:** Low  
+**Categories:** Malware, DDoS  
 
 ---
 
@@ -379,7 +381,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-47291, CVE-2026-42992, CVE-2026-48563, CVE-2026-42985, CVE-2026-44803, CVE-2026-44799, CVE-2026-44812, CVE-2026-47289, CVE-2026-44801  
+**CVEs:** CVE-2026-44801, CVE-2026-48563, CVE-2026-44803, CVE-2026-42985, CVE-2026-47289, CVE-2026-44812, CVE-2026-42992, CVE-2026-44799, CVE-2026-47291  
 **Categories:** Vulnerability  
 
 ---
@@ -434,7 +436,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-25104, CVE-2026-25713, CVE-2026-28764  
+**CVEs:** CVE-2026-22554, CVE-2026-28764, CVE-2026-25713, CVE-2026-25104  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
