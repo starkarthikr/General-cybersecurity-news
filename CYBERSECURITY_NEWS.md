@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-15 17:22:07 UTC
+**Last Updated:** 2026-06-15 20:02:07 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers](https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html)
+### 1. [North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels](https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 16 Jun 2026 01:02:52 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 2. [LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers](https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 15 Jun 2026 22:09:01 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes](https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html)
+### 3. [One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes](https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 15 Jun 2026 20:39:05 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More](https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html)
+### 4. [⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More](https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 15 Jun 2026 19:19:29 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [The Onboarding Password Mistake That Creates Unnecessary Risk](https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html)
+### 5. [The Onboarding Password Mistake That Creates Unnecessary Risk](https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 15 Jun 2026 17:00:00 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic](https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html)
+### 6. [152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic](https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 15 Jun 2026 16:37:50 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites](https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html)
+### 7. [Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites](https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 15 Jun 2026 15:29:38 +0530  
@@ -58,7 +67,7 @@
 
 ---
 
-### 7. [Sniper Dz Scams Target MENA Users via Fake Facebook Offers and Browser Alerts](https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html)
+### 8. [Sniper Dz Scams Target MENA Users via Fake Facebook Offers and Browser Alerts](https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 15 Jun 2026 12:00:22 +0530  
@@ -67,7 +76,7 @@
 
 ---
 
-### 8. [Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw](https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html)
+### 9. [Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw](https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 15 Jun 2026 11:47:32 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication](https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html)
+### 10. [Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication](https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 13 Jun 2026 18:53:03 +0530  
@@ -86,16 +95,16 @@
 
 ---
 
-### 10. [U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals](https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html)
+### 11. [OptinMonster WordPress plugin hacked in CDN supply-chain attack](https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 13 Jun 2026 11:12:50 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 15 Jun 2026 13:37:07 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Malware, APT  
 
 ---
 
-### 11. [Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/)
+### 12. [Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 15 Jun 2026 13:12:42 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [Council of Europe investigates ShinyHunters data breach claims](https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/)
+### 13. [Council of Europe investigates ShinyHunters data breach claims](https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 15 Jun 2026 12:37:11 -0400  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [FBI: Fraudsters use couriers to steal money in crypto scams](https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/)
+### 14. [FBI: Fraudsters use couriers to steal money in crypto scams](https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 15 Jun 2026 11:30:23 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [Vibe coders are gonna vibe code: How CISOs are tackling code sprawl](https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/)
+### 15. [Vibe coders are gonna vibe code: How CISOs are tackling code sprawl](https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 15 Jun 2026 10:01:11 -0400  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Chinese hackers breach REDCap servers, steal medical research](https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/)
+### 16. [Chinese hackers breach REDCap servers, steal medical research](https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 15 Jun 2026 10:00:00 -0400  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [New attack turned Microsoft 365 Copilot into 1-click data theft tool](https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/)
+### 17. [New attack turned Microsoft 365 Copilot into 1-click data theft tool](https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 15 Jun 2026 09:00:00 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [Infinite Campus data breach affects 137,000 school staff accounts](https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/)
+### 18. [Infinite Campus data breach affects 137,000 school staff accounts](https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 15 Jun 2026 08:38:55 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [Webinar: How behavioral AI stops phishing and account takeovers](https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/)
+### 19. [Webinar: How behavioral AI stops phishing and account takeovers](https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 15 Jun 2026 08:12:20 -0400  
@@ -169,21 +178,12 @@
 
 ---
 
-### 19. [FBI disrupts massive AI-powered phishing service using a million URLs](https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/)
+### 20. [FBI disrupts massive AI-powered phishing service using a million URLs](https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 14 Jun 2026 10:36:23 -0400  
 **Severity:** Low  
 **Categories:** Phishing  
-
----
-
-### 20. [Ex-school district employee jailed for hacks on former employer](https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/)
-
-**Source:** Bleeping Computer  
-**Published:** Sat, 13 Jun 2026 16:53:13 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -201,7 +201,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
+**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -382,7 +382,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-42992, CVE-2026-44799, CVE-2026-48563, CVE-2026-44801, CVE-2026-44803, CVE-2026-47291, CVE-2026-42985, CVE-2026-47289, CVE-2026-44812  
+**CVEs:** CVE-2026-47289, CVE-2026-44803, CVE-2026-47291, CVE-2026-42985, CVE-2026-44799, CVE-2026-48563, CVE-2026-44801, CVE-2026-42992, CVE-2026-44812  
 **Categories:** Vulnerability  
 
 ---
@@ -437,7 +437,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25104, CVE-2026-22554, CVE-2026-28764, CVE-2026-25713  
+**CVEs:** CVE-2026-28764, CVE-2026-25104, CVE-2026-22554, CVE-2026-25713  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -630,7 +630,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -735,7 +735,16 @@
 
 ---
 
-### 81. [Why AI Projects Stall and How CIOs Can Respond](https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/)
+### 81. [CrowdStrike Announces Continuous Identity for AI Agents](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jun 15, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [Why AI Projects Stall and How CIOs Can Respond](https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 12, 2026 00:00:00-0500  
@@ -744,7 +753,7 @@
 
 ---
 
-### 82. [CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/)
+### 83. [CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 11, 2026 00:00:00-0500  
@@ -753,7 +762,7 @@
 
 ---
 
-### 83. [CrowdStrike Expands Identity Leadership with OpenID and IDPro](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/)
+### 84. [CrowdStrike Expands Identity Leadership with OpenID and IDPro](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 10, 2026 00:00:00-0500  
@@ -762,7 +771,7 @@
 
 ---
 
-### 84. [CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/)
+### 85. [CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 09, 2026 00:00:00-0500  
@@ -771,7 +780,7 @@
 
 ---
 
-### 85. [June 2026 Patch Tuesday: Microsoft Patches 206 Vulnerabilities Including Three Publicly Disclosed Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2026/)
+### 86. [June 2026 Patch Tuesday: Microsoft Patches 206 Vulnerabilities Including Three Publicly Disclosed Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 09, 2026 00:00:00-0500  
@@ -780,7 +789,7 @@
 
 ---
 
-### 86. [CrowdStrike and Zscaler Bring Continuous Identity to Zero Trust Access](https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/)
+### 87. [CrowdStrike and Zscaler Bring Continuous Identity to Zero Trust Access](https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 08, 2026 00:00:00-0500  
@@ -789,7 +798,7 @@
 
 ---
 
-### 87. [3 Principles to Safely Scale Agentic AI](https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/)
+### 88. [3 Principles to Safely Scale Agentic AI](https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 05, 2026 00:00:00-0500  
@@ -798,7 +807,7 @@
 
 ---
 
-### 88. [ISO 42001:2023 and the New Reality of Cloud AI Data Risk](https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/)
+### 89. [ISO 42001:2023 and the New Reality of Cloud AI Data Risk](https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 04, 2026 00:00:00-0500  
@@ -807,19 +816,10 @@
 
 ---
 
-### 89. [How to Stop AI-Driven Data Loss](https://www.crowdstrike.com/en-us/blog/how-to-stop-ai-driven-data-loss/)
+### 90. [How to Stop AI-Driven Data Loss](https://www.crowdstrike.com/en-us/blog/how-to-stop-ai-driven-data-loss/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 02, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jun 01, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
 

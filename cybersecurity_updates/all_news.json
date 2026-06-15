@@ -1,6 +1,25 @@
 [
   {
     "source": "The Hacker News",
+    "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
+    "link": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html",
+    "published": "Tue, 16 Jun 2026 01:02:52 +0530",
+    "summary": "Cybersecurity researchers have flagged two malicious cyber campaigns that exhibit similarities with a persistent North Korean threat cluster known as Contagious Interview (aka Famous Chollima, HexagonalRodent, and Void Dokkaebi).\n\nAccording to a report published by Proofpoint, the threat actor has been found orchestrating phishing campaigns using developer role recruitment or code review themes",
+    "analysis": {
+      "issue": "Proofpoint says UNK_DeadDrop sent 250+ phishing emails to nearly 100 firms, using GitHub and VS Code lures to steal credentials and wallet data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
     "link": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
     "published": "Mon, 15 Jun 2026 22:09:01 +0530",
@@ -166,20 +185,21 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
-    "link": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
-    "published": "Sat, 13 Jun 2026 11:12:50 +0530",
-    "summary": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend access to the models for foreign nationals, whether inside or outside the U.S., citing national security concerns.\n\nThe AI company said it received an order at 5:21 p.m. ET, instructing it to suspend",
+    "source": "Bleeping Computer",
+    "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
+    "link": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
+    "published": "Mon, 15 Jun 2026 13:37:07 -0400",
+    "summary": "WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised in a supply-chain attack impacting Awesome Motive-s content distribution network (CDN). [...]",
     "analysis": {
-      "issue": "Anthropic suspended Fable 5 and Mythos 5 access for foreign nationals after a U",
+      "issue": "WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised in a supply-chain attack impacting Awesome Motive's content distribution network (CDN)",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Malware",
+        "APT"
       ]
     }
   },
@@ -350,24 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Ex-school district employee jailed for hacks on former employer",
-    "link": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
-    "published": "Sat, 13 Jun 2026 16:53:13 -0400",
-    "summary": "A former  IT employee at an Iowa school district was sentenced to 21 months in prison after conducting a prolonged cyberattack against the former employer that disrupted classroom operations, deleted accounts, and caused tens of thousands of dollars in damages. [...]",
-    "analysis": {
-      "issue": "A former  IT employee at an Iowa school district was sentenced to 21 months in prison for conducting a prolonged cyberattack against the former employer that disrupted classroom operations, deleted accounts, and caused tens of thousands of dollars in",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
     "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
@@ -400,9 +402,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-49160",
         "CVE-2026-50507",
-        "CVE-2026-45586",
-        "CVE-2026-49160"
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -784,14 +786,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42992",
-        "CVE-2026-44799",
-        "CVE-2026-48563",
-        "CVE-2026-44801",
+        "CVE-2026-47289",
         "CVE-2026-44803",
         "CVE-2026-47291",
         "CVE-2026-42985",
-        "CVE-2026-47289",
+        "CVE-2026-44799",
+        "CVE-2026-48563",
+        "CVE-2026-44801",
+        "CVE-2026-42992",
         "CVE-2026-44812"
       ],
       "threat_categories": [
@@ -902,9 +904,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-28764",
         "CVE-2026-25104",
         "CVE-2026-22554",
-        "CVE-2026-28764",
         "CVE-2026-25713"
       ],
       "threat_categories": [
@@ -1296,8 +1298,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1509,6 +1511,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "CrowdStrike Announces Continuous Identity for AI Agents",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/",
+    "published": "Jun 15, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Innovations bring CI to AI agents, extend modern privilege access, and unify identity intel across all identities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Why AI Projects Stall and How CIOs Can Respond",
     "link": "https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/",
     "published": "Jun 12, 2026 00:00:00-0500",
@@ -1659,24 +1679,6 @@
     "summary": "",
     "analysis": {
       "issue": "Learn why traditional data security tools fall short of preventing AI-driven data loss and how the CrowdStrike Falcon platform can",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/",
-    "published": "Jun 01, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "This collaboration integrates NVIDIA DOCA telemetry into Falcon Next-Gen SIEM for unified visibility across the AI factory",
       "solution": null,
       "cause": null,
       "timeline": null,
