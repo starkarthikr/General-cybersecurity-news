@@ -1,6 +1,62 @@
 [
   {
     "source": "The Hacker News",
+    "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
+    "link": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
+    "published": "Mon, 15 Jun 2026 22:09:01 +0530",
+    "summary": "A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed\n\nLiteLLM is a widely deployed open-source AI gateway that brokers calls to more than 100 model providers behind one OpenAI-compatible interface.\n\nA server takeover exposes every provider key it holds, the secrets that",
+    "analysis": {
+      "issue": "Three LiteLLM flaws let low-privilege users gain admin access and run code, exposing AI keys, secrets, prompts, and responses",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes",
+    "link": "https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html",
+    "published": "Mon, 15 Jun 2026 20:39:05 +0530",
+    "summary": "A single click on a trusted Microsoft link could have let an attacker pull emails, calendar details, and indexed files out of Microsoft 365 Copilot Enterprise Search.\n\nResearchers at Varonis Threat Labs chained three bugs into a one-click exfiltration path they call SearchLeak. Because the link pointed to a real microsoft.com domain, traditional anti-phishing and URL filtering tools were",
+    "analysis": {
+      "issue": "Microsoft fixed a critical Copilot Enterprise Search flaw that could expose emails, calendars, and indexed files through one trusted link",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
+    "link": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html",
+    "published": "Mon, 15 Jun 2026 19:19:29 +0530",
+    "summary": "Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod.\n\nThis week is the same lesson in a new form: phishing kits are easier to rent, AI names are useful bait, old login paths still fail, and forgotten software keeps becoming someone else's entry point.\n\nScroll through the full Monday Cybersecurity",
+    "analysis": {
+      "issue": "This week’s recap covers exploited flaws, supply chain attacks, phishing kits, AI lures, macOS stealers, urgent CVEs, tools, and webinars",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "The Onboarding Password Mistake That Creates Unnecessary Risk",
     "link": "https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html",
     "published": "Mon, 15 Jun 2026 17:00:00 +0530",
@@ -128,13 +184,51 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
-    "link": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
-    "published": "Sat, 13 Jun 2026 01:03:25 +0530",
-    "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them.\n\nThe malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux's community package collection, and it is separate",
+    "source": "Bleeping Computer",
+    "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
+    "published": "Mon, 15 Jun 2026 13:12:42 -0400",
+    "summary": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]",
     "analysis": {
-      "issue": "Attackers hijacked 400+ Arch Linux AUR packages to run a Rust credential stealer, with optional eBPF rootkit support on root systems",
+      "issue": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20262"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Council of Europe investigates ShinyHunters data breach claims",
+    "link": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
+    "published": "Mon, 15 Jun 2026 12:37:11 -0400",
+    "summary": "The Council of Europe, the continent's oldest intergovernmental body, is probing claims of a data breach made by the ShinyHunters extortion group over the weekend. [...]",
+    "analysis": {
+      "issue": "The Council of Europe, the continent's oldest intergovernmental body, is probing claims of a data breach made by the ShinyHunters extortion group over the weekend",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "FBI: Fraudsters use couriers to steal money in crypto scams",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/",
+    "published": "Mon, 15 Jun 2026 11:30:23 -0400",
+    "summary": "The U.S. Federal Bureau of Investigation (FBI) warned that criminals are using couriers to collect money from victims of cryptocurrency investment scams, also known as pig butchering or romance baiting. [...]",
+    "analysis": {
+      "issue": "Federal Bureau of Investigation (FBI) warned that criminals are using couriers to collect money from victims of cryptocurrency investment scams, also known as pig butchering or romance baiting",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -142,42 +236,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
-    "link": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
-    "published": "Sat, 13 Jun 2026 00:29:32 +0530",
-    "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans.\n\nThe network is said to be behind the development and management of a phishing-as-a-service (PhaaS) software kit called Outsider, per the tech giant.\n\n\"The operation weaponized Gemini to help",
-    "analysis": {
-      "issue": "Google sued Outsider operators for allegedly using Gemini AI to create phishing pages tied to 1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
-    "link": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
-    "published": "Fri, 12 Jun 2026 23:47:55 +0530",
-    "summary": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself.\n\nSygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH components that decide who is allowed to sign in, planting its access where ordinary cleanup could not reach it. The network it targeted had no",
-    "analysis": {
-      "issue": "Sygnia says Velvet Ant modified Linux PAM and OpenSSH components to steal credentials and maintain stealthy access since 2016",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
@@ -310,60 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
-    "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
-    "published": "Sat, 13 Jun 2026 10:06:42 -0400",
-    "summary": "Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the administrative activity. [...]",
-    "analysis": {
-      "issue": "Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the administrative activity",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
-    "link": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
-    "published": "Sat, 13 Jun 2026 06:01:32 -0400",
-    "summary": "The US government has ordered Anthropic to block all foreign nationals from accessing Fable 5 and Mythos 5, forcing the company to suspend both models worldwide. Anthropic is complying but disputes the basis, calling the cited jailbreak narrow and the capability widely available elsewhere. [...]",
-    "analysis": {
-      "issue": "Anthropic has suspended access to its two most capable AI models, Fable 5 and Mythos 5, for all users worldwide after the US government issued an export control directive ordering the company to block access by any foreign national",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Maine disables data breach notification portal after fake disclosures",
-    "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
-    "published": "Fri, 12 Jun 2026 15:33:32 -0400",
-    "summary": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]",
-    "analysis": {
-      "issue": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
     "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
@@ -396,8 +400,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
         "CVE-2026-50507",
+        "CVE-2026-45586",
         "CVE-2026-49160"
       ],
       "threat_categories": [
@@ -553,6 +557,26 @@
       "threat_categories": [
         "Malware",
         "DDoS"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Ransomware Attack Shuts Down Mills of Australia’s Second-Largest Sugar Producer",
+    "link": "https://www.securityweek.com/ransomware-attack-shuts-down-mills-of-australias-second-largest-sugar-producer/",
+    "published": "Mon, 15 Jun 2026 15:15:55 +0000",
+    "summary": "<p>Mackay Sugar was targeted in a cyberattack carried out by a threat group known as The Gentlemen.</p>\n<p>The post <a href=\"https://www.securityweek.com/ransomware-attack-shuts-down-mills-of-australias-second-largest-sugar-producer/\">Ransomware Attack Shuts Down Mills of Australia&#8217;s Second-Largest Sugar Producer</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Mackay Sugar was targeted in a cyberattack carried out by a threat group known as The Gentlemen",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -730,24 +754,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls",
-    "link": "https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/",
-    "published": "Sat, 13 Jun 2026 06:38:34 +0000",
-    "summary": "<p>Anthropic takes Fable 5 and Mythos 5 offline to comply with a directive from the Trump administration to prevent use by foreign nationals.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/\">Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Anthropic takes Fable 5 and Mythos 5 offline to comply with a directive from the Trump administration to prevent use by foreign nationals",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "A tale of two eras",
     "link": "https://blog.talosintelligence.com/a-tale-of-two-eras/",
@@ -778,15 +784,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44803",
         "CVE-2026-42992",
-        "CVE-2026-47289",
-        "CVE-2026-47291",
         "CVE-2026-44799",
-        "CVE-2026-44812",
-        "CVE-2026-42985",
         "CVE-2026-48563",
-        "CVE-2026-44801"
+        "CVE-2026-44801",
+        "CVE-2026-44803",
+        "CVE-2026-47291",
+        "CVE-2026-42985",
+        "CVE-2026-47289",
+        "CVE-2026-44812"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -896,10 +902,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25713",
+        "CVE-2026-25104",
         "CVE-2026-22554",
         "CVE-2026-28764",
-        "CVE-2026-25104"
+        "CVE-2026-25713"
       ],
       "threat_categories": [
         "Vulnerability",
