@@ -1,10 +1,56 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-15 05:36:57 UTC
+**Last Updated:** 2026-06-15 14:43:39 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication](https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html)
+### 1. [The Onboarding Password Mistake That Creates Unnecessary Risk](https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 15 Jun 2026 17:00:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic](https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 15 Jun 2026 16:37:50 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites](https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 15 Jun 2026 15:29:38 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 4. [Sniper Dz Scams Target MENA Users via Fake Facebook Offers and Browser Alerts](https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 15 Jun 2026 12:00:22 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 5. [Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw](https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 15 Jun 2026 11:47:32 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-0257  
+**Categories:** Vulnerability  
+
+---
+
+### 6. [Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication](https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 13 Jun 2026 18:53:03 +0530  
@@ -13,7 +59,7 @@
 
 ---
 
-### 2. [U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals](https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html)
+### 7. [U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals](https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 13 Jun 2026 11:12:50 +0530  
@@ -22,7 +68,7 @@
 
 ---
 
-### 3. [Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit](https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html)
+### 8. [Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit](https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 13 Jun 2026 01:03:25 +0530  
@@ -31,7 +77,7 @@
 
 ---
 
-### 4. [Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing](https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html)
+### 9. [Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing](https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 13 Jun 2026 00:29:32 +0530  
@@ -40,7 +86,7 @@
 
 ---
 
-### 5. [China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade](https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html)
+### 10. [China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade](https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 12 Jun 2026 23:47:55 +0530  
@@ -49,52 +95,53 @@
 
 ---
 
-### 6. [Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code](https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html)
+### 11. [Vibe coders are gonna vibe code: How CISOs are tackling code sprawl](https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 12 Jun 2026 17:34:33 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 15 Jun 2026 10:01:11 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 7. [Rethinking MDR as Attackers and Defenders Embrace AI](https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html)
+### 12. [Chinese hackers breach REDCap servers, steal medical research](https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 12 Jun 2026 16:30:00 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 15 Jun 2026 10:00:00 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Malware  
 
 ---
 
-### 8. [LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution](https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html)
+### 13. [New attack turned Microsoft 365 Copilot into 1-click data theft tool](https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 12 Jun 2026 15:20:36 +0530  
-**Severity:** Low  
-**Categories:** General Security  
+**Source:** Bleeping Computer  
+**Published:** Mon, 15 Jun 2026 09:00:00 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-42824  
+**Categories:** Vulnerability  
 
 ---
 
-### 9. [INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator](https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html)
+### 14. [Infinite Campus data breach affects 137,000 school staff accounts](https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/)
 
-**Source:** The Hacker News  
-**Published:** Fri, 12 Jun 2026 14:22:55 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 15 Jun 2026 08:38:55 -0400  
+**Severity:** High  
+**Categories:** Data Breach  
+
+---
+
+### 15. [Webinar: How behavioral AI stops phishing and account takeovers](https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 15 Jun 2026 08:12:20 -0400  
 **Severity:** Low  
 **Categories:** Phishing  
 
 ---
 
-### 10. [Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs](https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html)
-
-**Source:** The Hacker News  
-**Published:** Fri, 12 Jun 2026 12:08:41 +0530  
-**Severity:** Low  
-**Categories:** Ransomware  
-
----
-
-### 11. [FBI disrupts massive AI-powered phishing service using a million URLs](https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/)
+### 16. [FBI disrupts massive AI-powered phishing service using a million URLs](https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 14 Jun 2026 10:36:23 -0400  
@@ -103,7 +150,7 @@
 
 ---
 
-### 12. [Ex-school district employee jailed for hacks on former employer](https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/)
+### 17. [Ex-school district employee jailed for hacks on former employer](https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 13 Jun 2026 16:53:13 -0400  
@@ -112,7 +159,7 @@
 
 ---
 
-### 13. [Chinese hackers hijack auth flow, spy on isolated network for a decade](https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/)
+### 18. [Chinese hackers hijack auth flow, spy on isolated network for a decade](https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 13 Jun 2026 10:06:42 -0400  
@@ -121,7 +168,7 @@
 
 ---
 
-### 14. [US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos](https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/)
+### 19. [US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos](https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 13 Jun 2026 06:01:32 -0400  
@@ -130,7 +177,7 @@
 
 ---
 
-### 15. [Maine disables data breach notification portal after fake disclosures](https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/)
+### 20. [Maine disables data breach notification portal after fake disclosures](https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 12 Jun 2026 15:33:32 -0400  
@@ -139,55 +186,12 @@
 
 ---
 
-### 16. [phpBB forum fixes auth bypass bug lurking for a decade](https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 12 Jun 2026 14:19:34 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 17. [Ukrainian national pleads guilty to role in Conti ransomware operation](https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 12 Jun 2026 13:54:28 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Malware  
-
----
-
-### 18. [Over 400 Arch Linux packages compromised to push rootkit, infostealer](https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 12 Jun 2026 13:03:55 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 19. [Early Warning Signs of Supply-Chain Attacks Live in the Dark Web](https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 12 Jun 2026 10:01:11 -0400  
-**Severity:** Low  
-**Categories:** Supply Chain  
-
----
-
-### 20. [Microsoft fixes Windows update failures linked to WUSA installer](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 12 Jun 2026 07:44:58 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
 ### 21. [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 10 Jun 2026 14:03:44 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Vulnerability, Malware  
 
 ---
 
@@ -195,6 +199,9 @@
 
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
+**Categories:** Vulnerability, DDoS  
 
 ---
 
@@ -202,6 +209,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 01 Jun 2026 17:32:50 +0000  
+**Severity:** High  
+**Categories:** Vulnerability  
 
 ---
 
@@ -268,7 +277,79 @@
 
 ---
 
-### 31. [NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks](https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/)
+### 31. [Chinese Hackers Target Medical, Military, and AI Research in North America](https://www.securityweek.com/chinese-hackers-target-medical-military-and-ai-research-in-north-america/)
+
+**Source:** Security Week  
+**Published:** Mon, 15 Jun 2026 14:07:45 +0000  
+**Severity:** High  
+**Categories:** Malware, APT  
+
+---
+
+### 32. [NewCore Emerges From Stealth Mode With $66 Million in Funding](https://www.securityweek.com/newcore-emerges-from-stealth-mode-with-66-million-in-funding/)
+
+**Source:** Security Week  
+**Published:** Mon, 15 Jun 2026 13:00:00 +0000  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges](https://www.securityweek.com/ukrainian-man-pleads-guilty-in-us-to-conti-ransomware-charges/)
+
+**Source:** Security Week  
+**Published:** Mon, 15 Jun 2026 11:33:20 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach, Malware, Phishing  
+
+---
+
+### 34. [Ozempic Maker Novo Nordisk Says Hackers Breached IT Systems](https://www.securityweek.com/ozempic-maker-novo-nordisk-says-hackers-breached-it-systems/)
+
+**Source:** Security Week  
+**Published:** Mon, 15 Jun 2026 11:17:21 +0000  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 35. [French Government Messaging Platform Breached by Mysterious ‘Misere’ Hacker](https://www.securityweek.com/french-government-messaging-platform-breached-by-mysterious-misere-hacker/)
+
+**Source:** Security Week  
+**Published:** Mon, 15 Jun 2026 11:09:10 +0000  
+**Severity:** Critical  
+**Categories:** Data Breach, Malware, Phishing, APT, Supply Chain  
+
+---
+
+### 36. [ShinyHunters Claims Council of Europe Hack](https://www.securityweek.com/shinyhunters-claims-council-of-europe-hack/)
+
+**Source:** Security Week  
+**Published:** Mon, 15 Jun 2026 10:44:29 +0000  
+**Severity:** Critical  
+**Categories:** Data Breach, Vulnerability  
+
+---
+
+### 37. [FBI, Google Dismantle ‘Outsider Enterprise’ Phishing Service](https://www.securityweek.com/fbi-google-dismantle-outsider-enterprise-phishing-service/)
+
+**Source:** Security Week  
+**Published:** Mon, 15 Jun 2026 09:31:14 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Phishing  
+
+---
+
+### 38. [Maine Disables Data Breach Portal Due to Fake Submissions](https://www.securityweek.com/maine-disables-data-breach-portal-due-to-fake-submissions/)
+
+**Source:** Security Week  
+**Published:** Mon, 15 Jun 2026 08:34:54 +0000  
+**Severity:** Low  
+**Categories:** Data Breach  
+
+---
+
+### 39. [NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks](https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/)
 
 **Source:** Security Week  
 **Published:** Sat, 13 Jun 2026 15:52:58 +0000  
@@ -277,88 +358,12 @@
 
 ---
 
-### 32. [Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls](https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/)
+### 40. [Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls](https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/)
 
 **Source:** Security Week  
 **Published:** Sat, 13 Jun 2026 06:38:34 +0000  
 **Severity:** Low  
 **Categories:** Vulnerability  
-
----
-
-### 33. [In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine](https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/)
-
-**Source:** Security Week  
-**Published:** Fri, 12 Jun 2026 16:17:26 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-42271  
-**Categories:** Ransomware, Data Breach, Vulnerability, Malware, APT, DDoS  
-
----
-
-### 34. [Industry Reactions to Claude Fable 5: Feedback Friday](https://www.securityweek.com/industry-reactions-to-claude-fable-5-feedback-friday/)
-
-**Source:** Security Week  
-**Published:** Fri, 12 Jun 2026 12:30:34 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware, APT  
-
----
-
-### 35. [Iranian Cyber Group Handala Claims Cal Water Hack](https://www.securityweek.com/iranian-cyber-group-handala-claims-cal-water-hack/)
-
-**Source:** Security Week  
-**Published:** Fri, 12 Jun 2026 11:30:23 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach, Malware, APT  
-
----
-
-### 36. [Ivanti Sentry Exploitation Attempts Hitting Honeypots](https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/)
-
-**Source:** Security Week  
-**Published:** Fri, 12 Jun 2026 09:44:16 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-10520  
-**Categories:** Vulnerability  
-
----
-
-### 37. [Chrome 149 Update Patches 28 Vulnerabilities](https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Fri, 12 Jun 2026 09:27:08 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 38. [Anthropic Disputes Fable 5 AI Jailbreak](https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/)
-
-**Source:** Security Week  
-**Published:** Fri, 12 Jun 2026 08:43:06 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
-
----
-
-### 39. [Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters](https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/)
-
-**Source:** Security Week  
-**Published:** Fri, 12 Jun 2026 06:44:36 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-35273  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 40. [Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks](https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/)
-
-**Source:** Security Week  
-**Published:** Thu, 11 Jun 2026 13:57:54 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-35273  
-**Categories:** Data Breach, Vulnerability, Supply Chain  
 
 ---
 
@@ -376,7 +381,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44803, CVE-2026-44801, CVE-2026-44799, CVE-2026-47291, CVE-2026-42992, CVE-2026-48563, CVE-2026-44812, CVE-2026-47289, CVE-2026-42985  
+**CVEs:** CVE-2026-44803, CVE-2026-42992, CVE-2026-47289, CVE-2026-47291, CVE-2026-44799, CVE-2026-44812, CVE-2026-42985, CVE-2026-48563, CVE-2026-44801  
 **Categories:** Vulnerability  
 
 ---
@@ -431,7 +436,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-28764, CVE-2026-25713, CVE-2026-25104  
+**CVEs:** CVE-2026-25713, CVE-2026-22554, CVE-2026-28764, CVE-2026-25104  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -624,7 +629,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -639,7 +644,34 @@
 
 ---
 
-### 71. [Stolen iPhones could soon be worth a lot less to thieves](https://www.malwarebytes.com/blog/mobile/2026/06/stolen-iphones-could-soon-be-worth-a-lot-less-to-thieves)
+### 71. [Claude Fable 5 and Mythos 5 &#8220;abruptly disabled&#8221; after US gov. ban](https://www.malwarebytes.com/blog/ai/2026/06/claude-fable-5-and-mythos-5-abruptly-disabled-after-us-gov-deems-them-too-clever)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 15 Jun 2026 14:32:57 GMT  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 72. [Deepfake porn sites are going offline (re-air) (Lock and Code S07E12)](https://www.malwarebytes.com/blog/podcast/2026/06/deepfake-porn-sites-are-going-offline-re-air-lock-and-code-s07e12)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 15 Jun 2026 14:32:54 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 73. [A week in security (June 8 &#8211; June 14)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-8-june-14)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 15 Jun 2026 07:01:00 GMT  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 74. [Stolen iPhones could soon be worth a lot less to thieves](https://www.malwarebytes.com/blog/mobile/2026/06/stolen-iphones-could-soon-be-worth-a-lot-less-to-thieves)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 12 Jun 2026 14:03:16 GMT  
@@ -648,7 +680,7 @@
 
 ---
 
-### 72. [Fake verification pages are stealing Steam accounts from players](https://www.malwarebytes.com/blog/threat-intel/2026/06/fake-verification-pages-are-stealing-steam-accounts-from-players)
+### 75. [Fake verification pages are stealing Steam accounts from players](https://www.malwarebytes.com/blog/threat-intel/2026/06/fake-verification-pages-are-stealing-steam-accounts-from-players)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 12 Jun 2026 09:27:49 GMT  
@@ -657,7 +689,7 @@
 
 ---
 
-### 73. [Google can be liable for false AI Overviews, court rules](https://www.malwarebytes.com/blog/ai/2026/06/google-can-be-liable-for-false-ai-overviews-court-rules)
+### 76. [Google can be liable for false AI Overviews, court rules](https://www.malwarebytes.com/blog/ai/2026/06/google-can-be-liable-for-false-ai-overviews-court-rules)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 11 Jun 2026 16:09:13 GMT  
@@ -666,7 +698,7 @@
 
 ---
 
-### 74. [VRChat says reported data breach never happened](https://www.malwarebytes.com/blog/data-breaches/2026/06/data-of-2-4-million-vrchat-users-stolen)
+### 77. [VRChat says reported data breach never happened](https://www.malwarebytes.com/blog/data-breaches/2026/06/data-of-2-4-million-vrchat-users-stolen)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 11 Jun 2026 11:31:01 GMT  
@@ -675,7 +707,7 @@
 
 ---
 
-### 75. [Children&#8217;s phones must block nude images by September, UK says](https://www.malwarebytes.com/blog/family-and-parenting/2026/06/childrens-phones-must-block-nude-images-by-september-uk-says)
+### 78. [Children&#8217;s phones must block nude images by September, UK says](https://www.malwarebytes.com/blog/family-and-parenting/2026/06/childrens-phones-must-block-nude-images-by-september-uk-says)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 11 Jun 2026 10:55:26 GMT  
@@ -684,7 +716,7 @@
 
 ---
 
-### 76. [Free Spotify Premium hacks on social media are spreading infostealers](https://www.malwarebytes.com/blog/news/2026/06/free-spotify-premium-hacks-on-social-media-are-spreading-infostealers)
+### 79. [Free Spotify Premium hacks on social media are spreading infostealers](https://www.malwarebytes.com/blog/news/2026/06/free-spotify-premium-hacks-on-social-media-are-spreading-infostealers)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 10 Jun 2026 16:27:32 GMT  
@@ -693,39 +725,12 @@
 
 ---
 
-### 77. [Microsoft’s biggest-ever Patch Tuesday fixes 206 bugs, including 3 zero-days](https://www.malwarebytes.com/blog/bugs/2026/06/microsofts-biggest-ever-patch-tuesday-fixes-206-bugs-including-3-zero-days)
+### 80. [Microsoft’s biggest-ever Patch Tuesday fixes 206 bugs, including 3 zero-days](https://www.malwarebytes.com/blog/bugs/2026/06/microsofts-biggest-ever-patch-tuesday-fixes-206-bugs-including-3-zero-days)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 10 Jun 2026 12:43:48 GMT  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 78. [88% of people struggle to tell what&#8217;s real online](https://www.malwarebytes.com/blog/ai/2026/06/88-of-people-struggle-to-tell-whats-real-online)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 10 Jun 2026 11:45:00 GMT  
-**Severity:** High  
-**Categories:** Malware  
-
----
-
-### 79. [Meta&#8217;s face-recognition code raises new concerns about smart glasses](https://www.malwarebytes.com/blog/privacy/2026/06/metas-face-recognition-code-raises-new-concerns-about-smart-glasses)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 09 Jun 2026 13:57:59 GMT  
-**Severity:** High  
-**Categories:** APT  
-
----
-
-### 80. [Scammers love Meta, according to Lloyds Bank](https://www.malwarebytes.com/blog/scams/2026/06/scammers-love-meta-according-to-lloyds-bank)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 09 Jun 2026 13:02:49 GMT  
-**Severity:** High  
-**Categories:** Phishing  
 
 ---
 
