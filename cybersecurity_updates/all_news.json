@@ -365,61 +365,21 @@
     "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
     "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
     "published": "Wed, 10 Jun 2026 14:03:44 +0000",
-    "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
-    "analysis": {
-      "issue": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ranso",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
+    "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group."
   },
   {
     "source": "Krebs On Security",
     "title": "A Record-Breaking Patch Tuesday for June 2026",
     "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
     "published": "Tue, 09 Jun 2026 22:07:28 +0000",
-    "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploit code for at least three of the weaknesses is now publicly available.",
-    "analysis": {
-      "issue": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company’s monthly Patch Tuesday cycle",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-49160",
-        "CVE-2026-45586",
-        "CVE-2026-50507"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "DDoS"
-      ]
-    }
+    "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploit code for at least three of the weaknesses is now publicly available."
   },
   {
     "source": "Krebs On Security",
     "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
     "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
     "published": "Mon, 01 Jun 2026 17:32:50 +0000",
-    "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords.",
-    "analysis": {
-      "issue": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
+    "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords."
   },
   {
     "source": "Krebs On Security",
@@ -786,15 +746,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48563",
-        "CVE-2026-47291",
-        "CVE-2026-44812",
-        "CVE-2026-42985",
-        "CVE-2026-47289",
-        "CVE-2026-42992",
         "CVE-2026-44803",
+        "CVE-2026-44801",
         "CVE-2026-44799",
-        "CVE-2026-44801"
+        "CVE-2026-47291",
+        "CVE-2026-42992",
+        "CVE-2026-48563",
+        "CVE-2026-44812",
+        "CVE-2026-47289",
+        "CVE-2026-42985"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -904,9 +864,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25713",
-        "CVE-2026-28764",
         "CVE-2026-22554",
+        "CVE-2026-28764",
+        "CVE-2026-25713",
         "CVE-2026-25104"
       ],
       "threat_categories": [
