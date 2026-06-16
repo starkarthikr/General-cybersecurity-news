@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
+    "link": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
+    "published": "Tue, 16 Jun 2026 18:40:17 +0530",
+    "summary": "Security researchers at&nbsp;Zimperium's zLabs&nbsp;have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands.\n\nTogether, they give an operator near-total control of an infected phone: it lifts lock-screen PINs, reads and sends SMS, rewrites the clipboard to redirect crypto payments, and switches off Google Play",
+    "analysis": {
+      "issue": "Rokarolla targets 217 banking and crypto apps with 137 commands, enabling PIN, SMS code, and crypto payment theft",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
     "link": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
     "published": "Tue, 16 Jun 2026 17:00:00 +0530",
@@ -167,17 +185,53 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes",
-    "link": "https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html",
-    "published": "Mon, 15 Jun 2026 20:39:05 +0530",
-    "summary": "A single click on a trusted Microsoft link could have let an attacker pull emails, calendar details, and indexed files out of Microsoft 365 Copilot Enterprise Search.\n\nResearchers at Varonis Threat Labs chained three bugs into a one-click exfiltration path they call SearchLeak. Because the link pointed to a real microsoft.com domain, traditional anti-phishing and URL filtering tools were",
+    "source": "Bleeping Computer",
+    "title": "UK to require ID or face scan before you can make social media accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
+    "published": "Tue, 16 Jun 2026 10:38:49 -0400",
+    "summary": "Opening a new social media account in the UK will soon mean proving you're over 16 with an ID upload or a facial age scan, under a government ban on under-16s taking effect in spring 2027. Security experts warn the age checks are easy to circumvent and create new data-breach risks. [...]",
     "analysis": {
-      "issue": "Microsoft fixed a critical Copilot Enterprise Search flaw that could expose emails, calendars, and indexed files through one trusted link",
+      "issue": "The UK government will ban under-16s from social media, with regulations due before Christmas and the rules taking effect in spring 2027",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
+    "link": "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/",
+    "published": "Tue, 16 Jun 2026 10:17:27 -0400",
+    "summary": "GhostTree uses recursive NTFS junctions to generate vast numbers of valid Windows file paths. Varonis explains how the technique could cause Microsoft Defender folder scans to never complete, leaving malware undetected. [...]",
+    "analysis": {
+      "issue": "Most security teams think of NTFS junctions and symbolic links as niche file system features",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
+    "link": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
+    "published": "Tue, 16 Jun 2026 09:42:19 -0400",
+    "summary": "The U.S. Federal Trade Commission (FTC) warned that Americans lost $3.5 billion to imposter scams in 2025, with reported losses nearly tripling since 2020. [...]",
+    "analysis": {
+      "issue": "Federal Trade Commission (FTC) warned that Americans lost $3",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -237,10 +291,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-25089",
-        "CVE-2025-61624",
+        "CVE-2026-39813",
         "CVE-2026-39808",
-        "CVE-2026-39813"
+        "CVE-2026-25089",
+        "CVE-2025-61624"
       ],
       "threat_categories": [
         "Ransomware",
@@ -325,63 +379,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
-    "link": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
-    "published": "Mon, 15 Jun 2026 13:37:07 -0400",
-    "summary": "WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised in a supply-chain attack impacting Awesome Motive-s content distribution network (CDN). [...]",
-    "analysis": {
-      "issue": "WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised in a supply-chain attack impacting Awesome Motive's content distribution network (CDN)",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
-    "published": "Mon, 15 Jun 2026 13:12:42 -0400",
-    "summary": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]",
-    "analysis": {
-      "issue": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20262"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Council of Europe investigates ShinyHunters data breach claims",
-    "link": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
-    "published": "Mon, 15 Jun 2026 12:37:11 -0400",
-    "summary": "The Council of Europe, the continent's oldest intergovernmental body, is probing claims of a data breach made by the ShinyHunters extortion group over the weekend. [...]",
-    "analysis": {
-      "issue": "The Council of Europe, the continent's oldest intergovernmental body, is probing claims of a data breach made by the ShinyHunters extortion group over the weekend",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
     "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
@@ -414,9 +411,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-49160",
-        "CVE-2026-45586"
+        "CVE-2026-45586",
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -576,6 +573,86 @@
   },
   {
     "source": "Security Week",
+    "title": "iRhythm Confirms Data Stolen in Hack",
+    "link": "https://www.securityweek.com/irhythm-confirms-data-stolen-in-hack/",
+    "published": "Tue, 16 Jun 2026 15:06:24 +0000",
+    "summary": "<p>The digital health company said it learned of the breach on June 8 and the attackers demanded a ransom.</p>\n<p>The post <a href=\"https://www.securityweek.com/irhythm-confirms-data-stolen-in-hack/\">iRhythm Confirms Data Stolen in Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The digital health company said it learned of the breach on June 8 and the attackers demanded a ransom",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Hacker Conversations: Isira Adithya, the Evolution of an Ethical Hacker",
+    "link": "https://www.securityweek.com/hacker-conversations-isira-adithya-the-evolution-of-an-ethical-hacker/",
+    "published": "Tue, 16 Jun 2026 14:27:45 +0000",
+    "summary": "<p>From building LED bulbs to graduating college and buying a house with money earned from bug bounties.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-isira-adithya-the-evolution-of-an-ethical-hacker/\">Hacker Conversations: Isira Adithya, the Evolution of an Ethical Hacker</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "From building LED bulbs to graduating college and buying a house with money earned from bug bounties",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Magnitude Emerges From Stealth Mode With $10 Million in Funding",
+    "link": "https://www.securityweek.com/magnitude-emerges-from-stealth-mode-with-10-million-in-funding/",
+    "published": "Tue, 16 Jun 2026 13:34:57 +0000",
+    "summary": "<p>The company is enhancing third-party risk management (TPRM) through autonomous AI agents.</p>\n<p>The post <a href=\"https://www.securityweek.com/magnitude-emerges-from-stealth-mode-with-10-million-in-funding/\">Magnitude Emerges From Stealth Mode With $10 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The company is enhancing third-party risk management (TPRM) through autonomous AI agents",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "AI and Cybersecurity – Everything You Wanted to Know, But Were Afraid to Ask",
+    "link": "https://www.securityweek.com/ai-and-cybersecurity-everything-you-wanted-to-know-but-were-afraid-to-ask/",
+    "published": "Tue, 16 Jun 2026 13:15:34 +0000",
+    "summary": "<p>From defending networks to enabling attacks, artificial intelligence is changing every aspect of cybersecurity. Here's what dozens of experts say security leaders need to understand now.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-and-cybersecurity-everything-you-wanted-to-know-but-were-afraid-to-ask/\">AI and Cybersecurity – Everything You Wanted to Know, But Were Afraid to Ask</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "From defending networks to enabling attacks, artificial intelligence is changing every aspect of cybersecurity",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Endpoint Security Startup Ent Emerges From Stealth With $100 Million Seed Round",
     "link": "https://www.securityweek.com/endpoint-security-startup-ent-emerges-from-stealth-with-100-million-seed-round/",
     "published": "Tue, 16 Jun 2026 12:53:19 +0000",
@@ -686,91 +763,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Cybersecurity Executives Urge the Trump Administration to Ease Restrictions on Anthropic AI Models",
-    "link": "https://www.securityweek.com/cybersecurity-executives-urge-the-trump-administration-to-ease-restrictions-on-anthropic-ai-models/",
-    "published": "Tue, 16 Jun 2026 10:28:30 +0000",
-    "summary": "<p>A group of cybersecurity executives and experts is asking the Trump administration to lift its directive preventing the use of Anthropic’s latest artificial intelligence models by foreign nationals.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-executives-urge-the-trump-administration-to-ease-restrictions-on-anthropic-ai-models/\">Cybersecurity Executives Urge the Trump Administration to Ease Restrictions on Anthropic AI Models</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A group of cybersecurity executives and experts is asking the Trump administration to lift its directive preventing the use of Anthropic’s latest artificial intelligence models by foreign nationals",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Tech Coalition ‘Athena’ Targets OSS Vulnerabilities Ahead of Disclosure",
-    "link": "https://www.securityweek.com/tech-coalition-athena-targets-oss-vulnerabilities-ahead-of-disclosure/",
-    "published": "Tue, 16 Jun 2026 09:39:47 +0000",
-    "summary": "<p>Over two dozen organizations built a shared platform to triage vulnerabilities, fix them, and secure the software before patches arrive.</p>\n<p>The post <a href=\"https://www.securityweek.com/tech-coalition-athena-targets-oss-vulnerabilities-ahead-of-disclosure/\">Tech Coalition &#8216;Athena&#8217; Targets OSS Vulnerabilities Ahead of Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Over two dozen organizations built a shared platform to triage vulnerabilities, fix them, and secure the software before patches arrive",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco Patches Another SD-WAN Zero-Day Exploited in Attacks",
-    "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-exploited-in-attacks/",
-    "published": "Tue, 16 Jun 2026 06:20:18 +0000",
-    "summary": "<p>Cisco recently became aware of the exploitation of CVE-2026-20262, a Catalyst SD-WAN Manager zero-day that allows arbitrary file write.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-exploited-in-attacks/\">Cisco Patches Another SD-WAN Zero-Day Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Cisco recently became aware of the exploitation of CVE-2026-20262, a Catalyst SD-WAN Manager zero-day that allows arbitrary file write",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20245",
-        "CVE-2026-20122",
-        "CVE-2026-20182",
-        "CVE-2026-20127",
-        "CVE-2026-20262",
-        "CVE-2022-20775",
-        "CVE-2026-20133",
-        "CVE-2026-20128"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Ransomware Attack Shuts Down Mills of Australia’s Second-Largest Sugar Producer",
-    "link": "https://www.securityweek.com/ransomware-attack-shuts-down-mills-of-australias-second-largest-sugar-producer/",
-    "published": "Mon, 15 Jun 2026 15:15:55 +0000",
-    "summary": "<p>Mackay Sugar was targeted in a cyberattack carried out by a threat group known as The Gentlemen.</p>\n<p>The post <a href=\"https://www.securityweek.com/ransomware-attack-shuts-down-mills-of-australias-second-largest-sugar-producer/\">Ransomware Attack Shuts Down Mills of Australia&#8217;s Second-Largest Sugar Producer</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Mackay Sugar was targeted in a cyberattack carried out by a threat group known as The Gentlemen",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "A tale of two eras",
     "link": "https://blog.talosintelligence.com/a-tale-of-two-eras/",
@@ -801,15 +793,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44803",
-        "CVE-2026-44799",
-        "CVE-2026-47289",
-        "CVE-2026-44801",
-        "CVE-2026-44812",
         "CVE-2026-48563",
-        "CVE-2026-47291",
+        "CVE-2026-47289",
+        "CVE-2026-44803",
+        "CVE-2026-44812",
+        "CVE-2026-44799",
         "CVE-2026-42985",
-        "CVE-2026-42992"
+        "CVE-2026-44801",
+        "CVE-2026-42992",
+        "CVE-2026-47291"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -919,10 +911,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-22554",
         "CVE-2026-25104",
-        "CVE-2026-25713",
         "CVE-2026-28764",
-        "CVE-2026-22554"
+        "CVE-2026-25713"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -956,6 +948,24 @@
     "summary": "In this edition of the Threat Source newsletter, William explores the value of being \"ungovernable\" in a professional setting, sharing how challenging the status quo and seeking out the smartest people in the room can lead to a more fulfilling and successful career.",
     "analysis": {
       "issue": "Welcome to this week’s edition of the Threat Source newsletter",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "The Intelligence No One Else Has: Inside Recorded Future’s Proprietary Collection Engine",
+    "link": "https://www.recordedfuture.com/blog/recorded-future-proprietary-collection-engine",
+    "published": "Tue, 16 Jun 2026 00:00:00 GMT",
+    "summary": "Learn how Recorded Future’s proprietary collection engine empowers organizations to move beyond reactive security. Discover the power of our four unique intelligence source types—technical, underground, community, and open-source—working together to provide proactive, full-lifecycle threat protection.",
+    "analysis": {
+      "issue": "Learn how Recorded Future’s proprietary collection engine empowers organizations to move beyond reactive security",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1118,24 +1128,6 @@
     "summary": "A personal tribute to Sir Alex Younger, former head of MI6, on the friendship, lessons, and clarity he brought to Recorded Future and to those who knew him.",
     "analysis": {
       "issue": "A personal tribute to Sir Alex Younger, former head of MI6, on the friendship, lessons, and clarity he brought to Recorded Future and to those who knew him",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Iran Expands Handala Brand to Physical Threats",
-    "link": "https://www.recordedfuture.com/research/iran-handala-physical-threats",
-    "published": "Tue, 02 Jun 2026 00:00:00 GMT",
-    "summary": "Iran's MOIS expands its Handala brand to hybrid cyber and physical threat operations, recruiting proxies to conduct attacks, espionage, and sabotage against US and Israeli interests",
-    "analysis": {
-      "issue": "Iran's MOIS expands its Handala brand to hybrid cyber and physical threat operations, recruiting proxies to conduct attacks, espionage, and sabotage against US and Israeli interests",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1344,6 +1336,25 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "&#8220;Free World Cup stream&#8221; sites are serving scams, not football",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/06/free-world-cup-stream-sites-are-serving-scams-not-football",
+    "published": "Tue, 16 Jun 2026 13:00:00 GMT",
+    "summary": "We found dozens of fake World Cup streaming sites using football as bait to funnel visitors through a malicious advertising network.",
+    "analysis": {
+      "issue": "With the World Cup on, you’ll find no shortage of websites promising every match, live, in HD, for free",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Cardiac patients&#8217; medical data stolen and held to ransom",
     "link": "https://www.malwarebytes.com/blog/news/2026/06/cardiac-patients-medical-data-stolen-and-held-to-ransom",
     "published": "Tue, 16 Jun 2026 12:49:01 GMT",
@@ -1507,21 +1518,21 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "VRChat says reported data breach never happened",
-    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/06/data-of-2-4-million-vrchat-users-stolen",
-    "published": "Thu, 11 Jun 2026 11:31:01 GMT",
-    "summary": "We explain what data was exposed, the potential risks, and the steps you should take now.",
+    "source": "Crowdstrike Blog",
+    "title": "Falcon Exposure Management Now Available for Third-Party Environments",
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-exposure-management-now-available-for-third-party-environments/",
+    "published": "Jun 16, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "A data breach notice has been filed with the Maine Attorney General, saying more than 2",
+      "issue": "Organizations gain exploitability-driven prioritization and continuous visibility to face modern security challenges",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Data Breach",
-        "Phishing"
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -1677,24 +1688,6 @@
     "summary": "",
     "analysis": {
       "issue": "Learn how CrowdStrike Falcon Data Security for Cloud can help support ISO 42001:2023 cloud AI data security objectives",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "How to Stop AI-Driven Data Loss",
-    "link": "https://www.crowdstrike.com/en-us/blog/how-to-stop-ai-driven-data-loss/",
-    "published": "Jun 02, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn why traditional data security tools fall short of preventing AI-driven data loss and how the CrowdStrike Falcon platform can",
       "solution": null,
       "cause": null,
       "timeline": null,
