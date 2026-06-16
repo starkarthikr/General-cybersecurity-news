@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
+    "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
+    "published": "Tue, 16 Jun 2026 01:14:06 +0530",
+    "summary": "A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email.\n\nThe way in was a backdoor on their REDCap research servers that stole login credentials. The exfiltration was the unusual part: the attackers rewired the victims' own Google Workspace rules to copy any message",
+    "analysis": {
+      "issue": "Google says UNC6508 used REDCap backdoors and Workspace rules to copy research and defense emails across U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
     "link": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html",
     "published": "Tue, 16 Jun 2026 01:02:52 +0530",
@@ -167,18 +185,38 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
-    "link": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
-    "published": "Sat, 13 Jun 2026 18:53:03 +0530",
-    "summary": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution.\n\nThe vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring system.\n\n\"In Splunk Enterprise versions below 10.2.4 and 10.0.7, an unauthenticated user could create or truncate arbitrary",
+    "source": "Bleeping Computer",
+    "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
+    "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
+    "published": "Mon, 15 Jun 2026 17:56:55 -0400",
+    "summary": "The U.S. Department of Justice announced Friday that it has seized the CFAKE.com and SOCFAKE.com websites, which allegedly hosted nonconsensual AI-generated nude images and videos of women, in what appears to be the first publicly announced domain seizure under the TAKE IT DOWN Act. [...]",
     "analysis": {
-      "issue": "Splunk issued security updates for a critical CVSS 9",
+      "issue": "Department of Justice announced Friday that it has seized the CFAKE",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
+    "published": "Mon, 15 Jun 2026 16:06:52 -0400",
+    "summary": "A vulnerability in the SimpleHelp remote management software allows unauthenticated attackers to create privileged technician accounts on servers using the OpenID Connect (OIDC) authentication protocol. [...]",
+    "analysis": {
+      "issue": "A vulnerability in the SimpleHelp remote management software allows unauthenticated attackers to create privileged technician accounts on servers using the OpenID Connect (OIDC) authentication protocol",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
+      "cves": [
+        "CVE-2026-48558"
+      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -334,42 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Webinar: How behavioral AI stops phishing and account takeovers",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/",
-    "published": "Mon, 15 Jun 2026 08:12:20 -0400",
-    "summary": "Modern phishing, BEC, and account takeover attacks increasingly bypass traditional email defenses and create operational strain for security teams. This webinar explores how behavioral AI can help automate detection, investigation, and remediation to reduce alert fatigue and accelerate response times. [...]",
-    "analysis": {
-      "issue": "Email attacks have become increasingly difficult to detect as attackers use AI-generated phishing campaigns, trusted business identities, and authentication workflows that appear legitimate to both users and security tools",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FBI disrupts massive AI-powered phishing service using a million URLs",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
-    "published": "Sun, 14 Jun 2026 10:36:23 -0400",
-    "summary": "In a coordinated effort, the FBI, working with Google and Black Lotus Labs, has dismantled a massive Chinese phishing-as-a-service operation called Outsider Enterprise with thousands of phishing websites used to steal credit card data and passwords. [...]",
-    "analysis": {
-      "issue": "In a coordinated effort, the FBI, working with Google and Black Lotus Labs, has dismantled a massive Chinese phishing-as-a-service operation called Outsider Enterprise with thousands of phishing websites used to steal credit card data and passwords",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
     "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
@@ -403,8 +405,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-49160",
-        "CVE-2026-50507",
-        "CVE-2026-45586"
+        "CVE-2026-45586",
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -786,15 +788,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-47289",
-        "CVE-2026-44803",
-        "CVE-2026-47291",
         "CVE-2026-42985",
+        "CVE-2026-44801",
+        "CVE-2026-44812",
+        "CVE-2026-42992",
+        "CVE-2026-47289",
+        "CVE-2026-47291",
         "CVE-2026-44799",
         "CVE-2026-48563",
-        "CVE-2026-44801",
-        "CVE-2026-42992",
-        "CVE-2026-44812"
+        "CVE-2026-44803"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -904,10 +906,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-28764",
-        "CVE-2026-25104",
         "CVE-2026-22554",
-        "CVE-2026-25713"
+        "CVE-2026-28764",
+        "CVE-2026-25713",
+        "CVE-2026-25104"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1298,8 +1300,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1324,6 +1326,25 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Inside a malicious infrastructure delivering EtherRAT, phishing pages, and malicious software",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/06/inside-a-malicious-infrastructure-delivering-etherrat-phishing-pages-and-malicious-software",
+    "published": "Mon, 15 Jun 2026 20:17:46 GMT",
+    "summary": "We found EtherRAT malware being distributed by a website with a strange homepage. Following the trail, we discovered a vast network of malicious infrastructures, distributing malware, malicious documents, remote desktop software, and phishing pages.",
+    "analysis": {
+      "issue": "During our recent threat hunting activities, we found EtherRAT malware being distributed by a website with a strange homepage",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
       ]
     }
   },
@@ -1488,24 +1509,6 @@
       "threat_categories": [
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Microsoft’s biggest-ever Patch Tuesday fixes 206 bugs, including 3 zero-days",
-    "link": "https://www.malwarebytes.com/blog/bugs/2026/06/microsofts-biggest-ever-patch-tuesday-fixes-206-bugs-including-3-zero-days",
-    "published": "Wed, 10 Jun 2026 12:43:48 GMT",
-    "summary": "June 2026 is the largest Patch Tuesday in history,  fixing 206 vulnerabilities and three publicly disclosed zero-days.",
-    "analysis": {
-      "issue": "This month’s Patch Tuesday fixes 206 security flaws in Microsoft software, making it the biggest Patch Tuesday release ever",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
