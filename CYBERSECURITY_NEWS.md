@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-16 17:05:48 UTC
+**Last Updated:** 2026-06-16 19:56:13 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds](https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html)
+### 1. [ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures](https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 16 Jun 2026 23:11:28 +0530  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 2. [New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds](https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 16 Jun 2026 18:40:17 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive](https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html)
+### 3. [Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive](https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 16 Jun 2026 17:00:00 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week](https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html)
+### 4. [Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week](https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 16 Jun 2026 16:00:41 +0530  
@@ -31,7 +40,7 @@
 
 ---
 
-### 4. [China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth](https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html)
+### 5. [China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth](https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 16 Jun 2026 15:14:34 +0530  
@@ -40,7 +49,7 @@
 
 ---
 
-### 5. [Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware](https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html)
+### 6. [Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware](https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 16 Jun 2026 13:44:55 +0530  
@@ -49,7 +58,7 @@
 
 ---
 
-### 6. [Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw](https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html)
+### 7. [Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw](https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 16 Jun 2026 11:35:58 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation](https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html)
+### 8. [CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation](https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 16 Jun 2026 11:11:52 +0530  
@@ -69,7 +78,7 @@
 
 ---
 
-### 8. [Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails](https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html)
+### 9. [Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails](https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 16 Jun 2026 01:14:06 +0530  
@@ -78,7 +87,7 @@
 
 ---
 
-### 9. [North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels](https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html)
+### 10. [North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels](https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 16 Jun 2026 01:02:52 +0530  
@@ -87,16 +96,16 @@
 
 ---
 
-### 10. [LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers](https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html)
+### 11. [Steam Workshop abused to spread malware via Wallpaper Engine app](https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/)
 
-**Source:** The Hacker News  
-**Published:** Mon, 15 Jun 2026 22:09:01 +0530  
+**Source:** Bleeping Computer  
+**Published:** Tue, 16 Jun 2026 14:27:55 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** Malware  
 
 ---
 
-### 11. [UK to require ID or face scan before you can make social media accounts](https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/)
+### 12. [UK to require ID or face scan before you can make social media accounts](https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 16 Jun 2026 10:38:49 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [GhostTree Attack Abused Recursive Windows Junctions to Hide Malware](https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/)
+### 13. [GhostTree Attack Abused Recursive Windows Junctions to Hide Malware](https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 16 Jun 2026 10:17:27 -0400  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [FTC warns of record $3.5 billion losses to imposter scams in 2025](https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/)
+### 14. [FTC warns of record $3.5 billion losses to imposter scams in 2025](https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 16 Jun 2026 09:42:19 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [CISA warns of another cPanel plugin flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/)
+### 15. [CISA warns of another cPanel plugin flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 16 Jun 2026 06:47:59 -0400  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [Ransomware gang abuses Microsoft Teams relays to hide malicious traffic](https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/)
+### 16. [Ransomware gang abuses Microsoft Teams relays to hide malicious traffic](https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 16 Jun 2026 06:18:48 -0400  
@@ -142,17 +151,17 @@
 
 ---
 
-### 16. [Critical Fortinet FortiSandbox flaws now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/)
+### 17. [Critical Fortinet FortiSandbox flaws now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 16 Jun 2026 05:19:51 -0400  
 **Severity:** Critical  
-**CVEs:** CVE-2026-39813, CVE-2026-39808, CVE-2026-25089, CVE-2025-61624  
+**CVEs:** CVE-2026-39808, CVE-2026-39813, CVE-2026-25089, CVE-2025-61624  
 **Categories:** Ransomware, Vulnerability  
 
 ---
 
-### 17. [Windows version of SprySOCKS Linux malware used to attack govt orgs](https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/)
+### 18. [Windows version of SprySOCKS Linux malware used to attack govt orgs](https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 16 Jun 2026 05:00:00 -0400  
@@ -161,7 +170,7 @@
 
 ---
 
-### 18. [iRhythm discloses data breach, says hackers stole patient info](https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/)
+### 19. [iRhythm discloses data breach, says hackers stole patient info](https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 16 Jun 2026 02:31:59 -0400  
@@ -170,7 +179,7 @@
 
 ---
 
-### 19. [DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act](https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/)
+### 20. [DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act](https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 15 Jun 2026 17:56:55 -0400  
@@ -179,22 +188,10 @@
 
 ---
 
-### 20. [SimpleHelp bug lets hackers create rogue remote support accounts](https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/)
-
-**Source:** Bleeping Computer  
-**Published:** Mon, 15 Jun 2026 16:06:52 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-48558  
-**Categories:** Vulnerability  
-
----
-
 ### 21. [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
 
 **Source:** Krebs On Security  
 **Published:** Wed, 10 Jun 2026 14:03:44 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability, Malware  
 
 ---
 
@@ -203,7 +200,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
+**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -212,8 +209,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 01 Jun 2026 17:32:50 +0000  
-**Severity:** High  
-**Categories:** Vulnerability  
 
 ---
 
@@ -230,8 +225,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Fri, 22 May 2026 16:34:24 +0000  
-**Severity:** Critical  
-**Categories:** Data Breach  
 
 ---
 
@@ -239,8 +232,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Thu, 21 May 2026 21:50:25 +0000  
-**Severity:** Critical  
-**Categories:** Malware, DDoS  
 
 ---
 
@@ -248,8 +239,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 18 May 2026 20:48:21 +0000  
-**Severity:** High  
-**Categories:** Data Breach  
 
 ---
 
@@ -266,8 +255,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Fri, 08 May 2026 02:58:46 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
 
 ---
 
@@ -384,7 +371,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48563, CVE-2026-47289, CVE-2026-44803, CVE-2026-44812, CVE-2026-44799, CVE-2026-42985, CVE-2026-44801, CVE-2026-42992, CVE-2026-47291  
+**CVEs:** CVE-2026-42985, CVE-2026-44803, CVE-2026-47289, CVE-2026-42992, CVE-2026-44799, CVE-2026-44812, CVE-2026-47291, CVE-2026-44801, CVE-2026-48563  
 **Categories:** Vulnerability  
 
 ---
@@ -439,7 +426,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-25104, CVE-2026-28764, CVE-2026-25713  
+**CVEs:** CVE-2026-25104, CVE-2026-25713, CVE-2026-22554, CVE-2026-28764  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -632,7 +619,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -737,16 +724,7 @@
 
 ---
 
-### 81. [Falcon Exposure Management Now Available for Third-Party Environments](https://www.crowdstrike.com/en-us/blog/falcon-exposure-management-now-available-for-third-party-environments/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jun 16, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 82. [CrowdStrike Announces Continuous Identity for AI Agents](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/)
+### 81. [CrowdStrike Announces Continuous Identity for AI Agents](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 15, 2026 00:00:00-0500  
@@ -755,7 +733,7 @@
 
 ---
 
-### 83. [Why AI Projects Stall and How CIOs Can Respond](https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/)
+### 82. [Why AI Projects Stall and How CIOs Can Respond](https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 12, 2026 00:00:00-0500  
@@ -764,7 +742,7 @@
 
 ---
 
-### 84. [CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/)
+### 83. [CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 11, 2026 00:00:00-0500  
@@ -773,7 +751,7 @@
 
 ---
 
-### 85. [CrowdStrike Expands Identity Leadership with OpenID and IDPro](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/)
+### 84. [CrowdStrike Expands Identity Leadership with OpenID and IDPro](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 10, 2026 00:00:00-0500  
@@ -782,7 +760,7 @@
 
 ---
 
-### 86. [CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/)
+### 85. [CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 09, 2026 00:00:00-0500  
@@ -791,7 +769,7 @@
 
 ---
 
-### 87. [June 2026 Patch Tuesday: Microsoft Patches 206 Vulnerabilities Including Three Publicly Disclosed Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2026/)
+### 86. [June 2026 Patch Tuesday: Microsoft Patches 206 Vulnerabilities Including Three Publicly Disclosed Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 09, 2026 00:00:00-0500  
@@ -800,7 +778,7 @@
 
 ---
 
-### 88. [CrowdStrike and Zscaler Bring Continuous Identity to Zero Trust Access](https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/)
+### 87. [CrowdStrike and Zscaler Bring Continuous Identity to Zero Trust Access](https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 08, 2026 00:00:00-0500  
@@ -809,7 +787,7 @@
 
 ---
 
-### 89. [3 Principles to Safely Scale Agentic AI](https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/)
+### 88. [3 Principles to Safely Scale Agentic AI](https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 05, 2026 00:00:00-0500  
@@ -818,10 +796,19 @@
 
 ---
 
-### 90. [ISO 42001:2023 and the New Reality of Cloud AI Data Risk](https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/)
+### 89. [ISO 42001:2023 and the New Reality of Cloud AI Data Risk](https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 04, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 90. [How to Stop AI-Driven Data Loss](https://www.crowdstrike.com/en-us/blog/how-to-stop-ai-driven-data-loss/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jun 02, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
 
