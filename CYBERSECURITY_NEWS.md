@@ -1,10 +1,47 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-17 15:50:23 UTC
+**Last Updated:** 2026-06-17 18:41:51 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats](https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html)
+### 1. [Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments](https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 17 Jun 2026 23:44:24 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development](https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 17 Jun 2026 23:06:28 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-50656  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline](https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 17 Jun 2026 21:30:56 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization](https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html)
+
+**Source:** The Hacker News  
+**Published:** Wed, 17 Jun 2026 20:28:00 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 5. [Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats](https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 17 Jun 2026 19:21:58 +0530  
@@ -13,16 +50,7 @@
 
 ---
 
-### 2. [Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization](https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 17 Jun 2026 17:28:00 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 3. [The Top 10 Attack Surface Exposures in 2026](https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html)
+### 6. [The Top 10 Attack Surface Exposures in 2026](https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 17 Jun 2026 16:00:00 +0530  
@@ -31,7 +59,7 @@
 
 ---
 
-### 4. [144 Mastra npm Packages Compromised via Hijacked Contributor Account](https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html)
+### 7. [144 Mastra npm Packages Compromised via Hijacked Contributor Account](https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 17 Jun 2026 13:08:24 +0530  
@@ -40,7 +68,7 @@
 
 ---
 
-### 5. [CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution](https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html)
+### 8. [CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution](https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 17 Jun 2026 11:20:46 +0530  
@@ -50,7 +78,7 @@
 
 ---
 
-### 6. [Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting](https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html)
+### 9. [Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting](https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 17 Jun 2026 00:35:41 +0530  
@@ -59,39 +87,12 @@
 
 ---
 
-### 7. [ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures](https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html)
+### 10. [ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures](https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 16 Jun 2026 23:11:28 +0530  
 **Severity:** Low  
 **Categories:** Ransomware, Malware  
-
----
-
-### 8. [New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds](https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 16 Jun 2026 18:40:17 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 9. [Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive](https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 16 Jun 2026 17:00:00 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week](https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 16 Jun 2026 16:00:41 +0530  
-**Severity:** Low  
-**Categories:** Vulnerability  
 
 ---
 
@@ -201,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
+**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -329,7 +330,7 @@
 **Source:** Security Week  
 **Published:** Wed, 17 Jun 2026 09:41:07 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50656, CVE-2026-45498, CVE-2026-33825, CVE-2026-41091  
+**CVEs:** CVE-2026-41091, CVE-2026-45498, CVE-2026-50656, CVE-2026-33825  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -358,7 +359,7 @@
 **Source:** Security Week  
 **Published:** Wed, 17 Jun 2026 07:28:20 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-48907, CVE-2026-54420  
+**CVEs:** CVE-2026-54420, CVE-2026-48907  
 **Categories:** Vulnerability  
 
 ---
@@ -368,7 +369,7 @@
 **Source:** Security Week  
 **Published:** Wed, 17 Jun 2026 06:53:58 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-25089, CVE-2026-39813, CVE-2026-39808, CVE-2026-21643, CVE-2026-35616  
+**CVEs:** CVE-2026-35616, CVE-2026-39808, CVE-2026-39813, CVE-2026-21643, CVE-2026-25089  
 **Categories:** Vulnerability  
 
 ---
@@ -387,7 +388,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44803, CVE-2026-47289, CVE-2026-44801, CVE-2026-44812, CVE-2026-48563, CVE-2026-42985, CVE-2026-44799, CVE-2026-47291, CVE-2026-42992  
+**CVEs:** CVE-2026-42985, CVE-2026-42992, CVE-2026-44799, CVE-2026-44801, CVE-2026-47291, CVE-2026-44812, CVE-2026-47289, CVE-2026-48563, CVE-2026-44803  
 **Categories:** Vulnerability  
 
 ---
@@ -442,7 +443,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-25713, CVE-2026-25104, CVE-2026-28764  
+**CVEs:** CVE-2026-28764, CVE-2026-25713, CVE-2026-25104, CVE-2026-22554  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -650,7 +651,16 @@
 
 ---
 
-### 71. [24 billion stolen records exposed online. Here&#8217;s what to do](https://www.malwarebytes.com/blog/news/2026/06/24-billion-stolen-records-found-in-giant-data-dump-check-if-youre-affected)
+### 71. [Rokarolla Android malware can take over your phone and steal banking logins](https://www.malwarebytes.com/blog/mobile/2026/06/rokarolla-android-malware-can-take-over-your-phone-and-steal-banking-logins)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 17 Jun 2026 15:34:15 GMT  
+**Severity:** Low  
+**Categories:** Malware, APT  
+
+---
+
+### 72. [24 billion stolen records exposed online. Here&#8217;s what to do](https://www.malwarebytes.com/blog/news/2026/06/24-billion-stolen-records-found-in-giant-data-dump-check-if-youre-affected)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 17 Jun 2026 10:56:18 GMT  
@@ -659,7 +669,7 @@
 
 ---
 
-### 72. [Malwarebytes earns AV-TEST Top Product award, aces other third-party tests](https://www.malwarebytes.com/blog/product/2026/06/malwarebytes-earns-av-test-top-product-award-aces-other-third-party-tests)
+### 73. [Malwarebytes earns AV-TEST Top Product award, aces other third-party tests](https://www.malwarebytes.com/blog/product/2026/06/malwarebytes-earns-av-test-top-product-award-aces-other-third-party-tests)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 17 Jun 2026 09:41:46 GMT  
@@ -668,7 +678,7 @@
 
 ---
 
-### 73. [&#8220;Free World Cup stream&#8221; sites are serving scams, not football](https://www.malwarebytes.com/blog/threat-intel/2026/06/free-world-cup-stream-sites-are-serving-scams-not-football)
+### 74. [&#8220;Free World Cup stream&#8221; sites are serving scams, not football](https://www.malwarebytes.com/blog/threat-intel/2026/06/free-world-cup-stream-sites-are-serving-scams-not-football)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 16 Jun 2026 13:00:00 GMT  
@@ -677,7 +687,7 @@
 
 ---
 
-### 74. [Cardiac patients&#8217; medical data stolen and held to ransom](https://www.malwarebytes.com/blog/news/2026/06/cardiac-patients-medical-data-stolen-and-held-to-ransom)
+### 75. [Cardiac patients&#8217; medical data stolen and held to ransom](https://www.malwarebytes.com/blog/news/2026/06/cardiac-patients-medical-data-stolen-and-held-to-ransom)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 16 Jun 2026 12:49:01 GMT  
@@ -686,7 +696,7 @@
 
 ---
 
-### 75. [Deepfake posting sites depicting famous women taken down by feds](https://www.malwarebytes.com/blog/ai/2026/06/deepfake-posting-sites-depicting-famous-women-taken-down-by-feds)
+### 76. [Deepfake posting sites depicting famous women taken down by feds](https://www.malwarebytes.com/blog/ai/2026/06/deepfake-posting-sites-depicting-famous-women-taken-down-by-feds)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 16 Jun 2026 10:31:16 GMT  
@@ -695,7 +705,7 @@
 
 ---
 
-### 76. [Inside a malicious infrastructure delivering EtherRAT, phishing pages, and malicious software](https://www.malwarebytes.com/blog/threat-intel/2026/06/inside-a-malicious-infrastructure-delivering-etherrat-phishing-pages-and-malicious-software)
+### 77. [Inside a malicious infrastructure delivering EtherRAT, phishing pages, and malicious software](https://www.malwarebytes.com/blog/threat-intel/2026/06/inside-a-malicious-infrastructure-delivering-etherrat-phishing-pages-and-malicious-software)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 15 Jun 2026 20:17:46 GMT  
@@ -704,7 +714,7 @@
 
 ---
 
-### 77. [Claude Fable 5 and Mythos 5 &#8220;abruptly disabled&#8221; after US gov. ban](https://www.malwarebytes.com/blog/ai/2026/06/claude-fable-5-and-mythos-5-abruptly-disabled-after-us-gov-deems-them-too-clever)
+### 78. [Claude Fable 5 and Mythos 5 &#8220;abruptly disabled&#8221; after US gov. ban](https://www.malwarebytes.com/blog/ai/2026/06/claude-fable-5-and-mythos-5-abruptly-disabled-after-us-gov-deems-them-too-clever)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 15 Jun 2026 14:32:57 GMT  
@@ -713,7 +723,7 @@
 
 ---
 
-### 78. [Deepfake porn sites are going offline (re-air) (Lock and Code S07E12)](https://www.malwarebytes.com/blog/podcast/2026/06/deepfake-porn-sites-are-going-offline-re-air-lock-and-code-s07e12)
+### 79. [Deepfake porn sites are going offline (re-air) (Lock and Code S07E12)](https://www.malwarebytes.com/blog/podcast/2026/06/deepfake-porn-sites-are-going-offline-re-air-lock-and-code-s07e12)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 15 Jun 2026 14:32:54 GMT  
@@ -722,21 +732,12 @@
 
 ---
 
-### 79. [A week in security (June 8 &#8211; June 14)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-8-june-14)
+### 80. [A week in security (June 8 &#8211; June 14)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-8-june-14)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 15 Jun 2026 07:01:00 GMT  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 80. [Stolen iPhones could soon be worth a lot less to thieves](https://www.malwarebytes.com/blog/mobile/2026/06/stolen-iphones-could-soon-be-worth-a-lot-less-to-thieves)
-
-**Source:** Malwarebytes  
-**Published:** Fri, 12 Jun 2026 14:03:16 GMT  
-**Severity:** Critical  
-**Categories:** General Security  
 
 ---
 

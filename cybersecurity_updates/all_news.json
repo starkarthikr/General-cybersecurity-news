@@ -1,6 +1,80 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
+    "link": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
+    "published": "Wed, 17 Jun 2026 23:44:24 +0530",
+    "summary": "An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to new findings from Check Point Research.\n\nThe threat actor also has at their disposal a dedicated WordPress phishing page that acts as the central hub, alongside GitHub and SourceForge projects promoted by fake accounts, a YouTube channel, and a",
+    "analysis": {
+      "issue": "Check Point says a Rust-based crypto clipper is being promoted through fake reviews, GitHub, SourceForge, YouTube, and paid news posts",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development",
+    "link": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html",
+    "published": "Wed, 17 Jun 2026 23:06:28 +0530",
+    "summary": "Microsoft has formally disclosed that it's working to release a patch to address a Defender zero-day codenamed RoguePlanet.\n\nThe vulnerability has now been assigned the CVE identifier CVE-2026-50656 (CVSS score: 7.8), with the tech giant describing it as a privilege escalation flaw.\n\n\"Microsoft is aware of an elevation of privilege in the Microsoft Malware Protection Engine in Microsoft Defender",
+    "analysis": {
+      "issue": "Microsoft is preparing a patch for RoguePlanet, a Defender flaw tracked as CVE-2026-50656 that can enable privilege escalation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-50656"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
+    "link": "https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html",
+    "published": "Wed, 17 Jun 2026 21:30:56 +0530",
+    "summary": "A French-speaking attacker broke into a small French automotive business, planted a keylogger, and stole banking and email credentials.\n\nOrdinary stuff, until one move near the end.\n\nBefore his command-and-control server went dark, he installed OpenSSH and Tailscale on a victim's machine, building a way back in that did not run through the C2 at all. When the Havoc server went offline the next",
+    "analysis": {
+      "issue": "Cato Networks tracked Poisson using OpenSSH and Tailscale to maintain access after Havoc C2 outage in a 33-day intrusion",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
+    "link": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
+    "published": "Wed, 17 Jun 2026 20:28:00 +0530",
+    "summary": "For security teams, the findings never stop, but confidence in knowing which ones matter is becoming harder to maintain.\n\nThe problem is no longer visibility. It's validation. Security teams must decide which findings warrant action while operating under constant pressure and incomplete information. Increasingly, the challenge is not discovering potential risks. It is determining which risks",
+    "analysis": {
+      "issue": "Adversarial Exposure Validation helps security teams confirm exploitable risks and prioritize remediation beyond raw vulnerability findings",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
     "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
     "published": "Wed, 17 Jun 2026 19:21:58 +0530",
@@ -14,24 +88,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
-    "link": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
-    "published": "Wed, 17 Jun 2026 17:28:00 +0530",
-    "summary": "For security teams, the findings never stop, but confidence in knowing which ones matter is becoming harder to maintain.\n\nThe problem is no longer visibility. It's validation. Security teams must decide which findings warrant action while operating under constant pressure and incomplete information. Increasingly, the challenge is not discovering potential risks. It is determining which risks",
-    "analysis": {
-      "issue": "Adversarial Exposure Validation helps security teams confirm exploitable risks and prioritize remediation beyond raw vulnerability findings",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -125,60 +181,6 @@
       "threat_categories": [
         "Ransomware",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
-    "link": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
-    "published": "Tue, 16 Jun 2026 18:40:17 +0530",
-    "summary": "Security researchers at&nbsp;Zimperium's zLabs&nbsp;have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands.\n\nTogether, they give an operator near-total control of an infected phone: it lifts lock-screen PINs, reads and sends SMS, rewrites the clipboard to redirect crypto payments, and switches off Google Play",
-    "analysis": {
-      "issue": "Rokarolla targets 217 banking and crypto apps with 137 commands, enabling PIN, SMS code, and crypto payment theft",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
-    "link": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
-    "published": "Tue, 16 Jun 2026 17:00:00 +0530",
-    "summary": "Security teams have never had more IP data at their disposal. Every day, analysts ingest enrichment feeds, geolocation data, reputation scores, telemetry, and threat intelligence from a growing ecosystem of vendors and platforms.\n\nYet despite this abundance of information, many organizations continue to face a fundamental challenge: sifting through the noise to understand who is behind an IP and",
-    "analysis": {
-      "issue": "Spur study finds VPNs and residential proxies now appear in nearly every security incident, exposing gaps in IP-based decisions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
-    "link": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html",
-    "published": "Tue, 16 Jun 2026 16:00:41 +0530",
-    "summary": "Bad actors are exploiting multiple security vulnerabilities in Fortinet FortiSandbox, according to threat intelligence firm Defused Cyber.\n\nIn a post shared on X, the company said it has observed exploitation of CVE-2026-39813, CVE-2026-39808, and CVE-2026-25089 over the past 24 hours.\n\nCVE-2026-39813 (CVSS score: 9.1) refers to a path traversal vulnerability in FortiSandbox JRPC API that could",
-    "analysis": {
-      "issue": "Attackers are exploiting three Fortinet FortiSandbox flaws, including one patched last week, risking auth bypass and command execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -405,9 +407,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
         "CVE-2026-50507",
-        "CVE-2026-49160"
+        "CVE-2026-49160",
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -677,10 +679,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50656",
+        "CVE-2026-41091",
         "CVE-2026-45498",
-        "CVE-2026-33825",
-        "CVE-2026-41091"
+        "CVE-2026-50656",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -740,8 +742,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48907",
-        "CVE-2026-54420"
+        "CVE-2026-54420",
+        "CVE-2026-48907"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -761,11 +763,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-25089",
-        "CVE-2026-39813",
+        "CVE-2026-35616",
         "CVE-2026-39808",
+        "CVE-2026-39813",
         "CVE-2026-21643",
-        "CVE-2026-35616"
+        "CVE-2026-25089"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -803,15 +805,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44803",
-        "CVE-2026-47289",
-        "CVE-2026-44801",
-        "CVE-2026-44812",
-        "CVE-2026-48563",
         "CVE-2026-42985",
+        "CVE-2026-42992",
         "CVE-2026-44799",
+        "CVE-2026-44801",
         "CVE-2026-47291",
-        "CVE-2026-42992"
+        "CVE-2026-44812",
+        "CVE-2026-47289",
+        "CVE-2026-48563",
+        "CVE-2026-44803"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -921,10 +923,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-22554",
+        "CVE-2026-28764",
         "CVE-2026-25713",
         "CVE-2026-25104",
-        "CVE-2026-28764"
+        "CVE-2026-22554"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1346,6 +1348,25 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Rokarolla Android malware can take over your phone and steal banking logins",
+    "link": "https://www.malwarebytes.com/blog/mobile/2026/06/rokarolla-android-malware-can-take-over-your-phone-and-steal-banking-logins",
+    "published": "Wed, 17 Jun 2026 15:34:15 GMT",
+    "summary": "Researchers have uncovered an Android banking Trojan that targets more than 200 banking and cryptocurrency apps and can take over infected devices.",
+    "analysis": {
+      "issue": "Researchers have analyzed a new Android banking Trojan called Rokarolla",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "24 billion stolen records exposed online. Here&#8217;s what to do",
     "link": "https://www.malwarebytes.com/blog/news/2026/06/24-billion-stolen-records-found-in-giant-data-dump-check-if-youre-affected",
     "published": "Wed, 17 Jun 2026 10:56:18 GMT",
@@ -1510,24 +1531,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Stolen iPhones could soon be worth a lot less to thieves",
-    "link": "https://www.malwarebytes.com/blog/mobile/2026/06/stolen-iphones-could-soon-be-worth-a-lot-less-to-thieves",
-    "published": "Fri, 12 Jun 2026 14:03:16 GMT",
-    "summary": "Apple and the Met Police are working together to make stolen iPhones harder to reset, resell, and profit from.",
-    "analysis": {
-      "issue": "The UK’s Metropolitan Police has reached an agreement with Apple designed to make stolen iPhones harder to resell and less attractive to thieves",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
