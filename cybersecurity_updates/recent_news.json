@@ -1,12 +1,84 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
+    "link": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
+    "published": "Thu, 18 Jun 2026 20:00:42 +0530",
+    "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026.\n\n\"The clipper in this campaign relies on Windows Script Host and ActiveX-driven logic to launch a bundled Tor proxy and poll a hidden-service C2 [command-and-control] server,\" the Microsoft Defender Security Research Team said in an analysis published Tuesday. \"It",
+    "analysis": {
+      "issue": "Microsoft reports a Windows clipper malware campaign using USB-delivered LNK files and Tor-based C2 since Feb 2026, stealing clipboard crypto data",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023",
+    "link": "https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html",
+    "published": "Thu, 18 Jun 2026 19:42:48 +0530",
+    "summary": "Cybersecurity researchers have charted the evolution of INC from an nascent ransomware-as-a-service (RaaS) operation to one of the most prolific cybercrime groups in 2026, claiming no less than 830 victims since August 2023.\n\n\"The disruption of LockBit and the shutdown of BlackCat created opportunities for INC to expand as affiliates migrated to alternative ransomware operations,\" Acronis",
+    "analysis": {
+      "issue": "INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023 | Read more hacking news on The Hacker News cybersecurity news website and learn how to protect against cyberattacks and software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
     "link": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html",
-    "published": "Thu, 18 Jun 2026 16:30:00 +0530",
+    "published": "Thu, 18 Jun 2026 19:28:39 +0530",
     "summary": "An independent PCI assessor tested Reflectiz against the new PCI DSS rules. Here is the verdict: See the full QSA assessment here →\n\nWhen a customer types their card number into your checkout, their browser is running far more than your code. Analytics tags, a tag manager, a support widget, a payment iframe: a modern checkout loads dozens of third-party scripts, and any one of them can be turned",
     "analysis": {
       "issue": "Integrity360 Europe found Reflectiz can support PCI DSS v4",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
+    "link": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
+    "published": "Thu, 18 Jun 2026 19:00:07 +0530",
+    "summary": "Threat actors associated with the DragonForce ransomware have been observed using a custom Go-based remote access trojan (RAT) called Backdoor.Turn to conceal command-and-control (C2) traffic inside Microsoft Teams relay infrastructure.\n\nAccording to findings from Broadcom-owned Symantec and Carbon Black, the backdoor was deployed against a major U.S. services firm. The name of the company was",
+    "analysis": {
+      "issue": "DragonForce-linked hackers used Backdoor",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
+    "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
+    "published": "Thu, 18 Jun 2026 17:28:00 +0530",
+    "summary": "If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it?\n\nFor most enterprises, the answer is a simple no.\n\nThe rush to adopt internal AI tools has left a massive trail of administrative debt: orphaned agents (AI tools left running after their creator leaves the company) and standing privileges (",
+    "analysis": {
+      "issue": "Orphaned AI agents can retain standing privileges after employees leave, exposing sensitive data and source code to hidden access risks",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -110,13 +182,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "The Top 10 Attack Surface Exposures in 2026",
-    "link": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
-    "published": "Wed, 17 Jun 2026 16:00:00 +0530",
-    "summary": "Breaches don't always start with a zero-day. An exposed admin panel can get brute-forced, or credentials reused from a previous attack. But when a vulnerability does drop — like MongoBleed earlier this year, which let attackers pull credentials and session tokens from server memory without authentication — anything internet-facing is immediately at risk.\n\nWith time-to-exploit now down to a",
+    "source": "Bleeping Computer",
+    "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
+    "published": "Thu, 18 Jun 2026 10:19:50 -0400",
+    "summary": "Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign. [...]",
     "analysis": {
-      "issue": "Intruder analyzed 3,000 attack surfaces and found 60% exposed HTTP panels, 49% risky ports, and 42% internet-facing databases",
+      "issue": "Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -128,17 +200,36 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
-    "link": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
-    "published": "Wed, 17 Jun 2026 13:08:24 +0530",
-    "summary": "As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software supply chain attack codenamed easy-day-js, per findings from Endor Labs, JFrog, SafeDep, Socket, and StepSecurity.\n\n\"A single npm account (ehindero)",
+    "source": "Bleeping Computer",
+    "title": "5 reasons Microsoft 365 backup isn’t enough for business data protection",
+    "link": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/",
+    "published": "Thu, 18 Jun 2026 09:48:56 -0400",
+    "summary": "Microsoft 365 helps keep services running, but protecting and recovering business data remains your responsibility. Acronis breaks down five gaps organizations should consider when evaluating Microsoft 365 data protection. [...]",
     "analysis": {
-      "issue": "144 Mastra npm packages added easy-day-js malware, exposing developer systems and CI runners to infostealer risks",
+      "issue": "Written by Andy Kerr, Senior Manager, Solutions Marketing at Acronis",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
+    "link": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
+    "published": "Thu, 18 Jun 2026 09:25:47 -0400",
+    "summary": "International law enforcement agencies cleaned nearly 15,000 malware-infected WordPress websites and took down more than 100 servers linked to the SocGholish botnet and the Evil Corp Russian cybercrime group. [...]",
+    "analysis": {
+      "issue": "International law enforcement agencies cleaned nearly 15,000 malware-infected WordPress websites and took down more than 100 servers linked to the SocGholish botnet and the Evil Corp Russian cybercrime group",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "Malware"
@@ -146,19 +237,56 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
-    "link": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
-    "published": "Wed, 17 Jun 2026 11:20:46 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-48907 (CVSS score: 10.0), is a case of improper access control that could facilitate arbitrary",
+    "source": "Bleeping Computer",
+    "title": "ShapedPlugin update flow hacked to infect WordPress sites",
+    "link": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
+    "published": "Thu, 18 Jun 2026 08:55:36 -0400",
+    "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack that distributed infected releases to paying customers via the vendor's official update system. [...]",
     "analysis": {
-      "issue": "CISA added CVE-2026-48907 in Joomla JCE to its KEV catalog after active exploitation; fixes are due by June 19",
+      "issue": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack that distributed infected releases to paying customers via the vendor's official update system",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
+    "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
+    "published": "Thu, 18 Jun 2026 08:54:39 -0400",
+    "summary": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]",
+    "analysis": {
+      "issue": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Apple fixes Beats Studio Buds flaw that let hackers spy on conversations",
+    "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/",
+    "published": "Thu, 18 Jun 2026 08:23:58 -0400",
+    "summary": "Apple has released security updates to patch a high-severity flaw affecting the Beats Studio Buds wireless earbuds that could allow attackers in Bluetooth range to spy on users' conversations. [...]",
+    "analysis": {
+      "issue": "Apple has released security updates to patch a high-severity flaw affecting the Beats Studio Buds wireless earbuds that could allow attackers in Bluetooth range to spy on users' conversations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
       "cves": [
-        "CVE-2026-48907"
+        "CVE-2025-20701"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -166,20 +294,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
-    "link": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
-    "published": "Wed, 17 Jun 2026 00:35:41 +0530",
-    "summary": "A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infrastructure.\n\nPalo Alto Networks Unit 42, which found and reported the bug through Google's bug bounty program, calls the technique \"Pickle in the Middle\" and said it saw no exploitation in the wild.",
+    "source": "Bleeping Computer",
+    "title": "Telegram admits it couldn't police exam-leak channels, India tells court",
+    "link": "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/",
+    "published": "Thu, 18 Jun 2026 08:18:49 -0400",
+    "summary": "India's government has told the Delhi High Court that Telegram was warned about two weeks before it was blocked, and that the platform admitted it could not proactively detect the channels selling leaked exam papers. Telegram says it cooperated and the ban is unlawful. [...]",
     "analysis": {
-      "issue": "Google fixed a Vertex AI SDK flaw in v1",
+      "issue": "India's government has told the Delhi High Court that Telegram was warned about two weeks before it was blocked, and that the platform conceded it could not proactively detect the channels selling leaked exam papers",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
+      "severity": "High",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach"
       ]
     }
   },
@@ -196,10 +324,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42530",
         "CVE-2026-50107",
-        "CVE-2026-42055",
-        "CVE-2026-11311"
+        "CVE-2026-11311",
+        "CVE-2026-42530",
+        "CVE-2026-42055"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -244,142 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Google to use UK and EU user IP addresses for ad personalization",
-    "link": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
-    "published": "Wed, 17 Jun 2026 17:02:42 -0400",
-    "summary": "From August 3, 2026, Google will use IP addresses from UK, EEA and Switzerland users for ad measurement and personalization. It lands as the ICO weighs new consent rules, and years after Google itself called using such signals to identify devices \"wrong.\" [...]",
-    "analysis": {
-      "issue": "Google has begun notifying advertisers that it will start using IP addresses for ad measurement and personalization across the European Economic Area (EEA), the UK and Switzerland on or shortly after August 3, 2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
-    "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
-    "published": "Wed, 17 Jun 2026 11:12:57 -0400",
-    "summary": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]",
-    "analysis": {
-      "issue": "Update: Added Fortinet's statement to the end of the article",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Why Account Takeovers Are Rising and How to Stop Them",
-    "link": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
-    "published": "Wed, 17 Jun 2026 10:00:10 -0400",
-    "summary": "Account takeovers are rising as attackers bypass traditional defenses through phishing, session hijacking, and MFA fatigue. Specops Software explores how device trust and continuous verification help reduce account takeover risk. [...]",
-    "analysis": {
-      "issue": "Organizations now manage thousands of human and non-human identities across cloud services, software-as-a-service applications, endpoints and remote environments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "India's Telegram ban hit the UAE too. Here's how to get around it",
-    "link": "https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/",
-    "published": "Wed, 17 Jun 2026 09:12:45 -0400",
-    "summary": "India has banned Telegram until June 22 after the app was used to circulate leaked exam papers. CEO Pavel Durov accuses telecom Reliance of BGP hijacking that disrupted the app as far away as the UAE. Here's what happened, and how to get around the block with an MTProto proxy. [...]",
-    "analysis": {
-      "issue": "India has banned Telegram until June 22 after the platform was used to sell access to leaked exam materials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft confirms Office apps launch issues after June updates",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/",
-    "published": "Wed, 17 Jun 2026 07:54:21 -0400",
-    "summary": "Microsoft is investigating a new issue preventing third-party applications from launching Microsoft Office applications or opening documents on up-to-date Windows systems. [...]",
-    "analysis": {
-      "issue": "Microsoft is investigating a new issue preventing third-party applications from launching Microsoft Office applications or opening documents on up-to-date Windows systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
-    "published": "Wed, 17 Jun 2026 06:09:24 -0400",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity flaw in the Widget Factory Joomla Content Editor (JCE) plugin that is being actively exploited in the wild. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity flaw in the Widget Factory Joomla Content Editor (JCE) plugin that is being actively exploited in the wild",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-48907"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
-    "published": "Wed, 17 Jun 2026 04:32:29 -0400",
-    "summary": "Microsoft confirmed that it's working on a security patch for a Defender zero-day vulnerability named \"RoguePlanet,\" disclosed one week ago. [...]",
-    "analysis": {
-      "issue": "Microsoft confirmed that it's working on a security patch for a Defender zero-day vulnerability named \"RoguePlanet,\" disclosed one week ago",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-50656"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
     "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
@@ -412,8 +404,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-49160",
+        "CVE-2026-50507",
         "CVE-2026-45586"
       ],
       "threat_categories": [
@@ -574,6 +566,42 @@
   },
   {
     "source": "Security Week",
+    "title": "Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push",
+    "link": "https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/",
+    "published": "Thu, 18 Jun 2026 13:08:53 +0000",
+    "summary": "<p>The deal values industrial cybersecurity giant Dragos at $3.25 billion, and runZero and NetRise will operate under Dragos.</p>\n<p>The post <a href=\"https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/\">Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The deal values industrial cybersecurity giant Dragos at $3",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "No Exploits Required",
+    "link": "https://www.securityweek.com/no-exploits-required/",
+    "published": "Thu, 18 Jun 2026 12:30:00 +0000",
+    "summary": "<p>Four decades of incident response experience suggest that exploits are often the symptom, not the root cause, of today’s cybersecurity failures.</p>\n<p>The post <a href=\"https://www.securityweek.com/no-exploits-required/\">No Exploits Required</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Four decades of incident response experience suggest that exploits are often the symptom, not the root cause, of today’s cybersecurity failures",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Dream Raises $260 Million at $3 Billion Valuation",
     "link": "https://www.securityweek.com/dream-raises-260-million-at-3-billion-valuation/",
     "published": "Thu, 18 Jun 2026 11:55:07 +0000",
@@ -603,15 +631,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42264",
-        "CVE-2026-42584",
-        "CVE-2026-42043",
         "CVE-2026-40175",
-        "CVE-2026-43515",
-        "CVE-2026-20266",
-        "CVE-2026-43512",
         "CVE-2026-41293",
-        "CVE-2026-20265"
+        "CVE-2026-42264",
+        "CVE-2026-42043",
+        "CVE-2026-20265",
+        "CVE-2026-42584",
+        "CVE-2026-43515",
+        "CVE-2026-43512",
+        "CVE-2026-20266"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -653,8 +681,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20181",
-        "CVE-2026-20190"
+        "CVE-2026-20190",
+        "CVE-2026-20181"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -674,10 +702,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42530",
         "CVE-2026-50107",
-        "CVE-2026-42055",
-        "CVE-2026-11311"
+        "CVE-2026-11311",
+        "CVE-2026-42530",
+        "CVE-2026-42055"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -743,42 +771,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "1Password Acquires Apono in Reported $250M-$300M Deal",
-    "link": "https://www.securityweek.com/1password-acquires-apono-in-reported-250m-300m-deal/",
-    "published": "Wed, 17 Jun 2026 12:36:46 +0000",
-    "summary": "<p>Apono specializes in just-in-time access governance technology for humans, machines, and AI agents.</p>\n<p>The post <a href=\"https://www.securityweek.com/1password-acquires-apono-in-reported-250m-300m-deal/\">1Password Acquires Apono in Reported $250M-$300M Deal</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Apono specializes in just-in-time access governance technology for humans, machines, and AI agents",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Tenet Security Emerges From Stealth With $6 Million Seed Funding",
-    "link": "https://www.securityweek.com/tenet-security-emerges-from-stealth-with-6-million-seed-funding/",
-    "published": "Wed, 17 Jun 2026 12:00:00 +0000",
-    "summary": "<p>Tenet aims to detect and stop dangerous AI agentic behavior in real time.</p>\n<p>The post <a href=\"https://www.securityweek.com/tenet-security-emerges-from-stealth-with-6-million-seed-funding/\">Tenet Security Emerges From Stealth With $6 Million Seed Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Tenet aims to detect and stop dangerous AI agentic behavior in real time",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Scripting the disassembler: Local agentic reverse engineering through vbdec’s live COM object model",
     "link": "https://blog.talosintelligence.com/scripting-the-disassembler/",
@@ -827,15 +819,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44812",
-        "CVE-2026-44799",
-        "CVE-2026-48563",
-        "CVE-2026-44801",
-        "CVE-2026-44803",
-        "CVE-2026-42992",
+        "CVE-2026-42985",
         "CVE-2026-47289",
+        "CVE-2026-48563",
+        "CVE-2026-44803",
         "CVE-2026-47291",
-        "CVE-2026-42985"
+        "CVE-2026-44799",
+        "CVE-2026-42992",
+        "CVE-2026-44812",
+        "CVE-2026-44801"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -946,8 +938,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-25104",
-        "CVE-2026-25713",
         "CVE-2026-28764",
+        "CVE-2026-25713",
         "CVE-2026-22554"
       ],
       "threat_categories": [
@@ -1321,8 +1313,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1347,6 +1339,27 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Microsoft working on a fix for RoguePlanet, a flaw that grants full PC control",
+    "link": "https://www.malwarebytes.com/blog/news/2026/06/microsoft-working-on-a-fix-for-rogueplanet-a-flaw-that-grants-full-pc-control",
+    "published": "Thu, 18 Jun 2026 12:58:30 GMT",
+    "summary": "Microsoft says it's working on a fix for an unpatched Defender vulnerability that can give attackers the highest level of access on Windows.",
+    "analysis": {
+      "issue": "A publicly available exploit called RoguePlanet can give attackers the highest level of access on Windows systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-50656"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
       ]
     }
   },
@@ -1519,25 +1532,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Inside a malicious infrastructure delivering EtherRAT, phishing pages, and malicious software",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/06/inside-a-malicious-infrastructure-delivering-etherrat-phishing-pages-and-malicious-software",
-    "published": "Mon, 15 Jun 2026 20:17:46 GMT",
-    "summary": "We found EtherRAT malware being distributed by a website with a strange homepage. Following the trail, we discovered a vast network of malicious infrastructures, distributing malware, malicious documents, remote desktop software, and phishing pages.",
-    "analysis": {
-      "issue": "During our recent threat hunting activities, we found EtherRAT malware being distributed by a website with a strange homepage",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
       ]
     }
   },
