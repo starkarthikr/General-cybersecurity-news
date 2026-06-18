@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-17 18:41:51 UTC
+**Last Updated:** 2026-06-18 04:40:34 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,25 @@
 
 ---
 
-### 11. [FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.](https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/)
+### 11. [Leak confirms OpenAI is testing a ChatGPT for Science subscription](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 17 Jun 2026 21:30:08 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Google to use UK and EU user IP addresses for ad personalization](https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 17 Jun 2026 17:02:42 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.](https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 17 Jun 2026 11:12:57 -0400  
@@ -105,7 +123,7 @@
 
 ---
 
-### 12. [Why Account Takeovers Are Rising and How to Stop Them](https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/)
+### 14. [Why Account Takeovers Are Rising and How to Stop Them](https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 17 Jun 2026 10:00:10 -0400  
@@ -114,7 +132,7 @@
 
 ---
 
-### 13. [India's Telegram ban hit the UAE too. Here's how to get around it](https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/)
+### 15. [India's Telegram ban hit the UAE too. Here's how to get around it](https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 17 Jun 2026 09:12:45 -0400  
@@ -123,7 +141,7 @@
 
 ---
 
-### 14. [Microsoft confirms Office apps launch issues after June updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/)
+### 16. [Microsoft confirms Office apps launch issues after June updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 17 Jun 2026 07:54:21 -0400  
@@ -132,7 +150,7 @@
 
 ---
 
-### 15. [CISA orders feds to patch max severity Joomla plugin flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/)
+### 17. [CISA orders feds to patch max severity Joomla plugin flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 17 Jun 2026 06:09:24 -0400  
@@ -142,7 +160,7 @@
 
 ---
 
-### 16. [Microsoft working on Defender patch for RoguePlanet zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/)
+### 18. [Microsoft working on Defender patch for RoguePlanet zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 17 Jun 2026 04:32:29 -0400  
@@ -152,7 +170,7 @@
 
 ---
 
-### 17. [Kodak confirms data breach claimed by ShinyHunters extortion gang](https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/)
+### 19. [Kodak confirms data breach claimed by ShinyHunters extortion gang](https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 17 Jun 2026 03:07:56 -0400  
@@ -161,28 +179,10 @@
 
 ---
 
-### 18. [Malicious JetBrains Marketplace plugins steal AI API keys from developers](https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/)
+### 20. [Malicious JetBrains Marketplace plugins steal AI API keys from developers](https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 16 Jun 2026 17:54:50 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 19. [New Rokarolla Android malware targets 217 banking, crypto apps](https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 16 Jun 2026 16:04:11 -0400  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 20. [Steam Workshop abused to spread malware via Wallpaper Engine app](https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 16 Jun 2026 14:27:55 -0400  
 **Severity:** Low  
 **Categories:** Malware  
 
@@ -202,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
+**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -330,7 +330,7 @@
 **Source:** Security Week  
 **Published:** Wed, 17 Jun 2026 09:41:07 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-41091, CVE-2026-45498, CVE-2026-50656, CVE-2026-33825  
+**CVEs:** CVE-2026-50656, CVE-2026-45498, CVE-2026-33825, CVE-2026-41091  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -369,7 +369,7 @@
 **Source:** Security Week  
 **Published:** Wed, 17 Jun 2026 06:53:58 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-35616, CVE-2026-39808, CVE-2026-39813, CVE-2026-21643, CVE-2026-25089  
+**CVEs:** CVE-2026-35616, CVE-2026-39808, CVE-2026-25089, CVE-2026-39813, CVE-2026-21643  
 **Categories:** Vulnerability  
 
 ---
@@ -388,7 +388,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-42985, CVE-2026-42992, CVE-2026-44799, CVE-2026-44801, CVE-2026-47291, CVE-2026-44812, CVE-2026-47289, CVE-2026-48563, CVE-2026-44803  
+**CVEs:** CVE-2026-44812, CVE-2026-42992, CVE-2026-44801, CVE-2026-44799, CVE-2026-44803, CVE-2026-47289, CVE-2026-47291, CVE-2026-48563, CVE-2026-42985  
 **Categories:** Vulnerability  
 
 ---
@@ -443,7 +443,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-28764, CVE-2026-25713, CVE-2026-25104, CVE-2026-22554  
+**CVEs:** CVE-2026-25104, CVE-2026-25713, CVE-2026-22554, CVE-2026-28764  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -636,7 +636,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -651,7 +651,16 @@
 
 ---
 
-### 71. [Rokarolla Android malware can take over your phone and steal banking logins](https://www.malwarebytes.com/blog/mobile/2026/06/rokarolla-android-malware-can-take-over-your-phone-and-steal-banking-logins)
+### 71. [Roblox developers are losing entire games to malware attacks](https://www.malwarebytes.com/blog/scams/2026/06/roblox-developers-are-losing-entire-games-to-malware-attacks)
+
+**Source:** Malwarebytes  
+**Published:** Wed, 17 Jun 2026 20:22:42 GMT  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 72. [Rokarolla Android malware can take over your phone and steal banking logins](https://www.malwarebytes.com/blog/mobile/2026/06/rokarolla-android-malware-can-take-over-your-phone-and-steal-banking-logins)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 17 Jun 2026 15:34:15 GMT  
@@ -660,7 +669,7 @@
 
 ---
 
-### 72. [24 billion stolen records exposed online. Here&#8217;s what to do](https://www.malwarebytes.com/blog/news/2026/06/24-billion-stolen-records-found-in-giant-data-dump-check-if-youre-affected)
+### 73. [24 billion stolen records exposed online. Here&#8217;s what to do](https://www.malwarebytes.com/blog/news/2026/06/24-billion-stolen-records-found-in-giant-data-dump-check-if-youre-affected)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 17 Jun 2026 10:56:18 GMT  
@@ -669,7 +678,7 @@
 
 ---
 
-### 73. [Malwarebytes earns AV-TEST Top Product award, aces other third-party tests](https://www.malwarebytes.com/blog/product/2026/06/malwarebytes-earns-av-test-top-product-award-aces-other-third-party-tests)
+### 74. [Malwarebytes earns AV-TEST Top Product award, aces other third-party tests](https://www.malwarebytes.com/blog/product/2026/06/malwarebytes-earns-av-test-top-product-award-aces-other-third-party-tests)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 17 Jun 2026 09:41:46 GMT  
@@ -678,7 +687,7 @@
 
 ---
 
-### 74. [&#8220;Free World Cup stream&#8221; sites are serving scams, not football](https://www.malwarebytes.com/blog/threat-intel/2026/06/free-world-cup-stream-sites-are-serving-scams-not-football)
+### 75. [&#8220;Free World Cup stream&#8221; sites are serving scams, not football](https://www.malwarebytes.com/blog/threat-intel/2026/06/free-world-cup-stream-sites-are-serving-scams-not-football)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 16 Jun 2026 13:00:00 GMT  
@@ -687,7 +696,7 @@
 
 ---
 
-### 75. [Cardiac patients&#8217; medical data stolen and held to ransom](https://www.malwarebytes.com/blog/news/2026/06/cardiac-patients-medical-data-stolen-and-held-to-ransom)
+### 76. [Cardiac patients&#8217; medical data stolen and held to ransom](https://www.malwarebytes.com/blog/news/2026/06/cardiac-patients-medical-data-stolen-and-held-to-ransom)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 16 Jun 2026 12:49:01 GMT  
@@ -696,7 +705,7 @@
 
 ---
 
-### 76. [Deepfake posting sites depicting famous women taken down by feds](https://www.malwarebytes.com/blog/ai/2026/06/deepfake-posting-sites-depicting-famous-women-taken-down-by-feds)
+### 77. [Deepfake posting sites depicting famous women taken down by feds](https://www.malwarebytes.com/blog/ai/2026/06/deepfake-posting-sites-depicting-famous-women-taken-down-by-feds)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 16 Jun 2026 10:31:16 GMT  
@@ -705,7 +714,7 @@
 
 ---
 
-### 77. [Inside a malicious infrastructure delivering EtherRAT, phishing pages, and malicious software](https://www.malwarebytes.com/blog/threat-intel/2026/06/inside-a-malicious-infrastructure-delivering-etherrat-phishing-pages-and-malicious-software)
+### 78. [Inside a malicious infrastructure delivering EtherRAT, phishing pages, and malicious software](https://www.malwarebytes.com/blog/threat-intel/2026/06/inside-a-malicious-infrastructure-delivering-etherrat-phishing-pages-and-malicious-software)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 15 Jun 2026 20:17:46 GMT  
@@ -714,7 +723,7 @@
 
 ---
 
-### 78. [Claude Fable 5 and Mythos 5 &#8220;abruptly disabled&#8221; after US gov. ban](https://www.malwarebytes.com/blog/ai/2026/06/claude-fable-5-and-mythos-5-abruptly-disabled-after-us-gov-deems-them-too-clever)
+### 79. [Claude Fable 5 and Mythos 5 &#8220;abruptly disabled&#8221; after US gov. ban](https://www.malwarebytes.com/blog/ai/2026/06/claude-fable-5-and-mythos-5-abruptly-disabled-after-us-gov-deems-them-too-clever)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 15 Jun 2026 14:32:57 GMT  
@@ -723,19 +732,10 @@
 
 ---
 
-### 79. [Deepfake porn sites are going offline (re-air) (Lock and Code S07E12)](https://www.malwarebytes.com/blog/podcast/2026/06/deepfake-porn-sites-are-going-offline-re-air-lock-and-code-s07e12)
+### 80. [Deepfake porn sites are going offline (re-air) (Lock and Code S07E12)](https://www.malwarebytes.com/blog/podcast/2026/06/deepfake-porn-sites-are-going-offline-re-air-lock-and-code-s07e12)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 15 Jun 2026 14:32:54 GMT  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 80. [A week in security (June 8 &#8211; June 14)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-8-june-14)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 15 Jun 2026 07:01:00 GMT  
 **Severity:** Low  
 **Categories:** Malware  
 

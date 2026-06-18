@@ -186,12 +186,48 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/",
+    "published": "Wed, 17 Jun 2026 21:30:08 -0400",
+    "summary": "OpenAI appears to be testing a new subscription and experience for science use cases, but it's unclear if it'll be available to everyone regardless of their background. [...]",
+    "analysis": {
+      "issue": "OpenAI appears to be testing a new subscription and experience for science use cases, but it's unclear if it'll be available to everyone regardless of their background",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Google to use UK and EU user IP addresses for ad personalization",
+    "link": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
+    "published": "Wed, 17 Jun 2026 17:02:42 -0400",
+    "summary": "From August 3, 2026, Google will use IP addresses from UK, EEA and Switzerland users for ad measurement and personalization. It lands as the ICO weighs new consent rules, and years after Google itself called using such signals to identify devices \"wrong.\" [...]",
+    "analysis": {
+      "issue": "Google has begun notifying advertisers that it will start using IP addresses for ad measurement and personalization across the European Economic Area (EEA), the UK and Switzerland on or shortly after August 3, 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
     "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
     "published": "Wed, 17 Jun 2026 11:12:57 -0400",
     "summary": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]",
     "analysis": {
-      "issue": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide",
+      "issue": "Update: Added Fortinet's statement to the end of the article",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -339,42 +375,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
-    "link": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
-    "published": "Tue, 16 Jun 2026 16:04:11 -0400",
-    "summary": "A new Android banking trojan named Rokarolla is targeting 217 banking and cryptocurrency applications using an extensive set of 137 commands. [...]",
-    "analysis": {
-      "issue": "A new Android banking trojan named Rokarolla is targeting 217 banking and cryptocurrency applications using an extensive set of 137 commands",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Steam Workshop abused to spread malware via Wallpaper Engine app",
-    "link": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
-    "published": "Tue, 16 Jun 2026 14:27:55 -0400",
-    "summary": "Threat actors are abusing Steam Workshop, Valve's community hub for downloading game-related content, to push various malware hidden in wallpaper packages. [...]",
-    "analysis": {
-      "issue": "Threat actors are abusing Steam Workshop, Valve's community hub for downloading game-related content, to push various malware hidden in wallpaper packages",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
     "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
@@ -407,9 +407,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-49160",
-        "CVE-2026-45586"
+        "CVE-2026-45586",
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -679,10 +679,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-41091",
-        "CVE-2026-45498",
         "CVE-2026-50656",
-        "CVE-2026-33825"
+        "CVE-2026-45498",
+        "CVE-2026-33825",
+        "CVE-2026-41091"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -765,9 +765,9 @@
       "cves": [
         "CVE-2026-35616",
         "CVE-2026-39808",
+        "CVE-2026-25089",
         "CVE-2026-39813",
-        "CVE-2026-21643",
-        "CVE-2026-25089"
+        "CVE-2026-21643"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -805,15 +805,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42985",
-        "CVE-2026-42992",
-        "CVE-2026-44799",
-        "CVE-2026-44801",
-        "CVE-2026-47291",
         "CVE-2026-44812",
+        "CVE-2026-42992",
+        "CVE-2026-44801",
+        "CVE-2026-44799",
+        "CVE-2026-44803",
         "CVE-2026-47289",
+        "CVE-2026-47291",
         "CVE-2026-48563",
-        "CVE-2026-44803"
+        "CVE-2026-42985"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -923,10 +923,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-28764",
-        "CVE-2026-25713",
         "CVE-2026-25104",
-        "CVE-2026-22554"
+        "CVE-2026-25713",
+        "CVE-2026-22554",
+        "CVE-2026-28764"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1317,8 +1317,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1343,6 +1343,25 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Roblox developers are losing entire games to malware attacks",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/06/roblox-developers-are-losing-entire-games-to-malware-attacks",
+    "published": "Wed, 17 Jun 2026 20:22:42 GMT",
+    "summary": "Attackers are using fake job offers and malware to steal accounts, Robux, and Roblox games from the developers who build them.",
+    "analysis": {
+      "issue": "Account theft usually ends with someone losing a password",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
       ]
     }
   },
@@ -1506,24 +1525,6 @@
     "summary": "This week on the Lock and Code podcast, we revisit an episode from 2024 with David Chiu that shows the progress made against deepfake porn.",
     "analysis": {
       "issue": "This week on the Lock and Code podcast… If you weren’t taking deepfakes seriously before, it’s too late now to ignore them",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "A week in security (June 8 &#8211; June 14)",
-    "link": "https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-8-june-14",
-    "published": "Mon, 15 Jun 2026 07:01:00 GMT",
-    "summary": "A list of topics we covered in the week of June 8 to June 14 of 2026",
-    "analysis": {
-      "issue": "Last week on Malwarebytes Labs: Stay safe",
       "solution": null,
       "cause": null,
       "timeline": null,
