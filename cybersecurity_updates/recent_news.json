@@ -407,8 +407,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
         "CVE-2026-45586",
+        "CVE-2026-49160",
         "CVE-2026-50507"
       ],
       "threat_categories": [
@@ -679,10 +679,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50656",
         "CVE-2026-45498",
-        "CVE-2026-33825",
-        "CVE-2026-41091"
+        "CVE-2026-50656",
+        "CVE-2026-41091",
+        "CVE-2026-33825"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -742,8 +742,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-54420",
-        "CVE-2026-48907"
+        "CVE-2026-48907",
+        "CVE-2026-54420"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -763,10 +763,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-35616",
         "CVE-2026-39808",
-        "CVE-2026-25089",
         "CVE-2026-39813",
+        "CVE-2026-25089",
+        "CVE-2026-35616",
         "CVE-2026-21643"
       ],
       "threat_categories": [
@@ -805,15 +805,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44812",
-        "CVE-2026-42992",
         "CVE-2026-44801",
-        "CVE-2026-44799",
         "CVE-2026-44803",
+        "CVE-2026-42992",
+        "CVE-2026-44812",
         "CVE-2026-47289",
         "CVE-2026-47291",
         "CVE-2026-48563",
-        "CVE-2026-42985"
+        "CVE-2026-42985",
+        "CVE-2026-44799"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -924,9 +924,9 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-25104",
+        "CVE-2026-28764",
         "CVE-2026-25713",
-        "CVE-2026-22554",
-        "CVE-2026-28764"
+        "CVE-2026-22554"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1537,6 +1537,24 @@
   },
   {
     "source": "Crowdstrike Blog",
+    "title": "After Executive Order 14409: Next Steps for Securing AI",
+    "link": "https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/",
+    "published": "Jun 17, 2026 00:00:00-0500",
+    "summary": "",
+    "analysis": {
+      "issue": "Learn how the EO mobilizes the U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Crowdstrike Blog",
     "title": "Falcon Exposure Management Now Available for Third-Party Environments",
     "link": "https://www.crowdstrike.com/en-us/blog/falcon-exposure-management-now-available-for-third-party-environments/",
     "published": "Jun 16, 2026 00:00:00-0500",
@@ -1688,24 +1706,6 @@
     "summary": "",
     "analysis": {
       "issue": "Autonomous AI agents are transforming the enterprise, but without built-in security, they introduce risk",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "ISO 42001:2023 and the New Reality of Cloud AI Data Risk",
-    "link": "https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/",
-    "published": "Jun 04, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn how CrowdStrike Falcon Data Security for Cloud can help support ISO 42001:2023 cloud AI data security objectives",
       "solution": null,
       "cause": null,
       "timeline": null,

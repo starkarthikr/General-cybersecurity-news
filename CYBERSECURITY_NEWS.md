@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-18 04:40:34 UTC
+**Last Updated:** 2026-06-18 05:17:42 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -202,7 +202,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
+**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -330,7 +330,7 @@
 **Source:** Security Week  
 **Published:** Wed, 17 Jun 2026 09:41:07 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50656, CVE-2026-45498, CVE-2026-33825, CVE-2026-41091  
+**CVEs:** CVE-2026-45498, CVE-2026-50656, CVE-2026-41091, CVE-2026-33825  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -359,7 +359,7 @@
 **Source:** Security Week  
 **Published:** Wed, 17 Jun 2026 07:28:20 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-54420, CVE-2026-48907  
+**CVEs:** CVE-2026-48907, CVE-2026-54420  
 **Categories:** Vulnerability  
 
 ---
@@ -369,7 +369,7 @@
 **Source:** Security Week  
 **Published:** Wed, 17 Jun 2026 06:53:58 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-35616, CVE-2026-39808, CVE-2026-25089, CVE-2026-39813, CVE-2026-21643  
+**CVEs:** CVE-2026-39808, CVE-2026-39813, CVE-2026-25089, CVE-2026-35616, CVE-2026-21643  
 **Categories:** Vulnerability  
 
 ---
@@ -388,7 +388,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44812, CVE-2026-42992, CVE-2026-44801, CVE-2026-44799, CVE-2026-44803, CVE-2026-47289, CVE-2026-47291, CVE-2026-48563, CVE-2026-42985  
+**CVEs:** CVE-2026-44801, CVE-2026-44803, CVE-2026-42992, CVE-2026-44812, CVE-2026-47289, CVE-2026-47291, CVE-2026-48563, CVE-2026-42985, CVE-2026-44799  
 **Categories:** Vulnerability  
 
 ---
@@ -443,7 +443,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25104, CVE-2026-25713, CVE-2026-22554, CVE-2026-28764  
+**CVEs:** CVE-2026-25104, CVE-2026-28764, CVE-2026-25713, CVE-2026-22554  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -741,7 +741,16 @@
 
 ---
 
-### 81. [Falcon Exposure Management Now Available for Third-Party Environments](https://www.crowdstrike.com/en-us/blog/falcon-exposure-management-now-available-for-third-party-environments/)
+### 81. [After Executive Order 14409: Next Steps for Securing AI](https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jun 17, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [Falcon Exposure Management Now Available for Third-Party Environments](https://www.crowdstrike.com/en-us/blog/falcon-exposure-management-now-available-for-third-party-environments/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 16, 2026 00:00:00-0500  
@@ -750,7 +759,7 @@
 
 ---
 
-### 82. [CrowdStrike Announces Continuous Identity for AI Agents](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/)
+### 83. [CrowdStrike Announces Continuous Identity for AI Agents](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 15, 2026 00:00:00-0500  
@@ -759,7 +768,7 @@
 
 ---
 
-### 83. [Why AI Projects Stall and How CIOs Can Respond](https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/)
+### 84. [Why AI Projects Stall and How CIOs Can Respond](https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 12, 2026 00:00:00-0500  
@@ -768,7 +777,7 @@
 
 ---
 
-### 84. [CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/)
+### 85. [CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 11, 2026 00:00:00-0500  
@@ -777,7 +786,7 @@
 
 ---
 
-### 85. [CrowdStrike Expands Identity Leadership with OpenID and IDPro](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/)
+### 86. [CrowdStrike Expands Identity Leadership with OpenID and IDPro](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 10, 2026 00:00:00-0500  
@@ -786,7 +795,7 @@
 
 ---
 
-### 86. [CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/)
+### 87. [CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 09, 2026 00:00:00-0500  
@@ -795,7 +804,7 @@
 
 ---
 
-### 87. [June 2026 Patch Tuesday: Microsoft Patches 206 Vulnerabilities Including Three Publicly Disclosed Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2026/)
+### 88. [June 2026 Patch Tuesday: Microsoft Patches 206 Vulnerabilities Including Three Publicly Disclosed Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 09, 2026 00:00:00-0500  
@@ -804,7 +813,7 @@
 
 ---
 
-### 88. [CrowdStrike and Zscaler Bring Continuous Identity to Zero Trust Access](https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/)
+### 89. [CrowdStrike and Zscaler Bring Continuous Identity to Zero Trust Access](https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 08, 2026 00:00:00-0500  
@@ -813,19 +822,10 @@
 
 ---
 
-### 89. [3 Principles to Safely Scale Agentic AI](https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/)
+### 90. [3 Principles to Safely Scale Agentic AI](https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 05, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [ISO 42001:2023 and the New Reality of Cloud AI Data Risk](https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jun 04, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** General Security  
 
