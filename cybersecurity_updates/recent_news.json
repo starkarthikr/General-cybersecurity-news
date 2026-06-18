@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
+    "link": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html",
+    "published": "Thu, 18 Jun 2026 16:30:00 +0530",
+    "summary": "An independent PCI assessor tested Reflectiz against the new PCI DSS rules. Here is the verdict: See the full QSA assessment here →\n\nWhen a customer types their card number into your checkout, their browser is running far more than your code. Analytics tags, a tag manager, a support widget, a payment iframe: a modern checkout loads dozens of third-party scripts, and any one of them can be turned",
+    "analysis": {
+      "issue": "Integrity360 Europe found Reflectiz can support PCI DSS v4",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
     "link": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
     "published": "Wed, 17 Jun 2026 23:44:24 +0530",
@@ -166,21 +184,44 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
-    "link": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
-    "published": "Tue, 16 Jun 2026 23:11:28 +0530",
-    "summary": "Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and Potemkin, per independent reports from Morphisec, BlueVoyant, and Huntress, respectively.\n\nAttacks involving BabaDeda Loader, observed in April 2026, have targeted education and financial organizations.\n\n\"Earlier BabaDeda activity was known for",
+    "source": "Bleeping Computer",
+    "title": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
+    "link": "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+    "published": "Thu, 18 Jun 2026 07:33:00 -0400",
+    "summary": "Cybersecurity company F5 has released out-of-band security updates to address multiple NGINX web server vulnerabilities, including two critical-severity flaws that could allow attackers to execute code on vulnerable systems. [...]",
     "analysis": {
-      "issue": "ClickFix attacks are delivering BabaDeda, Lorem Ipsum, and Potemkin loaders to deploy stealers, RATs, and ransomware-linked tooling",
+      "issue": "Cybersecurity company F5 has released out-of-band security updates to address multiple NGINX web server vulnerabilities, including two critical-severity flaws that could allow attackers to execute code on vulnerable systems",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-42530",
+        "CVE-2026-50107",
+        "CVE-2026-42055",
+        "CVE-2026-11311"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft fixes Windows Server 2016 security update failures",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/",
+    "published": "Thu, 18 Jun 2026 06:14:20 -0400",
+    "summary": "Microsoft has fixed a known issue causing the June 2026 security updates to fail on Windows Server 2016 systems that weren't up to date. [...]",
+    "analysis": {
+      "issue": "Microsoft has fixed a known issue causing the June 2026 security updates to fail on Windows Server 2016 systems that weren't up to date",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -339,42 +380,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
-    "link": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
-    "published": "Wed, 17 Jun 2026 03:07:56 -0400",
-    "summary": "Kodak has confirmed that it's working with external cybersecurity experts to investigate a security breach after hackers gained access to some of the company's data. [...]",
-    "analysis": {
-      "issue": "Kodak has confirmed that it's working with external cybersecurity experts to investigate a security breach after hackers gained access to some of the company's data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
-    "published": "Tue, 16 Jun 2026 17:54:50 -0400",
-    "summary": "At least 15 malicious plugins found on the JetBrains Marketplace were designed to steal AI API keys from developers. [...]",
-    "analysis": {
-      "issue": "At least 15 malicious plugins found on the JetBrains Marketplace were designed to steal AI API keys from developers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
     "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
@@ -407,9 +412,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
+        "CVE-2026-50507",
         "CVE-2026-49160",
-        "CVE-2026-50507"
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -569,6 +574,156 @@
   },
   {
     "source": "Security Week",
+    "title": "Dream Raises $260 Million at $3 Billion Valuation",
+    "link": "https://www.securityweek.com/dream-raises-260-million-at-3-billion-valuation/",
+    "published": "Thu, 18 Jun 2026 11:55:07 +0000",
+    "summary": "<p>The Israeli startup provides sovereign AI and cyber defenses for governments and critical infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/dream-raises-260-million-at-3-billion-valuation/\">Dream Raises $260 Million at $3 Billion Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Israeli startup provides sovereign AI and cyber defenses for governments and critical infrastructure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Atlassian, Splunk Patch Critical Vulnerabilities",
+    "link": "https://www.securityweek.com/atlassian-splunk-patch-critical-vulnerabilities/",
+    "published": "Thu, 18 Jun 2026 10:59:50 +0000",
+    "summary": "<p>Splunk patched an OS command injection in AI Toolkit, while Atlassian fixed dozens of flaws in third-party dependencies.</p>\n<p>The post <a href=\"https://www.securityweek.com/atlassian-splunk-patch-critical-vulnerabilities/\">Atlassian, Splunk Patch Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Splunk patched an OS command injection in AI Toolkit, while Atlassian fixed dozens of flaws in third-party dependencies",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-42264",
+        "CVE-2026-42584",
+        "CVE-2026-42043",
+        "CVE-2026-40175",
+        "CVE-2026-43515",
+        "CVE-2026-20266",
+        "CVE-2026-43512",
+        "CVE-2026-41293",
+        "CVE-2026-20265"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Rokarolla Banking Trojan Targets 200 Applications",
+    "link": "https://www.securityweek.com/rokarolla-banking-trojan-targets-200-applications/",
+    "published": "Thu, 18 Jun 2026 10:42:21 +0000",
+    "summary": "<p>The Android malware allows its operators to take control of infected devices and harvest sensitive information.</p>\n<p>The post <a href=\"https://www.securityweek.com/rokarolla-banking-trojan-targets-200-applications/\">Rokarolla Banking Trojan Targets 200 Applications</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The Android malware allows its operators to take control of infected devices and harvest sensitive information",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Critical Command Execution Vulnerability Patched in Cisco ISE",
+    "link": "https://www.securityweek.com/critical-command-execution-vulnerability-patched-in-cisco-ise/",
+    "published": "Thu, 18 Jun 2026 10:27:14 +0000",
+    "summary": "<p>Insufficient validation of user input allows an attacker to gain access to the underlying OS and elevate their privileges to root.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-command-execution-vulnerability-patched-in-cisco-ise/\">Critical Command Execution Vulnerability Patched in Cisco ISE</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Insufficient validation of user input allows an attacker to gain access to the underlying OS and elevate their privileges to root",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20181",
+        "CVE-2026-20190"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "F5 Patches Critical, High-Severity NGINX Vulnerabilities",
+    "link": "https://www.securityweek.com/f5-patches-critical-high-severity-nginx-vulnerabilities/",
+    "published": "Thu, 18 Jun 2026 09:39:24 +0000",
+    "summary": "<p>Critical flaws in NGINX could allow remote, unauthenticated attackers to cause a restart and potentially execute arbitrary code.</p>\n<p>The post <a href=\"https://www.securityweek.com/f5-patches-critical-high-severity-nginx-vulnerabilities/\">F5 Patches Critical, High-Severity NGINX Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Critical flaws in NGINX could allow remote, unauthenticated attackers to cause a restart and potentially execute arbitrary code",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-42530",
+        "CVE-2026-50107",
+        "CVE-2026-42055",
+        "CVE-2026-11311"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "SailPoint to Acquire Entro in Reported $200 Million Deal",
+    "link": "https://www.securityweek.com/sailpoint-to-acquire-entro-in-reported-200-million-deal/",
+    "published": "Thu, 18 Jun 2026 08:36:42 +0000",
+    "summary": "<p>Israel-based Entro specializes in non-human identity and credential security solutions, and it will enable SailPoint to enhance its products.</p>\n<p>The post <a href=\"https://www.securityweek.com/sailpoint-to-acquire-entro-in-reported-200-million-deal/\">SailPoint to Acquire Entro in Reported $200 Million Deal</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Israel-based Entro specializes in non-human identity and credential security solutions, and it will enable SailPoint to enhance its products",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Kodak Admits Data Breach After ShinyHunters Hack Claims",
+    "link": "https://www.securityweek.com/kodak-admits-data-breach-after-shinyhunters-hack-claims/",
+    "published": "Thu, 18 Jun 2026 07:18:51 +0000",
+    "summary": "<p>Kodak told SecurityWeek it believes there is no threat to its systems or operations as a result of the cybersecurity incident.</p>\n<p>The post <a href=\"https://www.securityweek.com/kodak-admits-data-breach-after-shinyhunters-hack-claims/\">Kodak Admits Data Breach After ShinyHunters Hack Claims</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Kodak told SecurityWeek it believes there is no threat to its systems or operations as a result of the cybersecurity incident",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Webinar Today: How Modern Breaches Bypass MFA and Evade Detection",
     "link": "https://www.securityweek.com/webinar-today-how-modern-breaches-bypass-mfa-and-evade-detection/",
     "published": "Wed, 17 Jun 2026 14:07:16 +0000",
@@ -624,153 +779,20 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Rockwell Automation Patches Vulnerabilities in ICS Controllers and Software",
-    "link": "https://www.securityweek.com/rockwell-automation-patches-vulnerabilities-in-ics-controllers-and-software/",
-    "published": "Wed, 17 Jun 2026 11:32:44 +0000",
-    "summary": "<p>The industrial automation giant has fixed security holes in Logix, CompactLogix, Flex, RSLinx, and FactoryTalk products.</p>\n<p>The post <a href=\"https://www.securityweek.com/rockwell-automation-patches-vulnerabilities-in-ics-controllers-and-software/\">Rockwell Automation Patches Vulnerabilities in ICS Controllers and Software</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Scripting the disassembler: Local agentic reverse engineering through vbdec’s live COM object model",
+    "link": "https://blog.talosintelligence.com/scripting-the-disassembler/",
+    "published": "Thu, 18 Jun 2026 10:00:05 GMT",
+    "summary": "Cisco Talos detailed a new approach to reverse engineering that pairs local AI agents with traditional analysis tools like the VB6 disassembler vbdec. Instead of awkwardly bolting AI onto the software, vbdec exposes its parsed data through a live COM interface.",
     "analysis": {
-      "issue": "The industrial automation giant has fixed security holes in Logix, CompactLogix, Flex, RSLinx, and FactoryTalk products",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2021-22681"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft Teams Relay Servers Abused in DragonForce Ransomware Attack",
-    "link": "https://www.securityweek.com/microsoft-teams-relay-servers-abused-in-dragonforce-ransomware-attack/",
-    "published": "Wed, 17 Jun 2026 10:38:00 +0000",
-    "summary": "<p>The attackers deployed a new Go-based backdoor that uses Microsoft Teams servers for command-and-control.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-teams-relay-servers-abused-in-dragonforce-ransomware-attack/\">Microsoft Teams Relay Servers Abused in DragonForce Ransomware Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The attackers deployed a new Go-based backdoor that uses Microsoft Teams servers for command-and-control",
+      "issue": "VB6 binaries are laid out as a complex file format with embedded metadata",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "High",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Microsoft Working on Patch for ‘RoguePlanet’ Zero-Day",
-    "link": "https://www.securityweek.com/microsoft-working-on-patch-for-rogueplanet-zero-day/",
-    "published": "Wed, 17 Jun 2026 09:41:07 +0000",
-    "summary": "<p>The public PoC code exploits a race condition in Microsoft Defender to spawn a command prompt with System privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-working-on-patch-for-rogueplanet-zero-day/\">Microsoft Working on Patch for &#8216;RoguePlanet&#8217; Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The public PoC code exploits a race condition in Microsoft Defender to spawn a command prompt with System privileges",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-45498",
-        "CVE-2026-50656",
-        "CVE-2026-41091",
-        "CVE-2026-33825"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Oracle’s Second Monthly Security Updates Deliver 245 Patches",
-    "link": "https://www.securityweek.com/oracles-second-monthly-security-updates-deliver-245-patches/",
-    "published": "Wed, 17 Jun 2026 09:04:43 +0000",
-    "summary": "<p>Oracle has released its June 2026 Critical Security Patch Update to fix vulnerabilities in Communications, EBS, Enterprise Manager and other products.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracles-second-monthly-security-updates-deliver-245-patches/\">Oracle&#8217;s Second Monthly Security Updates Deliver 245 Patches </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Oracle has released its June 2026 Critical Security Patch Update to fix vulnerabilities in Communications, EBS, Enterprise Manager and other products",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-35273"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chrome and Firefox Updated to Patch Critical, High-Severity Vulnerabilities",
-    "link": "https://www.securityweek.com/chrome-and-firefox-updated-to-patch-critical-high-severity-vulnerabilities/",
-    "published": "Wed, 17 Jun 2026 08:21:05 +0000",
-    "summary": "<p>The browser updates address multiple memory safety bugs that could potentially lead to remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-and-firefox-updated-to-patch-critical-high-severity-vulnerabilities/\">Chrome and Firefox Updated to Patch Critical, High-Severity Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The browser updates address multiple memory safety bugs that could potentially lead to remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Joomla, LiteSpeed Vulnerabilities Exploited in Attacks",
-    "link": "https://www.securityweek.com/joomla-litespeed-vulnerabilities-exploited-in-attacks/",
-    "published": "Wed, 17 Jun 2026 07:28:20 +0000",
-    "summary": "<p>The flaws allow attackers to execute arbitrary PHP code and gain root privileges on shared hosting servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/joomla-litespeed-vulnerabilities-exploited-in-attacks/\">Joomla, LiteSpeed Vulnerabilities Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The flaws allow attackers to execute arbitrary PHP code and gain root privileges on shared hosting servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-48907",
-        "CVE-2026-54420"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "3 Recently Patched Fortinet FortiSandbox Vulnerabilities in Hacker Crosshairs",
-    "link": "https://www.securityweek.com/3-recently-patched-fortinet-fortisandbox-vulnerabilities-in-hacker-crosshairs/",
-    "published": "Wed, 17 Jun 2026 06:53:58 +0000",
-    "summary": "<p>SOCRadar has detected 30,000 compromised Fortinet firewalls that expose networks to hacking. </p>\n<p>The post <a href=\"https://www.securityweek.com/3-recently-patched-fortinet-fortisandbox-vulnerabilities-in-hacker-crosshairs/\">3 Recently Patched Fortinet FortiSandbox Vulnerabilities in Hacker Crosshairs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "SOCRadar has detected 30,000 compromised Fortinet firewalls that expose networks to hacking",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-39808",
-        "CVE-2026-39813",
-        "CVE-2026-25089",
-        "CVE-2026-35616",
-        "CVE-2026-21643"
-      ],
-      "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -805,15 +827,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-44812",
+        "CVE-2026-44799",
+        "CVE-2026-48563",
         "CVE-2026-44801",
         "CVE-2026-44803",
         "CVE-2026-42992",
-        "CVE-2026-44812",
         "CVE-2026-47289",
         "CVE-2026-47291",
-        "CVE-2026-48563",
-        "CVE-2026-42985",
-        "CVE-2026-44799"
+        "CVE-2026-42985"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -924,8 +946,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2026-25104",
-        "CVE-2026-28764",
         "CVE-2026-25713",
+        "CVE-2026-28764",
         "CVE-2026-22554"
       ],
       "threat_categories": [
@@ -942,24 +964,6 @@
     "summary": "EvidenceForge generates high-quality, realistic, and consistent datasets across multiple log formats, enabling teams to effectively train personnel and validate detection models without the need for complex manual simulations.",
     "analysis": {
       "issue": "A lot of important work in security depends on having realistic log data to work with, and a lot of that work gets blocked, watered down, or quietly skipped because the data just isn’t available",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Talos Blog",
-    "title": "The art of being ungovernable",
-    "link": "https://blog.talosintelligence.com/the-art-of-being-ungovernable/",
-    "published": "Thu, 21 May 2026 18:00:14 GMT",
-    "summary": "In this edition of the Threat Source newsletter, William explores the value of being \"ungovernable\" in a professional setting, sharing how challenging the status quo and seeking out the smartest people in the room can lead to a more fulfilling and successful career.",
-    "analysis": {
-      "issue": "Welcome to this week’s edition of the Threat Source newsletter",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1348,6 +1352,44 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Retro gaming fans are the new target for fake GitHub malware",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/06/retro-gaming-fans-are-the-new-target-for-fake-github-malware",
+    "published": "Thu, 18 Jun 2026 11:27:42 GMT",
+    "summary": "Retro gaming fans should be careful with GitHub projects that claim to be tools or plugins for their consoles. We looked at one example aimed at PlayStation Vita owners.",
+    "analysis": {
+      "issue": "Retro gaming fans should be careful with GitHub projects that claim to be tools or plugins for their consoles",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Kodak confirms breach as ShinyHunters&#8217; leak threat reaches deadline",
+    "link": "https://www.malwarebytes.com/blog/news/2026/06/kodak-confirms-breach-as-shinyhunters-leak-threat-reaches-deadline",
+    "published": "Thu, 18 Jun 2026 09:52:08 GMT",
+    "summary": "The photography giant confirmed a data breach after ShinyHunters claimed it stole 2.2 million records and threatened to leak them.",
+    "analysis": {
+      "issue": "The Eastman Kodak Company (Kodak) confirmed to BleepingComputer that it is investigating a security breach after the ShinyHunters extortion group claimed responsibility for the incident",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Roblox developers are losing entire games to malware attacks",
     "link": "https://www.malwarebytes.com/blog/scams/2026/06/roblox-developers-are-losing-entire-games-to-malware-attacks",
     "published": "Wed, 17 Jun 2026 20:22:42 GMT",
@@ -1496,42 +1538,6 @@
       "threat_categories": [
         "Malware",
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Claude Fable 5 and Mythos 5 &#8220;abruptly disabled&#8221; after US gov. ban",
-    "link": "https://www.malwarebytes.com/blog/ai/2026/06/claude-fable-5-and-mythos-5-abruptly-disabled-after-us-gov-deems-them-too-clever",
-    "published": "Mon, 15 Jun 2026 14:32:57 GMT",
-    "summary": "Anthropic has been ordered by the US government to cut off its newest Claude Fable 5 and Mythos 5 models for fear of abuse.",
-    "analysis": {
-      "issue": "Anthropic has been ordered by the US government to cut off its newest Claude Fable 5 and Mythos 5 models for fear of abuse by adversaries",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Deepfake porn sites are going offline (re-air) (Lock and Code S07E12)",
-    "link": "https://www.malwarebytes.com/blog/podcast/2026/06/deepfake-porn-sites-are-going-offline-re-air-lock-and-code-s07e12",
-    "published": "Mon, 15 Jun 2026 14:32:54 GMT",
-    "summary": "This week on the Lock and Code podcast, we revisit an episode from 2024 with David Chiu that shows the progress made against deepfake porn.",
-    "analysis": {
-      "issue": "This week on the Lock and Code podcast… If you weren’t taking deepfakes seriously before, it’s too late now to ignore them",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
       ]
     }
   },
