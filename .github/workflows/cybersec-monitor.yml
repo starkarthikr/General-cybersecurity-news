@@ -32,7 +32,7 @@ jobs:
         run: python scripts/parse_cybersec_feeds.py
       
       - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: '📰 Update cybersecurity news - automated'
           commit_user_name: 'github-actions[bot]'
