@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-19 05:34:06 UTC
+**Last Updated:** 2026-06-19 12:31:34 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution](https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html)
+### 1. [Forget Data Leakage: Shadow AI's Real Threat Is Access Control](https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 19 Jun 2026 16:00:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data](https://thehackernews.com/2026/06/salesforce-disables-klue-app.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 19 Jun 2026 14:33:57 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone](https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 19 Jun 2026 12:06:09 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2025-20701  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution](https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 18 Jun 2026 23:02:14 +0530  
@@ -14,7 +42,7 @@
 
 ---
 
-### 2. [Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network](https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html)
+### 5. [Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network](https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 18 Jun 2026 21:03:49 +0530  
@@ -23,7 +51,7 @@
 
 ---
 
-### 3. [ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories](https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html)
+### 6. [ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories](https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 18 Jun 2026 20:57:54 +0530  
@@ -32,7 +60,7 @@
 
 ---
 
-### 4. [Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2](https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html)
+### 7. [Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2](https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 18 Jun 2026 20:00:42 +0530  
@@ -41,7 +69,7 @@
 
 ---
 
-### 5. [INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023](https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html)
+### 8. [INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023](https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 18 Jun 2026 19:42:48 +0530  
@@ -50,7 +78,7 @@
 
 ---
 
-### 6. [The Scripts on Your Checkout Page Are Now a PCI DSS Problem](https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html)
+### 9. [The Scripts on Your Checkout Page Are Now a PCI DSS Problem](https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 18 Jun 2026 19:28:39 +0530  
@@ -59,7 +87,7 @@
 
 ---
 
-### 7. [DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic](https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html)
+### 10. [DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic](https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 18 Jun 2026 19:00:07 +0530  
@@ -68,35 +96,53 @@
 
 ---
 
-### 8. [Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments](https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html)
+### 11. [Webinar: How attackers bypass MFA and how defenders can respond](https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 17 Jun 2026 23:44:24 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 19 Jun 2026 08:12:20 -0400  
+**Severity:** Low  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 12. [Microsoft: June 2026 Windows updates break Recycle Bin prompts](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 19 Jun 2026 07:32:34 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 9. [Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development](https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html)
+### 13. [CISA: Splunk Enterprise flaw actively exploited, patch by Sunday](https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 17 Jun 2026 23:06:28 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-50656  
+**Source:** Bleeping Computer  
+**Published:** Fri, 19 Jun 2026 06:39:58 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-20253  
 **Categories:** Vulnerability  
 
 ---
 
-### 10. [Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline](https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html)
+### 14. [NY man charged after harassing college student with AI-generated nudes](https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/)
 
-**Source:** The Hacker News  
-**Published:** Wed, 17 Jun 2026 21:30:56 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 19 Jun 2026 04:44:08 -0400  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 11. [Gentlemen ransomware uses multiple EDR killers to disable defenses](https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/)
+### 15. [CISA warns Fortinet users to secure devices after FortiBleed leak](https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/)
+
+**Source:** Bleeping Computer  
+**Published:** Fri, 19 Jun 2026 02:47:55 -0400  
+**Severity:** Low  
+**Categories:** Data Breach, Phishing  
+
+---
+
+### 16. [Gentlemen ransomware uses multiple EDR killers to disable defenses](https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 18 Jun 2026 18:31:52 -0400  
@@ -105,7 +151,7 @@
 
 ---
 
-### 12. [Nintendo confirms data stolen in WebMD subsidiary cyberattack](https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/)
+### 17. [Nintendo confirms data stolen in WebMD subsidiary cyberattack](https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 18 Jun 2026 14:31:36 -0400  
@@ -114,7 +160,7 @@
 
 ---
 
-### 13. [USB worm spreads crypto-stealing malware via Windows shortcut files](https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/)
+### 18. [USB worm spreads crypto-stealing malware via Windows shortcut files](https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 18 Jun 2026 12:20:06 -0400  
@@ -123,7 +169,7 @@
 
 ---
 
-### 14. [Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/)
+### 19. [Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 18 Jun 2026 10:19:50 -0400  
@@ -132,58 +178,12 @@
 
 ---
 
-### 15. [5 reasons Microsoft 365 backup isn’t enough for business data protection](https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/)
+### 20. [5 reasons Microsoft 365 backup isn’t enough for business data protection](https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 18 Jun 2026 09:48:56 -0400  
 **Severity:** Critical  
 **Categories:** Ransomware, Supply Chain  
-
----
-
-### 16. [Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp](https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 18 Jun 2026 09:25:47 -0400  
-**Severity:** Critical  
-**Categories:** Malware  
-
----
-
-### 17. [ShapedPlugin update flow hacked to infect WordPress sites](https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 18 Jun 2026 08:55:36 -0400  
-**Severity:** Low  
-**Categories:** Malware, Supply Chain  
-
----
-
-### 18. [FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.](https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 18 Jun 2026 08:54:39 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Apple fixes Beats Studio Buds flaw that let hackers spy on conversations](https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 18 Jun 2026 08:23:58 -0400  
-**Severity:** High  
-**CVEs:** CVE-2025-20701  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Telegram admits it couldn't police exam-leak channels, India tells court](https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 18 Jun 2026 08:18:49 -0400  
-**Severity:** High  
-**Categories:** Data Breach  
 
 ---
 
@@ -210,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
+**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -278,7 +278,52 @@
 
 ---
 
-### 31. [Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure](https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/)
+### 31. [CryptoBandits Malware Doubles as a Backdoor, Abuses Tor](https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/)
+
+**Source:** Security Week  
+**Published:** Fri, 19 Jun 2026 11:19:41 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Malware, Phishing  
+
+---
+
+### 32. [FortiBleed: 86,000 Fortinet Device Credentials Compromised](https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/)
+
+**Source:** Security Week  
+**Published:** Fri, 19 Jun 2026 10:48:08 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Phishing  
+
+---
+
+### 33. [Cybersecurity Firms Impacted by Klue Supply Chain Attack](https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/)
+
+**Source:** Security Week  
+**Published:** Fri, 19 Jun 2026 09:19:06 +0000  
+**Severity:** High  
+**Categories:** Data Breach, Supply Chain  
+
+---
+
+### 34. [Cisco to Acquire WideField Security to Boost Splunk’s Agentic SOC](https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/)
+
+**Source:** Security Week  
+**Published:** Fri, 19 Jun 2026 07:22:22 +0000  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 35. [15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown](https://www.securityweek.com/15000-wordpress-websites-cleaned-up-in-socgholish-botnet-takedown/)
+
+**Source:** Security Week  
+**Published:** Fri, 19 Jun 2026 06:46:44 +0000  
+**Severity:** High  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 36. [Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure](https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 04:10:34 +0000  
@@ -288,7 +333,7 @@
 
 ---
 
-### 32. [Majority of Internet-Accessible REDCap Servers Outdated](https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/)
+### 37. [Majority of Internet-Accessible REDCap Servers Outdated](https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/)
 
 **Source:** Security Week  
 **Published:** Thu, 18 Jun 2026 17:07:48 +0000  
@@ -297,7 +342,7 @@
 
 ---
 
-### 33. [Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push](https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/)
+### 38. [Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push](https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/)
 
 **Source:** Security Week  
 **Published:** Thu, 18 Jun 2026 13:08:53 +0000  
@@ -306,7 +351,7 @@
 
 ---
 
-### 34. [No Exploits Required](https://www.securityweek.com/no-exploits-required/)
+### 39. [No Exploits Required](https://www.securityweek.com/no-exploits-required/)
 
 **Source:** Security Week  
 **Published:** Thu, 18 Jun 2026 12:30:00 +0000  
@@ -315,60 +360,12 @@
 
 ---
 
-### 35. [Dream Raises $260 Million at $3 Billion Valuation](https://www.securityweek.com/dream-raises-260-million-at-3-billion-valuation/)
+### 40. [Dream Raises $260 Million at $3 Billion Valuation](https://www.securityweek.com/dream-raises-260-million-at-3-billion-valuation/)
 
 **Source:** Security Week  
 **Published:** Thu, 18 Jun 2026 11:55:07 +0000  
 **Severity:** Critical  
 **Categories:** APT  
-
----
-
-### 36. [Atlassian, Splunk Patch Critical Vulnerabilities](https://www.securityweek.com/atlassian-splunk-patch-critical-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Thu, 18 Jun 2026 10:59:50 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-40175, CVE-2026-20266, CVE-2026-43515, CVE-2026-43512, CVE-2026-42264, CVE-2026-41293, CVE-2026-42584, CVE-2026-20265, CVE-2026-42043  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 37. [Rokarolla Banking Trojan Targets 200 Applications](https://www.securityweek.com/rokarolla-banking-trojan-targets-200-applications/)
-
-**Source:** Security Week  
-**Published:** Thu, 18 Jun 2026 10:42:21 +0000  
-**Severity:** Critical  
-**Categories:** Ransomware, Malware, APT, Supply Chain  
-
----
-
-### 38. [Critical Command Execution Vulnerability Patched in Cisco ISE](https://www.securityweek.com/critical-command-execution-vulnerability-patched-in-cisco-ise/)
-
-**Source:** Security Week  
-**Published:** Thu, 18 Jun 2026 10:27:14 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-20181, CVE-2026-20190  
-**Categories:** Vulnerability  
-
----
-
-### 39. [F5 Patches Critical, High-Severity NGINX Vulnerabilities](https://www.securityweek.com/f5-patches-critical-high-severity-nginx-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Thu, 18 Jun 2026 09:39:24 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-42055, CVE-2026-11311, CVE-2026-42530, CVE-2026-50107  
-**Categories:** Vulnerability  
-
----
-
-### 40. [SailPoint to Acquire Entro in Reported $200 Million Deal](https://www.securityweek.com/sailpoint-to-acquire-entro-in-reported-200-million-deal/)
-
-**Source:** Security Week  
-**Published:** Thu, 18 Jun 2026 08:36:42 +0000  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -404,7 +401,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-47289, CVE-2026-42985, CVE-2026-44812, CVE-2026-44801, CVE-2026-42992, CVE-2026-44803, CVE-2026-48563, CVE-2026-47291, CVE-2026-44799  
+**CVEs:** CVE-2026-44799, CVE-2026-44801, CVE-2026-44803, CVE-2026-48563, CVE-2026-47291, CVE-2026-42992, CVE-2026-44812, CVE-2026-42985, CVE-2026-47289  
 **Categories:** Vulnerability  
 
 ---
@@ -459,7 +456,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25713, CVE-2026-25104, CVE-2026-22554, CVE-2026-28764  
+**CVEs:** CVE-2026-22554, CVE-2026-25713, CVE-2026-25104, CVE-2026-28764  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -649,7 +646,17 @@
 
 ---
 
-### 71. [Microsoft working on a fix for RoguePlanet, a flaw that grants full PC control](https://www.malwarebytes.com/blog/news/2026/06/microsoft-working-on-a-fix-for-rogueplanet-a-flaw-that-grants-full-pc-control)
+### 71. [Apple patches Beats Studio Buds flaw that could turn earbuds into a wiretap](https://www.malwarebytes.com/blog/bugs/2026/06/apple-patches-beats-studio-buds-flaw-that-could-turn-earbuds-into-a-wiretap)
+
+**Source:** Malwarebytes  
+**Published:** Fri, 19 Jun 2026 11:47:16 GMT  
+**Severity:** Low  
+**CVEs:** CVE-2025-20701  
+**Categories:** Vulnerability  
+
+---
+
+### 72. [Microsoft working on a fix for RoguePlanet, a flaw that grants full PC control](https://www.malwarebytes.com/blog/news/2026/06/microsoft-working-on-a-fix-for-rogueplanet-a-flaw-that-grants-full-pc-control)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 18 Jun 2026 12:58:30 GMT  
@@ -659,7 +666,7 @@
 
 ---
 
-### 72. [Retro gaming fans are the new target for fake GitHub malware](https://www.malwarebytes.com/blog/threat-intel/2026/06/retro-gaming-fans-are-the-new-target-for-fake-github-malware)
+### 73. [Retro gaming fans are the new target for fake GitHub malware](https://www.malwarebytes.com/blog/threat-intel/2026/06/retro-gaming-fans-are-the-new-target-for-fake-github-malware)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 18 Jun 2026 11:27:42 GMT  
@@ -668,7 +675,7 @@
 
 ---
 
-### 73. [Kodak confirms breach as ShinyHunters&#8217; leak threat reaches deadline](https://www.malwarebytes.com/blog/news/2026/06/kodak-confirms-breach-as-shinyhunters-leak-threat-reaches-deadline)
+### 74. [Kodak confirms breach as ShinyHunters&#8217; leak threat reaches deadline](https://www.malwarebytes.com/blog/news/2026/06/kodak-confirms-breach-as-shinyhunters-leak-threat-reaches-deadline)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 18 Jun 2026 09:52:08 GMT  
@@ -677,7 +684,7 @@
 
 ---
 
-### 74. [Roblox developers are losing entire games to malware attacks](https://www.malwarebytes.com/blog/scams/2026/06/roblox-developers-are-losing-entire-games-to-malware-attacks)
+### 75. [Roblox developers are losing entire games to malware attacks](https://www.malwarebytes.com/blog/scams/2026/06/roblox-developers-are-losing-entire-games-to-malware-attacks)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 17 Jun 2026 20:22:42 GMT  
@@ -686,7 +693,7 @@
 
 ---
 
-### 75. [Rokarolla Android malware can take over your phone and steal banking logins](https://www.malwarebytes.com/blog/mobile/2026/06/rokarolla-android-malware-can-take-over-your-phone-and-steal-banking-logins)
+### 76. [Rokarolla Android malware can take over your phone and steal banking logins](https://www.malwarebytes.com/blog/mobile/2026/06/rokarolla-android-malware-can-take-over-your-phone-and-steal-banking-logins)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 17 Jun 2026 15:34:15 GMT  
@@ -695,7 +702,7 @@
 
 ---
 
-### 76. [24 billion stolen records exposed online. Here&#8217;s what to do](https://www.malwarebytes.com/blog/news/2026/06/24-billion-stolen-records-found-in-giant-data-dump-check-if-youre-affected)
+### 77. [24 billion stolen records exposed online. Here&#8217;s what to do](https://www.malwarebytes.com/blog/news/2026/06/24-billion-stolen-records-found-in-giant-data-dump-check-if-youre-affected)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 17 Jun 2026 10:56:18 GMT  
@@ -704,7 +711,7 @@
 
 ---
 
-### 77. [Malwarebytes earns AV-TEST Top Product award, aces other third-party tests](https://www.malwarebytes.com/blog/product/2026/06/malwarebytes-earns-av-test-top-product-award-aces-other-third-party-tests)
+### 78. [Malwarebytes earns AV-TEST Top Product award, aces other third-party tests](https://www.malwarebytes.com/blog/product/2026/06/malwarebytes-earns-av-test-top-product-award-aces-other-third-party-tests)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 17 Jun 2026 09:41:46 GMT  
@@ -713,7 +720,7 @@
 
 ---
 
-### 78. [&#8220;Free World Cup stream&#8221; sites are serving scams, not football](https://www.malwarebytes.com/blog/threat-intel/2026/06/free-world-cup-stream-sites-are-serving-scams-not-football)
+### 79. [&#8220;Free World Cup stream&#8221; sites are serving scams, not football](https://www.malwarebytes.com/blog/threat-intel/2026/06/free-world-cup-stream-sites-are-serving-scams-not-football)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 16 Jun 2026 13:00:00 GMT  
@@ -722,21 +729,12 @@
 
 ---
 
-### 79. [Cardiac patients&#8217; medical data stolen and held to ransom](https://www.malwarebytes.com/blog/news/2026/06/cardiac-patients-medical-data-stolen-and-held-to-ransom)
+### 80. [Cardiac patients&#8217; medical data stolen and held to ransom](https://www.malwarebytes.com/blog/news/2026/06/cardiac-patients-medical-data-stolen-and-held-to-ransom)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 16 Jun 2026 12:49:01 GMT  
 **Severity:** Low  
 **Categories:** Ransomware, Supply Chain  
-
----
-
-### 80. [Deepfake posting sites depicting famous women taken down by feds](https://www.malwarebytes.com/blog/ai/2026/06/deepfake-posting-sites-depicting-famous-women-taken-down-by-feds)
-
-**Source:** Malwarebytes  
-**Published:** Tue, 16 Jun 2026 10:31:16 GMT  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
