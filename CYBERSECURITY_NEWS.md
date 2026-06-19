@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-18 18:42:12 UTC
+**Last Updated:** 2026-06-19 04:58:25 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,16 @@
 
 ---
 
-### 11. [Nintendo confirms data stolen in WebMD subsidiary cyberattack](https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/)
+### 11. [Gentlemen ransomware uses multiple EDR killers to disable defenses](https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 18 Jun 2026 18:31:52 -0400  
+**Severity:** High  
+**Categories:** Ransomware  
+
+---
+
+### 12. [Nintendo confirms data stolen in WebMD subsidiary cyberattack](https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 18 Jun 2026 14:31:36 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [USB worm spreads crypto-stealing malware via Windows shortcut files](https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/)
+### 13. [USB worm spreads crypto-stealing malware via Windows shortcut files](https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 18 Jun 2026 12:20:06 -0400  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/)
+### 14. [Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 18 Jun 2026 10:19:50 -0400  
@@ -123,7 +132,7 @@
 
 ---
 
-### 14. [5 reasons Microsoft 365 backup isn’t enough for business data protection](https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/)
+### 15. [5 reasons Microsoft 365 backup isn’t enough for business data protection](https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 18 Jun 2026 09:48:56 -0400  
@@ -132,7 +141,7 @@
 
 ---
 
-### 15. [Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp](https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/)
+### 16. [Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp](https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 18 Jun 2026 09:25:47 -0400  
@@ -141,7 +150,7 @@
 
 ---
 
-### 16. [ShapedPlugin update flow hacked to infect WordPress sites](https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/)
+### 17. [ShapedPlugin update flow hacked to infect WordPress sites](https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 18 Jun 2026 08:55:36 -0400  
@@ -150,7 +159,7 @@
 
 ---
 
-### 17. [FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.](https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/)
+### 18. [FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.](https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 18 Jun 2026 08:54:39 -0400  
@@ -159,7 +168,7 @@
 
 ---
 
-### 18. [Apple fixes Beats Studio Buds flaw that let hackers spy on conversations](https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/)
+### 19. [Apple fixes Beats Studio Buds flaw that let hackers spy on conversations](https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 18 Jun 2026 08:23:58 -0400  
@@ -169,22 +178,12 @@
 
 ---
 
-### 19. [Telegram admits it couldn't police exam-leak channels, India tells court](https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/)
+### 20. [Telegram admits it couldn't police exam-leak channels, India tells court](https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 18 Jun 2026 08:18:49 -0400  
 **Severity:** High  
 **Categories:** Data Breach  
-
----
-
-### 20. [F5 issues out-of-band patches for critical NGINX vulnerabilities](https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 18 Jun 2026 07:33:00 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-50107, CVE-2026-42530, CVE-2026-42055, CVE-2026-11311  
-**Categories:** Vulnerability, APT  
 
 ---
 
@@ -211,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
+**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,7 +278,17 @@
 
 ---
 
-### 31. [Majority of Internet-Accessible REDCap Servers Outdated](https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/)
+### 31. [Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure](https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/)
+
+**Source:** Security Week  
+**Published:** Fri, 19 Jun 2026 04:10:34 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-20253  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [Majority of Internet-Accessible REDCap Servers Outdated](https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/)
 
 **Source:** Security Week  
 **Published:** Thu, 18 Jun 2026 17:07:48 +0000  
@@ -288,7 +297,7 @@
 
 ---
 
-### 32. [Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push](https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/)
+### 33. [Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push](https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/)
 
 **Source:** Security Week  
 **Published:** Thu, 18 Jun 2026 13:08:53 +0000  
@@ -297,7 +306,7 @@
 
 ---
 
-### 33. [No Exploits Required](https://www.securityweek.com/no-exploits-required/)
+### 34. [No Exploits Required](https://www.securityweek.com/no-exploits-required/)
 
 **Source:** Security Week  
 **Published:** Thu, 18 Jun 2026 12:30:00 +0000  
@@ -306,7 +315,7 @@
 
 ---
 
-### 34. [Dream Raises $260 Million at $3 Billion Valuation](https://www.securityweek.com/dream-raises-260-million-at-3-billion-valuation/)
+### 35. [Dream Raises $260 Million at $3 Billion Valuation](https://www.securityweek.com/dream-raises-260-million-at-3-billion-valuation/)
 
 **Source:** Security Week  
 **Published:** Thu, 18 Jun 2026 11:55:07 +0000  
@@ -315,17 +324,17 @@
 
 ---
 
-### 35. [Atlassian, Splunk Patch Critical Vulnerabilities](https://www.securityweek.com/atlassian-splunk-patch-critical-vulnerabilities/)
+### 36. [Atlassian, Splunk Patch Critical Vulnerabilities](https://www.securityweek.com/atlassian-splunk-patch-critical-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 18 Jun 2026 10:59:50 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20266, CVE-2026-40175, CVE-2026-42584, CVE-2026-42264, CVE-2026-20265, CVE-2026-41293, CVE-2026-43515, CVE-2026-43512, CVE-2026-42043  
+**CVEs:** CVE-2026-43512, CVE-2026-42584, CVE-2026-20265, CVE-2026-42264, CVE-2026-41293, CVE-2026-43515, CVE-2026-42043, CVE-2026-40175, CVE-2026-20266  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 36. [Rokarolla Banking Trojan Targets 200 Applications](https://www.securityweek.com/rokarolla-banking-trojan-targets-200-applications/)
+### 37. [Rokarolla Banking Trojan Targets 200 Applications](https://www.securityweek.com/rokarolla-banking-trojan-targets-200-applications/)
 
 **Source:** Security Week  
 **Published:** Thu, 18 Jun 2026 10:42:21 +0000  
@@ -334,7 +343,7 @@
 
 ---
 
-### 37. [Critical Command Execution Vulnerability Patched in Cisco ISE](https://www.securityweek.com/critical-command-execution-vulnerability-patched-in-cisco-ise/)
+### 38. [Critical Command Execution Vulnerability Patched in Cisco ISE](https://www.securityweek.com/critical-command-execution-vulnerability-patched-in-cisco-ise/)
 
 **Source:** Security Week  
 **Published:** Thu, 18 Jun 2026 10:27:14 +0000  
@@ -344,31 +353,22 @@
 
 ---
 
-### 38. [F5 Patches Critical, High-Severity NGINX Vulnerabilities](https://www.securityweek.com/f5-patches-critical-high-severity-nginx-vulnerabilities/)
+### 39. [F5 Patches Critical, High-Severity NGINX Vulnerabilities](https://www.securityweek.com/f5-patches-critical-high-severity-nginx-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 18 Jun 2026 09:39:24 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50107, CVE-2026-42530, CVE-2026-42055, CVE-2026-11311  
+**CVEs:** CVE-2026-11311, CVE-2026-42530, CVE-2026-50107, CVE-2026-42055  
 **Categories:** Vulnerability  
 
 ---
 
-### 39. [SailPoint to Acquire Entro in Reported $200 Million Deal](https://www.securityweek.com/sailpoint-to-acquire-entro-in-reported-200-million-deal/)
+### 40. [SailPoint to Acquire Entro in Reported $200 Million Deal](https://www.securityweek.com/sailpoint-to-acquire-entro-in-reported-200-million-deal/)
 
 **Source:** Security Week  
 **Published:** Thu, 18 Jun 2026 08:36:42 +0000  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 40. [Kodak Admits Data Breach After ShinyHunters Hack Claims](https://www.securityweek.com/kodak-admits-data-breach-after-shinyhunters-hack-claims/)
-
-**Source:** Security Week  
-**Published:** Thu, 18 Jun 2026 07:18:51 +0000  
-**Severity:** Critical  
-**Categories:** Ransomware, Data Breach, Vulnerability  
 
 ---
 
@@ -404,7 +404,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44803, CVE-2026-47291, CVE-2026-42985, CVE-2026-44799, CVE-2026-44812, CVE-2026-42992, CVE-2026-44801, CVE-2026-48563, CVE-2026-47289  
+**CVEs:** CVE-2026-48563, CVE-2026-47291, CVE-2026-42985, CVE-2026-44799, CVE-2026-44801, CVE-2026-42992, CVE-2026-44803, CVE-2026-47289, CVE-2026-44812  
 **Categories:** Vulnerability  
 
 ---
@@ -459,12 +459,21 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-28764, CVE-2026-22554, CVE-2026-25713, CVE-2026-25104  
+**CVEs:** CVE-2026-22554, CVE-2026-28764, CVE-2026-25713, CVE-2026-25104  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 51. [State Digital Surveillance Risk Landscape](https://www.recordedfuture.com/research/state-digital-surveillance-risk-landscape)
+### 51. [The Klue Security Incident and Its Impact on Recorded Future](https://www.recordedfuture.com/blog/klue-security-incident)
+
+**Source:** Recorded Future  
+**Published:** Thu, 18 Jun 2026 00:00:00 GMT  
+**Severity:** Low  
+**Categories:** Supply Chain  
+
+---
+
+### 52. [State Digital Surveillance Risk Landscape](https://www.recordedfuture.com/research/state-digital-surveillance-risk-landscape)
 
 **Source:** Recorded Future  
 **Published:** Wed, 17 Jun 2026 00:00:00 GMT  
@@ -473,7 +482,7 @@
 
 ---
 
-### 52. [The Intelligence No One Else Has: Inside Recorded Future’s Proprietary Collection Engine](https://www.recordedfuture.com/blog/recorded-future-proprietary-collection-engine)
+### 53. [The Intelligence No One Else Has: Inside Recorded Future’s Proprietary Collection Engine](https://www.recordedfuture.com/blog/recorded-future-proprietary-collection-engine)
 
 **Source:** Recorded Future  
 **Published:** Tue, 16 Jun 2026 00:00:00 GMT  
@@ -482,7 +491,7 @@
 
 ---
 
-### 53. [Recorded Future Launches Impact and Metrics Dashboard](https://www.recordedfuture.com/blog/impact-metrics-dashboard)
+### 54. [Recorded Future Launches Impact and Metrics Dashboard](https://www.recordedfuture.com/blog/impact-metrics-dashboard)
 
 **Source:** Recorded Future  
 **Published:** Thu, 11 Jun 2026 00:00:00 GMT  
@@ -491,7 +500,7 @@
 
 ---
 
-### 54. [Cyber-Enabled Maritime Sanctions Evasion](https://www.recordedfuture.com/research/cyber-maritime-sanctions-evasion)
+### 55. [Cyber-Enabled Maritime Sanctions Evasion](https://www.recordedfuture.com/research/cyber-maritime-sanctions-evasion)
 
 **Source:** Recorded Future  
 **Published:** Thu, 11 Jun 2026 00:00:00 GMT  
@@ -500,7 +509,7 @@
 
 ---
 
-### 55. [2026 FIFA World Cup: What Public Safety Officials Need to Know](https://www.recordedfuture.com/blog/2026-fifa-world-cup-cyber-physical-threats-security-guide)
+### 56. [2026 FIFA World Cup: What Public Safety Officials Need to Know](https://www.recordedfuture.com/blog/2026-fifa-world-cup-cyber-physical-threats-security-guide)
 
 **Source:** Recorded Future  
 **Published:** Wed, 10 Jun 2026 00:00:00 GMT  
@@ -509,7 +518,7 @@
 
 ---
 
-### 56. [China's Noncombatant Evacuation Operations: 2005–2025](https://www.recordedfuture.com/blog/china-noncombatant-evacuation-operations-2005-2025)
+### 57. [China's Noncombatant Evacuation Operations: 2005–2025](https://www.recordedfuture.com/blog/china-noncombatant-evacuation-operations-2005-2025)
 
 **Source:** Recorded Future  
 **Published:** Wed, 10 Jun 2026 00:00:00 GMT  
@@ -518,7 +527,7 @@
 
 ---
 
-### 57. [Russia’s Defense-Based Economy Risks Forcing Putin to Fight Wars](https://www.recordedfuture.com/research/russia-defense-base-economy-risks-wars)
+### 58. [Russia’s Defense-Based Economy Risks Forcing Putin to Fight Wars](https://www.recordedfuture.com/research/russia-defense-base-economy-risks-wars)
 
 **Source:** Recorded Future  
 **Published:** Tue, 09 Jun 2026 00:00:00 GMT  
@@ -527,7 +536,7 @@
 
 ---
 
-### 58. [May 2026 CVE Landscape](https://www.recordedfuture.com/blog/may-2026-cve-landscape)
+### 59. [May 2026 CVE Landscape](https://www.recordedfuture.com/blog/may-2026-cve-landscape)
 
 **Source:** Recorded Future  
 **Published:** Mon, 08 Jun 2026 00:00:00 GMT  
@@ -536,19 +545,10 @@
 
 ---
 
-### 59. [Why Holistic Sourcing Wins: The Numbers Behind the Recorded Future Advantage](https://www.recordedfuture.com/blog/recorded-future-holistic-sourcing-wins)
+### 60. [Why Holistic Sourcing Wins: The Numbers Behind the Recorded Future Advantage](https://www.recordedfuture.com/blog/recorded-future-holistic-sourcing-wins)
 
 **Source:** Recorded Future  
 **Published:** Fri, 05 Jun 2026 00:00:00 GMT  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 60. [Threats to the 2026 FIFA World Cup](https://www.recordedfuture.com/research/2026-fifa-world-cup-threats)
-
-**Source:** Recorded Future  
-**Published:** Thu, 04 Jun 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -634,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -740,7 +740,25 @@
 
 ---
 
-### 81. [After Executive Order 14409: Next Steps for Securing AI](https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/)
+### 81. [New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jun 18, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 82. [New Abuse of the ClickOnce Technology, Part 1: The Inner Workings of ClickOnce Application Deployment](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-one/)
+
+**Source:** Crowdstrike Blog  
+**Published:** Jun 18, 2026 00:00:00-0500  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 83. [After Executive Order 14409: Next Steps for Securing AI](https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 17, 2026 00:00:00-0500  
@@ -749,7 +767,7 @@
 
 ---
 
-### 82. [Falcon Exposure Management Now Available for Third-Party Environments](https://www.crowdstrike.com/en-us/blog/falcon-exposure-management-now-available-for-third-party-environments/)
+### 84. [Falcon Exposure Management Now Available for Third-Party Environments](https://www.crowdstrike.com/en-us/blog/falcon-exposure-management-now-available-for-third-party-environments/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 16, 2026 00:00:00-0500  
@@ -758,7 +776,7 @@
 
 ---
 
-### 83. [CrowdStrike Announces Continuous Identity for AI Agents](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/)
+### 85. [CrowdStrike Announces Continuous Identity for AI Agents](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 15, 2026 00:00:00-0500  
@@ -767,7 +785,7 @@
 
 ---
 
-### 84. [Why AI Projects Stall and How CIOs Can Respond](https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/)
+### 86. [Why AI Projects Stall and How CIOs Can Respond](https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 12, 2026 00:00:00-0500  
@@ -776,7 +794,7 @@
 
 ---
 
-### 85. [CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/)
+### 87. [CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 11, 2026 00:00:00-0500  
@@ -785,7 +803,7 @@
 
 ---
 
-### 86. [CrowdStrike Expands Identity Leadership with OpenID and IDPro](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/)
+### 88. [CrowdStrike Expands Identity Leadership with OpenID and IDPro](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 10, 2026 00:00:00-0500  
@@ -794,7 +812,7 @@
 
 ---
 
-### 87. [CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/)
+### 89. [CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 09, 2026 00:00:00-0500  
@@ -803,30 +821,12 @@
 
 ---
 
-### 88. [June 2026 Patch Tuesday: Microsoft Patches 206 Vulnerabilities Including Three Publicly Disclosed Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2026/)
+### 90. [June 2026 Patch Tuesday: Microsoft Patches 206 Vulnerabilities Including Three Publicly Disclosed Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2026/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 09, 2026 00:00:00-0500  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 89. [CrowdStrike and Zscaler Bring Continuous Identity to Zero Trust Access](https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jun 08, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 90. [3 Principles to Safely Scale Agentic AI](https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jun 05, 2026 00:00:00-0500  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
