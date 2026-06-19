@@ -1,10 +1,37 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-19 12:31:34 UTC
+**Last Updated:** 2026-06-19 15:31:48 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Forget Data Leakage: Shadow AI's Real Threat Is Access Control](https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html)
+### 1. [Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites](https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 19 Jun 2026 20:37:54 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices](https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 19 Jun 2026 19:30:21 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [From Assistive to Agentic: The AI Shift That's Redefining Threat Management](https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 19 Jun 2026 17:28:00 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Forget Data Leakage: Shadow AI's Real Threat Is Access Control](https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 19 Jun 2026 16:00:00 +0530  
@@ -13,7 +40,7 @@
 
 ---
 
-### 2. [Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data](https://thehackernews.com/2026/06/salesforce-disables-klue-app.html)
+### 5. [Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data](https://thehackernews.com/2026/06/salesforce-disables-klue-app.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 19 Jun 2026 14:33:57 +0530  
@@ -22,7 +49,7 @@
 
 ---
 
-### 3. [Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone](https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html)
+### 6. [Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone](https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 19 Jun 2026 12:06:09 +0530  
@@ -32,17 +59,17 @@
 
 ---
 
-### 4. [F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution](https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html)
+### 7. [F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution](https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 18 Jun 2026 23:02:14 +0530  
 **Severity:** Low  
-**CVEs:** CVE-2026-42055, CVE-2026-42530  
+**CVEs:** CVE-2026-42530, CVE-2026-42055  
 **Categories:** Vulnerability  
 
 ---
 
-### 5. [Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network](https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html)
+### 8. [Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network](https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 18 Jun 2026 21:03:49 +0530  
@@ -51,7 +78,7 @@
 
 ---
 
-### 6. [ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories](https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html)
+### 9. [ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories](https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 18 Jun 2026 20:57:54 +0530  
@@ -60,7 +87,7 @@
 
 ---
 
-### 7. [Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2](https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html)
+### 10. [Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2](https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 18 Jun 2026 20:00:42 +0530  
@@ -69,34 +96,16 @@
 
 ---
 
-### 8. [INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023](https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html)
+### 11. [Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way](https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 18 Jun 2026 19:42:48 +0530  
-**Severity:** High  
-**Categories:** Ransomware  
-
----
-
-### 9. [The Scripts on Your Checkout Page Are Now a PCI DSS Problem](https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 18 Jun 2026 19:28:39 +0530  
-**Severity:** Low  
+**Source:** Bleeping Computer  
+**Published:** Fri, 19 Jun 2026 09:10:19 -0400  
+**Severity:** Critical  
 **Categories:** General Security  
 
 ---
 
-### 10. [DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic](https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 18 Jun 2026 19:00:07 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 11. [Webinar: How attackers bypass MFA and how defenders can respond](https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/)
+### 12. [Webinar: How attackers bypass MFA and how defenders can respond](https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 08:12:20 -0400  
@@ -105,7 +114,7 @@
 
 ---
 
-### 12. [Microsoft: June 2026 Windows updates break Recycle Bin prompts](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/)
+### 13. [Microsoft: June 2026 Windows updates break Recycle Bin prompts](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 07:32:34 -0400  
@@ -114,7 +123,7 @@
 
 ---
 
-### 13. [CISA: Splunk Enterprise flaw actively exploited, patch by Sunday](https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/)
+### 14. [CISA: Splunk Enterprise flaw actively exploited, patch by Sunday](https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 06:39:58 -0400  
@@ -124,7 +133,7 @@
 
 ---
 
-### 14. [NY man charged after harassing college student with AI-generated nudes](https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/)
+### 15. [NY man charged after harassing college student with AI-generated nudes](https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 04:44:08 -0400  
@@ -133,7 +142,7 @@
 
 ---
 
-### 15. [CISA warns Fortinet users to secure devices after FortiBleed leak](https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/)
+### 16. [CISA warns Fortinet users to secure devices after FortiBleed leak](https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 02:47:55 -0400  
@@ -142,7 +151,7 @@
 
 ---
 
-### 16. [Gentlemen ransomware uses multiple EDR killers to disable defenses](https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/)
+### 17. [Gentlemen ransomware uses multiple EDR killers to disable defenses](https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 18 Jun 2026 18:31:52 -0400  
@@ -151,7 +160,7 @@
 
 ---
 
-### 17. [Nintendo confirms data stolen in WebMD subsidiary cyberattack](https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/)
+### 18. [Nintendo confirms data stolen in WebMD subsidiary cyberattack](https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 18 Jun 2026 14:31:36 -0400  
@@ -160,7 +169,7 @@
 
 ---
 
-### 18. [USB worm spreads crypto-stealing malware via Windows shortcut files](https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/)
+### 19. [USB worm spreads crypto-stealing malware via Windows shortcut files](https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 18 Jun 2026 12:20:06 -0400  
@@ -169,21 +178,12 @@
 
 ---
 
-### 19. [Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/)
+### 20. [Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 18 Jun 2026 10:19:50 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [5 reasons Microsoft 365 backup isn’t enough for business data protection](https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 18 Jun 2026 09:48:56 -0400  
-**Severity:** Critical  
-**Categories:** Ransomware, Supply Chain  
 
 ---
 
@@ -210,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
+**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -278,7 +278,17 @@
 
 ---
 
-### 31. [CryptoBandits Malware Doubles as a Backdoor, Abuses Tor](https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/)
+### 31. [In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum](https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/)
+
+**Source:** Security Week  
+**Published:** Fri, 19 Jun 2026 15:23:36 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2025-20701  
+**Categories:** Vulnerability, Malware, Phishing, Supply Chain  
+
+---
+
+### 32. [CryptoBandits Malware Doubles as a Backdoor, Abuses Tor](https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 11:19:41 +0000  
@@ -287,7 +297,7 @@
 
 ---
 
-### 32. [FortiBleed: 86,000 Fortinet Device Credentials Compromised](https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/)
+### 33. [FortiBleed: 86,000 Fortinet Device Credentials Compromised](https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 10:48:08 +0000  
@@ -296,7 +306,7 @@
 
 ---
 
-### 33. [Cybersecurity Firms Impacted by Klue Supply Chain Attack](https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/)
+### 34. [Cybersecurity Firms Impacted by Klue Supply Chain Attack](https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 09:19:06 +0000  
@@ -305,7 +315,7 @@
 
 ---
 
-### 34. [Cisco to Acquire WideField Security to Boost Splunk’s Agentic SOC](https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/)
+### 35. [Cisco to Acquire WideField Security to Boost Splunk’s Agentic SOC](https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 07:22:22 +0000  
@@ -314,7 +324,7 @@
 
 ---
 
-### 35. [15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown](https://www.securityweek.com/15000-wordpress-websites-cleaned-up-in-socgholish-botnet-takedown/)
+### 36. [15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown](https://www.securityweek.com/15000-wordpress-websites-cleaned-up-in-socgholish-botnet-takedown/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 06:46:44 +0000  
@@ -323,7 +333,7 @@
 
 ---
 
-### 36. [Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure](https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/)
+### 37. [Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure](https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 04:10:34 +0000  
@@ -333,7 +343,7 @@
 
 ---
 
-### 37. [Majority of Internet-Accessible REDCap Servers Outdated](https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/)
+### 38. [Majority of Internet-Accessible REDCap Servers Outdated](https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/)
 
 **Source:** Security Week  
 **Published:** Thu, 18 Jun 2026 17:07:48 +0000  
@@ -342,7 +352,7 @@
 
 ---
 
-### 38. [Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push](https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/)
+### 39. [Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push](https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/)
 
 **Source:** Security Week  
 **Published:** Thu, 18 Jun 2026 13:08:53 +0000  
@@ -351,21 +361,12 @@
 
 ---
 
-### 39. [No Exploits Required](https://www.securityweek.com/no-exploits-required/)
+### 40. [No Exploits Required](https://www.securityweek.com/no-exploits-required/)
 
 **Source:** Security Week  
 **Published:** Thu, 18 Jun 2026 12:30:00 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 40. [Dream Raises $260 Million at $3 Billion Valuation](https://www.securityweek.com/dream-raises-260-million-at-3-billion-valuation/)
-
-**Source:** Security Week  
-**Published:** Thu, 18 Jun 2026 11:55:07 +0000  
-**Severity:** Critical  
-**Categories:** APT  
 
 ---
 
@@ -401,7 +402,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44799, CVE-2026-44801, CVE-2026-44803, CVE-2026-48563, CVE-2026-47291, CVE-2026-42992, CVE-2026-44812, CVE-2026-42985, CVE-2026-47289  
+**CVEs:** CVE-2026-48563, CVE-2026-47291, CVE-2026-44799, CVE-2026-44801, CVE-2026-44812, CVE-2026-42985, CVE-2026-42992, CVE-2026-47289, CVE-2026-44803  
 **Categories:** Vulnerability  
 
 ---
@@ -456,17 +457,17 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-25713, CVE-2026-25104, CVE-2026-28764  
+**CVEs:** CVE-2026-25104, CVE-2026-25713, CVE-2026-28764, CVE-2026-22554  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 51. [The Klue Security Incident and Its Impact on Recorded Future](https://www.recordedfuture.com/blog/klue-security-incident)
+### 51. [FortiBleed Campaign Exposing Credentials for 73,932 FortiGate Systems](https://www.recordedfuture.com/blog/critical-fortibleed-campaign)
 
 **Source:** Recorded Future  
-**Published:** Thu, 18 Jun 2026 00:00:00 GMT  
+**Published:** Fri, 19 Jun 2026 00:00:00 GMT  
 **Severity:** Low  
-**Categories:** Supply Chain  
+**Categories:** General Security  
 
 ---
 
@@ -631,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
