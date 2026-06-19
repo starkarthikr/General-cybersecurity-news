@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
+    "link": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
+    "published": "Fri, 19 Jun 2026 21:00:47 +0530",
+    "summary": "Microsoft researchers have detailed an exploit chain, named&nbsp;AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution.\n\nSteer the agent to load an attacker's web page, and that page's JavaScript can reach a privileged local service on the same machine and spawn a process on the host.\n\nNo credentials, no sign-in screen, and no further user interaction once",
+    "analysis": {
+      "issue": "Microsoft details AutoJack exploit chain targeting AutoGen Studio MCP WebSocket in pre-release builds, enabling unauthenticated AI agent command execu",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
     "link": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
     "published": "Fri, 19 Jun 2026 20:37:54 +0530",
@@ -167,20 +185,22 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
-    "link": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
-    "published": "Thu, 18 Jun 2026 20:00:42 +0530",
-    "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026 with clipboard-intercepting malware with self-spreading capabilities and using the Tor anonymity network to hide communication.\n\"The clipper in this campaign relies on Windows Script Host and ActiveX-driven logic to launch a bundled Tor proxy and poll a hidden-service C2",
+    "source": "Bleeping Computer",
+    "title": "Texas govt data breach exposes over 3 million driver’s licenses",
+    "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
+    "published": "Fri, 19 Jun 2026 12:12:41 -0400",
+    "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
     "analysis": {
-      "issue": "Microsoft reports a Windows clipper malware campaign using USB-delivered LNK files and Tor-based C2 since Feb 2026, stealing clipboard crypto data",
+      "issue": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Malware"
+        "Data Breach",
+        "Malware",
+        "Phishing"
       ]
     }
   },
@@ -352,24 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
-    "published": "Thu, 18 Jun 2026 10:19:50 -0400",
-    "summary": "Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign. [...]",
-    "analysis": {
-      "issue": "Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
     "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
@@ -421,8 +423,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-45586",
-        "CVE-2026-50507",
-        "CVE-2026-49160"
+        "CVE-2026-49160",
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -823,15 +825,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-47289",
+        "CVE-2026-44803",
         "CVE-2026-48563",
         "CVE-2026-47291",
-        "CVE-2026-44799",
-        "CVE-2026-44801",
         "CVE-2026-44812",
         "CVE-2026-42985",
+        "CVE-2026-44799",
         "CVE-2026-42992",
-        "CVE-2026-47289",
-        "CVE-2026-44803"
+        "CVE-2026-44801"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -941,8 +943,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25104",
         "CVE-2026-25713",
+        "CVE-2026-25104",
         "CVE-2026-28764",
         "CVE-2026-22554"
       ],
@@ -1330,6 +1332,25 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Nearly 15,000 infected websites cleaned in SocGholish crackdown",
+    "link": "https://www.malwarebytes.com/blog/news/2026/06/nearly-15000-infected-websites-cleaned-in-socgholish-crackdown",
+    "published": "Fri, 19 Jun 2026 16:05:53 GMT",
+    "summary": "Thousands of everyday websites were cleaned as part of a global operation targeting the malware network behind fake browser update scams.",
+    "analysis": {
+      "issue": "We’re always happy to end the week with some positive news",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Apple patches Beats Studio Buds flaw that could turn earbuds into a wiretap",
     "link": "https://www.malwarebytes.com/blog/bugs/2026/06/apple-patches-beats-studio-buds-flaw-that-could-turn-earbuds-into-a-wiretap",
     "published": "Fri, 19 Jun 2026 11:47:16 GMT",
@@ -1500,25 +1521,6 @@
       "cves": [],
       "threat_categories": [
         "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Cardiac patients&#8217; medical data stolen and held to ransom",
-    "link": "https://www.malwarebytes.com/blog/news/2026/06/cardiac-patients-medical-data-stolen-and-held-to-ransom",
-    "published": "Tue, 16 Jun 2026 12:49:01 GMT",
-    "summary": "Cardiac monitoring provider iRhythm has been hit by a data theft followed by an extortion attempt.",
-    "analysis": {
-      "issue": "Cardiac monitoring provider iRhythm has been hit by a data theft followed by an extortion attempt",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
         "Supply Chain"
       ]
     }
