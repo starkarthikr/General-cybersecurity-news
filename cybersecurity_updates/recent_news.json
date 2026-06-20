@@ -185,6 +185,44 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
+    "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
+    "published": "Sat, 20 Jun 2026 11:23:46 -0400",
+    "summary": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
+    "analysis": {
+      "issue": "A new ransomware operation named ‘Prinz Eugen’ prioritizes recently modified files for encryption and leaves no ransom note on the system",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
+    "published": "Sat, 20 Jun 2026 10:09:19 -0400",
+    "summary": "Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]",
+    "analysis": {
+      "issue": "Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
     "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
     "published": "Fri, 19 Jun 2026 18:31:04 -0400",
@@ -332,43 +370,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
-    "published": "Fri, 19 Jun 2026 02:47:55 -0400",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed \"FortiBleed.\" [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed \"FortiBleed",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
-    "link": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
-    "published": "Thu, 18 Jun 2026 18:31:52 -0400",
-    "summary": "The Gentlemen ransomware-as-a-service (RaaS) is actively developing and maintaining a suite of endpoint detection and response (EDR) killers to help affiliates evade detection in attacks. [...]",
-    "analysis": {
-      "issue": "The Gentlemen ransomware-as-a-service (RaaS) is actively developing and maintaining a suite of endpoint detection and response (EDR) killers to help affiliates evade detection in attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
       ]
     }
   },
@@ -827,14 +828,14 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-42985",
-        "CVE-2026-44812",
         "CVE-2026-44803",
         "CVE-2026-42992",
-        "CVE-2026-48563",
-        "CVE-2026-47291",
         "CVE-2026-44801",
         "CVE-2026-47289",
-        "CVE-2026-44799"
+        "CVE-2026-48563",
+        "CVE-2026-44799",
+        "CVE-2026-44812",
+        "CVE-2026-47291"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -944,10 +945,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-22554",
-        "CVE-2026-25104",
         "CVE-2026-25713",
-        "CVE-2026-28764"
+        "CVE-2026-25104",
+        "CVE-2026-28764",
+        "CVE-2026-22554"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1302,8 +1303,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
