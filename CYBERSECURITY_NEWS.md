@@ -1,10 +1,20 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-20 04:52:07 UTC
+**Last Updated:** 2026-06-20 10:58:02 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain](https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html)
+### 1. [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 20 Jun 2026 15:26:04 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-4020  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain](https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 20 Jun 2026 00:07:41 +0530  
@@ -13,7 +23,7 @@
 
 ---
 
-### 2. [The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes](https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html)
+### 3. [The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes](https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 20 Jun 2026 00:03:07 +0530  
@@ -22,7 +32,7 @@
 
 ---
 
-### 3. [AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution](https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html)
+### 4. [AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution](https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 19 Jun 2026 21:00:47 +0530  
@@ -31,7 +41,7 @@
 
 ---
 
-### 4. [Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites](https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html)
+### 5. [Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites](https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 19 Jun 2026 20:37:54 +0530  
@@ -40,7 +50,7 @@
 
 ---
 
-### 5. [CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices](https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html)
+### 6. [CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices](https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 19 Jun 2026 19:30:21 +0530  
@@ -49,7 +59,7 @@
 
 ---
 
-### 6. [From Assistive to Agentic: The AI Shift That's Redefining Threat Management](https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html)
+### 7. [From Assistive to Agentic: The AI Shift That's Redefining Threat Management](https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 19 Jun 2026 17:28:00 +0530  
@@ -58,7 +68,7 @@
 
 ---
 
-### 7. [Forget Data Leakage: Shadow AI's Real Threat Is Access Control](https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html)
+### 8. [Forget Data Leakage: Shadow AI's Real Threat Is Access Control](https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 19 Jun 2026 16:00:00 +0530  
@@ -67,7 +77,7 @@
 
 ---
 
-### 8. [Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data](https://thehackernews.com/2026/06/salesforce-disables-klue-app.html)
+### 9. [Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data](https://thehackernews.com/2026/06/salesforce-disables-klue-app.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 19 Jun 2026 14:33:57 +0530  
@@ -76,22 +86,12 @@
 
 ---
 
-### 9. [Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone](https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html)
+### 10. [Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone](https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 19 Jun 2026 12:06:09 +0530  
 **Severity:** Low  
 **CVEs:** CVE-2025-20701  
-**Categories:** Vulnerability  
-
----
-
-### 10. [F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution](https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html)
-
-**Source:** The Hacker News  
-**Published:** Thu, 18 Jun 2026 23:02:14 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2026-42530, CVE-2026-42055  
 **Categories:** Vulnerability  
 
 ---
@@ -211,7 +211,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
+**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -279,7 +279,16 @@
 
 ---
 
-### 31. [In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum](https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/)
+### 31. [French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation](https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/)
+
+**Source:** Security Week  
+**Published:** Sat, 20 Jun 2026 09:48:40 +0000  
+**Severity:** High  
+**Categories:** Vulnerability  
+
+---
+
+### 32. [In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum](https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 15:23:36 +0000  
@@ -289,7 +298,7 @@
 
 ---
 
-### 32. [CryptoBandits Malware Doubles as a Backdoor, Abuses Tor](https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/)
+### 33. [CryptoBandits Malware Doubles as a Backdoor, Abuses Tor](https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 11:19:41 +0000  
@@ -298,7 +307,7 @@
 
 ---
 
-### 33. [FortiBleed: 86,000 Fortinet Device Credentials Compromised](https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/)
+### 34. [FortiBleed: 86,000 Fortinet Device Credentials Compromised](https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 10:48:08 +0000  
@@ -307,7 +316,7 @@
 
 ---
 
-### 34. [Cybersecurity Firms Impacted by Klue Supply Chain Attack](https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/)
+### 35. [Cybersecurity Firms Impacted by Klue Supply Chain Attack](https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 09:19:06 +0000  
@@ -316,7 +325,7 @@
 
 ---
 
-### 35. [Cisco to Acquire WideField Security to Boost Splunk’s Agentic SOC](https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/)
+### 36. [Cisco to Acquire WideField Security to Boost Splunk’s Agentic SOC](https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 07:22:22 +0000  
@@ -325,7 +334,7 @@
 
 ---
 
-### 36. [15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown](https://www.securityweek.com/15000-wordpress-websites-cleaned-up-in-socgholish-botnet-takedown/)
+### 37. [15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown](https://www.securityweek.com/15000-wordpress-websites-cleaned-up-in-socgholish-botnet-takedown/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 06:46:44 +0000  
@@ -334,7 +343,7 @@
 
 ---
 
-### 37. [Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure](https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/)
+### 38. [Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure](https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 04:10:34 +0000  
@@ -344,7 +353,7 @@
 
 ---
 
-### 38. [Majority of Internet-Accessible REDCap Servers Outdated](https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/)
+### 39. [Majority of Internet-Accessible REDCap Servers Outdated](https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/)
 
 **Source:** Security Week  
 **Published:** Thu, 18 Jun 2026 17:07:48 +0000  
@@ -353,21 +362,12 @@
 
 ---
 
-### 39. [Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push](https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/)
+### 40. [Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push](https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/)
 
 **Source:** Security Week  
 **Published:** Thu, 18 Jun 2026 13:08:53 +0000  
 **Severity:** Critical  
 **Categories:** Supply Chain  
-
----
-
-### 40. [No Exploits Required](https://www.securityweek.com/no-exploits-required/)
-
-**Source:** Security Week  
-**Published:** Thu, 18 Jun 2026 12:30:00 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
@@ -403,7 +403,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44812, CVE-2026-47291, CVE-2026-42985, CVE-2026-44799, CVE-2026-48563, CVE-2026-44803, CVE-2026-44801, CVE-2026-42992, CVE-2026-47289  
+**CVEs:** CVE-2026-44812, CVE-2026-42985, CVE-2026-47291, CVE-2026-48563, CVE-2026-44801, CVE-2026-42992, CVE-2026-47289, CVE-2026-44799, CVE-2026-44803  
 **Categories:** Vulnerability  
 
 ---
@@ -458,7 +458,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25713, CVE-2026-25104, CVE-2026-22554, CVE-2026-28764  
+**CVEs:** CVE-2026-22554, CVE-2026-25713, CVE-2026-28764, CVE-2026-25104  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -633,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
