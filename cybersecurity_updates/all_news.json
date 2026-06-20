@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
+    "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
+    "published": "Sat, 20 Jun 2026 00:07:41 +0530",
+    "summary": "Security researchers at&nbsp;Paradigm Shift&nbsp;have published a working exploit, dubbed&nbsp;usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips.\n\nThat code is burned into the silicon at manufacture. No software update can reach it. Affected devices will carry this flaw for as long as they stay in use.\n\nThis is not a remote attack. It requires",
+    "analysis": {
+      "issue": "Paradigm Shift’s usbliter8 exploit targets Apple A12 and A13 SecureROM via USB DFU mode, creating an unpatchable hardware risk",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
+    "link": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
+    "published": "Sat, 20 Jun 2026 00:03:07 +0530",
+    "summary": "The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor.\n\nThis mature portfolio of EDR-terminating tools is centered around a framework that's known as GentleKiller.\n\n\"They also incorporate third-party or",
+    "analysis": {
+      "issue": "ESET says Gentlemen RaaS gives affiliates a GentleKiller EDR-killer suite targeting 400 processes across 48 security tools",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
     "link": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
     "published": "Fri, 19 Jun 2026 21:00:47 +0530",
@@ -149,38 +185,41 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
-    "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
-    "published": "Thu, 18 Jun 2026 21:03:49 +0530",
-    "summary": "If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it?\n\nFor most enterprises, the answer is a simple no.\n\nThe rush to adopt internal AI tools has left a massive trail of administrative debt: orphaned agents (AI tools left running after their creator leaves the company) and standing privileges (",
+    "source": "Bleeping Computer",
+    "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
+    "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
+    "published": "Fri, 19 Jun 2026 18:31:04 -0400",
+    "summary": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion group publicly claims the attack. [...]",
     "analysis": {
-      "issue": "Orphaned AI agents can retain standing privileges after employees leave, exposing sensitive data and source code to hidden access risks",
+      "issue": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion group publicly claims the attack",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Supply Chain"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories",
-    "link": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html",
-    "published": "Thu, 18 Jun 2026 20:57:54 +0530",
-    "summary": "The internet did not break this week. It got used exactly as designed, which is worse.\n\nSearches were siphoned through shady browser add-ons. AI chat links turned into malware delivery paths. macOS attacks ran in memory and left almost nothing behind. Cloud agents looked like helpers until attackers treated them like open shells.\n\nAdd exposed edge gear, poisoned packages, cash courier scams,",
+    "source": "Bleeping Computer",
+    "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
+    "published": "Fri, 19 Jun 2026 16:25:02 -0400",
+    "summary": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
     "analysis": {
-      "issue": "ThreatsDay Bulletin covers AI abuse, poisoned packages, phishing, macOS attacks, SD-WAN flaws, scams, and supply-chain threats this week",
+      "issue": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Medium",
+      "cves": [
+        "CVE-2026-4020"
+      ],
       "threat_categories": [
-        "Phishing"
+        "Vulnerability",
+        "Supply Chain"
       ]
     }
   },
@@ -335,43 +374,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
-    "published": "Thu, 18 Jun 2026 14:31:36 -0400",
-    "summary": "Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]",
-    "analysis": {
-      "issue": "Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
-    "link": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
-    "published": "Thu, 18 Jun 2026 12:20:06 -0400",
-    "summary": "Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]",
-    "analysis": {
-      "issue": "Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
     "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
@@ -423,8 +425,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-45586",
-        "CVE-2026-49160",
-        "CVE-2026-50507"
+        "CVE-2026-50507",
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -825,14 +827,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-47289",
-        "CVE-2026-44803",
-        "CVE-2026-48563",
-        "CVE-2026-47291",
         "CVE-2026-44812",
-        "CVE-2026-42985",
         "CVE-2026-44799",
+        "CVE-2026-47289",
         "CVE-2026-42992",
+        "CVE-2026-42985",
+        "CVE-2026-48563",
+        "CVE-2026-44803",
+        "CVE-2026-47291",
         "CVE-2026-44801"
       ],
       "threat_categories": [
@@ -943,10 +945,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25713",
+        "CVE-2026-22554",
         "CVE-2026-25104",
-        "CVE-2026-28764",
-        "CVE-2026-22554"
+        "CVE-2026-25713",
+        "CVE-2026-28764"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1301,8 +1303,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

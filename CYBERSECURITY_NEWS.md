@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-19 18:16:29 UTC
+**Last Updated:** 2026-06-20 04:12:10 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution](https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html)
+### 1. [Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain](https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 20 Jun 2026 00:07:41 +0530  
+**Severity:** Low  
+**Categories:** Vulnerability  
+
+---
+
+### 2. [The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes](https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html)
+
+**Source:** The Hacker News  
+**Published:** Sat, 20 Jun 2026 00:03:07 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 3. [AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution](https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 19 Jun 2026 21:00:47 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites](https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html)
+### 4. [Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites](https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 19 Jun 2026 20:37:54 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices](https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html)
+### 5. [CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices](https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 19 Jun 2026 19:30:21 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [From Assistive to Agentic: The AI Shift That's Redefining Threat Management](https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html)
+### 6. [From Assistive to Agentic: The AI Shift That's Redefining Threat Management](https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 19 Jun 2026 17:28:00 +0530  
@@ -40,7 +58,7 @@
 
 ---
 
-### 5. [Forget Data Leakage: Shadow AI's Real Threat Is Access Control](https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html)
+### 7. [Forget Data Leakage: Shadow AI's Real Threat Is Access Control](https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 19 Jun 2026 16:00:00 +0530  
@@ -49,7 +67,7 @@
 
 ---
 
-### 6. [Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data](https://thehackernews.com/2026/06/salesforce-disables-klue-app.html)
+### 8. [Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data](https://thehackernews.com/2026/06/salesforce-disables-klue-app.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 19 Jun 2026 14:33:57 +0530  
@@ -58,7 +76,7 @@
 
 ---
 
-### 7. [Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone](https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html)
+### 9. [Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone](https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html)
 
 **Source:** The Hacker News  
 **Published:** Fri, 19 Jun 2026 12:06:09 +0530  
@@ -68,7 +86,7 @@
 
 ---
 
-### 8. [F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution](https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html)
+### 10. [F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution](https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 18 Jun 2026 23:02:14 +0530  
@@ -78,25 +96,26 @@
 
 ---
 
-### 9. [Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network](https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html)
+### 11. [Klue OAuth breach victim list grows as Icarus hackers claim attack](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 18 Jun 2026 21:03:49 +0530  
+**Source:** Bleeping Computer  
+**Published:** Fri, 19 Jun 2026 18:31:04 -0400  
 **Severity:** Low  
-**Categories:** General Security  
+**Categories:** Supply Chain  
 
 ---
 
-### 10. [ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories](https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html)
+### 12. [Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/)
 
-**Source:** The Hacker News  
-**Published:** Thu, 18 Jun 2026 20:57:54 +0530  
-**Severity:** Low  
-**Categories:** Phishing  
+**Source:** Bleeping Computer  
+**Published:** Fri, 19 Jun 2026 16:25:02 -0400  
+**Severity:** Medium  
+**CVEs:** CVE-2026-4020  
+**Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 11. [Texas govt data breach exposes over 3 million driver’s licenses](https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/)
+### 13. [Texas govt data breach exposes over 3 million driver’s licenses](https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 12:12:41 -0400  
@@ -105,7 +124,7 @@
 
 ---
 
-### 12. [Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way](https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/)
+### 14. [Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way](https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 09:10:19 -0400  
@@ -114,7 +133,7 @@
 
 ---
 
-### 13. [Webinar: How attackers bypass MFA and how defenders can respond](https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/)
+### 15. [Webinar: How attackers bypass MFA and how defenders can respond](https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 08:12:20 -0400  
@@ -123,7 +142,7 @@
 
 ---
 
-### 14. [Microsoft: June 2026 Windows updates break Recycle Bin prompts](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/)
+### 16. [Microsoft: June 2026 Windows updates break Recycle Bin prompts](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 07:32:34 -0400  
@@ -132,7 +151,7 @@
 
 ---
 
-### 15. [CISA: Splunk Enterprise flaw actively exploited, patch by Sunday](https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/)
+### 17. [CISA: Splunk Enterprise flaw actively exploited, patch by Sunday](https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 06:39:58 -0400  
@@ -142,7 +161,7 @@
 
 ---
 
-### 16. [NY man charged after harassing college student with AI-generated nudes](https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/)
+### 18. [NY man charged after harassing college student with AI-generated nudes](https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 04:44:08 -0400  
@@ -151,7 +170,7 @@
 
 ---
 
-### 17. [CISA warns Fortinet users to secure devices after FortiBleed leak](https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/)
+### 19. [CISA warns Fortinet users to secure devices after FortiBleed leak](https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 02:47:55 -0400  
@@ -160,30 +179,12 @@
 
 ---
 
-### 18. [Gentlemen ransomware uses multiple EDR killers to disable defenses](https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/)
+### 20. [Gentlemen ransomware uses multiple EDR killers to disable defenses](https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 18 Jun 2026 18:31:52 -0400  
 **Severity:** High  
 **Categories:** Ransomware  
-
----
-
-### 19. [Nintendo confirms data stolen in WebMD subsidiary cyberattack](https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 18 Jun 2026 14:31:36 -0400  
-**Severity:** Low  
-**Categories:** Supply Chain  
-
----
-
-### 20. [USB worm spreads crypto-stealing malware via Windows shortcut files](https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/)
-
-**Source:** Bleeping Computer  
-**Published:** Thu, 18 Jun 2026 12:20:06 -0400  
-**Severity:** Low  
-**Categories:** Malware, APT  
 
 ---
 
@@ -210,7 +211,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
+**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -402,7 +403,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-47289, CVE-2026-44803, CVE-2026-48563, CVE-2026-47291, CVE-2026-44812, CVE-2026-42985, CVE-2026-44799, CVE-2026-42992, CVE-2026-44801  
+**CVEs:** CVE-2026-44812, CVE-2026-44799, CVE-2026-47289, CVE-2026-42992, CVE-2026-42985, CVE-2026-48563, CVE-2026-44803, CVE-2026-47291, CVE-2026-44801  
 **Categories:** Vulnerability  
 
 ---
@@ -457,7 +458,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25713, CVE-2026-25104, CVE-2026-28764, CVE-2026-22554  
+**CVEs:** CVE-2026-22554, CVE-2026-25104, CVE-2026-25713, CVE-2026-28764  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -632,7 +633,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
