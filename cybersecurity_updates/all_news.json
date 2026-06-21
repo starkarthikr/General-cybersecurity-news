@@ -185,6 +185,29 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
+    "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
+    "published": "Sun, 21 Jun 2026 10:14:22 -0400",
+    "summary": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
+    "analysis": {
+      "issue": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2016-5681",
+        "CVE-2013-3307",
+        "CVE-2025-11837"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
     "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
     "published": "Sat, 20 Jun 2026 11:23:46 -0400",
@@ -352,24 +375,6 @@
       ],
       "threat_categories": [
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "NY man charged after harassing college student with AI-generated nudes",
-    "link": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
-    "published": "Fri, 19 Jun 2026 04:44:08 -0400",
-    "summary": "A New York man faces cyberstalking charges after allegedly sharing AI-generated nude images and fabricated racist messages using fake social media profiles to harass a Georgia college student. [...]",
-    "analysis": {
-      "issue": "A New York man faces cyberstalking charges after allegedly sharing AI-generated nude images and fabricated racist messages using fake social media profiles to harass a Georgia college student",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -827,15 +832,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42992",
-        "CVE-2026-44803",
-        "CVE-2026-44799",
-        "CVE-2026-44801",
         "CVE-2026-47291",
         "CVE-2026-44812",
         "CVE-2026-48563",
         "CVE-2026-47289",
-        "CVE-2026-42985"
+        "CVE-2026-44803",
+        "CVE-2026-42992",
+        "CVE-2026-44801",
+        "CVE-2026-42985",
+        "CVE-2026-44799"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -945,10 +950,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-28764",
+        "CVE-2026-22554",
         "CVE-2026-25104",
         "CVE-2026-25713",
-        "CVE-2026-22554"
+        "CVE-2026-28764"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1303,8 +1308,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

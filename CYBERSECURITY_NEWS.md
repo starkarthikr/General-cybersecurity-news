@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-21 14:23:13 UTC
+**Last Updated:** 2026-06-21 18:05:53 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,17 @@
 
 ---
 
-### 11. [New Prinz Eugen ransomware prioritizes recent files for encryption](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/)
+### 11. [AryStinger botnet infected thousands of D-Link routers worldwide](https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/)
+
+**Source:** Bleeping Computer  
+**Published:** Sun, 21 Jun 2026 10:14:22 -0400  
+**Severity:** Low  
+**CVEs:** CVE-2016-5681, CVE-2013-3307, CVE-2025-11837  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 12. [New Prinz Eugen ransomware prioritizes recent files for encryption](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 20 Jun 2026 11:23:46 -0400  
@@ -105,7 +115,7 @@
 
 ---
 
-### 12. [Microsoft links Mastra AI supply chain attack to North Korean hackers](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/)
+### 13. [Microsoft links Mastra AI supply chain attack to North Korean hackers](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 20 Jun 2026 10:09:19 -0400  
@@ -114,7 +124,7 @@
 
 ---
 
-### 13. [Klue OAuth breach victim list grows as Icarus hackers claim attack](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/)
+### 14. [Klue OAuth breach victim list grows as Icarus hackers claim attack](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 18:31:04 -0400  
@@ -123,7 +133,7 @@
 
 ---
 
-### 14. [Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/)
+### 15. [Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 16:25:02 -0400  
@@ -133,7 +143,7 @@
 
 ---
 
-### 15. [Texas govt data breach exposes over 3 million driver’s licenses](https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/)
+### 16. [Texas govt data breach exposes over 3 million driver’s licenses](https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 12:12:41 -0400  
@@ -142,7 +152,7 @@
 
 ---
 
-### 16. [Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way](https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/)
+### 17. [Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way](https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 09:10:19 -0400  
@@ -151,7 +161,7 @@
 
 ---
 
-### 17. [Webinar: How attackers bypass MFA and how defenders can respond](https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/)
+### 18. [Webinar: How attackers bypass MFA and how defenders can respond](https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 08:12:20 -0400  
@@ -160,7 +170,7 @@
 
 ---
 
-### 18. [Microsoft: June 2026 Windows updates break Recycle Bin prompts](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/)
+### 19. [Microsoft: June 2026 Windows updates break Recycle Bin prompts](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 07:32:34 -0400  
@@ -169,22 +179,13 @@
 
 ---
 
-### 19. [CISA: Splunk Enterprise flaw actively exploited, patch by Sunday](https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/)
+### 20. [CISA: Splunk Enterprise flaw actively exploited, patch by Sunday](https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 06:39:58 -0400  
 **Severity:** Critical  
 **CVEs:** CVE-2026-20253  
 **Categories:** Vulnerability  
-
----
-
-### 20. [NY man charged after harassing college student with AI-generated nudes](https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 19 Jun 2026 04:44:08 -0400  
-**Severity:** Low  
-**Categories:** General Security  
 
 ---
 
@@ -403,7 +404,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-42992, CVE-2026-44803, CVE-2026-44799, CVE-2026-44801, CVE-2026-47291, CVE-2026-44812, CVE-2026-48563, CVE-2026-47289, CVE-2026-42985  
+**CVEs:** CVE-2026-47291, CVE-2026-44812, CVE-2026-48563, CVE-2026-47289, CVE-2026-44803, CVE-2026-42992, CVE-2026-44801, CVE-2026-42985, CVE-2026-44799  
 **Categories:** Vulnerability  
 
 ---
@@ -458,7 +459,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-28764, CVE-2026-25104, CVE-2026-25713, CVE-2026-22554  
+**CVEs:** CVE-2026-22554, CVE-2026-25104, CVE-2026-25713, CVE-2026-28764  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -633,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
