@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-21 05:25:26 UTC
+**Last Updated:** 2026-06-21 11:30:27 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -192,8 +192,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Thu, 18 Jun 2026 17:37:58 +0000  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -211,7 +209,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
+**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -238,8 +236,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Fri, 22 May 2026 16:34:24 +0000  
-**Severity:** Critical  
-**Categories:** Data Breach  
 
 ---
 
@@ -247,8 +243,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Thu, 21 May 2026 21:50:25 +0000  
-**Severity:** Critical  
-**Categories:** Malware, DDoS  
 
 ---
 
@@ -256,8 +250,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 18 May 2026 20:48:21 +0000  
-**Severity:** High  
-**Categories:** Data Breach  
 
 ---
 
@@ -265,8 +257,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Tue, 12 May 2026 21:46:45 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Malware  
 
 ---
 
@@ -274,8 +264,6 @@
 
 **Source:** Krebs On Security  
 **Published:** Fri, 08 May 2026 02:58:46 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Data Breach  
 
 ---
 
@@ -403,7 +391,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-42992, CVE-2026-44801, CVE-2026-47289, CVE-2026-44803, CVE-2026-44799, CVE-2026-48563, CVE-2026-42985, CVE-2026-44812, CVE-2026-47291  
+**CVEs:** CVE-2026-47289, CVE-2026-44812, CVE-2026-47291, CVE-2026-48563, CVE-2026-44799, CVE-2026-42992, CVE-2026-42985, CVE-2026-44801, CVE-2026-44803  
 **Categories:** Vulnerability  
 
 ---
