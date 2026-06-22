@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-22 17:05:58 UTC
+**Last Updated:** 2026-06-22 19:54:16 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants](https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html)
+### 1. [ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack](https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 22 Jun 2026 23:30:48 +0530  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 2. [Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants](https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 21:43:28 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests](https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html)
+### 3. [29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests](https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 19:59:46 +0530  
@@ -23,7 +32,7 @@
 
 ---
 
-### 3. [New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer](https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html)
+### 4. [New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer](https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 18:50:12 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries](https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html)
+### 5. [Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries](https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 18:15:08 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html)
+### 6. [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 17:28:00 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More](https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html)
+### 7. [⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More](https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 16:25:10 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices](https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html)
+### 8. [Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices](https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 14:41:37 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network](https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html)
+### 9. [AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network](https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 12:27:44 +0530  
@@ -77,7 +86,7 @@
 
 ---
 
-### 9. [INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific](https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html)
+### 10. [INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific](https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 11:36:53 +0530  
@@ -86,17 +95,25 @@
 
 ---
 
-### 10. [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html)
+### 11. [Microsoft says Windows 11 26H2 is coming soon, details upgrade process](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 20 Jun 2026 15:26:04 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 22 Jun 2026 13:41:31 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2026-4020  
+**Categories:** General Security  
+
+---
+
+### 12. [Microsoft fixes AutoGen Studio flaw that enabled code execution](https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 22 Jun 2026 13:28:57 -0400  
+**Severity:** Low  
 **Categories:** Vulnerability  
 
 ---
 
-### 11. [A Glimpse into the “Search Your Target” Market for Stolen Credentials](https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/)
+### 13. [A Glimpse into the “Search Your Target” Market for Stolen Credentials](https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 22 Jun 2026 10:05:15 -0400  
@@ -105,17 +122,17 @@
 
 ---
 
-### 12. [AryStinger botnet infected thousands of D-Link routers worldwide](https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/)
+### 14. [AryStinger botnet infected thousands of D-Link routers worldwide](https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 21 Jun 2026 10:14:22 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2013-3307, CVE-2025-11837, CVE-2016-5681  
+**CVEs:** CVE-2013-3307, CVE-2016-5681, CVE-2025-11837  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 13. [New Prinz Eugen ransomware prioritizes recent files for encryption](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/)
+### 15. [New Prinz Eugen ransomware prioritizes recent files for encryption](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 20 Jun 2026 11:23:46 -0400  
@@ -124,7 +141,7 @@
 
 ---
 
-### 14. [Microsoft links Mastra AI supply chain attack to North Korean hackers](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/)
+### 16. [Microsoft links Mastra AI supply chain attack to North Korean hackers](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 20 Jun 2026 10:09:19 -0400  
@@ -133,7 +150,7 @@
 
 ---
 
-### 15. [Klue OAuth breach victim list grows as Icarus hackers claim attack](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/)
+### 17. [Klue OAuth breach victim list grows as Icarus hackers claim attack](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 18:31:04 -0400  
@@ -142,7 +159,7 @@
 
 ---
 
-### 16. [Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/)
+### 18. [Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 16:25:02 -0400  
@@ -152,7 +169,7 @@
 
 ---
 
-### 17. [Texas govt data breach exposes over 3 million driver’s licenses](https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/)
+### 19. [Texas govt data breach exposes over 3 million driver’s licenses](https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 12:12:41 -0400  
@@ -161,29 +178,11 @@
 
 ---
 
-### 18. [Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way](https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/)
+### 20. [Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way](https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 09:10:19 -0400  
 **Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 19. [Webinar: How attackers bypass MFA and how defenders can respond](https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 19 Jun 2026 08:12:20 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability, Phishing  
-
----
-
-### 20. [Microsoft: June 2026 Windows updates break Recycle Bin prompts](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 19 Jun 2026 07:32:34 -0400  
-**Severity:** Low  
 **Categories:** General Security  
 
 ---
@@ -211,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
+**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -405,7 +404,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-42985, CVE-2026-44812, CVE-2026-44799, CVE-2026-47291, CVE-2026-48563, CVE-2026-42992, CVE-2026-44803, CVE-2026-47289, CVE-2026-44801  
+**CVEs:** CVE-2026-42985, CVE-2026-47289, CVE-2026-44801, CVE-2026-44799, CVE-2026-48563, CVE-2026-47291, CVE-2026-44812, CVE-2026-44803, CVE-2026-42992  
 **Categories:** Vulnerability  
 
 ---
@@ -460,7 +459,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-28764, CVE-2026-25104, CVE-2026-25713  
+**CVEs:** CVE-2026-25104, CVE-2026-22554, CVE-2026-25713, CVE-2026-28764  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -635,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
