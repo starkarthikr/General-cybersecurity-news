@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-22 05:02:31 UTC
+**Last Updated:** 2026-06-22 05:41:25 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -101,7 +101,7 @@
 **Source:** Bleeping Computer  
 **Published:** Sun, 21 Jun 2026 10:14:22 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2025-11837, CVE-2016-5681, CVE-2013-3307  
+**CVEs:** CVE-2016-5681, CVE-2013-3307, CVE-2025-11837  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -212,7 +212,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
+**CVEs:** CVE-2026-50507, CVE-2026-45586, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -280,7 +280,16 @@
 
 ---
 
-### 31. [French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation](https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/)
+### 31. [Texas Parks & Wildlife Data Breach Affects 3 Million Individuals](https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/)
+
+**Source:** Security Week  
+**Published:** Mon, 22 Jun 2026 05:33:39 +0000  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
+
+---
+
+### 32. [French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation](https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/)
 
 **Source:** Security Week  
 **Published:** Sat, 20 Jun 2026 09:48:40 +0000  
@@ -289,7 +298,7 @@
 
 ---
 
-### 32. [In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum](https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/)
+### 33. [In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum](https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 15:23:36 +0000  
@@ -299,7 +308,7 @@
 
 ---
 
-### 33. [CryptoBandits Malware Doubles as a Backdoor, Abuses Tor](https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/)
+### 34. [CryptoBandits Malware Doubles as a Backdoor, Abuses Tor](https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 11:19:41 +0000  
@@ -308,7 +317,7 @@
 
 ---
 
-### 34. [FortiBleed: 86,000 Fortinet Device Credentials Compromised](https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/)
+### 35. [FortiBleed: 86,000 Fortinet Device Credentials Compromised](https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 10:48:08 +0000  
@@ -317,7 +326,7 @@
 
 ---
 
-### 35. [Cybersecurity Firms Impacted by Klue Supply Chain Attack](https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/)
+### 36. [Cybersecurity Firms Impacted by Klue Supply Chain Attack](https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 09:19:06 +0000  
@@ -326,7 +335,7 @@
 
 ---
 
-### 36. [Cisco to Acquire WideField Security to Boost Splunk’s Agentic SOC](https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/)
+### 37. [Cisco to Acquire WideField Security to Boost Splunk’s Agentic SOC](https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 07:22:22 +0000  
@@ -335,7 +344,7 @@
 
 ---
 
-### 37. [15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown](https://www.securityweek.com/15000-wordpress-websites-cleaned-up-in-socgholish-botnet-takedown/)
+### 38. [15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown](https://www.securityweek.com/15000-wordpress-websites-cleaned-up-in-socgholish-botnet-takedown/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 06:46:44 +0000  
@@ -344,7 +353,7 @@
 
 ---
 
-### 38. [Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure](https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/)
+### 39. [Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure](https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/)
 
 **Source:** Security Week  
 **Published:** Fri, 19 Jun 2026 04:10:34 +0000  
@@ -354,21 +363,12 @@
 
 ---
 
-### 39. [Majority of Internet-Accessible REDCap Servers Outdated](https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/)
+### 40. [Majority of Internet-Accessible REDCap Servers Outdated](https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/)
 
 **Source:** Security Week  
 **Published:** Thu, 18 Jun 2026 17:07:48 +0000  
 **Severity:** Critical  
 **Categories:** Ransomware, Vulnerability, Malware, Supply Chain  
-
----
-
-### 40. [Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push](https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/)
-
-**Source:** Security Week  
-**Published:** Thu, 18 Jun 2026 13:08:53 +0000  
-**Severity:** Critical  
-**Categories:** Supply Chain  
 
 ---
 
@@ -404,7 +404,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44803, CVE-2026-47291, CVE-2026-47289, CVE-2026-42985, CVE-2026-44812, CVE-2026-44799, CVE-2026-42992, CVE-2026-44801, CVE-2026-48563  
+**CVEs:** CVE-2026-42985, CVE-2026-48563, CVE-2026-44812, CVE-2026-44803, CVE-2026-44799, CVE-2026-42992, CVE-2026-44801, CVE-2026-47289, CVE-2026-47291  
 **Categories:** Vulnerability  
 
 ---
@@ -459,7 +459,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-28764, CVE-2026-25104, CVE-2026-25713  
+**CVEs:** CVE-2026-28764, CVE-2026-25104, CVE-2026-25713, CVE-2026-22554  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -634,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

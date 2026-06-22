@@ -196,9 +196,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2025-11837",
         "CVE-2016-5681",
-        "CVE-2013-3307"
+        "CVE-2013-3307",
+        "CVE-2025-11837"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -429,9 +429,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
         "CVE-2026-50507",
-        "CVE-2026-45586"
+        "CVE-2026-45586",
+        "CVE-2026-49160"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -567,6 +567,25 @@
       "threat_categories": [
         "Ransomware",
         "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Texas Parks & Wildlife Data Breach Affects 3 Million Individuals",
+    "link": "https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/",
+    "published": "Mon, 22 Jun 2026 05:33:39 +0000",
+    "summary": "<p>Hackers stole personal information after breaching the systems of a third-party license vendor serving TPWD.</p>\n<p>The post <a href=\"https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/\">Texas Parks &#038; Wildlife Data Breach Affects 3 Million Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers stole personal information after breaching the systems of a third-party license vendor serving TPWD",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
       ]
     }
   },
@@ -748,24 +767,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push",
-    "link": "https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/",
-    "published": "Thu, 18 Jun 2026 13:08:53 +0000",
-    "summary": "<p>The deal values industrial cybersecurity giant Dragos at $3.25 billion, and runZero and NetRise will operate under Dragos.</p>\n<p>The post <a href=\"https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/\">Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The deal values industrial cybersecurity giant Dragos at $3",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Close Encounters of the Human Kind",
     "link": "https://blog.talosintelligence.com/close-encounters-of-the-human-kind/",
@@ -832,15 +833,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44803",
-        "CVE-2026-47291",
-        "CVE-2026-47289",
         "CVE-2026-42985",
+        "CVE-2026-48563",
         "CVE-2026-44812",
+        "CVE-2026-44803",
         "CVE-2026-44799",
         "CVE-2026-42992",
         "CVE-2026-44801",
-        "CVE-2026-48563"
+        "CVE-2026-47289",
+        "CVE-2026-47291"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -950,10 +951,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-22554",
         "CVE-2026-28764",
         "CVE-2026-25104",
-        "CVE-2026-25713"
+        "CVE-2026-25713",
+        "CVE-2026-22554"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1308,8 +1309,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
