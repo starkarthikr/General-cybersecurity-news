@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+    "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+    "published": "Mon, 22 Jun 2026 21:43:28 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions from other customers' applications without requiring authentication.\n\nThe vulnerabilities have been collectively codenamed DifyTap by Zafran Security.",
+    "analysis": {
+      "issue": "Four DifyTap flaws could expose private AI chats and files across Dify tenants; three are fixed in version 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+    "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+    "published": "Mon, 22 Jun 2026 19:59:46 +0530",
+    "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy.\n\nThe bug traces to a 1997 FTP-parsing change and is still live in Squid's default configuration. Researchers at Calif.io&nbsp;disclosed it in June&nbsp;and named it Squidbleed (",
+    "analysis": {
+      "issue": "Squidbleed CVE-2026-47729 can expose cleartext HTTP credentials from users sharing the same Squid proxy",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-47729"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
     "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
     "published": "Mon, 22 Jun 2026 18:50:12 +0530",
@@ -149,38 +187,20 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
-    "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
-    "published": "Sat, 20 Jun 2026 00:07:41 +0530",
-    "summary": "Security researchers at&nbsp;Paradigm Shift&nbsp;have published a working exploit, dubbed&nbsp;usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips.\n\nThat code is burned into the silicon at manufacture. No software update can reach it. Affected devices will carry this flaw for as long as they stay in use.\n\nThis is not a remote attack. It requires",
+    "source": "Bleeping Computer",
+    "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
+    "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
+    "published": "Mon, 22 Jun 2026 10:05:15 -0400",
+    "summary": "Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for specific companies, domains, and accounts. [...]",
     "analysis": {
-      "issue": "Paradigm Shift’s usbliter8 exploit targets Apple A12 and A13 SecureROM via USB DFU mode, creating an unpatchable hardware risk",
+      "issue": "Threat actors are increasingly turning massive infostealer-derived credential collections into searchable underground services, allowing buyers to request credentials for a specific company, platform, domain, geography, or account type",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
-    "link": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
-    "published": "Sat, 20 Jun 2026 00:03:07 +0530",
-    "summary": "The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor.\n\nThis mature portfolio of EDR-terminating tools is centered around a framework that's known as GentleKiller.\n\n\"They also incorporate third-party or",
-    "analysis": {
-      "issue": "ESET says Gentlemen RaaS gives affiliates a GentleKiller EDR-killer suite targeting 400 processes across 48 security tools",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
+        "Malware"
       ]
     }
   },
@@ -197,9 +217,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2016-5681",
         "CVE-2013-3307",
-        "CVE-2025-11837"
+        "CVE-2025-11837",
+        "CVE-2016-5681"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -360,26 +380,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
-    "published": "Fri, 19 Jun 2026 06:39:58 -0400",
-    "summary": "CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) has urged federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20253"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
     "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
@@ -431,8 +431,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-45586",
-        "CVE-2026-50507",
-        "CVE-2026-49160"
+        "CVE-2026-49160",
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -686,9 +686,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2025-59718",
         "CVE-2026-24858",
-        "CVE-2025-59719",
-        "CVE-2025-59718"
+        "CVE-2025-59719"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -843,15 +843,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-47289",
         "CVE-2026-42985",
-        "CVE-2026-44803",
         "CVE-2026-44812",
-        "CVE-2026-42992",
         "CVE-2026-44799",
-        "CVE-2026-44801",
+        "CVE-2026-47291",
         "CVE-2026-48563",
-        "CVE-2026-47291"
+        "CVE-2026-42992",
+        "CVE-2026-44803",
+        "CVE-2026-47289",
+        "CVE-2026-44801"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -961,10 +961,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-28764",
-        "CVE-2026-25713",
         "CVE-2026-22554",
-        "CVE-2026-25104"
+        "CVE-2026-28764",
+        "CVE-2026-25104",
+        "CVE-2026-25713"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1011,7 +1011,7 @@
   {
     "source": "Recorded Future",
     "title": "The Intelligence No One Else Has: Inside Recorded Future’s Proprietary Collection Engine",
-    "link": "https://www.recordedfuture.com/blog/recorded-future-proprietary-collection-engine",
+    "link": "https://www.recordedfuture.com/blog/proprietary-collection-engine",
     "published": "Tue, 16 Jun 2026 00:00:00 GMT",
     "summary": "Learn how Recorded Future’s proprietary collection engine empowers organizations to move beyond reactive security. Discover the power of our four unique intelligence source types—technical, underground, community, and open-source—working together to provide proactive, full-lifecycle threat protection.",
     "analysis": {
@@ -1350,6 +1350,25 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Thousands of D-Link routers under control of AryStinger botnet",
+    "link": "https://www.malwarebytes.com/blog/news/2026/06/thousands-of-d-link-routers-under-control-of-arystinger-botnet",
+    "published": "Mon, 22 Jun 2026 15:22:22 GMT",
+    "summary": "Thousands of outdated D-Link routers have been absorbed into the AryStinger botnet, with no future security updates available to protect them.",
+    "analysis": {
+      "issue": "Researchers have found that the recently discovered AryStinger botnet has quietly hijacked thousands of end‑of‑life D‑Link routers and some network-attached storage (NAS) devices, turning them into a distributed scanning and proxy network that attack",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Document delivery scams: What are they and what’s their goal?",
     "link": "https://www.malwarebytes.com/blog/scams/2026/06/document-delivery-scams-what-are-they-and-whats-their-goal",
     "published": "Mon, 22 Jun 2026 13:19:50 GMT",
@@ -1521,22 +1540,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "24 billion stolen records exposed online. Here&#8217;s what to do",
-    "link": "https://www.malwarebytes.com/blog/news/2026/06/24-billion-stolen-records-found-in-giant-data-dump-check-if-youre-affected",
-    "published": "Wed, 17 Jun 2026 10:56:18 GMT",
-    "summary": "Researchers found an exposed collection of 24 billion stolen records, including usernames, passwords, and other sensitive account data.",
+    "source": "Crowdstrike Blog",
+    "title": "94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/",
+    "published": "Jun 22, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "A newly discovered database containing 24 billion stolen records is a reminder that personal information from data breaches, phishing campaigns, and infostealer infections continues to circulate online",
+      "issue": "The survey reveals the consequences of poor cloud visibility, inability to distinguish malicious activity, and more",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Data Breach",
-        "Malware",
-        "Phishing"
+        "General Security"
       ]
     }
   },
@@ -1700,24 +1717,6 @@
       "cves": [],
       "threat_categories": [
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "June 2026 Patch Tuesday: Microsoft Patches 206 Vulnerabilities Including Three Publicly Disclosed Zero-Days",
-    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2026/",
-    "published": "Jun 09, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Microsoft patches 206 vulnerabilities in June 2026 Patch Tuesday, including three publicly disclosed zero-days",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   }

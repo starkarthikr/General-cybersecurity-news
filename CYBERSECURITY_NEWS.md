@@ -1,10 +1,29 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-22 14:13:08 UTC
+**Last Updated:** 2026-06-22 17:05:58 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer](https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html)
+### 1. [Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants](https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 22 Jun 2026 21:43:28 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests](https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html)
+
+**Source:** The Hacker News  
+**Published:** Mon, 22 Jun 2026 19:59:46 +0530  
+**Severity:** Low  
+**CVEs:** CVE-2026-47729  
+**Categories:** Vulnerability  
+
+---
+
+### 3. [New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer](https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 18:50:12 +0530  
@@ -13,7 +32,7 @@
 
 ---
 
-### 2. [Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries](https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html)
+### 4. [Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries](https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 18:15:08 +0530  
@@ -22,7 +41,7 @@
 
 ---
 
-### 3. [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html)
+### 5. [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 17:28:00 +0530  
@@ -31,7 +50,7 @@
 
 ---
 
-### 4. [⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More](https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html)
+### 6. [⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More](https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 16:25:10 +0530  
@@ -40,7 +59,7 @@
 
 ---
 
-### 5. [Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices](https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html)
+### 7. [Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices](https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 14:41:37 +0530  
@@ -49,7 +68,7 @@
 
 ---
 
-### 6. [AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network](https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html)
+### 8. [AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network](https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 12:27:44 +0530  
@@ -58,7 +77,7 @@
 
 ---
 
-### 7. [INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific](https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html)
+### 9. [INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific](https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 11:36:53 +0530  
@@ -67,7 +86,7 @@
 
 ---
 
-### 8. [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html)
+### 10. [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html)
 
 **Source:** The Hacker News  
 **Published:** Sat, 20 Jun 2026 15:26:04 +0530  
@@ -77,35 +96,26 @@
 
 ---
 
-### 9. [Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain](https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html)
+### 11. [A Glimpse into the “Search Your Target” Market for Stolen Credentials](https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/)
 
-**Source:** The Hacker News  
-**Published:** Sat, 20 Jun 2026 00:07:41 +0530  
+**Source:** Bleeping Computer  
+**Published:** Mon, 22 Jun 2026 10:05:15 -0400  
 **Severity:** Low  
-**Categories:** Vulnerability  
+**Categories:** Malware  
 
 ---
 
-### 10. [The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes](https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html)
-
-**Source:** The Hacker News  
-**Published:** Sat, 20 Jun 2026 00:03:07 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 11. [AryStinger botnet infected thousands of D-Link routers worldwide](https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/)
+### 12. [AryStinger botnet infected thousands of D-Link routers worldwide](https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 21 Jun 2026 10:14:22 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2016-5681, CVE-2013-3307, CVE-2025-11837  
+**CVEs:** CVE-2013-3307, CVE-2025-11837, CVE-2016-5681  
 **Categories:** Vulnerability, Malware  
 
 ---
 
-### 12. [New Prinz Eugen ransomware prioritizes recent files for encryption](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/)
+### 13. [New Prinz Eugen ransomware prioritizes recent files for encryption](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 20 Jun 2026 11:23:46 -0400  
@@ -114,7 +124,7 @@
 
 ---
 
-### 13. [Microsoft links Mastra AI supply chain attack to North Korean hackers](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/)
+### 14. [Microsoft links Mastra AI supply chain attack to North Korean hackers](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 20 Jun 2026 10:09:19 -0400  
@@ -123,7 +133,7 @@
 
 ---
 
-### 14. [Klue OAuth breach victim list grows as Icarus hackers claim attack](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/)
+### 15. [Klue OAuth breach victim list grows as Icarus hackers claim attack](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 18:31:04 -0400  
@@ -132,7 +142,7 @@
 
 ---
 
-### 15. [Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/)
+### 16. [Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 16:25:02 -0400  
@@ -142,7 +152,7 @@
 
 ---
 
-### 16. [Texas govt data breach exposes over 3 million driver’s licenses](https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/)
+### 17. [Texas govt data breach exposes over 3 million driver’s licenses](https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 12:12:41 -0400  
@@ -151,7 +161,7 @@
 
 ---
 
-### 17. [Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way](https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/)
+### 18. [Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way](https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 09:10:19 -0400  
@@ -160,7 +170,7 @@
 
 ---
 
-### 18. [Webinar: How attackers bypass MFA and how defenders can respond](https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/)
+### 19. [Webinar: How attackers bypass MFA and how defenders can respond](https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 08:12:20 -0400  
@@ -169,22 +179,12 @@
 
 ---
 
-### 19. [Microsoft: June 2026 Windows updates break Recycle Bin prompts](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/)
+### 20. [Microsoft: June 2026 Windows updates break Recycle Bin prompts](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/)
 
 **Source:** Bleeping Computer  
 **Published:** Fri, 19 Jun 2026 07:32:34 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 20. [CISA: Splunk Enterprise flaw actively exploited, patch by Sunday](https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 19 Jun 2026 06:39:58 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-20253  
-**Categories:** Vulnerability  
 
 ---
 
@@ -211,7 +211,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
+**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -331,7 +331,7 @@
 **Source:** Security Week  
 **Published:** Mon, 22 Jun 2026 09:34:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-24858, CVE-2025-59719, CVE-2025-59718  
+**CVEs:** CVE-2025-59718, CVE-2026-24858, CVE-2025-59719  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -405,7 +405,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-47289, CVE-2026-42985, CVE-2026-44803, CVE-2026-44812, CVE-2026-42992, CVE-2026-44799, CVE-2026-44801, CVE-2026-48563, CVE-2026-47291  
+**CVEs:** CVE-2026-42985, CVE-2026-44812, CVE-2026-44799, CVE-2026-47291, CVE-2026-48563, CVE-2026-42992, CVE-2026-44803, CVE-2026-47289, CVE-2026-44801  
 **Categories:** Vulnerability  
 
 ---
@@ -460,7 +460,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-28764, CVE-2026-25713, CVE-2026-22554, CVE-2026-25104  
+**CVEs:** CVE-2026-22554, CVE-2026-28764, CVE-2026-25104, CVE-2026-25713  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -483,7 +483,7 @@
 
 ---
 
-### 53. [The Intelligence No One Else Has: Inside Recorded Future’s Proprietary Collection Engine](https://www.recordedfuture.com/blog/recorded-future-proprietary-collection-engine)
+### 53. [The Intelligence No One Else Has: Inside Recorded Future’s Proprietary Collection Engine](https://www.recordedfuture.com/blog/proprietary-collection-engine)
 
 **Source:** Recorded Future  
 **Published:** Tue, 16 Jun 2026 00:00:00 GMT  
@@ -650,7 +650,16 @@
 
 ---
 
-### 71. [Document delivery scams: What are they and what’s their goal?](https://www.malwarebytes.com/blog/scams/2026/06/document-delivery-scams-what-are-they-and-whats-their-goal)
+### 71. [Thousands of D-Link routers under control of AryStinger botnet](https://www.malwarebytes.com/blog/news/2026/06/thousands-of-d-link-routers-under-control-of-arystinger-botnet)
+
+**Source:** Malwarebytes  
+**Published:** Mon, 22 Jun 2026 15:22:22 GMT  
+**Severity:** Low  
+**Categories:** Vulnerability, Malware  
+
+---
+
+### 72. [Document delivery scams: What are they and what’s their goal?](https://www.malwarebytes.com/blog/scams/2026/06/document-delivery-scams-what-are-they-and-whats-their-goal)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 22 Jun 2026 13:19:50 GMT  
@@ -659,7 +668,7 @@
 
 ---
 
-### 72. [A week in security (June 15 &#8211; June 21)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-15-june-21-2)
+### 73. [A week in security (June 15 &#8211; June 21)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-15-june-21-2)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 22 Jun 2026 07:01:00 GMT  
@@ -668,7 +677,7 @@
 
 ---
 
-### 73. [Nearly 15,000 infected websites cleaned in SocGholish crackdown](https://www.malwarebytes.com/blog/news/2026/06/nearly-15000-infected-websites-cleaned-in-socgholish-crackdown)
+### 74. [Nearly 15,000 infected websites cleaned in SocGholish crackdown](https://www.malwarebytes.com/blog/news/2026/06/nearly-15000-infected-websites-cleaned-in-socgholish-crackdown)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 19 Jun 2026 16:05:53 GMT  
@@ -677,7 +686,7 @@
 
 ---
 
-### 74. [Apple patches Beats Studio Buds flaw that could turn earbuds into a wiretap](https://www.malwarebytes.com/blog/bugs/2026/06/apple-patches-beats-studio-buds-flaw-that-could-turn-earbuds-into-a-wiretap)
+### 75. [Apple patches Beats Studio Buds flaw that could turn earbuds into a wiretap](https://www.malwarebytes.com/blog/bugs/2026/06/apple-patches-beats-studio-buds-flaw-that-could-turn-earbuds-into-a-wiretap)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 19 Jun 2026 11:47:16 GMT  
@@ -687,7 +696,7 @@
 
 ---
 
-### 75. [Microsoft working on a fix for RoguePlanet, a flaw that grants full PC control](https://www.malwarebytes.com/blog/news/2026/06/microsoft-working-on-a-fix-for-rogueplanet-a-flaw-that-grants-full-pc-control)
+### 76. [Microsoft working on a fix for RoguePlanet, a flaw that grants full PC control](https://www.malwarebytes.com/blog/news/2026/06/microsoft-working-on-a-fix-for-rogueplanet-a-flaw-that-grants-full-pc-control)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 18 Jun 2026 12:58:30 GMT  
@@ -697,7 +706,7 @@
 
 ---
 
-### 76. [Retro gaming fans are the new target for fake GitHub malware](https://www.malwarebytes.com/blog/threat-intel/2026/06/retro-gaming-fans-are-the-new-target-for-fake-github-malware)
+### 77. [Retro gaming fans are the new target for fake GitHub malware](https://www.malwarebytes.com/blog/threat-intel/2026/06/retro-gaming-fans-are-the-new-target-for-fake-github-malware)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 18 Jun 2026 11:27:42 GMT  
@@ -706,7 +715,7 @@
 
 ---
 
-### 77. [Kodak confirms breach as ShinyHunters&#8217; leak threat reaches deadline](https://www.malwarebytes.com/blog/news/2026/06/kodak-confirms-breach-as-shinyhunters-leak-threat-reaches-deadline)
+### 78. [Kodak confirms breach as ShinyHunters&#8217; leak threat reaches deadline](https://www.malwarebytes.com/blog/news/2026/06/kodak-confirms-breach-as-shinyhunters-leak-threat-reaches-deadline)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 18 Jun 2026 09:52:08 GMT  
@@ -715,7 +724,7 @@
 
 ---
 
-### 78. [Roblox developers are losing entire games to malware attacks](https://www.malwarebytes.com/blog/scams/2026/06/roblox-developers-are-losing-entire-games-to-malware-attacks)
+### 79. [Roblox developers are losing entire games to malware attacks](https://www.malwarebytes.com/blog/scams/2026/06/roblox-developers-are-losing-entire-games-to-malware-attacks)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 17 Jun 2026 20:22:42 GMT  
@@ -724,7 +733,7 @@
 
 ---
 
-### 79. [Rokarolla Android malware can take over your phone and steal banking logins](https://www.malwarebytes.com/blog/mobile/2026/06/rokarolla-android-malware-can-take-over-your-phone-and-steal-banking-logins)
+### 80. [Rokarolla Android malware can take over your phone and steal banking logins](https://www.malwarebytes.com/blog/mobile/2026/06/rokarolla-android-malware-can-take-over-your-phone-and-steal-banking-logins)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 17 Jun 2026 15:34:15 GMT  
@@ -733,16 +742,16 @@
 
 ---
 
-### 80. [24 billion stolen records exposed online. Here&#8217;s what to do](https://www.malwarebytes.com/blog/news/2026/06/24-billion-stolen-records-found-in-giant-data-dump-check-if-youre-affected)
+### 81. [94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey](https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/)
 
-**Source:** Malwarebytes  
-**Published:** Wed, 17 Jun 2026 10:56:18 GMT  
+**Source:** Crowdstrike Blog  
+**Published:** Jun 22, 2026 00:00:00-0500  
 **Severity:** Low  
-**Categories:** Data Breach, Malware, Phishing  
+**Categories:** General Security  
 
 ---
 
-### 81. [New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/)
+### 82. [New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 18, 2026 00:00:00-0500  
@@ -751,7 +760,7 @@
 
 ---
 
-### 82. [New Abuse of the ClickOnce Technology, Part 1: The Inner Workings of ClickOnce Application Deployment](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-one/)
+### 83. [New Abuse of the ClickOnce Technology, Part 1: The Inner Workings of ClickOnce Application Deployment](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-one/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 18, 2026 00:00:00-0500  
@@ -760,7 +769,7 @@
 
 ---
 
-### 83. [After Executive Order 14409: Next Steps for Securing AI](https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/)
+### 84. [After Executive Order 14409: Next Steps for Securing AI](https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 17, 2026 00:00:00-0500  
@@ -769,7 +778,7 @@
 
 ---
 
-### 84. [Falcon Exposure Management Now Available for Third-Party Environments](https://www.crowdstrike.com/en-us/blog/falcon-exposure-management-now-available-for-third-party-environments/)
+### 85. [Falcon Exposure Management Now Available for Third-Party Environments](https://www.crowdstrike.com/en-us/blog/falcon-exposure-management-now-available-for-third-party-environments/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 16, 2026 00:00:00-0500  
@@ -778,7 +787,7 @@
 
 ---
 
-### 85. [CrowdStrike Announces Continuous Identity for AI Agents](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/)
+### 86. [CrowdStrike Announces Continuous Identity for AI Agents](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 15, 2026 00:00:00-0500  
@@ -787,7 +796,7 @@
 
 ---
 
-### 86. [Why AI Projects Stall and How CIOs Can Respond](https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/)
+### 87. [Why AI Projects Stall and How CIOs Can Respond](https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 12, 2026 00:00:00-0500  
@@ -796,7 +805,7 @@
 
 ---
 
-### 87. [CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/)
+### 88. [CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 11, 2026 00:00:00-0500  
@@ -805,7 +814,7 @@
 
 ---
 
-### 88. [CrowdStrike Expands Identity Leadership with OpenID and IDPro](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/)
+### 89. [CrowdStrike Expands Identity Leadership with OpenID and IDPro](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 10, 2026 00:00:00-0500  
@@ -814,21 +823,12 @@
 
 ---
 
-### 89. [CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/)
+### 90. [CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/)
 
 **Source:** Crowdstrike Blog  
 **Published:** Jun 09, 2026 00:00:00-0500  
 **Severity:** Low  
 **Categories:** Supply Chain  
-
----
-
-### 90. [June 2026 Patch Tuesday: Microsoft Patches 206 Vulnerabilities Including Three Publicly Disclosed Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2026/)
-
-**Source:** Crowdstrike Blog  
-**Published:** Jun 09, 2026 00:00:00-0500  
-**Severity:** Critical  
-**Categories:** Vulnerability  
 
 ---
 
