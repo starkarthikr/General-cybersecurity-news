@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
+    "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
+    "published": "Tue, 23 Jun 2026 09:26:58 +0530",
+    "summary": "OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative, the artificial intelligence (AI) company announced last month.\n\nCalling GPT‑5.5‑Cyber its \"strongest model yet for finding and helping patch software vulnerabilities,\" OpenAI said the model can \"sustain deeper analysis across large codebases\" to identify",
+    "analysis": {
+      "issue": "5-Cyber, Codex Security updates, and Patch the Planet to help defenders validate and patch vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
     "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
     "published": "Mon, 22 Jun 2026 23:30:48 +0530",
@@ -166,26 +184,6 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
-    "link": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html",
-    "published": "Mon, 22 Jun 2026 11:36:53 +0530",
-    "summary": "A new report from INTERPOL has revealed a \"dramatic increase\" in cybercrime in Asia and the South Pacific, fueled by rapid digitalization, internet penetration, new technologies, organized criminal networks, and a disparity in cybersecurity maturity.\n\nAccording to INTERPOL's 2025/2026 Asia and South Pacific Cyberthreat Assessment Report, phishing has emerged as the most widespread and",
-    "analysis": {
-      "issue": "INTERPOL says phishing, ransomware, DDoS attacks, infostealers, and AI-driven scams are driving cybercrime growth across Asia-Pacific",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Phishing",
-        "DDoS"
-      ]
-    }
-  },
-  {
     "source": "Bleeping Computer",
     "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
     "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
@@ -327,8 +325,8 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2013-3307",
         "CVE-2016-5681",
+        "CVE-2013-3307",
         "CVE-2025-11837"
       ],
       "threat_categories": [
@@ -426,9 +424,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-49160",
-        "CVE-2026-45586"
+        "CVE-2026-45586",
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -682,9 +680,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2025-59718",
+        "CVE-2025-59719",
         "CVE-2026-24858",
-        "CVE-2025-59719"
+        "CVE-2025-59718"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -839,15 +837,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44812",
+        "CVE-2026-44799",
+        "CVE-2026-47289",
+        "CVE-2026-42985",
+        "CVE-2026-47291",
+        "CVE-2026-42992",
+        "CVE-2026-44803",
         "CVE-2026-44801",
         "CVE-2026-48563",
-        "CVE-2026-47291",
-        "CVE-2026-44803",
-        "CVE-2026-44799",
-        "CVE-2026-42985",
-        "CVE-2026-47289",
-        "CVE-2026-42992"
+        "CVE-2026-44812"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -957,9 +955,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-22554",
-        "CVE-2026-25104",
         "CVE-2026-28764",
+        "CVE-2026-25104",
+        "CVE-2026-22554",
         "CVE-2026-25713"
       ],
       "threat_categories": [
@@ -1315,8 +1313,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",

@@ -1,10 +1,19 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-23 04:02:36 UTC
+**Last Updated:** 2026-06-23 04:40:50 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack](https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html)
+### 1. [OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws](https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 23 Jun 2026 09:26:58 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack](https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 23:30:48 +0530  
@@ -13,7 +22,7 @@
 
 ---
 
-### 2. [Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants](https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html)
+### 3. [Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants](https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 21:43:28 +0530  
@@ -22,7 +31,7 @@
 
 ---
 
-### 3. [29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests](https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html)
+### 4. [29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests](https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 19:59:46 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-### 4. [New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer](https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html)
+### 5. [New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer](https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 18:50:12 +0530  
@@ -41,7 +50,7 @@
 
 ---
 
-### 5. [Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries](https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html)
+### 6. [Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries](https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 18:15:08 +0530  
@@ -50,7 +59,7 @@
 
 ---
 
-### 6. [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html)
+### 7. [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 17:28:00 +0530  
@@ -59,7 +68,7 @@
 
 ---
 
-### 7. [⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More](https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html)
+### 8. [⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More](https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 16:25:10 +0530  
@@ -68,7 +77,7 @@
 
 ---
 
-### 8. [Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices](https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html)
+### 9. [Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices](https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 14:41:37 +0530  
@@ -77,21 +86,12 @@
 
 ---
 
-### 9. [AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network](https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html)
+### 10. [AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network](https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 12:27:44 +0530  
 **Severity:** Low  
 **Categories:** Malware  
-
----
-
-### 10. [INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific](https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 22 Jun 2026 11:36:53 +0530  
-**Severity:** Low  
-**Categories:** Ransomware, Phishing, DDoS  
 
 ---
 
@@ -164,7 +164,7 @@
 **Source:** Bleeping Computer  
 **Published:** Sun, 21 Jun 2026 10:14:22 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2013-3307, CVE-2016-5681, CVE-2025-11837  
+**CVEs:** CVE-2016-5681, CVE-2013-3307, CVE-2025-11837  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -210,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
+**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -330,7 +330,7 @@
 **Source:** Security Week  
 **Published:** Mon, 22 Jun 2026 09:34:59 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2025-59718, CVE-2026-24858, CVE-2025-59719  
+**CVEs:** CVE-2025-59719, CVE-2026-24858, CVE-2025-59718  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -404,7 +404,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44812, CVE-2026-44801, CVE-2026-48563, CVE-2026-47291, CVE-2026-44803, CVE-2026-44799, CVE-2026-42985, CVE-2026-47289, CVE-2026-42992  
+**CVEs:** CVE-2026-44799, CVE-2026-47289, CVE-2026-42985, CVE-2026-47291, CVE-2026-42992, CVE-2026-44803, CVE-2026-44801, CVE-2026-48563, CVE-2026-44812  
 **Categories:** Vulnerability  
 
 ---
@@ -459,7 +459,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-25104, CVE-2026-28764, CVE-2026-25713  
+**CVEs:** CVE-2026-28764, CVE-2026-25104, CVE-2026-22554, CVE-2026-25713  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -634,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
