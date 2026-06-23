@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+    "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+    "published": "Tue, 23 Jun 2026 19:52:03 +0530",
+    "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to run malicious code with the workflow's full privileges.\n\nEffective June 18, 2026, the latest version of \"actions/checkout,\" the official GitHub action for checking out a repository into the",
+    "analysis": {
+      "issue": "GitHub’s actions/checkout v7 now blocks risky fork PR checkouts in privileged workflows to reduce common pwn request attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
+    "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
+    "published": "Tue, 23 Jun 2026 17:00:00 +0530",
+    "summary": "Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile beyond his sight, and the aircraft carried that death across oceans. At each turn, the distance between the warrior and the wound grew wider, and yet one thing never moved: a human chose the target",
+    "analysis": {
+      "issue": "Agentic AI is pushing offensive security beyond chatbots into autonomous recon, social engineering, exploit testing, and malware adaptation",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
     "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
     "published": "Tue, 23 Jun 2026 14:24:32 +0530",
@@ -74,6 +112,26 @@
   },
   {
     "source": "The Hacker News",
+    "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+    "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+    "published": "Mon, 22 Jun 2026 21:59:00 +0530",
+    "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy.\n\nThe bug traces to a 1997 FTP-parsing change and is still live in Squid's default configuration. Researchers at Calif.io&nbsp;disclosed it in June&nbsp;and named it Squidbleed (",
+    "analysis": {
+      "issue": "Squidbleed CVE-2026-47729 can expose cleartext HTTP credentials from users sharing the same Squid proxy",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-47729"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
     "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
     "published": "Mon, 22 Jun 2026 21:43:28 +0530",
@@ -87,26 +145,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-    "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-    "published": "Mon, 22 Jun 2026 19:59:46 +0530",
-    "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy.\n\nThe bug traces to a 1997 FTP-parsing change and is still live in Squid's default configuration. Researchers at Calif.io&nbsp;disclosed it in June&nbsp;and named it Squidbleed (",
-    "analysis": {
-      "issue": "Squidbleed CVE-2026-47729 can expose cleartext HTTP credentials from users sharing the same Squid proxy",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-47729"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -147,39 +185,58 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
-    "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
-    "published": "Mon, 22 Jun 2026 17:28:00 +0530",
-    "summary": "Earlier this month, I spoke at the Gartner Security &amp; Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security programs by using legacy infrastructure to hijack AI agents.\n\nAI adoption is moving faster than security programs can account for. Roughly 71% of organizations are piloting AI agents across their",
+    "source": "Bleeping Computer",
+    "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
+    "link": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
+    "published": "Tue, 23 Jun 2026 10:01:11 -0400",
+    "summary": "Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public exploit even exists. [...]",
     "analysis": {
-      "issue": "AI agents inherit risk from legacy servers, AD, IAM, and cloud storage, creating attack paths that bypass model-level security",
+      "issue": "For thirty years, vulnerability management has run on what now looks like an impossible luxury: a buffer of months between when a vulnerability was found and when someone could figure  out how to weaponize it",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Data Breach",
+        "Vulnerability"
       ]
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
-    "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
-    "published": "Mon, 22 Jun 2026 16:25:10 +0530",
-    "summary": "It’s Monday again.\n\nThis week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much control.\n\nThe annoying part is how little of this feels new. Weak credentials, sketchy downloads, browser extensions with too much access, and WordPress sites are used to push more",
+    "source": "Bleeping Computer",
+    "title": "LastPass confirms data breach in Klue supply chain attack",
+    "link": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
+    "published": "Tue, 23 Jun 2026 09:58:25 -0400",
+    "summary": "LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month. [...]",
     "analysis": {
-      "issue": "This week’s cybersecurity recap covers Firefox and Chrome bugs, EDR-killer tools, a TV botnet, an OpenBSD flaw, Android malware, Splunk exploitation,",
+      "issue": "LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability",
-        "Malware"
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Webinar: Why email security teams are drowning in alerts",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
+    "published": "Tue, 23 Jun 2026 08:12:20 -0400",
+    "summary": "Phishing, BEC, and account takeover attacks continue to overwhelm security teams with alerts and investigations. This webinar explores how behavioral AI can help automate detection and response workflows, reducing alert fatigue and improving operational efficiency. [...]",
+    "analysis": {
+      "issue": "Most organizations have invested heavily in email security controls, yet phishing, business email compromise (BEC), and account takeover (ATO) attacks continue to consume significant time and resources from security teams",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
       ]
     }
   },
@@ -313,67 +370,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
-    "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
-    "published": "Sun, 21 Jun 2026 10:14:22 -0400",
-    "summary": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
-    "analysis": {
-      "issue": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2016-5681",
-        "CVE-2025-11837",
-        "CVE-2013-3307"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
-    "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
-    "published": "Sat, 20 Jun 2026 11:23:46 -0400",
-    "summary": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
-    "analysis": {
-      "issue": "A new ransomware operation named ‘Prinz Eugen’ prioritizes recently modified files for encryption and leaves no ransom note on the system",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
-    "published": "Sat, 20 Jun 2026 10:09:19 -0400",
-    "summary": "Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]",
-    "analysis": {
-      "issue": "Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
     "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
@@ -424,8 +420,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-49160",
         "CVE-2026-50507",
+        "CVE-2026-49160",
         "CVE-2026-45586"
       ],
       "threat_categories": [
@@ -567,6 +563,82 @@
   },
   {
     "source": "Security Week",
+    "title": "Eight-Year-Old Samsung KNOX Flaw Exposed Millions of Galaxy Devices to Kernel Attacks",
+    "link": "https://www.securityweek.com/eight-year-old-samsung-knox-flaw-exposed-millions-of-galaxy-devices-to-kernel-attacks/",
+    "published": "Tue, 23 Jun 2026 13:00:00 +0000",
+    "summary": "<p>The high-severity use-after-free vulnerability in Samsung's KNOX security framework affected Android-powered Galaxy devices from the S9 through S25.</p>\n<p>The post <a href=\"https://www.securityweek.com/eight-year-old-samsung-knox-flaw-exposed-millions-of-galaxy-devices-to-kernel-attacks/\">Eight-Year-Old Samsung KNOX Flaw Exposed Millions of Galaxy Devices to Kernel Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The high-severity use-after-free vulnerability in Samsung’s KNOX security framework affected Android-powered Galaxy devices from the S9 through S25",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "CISO Conversations: Carl Froggett – Combining CISO and CIO at Deep Instinct",
+    "link": "https://www.securityweek.com/ciso-conversations-carl-froggett-combining-ciso-and-cio-at-deep-instinct/",
+    "published": "Tue, 23 Jun 2026 12:50:00 +0000",
+    "summary": "<p>Carl Froggett combines CISO and CIO. He currently occupies both positions at Deep Instinct. Before then, he was CISO at Citi for almost 17 years.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-conversations-carl-froggett-combining-ciso-and-cio-at-deep-instinct/\">CISO Conversations: Carl Froggett – Combining CISO and CIO at Deep Instinct</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Carl Froggett combines CISO and CIO",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Algerian Man Extradited to US for Running Cybercrime Marketplaces",
+    "link": "https://www.securityweek.com/algerian-man-extradited-to-us-for-running-cybercrime-marketplaces/",
+    "published": "Tue, 23 Jun 2026 12:06:15 +0000",
+    "summary": "<p>26-year-old Abdellah Belmili faces up to 30 years in prison for allegedly operating the marketplaces Market0Day and Spoxy.</p>\n<p>The post <a href=\"https://www.securityweek.com/algerian-man-extradited-to-us-for-running-cybercrime-marketplaces/\">Algerian Man Extradited to US for Running Cybercrime Marketplaces</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "26-year-old Abdellah Belmili faces up to 30 years in prison for allegedly operating the marketplaces Market0Day and Spoxy",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "FFmpeg PixelSmash Flaw Allows RCE on Video Players, Media Servers, NAS Appliances",
+    "link": "https://www.securityweek.com/ffmpeg-pixelsmash-flaw-allows-rce-on-video-players-media-servers-nas-appliances/",
+    "published": "Tue, 23 Jun 2026 11:48:06 +0000",
+    "summary": "<p>Attackers can send crafted media files to execute code in any application that uses FFmpeg’s libavcodec library.</p>\n<p>The post <a href=\"https://www.securityweek.com/ffmpeg-pixelsmash-flaw-allows-rce-on-video-players-media-servers-nas-appliances/\">FFmpeg PixelSmash Flaw Allows RCE on Video Players, Media Servers, NAS Appliances</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Attackers can send crafted media files to execute code in any application that uses FFmpeg’s libavcodec library",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-8461"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "OpenAI Refocuses Cybersecurity Efforts on Patching Over Discovery",
     "link": "https://www.securityweek.com/openai-refocuses-cybersecurity-efforts-on-patching-over-discovery/",
     "published": "Tue, 23 Jun 2026 11:07:02 +0000",
@@ -685,87 +757,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data",
-    "link": "https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/",
-    "published": "Mon, 22 Jun 2026 11:45:43 +0000",
-    "summary": "<p>Vulnerable WordPress plugin iterations leak API keys, secrets, tokens, server information, and other data.</p>\n<p>The post <a href=\"https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/\">Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Vulnerable WordPress plugin iterations leak API keys, secrets, tokens, server information, and other data",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-4020"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "North Korean Hackers Blamed for Mastra NPM Supply Chain Attack",
-    "link": "https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/",
-    "published": "Mon, 22 Jun 2026 11:10:06 +0000",
-    "summary": "<p>A malicious dependency the attackers added to over 140 Mastra packages fetches a payload targeting cryptocurrency extensions.</p>\n<p>The post <a href=\"https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/\">North Korean Hackers Blamed for Mastra NPM Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A malicious dependency the attackers added to over 140 Mastra packages fetches a payload targeting cryptocurrency extensions",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks",
-    "link": "https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/",
-    "published": "Mon, 22 Jun 2026 10:30:00 +0000",
-    "summary": "<p>Groups like ShinyHunters are demonstrating that attackers do not necessarily need malware or zero-day exploits to cause massive damage.</p>\n<p>The post <a href=\"https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/\">What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Groups like ShinyHunters are demonstrating that attackers do not necessarily need malware or zero-day exploits to cause massive damage",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "New Exploit Bypasses Apple’s Boot Defenses, Affects Millions of iPhones",
-    "link": "https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/",
-    "published": "Mon, 22 Jun 2026 10:03:06 +0000",
-    "summary": "<p>The vulnerability exploited by the Usbliter8 exploit cannot be patched and a PoC exploit has been released by researchers.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/\">New Exploit Bypasses Apple&#8217;s Boot Defenses, Affects Millions of iPhones</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The vulnerability exploited by the Usbliter8 exploit cannot be patched and a PoC exploit has been released by researchers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Close Encounters of the Human Kind",
     "link": "https://blog.talosintelligence.com/close-encounters-of-the-human-kind/",
@@ -832,15 +823,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42985",
-        "CVE-2026-47291",
-        "CVE-2026-44801",
         "CVE-2026-42992",
-        "CVE-2026-47289",
+        "CVE-2026-44801",
         "CVE-2026-44812",
         "CVE-2026-44799",
+        "CVE-2026-42985",
+        "CVE-2026-47289",
         "CVE-2026-44803",
-        "CVE-2026-48563"
+        "CVE-2026-48563",
+        "CVE-2026-47291"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -950,10 +941,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-22554",
         "CVE-2026-25713",
-        "CVE-2026-28764",
-        "CVE-2026-25104"
+        "CVE-2026-22554",
+        "CVE-2026-25104",
+        "CVE-2026-28764"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1339,6 +1330,24 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Meta pauses controversial employee-tracking program after security review",
+    "link": "https://www.malwarebytes.com/blog/news/2026/06/meta-pauses-controversial-employee-tracking-program-after-security-review",
+    "published": "Tue, 23 Jun 2026 13:01:50 GMT",
+    "summary": "Meta has paused its controversial employee-tracking program. Unfortunately, employee privacy wasn't what stopped it.",
+    "analysis": {
+      "issue": "Meta has paused a controversial employee‑tracking program after an internal security review found that highly granular keystroke and screen‑capture data from staff laptops was far more widely accessible inside the company than intended",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Hackers steal passport and driver&#8217;s license data of 3 million Texans",
     "link": "https://www.malwarebytes.com/blog/data-breaches/2026/06/hackers-steal-passport-and-drivers-license-data-of-3-million-texans",
     "published": "Tue, 23 Jun 2026 10:30:57 GMT",
@@ -1504,26 +1513,6 @@
       "cves": [],
       "threat_categories": [
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Kodak confirms breach as ShinyHunters&#8217; leak threat reaches deadline",
-    "link": "https://www.malwarebytes.com/blog/news/2026/06/kodak-confirms-breach-as-shinyhunters-leak-threat-reaches-deadline",
-    "published": "Thu, 18 Jun 2026 09:52:08 GMT",
-    "summary": "The photography giant confirmed a data breach after ShinyHunters claimed it stole 2.2 million records and threatened to leak them.",
-    "analysis": {
-      "issue": "The Eastman Kodak Company (Kodak) confirmed to BleepingComputer that it is investigating a security breach after the ShinyHunters extortion group claimed responsibility for the incident",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Data Breach",
-        "Vulnerability"
       ]
     }
   },
