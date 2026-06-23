@@ -1,10 +1,46 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
+    "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
+    "published": "Tue, 23 Jun 2026 14:24:32 +0530",
+    "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT).\n\nThe list of identified packages, is below -\n\n\n  aes-decode-runner-pro (145 downloads)\n  postcss-minify-selector (256 downloads)\n  postcss-minify-selector-parser (615 downloads)\n\nAll the packages were published over the past month by an npm user named",
+    "analysis": {
+      "issue": "JFrog found malicious npm packages that deploy a Windows RAT to steal Chrome credentials, run commands, and transfer files",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
+    "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
+    "published": "Tue, 23 Jun 2026 11:08:40 +0530",
+    "summary": "Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) software.\n\nPer findings from Kaspersky, the active campaign is targeting users of WhatsApp Desktop and WhatsApp Web across Malaysia, Brazil, India, Mexico, Singapore, the U.K., Spain, Taiwan, Australia,",
+    "analysis": {
+      "issue": "Kaspersky says attackers are using fake WhatsApp document attachments to run VBScript malware and install ManageEngine RMM Central",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
     "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
     "published": "Tue, 23 Jun 2026 09:26:58 +0530",
-    "summary": "OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative, the artificial intelligence (AI) company announced last month.\n\nCalling GPT‑5.5‑Cyber its \"strongest model yet for finding and helping patch software vulnerabilities,\" OpenAI said the model can \"sustain deeper analysis across large codebases\" to identify",
+    "summary": "OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative&nbsp;the artificial intelligence (AI) company announced last month.\n\nCalling GPT‑5.5‑Cyber its \"strongest model yet for finding and helping patch software vulnerabilities,\" OpenAI said the model can \"sustain deeper analysis across large codebases\" to",
     "analysis": {
       "issue": "5-Cyber, Codex Security updates, and Patch the Planet to help defenders validate and patch vulnerabilities",
       "solution": null,
@@ -143,42 +179,6 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
-    "link": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
-    "published": "Mon, 22 Jun 2026 14:41:37 +0530",
-    "summary": "Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets.\n\nThe Federal Court&nbsp;released a public version of the ruling on June 15. It is the first time the Canadian Security Intelligence Service has used its threat reduction warrant powers this way.\n\nThe warrant let CSIS alter,",
-    "analysis": {
-      "issue": "Canada’s spy agency used a court-approved warrant to neutralize two foreign-run botnets abusing routers, servers, and IoT devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
-    "link": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html",
-    "published": "Mon, 22 Jun 2026 12:27:44 +0530",
-    "summary": "A new malware family is turning forgotten home routers into a distributed reconnaissance and proxy network, not the DDoS botnet these devices usually end up in. QiAnXin's&nbsp;XLab&nbsp;calls it AryStinger and counts at least 4,300 infected routers, a total it says is still rising.\n\nThe distinction matters. AryStinger exists for the stage of an attack that comes before the break-in. Infected",
-    "analysis": {
-      "issue": "AryStinger malware has infected 4,300 Realtek RTL819X routers, using old CVEs to scan targets, tunnel traffic, and hide attacker activity",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
         "Malware"
       ]
     }
@@ -326,8 +326,8 @@
       "severity": "Low",
       "cves": [
         "CVE-2016-5681",
-        "CVE-2013-3307",
-        "CVE-2025-11837"
+        "CVE-2025-11837",
+        "CVE-2013-3307"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -425,8 +425,8 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-49160",
-        "CVE-2026-45586",
-        "CVE-2026-50507"
+        "CVE-2026-50507",
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -567,6 +567,104 @@
   },
   {
     "source": "Security Week",
+    "title": "OpenAI Refocuses Cybersecurity Efforts on Patching Over Discovery",
+    "link": "https://www.securityweek.com/openai-refocuses-cybersecurity-efforts-on-patching-over-discovery/",
+    "published": "Tue, 23 Jun 2026 11:07:02 +0000",
+    "summary": "<p>OpenAI has expanded its Daybreak cybersecurity initiative with a new suite of tools and partnerships.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-refocuses-cybersecurity-efforts-on-patching-over-discovery/\">OpenAI Refocuses Cybersecurity Efforts on Patching Over Discovery</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "OpenAI has expanded its Daybreak cybersecurity initiative with a new suite of tools and partnerships",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Russian Initial Access Broker Behind FortiBleed Campaign",
+    "link": "https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/",
+    "published": "Tue, 23 Jun 2026 10:30:46 +0000",
+    "summary": "<p>Using a custom sniffer, the threat actor has captured over 110 million credentials since at least February 2026.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/\">Russian Initial Access Broker Behind FortiBleed Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Using a custom sniffer, the threat actor has captured over 110 million credentials since at least February 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Medium",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "APT",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Canadian Electricity Provider London Hydro Discloses Data Breach",
+    "link": "https://www.securityweek.com/canadian-electricity-provider-london-hydro-discloses-data-breach/",
+    "published": "Tue, 23 Jun 2026 09:25:22 +0000",
+    "summary": "<p>Hackers stole customers’ names, addresses, email addresses, phone numbers, and account information.</p>\n<p>The post <a href=\"https://www.securityweek.com/canadian-electricity-provider-london-hydro-discloses-data-breach/\">Canadian Electricity Provider London Hydro Discloses Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hackers stole customers’ names, addresses, email addresses, phone numbers, and account information",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration",
+    "link": "https://www.securityweek.com/trump-signs-executive-order-accelerating-post-quantum-cryptography-migration/",
+    "published": "Tue, 23 Jun 2026 08:43:05 +0000",
+    "summary": "<p>Federal agencies are required to transition high-value assets and high-impact systems to use PQC by the end of 2030 and 2031.</p>\n<p>The post <a href=\"https://www.securityweek.com/trump-signs-executive-order-accelerating-post-quantum-cryptography-migration/\">Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Federal agencies are required to transition high-value assets and high-impact systems to use PQC by the end of 2030 and 2031",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Xsolis Data Breach Affects 1.4 Million Individuals",
+    "link": "https://www.securityweek.com/xsolis-data-breach-affects-1-4-million-individuals/",
+    "published": "Tue, 23 Jun 2026 06:20:00 +0000",
+    "summary": "<p>Threat actors gained access to personal and protected health information that Xsolis received from its clients.</p>\n<p>The post <a href=\"https://www.securityweek.com/xsolis-data-breach-affects-1-4-million-individuals/\">Xsolis Data Breach Affects 1.4 Million Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Threat actors gained access to personal and protected health information that Xsolis received from its clients",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data",
     "link": "https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/",
     "published": "Mon, 22 Jun 2026 13:22:31 +0000",
@@ -668,109 +766,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Fortinet Responds to FortiBleed Campaign",
-    "link": "https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/",
-    "published": "Mon, 22 Jun 2026 09:34:59 +0000",
-    "summary": "<p>A database of over 86,000 confirmed working credentials was created during the credential-harvesting campaign.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/\">Fortinet Responds to FortiBleed Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A database of over 86,000 confirmed working credentials was created during the credential-harvesting campaign",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-59719",
-        "CVE-2026-24858",
-        "CVE-2025-59718"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "More Cybersecurity Firms Disclose Impact From Klue Hack",
-    "link": "https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/",
-    "published": "Mon, 22 Jun 2026 09:03:08 +0000",
-    "summary": "<p>HackerOne, Huntress, Jamf, OneTrust, Recorded Future, Snyk, and Tanium are among the affected Klue customers.</p>\n<p>The post <a href=\"https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/\">More Cybersecurity Firms Disclose Impact From Klue Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "HackerOne, Huntress, Jamf, OneTrust, Recorded Future, Snyk, and Tanium are among the affected Klue customers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Texas Parks & Wildlife Data Breach Affects 3 Million Individuals",
-    "link": "https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/",
-    "published": "Mon, 22 Jun 2026 05:33:39 +0000",
-    "summary": "<p>Hackers stole personal information after breaching the systems of a third-party license vendor serving TPWD.</p>\n<p>The post <a href=\"https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/\">Texas Parks &#038; Wildlife Data Breach Affects 3 Million Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Hackers stole personal information after breaching the systems of a third-party license vendor serving TPWD",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation",
-    "link": "https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/",
-    "published": "Sat, 20 Jun 2026 09:48:40 +0000",
-    "summary": "<p>French President Emmanuel Macron urged the world’s wealthy democracies to work together on regulating advanced AI systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/\">French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "French President Emmanuel Macron urged the world’s wealthy democracies to work together on regulating advanced AI systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum",
-    "link": "https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/",
-    "published": "Fri, 19 Jun 2026 15:23:36 +0000",
-    "summary": "<p>Other noteworthy stories that might have slipped under the radar: Android TV botnet Popa linked to Israeli firm, Velvet Ant maintained decade-long stealth, unpatched GCP Config Connector flaw enables takeover.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/\">In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Other noteworthy stories that might have slipped under the radar: Android TV botnet Popa linked to Israeli firm, Velvet Ant maintained decade-long stealth, unpatched GCP Config Connector flaw enables takeover",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-20701"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Close Encounters of the Human Kind",
     "link": "https://blog.talosintelligence.com/close-encounters-of-the-human-kind/",
@@ -837,15 +832,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44799",
-        "CVE-2026-47289",
         "CVE-2026-42985",
         "CVE-2026-47291",
-        "CVE-2026-42992",
-        "CVE-2026-44803",
         "CVE-2026-44801",
-        "CVE-2026-48563",
-        "CVE-2026-44812"
+        "CVE-2026-42992",
+        "CVE-2026-47289",
+        "CVE-2026-44812",
+        "CVE-2026-44799",
+        "CVE-2026-44803",
+        "CVE-2026-48563"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -955,10 +950,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-28764",
-        "CVE-2026-25104",
         "CVE-2026-22554",
-        "CVE-2026-25713"
+        "CVE-2026-25713",
+        "CVE-2026-28764",
+        "CVE-2026-25104"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1344,6 +1339,43 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Hackers steal passport and driver&#8217;s license data of 3 million Texans",
+    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/06/hackers-steal-passport-and-drivers-license-data-of-3-million-texans",
+    "published": "Tue, 23 Jun 2026 10:30:57 GMT",
+    "summary": "A breach at a Texas Parks and Wildlife Department vendor exposed personal information belonging to more than three million Texans.",
+    "analysis": {
+      "issue": "You can change a password and cancel a card",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "GTA 6 early access is nothing but a scam",
+    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/06/gta-6-early-access-is-nothing-but-a-scam",
+    "published": "Tue, 23 Jun 2026 09:23:52 GMT",
+    "summary": "No matter what a website claims, nobody is selling legitimate GTA 6 early access. And scammers are counting on fans believing otherwise.",
+    "analysis": {
+      "issue": "A new wave of scam websites is offering something millions of people want: a way to play Grand Theft Auto VI before it comes out",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Thousands of D-Link routers under control of AryStinger botnet",
     "link": "https://www.malwarebytes.com/blog/news/2026/06/thousands-of-d-link-routers-under-control-of-arystinger-botnet",
     "published": "Mon, 22 Jun 2026 15:22:22 GMT",
@@ -1492,44 +1524,6 @@
         "Ransomware",
         "Data Breach",
         "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Roblox developers are losing entire games to malware attacks",
-    "link": "https://www.malwarebytes.com/blog/scams/2026/06/roblox-developers-are-losing-entire-games-to-malware-attacks",
-    "published": "Wed, 17 Jun 2026 20:22:42 GMT",
-    "summary": "Attackers are using fake job offers and malware to steal accounts, Robux, and Roblox games from the developers who build them.",
-    "analysis": {
-      "issue": "Account theft usually ends with someone losing a password",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Rokarolla Android malware can take over your phone and steal banking logins",
-    "link": "https://www.malwarebytes.com/blog/mobile/2026/06/rokarolla-android-malware-can-take-over-your-phone-and-steal-banking-logins",
-    "published": "Wed, 17 Jun 2026 15:34:15 GMT",
-    "summary": "Researchers have uncovered an Android banking Trojan that targets more than 200 banking and cryptocurrency apps and can take over infected devices.",
-    "analysis": {
-      "issue": "Researchers have analyzed a new Android banking Trojan called Rokarolla",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
       ]
     }
   },

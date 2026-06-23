@@ -1,10 +1,28 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-23 04:40:50 UTC
+**Last Updated:** 2026-06-23 11:38:58 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws](https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html)
+### 1. [Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT](https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 23 Jun 2026 14:24:32 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 2. [WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool](https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html)
+
+**Source:** The Hacker News  
+**Published:** Tue, 23 Jun 2026 11:08:40 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws](https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 23 Jun 2026 09:26:58 +0530  
@@ -13,7 +31,7 @@
 
 ---
 
-### 2. [ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack](https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html)
+### 4. [ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack](https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 23:30:48 +0530  
@@ -22,7 +40,7 @@
 
 ---
 
-### 3. [Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants](https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html)
+### 5. [Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants](https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 21:43:28 +0530  
@@ -31,7 +49,7 @@
 
 ---
 
-### 4. [29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests](https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html)
+### 6. [29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests](https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 19:59:46 +0530  
@@ -41,7 +59,7 @@
 
 ---
 
-### 5. [New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer](https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html)
+### 7. [New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer](https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 18:50:12 +0530  
@@ -50,7 +68,7 @@
 
 ---
 
-### 6. [Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries](https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html)
+### 8. [Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries](https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 18:15:08 +0530  
@@ -59,7 +77,7 @@
 
 ---
 
-### 7. [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html)
+### 9. [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 17:28:00 +0530  
@@ -68,30 +86,12 @@
 
 ---
 
-### 8. [⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More](https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html)
+### 10. [⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More](https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html)
 
 **Source:** The Hacker News  
 **Published:** Mon, 22 Jun 2026 16:25:10 +0530  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 9. [Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices](https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 22 Jun 2026 14:41:37 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 10. [AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network](https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html)
-
-**Source:** The Hacker News  
-**Published:** Mon, 22 Jun 2026 12:27:44 +0530  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
@@ -164,7 +164,7 @@
 **Source:** Bleeping Computer  
 **Published:** Sun, 21 Jun 2026 10:14:22 -0400  
 **Severity:** Low  
-**CVEs:** CVE-2016-5681, CVE-2013-3307, CVE-2025-11837  
+**CVEs:** CVE-2016-5681, CVE-2025-11837, CVE-2013-3307  
 **Categories:** Vulnerability, Malware  
 
 ---
@@ -210,7 +210,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
+**CVEs:** CVE-2026-49160, CVE-2026-50507, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -278,7 +278,52 @@
 
 ---
 
-### 31. [Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data](https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/)
+### 31. [OpenAI Refocuses Cybersecurity Efforts on Patching Over Discovery](https://www.securityweek.com/openai-refocuses-cybersecurity-efforts-on-patching-over-discovery/)
+
+**Source:** Security Week  
+**Published:** Tue, 23 Jun 2026 11:07:02 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 32. [Russian Initial Access Broker Behind FortiBleed Campaign](https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/)
+
+**Source:** Security Week  
+**Published:** Tue, 23 Jun 2026 10:30:46 +0000  
+**Severity:** Medium  
+**Categories:** Ransomware, Vulnerability, APT, Supply Chain  
+
+---
+
+### 33. [Canadian Electricity Provider London Hydro Discloses Data Breach](https://www.securityweek.com/canadian-electricity-provider-london-hydro-discloses-data-breach/)
+
+**Source:** Security Week  
+**Published:** Tue, 23 Jun 2026 09:25:22 +0000  
+**Severity:** Low  
+**Categories:** Data Breach, Phishing, Supply Chain  
+
+---
+
+### 34. [Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration](https://www.securityweek.com/trump-signs-executive-order-accelerating-post-quantum-cryptography-migration/)
+
+**Source:** Security Week  
+**Published:** Tue, 23 Jun 2026 08:43:05 +0000  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 35. [Xsolis Data Breach Affects 1.4 Million Individuals](https://www.securityweek.com/xsolis-data-breach-affects-1-4-million-individuals/)
+
+**Source:** Security Week  
+**Published:** Tue, 23 Jun 2026 06:20:00 +0000  
+**Severity:** Low  
+**Categories:** Ransomware, Data Breach, Phishing  
+
+---
+
+### 36. [Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data](https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/)
 
 **Source:** Security Week  
 **Published:** Mon, 22 Jun 2026 13:22:31 +0000  
@@ -288,7 +333,7 @@
 
 ---
 
-### 32. [Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data](https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/)
+### 37. [Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data](https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/)
 
 **Source:** Security Week  
 **Published:** Mon, 22 Jun 2026 11:45:43 +0000  
@@ -298,7 +343,7 @@
 
 ---
 
-### 33. [North Korean Hackers Blamed for Mastra NPM Supply Chain Attack](https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/)
+### 38. [North Korean Hackers Blamed for Mastra NPM Supply Chain Attack](https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/)
 
 **Source:** Security Week  
 **Published:** Mon, 22 Jun 2026 11:10:06 +0000  
@@ -307,7 +352,7 @@
 
 ---
 
-### 34. [What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks](https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/)
+### 39. [What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks](https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/)
 
 **Source:** Security Week  
 **Published:** Mon, 22 Jun 2026 10:30:00 +0000  
@@ -316,59 +361,12 @@
 
 ---
 
-### 35. [New Exploit Bypasses Apple’s Boot Defenses, Affects Millions of iPhones](https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/)
+### 40. [New Exploit Bypasses Apple’s Boot Defenses, Affects Millions of iPhones](https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/)
 
 **Source:** Security Week  
 **Published:** Mon, 22 Jun 2026 10:03:06 +0000  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 36. [Fortinet Responds to FortiBleed Campaign](https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/)
-
-**Source:** Security Week  
-**Published:** Mon, 22 Jun 2026 09:34:59 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2025-59719, CVE-2026-24858, CVE-2025-59718  
-**Categories:** Vulnerability, Malware  
-
----
-
-### 37. [More Cybersecurity Firms Disclose Impact From Klue Hack](https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/)
-
-**Source:** Security Week  
-**Published:** Mon, 22 Jun 2026 09:03:08 +0000  
-**Severity:** Low  
-**Categories:** Vulnerability, Malware, Supply Chain  
-
----
-
-### 38. [Texas Parks & Wildlife Data Breach Affects 3 Million Individuals](https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/)
-
-**Source:** Security Week  
-**Published:** Mon, 22 Jun 2026 05:33:39 +0000  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
-
----
-
-### 39. [French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation](https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/)
-
-**Source:** Security Week  
-**Published:** Sat, 20 Jun 2026 09:48:40 +0000  
-**Severity:** High  
-**Categories:** Vulnerability  
-
----
-
-### 40. [In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum](https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/)
-
-**Source:** Security Week  
-**Published:** Fri, 19 Jun 2026 15:23:36 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2025-20701  
-**Categories:** Vulnerability, Malware, Phishing, Supply Chain  
 
 ---
 
@@ -404,7 +402,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44799, CVE-2026-47289, CVE-2026-42985, CVE-2026-47291, CVE-2026-42992, CVE-2026-44803, CVE-2026-44801, CVE-2026-48563, CVE-2026-44812  
+**CVEs:** CVE-2026-42985, CVE-2026-47291, CVE-2026-44801, CVE-2026-42992, CVE-2026-47289, CVE-2026-44812, CVE-2026-44799, CVE-2026-44803, CVE-2026-48563  
 **Categories:** Vulnerability  
 
 ---
@@ -459,7 +457,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-28764, CVE-2026-25104, CVE-2026-22554, CVE-2026-25713  
+**CVEs:** CVE-2026-22554, CVE-2026-25713, CVE-2026-28764, CVE-2026-25104  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -649,7 +647,25 @@
 
 ---
 
-### 71. [Thousands of D-Link routers under control of AryStinger botnet](https://www.malwarebytes.com/blog/news/2026/06/thousands-of-d-link-routers-under-control-of-arystinger-botnet)
+### 71. [Hackers steal passport and driver&#8217;s license data of 3 million Texans](https://www.malwarebytes.com/blog/data-breaches/2026/06/hackers-steal-passport-and-drivers-license-data-of-3-million-texans)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 23 Jun 2026 10:30:57 GMT  
+**Severity:** Low  
+**Categories:** Data Breach, Supply Chain  
+
+---
+
+### 72. [GTA 6 early access is nothing but a scam](https://www.malwarebytes.com/blog/threat-intel/2026/06/gta-6-early-access-is-nothing-but-a-scam)
+
+**Source:** Malwarebytes  
+**Published:** Tue, 23 Jun 2026 09:23:52 GMT  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 73. [Thousands of D-Link routers under control of AryStinger botnet](https://www.malwarebytes.com/blog/news/2026/06/thousands-of-d-link-routers-under-control-of-arystinger-botnet)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 22 Jun 2026 15:22:22 GMT  
@@ -658,7 +674,7 @@
 
 ---
 
-### 72. [Document delivery scams: What are they and what’s their goal?](https://www.malwarebytes.com/blog/scams/2026/06/document-delivery-scams-what-are-they-and-whats-their-goal)
+### 74. [Document delivery scams: What are they and what’s their goal?](https://www.malwarebytes.com/blog/scams/2026/06/document-delivery-scams-what-are-they-and-whats-their-goal)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 22 Jun 2026 13:19:50 GMT  
@@ -667,7 +683,7 @@
 
 ---
 
-### 73. [A week in security (June 15 &#8211; June 21)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-15-june-21-2)
+### 75. [A week in security (June 15 &#8211; June 21)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-15-june-21-2)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 22 Jun 2026 07:01:00 GMT  
@@ -676,7 +692,7 @@
 
 ---
 
-### 74. [Nearly 15,000 infected websites cleaned in SocGholish crackdown](https://www.malwarebytes.com/blog/news/2026/06/nearly-15000-infected-websites-cleaned-in-socgholish-crackdown)
+### 76. [Nearly 15,000 infected websites cleaned in SocGholish crackdown](https://www.malwarebytes.com/blog/news/2026/06/nearly-15000-infected-websites-cleaned-in-socgholish-crackdown)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 19 Jun 2026 16:05:53 GMT  
@@ -685,7 +701,7 @@
 
 ---
 
-### 75. [Apple patches Beats Studio Buds flaw that could turn earbuds into a wiretap](https://www.malwarebytes.com/blog/bugs/2026/06/apple-patches-beats-studio-buds-flaw-that-could-turn-earbuds-into-a-wiretap)
+### 77. [Apple patches Beats Studio Buds flaw that could turn earbuds into a wiretap](https://www.malwarebytes.com/blog/bugs/2026/06/apple-patches-beats-studio-buds-flaw-that-could-turn-earbuds-into-a-wiretap)
 
 **Source:** Malwarebytes  
 **Published:** Fri, 19 Jun 2026 11:47:16 GMT  
@@ -695,7 +711,7 @@
 
 ---
 
-### 76. [Microsoft working on a fix for RoguePlanet, a flaw that grants full PC control](https://www.malwarebytes.com/blog/news/2026/06/microsoft-working-on-a-fix-for-rogueplanet-a-flaw-that-grants-full-pc-control)
+### 78. [Microsoft working on a fix for RoguePlanet, a flaw that grants full PC control](https://www.malwarebytes.com/blog/news/2026/06/microsoft-working-on-a-fix-for-rogueplanet-a-flaw-that-grants-full-pc-control)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 18 Jun 2026 12:58:30 GMT  
@@ -705,7 +721,7 @@
 
 ---
 
-### 77. [Retro gaming fans are the new target for fake GitHub malware](https://www.malwarebytes.com/blog/threat-intel/2026/06/retro-gaming-fans-are-the-new-target-for-fake-github-malware)
+### 79. [Retro gaming fans are the new target for fake GitHub malware](https://www.malwarebytes.com/blog/threat-intel/2026/06/retro-gaming-fans-are-the-new-target-for-fake-github-malware)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 18 Jun 2026 11:27:42 GMT  
@@ -714,30 +730,12 @@
 
 ---
 
-### 78. [Kodak confirms breach as ShinyHunters&#8217; leak threat reaches deadline](https://www.malwarebytes.com/blog/news/2026/06/kodak-confirms-breach-as-shinyhunters-leak-threat-reaches-deadline)
+### 80. [Kodak confirms breach as ShinyHunters&#8217; leak threat reaches deadline](https://www.malwarebytes.com/blog/news/2026/06/kodak-confirms-breach-as-shinyhunters-leak-threat-reaches-deadline)
 
 **Source:** Malwarebytes  
 **Published:** Thu, 18 Jun 2026 09:52:08 GMT  
 **Severity:** Critical  
 **Categories:** Ransomware, Data Breach, Vulnerability  
-
----
-
-### 79. [Roblox developers are losing entire games to malware attacks](https://www.malwarebytes.com/blog/scams/2026/06/roblox-developers-are-losing-entire-games-to-malware-attacks)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 17 Jun 2026 20:22:42 GMT  
-**Severity:** Low  
-**Categories:** Malware, Phishing  
-
----
-
-### 80. [Rokarolla Android malware can take over your phone and steal banking logins](https://www.malwarebytes.com/blog/mobile/2026/06/rokarolla-android-malware-can-take-over-your-phone-and-steal-banking-logins)
-
-**Source:** Malwarebytes  
-**Published:** Wed, 17 Jun 2026 15:34:15 GMT  
-**Severity:** Low  
-**Categories:** Malware, APT  
 
 ---
 
