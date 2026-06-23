@@ -187,6 +187,81 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
+    "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
+    "published": "Mon, 22 Jun 2026 18:42:21 -0400",
+    "summary": "An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote system access. [...]",
+    "analysis": {
+      "issue": "An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote system access",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
+    "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
+    "published": "Mon, 22 Jun 2026 17:52:18 -0400",
+    "summary": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]",
+    "analysis": {
+      "issue": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
+    "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
+    "published": "Mon, 22 Jun 2026 17:05:01 -0400",
+    "summary": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service  condition in applications like Kodi, Emby, Nextcloud, PhotoPrism, and OBS Studio. [...]",
+    "analysis": {
+      "issue": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service  condition in applications like Kodi, Emby, Nextcloud, PhotoPrism, a",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-8461"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+    "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
+    "published": "Mon, 22 Jun 2026 16:01:02 -0400",
+    "summary": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
+    "analysis": {
+      "issue": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
     "published": "Mon, 22 Jun 2026 13:41:31 -0400",
@@ -297,83 +372,6 @@
       "threat_categories": [
         "Malware",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
-    "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
-    "published": "Fri, 19 Jun 2026 18:31:04 -0400",
-    "summary": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion group publicly claims the attack. [...]",
-    "analysis": {
-      "issue": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion group publicly claims the attack",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
-    "published": "Fri, 19 Jun 2026 16:25:02 -0400",
-    "summary": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
-    "analysis": {
-      "issue": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Medium",
-      "cves": [
-        "CVE-2026-4020"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Texas govt data breach exposes over 3 million driver’s licenses",
-    "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
-    "published": "Fri, 19 Jun 2026 12:12:41 -0400",
-    "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
-    "analysis": {
-      "issue": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Malware",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-    "link": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
-    "published": "Fri, 19 Jun 2026 09:10:19 -0400",
-    "summary": "AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security breaks down why AI agents are becoming a new identity and governance challenge. [...]",
-    "analysis": {
-      "issue": "For years, security teams built their programs around a simple premise of if you control the identities, you can control the risk",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -841,14 +839,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42985",
-        "CVE-2026-47289",
+        "CVE-2026-44812",
         "CVE-2026-44801",
-        "CVE-2026-44799",
         "CVE-2026-48563",
         "CVE-2026-47291",
-        "CVE-2026-44812",
         "CVE-2026-44803",
+        "CVE-2026-44799",
+        "CVE-2026-42985",
+        "CVE-2026-47289",
         "CVE-2026-42992"
       ],
       "threat_categories": [
@@ -959,10 +957,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25104",
         "CVE-2026-22554",
-        "CVE-2026-25713",
-        "CVE-2026-28764"
+        "CVE-2026-25104",
+        "CVE-2026-28764",
+        "CVE-2026-25713"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1317,8 +1315,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",

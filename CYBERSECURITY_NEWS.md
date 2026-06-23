@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-22 19:54:16 UTC
+**Last Updated:** 2026-06-23 04:02:36 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -95,7 +95,44 @@
 
 ---
 
-### 11. [Microsoft says Windows 11 26H2 is coming soon, details upgrade process](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/)
+### 11. [WhatsApp phishing attack uses fake business docs to hack PCs](https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 22 Jun 2026 18:42:21 -0400  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 12. [JaredFromSubway MEV bot hacked in $15 million crypto theft](https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 22 Jun 2026 17:52:18 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [FFmpeg fixes PixelSmash flaw in widely used video decoder](https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 22 Jun 2026 17:05:01 -0400  
+**Severity:** High  
+**CVEs:** CVE-2026-8461  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [FortiBleed campaign used custom FortiGate sniffer to steal credentials](https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/)
+
+**Source:** Bleeping Computer  
+**Published:** Mon, 22 Jun 2026 16:01:02 -0400  
+**Severity:** Low  
+**Categories:** APT  
+
+---
+
+### 15. [Microsoft says Windows 11 26H2 is coming soon, details upgrade process](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 22 Jun 2026 13:41:31 -0400  
@@ -104,7 +141,7 @@
 
 ---
 
-### 12. [Microsoft fixes AutoGen Studio flaw that enabled code execution](https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/)
+### 16. [Microsoft fixes AutoGen Studio flaw that enabled code execution](https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 22 Jun 2026 13:28:57 -0400  
@@ -113,7 +150,7 @@
 
 ---
 
-### 13. [A Glimpse into the “Search Your Target” Market for Stolen Credentials](https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/)
+### 17. [A Glimpse into the “Search Your Target” Market for Stolen Credentials](https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/)
 
 **Source:** Bleeping Computer  
 **Published:** Mon, 22 Jun 2026 10:05:15 -0400  
@@ -122,7 +159,7 @@
 
 ---
 
-### 14. [AryStinger botnet infected thousands of D-Link routers worldwide](https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/)
+### 18. [AryStinger botnet infected thousands of D-Link routers worldwide](https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/)
 
 **Source:** Bleeping Computer  
 **Published:** Sun, 21 Jun 2026 10:14:22 -0400  
@@ -132,7 +169,7 @@
 
 ---
 
-### 15. [New Prinz Eugen ransomware prioritizes recent files for encryption](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/)
+### 19. [New Prinz Eugen ransomware prioritizes recent files for encryption](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 20 Jun 2026 11:23:46 -0400  
@@ -141,49 +178,12 @@
 
 ---
 
-### 16. [Microsoft links Mastra AI supply chain attack to North Korean hackers](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/)
+### 20. [Microsoft links Mastra AI supply chain attack to North Korean hackers](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/)
 
 **Source:** Bleeping Computer  
 **Published:** Sat, 20 Jun 2026 10:09:19 -0400  
 **Severity:** High  
 **Categories:** Malware, Supply Chain  
-
----
-
-### 17. [Klue OAuth breach victim list grows as Icarus hackers claim attack](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 19 Jun 2026 18:31:04 -0400  
-**Severity:** Low  
-**Categories:** Supply Chain  
-
----
-
-### 18. [Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 19 Jun 2026 16:25:02 -0400  
-**Severity:** Medium  
-**CVEs:** CVE-2026-4020  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 19. [Texas govt data breach exposes over 3 million driver’s licenses](https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 19 Jun 2026 12:12:41 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Malware, Phishing  
-
----
-
-### 20. [Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way](https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/)
-
-**Source:** Bleeping Computer  
-**Published:** Fri, 19 Jun 2026 09:10:19 -0400  
-**Severity:** Critical  
-**Categories:** General Security  
 
 ---
 
@@ -404,7 +404,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-42985, CVE-2026-47289, CVE-2026-44801, CVE-2026-44799, CVE-2026-48563, CVE-2026-47291, CVE-2026-44812, CVE-2026-44803, CVE-2026-42992  
+**CVEs:** CVE-2026-44812, CVE-2026-44801, CVE-2026-48563, CVE-2026-47291, CVE-2026-44803, CVE-2026-44799, CVE-2026-42985, CVE-2026-47289, CVE-2026-42992  
 **Categories:** Vulnerability  
 
 ---
@@ -459,7 +459,7 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-25104, CVE-2026-22554, CVE-2026-25713, CVE-2026-28764  
+**CVEs:** CVE-2026-22554, CVE-2026-25104, CVE-2026-28764, CVE-2026-25713  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -634,7 +634,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32894, CVE-2022-32893  
+**CVEs:** CVE-2022-32893, CVE-2022-32894  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
