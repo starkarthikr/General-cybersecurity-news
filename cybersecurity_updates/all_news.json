@@ -1,6 +1,44 @@
 [
   {
     "source": "The Hacker News",
+    "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
+    "link": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html",
+    "published": "Wed, 24 Jun 2026 22:49:18 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 26, 2026.\n\nThe vulnerability in question is CVE-2025-67038 (CVSS score: 9.8), a code injection flaw that could result in the execution",
+    "analysis": {
+      "issue": "CISA says CVE-2025-67038 in Lantronix EDS5000 devices is under active exploitation and urges federal agencies to patch by June 26, 2026",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-67038"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
+    "link": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
+    "published": "Wed, 24 Jun 2026 21:29:50 +0530",
+    "summary": "A coordinated law enforcement operation, in partnership with private sector companies, including Bitdefender, Bitsight, ESET, and Microsoft, has resulted in the takedown of criminal infrastructure powering Amadey and StealC.\n\n\"The main common goal was to disrupt the 'assembly lines' cybercriminals use to launch ransomware, financial fraud, and attacks on critical infrastructure,\" Europol said in",
+    "analysis": {
+      "issue": "Law enforcement dismantled 326 servers and 142 domains tied to Amadey and StealC, recovering 27 million stolen credentials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
     "link": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
     "published": "Wed, 24 Jun 2026 18:18:11 +0530",
@@ -136,44 +174,6 @@
     "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to run malicious code with the workflow's full privileges.\n\nEffective June 18, 2026, the latest version of \"actions/checkout,\" the official GitHub action for checking out a repository into the",
     "analysis": {
       "issue": "GitHub’s actions/checkout v7 now blocks risky fork PR checkouts in privileged workflows to reduce common pwn request attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
-    "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
-    "published": "Tue, 23 Jun 2026 17:00:00 +0530",
-    "summary": "Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile beyond his sight, and the aircraft carried that death across oceans. At each turn, the distance between the warrior and the wound grew wider, and yet one thing never moved: a human chose the target",
-    "analysis": {
-      "issue": "Agentic AI is pushing offensive security beyond chatbots into autonomous recon, social engineering, exploit testing, and malware adaptation",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
-    "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
-    "published": "Tue, 23 Jun 2026 14:24:32 +0530",
-    "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT).\n\nThe list of identified packages, is below -\n\n\n  aes-decode-runner-pro (145 downloads)\n  postcss-minify-selector (256 downloads)\n  postcss-minify-selector-parser (615 downloads)\n\nAll the packages were published over the past month by an npm user named",
-    "analysis": {
-      "issue": "JFrog found malicious npm packages that deploy a Windows RAT to steal Chrome credentials, run commands, and transfer files",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -441,9 +441,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-45586",
         "CVE-2026-49160",
-        "CVE-2026-50507",
-        "CVE-2026-45586"
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -565,6 +565,44 @@
   },
   {
     "source": "Security Week",
+    "title": "When Information Becomes the Attack Surface – Understanding AI Agent Traps",
+    "link": "https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/",
+    "published": "Wed, 24 Jun 2026 17:37:57 +0000",
+    "summary": "<p>From hidden content injections to cognitive state poisoning, attackers are turning trusted data sources into traps for autonomous AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/\">When Information Becomes the Attack Surface &#8211; Understanding AI Agent Traps</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "From hidden content injections to cognitive state poisoning, attackers are turning trusted data sources into traps for autonomous AI",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware",
+    "link": "https://www.securityweek.com/microsoft-and-allies-smash-shared-infrastructure-of-amadey-and-stealc-malware/",
+    "published": "Wed, 24 Jun 2026 15:02:07 +0000",
+    "summary": "<p>Hundreds of C&#038;C servers were disrupted in an operation involving law enforcement and several cybersecurity companies.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-and-allies-smash-shared-infrastructure-of-amadey-and-stealc-malware/\">Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Hundreds of C&C servers were disrupted in an operation involving law enforcement and several cybersecurity companies",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Exclusive: Meet AIVEX, a New Triage Model Built to Reduce Supply Chain Threat and Risk",
     "link": "https://www.securityweek.com/exclusive-meet-aivex-a-new-triage-model-built-to-reduce-supply-chain-threat-and-risk/",
     "published": "Wed, 24 Jun 2026 14:30:35 +0000",
@@ -634,11 +672,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34910",
+        "CVE-2026-34909",
         "CVE-2026-34908",
         "CVE-2025-67038",
-        "CVE-2026-34909",
-        "CVE-2026-33000"
+        "CVE-2026-33000",
+        "CVE-2026-34910"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -724,45 +762,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Webinar Today: Modern Exposure Validation in the AI Era",
-    "link": "https://www.securityweek.com/webinar-today-modern-exposure-validation-in-the-ai-era/",
-    "published": "Wed, 24 Jun 2026 08:04:37 +0000",
-    "summary": "<p>The exploit timeline collapsed. Make sure your validation didn't.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-modern-exposure-validation-in-the-ai-era/\">Webinar Today: Modern Exposure Validation in the AI Era</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Make sure your validation didn’t",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Hackers Exploiting Cisco Unified CM Vulnerability",
-    "link": "https://www.securityweek.com/hackers-exploiting-cisco-unified-cm-vulnerability/",
-    "published": "Wed, 24 Jun 2026 05:44:15 +0000",
-    "summary": "<p>Cisco noted that a PoC had been available for CVE-2026-20230 when it announced patches in early June.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-exploiting-cisco-unified-cm-vulnerability/\">Hackers Exploiting Cisco Unified CM Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Cisco noted that a PoC had been available for CVE-2026-20230 when it announced patches in early June",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20045",
-        "CVE-2026-20230"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Close Encounters of the Human Kind",
     "link": "https://blog.talosintelligence.com/close-encounters-of-the-human-kind/",
@@ -829,14 +828,14 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-44803",
         "CVE-2026-44799",
-        "CVE-2026-44812",
+        "CVE-2026-42985",
         "CVE-2026-44801",
         "CVE-2026-48563",
-        "CVE-2026-42992",
         "CVE-2026-47291",
-        "CVE-2026-44803",
-        "CVE-2026-42985",
+        "CVE-2026-42992",
+        "CVE-2026-44812",
         "CVE-2026-47289"
       ],
       "threat_categories": [
@@ -947,10 +946,10 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-25104",
         "CVE-2026-22554",
-        "CVE-2026-25713",
-        "CVE-2026-28764"
+        "CVE-2026-25104",
+        "CVE-2026-28764",
+        "CVE-2026-25713"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1336,6 +1335,26 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "PixelSmash flaw turns video files into attack tools",
+    "link": "https://www.malwarebytes.com/blog/news/2026/06/pixelsmash-flaw-turns-video-files-into-attack-tools",
+    "published": "Wed, 24 Jun 2026 17:23:41 GMT",
+    "summary": "Researchers have found a critical FFmpeg flaw that could let attackers use a malicious video file to compromise vulnerable systems.",
+    "analysis": {
+      "issue": "A newly discovered vulnerability in FFmpeg’s MagicYUV decoder can turn a tiny, malformed video into a foothold for attackers",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-8461"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Watch out for renewal scams pretending to be Malwarebytes",
     "link": "https://www.malwarebytes.com/blog/scams/2026/06/watch-out-for-renewal-scams-pretending-to-be-malwarebytes",
     "published": "Wed, 24 Jun 2026 14:18:13 GMT",
@@ -1489,21 +1508,20 @@
     }
   },
   {
-    "source": "Malwarebytes",
-    "title": "Nearly 15,000 infected websites cleaned in SocGholish crackdown",
-    "link": "https://www.malwarebytes.com/blog/news/2026/06/nearly-15000-infected-websites-cleaned-in-socgholish-crackdown",
-    "published": "Fri, 19 Jun 2026 16:05:53 GMT",
-    "summary": "Thousands of everyday websites were cleaned as part of a global operation targeting the malware network behind fake browser update scams.",
+    "source": "Crowdstrike Blog",
+    "title": "The Identity Problem Hiding in AI Agent Deployments",
+    "link": "https://www.crowdstrike.com/en-us/blog/the-identity-problem-hiding-in-ai-agent-deployments/",
+    "published": "Jun 24, 2026 00:00:00-0500",
+    "summary": "",
     "analysis": {
-      "issue": "We’re always happy to end the week with some positive news",
+      "issue": "Learn the implications for the lack of standardization in OAuth access tokens and how the industry can move forward",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "High",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Malware"
+        "General Security"
       ]
     }
   },
@@ -1667,24 +1685,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Crowdstrike Blog",
-    "title": "CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/",
-    "published": "Jun 09, 2026 00:00:00-0500",
-    "summary": "",
-    "analysis": {
-      "issue": "Learn how China-nexus adversaries target technology companies for espionage, intellectual property theft, and supply chain access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Supply Chain"
       ]
     }
   }
