@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
+    "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
+    "published": "Tue, 23 Jun 2026 23:50:49 +0530",
+    "summary": "A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credential-harvesting operation known as FortiBleed that has targeted over 430,000 FortiGate firewalls globally.\n\nThe campaign, active since February 2026, involves collecting credential lists, searching for exposed services, brute-forcing accessible systems, and deploying bespoke",
+    "analysis": {
+      "issue": "FortiBleed targeted 430,000 FortiGate firewalls with sniffers and brute-force pipelines that identified over 110 million credentials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
     "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
     "published": "Tue, 23 Jun 2026 20:46:43 +0530",
@@ -167,13 +185,51 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
-    "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
-    "published": "Mon, 22 Jun 2026 21:43:28 +0530",
-    "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions from other customers' applications without requiring authentication.\n\nThe vulnerabilities have been collectively codenamed DifyTap by Zafran Security.",
+    "source": "Bleeping Computer",
+    "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
+    "published": "Tue, 23 Jun 2026 17:48:32 -0400",
+    "summary": "A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks. [...]",
     "analysis": {
-      "issue": "Four DifyTap flaws could expose private AI chats and files across Dify tenants; three are fixed in version 1",
+      "issue": "A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-20230"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Tata Electronics confirms cyberattack as hackers leak data",
+    "link": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
+    "published": "Tue, 23 Jun 2026 17:06:32 -0400",
+    "summary": "Tata Electronics has confirmed in a statement to BleepingComputer that it was the target of a cyberattack that impacted parts of its IT infrastructure. [...]",
+    "analysis": {
+      "issue": "Tata Electronics has confirmed in a statement to BleepingComputer that it was the target of a cyberattack that impacted parts of its IT infrastructure",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
+    "published": "Tue, 23 Jun 2026 16:22:21 -0400",
+    "summary": "​​Microsoft has released the KB5095093 preview cumulative update for Windows 11 24H2 and 25H2, which fixes numerous bugs and begins rolling out new features, including the new Point-in-Time restore feature. [...]",
+    "analysis": {
+      "issue": "​​Microsoft has released the KB5095093 preview cumulative update for Windows 11 24H2 and 25H2, which fixes numerous bugs and begins rolling out new features, including the new Point-in-Time restore feature",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -181,6 +237,44 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
+    "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
+    "published": "Tue, 23 Jun 2026 15:59:12 -0400",
+    "summary": "Healthcare technology company Xsolis says that sensitive data belonging to nearly 1.4 million individuals was compromised in a phishing attack that gave attackers access to its network. [...]",
+    "analysis": {
+      "issue": "Healthcare technology company Xsolis says that sensitive data belonging to nearly 1",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
+    "link": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
+    "published": "Tue, 23 Jun 2026 14:30:16 -0400",
+    "summary": "A new macOS ClickFix campaign is using Terminal commands to silently download, mount, and launch info-stealing malware from malicious disk image (DMG) files. [...]",
+    "analysis": {
+      "issue": "A new macOS ClickFix campaign is using Terminal commands to silently download, mount, and launch info-stealing malware from malicious disk image (DMG) files",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "APT"
       ]
     }
   },
@@ -278,98 +372,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
-    "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
-    "published": "Mon, 22 Jun 2026 17:52:18 -0400",
-    "summary": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]",
-    "analysis": {
-      "issue": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
-    "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
-    "published": "Mon, 22 Jun 2026 17:05:01 -0400",
-    "summary": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service  condition in applications like Kodi, Emby, Nextcloud, PhotoPrism, and OBS Studio. [...]",
-    "analysis": {
-      "issue": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service  condition in applications like Kodi, Emby, Nextcloud, PhotoPrism, a",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-8461"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
-    "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
-    "published": "Mon, 22 Jun 2026 16:01:02 -0400",
-    "summary": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
-    "analysis": {
-      "issue": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
-    "published": "Mon, 22 Jun 2026 13:41:31 -0400",
-    "summary": "Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
-    "analysis": {
-      "issue": "Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
-    "published": "Mon, 22 Jun 2026 13:28:57 -0400",
-    "summary": "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a malicious webpage. [...]",
-    "analysis": {
-      "issue": "A vulnerability chain dubbed AutoJack in Microsoft’s AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a malicious webpage",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -439,8 +441,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
         "CVE-2026-45586",
+        "CVE-2026-50507",
         "CVE-2026-49160"
       ],
       "threat_categories": [
@@ -563,6 +565,24 @@
   },
   {
     "source": "Security Week",
+    "title": "Anthropic’s Mythos Model Found Vulnerabilities in Classified US Government Systems, Official Says",
+    "link": "https://www.securityweek.com/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says/",
+    "published": "Wed, 24 Jun 2026 03:29:58 +0000",
+    "summary": "<p>Come vulnerabilities were found within hours, but that does not mean the model was able to exploit them within that time, the official said.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says/\">Anthropic’s Mythos Model Found Vulnerabilities in Classified US Government Systems, Official Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Come vulnerabilities were found within hours, but that does not mean the model was able to exploit them within that time, the official said",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Dragos Unveils AI for OT Security",
     "link": "https://www.securityweek.com/dragos-unveils-ai-for-ot-security/",
     "published": "Tue, 23 Jun 2026 17:26:07 +0000",
@@ -594,10 +614,10 @@
       "severity": "High",
       "cves": [
         "CVE-2024-5846",
-        "CVE-2026-41948",
         "CVE-2026-41949",
         "CVE-2026-41947",
-        "CVE-2026-41950"
+        "CVE-2026-41950",
+        "CVE-2026-41948"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -741,24 +761,6 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration",
-    "link": "https://www.securityweek.com/trump-signs-executive-order-accelerating-post-quantum-cryptography-migration/",
-    "published": "Tue, 23 Jun 2026 08:43:05 +0000",
-    "summary": "<p>Federal agencies are required to transition high-value assets and high-impact systems to use PQC by the end of 2030 and 2031.</p>\n<p>The post <a href=\"https://www.securityweek.com/trump-signs-executive-order-accelerating-post-quantum-cryptography-migration/\">Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Federal agencies are required to transition high-value assets and high-impact systems to use PQC by the end of 2030 and 2031",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Talos Blog",
     "title": "Close Encounters of the Human Kind",
     "link": "https://blog.talosintelligence.com/close-encounters-of-the-human-kind/",
@@ -825,15 +827,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-47289",
+        "CVE-2026-44812",
         "CVE-2026-48563",
         "CVE-2026-44803",
-        "CVE-2026-42985",
-        "CVE-2026-44801",
-        "CVE-2026-44799",
         "CVE-2026-47291",
+        "CVE-2026-44799",
         "CVE-2026-42992",
-        "CVE-2026-44812"
+        "CVE-2026-42985",
+        "CVE-2026-47289",
+        "CVE-2026-44801"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -943,14 +945,32 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
+        "CVE-2026-22554",
         "CVE-2026-25713",
-        "CVE-2026-25104",
         "CVE-2026-28764",
-        "CVE-2026-22554"
+        "CVE-2026-25104"
       ],
       "threat_categories": [
         "Vulnerability",
         "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "The Purchase Scam Tactic Headed  for the World Cup | Recorded Future",
+    "link": "https://www.recordedfuture.com/blog/world-cup-purchase-scam-tactics",
+    "published": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "summary": "A purchase scam tactic hijacks organic search through compromised sites, and it’s built to scale into 2026 FIFA World Cup fraud. How it works and how to respond.",
+    "analysis": {
+      "issue": "A purchase scam tactic hijacks organic search through compromised sites, and it’s built to scale into 2026 FIFA World Cup fraud",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1110,24 +1130,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Why Holistic Sourcing Wins: The Numbers Behind the Recorded Future Advantage",
-    "link": "https://www.recordedfuture.com/blog/recorded-future-holistic-sourcing-wins",
-    "published": "Fri, 05 Jun 2026 00:00:00 GMT",
-    "summary": "Recorded Future’s Intelligence Graph® uses holistic sourcing across 1M+ sources for complete threat intelligence and proactive defense.",
-    "analysis": {
-      "issue": "Recorded Future’s Intelligence Graph® uses holistic sourcing across 1M+ sources for complete threat intelligence and proactive defense",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -1301,8 +1303,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
