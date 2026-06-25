@@ -1,10 +1,38 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-25 04:45:40 UTC
+**Last Updated:** 2026-06-25 11:15:37 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited](https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html)
+### 1. [New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis](https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 25 Jun 2026 14:53:03 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 2. [New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns](https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 25 Jun 2026 14:24:37 +0530  
+**Severity:** Low  
+**Categories:** Malware  
+
+---
+
+### 3. [Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html)
+
+**Source:** The Hacker News  
+**Published:** Thu, 25 Jun 2026 11:16:54 +0530  
+**Severity:** Critical  
+**CVEs:** CVE-2026-20245  
+**Categories:** Vulnerability  
+
+---
+
+### 4. [CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited](https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 24 Jun 2026 22:49:18 +0530  
@@ -14,7 +42,7 @@
 
 ---
 
-### 2. [Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered](https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html)
+### 5. [Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered](https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 24 Jun 2026 21:29:50 +0530  
@@ -23,7 +51,7 @@
 
 ---
 
-### 3. [Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks](https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html)
+### 6. [Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks](https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 24 Jun 2026 18:18:11 +0530  
@@ -32,7 +60,7 @@
 
 ---
 
-### 4. [Dawn of the Apex Agentic Adversary](https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html)
+### 7. [Dawn of the Apex Agentic Adversary](https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 24 Jun 2026 17:00:00 +0530  
@@ -41,7 +69,7 @@
 
 ---
 
-### 5. [DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering](https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html)
+### 8. [DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering](https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 24 Jun 2026 14:25:12 +0530  
@@ -50,7 +78,7 @@
 
 ---
 
-### 6. [Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root](https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html)
+### 9. [Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root](https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html)
 
 **Source:** The Hacker News  
 **Published:** Wed, 24 Jun 2026 12:20:38 +0530  
@@ -60,37 +88,10 @@
 
 ---
 
-### 7. [FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation](https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html)
+### 10. [FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation](https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html)
 
 **Source:** The Hacker News  
 **Published:** Tue, 23 Jun 2026 23:50:49 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 8. [Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents](https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 23 Jun 2026 20:46:43 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 9. [Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration](https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 23 Jun 2026 20:46:40 +0530  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 10. [GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns](https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html)
-
-**Source:** The Hacker News  
-**Published:** Tue, 23 Jun 2026 19:52:03 +0530  
 **Severity:** Low  
 **Categories:** General Security  
 
@@ -221,7 +222,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
+**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -239,6 +240,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 25 May 2026 13:21:49 +0000  
+**Severity:** Low  
+**Categories:** Data Breach, APT, DDoS  
 
 ---
 
@@ -246,6 +249,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Fri, 22 May 2026 16:34:24 +0000  
+**Severity:** Critical  
+**Categories:** Data Breach  
 
 ---
 
@@ -253,6 +258,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Thu, 21 May 2026 21:50:25 +0000  
+**Severity:** Critical  
+**Categories:** Malware, DDoS  
 
 ---
 
@@ -260,6 +267,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 18 May 2026 20:48:21 +0000  
+**Severity:** High  
+**Categories:** Data Breach  
 
 ---
 
@@ -267,10 +276,60 @@
 
 **Source:** Krebs On Security  
 **Published:** Tue, 12 May 2026 21:46:45 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Malware  
 
 ---
 
-### 31. [When Information Becomes the Attack Surface – Understanding AI Agent Traps](https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/)
+### 31. [GitLab Patches Code Execution, Information Disclosure Vulnerabilities](https://www.securityweek.com/gitlab-patches-code-execution-information-disclosure-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Thu, 25 Jun 2026 11:10:04 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-12053, CVE-2026-10712, CVE-2026-10086  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 32. [25-Year-Old Vulnerability Patched in Curl](https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/)
+
+**Source:** Security Week  
+**Published:** Thu, 25 Jun 2026 09:25:02 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-9547, CVE-2026-8932, CVE-2026-9080, CVE-2026-8926, CVE-2026-8925, CVE-2026-10536  
+**Categories:** Vulnerability  
+
+---
+
+### 33. [NIST Opens Updated IoT Security Guidance to Public Review](https://www.securityweek.com/nist-opens-updated-iot-security-guidance-to-public-review/)
+
+**Source:** Security Week  
+**Published:** Thu, 25 Jun 2026 08:29:26 +0000  
+**Severity:** Critical  
+**Categories:** General Security  
+
+---
+
+### 34. [Chrome 149 Update Resolves 18 Severe Vulnerabilities](https://www.securityweek.com/chrome-149-update-resolves-18-severe-vulnerabilities/)
+
+**Source:** Security Week  
+**Published:** Thu, 25 Jun 2026 07:56:03 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 35. [Cisco SD-WAN Zero-Day Exploited Months Before Patching](https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/)
+
+**Source:** Security Week  
+**Published:** Thu, 25 Jun 2026 06:08:43 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-20245, CVE-2026-20182, CVE-2026-20127, CVE-2026-20230  
+**Categories:** Vulnerability  
+
+---
+
+### 36. [When Information Becomes the Attack Surface – Understanding AI Agent Traps](https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/)
 
 **Source:** Security Week  
 **Published:** Wed, 24 Jun 2026 17:37:57 +0000  
@@ -279,7 +338,7 @@
 
 ---
 
-### 32. [Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware](https://www.securityweek.com/microsoft-and-allies-smash-shared-infrastructure-of-amadey-and-stealc-malware/)
+### 37. [Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware](https://www.securityweek.com/microsoft-and-allies-smash-shared-infrastructure-of-amadey-and-stealc-malware/)
 
 **Source:** Security Week  
 **Published:** Wed, 24 Jun 2026 15:02:07 +0000  
@@ -288,7 +347,7 @@
 
 ---
 
-### 33. [Exclusive: Meet AIVEX, a New Triage Model Built to Reduce Supply Chain Threat and Risk](https://www.securityweek.com/exclusive-meet-aivex-a-new-triage-model-built-to-reduce-supply-chain-threat-and-risk/)
+### 38. [Exclusive: Meet AIVEX, a New Triage Model Built to Reduce Supply Chain Threat and Risk](https://www.securityweek.com/exclusive-meet-aivex-a-new-triage-model-built-to-reduce-supply-chain-threat-and-risk/)
 
 **Source:** Security Week  
 **Published:** Wed, 24 Jun 2026 14:30:35 +0000  
@@ -297,7 +356,7 @@
 
 ---
 
-### 34. [macOS Weaknesses Chained to Silently Disable Endpoint Security Agents](https://www.securityweek.com/macos-weaknesses-chained-to-silently-disable-endpoint-security-agents/)
+### 39. [macOS Weaknesses Chained to Silently Disable Endpoint Security Agents](https://www.securityweek.com/macos-weaknesses-chained-to-silently-disable-endpoint-security-agents/)
 
 **Source:** Security Week  
 **Published:** Wed, 24 Jun 2026 13:50:53 +0000  
@@ -307,7 +366,7 @@
 
 ---
 
-### 35. [Third DraftKings Hacker Sentenced to 18 Months in Prison](https://www.securityweek.com/third-draftkings-hacker-sentenced-to-18-months-in-prison/)
+### 40. [Third DraftKings Hacker Sentenced to 18 Months in Prison](https://www.securityweek.com/third-draftkings-hacker-sentenced-to-18-months-in-prison/)
 
 **Source:** Security Week  
 **Published:** Wed, 24 Jun 2026 12:52:40 +0000  
@@ -316,53 +375,16 @@
 
 ---
 
-### 36. [Critical Ubiquiti Vulnerabilities in Attackers’ Crosshairs](https://www.securityweek.com/critical-ubiquiti-vulnerabilities-in-attackers-crosshairs/)
+### 41. [Introduction to COM usage by Windows threats](https://blog.talosintelligence.com/introduction-to-com-usage-by-windows-threats/)
 
-**Source:** Security Week  
-**Published:** Wed, 24 Jun 2026 12:32:17 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-33000, CVE-2025-67038, CVE-2026-34908, CVE-2026-34910, CVE-2026-34909  
-**Categories:** Vulnerability  
-
----
-
-### 37. [Agentic AI Security: Wrong Context, Wrong Decisions at Machine Speed](https://www.securityweek.com/agentic-ai-security-wrong-context-wrong-decisions-at-machine-speed/)
-
-**Source:** Security Week  
-**Published:** Wed, 24 Jun 2026 12:00:00 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, APT  
+**Source:** Talos Blog  
+**Published:** Thu, 25 Jun 2026 10:00:26 GMT  
+**Severity:** High  
+**Categories:** Malware  
 
 ---
 
-### 38. [New ‘Mistic’ RAT Opens Door to Several Ransomware Families](https://www.securityweek.com/new-mistic-rat-opens-door-to-several-ransomware-families/)
-
-**Source:** Security Week  
-**Published:** Wed, 24 Jun 2026 11:42:38 +0000  
-**Severity:** Low  
-**Categories:** Ransomware, Vulnerability, Malware  
-
----
-
-### 39. [Exploitable CI/CD Vulnerabilities Expose Millions of Repositories to Hijacking](https://www.securityweek.com/exploitable-ci-cd-vulnerabilities-expose-millions-of-repositories-to-hijacking/)
-
-**Source:** Security Week  
-**Published:** Wed, 24 Jun 2026 10:55:05 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Phishing, Supply Chain  
-
----
-
-### 40. [BeyondTrust, LastPass Impacted by Klue-Salesforce Incident](https://www.securityweek.com/beyondtrust-lastpass-impacted-by-klue-salesforce-incident/)
-
-**Source:** Security Week  
-**Published:** Wed, 24 Jun 2026 10:03:06 +0000  
-**Severity:** Low  
-**Categories:** Data Breach, Supply Chain  
-
----
-
-### 41. [Close Encounters of the Human Kind](https://blog.talosintelligence.com/close-encounters-of-the-human-kind/)
+### 42. [Close Encounters of the Human Kind](https://blog.talosintelligence.com/close-encounters-of-the-human-kind/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 18 Jun 2026 18:00:24 GMT  
@@ -371,7 +393,7 @@
 
 ---
 
-### 42. [Scripting the disassembler: Local agentic reverse engineering through vbdec’s live COM object model](https://blog.talosintelligence.com/scripting-the-disassembler/)
+### 43. [Scripting the disassembler: Local agentic reverse engineering through vbdec’s live COM object model](https://blog.talosintelligence.com/scripting-the-disassembler/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 18 Jun 2026 10:00:05 GMT  
@@ -380,7 +402,7 @@
 
 ---
 
-### 43. [A tale of two eras](https://blog.talosintelligence.com/a-tale-of-two-eras/)
+### 44. [A tale of two eras](https://blog.talosintelligence.com/a-tale-of-two-eras/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 11 Jun 2026 18:00:49 GMT  
@@ -389,17 +411,17 @@
 
 ---
 
-### 44. [Microsoft Patch Tuesday for June 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities/)
+### 45. [Microsoft Patch Tuesday for June 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities/)
 
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44812, CVE-2026-42985, CVE-2026-48563, CVE-2026-47289, CVE-2026-42992, CVE-2026-44801, CVE-2026-44799, CVE-2026-47291, CVE-2026-44803  
+**CVEs:** CVE-2026-48563, CVE-2026-44803, CVE-2026-42992, CVE-2026-42985, CVE-2026-44799, CVE-2026-44801, CVE-2026-44812, CVE-2026-47289, CVE-2026-47291  
 **Categories:** Vulnerability  
 
 ---
 
-### 45. [Reporting from Vegas: Networking, AI, and good boys](https://blog.talosintelligence.com/reporting-from-vegas-networking-ai-and-good-boys/)
+### 46. [Reporting from Vegas: Networking, AI, and good boys](https://blog.talosintelligence.com/reporting-from-vegas-networking-ai-and-good-boys/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 04 Jun 2026 18:00:59 GMT  
@@ -408,7 +430,7 @@
 
 ---
 
-### 46. [Winning the cyber marathon with Tony Giandomenico](https://blog.talosintelligence.com/winning-the-cyber-marathon-with-tony-giandomenico/)
+### 47. [Winning the cyber marathon with Tony Giandomenico](https://blog.talosintelligence.com/winning-the-cyber-marathon-with-tony-giandomenico/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 04 Jun 2026 12:05:31 GMT  
@@ -417,7 +439,7 @@
 
 ---
 
-### 47. [Hypotheses, telemetry, and human judgment: Inside Cisco Talos Threat Hunting](https://blog.talosintelligence.com/hypotheses-telemetry-and-human-judgment-inside-cisco-talos-threat-hunting/)
+### 48. [Hypotheses, telemetry, and human judgment: Inside Cisco Talos Threat Hunting](https://blog.talosintelligence.com/hypotheses-telemetry-and-human-judgment-inside-cisco-talos-threat-hunting/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 04 Jun 2026 12:05:05 GMT  
@@ -426,7 +448,7 @@
 
 ---
 
-### 48. [Less panic patching, more precision](https://blog.talosintelligence.com/less-panic-patching-more-precision/)
+### 49. [Less panic patching, more precision](https://blog.talosintelligence.com/less-panic-patching-more-precision/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 28 May 2026 18:00:27 GMT  
@@ -435,22 +457,12 @@
 
 ---
 
-### 49. [DICOM, Pydicom, GDCM, and Orthanc: A technical tour of what really happens in the heap](https://blog.talosintelligence.com/dicom-pydicom-gdcm-and-orthanc-a-technical-tour-of-what-really-happens-in-the-heap/)
+### 50. [DICOM, Pydicom, GDCM, and Orthanc: A technical tour of what really happens in the heap](https://blog.talosintelligence.com/dicom-pydicom-gdcm-and-orthanc-a-technical-tour-of-what-really-happens-in-the-heap/)
 
 **Source:** Talos Blog  
 **Published:** Thu, 28 May 2026 10:00:52 GMT  
 **Severity:** Critical  
 **Categories:** Vulnerability  
-
----
-
-### 50. [MediaArea heap-based buffer overflow vulnerabilities](https://blog.talosintelligence.com/mediaarea-heap-based-buffer-overflow-vulnerabilities/)
-
-**Source:** Talos Blog  
-**Published:** Wed, 27 May 2026 14:00:14 GMT  
-**Severity:** Low  
-**CVEs:** CVE-2026-25104, CVE-2026-25713, CVE-2026-22554, CVE-2026-28764  
-**Categories:** Vulnerability, Supply Chain  
 
 ---
 
@@ -639,7 +651,25 @@
 
 ---
 
-### 71. [PixelSmash flaw turns video files into attack tools](https://www.malwarebytes.com/blog/news/2026/06/pixelsmash-flaw-turns-video-files-into-attack-tools)
+### 71. [Fake domain renewal emails trick website owners into paying scammers](https://www.malwarebytes.com/blog/threat-intel/2026/06/fake-domain-renewal-emails-trick-website-owners-into-paying-scammers)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 25 Jun 2026 10:26:48 GMT  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 72. [Elite network says it was hacked after members&#8217; personal data was left exposed](https://www.malwarebytes.com/blog/privacy/2026/06/elite-network-says-it-was-hacked-after-members-personal-data-was-left-exposed)
+
+**Source:** Malwarebytes  
+**Published:** Thu, 25 Jun 2026 09:08:05 GMT  
+**Severity:** High  
+**Categories:** General Security  
+
+---
+
+### 73. [PixelSmash flaw turns video files into attack tools](https://www.malwarebytes.com/blog/news/2026/06/pixelsmash-flaw-turns-video-files-into-attack-tools)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 24 Jun 2026 17:23:41 GMT  
@@ -649,7 +679,7 @@
 
 ---
 
-### 72. [Watch out for renewal scams pretending to be Malwarebytes](https://www.malwarebytes.com/blog/scams/2026/06/watch-out-for-renewal-scams-pretending-to-be-malwarebytes)
+### 74. [Watch out for renewal scams pretending to be Malwarebytes](https://www.malwarebytes.com/blog/scams/2026/06/watch-out-for-renewal-scams-pretending-to-be-malwarebytes)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 24 Jun 2026 14:18:13 GMT  
@@ -658,7 +688,7 @@
 
 ---
 
-### 73. [&#8220;Total access to all your devices.&#8221; Sextortion scammers strike again](https://www.malwarebytes.com/blog/scams/2026/06/total-access-to-all-your-devices-sextortion-scammers-strike-again)
+### 75. [&#8220;Total access to all your devices.&#8221; Sextortion scammers strike again](https://www.malwarebytes.com/blog/scams/2026/06/total-access-to-all-your-devices-sextortion-scammers-strike-again)
 
 **Source:** Malwarebytes  
 **Published:** Wed, 24 Jun 2026 10:48:20 GMT  
@@ -667,14 +697,14 @@
 
 ---
 
-### 74. [Inside the dark web: Stolen identities for 95¢, malware, and scams-for-hire](https://www.malwarebytes.com/blog/threat-intel/2026/06/inside-the-dark-web-stolen-identities-for-95%c2%a2-malware-and-scams-for-hire)
+### 76. [Inside the dark web: Stolen identities for 95¢, malware, and scams-for-hire](https://www.malwarebytes.com/blog/threat-intel/2026/06/inside-the-dark-web-stolen-identities-for-95%c2%a2-malware-and-scams-for-hire)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 23 Jun 2026 15:52:17 GMT  
 
 ---
 
-### 75. [Meta pauses controversial employee-tracking program after security review](https://www.malwarebytes.com/blog/news/2026/06/meta-pauses-controversial-employee-tracking-program-after-security-review)
+### 77. [Meta pauses controversial employee-tracking program after security review](https://www.malwarebytes.com/blog/news/2026/06/meta-pauses-controversial-employee-tracking-program-after-security-review)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 23 Jun 2026 13:01:50 GMT  
@@ -683,7 +713,7 @@
 
 ---
 
-### 76. [Hackers steal passport and driver&#8217;s license data of 3 million Texans](https://www.malwarebytes.com/blog/data-breaches/2026/06/hackers-steal-passport-and-drivers-license-data-of-3-million-texans)
+### 78. [Hackers steal passport and driver&#8217;s license data of 3 million Texans](https://www.malwarebytes.com/blog/data-breaches/2026/06/hackers-steal-passport-and-drivers-license-data-of-3-million-texans)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 23 Jun 2026 10:30:57 GMT  
@@ -692,7 +722,7 @@
 
 ---
 
-### 77. [GTA 6 early access is nothing but a scam](https://www.malwarebytes.com/blog/threat-intel/2026/06/gta-6-early-access-is-nothing-but-a-scam)
+### 79. [GTA 6 early access is nothing but a scam](https://www.malwarebytes.com/blog/threat-intel/2026/06/gta-6-early-access-is-nothing-but-a-scam)
 
 **Source:** Malwarebytes  
 **Published:** Tue, 23 Jun 2026 09:23:52 GMT  
@@ -701,30 +731,12 @@
 
 ---
 
-### 78. [Thousands of D-Link routers under control of AryStinger botnet](https://www.malwarebytes.com/blog/news/2026/06/thousands-of-d-link-routers-under-control-of-arystinger-botnet)
+### 80. [Thousands of D-Link routers under control of AryStinger botnet](https://www.malwarebytes.com/blog/news/2026/06/thousands-of-d-link-routers-under-control-of-arystinger-botnet)
 
 **Source:** Malwarebytes  
 **Published:** Mon, 22 Jun 2026 15:22:22 GMT  
 **Severity:** Low  
 **Categories:** Vulnerability, Malware  
-
----
-
-### 79. [Document delivery scams: What are they and what’s their goal?](https://www.malwarebytes.com/blog/scams/2026/06/document-delivery-scams-what-are-they-and-whats-their-goal)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 22 Jun 2026 13:19:50 GMT  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 80. [A week in security (June 15 &#8211; June 21)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-15-june-21-2)
-
-**Source:** Malwarebytes  
-**Published:** Mon, 22 Jun 2026 07:01:00 GMT  
-**Severity:** Low  
-**Categories:** Malware  
 
 ---
 
