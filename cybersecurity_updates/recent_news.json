@@ -1,6 +1,24 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
+    "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
+    "published": "Thu, 25 Jun 2026 19:42:52 +0530",
+    "summary": "An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code.\n\nAccording to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcndndgjdbohmhepckk), has more than 10 million installs and carries a Featured badge on the Chrome Web Store.\n\nThe extension description states that it allows users to prevent web",
+    "analysis": {
+      "issue": "Island found dormant JavaScript injection paths in Adblock for YouTube, a Chrome extension with 10M+ installs, raising browser security risks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
     "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
     "published": "Thu, 25 Jun 2026 17:54:43 +0530",
@@ -167,20 +185,74 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
-    "link": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html",
-    "published": "Wed, 24 Jun 2026 14:25:12 +0530",
-    "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as the Treasury unveiled fresh sanctions against nine individuals and 26 entities linked to Prince Group.\n\n\"These subsidiaries are alleged to have assisted individuals and organizations in transferring proceeds of",
+    "source": "Bleeping Computer",
+    "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
+    "published": "Thu, 25 Jun 2026 14:29:20 -0400",
+    "summary": "Microsoft has quietly extended its free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devices to continue receiving security updates until October 12, 2027. [...]",
     "analysis": {
-      "issue": "DoJ seized HuiOne cloud infrastructure as Treasury sanctioned Prince Group-linked entities over crypto fraud and money laundering",
+      "issue": "Microsoft has quietly extended its free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devices to continue receiving security updates until October 12, 2027",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
+    "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
+    "published": "Thu, 25 Jun 2026 12:23:19 -0400",
+    "summary": "A newly discovered macOS malware dubbed \"Gaslight\" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]",
+    "analysis": {
+      "issue": "A newly discovered macOS malware dubbed \"Gaslight\" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "PirloTV sports piracy network disrupted as 44 domains seized",
+    "link": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
+    "published": "Thu, 25 Jun 2026 11:36:56 -0400",
+    "summary": "A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains. [...]",
+    "analysis": {
+      "issue": "A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
+    "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
+    "published": "Thu, 25 Jun 2026 11:00:00 -0400",
+    "summary": "The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week and by adding browser-in-the-middle capabilities for improved data theft. [...]",
+    "analysis": {
+      "issue": "The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week, and by adding browser-in-the-middle (BitM) capabilities for improved data theft",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "General Security"
+        "Phishing"
       ]
     }
   },
@@ -296,83 +368,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
-    "published": "Wed, 24 Jun 2026 10:35:15 -0400",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers. [...]",
-    "analysis": {
-      "issue": "Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-67038"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Amadey, StealC malware operations disrupted in Operation Endgame action",
-    "link": "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/",
-    "published": "Wed, 24 Jun 2026 10:35:11 -0400",
-    "summary": "Microsoft, Europol, and international partners have disrupted infrastructure used by the Amadey and StealC malware operations as part of Operation Endgame, which targets cybercriminal services and ransomware gangs. [...]",
-    "analysis": {
-      "issue": "Microsoft, Europol, and international partners have disrupted infrastructure used by the Amadey and StealC malware operations as part of Operation Endgame, which targets cybercriminal services and ransomware gangs",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Securing the service desk: Why social engineering attacks keep succeeding",
-    "link": "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/",
-    "published": "Wed, 24 Jun 2026 10:02:12 -0400",
-    "summary": "Service desks have become a favored target for attackers seeking password resets, MFA changes, and access to corporate accounts. Specops Software breaks down how service desk social engineering attacks work and how organizations can defend against them. [...]",
-    "analysis": {
-      "issue": "Service desk social engineering remains one of the most effective ways for attackers to gain access to corporate systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
-    "link": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
-    "published": "Wed, 24 Jun 2026 06:41:51 -0400",
-    "summary": "A new backdoor dubbed Mistic has been observed in financially motivated attacks targeting organizations in the insurance, education, IT, and professional services sectors. [...]",
-    "analysis": {
-      "issue": "A new backdoor dubbed Mistic has been observed in financially motivated attacks targeting organizations in the insurance, education, IT, and professional services sectors",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -442,9 +437,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-50507",
+        "CVE-2026-45586",
         "CVE-2026-49160",
-        "CVE-2026-45586"
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -475,20 +470,7 @@
     "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
     "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
     "published": "Mon, 25 May 2026 13:21:49 +0000",
-    "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequent staging ground for cyber mischief from Russia's intelligence agencies.",
-    "analysis": {
-      "issue": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "APT",
-        "DDoS"
-      ]
-    }
+    "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequent staging ground for cyber mischief from Russia's intelligence agencies."
   },
   {
     "source": "Krebs On Security",
@@ -584,10 +566,10 @@
   },
   {
     "source": "Security Week",
-    "title": "Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply",
+    "title": "Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack",
     "link": "https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/",
     "published": "Thu, 25 Jun 2026 12:07:00 +0000",
-    "summary": "<p>Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala.</p>\n<p>The post <a href=\"https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/\">Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "summary": "<p>Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala.</p>\n<p>The post <a href=\"https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/\">Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
     "analysis": {
       "issue": "Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala",
       "solution": null,
@@ -637,9 +619,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-12053",
         "CVE-2026-10712",
-        "CVE-2026-10086",
-        "CVE-2026-12053"
+        "CVE-2026-10086"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -660,15 +642,34 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-10536",
+        "CVE-2026-8925",
         "CVE-2026-9080",
         "CVE-2026-9547",
-        "CVE-2026-8925",
         "CVE-2026-8932",
-        "CVE-2026-8926",
-        "CVE-2026-10536"
+        "CVE-2026-8926"
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "SecurityWeek ICS Cybersecurity Conference Heads to Nashville for Special 25-Year Anniversary Edition",
+    "link": "https://www.securityweek.com/securityweek-ics-cybersecurity-conference-heads-to-nashville-for-special-25-year-anniversary-edition/",
+    "published": "Thu, 25 Jun 2026 09:00:00 +0000",
+    "summary": "<p>The 2026 Industrial Control Systems (ICS) Cybersecurity Conference takes place October 6-8, 2026, at the W Nashville.</p>\n<p>The post <a href=\"https://www.securityweek.com/securityweek-ics-cybersecurity-conference-heads-to-nashville-for-special-25-year-anniversary-edition/\">SecurityWeek ICS Cybersecurity Conference Heads to Nashville for Special 25-Year Anniversary Edition</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The 2026 Industrial Control Systems (ICS) Cybersecurity Conference takes place October 6-8, 2026, at the W Nashville",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "APT"
       ]
     }
   },
@@ -722,10 +723,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20230",
         "CVE-2026-20127",
-        "CVE-2026-20245",
-        "CVE-2026-20182"
+        "CVE-2026-20230",
+        "CVE-2026-20182",
+        "CVE-2026-20245"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -751,21 +752,19 @@
     }
   },
   {
-    "source": "Security Week",
-    "title": "Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware",
-    "link": "https://www.securityweek.com/microsoft-and-allies-smash-shared-infrastructure-of-amadey-and-stealc-malware/",
-    "published": "Wed, 24 Jun 2026 15:02:07 +0000",
-    "summary": "<p>Hundreds of C&#038;C servers were disrupted in an operation involving law enforcement and several cybersecurity companies.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-and-allies-smash-shared-infrastructure-of-amadey-and-stealc-malware/\">Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "source": "Talos Blog",
+    "title": "Beyond IOCs: AI-enabled threat intelligence",
+    "link": "https://blog.talosintelligence.com/beyond-iocs-ai-enabled-threat-intelligence/",
+    "published": "Thu, 25 Jun 2026 18:00:26 GMT",
+    "summary": "In this week’s newsletter, Martin considers how AI will help threat intelligence by creating an easily queryable data source of intelligence reports.",
     "analysis": {
-      "issue": "Hundreds of C&C servers were disrupted in an operation involving law enforcement and several cybersecurity companies",
+      "issue": "Welcome to this week’s Threat Source newsletter",
       "solution": null,
       "cause": null,
       "timeline": null,
       "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Ransomware",
-        "Vulnerability",
         "Malware"
       ]
     }
@@ -855,15 +854,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-44812",
         "CVE-2026-48563",
-        "CVE-2026-47289",
-        "CVE-2026-44799",
-        "CVE-2026-42992",
         "CVE-2026-44803",
+        "CVE-2026-42992",
         "CVE-2026-44801",
         "CVE-2026-42985",
         "CVE-2026-47291",
-        "CVE-2026-44812"
+        "CVE-2026-44799",
+        "CVE-2026-47289"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -943,20 +942,20 @@
     }
   },
   {
-    "source": "Talos Blog",
-    "title": "DICOM, Pydicom, GDCM, and Orthanc: A technical tour of what really happens in the heap",
-    "link": "https://blog.talosintelligence.com/dicom-pydicom-gdcm-and-orthanc-a-technical-tour-of-what-really-happens-in-the-heap/",
-    "published": "Thu, 28 May 2026 10:00:52 GMT",
-    "summary": "This white paper presents a concrete case study demonstrating the creation of a heap overflow vulnerability through the exploitation of the DICOM file format.",
+    "source": "Recorded Future",
+    "title": "Where Expertise Meets Algorithm: The Insikt Group® Intelligence Edge",
+    "link": "https://www.recordedfuture.com/blog/expertise-meets-algorithm-intelligence-edge",
+    "published": "Thu, 25 Jun 2026 00:00:00 GMT",
+    "summary": "Discover how Recorded Future’s Insikt Group combines human expertise with automated analysis to turn raw data into actionable, industry-leading threat intelligence.",
     "analysis": {
-      "issue": "Over the last decade, DICOM parsing has become an active research topic",
+      "issue": "Discover how Recorded Future’s Insikt Group combines human expertise with automated analysis to turn raw data into actionable, industry-leading threat intelligence",
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Critical",
+      "severity": "Low",
       "cves": [],
       "threat_categories": [
-        "Vulnerability"
+        "General Security"
       ]
     }
   },
@@ -1112,24 +1111,6 @@
     "summary": "Explore the Insikt Group study on 37 Chinese noncombatant evacuation operations (NEOs) from 2005–2025, revealing how China leverages SOEs and civilian resources for its overseas interests",
     "analysis": {
       "issue": "Explore the Insikt Group study on 37 Chinese noncombatant evacuation operations (NEOs) from 2005–2025, revealing how China leverages SOEs and civilian resources for its overseas interests",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "Russia’s Defense-Based Economy Risks Forcing Putin to Fight Wars",
-    "link": "https://www.recordedfuture.com/research/russia-defense-base-economy-risks-wars",
-    "published": "Tue, 09 Jun 2026 00:00:00 GMT",
-    "summary": "Western sanctions have tied Russia's elite patronage to the defense sector. Learn why this creates a domestic imperative for Putin to pursue perpetual war",
-    "analysis": {
-      "issue": "Western sanctions have tied Russia's elite patronage to the defense sector",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -1307,8 +1288,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32894",
-        "CVE-2022-32893"
+        "CVE-2022-32893",
+        "CVE-2022-32894"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -1333,6 +1314,24 @@
       ],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
+    "title": "Beware of &#8220;Parcel Expert&#8221; job offers: They&#8217;re parcel mule scams",
+    "link": "https://www.malwarebytes.com/blog/scams/2026/06/beware-of-parcel-expert-job-offers-theyre-parcel-mule-scams",
+    "published": "Thu, 25 Jun 2026 18:12:51 GMT",
+    "summary": "Most parcel mule scams start with fake job offers that trick victims into handling stolen goods.",
+    "analysis": {
+      "issue": "A parcel mule scam, also called a reshipping scam, is a fake job offer designed to recruit people into handling stolen goods",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
       ]
     }
   },
@@ -1490,24 +1489,6 @@
       "threat_categories": [
         "Data Breach",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "GTA 6 early access is nothing but a scam",
-    "link": "https://www.malwarebytes.com/blog/threat-intel/2026/06/gta-6-early-access-is-nothing-but-a-scam",
-    "published": "Tue, 23 Jun 2026 09:23:52 GMT",
-    "summary": "No matter what a website claims, nobody is selling legitimate GTA 6 early access. And scammers are counting on fans believing otherwise.",
-    "analysis": {
-      "issue": "A new wave of scam websites is offering something millions of people want: a way to play Grand Theft Auto VI before it comes out",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
