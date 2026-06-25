@@ -1,6 +1,42 @@
 [
   {
     "source": "The Hacker News",
+    "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
+    "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
+    "published": "Thu, 25 Jun 2026 17:54:43 +0530",
+    "summary": "It’s dumb out there again.\n\nThis week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working, trusted apps doing sketchy crap, browser tricks jumping the fence, and “normal” workflows turning into phishing pipes because apparently email was not enough hell already.\n\nThe worst part is how cheap some of it feels. Not elite. Not cinematic.",
+    "analysis": {
+      "issue": "This week's ThreatsDay Bulletin covers curl flaws, a critical Hoppscotch bug, smart TV proxyware, macOS ClickFix attacks, phishing, and AI cybercrime",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
+    "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
+    "published": "Thu, 25 Jun 2026 16:47:31 +0530",
+    "summary": "Despite the abundance of telemetry at analysts’ disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have? How do we know we’re seeing it all, in context?\n\nAnswering these questions requires teams to go beyond alerts, the most common basis for initial triage. But investigations (and their outcomes)",
+    "analysis": {
+      "issue": "Corelight’s NDR Essentials explains how network evidence helps analysts validate alerts, hunt threats, and disrupt attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
     "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
     "published": "Thu, 25 Jun 2026 14:53:03 +0530",
@@ -149,33 +185,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
-    "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
-    "published": "Wed, 24 Jun 2026 12:20:38 +0530",
-    "summary": "Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME).\n\nThe vulnerability, tracked as CVE-2026-20230 (CVSS score: 8.6), is a case of improper input validation for specific HTTP requests that could allow an unauthenticated, remote",
+    "source": "Bleeping Computer",
+    "title": "The Four Elevations of Effective Fraud Prevention",
+    "link": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
+    "published": "Thu, 25 Jun 2026 10:01:11 -0400",
+    "summary": "Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems. IPQS explains the four elevations of fraud prevention and why broader visibility improves fraud detection. [...]",
     "analysis": {
-      "issue": "Cisco Unified CM CVE-2026-20230 is under active exploitation, allowing file writes on WebDialer-enabled systems",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-20230"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
-    "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
-    "published": "Tue, 23 Jun 2026 23:50:49 +0530",
-    "summary": "A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credential-harvesting operation known as FortiBleed that has targeted over 430,000 FortiGate firewalls globally.\n\nThe campaign, active since February 2026, involves collecting credential lists, searching for exposed services, brute-forcing accessible systems, and deploying bespoke",
-    "analysis": {
-      "issue": "FortiBleed targeted 430,000 FortiGate firewalls with sniffers and brute-force pipelines that identified over 110 million credentials",
+      "issue": "Effective fraud prevention programs call for monitoring across every customer touchpoint from account creation to checkout, login to customer service interactions",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -183,6 +199,24 @@
       "cves": [],
       "threat_categories": [
         "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
+    "published": "Thu, 25 Jun 2026 08:12:20 -0400",
+    "summary": "Account takeover attacks continue to challenge security teams because attackers often operate through legitimate accounts and trusted services. This webinar explores how behavioral AI can help organizations identify compromised accounts faster and automate response workflows. [...]",
+    "analysis": {
+      "issue": "Organizations continue to invest in phishing defenses, identity protection, and multi-factor authentication, yet account takeover attacks remain one of the most disruptive security incidents facing enterprises today",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
       ]
     }
   },
@@ -339,44 +373,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
-    "published": "Tue, 23 Jun 2026 17:48:32 -0400",
-    "summary": "A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks. [...]",
-    "analysis": {
-      "issue": "A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [
-        "CVE-2026-20230"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Tata Electronics confirms cyberattack as hackers leak data",
-    "link": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
-    "published": "Tue, 23 Jun 2026 17:06:32 -0400",
-    "summary": "Tata Electronics has confirmed in a statement to BleepingComputer that it was the target of a cyberattack that impacted parts of its IT infrastructure. [...]",
-    "analysis": {
-      "issue": "Tata Electronics has confirmed in a statement to BleepingComputer that it was the target of a cyberattack that impacted parts of its IT infrastructure",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -446,9 +442,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
         "CVE-2026-50507",
-        "CVE-2026-49160"
+        "CVE-2026-49160",
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -570,6 +566,66 @@
   },
   {
     "source": "Security Week",
+    "title": "Runlayer Raises $30 Million in Series A Funding",
+    "link": "https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/",
+    "published": "Thu, 25 Jun 2026 12:39:50 +0000",
+    "summary": "<p>The startup’s platform functions as a secure control layer, aiming to secure AI tools across enterprises.</p>\n<p>The post <a href=\"https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/\">Runlayer Raises $30 Million in Series A Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The startup’s platform functions as a secure control layer, aiming to secure AI tools across enterprises",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply",
+    "link": "https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/",
+    "published": "Thu, 25 Jun 2026 12:07:00 +0000",
+    "summary": "<p>Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala.</p>\n<p>The post <a href=\"https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/\">Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "Vulnerability",
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning",
+    "link": "https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/",
+    "published": "Thu, 25 Jun 2026 11:23:40 +0000",
+    "summary": "<p>The exploited flaw, CVE-2025-67038, is one of the vulnerabilities disclosed in April as part of the BRIDGE:BREAK research project.</p>\n<p>The post <a href=\"https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/\">Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The exploited flaw, CVE-2025-67038, is one of the vulnerabilities disclosed in April as part of the BRIDGE:BREAK research project",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-67038"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "GitLab Patches Code Execution, Information Disclosure Vulnerabilities",
     "link": "https://www.securityweek.com/gitlab-patches-code-execution-information-disclosure-vulnerabilities/",
     "published": "Thu, 25 Jun 2026 11:10:04 +0000",
@@ -581,9 +637,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-12053",
         "CVE-2026-10712",
-        "CVE-2026-10086"
+        "CVE-2026-10086",
+        "CVE-2026-12053"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -604,11 +660,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-9547",
-        "CVE-2026-8932",
         "CVE-2026-9080",
-        "CVE-2026-8926",
+        "CVE-2026-9547",
         "CVE-2026-8925",
+        "CVE-2026-8932",
+        "CVE-2026-8926",
         "CVE-2026-10536"
       ],
       "threat_categories": [
@@ -666,10 +722,10 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-20245",
-        "CVE-2026-20182",
+        "CVE-2026-20230",
         "CVE-2026-20127",
-        "CVE-2026-20230"
+        "CVE-2026-20245",
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -711,64 +767,6 @@
         "Ransomware",
         "Vulnerability",
         "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Exclusive: Meet AIVEX, a New Triage Model Built to Reduce Supply Chain Threat and Risk",
-    "link": "https://www.securityweek.com/exclusive-meet-aivex-a-new-triage-model-built-to-reduce-supply-chain-threat-and-risk/",
-    "published": "Wed, 24 Jun 2026 14:30:35 +0000",
-    "summary": "<p>The new framework seeks to help security teams identify which software supply chain vulnerabilities pose the greatest operational, safety, and business risks in AI-driven environments.</p>\n<p>The post <a href=\"https://www.securityweek.com/exclusive-meet-aivex-a-new-triage-model-built-to-reduce-supply-chain-threat-and-risk/\">Exclusive: Meet AIVEX, a New Triage Model Built to Reduce Supply Chain Threat and Risk</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The new framework seeks to help security teams identify which software supply chain vulnerabilities pose the greatest operational, safety, and business risks in AI-driven environments",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "macOS Weaknesses Chained to Silently Disable Endpoint Security Agents",
-    "link": "https://www.securityweek.com/macos-weaknesses-chained-to-silently-disable-endpoint-security-agents/",
-    "published": "Wed, 24 Jun 2026 13:50:53 +0000",
-    "summary": "<p>A standard non-admin account is sufficient to conduct an attack that exploits legitimate OS behavior rather than software vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/macos-weaknesses-chained-to-silently-disable-endpoint-security-agents/\">macOS Weaknesses Chained to Silently Disable Endpoint Security Agents</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "A standard non-admin account is sufficient to conduct an attack that exploits legitimate OS behavior rather than software vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2026-39118"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Third DraftKings Hacker Sentenced to 18 Months in Prison",
-    "link": "https://www.securityweek.com/third-draftkings-hacker-sentenced-to-18-months-in-prison/",
-    "published": "Wed, 24 Jun 2026 12:52:40 +0000",
-    "summary": "<p>Nathan Austad has been ordered to pay roughly $1.8 million in forfeiture and restitution, and the sentence also includes 3 years of supervised release. </p>\n<p>The post <a href=\"https://www.securityweek.com/third-draftkings-hacker-sentenced-to-18-months-in-prison/\">Third DraftKings Hacker Sentenced to 18 Months in Prison</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "Nathan Austad has been ordered to pay roughly $1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware"
       ]
     }
   },
@@ -858,14 +856,14 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-48563",
-        "CVE-2026-44803",
-        "CVE-2026-42992",
-        "CVE-2026-42985",
-        "CVE-2026-44799",
-        "CVE-2026-44801",
-        "CVE-2026-44812",
         "CVE-2026-47289",
-        "CVE-2026-47291"
+        "CVE-2026-44799",
+        "CVE-2026-42992",
+        "CVE-2026-44803",
+        "CVE-2026-44801",
+        "CVE-2026-42985",
+        "CVE-2026-47291",
+        "CVE-2026-44812"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -959,6 +957,24 @@
       "cves": [],
       "threat_categories": [
         "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Recorded Future",
+    "title": "Evaluating Mexico’s New Cybersecurity Plan",
+    "link": "https://www.recordedfuture.com/research/mexico-new-cybersecurity-plan-evaluation",
+    "published": "Thu, 25 Jun 2026 00:00:00 GMT",
+    "summary": "Explore an analysis of Mexico’s 2025–2030 National Cybersecurity Plan. Discover how Mexico is addressing critical threats like ransomware, organized crime, and AI-driven attacks while preparing its digital infrastructure for the 2026 FIFA World Cup and beyond",
+    "analysis": {
+      "issue": "Explore an analysis of Mexico’s 2025–2030 National Cybersecurity Plan",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware"
       ]
     }
   },
@@ -1118,24 +1134,6 @@
       "cause": null,
       "timeline": null,
       "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Recorded Future",
-    "title": "May 2026 CVE Landscape",
-    "link": "https://www.recordedfuture.com/blog/may-2026-cve-landscape",
-    "published": "Mon, 08 Jun 2026 00:00:00 GMT",
-    "summary": "In May 2026, Insikt Group® identified 41 high-impact vulnerabilities that should be prioritized for remediation, all of which had a Very Critical Recorded Future Risk Score. This represents a 11% increase from last month.",
-    "analysis": {
-      "issue": "In May 2026, Insikt Group® identified 41 high-impact vulnerabilities that should be prioritized for remediation, all of which had a Very Critical Recorded Future Risk Score",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
       "cves": [],
       "threat_categories": [
         "General Security"
@@ -1340,6 +1338,26 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Update Chrome to patch critical browser security flaws",
+    "link": "https://www.malwarebytes.com/blog/news/2026/06/update-chrome-to-patch-critical-browser-security-flaws",
+    "published": "Thu, 25 Jun 2026 11:04:48 GMT",
+    "summary": "Chrome has patched 18 vulnerabilities, including four critical flaws. Two WebGL bugs could allow attackers to escape the browser's security sandbox.",
+    "analysis": {
+      "issue": "Google released a security update for Chrome that fixes 18 vulnerabilities, including four rated Critical",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-13028"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Fake domain renewal emails trick website owners into paying scammers",
     "link": "https://www.malwarebytes.com/blog/threat-intel/2026/06/fake-domain-renewal-emails-trick-website-owners-into-paying-scammers",
     "published": "Thu, 25 Jun 2026 10:26:48 GMT",
@@ -1490,25 +1508,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Thousands of D-Link routers under control of AryStinger botnet",
-    "link": "https://www.malwarebytes.com/blog/news/2026/06/thousands-of-d-link-routers-under-control-of-arystinger-botnet",
-    "published": "Mon, 22 Jun 2026 15:22:22 GMT",
-    "summary": "Thousands of outdated D-Link routers have been absorbed into the AryStinger botnet, with no future security updates available to protect them.",
-    "analysis": {
-      "issue": "Researchers have found that the recently discovered AryStinger botnet has quietly hijacked thousands of end‑of‑life D‑Link routers and some network-attached storage (NAS) devices, turning them into a distributed scanning and proxy network that attack",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
       ]
     }
   },
