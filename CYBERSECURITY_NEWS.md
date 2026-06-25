@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-24 18:17:52 UTC
+**Last Updated:** 2026-06-25 04:05:05 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,16 +96,54 @@
 
 ---
 
-### 11. [CISA warns of max severity Ubiquiti flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/)
+### 11. [Google releases new privacy controls for activity history, personalization](https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/)
 
 **Source:** Bleeping Computer  
-**Published:** Wed, 24 Jun 2026 10:35:15 -0400  
+**Published:** Wed, 24 Jun 2026 19:46:17 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [DraftKings hacker 'Snoopy' sentenced to 18 months in prison](https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 24 Jun 2026 17:55:43 -0400  
 **Severity:** Low  
 **Categories:** Vulnerability  
 
 ---
 
-### 12. [Amadey, StealC malware operations disrupted in Operation Endgame action](https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/)
+### 13. [Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access](https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 24 Jun 2026 17:29:10 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2026-20245  
+**Categories:** Vulnerability  
+
+---
+
+### 14. [Malicious Edge extension abuses Native Messaging as bridge to malware](https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 24 Jun 2026 16:58:22 -0400  
+**Severity:** Low  
+**Categories:** Ransomware, Malware  
+
+---
+
+### 15. [CISA warns of max severity Ubiquiti flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Wed, 24 Jun 2026 10:35:15 -0400  
+**Severity:** Critical  
+**CVEs:** CVE-2025-67038  
+**Categories:** Vulnerability  
+
+---
+
+### 16. [Amadey, StealC malware operations disrupted in Operation Endgame action](https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 24 Jun 2026 10:35:11 -0400  
@@ -114,7 +152,7 @@
 
 ---
 
-### 13. [Securing the service desk: Why social engineering attacks keep succeeding](https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/)
+### 17. [Securing the service desk: Why social engineering attacks keep succeeding](https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 24 Jun 2026 10:02:12 -0400  
@@ -123,7 +161,7 @@
 
 ---
 
-### 14. [Stealthy Mistic backdoor linked to ransomware access broker KongTuke](https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/)
+### 18. [Stealthy Mistic backdoor linked to ransomware access broker KongTuke](https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 24 Jun 2026 06:41:51 -0400  
@@ -132,7 +170,7 @@
 
 ---
 
-### 15. [Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/)
+### 19. [Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 23 Jun 2026 17:48:32 -0400  
@@ -142,48 +180,12 @@
 
 ---
 
-### 16. [Tata Electronics confirms cyberattack as hackers leak data](https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/)
+### 20. [Tata Electronics confirms cyberattack as hackers leak data](https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/)
 
 **Source:** Bleeping Computer  
 **Published:** Tue, 23 Jun 2026 17:06:32 -0400  
 **Severity:** Low  
 **Categories:** Data Breach  
-
----
-
-### 17. [Windows 11 KB5095093 update rolls out new Point-in-Time restore feature](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 23 Jun 2026 16:22:21 -0400  
-**Severity:** Low  
-**Categories:** General Security  
-
----
-
-### 18. [Healthtech firm Xolis suffers data breach impacting 1.4 million people](https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 23 Jun 2026 15:59:12 -0400  
-**Severity:** Low  
-**Categories:** Data Breach, Phishing  
-
----
-
-### 19. [New macOS ClickFix attack silently mounts DMGs to push infostealer](https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 23 Jun 2026 14:30:16 -0400  
-**Severity:** Low  
-**Categories:** Malware, APT  
-
----
-
-### 20. [Scattered Spider members plead guilty to hacking Transport for London](https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/)
-
-**Source:** Bleeping Computer  
-**Published:** Tue, 23 Jun 2026 11:31:59 -0400  
-**Severity:** High  
-**Categories:** General Security  
 
 ---
 
@@ -219,7 +221,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-49160, CVE-2026-50507  
+**CVEs:** CVE-2026-50507, CVE-2026-49160, CVE-2026-45586  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -329,7 +331,7 @@
 **Source:** Security Week  
 **Published:** Wed, 24 Jun 2026 12:32:17 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-34909, CVE-2026-34908, CVE-2025-67038, CVE-2026-33000, CVE-2026-34910  
+**CVEs:** CVE-2025-67038, CVE-2026-34909, CVE-2026-34910, CVE-2026-34908, CVE-2026-33000  
 **Categories:** Vulnerability  
 
 ---
@@ -402,7 +404,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44803, CVE-2026-44799, CVE-2026-42985, CVE-2026-44801, CVE-2026-48563, CVE-2026-47291, CVE-2026-42992, CVE-2026-44812, CVE-2026-47289  
+**CVEs:** CVE-2026-42985, CVE-2026-44801, CVE-2026-47291, CVE-2026-48563, CVE-2026-44812, CVE-2026-42992, CVE-2026-47289, CVE-2026-44803, CVE-2026-44799  
 **Categories:** Vulnerability  
 
 ---
@@ -457,24 +459,24 @@
 **Source:** Talos Blog  
 **Published:** Wed, 27 May 2026 14:00:14 GMT  
 **Severity:** Low  
-**CVEs:** CVE-2026-22554, CVE-2026-25104, CVE-2026-28764, CVE-2026-25713  
+**CVEs:** CVE-2026-28764, CVE-2026-25104, CVE-2026-22554, CVE-2026-25713  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 51. [The Purchase Scam Tactic Headed  for the World Cup | Recorded Future](https://www.recordedfuture.com/blog/world-cup-purchase-scam-tactics)
+### 51. [FortiBleed Campaign Exposing Credentials for 73,932 FortiGate Systems](https://www.recordedfuture.com/blog/critical-fortibleed-campaign)
 
 **Source:** Recorded Future  
-**Published:** Tue, 23 Jun 2026 00:00:00 GMT  
+**Published:** Wed, 24 Jun 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
 
 ---
 
-### 52. [FortiBleed Campaign Exposing Credentials for 73,932 FortiGate Systems](https://www.recordedfuture.com/blog/critical-fortibleed-campaign)
+### 52. [The Purchase Scam Tactic Headed  for the World Cup | Recorded Future](https://www.recordedfuture.com/blog/world-cup-purchase-scam-tactics)
 
 **Source:** Recorded Future  
-**Published:** Fri, 19 Jun 2026 00:00:00 GMT  
+**Published:** Tue, 23 Jun 2026 00:00:00 GMT  
 **Severity:** Low  
 **Categories:** General Security  
 

@@ -186,6 +186,81 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Google releases new privacy controls for activity history, personalization",
+    "link": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
+    "published": "Wed, 24 Jun 2026 19:46:17 -0400",
+    "summary": "Google is rolling out new privacy controls for Search services and Google Play, giving you more control over saved history and personalized recommendations. [...]",
+    "analysis": {
+      "issue": "Google is rolling out new privacy controls for Search services and Google Play, giving you more control over saved history and personalized recommendations",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
+    "link": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
+    "published": "Wed, 24 Jun 2026 17:55:43 -0400",
+    "summary": "A 21-year-old using the alias \"Snoopy\" was sentenced to 18 months in prison for his role in hacking DraftKings accounts in the November 2022 cyberattack. [...]",
+    "analysis": {
+      "issue": "A 21-year-old using the alias \"Snoopy\" was sentenced to 18 months in prison for his role in hacking DraftKings accounts in the November 2022 cyberattack",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
+    "link": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
+    "published": "Wed, 24 Jun 2026 17:29:10 -0400",
+    "summary": "New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices. [...]",
+    "analysis": {
+      "issue": "New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-20245"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
+    "published": "Wed, 24 Jun 2026 16:58:22 -0400",
+    "summary": "A malicious Microsoft Edge extension dubbed 'Edgecution' has been used in a ransomware attack to escape the browser sandbox and deploy a Python-based backdoor. [...]",
+    "analysis": {
+      "issue": "A malicious Microsoft Edge extension dubbed ‘Edgecution' has been used in a ransomware attack to escape the browser sandbox and deploy a Python-based backdoor",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Ransomware",
+        "Malware"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
     "published": "Wed, 24 Jun 2026 10:35:15 -0400",
@@ -195,8 +270,10 @@
       "solution": null,
       "cause": null,
       "timeline": null,
-      "severity": "Low",
-      "cves": [],
+      "severity": "Critical",
+      "cves": [
+        "CVE-2025-67038"
+      ],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -298,80 +375,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
-    "published": "Tue, 23 Jun 2026 16:22:21 -0400",
-    "summary": "​​Microsoft has released the KB5095093 preview cumulative update for Windows 11 24H2 and 25H2, which fixes numerous bugs and begins rolling out new features, including the new Point-in-Time restore feature. [...]",
-    "analysis": {
-      "issue": "​​Microsoft has released the KB5095093 preview cumulative update for Windows 11 24H2 and 25H2, which fixes numerous bugs and begins rolling out new features, including the new Point-in-Time restore feature",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
-    "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
-    "published": "Tue, 23 Jun 2026 15:59:12 -0400",
-    "summary": "Healthcare technology company Xsolis says that sensitive data belonging to nearly 1.4 million individuals was compromised in a phishing attack that gave attackers access to its network. [...]",
-    "analysis": {
-      "issue": "Healthcare technology company Xsolis says that sensitive data belonging to nearly 1",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
-    "link": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
-    "published": "Tue, 23 Jun 2026 14:30:16 -0400",
-    "summary": "A new macOS ClickFix campaign is using Terminal commands to silently download, mount, and launch info-stealing malware from malicious disk image (DMG) files. [...]",
-    "analysis": {
-      "issue": "A new macOS ClickFix campaign is using Terminal commands to silently download, mount, and launch info-stealing malware from malicious disk image (DMG) files",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Scattered Spider members plead guilty to hacking Transport for London",
-    "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
-    "published": "Tue, 23 Jun 2026 11:31:59 -0400",
-    "summary": "Two members of the 'Scattered Spider' cybercrime group pleaded guilty to hacking the Transport for London (TfL) systems in 2024. [...]",
-    "analysis": {
-      "issue": "Two members of the 'Scattered Spider' cybercrime group pleaded guilty to hacking the Transport for London (TfL) systems in 2024",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -441,9 +444,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-45586",
+        "CVE-2026-50507",
         "CVE-2026-49160",
-        "CVE-2026-50507"
+        "CVE-2026-45586"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -672,11 +675,11 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-34909",
-        "CVE-2026-34908",
         "CVE-2025-67038",
-        "CVE-2026-33000",
-        "CVE-2026-34910"
+        "CVE-2026-34909",
+        "CVE-2026-34910",
+        "CVE-2026-34908",
+        "CVE-2026-33000"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -828,15 +831,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44803",
-        "CVE-2026-44799",
         "CVE-2026-42985",
         "CVE-2026-44801",
-        "CVE-2026-48563",
         "CVE-2026-47291",
-        "CVE-2026-42992",
+        "CVE-2026-48563",
         "CVE-2026-44812",
-        "CVE-2026-47289"
+        "CVE-2026-42992",
+        "CVE-2026-47289",
+        "CVE-2026-44803",
+        "CVE-2026-44799"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -946,9 +949,9 @@
       "timeline": null,
       "severity": "Low",
       "cves": [
-        "CVE-2026-22554",
-        "CVE-2026-25104",
         "CVE-2026-28764",
+        "CVE-2026-25104",
+        "CVE-2026-22554",
         "CVE-2026-25713"
       ],
       "threat_categories": [
@@ -959,12 +962,12 @@
   },
   {
     "source": "Recorded Future",
-    "title": "The Purchase Scam Tactic Headed  for the World Cup | Recorded Future",
-    "link": "https://www.recordedfuture.com/blog/world-cup-purchase-scam-tactics",
-    "published": "Tue, 23 Jun 2026 00:00:00 GMT",
-    "summary": "A purchase scam tactic hijacks organic search through compromised sites, and it’s built to scale into 2026 FIFA World Cup fraud. How it works and how to respond.",
+    "title": "FortiBleed Campaign Exposing Credentials for 73,932 FortiGate Systems",
+    "link": "https://www.recordedfuture.com/blog/critical-fortibleed-campaign",
+    "published": "Wed, 24 Jun 2026 00:00:00 GMT",
+    "summary": "A dataset containing valid administrative and VPN credentials for tens of thousands of Fortinet FortiGate firewalls.",
     "analysis": {
-      "issue": "A purchase scam tactic hijacks organic search through compromised sites, and it’s built to scale into 2026 FIFA World Cup fraud",
+      "issue": "A dataset containing valid administrative and VPN credentials for tens of thousands of Fortinet FortiGate firewalls",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -977,12 +980,12 @@
   },
   {
     "source": "Recorded Future",
-    "title": "FortiBleed Campaign Exposing Credentials for 73,932 FortiGate Systems",
-    "link": "https://www.recordedfuture.com/blog/critical-fortibleed-campaign",
-    "published": "Fri, 19 Jun 2026 00:00:00 GMT",
-    "summary": "A dataset containing valid administrative and VPN credentials for tens of thousands of Fortinet FortiGate firewalls.",
+    "title": "The Purchase Scam Tactic Headed  for the World Cup | Recorded Future",
+    "link": "https://www.recordedfuture.com/blog/world-cup-purchase-scam-tactics",
+    "published": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "summary": "A purchase scam tactic hijacks organic search through compromised sites, and it’s built to scale into 2026 FIFA World Cup fraud. How it works and how to respond.",
     "analysis": {
-      "issue": "A dataset containing valid administrative and VPN credentials for tens of thousands of Fortinet FortiGate firewalls",
+      "issue": "A purchase scam tactic hijacks organic search through compromised sites, and it’s built to scale into 2026 FIFA World Cup fraud",
       "solution": null,
       "cause": null,
       "timeline": null,
