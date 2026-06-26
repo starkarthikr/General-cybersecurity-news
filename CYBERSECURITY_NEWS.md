@@ -1,10 +1,46 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-26 04:49:57 UTC
+**Last Updated:** 2026-06-26 11:23:10 UTC
 
 ## Breaking News (Last 3 Days)
 
-### 1. [Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability](https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html)
+### 1. [Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack](https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 26 Jun 2026 16:35:45 +0530  
+**Severity:** Low  
+**Categories:** Malware, Supply Chain  
+
+---
+
+### 2. [Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant](https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 26 Jun 2026 14:57:12 +0530  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 3. [Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff](https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 26 Jun 2026 14:19:35 +0530  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 4. [Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks](https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html)
+
+**Source:** The Hacker News  
+**Published:** Fri, 26 Jun 2026 12:45:46 +0530  
+**Severity:** Low  
+**Categories:** Malware, Phishing  
+
+---
+
+### 5. [Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability](https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 25 Jun 2026 19:42:52 +0530  
@@ -13,7 +49,7 @@
 
 ---
 
-### 2. [ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories](https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html)
+### 6. [ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories](https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 25 Jun 2026 17:54:43 +0530  
@@ -22,7 +58,7 @@
 
 ---
 
-### 3. [Surviving the Mythos Era: Richard Bejtlich on the Case for NDR](https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html)
+### 7. [Surviving the Mythos Era: Richard Bejtlich on the Case for NDR](https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 25 Jun 2026 16:47:31 +0530  
@@ -31,7 +67,7 @@
 
 ---
 
-### 4. [New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis](https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html)
+### 8. [New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis](https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 25 Jun 2026 14:53:03 +0530  
@@ -40,7 +76,7 @@
 
 ---
 
-### 5. [New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns](https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html)
+### 9. [New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns](https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 25 Jun 2026 14:24:37 +0530  
@@ -49,49 +85,12 @@
 
 ---
 
-### 6. [Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html)
+### 10. [Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html)
 
 **Source:** The Hacker News  
 **Published:** Thu, 25 Jun 2026 11:16:54 +0530  
 **Severity:** Critical  
 **CVEs:** CVE-2026-20245  
-**Categories:** Vulnerability  
-
----
-
-### 7. [CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited](https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 24 Jun 2026 22:49:18 +0530  
-**Severity:** Low  
-**CVEs:** CVE-2025-67038  
-**Categories:** Vulnerability  
-
----
-
-### 8. [Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered](https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 24 Jun 2026 21:29:50 +0530  
-**Severity:** Low  
-**Categories:** Malware  
-
----
-
-### 9. [Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks](https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 24 Jun 2026 18:18:11 +0530  
-**Severity:** Low  
-**Categories:** Phishing, Supply Chain  
-
----
-
-### 10. [Dawn of the Apex Agentic Adversary](https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html)
-
-**Source:** The Hacker News  
-**Published:** Wed, 24 Jun 2026 17:00:00 +0530  
-**Severity:** Critical  
 **Categories:** Vulnerability  
 
 ---
@@ -218,7 +217,7 @@
 **Source:** Krebs On Security  
 **Published:** Tue, 09 Jun 2026 22:07:28 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-45586, CVE-2026-50507, CVE-2026-49160  
+**CVEs:** CVE-2026-49160, CVE-2026-45586, CVE-2026-50507  
 **Categories:** Vulnerability, DDoS  
 
 ---
@@ -277,7 +276,54 @@
 
 ---
 
-### 31. [Runlayer Raises $30 Million in Series A Funding](https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/)
+### 31. [$3 Million Reportedly Stolen in Polymarket Hack](https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/)
+
+**Source:** Security Week  
+**Published:** Fri, 26 Jun 2026 09:47:35 +0000  
+**Severity:** Low  
+**Categories:** Malware, Phishing, Supply Chain  
+
+---
+
+### 32. [Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets](https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/)
+
+**Source:** Security Week  
+**Published:** Fri, 26 Jun 2026 08:55:08 +0000  
+**Severity:** Low  
+**CVEs:** CVE-2025-8088  
+**Categories:** Vulnerability, Malware, Phishing, APT  
+
+---
+
+### 33. [First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild](https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/)
+
+**Source:** Security Week  
+**Published:** Fri, 26 Jun 2026 08:15:21 +0000  
+**Severity:** Critical  
+**CVEs:** CVE-2026-4681, CVE-2026-12569  
+**Categories:** Vulnerability, Supply Chain  
+
+---
+
+### 34. [New Enterprise-Ready MCP Specification Brings New Security Challenges](https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/)
+
+**Source:** Security Week  
+**Published:** Fri, 26 Jun 2026 08:00:00 +0000  
+**Severity:** Critical  
+**Categories:** Vulnerability, Phishing, Supply Chain  
+
+---
+
+### 35. [Philip Martin Joins Uber as Chief Information Security Officer](https://www.securityweek.com/philip-martin-joins-uber-as-chief-information-security-officer/)
+
+**Source:** Security Week  
+**Published:** Fri, 26 Jun 2026 05:13:00 +0000  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 36. [Runlayer Raises $30 Million in Series A Funding](https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/)
 
 **Source:** Security Week  
 **Published:** Thu, 25 Jun 2026 12:39:50 +0000  
@@ -286,7 +332,7 @@
 
 ---
 
-### 32. [Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack](https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/)
+### 37. [Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack](https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/)
 
 **Source:** Security Week  
 **Published:** Thu, 25 Jun 2026 12:07:00 +0000  
@@ -295,7 +341,7 @@
 
 ---
 
-### 33. [Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning](https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/)
+### 38. [Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning](https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/)
 
 **Source:** Security Week  
 **Published:** Thu, 25 Jun 2026 11:23:40 +0000  
@@ -305,68 +351,22 @@
 
 ---
 
-### 34. [GitLab Patches Code Execution, Information Disclosure Vulnerabilities](https://www.securityweek.com/gitlab-patches-code-execution-information-disclosure-vulnerabilities/)
+### 39. [GitLab Patches Code Execution, Information Disclosure Vulnerabilities](https://www.securityweek.com/gitlab-patches-code-execution-information-disclosure-vulnerabilities/)
 
 **Source:** Security Week  
 **Published:** Thu, 25 Jun 2026 11:10:04 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-12053, CVE-2026-10712, CVE-2026-10086  
+**CVEs:** CVE-2026-10712, CVE-2026-10086, CVE-2026-12053  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
 
-### 35. [25-Year-Old Vulnerability Patched in Curl](https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/)
+### 40. [25-Year-Old Vulnerability Patched in Curl](https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/)
 
 **Source:** Security Week  
 **Published:** Thu, 25 Jun 2026 09:25:02 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-9547, CVE-2026-9080, CVE-2026-10536, CVE-2026-8926, CVE-2026-8932, CVE-2026-8925  
-**Categories:** Vulnerability  
-
----
-
-### 36. [SecurityWeek ICS Cybersecurity Conference Heads to Nashville for Special 25-Year Anniversary Edition](https://www.securityweek.com/securityweek-ics-cybersecurity-conference-heads-to-nashville-for-special-25-year-anniversary-edition/)
-
-**Source:** Security Week  
-**Published:** Thu, 25 Jun 2026 09:00:00 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, APT  
-
----
-
-### 37. [NIST Opens Updated IoT Security Guidance to Public Review](https://www.securityweek.com/nist-opens-updated-iot-security-guidance-to-public-review/)
-
-**Source:** Security Week  
-**Published:** Thu, 25 Jun 2026 08:29:26 +0000  
-**Severity:** Critical  
-**Categories:** General Security  
-
----
-
-### 38. [Chrome 149 Update Resolves 18 Severe Vulnerabilities](https://www.securityweek.com/chrome-149-update-resolves-18-severe-vulnerabilities/)
-
-**Source:** Security Week  
-**Published:** Thu, 25 Jun 2026 07:56:03 +0000  
-**Severity:** Critical  
-**Categories:** Vulnerability, Supply Chain  
-
----
-
-### 39. [Cisco SD-WAN Zero-Day Exploited Months Before Patching](https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/)
-
-**Source:** Security Week  
-**Published:** Thu, 25 Jun 2026 06:08:43 +0000  
-**Severity:** Critical  
-**CVEs:** CVE-2026-20127, CVE-2026-20182, CVE-2026-20245, CVE-2026-20230  
-**Categories:** Vulnerability  
-
----
-
-### 40. [When Information Becomes the Attack Surface – Understanding AI Agent Traps](https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/)
-
-**Source:** Security Week  
-**Published:** Wed, 24 Jun 2026 17:37:57 +0000  
-**Severity:** High  
+**CVEs:** CVE-2026-8932, CVE-2026-10536, CVE-2026-9547, CVE-2026-8925, CVE-2026-8926, CVE-2026-9080  
 **Categories:** Vulnerability  
 
 ---
@@ -421,7 +421,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-42992, CVE-2026-42985, CVE-2026-48563, CVE-2026-47289, CVE-2026-44799, CVE-2026-47291, CVE-2026-44803, CVE-2026-44801, CVE-2026-44812  
+**CVEs:** CVE-2026-48563, CVE-2026-47291, CVE-2026-42985, CVE-2026-44799, CVE-2026-47289, CVE-2026-44812, CVE-2026-42992, CVE-2026-44803, CVE-2026-44801  
 **Categories:** Vulnerability  
 
 ---

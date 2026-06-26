@@ -1,6 +1,80 @@
 [
   {
     "source": "The Hacker News",
+    "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
+    "link": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
+    "published": "Fri, 26 Jun 2026 16:35:45 +0530",
+    "summary": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem.\n\n\"The latest activity includes malicious npm releases affecting LeoPlatform and RStreams packages, GitHub Actions workflow abuse, and a related Go",
+    "analysis": {
+      "issue": "Mini Shai-Hulud-linked malware compromises 23 npm packages and a Verana Go module to steal developer credentials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
+    "link": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
+    "published": "Fri, 26 Jun 2026 14:57:12 +0530",
+    "summary": "An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into front-desk machines, Microsoft says.\n\nThe company has&nbsp;not attributed&nbsp;the activity to a known threat actor, and the operators' end goal is still unclear.\n\nThe lure plays to how hotels work.",
+    "analysis": {
+      "issue": "Microsoft says hotel phishing emails are using Calendly links and photo ZIP files to drop the TonRAT Node",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff",
+    "link": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html",
+    "published": "Fri, 26 Jun 2026 14:19:35 +0530",
+    "summary": "Russian authorities used Cellebrite's UFED forensic tools to break into the iPhone of detained opposition activist Andrey Pivovarov in June 2021, three months after Cellebrite said it would stop selling its tools and services to Russia and Belarus.\n\nThe finding, published&nbsp;June 25 by the Citizen Lab, rests on two things that rarely line up: traces on the phone itself and an official Russian",
+    "analysis": {
+      "issue": "Citizen Lab says Russian authorities used Cellebrite UFED on Andrey Pivovarov’s seized iPhone after Cellebrite’s 2021 Russia exit",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks",
+    "link": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html",
+    "published": "Fri, 26 Jun 2026 12:45:46 +0530",
+    "summary": "The Russian state-sponsored threat actor known as Turla has been attributed to a previously undocumented .NET backdoor called STOCKSTAY that has been deployed against government and military organizations in Ukraine, and entities that have an interest in Italian foreign policy.\n\nDescribing the Windows backdoor as continually developed by the hacking group, Google Threat Intelligence Group (",
+    "analysis": {
+      "issue": "Google links Turla to STOCKSTAY, a new",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
     "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
     "published": "Thu, 25 Jun 2026 19:42:52 +0530",
@@ -104,81 +178,6 @@
       "cves": [
         "CVE-2026-20245"
       ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
-    "link": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html",
-    "published": "Wed, 24 Jun 2026 22:49:18 +0530",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 26, 2026.\n\nThe vulnerability in question is CVE-2025-67038 (CVSS score: 9.8), a code injection flaw that could result in the execution",
-    "analysis": {
-      "issue": "CISA says CVE-2025-67038 in Lantronix EDS5000 devices is under active exploitation and urges federal agencies to patch by June 26, 2026",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [
-        "CVE-2025-67038"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
-    "link": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
-    "published": "Wed, 24 Jun 2026 21:29:50 +0530",
-    "summary": "A coordinated law enforcement operation, in partnership with private sector companies, including Bitdefender, Bitsight, ESET, and Microsoft, has resulted in the takedown of criminal infrastructure powering Amadey and StealC.\n\n\"The main common goal was to disrupt the 'assembly lines' cybercriminals use to launch ransomware, financial fraud, and attacks on critical infrastructure,\" Europol said in",
-    "analysis": {
-      "issue": "Law enforcement dismantled 326 servers and 142 domains tied to Amadey and StealC, recovering 27 million stolen credentials",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
-    "link": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
-    "published": "Wed, 24 Jun 2026 18:18:11 +0530",
-    "summary": "Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains.\n\nThe \"critical exploitable pattern\" has been codenamed Cordyceps by Novee Security. The issue can allow full attacker control of repositories at dozens of the largest organizations worldwide, including Microsoft, Google, Apache, and",
-    "analysis": {
-      "issue": "Researchers found Cordyceps CI/CD flaws affecting 300+ repositories, enabling code execution, credential theft, and supply chain risks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Phishing",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Dawn of the Apex Agentic Adversary",
-    "link": "https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html",
-    "published": "Wed, 24 Jun 2026 17:00:00 +0530",
-    "summary": "We are standing at the end of an era we never thought to mourn: the era of human-speed threats.\n\nFor years, cybersecurity moved to a rhythm organizations could follow. A researcher found a bug, a CVE was cataloged, a vendor navigated a patch cycle, and weeks or even months later, a fix was deployed. In this era, dwell time was measured in days, sometimes weeks. We are now approaching an",
-    "analysis": {
-      "issue": "runZero says agentic AI could exploit hidden IT and OT assets, making asset discovery and segmentation validation more critical",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -434,9 +433,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
+        "CVE-2026-49160",
         "CVE-2026-45586",
-        "CVE-2026-50507",
-        "CVE-2026-49160"
+        "CVE-2026-50507"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -558,6 +557,109 @@
   },
   {
     "source": "Security Week",
+    "title": "$3 Million Reportedly Stolen in Polymarket Hack",
+    "link": "https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/",
+    "published": "Fri, 26 Jun 2026 09:47:35 +0000",
+    "summary": "<p>The decentralized prediction market said hackers targeted some of its users through a compromise of a third-party vendor.</p>\n<p>The post <a href=\"https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/\">$3 Million Reportedly Stolen in Polymarket Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The decentralized prediction market said hackers targeted some of its users through a compromise of a third-party vendor",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets",
+    "link": "https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/",
+    "published": "Fri, 26 Jun 2026 08:55:08 +0000",
+    "summary": "<p>Turla has been using the backdoor against government and military organizations in Ukraine for espionage.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/\">Russian APT Deploys &#8216;StockStay&#8217; Backdoor Against Ukrainian Targets</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Turla has been using the backdoor against government and military organizations in Ukraine for espionage",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2025-8088"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "APT"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild",
+    "link": "https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/",
+    "published": "Fri, 26 Jun 2026 08:15:21 +0000",
+    "summary": "<p>CISA has added the remote code execution flaw CVE-2026-12569 to its Known Exploited Vulnerabilities catalog.</p>\n<p>The post <a href=\"https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/\">First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "CISA has added the remote code execution flaw CVE-2026-12569 to its Known Exploited Vulnerabilities catalog",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [
+        "CVE-2026-4681",
+        "CVE-2026-12569"
+      ],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "New Enterprise-Ready MCP Specification Brings New Security Challenges",
+    "link": "https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/",
+    "published": "Fri, 26 Jun 2026 08:00:00 +0000",
+    "summary": "<p>A major overhaul of the Model Context Protocol shifts critical security responsibilities from the protocol itself to developers and platform operators.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/\">New Enterprise-Ready MCP Specification Brings New Security Challenges</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "A major overhaul of the Model Context Protocol shifts critical security responsibilities from the protocol itself to developers and platform operators",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Philip Martin Joins Uber as Chief Information Security Officer",
+    "link": "https://www.securityweek.com/philip-martin-joins-uber-as-chief-information-security-officer/",
+    "published": "Fri, 26 Jun 2026 05:13:00 +0000",
+    "summary": "<p>Martin brings experience from Coinbase, Palantir, Amazon, and the U.S. Army to lead Uber's cybersecurity and enterprise security organization.</p>\n<p>The post <a href=\"https://www.securityweek.com/philip-martin-joins-uber-as-chief-information-security-officer/\">Philip Martin Joins Uber as Chief Information Security Officer</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Martin brings experience from Coinbase, Palantir, Amazon, and the U",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "Runlayer Raises $30 Million in Series A Funding",
     "link": "https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/",
     "published": "Thu, 25 Jun 2026 12:39:50 +0000",
@@ -629,9 +731,9 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-12053",
         "CVE-2026-10712",
-        "CVE-2026-10086"
+        "CVE-2026-10086",
+        "CVE-2026-12053"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -652,110 +754,13 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-9547",
-        "CVE-2026-9080",
-        "CVE-2026-10536",
-        "CVE-2026-8926",
         "CVE-2026-8932",
-        "CVE-2026-8925"
+        "CVE-2026-10536",
+        "CVE-2026-9547",
+        "CVE-2026-8925",
+        "CVE-2026-8926",
+        "CVE-2026-9080"
       ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "SecurityWeek ICS Cybersecurity Conference Heads to Nashville for Special 25-Year Anniversary Edition",
-    "link": "https://www.securityweek.com/securityweek-ics-cybersecurity-conference-heads-to-nashville-for-special-25-year-anniversary-edition/",
-    "published": "Thu, 25 Jun 2026 09:00:00 +0000",
-    "summary": "<p>The 2026 Industrial Control Systems (ICS) Cybersecurity Conference takes place October 6-8, 2026, at the W Nashville.</p>\n<p>The post <a href=\"https://www.securityweek.com/securityweek-ics-cybersecurity-conference-heads-to-nashville-for-special-25-year-anniversary-edition/\">SecurityWeek ICS Cybersecurity Conference Heads to Nashville for Special 25-Year Anniversary Edition</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The 2026 Industrial Control Systems (ICS) Cybersecurity Conference takes place October 6-8, 2026, at the W Nashville",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "APT"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "NIST Opens Updated IoT Security Guidance to Public Review",
-    "link": "https://www.securityweek.com/nist-opens-updated-iot-security-guidance-to-public-review/",
-    "published": "Thu, 25 Jun 2026 08:29:26 +0000",
-    "summary": "<p>The guidance aims to establish product cybersecurity requirements for IoT devices integrated into federal agencies’ networks.</p>\n<p>The post <a href=\"https://www.securityweek.com/nist-opens-updated-iot-security-guidance-to-public-review/\">NIST Opens Updated IoT Security Guidance to Public Review</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The guidance aims to establish product cybersecurity requirements for IoT devices integrated into federal agencies’ networks",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Chrome 149 Update Resolves 18 Severe Vulnerabilities",
-    "link": "https://www.securityweek.com/chrome-149-update-resolves-18-severe-vulnerabilities/",
-    "published": "Thu, 25 Jun 2026 07:56:03 +0000",
-    "summary": "<p>More than half of the bugs are use-after-free defects, which can potentially lead to remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-149-update-resolves-18-severe-vulnerabilities/\">Chrome 149 Update Resolves 18 Severe Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "More than half of the bugs are use-after-free defects, which can potentially lead to remote code execution",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Cisco SD-WAN Zero-Day Exploited Months Before Patching",
-    "link": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/",
-    "published": "Thu, 25 Jun 2026 06:08:43 +0000",
-    "summary": "<p>CVE-2026-20245, the 7th Cisco SD-WAN vulnerability exploited in 2026, was used for months prior to its disclosure and patching.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/\">Cisco SD-WAN Zero-Day Exploited Months Before Patching</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "CVE-2026-20245, the 7th Cisco SD-WAN vulnerability exploited in 2026, was used for months prior to its disclosure and patching",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20127",
-        "CVE-2026-20182",
-        "CVE-2026-20245",
-        "CVE-2026-20230"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "When Information Becomes the Attack Surface – Understanding AI Agent Traps",
-    "link": "https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/",
-    "published": "Wed, 24 Jun 2026 17:37:57 +0000",
-    "summary": "<p>From hidden content injections to cognitive state poisoning, attackers are turning trusted data sources into traps for autonomous AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/\">When Information Becomes the Attack Surface &#8211; Understanding AI Agent Traps</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "From hidden content injections to cognitive state poisoning, attackers are turning trusted data sources into traps for autonomous AI",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "High",
-      "cves": [],
       "threat_categories": [
         "Vulnerability"
       ]
@@ -864,15 +869,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-42992",
-        "CVE-2026-42985",
         "CVE-2026-48563",
-        "CVE-2026-47289",
-        "CVE-2026-44799",
         "CVE-2026-47291",
+        "CVE-2026-42985",
+        "CVE-2026-44799",
+        "CVE-2026-47289",
+        "CVE-2026-44812",
+        "CVE-2026-42992",
         "CVE-2026-44803",
-        "CVE-2026-44801",
-        "CVE-2026-44812"
+        "CVE-2026-44801"
       ],
       "threat_categories": [
         "Vulnerability"
