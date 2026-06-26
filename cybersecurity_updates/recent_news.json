@@ -1,6 +1,104 @@
 [
   {
     "source": "The Hacker News",
+    "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
+    "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
+    "published": "Fri, 26 Jun 2026 19:27:55 +0530",
+    "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems.\n\nCVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A&nbsp;public, working exploit&nbsp;appeared within a day of the CVE assignment on June 16. Red Hat&nbsp;rates the flaw as",
+    "analysis": {
+      "issue": "CVE-2026-46331 lets local users gain root on affected Linux systems by corrupting page-cache memory through act_pedit",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-46331"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
+    "link": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
+    "published": "Fri, 26 Jun 2026 19:23:00 +0530",
+    "summary": "A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patched it.\n\nTracked as&nbsp;CVE-2026-12957&nbsp;(CVSS 8.5), the bug sat in how Amazon's AI coding assistant handled Model Context Protocol (MCP) servers.\n\nWiz",
+    "analysis": {
+      "issue": "Amazon patched CVE-2026-12957, a high-severity Amazon Q Developer flaw that let malicious MCP config run commands and steal AWS credentials",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [
+        "CVE-2026-12957"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
+    "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
+    "published": "Fri, 26 Jun 2026 18:01:56 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle Management (PLM) software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerability in question is",
+    "analysis": {
+      "issue": "CISA added CVE-2026-12569 to its KEV catalog as attackers exploit the PTC Windchill flaw to deploy JSP web shells",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-12569"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
+    "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
+    "published": "Fri, 26 Jun 2026 17:21:35 +0530",
+    "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family.&nbsp;JFrog Security Research published a working exploit walkthrough&nbsp;for the flaw on June 25, the first public demonstration for this variant.\n\nTracked as&nbsp;CVE-2026-43503&nbsp;(CVSS 8.8), it lets a local user corrupt file-backed memory through a cloned network packet and gain root. The patch landed in",
+    "analysis": {
+      "issue": "DirtyClone, tracked as CVE-2026-43503, lets local users gain root by corrupting file-backed memory through cloned network packets",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [
+        "CVE-2026-43503"
+      ],
+      "threat_categories": [
+        "Vulnerability"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
+    "title": "Guardian Agents: The Next Layer of Identity Governance",
+    "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
+    "published": "Fri, 26 Jun 2026 17:00:00 +0530",
+    "summary": "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to govern human access wasn't designed for autonomous actors, and the gap between what enterprises are deploying and what their governance programs actually cover is widening fast. This guide breaks",
+    "analysis": {
+      "issue": "Guardian agents monitor AI agent identities at runtime to reduce risks from inherited permissions, stale credentials, and prompt injection",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "The Hacker News",
     "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
     "link": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
     "published": "Fri, 26 Jun 2026 16:35:45 +0530",
@@ -92,31 +190,13 @@
     }
   },
   {
-    "source": "The Hacker News",
-    "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
-    "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
-    "published": "Thu, 25 Jun 2026 17:54:43 +0530",
-    "summary": "It’s dumb out there again.\n\nThis week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working, trusted apps doing sketchy crap, browser tricks jumping the fence, and “normal” workflows turning into phishing pipes because apparently email was not enough hell already.\n\nThe worst part is how cheap some of it feels. Not elite. Not cinematic.",
+    "source": "Bleeping Computer",
+    "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
+    "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
+    "published": "Fri, 26 Jun 2026 10:01:11 -0400",
+    "summary": "AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and opens remediation tasks. [...]",
     "analysis": {
-      "issue": "This week's ThreatsDay Bulletin covers curl flaws, a critical Hoppscotch bug, smart TV proxyware, macOS ClickFix attacks, phishing, and AI cybercrime",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [],
-      "threat_categories": [
-        "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
-    "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
-    "published": "Thu, 25 Jun 2026 16:47:31 +0530",
-    "summary": "Despite the abundance of telemetry at analysts’ disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have? How do we know we’re seeing it all, in context?\n\nAnswering these questions requires teams to go beyond alerts, the most common basis for initial triage. But investigations (and their outcomes)",
-    "analysis": {
-      "issue": "Corelight’s NDR Essentials explains how network evidence helps analysts validate alerts, hunt threats, and disrupt attacks",
+      "issue": "By Maril Vernon, GRC Engineering Evangelist, Anecdotes",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -124,62 +204,6 @@
       "cves": [],
       "threat_categories": [
         "General Security"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
-    "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
-    "published": "Thu, 25 Jun 2026 14:53:03 +0530",
-    "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools and trick it into aborting or refusing an analysis of the artifact.\n\nThe malware has been codenamed Gaslight owing to this deceptive behavior. It's been assessed with high confidence that the tool is",
-    "analysis": {
-      "issue": "SentinelOne details Gaslight, a Rust-based macOS implant linked to North Korea-aligned actors that uses prompt injection to hinder AI triage",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
-    "link": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
-    "published": "Thu, 25 Jun 2026 14:24:37 +0530",
-    "summary": "A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning insurance, education, IT, and professional services sectors since April 2026.\n\nAccording to Symantec and Carbon Black's Threat Hunter Team, the backdoor, also tracked as MLTBackdoor, is said to be linked to an initial access broker (IAB) named",
-    "analysis": {
-      "issue": "Symantec and Carbon Black link Mistic backdoor attacks to KongTuke, using ClickFix lures and in-memory execution for stealthy access",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "The Hacker News",
-    "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
-    "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
-    "published": "Thu, 25 Jun 2026 11:16:54 +0530",
-    "summary": "An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new findings from Google-owned Mandiant.\n\nThe vulnerability, tracked as CVE-2026-20245 (CVSS score: 7.8), allows an authenticated, local attacker to execute arbitrary commands with elevated privileges",
-    "analysis": {
-      "issue": "Mandiant says CVE-2026-20245 was exploited as a Cisco SD-WAN zero-day to escalate admin access to root on a provider network",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20245"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -342,24 +366,6 @@
       "cves": [],
       "threat_categories": [
         "Phishing"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Google releases new privacy controls for activity history, personalization",
-    "link": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
-    "published": "Wed, 24 Jun 2026 19:46:17 -0400",
-    "summary": "Google is rolling out new privacy controls for Search services and Google Play, giving you more control over saved history and personalized recommendations. [...]",
-    "analysis": {
-      "issue": "Google is rolling out new privacy controls for Search services and Google Play, giving you more control over saved history and personalized recommendations",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "General Security"
       ]
     }
   },
@@ -557,6 +563,64 @@
   },
   {
     "source": "Security Week",
+    "title": "In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs",
+    "link": "https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/",
+    "published": "Fri, 26 Jun 2026 14:30:00 +0000",
+    "summary": "<p>Other noteworthy stories that might have slipped under the radar: Russia used Cellebrite to hack activist’s phone, Five Eyes issue urgent AI threat warning, macOS Gaslight backdoor, Scattered Spider guilty pleas.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/\">In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "Other noteworthy stories that might have slipped under the radar: Russia used Cellebrite to hack activist’s phone, Five Eyes issue urgent AI threat warning, macOS Gaslight backdoor, Scattered Spider guilty pleas",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "High",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Malware",
+        "Phishing",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Nebulock Raises $25 Million for AI-Native Contextual Security",
+    "link": "https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/",
+    "published": "Fri, 26 Jun 2026 12:37:13 +0000",
+    "summary": "<p>The cybersecurity startup provides threat hunting, proactive detection, and behavioral security analytics.</p>\n<p>The post <a href=\"https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/\">Nebulock Raises $25 Million for AI-Native Contextual Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "The cybersecurity startup provides threat hunting, proactive detection, and behavioral security analytics",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
+    "title": "Linux Foundation Unveils New Open Source Security Project Akrites",
+    "link": "https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/",
+    "published": "Fri, 26 Jun 2026 11:28:20 +0000",
+    "summary": "<p>It will provide the tools and channels to report, patch, and disclose open source software vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/\">Linux Foundation Unveils New Open Source Security Project Akrites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "analysis": {
+      "issue": "It will provide the tools and channels to report, patch, and disclose open source software vulnerabilities",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Critical",
+      "cves": [],
+      "threat_categories": [
+        "Vulnerability",
+        "Supply Chain"
+      ]
+    }
+  },
+  {
+    "source": "Security Week",
     "title": "$3 Million Reportedly Stolen in Polymarket Hack",
     "link": "https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/",
     "published": "Fri, 26 Jun 2026 09:47:35 +0000",
@@ -611,8 +675,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-4681",
-        "CVE-2026-12569"
+        "CVE-2026-12569",
+        "CVE-2026-4681"
       ],
       "threat_categories": [
         "Vulnerability",
@@ -694,75 +758,6 @@
         "Vulnerability",
         "Malware",
         "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning",
-    "link": "https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/",
-    "published": "Thu, 25 Jun 2026 11:23:40 +0000",
-    "summary": "<p>The exploited flaw, CVE-2025-67038, is one of the vulnerabilities disclosed in April as part of the BRIDGE:BREAK research project.</p>\n<p>The post <a href=\"https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/\">Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The exploited flaw, CVE-2025-67038, is one of the vulnerabilities disclosed in April as part of the BRIDGE:BREAK research project",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2025-67038"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Malware"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "GitLab Patches Code Execution, Information Disclosure Vulnerabilities",
-    "link": "https://www.securityweek.com/gitlab-patches-code-execution-information-disclosure-vulnerabilities/",
-    "published": "Thu, 25 Jun 2026 11:10:04 +0000",
-    "summary": "<p>The latest GitLab CE/EE updates address 13 vulnerabilities, including three high-severity defects.</p>\n<p>The post <a href=\"https://www.securityweek.com/gitlab-patches-code-execution-information-disclosure-vulnerabilities/\">GitLab Patches Code Execution, Information Disclosure Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The latest GitLab CE/EE updates address 13 vulnerabilities, including three high-severity defects",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-10712",
-        "CVE-2026-10086",
-        "CVE-2026-12053"
-      ],
-      "threat_categories": [
-        "Vulnerability",
-        "Supply Chain"
-      ]
-    }
-  },
-  {
-    "source": "Security Week",
-    "title": "25-Year-Old Vulnerability Patched in Curl",
-    "link": "https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/",
-    "published": "Thu, 25 Jun 2026 09:25:02 +0000",
-    "summary": "<p>The latest version of the open source data transfer tool resolves 18 medium and low-severity vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/\">25-Year-Old Vulnerability Patched in Curl</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "analysis": {
-      "issue": "The latest version of the open source data transfer tool resolves 18 medium and low-severity vulnerabilities",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-8932",
-        "CVE-2026-10536",
-        "CVE-2026-9547",
-        "CVE-2026-8925",
-        "CVE-2026-8926",
-        "CVE-2026-9080"
-      ],
-      "threat_categories": [
-        "Vulnerability"
       ]
     }
   },
@@ -869,15 +864,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-48563",
-        "CVE-2026-47291",
+        "CVE-2026-44803",
+        "CVE-2026-47289",
+        "CVE-2026-42992",
         "CVE-2026-42985",
         "CVE-2026-44799",
-        "CVE-2026-47289",
+        "CVE-2026-44801",
+        "CVE-2026-48563",
         "CVE-2026-44812",
-        "CVE-2026-42992",
-        "CVE-2026-44803",
-        "CVE-2026-44801"
+        "CVE-2026-47291"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1334,6 +1329,25 @@
   },
   {
     "source": "Malwarebytes",
+    "title": "Malware steals Chrome session cookies to take over your accounts",
+    "link": "https://www.malwarebytes.com/blog/news/2026/06/malware-steals-chrome-session-cookies-to-take-over-your-accounts",
+    "published": "Fri, 26 Jun 2026 12:44:01 GMT",
+    "summary": "A phishing campaign installs a malicious Chrome extension to hijack browser sessions and compromise Windows devices.",
+    "analysis": {
+      "issue": "An email attachment leads to the installation of a malicious Chrome extension",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Malware",
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Malwarebytes",
     "title": "Beware of &#8220;Parcel Expert&#8221; job offers: They&#8217;re parcel mule scams",
     "link": "https://www.malwarebytes.com/blog/scams/2026/06/beware-of-parcel-expert-job-offers-theyre-parcel-mule-scams",
     "published": "Thu, 25 Jun 2026 18:12:51 GMT",
@@ -1485,25 +1499,6 @@
       "cves": [],
       "threat_categories": [
         "APT"
-      ]
-    }
-  },
-  {
-    "source": "Malwarebytes",
-    "title": "Hackers steal passport and driver&#8217;s license data of 3 million Texans",
-    "link": "https://www.malwarebytes.com/blog/data-breaches/2026/06/hackers-steal-passport-and-drivers-license-data-of-3-million-texans",
-    "published": "Tue, 23 Jun 2026 10:30:57 GMT",
-    "summary": "A breach at a Texas Parks and Wildlife Department vendor exposed personal information belonging to more than three million Texans.",
-    "analysis": {
-      "issue": "You can change a password and cancel a card",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Data Breach",
-        "Supply Chain"
       ]
     }
   },
