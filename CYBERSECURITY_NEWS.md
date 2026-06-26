@@ -1,6 +1,6 @@
 # Cybersecurity Latest News
 
-**Last Updated:** 2026-06-25 18:33:40 UTC
+**Last Updated:** 2026-06-26 04:12:19 UTC
 
 ## Breaking News (Last 3 Days)
 
@@ -96,7 +96,34 @@
 
 ---
 
-### 11. [Microsoft quietly extends free Windows 10 ESU support to October 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/)
+### 11. [Anthropic is testing desktop-like Claude Cowork for mobile](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 25 Jun 2026 18:53:32 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 12. [Poland busts SIM-swapping gang tied to millions in crypto theft](https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 25 Jun 2026 18:37:42 -0400  
+**Severity:** Low  
+**Categories:** General Security  
+
+---
+
+### 13. [Order-tracking app Shop abused to push callback phishing attacks](https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/)
+
+**Source:** Bleeping Computer  
+**Published:** Thu, 25 Jun 2026 15:45:48 -0400  
+**Severity:** Low  
+**Categories:** Phishing  
+
+---
+
+### 14. [Microsoft quietly extends free Windows 10 ESU support to October 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 25 Jun 2026 14:29:20 -0400  
@@ -105,7 +132,7 @@
 
 ---
 
-### 12. [New macOS malware embeds fake errors to confuse AI analysis tools](https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/)
+### 15. [New macOS malware embeds fake errors to confuse AI analysis tools](https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 25 Jun 2026 12:23:19 -0400  
@@ -114,7 +141,7 @@
 
 ---
 
-### 13. [PirloTV sports piracy network disrupted as 44 domains seized](https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/)
+### 16. [PirloTV sports piracy network disrupted as 44 domains seized](https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 25 Jun 2026 11:36:56 -0400  
@@ -123,7 +150,7 @@
 
 ---
 
-### 14. [Bluekit phishing kit adopts browser-in-the-middle for login theft](https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/)
+### 17. [Bluekit phishing kit adopts browser-in-the-middle for login theft](https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 25 Jun 2026 11:00:00 -0400  
@@ -132,7 +159,7 @@
 
 ---
 
-### 15. [The Four Elevations of Effective Fraud Prevention](https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/)
+### 18. [The Four Elevations of Effective Fraud Prevention](https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 25 Jun 2026 10:01:11 -0400  
@@ -141,7 +168,7 @@
 
 ---
 
-### 16. [Webinar: Why account takeovers remain one of the hardest threats to stop](https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/)
+### 19. [Webinar: Why account takeovers remain one of the hardest threats to stop](https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/)
 
 **Source:** Bleeping Computer  
 **Published:** Thu, 25 Jun 2026 08:12:20 -0400  
@@ -150,40 +177,12 @@
 
 ---
 
-### 17. [Google releases new privacy controls for activity history, personalization](https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/)
+### 20. [Google releases new privacy controls for activity history, personalization](https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/)
 
 **Source:** Bleeping Computer  
 **Published:** Wed, 24 Jun 2026 19:46:17 -0400  
 **Severity:** Low  
 **Categories:** General Security  
-
----
-
-### 18. [DraftKings hacker 'Snoopy' sentenced to 18 months in prison](https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 24 Jun 2026 17:55:43 -0400  
-**Severity:** Low  
-**Categories:** Vulnerability  
-
----
-
-### 19. [Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access](https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 24 Jun 2026 17:29:10 -0400  
-**Severity:** Critical  
-**CVEs:** CVE-2026-20245  
-**Categories:** Vulnerability  
-
----
-
-### 20. [Malicious Edge extension abuses Native Messaging as bridge to malware](https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/)
-
-**Source:** Bleeping Computer  
-**Published:** Wed, 24 Jun 2026 16:58:22 -0400  
-**Severity:** Low  
-**Categories:** Ransomware, Malware  
 
 ---
 
@@ -237,6 +236,8 @@
 
 **Source:** Krebs On Security  
 **Published:** Mon, 25 May 2026 13:21:49 +0000  
+**Severity:** Low  
+**Categories:** Data Breach, APT, DDoS  
 
 ---
 
@@ -309,7 +310,7 @@
 **Source:** Security Week  
 **Published:** Thu, 25 Jun 2026 11:10:04 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-12053, CVE-2026-10712, CVE-2026-10086  
+**CVEs:** CVE-2026-10712, CVE-2026-12053, CVE-2026-10086  
 **Categories:** Vulnerability, Supply Chain  
 
 ---
@@ -319,7 +320,7 @@
 **Source:** Security Week  
 **Published:** Thu, 25 Jun 2026 09:25:02 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-10536, CVE-2026-8925, CVE-2026-9080, CVE-2026-9547, CVE-2026-8932, CVE-2026-8926  
+**CVEs:** CVE-2026-8926, CVE-2026-8932, CVE-2026-9080, CVE-2026-9547, CVE-2026-8925, CVE-2026-10536  
 **Categories:** Vulnerability  
 
 ---
@@ -356,7 +357,7 @@
 **Source:** Security Week  
 **Published:** Thu, 25 Jun 2026 06:08:43 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2026-20127, CVE-2026-20230, CVE-2026-20182, CVE-2026-20245  
+**CVEs:** CVE-2026-20127, CVE-2026-20245, CVE-2026-20230, CVE-2026-20182  
 **Categories:** Vulnerability  
 
 ---
@@ -420,7 +421,7 @@
 **Source:** Talos Blog  
 **Published:** Tue, 09 Jun 2026 21:21:00 GMT  
 **Severity:** Critical  
-**CVEs:** CVE-2026-44812, CVE-2026-48563, CVE-2026-44803, CVE-2026-42992, CVE-2026-44801, CVE-2026-42985, CVE-2026-47291, CVE-2026-44799, CVE-2026-47289  
+**CVEs:** CVE-2026-44803, CVE-2026-48563, CVE-2026-44799, CVE-2026-44801, CVE-2026-47291, CVE-2026-47289, CVE-2026-44812, CVE-2026-42985, CVE-2026-42992  
 **Categories:** Vulnerability  
 
 ---
@@ -631,7 +632,7 @@
 **Source:** Threat Post  
 **Published:** Fri, 19 Aug 2022 15:25:56 +0000  
 **Severity:** Critical  
-**CVEs:** CVE-2022-32893, CVE-2022-32894  
+**CVEs:** CVE-2022-32894, CVE-2022-32893  
 **Categories:** Vulnerability, Supply Chain  
 
 ---

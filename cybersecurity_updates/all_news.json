@@ -186,12 +186,66 @@
   },
   {
     "source": "Bleeping Computer",
+    "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
+    "published": "Thu, 25 Jun 2026 18:53:32 -0400",
+    "summary": "Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage long-running Claude tasks from your phone. [...]",
+    "analysis": {
+      "issue": "Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage long-running Claude tasks from your phone",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
+    "link": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
+    "published": "Thu, 25 Jun 2026 18:37:42 -0400",
+    "summary": "Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email accounts to carry out SIM-swapping attacks. [...]",
+    "analysis": {
+      "issue": "Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email accounts to carry out SIM-swapping attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "General Security"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
+    "title": "Order-tracking app Shop abused to push callback phishing attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
+    "published": "Thu, 25 Jun 2026 15:45:48 -0400",
+    "summary": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access software. [...]",
+    "analysis": {
+      "issue": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access software",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Phishing"
+      ]
+    }
+  },
+  {
+    "source": "Bleeping Computer",
     "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
     "published": "Thu, 25 Jun 2026 14:29:20 -0400",
     "summary": "Microsoft has quietly extended its free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devices to continue receiving security updates until October 12, 2027. [...]",
     "analysis": {
-      "issue": "Microsoft has quietly extended its free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devices to continue receiving security updates until October 12, 2027",
+      "issue": "Update: Added Microsoft's statement to the article",
       "solution": null,
       "cause": null,
       "timeline": null,
@@ -311,63 +365,6 @@
     }
   },
   {
-    "source": "Bleeping Computer",
-    "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
-    "link": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
-    "published": "Wed, 24 Jun 2026 17:55:43 -0400",
-    "summary": "A 21-year-old using the alias \"Snoopy\" was sentenced to 18 months in prison for his role in hacking DraftKings accounts in the November 2022 cyberattack. [...]",
-    "analysis": {
-      "issue": "A 21-year-old using the alias \"Snoopy\" was sentenced to 18 months in prison for his role in hacking DraftKings accounts in the November 2022 cyberattack",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
-    "link": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
-    "published": "Wed, 24 Jun 2026 17:29:10 -0400",
-    "summary": "New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices. [...]",
-    "analysis": {
-      "issue": "New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Critical",
-      "cves": [
-        "CVE-2026-20245"
-      ],
-      "threat_categories": [
-        "Vulnerability"
-      ]
-    }
-  },
-  {
-    "source": "Bleeping Computer",
-    "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
-    "published": "Wed, 24 Jun 2026 16:58:22 -0400",
-    "summary": "A malicious Microsoft Edge extension dubbed 'Edgecution' has been used in a ransomware attack to escape the browser sandbox and deploy a Python-based backdoor. [...]",
-    "analysis": {
-      "issue": "A malicious Microsoft Edge extension dubbed ‘Edgecution' has been used in a ransomware attack to escape the browser sandbox and deploy a Python-based backdoor",
-      "solution": null,
-      "cause": null,
-      "timeline": null,
-      "severity": "Low",
-      "cves": [],
-      "threat_categories": [
-        "Ransomware",
-        "Malware"
-      ]
-    }
-  },
-  {
     "source": "Krebs On Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
     "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -470,7 +467,20 @@
     "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
     "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
     "published": "Mon, 25 May 2026 13:21:49 +0000",
-    "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequent staging ground for cyber mischief from Russia's intelligence agencies."
+    "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequent staging ground for cyber mischief from Russia's intelligence agencies.",
+    "analysis": {
+      "issue": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union",
+      "solution": null,
+      "cause": null,
+      "timeline": null,
+      "severity": "Low",
+      "cves": [],
+      "threat_categories": [
+        "Data Breach",
+        "APT",
+        "DDoS"
+      ]
+    }
   },
   {
     "source": "Krebs On Security",
@@ -619,8 +629,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-12053",
         "CVE-2026-10712",
+        "CVE-2026-12053",
         "CVE-2026-10086"
       ],
       "threat_categories": [
@@ -642,12 +652,12 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-10536",
-        "CVE-2026-8925",
+        "CVE-2026-8926",
+        "CVE-2026-8932",
         "CVE-2026-9080",
         "CVE-2026-9547",
-        "CVE-2026-8932",
-        "CVE-2026-8926"
+        "CVE-2026-8925",
+        "CVE-2026-10536"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -724,9 +734,9 @@
       "severity": "Critical",
       "cves": [
         "CVE-2026-20127",
+        "CVE-2026-20245",
         "CVE-2026-20230",
-        "CVE-2026-20182",
-        "CVE-2026-20245"
+        "CVE-2026-20182"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -854,15 +864,15 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2026-44812",
-        "CVE-2026-48563",
         "CVE-2026-44803",
-        "CVE-2026-42992",
-        "CVE-2026-44801",
-        "CVE-2026-42985",
-        "CVE-2026-47291",
+        "CVE-2026-48563",
         "CVE-2026-44799",
-        "CVE-2026-47289"
+        "CVE-2026-44801",
+        "CVE-2026-47291",
+        "CVE-2026-47289",
+        "CVE-2026-44812",
+        "CVE-2026-42985",
+        "CVE-2026-42992"
       ],
       "threat_categories": [
         "Vulnerability"
@@ -1288,8 +1298,8 @@
       "timeline": null,
       "severity": "Critical",
       "cves": [
-        "CVE-2022-32893",
-        "CVE-2022-32894"
+        "CVE-2022-32894",
+        "CVE-2022-32893"
       ],
       "threat_categories": [
         "Vulnerability",
